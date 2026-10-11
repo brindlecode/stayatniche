@@ -1705,7 +1705,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Piedmont",
@@ -1733,7 +1733,8 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:33:46.165Z"
+  "reviewedAt": "2026-10-10T07:33:46.165Z",
+  "slug": "castello-di-montaldo-italy"
  },
  "osm:node/10146928535": {
   "id": "osm:node/10146928535",
@@ -4315,7 +4316,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Marche",
@@ -4343,7 +4344,8 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:34:26.698Z"
+  "reviewedAt": "2026-10-10T07:34:26.698Z",
+  "slug": "castello-della-pieve-italy"
  },
  "osm:node/10677660945": {
   "id": "osm:node/10677660945",
@@ -6335,7 +6337,7 @@
    "stars": "3"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Lazio",
@@ -6363,7 +6365,8 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:34:00.335Z"
+  "reviewedAt": "2026-10-10T07:34:00.335Z",
+  "slug": "castello-di-proceno-italy"
  },
  "osm:node/10845866398": {
   "id": "osm:node/10845866398",
@@ -20514,7 +20517,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Piedmont",
@@ -20542,7 +20545,8 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:34:11.217Z"
+  "reviewedAt": "2026-10-10T07:34:11.217Z",
+  "slug": "real-castello-italy"
  },
  "osm:node/12346195343": {
   "id": "osm:node/12346195343",
@@ -24207,7 +24211,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Piedmont",
@@ -24235,7 +24239,8 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:34:02.917Z"
+  "reviewedAt": "2026-10-10T07:34:02.917Z",
+  "slug": "hotel-castello-di-santa-vittoria-italy"
  },
  "osm:node/12729562336": {
   "id": "osm:node/12729562336",
@@ -37372,7 +37377,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Tuscany",
@@ -37400,7 +37405,8 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:34:28.729Z"
+  "reviewedAt": "2026-10-10T07:34:28.729Z",
+  "slug": "castello-la-leccia-italy"
  },
  "osm:node/13911485634": {
   "id": "osm:node/13911485634",
@@ -45700,7 +45706,7 @@
    "stars": "3"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Liguria",
@@ -45728,7 +45734,8 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:34:05.135Z"
+  "reviewedAt": "2026-10-10T07:34:05.135Z",
+  "slug": "hotel-castello-miramare-italy"
  },
  "osm:node/171910059": {
   "id": "osm:node/171910059",
@@ -54916,7 +54923,7 @@
    "stars": "3"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Veneto",
@@ -54944,7 +54951,8 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:34:30.929Z"
+  "reviewedAt": "2026-10-10T07:34:30.929Z",
+  "slug": "hotel-al-castello-italy"
  },
  "osm:node/2453298270": {
   "id": "osm:node/2453298270",
@@ -60773,7 +60781,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Trentino – Alto Adige/Südtirol",
@@ -60801,7 +60809,8 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:34:15.984Z"
+  "reviewedAt": "2026-10-10T07:34:15.984Z",
+  "slug": "schloss-hotel-korb-italy"
  },
  "osm:node/2874004563": {
   "id": "osm:node/2874004563",
@@ -62994,7 +63003,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Trentino – Alto Adige/Südtirol",
@@ -63022,7 +63031,8 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:33:57.551Z"
+  "reviewedAt": "2026-10-10T07:33:57.551Z",
+  "slug": "schloss-hotel-wehrburg-italy"
  },
  "osm:node/3047683005": {
   "id": "osm:node/3047683005",
@@ -100402,7 +100412,7 @@
    "stars": "4"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Abruzzo",
@@ -100430,7 +100440,8 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:33:51.197Z"
+  "reviewedAt": "2026-10-10T07:33:51.197Z",
+  "slug": "castello-di-septe-italy"
  },
  "osm:node/5232529960": {
   "id": "osm:node/5232529960",
@@ -108596,7 +108607,7 @@
    "stars": "5"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "hotel in Guarene, Italy",
@@ -108626,7 +108637,8 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:33:44.033Z"
+  "reviewedAt": "2026-10-10T07:33:44.033Z",
+  "slug": "castello-di-guarene-italy"
  },
  "osm:node/5735330626": {
   "id": "osm:node/5735330626",
@@ -116353,7 +116365,7 @@
    "stars": "4"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Friuli – Venezia Giulia",
@@ -116381,7 +116393,8 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:34:23.899Z"
+  "reviewedAt": "2026-10-10T07:34:23.899Z",
+  "slug": "locanda-al-castello-italy"
  },
  "osm:node/6325889708": {
   "id": "osm:node/6325889708",
@@ -118682,7 +118695,7 @@
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Trentino – Alto Adige/Südtirol",
@@ -118710,7 +118723,8 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:34:18.831Z"
+  "reviewedAt": "2026-10-10T07:34:18.831Z",
+  "slug": "castello-fai-italy"
  },
  "osm:node/6505457489": {
   "id": "osm:node/6505457489",
@@ -125872,7 +125886,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Piedmont",
@@ -125900,7 +125914,8 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:34:07.383Z"
+  "reviewedAt": "2026-10-10T07:34:07.383Z",
+  "slug": "il-borgo-del-castello-italy"
  },
  "osm:node/7139345982": {
   "id": "osm:node/7139345982",
@@ -208589,7 +208604,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "castle in Angus, Scotland, UK",
@@ -208619,7 +208634,8 @@
    "decidedAt": "2026-10-08"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-08T21:12:36.516Z"
+  "reviewedAt": "2026-10-08T21:12:36.516Z",
+  "slug": "ethie-castle-united-kingdom"
  },
  "osm:way/364735363": {
   "id": "osm:way/364735363",
@@ -225012,7 +225028,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "castle in Banwell, Somerset, England, UK",
@@ -225042,7 +225058,8 @@
    "decidedAt": "2026-10-08"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-08T21:12:22.015Z"
+  "reviewedAt": "2026-10-08T21:12:22.015Z",
+  "slug": "banwell-castle-united-kingdom"
  },
  "osm:way/531788325": {
   "id": "osm:way/531788325",
@@ -230978,7 +230995,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "architectural structure in Perth and Kinross, Scotland, UK",
@@ -231008,7 +231025,8 @@
    "decidedAt": "2026-10-08"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-08T21:12:27.982Z"
+  "reviewedAt": "2026-10-08T21:12:27.982Z",
+  "slug": "fonab-castle-hotel-united-kingdom"
  },
  "osm:way/623032799": {
   "id": "osm:way/623032799",
@@ -236460,7 +236478,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "Grade II listed castellated, three star country house hotel in Otterburn, Northumberland, England, UK",
@@ -236489,7 +236507,8 @@
    "decidedAt": "2026-10-08"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-08T21:12:11.166Z"
+  "reviewedAt": "2026-10-08T21:12:11.166Z",
+  "slug": "otterburn-castle-country-house-hotel-united-kingdom"
  },
  "osm:way/723996182": {
   "id": "osm:way/723996182",
@@ -236566,7 +236585,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "fortress on St Mary's, Isles of Scilly",
@@ -236593,7 +236612,8 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:30:05.179Z"
+  "reviewedAt": "2026-10-10T07:30:05.179Z",
+  "slug": "star-castle-hotel-united-kingdom"
  },
  "osm:way/725980935": {
   "id": "osm:way/725980935",
