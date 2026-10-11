@@ -2002,5 +2002,190 @@
     "distanceKm": 0.1,
     "kind": "hotel",
     "matched": "Walworth Castle Hotel"
+  },
+  "banwell-castle-united-kingdom": {
+    "author": "This file was derived from: Banwell Castle - geograph.org.uk - 1126175.jpg",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Banwell_Castle_(Geograph_1126175).jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q4857340",
+    "matched": "Banwell Castle",
+    "distanceKm": 0.4
+  },
+  "castello-della-pieve-italy": {
+    "author": "Diego Baglieri",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Torre_di_Castello_della_Pieve_-_Mercatello_sul_Metauro_9.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q2941391",
+    "matched": "Castello della Pieve",
+    "distanceKm": 0.1
+  },
+  "castello-di-proceno-italy": {
+    "author": "LigaDue",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:ProcenoCastello6.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q107608752",
+    "matched": "Proceno Castle",
+    "distanceKm": 0.1
+  },
+  "castello-fai-italy": {
+    "author": "Syrio",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Castello_di_Fai_02.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q67772409",
+    "matched": "castle of Fai",
+    "distanceKm": 0
+  },
+  "ethie-castle-united-kingdom": {
+    "author": "Anne Burgess",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ethie_Castle.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q868429",
+    "matched": "Ethie Castle",
+    "distanceKm": 0
+  },
+  "castello-di-guarene-italy": {
+    "author": "Jastrow",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Castello_di_Guarene_2017-09_n07.jpg",
+    "title": "Castello di Guarene 2017-09 n07.jpg",
+    "distanceKm": 0,
+    "kind": "hotel",
+    "matched": "Castello di Guarene"
+  },
+  "area:castello-di-montaldo-italy": {
+    "author": "Simona Gallina",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Montaldo_Torinese_-_Chiesa_dei_Santi_Vittore_e_Corona_-_2024-09-26_11-48-43_008.jpg",
+    "title": "Montaldo Torinese - Chiesa dei Santi Vittore e Corona - 2024-09-26 11-48-43 008.jpg",
+    "distanceKm": 0.1,
+    "kind": "area",
+    "place": "Montaldo Torinese"
+  },
+  "area:castello-di-septe-italy": {
+    "author": "Eugenio Panichi",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sbirciare_nel_passato_di_Villa_Marcantonio.jpg",
+    "title": "Sbirciare nel passato di Villa Marcantonio.jpg",
+    "distanceKm": 3.5,
+    "kind": "area",
+    "place": "Mozzagrogna"
+  },
+  "castello-la-leccia-italy": {
+    "author": "Der Robert",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Castello_la_Leccia,_Tuscany.jpg",
+    "title": "Castello la Leccia, Tuscany.jpg",
+    "distanceKm": 0.8,
+    "kind": "hotel",
+    "matched": "Castello la Leccia"
+  },
+  "area:fonab-castle-hotel-united-kingdom": {
+    "author": "Ad Meskens",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pitlochry_02.jpg",
+    "title": "Pitlochry 02.jpg",
+    "distanceKm": 0.2,
+    "kind": "area",
+    "place": "Pitlochry"
+  },
+  "area:hotel-al-castello-italy": {
+    "author": "Graeme Churchard from Bristol (51.4414, -2.5242), UK",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bassano_del_Grappa-4.jpg",
+    "title": "Bassano del Grappa-4.jpg",
+    "distanceKm": 0.2,
+    "kind": "area",
+    "place": "Bassano del Grappa"
+  },
+  "area:hotel-castello-di-santa-vittoria-italy": {
+    "author": "Hans A. Rosbach",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:PollenzoChurch.jpg",
+    "title": "PollenzoChurch.jpg",
+    "distanceKm": 3.2,
+    "kind": "area",
+    "place": "Santa Vittoria d'Alba"
+  },
+  "area:il-borgo-del-castello-italy": {
+    "author": "Alessio Sbarbaro Yoggysot",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stazione_FS_Ovada.jpg",
+    "title": "Stazione FS Ovada.jpg",
+    "distanceKm": 3.8,
+    "kind": "area",
+    "place": "Cremolino"
+  },
+  "area:locanda-al-castello-italy": {
+    "author": "Cascafico",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Pino_Nero_Laricio.jpg",
+    "title": "Pino Nero Laricio.jpg",
+    "distanceKm": 0.9,
+    "kind": "area",
+    "place": "Cividale del Friuli"
+  },
+  "area:otterburn-castle-country-house-hotel-united-kingdom": {
+    "author": "Victuallers",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tenters_C.40_Yards_South-East_Of_Otterburn_Mill.jpg",
+    "title": "Tenters C.40 Yards South-East Of Otterburn Mill.jpg",
+    "distanceKm": 0.4,
+    "kind": "area",
+    "place": "Otterburn"
+  },
+  "real-castello-italy": {
+    "author": "Giuseppe Barberis",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "source": "https://commons.wikimedia.org/wiki/File:Real_Castello_di_Racconigi.jpg",
+    "title": "Real Castello di Racconigi.jpg",
+    "distanceKm": null,
+    "kind": "hotel",
+    "matched": "Real Castello"
+  },
+  "area:schloss-hotel-korb-italy": {
+    "author": "Hubert Berberich (HubiB)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:HochEppanVonKorb.jpg",
+    "title": "HochEppanVonKorb.jpg",
+    "distanceKm": 0.1,
+    "kind": "area",
+    "place": "Missian"
+  },
+  "schloss-hotel-wehrburg-italy": {
+    "author": "Besenbinder",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hotel_%22Schloss_Wehrburg%22,_Prissian,_Jakobsweg_zwischen_Meran_und_Bozen,_Trentino,_S%C3%BCdtirol,_Italien_-_panoramio_(1).jpg",
+    "title": "Hotel \"Schloss Wehrburg\", Prissian, Jakobsweg zwischen Meran und Bozen, Trentino, Südtirol, Italien - panoramio (1).jpg",
+    "distanceKm": 0.4,
+    "kind": "hotel",
+    "matched": "Schloss Hotel Wehrburg"
+  },
+  "star-castle-hotel-united-kingdom": {
+    "author": "David Purchase",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Star_Castle_Hotel_-_geograph.org.uk_-_3428472.jpg",
+    "title": "The Star Castle Hotel - geograph.org.uk - 3428472.jpg",
+    "distanceKm": 0.1,
+    "kind": "hotel",
+    "matched": "Star Castle Hotel"
   }
 }
