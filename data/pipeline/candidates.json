@@ -148592,7 +148592,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "Grade I listed quadrangular castle in County Durham, England, UK",
@@ -148623,7 +148623,7 @@
   },
   "finalCategory": "castle-hotels",
   "reviewedAt": "2026-10-10T07:30:07.537Z",
-  "reviewNote": "Only a Wikipedia line says it is a hotel; the operator site could not be read, so there is no evidence of rooms or the stay itself."
+  "reviewNote": "Not published: no evidence of rooms (operator site unreadable)."
  },
  "osm:relation/14769948": {
   "id": "osm:relation/14769948",
@@ -149144,7 +149144,7 @@
    "tourism": "hostel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "Grade I listed castle in Forest of Dean, United Kingdom",
@@ -149175,7 +149175,7 @@
   },
   "finalCategory": "castle-hotels",
   "reviewedAt": "2026-10-10T07:33:28.800Z",
-  "reviewNote": "Listed as a YHA hostel; no evidence that guests sleep inside the castle."
+  "reviewNote": "Not published: YHA hostel; no evidence of sleeping in the castle."
  },
  "osm:relation/18794909": {
   "id": "osm:relation/18794909",
@@ -179020,7 +179020,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "England",
@@ -179049,7 +179049,7 @@
   },
   "finalCategory": "castle-hotels",
   "reviewedAt": "2026-10-10T07:33:17.352Z",
-  "reviewNote": "A language school residence offered with courses, not bookable as a stay by travellers."
+  "reviewNote": "Not published: language school residence, not bookable by travellers."
  },
  "osm:way/155166582": {
   "id": "osm:way/155166582",
@@ -190441,7 +190441,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "castle in Argyll and Bute, Scotland, UK",
@@ -190472,7 +190472,7 @@
   },
   "finalCategory": "castle-hotels",
   "reviewedAt": "2026-10-10T07:33:30.783Z",
-  "reviewNote": "No evidence of rooms or bookable stay (website unreadable; only OSM tag and Wikipedia)."
+  "reviewNote": "Not published: no evidence of rooms or bookable stay."
  },
  "osm:way/232134839": {
   "id": "osm:way/232134839",
@@ -193928,7 +193928,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "castle in Highland, Scotland, UK",
@@ -193956,7 +193956,7 @@
   },
   "finalCategory": "castle-hotels",
   "reviewedAt": "2026-10-10T07:33:34.684Z",
-  "reviewNote": "No evidence of rooms or bookable stay (website unreadable; only OSM tag and Wikipedia)."
+  "reviewNote": "Not published: no evidence of rooms or bookable stay."
  },
  "osm:way/254707509": {
   "id": "osm:way/254707509",
@@ -198119,7 +198119,7 @@
    "stars": "4"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "castle in Barcaldine, Scotland",
@@ -198150,7 +198150,7 @@
   },
   "finalCategory": "castle-hotels",
   "reviewedAt": "2026-10-10T07:33:32.850Z",
-  "reviewNote": "No evidence of rooms or bookable stay (website returned an empty page)."
+  "reviewNote": "Not published: no evidence of rooms or bookable stay."
  },
  "osm:way/282764419": {
   "id": "osm:way/282764419",
@@ -262317,7 +262317,7 @@
   "city": "County Waterford",
   "description": "hotel in Waterford, Ireland",
   "source": "wikidata",
-  "status": "duplicate",
+  "status": "approved",
   "firstSeen": "2026-10-04",
   "lastSeen": "2026-10-11",
   "hasWikiImage": true,
@@ -262568,7 +262568,7 @@
   "city": "Pattaya City",
   "description": "hotel",
   "source": "wikidata",
-  "status": "duplicate",
+  "status": "approved",
   "firstSeen": "2026-10-04",
   "lastSeen": "2026-10-11",
   "hasWikiImage": true,
