@@ -623,7 +623,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "description": "apartment in Benalua de Guadix",
@@ -652,7 +652,8 @@
    "decidedAt": "sample"
   },
   "finalCategory": "cave-hotels",
-  "reviewedAt": "2026-10-08T21:13:12.778Z"
+  "reviewedAt": "2026-10-08T21:13:12.778Z",
+  "slug": "cuevas-la-granja-spain"
  },
  "osm:node/10054651922": {
   "id": "osm:node/10054651922",
@@ -9764,7 +9765,7 @@
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-07",
   "lastSeen": "2026-10-07",
   "region": "Saxony",
@@ -9791,7 +9792,8 @@
    "decidedAt": "sample"
   },
   "finalCategory": "train-hotels",
-  "reviewedAt": "2026-10-08T21:13:25.665Z"
+  "reviewedAt": "2026-10-08T21:13:25.665Z",
+  "slug": "ferienwaggons-zittauer-schmalspurbahn-germany"
  },
  "osm:node/11217898334": {
   "id": "osm:node/11217898334",
@@ -18206,7 +18208,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-12",
   "region": "Uusimaa",
@@ -18233,7 +18235,8 @@
    "decidedAt": "sample"
   },
   "finalCategory": "ice-hotels",
-  "reviewedAt": "2026-10-08T21:12:41.750Z"
+  "reviewedAt": "2026-10-08T21:12:41.750Z",
+  "slug": "archipelago-igloos-finland"
  },
  "osm:node/12144433744": {
   "id": "osm:node/12144433744",
@@ -53515,7 +53518,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-12",
   "region": "Lapland",
@@ -53542,7 +53545,8 @@
    "decidedAt": "sample"
   },
   "finalCategory": "ice-hotels",
-  "reviewedAt": "2026-10-08T21:12:44.013Z"
+  "reviewedAt": "2026-10-08T21:12:44.013Z",
+  "slug": "arctic-guesthouse-and-igloos-finland"
  },
  "osm:node/2328921248": {
   "id": "osm:node/2328921248",
@@ -61297,7 +61301,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-12",
   "region": null,
@@ -61324,7 +61328,8 @@
    "decidedAt": "sample"
   },
   "finalCategory": "ice-hotels",
-  "reviewedAt": "2026-10-08T21:12:46.063Z"
+  "reviewedAt": "2026-10-08T21:12:46.063Z",
+  "slug": "kirkenes-snowhotel-norway"
  },
  "osm:node/2891540804": {
   "id": "osm:node/2891540804",
@@ -65418,7 +65423,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-10-06",
   "region": "Otjozondjupa",
@@ -65445,7 +65450,8 @@
    "decidedAt": "sample"
   },
   "finalCategory": "safari-lodges",
-  "reviewedAt": "2026-10-08T21:13:04.211Z"
+  "reviewedAt": "2026-10-08T21:13:04.211Z",
+  "slug": "okonjima-bush-camp-namibia"
  },
  "osm:node/3150301792": {
   "id": "osm:node/3150301792",
@@ -81419,7 +81425,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Newfoundland and Labrador",
@@ -81446,7 +81452,8 @@
    "decidedAt": "sample"
   },
   "finalCategory": "lighthouse-hotels",
-  "reviewedAt": "2026-10-08T21:13:33.111Z"
+  "reviewedAt": "2026-10-08T21:13:33.111Z",
+  "slug": "quirpon-lighthouse-inn-canada"
  },
  "osm:node/4193625855": {
   "id": "osm:node/4193625855",
@@ -85889,7 +85896,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-05",
   "lastSeen": "2026-10-05",
   "region": "Sucumbíos",
@@ -85916,7 +85923,8 @@
    "decidedAt": "sample"
   },
   "finalCategory": "jungle-lodges",
-  "reviewedAt": "2026-10-08T21:13:18.015Z"
+  "reviewedAt": "2026-10-08T21:13:18.015Z",
+  "slug": "guacamayo-ecolodge-ecuador"
  },
  "osm:node/4387929989": {
   "id": "osm:node/4387929989",
@@ -108240,7 +108248,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-10-06",
   "region": "Taita–Taveta",
@@ -108267,7 +108275,8 @@
    "decidedAt": "sample"
   },
   "finalCategory": "safari-lodges",
-  "reviewedAt": "2026-10-08T21:13:06.949Z"
+  "reviewedAt": "2026-10-08T21:13:06.949Z",
+  "slug": "severin-safari-camp-kenya"
  },
  "osm:node/5654956021": {
   "id": "osm:node/5654956021",
@@ -135424,7 +135433,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Tuscany",
@@ -135452,7 +135461,8 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:34:13.267Z"
+  "reviewedAt": "2026-10-10T07:34:13.267Z",
+  "slug": "castello-di-gargonza-italy"
  },
  "osm:node/8532227410": {
   "id": "osm:node/8532227410",
@@ -136907,7 +136917,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Umbria",
@@ -136935,7 +136945,8 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:34:21.414Z"
+  "reviewedAt": "2026-10-10T07:34:21.414Z",
+  "slug": "borgo-castello-panicaglia-italy"
  },
  "osm:node/8807075768": {
   "id": "osm:node/8807075768",
@@ -139876,7 +139887,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-05",
   "lastSeen": "2026-10-05",
   "region": "Cusco",
@@ -139903,7 +139914,8 @@
    "decidedAt": "sample"
   },
   "finalCategory": "jungle-lodges",
-  "reviewedAt": "2026-10-08T21:13:15.764Z"
+  "reviewedAt": "2026-10-08T21:13:15.764Z",
+  "slug": "machupicchu-ecolodge-peru"
  },
  "osm:node/9142767672": {
   "id": "osm:node/9142767672",
@@ -148500,7 +148512,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Abruzzo",
@@ -148528,7 +148540,8 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:35:15.046Z"
+  "reviewedAt": "2026-10-10T07:35:15.046Z",
+  "slug": "castello-di-fagnano-albergo-diffuso-italy"
  },
  "osm:relation/11752434": {
   "id": "osm:relation/11752434",
@@ -149422,7 +149435,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "classified",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "Grade I listed quadrangular castle in County Durham, England, UK",
@@ -149985,7 +149998,7 @@
    "tourism": "hostel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "classified",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "Grade I listed castle in Forest of Dean, United Kingdom",
@@ -180416,7 +180429,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "classified",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "England",
@@ -191902,7 +191915,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "classified",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "castle in Argyll and Bute, Scotland, UK",
@@ -195399,7 +195412,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "classified",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "castle in Highland, Scotland, UK",
@@ -195478,7 +195491,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "castle",
@@ -195508,7 +195521,8 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:33:39.368Z"
+  "reviewedAt": "2026-10-10T07:33:39.368Z",
+  "slug": "castello-di-monterone-italy"
  },
  "osm:way/255222031": {
   "id": "osm:way/255222031",
@@ -196885,7 +196899,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "classified",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": null,
@@ -196911,7 +196925,8 @@
    "decidedAt": "sample"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-08T21:13:20.443Z"
+  "reviewedAt": "2026-10-08T21:13:20.443Z",
+  "reviewNote": "Writer skipped: no verified rooms or operating details; only a Wikipedia line about the palace building."
  },
  "osm:way/263844615": {
   "id": "osm:way/263844615",
@@ -199068,7 +199083,7 @@
    "stars": "4"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": null,
@@ -199098,7 +199113,8 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:33:53.982Z"
+  "reviewedAt": "2026-10-10T07:33:53.982Z",
+  "slug": "castello-tafuri-italy"
  },
  "osm:way/279194604": {
   "id": "osm:way/279194604",
@@ -199619,7 +199635,7 @@
    "stars": "4"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "classified",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "castle in Barcaldine, Scotland",
@@ -231814,7 +231830,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "classified",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "castle in Fife, Scotland, UK",
@@ -231836,7 +231852,8 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:33:25.119Z"
+  "reviewedAt": "2026-10-10T07:33:25.119Z",
+  "reviewNote": "Writer skipped: No operator site or room details; only a Wikipedia line says conference centre with lodging."
  },
  "osm:way/608275728": {
   "id": "osm:way/608275728",
@@ -238722,7 +238739,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "classified",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "ruinous moated fortified 16th century manor house in North Warwickshire, England, UK",
@@ -238745,7 +238762,8 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:33:19.484Z"
+  "reviewedAt": "2026-10-10T07:33:19.484Z",
+  "reviewNote": "Writer skipped: No operator site; only Wikipedia, which says holiday let; nothing to write a page from."
  },
  "osm:way/737465374": {
   "id": "osm:way/737465374",
@@ -240592,7 +240610,7 @@
    "stars": "3"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "classified",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "castle in County Antrim, Northern Ireland",
@@ -240615,7 +240633,8 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:33:12.784Z"
+  "reviewedAt": "2026-10-10T07:33:12.784Z",
+  "reviewNote": "Writer skipped: No website and no room details; only a Wikipedia line."
  },
  "osm:way/773578903": {
   "id": "osm:way/773578903",
@@ -244237,7 +244256,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": null,
@@ -244267,7 +244286,8 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:33:41.785Z"
+  "reviewedAt": "2026-10-10T07:33:41.785Z",
+  "slug": "castello-di-casamassella-italy"
  },
  "osm:way/838811908": {
   "id": "osm:way/838811908",
@@ -249403,7 +249423,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "Castles in Oviglio",
@@ -249433,7 +249453,8 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:33:48.897Z"
+  "reviewedAt": "2026-10-10T07:33:48.897Z",
+  "slug": "castello-di-oviglio-italy"
  },
  "osm:way/949490862": {
   "id": "osm:way/949490862",
@@ -250220,7 +250241,7 @@
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-10-06",
   "region": "Malé Atoll",
@@ -250247,7 +250268,8 @@
    "decidedAt": "sample"
   },
   "finalCategory": "overwater-bungalows",
-  "reviewedAt": "2026-10-08T21:13:09.363Z"
+  "reviewedAt": "2026-10-08T21:13:09.363Z",
+  "slug": "thulhagiri-island-resort-maldives"
  },
  "osm:way/96173078": {
   "id": "osm:way/96173078",
@@ -264202,7 +264224,7 @@
   "city": "Argyll and Bute",
   "description": "country house, now hotel, in Argyll and Bute, Scotland, UK",
   "source": "wikidata",
-  "status": "approved",
+  "status": "classified",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "duplicateOf": "osm:way/294779425",
@@ -264225,7 +264247,8 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:33:15.119Z"
+  "reviewedAt": "2026-10-10T07:33:15.119Z",
+  "reviewNote": "Writer skipped: No website and no room details; only a Wikipedia line."
  },
  "wd:Q7903424": {
   "id": "wd:Q7903424",
@@ -264377,7 +264400,7 @@
   "city": "Pattaya City",
   "description": "hotel",
   "source": "wikidata",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-04",
   "lastSeen": "2026-10-11",
   "hasWikiImage": true,
@@ -264406,6 +264429,7 @@
   },
   "finalCategory": "cliffside-hotels",
   "reviewedAt": "2026-10-08T21:13:54.210Z",
-  "duplicateOf": "osm:way/831592714"
+  "duplicateOf": "osm:way/831592714",
+  "slug": "royal-cliff-hotels-group-thailand"
  }
 }
