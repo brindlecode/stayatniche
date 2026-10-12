@@ -61301,7 +61301,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "published",
+  "status": "duplicate",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-12",
   "region": null,
@@ -61329,7 +61329,7 @@
   },
   "finalCategory": "ice-hotels",
   "reviewedAt": "2026-10-08T21:12:46.063Z",
-  "slug": "kirkenes-snowhotel-norway"
+  "duplicateOf": "snowhotel-kirkenes-norway"
  },
  "osm:node/2891540804": {
   "id": "osm:node/2891540804",
