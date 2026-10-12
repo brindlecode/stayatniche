@@ -2187,5 +2187,169 @@
     "distanceKm": 0.1,
     "kind": "hotel",
     "matched": "Star Castle Hotel"
+  },
+  "castello-di-casamassella-italy": {
+    "author": "Patrice78500",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Castello_di_Casamassella_2022.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q116767133",
+    "distanceKm": 0
+  },
+  "castello-di-gargonza-italy": {
+    "author": "Etienne (Li)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Castello_di_Gargonza_(AR).jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q20008195",
+    "matched": "Castello di Gargonza",
+    "distanceKm": 0.1
+  },
+  "castello-di-monterone-italy": {
+    "author": "Lumerico",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Castello_di_monterone_2003.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q742533",
+    "matched": "Castello di Monterone",
+    "distanceKm": 0
+  },
+  "castello-di-oviglio-italy": {
+    "author": "Terensky",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Castello_di_Oviglio_-_panoramio.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q110952064",
+    "matched": "Castello di Oviglio",
+    "distanceKm": 0
+  },
+  "royal-cliff-hotels-group-thailand": {
+    "author": "Kannaphon",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "source": "https://commons.wikimedia.org/wiki/File:Royal_Cliff_Grand_Hotel_%26_Spa_Exterior.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q961796",
+    "matched": "Royal Cliff Hotels Group",
+    "distanceKm": 0
+  },
+  "area:archipelago-igloos-finland": {
+    "author": "Htm",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kuninkaansaari_2019_04.jpg",
+    "title": "Kuninkaansaari 2019 04.jpg",
+    "distanceKm": 0,
+    "kind": "area",
+    "place": "Helsinki archipelago"
+  },
+  "area:arctic-guesthouse-and-igloos-finland": {
+    "author": "Lijonama80",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ranuaj%C3%A4rvi_20140725.jpg",
+    "title": "Ranuajärvi 20140725.jpg",
+    "distanceKm": 1.3,
+    "kind": "area",
+    "place": "Ranua"
+  },
+  "area:borgo-castello-panicaglia-italy": {
+    "author": "Tiananmen8964",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dal%C3%B9_in_viaggio.jpg",
+    "title": "Dalù in viaggio.jpg",
+    "distanceKm": 2.9,
+    "kind": "area",
+    "place": "Panicaglia"
+  },
+  "area:castello-di-fagnano-albergo-diffuso-italy": {
+    "author": "Pietro",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fagnano_Alto_-_Chiesa_di_San_Giovanni_Battista_09.jpg",
+    "title": "Fagnano Alto - Chiesa di San Giovanni Battista 09.jpg",
+    "distanceKm": 1.7,
+    "kind": "area",
+    "place": "Castello di Fagnano"
+  },
+  "area:castello-tafuri-italy": {
+    "author": "Paul Keller",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stella_maris_portopalo.jpg",
+    "title": "Stella maris portopalo.jpg",
+    "distanceKm": 0.5,
+    "kind": "area",
+    "place": "Portopalo di Capo Passero"
+  },
+  "area:cuevas-la-granja-spain": {
+    "author": "miki",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Benalua_de_Guadix_-_panoramio.jpg",
+    "title": "Benalua de Guadix - panoramio.jpg",
+    "distanceKm": 0.9,
+    "kind": "area",
+    "place": "Benalúa"
+  },
+  "area:guacamayo-ecolodge-ecuador": {
+    "author": "Nelson Vera",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:La_laguna_grande_en_%C3%A9poca_de_verano_tambi%C3%A9n_es_un_atractivo_en_Cuyabeno_-_panoramio.jpg",
+    "title": "La laguna grande en época de verano también es un atractivo en Cuyabeno - panoramio.jpg",
+    "distanceKm": 2.7,
+    "kind": "area",
+    "place": "Cuyabeno Reserve"
+  },
+  "area:machupicchu-ecolodge-peru": {
+    "author": "McKay Savage from London, UK",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Peru_-_Trekking_from_Santa_Teresa_005_-_hydroelectic_outpour_(8296465545).jpg",
+    "title": "Peru - Trekking from Santa Teresa 005 - hydroelectic outpour (8296465545).jpg",
+    "distanceKm": 2.5,
+    "kind": "area",
+    "place": "Santa Teresa"
+  },
+  "area:okonjima-bush-camp-namibia": {
+    "author": "scaup",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Giraffa_giraffa_angolensis_340874391.jpg",
+    "title": "Giraffa giraffa angolensis 340874391.jpg",
+    "distanceKm": 1.9,
+    "kind": "area",
+    "place": "Okonjima Nature Reserve"
+  },
+  "quirpon-lighthouse-inn-canada": {
+    "author": "Clump",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Quirpon_lighthouse_inn.jpg",
+    "title": "Quirpon lighthouse inn.jpg",
+    "distanceKm": 0,
+    "kind": "hotel",
+    "matched": "Quirpon Lighthouse Inn"
+  },
+  "area:severin-safari-camp-kenya": {
+    "author": "Ninara from Helsinki, Finland",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kenya_(15851454259).jpg",
+    "title": "Kenya (15851454259).jpg",
+    "distanceKm": 3.7,
+    "kind": "area",
+    "place": "Tsavo West National Park"
+  },
+  "area:thulhagiri-island-resort-maldives": {
+    "author": "Frans-Banja Mulder",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bandos_Island_2_-_panoramio.jpg",
+    "title": "Bandos Island 2 - panoramio.jpg",
+    "distanceKm": 4.9,
+    "kind": "area",
+    "place": "North Malé Atoll"
   }
 }
