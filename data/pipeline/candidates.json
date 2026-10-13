@@ -61389,7 +61389,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "duplicate",
+  "status": "approved",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-12",
   "region": null,
@@ -149585,7 +149585,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "Grade I listed quadrangular castle in County Durham, England, UK",
@@ -150148,7 +150148,7 @@
    "tourism": "hostel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "Grade I listed castle in Forest of Dean, United Kingdom",
@@ -180614,7 +180614,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "England",
@@ -192139,7 +192139,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "castle in Argyll and Bute, Scotland, UK",
@@ -195636,7 +195636,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "castle in Highland, Scotland, UK",
@@ -197123,7 +197123,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": null,
@@ -197149,8 +197149,7 @@
    "decidedAt": "sample"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-08T21:13:20.443Z",
-  "reviewNote": "Writer skipped: no verified rooms or operating details; only a Wikipedia line about the palace building."
+  "reviewedAt": "2026-10-08T21:13:20.443Z"
  },
  "osm:way/263844615": {
   "id": "osm:way/263844615",
@@ -199859,7 +199858,7 @@
    "stars": "4"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "castle in Barcaldine, Scotland",
@@ -232060,7 +232059,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "castle in Fife, Scotland, UK",
@@ -232082,8 +232081,7 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:33:25.119Z",
-  "reviewNote": "Writer skipped: No operator site or room details; only a Wikipedia line says conference centre with lodging."
+  "reviewedAt": "2026-10-10T07:33:25.119Z"
  },
  "osm:way/608275728": {
   "id": "osm:way/608275728",
@@ -238971,7 +238969,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "ruinous moated fortified 16th century manor house in North Warwickshire, England, UK",
@@ -238994,8 +238992,7 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:33:19.484Z",
-  "reviewNote": "Writer skipped: No operator site; only Wikipedia, which says holiday let; nothing to write a page from."
+  "reviewedAt": "2026-10-10T07:33:19.484Z"
  },
  "osm:way/737465374": {
   "id": "osm:way/737465374",
@@ -240842,7 +240839,7 @@
    "stars": "3"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "castle in County Antrim, Northern Ireland",
@@ -240865,8 +240862,7 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:33:12.784Z",
-  "reviewNote": "Writer skipped: No website and no room details; only a Wikipedia line."
+  "reviewedAt": "2026-10-10T07:33:12.784Z"
  },
  "osm:way/773578903": {
   "id": "osm:way/773578903",
@@ -264545,7 +264541,7 @@
   "city": "Argyll and Bute",
   "description": "country house, now hotel, in Argyll and Bute, Scotland, UK",
   "source": "wikidata",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "duplicateOf": "osm:way/294779425",
@@ -264568,8 +264564,7 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:33:15.119Z",
-  "reviewNote": "Writer skipped: No website and no room details; only a Wikipedia line."
+  "reviewedAt": "2026-10-10T07:33:15.119Z"
  },
  "wd:Q7903424": {
   "id": "wd:Q7903424",
