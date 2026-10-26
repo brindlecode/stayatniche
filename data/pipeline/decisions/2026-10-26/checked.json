@@ -1,0 +1,4202 @@
+[
+ {
+  "id": "osm:relation/4649810",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Hotel in a historic 15th-century castle with 16th-century walls and a thermal-water spa.",
+  "category_quote": "Nasz hotel w zamku ma wszystko to, czym nie dysponują inne nowoczesne hotele",
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Zamek Karpniki",
+  "property_type": "hotel",
+  "address": "ul. Łąkowa 1, 58-533 Karpniki, Poland",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "SPA",
+    "quote": "Osiągnij wymarzony balans w naszym SPA"
+   },
+   {
+    "text": "Restaurant",
+    "quote": "Zasmakuj europejskiej wykwintności w naszej restauracji"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Heated by thermal water from own well",
+    "quote": "hotel ogrzewany jest wodą termalną z własnego odwiertu na 2 km"
+   },
+   {
+    "text": "Historic apartments",
+    "quote": "3 apartamenty historyczne, kt re przeniosą Cię w czasy dawnej świetności,"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The site describes a historic castle hotel with rooms in the main castle building, which fits castle-hotels as the whole property.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/107087762",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": 17,
+  "niche_feature": "Hotel with 17 rooms and suites inside a historic castle in Schengen, reopened after renovation",
+  "category_quote": "Derrière ses murs chargés d’histoire, l’hôtel propose 17 chambres et suites",
+  "confidence": 0.85,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Hôtel Château Schengen Luxembourg",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 17,
+   "quote": "Derrière ses murs chargés d’histoire, l’hôtel propose 17 chambres et suites"
+  },
+  "amenities": [
+   {
+    "text": "Gastronomic restaurant, bar and event rooms",
+    "quote": "Hôtel de caractère, restaurant gastronomique, bar accueillant et lieu de réception"
+   },
+   {
+    "text": "Wi-Fi",
+    "quote": "vous bénéficierez d’un environnement calme, d’une literie de qualité, d’un accès Wi-Fi"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Historic chapel, vaulted cellar and gardens",
+    "quote": "salons élégants, cave voûtée, chapelle emblématique, jardins arborés"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About 20 minutes from Luxembourg City centre",
+   "quote": "à vingt minutes du centre de Luxembourg-ville"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Hotel rooms are stated to be behind the castle's historic walls, so the castle stay is the niche; the site also runs a restaurant and events.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/7952236382",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Guest rooms and apartments carved into rhyolite tuff caves, some about 300 years old.",
+  "category_quote": "Barlangjaink riolit tufa kőzetbe vájt üregek.",
+  "confidence": 0.95,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "SIROCAVE Barlang Apartmanok",
+  "property_type": "guesthouse",
+  "address": "3332 Sirok, Vörös utca 25-31.",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Sauna and jacuzzi in wellness cave",
+    "quote": "wellness barlangunkban pedig szauna és jakuzzi várja a pihenni vágyókat!"
+   },
+   {
+    "text": "Garden barbecue",
+    "quote": "A kertben bográcsozási, szalonna-sütési lehetőség"
+   },
+   {
+    "text": "Air-conditioned rooms with kitchen and shower",
+    "quote": "Barlang apartmanjainkban tágas, világos, klimatizált (fűthető) szoba, felszerelt konyha és zuhanyzós fürdőszoba található."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Caves about 300 years old",
+    "quote": "300 éves barlangokban alakítottuk ki szálláshelyeinket, amelyek mindegyike kétszemélyes."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Direct bus from Budapest, four times daily",
+   "quote": "Budapestről (Népstadion) közvetlen buszjárattal naponta négyszer érhető el Sirok"
+  },
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "The site states its rooms are carved into rhyolite tuff caves, which fits cave-hotels for the whole property.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/13495640701",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "floating-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": 16,
+  "niche_feature": "Eco-luxury houseboats moored in private lagoons on Coron Island",
+  "category_quote": "eco-luxury houseboats in Palawan’s private lagoons with an Italo-Filipino restaurant",
+  "confidence": 0.85,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Paolyn Houseboats",
+  "property_type": "ship",
+  "address": "Coron Island, Palawan",
+  "room_count": {
+   "value": 16,
+   "quote": "since we have only 16 rooms in total of all type"
+  },
+  "amenities": [
+   {
+    "text": "Snorkeling, kayaking and private speedboat tours",
+    "quote": "snorkeling, kayaking, and private speedboat tours"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Close to Twin Lagoons, Barracuda and Kayangan Lakes",
+    "quote": "Close to Twin Lagoons and Barracuda and Kayangan Lakes"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The site describes eco-luxury houseboats in private lagoons, which fits floating-hotels.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/7860493005",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "floating-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": 2,
+  "niche_feature": "Two houseboats on Lake Ladoga offering overnight stays, with sauna, fishing deck and flybridge.",
+  "category_quote": "Хаусбот имеет большую террасу, прогулочную палубу по периметру судна.",
+  "confidence": 0.85,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "HouseBoat Karelia (Kovcheg and CliffHouse)",
+  "property_type": "ship",
+  "address": "186730, Республика Карелия, Лахденпохский район, п. Сорола, пд. 1",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Sauna",
+    "quote": "Современная сауна находится прямо в доме – сделана из ароматной сибирской ели."
+   },
+   {
+    "text": "Fishing from terrace or deck",
+    "quote": "Рыбачить можно прямо с террасы или с верхней палубы."
+   },
+   {
+    "text": "Rowing boat rental",
+    "quote": "Гостям мы предлагаем совершить водную прогулку по Ладоге на весельной лодке"
+   },
+   {
+    "text": "Flybridge open deck",
+    "quote": "Flybridge (открытая палуба на крыше)"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "CliffHouse takes 13 guests",
+    "quote": "CliffHouse берет на борт 13 гостей."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Free bus pick-up from the airport",
+   "quote": "Наш современный автобус заберёт вас прямо из аэропорта."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Both listed units are houseboats that people sleep on, which fits floating-hotels, and the site describes them as a houseboat on the water.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/3025999817",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "jungle-lodges",
+  "also_fits": [
+   "treehouse-hotels"
+  ],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Belize jungle lodge on the Caves Branch River with treehouses and jungle cabanas",
+  "category_quote": "We are not sanitized from the jungle; we are a part of it!",
+  "confidence": 0.8,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Caves Branch Jungle Lodge",
+  "property_type": "lodge",
+  "address": "Mile 41.5 Hummingbird Highway, Belize",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Air conditioning in sleeping areas",
+    "quote": "all accommodations now offer AC units in the sleeping areas"
+   },
+   {
+    "text": "All-inclusive packages",
+    "quote": "Explore the lush surroundings of our riverside setting with our all-inclusive adventure packages"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Luxury treehouses with rooftop decks and hot tubs",
+    "quote": "beautiful 5-star luxury treehouses , complete with rooftop decks, hot tubs"
+   },
+   {
+    "text": "Guided cave tubing and jungle expeditions",
+    "quote": "We have designed unique Belize cave tubing tours that are suited for all levels of adventure and fitness levels."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Mile 41.5 on the Hummingbird Highway",
+   "quote": "Mile 41.5 Hummingbird Highway, Belize"
+  },
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "The lodge sits in Belize jungle with treehouses and cabanas; the cave content is guided tours rather than cave rooms, so cave-hotels is rejected and jungle-lodges fits as a whole property.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/7068949987",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "jungle-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Lodge in the Kibale Forest rain forest, with forest cottages and chimpanzee trekking nearby.",
+  "category_quote": "Immerse yourself in nature on Turaco Treetops’ 5.2 hectares of rain forest",
+  "confidence": 0.85,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Turaco Treetops",
+  "property_type": "lodge",
+  "address": "Bigodi, Kamwenge, Uganda",
+  "room_count": {
+   "value": 8,
+   "quote": "Turaco Treetops has 8 luxury cottages situated at secluded locations in the jungle"
+  },
+  "amenities": [
+   {
+    "text": "Swimming pool",
+    "quote": "Refresh yourself with a dip in our pool?"
+   },
+   {
+    "text": "Free WiFi and charging docks",
+    "quote": "we have free WiFi and charging docks available in the main building"
+   },
+   {
+    "text": "Restaurant, bar and lounge",
+    "quote": "Our main lodge includes a restaurant, a lounge area with a cozy fireplace, a bar, an outside terrace"
+   },
+   {
+    "text": "Private balcony in cottages",
+    "quote": "Immerse yourself in nature and spot the wildlife from your private balcony."
+   },
+   {
+    "text": "Kids playground and kids room",
+    "quote": "an outdoor kids playground, and an indoor kids room in our main lodge"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Chimpanzee trekking 15 minutes away",
+    "quote": "Start your chimpanzee trekking at just 15 minutes from our lodge"
+   },
+   {
+    "text": "Views of the Rwenzori Mountains",
+    "quote": "stunning views over the snowcapped Rwenzori Mountains"
+   },
+   {
+    "text": "Largely solar powered",
+    "quote": "To minimize our footprint the lodge is largely powered by solar"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "The lodge sits inside rain forest beside Kibale National Park, which fits jungle-lodges; the treehouse queue guess is not supported because the cottages are not described as raised or in trees.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/1079226526",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "jungle-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Off-grid eco lodge in a rainforest valley in eastern Dominica, reached by zipline or river crossing",
+  "category_quote": "set in a lush rainforest valley surrounded by fresh flowing rivers",
+  "confidence": 0.8,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "3 Rivers & Rosalie Forest Eco Lodge",
+  "property_type": "lodge",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Bar, self-catering and small grocery store",
+    "quote": "bar, self-catering options, and a small on site grocery store"
+   },
+   {
+    "text": "Ziplining over river pools",
+    "quote": "We also have our very own on site ziplining across our natural river pools"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Natural river pools",
+    "quote": "relax and enjoy our Three Rivers and natural river pools"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Only reached by zipline or walking across two rivers",
+   "quote": "the only way to reach 3 Rivers Eco Lodge is by zipline or walking across two rivers"
+  },
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "Remote rainforest eco lodge with cottages, camping and dormitory; the site says it is set in a rainforest valley and is open for bookings.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/608391614",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Malaria-free private game reserve with open Land Rover game drives and Big 5 sightings",
+  "category_quote": "Sunset and sunrise game viewing drives in open Land Rovers provide the perfect opportunity",
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Garden Route Game Lodge",
+  "property_type": "lodge",
+  "address": null,
+  "room_count": {
+   "value": 42,
+   "quote": "8 Sunset Ridge Luxury Suites, 16 Lodge Rooms and 18 Private Chalets"
+  },
+  "amenities": [
+   {
+    "text": "Two swimming pools",
+    "quote": "There is convenient access to the two swimming pools at the Lodge"
+   },
+   {
+    "text": "Spa",
+    "quote": "End off another day in Africa with a soothing full body massage or pamper yourself"
+   },
+   {
+    "text": "Serengeti restaurant",
+    "quote": "Relax in our Serengetis Restaurant and enjoy country inspired cuisine sourced from our own farm where possible"
+   },
+   {
+    "text": "Free Wi-Fi",
+    "quote": "Complimentary Wi-Fi in all the rooms and public areas"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Big 5 sightings are frequent",
+    "quote": "Sightings of the BIG 5 are frequent and visitors spending one or two nights will usually see at least 4 of the BIG 5 during their stay"
+   },
+   {
+    "text": "Malaria-free reserve",
+    "quote": "Family friendly & malaria free private game reserve"
+   }
+  ],
+  "season": {
+   "text": "Game viewing all year round",
+   "quote": "Wildlife viewing is equally enjoyable all year round."
+  },
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About 3.5 hours drive from Cape Town",
+   "quote": "Only 3½ scenic hours drive from Cape Town, this malaria free, family owned and operated private game reserve"
+  },
+  "audience": "family_friendly",
+  "best_for": [
+   "safari trips",
+   "families"
+  ],
+  "reason": "A private game reserve offering open-vehicle game drives and lodge rooms matches the safari-lodge category directly; room_count is the sum of the three listed unit types.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/12119725363",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "treehouse-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Treehouse accommodation in a forest park near Bruges",
+  "category_quote": "Onze boomhutten bieden een ongeëvenaarde ervaring aan, back to basics, met de zintuigen op scherp.",
+  "confidence": 0.8,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Ryckevelde 1451",
+  "property_type": "glamping",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Breakfast or brunch",
+    "quote": "Ons team staat klaar om vanaf 's morgens een ontbijt of brunch te voorzien"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Bruges 5 km away, reachable on foot or by bike",
+    "quote": "Brugge ligt enkel 5 km verwijderd van de locatie en is gemakkelijk met fiets of te voet bereikbaar."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Bruges 5 km away, reachable on foot or by bike",
+   "quote": "Brugge ligt enkel 5 km verwijderd van de locatie en is gemakkelijk met fiets of te voet bereikbaar."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The overnight page offers stays only in treehouses (boomhutten), so the treehouse category fits the whole stay.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/6451618285",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "treehouse-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Lodge built around treehouses and a stilt house, with stone-and-bamboo bungalows, in Pu Luong nature reserve",
+  "category_quote": "Perched high among tree tops, even higher than the tree houses that have made our fame",
+  "confidence": 0.8,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Pu Luong Tree House",
+  "property_type": "lodge",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Private pond and garden",
+    "quote": "The Nest offers stunning views like no others, including of its private pond and garden overflowing with flowers"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Stone and bamboo bungalows",
+    "quote": "Built entirely from stone found on the property and local bamboo, these thatch roofed bungalows are the perfect getaway for two"
+   },
+   {
+    "text": "Secluded retreat in nature reserve",
+    "quote": "Pu Luong Treehouse is a secluded retreat composed of delightful dwellings"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About 4 hours drive from Hanoi (160 km)",
+   "quote": "The shortest way is the 160 km, 4 hour drive from Hanoi"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The site centres the lodge on treehouses that inspired it, with a treehouse on stilts called The Nest, so the treehouse-hotel category is well supported.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:relation/7358679",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "treehouse-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": 5,
+  "niche_feature": "Five private treehouses in a forest near Schrems, each with a terrace and breakfast box.",
+  "category_quote": "Fünf Baumhäuser, fünf Rückzugsorte.",
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "edelførst Baumhäuser Schrems",
+  "property_type": "lodge",
+  "address": "Schrems, Lower Austria, Austria",
+  "room_count": {
+   "value": 5,
+   "quote": "Fünf Baumhäuser, fünf Rückzugsorte."
+  },
+  "amenities": [
+   {
+    "text": "Rituals cosmetics",
+    "quote": "Pflege Körper und Geist mit einer Auswahl hochwertiger Rituals-Produkte"
+   },
+   {
+    "text": "Breakfast box",
+    "quote": "Jeden Morgen erwartet dich eine liebevoll zusammengestellte Frühstücksbox."
+   },
+   {
+    "text": "Tea kitchen and stocked minibar",
+    "quote": "Tee von Sonnentor, Bio-Kaffee von Meinl und gut gefüllter Kühlschrank mit Wasser, Traubensaft und Edel-Rosé."
+   },
+   {
+    "text": "Private terrace",
+    "quote": "Auf deiner privaten Terrasse erlebst du die Natur in vollkommener Ruhe."
+   },
+   {
+    "text": "Pellet stove",
+    "quote": "mit King-Size-Bett, modernem Bad mit Rituals Kosmetik, Pellets-Kamin, großer Terrasse, gefüllter Minibar"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Former granite quarry turned private forest",
+    "quote": "Was früher ein Steinbruch für den Granitabbau war, ist heute ein geschützter Rückzugsort"
+   },
+   {
+    "text": "Forest bathing",
+    "quote": "Umgeben vom Naturpark Schrems bietet dir unser privater Wald Raum für Entschleunigung"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The site describes five treehouses in a private forest, so the treehouse niche covers the whole property.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/1507430207",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "treehouse-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": 1,
+  "niche_feature": "Single treehouse B&B unit in the trees above the Thur river in Halden",
+  "category_quote": "The Treehouse in Halden is an extraordinary place to stay.",
+  "confidence": 0.95,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Baumhaus B&B",
+  "property_type": "B&B",
+  "address": "Thurstrasse 3, 9223 Halden",
+  "room_count": {
+   "value": 1,
+   "quote": "The treehouse is ideal for one to two guests"
+  },
+  "amenities": [
+   {
+    "text": "Kitchen for simple meals",
+    "quote": "It is possible to prepare simple meals yourself"
+   },
+   {
+    "text": "Private bathroom with shower",
+    "quote": "A fully equipped bathroom with shower awaits you as well"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "View of the river Thur",
+    "quote": "the river Thur which you can reach in less than one minute"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Village of Halden, part of historic Bischofszell",
+   "quote": "The small village of Halden, part of the historic city of Bischofszell"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Whole B&B is a single treehouse that the site describes as accommodation in the trees.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/12112960473",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "bubble-hotels",
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": 1,
+  "niche_feature": "One dome on a rock ledge by the fjord, among holiday houses on a farm",
+  "category_quote": "en spektakulær dome på ei berghylle rett ved Trondheimsfjorden",
+  "confidence": 0.45,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Hjellup Fjordbo",
+  "property_type": "other",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Peace and quiet by the fjord",
+    "quote": "Fred og ro ved fjorden"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The Dome Smiberget is a dome on a rock ledge, but the page does not say it is transparent, so the bubble fit is unclear.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/13604188166",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "some_units",
+  "niche_unit_count": null,
+  "niche_feature": "Castle hotel (zámocký hotel) with rooms and suites in historic styles, plus manor-house rooms",
+  "category_quote": "Galicia Nueva, zámocký hotel****, ponúka svojim hosťom 49 izieb",
+  "confidence": 0.55,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Galicia Nueva, zámocký hotel****",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 49,
+   "quote": "ponúka svojim hosťom 49 izieb, čo predstavuje 36 dvojlôžkových izieb a 13 apartmánov."
+  },
+  "amenities": [
+   {
+    "text": "Pets allowed in designated rooms for a fee",
+    "quote": "V našom hoteli sa môžete vo vyhradených izbách ubytovať aj so svojím zvieracím miláčikom za poplatok od 15 EUR."
+   }
+  ],
+  "highlights": [],
+  "season": null,
+  "check_in": "15:00",
+  "check_out": "11:00",
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The Galicia Nueva site is a castle hotel, but the OSM point is a manor-house sub-property and the bubble label has no evidence.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/3226753061",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Twelve-room boutique hotel in a restored 19th-century palace in Stone Town",
+  "category_quote": "Restored 19th‑century palace.",
+  "confidence": 0.5,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Emerson Spice Hotel",
+  "property_type": "hotel",
+  "address": "4044, Tharia Street, Kiponda, Stone Town, Zanzibar Tanzania",
+  "room_count": {
+   "value": 12,
+   "quote": "we host twelve uniquely decorated rooms"
+  },
+  "amenities": [
+   {
+    "text": "Air conditioning",
+    "quote": "All our rooms are equipped with air conditioning."
+   },
+   {
+    "text": "Fridge, complimentary water and coffee station",
+    "quote": "All rooms have a fridge, complimentary drinking water and a coffee station with selected teas and coffee."
+   },
+   {
+    "text": "Rooftop Tea House restaurant",
+    "quote": "The Teahouse rooftop restaurant has stunning views of Stone Town."
+   },
+   {
+    "text": "Secret Garden restaurant",
+    "quote": "The Secret Garden located in a tranquil inner courtyard is simply magical."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Each room individually decorated",
+    "quote": "All our twelve rooms are unique with their own opulent Swahili décor, colors and personality."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "In historic Stone Town, 8 minutes walk from the seafront",
+   "quote": "8 minutes walk from the seafront."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Borderline castle-hotels fit: the site calls the building a restored 19th-century palace, but it is a heritage mansion hotel; 'Spice' is a false positive for ice-hotels.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/145918031",
+  "is_lodging": true,
+  "operating_status": "seasonal",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": 19,
+  "niche_feature": "Historic hunting-lodge castle in the Allier valley, rented whole with 19 rooms for overnight groups and events",
+  "category_quote": "Ce monument historique se situe aux abords du domaine royal de Randan",
+  "confidence": 0.75,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Château de Maulmont",
+  "property_type": "hotel",
+  "address": "rue de Maulmont, 63310 St Priest Bramefant",
+  "room_count": {
+   "value": 19,
+   "quote": "Repas assis jusqu' 60 personnes, 19 chambres, 55 couchages"
+  },
+  "amenities": [
+   {
+    "text": "Indoor heated pool with sauna",
+    "quote": "Piscine int rieure chauff e avec sauna"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Park of 22 hectares",
+    "quote": "Entour d'un parc de 22 hectares"
+   },
+   {
+    "text": "Whole château booked for one group at a time",
+    "quote": "Nous n'accueillons qu'un seul v nement la fois"
+   }
+  ],
+  "season": {
+   "text": "Open 24 April to 26 October 2026 (site also lists 12 April to 28 October)",
+   "quote": "OUVERTURE 2026 : 24 AVRIL au 26 OCTOBRE"
+  },
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "12 km from Vichy and 35 km from Clermont-Ferrand",
+   "quote": "Bien que proche des villes de Vichy (12 km) et Clermont-Ferrand (35 km)"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Castle with 19 overnight rooms, but the site is mainly marketed for weddings and seminars; it is still lodging because nights are sold for the whole château.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/171672578",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "3-star hotel in a former castle built by a baron after WWI, outside Ieper",
+  "category_quote": "Het hotel is het voormalig kasteel van baron De Vinck",
+  "confidence": 0.65,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Hotel Ieper - Kasteelhof 't Hooghe",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 26,
+   "quote": "We beschikken over 26 kamers, waaronder een aantal ruime familiekamers"
+  },
+  "amenities": [
+   {
+    "text": "Breakfast buffet and private parking",
+    "quote": "Uitgebreid ontbijtbuffet en private parking"
+   },
+   {
+    "text": "Room facilities",
+    "quote": "Bad, Badkamer, Douche, Draadloos internet, Gast toilet, Haardroger, Keuken, Kluis, Radio, Telefoon, Toilet, TV, Zithoek"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "English cottage-style rooms",
+    "quote": "De stijlvolle kamers in Engelse cottage stijl zijn voorzien van alle comfort en gratis internetverbinding"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "3 km from Ieper city centre",
+   "quote": "Het is gelegen op 3 km van het centrum van Ieper"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Hotel occupies the former castle of a baron, so rooms are in a castle building; the site also mentions a newer building, which is not separated in the evidence.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/582457282",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "cliffside-hotels",
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": "Historic manor hotel at the edge of the Pankranniku coast, with a spa above the sea",
+  "category_quote": "Saka Mõis – hotell, spaa, restoran pankranniku serval",
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Saka Mõis",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 29,
+   "quote": "Renoveeritud hotellis on kokku 29 tuba (majutuskohti 57-le külalisele)"
+  },
+  "amenities": [
+   {
+    "text": "Spa",
+    "quote": "Luksuslik majutus härrastemajas, lõõgastav spaa, parim restoran ja vaated"
+   },
+   {
+    "text": "WiFi in lobbies and restaurant",
+    "quote": "Hoone idaosas- restorani, söögitoas ning alumises ning ülemises lobbys levib WiFi."
+   },
+   {
+    "text": "Rooms with shower, TV and phone",
+    "quote": "Stiilse tapeedi ja täispuitmööbliga tubades on dušš, TV ja telefon."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Spa above the sea",
+    "quote": "Ajalooline mõis, mere kohal asuv spaa ja maitsed, mille pärast tasub aeg maha võtta."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The site places the manor on the edge of the Pankranniku coast with a spa above the sea, but never says rooms are built on a cliff; the name Cliff alone is not enough, so confidence is low. OSM node 582457637 has the same site and is a likely duplicate.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/912133799",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "cliffside-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Boutique hotel perched above the Atlantic coastline at De Kelders, with ocean-view rooms and suites.",
+  "category_quote": "Perched above the coastline in De Kelders",
+  "confidence": 0.55,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Sea Star Cliff",
+  "property_type": "hotel",
+  "address": "41 Cliff Street, De Kelders, Western Cape, 7220, South Africa",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Outdoor pool and sun deck",
+    "quote": "a sun deck, and an inviting outdoor pool"
+   },
+   {
+    "text": "Breakfast",
+    "quote": "Breakfast is available to guests at Sea Star Cliff."
+   },
+   {
+    "text": "Free Wi-Fi and parking",
+    "quote": "Sea Star Cliff provides complimentary Wi-Fi and free parking for hotel guests."
+   },
+   {
+    "text": "Minibar and coffee machine",
+    "quote": "Coffee machine & Mini bar"
+   },
+   {
+    "text": "Freestanding bathtub",
+    "quote": "Freestanding bathtub in the main bedroom"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Whale watching partners",
+    "quote": "We partner with two top whale watching operators in Gansbaai and Hermanus"
+   }
+  ],
+  "season": null,
+  "check_in": "from 14:00",
+  "check_out": "by 11:00",
+  "access": null,
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "The site says the hotel is perched above the coastline, which suggests a cliff-edge location, but the rooms are not explicitly described as built on the cliff, so confidence is moderate.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/13085145835",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "jungle-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Hotel on a hillside inside an unspoiled rainforest, with views of rainforest, mountains and sea",
+  "category_quote": "We live in an unspoiled rainforest and want to keep it that way, so our guests can enjoy nature at its best!",
+  "confidence": 0.7,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Dave Parker Eco Lodge Hotel",
+  "property_type": "hotel",
+  "address": "Tapatapao, Alesa East, Samoa",
+  "room_count": {
+   "value": 15,
+   "quote": "Our hotel boasts 15 rooms, each with a view of the ocean, rainforest and mountains."
+  },
+  "amenities": [
+   {
+    "text": "Swimming pool",
+    "quote": "Cool down in our swimming pool or two waterfalls on site."
+   },
+   {
+    "text": "Restaurant and bar",
+    "quote": "Enjoy a meal at our onsite Restaurant & Bar or lounge around on the deck watching the birds or reading a book."
+   },
+   {
+    "text": "Air conditioning in 11 rooms",
+    "quote": "11 of the rooms provide air-conditioning for comfort, but being high on top of the hillside, the climate is much cooler."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Views of rainforest, mountains and sea",
+    "quote": "Known for its breathtaking views of the rainforest, mountains and sea"
+   },
+   {
+    "text": "Weekly Sunday umu lunch",
+    "quote": "Every Sunday we cook a tradition open fire dish - Umu, (on hot rocks) for lunch."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Free shuttle to town and back; airport transfers for a charge",
+   "quote": "Free shuttle to town & back to Hotel"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The hotel sits on a rainforest hillside in Samoa with rooms that look over it, which fits the jungle-lodge category.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/11138420670",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Hotel inside a game reserve with wild and domestic animals in a natural enclosure",
+  "category_quote": "V dudínskej zvernici si nažívajú v harmónii zvery divé aj domorodé.",
+  "confidence": 0.5,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Safari Hotel Dudín",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Wine tastings",
+    "quote": "ochutnávky tých najlepších vínnych skvostov nekonečné a štedré."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Game reserve with wild and domestic animals",
+    "quote": "V dudínskej zvernici si nažívajú v harmónii zvery divé aj domorodé."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The site describes a safari resort in a game enclosure with a hotel, but it does not mention game drives or the lodging units, so the fit is only partly supported.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/1442634675",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Campsite and bungalows inside Safari Park Pombia, with a car safari route included in packages",
+  "category_quote": "Pacchetto Bungalow + Ingresso a Safari Park",
+  "confidence": 0.55,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Safari Park - Safari Camping",
+  "property_type": "camp",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Bar and mini playground",
+    "quote": "Safari Camping è organizzato con bar e con un mini parco giochi per i bambini"
+   },
+   {
+    "text": "Free parking and linen",
+    "quote": "Inclusi: parcheggio gratuito, biancheria, bagno"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Free attraction ticket per guest in packages",
+    "quote": "Un biglietto attrazioni in omaggio a testa"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "Camping and bungalows inside a safari park with a car safari route in the packages; a reserve-style game drive is not explicitly stated, so confidence is moderate.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/9751820506",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "train-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Overnight stays in a train carriage standing on a 180 m bridge over the Namsen salmon river.",
+  "category_quote": "du kan spise og overnatte på et tog står plassert på en 180 m lang bru",
+  "confidence": 0.85,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Namsen Salmon & Train Experience",
+  "property_type": "train",
+  "address": "Overhalla municipality, Trøndelag, Norway",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Restaurant on the train",
+    "quote": "du kan spise og overnatte på et tog"
+   },
+   {
+    "text": "Salmon fishing",
+    "quote": "over en av landets beste lakseelver, Namsen i Overhalla kommune"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Train on a 180 m bridge",
+    "quote": "står plassert på en 180 m lang bru over en av landets beste lakseelver"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The site describes sleeping on a train placed on a bridge over a salmon river, which fits train-hotels; the site news stops in 2021, so the status is unknown.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/12020165502",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "treehouse-hotels",
+  "also_fits": [
+   "cliffside-hotels"
+  ],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Treetop village with cabins in the trees, a cabin on a rock edge and hanging tents",
+  "category_quote": "oppe i trærne midt inne i trollskogen tre meter over bakken",
+  "confidence": 0.75,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Treetop Ekne",
+  "property_type": "camp",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Treetop village in a 100-year-old forest with fjord views",
+    "quote": "100 år gammel trollskog, med utsikt over Trondheimsfjorden."
+   }
+  ],
+  "season": {
+   "text": "Hanging tents available in summer",
+   "quote": "I sommersesongen kan du også nyte en natt eller flere i en av våre svevetelt som henger over bakken."
+  },
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The site describes a treetop village where some sleeping units are up in the trees, so the treehouse category fits.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/8185509406",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "treehouse-hotels",
+  "also_fits": [],
+  "niche_scope": "some_units",
+  "niche_unit_count": 1,
+  "niche_feature": "One wooden treehouse on stilts among the trees at a campsite estate, sleeping up to six.",
+  "category_quote": "Overnacht met maximaal zes personen in een houten boomhut op palen tussen de bomen, met balkon.",
+  "confidence": 0.85,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Landgoed Tolhek",
+  "property_type": "camp",
+  "address": "Nijend 28, 9465 TR Anderen, Netherlands",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Fully equipped kitchen",
+    "quote": "Compleet ingerichte keuken met eethoek"
+   },
+   {
+    "text": "Bathroom with shower",
+    "quote": "Badkamer met douche, wastafel en toilet"
+   },
+   {
+    "text": "Wifi included in rate",
+    "quote": "All-in: inclusief bed-, bad- en keukenlinnen, wifi en toeristenbelasting"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Stilts among the trees",
+    "quote": "Op palen tussen de bomen"
+   }
+  ],
+  "season": {
+   "text": "Treehouse rentable all year",
+   "quote": "De boomhut is het hele jaar te huren."
+  },
+  "check_in": "from 15:00 (treehouse)",
+  "check_out": "before 11:00",
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The campsite estate has one treehouse among other units, so the treehouse niche applies to some units rather than the whole property.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/1368694109",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "treehouse-hotels",
+  "also_fits": [],
+  "niche_scope": "some_units",
+  "niche_unit_count": null,
+  "niche_feature": "Resort with several treehouse-style rooms (Mandai Sanctuary and Rainforest Treehouse) inside Mandai Wildlife Reserve",
+  "category_quote": "Our exclusive Mandai Sanctuary Treehouse offer stunning views of the Upper Seletar Reservoir and feature private patios",
+  "confidence": 0.55,
+  "red_flags": [
+   "chain_generic"
+  ],
+  "other_niche_type": null,
+  "official_name": "Mandai Rainforest Resort by Banyan Tree",
+  "property_type": "hotel",
+  "address": "60 Mandai Lake Road, Singapore 729979",
+  "room_count": {
+   "value": 338,
+   "quote": "the 338-room resort blends seamlessly with its natural surroundings"
+  },
+  "amenities": [
+   {
+    "text": "Banyan Tree Spa",
+    "quote": "How do I make a booking at Banyan Tree Spa?"
+   },
+   {
+    "text": "Outdoor playground and kids' space",
+    "quote": "Young guests will enjoy the Rangers' Club indoor space and outdoor playground"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Treehouse rooms with private patio",
+    "quote": "Each treehouse features a spacious layout with a plush king-size bed and a private patio"
+   }
+  ],
+  "season": null,
+  "check_in": {
+   "text": "From 3:00 PM",
+   "quote": "Check-in time is from 15:00 hours and Check-out time is up to 12:00 hours."
+  },
+  "check_out": {
+   "text": "Up to 12:00 PM",
+   "quote": "Check-in time is from 15:00 hours and Check-out time is up to 12:00 hours."
+  },
+  "access": {
+   "text": "Bus 138 or 927 to the Mandai Transport Hub",
+   "quote": "Take bus 138 or bus 927 and alight at the Mandai Transport Hub Bus Bay"
+  },
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "Treehouse rooms are one unit type in a 338-room resort; the rainforest theme alone does not make it a jungle lodge, and the site does not say how many treehouses exist.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/12087145402",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "underwater-rooms",
+  "also_fits": [
+   "overwater-bungalows"
+  ],
+  "niche_scope": "some_units",
+  "niche_unit_count": 2,
+  "niche_feature": "Aqua Villa with a submerged bedroom beneath the lagoon, plus overwater villas",
+  "category_quote": "This luxury two-level Aqua Villa has a submerged master bedroom combined with an overwater bedroom",
+  "confidence": 0.85,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Pullman Maldives Maamutaa Resort",
+  "property_type": "hotel",
+  "address": "Maamutaa Island, 20219 Gaafu Alifu Atoll , Maldives",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Spa room and steam room in the four-bedroom villa",
+    "quote": "the villa comes with its own private gym, a Spa Room for in-villa treatments, and a steam room"
+   },
+   {
+    "text": "All-inclusive dining and drinks",
+    "quote": "generous all-inclusive benefits which include unlimited dining and drinks at the resort s three restaurants and three bars"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Private island with 18 hectares of vegetation",
+    "quote": "Pullman Maldives is located on a private island called Maamutaa, with 18 hectares of lush vegetation"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Flight from Malé to Kooddoo Airport, then 15-minute speedboat",
+   "quote": "The island is reached via a 55-minute wheel-based flight from the capital, Malé, to Kooddoo Airport"
+  },
+  "audience": "unknown",
+  "best_for": [
+   "couples",
+   "families"
+  ],
+  "reason": "The resort has two underwater bedrooms in its Aqua Villas, which fits underwater-rooms; the train-hotel label came from the brand name Pullman.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/12944396089",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": 25,
+  "niche_feature": "Tiny wooden eco lodges directly on the shore of Lake Millstatt",
+  "category_quote": "Unsere Eco Lodges sind Tiny Houses aus Holz und Glas, direkt am Ostufer des Millstätter Sees in Döbriach.",
+  "confidence": 0.7,
+  "red_flags": [],
+  "other_niche_type": "tiny house eco lodges on a lakeshore",
+  "official_name": "Eco Lodges Millstätter See",
+  "property_type": "lodge",
+  "address": "Glanzer Straße 117, 9873 Döbriach, Österreich",
+  "room_count": {
+   "value": 25,
+   "quote": "Tiny Houses am Millstätter See – 25 Eco Lodges direkt am Ufer"
+  },
+  "amenities": [
+   {
+    "text": "Own kitchen (meals not included)",
+    "quote": "Verpflegung ist nicht enthalten – jede Lodge hat eine eigene Küche."
+   },
+   {
+    "text": "Air conditioning",
+    "quote": "Seit Juli 2024 ist jede Lodge klimatisiert."
+   },
+   {
+    "text": "Private parking, one space per lodge",
+    "quote": "Abgeschlossener Parkplatz (1 Parkplatz pro gebuchter Lodge)."
+   },
+   {
+    "text": "Dogs welcome, with a dog beach",
+    "quote": "Dein Hund ist bei uns willkommen – mit eigenem Hundestrand am Gelände."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Direct access to the lake from each lodge",
+    "quote": "Direkter Zugang zum Millstätter See – dein privater Rückzugsort am Wasser."
+   }
+  ],
+  "season": null,
+  "check_in": "16:00",
+  "check_out": "10:00",
+  "access": null,
+  "audience": "unknown",
+  "best_for": [
+   "couples",
+   "families",
+   "dog owners"
+  ],
+  "reason": "The site describes 25 tiny wooden eco lodges on the lake shore, a niche not in the category list, so it goes to other_niche_type.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/6431573152",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "some_units",
+  "niche_unit_count": null,
+  "niche_feature": "Sleep capsules alongside private suites and wagon-named units in Uyuni",
+  "category_quote": "The individual capsule measures 2.48 m in height, 2.10 m in length, and 1.20 m in width",
+  "confidence": 0.35,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": "sleep capsules (sleepbox pods)",
+  "official_name": "Onkel Inn Wagon Sleepbox Uyuni",
+  "property_type": "hostel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Sleep capsules with TV and reading light",
+    "quote": "The double capsule includes two beds (bunk style), a TV, nightstand, and reading light."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Capsule sleep pods fit no listed category; Vagones and Wagon give no railway-carriage detail, so train-hotels is not accepted, and the FAQ text is placeholder lorem ipsum and was ignored.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/9188722988",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Sámi lavvo tent glamping in the Arctic, with forest bathing and no electricity or WiFi.",
+  "category_quote": "Sámi Safari Camp is lavvoglamping i.e. five of our lavvo have floors and are decorated according to purpose.",
+  "confidence": 0.75,
+  "red_flags": [],
+  "other_niche_type": "Sámi lavvo tent glamping",
+  "official_name": "Sámi Safari Camp",
+  "property_type": "camp",
+  "address": "Postboks 26, 8271 Drag, Norway",
+  "room_count": {
+   "value": 3,
+   "quote": "We have three two-person lavvo with soft beds, reindeer hides on the wooden floors"
+  },
+  "amenities": [
+   {
+    "text": "Wood stove and oil heater",
+    "quote": "a wood stove and an oil heaters that will keep you warm throughout night"
+   },
+   {
+    "text": "Sámi-inspired meals",
+    "quote": "The food we serve is inspired by our upbringing, Sámi cuisine and based on local ingredients."
+   },
+   {
+    "text": "Vegetarian food on request",
+    "quote": "We can also offer a vegetarian diet."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "No electricity or WiFi",
+    "quote": "Far from electricity and WiFi"
+   },
+   {
+    "text": "Forest bathing and mindfulness",
+    "quote": "Forest bathing is about allowing ourselves to be drawn into, and surrounded by, nature in a relaxed state."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "By train or plane, then bus or car to Drag, then about 50 minutes by boat",
+   "quote": "Travel by train to Fauske or by plane to Bodø airport, and then by bus or rental car to Drag in Hamarøy where we will pick you up."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The camp uses Sámi lavvo tents for glamping, which fits no listed category, so it is recorded as other; the safari name does not reflect game drives in a reserve.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/582457637",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "cliffside-hotels",
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": "Historic manor hotel at the edge of the Pankranniku coast, with a spa above the sea",
+  "category_quote": "Saka Mõis – hotell, spaa, restoran pankranniku serval",
+  "confidence": 0.3,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Saka Mõis",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 29,
+   "quote": "Renoveeritud hotellis on kokku 29 tuba (majutuskohti 57-le külalisele)"
+  },
+  "amenities": [
+   {
+    "text": "Spa",
+    "quote": "Luksuslik majutus härrastemajas, lõõgastav spaa, parim restoran ja vaated"
+   },
+   {
+    "text": "WiFi in lobbies and restaurant",
+    "quote": "Hoone idaosas- restorani, söögitoas ning alumises ning ülemises lobbys levib WiFi."
+   },
+   {
+    "text": "Rooms with shower, TV and phone",
+    "quote": "Stiilse tapeedi ja täispuitmööbliga tubades on dušš, TV ja telefon."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Spa above the sea",
+    "quote": "Ajalooline mõis, mere kohal asuv spaa ja maitsed, mille pärast tasub aeg maha võtta."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Tagged camp_site in OSM but the site describes a 29-room hotel manor, not a campground; same website as duplicate node 582457282, so confidence is low.",
+  "verdict": "duplicate",
+  "dropped": [
+   "same site as osm:node/582457282"
+  ]
+ },
+ {
+  "id": "osm:node/9254905848",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "bubble-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.45,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "BubbleSky Glamping",
+  "property_type": "glamping",
+  "address": "El Retiro, Antioquia, Colombia",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Heated mattresses and hot jacuzzi",
+    "quote": "colchones semi-ortopédicos con calefacción y jacuzzi caliente"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Stargazing glamping",
+    "quote": "Disfruta de una noche bajo un millón de estrellas"
+   },
+   {
+    "text": "Low-energy room motor",
+    "quote": "El motor de la habitación consume lo mismo que 1 bombillo de 55w."
+   }
+  ],
+  "season": null,
+  "check_in": "3:00 PM or 4:00 PM, depending on room",
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The site is a glamping business whose name suggests bubbles, but no page describes transparent or inflatable bubble units, so the niche rests on the name only.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/354117132",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "La Grotte des Ambassadeurs",
+  "property_type": "guesthouse",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name (Grotte, a cave) suggests a cave hotel; the one-line home page has no description, so the niche is unconfirmed.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/11052253764",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Kabaisercher",
+  "property_type": "lodge",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Electricity in cabins",
+    "quote": "Electricity will also be available in your cabins and we give priority to low-consumption equipment."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Lodges across 13 municipalities in southern Luxembourg",
+    "quote": "Our lodges are located across 13 enchanting municipalities in the south of Luxembourg"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Simpleviu lodge site in Luxembourg shows cabins for booking, but nothing says they are railway carriages, so the train-hotel label is not supported.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/11524972736",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": "Guesthouse for stays with a tribal community as part of a tour",
+  "category_quote": "We stay with the tribes at local homestay guesthouses.",
+  "confidence": 0.3,
+  "red_flags": [
+   "tour_operator"
+  ],
+  "other_niche_type": "tribal homestay guesthouse",
+  "official_name": "Skeleton Eco Guesthouse",
+  "property_type": "guesthouse",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Visit to the Skeleton Tribe cave",
+    "quote": "walk to the famous cave of the Skeleton Tribe, Lunch around the Cave and back to the Skeleton Eco Guesthouse."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The page is a tour operator itinerary that names a guesthouse, but it does not describe a jungle lodge or any category feature.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/12083603138",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Rattad Vaba Aeg",
+  "property_type": "other",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The linked site is a bicycle shop and rental that lists accommodation, with no evidence of a tented campsite or safari style.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/12102886001",
+  "is_lodging": false,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.5,
+  "red_flags": [
+   "tour_operator"
+  ],
+  "other_niche_type": null,
+  "official_name": "Una Kayak Safari",
+  "property_type": "other",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The site is a kayak and rafting tour operator on the Una river, with no lodging described, and the safari name is only a brand.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/13017126548",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Sahara Falcon Aparthotel",
+  "property_type": "apartment",
+  "address": "Freseniusstraße 1, 81247 München",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Free WiFi",
+    "quote": "Free WiFi is offered throughout the property and multi-language television channels."
+   },
+   {
+    "text": "Elevator",
+    "quote": "The building is equipped with Elevator."
+   },
+   {
+    "text": "Parking garage with fee and 24/7 security",
+    "quote": "It features a parking garage that is available without reservation and against a fee with security service for 24/7."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Subway access within 1 minute walk",
+    "quote": "it has a direct access to the Sub-way train in 1 min walking"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About 40 minutes from the airport, transfer for a fee",
+   "quote": "It is 40 minutes away from the airport with a Transfer service to the airport for a fee and upon request."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "This is a city aparthotel in Munich with no desert or camp features, so the desert-camp queue label is a name-only false positive.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/13072908511",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.2,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Railway Hostel",
+  "property_type": "hostel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The only evidence is an empty booking-engine page and an OSM hostel tag, with nothing confirming a railway carriage.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/13175994600",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Acantilados",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Gym, bar and fresh and salt-water pools",
+    "quote": "gimnasio; bar y Detox Bar; y piscinas de agua dulce y salada."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Rooms with sunset views on three levels",
+    "quote": "podrás encontrar tres niveles de habitaciones con acabados de alto nivel y vista privilegiada a las puestas de sol"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The site is an ordinary seaside hotel with pools and a restaurant, and nothing says the rooms are on a cliff; the name only suggests cliffs.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/1579485323",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "B&B Baumhaus Fiesch",
+  "property_type": "B&B",
+  "address": null,
+  "room_count": {
+   "value": 8,
+   "quote": "Unsere acht Baumzimmer wurden individuell, kologisch und aus heimischen H lzern massgefertigt."
+  },
+  "amenities": [
+   {
+    "text": "Shared laundry and drying room, bike and ski room",
+    "quote": "ein Velo- und Skiraum sowie ein Waschraum mit Kleiderwaschmaschine zur Verf gung."
+   }
+  ],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "5 minutes from the station and cable car",
+   "quote": "nur 5 Minuten vom Bahnhof und der Seilbahnstation Fiesch–Fiescheralp entfernt"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The B&B name suggests a treehouse, but the site describes eight wooden rooms without saying they are built in or among trees.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/1703332376",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.15,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Hotel Jama (Postojna Cave Park)",
+  "property_type": "hotel",
+  "address": "Jamska cesta 28, SI-6230 Postojna, Slovenia",
+  "room_count": {
+   "value": 156,
+   "quote": "156 twin/double or connecting rooms provide guests with complete comfort"
+  },
+  "amenities": [
+   {
+    "text": "Air conditioning",
+    "quote": "air conditioning , free internet access , a variety of food and drink options"
+   },
+   {
+    "text": "Free internet access",
+    "quote": "air conditioning , free internet access , a variety of food and drink options"
+   },
+   {
+    "text": "Wheelchair accessible throughout",
+    "quote": "The entire tourist complex is wheelchair accessible."
+   },
+   {
+    "text": "Pets welcome",
+    "quote": "your pets are most welcome too"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Located in the heart of Postojna Cave Park",
+    "quote": "Located in the heart of the Park, Hotel Jama boasts modern design"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About 1 km from Postojna town and 2 km from the motorway",
+   "quote": "The Postojna Cave Park is located a kilometre from the town of Postojna and a mere two kilometres from the motorway."
+  },
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "The evidence describes Hotel Jama, a 156-room hotel above ground inside Postojna Cave Park, not a cave room; the 'Proteus' rooms name does not appear in the pages, so the cave-hotels queue guess is rejected.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/2079037428",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.1,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Jungle Jaffa Hostel",
+  "property_type": "hostel",
+  "address": "31 She'erit Yisra'el Street, Tel Aviv-Yafo, Israel",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Free coffee, tea and cocoa 24/7",
+    "quote": "Free coffee, tea, and cocoa available on the house 24/7"
+   },
+   {
+    "text": "Free dinner and breakfast",
+    "quote": "Free Dinner and Breakfast every day."
+   },
+   {
+    "text": "Fully equipped shared kitchen",
+    "quote": "A fully-equipped kitchen is available."
+   }
+  ],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About 10 minutes walk to the beach",
+   "quote": "just a 10 minute walk from the beach"
+  },
+  "audience": "adults_only",
+  "best_for": [],
+  "reason": "Urban hostel in Tel Aviv where 'jungle' is branding ('the wildest hostel in Tel Aviv'); no rainforest setting or niche sleeping unit is described, so jungle-lodges is a false positive.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/2613293549",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.1,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Tamba Kuruba Eco Lodge",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Fitness center",
+    "quote": "Enjoy our fitness center, rejuvenating spa, serene outdoor pool, and exquisite dining."
+   },
+   {
+    "text": "Spa",
+    "quote": "Enjoy our fitness center, rejuvenating spa, serene outdoor pool, and exquisite dining."
+   },
+   {
+    "text": "Outdoor pool",
+    "quote": "Enjoy our fitness center, rejuvenating spa, serene outdoor pool, and exquisite dining."
+   },
+   {
+    "text": "Restaurant (African and European dishes)",
+    "quote": "Serving both traditionl african and traditional european/western dishes"
+   }
+  ],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The pages are generic hotel copy titled 'Hotel Prime' with 'basic need' rooms and no jungle, rainforest or lodge setting, so the jungle-lodges queue category is not supported.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/2730037011",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Dikker & Thijs Hotel Amsterdam",
+  "property_type": "hotel",
+  "address": "Prinsengracht 444, 1017 KE Amsterdam, Netherlands",
+  "room_count": {
+   "value": 42,
+   "quote": "Dikker & Thijs Hotel is a classic boutique style hotel with 42 rooms"
+  },
+  "amenities": [
+   {
+    "text": "Gym",
+    "quote": "Our hotel offers gym facilities"
+   },
+   {
+    "text": "Breakfast buffet",
+    "quote": "Breakfast is served from 7:00 AM to 11:00 AM."
+   },
+   {
+    "text": "Free WiFi",
+    "quote": "All our rooms, as well as the public areas, offer free WiFi."
+   },
+   {
+    "text": "Air conditioning",
+    "quote": "Yes, all rooms have airconditioning."
+   },
+   {
+    "text": "Free coffee and tea facilities",
+    "quote": "Guests can benefit from free coffee and tea facilities."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Most rooms have a canal view",
+    "quote": "Most of the 42 beautiful hotel rooms have canal view."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Tram stop in front of the hotel",
+   "quote": "The tram stop is in front of the hotel"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "'Fenice' contains 'ice' only as a substring; the evidence is a classic 42-room canal-side boutique hotel with no ice or igloo feature, so ice-hotels is rejected.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/283190084",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.2,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Alcudiamar Marina Residence",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 107,
+   "quote": "The complex has 107 accommodations, allowing visitors to stay right at the port without having to travel elsewhere."
+  },
+  "amenities": [
+   {
+    "text": "Welcome drink",
+    "quote": "A complimentary drink to enjoy on arrival"
+   },
+   {
+    "text": "Water sports included (stand-up paddleboarding and kayaking)",
+    "quote": "Stand-up paddleboarding and kayaking unlimited"
+   },
+   {
+    "text": "All-day restaurant dining",
+    "quote": "Savour a flexible all-day dining menu, featuring locally sourced products"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Berth and accommodation in the same marina complex",
+    "quote": "The Alcudia complex offers both boat moorings and accommodations on the same grounds"
+   }
+  ],
+  "season": {
+   "text": "Port services available year-round",
+   "quote": "all port services are available year-round"
+  },
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Inside the Alcudia marina complex, Balearic Islands",
+   "quote": "located within the resort and connected to all its nautical activities"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The 'Botel' name suggests a floating hotel, but the site says the accommodation is on land ('Sleep on land, live the Mediterranean') inside a marina complex, so floating-hotels is rejected.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/2861664249",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": "Eco Dome unit listed; dome shape and transparency not described",
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Distant Relatives Ecolodge & Backpackers",
+  "property_type": "lodge",
+  "address": "Kilifi Creek, Kilifi County, Kenya",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Rainwater harvesting and greywater systems",
+    "quote": "Rainwater harvesting & greywater systems"
+   },
+   {
+    "text": "Pool",
+    "quote": "Spend your days relaxing by the pool, exploring Kilifi Creek"
+   },
+   {
+    "text": "Restaurant and bar with wood-fired pizza",
+    "quote": "Fresh coastal food served beside the pool."
+   },
+   {
+    "text": "Massages and wellness retreats",
+    "quote": "Dhow cruises, creek floating, camping under stars, massages, and more."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Dhow cruises and creek adventures",
+    "quote": "Dhow cruises, creek floating, camping under stars, massages, and more."
+   },
+   {
+    "text": "Eco-focused operation",
+    "quote": "Every stay contributes to environmental conservation and community development."
+   }
+  ],
+  "season": {
+   "text": "Peak season Dec 15 to Jan 15",
+   "quote": "Dec 15 - Jan 15"
+  },
+  "check_in": {
+   "text": "3:00 PM",
+   "quote": "3:00 PM / 11:00 AM"
+  },
+  "check_out": {
+   "text": "11:00 AM",
+   "quote": "3:00 PM / 11:00 AM"
+  },
+  "access": {
+   "text": "Malindi Airport flight plus 30 min drive from Nairobi",
+   "quote": "Flight to Malindi Airport (1 hour) + 30min drive"
+  },
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "A Kilifi Creek eco-lodge on the coast, not rainforest; it lists an 'Eco Dome' unit but the pages do not say whether it is a transparent bubble or an opaque tent, so no niche is confirmed.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/3243260545",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.1,
+  "red_flags": [
+   "listing_site",
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Cliff Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The only page is an empty Booking.com listing (HTTP 202 with no text), so nothing confirms rooms built on a cliff; the name and OSM hotel tag alone do not support cliffside-hotels.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/3403695375",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.1,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Camping Pullmann",
+  "property_type": "camp",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Next to the Sĺňava lake and Váh river cycle route",
+    "quote": "priamo vedľa obľúbeného Cyklookruhu okolo jazera Sĺňava a rieky Váh"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About 1000 m from Piešťany town and spa",
+   "quote": "iba 1000m od mesta Piešťany a 1000m od Kúpeľov Piešťany"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "A campsite near Piešťany; 'Pullmann' is not a railway carriage or sleeper train and the page describes no train-based accommodation, so train-hotels is rejected.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/3545255580",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.15,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "The Inn At Castle Hill",
+  "property_type": "guesthouse",
+  "address": null,
+  "room_count": {
+   "value": 5,
+   "quote": "Accommodation is for the entire house, per night that consists of 5 beautifully curated en-suite rooms."
+  },
+  "amenities": [
+   {
+    "text": "Morning tea and coffee in every room",
+    "quote": "Morning tea and coffee facilities are provided in every room"
+   },
+   {
+    "text": "Breakfast available at neighbouring guesthouse (extra charge)",
+    "quote": "All rates are excluding breakfast which can be booked at the neighbouring guesthouse"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Most rooms open to a sea view",
+    "quote": "Most of the rooms open up to a spectacular sea-view."
+   },
+   {
+    "text": "Edwardian villa built in 1917",
+    "quote": "The Inn at Castle hill was built by Scots grain merchant Alex Calder in 1917"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "In the heart of Kalk Bay village",
+   "quote": "Situated in the heart of the village, we offer the best springboard into Kalk Bay"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "A 1917 Edwardian guesthouse in Kalk Bay named Castle Hill; no castle is described anywhere, so castle-hotels rests on the name alone and is rejected.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/3656905720",
+  "is_lodging": false,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": "Mud cave dwellings in Lesotho that are still inhabited; national heritage site",
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [
+   "private_residence"
+  ],
+  "other_niche_type": null,
+  "official_name": "Ha Kome Cave Dwellings",
+  "property_type": "other",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Wikipedia describes the Kome Caves as mud cave dwellings still inhabited by descendants of the original settlers and a national heritage site; there is no website or lodging evidence, so it is not a stay.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/3723223812",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.15,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Monzi Safari Lodge",
+  "property_type": "lodge",
+  "address": "Monzi, KwaZulu-Natal, South Africa",
+  "room_count": {
+   "value": 6,
+   "quote": "one 2 bedroom bungalow and one 1 bedroom flat make up Monzi Safari Lodge"
+  },
+  "amenities": [
+   {
+    "text": "Private splash pool and sun deck per unit",
+    "quote": "Each unit has its own splash pool and sun deck."
+   },
+   {
+    "text": "Braai (barbecue) facilities",
+    "quote": "The outside area has braai facilities and the pool area has matching outdoor loungers"
+   },
+   {
+    "text": "Free WiFi and air conditioning in living areas",
+    "quote": "have a flat screen TV, satellite dish, free WiFi and air-conditioning (AC) in the entertaining areas"
+   },
+   {
+    "text": "Boat storage",
+    "quote": "The property also includes a beautiful boat store, for all those that love to fish"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Farm setting with birdlife",
+    "quote": "Birdlife and butterfly variety is vast and perfect for enthusiasts."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About 20 km outside St Lucia, on a litchi farm",
+   "quote": "Monzi Safari Lodge, which is situated 20km outside St Lucia at Monzi"
+  },
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "Self-catering log cabins on a litchi farm 20 km from St Lucia; no game drives or reserve are described, so safari-lodges is not supported.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/3982523602",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.1,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "La Botella de Leche Hostel",
+  "property_type": "hostel",
+  "address": "500 Avenida Central, Tamarindo, Guanacaste, Costa Rica",
+  "room_count": {
+   "value": 5,
+   "quote": "4 private rooms and 1 mixed dorm."
+  },
+  "amenities": [
+   {
+    "text": "Pool",
+    "quote": "Pool, garden, coworking, kitchen and a reception open 24/7."
+   },
+   {
+    "text": "Private bathrooms and air conditioning",
+    "quote": "All rooms are private, with their own bathroom and A/C."
+   },
+   {
+    "text": "Coworking and free Wi-Fi",
+    "quote": "Fast Wi-Fi and tables in the garden."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Surf camp with lessons, board and bed",
+    "quote": "Lessons, board, bed and breakfast are on us."
+   },
+   {
+    "text": "Dive camp to the Catalina Islands",
+    "quote": "Ten dive sites around the Catalina Islands with Agua Rica Dive Center."
+   }
+  ],
+  "season": null,
+  "check_in": {
+   "text": "14:00",
+   "quote": "Check-in from 14:00. Reception is open 24/7, so late arrivals are no problem."
+  },
+  "check_out": {
+   "text": "12:00",
+   "quote": "Check-out until 12:00. Need to store bags? Ask at reception."
+  },
+  "access": {
+   "text": "Shuttles and airport transfers can be booked at reception",
+   "quote": "Leaving the hostel? We book your ride at reception during your stay."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "A Tamarindo hostel with a pool, surf camp and dive camp on land; 'Botella' is not a boat and nothing shows a floating structure, so floating-hotels is rejected.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/4235007391",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Boutique hotel shaped like a ship, with one room per country",
+  "category_quote": null,
+  "confidence": 0.2,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Light House Jurmala",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 11,
+   "quote": "There are eleven guestrooms and each of them represents a tiny part of a particular country."
+  },
+  "amenities": [
+   {
+    "text": "Private beach with sun beds and umbrellas",
+    "quote": "Private beach with sun beds, umbrella sunshades and beach towels"
+   },
+   {
+    "text": "Free WiFi",
+    "quote": "WIFI free of charge in all hotel"
+   },
+   {
+    "text": "Free parking",
+    "quote": "Free parking near hotel area"
+   },
+   {
+    "text": "Restaurant",
+    "quote": "Exquisite restaurant Light House Jurmala situated right on the shore of Riga Gulf"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Ship-like architecture and interior",
+    "quote": "The architecture of the hotel edifice is a kind of reminiscence of a navigating ship"
+   },
+   {
+    "text": "Private terrace with Baltic Sea view in every room",
+    "quote": "Every room has a private terrace, exposing wide panorama of the Baltic Sea"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Directly on the shore of the Riga Gulf",
+   "quote": "is located directly on the shore of the Riga Gulf"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "A boutique hotel styled like a ship with country-themed rooms; it is not a lighthouse or lighthouse keeper's house, so lighthouse-hotels is name-only and rejected.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/4284542755",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.1,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Auto Camp GROTTA Blagaj",
+  "property_type": "camp",
+  "address": "Blagaj, 12 km southeast of Mostar, Bosnia and Herzegovina",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Fishing, cycling, cafe bar, traditional food",
+    "quote": "Nudimo ribolov, biciklizam, caffe bar, tradicionalna jela"
+   },
+   {
+    "text": "Electric, water, bathroom and grill hookups",
+    "quote": "Priključci za struju, vodu, kupatila, grill, vanjski tuševi"
+   }
+  ],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "On the Buna river bank, 12 km southeast of Mostar",
+   "quote": "Auto Camp GROTTA Blagaj je smješten uz obalu rijeke Bune, 12 km jugoistočno od Mostara"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "A riverside campsite in Blagaj; nothing says it is a cave stay, and the page is largely unrelated engineering-services template text, so cave-hotels is name-only and rejected.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/4332460947",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.1,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Castle House Luxury Apartments",
+  "property_type": "apartment",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "High-speed internet in every room",
+    "quote": "The building offers high speed, stable internet in every room"
+   },
+   {
+    "text": "Heated bathroom floor and heated towel rack",
+    "quote": "It has a heated floor and heated towel rack"
+   },
+   {
+    "text": "Kitchen with refrigerator, dishwasher and cooktop",
+    "quote": "The small kitchen has a refrigerator, dish washer, toaster, kettle, french"
+   }
+  ],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Reykjavik city centre location",
+   "quote": "Perfect Reykjavik City Center Location."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Self-catering apartments in Reykjavik's city centre in a building named Castle House; no castle is described, so castle-hotels rests on the name and is rejected.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/4406042267",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.15,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Victoria Cliff Hotel & Resort",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 40,
+   "quote": "our 4-star hotel has 40 luxurious rooms, furnished with modern style wooden furniture and access to full amenities"
+  },
+  "amenities": [
+   {
+    "text": "Spa",
+    "quote": "Selection of facial massage, body scrubs, therapies and foot massages"
+   },
+   {
+    "text": "Swimming pool and Jacuzzi",
+    "quote": "taking a drived into our swimming pool and Jacuzzi after exercise is also a refreshing treat"
+   },
+   {
+    "text": "Fitness centre",
+    "quote": "Featuring modern exercises equipments at the centre, you will never have to skip your exercise routines again"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Sea-view panorama",
+    "quote": "with uninterrupted Panorama View of the tranquil Andaman Sea"
+   },
+   {
+    "text": "Events for up to 500 guests",
+    "quote": "We are the only Resort in Kawthaung that can accommodate up to 500 guests"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "10 to 25 minute drive from popular destinations and the domestic airport",
+   "quote": "is only a 10 to 25 minute drive from various popular destinations and Kawthong s Domestic Airport"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Name suggests a cliff, but the site describes an ordinary 4-star seaside resort with 40 rooms and no rooms built on a cliff.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/4575983495",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.15,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Grand Castle Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Free Wi-Fi, air conditioning and flat-screen TV in rooms",
+    "quote": "включая бесплатный Wi-Fi, кондиционер и телевизор с плоским экраном"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Rooms from standard to King-Size luxury",
+    "quote": "Наши номера варьируются от уютных стандартных до роскошных люксов с кроватями размера «King-Size»"
+   }
+  ],
+  "season": null,
+  "check_in": {
+   "text": "14:00",
+   "quote": "Стандартное время заезда в наш отель — 14:00"
+  },
+  "check_out": {
+   "text": "12:00",
+   "quote": "Основное время выезда — 12:00"
+  },
+  "access": {
+   "text": "In the city centre of Urgench",
+   "quote": "Мы предлагаем элегантные номера, современные удобства и первоклассный сервис в самом центре города"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Castle appears only in the hotel name; the site describes a standard city-centre hotel with no castle building.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/458867305",
+  "is_lodging": false,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.25,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": "alpine bivouac shelter (club refuge)",
+  "official_name": "Refuge Igloo des Pantalons Blancs",
+  "property_type": "other",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only a redirect page and a German Wikipedia extract are available; it describes a club bivouac at 3280 m with no ice structure and no bookable stay, so the ice-hotel match rests on the name alone.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/4695024889",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.2,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Paradise Cave Hostel & Guesthouse",
+  "property_type": "hostel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Free private parking",
+    "quote": "Free Private Parking – On-site and no reservation needed"
+   },
+   {
+    "text": "Breakfast",
+    "quote": "Delicious Breakfast – A great way to start your Icelandic adventure"
+   },
+   {
+    "text": "Shared kitchen",
+    "quote": "Shared Kitchen – Fully equipped for preparing simple meals"
+   },
+   {
+    "text": "Bar and wine service",
+    "quote": "Bar & Wine Service – Relax with a drink after a day of exploring"
+   },
+   {
+    "text": "High-speed Wi-Fi",
+    "quote": "High-Speed Wi-Fi – Available throughout the property"
+   }
+  ],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Located just steps from Seljalandsfoss",
+   "quote": "Located just steps from Seljalandsfoss, our hostel guesthouse on the South Coast of Iceland offers"
+  },
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "Name says cave, but the site describes a hostel guesthouse beneath cliffs with no rooms carved into or inside a cave.",
+  "verdict": "rejected",
+  "dropped": [
+   "highlights 1/1"
+  ]
+ },
+ {
+  "id": "osm:node/4930983066",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.1,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Red Castle Hotel Sharjah",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Free Wi-Fi",
+    "quote": "we offer complimentary high-speed Wi-Fi in all rooms and public areas of the hotel"
+   },
+   {
+    "text": "Swimming pool, spa and gym",
+    "quote": "including a serene swimming pool, a rejuvenating spa, a state-of-the-art gym, and a luxurious Roof Top Jacuzzi"
+   },
+   {
+    "text": "Free parking",
+    "quote": "we provide free private parking for our guests"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "All-suite hotel with a free beach shuttle",
+    "quote": "take our complimentary beach shuttle for a day by the sea"
+   },
+   {
+    "text": "Rooftop jacuzzi",
+    "quote": "our hotel features a rooftop jacuzzi where guests can unwind and enjoy panoramic views of Sharjah"
+   }
+  ],
+  "season": null,
+  "check_in": {
+   "text": "From 2:00 PM",
+   "quote": "Check-in is from 2:00 PM, and check-out is until 12:00 PM"
+  },
+  "check_out": {
+   "text": "Until 12:00 PM",
+   "quote": "Check-in is from 2:00 PM, and check-out is until 12:00 PM"
+  },
+  "access": {
+   "text": "Al Layah district close to Al Corniche Beach",
+   "quote": "in the Al Layah district close to Al Corniche Beach"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Castle appears only in the hotel name; the site describes an all-suite city hotel with no castle building.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/5077417300",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.05,
+  "red_flags": [
+   "chain_generic"
+  ],
+  "other_niche_type": null,
+  "official_name": "Pullman ZamZam Makkah",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 1301,
+   "quote": "having 1,301 elegantly appointed rooms and suites with extravagant amenities"
+  },
+  "amenities": [
+   {
+    "text": "Free Wi-Fi, 24-hour reception, parking",
+    "quote": "The hotel provides essential services such as free Wi-Fi, 24-hour reception, car rentals, currency exchange, and on-site parking"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Adjoins Masjid Al Haram and the Kaaba",
+    "quote": "located in the spectacular new Clock Tower complex, directly adjoining Masjid Al Haram and the holy Kaaba"
+   },
+   {
+    "text": "Some rooms with Haram or Kaaba views",
+    "quote": "Some rooms provide breathtaking views of the Haram and Kaaba"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Pullman is a hotel brand name; the site describes a 1,301-room hotel in Makkah and mentions no railway-carriage rooms.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/510605892",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.1,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Nomad Cave Hostel",
+  "property_type": "hostel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Kitchenette with fridge, kettle and microwave",
+    "quote": "Kitchenette with fridge, kettle and microwave"
+   },
+   {
+    "text": "Linen and towels included",
+    "quote": "Linen and Towels are included in price and will be waiting for you on your bed"
+   },
+   {
+    "text": "Lobby with free Wi-Fi",
+    "quote": "With comfortable seating, free Wi-Fi, and a friendly atmosphere"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Central Stockholm location near Rådhuset station",
+    "quote": "the Rådhuset underground station provides quick and easy access to the central station of Stockholm"
+   }
+  ],
+  "season": null,
+  "check_in": {
+   "text": "After 15:00",
+   "quote": "You are welcome to your room at any time after 15:00"
+  },
+  "check_out": null,
+  "access": {
+   "text": "One metro stop from Stockholm Central",
+   "quote": "by metro, 1 stop to Rådhuset (Blue Line)"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Name says cave, but the site describes a city youth hostel in a regular building with no cave rooms.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/5400370221",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.05,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Volcano view treehouse camping and bungalow",
+  "property_type": "camp",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The only evidence is the OSM name and a domain-protection page, so no treehouse is confirmed and the name alone does not qualify.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/5750510522",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.05,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Casa Botello",
+  "property_type": "guesthouse",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The only fetched page is a Google sign-in redirect, so no floating structure or lodging detail is available.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/586484766",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.05,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Luna's Castle",
+  "property_type": "hostel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The website returned empty pages with HTTP 202, so only the name Castle is available and no castle building is confirmed.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/6220483185",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.05,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Hostel Castle",
+  "property_type": "hostel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only a Telegram contact page was fetched; the name Castle is the only hint and no castle building is described.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/6340679985",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.1,
+  "red_flags": [
+   "theme_only",
+   "listing_site"
+  ],
+  "other_niche_type": null,
+  "official_name": "Budapest Bubble Hostel",
+  "property_type": "hostel",
+  "address": null,
+  "room_count": {
+   "value": 3,
+   "quote": "The hostel has a total of just three rooms but two of them are dorms with 6 and 8 beds respectively"
+  },
+  "amenities": [
+   {
+    "text": "Free Wi-Fi",
+    "quote": "There is of course free Wi-Fi available throughout the building"
+   },
+   {
+    "text": "Shared kitchen and lounge",
+    "quote": "there is a shared kitchen and lounge which are both fantastic spots to just chill out in"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Central location near National Museum",
+    "quote": "The hostel itself is located in the absolute heart of the city with the National Museum a mere 100 yards away"
+   }
+  ],
+  "season": null,
+  "check_in": {
+   "text": "From 14:00",
+   "quote": "you are able to do so from 14:00 hours"
+  },
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The name suggests bubbles, but the page describes an ordinary small city hostel with dorms, and it carries a disclaimer that it is not the official website.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/6495869308",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Istarske Toplice",
+  "property_type": "hotel",
+  "address": "Gradinje, Istria, Croatia",
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the OSM tag and Wikipedia describe a thermal health resort; the site text is empty and no sleeping-unit niche is evidenced, so the ice-hotel queue guess is rejected.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/653304418",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Kingfisher Ecolodge",
+  "property_type": "lodge",
+  "address": "Pathouphone District, Champasak Province, Laos",
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The home page text is empty and the only evidence is an OSM hotel tag and the name, so the jungle-lodge queue guess is unsupported.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/6574389768",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [
+   "safari-lodges"
+  ],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Riverside fishing lodge on the Zambezi; the name refers to red cliffs behind the lodge, but the lodge itself is not built on a cliff.",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Redcliff Lodge",
+  "property_type": "lodge",
+  "address": "Lot No. 12648/M, Lower Zambezi Road, Luangwa, Zambia",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Swimming pool",
+    "quote": "take a dip in the pool to cool off and immerse yourself in the wonders of nature at its finest"
+   },
+   {
+    "text": "Full board meals, bar, laundry and wifi",
+    "quote": "Full board including all meals, bar snacks, teas, coffee, laundry and wifi internet"
+   },
+   {
+    "text": "Starlink wifi and solar power",
+    "quote": "A new solar power system and Starlink wi-fi are in place to ensure guest comfort."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Tiger fishing as primary attraction",
+    "quote": "with Tiger fishing as its primary attraction"
+   },
+   {
+    "text": "Sport fishing, birdwatching and river safaris",
+    "quote": "Enjoy activities such as sport fishing, birdwatching, and river safaris"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About four hours from Lusaka",
+   "quote": "set on the Zambezi River just four hours from Lusaka"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The lodge is a river fishing lodge at the edge of Lower Zambezi National Park with no stated cliff-side rooms, so the cliffside queue guess fails and no listed category is clearly supported.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/686575697",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [
+   "tour_operator"
+  ],
+  "other_niche_type": null,
+  "official_name": "Nordic Safari / Adventure Camp Mehamn",
+  "property_type": "camp",
+  "address": "Holmen, 9770 Mehamn, Norway",
+  "room_count": {
+   "value": 5,
+   "quote": "We can offer 5 high standard Rorbu Fisherman Cottages with 3 bedrooms"
+  },
+  "amenities": [
+   {
+    "text": "Seafood restaurant (by booking)",
+    "quote": "Seafood Restaurant by prior booking"
+   },
+   {
+    "text": "Sauna and showers for campers",
+    "quote": "Sauna, showers available for campers"
+   },
+   {
+    "text": "Equipment rental",
+    "quote": "Reception with local information and rental service of wilderness equipment."
+   },
+   {
+    "text": "Pier and marina for deep-sea fishing",
+    "quote": "Fully equipped pier and marina for deep-sea fishing"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Hiking to Cape Nordkyn",
+    "quote": "Hiking tours to Cape Nordkyn, the Northermost point of the European mainland"
+   },
+   {
+    "text": "Deep sea fishing",
+    "quote": "Deep sea fishing all year around"
+   }
+  ],
+  "season": {
+   "text": "Year-round",
+   "quote": "Our accommodation provides the perfect base for exploring the Arctic throughout the year."
+  },
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The business is mainly an Arctic tour operator with fisherman cottages and camping; its snowmobile and boat tours are not game drives in a reserve, so the safari-lodge queue guess is rejected.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:relation/11755659",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.5,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Hotel Domein Westhoek",
+  "property_type": "hotel",
+  "address": "Noordzeedreef 6-8, Oostduinkerke, 8670, Belgium",
+  "room_count": {
+   "value": 91,
+   "quote": "Domein Westhoek heeft in totaal 91 kamers en 36 appartementen voorzien van alle modern comfort."
+  },
+  "amenities": [
+   {
+    "text": "Swimming pool and recreation",
+    "quote": "Het domein biedt heel wat recreatieve mogelijkheden met oa. tennisterreinen, petanquebaan, fitness, zwembad, minigolf, bibliotheek"
+   },
+   {
+    "text": "Brasserie and free parking",
+    "quote": "Lekker eten kan in onze brasserie met zonneterras & gratis parkeren op ons domein!"
+   }
+  ],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "800 m from the beach in dune area",
+   "quote": "Domein Westhoek is gelegen in geklasseerd duingebied op slechts 800 meter van het strand"
+  },
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "This is an ordinary 91-room hotel in Oostduinkerke with no bubble or dome units; the name Domein is not the Dome niche, so the bubble-hotels queue guess is rejected.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/9919310907",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.5,
+  "red_flags": [
+   "chain_generic"
+  ],
+  "other_niche_type": null,
+  "official_name": "Sokroma",
+  "property_type": "apartment",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The page is a generic St Petersburg apartment-hotel chain with no jungle or other niche feature, so the jungle-lodge queue guess is rejected.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:relation/9787798",
+  "is_lodging": false,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.5,
+  "red_flags": [
+   "for_sale"
+  ],
+  "other_niche_type": null,
+  "official_name": "Whitewater Village",
+  "property_type": "other",
+  "address": "Whitewater Region, Ontario, Canada",
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The site sells fractional ownership of cottages and is not guest lodging, and the cottages are not described as overwater, so the overwater-bungalows queue guess is rejected.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/102012294",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.2,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Rebild Camping***Safari",
+  "property_type": "camp",
+  "address": "Rebildvej 17, Rebild, 9520 Skørping",
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Direct access to forest and hills",
+    "quote": "Direkte adgang til skov og bakker, hvor det kuperede landskab ligger lige ved campingpladsen"
+   }
+  ],
+  "season": {
+   "text": "Winter camping season 1 Oct 2026 to 1 Apr 2027",
+   "quote": "Vinters son 1/10 2026 til 1/4 2027"
+  },
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Ordinary Danish campsite with cabins; Safari appears only in the name and no game drives or safari camp are described.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/109252381",
+  "is_lodging": true,
+  "operating_status": "seasonal",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.2,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Camping Safari",
+  "property_type": "camp",
+  "address": "Viale Titano, 130 - 48015 Pinarella di Cervia (RA)",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "300 pitches with electric hookup",
+    "quote": "300 piazzole tutte dotate di attacco luce"
+   }
+  ],
+  "highlights": [],
+  "season": {
+   "text": "Open 18 Apr to 14 Sep 2026",
+   "quote": "Apertura dal 18 aprile 2026 al 14 settembre 2026"
+  },
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "Standard beach campsite in Pinarella di Cervia; Safari is only in the name and the 2026 season has ended per the site.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/114923601",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.2,
+  "red_flags": [
+   "theme_only",
+   "chain_generic"
+  ],
+  "other_niche_type": null,
+  "official_name": "Domes Lake Algarve",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Four gourmet restaurants and two bars",
+    "quote": "Indulge in four gourmet restaurants and two elegant bars"
+   },
+   {
+    "text": "Signature spa",
+    "quote": "rejuvenate at our signature Soma Spa"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Private seawater lake with wooden deck",
+    "quote": "Our lake features a 1.2km wooden deck scented with fig and almond trees"
+   },
+   {
+    "text": "Palatial suites around a seawater lake",
+    "quote": "stay in palatial accommodations surrounding a private seawater lake"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "Luxury lakeside resort in Vilamoura; the only link to bubbles is the Domes brand name, and the site describes suites and residences, not bubble units.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/1211830267",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.25,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "FinnDome",
+  "property_type": "camp",
+  "address": "Liitostie 92, 28220 Pori, Suomi/Finland",
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Small idyllic campsite near many activities",
+    "quote": "Pieni ja idyllinen leirintäalue lähellä monia aktiviteetteja"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Five minutes from city centre",
+   "quote": "vain viiden minuutin päässä keskustasta"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Small campsite in Pori; the name suggests a dome but the site never describes a transparent bubble or dome unit, so no category is assigned.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/1241117437",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.2,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Hotel Golden Dome",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 36,
+   "quote": "Meillä on 36 tyylikkäästi sisustettua huonetta"
+  },
+  "amenities": [
+   {
+    "text": "Sauna",
+    "quote": "Sauna on käytettävissäsi iltaisin"
+   },
+   {
+    "text": "Free parking",
+    "quote": "Pysäköinti hotellimme parkkipaikoilla on maksutonta kaikille asiakkaillemme"
+   },
+   {
+    "text": "Free Wi-Fi",
+    "quote": "Wifi-yhteys on maksuton kaikille asiakkaillemme"
+   },
+   {
+    "text": "Pet-friendly rooms",
+    "quote": "Hotellissamme lemmikit ovat tervetulleita ja meillä on erityisiä huoneita"
+   },
+   {
+    "text": "EV charging points",
+    "quote": "Hotellimme pihassa on latauspisteet sähköautoille"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Historic boutique hotel",
+    "quote": "Yksilöllisesti sisustettu, historiallinen boutique-hotellimme tarjoaa täydellisen levähdyspaikan"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Easy to reach by good transport links",
+   "quote": "Erinomaisten liikenneyhteyksien ansiosta meille on helppo saapua."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Boutique hotel in Iisalmi; the name refers to the hotel's own dome-like branding, not a bubble or dome unit.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/1335121325",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.1,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Ocean El Faro",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The only page is a maintenance notice with no description, so the niche cannot be confirmed; the name alone is not enough for lighthouse-hotels.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/153838722",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [
+   "cliffside-hotels"
+  ],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Lighthouse Golf & Spa Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Three golf courses and golf academy",
+    "quote": "Three of the finest signature golf courses in Europe"
+   },
+   {
+    "text": "3,000 m² spa and wellness centre",
+    "quote": "3,000 m² Spa & Wellness Centre"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Resort perched on white cliffs above the Black Sea",
+    "quote": "Perched atop the dramatic white cliffs of Bulgaria s northern Black Sea coast"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "40 minutes from Varna Airport",
+   "quote": "It is 40 minutes from Varna Airport and 5 km from the town of Balchik."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Golf and spa resort on the Black Sea cliffs; the name refers to nothing lighthouse-like and the site does not say rooms are built on the cliff face.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/205322745",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [
+   "safari-lodges"
+  ],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "SAFARI PARK RESORT : HOTEL SAFARI LODGE 4*",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Heated pool in hotel atrium",
+    "quote": "Pro relaxaci můžete využít také přihřívaný bazén v atriu hotelu"
+   },
+   {
+    "text": "Breakfast at Lemur restaurant",
+    "quote": "Pro hotelové hosty jsme připravili bohatou snídani v restaurantu Lemur"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Unlimited entry to walking part of the safari park",
+    "quote": "neomezený vstup do pěší části safari parku po celou dobu pobytu"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Hotel in a zoo-style safari park; the evidence shows a park-themed hotel with no game drives or reserve setting, and the queue URL (safarikemp.cz) points to a campsite while the pages are the hotel.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/295640022",
+  "is_lodging": false,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.7,
+  "red_flags": [
+   "event_venue_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Château de Trédion",
+  "property_type": "other",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The site is a wedding venue with testimonials only; no sleeping rooms are described, so it is not lodging.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/417065879",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Cueva Nica",
+  "property_type": "hostel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Restaurant and in-house bar",
+    "quote": "Our small restaurant and bar serve Nicaraguan dishes, cold drinks, and a few international favorites. Breakfast is always included."
+   },
+   {
+    "text": "Spanish classes and local tours",
+    "quote": "You can also join Spanish classes with our partner Nicas ELE or book one of our Tours & Activities to see more of Granada and the surroundings."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Pre-Columbian petroglyph-inspired murals throughout the hostel",
+    "quote": "Throughout the hostel, vibrant murals inspired by pre-Columbian petroglyphs celebrate the beauty of Nicaragua"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Central Granada, on Calle Real Xalteva",
+   "quote": "We are located in the heart of Granada, on Calle Real Xalteva."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Site describes an ordinary central Granada hostel; the cave name is the only link to the cave-hotel category and no page describes cave rooms.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/728027960",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [
+   "chain_generic"
+  ],
+  "other_niche_type": null,
+  "official_name": "Pullman Singapore Orchard",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 326,
+   "quote": "Pullman Singapore Orchard features 326 smart rooms and suites, ranging from Classic Rooms, to Club Residences, and Pullman Suite."
+  },
+  "amenities": [
+   {
+    "text": "Outdoor swimming pool",
+    "quote": "Pullman Singapore Orchard has an outdoor swimming pool available for guests."
+   },
+   {
+    "text": "24-hour fitness centre",
+    "quote": "The hotel has a fully equipped Fitness Centre for guests that operates 24 hours daily."
+   },
+   {
+    "text": "Padel court on the roof",
+    "quote": "Pullman Singapore Orchard features a Padel Court located at the roof overlooking Orchard cityscape"
+   },
+   {
+    "text": "Beach club with swim-up bar",
+    "quote": "P.S.O. Beach Club is the only beach club experience on Orchard Road, featuring chic cabanas, a swim-up bar, and sun-kissed cocktails for urban relaxation."
+   },
+   {
+    "text": "Restaurant and bars",
+    "quote": "The hotel has four dining venues: Eden Restaurant (Modern Asian cuisine), Atelier Lounge & Bar (cocktails and bites)"
+   },
+   {
+    "text": "In-room screen casting",
+    "quote": "All rooms are equipped with screen casting so you can stream your favourite shows directly on the in-room TV."
+   },
+   {
+    "text": "Meeting and event spaces",
+    "quote": "Pullman Singapore Orchard offers a range of meeting and event spaces designed for corporate events, conferences, and executive meetings"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Pillarless Gallery event spaces with LED screens",
+    "quote": "The Gallery event spaces are pillarless, featuring LED screens and natural daylight"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Within a 5-minute walk of Orchard and Somerset MRT stations",
+   "quote": "Located just a 5-minute walk from Orchard and Somerset MRT stations, Pullman Singapore Orchard connects you effortlessly"
+  },
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "Standard 5-star city hotel on Orchard Road; the Pullman name is a hotel brand and the site describes no train or carriage accommodation.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/88206036",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Park de Vuurtoren",
+  "property_type": "camp",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Chalets and mobile homes",
+    "quote": "Chalets, mobile homes, speeltuinen en zwembad — drie generaties gastvrijheid aan de Belgische kust."
+   },
+   {
+    "text": "Playground, pool, sports and bike routes",
+    "quote": "Speeltuin, zwembad, sport, fietsroutes — iedereen vindt zijn vakantie."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "About 900 m from the sea",
+    "quote": "Met meer dan 60 jaar ervaring verwelkomen we u en uw gezin op onze camping in Knokke-Heist op slechts 900m van de zee."
+   },
+   {
+    "text": "Direct access to the dunes and sand",
+    "quote": "Wandel binnen 15 minuten met blote voeten in het zand."
+   }
+  ],
+  "season": {
+   "text": "Open all year",
+   "quote": "Het hele jaar door geopend"
+  },
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Centrally located on the Belgian coast in Knokke-Heist",
+   "quote": "Centraal gelegen aan de Belgische kust in Knokke-Heist"
+  },
+  "audience": "family_friendly",
+  "best_for": [
+   "families"
+  ],
+  "reason": "Family campsite with chalets and mobile homes on the Belgian coast; the lighthouse name is the only link to the lighthouse category and no page mentions a lighthouse.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/94709002",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Hotel Höhlenstein",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Wellness centre",
+    "quote": "Recharge your batteries in our wellness centre accompanied by calming relaxation music."
+   },
+   {
+    "text": "Restaurant with Tyrolean atmosphere",
+    "quote": "The interior of the “Kasskessl” restaurant has a typical magical Tyrolean atmosphere with a touch of elegant style."
+   },
+   {
+    "text": "Rooms with balcony and robes",
+    "quote": "all rooms come as standard with quality mattresses, a balcony with pleasant seating area, tea and coffee sets, dressing gowns and slippers."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Mountain valley setting near Hintertux glacier",
+    "quote": "Hotel Höhlenstein nestles in the picturesque Tuxertal valley, in the small town of Juns , surrounded by majestic mountains, including the dominant, year-round snow covered glacier Hintertux"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "In the Tuxertal valley, in the small town of Juns, Tux",
+   "quote": "Hotel Höhlenstein nestles in the picturesque Tuxertal valley, in the small town of Juns , surrounded by majestic mountains, including the dominant, year-round snow covered glacier Hintertux"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Four-star Tyrolean hotel with rooms, restaurant and wellness; the cave-like name is the only link to cave-hotels and no page mentions caves.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/977922543",
+  "is_lodging": false,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.1,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Baltic Cliff Apartments",
+  "property_type": "apartment",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The fetched website is an online casino page with no content about the property, so there is no evidence of lodging or a cliff feature; the OSM apartment tag and name are the only sources and this needs a re-fetch or rejection.",
+  "verdict": "rejected",
+  "dropped": []
+ }
+]
