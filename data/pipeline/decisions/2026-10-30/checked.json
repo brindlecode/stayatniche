@@ -1,0 +1,33 @@
+[
+ {
+  "id": "osm:node/14323187568",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.1,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Castello Apartments",
+  "property_type": "apartment",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name 'Castello' hints at a castle; the site's pages are for Harmony, Nature and Ortansia villas (modern and traditional villas with pools, no castle), and the Castello Apartments page itself was not in the evidence, so no castle feature is supported.",
+  "verdict": "rejected",
+  "dropped": []
+ }
+]
