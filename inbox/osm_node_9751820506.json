@@ -1,0 +1,36 @@
+{
+ "id": "osm:node/9751820506",
+ "name": "Namsen Salmon & Train Experience",
+ "queueStatus": "weak",
+ "queueCategory": "train-hotels",
+ "categories": [
+  "train-hotels"
+ ],
+ "lat": 64.4672,
+ "lng": 12.049577,
+ "country": "Norway",
+ "city": "Trøndelag",
+ "region": null,
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": "Q137733781",
+ "wikidataDescription": "hotel in Norway on a former railway bridge",
+ "website": "https://www.nste.no/",
+ "fetchedAt": "2026-10-26T06:25:28.339Z",
+ "pages": [
+  {
+   "url": "https://www.nste.no/",
+   "kind": "home",
+   "title": "Unike opplevelser i hjertet av Namdalen - Namsen Salmon &amp; Train Experience",
+   "description": "Namsen Salmon &amp; Train Experience er et helt unikt konsept der du kan spise og overnatte på et tog står plassert på en 180 m lang bru over en av landets beste lakseelver, Namsen i Overhalla kommune.",
+   "text": "Unike opplevelser i hjertet av Namdalen - Namsen Salmon & Train Experience\nHopp rett til innholdet\nUnike opplevelser i hjertet av Namdalen\nLes mer\nVåre tjenester\nLaksefiske\nOvernatting\nMatservering\nArrangementer\nLivestream\nSiste innlegg\nWobbler dag 31.05.2021\n12 april 2021\nDagen før dagen åpner vi kl 12.00 med en wobblerdag. Wobblermakere, båtprodusent og foredrag er ...\nLes mer\nSpansk Tv\n15 januar 2020\n6 mars kl  kommer vi på spansk Tv, TVE-2. Det ser ut som om vi ...\nLes mer\nLakseåpning 2019\n05 juni 2019\nNamdaslsavisa etter lakseåpninga 2019. Helsides reportasje. Jon Furberg og Bjørnar Ervig med årets første laks ...\nLes mer\nSkroll til toppen"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.nste.no/",
+ "httpStatus": 200,
+ "htmlLang": "nb-NO"
+}

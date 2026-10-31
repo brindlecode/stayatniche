@@ -1,0 +1,43 @@
+{
+ "id": "osm:way/1507430207",
+ "name": "Baumhaus Thurgau",
+ "queueStatus": "verified",
+ "queueCategory": "treehouse-hotels",
+ "categories": [
+  "treehouse-hotels"
+ ],
+ "lat": 47.503865,
+ "lng": 9.210847,
+ "country": "Switzerland",
+ "city": "Bischofszell",
+ "region": "Thurgau",
+ "osm": {
+  "tourism": "guest_house"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.baumhaus-thurgau.ch/",
+ "fetchedAt": "2026-10-26T06:23:37.937Z",
+ "pages": [
+  {
+   "url": "https://baumhaus-thurgau.ch/en/home-2/",
+   "kind": "home",
+   "title": "Baumhaus B&amp;B | Die Seele mal Baum-eln lassen",
+   "description": "",
+   "text": "Baumhaus B&B | Die Seele mal Baum-eln lassen\nBaumhaus B&B\neinfach SEIN\n+++ Please vote for us: here +++\nGruezi !\nThe Treehouse in Halden is an extraordinary place to stay.  The small village of Halden, part of the historic city of Bischofszell, lies adjacent to the Bodensee, Konstanz, St Gallen, as well as the beginning of the Alps.\nThis\none of a kind accommodation in the trees offers a fabulous view of\nthe river Thur which you can reach in less than one minute, as well\nas views of the typical old Thurgau appletress.\nOn 23 sqM you will find modern comfort with a simple yet stylish ambiance.\nOur mission was to create a space to find your inner peace.\nThe treehouse is ideal for one to two guests and is available for special occasions via a gift voucher.\nJUST BE\nYour Hosts:\nNina Egli & Helgard Worrall\nBooking\nCONTACT\nNINA EGLI\nHELGARD WORRALL\nThurstrasse 3\n9223   Halden\nTel:      +41 79 648 92 38\nEmail: baumhaus@baumhaus-thurgau.ch\nKitchen\nIt is possible to prepare simple meals yourself\nBath\nA fully equipped bathroom with shower awaits you as well\nSleeping place\nLet yourself be carried away to sleep under the stars in the comfortable double bed in the upper area\nDiese Website benutzt Cookies. Wenn du die Website weiter nutzt, gehen wir von deinem Einverständnis aus. OK"
+  },
+  {
+   "url": "https://baumhaus-thurgau.ch/en/your-house-in-the-trees/",
+   "kind": "sub",
+   "label": "Impressions",
+   "title": "Impressions | Baumhaus B&amp;B",
+   "text": "Impressions | Baumhaus B&B\nPhotogallery\nThreehouse rules\nAbsolutely no smoking in the treehouse or on the balcony.\nNo jumping or running\nPlease wait to use the oven until after being shown how to use it.\nNo pets\nNo shoes inside, please. We will provide you with house shoes.\nBehind the scenes\nDiese Website benutzt Cookies. Wenn du die Website weiter nutzt, gehen wir von deinem Einverständnis aus. OK"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://baumhaus-thurgau.ch/en/home-2/",
+ "httpStatus": 200,
+ "htmlLang": "en-GB"
+}

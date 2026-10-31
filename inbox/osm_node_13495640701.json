@@ -1,0 +1,68 @@
+{
+ "id": "osm:node/13495640701",
+ "name": "Paolyn Houseboats",
+ "queueStatus": "weak",
+ "queueCategory": "floating-hotels",
+ "categories": [
+  "floating-hotels"
+ ],
+ "lat": 11.9441289,
+ "lng": 120.203551,
+ "country": "Philippines",
+ "city": "Coron",
+ "region": "Palawan",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.paolynhouseboatscoronisland.com/",
+ "fetchedAt": "2026-10-26T06:23:33.913Z",
+ "pages": [
+  {
+   "url": "https://www.paolynhouseboatscoronisland.com/",
+   "kind": "home",
+   "title": "Paolyn Houseboats | Only Accommodation on Coron Island – Eco-Luxury in Palawan",
+   "description": "The only accommodation on Coron Island—eco-luxury houseboats in Palawan’s private lagoons with an Italo-Filipino restaurant, snorkeling, kayaking, and private speedboat tours. Close to Twin Lagoons and Barracuda and Kayangan Lakes",
+   "text": "-->\nPaolyn Houseboats | Only Accommodation on Coron Island – Eco-Luxury in Palawan\ntop of page\nbottom of page"
+  },
+  {
+   "url": "https://www.paolynhouseboatscoronisland.com/our-side-projects",
+   "kind": "sub",
+   "label": "OUR SIDE PROJECTS",
+   "title": "SIDE PROJECTS | Direct Booking",
+   "text": "-->\nSIDE PROJECTS | Direct Booking\ntop of page\nHELPING THE TAGBANUA TRIBE COMMUNITY OF CORON ISLAND\nSince the start of this pandemic we have been donating regularly rice to the Tagbanua Tribe Community of Coron Island and we have been also paying the medicines of all Tagbanua Tribe Coron Island members that asked for it (they are around 2500 people......).\nJust between October 2021 and February 2023 we have donated over 1,000 sacks of rice (50.000 kg). We have also helped in the payment of the hospital bills, school expenses, burials expenses, schools repairs and a lot more.\nSAVING STREET CATS AND STREET DOGS\nWe have been rescuing street dogs and street cats, curing them and feeding them. We have a small rescue center close to Coron town where we do not have cages but where they are free to run and play in around 5.000 square meters of land\nRICE DONATIONS TO THE TAGABANUA TRIBE VILLAGES OF CORON ISLAND - CABUGAO AND BANUANG DAAN\nWE LOVE ALL BEINGS - THESE ARE PICTURES OF SOME OF THE RESCUED STREETS DOGS AND STREET CATS\nPINKY TODAY\nPINKY WHEN WE FOUND HIM\nSOME OF THE RESCUED DOGS AND CATS IN OUR RESCUE CENTER\nTIGRINA WHEN WE FOUND HER\nTIGRINA TODAY\nTO THE MEMORY OF WHO DID NOT MAKE IT DESPITE THE MEDICINES AND THE LOVE WE GAVE TO THEM (AND A LOT OF TIERS)\nbottom of page"
+  },
+  {
+   "url": "https://www.paolynhouseboatscoronisland.com/bookrooms",
+   "kind": "sub",
+   "label": "Book",
+   "title": "Book | Direct Booking",
+   "text": "-->\nBook | Direct Booking\ntop of page\nPAOLYN HOUSEBOATS ROOMS/ACCOMMODATIONS\nIN CASE THE SYSTEM SHOWS NO AVAILIBILITY , PLEASE ALWAYS SEND US A MESSAGE ON WHATSAPP SINCE WE EXPERIENCED THAT THIS BOOKING SYSTEM SHOWS NOT AVAILIBILITY IF ANOTHER GUEST IS JUST LOOKING AT THE SAME ROOM (since we have only 16 rooms in total of all type)!\nIF CHILDRENS ARE PART OF THE GROUP:\nUnfortunately this booking system does not accept the selection for kids, please add them to the Adults number if your kids are older than 2 years. Do not add them if they are less than two years old and please advise about them in the \"note\" of the reservation before to complete your booking since they will be free in all the family rooms!\nThe prices here displayed contain already 5% discount. (except for the 4 weeks of Christmas, Chinese New Year and Holy Week Holidays). Direct booking prices (before the discount) are already cheaper of any other online booking platform\nWatch a video of these rooms\nbottom of page"
+  }
+ ],
+ "jsonLd": [
+  {
+   "@type": [
+    "Hotel",
+    "LodgingBusiness"
+   ],
+   "name": "Paolyn Houseboats Coron Islands",
+   "description": "Eco-luxury houseboats in private lagoons on Coron Island with direct lagoon access, snorkeling, kayaks, AC, Starlink internet, private speedboat tours, and gourmet Italo-Filipino cuisine.",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Laknisan Lagoon, Coron Island",
+    "addressLocality": "Coron",
+    "addressRegion": "Palawan",
+    "addressCountry": "PH"
+   },
+   "telephone": "+639051667804",
+   "url": "https://www.paolynhouseboatscoronisland.com/"
+  }
+ ],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.paolynhouseboatscoronisland.com/",
+ "httpStatus": 200,
+ "htmlLang": "en"
+}

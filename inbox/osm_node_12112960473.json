@@ -1,0 +1,36 @@
+{
+ "id": "osm:node/12112960473",
+ "name": "Domen",
+ "queueStatus": "weak",
+ "queueCategory": "bubble-hotels",
+ "categories": [
+  "bubble-hotels"
+ ],
+ "lat": 63.6796194,
+ "lng": 10.6723185,
+ "country": "Norway",
+ "city": "Trøndelag",
+ "region": null,
+ "osm": {
+  "tourism": "chalet"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.hjellupfjordbo.no",
+ "fetchedAt": "2026-10-26T06:24:55.499Z",
+ "pages": [
+  {
+   "url": "https://hjellupfjordbo.no/",
+   "kind": "home",
+   "title": "Home - Hjellup Fjordbo",
+   "description": "Hjellup Fjordbo – bo i feriehus eller domeved Trondheimsfjorden Fred og ro ved fjorden45 min fra TrondheimUnike overnattinger Se hva [&hellip;]",
+   "text": "Home - Hjellup Fjordbo\nHopp rett til innholdet\nHjellup Fjordbo\n– bo i feriehus eller dome\nved Trondheimsfjorden\nNødvendige felt følges av *\nSjekk inn *\nSjekk ut *\nAntall gjester\nFred og ro ved fjorden\n45 min fra Trondheim\nUnike overnattinger\nSe hva du kan velge mellom\nVåre overnattingstilbud\nDome Smiberget\nSpektakulær overnatting ved Trondheimsfjorden.\nles mer\nFeriehusene\nFlott beliggenhet. Stue, kjøkkenkrok, bad og tre soverom.\nles mer\nLitj-stua\nSjarmerende minihus som ligger høyt og fritt – men likevel i nærheten.\nles mer\nFasiliteter\nHøy standard og trivelig miljø\n24 7 Resepsjon​\nSikkert Wi-Fi​\nHårføner\nPrivat strand\nServering\nSengetøy​\nToalettsaker\nVår lille gavebutikk\nTurmuligheter​\nGavekort\nBadstue og jacuzzi\nBoergeiter\nRekreasjon og retreat\nLes mer om hva vi kan tilby\nOg hvordan du kan kontakte oss\nKlikk her\nOm Marit og Ola\n– som ønsker deg velkommen\nRom for gode opplevelser\nPå Hjellup driver vi gård, et anlegg med fem feriehus, en spektakulær dome på ei berghylle rett ved Trondheimsfjorden og andre overnattingstilbud.\nGården og ferieanlegget vårt ligger vakkert og sørvendt til på Fosenhalvøya. Her kan du senke skuldrene, finne roen og få opplevelser i form av fine turer i naturen og på fjorden. Fra Hjellup Fjordbo er det kort vei til tettstedet Leksvik – med dagligvareforretning, andre servicetilbud og kulturaktiviteter.\nGalleri\nTa en titt inn i vår verden\nStill dine spørsmål\nFirst Name\nEmail\nMessage\nSend\nThe form has been submitted successfully!\nThere has been some error while submitting the form. Please verify all form fields again.\nStill dine spørsmål\nSpør oss om det du lurer på om Hjellup Fjordbo.\nEller\nBestill overnatting\nNorsk English\nDeutsch"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://hjellupfjordbo.no/",
+ "httpStatus": 200,
+ "htmlLang": "nb-NO"
+}
