@@ -1,0 +1,66 @@
+{
+ "id": "osm:node/14351300962",
+ "name": "Atmosphere Suite",
+ "queueStatus": "weak",
+ "queueCategory": "bubble-hotels",
+ "categories": [
+  "bubble-hotels"
+ ],
+ "lat": 44.0297589,
+ "lng": 12.6233784,
+ "country": "Italy",
+ "city": "Rimini",
+ "region": "Emilia-Romagna",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.atmospheresuitehotel.com/",
+ "fetchedAt": "2026-11-07T07:21:19.344Z",
+ "pages": [
+  {
+   "url": "https://www.atmospheresuitehotel.com/",
+   "kind": "home",
+   "title": "Suite Hotel Rimini a Rimini vicino al mare - Atmosphere Suite Hotel Rimini",
+   "description": "Atmosphere Suite Hotel Rimini: elegante quattro stelle sull’Adriatico in villa Liberty a Miramare. Camere e suite con balcone, comfort moderni e vista mare.",
+   "text": "Suite Hotel Rimini a Rimini vicino al mare - Atmosphere Suite Hotel Rimini\n\">\nSpazi luminosi, dettagli curati e tutto il piacere di un soggiorno a quattro stelle in Riviera Adriatica\nAll' Atmosphere Suite Hotel di Rimini vivi l'esperienza di un Quattro Stelle affacciato sull'Adriatico , custodito in un'antica villa in stile Liberty direttamente sul lungomare di Miramare di Rimini .\nNelle 16 Camere e Suite trovi ambienti luminosi in cui il bianco degli arredi abbraccia il nero in un raffinato equilibrio di comfort e design.\nPuoi scegliere la libertà della Formula Solo Dormire oppure il piacere di un soggiorno in Camera e Colazione , per una vacanza al mare dedicata al dolce relax.\nUN Gioiello LIBERTY FRONTE Mare\nA Miramare di Rimini , un'autentica villa in stile Liberty diventa un raffinato Hotel 4 Stelle in cui luce, design e attenzione per i dettagli danno vita a un'atmosfera incantata. Le Camere e Suite vista Adriatico trasformano la tua vacanza al mare a Rimini in un'esperienza esclusiva, tra charme senza tempo e comfort moderno.\nprenota ora\nDOVE IL Comfort INCONTRA l'Orizzonte\nLe 16 Camere e Suite , con balcone e pareti insonorizzate , sono dotate di aria condizionata autonoma , TV LCD, cassetta di sicurezza, angolo cottura e bagno privato. Le Camere Familiari con divano letto , inoltre, possono accogliere fino a due persone in più. Scegli tra la Formula Solo Dormire o Camera e Colazione , e concediti il piacere di staccare la spina come hai sempre sognato.\nprenota ora\nColazione CON\nVISTA E Gusto\nAll'Atmosphere Suite Hotel di Rimini ti aspetta una colazione a buffet ricca e genuina , avvolta dal profumo di pane caldo e dolci fatti in casa. Croissant fragranti, confetture artigianali, frutta fresca, salumi, formaggi, uova e proposte dolci e salate compongono un risveglio di gusto autentico, ideale per iniziare con energia la tua vacanza al mare in famiglia.\nprenota ora\nArea relax con piccola PISCINA IDROMASSAGGIO ESTERNA\nQuando fa caldo puoi rilassarti nella piccola piscina esterna con idromassaggio , uno spazio intimo di circa 20 mq e profondo 60 c m, pensato per concederti momenti di puro relax. Un angolo tranquillo dove lasciarti avvolgere dall'acqua e goderti il piacere del tempo lento, a pochi passi dal mare di Rimini.\nprenota ora\nUna colazione da Re\nAria condizionata\nParcheggio\nWi-Fi gratuito\nOgni mattina trovi una colazione a buffet fresca e abbondante , avvolta dal profumo del pane caldo e dei dolci fatti in casa, che regala fin da subito una piacevole sensazione di familiarità.\nLa tua vacanza al mare in famiglia inizia tra croissant fragranti, marmellate artigianali, frutta di stagione, salumi, formaggi, uova e tante specialità dolci e salate, per un risveglio di gusto autentico e pieno di energia.\nIl benessere passa anche dalla libertà di scegliere la temperatura ideale in qualsiasi momento.\nAll'Atmosphere Suite Hotel di Rimini, l' aria condizionata autonoma delle camere e suite crea un clima perfetto e silenzioso durante le giornate estive, o piacevolmente regolato nelle stagioni più miti, per un soggiorno che rigenera davvero.\nSe scegli di raggiungere Rimini in auto, l'Atmosphere mette a disposizione un comodo parcheggio privato su richiesta .\nUn servizio pratico e sicuro che semplifica la tua vacanza in Riviera.\nIl Wi-Fi gratuito in tutta la struttura , dalle camere agli spazi comuni, ti accompagna in ogni istante.\nChe tu voglia lavorare o condividere i tuoi momenti di vacanza, puoi contare su una rete veloce e stabile, pensata per offrire comfort e libertà durante l'intero soggiorno.\n\">\n4,4\nEccellente\n9,1\nMolto buono\n-->\nArrivo\nPartenza\nTrattamento\nCamere\nCamera 1\nAdulti\nBambini\nEtà 1\nEtà 2\nEtà 3\nCamera 2\nAdulti\nBambini\nEtà 1\nEtà 2\nEtà 3\nCamera 3\nAdulti\nBambini\nEtà 1\nEtà 2\nEtà 3\nCamera 4\nAdulti\nBambini\nEtà 1\nEtà 2\nEtà 3\nACCETTO L'INFORMATIVA SULLA PRIVACY\nAutorizzo il trattamento dei dati personali da me forniti nei limiti risultanti dalla Legge sulla privacy.\nVOGLIO RICEVERE OFFERTE ESCLUSIVE!\nDo il consenso a ricevere materiale informativo tramite newsletter.\nrichiedi\npreventivo\nGaranzia\nmiglior prezzo\ncancellazione gratuita\ntariffe vantaggiose\ntanti servizi che aspettano solo te\ndove siamo\nchiudi\nrichiedi\npreventivo\nprenota ora"
+  }
+ ],
+ "jsonLd": [
+  {
+   "@type": "Hotel",
+   "name": "Atmosphere Suite Hotel Rimini",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Viale Principe di Piemonte, 41",
+    "addressLocality": "Miramare di Rimini",
+    "addressRegion": "(RN)",
+    "postalCode": "47924",
+    "addressCountry": "IT"
+   },
+   "telephone": "+39 0541 478796",
+   "starRating": {
+    "@type": "Rating",
+    "ratingValue": null
+   },
+   "amenityFeature": [
+    "Una colazione da Re",
+    "Aria condizionata",
+    "Parcheggio",
+    "Wi-Fi gratuito"
+   ],
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": null,
+    "longitude": null
+   },
+   "url": "https://www.atmospheresuitehotel.com"
+  }
+ ],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.atmospheresuitehotel.com/",
+ "httpStatus": 200,
+ "htmlLang": "it"
+}

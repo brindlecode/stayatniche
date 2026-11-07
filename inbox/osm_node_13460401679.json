@@ -1,0 +1,36 @@
+{
+ "id": "osm:node/13460401679",
+ "name": "Pourvoirie Safari",
+ "queueStatus": "weak",
+ "queueCategory": "safari-lodges",
+ "categories": [
+  "safari-lodges"
+ ],
+ "lat": 46.6287665,
+ "lng": -70.4734652,
+ "country": "CA",
+ "city": "Saint-Philémon",
+ "region": null,
+ "osm": {
+  "tourism": "chalet"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "http://www.chevaux.com",
+ "fetchedAt": "2026-10-25T06:18:12.632Z",
+ "pages": [
+  {
+   "url": "http://www.chevaux.com/",
+   "kind": "home",
+   "title": "Ranch Massif du Sud",
+   "description": "En famille ou entre amis, vivez au rythme des cow-boys ! s�jour �questre. Chassez le gibier. Randonn�e en motoneige. Partez � la recherche de l",
+   "text": "Ranch Massif du Sud\nR ANCH\nM ASSIF DU S UD\nVivez\nla ru�e vers l'or au pays des cow-boys\net\ndes prospecteurs ! � pied ou � cheval.\nVous\ndormirez au Ranch, sous un teepee ou\ndans\nun chalet selon votre d�sir.\nVous\nserez initi�s aux techniques modernes\net\nanciennes de prospection de l'or.\nInt�r�t Majeur\nVivez\nla ru�e vers l or, visite de la mine d or, visite du mus�e de l or,\ninitiation\n� la prospection avec d�couverte d or garantie.\nActivit�s\net Services\n�quitation\nen tout temps de l ann�e, tous les jours, adapt�s � diverses client�les\nP�che,\nchasse � cheval, raquette, motoneige.\nDevenez\nchercheur d'or et vivez l'aventure\ndes\nmontagnes et vall�es � Saint-Phil�mon\n(situ� �\nune heure de Qu�bec ainsi qu'� moins d'un km du centre de ski)\nDistinctions\ntouristiques\nLaur�at\nr�gional du prix de l innovation en 1994 et 1995.\nFinaliste\nnational pour le prix de l innovation au\nGrand\nPrix du Tourisme Qu�b�cois en 1994.\nHoraire\nTous\nles jours, � l ann�e (Forfaits 4 saisons)\nN'oubliez\npas que le temps file au galop !\nRanch\nMassif du Sud Inc.\n149,\nroute du Massif du Sud.\nSaint-Phil�mon,\nBellechasse\nQu�bec,\nCanada\nG0R\n4A0\nT�l :\n(418) 469-2900\nFax :\n(418) 883-2225"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "http://www.chevaux.com/",
+ "httpStatus": 200,
+ "htmlLang": null
+}
