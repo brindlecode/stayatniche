@@ -1,6 +1,6 @@
 # Hotel pipeline status
 
-Updated 2026-11-07T07:21:20.982Z. Published hotels on site: 195.
+Updated 2026-11-08T07:32:50.056Z. Published hotels on site: 195.
 
 | Category | new | verified | weak | classified | approved | rejected | duplicate | published |
 |---|---|---|---|---|---|---|---|---|
@@ -10,7 +10,7 @@ Updated 2026-11-07T07:21:20.982Z. Published hotels on site: 195.
 | castle-hotels | 0 | 7 | 761 | 225 | 11 | 596 | 23 | 45 |
 | floating-hotels | 0 | 0 | 79 | 17 | 0 | 14 | 2 | 4 |
 | bubble-hotels | 0 | 0 | 212 | 17 | 0 | 342 | 5 | 1 |
-| cliffside-hotels | 0 | 0 | 380 | 18 | 0 | 132 | 6 | 2 |
+| cliffside-hotels | 0 | 0 | 381 | 18 | 0 | 132 | 6 | 2 |
 | desert-camps | 0 | 0 | 242 | 17 | 0 | 41 | 4 | 2 |
 | jungle-lodges | 0 | 0 | 842 | 82 | 0 | 132 | 5 | 3 |
 | ice-hotels | 0 | 0 | 100 | 6 | 1 | 68 | 13 | 2 |
