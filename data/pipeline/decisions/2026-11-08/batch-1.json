@@ -1,0 +1,226 @@
+[
+  {
+    "id": "osm:node/11002880642",
+    "is_lodging": true,
+    "operating_status": "open",
+    "category": null,
+    "also_fits": [],
+    "niche_scope": "name_only",
+    "niche_unit_count": null,
+    "niche_feature": null,
+    "category_quote": null,
+    "confidence": 0.3,
+    "red_flags": ["theme_only"],
+    "other_niche_type": null,
+    "official_name": "Narrow Water Castle",
+    "property_type": "apartment",
+    "address": "Narrow Water Castle, Warrenpoint, Co. Down BT34 3LE",
+    "room_count": null,
+    "amenities": [
+      {
+        "text": "Equestrian centre within the estate",
+        "quote": "With an excellent equestrian centre within the estate, guests can avail of the chance to explore this special place on horseback too."
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Landscaped gardens, farmland and forest to stroll through",
+        "quote": "endless opportunities to stroll through the picturesque landscaped gardens, farmland and forest"
+      }
+    ],
+    "season": null,
+    "check_in": null,
+    "check_out": null,
+    "access": null,
+    "audience": "unknown",
+    "best_for": [],
+    "reason": "Castle is the property name, but the lodging is a 5 star apartment in the courtyard beside the castle, and no evidence says guests stay inside a castle, so no castle-hotel category."
+  },
+  {
+    "id": "osm:node/11232620337",
+    "is_lodging": true,
+    "operating_status": "open",
+    "category": null,
+    "also_fits": [],
+    "niche_scope": "name_only",
+    "niche_unit_count": null,
+    "niche_feature": null,
+    "category_quote": null,
+    "confidence": 0.3,
+    "red_flags": [],
+    "other_niche_type": null,
+    "official_name": "Ostello del Castello Tirano",
+    "property_type": "hostel",
+    "address": "Via Canali 17, 23037 Tirano (SO), Italy",
+    "room_count": {
+      "value": 8,
+      "quote": "Ostello in un&#x27;antica casa contadina del &#x27;400 nel centro storico di Tirano, a due passi dal Trenino Rosso del Bernina. 8 camere, colazione inclusa."
+    },
+    "amenities": [
+      {
+        "text": "Breakfast with local products (km zero)",
+        "quote": "Colazione con prodotti km zero: brioches fresche, yogurt Latteria Chiuro, mele tiranesi, salumi locali."
+      },
+      {
+        "text": "In-house laundry",
+        "quote": "Plastica al minimo, riscaldamento a pellet, lampadine LED, prodotti km zero per la colazione, lavanderia fatta in casa."
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Historic farmhouse in Tirano's old town",
+        "quote": "Un'antica casa contadina del '400 nel cuore storico di Tirano"
+      },
+      {
+        "text": "Near the UNESCO-listed Bernina Red Train",
+        "quote": "a due passi dal Trenino Rosso del Bernina — Patrimonio UNESCO"
+      }
+    ],
+    "season": null,
+    "check_in": null,
+    "check_out": null,
+    "access": null,
+    "audience": "unknown",
+    "best_for": [],
+    "reason": "A hostel in a 15th-century farmhouse; the castle in the name is a hill castle above the building, not a stay inside a castle, so no castle-hotel category."
+  },
+  {
+    "id": "osm:node/14351300962",
+    "is_lodging": true,
+    "operating_status": "open",
+    "category": null,
+    "also_fits": [],
+    "niche_scope": "unclear",
+    "niche_unit_count": null,
+    "niche_feature": null,
+    "category_quote": null,
+    "confidence": 0.4,
+    "red_flags": [],
+    "other_niche_type": null,
+    "official_name": "Atmosphere Suite Hotel Rimini",
+    "property_type": "hotel",
+    "address": "Viale Principe di Piemonte, 41, 47924 Miramare di Rimini (RN), Italy",
+    "room_count": {
+      "value": 16,
+      "quote": "Nelle 16 Camere e Suite trovi ambienti luminosi"
+    },
+    "amenities": [
+      {
+        "text": "Buffet breakfast",
+        "quote": "Ogni mattina trovi una colazione a buffet fresca e abbondante"
+      },
+      {
+        "text": "Air conditioning in each room",
+        "quote": "l' aria condizionata autonoma delle camere e suite"
+      },
+      {
+        "text": "Small outdoor hot tub pool",
+        "quote": "piccola piscina esterna con idromassaggio"
+      },
+      {
+        "text": "Private parking on request",
+        "quote": "un comodo parcheggio privato su richiesta"
+      },
+      {
+        "text": "Free Wi-Fi throughout the property",
+        "quote": "Il Wi-Fi gratuito in tutta la struttura"
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Liberty-style villa on the seafront at Miramare",
+        "quote": "custodito in un'antica villa in stile Liberty direttamente sul lungomare di Miramare di Rimini"
+      },
+      {
+        "text": "Rooms and suites with Adriatic sea views",
+        "quote": "Le Camere e Suite vista Adriatico trasformano la tua vacanza al mare"
+      }
+    ],
+    "season": null,
+    "check_in": null,
+    "check_out": null,
+    "access": null,
+    "audience": "unknown",
+    "best_for": [],
+    "reason": "Ordinary 4-star seafront hotel in a Liberty villa with no sleeping-bubble or other niche feature; the bubble-hotels queue guess is wrong."
+  },
+  {
+    "id": "osm:node/2620929032",
+    "is_lodging": true,
+    "operating_status": "open",
+    "category": null,
+    "also_fits": [],
+    "niche_scope": "name_only",
+    "niche_unit_count": null,
+    "niche_feature": null,
+    "category_quote": null,
+    "confidence": 0.3,
+    "red_flags": [],
+    "other_niche_type": null,
+    "official_name": "Hotel Il Castello",
+    "property_type": "hotel",
+    "address": "Via Panoramica, 6, 80040 Terzigno (Na), Italy",
+    "room_count": {
+      "value": 30,
+      "quote": "Trenta camere finemente arredate e dotate di ogni confort"
+    },
+    "amenities": [
+      {
+        "text": "Air conditioning, minibar and hairdryer in rooms",
+        "quote": "climatizzatori, frigo bar, phon, doccia, set di cortesia, indispensabili per godere del giusto relax"
+      },
+      {
+        "text": "Restaurant",
+        "quote": "La raffinata cucina Mediterranea del suo ristorante"
+      },
+      {
+        "text": "Event rooms for up to 250 guests",
+        "quote": "le splendide tre sale da 250, 90 e 60 posti"
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Close to Pompeii Archaeological excavations",
+        "quote": "L albergo, infatti, si trova vicinissimo agli Scavi di Pompei"
+      },
+      {
+        "text": "Gardens, fountains and terraces",
+        "quote": "I giardini, i fiori, le fontane, la hall accogliente, le sale, le terrazze"
+      }
+    ],
+    "season": null,
+    "check_in": null,
+    "check_out": null,
+    "access": null,
+    "audience": "unknown",
+    "best_for": [],
+    "reason": "A 4-star hotel with a restaurant and event rooms; the castle in the name is not linked to any castle building, so no castle-hotel category."
+  },
+  {
+    "id": "osm:way/895041947",
+    "is_lodging": true,
+    "operating_status": "unknown",
+    "category": null,
+    "also_fits": [],
+    "niche_scope": "name_only",
+    "niche_unit_count": null,
+    "niche_feature": null,
+    "category_quote": null,
+    "confidence": 0.1,
+    "red_flags": [],
+    "other_niche_type": null,
+    "official_name": "Mansfield Castle Hotel",
+    "property_type": "hotel",
+    "address": null,
+    "room_count": null,
+    "amenities": [],
+    "highlights": [],
+    "season": null,
+    "check_in": null,
+    "check_out": null,
+    "access": null,
+    "audience": "unknown",
+    "best_for": [],
+    "reason": "The only page is a generic web hosting domain page unrelated to a hotel, so there is no evidence of any castle or niche feature; is_lodging rests only on the OSM hotel tag."
+  }
+]
