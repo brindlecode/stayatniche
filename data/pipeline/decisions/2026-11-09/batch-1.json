@@ -1,0 +1,76 @@
+[
+  {
+    "id": "osm:node/10197742768",
+    "is_lodging": true,
+    "operating_status": "unknown",
+    "category": "safari-lodges",
+    "also_fits": [],
+    "niche_scope": "whole_property",
+    "niche_unit_count": 9,
+    "niche_feature": "Safari lodge in South Africa offering game viewing, with 9 air-conditioned double rooms",
+    "category_quote": "We offer you the best safari experience in South Africa.",
+    "confidence": 0.6,
+    "red_flags": [],
+    "other_niche_type": null,
+    "official_name": "Linksfontein Safari Lodge",
+    "property_type": "lodge",
+    "address": null,
+    "room_count": {
+      "value": 9,
+      "quote": "We boast 9 Air-Conditioned Luxury Double Rooms."
+    },
+    "amenities": [
+      {
+        "text": "Swimming pool",
+        "quote": "Swimming Pool, Large dining area, Indoor & Outdoor BBQ areas"
+      },
+      {
+        "text": "Spa",
+        "quote": "Those wanting a more relaxed holiday can enjoy our luxury Serenity Spa"
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Game viewing with many game species on site",
+        "quote": "36 different game animal species to observe"
+      }
+    ],
+    "season": null,
+    "check_in": null,
+    "check_out": null,
+    "access": {
+      "text": "Drive from Kimberley on the N8 to Campbell, then about 6 km on gravel road",
+      "quote": "Drive on the N8 high road from Kimberley to Griekwastad/Campbell and drive for 90 km till you reach a town called Campbell."
+    },
+    "audience": "unknown",
+    "best_for": [],
+    "reason": "Site describes itself as a safari experience with game viewing and 9 rooms, but does not explicitly mention game drives or a reserve, so confidence is moderate; operating status is unknown because the site carries only 2018 news items."
+  },
+  {
+    "id": "osm:way/1213682237",
+    "is_lodging": true,
+    "operating_status": "unknown",
+    "category": null,
+    "also_fits": [],
+    "niche_scope": "name_only",
+    "niche_unit_count": null,
+    "niche_feature": null,
+    "category_quote": null,
+    "confidence": 0.2,
+    "red_flags": ["theme_only", "chain_generic"],
+    "other_niche_type": null,
+    "official_name": "Royal Thonga Safari Lodge",
+    "property_type": "hotel",
+    "address": null,
+    "room_count": null,
+    "amenities": [],
+    "highlights": [],
+    "season": null,
+    "check_in": null,
+    "check_out": null,
+    "access": null,
+    "audience": "unknown",
+    "best_for": [],
+    "reason": "Only the name suggests a safari lodge; the linked website is a multi-property group site and none of the fetched pages (home, 10 2nd Avenue, Bilene Club Lodge, Burchell's Bush Lodge) describe Royal Thonga, so no category is supported."
+  }
+]
