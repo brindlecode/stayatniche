@@ -1,0 +1,29 @@
+[
+  {
+    "id": "osm:node/2485106720",
+    "is_lodging": true,
+    "operating_status": "unknown",
+    "category": null,
+    "also_fits": [],
+    "niche_scope": "unclear",
+    "niche_unit_count": null,
+    "niche_feature": null,
+    "category_quote": null,
+    "confidence": 0.1,
+    "red_flags": [],
+    "other_niche_type": null,
+    "official_name": "Hotel La Palapa Ecolodge Resort",
+    "property_type": "hotel",
+    "address": null,
+    "room_count": null,
+    "amenities": [],
+    "highlights": [],
+    "season": null,
+    "check_in": null,
+    "check_out": null,
+    "access": null,
+    "audience": "unknown",
+    "best_for": [],
+    "reason": "The only official-site text fetched is unrelated (a Chinese state investment group's news and tender pages), with no mention of the property, jungle, lodge or stay; the queueCategory jungle-lodges and the name 'Ecolodge' are not confirmed by any evidence, so category is null and scope unclear."
+  }
+]
