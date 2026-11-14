@@ -2,7 +2,7 @@
 title: Política de privacidad
 metaTitle: Política de privacidad | StayAtNiche
 metaDescription: "Cómo recopila, usa y protege StayAtNiche los datos personales, qué cookies y terceros intervienen y cómo puedes ejercer tus derechos de protección de datos."
-updated: 2026-09-29
+updated: 2026-11-14
 lead: Esta política explica qué información recopila StayAtNiche cuando usas stayatniche.com y qué hacemos con ella.
 ---
 
@@ -14,9 +14,15 @@ StayAtNiche («nosotros») gestiona el sitio web stayatniche.com, una guía inde
 
 **Información que nos facilitas.** Si te suscribes a nuestra newsletter o usas el formulario de contacto, recibimos los datos que introduces, como tu nombre y tu dirección de correo electrónico.
 
-**Información recopilada automáticamente.** Como la mayoría de los sitios web, nuestro proveedor de alojamiento web registra datos técnicos como tu dirección IP, el tipo de navegador y las páginas que visitas. Si hay herramientas de analítica activadas, pueden recopilar datos de uso similares y anonimizados.
+**Información recopilada automáticamente.** Como la mayoría de los sitios web, nuestro proveedor de alojamiento web registra datos técnicos como tu dirección IP, el tipo de navegador y las páginas que visitas. Con tu consentimiento también usamos Google Analytics (ver más abajo).
 
 **Almacenada en tu dispositivo.** Los alojamientos que guardas se conservan en tu propio navegador (almacenamiento local) y nunca se nos envían.
+
+## Analítica y cookies
+
+Usamos Google Analytics 4, un servicio de Google, para contar las visitas y ver qué páginas, filtros y enlaces de socios se utilizan, por ejemplo, que se ha hecho clic en el botón «Consultar precios» de la ficha de un hotel. No enviamos a Google Analytics tu nombre, tu dirección de correo electrónico ni los datos de tu reserva.
+
+Donde la ley exige consentimiento, como en la UE, el EEE, el Reino Unido y Suiza, Google Analytics no se carga hasta que haces clic en «Permitir» en el aviso de cookies. Si lo permites, Google Analytics instala cookies cuyo nombre empieza por `_ga`, que por defecto se conservan hasta dos años. Puedes cambiar tu elección en cualquier momento con el enlace «Configuración de cookies» al pie de cada página; si rechazas, eliminamos esas cookies. Cómo trata Google los datos se explica en la [política de privacidad de Google](https://policies.google.com/privacy).
 
 ## Cómo la usamos
 

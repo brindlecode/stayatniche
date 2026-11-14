@@ -2,6 +2,8 @@
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import BottomNav from '../components/BottomNav.astro';
+import Analytics from '../components/Analytics.astro';
+import ConsentBanner from '../components/ConsentBanner.astro';
 import { getEntry } from 'astro:content';
 import { getLocale, i18n, LOCALE_META } from '../i18n';
 
@@ -21,6 +23,8 @@ interface Props {
   jsonLd?: Record<string, unknown> | Record<string, unknown>[];
   /** Same page in other languages (hreflang). Include this page's own locale. */
   alternates?: { locale: string; href: string }[];
+  /** Hotel page facts for analytics (hotel_view and click dimensions). No personal data. */
+  trackPage?: { hotel: string; category?: string; country?: string };
 }
 
 const {
@@ -35,6 +39,7 @@ const {
   updatedTime,
   jsonLd,
   alternates = [],
+  trackPage,
 } = Astro.props;
 const L = i18n(getLocale(Astro.url));
 const meta = LOCALE_META[L.locale];
@@ -65,11 +70,9 @@ const googleVerif   = seo.googleVerification || '';
 const bingVerif     = seo.bingVerification   || '';
 const pinterestVerif = seo.pinterestVerification || '';
 
-const ga4Id          = analytics.ga4Id          || '';
 const socialSettings = await getEntry('settings', 'social').catch(() => null);
 const sameAs = Object.values(socialSettings?.data ?? {}).filter((v): v is string => typeof v === 'string' && v.startsWith('http'));
 const adsenseClient  = (analytics.adsenseClient as string) || '';
-const gtmId          = analytics.gtmId          || '';
 const clarityId      = analytics.clarityId      || '';
 const plausibleDomain = analytics.plausibleDomain || '';
 const fbPixelId      = analytics.fbPixelId      || '';
@@ -84,6 +87,9 @@ const extraLd = Array.isArray(jsonLd) ? jsonLd : jsonLd ? [jsonLd] : [];
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="generator" content={Astro.generator} />
     <meta name="format-detection" content="telephone=no" />
+
+    <!-- Google tag + consent (src/components/Analytics.astro). Loads nothing without IDs or consent. -->
+    <Analytics />
 
     <!-- Travelpayouts Drive (converts partner links to tracked affiliate links). Verbatim from the dashboard. -->
     <script is:inline nowprocket data-noptimize="1" data-cfasync="false" data-wpfc-render="false" seraph-accel-crit="1" data-no-defer="1" data-cmp-ab="2">
@@ -169,19 +175,6 @@ const extraLd = Array.isArray(jsonLd) ? jsonLd : jsonLd ? [jsonLd] : [];
       <script type="application/ld+json" set:html={JSON.stringify(ld)} />
     ))}
 
-    <!-- Google Tag Manager (head) -->
-    {gtmId && (
-      <script set:html={`(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','${gtmId}');`} />
-    )}
-
-    <!-- Google Analytics 4 (direct, no GTM) -->
-    {ga4Id && !gtmId && (
-      <Fragment>
-        <script async src={`https://www.googletagmanager.com/gtag/js?id=${ga4Id}`}></script>
-        <script set:html={`window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${ga4Id}',{anonymize_ip:true});`} />
-      </Fragment>
-    )}
-
     <!-- Meta (Facebook) Pixel -->
     {fbPixelId && (
       <script set:html={`!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init','${fbPixelId}');fbq('track','PageView');`} />
@@ -262,19 +255,7 @@ const extraLd = Array.isArray(jsonLd) ? jsonLd : jsonLd ? [jsonLd] : [];
       }
     </style>
   </head>
-  <body class:list={["bg-warm-50 text-warm-900 font-body antialiased", !hideBottomNav && "pb-16 md:pb-0"]}>
-
-    <!-- Google Tag Manager (noscript) -->
-    {gtmId && (
-      <noscript>
-        <iframe
-          src={`https://www.googletagmanager.com/ns.html?id=${gtmId}`}
-          height="0"
-          width="0"
-          style="display:none;visibility:hidden"
-        ></iframe>
-      </noscript>
-    )}
+  <body class:list={["bg-warm-50 text-warm-900 font-body antialiased", !hideBottomNav && "pb-16 md:pb-0"]} data-page-hotel={trackPage?.hotel} data-page-category={trackPage?.category} data-page-country={trackPage?.country}>
 
     <a href="#main" class="sr-only focus:not-sr-only focus:fixed focus:top-2 focus:left-2 focus:z-[100] focus:bg-warm-950 focus:text-white focus:px-4 focus:py-2 focus:rounded-lg">
       {L.t.common.skip}
@@ -286,6 +267,7 @@ const extraLd = Array.isArray(jsonLd) ? jsonLd : jsonLd ? [jsonLd] : [];
     </main>
     <Footer />
     {!hideBottomNav && <BottomNav />}
+    <ConsentBanner />
     <script is:inline>
       // Never show a broken-image icon: swap any failed <img> for a themed placeholder.
       document.addEventListener('error', function (e) {

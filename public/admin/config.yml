@@ -433,7 +433,8 @@ collections:
         file: "src/content/settings/analytics.json"
         fields:
           - { label: "Google Analytics 4 ID", name: "ga4Id", widget: "string", required: false, hint: "G-XXXXXXXXXX" }
-          - { label: "Google Tag Manager ID", name: "gtmId", widget: "string", required: false, hint: "GTM-XXXXXX" }
+          - { label: "Google tag ID", name: "gtmId", widget: "string", required: false, hint: "GTM-XXXXXX. When set, this is the only Google script loaded (after consent); the G- ID above is configured inside it." }
+          - { label: "Ask every visitor for analytics consent", name: "consentEverywhere", widget: "boolean", required: false, default: false, hint: "Off: the consent banner is shown where the law requires it (EEA, UK, Switzerland, unknown location). On: shown to everyone." }
           - { label: "Facebook Pixel ID", name: "fbPixelId", widget: "string", required: false }
           - { label: "Pinterest Tag ID", name: "pinterestTagId", widget: "string", required: false }
           - { label: "Hotjar Site ID", name: "hotjarId", widget: "string", required: false }

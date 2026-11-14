@@ -8,7 +8,9 @@
  *
  *   GET  → { configured, provider }   (no secrets; used to check the setup)
  *   POST → JSON or form-encoded { email, name?, language?, success?, back?, bot-field? }
- *          JSON callers get { ok: true } (200) or { ok: false, error } (4xx/5xx).
+ *          JSON callers get { ok: true, subscribed: true } (200) when the provider accepted the
+ *          address, or { ok: false, error } (4xx/5xx). The site's newsletter_signup analytics
+ *          event fires only on subscribed: true (the honeypot answer has no subscribed flag).
  *          Plain HTML form posts (no JavaScript) get a 303 to the success page
  *          or a small error page.
  *
@@ -111,7 +113,7 @@ exports.handler = async (event) => {
     if (provider === "beehiiv") await subscribeBeehiiv(email, firstName);
     else if (provider === "mailchimp") await subscribeMailchimp(email, firstName);
     else if (provider === "brevo") await subscribeBrevo(email, firstName);
-    return respond(form, data, 200, { ok: true });
+    return respond(form, data, 200, { ok: true, subscribed: true });
   } catch (err) {
     console.error("Newsletter provider error:", err.message);
     return respond(form, data, 502, { ok: false, error: "provider_error" });

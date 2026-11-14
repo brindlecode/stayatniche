@@ -2,6 +2,7 @@
 import { readFileSync, readdirSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 
+const adsense = JSON.parse(readFileSync('src/content/settings/analytics.json', 'utf8')).adsenseClient;
 let failed = 0;
 const fail = (m) => { console.error('✗ ' + m); failed++; };
 const walk = (d) => readdirSync(d, { withFileTypes: true }).flatMap(e => e.isDirectory() ? walk(join(d, e.name)) : [join(d, e.name)]);
@@ -21,6 +22,15 @@ for (const f of pages) {
     const q = m[1].replace(/&amp;|&#x26;/g, '&');
     if (!/[?&]marker=688397(&|$)/.test(q) || !/[?&]trs=478307(&|$)/.test(q) || !/[?&]campaign_id=\d+/.test(q)) fail(`${f}: malformed Travelpayouts link ${q.slice(0, 90)}`);
   }
+  // Analytics: every sponsored link carries the click-tracking attributes (trackAttrs / rehype plugin),
+  // and no Google script is in the static HTML (it is injected only after consent, see Analytics.astro).
+  for (const m of h.matchAll(/<a\b[^>]*\brel="[^"]*\bsponsored\b[^"]*"[^>]*>/g)) {
+    if (!/\sdata-track="(booking|partner)"/.test(m[0]) || !/\sdata-placement="/.test(m[0])) fail(`${f}: sponsored link without data-track ${m[0].slice(0, 120)}`);
+  }
+  // data-hotel marks hotel cards for the filters and saved list; links must not carry it.
+  if (/<a\b[^>]*\sdata-hotel[\s=>]/.test(h)) fail(`${f}: a link carries data-hotel (breaks the hotel filters)`);
+  if (/<script[^>]*\ssrc="https:\/\/www\.googletagmanager\.com/.test(h) || /googletagmanager\.com\/ns\.html/.test(h)) fail(`${f}: Google tag loaded without consent`);
+  if (!adsense && /adsbygoogle/.test(h)) fail(`${f}: AdSense markup with an empty adsenseClient`);
   // Expedia is a verified program: it must never appear as a plain link.
   const raw = h.match(/href="https:\/\/(?:www\.)?expedia\.com[^"]*"/g);
   if (raw) fail(`${f}: untracked Expedia link ${raw[0].slice(0, 90)}`);

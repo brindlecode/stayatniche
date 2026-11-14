@@ -4,7 +4,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import HotelCard from './HotelCard.astro';
 import Faq from './Faq.astro';
 import AdSlot from './AdSlot.astro';
-import { withTracking, hotelDealUrl } from '../lib/affiliate';
+import { withTracking, hotelDealUrl, isExpediaSearch, trackAttrs } from '../lib/affiliate';
 import { SITE } from '../lib/site';
 import { getLocale, i18n } from '../i18n';
 
@@ -28,6 +28,9 @@ const R = L.t.roundup;
 
 const sorted = [...hotels].sort((a, b) => Number(b.data.featured) - Number(a.data.featured) || b.data.rating - a.data.rating);
 const label = L.t.common.priceLevels;
+const deal = (h: any) => hotelDealUrl(h.data.bookingUrl, h.data.name, h.data.destination, { campaign: 'roundup-table', content: h.slug });
+const expediaCta = withTracking(`https://www.expedia.com/Hotel-Search?destination=${encodeURIComponent(searchPlace)}&adults=2`, { campaign: 'roundup-cta', content: path });
+const klookCta = withTracking(`https://www.klook.com/en-US/search-results/?query=${encodeURIComponent(searchPlace)}`, { campaign: 'roundup-cta', content: path });
 const ld = [
   { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [{ name: L.t.common.home, url: L.path('home') }, ...crumbs].map((c, i) => ({ '@type': 'ListItem', position: i + 1, name: c.name, item: SITE + c.url })) },
   { '@context': 'https://schema.org', '@type': 'ItemList', name: title, numberOfItems: sorted.length, itemListElement: sorted.map((h, i) => ({ '@type': 'ListItem', position: i + 1, name: h.data.name, url: SITE + L.path('hotels', h.slug) })) },
@@ -61,7 +64,7 @@ const ld = [
               <td class="px-4 py-3 text-warm-600">{L.cat(h.data.category, h.data.category.replace(/-/g, ' '))}</td>
               <td class="px-4 py-3 text-warm-700">{h.data.priceRange} {h.data.priceIndicator && <span class="text-xs text-warm-400">({label[h.data.priceIndicator]})</span>}</td>
               <td class="px-4 py-3 text-warm-600">{h.data.bestFor.filter((x: string) => x.length <= 32).slice(0, 2).join(', ')}</td>
-              <td class="px-4 py-3 text-right"><a href={hotelDealUrl(h.data.bookingUrl, h.data.name, h.data.destination, { campaign: 'roundup-table', content: h.slug })} target="_blank" rel="noopener noreferrer nofollow sponsored" class="whitespace-nowrap rounded-full bg-forest-600 px-4 py-2 text-xs font-semibold text-white hover:bg-forest-700">{L.t.card.checkRates}</a></td>
+              <td class="px-4 py-3 text-right"><a href={deal(h)} target="_blank" rel="noopener noreferrer nofollow sponsored" {...trackAttrs(deal(h), { track: 'booking', placement: 'roundup_table', hotel: h.slug, category: h.data.category, country: h.data.country })} class="whitespace-nowrap rounded-full bg-forest-600 px-4 py-2 text-xs font-semibold text-white hover:bg-forest-700">{isExpediaSearch(deal(h)) ? L.t.card.searchRates : L.t.card.checkRates}</a></td>
             </tr>
           ))}
         </tbody>
@@ -83,8 +86,8 @@ const ld = [
     <div class="my-8 rounded-2xl border border-warm-200 bg-warm-100 p-6 text-center">
       <p class="font-display text-xl font-bold text-warm-950">{R.more(placeLabel ?? searchPlace)}</p>
       <div class="mt-4 flex flex-col justify-center gap-3 sm:flex-row">
-        <a href={withTracking(`https://www.expedia.com/Hotel-Search?destination=${encodeURIComponent(searchPlace)}&adults=2`, { campaign: 'roundup-cta', content: path })} target="_blank" rel="noopener noreferrer nofollow sponsored" class="rounded-full bg-[#00356B] px-6 py-3 font-body text-sm font-bold text-white">{R.expedia}</a>
-        <a href={withTracking(`https://www.klook.com/en-US/search-results/?query=${encodeURIComponent(searchPlace)}`, { campaign: 'roundup-cta', content: path })} target="_blank" rel="noopener noreferrer nofollow sponsored" class="rounded-full bg-[#FF5722] px-6 py-3 font-body text-sm font-bold text-white">{R.tours}</a>
+        <a href={expediaCta} target="_blank" rel="noopener noreferrer nofollow sponsored" {...trackAttrs(expediaCta, { track: 'booking', placement: 'roundup_cta' })} class="rounded-full bg-[#00356B] px-6 py-3 font-body text-sm font-bold text-white">{R.expedia}</a>
+        <a href={klookCta} target="_blank" rel="noopener noreferrer nofollow sponsored" {...trackAttrs(klookCta, { track: 'partner', placement: 'roundup_cta' })} class="rounded-full bg-[#FF5722] px-6 py-3 font-body text-sm font-bold text-white">{R.tours}</a>
       </div>
     </div>
     <Faq items={faq} heading={L.t.common.quickAnswers} />

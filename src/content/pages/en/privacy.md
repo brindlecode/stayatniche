@@ -2,7 +2,7 @@
 title: Privacy policy
 metaTitle: Privacy Policy | StayAtNiche
 metaDescription: How StayAtNiche collects, uses and protects personal information, which cookies and third parties are involved, and how to exercise your rights.
-updated: 2026-09-29
+updated: 2026-11-14
 lead: This policy explains what information StayAtNiche collects when you use stayatniche.com and what we do with it.
 ---
 
@@ -14,9 +14,15 @@ StayAtNiche ("we", "us") runs the website stayatniche.com, an independent guide 
 
 **Information you give us.** If you subscribe to our newsletter or use the contact form, we receive the details you enter, such as your name and email address.
 
-**Information collected automatically.** Like most websites, our hosting provider records technical data such as your IP address, browser type and the pages you visit. If analytics tools are enabled, they may collect similar anonymised usage data.
+**Information collected automatically.** Like most websites, our hosting provider records technical data such as your IP address, browser type and the pages you visit. With your consent we also use Google Analytics (see below).
 
 **Stored on your device.** Stays you save are kept in your own browser (local storage) and are never sent to us.
+
+## Analytics and cookies
+
+We use Google Analytics 4, a service of Google, to count visits and to see which pages, filters and partner links are used, for example that a "Check prices" button on a hotel page was clicked. We do not send your name, email address or booking details to Google Analytics.
+
+Where the law requires consent, including in the EU, the EEA, the UK and Switzerland, Google Analytics is not loaded until you click "Allow" in the cookie banner. If you allow it, Google Analytics sets cookies whose names start with `_ga`, kept for up to two years by default. You can change your choice at any time with the "Cookie settings" link at the bottom of every page; if you decline, we remove those cookies. How Google handles the data is described in [Google's privacy policy](https://policies.google.com/privacy).
 
 ## How we use it
 

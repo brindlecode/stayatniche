@@ -1,7 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import HotelCard from '../components/HotelCard.astro';
-import { withTracking } from '../lib/affiliate';
+import { withTracking, trackAttrs } from '../lib/affiliate';
 import { isPartner } from '../lib/tp-programs.mjs';
 import { i18n, type Locale } from '../i18n';
 import { localized, entryAlternates, type Localized } from '../i18n/content';
@@ -106,6 +106,7 @@ const metaDesc = seo.metaDescription || experience.data.description;
               href={withTracking(experience.data.booking.url, { campaign: 'experience', content: experience.slug })}
               target="_blank"
               rel="noopener noreferrer nofollow sponsored"
+              {...trackAttrs(withTracking(experience.data.booking.url, { campaign: 'experience', content: experience.slug }), { track: 'partner', placement: 'experience_booking' })}
               class="block w-full text-center mt-6 bg-forest-600 hover:bg-forest-700 text-white font-body font-semibold px-6 py-3 rounded-full transition-all hover:shadow-lg"
             >
               {E.book}
@@ -118,6 +119,7 @@ const metaDesc = seo.metaDescription || experience.data.description;
               href={withTracking(`https://www.klook.com/en-US/search-results/?query=${encodeURIComponent(experience.en.destination)}`, { campaign: 'experience-klook', content: experience.slug })}
               target="_blank"
               rel="noopener noreferrer nofollow sponsored"
+              {...trackAttrs(withTracking(`https://www.klook.com/en-US/search-results/?query=${encodeURIComponent(experience.en.destination)}`, { campaign: 'experience-klook', content: experience.slug }), { track: 'partner', placement: 'experience_klook' })}
               class="flex items-center justify-center gap-2 w-full bg-[#FF5722] hover:bg-[#e64a1a] text-white font-body font-semibold text-sm px-4 py-2.5 rounded-full transition-all"
             >
               {E.klook}
@@ -126,6 +128,7 @@ const metaDesc = seo.metaDescription || experience.data.description;
               href={withTracking(`https://tiqets.com/en/search/?q=${encodeURIComponent(experience.en.destination)}`, { campaign: 'experience-tiqets', content: experience.slug })}
               target="_blank"
               rel="noopener noreferrer nofollow sponsored"
+              {...trackAttrs(withTracking(`https://tiqets.com/en/search/?q=${encodeURIComponent(experience.en.destination)}`, { campaign: 'experience-tiqets', content: experience.slug }), { track: 'partner', placement: 'experience_tiqets' })}
               class="flex items-center justify-center gap-2 w-full bg-[#6C3AE8] hover:bg-[#5b2fd0] text-white font-body font-semibold text-sm px-4 py-2.5 rounded-full transition-all"
             >
               {E.tiqets}

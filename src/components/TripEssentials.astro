@@ -1,6 +1,6 @@
 ---
 /** Trip services with partner logos and clear calls to action (all tracked affiliate links). */
-import { tpLink } from '../lib/affiliate';
+import { tpLink, trackAttrs } from '../lib/affiliate';
 import PartnerLogo from './PartnerLogo.astro';
 import { getLocale, i18n } from '../i18n';
 interface Props { destination: string; country: string; subId: string; compact?: boolean }
@@ -9,7 +9,10 @@ const place = destination.split(',')[0].trim();
 const c = encodeURIComponent(country);
 // Airalo country pages follow /<country>-esim; fall back to the homepage for odd names.
 const esimSlug = country.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z]+/g, '-').replace(/^-|-$/g, '');
-const airaloUrl = ['usa', 'uk', 'england', 'scotland'].includes(esimSlug) ? 'https://www.airalo.com/' : `https://www.airalo.com/${esimSlug}-esim`;
+// Checked 2026-11-14: these names 404 as <slug>-esim. Airalo uses its own slug or has no country page.
+const AIRALO_SLUG: Record<string, string> = { uae: 'united-arab-emirates', 'st-lucia': 'saint-lucia' };
+const airaloHome = ['usa', 'uk', 'england', 'scotland', 'multiple', 'french-polynesia'].includes(esimSlug) || !esimSlug;
+const airaloUrl = airaloHome ? 'https://www.airalo.com/' : `https://www.airalo.com/${AIRALO_SLUG[esimSlug] ?? esimSlug}-esim`;
 const t = (p: string, u: string) => tpLink(p, u, `essentials_${subId}`);
 const L = i18n(getLocale(Astro.url));
 const E = L.t.essentials;
@@ -47,7 +50,7 @@ const groups = [
         <p class="eyebrow mb-3 text-warm-500">{g.title}</p>
         <ul class="grid grid-cols-3 gap-2 sm:gap-3">
           {g.items.map(it => (
-            <li class="h-full"><a href={it.href} target="_blank" rel="noopener noreferrer nofollow sponsored" data-partner={it.logo}
+            <li class="h-full"><a href={it.href} target="_blank" rel="noopener noreferrer nofollow sponsored" data-partner={it.logo} {...trackAttrs(it.href, { track: 'partner', placement: 'trip_essentials' })}
               class="group relative flex h-full flex-col rounded-2xl border border-warm-200 bg-white p-3 transition duration-200 hover:-translate-y-0.5 hover:border-warm-300 hover:shadow-card sm:p-4">
               <svg viewBox="0 0 24 24" class="absolute right-2.5 top-2.5 h-3.5 w-3.5 text-warm-400 sm:hidden" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17L17 7M8 7h9v9"/></svg>
               <span class="flex flex-col items-start gap-2 sm:flex-row sm:items-center sm:gap-3">

@@ -27,7 +27,7 @@ export interface AffiliateOptions {
 // site goes through `withTracking()`, which auto-detects the partner from the
 // hostname and wraps the URL in a tracked tp.media redirect. A link that is
 // NOT wrapped earns no commission — so never build partner hrefs by hand.
-import { TP_MARKER, partnerLink, isPartner } from './tp-programs.mjs';
+import { TP_MARKER, partnerLink, isPartner, hostKey } from './tp-programs.mjs';
 import expediaHotels from '../data/expedia-hotels.json';
 export { TP_MARKER };
 const EXPEDIA_HOTELS = expediaHotels as Record<string, string>;
@@ -96,6 +96,83 @@ export function expediaHotelPage(slug?: string): string | null {
 export function expediaHotelUrl(slug: string, name: string, destination: string, opts: AffiliateOptions = {}): string {
   const q = encodeURIComponent(`${name}, ${destination.split(',')[0]}`);
   return withTracking(expediaHotelPage(slug) ?? `https://www.expedia.com/Hotel-Search?destination=${q}&adults=2`, opts);
+}
+
+/** What kind of page an outbound hotel link opens. Used for labels and analytics (link_type). */
+export type LinkKind = 'hotel_page' | 'hotel_search' | 'official_site' | 'partner';
+
+/** The destination behind a link: tp.media redirects are unwrapped to the partner URL they open. */
+export function destinationOf(url: string): string {
+  try {
+    const u = new URL(url);
+    if (u.hostname === 'tp.media') return u.searchParams.get('u') || url;
+    return url;
+  } catch {
+    return url;
+  }
+}
+
+/** True when the link earns commission: a tracked tp.media link or an approved Travelpayouts partner. */
+export function isAffiliateUrl(url: string): boolean {
+  try {
+    const h = new URL(url).hostname;
+    return h === 'tp.media' || isPartner(h);
+  } catch {
+    return false;
+  }
+}
+
+/** Short provider name for analytics: "expedia", "klook", "official_site" for a non-partner site. */
+export function providerOf(url: string): string {
+  try {
+    const h = hostKey(new URL(destinationOf(url)).hostname);
+    if (!isPartner(h)) return 'official_site';
+    return h.split('.').slice(-2, -1)[0] || h;
+  } catch {
+    return 'other';
+  }
+}
+
+/** An Expedia URL that is not a single hotel's own page (search, city list, homepage). */
+export function isExpediaSearch(url: string): boolean {
+  const d = destinationOf(url);
+  return /^https:\/\/(www\.)?expedia\.com\//.test(d) && !/\.h\d+\.Hotel-Information/.test(d);
+}
+
+/** Kind of page a hotel booking link opens. */
+export function linkKind(url: string): LinkKind {
+  if (isExpediaSearch(url)) return 'hotel_search';
+  if (/^https:\/\/(www\.)?expedia\.com\//.test(destinationOf(url))) return 'hotel_page';
+  return isAffiliateUrl(url) ? 'partner' : 'official_site';
+}
+
+export interface TrackInfo {
+  /** booking = a hotel booking button; partner = any other travel partner link. */
+  track: 'booking' | 'partner';
+  /** Where on the page the link sits, e.g. "hotel_booking_card", "trip_essentials". */
+  placement: string;
+  hotel?: string;
+  category?: string;
+  country?: string;
+}
+
+/**
+ * data-* attributes read by the site's analytics click listener (BaseLayout). Spread them onto the
+ * <a>: {...trackAttrs(url, {...})}. They never change the href. No personal or booking data.
+ * (data-hotel is taken: it marks hotel cards for the filters, so the slug goes in data-hotel-slug.)
+ */
+export function trackAttrs(url: string, info: TrackInfo): Record<string, string> {
+  const a: Record<string, string> = {
+    'data-track': info.track,
+    'data-placement': info.placement,
+    'data-provider': providerOf(url),
+    'data-link-type': info.track === 'partner' ? 'partner' : linkKind(url),
+  };
+  if (isAffiliateUrl(url)) a['data-affiliate'] = '1';
+  if (info.hotel) a['data-hotel-slug'] = info.hotel;
+  if (info.category) a['data-category'] = info.category;
+  if (info.country) a['data-country'] = info.country;
+  return a;
 }
 
 /**

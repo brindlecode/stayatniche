@@ -2,7 +2,7 @@
 title: Privacyverklaring
 metaTitle: Privacyverklaring | StayAtNiche
 metaDescription: Hoe StayAtNiche persoonsgegevens verzamelt, gebruikt en beschermt, welke cookies en derde partijen een rol spelen en hoe je je rechten uitoefent.
-updated: 2026-09-29
+updated: 2026-11-14
 lead: In deze verklaring lees je welke gegevens StayAtNiche verzamelt als je stayatniche.com gebruikt en wat we daarmee doen.
 ---
 
@@ -14,9 +14,15 @@ StayAtNiche (‘wij’, ‘ons’) beheert de website stayatniche.com, een onafh
 
 **Gegevens die je zelf aan ons geeft.** Meld je je aan voor onze nieuwsbrief of gebruik je het contactformulier, dan ontvangen we de gegevens die je invult, zoals je naam en e-mailadres.
 
-**Automatisch verzamelde gegevens.** Zoals bij de meeste websites legt onze hostingprovider technische gegevens vast, zoals je IP-adres, je browsertype en de pagina’s die je bezoekt. Als er analysetools actief zijn, kunnen die vergelijkbare geanonimiseerde gebruiksgegevens verzamelen.
+**Automatisch verzamelde gegevens.** Zoals bij de meeste websites legt onze hostingprovider technische gegevens vast, zoals je IP-adres, je browsertype en de pagina’s die je bezoekt. Met je toestemming gebruiken we ook Google Analytics (zie hieronder).
 
 **Opgeslagen op je apparaat.** Verblijven die je bewaart, blijven in je eigen browser staan (local storage) en worden nooit naar ons verstuurd.
+
+## Statistieken en cookies
+
+We gebruiken Google Analytics 4, een dienst van Google, om bezoeken te tellen en te zien welke pagina’s, filters en partnerlinks worden gebruikt, bijvoorbeeld dat op een hotelpagina op de knop ‘Bekijk prijzen’ is geklikt. Je naam, e-mailadres of boekingsgegevens sturen we niet naar Google Analytics.
+
+Waar de wet toestemming vereist, onder meer in de EU, de EER, het Verenigd Koninkrijk en Zwitserland, wordt Google Analytics pas geladen nadat je in de cookiemelding op ‘Toestaan’ klikt. Sta je het toe, dan plaatst Google Analytics cookies waarvan de naam met `_ga` begint en die standaard maximaal twee jaar bewaard blijven. Je kunt je keuze altijd wijzigen via de link ‘Cookie-instellingen’ onderaan elke pagina; weiger je, dan verwijderen we die cookies. Hoe Google met de gegevens omgaat, lees je in het [privacybeleid van Google](https://policies.google.com/privacy).
 
 ## Waarvoor we ze gebruiken
 

@@ -11,6 +11,8 @@ jobs:
       - uses: actions/setup-node@v7
         with: { node-version: '20', cache: 'npm' }
       - run: npm ci
+      - name: Unit tests (affiliate URLs, analytics settings)
+        run: npm test
       - name: No duplicate hotel pages
         run: node scripts/check-duplicates.mjs
       - run: npm run build

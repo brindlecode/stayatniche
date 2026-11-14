@@ -1,6 +1,6 @@
 ---
 import StayVisual from './StayVisual.astro';
-import { hotelDealUrl, AFFILIATE_REL } from '../lib/affiliate';
+import { hotelDealUrl, AFFILIATE_REL, isExpediaSearch, trackAttrs } from '../lib/affiliate';
 import { startPrice } from '../lib/site';
 import { getLocale, i18n } from '../i18n';
 
@@ -16,6 +16,7 @@ const { t } = L;
 const from = startPrice(priceRange);
 const place = L.country(country);
 const bookUrl = hotelDealUrl(bookingUrl, name, destination, { campaign: 'hotel-card', content: slug });
+const isSearch = !!bookUrl && isExpediaSearch(bookUrl);
 ---
 <article class:list={['hotel-card group relative flex flex-col', cls]} data-hotel data-slug={slug} data-name={name.toLowerCase()} data-place={`${destination} ${country} ${place}`.toLowerCase()} data-cat={category} data-cat-name={L.cat(category, category.replace(/-/g, ' ')).toLowerCase()} data-price={from ?? undefined} data-rating={rating} data-featured={featured ? 1 : 0}>
   <div class="relative aspect-[4/3] overflow-hidden rounded-xl bg-warm-100">
@@ -38,7 +39,7 @@ const bookUrl = hotelDealUrl(bookingUrl, name, destination, { campaign: 'hotel-c
     {highlights?.[0] && <p class="line-clamp-1 font-body text-sm text-warm-500">{highlights[0]}</p>}
     <div class="mt-2 flex items-center justify-between gap-2">
       <p class="font-body text-sm text-warm-700">{from != null ? <>{t.card.from}{' '}<span class="font-semibold text-warm-950">{L.usd(from)}</span> {t.card.perNight}</> : t.card.seeRates}</p>
-      {bookUrl && <a href={bookUrl} target="_blank" rel={AFFILIATE_REL} class="relative z-20 font-body text-sm font-semibold text-forest-700 underline decoration-forest-300 underline-offset-4 hover:decoration-forest-700">{t.card.checkRates}</a>}
+      {bookUrl && <a href={bookUrl} target="_blank" rel={AFFILIATE_REL} {...trackAttrs(bookUrl, { track: 'booking', placement: 'hotel_card', hotel: slug, category, country })} class="relative z-20 font-body text-sm font-semibold text-forest-700 underline decoration-forest-300 underline-offset-4 hover:decoration-forest-700">{isSearch ? t.card.searchRates : t.card.checkRates}</a>}
     </div>
   </div>
 </article>
