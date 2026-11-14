@@ -1,0 +1,122 @@
+[
+ {
+  "id": "osm:node/14373673556",
+  "is_lodging": true,
+  "operating_status": "seasonal",
+  "category": "bubble-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": 3,
+  "niche_feature": "Transparent bubble rooms and a wooden cabin in nature near Nyons, Drome",
+  "category_quote": "Ici, les chambres sont insolites deux bulles transparentes et une cabane en pleine nature.",
+  "confidence": 0.95,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Bulles d'Olive",
+  "property_type": "guesthouse",
+  "address": "46 chemin des Hautes Gothières, 26110 Nyons, France",
+  "room_count": {
+   "value": 3,
+   "quote": "Ici, les chambres sont insolites deux bulles transparentes et une cabane en pleine nature."
+  },
+  "amenities": [
+   {
+    "text": "Private bathroom with shower and WC",
+    "quote": "Salle de bain privative avec douche & WC"
+   },
+   {
+    "text": "Heated pool with view of the Baronnies hills",
+    "quote": "Profitez de notre piscine chauffée par les rayons du soleil avec vue sur les monts des Baronnies"
+   },
+   {
+    "text": "Private jacuzzi, optional extra",
+    "quote": "Le jacuzzi privatif est en option pour une détente à 37° !"
+   },
+   {
+    "text": "Copious breakfast",
+    "quote": "Un petit-déjeuner copieux à savourer en pleine nature."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Romantic stays for two",
+    "quote": "Une escapade romantique en Drôme provençale"
+   },
+   {
+    "text": "Transparent bubbles set in nature",
+    "quote": "Ici, les chambres sont insolites deux bulles transparentes et une cabane en pleine nature."
+   }
+  ],
+  "season": {
+   "text": "Open mid-March to end of October each year",
+   "quote": "Notre maison d'hôte est ouverte de mi mars à fin octobre chaque année."
+  },
+  "check_in": {
+   "text": "From 17:00",
+   "quote": "Arrivée à partir de 17h, départ à 11h."
+  },
+  "check_out": {
+   "text": "11:00",
+   "quote": "Arrivée à partir de 17h, départ à 11h."
+  },
+  "access": {
+   "text": "Reachable by public transport (train and bus)",
+   "quote": "Il est possible de rejoindre notre maison d'hôtes en transport en commun avec le train et le bus."
+  },
+  "audience": "unknown",
+  "best_for": [
+   "couples"
+  ],
+  "reason": "Site describes two transparent bubbles and a cabin as its only rooms, so the stay itself is the bubble niche; seasonal opening stated in FAQ and homepage.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/1088519244",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "floating-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a boat hotel on the Danube in Belgrade; the evidence does not say the rooms float or sit on a vessel",
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Boatel Charlie",
+  "property_type": "B&B",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Breakfast available for a fee",
+    "quote": "Breakfast ( 29 / Per Day / Per Guest )"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Riverfront location on the Danube",
+    "quote": "Sunsets and Memories: Create Timeless Moments at Danube river banks"
+   },
+   {
+    "text": "Private balcony in each room",
+    "quote": "step onto your private balcony to witness breathtaking sunrises and sunsets."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Airport transfer available for a fee",
+   "quote": "Airport Transfer ( 100 / Once / Per Accommodation )"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name 'Boatel' suggests a floating structure; the pages describe a riverfront B&B with rooms and suites but never say the rooms are on a boat, so the category is weak and confidence is low.",
+  "verdict": "rejected",
+  "dropped": []
+ }
+]
