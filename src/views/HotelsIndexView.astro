@@ -122,15 +122,23 @@ const jsonLd = {
         if (push) {
           var p = new URLSearchParams();
           if (type) p.set('type', type); if (term) p.set('q', q.value.trim()); if (price.value) p.set('price', price.value); if (s !== 'top') p.set('sort', s);
-          history.replaceState(null, '', location.pathname + (p.toString() ? '?' + p : ''));
+          // Same URL, new filters: not a page view (see Analytics.astro).
+          (window.snSetUrl || function (u) { history.replaceState(null, '', u); })(location.pathname + (p.toString() ? '?' + p : ''));
         }
       }
       function clear() { type = ''; q.value = ''; price.value = ''; sort.value = 'top'; apply(true); }
 
-      chips.forEach(function (b) { b.addEventListener('click', function () { type = b.dataset.type; apply(true); }); });
-      q.addEventListener('input', function () { apply(true); });
-      price.addEventListener('change', function () { apply(true); });
-      sort.addEventListener('change', function () { apply(true); });
+      // Analytics: filter choices are fixed options; typed text is never sent, only that a search happened.
+      function track(n, p) { if (window.snTrack) window.snTrack(n, p); }
+      var typed;
+      chips.forEach(function (b) { b.addEventListener('click', function () { type = b.dataset.type; apply(true); track('filter_use', { filter_type: 'category', filter_value: type || 'all' }); }); });
+      q.addEventListener('input', function () {
+        apply(true);
+        clearTimeout(typed);
+        typed = setTimeout(function () { if (q.value.trim().length > 1) track('search_use', { search_location: 'hotels_filter', results_count: cards.filter(function (w) { return !w.hidden; }).length }); }, 1500);
+      });
+      price.addEventListener('change', function () { apply(true); track('filter_use', { filter_type: 'price', filter_value: price.value || 'any' }); });
+      sort.addEventListener('change', function () { apply(true); track('filter_use', { filter_type: 'sort', filter_value: sort.value }); });
       reset.addEventListener('click', clear); document.getElementById('empty-reset').addEventListener('click', clear);
 
       var p = new URLSearchParams(location.search);

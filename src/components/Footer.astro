@@ -3,12 +3,14 @@ import { getEntry } from 'astro:content';
 import BrandMark from './BrandMark.astro';
 import { getLocale, i18n } from '../i18n';
 import { localized } from '../i18n/content';
+import { analyticsSetup } from '../lib/analytics';
 
 const L = i18n(getLocale(Astro.url));
 const { t } = L;
 const nav = (await getEntry('settings', 'navigation').catch(() => null))?.data ?? {};
 const soc = (await getEntry('settings', 'social').catch(() => null))?.data ?? {};
 const year = new Date().getFullYear();
+const analyticsOn = !!analyticsSetup((await getEntry('settings', 'analytics').catch(() => null))?.data as Record<string, unknown>).tagUrl;
 
 // Columns: the English navigation settings define WHICH entries appear; labels come from the
 // localized content, and entries without a translation are left out.
@@ -51,7 +53,7 @@ const social = Object.entries(soc as Record<string, string>)
       <div>
         <p class="eyebrow text-warm-400">{t.footer.letterTitle}</p>
         <p class="mt-2 font-body text-sm text-warm-400">{t.footer.letterText}</p>
-        <form class="mt-4 flex gap-2" method="POST" action="/.netlify/functions/newsletter-subscribe" data-newsletter data-msg-sending={t.newsletter.sending} data-msg-invalid={t.newsletter.errorInvalid} data-msg-error={t.newsletter.errorUnavailable} data-status="ft-nl-status">
+        <form class="mt-4 flex gap-2" method="POST" action="/.netlify/functions/newsletter-subscribe" data-newsletter="footer" data-msg-sending={t.newsletter.sending} data-msg-invalid={t.newsletter.errorInvalid} data-msg-error={t.newsletter.errorUnavailable} data-status="ft-nl-status">
           <input type="hidden" name="success" value={L.path('newsletter-success')} />
           <input type="hidden" name="back" value={Astro.url.pathname} />
           <input type="hidden" name="language" value={L.locale} />
@@ -78,7 +80,7 @@ const social = Object.entries(soc as Record<string, string>)
     </div>
 
     <div class="flex flex-col gap-4 border-t border-white/10 pt-8 font-body text-xs text-warm-500 md:flex-row md:items-center md:justify-between">
-      <p>© {year} StayAtNiche. {t.footer.affiliateNote} <a href={L.path('disclosure')} class="underline hover:text-white">{t.footer.disclosure}</a> · <a href={L.path('privacy')} class="underline hover:text-white">{t.footer.privacy}</a> · <a href={L.path('photo-credits')} class="underline hover:text-white">{t.footer.photoCredits}</a></p>
+      <p>© {year} StayAtNiche. {t.footer.affiliateNote} <a href={L.path('disclosure')} class="underline hover:text-white">{t.footer.disclosure}</a> · <a href={L.path('privacy')} class="underline hover:text-white">{t.footer.privacy}</a> · <a href={L.path('photo-credits')} class="underline hover:text-white">{t.footer.photoCredits}</a>{analyticsOn && <>{' · '}<button type="button" data-consent-open class="underline hover:text-white">{t.consent.settings}</button></>}</p>
       {social.length > 0 && (
         <ul class="flex gap-4">{social.map(s => <li><a href={s.url} target="_blank" rel="noopener noreferrer" class="hover:text-white">{s.label}</a></li>)}</ul>
       )}
@@ -101,7 +103,11 @@ const social = Object.entries(soc as Record<string, string>)
         fetch(f.action, { method: 'POST', headers: { 'Content-Type': 'application/json', Accept: 'application/json' }, body: JSON.stringify(data) })
           .then(function (r) { return r.json().catch(function () { return {}; }).then(function (j) { return { ok: r.ok && j.ok === true, j: j }; }); })
           .then(function (res) {
-            if (res.ok) { location.href = data.success || '/newsletter-success/'; return; }
+            if (res.ok) {
+              // Analytics: only when the email provider accepted the address (reported on the next page).
+              if (res.j.subscribed === true) { try { sessionStorage.setItem('sn_nl', f.dataset.newsletter || 'form'); } catch (e) {} }
+              location.href = data.success || '/newsletter-success/'; return;
+            }
             say(res.j.error === 'invalid_email' ? f.dataset.msgInvalid : f.dataset.msgError, true);
             if (btn) btn.disabled = false;
           })

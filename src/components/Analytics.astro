@@ -1,0 +1,136 @@
+---
+/**
+ * Analytics bootstrap (in <head>). Driven by src/content/settings/analytics.json via
+ * src/lib/analytics.ts. With empty IDs it only defines no-op helpers: nothing loads.
+ *
+ * Consent (Google Consent Mode v2, basic mode): where consent is legally required the Google tag
+ * is NOT loaded until the visitor clicks "Allow" in the banner (ConsentBanner.astro). Nothing
+ * is requested from Google before that. Elsewhere consent defaults to granted for analytics only;
+ * ad_storage, ad_user_data and ad_personalization always stay denied (the site runs no Google ads
+ * tags). The choice is kept in localStorage "sn_consent" and can be changed from the footer.
+ *
+ * Events (window.snTrack): hotel_view, affiliate_click, booking_cta_click, partner_click,
+ * newsletter_signup, filter_use, search_use. Parameters are page facts only (hotel_slug,
+ * category, country, provider, cta_placement, link_type, …): no personal or booking data.
+ * Clicks are read from data-* attributes set by trackAttrs() in src/lib/affiliate.ts.
+ */
+import { getEntry } from 'astro:content';
+import { analyticsSetup } from '../lib/analytics';
+
+const settings = (await getEntry('settings', 'analytics').catch(() => null))?.data ?? {};
+const cfg = analyticsSetup(settings as Record<string, unknown>);
+const sn = { url: cfg.tagUrl, mode: cfg.mode, mid: cfg.measurementId, all: cfg.consentEverywhere };
+---
+<script is:inline define:vars={{ sn }}>
+  (function (w, d) {
+    var KEY = 'sn_consent', NL = 'sn_nl';
+    // Filter pages keep their state in the URL. That is not a new page, so it uses the browser's
+    // own replaceState and the tag's history listener does not count an extra page_view.
+    var nativeReplace = w.History && History.prototype.replaceState;
+    w.snSetUrl = function (url) { try { nativeReplace.call(history, history.state, '', url); } catch (e) {} };
+    w.snTrack = function () {};
+    w.snConsent = function () {};
+    var on = !!sn.url;
+    if (!on) return;
+
+    var choice = null;
+    try { choice = localStorage.getItem(KEY); } catch (e) {}
+    if (choice !== 'granted' && choice !== 'denied') choice = null;
+
+    // Consent is required in the EEA, the UK and Switzerland. Without a location service the time
+    // zone is the signal; unknown or UTC counts as required. Global Privacy Control always asks.
+    function required() {
+      if (sn.all || navigator.globalPrivacyControl === true) return true;
+      var tz = '';
+      try { tz = Intl.DateTimeFormat().resolvedOptions().timeZone || ''; } catch (e) {}
+      return !tz || /^(UTC|GMT|Etc\/|Europe\/)/.test(tz) ||
+        /^(Atlantic\/(Reykjavik|Canary|Madeira|Azores|Faroe)|Arctic\/Longyearbyen|Asia\/(Nicosia|Famagusta)|America\/(Guadeloupe|Martinique|Cayenne|Marigot|St_Barthelemy)|Indian\/(Reunion|Mayotte))$/.test(tz);
+    }
+    var ask = !choice && required();
+    var granted = choice === 'granted' || (!choice && !ask);
+    var loaded = false, queue = [];
+
+    w.dataLayer = w.dataLayer || [];
+    function gtag() { w.dataLayer.push(arguments); }
+    w.gtag = w.gtag || gtag;
+    gtag('consent', 'default', { ad_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied', analytics_storage: granted ? 'granted' : 'denied' });
+
+    // The Google tag, in the form Google issued it: gtm.js + gtag('js'). Loaded once, only with consent.
+    function load() {
+      if (loaded) return;
+      loaded = true;
+      var s = d.createElement('script');
+      s.async = true;
+      s.src = sn.url;
+      d.head.appendChild(s);
+      gtag('js', new Date());
+      if (sn.mode === 'gtag') gtag('config', sn.mid);
+      while (queue.length) gtag.apply(null, ['event'].concat(queue.shift()));
+    }
+
+    function clean(p) {
+      var o = {};
+      for (var k in p) if (p[k] != null && p[k] !== '') o[k] = typeof p[k] === 'number' ? p[k] : String(p[k]).slice(0, 100);
+      return o;
+    }
+    w.snTrack = function (name, params) {
+      var p = clean(params || {});
+      if (granted) { loaded ? gtag('event', name, p) : queue.push([name, p]); }
+      else if (!choice && queue.length < 30) queue.push([name, p]); // sent only if the visitor allows
+    };
+
+    function show(v) { var b = d.getElementById('sn-consent'); if (b) b.hidden = !v; }
+    w.snConsent = function (v) {
+      choice = v === 'granted' ? 'granted' : 'denied';
+      try { localStorage.setItem(KEY, choice); } catch (e) {}
+      show(false);
+      if (choice === 'granted') {
+        if (!granted) gtag('consent', 'update', { analytics_storage: 'granted' });
+        granted = true;
+        if (sn.mid) w['ga-disable-' + sn.mid] = false;
+        load();
+      } else {
+        queue = [];
+        if (granted) gtag('consent', 'update', { analytics_storage: 'denied' });
+        granted = false;
+        if (sn.mid) w['ga-disable-' + sn.mid] = true;
+        // Remove Google Analytics cookies set under an earlier "Allow".
+        d.cookie.split(';').forEach(function (c) {
+          var n = c.split('=')[0].trim();
+          if (/^_ga/.test(n)) ['', '.' + location.hostname.replace(/^www\./, '')].forEach(function (dom) {
+            d.cookie = n + '=; Max-Age=0; path=/' + (dom ? '; domain=' + dom : '');
+          });
+        });
+      }
+    };
+
+    if (granted) load();
+
+    function onClick(e) {
+      if (e.type === 'auxclick' && e.button !== 1) return;
+      var a = e.target && e.target.closest && e.target.closest('a[data-track]');
+      if (!a) return;
+      var x = a.dataset, b = d.body.dataset;
+      var p = { provider: x.provider, cta_placement: x.placement, link_type: x.linkType, hotel_slug: x.hotelSlug || b.pageHotel, category: x.category || b.pageCategory, country: x.country || b.pageCountry };
+      if (x.affiliate === '1') w.snTrack('affiliate_click', p);
+      w.snTrack(x.track === 'booking' ? 'booking_cta_click' : 'partner_click', p);
+    }
+    d.addEventListener('click', onClick, true);
+    d.addEventListener('auxclick', onClick, true);
+    d.addEventListener('click', function (e) {
+      var t = e.target && e.target.closest && e.target.closest('[data-consent],[data-consent-open]');
+      if (!t) return;
+      if (t.hasAttribute('data-consent-open')) show(true); else w.snConsent(t.getAttribute('data-consent'));
+    });
+
+    function ready() {
+      if (ask) show(true);
+      var b = d.body.dataset;
+      if (b.pageHotel) w.snTrack('hotel_view', { hotel_slug: b.pageHotel, category: b.pageCategory, country: b.pageCountry });
+      var nl = null;
+      try { nl = sessionStorage.getItem(NL); sessionStorage.removeItem(NL); } catch (e) {}
+      if (nl) w.snTrack('newsletter_signup', { form_location: nl });
+    }
+    if (d.readyState === 'loading') d.addEventListener('DOMContentLoaded', ready); else ready();
+  })(window, document);
+</script>

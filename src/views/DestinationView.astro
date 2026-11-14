@@ -1,7 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import HotelCard from '../components/HotelCard.astro';
-import { withTracking, AFFILIATE_REL } from '../lib/affiliate';
+import { withTracking, AFFILIATE_REL, trackAttrs } from '../lib/affiliate';
 import { resolveImage, sizedImage } from '../lib/images';
 import { SITE } from '../lib/site';
 import { i18n, type Locale } from '../i18n';
@@ -212,7 +212,7 @@ const destJsonLd = {
               <p class="eyebrow text-warm-500">{D.bookTrip}</p>
               <ul class="mt-2 divide-y divide-warm-200">
                 {items.map(([label, brand, url]) => (
-                  <li><a href={withTracking(url, { campaign: 'destination', content: dest.slug })} target="_blank" rel={AFFILIATE_REL} class="group flex items-center justify-between py-3">
+                  <li><a href={withTracking(url, { campaign: 'destination', content: dest.slug })} target="_blank" rel={AFFILIATE_REL} {...trackAttrs(withTracking(url, { campaign: 'destination', content: dest.slug }), { track: 'partner', placement: 'destination_book_trip' })} class="group flex items-center justify-between py-3">
                     <span><span class="block font-body text-sm font-semibold text-warm-950">{label}</span><span class="block font-body text-xs text-warm-500">{brand}</span></span>
                     <span class="text-warm-400 group-hover:text-warm-950" aria-hidden="true">↗</span>
                   </a></li>

@@ -2,7 +2,7 @@
 title: "Politique de confidentialité"
 metaTitle: "Politique de confidentialité | StayAtNiche"
 metaDescription: "Comment StayAtNiche collecte, utilise et protège vos données personnelles, quels cookies et services tiers interviennent, et comment exercer vos droits (RGPD)."
-updated: 2026-09-29
+updated: 2026-11-14
 lead: "Cette politique explique quelles informations StayAtNiche collecte lorsque vous utilisez stayatniche.com, et ce que nous en faisons."
 ---
 
@@ -14,9 +14,15 @@ StayAtNiche (« nous ») édite le site stayatniche.com, un guide indépenda
 
 **Les informations que vous nous transmettez.** Si vous vous abonnez à notre newsletter ou utilisez le formulaire de contact, nous recevons les informations que vous saisissez, comme votre nom et votre adresse e-mail.
 
-**Les informations collectées automatiquement.** Comme la plupart des sites web, notre hébergeur enregistre des données techniques telles que votre adresse IP, le type de navigateur utilisé et les pages consultées. Si des outils de mesure d’audience sont activés, ils peuvent collecter des données d’utilisation similaires, anonymisées.
+**Les informations collectées automatiquement.** Comme la plupart des sites web, notre hébergeur enregistre des données techniques telles que votre adresse IP, le type de navigateur utilisé et les pages consultées. Avec votre consentement, nous utilisons aussi Google Analytics (voir ci-dessous).
 
 **Les données stockées sur votre appareil.** Les hébergements que vous ajoutez à vos favoris sont conservés dans votre propre navigateur (stockage local) et ne nous sont jamais transmis.
+
+## Mesure d’audience et cookies
+
+Nous utilisons Google Analytics 4, un service de Google, pour compter les visites et savoir quelles pages, quels filtres et quels liens partenaires sont utilisés, par exemple qu’un bouton « Voir les prix » a été cliqué sur une fiche d’hôtel. Nous ne transmettons à Google Analytics ni votre nom, ni votre adresse e-mail, ni vos informations de réservation.
+
+Là où la loi exige un consentement, notamment dans l’UE, l’EEE, au Royaume-Uni et en Suisse, Google Analytics n’est chargé qu’après un clic sur « Accepter » dans le bandeau cookies. Si vous acceptez, Google Analytics dépose des cookies dont le nom commence par `_ga`, conservés jusqu’à deux ans par défaut. Vous pouvez modifier votre choix à tout moment avec le lien « Paramètres des cookies » en bas de chaque page ; si vous refusez, nous supprimons ces cookies. Le traitement des données par Google est décrit dans les [règles de confidentialité de Google](https://policies.google.com/privacy).
 
 ## Comment nous les utilisons
 

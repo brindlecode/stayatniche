@@ -1,0 +1,25 @@
+---
+/**
+ * Analytics consent banner. Rendered only when a Google tag is configured in analytics.json,
+ * hidden by default and shown by the Analytics.astro script when consent is needed. It is
+ * position: fixed, so showing or hiding it never moves the page content (no layout shift).
+ */
+import { getEntry } from 'astro:content';
+import { analyticsSetup } from '../lib/analytics';
+import { getLocale, i18n } from '../i18n';
+
+const L = i18n(getLocale(Astro.url));
+const C = L.t.consent;
+const settings = (await getEntry('settings', 'analytics').catch(() => null))?.data ?? {};
+const on = !!analyticsSetup(settings as Record<string, unknown>).tagUrl;
+---
+{on && (
+  <div id="sn-consent" hidden role="region" aria-labelledby="sn-consent-title" class="fixed inset-x-4 bottom-[calc(5rem+env(safe-area-inset-bottom))] z-[60] mx-auto max-w-md rounded-2xl border border-warm-200 bg-white p-5 shadow-card md:inset-x-auto md:bottom-6 md:left-6">
+    <p id="sn-consent-title" class="eyebrow text-warm-500">{C.title}</p>
+    <p class="mt-2 font-body text-sm leading-relaxed text-warm-800">{C.text}{' '}<a href={L.path('privacy')} class="underline underline-offset-2 hover:text-warm-950">{C.privacy}</a></p>
+    <div class="mt-4 flex gap-2">
+      <button type="button" data-consent="denied" class="flex-1 rounded-xl border border-warm-300 bg-white px-4 py-2.5 font-body text-sm font-semibold text-warm-900 transition hover:border-warm-400 hover:bg-warm-50">{C.decline}</button>
+      <button type="button" data-consent="granted" class="flex-1 rounded-xl bg-forest-700 px-4 py-2.5 font-body text-sm font-semibold text-white transition hover:bg-forest-800">{C.accept}</button>
+    </div>
+  </div>
+)}

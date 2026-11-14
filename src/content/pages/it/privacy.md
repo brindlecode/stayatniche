@@ -2,7 +2,7 @@
 title: Informativa sulla privacy
 metaTitle: Informativa sulla privacy | StayAtNiche
 metaDescription: "Come StayAtNiche raccoglie, usa e protegge i dati personali, quali cookie e soggetti terzi sono coinvolti e come puoi esercitare i tuoi diritti sui dati."
-updated: 2026-09-29
+updated: 2026-11-14
 lead: Questa informativa spiega quali dati raccoglie StayAtNiche quando usi stayatniche.com e come li utilizziamo.
 ---
 
@@ -14,9 +14,15 @@ StayAtNiche («noi») gestisce il sito web stayatniche.com, una guida indipenden
 
 **Dati che ci fornisci tu.** Se ti iscrivi alla newsletter o usi il modulo di contatto, riceviamo i dati che inserisci, come il tuo nome e il tuo indirizzo email.
 
-**Dati raccolti automaticamente.** Come la maggior parte dei siti web, il nostro fornitore di hosting registra dati tecnici come il tuo indirizzo IP, il tipo di browser e le pagine che visiti. Se sono attivi strumenti di analisi, questi possono raccogliere dati di utilizzo analoghi in forma anonimizzata.
+**Dati raccolti automaticamente.** Come la maggior parte dei siti web, il nostro fornitore di hosting registra dati tecnici come il tuo indirizzo IP, il tipo di browser e le pagine che visiti. Con il tuo consenso usiamo anche Google Analytics (vedi sotto).
 
 **Dati salvati sul tuo dispositivo.** Gli alloggi che salvi restano nel tuo browser (local storage) e non ci vengono mai inviati.
+
+## Statistiche e cookie
+
+Usiamo Google Analytics 4, un servizio di Google, per contare le visite e capire quali pagine, filtri e link dei partner vengono usati, per esempio che è stato cliccato il pulsante «Verifica i prezzi» nella pagina di un hotel. Non inviamo a Google Analytics il tuo nome, il tuo indirizzo email né i dati delle tue prenotazioni.
+
+Dove la legge richiede il consenso, tra cui nell’UE, nel SEE, nel Regno Unito e in Svizzera, Google Analytics non viene caricato finché non fai clic su «Consenti» nel banner dei cookie. Se lo consenti, Google Analytics imposta cookie il cui nome inizia con `_ga`, conservati per impostazione predefinita fino a due anni. Puoi cambiare la tua scelta in qualsiasi momento con il link «Impostazioni cookie» in fondo a ogni pagina; se rifiuti, eliminiamo questi cookie. Il modo in cui Google tratta i dati è descritto nelle [norme sulla privacy di Google](https://policies.google.com/privacy).
 
 ## Come li utilizziamo
 

@@ -36,7 +36,13 @@ const indexUrl = L.locale === 'en' ? '/search-index.json' : `/${L.locale}/search
         }).join('');
       }
       fetch(indexUrl).then(function (r) { return r.json(); }).then(function (d) { rows = d; var p = new URLSearchParams(location.search).get('q'); if (p) q.value = p; run(); });
-      q.addEventListener('input', run);
+      // Analytics: one search_use per settled query; the typed text itself is never sent.
+      var typed;
+      q.addEventListener('input', function () {
+        run();
+        clearTimeout(typed);
+        typed = setTimeout(function () { if (window.snTrack && q.value.trim().length > 1) window.snTrack('search_use', { search_location: 'search_page', results_count: out.children.length }); }, 1500);
+      });
     })();
   </script>
 </BaseLayout>

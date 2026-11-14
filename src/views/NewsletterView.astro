@@ -13,7 +13,7 @@ const field = 'w-full rounded-xl border border-warm-200 bg-white px-4 py-3 font-
     <p class="eyebrow text-gold-600">{t.footer.letterTitle}</p>
     <h1 class="mt-4 font-display text-5xl leading-[.95] text-warm-950 sm:text-7xl">{N.h1}</h1>
     <p class="mx-auto mt-5 max-w-xl font-body text-lg text-warm-600">{N.lead}</p>
-    <form method="POST" action="/.netlify/functions/newsletter-subscribe" data-newsletter data-msg-sending={N.sending} data-msg-invalid={N.errorInvalid} data-msg-error={N.errorUnavailable} data-status="nl-status" class="mx-auto mt-8 max-w-md space-y-3 text-left">
+    <form method="POST" action="/.netlify/functions/newsletter-subscribe" data-newsletter="newsletter_page" data-msg-sending={N.sending} data-msg-invalid={N.errorInvalid} data-msg-error={N.errorUnavailable} data-status="nl-status" class="mx-auto mt-8 max-w-md space-y-3 text-left">
       <input type="hidden" name="success" value={L.path('newsletter-success')} />
       <input type="hidden" name="back" value={Astro.url.pathname} />
       <input type="hidden" name="language" value={L.locale} />

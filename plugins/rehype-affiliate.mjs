@@ -5,7 +5,7 @@
 // that language when it exists, and left pointing at the English page otherwise.
 import { existsSync } from 'node:fs';
 import { join } from 'node:path';
-import { partnerLink, isPartner } from '../src/lib/tp-programs.mjs';
+import { partnerLink, isPartner, hostKey } from '../src/lib/tp-programs.mjs';
 import { localizeHref } from '../src/i18n/locales.mjs';
 
 const ENTRY_SEGMENTS = { hotels: 'hotels', categories: 'categories', destinations: 'destinations', blog: 'blog', experiences: 'experiences' };
@@ -44,7 +44,12 @@ export default function rehypeAffiliate({ subId = 'blog' } = {}) {
       if (isPartner(u.hostname)) {
         node.properties.href = partnerLink(href, `${subId}_${slug}`);
         node.properties.rel = ['noopener', 'noreferrer', 'nofollow', 'sponsored'];
-        node.properties['data-affiliate'] = u.hostname.replace(/^www\./, '');
+        // Read by the analytics click listener (BaseLayout): affiliate_click + partner_click.
+        node.properties['data-affiliate'] = '1';
+        node.properties['data-track'] = 'partner';
+        node.properties['data-placement'] = 'content';
+        node.properties['data-provider'] = hostKey(u.hostname).split('.').slice(-2, -1)[0];
+        node.properties['data-link-type'] = 'partner';
       } else {
         node.properties.rel = ['noopener', 'noreferrer', 'nofollow'];
       }
