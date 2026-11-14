@@ -1,6 +1,6 @@
 # Otel hattı durumu
 
-Güncelleme: 2026-11-14T21:33:16.531Z. Kuyrukta 8585 aday. Sitede yayında 184 otel, 11 taslak (195 dosya).
+Güncelleme: 2026-11-14T21:36:45.062Z. Kuyrukta 8585 aday. Sitede yayında 184 otel, 18 taslak (202 dosya).
 
 ## Dikkat
 
@@ -16,8 +16,8 @@ Güncelleme: 2026-11-14T21:33:16.531Z. Kuyrukta 8585 aday. Sitede yayında 184 o
 | Kanıtı hazır, sınıflandırıcıyı bekliyor | 0 |  |
 | **Sizin kararınızı bekliyor (onay kuyruğu)** | 624 | araştırma istenen: 0; son kararınız: 2026-10-10 |
 | Onaylı, yazarı bekliyor | 0 |  |
-| Onaylı ama yazılamadı (kanıt yetersiz) | 11 | yeni kanıt bekleyen: 10 |
-| Taslak sayfası hazır, "yayınla" bekliyor | 0 |  |
+| Onaylı ama yazılamadı (kanıt yetersiz) | 4 | yeni kanıt bekleyen: 0 |
+| Taslak sayfası hazır, "yayınla" bekliyor | 7 |  |
 | Yayında (bu hattan) | 91 |  |
 | Elendi / tekrar | 2594 |  |
 
@@ -25,29 +25,22 @@ Güncelleme: 2026-11-14T21:33:16.531Z. Kuyrukta 8585 aday. Sitede yayında 184 o
 
 | Otel | Neden | Deneme |
 |---|---|---|
-| Lumley Castle | Elimizdeki tek kaynak birkaç cümlelik Wikipedia özeti; otelin kendi sitesi okunamadı. Uydurmadan sayfa yazılamaz. Yeni kanıt istendi, gelince yazılacak. | 1 |
-| St Briavels Castle | Elimizdeki tek kaynak birkaç cümlelik Wikipedia özeti; otelin kendi sitesi okunamadı. Uydurmadan sayfa yazılamaz. Yeni kanıt istendi, gelince yazılacak. | 1 |
 | Burlington Bath Castle | Bir dil okulunun öğrenci yurdu; odalar okulun öğrencileri için, gezginler rezervasyon yapamıyor. Reddetmenizi öneririm. | 0 (bekliyor: sizin kararınız) |
-| Saddell Castle | Elimizdeki tek kaynak birkaç cümlelik Wikipedia özeti; otelin kendi sitesi okunamadı. Uydurmadan sayfa yazılamaz. Yeni kanıt istendi, gelince yazılacak. | 1 |
-| Erchless Castle | Elimizdeki tek kaynak birkaç cümlelik Wikipedia özeti; otelin kendi sitesi okunamadı. Uydurmadan sayfa yazılamaz. Yeni kanıt istendi, gelince yazılacak. | 1 |
-| Pałac Kosińskich | Elimizdeki tek kaynak birkaç cümlelik Wikipedia özeti; otelin kendi sitesi okunamadı. Uydurmadan sayfa yazılamaz. Yeni kanıt istendi, gelince yazılacak. | 1 |
-| Barcaldine Castle | Elimizdeki tek kaynak birkaç cümlelik Wikipedia özeti; otelin kendi sitesi okunamadı. Uydurmadan sayfa yazılamaz. Yeni kanıt istendi, gelince yazılacak. | 1 |
-| Myres Castle | Elimizdeki tek kaynak birkaç cümlelik Wikipedia özeti; otelin kendi sitesi okunamadı. Uydurmadan sayfa yazılamaz. Yeni kanıt istendi, gelince yazılacak. | 1 |
-| Astley Castle | Elimizdeki tek kaynak birkaç cümlelik Wikipedia özeti; otelin kendi sitesi okunamadı. Uydurmadan sayfa yazılamaz. Yeni kanıt istendi, gelince yazılacak. | 1 |
-| Ballygally Castle Hotel | Elimizdeki tek kaynak birkaç cümlelik Wikipedia özeti; otelin kendi sitesi okunamadı. Uydurmadan sayfa yazılamaz. Yeni kanıt istendi, gelince yazılacak. | 1 |
-| Stonefield Castle | Elimizdeki tek kaynak birkaç cümlelik Wikipedia özeti; otelin kendi sitesi okunamadı. Uydurmadan sayfa yazılamaz. Yeni kanıt istendi, gelince yazılacak. | 1 |
+| Erchless Castle | Kaynaklarda bu kalede konaklanabildiğine dair hiçbir bilgi yok (Wikipedia yalnızca tarihini ve sahiplerini anlatıyor, kendi sitesi açılmıyor). Reddetmenizi öneririm. | 1 (bekliyor: sizin kararınız) |
+| Pałac Kosińskich | Kaynaklarda bu sarayın otel olarak işletildiğine dair bilgi yok (Lehçe Wikipedia yalnızca mimarisini ve tarihini anlatıyor, kendi sitesi açılmıyor). Reddetmenizi öneririm. | 1 (bekliyor: sizin kararınız) |
+| Myres Castle | Kalenin kendi sitesi askıya alınmış ve şu an konuk kabul ettiğine dair kanıt yok; Wikipedia yalnızca geçmişini anlatıyor. İşletme durumu belli olana kadar yazılmamalı. | 1 (bekliyor: sizin kararınız) |
 
 ## Son çalışmalar
 
 | Aşama | Zaman (UTC) | Sonuç |
 |---|---|---|
+| writer | 2026-11-14 21:36 | last: blocked Pałac Kosińskich |
+| apply | 2026-11-14 21:34 | applied: {"reopened for the writer":10}, pruned: 0, unreadablePacks: 0 |
 | evidence | 2026-11-14 21:33 | asked: 10, packs: 10, nothingReadable: 0, errors: 0, requeuedLostPacks: 0, reasons: {} |
-| apply | 2026-11-14 21:32 | applied: {"accepted":1,"rejected":1}, pruned: 1, unreadablePacks: 0 |
 | review | 2026-11-14 21:18 | newDocs: 0, updates: 25, onPage: 729, exportGiven: true |
 | sites | 2026-11-14 21:16 | found: 0, none: 0, refused: 0 |
 | sites-todo | 2026-11-14 21:15 | withoutWebsite: 4323, taken: 20 |
 | reviews | 2026-11-14 21:15 | documents: 729, changed: {"duplicate of a page":1}, unreadable: 0 |
-| writer | 2026-11-14 21:15 | last: blocked Stonefield Castle |
 
 ## Kategoriye göre
 
@@ -56,7 +49,7 @@ Güncelleme: 2026-11-14T21:33:16.531Z. Kuyrukta 8585 aday. Sitede yayında 184 o
 | treehouse-hotels | 0 | 0 | 208 | 40 | 0 | 0 | 0 | 3 | 186 | 12 |
 | cave-hotels | 0 | 0 | 586 | 24 | 0 | 0 | 0 | 20 | 129 | 14 |
 | underwater-rooms | 0 | 0 | 8 | 0 | 0 | 0 | 0 | 0 | 3 | 2 |
-| castle-hotels | 0 | 4 | 760 | 225 | 0 | 11 | 0 | 45 | 602 | 23 |
+| castle-hotels | 0 | 4 | 760 | 225 | 0 | 4 | 7 | 45 | 602 | 23 |
 | floating-hotels | 0 | 0 | 79 | 17 | 0 | 0 | 0 | 4 | 15 | 2 |
 | bubble-hotels | 0 | 0 | 211 | 18 | 0 | 0 | 0 | 1 | 343 | 5 |
 | cliffside-hotels | 0 | 0 | 381 | 18 | 0 | 0 | 0 | 2 | 132 | 6 |

@@ -103,7 +103,8 @@ Asıl risk olan eşzamanlı yazma, birleştirme betiğiyle çözüldü.
   `evidence_count`: kaç site indirilecek; `evidence_ids`: önce indirilecek aday kimlikleri;
   `skip_discover: true`: sadece kararları işle ve kanıt indir.
 - Taslakları yayınlamak: `node pipeline/publish-drafts.mjs --list`, sonra
-  `node pipeline/publish-drafts.mjs <slug> ...`, derleme kontrolleri, PR.
+  `node pipeline/publish-drafts.mjs <slug> ...`, 5 dil çevirisi (taslakların çevirisi yoktur), derleme kontrolleri, PR.
+  Bunu bir Claude oturumuna "şu taslakları yayınla" demeniz yeterli.
 
 ## Betikler (`pipeline/`)
 
