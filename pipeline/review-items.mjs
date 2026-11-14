@@ -59,17 +59,20 @@ function evidenceFields(d, c) {
 }
 
 const sets = []; const updates = [];
+/** The owner asked for a second look: replace the evidence on the card and hand the decision back. */
+function researchUpdate(d, c, old, marker) {
+  const rejected = !['accepted', 'needs_review'].includes(d.verdict);
+  return { ...evidenceFields(d, c), run: marker, researched: marker, researchResult: d.verdict, decision: rejected ? 'reject' : null, note: rejected ? `Araştırma sonucu: ${d.reason ?? 'niş değil'}` : (old.note ?? '') };
+}
+const savedDecision = (c) => { try { return JSON.parse(readFileSync(c.haiku.file, 'utf8')).find(d => d.id === c.id) ?? null; } catch { return null; } };
 const same = (a, b) => JSON.stringify(a ?? null) === JSON.stringify(b ?? null);
 
 for (const d of checked) {
   const c = q[d.id] ?? {};
   const k = packName(d.id);
   const old = onPage.get(k);
-  const researched = c.research && !c.research.doneAt;
-  if (old && researched) {
-    // The owner asked for a second look: replace the evidence, hand the decision back.
-    const rejected = !['accepted', 'needs_review'].includes(d.verdict);
-    if (old.researched !== run) updates.push({ doc_id: k, data: { ...evidenceFields(d, c), researched: run, researchResult: d.verdict, decision: rejected ? 'reject' : null, note: rejected ? `Araştırma sonucu: ${d.reason ?? 'niş değil'}` : (old.note ?? '') } });
+  if (old && c.research && !c.research.doneAt && (d.evidenceAt ?? '') > (c.research.askedAt ?? '')) {
+    if (old.researched !== run) updates.push({ doc_id: k, data: researchUpdate(d, c, old, run) });
     continue;
   }
   if (old || !['accepted', 'needs_review'].includes(d.verdict)) continue;
@@ -84,6 +87,12 @@ for (const [k, old] of onPage) {
   if (updates.some(u => u.doc_id === k)) continue;
   const c = q[old.id];
   if (!c || old.status === 'closed' || (old.status === 'published' && c.status === 'published')) continue;
+  // A research result that never reached the page (the update was refused or the run stopped):
+  // rebuild it from the decision the nightly job applied.
+  if (c.research?.doneAt && c.research.result !== 'no readable source' && old.researched !== c.research.doneAt && old.status === 'pending') {
+    const d = savedDecision(c);
+    if (d) { updates.push({ doc_id: k, data: researchUpdate(d, c, old, c.research.doneAt) }); continue; }
+  }
   const data = {};
   if (c.status === 'published' && c.slug) Object.assign(data, { status: 'published', slug: c.slug, publishedAt: old.publishedAt ?? now, hold: null, draft: false });
   else if (old.status === 'published') continue; // the page says published, the queue disagrees: leave it for a person

@@ -48,6 +48,7 @@ for (const d of decisions) {
   if (verdict !== 'accepted' && !ev.pages.length && !ev.wikipedia && d.is_lodging !== false) verdict = 'no_evidence';
   const c = q[d.id] ?? {};
   let host = null; try { host = new URL(ev.finalUrl ?? ev.website).hostname.replace(/^www\./, ''); } catch {}
+  d.evidenceAt = ev.fetchedAt ?? null; // which revision of the evidence this decision read
   rows.push({ d, verdict, dropped, host, regex: c.status, regexCat: c.category ?? c.categories?.[0], name: ev.name, country: ev.country, pages: ev.pages.length });
 }
 // Several map entries for one property (e.g. each bungalow of a resort): keep the first, mark the rest.

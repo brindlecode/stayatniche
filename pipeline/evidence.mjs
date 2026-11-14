@@ -34,7 +34,9 @@ if (args[0] === '--next') {
   }
   const rank = cellRanker(q);
   const extra = args.slice(2).filter(id => q[id]);
-  const forced = Object.values(q).filter(c => c.refetch && (c.website || c.wikidata)).map(c => c.id);
+  // Blocked stays keep trying for better evidence: at once when flagged, then every 30 days, 3 tries.
+  const due = (c) => c.status === 'blocked' && c.blocked?.retry && (c.blocked.tries ?? 0) < 3 && (!c.lastEvidence || Date.now() - Date.parse(c.lastEvidence) > 30 * 86400000);
+  const forced = Object.values(q).filter(c => (c.refetch || due(c)) && (c.website || c.wikidata)).map(c => c.id);
   const next = Object.values(q).filter(c => needsEvidence(c))
     .sort((a, b) => rank(a) - rank(b) || (b.score ?? 0) - (a.score ?? 0) || Number(!!b.wikidata) - Number(!!a.wikidata))
     .slice(0, +(args[1] ?? 150)).map(c => c.id);
@@ -200,7 +202,7 @@ async function collect(id) {
     if (readable) c.research.fetchedAt = today();
     else { c.research.doneAt = today(); c.research.result = 'no readable source'; }
   }
-  if (c.blocked) c.blocked.tries = (c.blocked.tries ?? 0) + 1;
+  if (c.blocked) { c.blocked.tries = (c.blocked.tries ?? 0) + 1; if (c.blocked.tries >= 3) c.blocked.retry = false; }
   if (!readable) {
     const why = pack.notes.join('; ') || 'pages had no readable text';
     done.empty++; done.why[why.replace(/: 0 .*/, ': no connection')] = (done.why[why.replace(/: 0 .*/, ': no connection')] ?? 0) + 1;

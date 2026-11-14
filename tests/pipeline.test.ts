@@ -91,6 +91,43 @@ describe('review handoff', () => {
   });
 });
 
+describe('research and blocked retries', () => {
+  it('re-reads a pack fetched the same day as the first decision, and applies the new decision', () => {
+    const file = 'data/pipeline/decisions/2026-11-10/checked.json';
+    write('data/pipeline/candidates.json', { 'osm:way/1': cand('osm:way/1', { status: 'classified', haiku: { verdict: 'needs_review', file, evidenceAt: '2026-11-10T07:00:00.000Z' }, research: { askedAt: '2026-11-10T09:00:00.000Z', note: '?', fetchedAt: '2026-11-10' } }) });
+    write('data/pipeline/decisions/2026-11-10/batch-1.json', [decision('osm:way/1')]);
+    write(file, [{ ...decision('osm:way/1'), verdict: 'needs_review', evidenceAt: '2026-11-10T07:00:00.000Z' }]);
+    write('.pipeline-data/inbox/osm_way_1.json', pack('osm:way/1', { fetchedAt: '2026-11-10T10:00:00.000Z' }));
+    run('next-batches.mjs', '2026-11-10');
+    const todo = JSON.parse(readFileSync(join(dir, 'data/pipeline/decisions/2026-11-10/todo.json'), 'utf8'));
+    expect(todo).toHaveLength(1);
+    write(todo[0].out, [decision('osm:way/1')]);
+    run('check-decisions.mjs', 'data/pipeline/decisions/2026-11-10');
+    run('next-batches.mjs', '2026-11-10');
+    expect(JSON.parse(readFileSync(join(dir, 'data/pipeline/decisions/2026-11-10/todo.json'), 'utf8'))).toHaveLength(0);
+    run('apply-decisions.mjs');
+    expect(queue()['osm:way/1']).toMatchObject({ status: 'classified', haiku: { verdict: 'accepted', evidenceAt: '2026-11-10T10:00:00.000Z' }, research: { doneAt: '2026-11-10', result: 'accepted' } });
+    // The page never got the result: it is rebuilt from the saved decision.
+    write('export/queue/osm_way_1.json', { id: 'osm:way/1', name: 'Glen Castle', cat: 'castle-hotels', status: 'pending', decision: 'research', note: '?' });
+    run('review-items.mjs', 'data/pipeline/decisions/2026-11-11', 'export');
+    const updates = JSON.parse(readFileSync(join(dir, 'data/pipeline/decisions/2026-11-11/queue-updates.json'), 'utf8')).flat();
+    expect(JSON.parse(readFileSync(updates[0].file_path, 'utf8'))).toMatchObject({ researched: '2026-11-10', decision: null, verdict: 'accepted' });
+  });
+
+  it('a blocked stay whose re-fetch found nothing is tried again later, three times in all', () => {
+    const blocked = (tries: number, lastEvidence?: string) => ({ 'osm:way/1': cand('osm:way/1', { status: 'blocked', website: 'http://127.0.0.1:9/', lastEvidence, blocked: { reason: 'x', at: '2026-11-01T00:00:00.000Z', tries, retry: true } }) });
+    write('data/pipeline/candidates.json', blocked(0));
+    run('evidence.mjs', '--next', '5');
+    expect(queue()['osm:way/1'].blocked).toMatchObject({ tries: 1, retry: true });
+    run('evidence.mjs', '--next', '5');                       // fetched today: not again yet
+    expect(queue()['osm:way/1'].blocked.tries).toBe(1);
+    write('data/pipeline/candidates.json', blocked(2, '2026-01-01'));
+    run('evidence.mjs', '--next', '5');
+    expect(queue()['osm:way/1'].blocked).toMatchObject({ tries: 3, retry: false });
+    expect(queue()['osm:way/1'].status).toBe('blocked');
+  }, 60000);
+});
+
 describe('queue merge and website finder', () => {
   it('keeps both sides; the branch wins a real conflict', () => {
     const base = { a: cand('a'), b: cand('b') };

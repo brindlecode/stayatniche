@@ -23,9 +23,15 @@ for (const run of existsSync(DECISIONS) ? readdirSync(DECISIONS).sort() : []) {
   let rows; try { rows = JSON.parse(readFileSync(file, 'utf8')); if (!Array.isArray(rows)) throw new Error('not a list'); } catch (e) { broken.push(`${file}: ${e.message}`); continue; }
   for (const d of rows) {
     const c = q[d?.id];
-    if (!c || ['approved', 'blocked', 'drafted', 'published'].includes(c.status) || c.haiku?.file === file || c.noEvidenceFile === file) continue;
-    // A decision older than the owner's research request does not answer it.
-    if (c.research && !c.research.doneAt && !(c.research.fetchedAt && run >= c.research.fetchedAt)) continue;
+    // Applied once per decision: same file and same evidence revision means "already applied".
+    if (!c) continue;
+    const applied = (c.haiku?.file === file && (c.haiku.evidenceAt ?? null) === (d.evidenceAt ?? null)) || c.noEvidenceFile === file;
+    if (['approved', 'blocked', 'drafted', 'published'].includes(c.status) || applied) continue;
+    // A decision made on evidence older than the owner's research request does not answer it.
+    if (c.research && !c.research.doneAt) {
+      const answers = d.evidenceAt ? d.evidenceAt > (c.research.askedAt ?? '') : !!(c.research.fetchedAt && run > c.research.fetchedAt);
+      if (!answers) continue;
+    }
     if (d.verdict === 'no_evidence') {
       c.noEvidence = (c.noEvidence ?? 0) + 1;
       c.noEvidenceAt = new Date().toISOString();
@@ -37,7 +43,7 @@ for (const run of existsSync(DECISIONS) ? readdirSync(DECISIONS).sort() : []) {
     }
     c.haiku = {
       verdict: d.verdict, category: d.category ?? null, scope: d.niche_scope, confidence: d.confidence,
-      feature: d.niche_feature ?? null, reason: d.reason ?? null, file, decidedAt: run,
+      feature: d.niche_feature ?? null, reason: d.reason ?? null, file, decidedAt: run, evidenceAt: d.evidenceAt ?? undefined,
     };
     if (c.research && !c.research.doneAt) { c.research.doneAt = run; c.research.result = d.verdict; }
     if (d.verdict === 'accepted' || d.verdict === 'needs_review') c.status = 'classified';
