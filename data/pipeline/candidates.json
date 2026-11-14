@@ -67454,7 +67454,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "duplicate",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-09",
   "region": null,
@@ -161210,7 +161210,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "blocked",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "description": "Grade I listed quadrangular castle in County Durham, England, UK",
@@ -161241,7 +161241,14 @@
   },
   "finalCategory": "castle-hotels",
   "reviewedAt": "2026-10-10T07:30:07.537Z",
-  "reviewNote": "Not published: no evidence of rooms (operator site unreadable)."
+  "reviewNote": "Not published: no evidence of rooms (operator site unreadable).",
+  "blocked": {
+   "reason": "Elimizdeki tek kaynak birkaç cümlelik Wikipedia özeti; otelin kendi sitesi okunamadı. Uydurmadan sayfa yazılamaz. Yeni kanıt istendi, gelince yazılacak.",
+   "at": "2026-11-14T21:15:24.706Z",
+   "tries": 0,
+   "retry": true
+  },
+  "refetch": true
  },
  "osm:relation/14769948": {
   "id": "osm:relation/14769948",
@@ -161839,7 +161846,7 @@
    "tourism": "hostel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "blocked",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "description": "Grade I listed castle in Forest of Dean, United Kingdom",
@@ -161870,7 +161877,14 @@
   },
   "finalCategory": "castle-hotels",
   "reviewedAt": "2026-10-10T07:33:28.800Z",
-  "reviewNote": "Not published: YHA hostel; no evidence of sleeping in the castle."
+  "reviewNote": "Not published: YHA hostel; no evidence of sleeping in the castle.",
+  "blocked": {
+   "reason": "Elimizdeki tek kaynak birkaç cümlelik Wikipedia özeti; otelin kendi sitesi okunamadı. Uydurmadan sayfa yazılamaz. Yeni kanıt istendi, gelince yazılacak.",
+   "at": "2026-11-14T21:15:24.939Z",
+   "tries": 0,
+   "retry": true
+  },
+  "refetch": true
  },
  "osm:relation/18794909": {
   "id": "osm:relation/18794909",
@@ -195308,7 +195322,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "blocked",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "region": "England",
@@ -195337,7 +195351,13 @@
   },
   "finalCategory": "castle-hotels",
   "reviewedAt": "2026-10-10T07:33:17.352Z",
-  "reviewNote": "Not published: language school residence, not bookable by travellers."
+  "reviewNote": "Not published: language school residence, not bookable by travellers.",
+  "blocked": {
+   "reason": "Bir dil okulunun öğrenci yurdu; odalar okulun öğrencileri için, gezginler rezervasyon yapamıyor. Reddetmenizi öneririm.",
+   "at": "2026-11-14T21:15:24.501Z",
+   "tries": 0,
+   "retry": false
+  }
  },
  "osm:way/155166582": {
   "id": "osm:way/155166582",
@@ -208276,7 +208296,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "blocked",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "description": "castle in Argyll and Bute, Scotland, UK",
@@ -208307,7 +208327,14 @@
   },
   "finalCategory": "castle-hotels",
   "reviewedAt": "2026-10-10T07:33:30.783Z",
-  "reviewNote": "Not published: no evidence of rooms or bookable stay."
+  "reviewNote": "Not published: no evidence of rooms or bookable stay.",
+  "blocked": {
+   "reason": "Elimizdeki tek kaynak birkaç cümlelik Wikipedia özeti; otelin kendi sitesi okunamadı. Uydurmadan sayfa yazılamaz. Yeni kanıt istendi, gelince yazılacak.",
+   "at": "2026-11-14T21:15:25.154Z",
+   "tries": 0,
+   "retry": true
+  },
+  "refetch": true
  },
  "osm:way/232134839": {
   "id": "osm:way/232134839",
@@ -212083,7 +212110,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "blocked",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "description": "castle in Highland, Scotland, UK",
@@ -212111,7 +212138,14 @@
   },
   "finalCategory": "castle-hotels",
   "reviewedAt": "2026-10-10T07:33:34.684Z",
-  "reviewNote": "Not published: no evidence of rooms or bookable stay."
+  "reviewNote": "Not published: no evidence of rooms or bookable stay.",
+  "blocked": {
+   "reason": "Elimizdeki tek kaynak birkaç cümlelik Wikipedia özeti; otelin kendi sitesi okunamadı. Uydurmadan sayfa yazılamaz. Yeni kanıt istendi, gelince yazılacak.",
+   "at": "2026-11-14T21:15:25.360Z",
+   "tries": 0,
+   "retry": true
+  },
+  "refetch": true
  },
  "osm:way/254707509": {
   "id": "osm:way/254707509",
@@ -213671,7 +213705,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "blocked",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "description": null,
@@ -213697,7 +213731,14 @@
    "decidedAt": "sample"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-08T21:13:20.443Z"
+  "reviewedAt": "2026-10-08T21:13:20.443Z",
+  "blocked": {
+   "reason": "Elimizdeki tek kaynak birkaç cümlelik Wikipedia özeti; otelin kendi sitesi okunamadı. Uydurmadan sayfa yazılamaz. Yeni kanıt istendi, gelince yazılacak.",
+   "at": "2026-11-14T21:15:25.572Z",
+   "tries": 0,
+   "retry": true
+  },
+  "refetch": true
  },
  "osm:way/263844615": {
   "id": "osm:way/263844615",
@@ -216607,7 +216648,7 @@
    "stars": "4"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "blocked",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "description": "castle in Barcaldine, Scotland",
@@ -216638,7 +216679,14 @@
   },
   "finalCategory": "castle-hotels",
   "reviewedAt": "2026-10-10T07:33:32.850Z",
-  "reviewNote": "Not published: no evidence of rooms or bookable stay."
+  "reviewNote": "Not published: no evidence of rooms or bookable stay.",
+  "blocked": {
+   "reason": "Elimizdeki tek kaynak birkaç cümlelik Wikipedia özeti; otelin kendi sitesi okunamadı. Uydurmadan sayfa yazılamaz. Yeni kanıt istendi, gelince yazılacak.",
+   "at": "2026-11-14T21:15:25.771Z",
+   "tries": 0,
+   "retry": true
+  },
+  "refetch": true
  },
  "osm:way/282764419": {
   "id": "osm:way/282764419",
@@ -251384,7 +251432,7 @@
   ],
   "lat": 56.2852448,
   "lng": -3.2264628,
-  "website": null,
+  "website": "https://www.myrescastle.co.uk/",
   "wikidata": "Q3643160",
   "country": "GB",
   "city": null,
@@ -251392,7 +251440,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "blocked",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "description": "castle in Fife, Scotland, UK",
@@ -251402,7 +251450,6 @@
   "evidence": null,
   "checkedAt": "2026-10-02",
   "reasons": [],
-  "lastEvidence": "2026-10-09",
   "haiku": {
    "verdict": "needs_review",
    "category": "castle-hotels",
@@ -251414,7 +251461,17 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:33:25.119Z"
+  "reviewedAt": "2026-10-10T07:33:25.119Z",
+  "blocked": {
+   "reason": "Elimizdeki tek kaynak birkaç cümlelik Wikipedia özeti; otelin kendi sitesi okunamadı. Uydurmadan sayfa yazılamaz. Yeni kanıt istendi, gelince yazılacak.",
+   "at": "2026-11-14T21:15:25.951Z",
+   "tries": 0,
+   "retry": true
+  },
+  "refetch": true,
+  "siteSearchAt": "2026-11-14",
+  "websiteSource": "search",
+  "siteSearch": "found"
  },
  "osm:way/608275728": {
   "id": "osm:way/608275728",
@@ -258826,7 +258883,7 @@
   ],
   "lat": 52.502349,
   "lng": -1.542348,
-  "website": null,
+  "website": "https://landmarktrust.org.uk/Properties-list/astley-castle/holiday",
   "wikidata": "Q4810907",
   "country": "United Kingdom",
   "city": "Nuneaton",
@@ -258835,7 +258892,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "blocked",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "description": "ruinous moated fortified 16th century manor house in North Warwickshire, England, UK",
@@ -258846,7 +258903,6 @@
   "evidence": null,
   "checkedAt": "2026-10-02",
   "reasons": [],
-  "lastEvidence": "2026-10-09",
   "haiku": {
    "verdict": "needs_review",
    "category": "castle-hotels",
@@ -258858,7 +258914,17 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:33:19.484Z"
+  "reviewedAt": "2026-10-10T07:33:19.484Z",
+  "blocked": {
+   "reason": "Elimizdeki tek kaynak birkaç cümlelik Wikipedia özeti; otelin kendi sitesi okunamadı. Uydurmadan sayfa yazılamaz. Yeni kanıt istendi, gelince yazılacak.",
+   "at": "2026-11-14T21:15:26.141Z",
+   "tries": 0,
+   "retry": true
+  },
+  "refetch": true,
+  "siteSearchAt": "2026-11-14",
+  "websiteSource": "search",
+  "siteSearch": "found"
  },
  "osm:way/737465374": {
   "id": "osm:way/737465374",
@@ -260842,7 +260908,7 @@
   ],
   "lat": 54.8993096,
   "lng": -5.8616453,
-  "website": null,
+  "website": "https://ballygallycastlehotel.com/",
   "wikidata": "Q4852123",
   "country": "United Kingdom",
   "city": "Ballygally",
@@ -260851,7 +260917,7 @@
    "stars": "3"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "blocked",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "description": "castle in County Antrim, Northern Ireland",
@@ -260862,7 +260928,6 @@
   "evidence": null,
   "checkedAt": "2026-10-02",
   "reasons": [],
-  "lastEvidence": "2026-10-09",
   "haiku": {
    "verdict": "needs_review",
    "category": "castle-hotels",
@@ -260874,7 +260939,17 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:33:12.784Z"
+  "reviewedAt": "2026-10-10T07:33:12.784Z",
+  "blocked": {
+   "reason": "Elimizdeki tek kaynak birkaç cümlelik Wikipedia özeti; otelin kendi sitesi okunamadı. Uydurmadan sayfa yazılamaz. Yeni kanıt istendi, gelince yazılacak.",
+   "at": "2026-11-14T21:15:26.318Z",
+   "tries": 0,
+   "retry": true
+  },
+  "refetch": true,
+  "siteSearchAt": "2026-11-14",
+  "websiteSource": "search",
+  "siteSearch": "found"
  },
  "osm:way/773578903": {
   "id": "osm:way/773578903",
@@ -286456,16 +286531,15 @@
   ],
   "lat": 55.8912,
   "lng": -5.41706,
-  "website": null,
+  "website": "https://bespokehotels.com/stonefieldcastle",
   "wikidata": "Q7619164",
   "country": "United Kingdom",
   "city": "Argyll and Bute",
   "description": "country house, now hotel, in Argyll and Bute, Scotland, UK",
   "source": "wikidata",
-  "status": "approved",
+  "status": "blocked",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
-  "duplicateOf": "osm:way/294779425",
   "hasWikiImage": true,
   "region": "Scotland",
   "category": "castle-hotels",
@@ -286485,7 +286559,15 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:33:15.119Z"
+  "reviewedAt": "2026-10-10T07:33:15.119Z",
+  "blocked": {
+   "reason": "Elimizdeki tek kaynak birkaç cümlelik Wikipedia özeti; otelin kendi sitesi okunamadı. Uydurmadan sayfa yazılamaz. Yeni kanıt istendi, gelince yazılacak.",
+   "at": "2026-11-14T21:15:26.510Z",
+   "tries": 0,
+   "retry": true
+  },
+  "refetch": true,
+  "websiteSource": "twin"
  },
  "wd:Q7903424": {
   "id": "wd:Q7903424",

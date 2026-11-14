@@ -6,7 +6,7 @@
  * Usage: node pipeline/verify.mjs [limit]
  */
 import { CATEGORIES } from './categories.mjs';
-import { getJSON, loadQueue, saveQueue, sleep, publishedHotels, matchesPublished, UA } from './lib.mjs';
+import { getJSON, loadQueue, saveQueue, sleep, publishedHotels, matchesPublished, UA, report } from './lib.mjs';
 
 const LIMIT = +(process.argv[2] ?? 400);
 const CLOSED = /permanently closed|we have (now )?closed|no longer (open|operating|accepting)|closed (for good|permanently)|this (hotel|property) (has|is) (now )?closed|ceased trading/i;
@@ -40,6 +40,7 @@ const pending = Object.values(q).filter(c => c.status === 'new')
   .slice(0, LIMIT);
 console.log(`verifying ${pending.length} candidates`);
 
+let seen = 0;
 for (const c of pending) {
   const reasons = [];
   delete c.recheck;
@@ -103,12 +104,13 @@ for (const c of pending) {
     if (twin) { c.status = 'duplicate'; c.duplicateOf = twin.id; reasons.push('same website as another verified candidate'); }
     else c.status = 'verified';
   }
-  else if (best.score >= 4) { c.status = 'weak'; reasons.push(best.siteMatch ? 'low confidence' : 'no category evidence on official website'); }
+  else if (best.score >= 4) { c.status = 'weak'; reasons.push(best.siteMatch ? 'low confidence' : c.website ? 'no category evidence on official website' : 'no website known'); }
   else { c.status = 'rejected'; reasons.push('category not confirmed'); }
   c.reasons = reasons;
   console.log(`${c.status.padEnd(9)} ${String(best.score).padStart(2)} ${best.cat.padEnd(20)} ${c.name}`);
-  saveQueue(q);
+  if (++seen % 20 === 0) saveQueue(q);
 }
 saveQueue(q);
 const tally = Object.values(q).reduce((m, x) => ((m[x.status] = (m[x.status] ?? 0) + 1), m), {});
 console.log('\nqueue:', JSON.stringify(tally));
+report('verify', { ok: true, checked: pending.length, stillNew: tally.new ?? 0 });

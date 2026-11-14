@@ -1,0 +1,371 @@
+<title>Haiku Sınıflandırma İncelemesi</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Geist:wght@400;500;600&family=Geist+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: one reading column of review cards under a sticky filter bar; StayAtNiche's paper/evergreen/terracotta identity. */
+:root {
+  --bg: #FAF9F6; --surface: #FFFFFF; --sunk: #F2F0EB; --fg: #1C1A17; --muted: #6A655B; --line: #E5E2DA;
+  --primary: #1F5C48; --primary-fg: #FFFFFF; --accent: #AB4A21;
+  --ok-bg: #D5E6DE; --ok-fg: #133B2F; --warn-bg: #FBE7C2; --warn-fg: #6B4A0A;
+  --bad-bg: #F6DCD3; --bad-fg: #6B2F1A; --idle-bg: #ECEAE4; --idle-fg: #45413A;
+  --font-display: "Instrument Serif", Georgia, serif;
+  --font-body: Geist, system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-mono: "Geist Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #0F0E0C; --surface: #1C1A17; --sunk: #16140F; --fg: #F2F0EB; --muted: #A8A296; --line: #2D2A26;
+  --primary: #7BAF99; --primary-fg: #081B16; --accent: #EA9C72;
+  --ok-bg: #133B2F; --ok-fg: #ABCDBE; --warn-bg: #4A3608; --warn-fg: #F7D58E;
+  --bad-bg: #4A2114; --bad-fg: #F3C2A6; --idle-bg: #2D2A26; --idle-fg: #D0CBC1;
+  color-scheme: dark; } }
+:root[data-theme="dark"] {
+  --bg: #0F0E0C; --surface: #1C1A17; --sunk: #16140F; --fg: #F2F0EB; --muted: #A8A296; --line: #2D2A26;
+  --primary: #7BAF99; --primary-fg: #081B16; --accent: #EA9C72;
+  --ok-bg: #133B2F; --ok-fg: #ABCDBE; --warn-bg: #4A3608; --warn-fg: #F7D58E;
+  --bad-bg: #4A2114; --bad-fg: #F3C2A6; --idle-bg: #2D2A26; --idle-fg: #D0CBC1;
+  color-scheme: dark; }
+
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--fg); font: 15px/1.55 var(--font-body); }
+.wrap { max-width: 860px; margin: 0 auto; padding-inline: 16px; padding-block: 28px 64px; }
+h1 { font: 400 clamp(32px, 6vw, 46px)/1.05 var(--font-display); letter-spacing: -.01em; margin: 0 0 10px; text-wrap: balance; }
+h1 em { color: var(--accent); }
+.lede { color: var(--muted); max-width: 62ch; margin: 0; }
+.eyebrow { font: 500 11px/1 var(--font-mono); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+
+.stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 1px; background: var(--line); border: 1px solid var(--line); border-radius: 10px; overflow: hidden; margin: 22px 0 18px; }
+.stats div { background: var(--surface); padding: 12px 14px; display: grid; gap: 4px; }
+.stats b { font: 400 28px/1 var(--font-display); font-variant-numeric: tabular-nums; }
+.stats small { color: var(--muted); font-size: 12px; }
+
+.filters { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--bg); padding-block: 10px; border-bottom: 1px solid var(--line); display: grid; gap: 10px; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { font: 500 13px/1 var(--font-body); padding: 8px 11px; border-radius: 999px; border: 1px solid var(--line); background: var(--surface); color: var(--fg); cursor: pointer; display: inline-flex; gap: 6px; align-items: center; }
+.chip span { font-family: var(--font-mono); font-size: 12px; color: var(--muted); }
+.chip[aria-pressed="true"] { background: var(--fg); color: var(--bg); border-color: var(--fg); }
+.chip[aria-pressed="true"] span { color: var(--bg); opacity: .75; }
+.row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+select, input[type="search"], textarea { font: 14px/1.4 var(--font-body); color: var(--fg); background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; max-width: 100%; }
+input[type="search"] { flex: 1 1 180px; min-width: 0; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+.notice { margin-top: 14px; padding: 10px 12px; border-radius: 8px; background: var(--warn-bg); color: var(--warn-fg); font-size: 13px; }
+.bulk { margin-top: 12px; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 13px; color: var(--muted); }
+.count { margin: 14px 0 6px; font-size: 13px; color: var(--muted); }
+.list { display: grid; gap: 12px; }
+.empty { padding: 28px 16px; text-align: center; color: var(--muted); border: 1px dashed var(--line); border-radius: 12px; }
+.empty b { display: block; font: 400 24px/1.2 var(--font-display); color: var(--fg); margin-bottom: 6px; }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 16px; display: grid; gap: 10px; min-width: 0; }
+.card[data-state="approve"] { border-color: color-mix(in srgb, var(--primary) 45%, var(--line)); }
+.card[data-state="reject"] { opacity: .7; }
+.head { display: flex; gap: 10px; align-items: flex-start; justify-content: space-between; flex-wrap: wrap; }
+.head > div { min-width: 0; }
+.head h2 { font: 400 24px/1.15 var(--font-display); margin: 0; overflow-wrap: anywhere; }
+.place { color: var(--muted); font-size: 13px; }
+.pill { font: 600 11px/1 var(--font-mono); letter-spacing: .06em; text-transform: uppercase; padding: 6px 8px; border-radius: 6px; white-space: nowrap; }
+.v-accepted { background: var(--ok-bg); color: var(--ok-fg); }
+.v-needs_review { background: var(--warn-bg); color: var(--warn-fg); }
+.v-published { background: var(--idle-bg); color: var(--idle-fg); }
+.compare { display: grid; grid-template-columns: auto 1fr; gap: 2px 12px; font-size: 13px; }
+.compare dt { color: var(--muted); }
+.compare dd { margin: 0; font-family: var(--font-mono); font-size: 12.5px; overflow-wrap: anywhere; }
+.feature { margin: 0; }
+.reason { margin: 0; color: var(--muted); font-size: 13.5px; }
+blockquote { margin: 0; padding: 8px 12px; border-left: 3px solid var(--accent); background: var(--sunk); border-radius: 0 8px 8px 0; font-size: 14px; overflow-wrap: anywhere; }
+blockquote small { display: block; color: var(--muted); font: 500 10.5px/1.6 var(--font-mono); letter-spacing: .06em; text-transform: uppercase; }
+.facts { display: flex; flex-wrap: wrap; gap: 6px; }
+.facts span { font-size: 12.5px; padding: 3px 8px; border-radius: 6px; background: var(--sunk); }
+.links { display: flex; flex-wrap: wrap; gap: 14px; font-size: 13px; }
+.links a { color: var(--primary); text-underline-offset: 3px; }
+.links .meta { color: var(--muted); }
+.review { border-top: 1px dashed var(--line); padding-top: 12px; display: grid; gap: 8px; }
+.btns { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+.btn { font: 500 13px/1 var(--font-body); padding: 9px 12px; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--fg); cursor: pointer; }
+.btn.primary { background: var(--primary); color: var(--primary-fg); border-color: transparent; }
+.btn[data-d="approve"][aria-pressed="true"] { background: var(--ok-bg); color: var(--ok-fg); border-color: transparent; }
+.btn[data-d="reject"][aria-pressed="true"] { background: var(--bad-bg); color: var(--bad-fg); border-color: transparent; }
+.btn[data-d="unsure"][aria-pressed="true"] { background: var(--warn-bg); color: var(--warn-fg); border-color: transparent; }
+.btn:disabled { opacity: .5; cursor: default; }
+textarea { width: 100%; min-height: 38px; resize: vertical; }
+.saved { font-size: 12px; color: var(--muted); min-height: 1em; }
+.warn { margin: 0; padding: 8px 12px; border-radius: 8px; background: var(--warn-bg); color: var(--warn-fg); font-size: 13.5px; display: grid; gap: 4px; }
+.warn b { font-weight: 600; }
+.warn a { color: inherit; text-underline-offset: 3px; }
+.hold { margin: 0; padding: 8px 12px; border-radius: 8px; background: var(--bad-bg); color: var(--bad-fg); font-size: 13.5px; }
+.src { display: block; margin-top: 4px; color: var(--muted); font: 500 11.5px/1.5 var(--font-mono); overflow-wrap: anywhere; }
+.src a { color: inherit; text-underline-offset: 3px; }
+.btn[data-d="research"][aria-pressed="true"] { background: var(--warn-bg); color: var(--warn-fg); border-color: transparent; }
+.catpick { display: inline-flex; gap: 6px; align-items: center; font-size: 12.5px; color: var(--muted); flex: 0 1 300px; }
+.catpick select { flex: 1 1 auto; min-width: 0; }
+</style>
+
+<div class="wrap">
+  <p class="eyebrow">StayAtNiche · onay kuyruğu</p>
+  <h1>Hangi oteller <em>yayına girsin?</em></h1>
+  <p class="lede">Haiku her adayın resmi sitesini okudu ve niş bulduklarını buraya getirdi. Gerekçeye, siteden alıntıya ve gerekirse sitenin kendisine bakın. <b>Yayınla</b> dediğiniz oteller ertesi gün sayfasıyla siteye eklenir. <b>Araştırılsın</b> derseniz otelin sitesi yeniden okunur ve notunuzla birlikte tekrar değerlendirilip buraya döner. Yeni adaylar her sabah gelir.</p>
+
+  <div class="stats" aria-live="polite">
+    <div><span class="eyebrow">Onay bekliyor</span><b id="s-open">–</b><small>karar vermediğiniz</small></div>
+    <div><span class="eyebrow">Yayın sırasında</span><b id="s-approved">–</b><small>onayladınız, yazılacak</small></div>
+    <div><span class="eyebrow">Yayında</span><b id="s-published">–</b><small>bu kuyruktan siteye eklenen</small></div>
+    <div><span class="eyebrow">Reddettiğiniz</span><b id="s-rejected">–</b><small>siteye girmeyecek</small></div>
+  </div>
+
+  <div class="filters">
+    <div class="chips" id="tabs" role="group" aria-label="Durum"></div>
+    <div class="row">
+      <select id="cat" aria-label="Kategori"></select>
+      <select id="country" aria-label="Ülke"></select>
+      <input type="search" id="q" placeholder="Otel adı veya şehir ara" aria-label="Ara">
+    </div>
+  </div>
+  <div id="notice" class="notice" hidden></div>
+  <div class="bulk" id="bulk" hidden></div>
+  <p class="count" id="count"></p>
+  <div class="list" id="list"><div class="empty"><b>Kuyruk yükleniyor</b>Adaylar sayfanın kayıtlarından geliyor.</div></div>
+</div>
+
+<script>
+const CAT = {
+  'treehouse-hotels': 'Ağaç ev', 'cave-hotels': 'Mağara', 'underwater-rooms': 'Su altı', 'castle-hotels': 'Kale / saray',
+  'floating-hotels': 'Yüzen', 'bubble-hotels': 'Balon / kubbe', 'cliffside-hotels': 'Uçurum', 'desert-camps': 'Çöl kampı',
+  'jungle-lodges': 'Orman lodge', 'ice-hotels': 'Buz / iglo', 'safari-lodges': 'Safari', 'overwater-bungalows': 'Su üstü bungalov',
+  'lighthouse-hotels': 'Deniz feneri', 'train-hotels': 'Tren / vagon',
+};
+const SCOPE = { whole_property: 'tamamı niş', some_units: 'bir kısmı niş', name_only: 'sadece adı', unclear: 'belirsiz' };
+const VERDICT = { accepted: 'Haiku: kabul', needs_review: 'Haiku: sınırda' };
+const TABS = [['open', 'Onay bekliyor'], ['approve', 'Onayladıklarım'], ['hold', 'Yazılamadı'], ['research', 'Araştırılsın'], ['reject', 'Reddettiklerim'], ['published', 'Yayında']];
+const WHY = { 'same name': 'aynı isim', 'same website': 'aynı web sitesi', 'under 150 m away': '150 m içinde' };
+const DUPSTATUS = { published: 'sitede yayında', draft: 'sitede taslak', drafted: 'taslağı hazır', classified: 'bu kuyrukta', approved: 'onayladınız', blocked: 'onaylı, yazılamadı' };
+const host = (u) => { try { return new URL(u).hostname.replace(/^www\./, ''); } catch { return u; } };
+const esc = (s) => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+const catName = (c) => c ? (CAT[c] ?? c) : '—';
+
+const state = { tab: 'open', cat: 'all', country: 'all', q: '' };
+let pending = [], published = [], col = null, canWrite = false, loaded = false;
+const touched = new Set();      // reviewed in this visit: keep them on screen until the tab changes
+const chains = {}, noteTimers = {};
+let bulkArmed = false;
+
+// "unsure" is the old name of "research". An approved stay the writer could not write sits under "hold".
+const tabOf = (x) => x.status === 'published' ? 'published' : x.decision === 'unsure' ? 'research' : (x.decision === 'approve' && x.hold) ? 'hold' : (x.decision || 'open');
+function inTab(x) {
+  if (state.tab === 'published') return x.status === 'published';
+  if (x.status === 'published') return false;
+  return tabOf(x) === state.tab || (state.tab === 'open' && touched.has(x.k));
+}
+function visible() {
+  const src = state.tab === 'published' ? published : pending;
+  return src.filter(x => inTab(x)
+    && (state.cat === 'all' || (x.finalCat || x.cat) === state.cat)
+    && (state.country === 'all' || x.country === state.country)
+    && (!state.q || `${x.name} ${x.mapName ?? ''} ${x.city ?? ''} ${x.country ?? ''}`.toLowerCase().includes(state.q)))
+    .sort((a, b) => (a.rank ?? 9999) - (b.rank ?? 9999) || (a.verdict === 'accepted' ? -1 : 0) - (b.verdict === 'accepted' ? -1 : 0) || (b.conf ?? 0) - (a.conf ?? 0) || String(a.name).localeCompare(String(b.name)));
+}
+
+function renderTabs() {
+  const n = (t) => t === 'published' ? published.length : pending.filter(x => tabOf(x) === t).length;
+  document.getElementById('tabs').innerHTML = TABS.map(([k, label]) => `<button class="chip" data-t="${k}" aria-pressed="${state.tab === k}">${esc(label)} <span>${loaded ? n(k) : '–'}</span></button>`).join('');
+  document.getElementById('s-open').textContent = loaded ? n('open') : '–';
+  document.getElementById('s-approved').textContent = loaded ? n('approve') : '–';
+  document.getElementById('s-published').textContent = loaded ? published.length : '–';
+  document.getElementById('s-rejected').textContent = loaded ? n('reject') : '–';
+}
+function renderFilters() {
+  const all = [...pending, ...published];
+  const cats = [...new Set(all.map(x => x.finalCat || x.cat).filter(Boolean))].sort((a, b) => catName(a).localeCompare(catName(b), 'tr'));
+  const countries = [...new Set(all.map(x => x.country).filter(Boolean))].sort((a, b) => a.localeCompare(b));
+  const catSel = document.getElementById('cat'), coSel = document.getElementById('country');
+  catSel.innerHTML = '<option value="all">Tüm kategoriler</option>' + cats.map(c => `<option value="${esc(c)}">${esc(catName(c))}</option>`).join('');
+  coSel.innerHTML = '<option value="all">Tüm ülkeler</option>' + countries.map(c => `<option value="${esc(c)}">${esc(c)}</option>`).join('');
+  catSel.value = cats.includes(state.cat) ? state.cat : 'all';
+  coSel.value = countries.includes(state.country) ? state.country : 'all';
+}
+
+function card(x) {
+  const cat = x.finalCat || x.cat;
+  const facts = [x.roomCount ? `${x.roomCount} oda` : '', x.season, ...(x.highlights ?? []), ...(x.amenities ?? [])].filter(Boolean).slice(0, 9);
+  const links = [
+    x.url ? `<a href="${esc(x.url)}" target="_blank" rel="noopener">Resmi site ↗</a>` : '<span class="meta">Web sitesi yok</span>',
+    x.lat != null ? `<a href="https://www.openstreetmap.org/?mlat=${x.lat}&mlon=${x.lng}#map=15/${x.lat}/${x.lng}" target="_blank" rel="noopener">Haritada ↗</a>` : '',
+    x.wiki ? `<a href="${esc(x.wiki)}" target="_blank" rel="noopener">Wikipedia ↗</a>` : '',
+    `<a href="https://www.google.com/search?q=${encodeURIComponent([x.name, x.city, x.country].filter(Boolean).join(' '))}" target="_blank" rel="noopener">Google'da ara ↗</a>`,
+    x.slug ? `<a href="https://stayatniche.com/hotels/${encodeURIComponent(x.slug)}/" target="_blank" rel="noopener">Sitedeki sayfa ↗</a>` : '',
+  ].filter(Boolean).join('');
+  const pill = x.status === 'published' ? '<span class="pill v-published">Yayında</span>' : `<span class="pill v-${esc(x.verdict)}">${esc(VERDICT[x.verdict] ?? x.verdict)}</span>`;
+  const catOptions = (cat ? '' : '<option value="" selected>Kategori seçin</option>')
+    + Object.entries(CAT).map(([k, v]) => `<option value="${k}"${k === cat ? ' selected' : ''}>${esc(v)}</option>`).join('');
+  const dupes = (x.dupes ?? []).map(d => {
+    const where = d.kind === 'site' ? `<a href="https://stayatniche.com/hotels/${encodeURIComponent(d.ref)}/" target="_blank" rel="noopener">${esc(d.name)}</a>` : esc(d.name);
+    return `<span>${where} · ${esc(WHY[d.why] ?? d.why)} · ${esc(DUPSTATUS[d.status] ?? d.status ?? '')}</span>`;
+  }).join('');
+  const warn = [
+    dupes ? `<p class="warn"><b>Olası tekrar: aynı otel olabilir</b>${dupes}</p>` : '',
+    x.urlFound ? '<p class="warn"><b>Web sitesi aramayla bulundu</b><span>Haritada sitesi yoktu. Doğru otelin sitesi mi, açıp kontrol edin.</span></p>' : '',
+    x.researched ? `<p class="warn"><b>Yeniden araştırıldı (${esc(x.researched)})</b><span>${x.researchResult === 'no readable source' ? 'Okunabilir yeni kaynak bulunamadı; eldeki bilgiyle karar verin.' : 'Aşağıdaki gerekçe ve alıntı yeni okumadan.'}</span></p>` : '',
+  ].join('');
+  const hold = x.hold ? `<p class="hold"><b>Sayfası yazılamadı:</b> ${esc(x.hold)}</p>` : '';
+  const srcUrl = x.quoteUrl || x.url;
+  const src = srcUrl ? `<span class="src">Kaynak: <a href="${esc(srcUrl)}" target="_blank" rel="noopener">${esc(host(srcUrl))} ↗</a></span>` : '';
+  const evidence = x.quote ? `<blockquote><small>Kanıt: kaynaktan birebir alıntı</small>“${esc(x.quote)}”${src}</blockquote>`
+    : x.excerpt ? `<blockquote><small>Kanıt: kaynağın kendi tanıtımı (doğrulanmış alıntı yok)</small>${esc(x.excerpt)}${src}</blockquote>`
+    : `<blockquote><small>Kanıt</small>Doğrulanmış alıntı yok; karar yukarıdaki gerekçeye dayanıyor.${src}</blockquote>`;
+  const review = x.status === 'published' ? '' : `<div class="review">
+      <div class="btns">
+        <button class="btn" data-d="approve" aria-pressed="false">Yayınla</button>
+        <button class="btn" data-d="reject" aria-pressed="false">Reddet</button>
+        <button class="btn" data-d="research" aria-pressed="false">Araştırılsın</button>
+        <label class="catpick">Kategoriyi değiştir <select id="cat-${x.k}" aria-label="Yayınlanacağı kategori">${catOptions}</select></label>
+      </div>
+      <textarea id="note-${x.k}" rows="1" placeholder="Not (isteğe bağlı): örn. sadece 3 ağaç ev odası var; ya da neyin araştırılmasını istediğiniz"></textarea>
+      <div class="saved" aria-live="polite"></div>
+    </div>`;
+  return `<article class="card" data-k="${esc(x.k)}">
+    <div class="head"><div><h2>${esc(x.name)}</h2><div class="place">${esc([x.city, x.region, x.country].filter(Boolean).join(', '))}${x.mapName && x.mapName !== x.name ? ` · haritada “${esc(x.mapName)}”` : ''}</div></div>${pill}</div>
+    ${hold}${warn}
+    <dl class="compare"><dt>Önerilen kategori</dt><dd>${esc(catName(cat))} · ${esc(SCOPE[x.scope] ?? x.scope ?? '')}</dd><dt>Güven</dt><dd>${x.conf != null ? `%${Math.round(x.conf * 100)}` : 'belirtilmemiş'}${x.verdict === 'needs_review' ? ' · sınırda, dikkatli bakın' : ''}</dd>${x.regexCat && x.regexCat !== cat ? `<dt>Eski tahmin</dt><dd>${esc(catName(x.regexCat))}</dd>` : ''}</dl>
+    ${x.feature ? `<p class="feature">${esc(x.feature)}</p>` : ''}
+    ${x.reason && x.reason !== x.feature ? `<p class="reason">${esc(x.reason)}</p>` : ''}
+    ${evidence}
+    ${facts.length ? `<div class="facts">${facts.map(f => `<span>${esc(f)}</span>`).join('')}</div>` : ''}
+    <div class="links">${links}</div>
+    ${review}
+  </article>`;
+}
+
+function renderList() {
+  const items = visible();
+  document.getElementById('count').textContent = loaded ? `${items.length} otel gösteriliyor` : '';
+  const list = document.getElementById('list');
+  if (!loaded) return;
+  if (!items.length) {
+    const msg = state.tab === 'open' ? ['Bekleyen otel yok', 'Yeni adaylar her sabah eklenir. Filtre seçtiyseniz kaldırmayı deneyin.']
+      : state.tab === 'published' ? ['Henüz yayınlanan yok', 'Onayladığınız oteller yazıldıkça burada görünür.']
+      : state.tab === 'hold' ? ['Yazılamayan otel yok', 'Onayladığınız ama eldeki bilgiyle dürüstçe yazılamayan oteller burada, nedeniyle görünür.']
+      : ['Bu sekme boş', 'Bu durumda bir otel yok.'];
+    list.innerHTML = `<div class="empty"><b>${msg[0]}</b>${msg[1]}</div>`;
+  } else {
+    list.innerHTML = items.map(card).join('');
+    items.forEach(x => paint(x.k));
+  }
+  renderBulk(items);
+}
+
+function paint(k) {
+  const el = document.querySelector(`.card[data-k="${CSS.escape(k)}"]`);
+  const x = pending.find(p => p.k === k);
+  if (!el || !x) return;
+  el.dataset.state = x.decision || '';
+  el.querySelectorAll('.btn[data-d]').forEach(b => { b.setAttribute('aria-pressed', String(x.decision === b.dataset.d || (b.dataset.d === 'research' && x.decision === 'unsure'))); b.disabled = !canWrite; });
+  const sel = el.querySelector('select'), note = el.querySelector('textarea');
+  if (sel) { sel.disabled = !canWrite; if (document.activeElement !== sel) sel.value = x.finalCat || x.cat || ''; }
+  if (note) { note.disabled = !canWrite; if (document.activeElement !== note) note.value = x.note ?? ''; }
+}
+
+function renderBulk(items) {
+  const box = document.getElementById('bulk');
+  const targets = items.filter(x => x.status !== 'published' && !x.decision && x.verdict === 'accepted' && x.cat && !x.dupes?.length);
+  if (state.tab !== 'open' || !canWrite || targets.length < 2) { box.hidden = true; bulkArmed = false; return; }
+  box.hidden = false;
+  box.innerHTML = bulkArmed
+    ? `<span>Listede görünen ${targets.length} “Haiku: kabul” otelinin hepsi yayın sırasına girecek.</span><button class="btn primary" id="bulk-yes">Evet, ${targets.length} oteli onayla</button><button class="btn" id="bulk-no">Vazgeç</button>`
+    : `<button class="btn" id="bulk-arm">Görünen ${targets.length} “Haiku: kabul” otelini toplu onayla</button><span>Olası tekrar uyarısı olanlar toplu onaya girmez. Önce birkaçını tek tek kontrol etmenizi öneririm.</span>`;
+}
+
+function status(k, text) { const s = document.querySelector(`.card[data-k="${CSS.escape(k)}"] .saved`); if (s) s.textContent = text; }
+
+function save(k, patch) {
+  const x = pending.find(p => p.k === k);
+  if (!col || !canWrite || !x) return Promise.resolve();
+  Object.assign(x, patch, { reviewedAt: new Date().toISOString() });
+  touched.add(k); paint(k); renderTabs(); status(k, 'Kaydediliyor…');
+  const body = { decision: x.decision ?? null, finalCat: x.finalCat ?? x.cat ?? null, note: x.note ?? '', reviewedAt: x.reviewedAt };
+  // One write at a time per document.
+  chains[k] = (chains[k] ?? Promise.resolve())
+    .then(() => col.doc(k).update(body))
+    .then(() => status(k, x.decision === 'approve' ? 'Kaydedildi · yayın sırasına girdi' : x.decision === 'research' ? 'Kaydedildi · bu gece yeniden okunacak' : 'Kaydedildi'))
+    .catch(e => status(k, e?.code === 'invalid_argument' ? 'Kaydetme izniniz yok.' : 'Kaydedilemedi, tekrar deneyin.'));
+  return chains[k];
+}
+
+document.getElementById('tabs').addEventListener('click', e => {
+  const b = e.target.closest('.chip'); if (!b) return;
+  state.tab = b.dataset.t; touched.clear(); bulkArmed = false; renderTabs(); renderList();
+});
+document.getElementById('cat').addEventListener('change', e => { state.cat = e.target.value; bulkArmed = false; renderList(); });
+document.getElementById('country').addEventListener('change', e => { state.country = e.target.value; bulkArmed = false; renderList(); });
+document.getElementById('q').addEventListener('input', e => { state.q = e.target.value.trim().toLowerCase(); renderList(); });
+
+const list = document.getElementById('list');
+list.addEventListener('click', e => {
+  const b = e.target.closest('.btn[data-d]'); if (!b) return;
+  const k = b.closest('.card').dataset.k; const x = pending.find(p => p.k === k);
+  const sel = b.closest('.card').querySelector('select');
+  const finalCat = sel?.value || x?.cat || null;
+  // A stay can only be published under a category.
+  if (b.dataset.d === 'approve' && x?.decision !== 'approve' && !finalCat) { status(k, 'Yayınlamak için önce kategori seçin.'); sel?.focus(); return; }
+  const on = x?.decision === b.dataset.d || (b.dataset.d === 'research' && x?.decision === 'unsure');
+  save(k, { decision: on ? null : b.dataset.d, finalCat });
+});
+list.addEventListener('change', e => {
+  if (e.target.tagName !== 'SELECT') return;
+  save(e.target.closest('.card').dataset.k, { finalCat: e.target.value });
+});
+list.addEventListener('input', e => {
+  if (e.target.tagName !== 'TEXTAREA') return;
+  const k = e.target.closest('.card').dataset.k; const v = e.target.value;
+  clearTimeout(noteTimers[k]); status(k, '');
+  noteTimers[k] = setTimeout(() => save(k, { note: v }), 800);
+});
+document.getElementById('bulk').addEventListener('click', async e => {
+  if (e.target.id === 'bulk-arm') { bulkArmed = true; renderBulk(visible()); return; }
+  if (e.target.id === 'bulk-no') { bulkArmed = false; renderBulk(visible()); return; }
+  if (e.target.id !== 'bulk-yes') return;
+  const targets = visible().filter(x => x.status !== 'published' && !x.decision && x.verdict === 'accepted' && x.cat && !x.dupes?.length);
+  bulkArmed = false;
+  const box = document.getElementById('bulk'); box.innerHTML = `<span>${targets.length} otel onaylanıyor…</span>`;
+  for (const x of targets) await save(x.k, { decision: 'approve', finalCat: x.finalCat || x.cat });
+  box.innerHTML = `<span>${targets.length} otel yayın sırasına girdi.</span>`;
+});
+
+let rendered = false;
+function rerender() { rendered = true; renderTabs(); renderFilters(); renderList(); }
+renderTabs();
+
+(async () => {
+  const notice = document.getElementById('notice');
+  const db = window.claude?.use ? await window.claude.use('db') : null;
+  if (!db) {
+    notice.hidden = false; notice.textContent = 'Kuyruk bu görünümde açılamıyor. Sayfayı claude.ai üzerinde oturum açıkken açın.';
+    document.getElementById('list').innerHTML = '<div class="empty"><b>Kuyruğa ulaşılamadı</b>Oturum açıkken tekrar deneyin.</div>';
+    return;
+  }
+  const user = await window.claude.use('user');
+  const can = user ? await user.can('data.write') : null;
+  canWrite = can !== false;
+  if (!canWrite) { notice.hidden = false; notice.textContent = 'Bu kuyruğu sadece görüntüleme yetkiniz var.'; }
+  col = db.collection('queue');
+  const fail = () => { notice.hidden = false; notice.textContent = 'Kuyruğa bağlantı kesildi. Sayfayı yenileyin.'; };
+  let gotPending = false, gotPublished = false;
+  col.where('status', '==', 'pending').limit(1000).onSnapshot(snap => {
+    const local = new Map(pending.map(x => [x.k, x]));
+    pending = snap.docs.map(d => {
+      const x = { k: d.id, ...d.data() };
+      // Keep this visit's unsaved edits while their write is still in flight.
+      const l = local.get(d.id); if (l && chains[d.id] && snap.metadata.hasPendingWrites) Object.assign(x, { decision: l.decision, finalCat: l.finalCat, note: l.note });
+      return x;
+    });
+    gotPending = true; loaded = gotPending && gotPublished;
+    if (snap.docs.length >= 1000) { notice.hidden = false; notice.textContent = 'Kuyrukta 1000’den fazla kayıt var; ilk 1000 tanesi gösteriliyor. Karar verdikçe sıradakiler gelir.'; }
+    const shown = [...document.querySelectorAll('.card')].map(c => c.dataset.k).join();
+    const next = visible().map(x => x.k).join();
+    if (loaded && rendered && shown === next) { pending.forEach(x => paint(x.k)); renderTabs(); } else if (loaded) rerender();
+  }, fail);
+  col.where('status', '==', 'published').limit(1000).onSnapshot(snap => {
+    published = snap.docs.map(d => ({ k: d.id, ...d.data() }));
+    gotPublished = true; loaded = gotPending && gotPublished;
+    if (loaded) rerender();
+  }, fail);
+})();
+</script>

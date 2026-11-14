@@ -3,21 +3,26 @@
 Goal: publish the stays the owner **approved on the review page**, up to **20** per day, accurately.
 Never publish anything that is not `status: "approved"` in the queue. If nothing is approved, publish nothing.
 
-- Default branch: `claude/setup-stayatniche-project-xHSQk` (call it `$B`).
+**Every approved stay ends the run in one of four states, recorded with `pipeline/writer-result.mjs`**
+(section 4). Nothing stays "approved" because it was skipped silently.
+
+- Repo: `brindlecode/stayatniche`. Default branch: `claude/setup-stayatniche-project-xHSQk` (call it `$B`).
 - Review page: https://claude.ai/artifact/WC5XfcRYrJmXf8aqCCfDz7 (collection `queue`, document id =
   candidate id with every non-alphanumeric run replaced by `_`, e.g. `osm:way/123` -> `osm_way_123`).
 
 ## 0. Setup
 1. `git fetch origin $B && git checkout -b claude/pipeline-YYYY-MM-DD origin/$B`, then `npm ci`.
 2. Evidence packs: `mkdir -p .pipeline-data && git fetch --depth 1 origin pipeline-data && git archive FETCH_HEAD | tar -x -C .pipeline-data`.
-3. Pick up decisions made since the classifier ran: ArtifactData `query` on `queue` with
-   `{"where": [["status","==","pending"]], "limit": 1000}` and `out_dir: "/tmp/review-export"`, then
+3. Pick up decisions made since the classifier ran: ArtifactData `list` on `queue` with
+   `{"limit": 1000}` and `out_dir: "/tmp/review-export"` (follow `next_cursor` if there is one), then
    `node pipeline/sync-reviews.mjs /tmp/review-export`.
+4. `node pipeline/apply-decisions.mjs` (hands back stays that were blocked and now have better evidence).
 
 ## 1. Pick candidates
 - Read `data/pipeline/candidates.json`. Eligible: `status: "approved"` only.
-- `node pipeline/approved.mjs 20` lists them in cell order (id, review-page doc id, category, country, name). Take those, so that
-  whole category × country cells fill up and their "Best … in …" pages appear.
+- `node pipeline/approved.mjs 20` lists them in cell order (id, review-page doc id, category, country, name,
+  and how much evidence there is). Take those, so that whole category × country cells fill up and
+  their "Best … in …" pages appear.
 - The category to publish under is `finalCategory` (the reviewer's choice), not the old guess.
 
 ## 2. Gather facts (per candidate)
@@ -32,8 +37,15 @@ Use only these sources:
 - DirectBooker only if its tools are available in this session (`hotel-lookup-by-name-and-coordinates`,
   then `hotel-details` and `hotel-availability-lowest-direct-rate` for 2 adults, 2 nights, ~60 days out).
   Without it, prices are "Rates vary". Missing DirectBooker is never a reason to skip a stay.
-- If the evidence pack is missing or says the place closed, set the candidate back to `classified`
-  with a `reviewNote` explaining why, and skip it.
+- **Not enough to write a truthful page** (no pack, only a few sentences of Wikipedia, the official
+  site unreadable): do not write. Record
+  `node pipeline/writer-result.mjs blocked "<id>" "<neden, Türkçe, tek cümle>"`.
+  The nightly job then fetches fresh evidence and hands the stay back when it is better (3 tries).
+- **Should not be on the site at all** (closed, not bookable by travellers, not what the category
+  says): `node pipeline/writer-result.mjs blocked "<id>" "<neden, Türkçe>" --final`. It waits for the owner.
+  The reason is shown to the owner on the review page, so write it for them: plain Turkish, no jargon.
+- A Wikipedia article in the pack (`wikipedia.text`) is a valid source for history and setting;
+  paraphrase it. It is not a source for current rooms, prices or opening.
 - If only some rooms are the niche (`haiku.scope: some_units`), say so plainly in the description and body.
 
 ## 3. Write `src/content/hotels/<slug>.md`
@@ -107,12 +119,22 @@ correct it). Spot-read one translation per run for tone.
 A hotel without its translations only appears on the English site. That is acceptable only if you
 run out of time, and you must say so in the final message.
 
-## 4. Update the queue and the review page
-1. In `data/pipeline/candidates.json` set each published candidate to `status: "published"` and
-   `slug: "<slug>"`. Run `node pipeline/status.mjs`.
-2. After the PR is merged: for each published stay, ArtifactData `get` its `queue` document (note the
-   `version`), then `update` it with `{"status": "published", "slug": "<slug>", "publishedAt": "<ISO date>"}`
-   and that `if_version`. It then appears under "Yayında" on the review page.
+## 4. Record the result of every approved stay
+Do not edit `candidates.json` by hand. For each stay you took:
+```
+node pipeline/writer-result.mjs published "<id>" <slug>           # page written, status: published
+node pipeline/writer-result.mjs drafted   "<id>" <slug>           # page written with status: draft (owner publishes later)
+node pipeline/writer-result.mjs blocked   "<id>" "<neden>" [--final]
+node pipeline/writer-result.mjs duplicate "<id>" <existing slug>
+```
+Commit `data/pipeline/candidates.json` and `data/pipeline/runs` with the pages (not `STATUS.md`).
+The review page is updated from the queue by the next classifier run; you do not have to touch it.
+If you want it current today: after the PR is merged, ArtifactData `get` each published stay's `queue`
+document and `update` it with `{"status": "published", "slug": "<slug>", "publishedAt": "<ISO date>"}`
+and its `if_version`.
+
+Making drafts public later (owner said "yayınla"): `node pipeline/publish-drafts.mjs <slug> [slug...]`
+(`--list` shows the drafts), then section 5.
 
 ## 5. Check and ship
 1. `node scripts/check-duplicates.mjs && npm run build && node scripts/check-build.mjs` must pass. If the
@@ -121,4 +143,5 @@ run out of time, and you must say so in the final message.
 2. Commit (message: `pipeline: publish N stays (YYYY-MM-DD)`), push, open a PR to the default branch, and merge it
    once CI is green. If CI fails, fix or drop the offending file; never merge red.
 3. Trigger the `fetch-photos.yml` workflow on the default branch to look for free-licensed photos.
-4. Final message: list what was published, skipped and why.
+4. Final message: what was published, drafted, blocked (with the reason) and marked duplicate.
+   `node pipeline/approved.mjs` must list nothing you took.

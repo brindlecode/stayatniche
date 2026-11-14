@@ -3,17 +3,22 @@
  * subpages), schema.org JSON-LD, and a Wikipedia summary, and write one JSON file per candidate
  * to the inbox on the pipeline-data branch. Claude sessions classify from these files without
  * touching the web. Marks each candidate with `lastEvidence` in the queue.
- * Usage: node pipeline/evidence.mjs --next 150        (next candidates in cell priority order)
- *        node pipeline/evidence.mjs <ids.json | id...> (specific candidates)
+ * Usage: node pipeline/evidence.mjs --next 150 [id...]  (next candidates in cell priority order,
+ *                                                        plus the given ids first)
+ *        node pipeline/evidence.mjs <ids.json | id...>   (specific candidates)
+ * Order for --next: 1. candidates flagged `refetch` (owner asked for research, or the writer
+ * was blocked by thin evidence), 2. everything else that needs evidence, by cell priority.
+ * Restartable: a candidate whose pack went missing before it was classified is fetched again.
  */
-import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
-import { getJSON, loadQueue, saveQueue, sleep, UA, INBOX, packName, today } from './lib.mjs';
+import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs';
+import { getJSON, loadQueue, saveQueue, sleep, UA, INBOX, packName, packPath, today, UNDECIDED, report } from './lib.mjs';
 import { cellRanker, needsEvidence } from './priorities.mjs';
 
 const OUT = INBOX;
 const CONCURRENCY = 4;
 const PAGE_CHARS = 6000;
 const SUBPAGES = 3;
+const WIKI_CHARS = 8000;
 // Link text / path hints for pages that describe the stay itself.
 const SUB_HINT = /room|suite|accommodation|stay|lodg|cabin|tent|villa|treehouse|cave|about|history|story|our-|the-hotel|hotel|location|getting|how-to|faq|zimmer|unterkunft|geschichte|camere|storia|chambre|histoire|habitacion|historia|kamer|odalar|hakkimizda|tarihce/i;
 const SKIP_HINT = /\.(pdf|jpg|jpeg|png|gif|webp|zip)(\?|$)|mailto:|tel:|javascript:|#|login|cart|checkout|privacy|cookie|terms|impressum|legal|gdpr|careers|jobs|gift|voucher|press|blog\/page/i;
@@ -21,11 +26,19 @@ const SKIP_HINT = /\.(pdf|jpg|jpeg|png|gif|webp|zip)(\?|$)|mailto:|tel:|javascri
 const args = process.argv.slice(2);
 const q = loadQueue();
 let ids;
+let healed = 0;
 if (args[0] === '--next') {
+  // Fetched, never classified, and the pack is gone (e.g. a failed upload): fetch again.
+  for (const c of Object.values(q)) {
+    if (UNDECIDED.includes(c.status) && !c.haiku && c.lastEvidence && !existsSync(packPath(c.id)) && !(c.noEvidenceAt && c.noEvidenceAt.slice(0, 10) >= c.lastEvidence)) { delete c.lastEvidence; healed++; }
+  }
   const rank = cellRanker(q);
-  ids = Object.values(q).filter(c => needsEvidence(c))
+  const extra = args.slice(2).filter(id => q[id]);
+  const forced = Object.values(q).filter(c => c.refetch && (c.website || c.wikidata)).map(c => c.id);
+  const next = Object.values(q).filter(c => needsEvidence(c))
     .sort((a, b) => rank(a) - rank(b) || (b.score ?? 0) - (a.score ?? 0) || Number(!!b.wikidata) - Number(!!a.wikidata))
     .slice(0, +(args[1] ?? 150)).map(c => c.id);
+  ids = [...new Set([...extra, ...forced, ...next])];
 } else ids = args.length === 1 && args[0].endsWith('.json') ? JSON.parse(readFileSync(args[0], 'utf8')) : args;
 console.log(`evidence for ${ids.length} candidates -> ${OUT}`);
 mkdirSync(OUT, { recursive: true });
@@ -130,18 +143,26 @@ async function wikipedia(qid) {
   if (!site) return null;
   const lang = site.replace(/wiki$/, ''); const title = links[site].title;
   const s = await getJSON(`https://${lang}.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(title.replace(/ /g, '_'))}`);
-  return s?.extract ? { lang, title, url: s.content_urls?.desktop?.page ?? null, extract: s.extract.slice(0, 2500) } : null;
+  if (!s?.extract) return null;
+  // The summary is one paragraph; the article text (plain, capped) is what a page can be written from.
+  const full = await getJSON(`https://${lang}.wikipedia.org/w/api.php?action=query&format=json&prop=extracts&explaintext=1&exsectionformat=plain&redirects=1&titles=${encodeURIComponent(title)}`);
+  const text = Object.values(full?.query?.pages ?? {})[0]?.extract ?? '';
+  return { lang, title, url: s.content_urls?.desktop?.page ?? null, extract: s.extract.slice(0, 2500), text: text.replace(/\n{2,}/g, '\n').slice(0, WIKI_CHARS) };
 }
 
 let n = 0;
+const done = { packs: 0, empty: 0, errors: 0, why: {} };
 async function collect(id) {
   const c = q[id];
   if (!c) { console.log(`missing ${id}`); return; }
+  const forced = !!c.refetch || !UNDECIDED.includes(c.status);
   const pack = {
     id, name: c.name, queueStatus: c.status, queueCategory: c.category ?? c.categories[0], categories: c.categories,
     lat: c.lat, lng: c.lng, country: c.country, city: c.city, region: c.region ?? null,
     osm: c.osm ?? null, wikidata: c.wikidata, wikidataDescription: c.description ?? null,
-    website: c.website, fetchedAt: new Date().toISOString(), pages: [], jsonLd: [], wikipedia: null, notes: [],
+    website: c.website, websiteSource: c.websiteSource ?? 'map', fetchedAt: new Date().toISOString(), pages: [], jsonLd: [], wikipedia: null, notes: [],
+    // The owner's question from the review page ("needs research"), for the classifier to answer.
+    reviewerQuestion: c.research && !c.research.doneAt ? (c.research.note || 'Owner asked for a second look.') : null,
   };
   if (c.website) {
     const home = /^https?:\/\//.test(c.website) ? c.website : 'https://' + c.website;
@@ -173,20 +194,37 @@ async function collect(id) {
   if (c.wikidata) pack.wikipedia = await wikipedia(c.wikidata).catch(() => null);
   pack.jsonLd = pack.jsonLd.slice(0, 3);
   c.lastEvidence = today();
-  if (!pack.pages.length && !pack.wikipedia) {
+  delete c.refetch;
+  const readable = pack.pages.some(p => p.text) || !!pack.wikipedia;
+  if (c.research && !c.research.doneAt) {
+    if (readable) c.research.fetchedAt = today();
+    else { c.research.doneAt = today(); c.research.result = 'no readable source'; }
+  }
+  if (c.blocked) c.blocked.tries = (c.blocked.tries ?? 0) + 1;
+  if (!readable) {
+    const why = pack.notes.join('; ') || 'pages had no readable text';
+    done.empty++; done.why[why.replace(/: 0 .*/, ': no connection')] = (done.why[why.replace(/: 0 .*/, ': no connection')] ?? 0) + 1;
+    console.log(`${String(++n).padStart(3)} -- ${c.name} (${why})`);
+    // A forced re-fetch that found nothing keeps the old pack and the candidate's status.
+    if (forced) return;
     // Nothing to read: no pack (saves a classifier call); retried after 30 days, dropped after 3 tries.
-    c.noEvidence = (c.noEvidence ?? 0) + 1; c.noEvidenceAt = new Date().toISOString();
-    if (c.noEvidence >= 3) { c.status = 'rejected'; c.reasons = ['no readable website after 3 tries']; }
-    console.log(`${String(++n).padStart(3)} -- ${c.name} (${pack.notes.join('; ')})`);
+    c.noEvidence = (c.noEvidence ?? 0) + 1; c.noEvidenceAt = new Date().toISOString(); c.noEvidenceWhy = why;
+    if (c.noEvidence >= 3) { c.status = 'rejected'; c.reasons = [`no readable website after 3 tries (${why})`]; }
     return;
   }
   writeFileSync(`${OUT}/${packName(id)}.json`, JSON.stringify(pack, null, 1) + '\n');
+  done.packs++;
   console.log(`${String(++n).padStart(3)} ${pack.pages.length}p ${pack.wikipedia ? 'wiki ' : ''}${c.name}`);
 }
 
 // A few candidates at a time (different hosts); each host still gets one request per second.
-const work = [...ids];
+const work = [...ids]; let saved = 0;
 await Promise.all(Array.from({ length: CONCURRENCY }, async () => {
-  while (work.length) { const id = work.shift(); try { await collect(id); } catch (e) { console.log(`error ${id}: ${e.message}`); } }
+  while (work.length) {
+    const id = work.shift();
+    try { await collect(id); } catch (e) { done.errors++; console.log(`error ${id}: ${e.message}`); }
+    if (++saved % 25 === 0) saveQueue(q); // a cancelled run keeps what it finished
+  }
 }));
 saveQueue(q);
+report('evidence', { ok: true, asked: ids.length, packs: done.packs, nothingReadable: done.empty, errors: done.errors, requeuedLostPacks: healed, reasons: done.why });

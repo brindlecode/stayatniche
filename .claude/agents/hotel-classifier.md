@@ -13,7 +13,10 @@ If the evidence does not say something, the field is null or an empty list.
 ## Input
 Each evidence file has: name, queueCategory (a keyword guess, often wrong), country/city, osm tags,
 wikidataDescription, website, pages[] (official site text: home + up to 3 subpages), jsonLd[]
-(schema.org data from the site), wikipedia (summary), notes (e.g. fetch failures).
+(schema.org data from the site), wikipedia (extract = summary, text = the article's plain text),
+notes (e.g. fetch failures), websiteSource ("search" = the site was found by web search: check that
+its text is really about this property and place; if not, it is not evidence), and reviewerQuestion
+(set when the site owner asked for a second look: answer it in "reason").
 
 ## Categories (slug: accept when / typical false positives)
 - treehouse-hotels: sleeping units built in or among trees on raised structures / "Lemon Tree", "Peartree House", hostels or bars named Treehouse, treehouse builders
@@ -41,7 +44,7 @@ fill other_niche_type.
 - is_lodging false for restaurants, bars, museums, tour operators, shops, private homes, event-only venues.
 - operating_status "closed" only if the evidence says so; "unknown" if pages are empty or failed.
 - Every quote must be copied character for character from the evidence text (pages[].text,
-  pages[].title, pages[].description, wikipedia.extract or wikidataDescription), 5–30 words. A script will
+  pages[].title, pages[].description, wikipedia.extract, wikipedia.text or wikidataDescription), 5–30 words. A script will
   check each quote; a quote that is not found deletes that field. Do not translate or tidy quotes.
 - category_quote is the single best quote proving the niche feature. If there is none, category_quote
   is null, niche_scope is "name_only" or "unclear", and confidence ≤ 0.5.

@@ -4,7 +4,7 @@
  * night runs a few; a full sweep takes about a week. Usage: node pipeline/discover.mjs [category...]
  */
 import { CATEGORIES, LODGING } from './categories.mjs';
-import { getJSON, loadQueue, saveQueue, sleep } from './lib.mjs';
+import { getJSON, loadQueue, saveQueue, sleep, report } from './lib.mjs';
 
 const PER_NIGHT = 2;
 const keys = Object.keys(CATEGORIES);
@@ -21,7 +21,7 @@ const WD_KEYWORDS = {
 
 const q = loadQueue();
 const now = new Date().toISOString().slice(0, 10);
-let added = 0;
+let added = 0; const failed = [];
 const add = (c) => {
   if (!c.name || c.lat == null) return;
   const prev = q[c.id];
@@ -36,7 +36,9 @@ for (const cat of todo) {
   const ql = `[out:json][timeout:900];(nwr["tourism"~"^(${LODGING})$"]["name"~"${def.name}",i];${(def.extra ?? []).join('')});out center tags;`;
   const res = await getJSON('https://overpass-api.de/api/interpreter', { method: 'POST', body: 'data=' + encodeURIComponent(ql), headers: { 'Content-Type': 'application/x-www-form-urlencoded' } }, 2);
   const els = res?.elements ?? [];
-  console.log(`overpass: ${els.length} elements`);
+  // null = Overpass did not answer (busy or down); the category comes round again in a week.
+  if (!res) failed.push(cat);
+  console.log(`overpass: ${res ? els.length + ' elements' : 'NO ANSWER'}`);
   for (const e of els) {
     const t = e.tags ?? {};
     if (t['disused:tourism'] || t['abandoned:tourism'] || t.opening_hours === 'closed') continue;
@@ -65,4 +67,5 @@ for (const cat of todo) {
   }
   saveQueue(q);
 }
-console.log(`\nadded ${added} new candidates (total ${Object.keys(q).length})`);
+report('discover', { ok: failed.length < todo.length || !todo.length, categories: todo, added, total: Object.keys(q).length, ...(failed.length ? { noAnswerFromOverpass: failed } : {}) });
+if (todo.length && failed.length === todo.length) process.exitCode = 1;
