@@ -45,6 +45,7 @@ export const excludedName = (c) => !!CATEGORIES[catOf(c)]?.exclude?.test(c.name 
 /** Ready for an evidence pack: not decided yet, has somewhere to read from, not fetched recently. */
 export function needsEvidence(c, now = Date.now()) {
   if (!['new', 'verified', 'weak'].includes(c.status) || c.haiku || excludedName(c)) return false;
+  if (c.refetch) return !!(c.website || c.wikidata);
   if (!c.website && !c.wikidata) return false;
   return !c.lastEvidence || now - Date.parse(c.lastEvidence) > 30 * 86400000;
 }

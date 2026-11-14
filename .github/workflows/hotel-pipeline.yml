@@ -4,6 +4,9 @@ name: Hotel pipeline (nightly)
 # (country, site checks) -> fetch evidence packs for the next candidates in cell priority order.
 # Evidence packs live on the orphan `pipeline-data` branch (one commit, overwritten nightly) so
 # the default branch history stays small. The Claude classifier routine reads them from there.
+#
+# Every stage runs even if an earlier one failed, whatever succeeded is saved, and the run is
+# marked failed at the end if any stage failed (data/pipeline/STATUS.md says which and why).
 on:
   schedule:
     - cron: '17 1 * * *'   # GitHub often starts scheduled runs a few hours late
@@ -21,6 +24,14 @@ on:
         description: 'Evidence packs to fetch (next candidates in priority order)'
         required: false
         default: '150'
+      evidence_ids:
+        description: 'Candidate ids to fetch evidence for first (space separated, optional)'
+        required: false
+        default: ''
+      skip_discover:
+        description: 'Skip discovery and verification (true/false)'
+        required: false
+        default: 'false'
 
 permissions:
   contents: write
@@ -33,6 +44,11 @@ jobs:
   run:
     runs-on: ubuntu-latest
     timeout-minutes: 300
+    env:
+      EVIDENCE_IDS: ${{ github.event.inputs.evidence_ids }}
+      DISCOVER_CATEGORIES: ${{ github.event.inputs.categories }}
+      VERIFY_LIMIT: ${{ github.event.inputs.verify_limit || '1000' }}
+      EVIDENCE_COUNT: ${{ github.event.inputs.evidence_count || '150' }}
     steps:
       - uses: actions/checkout@v7
       - uses: actions/setup-node@v7
@@ -40,29 +56,94 @@ jobs:
       - name: Load evidence packs from pipeline-data
         run: |
           mkdir -p .pipeline-data/inbox
-          if git fetch --depth 1 origin pipeline-data; then git archive FETCH_HEAD | tar -x -C .pipeline-data; fi
-          # One-time move of packs that were committed to the default branch.
-          if [ -d data/pipeline/inbox ]; then cp -n data/pipeline/inbox/*.json .pipeline-data/inbox/ || true; git rm -rq data/pipeline/inbox; fi
+          # "Branch does not exist" (first run) is fine; "could not reach GitHub" must stop the job,
+          # otherwise an empty inbox would be published over the real one at the end.
+          remote=$(git ls-remote --heads origin pipeline-data | cut -f1)
+          if [ -n "$remote" ]; then
+            for i in 1 2 3; do git fetch --depth 1 origin pipeline-data && break; [ $i = 3 ] && exit 1; sleep 10; done
+            git archive FETCH_HEAD | tar -x -C .pipeline-data
+          fi
+          echo "PACKS_SHA=$remote" >> "$GITHUB_ENV"
+          echo "PACKS_LOADED=$(ls .pipeline-data/inbox | wc -l)" >> "$GITHUB_ENV"
           echo "packs: $(ls .pipeline-data/inbox | wc -l)"
-      - run: node pipeline/apply-decisions.mjs
-      - run: node pipeline/discover.mjs ${{ github.event.inputs.categories }}
-      - run: node pipeline/verify.mjs ${{ github.event.inputs.verify_limit || '1000' }}
-      - run: node pipeline/evidence.mjs --next ${{ github.event.inputs.evidence_count || '150' }}
-      - run: node pipeline/status.mjs
+          cp data/pipeline/candidates.json "$RUNNER_TEMP/queue-base.json"
+          echo "### Hotel pipeline" >> "$GITHUB_STEP_SUMMARY"
+      - name: Apply decisions
+        id: apply
+        continue-on-error: true
+        run: node pipeline/apply-decisions.mjs
+      - name: Discover
+        id: discover
+        if: github.event.inputs.skip_discover != 'true'
+        continue-on-error: true
+        run: node pipeline/discover.mjs $DISCOVER_CATEGORIES
+      - name: Verify
+        id: verify
+        if: github.event.inputs.skip_discover != 'true'
+        continue-on-error: true
+        run: node pipeline/verify.mjs "$VERIFY_LIMIT"
+      - name: Fetch evidence
+        id: evidence
+        continue-on-error: true
+        run: node pipeline/evidence.mjs --next "$EVIDENCE_COUNT" $EVIDENCE_IDS
       - name: Commit queue
+        id: commit
         run: |
           git config user.name "stayatniche-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/pipeline
-          if ! git diff --cached --quiet; then
-            git commit -m "pipeline: nightly apply + discover + verify + evidence"
-            git pull --rebase origin ${GITHUB_REF_NAME}
-            git push origin HEAD:${GITHUB_REF_NAME}
-          fi
+          B="${GITHUB_REF_NAME}"
+          cp data/pipeline/candidates.json "$RUNNER_TEMP/queue-ours.json"
+          for attempt in 1 2 3 4; do
+            node pipeline/status.mjs
+            git add data/pipeline
+            if git diff --cached --quiet; then echo "nothing to commit"; exit 0; fi
+            git commit -q -m "pipeline: nightly apply + discover + verify + evidence"
+            if git push origin "HEAD:$B"; then exit 0; fi
+            # Someone pushed meanwhile (a Claude routine or a merge). Start again from their
+            # version and merge the two queues candidate by candidate; nothing is overwritten.
+            echo "push rejected (attempt $attempt), merging with the branch"
+            cp -r data/pipeline/runs "$RUNNER_TEMP/runs-ours"
+            git fetch origin "$B"
+            git reset -q --hard "origin/$B"
+            node pipeline/merge-queue.mjs "$RUNNER_TEMP/queue-base.json" "$RUNNER_TEMP/queue-ours.json" data/pipeline/candidates.json
+            cp data/pipeline/candidates.json "$RUNNER_TEMP/queue-ours.json"
+            cp "$RUNNER_TEMP"/runs-ours/{apply,discover,verify,evidence}.json data/pipeline/runs/ 2>/dev/null || true
+            cp data/pipeline/runs/merge.json "$RUNNER_TEMP/" 2>/dev/null || true
+            sleep $((attempt * 5))
+          done
+          echo "::error::could not push the queue after 4 attempts"
+          exit 1
       - name: Publish evidence packs to pipeline-data
+        id: publish
+        # Only after the queue is saved: a pack without its queue entry is harmless, a queue
+        # entry marked "fetched" without its pack is fetched again by the next run.
         run: |
+          now=$(ls .pipeline-data/inbox | wc -l)
+          pruned=$(node -e "try{const r=require('./data/pipeline/runs/apply.json');console.log((r.pruned??0)+(r.unreadablePacks??0))}catch{console.log(0)}")
+          echo "packs: loaded $PACKS_LOADED, pruned $pruned, now $now"
+          if [ "$now" -lt $((PACKS_LOADED - pruned)) ]; then
+            echo "::error::evidence packs went missing during the run ($PACKS_LOADED loaded, $pruned pruned, $now left); not publishing"
+            exit 1
+          fi
           export GIT_INDEX_FILE="$RUNNER_TEMP/pipeline-data.index"
           git --work-tree=.pipeline-data add -A
           tree=$(git write-tree)
           commit=$(git commit-tree "$tree" -m "pipeline data $(date -u +%F)")
-          git push -f origin "$commit:refs/heads/pipeline-data"
+          # Refuse to overwrite if the branch changed since we loaded it.
+          git push --force-with-lease="pipeline-data:${PACKS_SHA}" origin "$commit:refs/heads/pipeline-data"
+          echo "- **packs**: loaded $PACKS_LOADED, pruned $pruned, published $now" >> "$GITHUB_STEP_SUMMARY"
+      - name: Report failed stages
+        if: always()
+        run: |
+          failed=""
+          [ "${{ steps.apply.outcome }}" = "failure" ] && failed="$failed apply"
+          [ "${{ steps.discover.outcome }}" = "failure" ] && failed="$failed discover"
+          [ "${{ steps.verify.outcome }}" = "failure" ] && failed="$failed verify"
+          [ "${{ steps.evidence.outcome }}" = "failure" ] && failed="$failed evidence"
+          [ "${{ steps.commit.outcome }}" = "failure" ] && failed="$failed commit"
+          [ "${{ steps.publish.outcome }}" = "failure" ] && failed="$failed publish-packs"
+          if [ -n "$failed" ]; then
+            echo "::error::failed stages:$failed (see data/pipeline/STATUS.md and the step logs)"
+            echo "**Failed stages:**$failed" >> "$GITHUB_STEP_SUMMARY"
+            exit 1
+          fi

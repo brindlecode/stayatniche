@@ -5,26 +5,29 @@
  * Usage: node pipeline/check-decisions.mjs <decisions dir> [evidence inbox dir]
  */
 import { readFileSync, readdirSync, writeFileSync, existsSync } from 'node:fs';
-import { loadQueue, INBOX as DEFAULT_INBOX } from './lib.mjs';
+import { loadQueue, INBOX as DEFAULT_INBOX, hostOf, MULTI_HOST as MULTI, report } from './lib.mjs';
 
 const dir = process.argv[2];
 if (!dir) { console.error('usage: node pipeline/check-decisions.mjs <decisions dir> [inbox]'); process.exit(1); }
 const INBOX = process.argv[3] ?? DEFAULT_INBOX;
 const q = loadQueue();
-const hostOf = (u) => { try { return new URL(/^https?:/.test(u) ? u : 'https://' + u).hostname.replace(/^www\./, ''); } catch { return null; } };
-// Hosts that list several distinct properties, so a shared host is not a duplicate.
-const MULTI = /(^|\.)(nationaltrust\.org\.uk|landmarktrust\.org\.uk|booking\.com|airbnb\.[a-z.]+|facebook\.com|instagram\.com|hilton\.com|marriott\.com|hyatt\.com|ihg\.com|accor\.com|wixsite\.com|nps\.gov|cloudbeds\.com)$/i;
 const squash = (s = '') => s.toLowerCase().normalize('NFKC').replace(/[’‘`´]/g, "'").replace(/[“”«»„]/g, '"').replace(/[–—]/g, '-').replace(/\s+/g, ' ').trim();
 const fileName = (id) => id.replace(/[^a-z0-9]+/gi, '_') + '.json';
 
-const decisions = readdirSync(dir).filter(f => /^batch.*\.json$/.test(f)).flatMap(f => JSON.parse(readFileSync(`${dir}/${f}`, 'utf8')));
-const rows = []; const stats = { quotes: 0, quotesOk: 0 };
+// A batch file that does not parse is reported and left out; its packs stay in the inbox and
+// are picked up again by the next run (next-batches skips only ids found in readable batches).
+const brokenFiles = []; const seenIds = new Set();
+const decisions = (existsSync(dir) ? readdirSync(dir) : []).filter(f => /^batch.*\.json$/.test(f)).sort().flatMap(f => {
+  try { const a = JSON.parse(readFileSync(`${dir}/${f}`, 'utf8')); if (!Array.isArray(a)) throw new Error('not a list'); return a.filter(d => d && typeof d.id === 'string'); }
+  catch (e) { brokenFiles.push(`${f}: ${e.message}`); return []; }
+}).filter(d => !seenIds.has(d.id) && seenIds.add(d.id));
+const rows = []; const stats = { quotes: 0, quotesOk: 0 }; let noPack = 0;
 
 for (const d of decisions) {
   const path = `${INBOX}/${fileName(d.id)}`;
-  if (!existsSync(path)) { console.log(`no evidence for ${d.id}`); continue; }
-  const ev = JSON.parse(readFileSync(path, 'utf8'));
-  const hay = squash([ev.name, ev.wikidataDescription, ev.wikipedia?.extract, ...ev.pages.flatMap(p => [p.title, p.description, p.text])].filter(Boolean).join('\n'));
+  if (!existsSync(path)) { console.log(`no evidence for ${d.id}`); noPack++; continue; }
+  let ev; try { ev = JSON.parse(readFileSync(path, 'utf8')); ev.pages ??= []; } catch { console.log(`unreadable evidence for ${d.id}`); noPack++; continue; }
+  const hay = squash([ev.name, ev.wikidataDescription, ev.wikipedia?.extract, ev.wikipedia?.text, ...ev.pages.flatMap(p => [p.title, p.description, p.text])].filter(Boolean).join('\n'));
   const ok = (quote) => { if (!quote) return false; stats.quotes++; const hit = hay.includes(squash(quote)); if (hit) stats.quotesOk++; return hit; };
   const dropped = [];
   const categoryQuoteOk = d.category_quote ? ok(d.category_quote) : false;
@@ -45,12 +48,13 @@ for (const d of decisions) {
   if (verdict !== 'accepted' && !ev.pages.length && !ev.wikipedia && d.is_lodging !== false) verdict = 'no_evidence';
   const c = q[d.id] ?? {};
   let host = null; try { host = new URL(ev.finalUrl ?? ev.website).hostname.replace(/^www\./, ''); } catch {}
+  d.evidenceAt = ev.fetchedAt ?? null; // which revision of the evidence this decision read
   rows.push({ d, verdict, dropped, host, regex: c.status, regexCat: c.category ?? c.categories?.[0], name: ev.name, country: ev.country, pages: ev.pages.length });
 }
 // Several map entries for one property (e.g. each bungalow of a resort): keep the first, mark the rest.
 const seenHost = new Map();
 // Properties already waiting for review or published count as seen.
-for (const c of Object.values(q)) if (['classified', 'approved', 'published'].includes(c.status)) { const h = hostOf(c.website ?? ''); if (h && !MULTI.test(h)) seenHost.set(h, c.id); }
+for (const c of Object.values(q)) if (['classified', 'approved', 'blocked', 'drafted', 'published'].includes(c.status)) { const h = hostOf(c.website ?? ''); if (h && !MULTI.test(h)) seenHost.set(h, c.id); }
 for (const r of rows.filter(r => r.host && ['accepted', 'needs_review'].includes(r.verdict))) {
   if (MULTI.test(r.host)) continue;
   if (seenHost.has(r.host) && seenHost.get(r.host) !== r.d.id) { r.verdict = 'duplicate'; r.dropped.push(`same site as ${seenHost.get(r.host)}`); } else seenHost.set(r.host, r.d.id);
@@ -74,3 +78,5 @@ const md = [
 writeFileSync(`${dir}/REPORT.md`, md.join('\n'));
 writeFileSync(`${dir}/checked.json`, JSON.stringify(rows.map(r => ({ ...r.d, verdict: r.verdict, dropped: r.dropped })), null, 1) + '\n');
 console.log(md.slice(0, 12).join('\n'));
+report('check', { ok: !brokenFiles.length, decisions: rows.length, ...Object.fromEntries(Object.keys(order).map(v => [v, count(r => r.verdict === v)])), withoutPack: noPack, ...(brokenFiles.length ? { brokenFiles } : {}) });
+if (brokenFiles.length) process.exitCode = 1;
