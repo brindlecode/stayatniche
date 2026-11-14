@@ -253,12 +253,12 @@ const en = {
     title: (c: string, n: number) => `Unusual hotels in ${c}: ${n} stays worth the trip`,
     metaTitle: (c: string, n: number) => `${n} Unusual Hotels in ${c} (Prices & Comparison)`,
     metaDescription: (c: string, n: number, types: string[]) => `Compare ${n} extraordinary hotels in ${c}: ${types.join(', ')} and more. Typical prices, who each suits best, and where to check rates.`,
-    intro: (c: string, n: number, types: string[], from: string, cheapest: string, top: string) => `${n} hand-picked stays in ${c}, from ${types.join(', ')} and beyond. Prices start around ${from} a night at ${cheapest}; our highest-scored pick is ${top}.`,
+    intro: (c: string, n: number, types: string[], from: string | null, cheapest: string | null, top: string) => `${n} hand-picked stays in ${c}, from ${types.join(', ')} and beyond. ${from && cheapest ? `Prices start around ${from} a night at ${cheapest}; our highest-scored pick is ${top}.` : `Our highest-scored pick is ${top}; rates vary, so check live prices.`}`,
     catWorldwide: (cat: string) => `${cat} worldwide`,
     guide: (name: string) => `${name} travel guide`,
-    faq: (f: { country: string; n: number; top: string; topWhere: string; types: string[]; cheapest: string; cheapestWhere: string; cheapestRange: string; seasons: string[] }) => [
+    faq: (f: { country: string; n: number; top: string; topWhere: string; types: string[]; cheapest: string | null; cheapestWhere: string; cheapestRange: string | null; seasons: string[] }) => [
       { q: `What are the most unusual hotels in ${f.country}?`, a: `Our top pick is ${f.top} in ${f.topWhere}. We list ${f.n} standout stays in ${f.country}, including ${f.types.join(', ')}.` },
-      { q: `What is the cheapest unusual hotel in ${f.country}?`, a: `${f.cheapest} (${f.cheapestWhere}) has the lowest typical rate on our list, around ${f.cheapestRange} per night. Rates vary by season, so check live prices.` },
+      ...(f.cheapest ? [{ q: `What is the cheapest unusual hotel in ${f.country}?`, a: `${f.cheapest} (${f.cheapestWhere}) has the lowest typical rate on our list, around ${f.cheapestRange} per night. Rates vary by season, so check live prices.` }] : []),
       { q: `When is the best time to visit ${f.country} for these stays?`, a: f.seasons.join('; ') || 'It depends on the property; see each hotel page for seasonal notes.' },
     ],
   },
@@ -267,12 +267,12 @@ const en = {
     title: (cat: string, c: string) => `Best ${cat} in ${c}`,
     metaTitle: (cat: string, c: string, n: number) => `Best ${cat} in ${c}: ${n} Top Picks Compared`,
     metaDescription: (cat: string, c: string, names: string[]) => `The best ${cat.toLowerCase()} in ${c}, compared: ${names.join(', ')}. Typical prices and who each stay suits.`,
-    intro: (cat: string, c: string, n: number, top: string, topWhere: string, cheapest: string) => `${n} standout ${cat.toLowerCase()} in ${c}, ranked by our editors. Start with ${top} in ${topWhere}; the most affordable is ${cheapest}.`,
+    intro: (cat: string, c: string, n: number, top: string, topWhere: string, cheapest: string | null) => `${n} standout ${cat.toLowerCase()} in ${c}, ranked by our editors. Start with ${top} in ${topWhere}${cheapest ? `; the most affordable is ${cheapest}` : ''}.`,
     allCat: (cat: string) => `All ${cat}`,
     allIn: (c: string) => `All stays in ${c}`,
-    faq: (f: { cat: string; country: string; names: string[]; top: string; topWhere: string; cheapFrom: string; cheapest: string }) => [
+    faq: (f: { cat: string; country: string; names: string[]; top: string; topWhere: string; cheapFrom: string | null; cheapest: string | null }) => [
       { q: `What are the best ${f.cat.toLowerCase()} in ${f.country}?`, a: `${f.names.join(', ')}. Our top-scored pick is ${f.top} in ${f.topWhere}.` },
-      { q: `How much do ${f.cat.toLowerCase()} in ${f.country} cost?`, a: `Typical rates run from about ${f.cheapFrom} a night (${f.cheapest}) upward. Always check live rates for your dates.` },
+      ...(f.cheapest ? [{ q: `How much do ${f.cat.toLowerCase()} in ${f.country} cost?`, a: `Typical rates run from about ${f.cheapFrom} a night (${f.cheapest}) upward. Always check live rates for your dates.` }] : []),
     ],
   },
   static: {
@@ -337,6 +337,9 @@ const en = {
     successTitle: "You're in. Thank you!",
     successText: 'Your first extraordinary stay arrives with the next Friday letter. Meanwhile, there is plenty to explore.',
     backHome: 'Back to home',
+    sending: "Signing you up…",
+    errorInvalid: "Please enter a valid email address.",
+    errorUnavailable: "Sorry, we couldn't sign you up right now. Your address was not saved. Please try again later.",
   },
   notFound: {
     metaTitle: 'Page Not Found | StayAtNiche',

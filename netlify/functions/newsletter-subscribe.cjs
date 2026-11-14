@@ -1,116 +1,130 @@
 /**
  * Netlify Function: newsletter-subscribe
  *
- * Triggered by Netlify Forms submission webhook.
- * Routes subscribers to your chosen provider via environment variables.
+ * The newsletter forms (footer + /newsletter page) post straight here.
+ * The visitor only sees "You're in" when an email provider actually accepted
+ * the address. If no provider is configured, or the provider rejects the call,
+ * the visitor gets an honest error instead of a fake success.
  *
- * SETUP in Netlify dashboard → Site settings → Forms → Notifications:
- *   Add webhook: https://your-site.netlify.app/.netlify/functions/newsletter-subscribe
+ *   GET  → { configured, provider }   (no secrets; used to check the setup)
+ *   POST → JSON or form-encoded { email, name?, language?, success?, back?, bot-field? }
+ *          JSON callers get { ok: true } (200) or { ok: false, error } (4xx/5xx).
+ *          Plain HTML form posts (no JavaScript) get a 303 to the success page
+ *          or a small error page.
  *
- * ENV VARS to set in Netlify dashboard → Site settings → Environment variables:
- *
- *   NEWSLETTER_PROVIDER = "beehiiv" | "mailchimp" | "brevo" | "none"
- *
- *   For Beehiiv (free up to 2,500 subs — recommended):
- *     BEEHIIV_API_KEY    = your API key from app.beehiiv.com → Settings → API
- *     BEEHIIV_PUB_ID     = your publication ID (pub_xxxxxxxx)
- *
- *   For Mailchimp (free up to 500 contacts):
- *     MAILCHIMP_API_KEY  = your API key from mailchimp.com → Account → API keys
- *     MAILCHIMP_LIST_ID  = audience/list ID
- *     MAILCHIMP_SERVER   = server prefix e.g. "us1" (from API key suffix)
- *
- *   For Brevo / Sendinblue (300 emails/day free):
- *     BREVO_API_KEY      = your API key from brevo.com → Settings → API keys
- *     BREVO_LIST_ID      = list ID number (integer)
+ * ENV VARS (Netlify → Project configuration → Environment variables):
+ *   NEWSLETTER_PROVIDER = "beehiiv" | "mailchimp" | "brevo"
+ *   Beehiiv:   BEEHIIV_API_KEY, BEEHIIV_PUB_ID
+ *   Mailchimp: MAILCHIMP_API_KEY, MAILCHIMP_LIST_ID, MAILCHIMP_SERVER (e.g. "us14")
+ *   Brevo:     BREVO_API_KEY, BREVO_LIST_ID
+ * See NEWSLETTER_SETUP.md.
  */
 
-// Lightweight, RFC-5321-friendly enough email regex. Rejects the obvious.
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/;
 
+const REQUIRED = {
+  beehiiv: ["BEEHIIV_API_KEY", "BEEHIIV_PUB_ID"],
+  mailchimp: ["MAILCHIMP_API_KEY", "MAILCHIMP_LIST_ID", "MAILCHIMP_SERVER"],
+  brevo: ["BREVO_API_KEY", "BREVO_LIST_ID"],
+};
+
+const ERRORS = {
+  invalid_email: "Please enter a valid email address.",
+  not_configured: "Sorry, newsletter sign-up is not available right now. Your address was not saved. Please try again later.",
+  provider_error: "Sorry, we could not sign you up right now. Your address was not saved. Please try again later.",
+  bad_request: "Sorry, something went wrong with the form. Please try again.",
+};
+
+function providerStatus() {
+  const provider = (process.env.NEWSLETTER_PROVIDER || "").trim().toLowerCase();
+  const needed = REQUIRED[provider];
+  const configured = !!needed && needed.every((k) => !!process.env[k]);
+  return { provider: needed ? provider : null, configured };
+}
+
+// Only same-site relative paths are allowed as redirect targets.
+const safePath = (p, fallback) =>
+  typeof p === "string" && /^\/(?!\/)[\w\-./]*$/.test(p) ? p : fallback;
+
+function parseBody(event) {
+  let raw = event.body || "";
+  if (event.isBase64Encoded) raw = Buffer.from(raw, "base64").toString("utf8");
+  const type = String(event.headers?.["content-type"] || "").toLowerCase();
+  if (type.includes("application/x-www-form-urlencoded")) {
+    return { form: true, data: Object.fromEntries(new URLSearchParams(raw)) };
+  }
+  const json = JSON.parse(raw);
+  // Also accept the Netlify Forms webhook shape: { payload: { data: {...} } }
+  return { form: false, data: json?.payload?.data || json?.data || json };
+}
+
+const json = (statusCode, body) => ({
+  statusCode,
+  headers: { "Content-Type": "application/json", "Cache-Control": "no-store" },
+  body: JSON.stringify(body),
+});
+
+const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+function respond(isForm, data, statusCode, result) {
+  if (!isForm) return json(statusCode, result);
+  if (result.ok) {
+    return { statusCode: 303, headers: { Location: safePath(data?.success, "/newsletter-success/") }, body: "" };
+  }
+  const back = safePath(data?.back, "/newsletter/");
+  return {
+    statusCode,
+    headers: { "Content-Type": "text/html; charset=utf-8", "Cache-Control": "no-store" },
+    body: `<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex"><title>Newsletter sign-up</title><body style="font-family:system-ui,sans-serif;max-width:34rem;margin:4rem auto;padding:0 1rem;line-height:1.5"><h1>Not subscribed</h1><p>${esc(ERRORS[result.error] || ERRORS.provider_error)}</p><p><a href="${esc(back)}">Go back</a></p></body></html>`,
+  };
+}
+
 exports.handler = async (event) => {
-  // Only accept POST
-  if (event.httpMethod !== "POST") {
-    return { statusCode: 405, body: "Method not allowed" };
-  }
+  if (event.httpMethod === "GET") return json(200, providerStatus());
+  if (event.httpMethod !== "POST") return json(405, { ok: false, error: "method_not_allowed" });
+  if (event.body && event.body.length > 10_000) return json(413, { ok: false, error: "bad_request" });
 
-  // Refuse oversized bodies early. Netlify caps at 6 MB but newsletter
-  // submissions should be a few hundred bytes at most.
-  if (event.body && event.body.length > 10_000) {
-    return { statusCode: 413, body: "Payload too large" };
-  }
-
-  let payload;
+  let parsed;
   try {
-    payload = JSON.parse(event.body);
+    parsed = parseBody(event);
   } catch {
-    return { statusCode: 400, body: "Invalid JSON" };
+    return json(400, { ok: false, error: "bad_request" });
+  }
+  const { form, data } = parsed;
+
+  // Honeypot: bots that fill the hidden field are dropped silently.
+  if (data?.["bot-field"]) return respond(form, data, 200, { ok: true });
+
+  const email = String(data?.email || "").trim().toLowerCase();
+  const firstName = String(data?.name || "").trim().split(/\s+/)[0] || "";
+  if (!email || email.length > 254 || !EMAIL_RE.test(email) || firstName.length > 80) {
+    return respond(form, data, 400, { ok: false, error: "invalid_email" });
   }
 
-  // Netlify Forms sends: { payload: { data: { email, name, ... } } }
-  const formData = payload?.payload?.data || payload?.data || payload;
-
-  // Honeypot — any submission that filled the hidden bot-field is spam.
-  if (formData?.["bot-field"]) {
-    return { statusCode: 200, body: JSON.stringify({ message: "ok" }) };
+  const { provider, configured } = providerStatus();
+  if (!configured) {
+    console.warn("Newsletter sign-up refused: no email provider configured (NEWSLETTER_PROVIDER and its keys).");
+    return respond(form, data, 503, { ok: false, error: "not_configured" });
   }
-
-  const email = (formData?.email || "").trim().toLowerCase();
-  const name = (formData?.name || "").trim();
-  const firstName = name.split(" ")[0] || "";
-
-  if (!email) {
-    return { statusCode: 400, body: "No email in submission" };
-  }
-  if (email.length > 254 || !EMAIL_RE.test(email)) {
-    return { statusCode: 400, body: "Invalid email" };
-  }
-  if (firstName.length > 80) {
-    return { statusCode: 400, body: "Name too long" };
-  }
-
-  const provider = process.env.NEWSLETTER_PROVIDER || "none";
 
   try {
-    switch (provider) {
-      case "beehiiv":
-        await subscribeBeehiiv(email, firstName);
-        break;
-      case "mailchimp":
-        await subscribeMailchimp(email, firstName);
-        break;
-      case "brevo":
-        await subscribeBrevo(email, firstName);
-        break;
-      default:
-        // No provider configured — submissions are stored in Netlify Forms dashboard
-        console.log(`Newsletter signup (no provider): ${email}`);
-    }
-
-    return {
-      statusCode: 200,
-      body: JSON.stringify({ message: "Subscribed successfully", email }),
-    };
+    if (provider === "beehiiv") await subscribeBeehiiv(email, firstName);
+    else if (provider === "mailchimp") await subscribeMailchimp(email, firstName);
+    else if (provider === "brevo") await subscribeBrevo(email, firstName);
+    return respond(form, data, 200, { ok: true });
   } catch (err) {
-    console.error("Newsletter subscribe error:", err.message);
-    return { statusCode: 500, body: JSON.stringify({ error: err.message }) };
+    console.error("Newsletter provider error:", err.message);
+    return respond(form, data, 502, { ok: false, error: "provider_error" });
   }
 };
 
 // ── Beehiiv ──────────────────────────────────────────────────────────────────
 async function subscribeBeehiiv(email, firstName) {
-  const apiKey = process.env.BEEHIIV_API_KEY;
-  const pubId = process.env.BEEHIIV_PUB_ID;
-  if (!apiKey || !pubId) throw new Error("BEEHIIV_API_KEY or BEEHIIV_PUB_ID not set");
-
   const res = await fetch(
-    `https://api.beehiiv.com/v2/publications/${pubId}/subscriptions`,
+    `https://api.beehiiv.com/v2/publications/${encodeURIComponent(process.env.BEEHIIV_PUB_ID)}/subscriptions`,
     {
       method: "POST",
-      headers: {
-        Authorization: `Bearer ${apiKey}`,
-        "Content-Type": "application/json",
-      },
+      headers: { Authorization: `Bearer ${process.env.BEEHIIV_API_KEY}`, "Content-Type": "application/json" },
       body: JSON.stringify({
         email,
         first_name: firstName || undefined,
@@ -122,65 +136,37 @@ async function subscribeBeehiiv(email, firstName) {
       }),
     }
   );
-  if (!res.ok) {
-    const body = await res.text();
-    throw new Error(`Beehiiv API error ${res.status}: ${body}`);
-  }
+  if (!res.ok) throw new Error(`Beehiiv API error ${res.status}: ${(await res.text()).slice(0, 300)}`);
 }
 
 // ── Mailchimp ─────────────────────────────────────────────────────────────────
 async function subscribeMailchimp(email, firstName) {
-  const apiKey = process.env.MAILCHIMP_API_KEY;
-  const listId = process.env.MAILCHIMP_LIST_ID;
   const server = process.env.MAILCHIMP_SERVER;
-  if (!apiKey || !listId || !server)
-    throw new Error("MAILCHIMP_API_KEY, MAILCHIMP_LIST_ID, or MAILCHIMP_SERVER not set");
-
+  if (!/^[a-z]{2}\d{1,3}$/.test(server)) throw new Error("MAILCHIMP_SERVER must look like us14");
   const res = await fetch(
-    `https://${server}.api.mailchimp.com/3.0/lists/${listId}/members`,
+    `https://${server}.api.mailchimp.com/3.0/lists/${encodeURIComponent(process.env.MAILCHIMP_LIST_ID)}/members`,
     {
       method: "POST",
-      headers: {
-        Authorization: `apikey ${apiKey}`,
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        email_address: email,
-        status: "subscribed",
-        merge_fields: { FNAME: firstName },
-      }),
+      headers: { Authorization: `apikey ${process.env.MAILCHIMP_API_KEY}`, "Content-Type": "application/json" },
+      body: JSON.stringify({ email_address: email, status: "subscribed", merge_fields: { FNAME: firstName } }),
     }
   );
-  if (!res.ok) {
-    const body = await res.text();
-    const parsed = JSON.parse(body);
-    // 400 with "Member Exists" is OK
-    if (parsed?.title === "Member Exists") return;
-    throw new Error(`Mailchimp API error ${res.status}: ${body}`);
-  }
+  if (res.ok) return;
+  const body = await res.text();
+  let title = "";
+  try { title = JSON.parse(body)?.title || ""; } catch { /* not JSON */ }
+  if (title === "Member Exists") return; // already on the list: the address is accepted
+  throw new Error(`Mailchimp API error ${res.status}: ${body.slice(0, 300)}`);
 }
 
-// ── Brevo / Sendinblue ────────────────────────────────────────────────────────
+// ── Brevo ─────────────────────────────────────────────────────────────────────
 async function subscribeBrevo(email, firstName) {
-  const apiKey = process.env.BREVO_API_KEY;
   const listId = parseInt(process.env.BREVO_LIST_ID, 10);
-  if (!apiKey || !listId) throw new Error("BREVO_API_KEY or BREVO_LIST_ID not set");
-
+  if (!listId) throw new Error("BREVO_LIST_ID must be a number");
   const res = await fetch("https://api.brevo.com/v3/contacts", {
     method: "POST",
-    headers: {
-      "api-key": apiKey,
-      "Content-Type": "application/json",
-    },
-    body: JSON.stringify({
-      email,
-      attributes: { FIRSTNAME: firstName },
-      listIds: [listId],
-      updateEnabled: true,
-    }),
+    headers: { "api-key": process.env.BREVO_API_KEY, "Content-Type": "application/json" },
+    body: JSON.stringify({ email, attributes: { FIRSTNAME: firstName }, listIds: [listId], updateEnabled: true }),
   });
-  if (!res.ok && res.status !== 204) {
-    const body = await res.text();
-    throw new Error(`Brevo API error ${res.status}: ${body}`);
-  }
+  if (!res.ok) throw new Error(`Brevo API error ${res.status}: ${(await res.text()).slice(0, 300)}`);
 }

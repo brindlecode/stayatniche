@@ -17,7 +17,7 @@ export const GET: APIRoute = async () => {
     ...cats.map(c => `- [${c.data.title}](${SITE}/categories/${c.slug}/): ${c.data.description}`),
     '',
     '## Hotels',
-    ...hotels.map(h => `- [${h.data.name}](${SITE}/hotels/${h.slug}/) (${h.data.destination}, ${h.data.country}; ${h.data.category}; ${h.data.priceRange}/night): ${h.data.description}`),
+    ...hotels.map(h => `- [${h.data.name}](${SITE}/hotels/${h.slug}/) (${h.data.destination}, ${h.data.country}; ${h.data.category}; ${/\d/.test(h.data.priceRange) ? `${h.data.priceRange}/night` : h.data.priceRange}): ${h.data.description}`),
     '',
     '## Destinations',
     ...dests.map(d => `- [${d.data.name}](${SITE}/destinations/${d.slug}/): ${d.data.description}`),

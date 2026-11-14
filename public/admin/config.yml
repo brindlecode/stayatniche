@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: ilkukaya/stayatniche
+  repo: brindlecode/stayatniche
   branch: claude/setup-stayatniche-project-xHSQk
 
 media_folder: "public/images"

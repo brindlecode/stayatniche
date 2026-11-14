@@ -4,7 +4,7 @@ Goal: turn last night's evidence packs into Haiku decisions, put the stays worth
 review page, and copy the reviewer's decisions back into the queue. You do not browse the web
 and you do not write hotel pages (the writer routine does that).
 
-- Repo: `ilkukaya/stayatniche`, default branch `claude/setup-stayatniche-project-xHSQk` (call it `$B`).
+- Repo: `brindlecode/stayatniche`, default branch `claude/setup-stayatniche-project-xHSQk` (call it `$B`).
 - Review page: https://claude.ai/artifact/WC5XfcRYrJmXf8aqCCfDz7 (collection `queue`).
 - Run name: today's date, e.g. `2026-10-09` (call it `$RUN`).
 

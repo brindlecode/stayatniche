@@ -273,12 +273,12 @@ const nl: typeof en = {
     title: (c: string, n: number) => `Bijzondere hotels ${inC(c)}: ${n} ${n === 1 ? 'verblijf dat de reis waard is' : 'verblijven die de reis waard zijn'}`,
     metaTitle: (c: string, n: number) => `${n} ${plural(n, 'bijzonder hotel', 'bijzondere hotels')} ${inC(c)} (prijzen en vergelijking)`,
     metaDescription: (c: string, n: number, types: string[]) => `Vergelijk ${n} ${plural(n, 'bijzonder hotel', 'bijzondere hotels')} ${inC(c)}: ${types.map(lc).join(', ')} en meer. Met gangbare prijzen, voor wie elk verblijf past en waar je tarieven checkt.`,
-    intro: (c: string, n: number, types: string[], from: string, cheapest: string, top: string) => `${n} ${plural(n, 'zorgvuldig gekozen verblijf', 'zorgvuldig gekozen verblijven')} ${inC(c)}: ${list(types.map(lc))} en meer. De prijzen beginnen ${about(from)} per nacht bij ${cheapest}; onze hoogst gescoorde keuze is ${top}.`,
+    intro: (c: string, n: number, types: string[], from: string | null, cheapest: string | null, top: string) => `${n} ${plural(n, 'zorgvuldig gekozen verblijf', 'zorgvuldig gekozen verblijven')} ${inC(c)}: ${list(types.map(lc))} en meer. ${from && cheapest ? `De prijzen beginnen ${about(from)} per nacht bij ${cheapest}; onze hoogst gescoorde keuze is ${top}.` : `Onze hoogst gescoorde keuze is ${top}; de prijzen wisselen, dus check de actuele tarieven.`}`,
     catWorldwide: (cat: string) => `${cat} wereldwijd`,
     guide: (name: string) => `Reisgids ${name}`,
-    faq: (f: { country: string; n: number; top: string; topWhere: string; types: string[]; cheapest: string; cheapestWhere: string; cheapestRange: string; seasons: string[] }) => [
+    faq: (f: { country: string; n: number; top: string; topWhere: string; types: string[]; cheapest: string | null; cheapestWhere: string; cheapestRange: string | null; seasons: string[] }) => [
       { q: `Wat zijn de bijzonderste hotels ${inC(f.country)}?`, a: `Onze topkeuze is ${f.top} in ${f.topWhere}. We hebben ${f.n} ${plural(f.n, 'opvallend verblijf', 'opvallende verblijven')} ${inC(f.country)} op onze lijst, waaronder ${list(f.types.map(lc))}.` },
-      { q: `Wat is het goedkoopste bijzondere hotel ${inC(f.country)}?`, a: `${f.cheapest} (${f.cheapestWhere}) heeft het laagste gangbare tarief op onze lijst: ${about(f.cheapestRange)} per nacht. De prijzen wisselen per seizoen, dus check de actuele tarieven.` },
+      ...(f.cheapest ? [{ q: `Wat is het goedkoopste bijzondere hotel ${inC(f.country)}?`, a: `${f.cheapest} (${f.cheapestWhere}) heeft het laagste gangbare tarief op onze lijst: ${about(f.cheapestRange)} per nacht. De prijzen wisselen per seizoen, dus check de actuele tarieven.` }] : []),
       { q: `Wat is de beste reistijd voor deze verblijven ${inC(f.country)}?`, a: f.seasons.join('; ') || 'Dat verschilt per accommodatie. Op elke hotelpagina lees je wat je per seizoen kunt verwachten.' },
     ],
   },
@@ -287,12 +287,12 @@ const nl: typeof en = {
     title: (cat: string, c: string) => `De beste ${lc(cat)} ${inC(c)}`,
     metaTitle: (cat: string, c: string, n: number) => `Beste ${lc(cat)} ${inC(c)}: ${n} ${plural(n, 'topadres', 'topadressen')} vergeleken`,
     metaDescription: (cat: string, c: string, names: string[]) => `De beste ${lc(cat)} ${inC(c)} vergeleken: ${list(names)}. Met gangbare prijzen en voor wie elk verblijf het best past.`,
-    intro: (cat: string, c: string, n: number, top: string, topWhere: string, cheapest: string) => `${n} opvallende ${lc(cat)} ${inC(c)}, gerangschikt door onze redactie. Begin bij ${top} in ${topWhere}; het voordeligst is ${cheapest}.`,
+    intro: (cat: string, c: string, n: number, top: string, topWhere: string, cheapest: string | null) => `${n} opvallende ${lc(cat)} ${inC(c)}, gerangschikt door onze redactie. Begin bij ${top} in ${topWhere}${cheapest ? `; het voordeligst is ${cheapest}` : ''}.`,
     allCat: (cat: string) => `Alle ${lc(cat)}`,
     allIn: (c: string) => `Alle verblijven ${inC(c)}`,
-    faq: (f: { cat: string; country: string; names: string[]; top: string; topWhere: string; cheapFrom: string; cheapest: string }) => [
+    faq: (f: { cat: string; country: string; names: string[]; top: string; topWhere: string; cheapFrom: string | null; cheapest: string | null }) => [
       { q: `Wat zijn de beste ${lc(f.cat)} ${inC(f.country)}?`, a: `${list(f.names)}. Onze hoogst gescoorde keuze is ${f.top} in ${f.topWhere}.` },
-      { q: `Wat kosten ${lc(f.cat)} ${inC(f.country)}?`, a: `De tarieven beginnen ${about(f.cheapFrom)} per nacht (${f.cheapest}) en lopen daarboven op. Check altijd de actuele tarieven voor jouw data.` },
+      ...(f.cheapest ? [{ q: `Wat kosten ${lc(f.cat)} ${inC(f.country)}?`, a: `De tarieven beginnen ${about(f.cheapFrom)} per nacht (${f.cheapest}) en lopen daarboven op. Check altijd de actuele tarieven voor jouw data.` }] : []),
     ],
   },
   static: {
@@ -357,6 +357,9 @@ const nl: typeof en = {
     successTitle: 'Je bent aangemeld. Bedankt!',
     successText: 'Je eerste bijzondere verblijf komt met de volgende vrijdagbrief. Tot die tijd valt er genoeg te ontdekken.',
     backHome: 'Terug naar home',
+    sending: "Bezig met aanmelden…",
+    errorInvalid: "Vul een geldig e-mailadres in.",
+    errorUnavailable: "Sorry, aanmelden lukt nu niet. Je adres is niet opgeslagen. Probeer het later opnieuw.",
   },
   notFound: {
     metaTitle: 'Pagina niet gevonden | StayAtNiche',
