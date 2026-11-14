@@ -2449,7 +2449,12 @@
    "reason": "Site describes itself as a safari experience with game viewing and 9 rooms, but does not explicitly mention game drives or a reserve, so confidence is moderate; operating status is unknown because the site carries only 2018 news items.",
    "file": "data/pipeline/decisions/2026-11-09/checked.json",
    "decidedAt": "2026-11-09"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-14T21:55:43.349Z",
+   "note": "Ön eleme: Kanıt yetersiz: tesisin şu an açık olduğu ve niş özelliği kaynakta yeterince net değil."
+  },
+  "refetch": true
  },
  "osm:node/10205758318": {
   "id": "osm:node/10205758318",
@@ -2551,7 +2556,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-11",
   "region": null,
@@ -2567,7 +2572,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: Kuyruktaki aynı fenerin (Flatflesa Fyr) tekrarı; bu kaydın sayfası yer tutucu içerikli bir demo."
   ],
   "lastEvidence": "2026-10-13",
   "haiku": {
@@ -2579,7 +2584,8 @@
    "reason": "The Norwegian word Fyr and the text Fyret suggest a lighthouse, but the booking page is a demo with placeholder content, so lighthouse fit is only moderately supported.",
    "file": "data/pipeline/decisions/2026-10-14/checked.json",
    "decidedAt": "2026-10-14"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/10225027017": {
   "id": "osm:node/10225027017",
@@ -2820,7 +2826,12 @@
    "reason": "Wikipedia extract says the castle remains are now a four-star boutique hotel; the official site returned no text, so room facts and status are unverified.",
    "file": "data/pipeline/decisions/2026-10-11/checked.json",
    "decidedAt": "2026-10-11"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-14T21:55:43.349Z",
+   "note": "Ön eleme: Kanıt yetersiz: otelin kendi sitesi okunamadı, elde yalnızca Wikipedia/harita bilgisi var."
+  },
+  "refetch": true
  },
  "osm:node/1025358473": {
   "id": "osm:node/1025358473",
@@ -3609,7 +3620,7 @@
    "stars": "5"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-11-10",
   "region": "Bali",
@@ -3624,7 +3635,9 @@
    "snippet": "NATE BOOK NOW HOME LEARN COVID-19 THE PARK ROOMS ACTIVITIES GALLERY CONTACT ✕ OUR COMMITMENT TO CONSERVATION & CARE Welcome to Bali's \"Most Unique\" Hotel and the World Luxury Hotel Awards 2019 Winner for Best Luxury Lodge in Asia and Best Luxury Eco Safari Lodge in the World . We are committed to providing our guests with a once in a lifetime experience amongst Bali’s largest herd of rescued Sumatran elephants. Staying at the Lodge is a rewarding experience as you can interact in numerous ways with these majestic creatures and get up close & personal with them. The park is fully committed to c"
   },
   "checkedAt": "2026-10-06",
-  "reasons": [],
+  "reasons": [
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (elephant park lodge); niş özelliği listedeki kategorilerde kanıtlanmadı."
+  ],
   "lastEvidence": "2026-10-23",
   "haiku": {
    "verdict": "needs_review",
@@ -3635,7 +3648,8 @@
    "reason": "Lodge inside an elephant park with rescued elephants; not a game-drive reserve, so safari-lodges does not fit and no existing category applies. The OSM domain redirects to Mason Elephant Park and Lodge.",
    "file": "data/pipeline/decisions/2026-10-23/checked.json",
    "decidedAt": "2026-10-23"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/1038273465": {
   "id": "osm:node/1038273465",
@@ -4989,7 +5003,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-14",
   "region": "Nova Scotia",
@@ -5005,7 +5019,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: Kubbenin şeffaf olduğu kaynakta yazmıyor; balon/cam kubbe özelliği kanıtlanmamış."
   ],
   "lastEvidence": "2026-10-22",
   "haiku": {
@@ -5017,7 +5031,8 @@
    "reason": "Mixed resort; the only treetop unit is a geodesic dome whose opacity and transparency are not described, so the bubble category is kept but scope is unclear.",
    "file": "data/pipeline/decisions/2026-10-22/checked.json",
    "decidedAt": "2026-10-22"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/10705067732": {
   "id": "osm:node/10705067732",
@@ -6055,7 +6070,12 @@
    "reason": "Bubble and dome units are stated, but the page never says whether they are transparent or opaque, so the niche scope is unclear; 3 units from the page field.",
    "file": "data/pipeline/decisions/2026-10-14/checked.json",
    "decidedAt": "2026-10-14"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-14T21:55:43.349Z",
+   "note": "Ön eleme: Kanıt yetersiz: niş özelliğinin kapsamı kaynakta net değil."
+  },
+  "refetch": true
  },
  "osm:node/10783766643": {
   "id": "osm:node/10783766643",
@@ -9567,7 +9587,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-11-10",
   "region": "Region of Nitra",
@@ -9582,7 +9602,9 @@
    "snippet": "poplatkového lovu Cenník mäsa Služby Kontakt Slovenčina English Ubytovanie O nás Cenník pobytu Región Poľovačka Poľovný revír Dudín Najsilnejšie trofeje Všeobecné podmienky lovu Cenník poplatkového lovu Cenník mäsa Služby Kontakt Slovenčina English Safari Hotel Dudín TAM, KDE POČUŤ PRÍRODU. Safari Hotel Dudín TAM, KDE POČUŤ PRÍRODU. Safari Hotel Dudín TAM, KDE POČUŤ PRÍRODU. Vitajte V SLOVENSKOM SAFARI REZORTE DUDÍN. V dudínskej zvernici si nažívajú v harmónii zvery divé aj domorodé. Jelene, daniele, muflóny, srny a srnce, diviaky, ale aj kačice, bažanty, zajace a rôzne druhy vtáctva – k disp"
   },
   "checkedAt": "2026-10-06",
-  "reasons": [],
+  "reasons": [
+   "reviewer: Ön eleme: Hayvan parkı (safari resort) oteli; rezerv ve oyun sürüşü kanıtı yok."
+  ],
   "lastEvidence": "2026-10-26",
   "haiku": {
    "verdict": "needs_review",
@@ -9593,7 +9615,8 @@
    "reason": "The site describes a safari resort in a game enclosure with a hotel, but it does not mention game drives or the lodging units, so the fit is only partly supported.",
    "file": "data/pipeline/decisions/2026-10-26/checked.json",
    "decidedAt": "2026-10-26"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/11147052373": {
   "id": "osm:node/11147052373",
@@ -15020,7 +15043,7 @@
    "tourism": "wilderness_hut"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": "Baden-Württemberg",
@@ -15036,7 +15059,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no official website (listing/social/builder page)"
+   "reviewer: Ön eleme: Kaynak bir ağaç ev yapımcısının genel sayfası; bu tesisin ağaç evi kanıtlanmamış."
   ],
   "lastEvidence": "2026-10-13",
   "haiku": {
@@ -15048,7 +15071,8 @@
    "reason": "The only evidence is a treehouse builder's generic page (the property text is just the site name), so the treehouse niche is not confirmed for this specific stay.",
    "file": "data/pipeline/decisions/2026-10-14/checked.json",
    "decidedAt": "2026-10-14"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/11777582032": {
   "id": "osm:node/11777582032",
@@ -15858,7 +15882,7 @@
    "stars": "3"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": "Occitania",
@@ -15874,7 +15898,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (insolite forest cabins (cabanes)); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-13",
   "haiku": {
@@ -15886,7 +15910,8 @@
    "reason": "The queue guessed treehouse from the name, but the site only describes cabins in the woods and never says they are built in or among trees, so it is kept as an unusual cabin stay with no category.",
    "file": "data/pipeline/decisions/2026-10-14/checked.json",
    "decidedAt": "2026-10-14"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/11873697296": {
   "id": "osm:node/11873697296",
@@ -16210,7 +16235,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-14",
   "region": "Grand Est",
@@ -16226,7 +16251,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (wooden barrel lodgings); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-13",
   "haiku": {
@@ -16238,7 +16263,8 @@
    "reason": "The name suggests bubbles, but the site describes two wooden barrels, which fit none of the categories, so other_niche_type is used.",
    "file": "data/pipeline/decisions/2026-10-14/checked.json",
    "decidedAt": "2026-10-14"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/11900371604": {
   "id": "osm:node/11900371604",
@@ -17284,7 +17310,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-07",
   "lastSeen": "2026-11-11",
   "region": null,
@@ -17300,7 +17326,7 @@
   },
   "checkedAt": "2026-10-07",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (guesthouse inside a railway station building); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-25",
   "haiku": {
@@ -17312,7 +17338,8 @@
    "reason": "Guesthouse above a railway station; no train carriage or sleeper journey is stated, so train-hotels does not apply and it is recorded as an other niche.",
    "file": "data/pipeline/decisions/2026-10-25/checked.json",
    "decidedAt": "2026-10-25"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/12005915223": {
   "id": "osm:node/12005915223",
@@ -19221,7 +19248,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": null,
@@ -19237,7 +19264,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: Kubbenin şeffaf olduğu kaynakta yazmıyor; balon/cam kubbe özelliği kanıtlanmamış."
   ],
   "lastEvidence": "2026-10-26",
   "haiku": {
@@ -19249,7 +19276,8 @@
    "reason": "The Dome Smiberget is a dome on a rock ledge, but the page does not say it is transparent, so the bubble fit is unclear.",
    "file": "data/pipeline/decisions/2026-10-26/checked.json",
    "decidedAt": "2026-10-26"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/12114477501": {
   "id": "osm:node/12114477501",
@@ -20818,7 +20846,7 @@
    "tourism": "wilderness_hut"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-07",
   "lastSeen": "2026-11-11",
   "region": "Canterbury",
@@ -20834,7 +20862,7 @@
   },
   "checkedAt": "2026-10-07",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (former railway station used as a backcountry hut); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-21",
   "haiku": {
@@ -20846,7 +20874,8 @@
    "reason": "Public DOC backcountry hut that was once a railway station; it is not a railway carriage or train journey, so train-hotels does not fit and the niche goes in other_niche_type.",
    "file": "data/pipeline/decisions/2026-10-22/checked.json",
    "decidedAt": "2026-10-22"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/12254850178": {
   "id": "osm:node/12254850178",
@@ -21624,7 +21653,12 @@
    "reason": "The site links a castle at Krąg that takes direct bookings, but most fetched pages describe the separate Gdańsk hotel, so the stay inside the castle is not confirmed.",
    "file": "data/pipeline/decisions/2026-10-15/checked.json",
    "decidedAt": "2026-10-15"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-14T21:55:43.349Z",
+   "note": "Ön eleme: Kanıt yetersiz: niş özelliğinin kapsamı kaynakta net değil."
+  },
+  "refetch": true
  },
  "osm:node/12302490053": {
   "id": "osm:node/12302490053",
@@ -24072,7 +24106,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-07",
   "lastSeen": "2026-11-11",
   "region": null,
@@ -24088,7 +24122,7 @@
   },
   "checkedAt": "2026-10-07",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (hotel built under an elevated railway viaduct); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-25",
   "haiku": {
@@ -24100,7 +24134,8 @@
    "reason": "Hotel under an elevated railway line; it is not a railway carriage or sleeper train, so train-hotels does not apply and it is recorded as an other niche.",
    "file": "data/pipeline/decisions/2026-10-25/checked.json",
    "decidedAt": "2026-10-25"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/12522549571": {
   "id": "osm:node/12522549571",
@@ -28120,7 +28155,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-05",
   "lastSeen": "2026-11-09",
   "region": "Carinthia",
@@ -28136,7 +28171,7 @@
   },
   "checkedAt": "2026-10-05",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (tiny house eco lodges on a lakeshore); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-26",
   "haiku": {
@@ -28148,7 +28183,8 @@
    "reason": "The site describes 25 tiny wooden eco lodges on the lake shore, a niche not in the category list, so it goes to other_niche_type.",
    "file": "data/pipeline/decisions/2026-10-26/checked.json",
    "decidedAt": "2026-10-26"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/12945544787": {
   "id": "osm:node/12945544787",
@@ -28763,7 +28799,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-11-10",
   "region": "Limpopo",
@@ -28779,7 +28815,7 @@
   },
   "checkedAt": "2026-10-06",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (unfenced bush campsites on a private game farm); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-10",
   "haiku": {
@@ -28791,7 +28827,8 @@
    "reason": "Bush campsites and one lodge on a private game farm, but there are no game drives so safari-lodges does not fit and no listed category applies.",
    "file": "data/pipeline/decisions/2026-10-10/checked.json",
    "decidedAt": "2026-10-10"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/12992623547": {
   "id": "osm:node/12992623547",
@@ -30412,7 +30449,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-11-10",
   "region": "Occitania",
@@ -30427,7 +30464,9 @@
    "snippet": "Nos tentes | My Site   --> Nos tentes | My Site top of page Accueil Qui sommes-nous ? Nos prestations Nos tentes Nos tiny homes Privatisation Les activités Sur place Touristiques Nos infrastructures Contact Réservation LOCATION DE 4 TENTES SAFARI .s__3mb942.oUUTDbO--madefor{--wbu-font-stack:var(--wix-font-stack);--wbu-font-weight-regular:var(--wix-font-weight-regular);--wbu-font-weight-medium:var(--wix-font-weight-medium);--wbu-font-weight-bold:var(--wix-font-weight-bold)} .sfxZxsX{--wbu-color-blue-0:#0F2CCF;--wbu-color-blue-100:#2F5DFF;--wbu-color-blue-200:#597DFF;--wbu-color-blue-3"
   },
   "checkedAt": "2026-10-06",
-  "reasons": [],
+  "reasons": [
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (safari tent glamping rental); niş özelliği listedeki kategorilerde kanıtlanmadı."
+  ],
   "lastEvidence": "2026-10-20",
   "haiku": {
    "verdict": "needs_review",
@@ -30438,7 +30477,8 @@
    "reason": "Rents safari-style tents with kitchens on a domain. There is no game reserve or game drive, so the safari-lodges rule does not apply and category stays null.",
    "file": "data/pipeline/decisions/2026-10-20/checked.json",
    "decidedAt": "2026-10-20"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/13081725738": {
   "id": "osm:node/13081725738",
@@ -30675,7 +30715,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-11-10",
   "region": "Occitania",
@@ -30690,7 +30730,9 @@
    "snippet": "Nos safari lodges | Lemasdumidi   --> Nos safari lodges | Lemasdumidi top of page This website was built on Wix. Create yours today. Get Started Welcome Nos offres Nos gites Nouvelle page Nos safari lodges Notre Tiny House Nos emplacements de camping Nouvelle page Général Nouvelle page Nouvelle page In regards to Contact Réservation en ligne More Use t"
   },
   "checkedAt": "2026-10-06",
-  "reasons": [],
+  "reasons": [
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (safari tent glamping); niş özelliği listedeki kategorilerde kanıtlanmadı."
+  ],
   "lastEvidence": "2026-10-20",
   "haiku": {
    "verdict": "needs_review",
@@ -30701,7 +30743,8 @@
    "reason": "Safari-style glamping tents with kitchens on an estate. There is no game reserve or game drive, so safari-lodges does not apply and category stays null.",
    "file": "data/pipeline/decisions/2026-10-20/checked.json",
    "decidedAt": "2026-10-20"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/13086355881": {
   "id": "osm:node/13086355881",
@@ -30827,7 +30870,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-11-10",
   "region": "Occitania",
@@ -30843,7 +30886,7 @@
   },
   "checkedAt": "2026-10-06",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (safari tent glamping); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-20",
   "haiku": {
@@ -30855,7 +30898,8 @@
    "reason": "Safari tents with kitchens on a farm domain. There is no game reserve or game drive, so safari-lodges does not apply. The domain also rents B&B apartments.",
    "file": "data/pipeline/decisions/2026-10-20/checked.json",
    "decidedAt": "2026-10-20"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/13086523716": {
   "id": "osm:node/13086523716",
@@ -31185,7 +31229,12 @@
    "reason": "The site itself calls the hotel an ancient Scottish-style castle with rooms in it, but the style wording and an FAQ that describes an 86th-floor observatory make the castle claim uncertain, so confidence is moderate.",
    "file": "data/pipeline/decisions/2026-10-24/checked.json",
    "decidedAt": "2026-10-24"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-14T21:55:43.349Z",
+   "note": "Ön eleme: Kanıt yetersiz: The site itself calls the hotel an ancient Scottish-style castle with rooms in it, but the style wording and an FAQ that describes an 86th-floor observatory mak"
+  },
+  "refetch": true
  },
  "osm:node/13110779963": {
   "id": "osm:node/13110779963",
@@ -33155,7 +33204,12 @@
    "reason": "The linked page describes Serengeti Kati Kati, a sibling camp, not the OSM name Mara Kati Kati, which appears only as a list item; no facts are taken from the page.",
    "file": "data/pipeline/decisions/2026-10-11/checked.json",
    "decidedAt": "2026-10-11"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-14T21:55:43.349Z",
+   "note": "Ön eleme: Kanıt yetersiz: The linked page describes Serengeti Kati Kati, a sibling camp, not the OSM name Mara Kati Kati, which appears only as a list item; no facts are taken from the p"
+  },
+  "refetch": true
  },
  "osm:node/13318869135": {
   "id": "osm:node/13318869135",
@@ -34114,7 +34168,12 @@
    "reason": "The site describes a forest village homestay in Goa rather than a rainforest lodge, so the jungle fit is supported by the forest setting but is not certain.",
    "file": "data/pipeline/decisions/2026-10-17/checked.json",
    "decidedAt": "2026-10-17"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-14T21:55:43.349Z",
+   "note": "Ön eleme: Kanıt yetersiz: tesisin şu an açık olduğu ve niş özelliği kaynakta yeterince net değil."
+  },
+  "refetch": true
  },
  "osm:node/13380329815": {
   "id": "osm:node/13380329815",
@@ -34260,7 +34319,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-05",
   "lastSeen": "2026-11-09",
   "region": "Free State",
@@ -34276,7 +34335,7 @@
   },
   "checkedAt": "2026-10-05",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (off-grid eco farmhouse); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-21",
   "haiku": {
@@ -34288,7 +34347,8 @@
    "reason": "Whole-farm off-grid eco lodge in the Drakensberg foothills; it is off-grid but no listed category fits, so it is recorded as other.",
    "file": "data/pipeline/decisions/2026-10-22/checked.json",
    "decidedAt": "2026-10-22"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/13383106541": {
   "id": "osm:node/13383106541",
@@ -35663,7 +35723,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-11-10",
   "category": "safari-lodges",
@@ -35678,7 +35738,7 @@
   },
   "checkedAt": "2026-10-06",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (teepee sleeping at a gold-prospecting ranch); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-25",
   "haiku": {
@@ -35690,7 +35750,8 @@
    "reason": "Ranch that offers teepee or chalet sleeping and gold prospecting; teepee is not a listed category and it is not a safari reserve, so safari-lodges does not fit.",
    "file": "data/pipeline/decisions/2026-10-25/checked.json",
    "decidedAt": "2026-10-25"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/13462114558": {
   "id": "osm:node/13462114558",
@@ -36318,7 +36379,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-14",
   "region": "Occitania",
@@ -36334,7 +36395,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: Kubbenin şeffaf olduğu kaynakta yazmıyor; balon/cam kubbe özelliği kanıtlanmamış."
   ],
   "lastEvidence": "2026-10-13",
   "haiku": {
@@ -36346,7 +36407,8 @@
    "reason": "Booking site for a couples' love room; the unit is a geodesic dome but the evidence does not say it is transparent, so the bubble fit is weak and the scope is unclear.",
    "file": "data/pipeline/decisions/2026-10-14/checked.json",
    "decidedAt": "2026-10-14"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/13507001301": {
   "id": "osm:node/13507001301",
@@ -36540,7 +36602,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-05",
   "lastSeen": "2026-11-09",
   "region": "Nouvelle-Aquitaine",
@@ -36556,7 +36618,7 @@
   },
   "checkedAt": "2026-10-05",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (shepherd's hut eco-lodge); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-21",
   "haiku": {
@@ -36568,7 +36630,8 @@
    "reason": "Single revisited shepherd's-hut lodge in the Pyrenean foothills; it is not a jungle lodge, and no listed category fits, so it is recorded as other.",
    "file": "data/pipeline/decisions/2026-10-22/checked.json",
    "decidedAt": "2026-10-22"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/13518983724": {
   "id": "osm:node/13518983724",
@@ -38469,7 +38532,12 @@
    "reason": "The only page is the operator's lodge index; it places Rainforest Lodge inside Manu rainforest but gives no property detail, and it is one of three lodges on that page.",
    "file": "data/pipeline/decisions/2026-10-14/checked.json",
    "decidedAt": "2026-10-14"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-14T21:55:43.349Z",
+   "note": "Ön eleme: Kanıt yetersiz: tesisin şu an açık olduğu ve niş özelliği kaynakta yeterince net değil."
+  },
+  "refetch": true
  },
  "osm:node/13668101255": {
   "id": "osm:node/13668101255",
@@ -39257,7 +39325,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-11-05",
   "region": "Northland",
@@ -39273,7 +39341,7 @@
   },
   "checkedAt": "2026-10-01",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (campground beside a glowworm show cave); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-23",
   "haiku": {
@@ -39285,7 +39353,8 @@
    "reason": "Cave is a guided show cave and the lodging is a campground; the cave-hotel queue guess is a false positive because no one sleeps in the cave.",
    "file": "data/pipeline/decisions/2026-10-23/checked.json",
    "decidedAt": "2026-10-23"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/13743225214": {
   "id": "osm:node/13743225214",
@@ -46456,7 +46525,12 @@
    "reason": "Rooms are in a castle estate, but some rooms are in farm buildings and the site gives 26 rooms on the home page and 24 in the history page, so the fit is moderately confident.",
    "file": "data/pipeline/decisions/2026-10-17/checked.json",
    "decidedAt": "2026-10-17"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-14T21:55:43.349Z",
+   "note": "Ön eleme: Kanıt yetersiz: tesisin şu an açık olduğu ve niş özelliği kaynakta yeterince net değil."
+  },
+  "refetch": true
  },
  "osm:node/14276158201": {
   "id": "osm:node/14276158201",
@@ -59079,7 +59153,7 @@
    "tourism": "motel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-07",
   "lastSeen": "2026-11-11",
   "region": null,
@@ -59095,7 +59169,7 @@
   },
   "checkedAt": "2026-10-07",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (equestrian guesthouse (riding stable)); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-21",
   "haiku": {
@@ -59107,7 +59181,8 @@
    "reason": "A guesthouse combined with a riding stable; the equestrian angle is a niche not in the category list, so it is recorded as other_niche_type.",
    "file": "data/pipeline/decisions/2026-10-22/checked.json",
    "decidedAt": "2026-10-22"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/2333792003": {
   "id": "osm:node/2333792003",
@@ -63041,7 +63116,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-05",
   "lastSeen": "2026-11-09",
   "region": "West Nusa Tenggara",
@@ -63057,7 +63132,7 @@
   },
   "checkedAt": "2026-10-05",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (glamping safari tents); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-18",
   "haiku": {
@@ -63069,7 +63144,8 @@
    "reason": "Luxury safari-style tents on Gili Trawangan. No reserve or game drives are stated, so safari-lodges does not fit; recorded as other_niche_type glamping tents.",
    "file": "data/pipeline/decisions/2026-10-18/checked.json",
    "decidedAt": "2026-10-18"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/2605452941": {
   "id": "osm:node/2605452941",
@@ -63320,7 +63396,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-11",
   "lastSeen": "2026-11-08",
   "region": "Zanzibar Urban/West",
@@ -63336,7 +63412,7 @@
   },
   "checkedAt": "2026-10-11",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: Odaların uçurum yüzeyinde ya da kenarında olduğu kaynakta yazmıyor; yalnızca konum ya da isim."
   ],
   "lastEvidence": "2026-10-24",
   "haiku": {
@@ -63348,7 +63424,8 @@
    "reason": "The resort is said to sit on a cliff over the Indian Ocean, but the site does not describe rooms built on or into the cliff face, so the niche is unclear.",
    "file": "data/pipeline/decisions/2026-10-24/checked.json",
    "decidedAt": "2026-10-24"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/2617756145": {
   "id": "osm:node/2617756145",
@@ -64080,7 +64157,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "region": "Gelderland",
@@ -64095,7 +64172,9 @@
    "snippet": "Kasteel Ophemert Kasteel Ophemert Corona veilige omgeving  Kasteel Ophemert Kasteel Ophemert Menu Home Trouwen Offici le trouwlocatie Receptie Culinair Huwelijksfeest Arrangement Zakelijk Vergaderen Culinair Beurzen Feest Arrangement Overnachten Speciale arrangementen Arrangementen Trouwarrangement Golfarrangement Zakelijk arrangement Beauty arrang"
   },
   "checkedAt": "2026-10-03",
-  "reasons": [],
+  "reasons": [
+   "reviewer: Ön eleme: Konukların tarihî kale binasının içinde kaldığı kaynakta kanıtlanmamış."
+  ],
   "lastEvidence": "2026-10-20",
   "haiku": {
    "verdict": "needs_review",
@@ -64106,7 +64185,8 @@
    "reason": "The site lists an overnight-stay section and the name says Bed and Breakfast, but nothing says rooms are inside the castle; parts of the page are unrelated gambling spam, which was ignored.",
    "file": "data/pipeline/decisions/2026-10-20/checked.json",
    "decidedAt": "2026-10-20"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/2675873944": {
   "id": "osm:node/2675873944",
@@ -64313,7 +64393,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-11-10",
   "region": "Ceará",
@@ -64328,7 +64408,9 @@
    "snippet": "Pousada Guajiru Kite Safari | Kitesurfing | Kiteboarding | Windsurfing | Ecotourism | Brazil Brazil  Pousada Guajiru Kite Safari | Kitesurfing | Kiteboarding | Windsurfing | Ecotourism | Brazil If you book before the end of may you'll get a reduction! You can contact us or make your reservation here Read about us on: WELCOME... to Brazil's Giajiru Tented Kite Safari TH"
   },
   "checkedAt": "2026-10-06",
-  "reasons": [],
+  "reasons": [
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (beachfront tented camp for kitesurfing); niş özelliği listedeki kategorilerde kanıtlanmadı."
+  ],
   "lastEvidence": "2026-10-23",
   "haiku": {
    "verdict": "needs_review",
@@ -64339,7 +64421,8 @@
    "reason": "Tented beachfront camp (not desert or jungle) for kitesurfing; the Sahara name refers to tent style, so no standard category fits and it is recorded as other.",
    "file": "data/pipeline/decisions/2026-10-23/checked.json",
    "decidedAt": "2026-10-23"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/2687649540": {
   "id": "osm:node/2687649540",
@@ -64508,7 +64591,12 @@
    "reason": "Two-person unit in a rainforest reserve in the Border Ranges, so it fits jungle-lodges; an old 2017 unavailability notice is flagged for review.",
    "file": "data/pipeline/decisions/2026-10-19/checked.json",
    "decidedAt": "2026-10-19"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-14T21:55:43.349Z",
+   "note": "Ön eleme: Kanıt yetersiz: Two-person unit in a rainforest reserve in the Border Ranges, so it fits jungle-lodges; an old 2017 unavailability notice is flagged for review."
+  },
+  "refetch": true
  },
  "osm:node/2702189753": {
   "id": "osm:node/2702189753",
@@ -64639,7 +64727,7 @@
    "stars": "3"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-11-05",
   "region": "Castile-La Mancha",
@@ -64654,7 +64742,9 @@
    "snippet": "Hotel Cueva del Fraile | Cuenca | Mejor precio - Web Oficial Hotel Cueva del Fraile Cuenca: ofertas, opiniones, fotografías... Visita nuestra web oficial y reserva tu habitación online en este hotel con encanto de Cuenca al Mejor Precio Garantizado.  Hotel Cueva del Fraile | Cuenca | Mejor precio - Web Oficial MENU ES EN FR reservar Hotel Cueva del Frail"
   },
   "checkedAt": "2026-10-01",
-  "reasons": [],
+  "reasons": [
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (former monastery); niş özelliği listedeki kategorilerde kanıtlanmadı."
+  ],
   "lastEvidence": "2026-10-13",
   "haiku": {
    "verdict": "needs_review",
@@ -64665,7 +64755,8 @@
    "reason": "Not a cave hotel: the evidence shows a former monastery, and the name's cueva is not explained by any cave rooms.",
    "file": "data/pipeline/decisions/2026-10-14/checked.json",
    "decidedAt": "2026-10-14"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/271957520": {
   "id": "osm:node/271957520",
@@ -65691,7 +65782,12 @@
    "reason": "Bilderberg chain hotel on a historic castle estate; the castle hosts breakfast and meetings, but the evidence does not say the guest rooms are inside the castle.",
    "file": "data/pipeline/decisions/2026-10-25/checked.json",
    "decidedAt": "2026-10-25"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-14T21:55:43.349Z",
+   "note": "Ön eleme: Kanıt yetersiz: Bilderberg chain hotel on a historic castle estate; the castle hosts breakfast and meetings, but the evidence does not say the guest rooms are inside the castle"
+  },
+  "refetch": true
  },
  "osm:node/2799384701": {
   "id": "osm:node/2799384701",
@@ -66542,7 +66638,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "region": "Drenthe",
@@ -66557,7 +66653,9 @@
    "snippet": "Het Kasteel Diever - Het Kasteel Diever Please enter your slogan here!  Het Kasteel Diever - Het Kasteel Diever Navigation Het Kasteel Diever Pensionstal Accommodaties Familiehuis Pipowagen 2 personen Pipowagen 4 personen Wandelvierdaagse 2025 Het Kasteel Diever De perfecte plek voor mens en paard! Ons bedrijf bevindt zich op loopstand van het centrum"
   },
   "checkedAt": "2026-10-03",
-  "reasons": [],
+  "reasons": [
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (pipowagen (wagon accommodation)); niş özelliği listedeki kategorilerde kanıtlanmadı."
+  ],
   "lastEvidence": "2026-10-20",
   "haiku": {
    "verdict": "needs_review",
@@ -66568,7 +66666,8 @@
    "reason": "The pipowagen units are the unusual part, but the number is not stated; the rest is a family house and camping.",
    "file": "data/pipeline/decisions/2026-10-20/checked.json",
    "decidedAt": "2026-10-20"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/2841379810": {
   "id": "osm:node/2841379810",
@@ -68646,7 +68745,12 @@
    "reason": "Lodge inside Tsavo East National Park with wildlife viewing; the site does not state game drives or a room count, so confidence is moderate.",
    "file": "data/pipeline/decisions/2026-10-11/checked.json",
    "decidedAt": "2026-10-11"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-14T21:55:43.349Z",
+   "note": "Ön eleme: Kanıt yetersiz: tesisin şu an açık olduğu ve niş özelliği kaynakta yeterince net değil."
+  },
+  "refetch": true
  },
  "osm:node/2971603872": {
   "id": "osm:node/2971603872",
@@ -71558,7 +71662,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "region": "Indiana",
@@ -71571,7 +71675,7 @@
   },
   "checkedAt": "2026-10-03",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (medieval-themed castle bed and breakfast); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-16",
   "haiku": {
@@ -71583,7 +71687,8 @@
    "reason": "Themed medieval bed and breakfast in a castle-style building; the evidence does not say it is historic, so castle-hotels does not fit.",
    "file": "data/pipeline/decisions/2026-10-17/checked.json",
    "decidedAt": "2026-10-17"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/3144952488": {
   "id": "osm:node/3144952488",
@@ -84006,7 +84111,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-05",
   "lastSeen": "2026-11-09",
   "description": "hotel in South Africa",
@@ -84024,7 +84129,7 @@
   },
   "checkedAt": "2026-10-05",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (rondavel huts (traditional round huts)); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-21",
   "haiku": {
@@ -84036,7 +84141,8 @@
    "reason": "Rondavel-hut eco lodge on the Wild Coast; rondavels are not a listed category and the rainforest queue guess does not fit.",
    "file": "data/pipeline/decisions/2026-10-22/checked.json",
    "decidedAt": "2026-10-22"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/3915053028": {
   "id": "osm:node/3915053028",
@@ -85107,7 +85213,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-05",
   "lastSeen": "2026-11-09",
   "region": "Guanacaste",
@@ -85123,7 +85229,7 @@
   },
   "checkedAt": "2026-10-05",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: Yağmur ormanı içinde olduğu kanıtlanmamış; orman vurgusu yalnızca tanıtım cümlesinde."
   ],
   "lastEvidence": "2026-10-14",
   "haiku": {
@@ -85135,7 +85241,8 @@
    "reason": "Wellness bungalow retreat that calls its grounds a jungle, but the evidence never says it sits inside a rainforest, so the jungle-lodges fit is weak.",
    "file": "data/pipeline/decisions/2026-10-14/checked.json",
    "decidedAt": "2026-10-14"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/3982523361": {
   "id": "osm:node/3982523361",
@@ -85661,7 +85768,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-05",
   "lastSeen": "2026-11-09",
   "region": "Limón Province",
@@ -85674,7 +85781,7 @@
   },
   "checkedAt": "2026-10-05",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: Yağmur ormanı içinde olduğu kanıtlanmamış; orman vurgusu yalnızca tanıtım cümlesinde."
   ],
   "lastEvidence": "2026-10-14",
   "haiku": {
@@ -85686,7 +85793,8 @@
    "reason": "Small self-catering houses hidden in vegetation; the jungle wording is only in the marketing tagline between beach and jungle, so the jungle fit is weak.",
    "file": "data/pipeline/decisions/2026-10-14/checked.json",
    "decidedAt": "2026-10-14"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/3982526762": {
   "id": "osm:node/3982526762",
@@ -85890,7 +85998,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-05",
   "lastSeen": "2026-11-09",
   "region": "Puntarenas Province",
@@ -85906,7 +86014,7 @@
   },
   "checkedAt": "2026-10-05",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: Yağmur ormanı içinde olduğu kanıtlanmamış; orman vurgusu yalnızca tanıtım cümlesinde."
   ],
   "lastEvidence": "2026-10-14",
   "haiku": {
@@ -85918,7 +86026,8 @@
    "reason": "Luxury villa resort that places itself between rainforest and ocean; the rainforest claim is marketing wording and the stay is not clearly a lodge inside a rainforest, so confidence is moderate.",
    "file": "data/pipeline/decisions/2026-10-14/checked.json",
    "decidedAt": "2026-10-14"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/3982527859": {
   "id": "osm:node/3982527859",
@@ -90565,7 +90674,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-07",
   "lastSeen": "2026-11-11",
   "region": null,
@@ -90581,7 +90690,7 @@
   },
   "checkedAt": "2026-10-07",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (former railway station guesthouse); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-25",
   "haiku": {
@@ -90593,7 +90702,8 @@
    "reason": "Guesthouse in a converted railway station; it sleeps in station rooms, not in railway carriages or a train journey, so train-hotels does not fit and it is listed as another niche type.",
    "file": "data/pipeline/decisions/2026-10-25/checked.json",
    "decidedAt": "2026-10-25"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/4265632889": {
   "id": "osm:node/4265632889",
@@ -102801,7 +102911,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "region": "Castile and León",
@@ -102816,7 +102926,9 @@
    "snippet": "Una isla con un Castillo Isla y Castillo en alquiler, situados en el Embalse del Burguillo a 100 kms de Madrid. Es un paraíso tranquilo e independiente, ideal para pasar unos días de vacaciones con la familia y los amigos. Sus playas y su entorno, ofrecen todo tipo de posibilidades. Disfruta la Isla y el Castillo  Una isla con un Castillo Ir al contenido La Isla y"
   },
   "checkedAt": "2026-10-03",
-  "reasons": [],
+  "reasons": [
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (private reservoir island with castle rental); niş özelliği listedeki kategorilerde kanıtlanmadı."
+  ],
   "lastEvidence": "2026-10-11",
   "haiku": {
    "verdict": "needs_review",
@@ -102827,7 +102939,8 @@
    "reason": "Rental of a whole island with a castle building; the site does not say the castle is historic, so castle-hotels is only a possible fit and category is left null.",
    "file": "data/pipeline/decisions/2026-10-11/checked.json",
    "decidedAt": "2026-10-11"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/4800097921": {
   "id": "osm:node/4800097921",
@@ -107724,7 +107837,7 @@
    "tourism": "hostel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-07",
   "lastSeen": "2026-11-11",
   "category": "train-hotels",
@@ -107739,7 +107852,7 @@
   },
   "checkedAt": "2026-10-07",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (railway station bunkhouse); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-17",
   "haiku": {
@@ -107751,7 +107864,8 @@
    "reason": "A bunkhouse hostel in a station building, not a railway carriage or sleeper train, so train-hotels does not fit as a category; the latest booking text refers to the 2024 season, so status is unknown.",
    "file": "data/pipeline/decisions/2026-10-17/checked.json",
    "decidedAt": "2026-10-17"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/5095629623": {
   "id": "osm:node/5095629623",
@@ -108098,7 +108212,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-05",
   "lastSeen": "2026-11-09",
   "region": "Ontario",
@@ -108114,7 +108228,7 @@
   },
   "checkedAt": "2026-10-05",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (yurt); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-23",
   "haiku": {
@@ -108126,7 +108240,8 @@
    "reason": "Off-grid stay with yurts (2 listed) alongside domes, cabins and a tent; yurts fit no category so other_niche_type is yurt and scope is some_units.",
    "file": "data/pipeline/decisions/2026-10-23/checked.json",
    "decidedAt": "2026-10-23"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/5108843726": {
   "id": "osm:node/5108843726",
@@ -117347,7 +117462,12 @@
    "reason": "Site is a treehouse hotel with ten treehouses, so treehouse-hotels fits as the whole property; the site warns of a long pause after the autumn season, so status is seasonal with a closed_hint flag.",
    "file": "data/pipeline/decisions/2026-10-14/checked.json",
    "decidedAt": "2026-10-14"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-14T21:55:43.349Z",
+   "note": "Ön eleme: Kanıt yetersiz: Site is a treehouse hotel with ten treehouses, so treehouse-hotels fits as the whole property; the site warns of a long pause after the autumn season, so status"
+  },
+  "refetch": true
  },
  "osm:node/5657432788": {
   "id": "osm:node/5657432788",
@@ -119661,7 +119781,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-11",
   "lastSeen": "2026-11-08",
   "region": null,
@@ -119677,7 +119797,7 @@
   },
   "checkedAt": "2026-10-11",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: Odaların uçurum yüzeyinde ya da kenarında olduğu kaynakta yazmıyor; yalnızca konum ya da isim."
   ],
   "lastEvidence": "2026-10-26",
   "haiku": {
@@ -119689,7 +119809,8 @@
    "reason": "The site places the manor on the edge of the Pankranniku coast with a spa above the sea, but never says rooms are built on a cliff; the name Cliff alone is not enough, so confidence is low. OSM node 582457637 has the same site and is a likely duplicate.",
    "file": "data/pipeline/decisions/2026-10-26/checked.json",
    "decidedAt": "2026-10-26"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/582457637": {
   "id": "osm:node/582457637",
@@ -120865,7 +120986,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-05",
   "lastSeen": "2026-11-09",
   "region": "Northland",
@@ -120881,7 +121002,7 @@
   },
   "checkedAt": "2026-10-05",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (repurposed shipping container cottage); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-24",
   "haiku": {
@@ -120893,7 +121014,8 @@
    "reason": "Two sleeping units (a container cottage and a shepherd's hut) are niche, but neither type is in the category list, so category is null with other_niche_type set. The home page says the site closed for refurbishment until September 2024, which is past, so current status is unknown.",
    "file": "data/pipeline/decisions/2026-10-24/checked.json",
    "decidedAt": "2026-10-24"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/5908928165": {
   "id": "osm:node/5908928165",
@@ -127063,7 +127185,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-05",
   "lastSeen": "2026-11-09",
   "region": "Marrakech-Safi",
@@ -127079,7 +127201,7 @@
   },
   "checkedAt": "2026-10-05",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (earth-built (mud and straw) Berber ecolodge); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-23",
   "haiku": {
@@ -127091,7 +127213,8 @@
    "reason": "Small Berber ecolodge whose rooms are built of mud and straw; no standard category fits, so other_niche_type is used. The meta description is unrelated text, so the site data is partly noisy.",
    "file": "data/pipeline/decisions/2026-10-23/checked.json",
    "decidedAt": "2026-10-23"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/6367567856": {
   "id": "osm:node/6367567856",
@@ -127874,7 +127997,7 @@
    "tourism": "hostel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-07",
   "lastSeen": "2026-11-11",
   "region": "Potosí",
@@ -127890,7 +128013,7 @@
   },
   "checkedAt": "2026-10-07",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (sleep capsules (sleepbox pods)); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-26",
   "haiku": {
@@ -127902,7 +128025,8 @@
    "reason": "Capsule sleep pods fit no listed category; Vagones and Wagon give no railway-carriage detail, so train-hotels is not accepted, and the FAQ text is placeholder lorem ipsum and was ignored.",
    "file": "data/pipeline/decisions/2026-10-26/checked.json",
    "decidedAt": "2026-10-26"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/6432120069": {
   "id": "osm:node/6432120069",
@@ -128447,7 +128571,12 @@
    "reason": "The linked website belongs to the Seven Wonders Luxury Camp, which runs tented domes near Petra, but it does not describe the Bedouin Camp's own accommodation, so scope is unclear.",
    "file": "data/pipeline/decisions/2026-10-14/checked.json",
    "decidedAt": "2026-10-14"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-14T21:55:43.349Z",
+   "note": "Ön eleme: Kanıt yetersiz: The linked website belongs to the Seven Wonders Luxury Camp, which runs tented domes near Petra, but it does not describe the Bedouin Camp's own accommodation, "
+  },
+  "refetch": true
  },
  "osm:node/6472494573": {
   "id": "osm:node/6472494573",
@@ -130777,7 +130906,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-11-10",
   "region": "Kunene Region",
@@ -130792,7 +130921,9 @@
    "snippet": "Malansrus Tented Camp - Namibia Tracks and Trails Malansrus Tented Camp - Namibia Tracks and Trails - Namibia Tracks and Trails is a Namibian based tour operator that offers a wide range of tours and safaris throughout Namibia and Botswana. We offer self-drive tours, guided tours, fly-in safaris, and tailor-made tours.  Malansrus Tented Camp - Namibia Tracks"
   },
   "checkedAt": "2026-10-06",
-  "reasons": [],
+  "reasons": [
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (tented camp); niş özelliği listedeki kategorilerde kanıtlanmadı."
+  ],
   "lastEvidence": "2026-10-11",
   "haiku": {
    "verdict": "needs_review",
@@ -130803,7 +130934,8 @@
    "reason": "Tented camp in the Damaraland area with en-suite tents. The evidence does not say desert or game drives, so no existing category fits and other_niche_type is used. Operator site also shows 2026 news.",
    "file": "data/pipeline/decisions/2026-10-11/checked.json",
    "decidedAt": "2026-10-11"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/6642260886": {
   "id": "osm:node/6642260886",
@@ -132615,7 +132747,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-14",
   "region": "West Nusa Tenggara",
@@ -132631,7 +132763,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (eco dome houses); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-23",
   "haiku": {
@@ -132643,7 +132775,8 @@
    "reason": "A resort of eco dome houses. The domes are opaque houses, not transparent bubbles, so bubble-hotels is rejected and other_niche_type is used. The site also invites investors in each dome.",
    "file": "data/pipeline/decisions/2026-10-23/checked.json",
    "decidedAt": "2026-10-23"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/679050189": {
   "id": "osm:node/679050189",
@@ -135369,7 +135502,12 @@
    "reason": "Rooms are labelled In der Burg and Im Turm, which hints at castle units, but no clean single-line quote proves it, so category_quote is null and scope is unclear. The home page is mostly cookie text, and the subpage lists the rooms.",
    "file": "data/pipeline/decisions/2026-10-11/checked.json",
    "decidedAt": "2026-10-11"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-14T21:55:43.349Z",
+   "note": "Ön eleme: Kanıt yetersiz: Rooms are labelled In der Burg and Im Turm, which hints at castle units, but no clean single-line quote proves it, so category_quote is null and scope is unclea"
+  },
+  "refetch": true
  },
  "osm:node/7052058645": {
   "id": "osm:node/7052058645",
@@ -137127,7 +137265,12 @@
    "reason": "Accepted as jungle-lodges only on the site's own rainforest claim in the Mekong Delta; the page also gives 12 cottages and 48 rooms, so the room count is taken from the rooms sentence.",
    "file": "data/pipeline/decisions/2026-10-19/checked.json",
    "decidedAt": "2026-10-19"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-14T21:55:43.349Z",
+   "note": "Ön eleme: Kanıt yetersiz: tesisin şu an açık olduğu ve niş özelliği kaynakta yeterince net değil."
+  },
+  "refetch": true
  },
  "osm:node/7168631632": {
   "id": "osm:node/7168631632",
@@ -143050,7 +143193,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-07",
   "lastSeen": "2026-11-11",
   "region": "North West",
@@ -143066,7 +143209,7 @@
   },
   "checkedAt": "2026-10-07",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (Restored ox wagons as sleeping units); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-22",
   "haiku": {
@@ -143078,7 +143221,8 @@
    "reason": "Lodge where guests sleep in restored ox wagons; this fits none of the listed categories, so other_niche_type is set. It is also a party and events venue.",
    "file": "data/pipeline/decisions/2026-10-22/checked.json",
    "decidedAt": "2026-10-22"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/8042805106": {
   "id": "osm:node/8042805106",
@@ -144188,7 +144332,12 @@
    "reason": "Bubble is one of three farm units (cabin, bubble, grain silo). The site never says the bubble is transparent. Children under 18 may not stay in the bubble or silo.",
    "file": "data/pipeline/decisions/2026-10-15/checked.json",
    "decidedAt": "2026-10-15"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-14T21:55:43.349Z",
+   "note": "Ön eleme: Kanıt yetersiz: tesisin şu an açık olduğu ve niş özelliği kaynakta yeterince net değil."
+  },
+  "refetch": true
  },
  "osm:node/8224187825": {
   "id": "osm:node/8224187825",
@@ -151586,7 +151735,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-11-10",
   "region": null,
@@ -151601,7 +151750,9 @@
    "snippet": "Home - Sámi Safari Camp CULTURAL DETOX - THE CIRCLE OF LIFE  Home - Sámi Safari Camp Sámi Safari Camp Home Your stay Booking About us Contact us CULTURAL DETOX THE CIRCLE OF LIFE Sámi Cultural Retreat A path to inner peace and personal development BOOK YOUR STAY SÁMI SUSTAINABILITY Everything is connected Nature is the center of Sámi spirituality and humans ar"
   },
   "checkedAt": "2026-10-06",
-  "reasons": [],
+  "reasons": [
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (Sámi lavvo tent glamping); niş özelliği listedeki kategorilerde kanıtlanmadı."
+  ],
   "lastEvidence": "2026-10-26",
   "haiku": {
    "verdict": "needs_review",
@@ -151612,7 +151763,8 @@
    "reason": "The camp uses Sámi lavvo tents for glamping, which fits no listed category, so it is recorded as other; the safari name does not reflect game drives in a reserve.",
    "file": "data/pipeline/decisions/2026-10-26/checked.json",
    "decidedAt": "2026-10-26"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/919490370": {
   "id": "osm:node/919490370",
@@ -152616,7 +152768,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-14",
   "region": "Auvergne-Rhône-Alpes",
@@ -152632,7 +152784,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (semi-buried eco-lodges with grass roofs); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-13",
   "haiku": {
@@ -152644,7 +152796,8 @@
    "reason": "Three semi-buried eco-lodges, not transparent bubbles or caves, so no listed category fits; kept as other_niche_type. The 'Bulles' name alone was not treated as bubble-hotels.",
    "file": "data/pipeline/decisions/2026-10-15/checked.json",
    "decidedAt": "2026-10-15"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/9326324524": {
   "id": "osm:node/9326324524",
@@ -155318,7 +155471,12 @@
    "reason": "Castle in the Langhe with a 'Suites e camere' section, but the page never says the rooms are inside the castle, and its visible focus is weddings and events.",
    "file": "data/pipeline/decisions/2026-10-22/checked.json",
    "decidedAt": "2026-10-22"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-14T21:55:43.349Z",
+   "note": "Ön eleme: Kanıt yetersiz: niş özelliğinin kapsamı kaynakta net değil."
+  },
+  "refetch": true
  },
  "osm:node/9644044435": {
   "id": "osm:node/9644044435",
@@ -163011,7 +163169,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-02",
   "description": "historic site in Lesser Poland Voivodeship, in Poland",
@@ -163029,7 +163187,7 @@
   },
   "checkedAt": "2026-10-02",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: Kuyruktaki aynı otelin (Zamek Korzkiew) tekrarı; diğer kaydın kendi sitesi ve kanıtı var."
   ],
   "lastEvidence": "2026-10-15",
   "haiku": {
@@ -163041,7 +163199,8 @@
    "reason": "The website returned 404 and no pages were captured. Wikipedia describes ruins and a residence, and the hotel tag is the only lodging signal, so the match is weak.",
    "file": "data/pipeline/decisions/2026-10-15/checked.json",
    "decidedAt": "2026-10-15"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:relation/4649810": {
   "id": "osm:relation/4649810",
@@ -164807,7 +164966,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "description": "hotel in Baden bei Wien, Austria",
@@ -164824,7 +164983,7 @@
   },
   "checkedAt": "2026-10-02",
   "reasons": [
-   "low confidence"
+   "reviewer: Ön eleme: Konukların tarihî kale binasının içinde kaldığı kaynakta kanıtlanmamış."
   ],
   "lastEvidence": "2026-10-21",
   "haiku": {
@@ -164836,7 +164995,8 @@
    "reason": "Spa hotel that occupies the former Schloss Gutenbrunn, but the evidence does not say the guest rooms are inside the castle, so the castle niche is unclear.",
    "file": "data/pipeline/decisions/2026-10-22/checked.json",
    "decidedAt": "2026-10-22"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:way/1004246011": {
   "id": "osm:way/1004246011",
@@ -166369,7 +166529,12 @@
    "reason": "OSM tags give tourism=hotel on a historic castle, but the official site failed to fetch and no quotable text says guests sleep inside the castle, so scope is unclear.",
    "file": "data/pipeline/decisions/2026-10-20/checked.json",
    "decidedAt": "2026-10-20"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-14T21:55:43.349Z",
+   "note": "Ön eleme: Kanıt yetersiz: otelin kendi sitesi okunamadı, elde yalnızca Wikipedia/harita bilgisi var."
+  },
+  "refetch": true
  },
  "osm:way/1036498604": {
   "id": "osm:way/1036498604",
@@ -170137,7 +170302,12 @@
    "reason": "Family farm with cabins and glamping bell-tents; the treehouse is in the category tag and the home page lists two treehouses, but the treehouse page says it is under construction and the site offers no bookable treehouse, so the niche is unclear.",
    "file": "data/pipeline/decisions/2026-10-18/checked.json",
    "decidedAt": "2026-10-18"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-14T21:55:43.349Z",
+   "note": "Ön eleme: Kanıt yetersiz: Family farm with cabins and glamping bell-tents; the treehouse is in the category tag and the home page lists two treehouses, but the treehouse page says it is "
+  },
+  "refetch": true
  },
  "osm:way/109882849": {
   "id": "osm:way/109882849",
@@ -170402,7 +170572,7 @@
    "stars": "4"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-11",
   "lastSeen": "2026-11-08",
   "region": "Normandy",
@@ -170418,7 +170588,7 @@
   },
   "checkedAt": "2026-10-11",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: Zincir markalı, su parklı standart bir kamp alanı; uçurum yalnızca konumu, konaklama birimi niş değil."
   ],
   "lastEvidence": "2026-10-19",
   "haiku": {
@@ -170430,7 +170600,8 @@
    "reason": "Campsite that the site itself places on the cliff edge, but the accommodation is a standard campsite with a water park and a chain brand, so the niche is weak.",
    "file": "data/pipeline/decisions/2026-10-19/checked.json",
    "decidedAt": "2026-10-19"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:way/1108003252": {
   "id": "osm:way/1108003252",
@@ -175056,7 +175227,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-11-10",
   "region": "North Brabant",
@@ -175072,7 +175243,7 @@
   },
   "checkedAt": "2026-10-06",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (pipowagen wagon units and safari tent on a mini campsite); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-25",
   "haiku": {
@@ -175084,7 +175255,8 @@
    "reason": "Minicamp whose units are pipowagen wagons and a safari tent; neither matches a listed category, so category is null with the pipowagen units recorded as other_niche_type.",
    "file": "data/pipeline/decisions/2026-10-25/checked.json",
    "decidedAt": "2026-10-25"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:way/1189984121": {
   "id": "osm:way/1189984121",
@@ -176485,7 +176657,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-07",
   "lastSeen": "2026-11-11",
   "region": "Brandenburg",
@@ -176500,7 +176672,9 @@
    "snippet": "o? In Lychen in der Uckermark.  Zirkuswagen in der Uckermark - Zirkuswagen in der Uckermark Skip to content Zirkuswagen in der Uckermark Urlaub mitten im Wald MENU MENU Zirkuswagen mieten Zigappo Classique Zigappo Directeur Zigappo Orientale Zigappo Pullman Lage Tipps Anfragen Buchen Kurzgesagt Winterliche Auszeit im Zirkuswagen Zirkuswagen mit Soundtrack Entspannter Sommerurlaub Vier Fußwanderungen um Lychen Unser Angebot Zigappo Pullman Der Pullman-Wagen ist ein Nachbau nach historischen Vorbildern. Das spiegelt sich auch in der Technik wider: Schalter und Steckdosen sind Zigappo Orientale Z"
   },
   "checkedAt": "2026-10-07",
-  "reasons": [],
+  "reasons": [
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (circus wagon sleeping units); niş özelliği listedeki kategorilerde kanıtlanmadı."
+  ],
   "lastEvidence": "2026-10-17",
   "haiku": {
    "verdict": "needs_review",
@@ -176511,7 +176685,8 @@
    "reason": "Four circus wagons rented as holiday lodging; these are circus caravans, not railway carriages, so train-hotels does not fit and no listed category applies.",
    "file": "data/pipeline/decisions/2026-10-17/checked.json",
    "decidedAt": "2026-10-17"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:way/1212516444": {
   "id": "osm:way/1212516444",
@@ -177752,7 +177927,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-11-10",
   "region": "Frisia",
@@ -177767,7 +177942,9 @@
    "snippet": "Grutte Fiif Safarilodge - Luxe safari glampingtent in Grou Friesland Glamping tent Grutte Fiif Safarilodge in Grou bij het water is te huur. Met heerlijke bedden, douche, houten vloer en unieke buitenkeuken.  Grutte Fiif Safarilodge - Luxe safari glampingtent in Grou Friesland Link naar Facebook Link naar Instagram Link naar WhatsApp Link naar Mail vakantie@gruttefiif.nl | +3162"
   },
   "checkedAt": "2026-10-06",
-  "reasons": [],
+  "reasons": [
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (safari-themed glamping tent); niş özelliği listedeki kategorilerde kanıtlanmadı."
+  ],
   "lastEvidence": "2026-10-25",
   "haiku": {
    "verdict": "needs_review",
@@ -177778,7 +177955,8 @@
    "reason": "Glamping safari tent on a watersport campsite in Friesland; no game drives or reserve are described, so safari-lodges is rejected and the tent is recorded as other_niche_type.",
    "file": "data/pipeline/decisions/2026-10-25/checked.json",
    "decidedAt": "2026-10-25"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:way/1228494927": {
   "id": "osm:way/1228494927",
@@ -182991,7 +183169,7 @@
    "stars": "4"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "description": "castle in France",
@@ -183009,7 +183187,7 @@
   },
   "checkedAt": "2026-10-02",
   "reasons": [
-   "low confidence"
+   "reviewer: Ön eleme: Konukların tarihî kale binasının içinde kaldığı kaynakta kanıtlanmamış."
   ],
   "lastEvidence": "2026-10-12",
   "haiku": {
@@ -183021,7 +183199,8 @@
    "reason": "The official site calls it a country house hotel in a former royal hunting lodge; the castle label rests mainly on the Wikipedia extract, so the scope is unclear.",
    "file": "data/pipeline/decisions/2026-10-15/checked.json",
    "decidedAt": "2026-10-15"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:way/1322583782": {
   "id": "osm:way/1322583782",
@@ -184909,7 +185088,12 @@
    "reason": "Wikidata describes the château as a hotel; no website or pages exist, so room details are not evidenced.",
    "file": "data/pipeline/decisions/2026-10-20/checked.json",
    "decidedAt": "2026-10-20"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-14T21:55:43.349Z",
+   "note": "Ön eleme: Kanıt yetersiz: otelin kendi sitesi okunamadı, elde yalnızca Wikipedia/harita bilgisi var."
+  },
+  "refetch": true
  },
  "osm:way/1353058372": {
   "id": "osm:way/1353058372",
@@ -186746,7 +186930,12 @@
    "reason": "Resort set inside the Quinault Rainforest, which fits jungle-lodges on location alone, though the cabins and suites are standard resort rooms.",
    "file": "data/pipeline/decisions/2026-10-19/checked.json",
    "decidedAt": "2026-10-19"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-14T21:55:43.349Z",
+   "note": "Ön eleme: Kanıt yetersiz: tesisin şu an açık olduğu ve niş özelliği kaynakta yeterince net değil."
+  },
+  "refetch": true
  },
  "osm:way/139732826": {
   "id": "osm:way/139732826",
@@ -186994,7 +187183,7 @@
    "historic": "manor"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-05",
   "lastSeen": "2026-11-09",
   "region": "Veneto",
@@ -187010,7 +187199,7 @@
   },
   "checkedAt": "2026-10-05",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (historic Venetian villa with farm stay); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-18",
   "haiku": {
@@ -187022,7 +187211,8 @@
    "reason": "Historic Venetian villa with an agriturismo in part of its buildings; it is not a castle, palace or other listed niche, so it is recorded as other_niche_type with category null.",
    "file": "data/pipeline/decisions/2026-10-18/checked.json",
    "decidedAt": "2026-10-18"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:way/140874656": {
   "id": "osm:way/140874656",
@@ -187311,7 +187501,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-07",
   "lastSeen": "2026-11-11",
   "region": "Utah",
@@ -187327,7 +187517,7 @@
   },
   "checkedAt": "2026-10-07",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (covered wagon glamping); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-15",
   "haiku": {
@@ -187339,7 +187529,8 @@
    "reason": "Covered wagons are not railway carriages, so the queue guess train-hotels does not fit; no listed category applies, so category is null with other_niche_type set.",
    "file": "data/pipeline/decisions/2026-10-15/checked.json",
    "decidedAt": "2026-10-15"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:way/1415886176": {
   "id": "osm:way/1415886176",
@@ -188459,7 +188650,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-11-10",
   "region": "Piedmont",
@@ -188474,7 +188665,9 @@
    "snippet": "safari Camping - Safari Park SAFARI CAMPING Il camping è un vero e proprio stile di vita, adatto a tutti senza limiti di età, un modo per staccare la spina dalla routine e per riconnettersi con la natura. Safari Camping è organizzato con bar e con un mini parco giochi per i bambini, per rendere il soggiorno confortevole e rilassante. &hellip; Conti"
   },
   "checkedAt": "2026-10-06",
-  "reasons": [],
+  "reasons": [
+   "reviewer: Ön eleme: Safari parkı içindeki kamp ve bungalovlar; koruma alanında oyun sürüşü sunan bir safari lodge değil."
+  ],
   "lastEvidence": "2026-10-26",
   "haiku": {
    "verdict": "needs_review",
@@ -188485,7 +188678,8 @@
    "reason": "Camping and bungalows inside a safari park with a car safari route in the packages; a reserve-style game drive is not explicitly stated, so confidence is moderate.",
    "file": "data/pipeline/decisions/2026-10-26/checked.json",
    "decidedAt": "2026-10-26"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:way/1442800284": {
   "id": "osm:way/1442800284",
@@ -192712,7 +192906,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-14",
   "region": "Minnesota",
@@ -192728,7 +192922,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: Kubbenin şeffaf olduğu kaynakta yazmıyor; balon/cam kubbe özelliği kanıtlanmamış."
   ],
   "lastEvidence": "2026-10-20",
   "haiku": {
@@ -192740,7 +192934,8 @@
    "reason": "Dome listing with a large window; the page does not say whether the dome is transparent, so bubble fit is unclear.",
    "file": "data/pipeline/decisions/2026-10-20/checked.json",
    "decidedAt": "2026-10-20"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:way/1492940502": {
   "id": "osm:way/1492940502",
@@ -193728,7 +193923,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-14",
   "region": "Wellington",
@@ -193744,7 +193939,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: Kubbenin şeffaf olduğu kaynakta yazmıyor; balon/cam kubbe özelliği kanıtlanmamış."
   ],
   "lastEvidence": "2026-10-22",
   "haiku": {
@@ -193756,7 +193951,8 @@
    "reason": "The site names its sleeping units as domes, but the evidence does not say whether they are transparent (bubble) or opaque, so the scope is unclear.",
    "file": "data/pipeline/decisions/2026-10-22/checked.json",
    "decidedAt": "2026-10-22"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:way/1519566334": {
   "id": "osm:way/1519566334",
@@ -193877,7 +194073,7 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-11",
   "description": "lighthouse in Spain",
@@ -193895,7 +194091,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: Konukların fener binasında kaldığı kaynakta yazmıyor; yalnızca adı ve teması fener."
   ],
   "lastEvidence": "2026-10-16",
   "haiku": {
@@ -193907,7 +194103,8 @@
    "reason": "Hotel named for and themed on the Lariño lighthouse; the pages never say guests sleep inside the tower, so the scope is unclear.",
    "file": "data/pipeline/decisions/2026-10-17/checked.json",
    "decidedAt": "2026-10-17"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:way/152327324": {
   "id": "osm:way/152327324",
@@ -194380,7 +194577,7 @@
    "stars": "4"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "description": "building in Villanders",
@@ -194397,7 +194594,7 @@
   },
   "checkedAt": "2026-10-02",
   "reasons": [
-   "low confidence"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (historic manor house (Ansitz)); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-21",
   "haiku": {
@@ -194409,7 +194606,8 @@
    "reason": "Evidence describes a castle-like manor and former courthouse; no castle, fortress or palace is stated, so the castle category is not confirmed.",
    "file": "data/pipeline/decisions/2026-10-22/checked.json",
    "decidedAt": "2026-10-22"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:way/153212848": {
   "id": "osm:way/153212848",
@@ -194675,7 +194873,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "region": "Limburg",
@@ -194690,7 +194888,9 @@
    "snippet": "www.kasteelbiedeburen.nl CAMPING Camping Mini camping Kamperen KAMPEREN Kasteel Baexem KASTEEL BAEXEM Kasteel Bie de Buren Kasteel Bie de Buren in Baexem Logeren Kamperen Chalet Evenementen Fotolocatie Charmant Frankrijk gevoel kamperen kasteel kasteelcamping natuurcamping basic camping landelijke camping natuurhuisje  www.kasteelbiedeburen.nl Ga direct naar de hoofdinhoud Kasteel Baexem Kasteel Baexem Home Chalet Foto"
   },
   "checkedAt": "2026-10-03",
-  "reasons": [],
+  "reasons": [
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (campsite in castle garden); niş özelliği listedeki kategorilerde kanıtlanmadı."
+  ],
   "lastEvidence": "2026-10-20",
   "haiku": {
    "verdict": "needs_review",
@@ -194701,7 +194901,8 @@
    "reason": "Campsite in a castle garden; the castle itself is not a sleeping place, so the castle-hotels fit is rejected and other_niche_type is used.",
    "file": "data/pipeline/decisions/2026-10-20/checked.json",
    "decidedAt": "2026-10-20"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:way/153732135": {
   "id": "osm:way/153732135",
@@ -195698,7 +195899,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-07",
   "lastSeen": "2026-11-11",
   "region": "Wales",
@@ -195714,7 +195915,7 @@
   },
   "checkedAt": "2026-10-07",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (yurt); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-17",
   "haiku": {
@@ -195726,7 +195927,8 @@
    "reason": "Queue category train-hotels is wrong; the yurt is an unusual unit but only one of several accommodation types and no listed category fits.",
    "file": "data/pipeline/decisions/2026-10-17/checked.json",
    "decidedAt": "2026-10-17"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:way/1564301235": {
   "id": "osm:way/1564301235",
@@ -200292,7 +200494,12 @@
    "reason": "Only the Wikipedia extract is available; it says the castle is now a small family-run hotel but does not describe the rooms, and there is no official website.",
    "file": "data/pipeline/decisions/2026-10-15/checked.json",
    "decidedAt": "2026-10-15"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-14T21:55:43.349Z",
+   "note": "Ön eleme: Kanıt yetersiz: otelin kendi sitesi okunamadı, elde yalnızca Wikipedia/harita bilgisi var."
+  },
+  "refetch": true
  },
  "osm:way/182765751": {
   "id": "osm:way/182765751",
@@ -203598,7 +203805,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "description": "castle in Lozer, Belgium",
@@ -203615,7 +203822,9 @@
    "snippet": "Lozer Kasteel – Luxe B&amp;B &amp; vakantiewoningen in de Vlaamse Ardennen Beleef rust, cultuur en comfort in Lozer Kasteel, gelegen tussen de Vlaamse Ardennen en Leiestreek. Luxe kamers, vakantiewoningen &amp; prachtig kasteelpark.  Lozer Kasteel – Luxe B B vakantiewoningen in de Vlaamse Ardennen Zoeken naar: 0 +32 9 383 50 27 info@lozerkasteel.be Home"
   },
   "checkedAt": "2026-10-02",
-  "reasons": [],
+  "reasons": [
+   "reviewer: Ön eleme: Konukların tarihî kale binasının içinde kaldığı kaynakta kanıtlanmamış."
+  ],
   "lastEvidence": "2026-10-20",
   "haiku": {
    "verdict": "needs_review",
@@ -203626,7 +203835,8 @@
    "reason": "Castle-estate B&B named Lozer Kasteel; the rooms are in a converted coach house on the estate rather than clearly inside the castle, so scope is unclear.",
    "file": "data/pipeline/decisions/2026-10-20/checked.json",
    "decidedAt": "2026-10-20"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:way/205001225": {
   "id": "osm:way/205001225",
@@ -203712,7 +203922,12 @@
    "reason": "Wikidata calls the castle a current hotel, but there is no site text, so the rooms-in-castle claim rests on one short description.",
    "file": "data/pipeline/decisions/2026-10-11/checked.json",
    "decidedAt": "2026-10-11"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-14T21:55:43.349Z",
+   "note": "Ön eleme: Kanıt yetersiz: otelin kendi sitesi okunamadı, elde yalnızca Wikipedia/harita bilgisi var."
+  },
+  "refetch": true
  },
  "osm:way/205322745": {
   "id": "osm:way/205322745",
@@ -204819,7 +205034,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-05",
   "lastSeen": "2026-11-09",
   "region": "Drâa-Tafilalet",
@@ -204835,7 +205050,7 @@
   },
   "checkedAt": "2026-10-05",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (eco-lodge with Berber tents and earth-built units); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-23",
   "haiku": {
@@ -204847,7 +205062,8 @@
    "reason": "Four Berber tents are a niche among 15 units, but the evidence does not say the site is in a desert, so desert-camps is only an also-fit.",
    "file": "data/pipeline/decisions/2026-10-23/checked.json",
    "decidedAt": "2026-10-23"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:way/215488389": {
   "id": "osm:way/215488389",
@@ -207190,7 +207406,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "region": "Silesian Voivodeship",
@@ -207206,7 +207422,7 @@
   },
   "checkedAt": "2026-10-04",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: Konukların tarihî kale binasının içinde kaldığı kaynakta kanıtlanmamış."
   ],
   "lastEvidence": "2026-10-15",
   "haiku": {
@@ -207218,7 +207434,8 @@
    "reason": "Castle-named hotel in the Jura near a medieval castle, but the pages do not show that guests sleep inside the castle, so niche is unclear.",
    "file": "data/pipeline/decisions/2026-10-18/checked.json",
    "decidedAt": "2026-10-18"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:way/227735146": {
   "id": "osm:way/227735146",
@@ -207336,7 +207553,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Central Bohemian Region",
@@ -207352,7 +207569,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (beach glamping tent); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-21",
   "haiku": {
@@ -207364,7 +207581,8 @@
    "reason": "Hotel with rooms, villas and a glamping tent; the only unusual unit is one beach glamping tent, which is not a bubble or any listed category.",
    "file": "data/pipeline/decisions/2026-10-23/checked.json",
    "decidedAt": "2026-10-23"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:way/228213692": {
   "id": "osm:way/228213692",
@@ -208481,7 +208699,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "description": "house in Berg, Germany",
@@ -208499,7 +208717,7 @@
   },
   "checkedAt": "2026-10-02",
   "reasons": [
-   "low confidence"
+   "reviewer: Ön eleme: Konukların tarihî kale binasının içinde kaldığı kaynakta kanıtlanmamış."
   ],
   "lastEvidence": "2026-10-12",
   "haiku": {
@@ -208511,7 +208729,8 @@
    "reason": "Co-living guesthouse in a historic Bavarian manor called Schloss; it is lodging, but whether the building counts as a castle is not clear from the evidence.",
    "file": "data/pipeline/decisions/2026-10-18/checked.json",
    "decidedAt": "2026-10-18"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:way/233094996": {
   "id": "osm:way/233094996",
@@ -209032,7 +209251,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "region": "Limburg",
@@ -209048,7 +209267,7 @@
   },
   "checkedAt": "2026-10-04",
   "reasons": [
-   "low confidence"
+   "reviewer: Ön eleme: Konukların tarihî kale binasının içinde kaldığı kaynakta kanıtlanmamış."
   ],
   "lastEvidence": "2026-10-20",
   "haiku": {
@@ -209060,7 +209279,8 @@
    "reason": "Castle estate with a brasserie; the 17 guest rooms are in De Kleine Motte beside the castle, not clearly inside it, so scope is unclear.",
    "file": "data/pipeline/decisions/2026-10-20/checked.json",
    "decidedAt": "2026-10-20"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:way/236499126": {
   "id": "osm:way/236499126",
@@ -213828,7 +214048,12 @@
    "reason": "The website failed to load and the only text is a Wikipedia line calling it a historic palace; the hotel status rests on the OSM tag alone, so confidence is low.",
    "file": "data/pipeline/decisions/2026-10-18/checked.json",
    "decidedAt": "2026-10-18"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-14T21:55:43.349Z",
+   "note": "Ön eleme: Kanıt yetersiz: otelin kendi sitesi okunamadı, elde yalnızca Wikipedia/harita bilgisi var."
+  },
+  "refetch": true
  },
  "osm:way/264334571": {
   "id": "osm:way/264334571",
@@ -213877,7 +214102,12 @@
    "reason": "The site offers rooms in a real palace ('Nocleg dla Twoich gości') but is mainly a catering and event venue, and its only season notice is from 2023, so current status is unknown.",
    "file": "data/pipeline/decisions/2026-10-18/checked.json",
    "decidedAt": "2026-10-18"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-14T21:55:43.349Z",
+   "note": "Ön eleme: Kanıt yetersiz: The site offers rooms in a real palace ('Nocleg dla Twoich gości') but is mainly a catering and event venue, and its only season notice is from 2023, so current"
+  },
+  "refetch": true
  },
  "osm:way/264335246": {
   "id": "osm:way/264335246",
@@ -215498,7 +215728,12 @@
    "reason": "OSM tags a hotel in a historic manor, Wikipedia describes only the palace, and the site returned no text, so the hotel and rooms-in-palace claims are unverified.",
    "file": "data/pipeline/decisions/2026-10-11/checked.json",
    "decidedAt": "2026-10-11"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-14T21:55:43.349Z",
+   "note": "Ön eleme: Kanıt yetersiz: otelin kendi sitesi okunamadı, elde yalnızca Wikipedia/harita bilgisi var."
+  },
+  "refetch": true
  },
  "osm:way/275563123": {
   "id": "osm:way/275563123",
@@ -215769,7 +216004,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-11",
   "region": "Sardinia",
@@ -215785,7 +216020,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (B&B in a house shaped like a lighthouse); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-18",
   "haiku": {
@@ -215797,7 +216032,8 @@
    "reason": "A B&B in a lighthouse-shaped house rather than inside a real lighthouse, so it is placed in other_niche_type with category null.",
    "file": "data/pipeline/decisions/2026-10-18/checked.json",
    "decidedAt": "2026-10-18"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:way/27750854": {
   "id": "osm:way/27750854",
@@ -224309,7 +224545,12 @@
    "reason": "Five-star hotel whose site describes a castle ensemble, but the evidence does not say which buildings hold the guest rooms, so castle fit is uncertain.",
    "file": "data/pipeline/decisions/2026-10-18/checked.json",
    "decidedAt": "2026-10-18"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-14T21:55:43.349Z",
+   "note": "Ön eleme: Kanıt yetersiz: niş özelliğinin kapsamı kaynakta net değil."
+  },
+  "refetch": true
  },
  "osm:way/331897951": {
   "id": "osm:way/331897951",
@@ -229870,7 +230111,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-07",
   "lastSeen": "2026-11-11",
   "category": "train-hotels",
@@ -229885,7 +230126,7 @@
   },
   "checkedAt": "2026-10-07",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (railway-themed hotel); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-19",
   "haiku": {
@@ -229897,7 +230138,8 @@
    "reason": "The railway theme is clear but the evidence does not say guests sleep in a railway carriage or sleeper train, so train-hotels does not fit.",
    "file": "data/pipeline/decisions/2026-10-19/checked.json",
    "decidedAt": "2026-10-19"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:way/376265185": {
   "id": "osm:way/376265185",
@@ -230047,7 +230289,12 @@
    "reason": "Apartments sit in a restored historic manor called Schloss, a loose castle fit; the homepage text is mostly SVG markup so the evidence is thin.",
    "file": "data/pipeline/decisions/2026-10-19/checked.json",
    "decidedAt": "2026-10-19"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-14T21:55:43.349Z",
+   "note": "Ön eleme: Kanıt yetersiz: tesisin şu an açık olduğu ve niş özelliği kaynakta yeterince net değil."
+  },
+  "refetch": true
  },
  "osm:way/377745265": {
   "id": "osm:way/377745265",
@@ -230583,7 +230830,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-07",
   "lastSeen": "2026-11-11",
   "region": "England",
@@ -230599,7 +230846,7 @@
   },
   "checkedAt": "2026-10-07",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (holiday cottage beside a steam railway); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-17",
   "haiku": {
@@ -230611,7 +230858,8 @@
    "reason": "A self-catering cottage beside a steam railway; the evidence describes no railway carriage or sleeper train, so train-hotels does not fit.",
    "file": "data/pipeline/decisions/2026-10-19/checked.json",
    "decidedAt": "2026-10-19"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:way/381122678": {
   "id": "osm:way/381122678",
@@ -232995,7 +233243,12 @@
    "reason": "Wiki extract describes the original hotel as a treehouse in the trees, but the site itself does not say the current rooms are in trees, so the niche is unclear.",
    "file": "data/pipeline/decisions/2026-10-23/checked.json",
    "decidedAt": "2026-10-23"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-14T21:55:43.349Z",
+   "note": "Ön eleme: Kanıt yetersiz: Wiki extract describes the original hotel as a treehouse in the trees, but the site itself does not say the current rooms are in trees, so the niche is unclear."
+  },
+  "refetch": true
  },
  "osm:way/39947763": {
   "id": "osm:way/39947763",
@@ -234631,7 +234884,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-11",
   "lastSeen": "2026-11-08",
   "region": "England",
@@ -234647,7 +234900,7 @@
   },
   "checkedAt": "2026-10-11",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (shepherd's hut); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-15",
   "haiku": {
@@ -234659,7 +234912,8 @@
    "reason": "A camping and caravan park whose only unusual unit is one shepherd's hut; the cliffside queue came from the name Cliffe, and the site does not describe any cliff-side rooms.",
    "file": "data/pipeline/decisions/2026-10-19/checked.json",
    "decidedAt": "2026-10-19"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:way/412858875": {
   "id": "osm:way/412858875",
@@ -235706,7 +235960,7 @@
    "historic": "farm"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-05",
   "lastSeen": "2026-11-09",
   "region": "Apulia",
@@ -235722,7 +235976,7 @@
   },
   "checkedAt": "2026-10-05",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (trulli); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-18",
   "haiku": {
@@ -235734,7 +235988,8 @@
    "reason": "A Puglian farm stay (agriturismo) where some apartments are trulli; the jungle-lodges queue guess is wrong, and trulli are not one of the listed categories.",
    "file": "data/pipeline/decisions/2026-10-19/checked.json",
    "decidedAt": "2026-10-19"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:way/42219506": {
   "id": "osm:way/42219506",
@@ -245207,7 +245462,12 @@
    "reason": "The railway carriage apartments are a train-hotels feature; the page is the shared site for the Ferienwaggon units and does not state a unit count or unit-specific details.",
    "file": "data/pipeline/decisions/2026-10-19/checked.json",
    "decidedAt": "2026-10-19"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-14T21:55:43.349Z",
+   "note": "Ön eleme: Kanıt yetersiz: tesisin şu an açık olduğu ve niş özelliği kaynakta yeterince net değil."
+  },
+  "refetch": true
  },
  "osm:way/523401693": {
   "id": "osm:way/523401693",
@@ -247708,7 +247968,12 @@
    "reason": "The page title frames the site as accommodation on a botel in Prague, but the text is a general article about botels with no room details or booking, so confidence is moderate.",
    "file": "data/pipeline/decisions/2026-10-23/checked.json",
    "decidedAt": "2026-10-23"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-14T21:55:43.349Z",
+   "note": "Ön eleme: Kanıt yetersiz: The page title frames the site as accommodation on a botel in Prague, but the text is a general article about botels with no room details or booking, so confide"
+  },
+  "refetch": true
  },
  "osm:way/548247489": {
   "id": "osm:way/548247489",
@@ -251592,7 +251857,12 @@
    "reason": "Hotel occupies a former château; the site says two of its three buildings have historic character, so the château fit is strong but not certain.",
    "file": "data/pipeline/decisions/2026-10-20/checked.json",
    "decidedAt": "2026-10-20"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-14T21:55:43.349Z",
+   "note": "Ön eleme: Kanıt yetersiz: tesisin şu an açık olduğu ve niş özelliği kaynakta yeterince net değil."
+  },
+  "refetch": true
  },
  "osm:way/609820705": {
   "id": "osm:way/609820705",
@@ -254132,7 +254402,12 @@
    "reason": "Glass-roofed rooms the site calls igloos; they are log buildings, not ice or domes, so ice-hotels is a borderline fit at moderate confidence.",
    "file": "data/pipeline/decisions/2026-10-10/checked.json",
    "decidedAt": "2026-10-10"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-14T21:55:43.349Z",
+   "note": "Ön eleme: Kanıt yetersiz: tesisin şu an açık olduğu ve niş özelliği kaynakta yeterince net değil."
+  },
+  "refetch": true
  },
  "osm:way/654958903": {
   "id": "osm:way/654958903",
@@ -256082,7 +256357,7 @@
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-05",
   "lastSeen": "2026-11-09",
   "region": "Mpumalanga",
@@ -256098,7 +256373,7 @@
   },
   "checkedAt": "2026-10-05",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (off-grid eco chalets); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-21",
   "haiku": {
@@ -256110,7 +256385,8 @@
    "reason": "Off-grid eco self-catering chalets in a mountain valley, not rainforest or cloud forest and with no game-drive evidence, so no listed category fits; the same property also appears as osm_way_689493910 and osm_way_689493911.",
    "file": "data/pipeline/decisions/2026-10-23/checked.json",
    "decidedAt": "2026-10-23"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:way/689493910": {
   "id": "osm:way/689493910",
@@ -256622,7 +256898,12 @@
    "reason": "The whole property is a restored 1968 caboose sleeping car; the site's closure notice is stale but still says closed for the season.",
    "file": "data/pipeline/decisions/2026-10-20/checked.json",
    "decidedAt": "2026-10-20"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-14T21:55:43.349Z",
+   "note": "Ön eleme: Kanıt yetersiz: The whole property is a restored 1968 caboose sleeping car; the site's closure notice is stale but still says closed for the season."
+  },
+  "refetch": true
  },
  "osm:way/696405868": {
   "id": "osm:way/696405868",
@@ -258472,7 +258753,7 @@
    "stars": "3"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-05",
   "lastSeen": "2026-11-09",
   "region": null,
@@ -258488,7 +258769,7 @@
   },
   "checkedAt": "2026-10-05",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (off-grid eco-lodge); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-25",
   "haiku": {
@@ -258500,7 +258781,8 @@
    "reason": "Queue guessed jungle-lodges, but the site describes a beachfront tropical garden lodge, not rainforest; it fits no listed category, so it is filed as an off-grid eco-lodge.",
    "file": "data/pipeline/decisions/2026-10-25/checked.json",
    "decidedAt": "2026-10-25"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:way/728027960": {
   "id": "osm:way/728027960",
@@ -263330,7 +263612,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-11-10",
   "region": "Erongo Region",
@@ -263346,7 +263628,7 @@
   },
   "checkedAt": "2026-10-06",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (safari tent bush camp on a working farm); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-11",
   "haiku": {
@@ -263358,7 +263640,8 @@
    "reason": "Tented Bush Camp on a farm in the Erongo mountains; the site does not mention a reserve or game drives, so the safari-lodge category is not applied and the niche is recorded as other.",
    "file": "data/pipeline/decisions/2026-10-11/checked.json",
    "decidedAt": "2026-10-11"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:way/81554000": {
   "id": "osm:way/81554000",
@@ -266106,7 +266389,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-11-10",
   "region": "Scotland",
@@ -266121,7 +266404,9 @@
    "snippet": "ife find out more The perfect base for exploring the coastline. Watch the sunrise over the sea, toast marshmallows by the fire, catch a glimpse of a pod of dolphins and fall asleep to the sound of the sea. A place where memories are made. Catchpenny Safari Lodges are a completely unique way to experience the East Neuk. Situated just meters from the shoreline, on the Fife Coastal Path between the pretty fishing villages of Elie and St Monans. The lodges themselves offer a home-from-home glamping experience with real beds, log burning stove and a hot shower all under canvas. With Elie on their d"
   },
   "checkedAt": "2026-10-06",
-  "reasons": [],
+  "reasons": [
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (canvas glamping lodges); niş özelliği listedeki kategorilerde kanıtlanmadı."
+  ],
   "lastEvidence": "2026-10-24",
   "haiku": {
    "verdict": "needs_review",
@@ -266132,7 +266417,8 @@
    "reason": "Eight canvas-walled glamping lodges on the Fife coast; the safari name does not reflect a game-drive reserve, so no safari category applies.",
    "file": "data/pipeline/decisions/2026-10-24/checked.json",
    "decidedAt": "2026-10-24"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:way/856645636": {
   "id": "osm:way/856645636",
@@ -266421,7 +266707,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Antwerp",
@@ -266437,7 +266723,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (tipi tents (planned)); niş özelliği listedeki kategorilerde kanıtlanmadı."
   ],
   "lastEvidence": "2026-10-20",
   "haiku": {
@@ -266449,7 +266735,8 @@
    "reason": "A Westerlo campsite whose tipi tents are announced as coming soon; no bubble or other niche is shown, and the bubble-hotel match is wrong.",
    "file": "data/pipeline/decisions/2026-10-24/checked.json",
    "decidedAt": "2026-10-24"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:way/865591539": {
   "id": "osm:way/865591539",
@@ -268144,7 +268431,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "region": "Colorado",
@@ -268159,7 +268446,9 @@
    "snippet": "Wellness Retreat | The Redstone Castle | Redstone Historic District Forty-five minutes from Aspen lies the remote and magical Redstone, where guests enjoy exclusive experiences in the wilderness, curated by the best-in-class instructors and trainers. Our retreats and bootcamps incorporate a mix of wellness and social elements, with the goal of achieving a better YOU.  --> Wellnes"
   },
   "checkedAt": "2026-10-04",
-  "reasons": [],
+  "reasons": [
+   "reviewer: Ön eleme: Konukların tarihî kale binasının içinde kaldığı kaynakta kanıtlanmamış."
+  ],
   "lastEvidence": "2026-10-16",
   "haiku": {
    "verdict": "needs_review",
@@ -268170,7 +268459,8 @@
    "reason": "Historic 1902 castle in Redstone, but the pages describe retreats and bootcamps and never state that guests sleep in the castle.",
    "file": "data/pipeline/decisions/2026-10-24/checked.json",
    "decidedAt": "2026-10-24"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:way/90919290": {
   "id": "osm:way/90919290",
@@ -269923,7 +270213,12 @@
    "reason": "Only Wikipedia and OSM data exist; the castle name suggests a castle hotel, but no source says guests sleep inside the castle.",
    "file": "data/pipeline/decisions/2026-10-24/checked.json",
    "decidedAt": "2026-10-24"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-14T21:55:43.349Z",
+   "note": "Ön eleme: Kanıt yetersiz: otelin kendi sitesi okunamadı, elde yalnızca Wikipedia/harita bilgisi var."
+  },
+  "refetch": true
  },
  "osm:way/93816535": {
   "id": "osm:way/93816535",
@@ -271071,7 +271366,7 @@
    "tourism": "wilderness_hut"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "region": "Utah",
@@ -271086,7 +271381,9 @@
    "snippet": "Inspired Summit | Castle Peak Yurt The Castle Peak Yurt is nestled high in the Western Uinta Mountains. Come experience the legacy!  --> Inspired Summit | Castle Peak Yurt top of page BOOK AN EXPERIENCE 435.640.4421 INFO@INSPIREDSUMMIT.COM WINTER Ski Touring Experiences Mentorship Avalanche Education AIARE Courses Women Specific Programs Hut Trips The Summit: Ski Mo"
   },
   "checkedAt": "2026-10-04",
-  "reasons": [],
+  "reasons": [
+   "reviewer: Ön eleme: 14 kategoriden hiçbirine uymuyor (yurt backcountry hut); niş özelliği listedeki kategorilerde kanıtlanmadı."
+  ],
   "lastEvidence": "2026-10-16",
   "haiku": {
    "verdict": "needs_review",
@@ -271097,7 +271394,8 @@
    "reason": "A backcountry yurt that sleeps up to 9 is a sleeping unit no category covers; the castle-hotels queue guess comes only from the name Castle Peak.",
    "file": "data/pipeline/decisions/2026-10-24/checked.json",
    "decidedAt": "2026-10-24"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:way/95891654": {
   "id": "osm:way/95891654",
@@ -273411,7 +273709,7 @@
    "stars": "3"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-09",
   "description": "hotel rebuilt each year with snow and ice in northern Sweden",
@@ -273427,7 +273725,9 @@
    "snippet": "The ICEHOTEL in Sweden | Since 1989 | ICEHOTEL Welcome to the original Icehotel in Sweden. We are a hotel and an art exhibition with ever-changing art made out of ice and snow.  The ICEHOTEL in Sweden | Since 1989 | ICEHOTEL For full functionality of this site it is necessary to enable JavaScript. Here are the instructions how to enable JavaScript in y"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
+  "reasons": [
+   "reviewer: Ön eleme: Sitede zaten yayında olan ICEHOTEL (icehotel-sweden) ile aynı tesis."
+  ],
   "lastEvidence": "2026-10-27",
   "haiku": {
    "verdict": "accepted",
@@ -273438,7 +273738,8 @@
    "reason": "The official site and Wikipedia describe a hotel rebuilt each year from ice and snow, which matches ice-hotels, and warm rooms are also offered.",
    "file": "data/pipeline/decisions/2026-10-28/checked.json",
    "decidedAt": "2026-10-28"
-  }
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:way/99523860": {
   "id": "osm:way/99523860",
@@ -284280,7 +284581,12 @@
    "reason": "Czech Wikipedia extract describes a three-star botel moored on the Vltava; there is no official site or page text, so operating status is unknown.",
    "file": "data/pipeline/decisions/2026-10-25/checked.json",
    "decidedAt": "2026-10-25"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-14T21:55:43.349Z",
+   "note": "Ön eleme: Kanıt yetersiz: otelin kendi sitesi okunamadı, elde yalnızca Wikipedia/harita bilgisi var."
+  },
+  "refetch": true
  },
  "wd:Q11235591": {
   "id": "wd:Q11235591",
