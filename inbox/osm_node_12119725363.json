@@ -1,0 +1,36 @@
+{
+ "id": "osm:node/12119725363",
+ "name": "Ryckevelde 1451 boomhutten",
+ "queueStatus": "weak",
+ "queueCategory": "treehouse-hotels",
+ "categories": [
+  "treehouse-hotels"
+ ],
+ "lat": 51.1950264,
+ "lng": 3.2946002,
+ "country": "Belgium",
+ "city": "Damme",
+ "region": "West Flanders",
+ "osm": {
+  "tourism": "guest_house"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.ryckevelde1451.be/overnachten",
+ "fetchedAt": "2026-10-26T06:24:57.182Z",
+ "pages": [
+  {
+   "url": "https://www.ryckevelde1451.be/overnachten",
+   "kind": "home",
+   "title": "Overnachten | Ryckevelde",
+   "description": "Uniek overnachten op een boogscheut van Brugge? Check! Onze boomhutten bieden een ongeëvenaarde ervaring aan, back to basics, met de zintuigen op scherp. Te reserveren via de reserveren button!",
+   "text": "Overnachten | Ryckevelde\nOverslaan en naar de inhoud gaan\nOvernachten\nUniek overnachten op een boogscheut van Brugge? Check!\nOnze boomhutten bieden een ongeëvenaarde ervaring aan, back to basics, met de zintuigen op scherp. Te reserveren via de reserveren button!\nEen unieke ervaring in een rustig, groen, kader\nOvernachten bij ons is niet zomaar een overnachting. Het bied de mogelijkheid om het uitgestrekte bos Ryckevelde te ontdekken te voet of via fiets. Brugge ligt enkel 5 km verwijderd van de locatie en is gemakkelijk met fiets of te voet bereikbaar. Ons team staat klaar om vanaf 's morgens een ontbijt of brunch te voorzien en heerlijke gerechten rechtstreeks uit de Mibrasa (houtskool oven) tot 10 bieren op tap en een selectie van (natuur-) wijnen. Voor ieder wat wils.\nR\nSluiten\no\n← PREV\nD DOWNLOAD DEZE FOTO\nNEXT →\nR\nRyckevelde\nI\nF\nContact\ninfo@ryckevelde1451.be\nParkcafé\nOpeningsuren\nZie Google Maps\nhttps://maps.app.goo.gl/QDhSn6FcXoq49Ybm7\nMeer info\nOvernachten\nUnieke overnachtingen op prachtige plekken\nbekijk onze boomhutten\nbinnenkort meer\nBoeken\n© 2026 Ryckevelde 1451 BV\nPrivacybeleid\nBoekingsvoorwaarden\nPrivacy-instellingen\nDesign en web door monkberry"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.ryckevelde1451.be/overnachten",
+ "httpStatus": 200,
+ "htmlLang": "nl"
+}

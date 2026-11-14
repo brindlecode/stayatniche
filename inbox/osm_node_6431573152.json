@@ -1,0 +1,57 @@
+{
+ "id": "osm:node/6431573152",
+ "name": "Onkel Inn Wagon Sleepbox Uyuni",
+ "queueStatus": "weak",
+ "queueCategory": "train-hotels",
+ "categories": [
+  "train-hotels"
+ ],
+ "lat": -20.4640701,
+ "lng": -66.8225469,
+ "country": "Bolivia",
+ "city": "Uyuni",
+ "region": "Potosí",
+ "osm": {
+  "tourism": "hostel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://onkelinn.com/wagon-sleepbox-uyuni/",
+ "fetchedAt": "2026-10-26T06:25:18.871Z",
+ "pages": [
+  {
+   "url": "https://onkelinn.com/wagon-sleepbox-uyuni/",
+   "kind": "home",
+   "title": "Wagon Sleepbox Uyuni &#8211; Onkel Inn",
+   "description": "",
+   "text": "Wagon Sleepbox Uyuni Onkel Inn\nNotice : Undefined variable: sohohotel_page_title_class in /home/onkelinn/public_html/wp-content/themes/soho-hotel.old/sohohotel-pageheader1.php on line 45\n\" >\nWagon Sleepbox Uyuni\nCápsula Individual\nOcupantes: 2 Persona(s)\nTamaño: 35-40sqm / 375-430sqf\nCiudad: Uyuni\nfrom $19.95 per night\nView Details\nCápsula Doble\nOccupancy: Min 2 Max 2\nBathroom: Private\nLocation: Uyuni\nfrom $34.95 per night\nView Details\nSuites\nOccupancy: Max 1\nBathroom: Private\nLocation: Uyuni\nfrom $59.95 per night\nView Details\nVagones\nOccupancy: Min 1 - Max 2\nBathroom: Private\nLocation: Uyuni\nfrom $67.95 per night\nView Details\nPlease enter a valid Google Map API key in the theme options \"General\" section"
+  },
+  {
+   "url": "https://onkelinn.com/accommodation/capsula-individual/",
+   "kind": "sub",
+   "label": "",
+   "title": "Cápsula Individual &#8211; Onkel Inn",
+   "text": "Cápsula Individual Onkel Inn\nNotice : Undefined variable: sohohotel_page_title_class in /home/onkelinn/public_html/wp-content/themes/soho-hotel.old/sohohotel-pageheader1.php on line 45\n\" >\nCápsula Individual\nRoom Description\nThe individual capsule measures 2.48 m in height, 2.10 m in length, and 1.20 m in width. It is equipped with a TV, nightstand, and reading light.\nFree Services\nUpgrades\nComments\nFree Services\n24 hour front desk\nBilingual English–Spanish\nSafe box\nOxygen\nLuggage storage\nComputer\nHigh-speed Wi-Fi\nShared Kitchen\nParking\nBreakfast 7:30am to 9:30am\nUpgrades\nBreakfast\nAirport transfer in/out\nLaundry\nEarly Check-in\nLate Check-out\nComments\nReservations are made by occupation, that is, according to the number of people who sleep per room.\nBook This Room\nGo to Reservations\nPhoto Gallery\nCancellation Policy\nMy flight arrives early in the morning, what time can I check in?\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent et rhoncus neque. Maecenas enim nunc, dapibus in mattis eleifend, luctus et magna. Maecenas nunc est, posuere sed convallis tincidunt\nIs breakfast included as standard with all rooms?\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent et rhoncus neque. Maecenas enim nunc, dapibus in mattis eleifend, luctus et magna. Maecenas nunc est, posuere sed convallis tincidunt\nDo you provide a child day care service?\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent et rhoncus neque. Maecenas enim nunc, dapibus in mattis eleifend, luctus et magna. Maecenas nunc est, posuere sed convallis tincidunt"
+  },
+  {
+   "url": "https://onkelinn.com/accommodation/capsula-doble/",
+   "kind": "sub",
+   "label": "",
+   "title": "Cápsula Doble &#8211; Onkel Inn",
+   "text": "Cápsula Doble Onkel Inn\nNotice : Undefined variable: sohohotel_page_title_class in /home/onkelinn/public_html/wp-content/themes/soho-hotel.old/sohohotel-pageheader1.php on line 45\n\" >\nCápsula Doble\nRoom Description\nThe double capsule includes two beds (bunk style), a TV, nightstand, and reading light.\nFree Services\nUpgrades\nComments\nFree Services\n24 hour front desk\nBilingual English–Spanish\nSafe box\nOxygen\nLuggage storage\nComputer\nHigh-speed Wi-Fi\nShared Kitchen\nParking\nBreakfast 7:30am to 9:30am\nUpgrades\nBreakfast\nAirport transfer in/out\nLaundry\nEarly Check-in\nLate Check-out\nComments\nReservations are made by occupation, that is, according to the number of people who sleep per room.\nBook This Room\nGo to Reservations\nPhoto Gallery\nCancellation Policy\nMy flight arrives early in the morning, what time can I check in?\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent et rhoncus neque. Maecenas enim nunc, dapibus in mattis eleifend, luctus et magna. Maecenas nunc est, posuere sed convallis tincidunt\nIs breakfast included as standard with all rooms?\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent et rhoncus neque. Maecenas enim nunc, dapibus in mattis eleifend, luctus et magna. Maecenas nunc est, posuere sed convallis tincidunt\nDo you provide a child day care service?\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent et rhoncus neque. Maecenas enim nunc, dapibus in mattis eleifend, luctus et magna. Maecenas nunc est, posuere sed convallis tincidunt"
+  },
+  {
+   "url": "https://onkelinn.com/accommodation/suites/",
+   "kind": "sub",
+   "label": "",
+   "title": "Suites &#8211; Onkel Inn",
+   "text": "Suites Onkel Inn\nNotice : Undefined variable: sohohotel_page_title_class in /home/onkelinn/public_html/wp-content/themes/soho-hotel.old/sohohotel-pageheader1.php on line 45\n\" >\nSuites\nRoom Description\nThe Suites feature a private bathroom, heating, TV, bedside table, drawer, safe, and either a double bed or two full-size beds.\nFree Services\nUpgrades\nComments\nFree Services\n24-hour front desk\nBilingual English–Spanish\nSafe box\nOxygen\nLuggage storage\nComputer\nHigh-speed Wi-Fi\nShared kitchen\nParking\nBreakfast 7:30am–9:30am\nUpgrades\nBreakfast\nAirport transfer (in/out)\nLaundry\nEarly check-in\nLate check-out\nComments\nReservations are made by occupancy, that is, according to the number of people who sleep per room.\nBook this room\nGo to Reservations\nPhoto Gallery\nCancellation Policy\nMy flight arrives early in the morning, what time can I check in?\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent et rhoncus neque. Maecenas enim nunc, dapibus in mattis eleifend, luctus et magna. Maecenas nunc est, posuere sed convallis tincidunt.\nIs breakfast included as standard with all rooms?\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent et rhoncus neque. Maecenas enim nunc, dapibus in mattis eleifend, luctus et magna. Maecenas nunc est, posuere sed convallis tincidunt.\nDo you provide a child day care service?\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent et rhoncus neque. Maecenas enim nunc, dapibus in mattis eleifend, luctus et magna. Maecenas nunc est, posuere sed convallis tincidunt."
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://onkelinn.com/wagon-sleepbox-uyuni/",
+ "httpStatus": 200,
+ "htmlLang": "es"
+}

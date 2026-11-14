@@ -1,0 +1,36 @@
+{
+ "id": "osm:node/4265606190",
+ "name": "Train Spot",
+ "queueStatus": "weak",
+ "queueCategory": "train-hotels",
+ "categories": [
+  "train-hotels"
+ ],
+ "lat": 39.4490485,
+ "lng": -7.3686827,
+ "country": "Portugal",
+ "city": "Marvão",
+ "region": null,
+ "osm": {
+  "tourism": "guest_house"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://trainspot.pt/",
+ "fetchedAt": "2026-10-25T06:18:05.101Z",
+ "pages": [
+  {
+   "url": "https://trainspot.pt/",
+   "kind": "home",
+   "title": "Trainspot &#8211; A Casa dos Viajantes em Marvão",
+   "description": "",
+   "text": "Trainspot A Casa dos Viajantes em Marvão\nPular para o conteúdo\nMenu\nReservas\nReservas\nMenu\nReservas\nMenu\nPrevious slide\nNext slide\nA TUA CASA EM MARVÃO\nBEM VIND@ A BORDO!\nAtenção aos viajantes! Está a dar entrada na linha do Alentejo, uma viagem no tempo. Esta viagem acontece na Train Spot Guesthouse, alojada na histórica estação ferroviária de Marvão/Beirã, criada no séc. XIX e classificada como Património Arquitectónico. Aqui, os viajantes de todas as idades, mas de coração jovem, vivem a experiência de sonhar e acordar numa estação da era industrial, na envolvência exuberante do Parque Natural da Serra de S. Mamede , em contacto direto com a tradição da cultura raiana, a um passo da fronteira entre Portugal e Espanha.\nSobe a bordo e faz desta estação a tua casa no Alentejo!\nPROJETO ESTAÇÃO VIVA\nEsta estação esteve fechada. Hoje continua aberta graças a quem a visita.\nA Train Spot Guesthouse é um projeto familiar criado para reabrir e cuidar desta estação ferroviária histórica, outrora encerrada e esquecida no interior alentejano. O projeto não conta com apoios institucionais e existe graças à sua utilização como alojamento turístico.\nAo ficar na Train Spot, está a ajudar a manter esta estação viva.\nO LUGAR IDEAL PARA JUNTAR GRUPOS\nA Train Spot Guesthouse é um lugar pensado para ser vivido em conjunto. Oferece amplas áreas comuns, um grande salão, cozinha equipada, alpendre e jardim, criando o ambiente perfeito para reunir família, amigos ou equipas de trabalho.\nRecebemos grupos em exclusividade no edifício principal até 14 pessoas, com a possibilidade de ampliar a capacidade até 22 hóspedes através de dois apartamentos localizados no mesmo recinto.\nUMA FORMA DIFERENTE DE RECEBER\nOferecemos uma forma simples e genuína de viver o Alentejo. Um lugar para quem procura autenticidade, história, natureza e tempo para abrandar.\nO nosso funcionamento adapta-se ao ritmo do meio rural e procura equilibrar conforto, sustentabilidade e respeito pelo lugar que habitamos.\nObrigado por fazer parte.\nMAIS DE 100 ANOS\nEste edifício centenário foi concebido para outra época e outro propósito. Hoje, já não recebe comboios, mas continua a receber viajantes.\nManter este património vivo é um desafio diário, feito com respeito pela sua história e pela autenticidade que o torna único. A sua arquitetura, os seus materiais e muitos dos seus detalhes originais preservam a memória de uma outra forma de viajar e de viver.\nConheçe as vantagens de reservar diretamente com a Trainspot e organiza connosco a tua estadia. Vê as acomodações que temos para oferecer, desde quartos familiares, quartos com casa de banho privativa, até aos apartamentos para até 4 pessoas.\nSABER MAIS\nDescobra as melhores condições para combinar encontros de amigos ou família, team buildings para empresas, ou organizar retiros e workshops. Os amplos espaços da Trainspot, como a sala com lareira, a cozinha e os espaços exteriores, fazem deste lugar o local ideal para conectar pessoas.\nSABER MAIS\nEncontra aqui as propostas que oferecemos para o ano corrente e as condições que disponibilizamos para organizar a tua própria oferta no nosso espaço. O ambiente histórico deste lugar e a envolvência do Parque Natural, são por si o complemento perfeito para estas atividades.\nSABER MAIS\nConsulta aqui algumas sugestões para disfrutar esta região a todo o vapor. Desde pedalar na linha férrea, montar a cavalo pela serra, caminhar na natureza, mergulhar nos rios e lagos, descobrir a história e as tradições, temos para partilhar consigo muitas outras atividades durante a tua estadia.\nSABER MAIS\nBiosphere 2023\nPor ter demonstrado com sucesso o cumprimento das acções Biosphere Sustainable LifeStyle alinhadas com os 17 Objectivos de Desenvolvimento Sustentável da Agenda das Nações Unidas para 2030, envolvendo funcionários num projecto comum e sendo positivamente valorizado pelos seus clientes.\nCinco Estrelas\nCom nomeação da população portuguesa, a Train Spot Guesthouse foi distinguida com o Prémio Cinco Estrelas Regiões 2021, no distrito de Portalegre na categoria “Hotéis Temáticos”. Obrigado a todos!\nNatural.pt\nVencedor na categoria “Alojamento” com votação do público.  A Train Spot é aderente da marca Natural.PT, associada à Rede Nacional de Áreas Protegidas, na promoção dos produtos e serviços que partilhem valores, sustentabilidade, ecologia e recursos endógenos.\nTurismo do Alentejo\nMenção honrosa na categoria “Melhor Turismo Rural” Pelo contributo para o desenvolvimento turístico do Alentejo, o júri atribui à Train Spot Guesthouse a Menção Honrosa na Categoria de Melhor Turismo Rural 2014.\nConsulte o:\n© 2021 Trainspot. All Rights Reserved\nInquérito de Satisfação - A sua opinião é importante\nTrain Spot Lda\nCasa de Campo\nSede Largo da Alfandega n4\n7330-012 Beirã Marvão\nNIF 510488935\nRNET - 5108\nSubscreva para receber noticias\nNewsletter Nome\nEmail\nSubscrever\nTermos e Condições\nPolítica de Privacidade"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://trainspot.pt/",
+ "httpStatus": 200,
+ "htmlLang": "pt-PT"
+}
