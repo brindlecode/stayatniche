@@ -1,0 +1,9 @@
+---
+import BestView from '../../views/BestView.astro';
+import { bestGroups } from '../../i18n/roundups';
+
+export async function getStaticPaths() {
+  return (await bestGroups('en')).map(g => ({ params: { slug: g.slug }, props: g }));
+}
+---
+<BestView locale="en" {...Astro.props} />

@@ -65,12 +65,12 @@ What makes Kenya's better safari operations genuinely sustainable is the direct 
 
 ## Tours & Experiences
 
-Book Maasai Mara game drives, Nairobi National Park half-day tours, giraffe centre visits, and great migration tracking tours through [Klook](https://www.klook.com/en-US/search-results/?query=Kenya+safari) and [Viator](https://www.viator.com/Kenya/d729-ttd). Hot air balloon safaris over the Mara — one of Africa's finest experiences — book directly through operators. Maasai cultural experiences and community visits are bookable through [WeGoTrip](https://wegotrip.com/destinations/kenya/).
+Book Maasai Mara game drives, Nairobi National Park half-day tours, giraffe centre visits, and great migration tracking tours through [Klook](https://www.klook.com/en-US/search-results/?query=Kenya+safari). Hot air balloon safaris over the Mara — one of Africa's finest experiences — book directly through operators. Maasai cultural experiences and community visits are bookable through [WeGoTrip](https://wegotrip.com/destinations/kenya/).
 
 ## Travel Essentials
 
 **eSIM:** Get a Kenya eSIM from [Airalo](https://www.airalo.com). Safaricom has the best rural coverage including in most national park areas; signal is absent at remote lodges (which use satellite or radio).
 
-**Travel Insurance:** Medical evacuation insurance is essential for remote camp stays — evacuation from Laikipia or Chyulu Hills to Nairobi by aircraft costs $3,000–6,000. [SafetyWing](https://safetywing.com) includes emergency evacuation in its standard plan.
+**Travel Insurance:** Medical evacuation insurance is essential for remote camp stays — evacuation from Laikipia or Chyulu Hills to Nairobi by aircraft costs $3,000–6,000. Check that the policy covers medical evacuation; [EKTA](https://ektatraveling.com/) is one option to compare.
 
-**VPN:** [NordVPN](https://nordvpn.com) or [ExpressVPN](https://expressvpn.com) for lodge downtime. Some lodge satellite connections are restricted; a VPN restores full internet access.
+**VPN:** A VPN is useful for lodge downtime. Some lodge satellite connections are restricted; a VPN restores full internet access.

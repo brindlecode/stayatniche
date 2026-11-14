@@ -55,12 +55,10 @@ The cloud forest on the western Andean slopes — the Chocó Andino biome — is
 
 ## Tours & Experiences
 
-Book Galápagos island-hopping excursions, Quilotoa crater hikes, and Quito city tours on [Klook](https://www.klook.com/en-US/search-results/?query=Ecuador) and [Viator](https://www.viator.com/Ecuador/d728-ttd). Cloud forest birding tours and chocolate farm visits near Mindo are bookable through [WeGoTrip](https://wegotrip.com/destinations/ecuador/).
+Book Galápagos island-hopping excursions, Quilotoa crater hikes, and Quito city tours on [Klook](https://www.klook.com/en-US/search-results/?query=Ecuador). Cloud forest birding tours and chocolate farm visits near Mindo are bookable through [WeGoTrip](https://wegotrip.com/destinations/ecuador/).
 
 ## Travel Essentials
 
 **eSIM:** Get an Ecuador eSIM from [Airalo](https://www.airalo.com) before departure. Claro has the best rural coverage including in the western Andean cloud forest. Signal is absent in the Galápagos interior but available in Puerto Ayora.
 
-**Travel Insurance:** [SafetyWing](https://safetywing.com) covers Ecuador's adventure activities (hiking, diving, wildlife excursions) at no additional premium. Medical evacuation cover is important for remote cloud forest and Amazon travel.
-
-**VPN:** [NordVPN](https://nordvpn.com) is useful for accessing home streaming content and for secure browsing on hotel networks.
+**Travel Insurance:** [EKTA](https://ektatraveling.com/) offers travel insurance; check that the policy covers Ecuador's adventure activities (hiking, diving, wildlife excursions). Medical evacuation cover is important for remote cloud forest and Amazon travel.

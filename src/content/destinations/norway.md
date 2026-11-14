@@ -56,7 +56,7 @@ Norway's most defining quality is light, or rather its extremes. The midnight su
 
 ## Getting Around
 
-**Car Rental:** The Norwegian Scenic Routes (18 designated drives) and fjord country are best explored by car. Roads are excellent; winter driving requires winter tyres (mandatory by law October–April). Compare rates on [Localrent](https://localrent.com/en/?location=Norway), [QEEQ](https://www.qeeq.com/search?q=Norway), and [AutoEurope](https://www.autoeurope.com/?location=Norway). EV rental is well-supported — Norway has the world's highest EV adoption rate and chargers on most routes.
+**Car Rental:** The Norwegian Scenic Routes (18 designated drives) and fjord country are best explored by car. Roads are excellent; winter driving requires winter tyres (mandatory by law October–April). Compare rates on [Localrent](https://localrent.com/en/?location=Norway), [QEEQ](https://www.qeeq.com/search?q=Norway), and [AutoEurope](https://www.autoeurope.eu/). EV rental is well-supported — Norway has the world's highest EV adoption rate and chargers on most routes.
 
 **Ferries:** Essential for fjord travel; many fjord crossings have no road alternative. The Hurtigruten coastal ferry from Bergen to Kirkenes takes 6 days and is one of the world's great maritime journeys. Car ferries are booked through Fjord1 and Norled; reserve in advance for summer crossings.
 
@@ -64,12 +64,10 @@ Norway's most defining quality is light, or rather its extremes. The midnight su
 
 ## Tours & Experiences
 
-Book Geirangerfjord kayak tours, northern lights safaris from Tromsø, dog sledding in Finnmark, and Flåm fjord excursions on [Klook](https://www.klook.com/en-US/search-results/?query=Norway) and [Viator](https://www.viator.com/Norway/d78-ttd). The Svalbard polar expedition season (March–October) is best arranged through specialist Arctic operators. Sea kayaking and glacier hikes in the Jostedalsbreen area are bookable through regional outfitters on [WeGoTrip](https://wegotrip.com/destinations/norway/).
+Book Geirangerfjord kayak tours, northern lights safaris from Tromsø, dog sledding in Finnmark, and Flåm fjord excursions on [Klook](https://www.klook.com/en-US/search-results/?query=Norway). The Svalbard polar expedition season (March–October) is best arranged through specialist Arctic operators. Sea kayaking and glacier hikes in the Jostedalsbreen area are bookable through regional outfitters on [WeGoTrip](https://wegotrip.com/destinations/norway/).
 
 ## Travel Essentials
 
 **eSIM:** Norway has excellent 4G coverage on all main roads and in cities; signal drops in Svalbard and very remote fjord areas. Get a Norway eSIM from [Airalo](https://www.airalo.com) before departure — Telenor has the best rural and Svalbard coverage.
 
-**Travel Insurance:** Essential for Norway's outdoor activities. Check that your policy covers mountain hiking (Trolltunga and Preikestolen rescue operations are expensive). [SafetyWing](https://safetywing.com) covers adventure sports and provides emergency evacuation coverage.
-
-**VPN:** [NordVPN](https://nordvpn.com) — ironically headquartered in Oslo — is a strong choice for Norwegian travel. [ExpressVPN](https://expressvpn.com) is the reliable alternative.
+**Travel Insurance:** Essential for Norway's outdoor activities. Check that your policy covers mountain hiking (Trolltunga and Preikestolen rescue operations are expensive). Also check that it covers adventure sports and emergency evacuation; [EKTA](https://ektatraveling.com/) is one option to compare.

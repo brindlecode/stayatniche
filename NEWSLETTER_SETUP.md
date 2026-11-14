@@ -4,10 +4,15 @@ The site uses **Netlify Forms** to capture email signups, with an optional serve
 
 ## How It Works
 
-1. User fills out the form on `/newsletter` or the homepage
-2. Netlify Forms stores the submission
-3. A webhook triggers `netlify/functions/newsletter-subscribe.js`
-4. The function forwards the subscriber to your chosen provider
+1. A visitor fills in the form in the footer (every page) or on `/newsletter`
+2. The form posts to `netlify/functions/newsletter-subscribe.cjs`
+3. The function sends the address to the provider set in `NEWSLETTER_PROVIDER`
+4. Only when the provider accepts it does the visitor go to `/newsletter-success/`.
+   If no provider is configured, or the provider refuses, the visitor sees an error
+   ("your address was not saved") and nothing is stored.
+
+Check the setup any time by opening `https://stayatniche.com/.netlify/functions/newsletter-subscribe`
+in a browser: it shows `{"provider": ..., "configured": true|false}` (no keys are shown).
 
 ## Step 1: Choose a Free Provider
 
@@ -50,7 +55,7 @@ The site uses **Netlify Forms** to capture email signups, with an optional serve
 In your **Netlify dashboard → Site settings → Environment variables**, add:
 
 ```
-NEWSLETTER_PROVIDER = beehiiv   (or: mailchimp, brevo, none)
+NEWSLETTER_PROVIDER = beehiiv   (or: mailchimp, brevo)
 ```
 
 **For Beehiiv:**
@@ -74,35 +79,18 @@ BREVO_LIST_ID = 1   (your list's integer ID)
 
 ---
 
-## Step 4: Connect the Webhook
+## Step 4: Test It
 
-1. Go to **Netlify dashboard → Site settings → Forms → Form notifications**
-2. Click **Add notification → Outgoing webhook**
-3. Set **Event to listen for**: `New form submission`
-4. Set **Form**: `newsletter`
-5. Set **URL**: `https://YOUR-SITE.netlify.app/.netlify/functions/newsletter-subscribe`
-6. Save
+1. After setting the variables, trigger a new deploy (Netlify → Deploys → Trigger deploy)
+2. Open the check URL above: it should say `"configured": true`
+3. Sign up with your own address and confirm it appears in the provider's dashboard
 
----
+No Netlify Forms webhook is needed any more. Older sign-ups collected before this change
+are still in **Netlify dashboard → Forms** (`newsletter`, `footer-newsletter`); export them
+as CSV and import them into the provider.
 
-## Step 5: Test It
+## Form Locations
 
-1. Deploy the site
-2. Submit the newsletter form
-3. Check Netlify dashboard → Forms → `newsletter` (should show the submission)
-4. Check your email provider dashboard (subscriber should appear within seconds)
-
----
-
-## Current Form Locations
-
-- **Homepage** — inline hero form
+- **Footer** — on every page
 - **/newsletter** — full dedicated signup page
-- **/newsletter-success** — post-signup thank you page
-
-## Viewing Submissions Without an Email Provider
-
-Even without configuring a provider, all submissions are stored in:
-**Netlify dashboard → Forms → newsletter**
-
-You can export them as CSV and import manually to any platform.
+- **/newsletter-success** — shown only after the provider accepted the address

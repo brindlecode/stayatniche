@@ -65,12 +65,10 @@ Kigali International Airport now receives direct flights from Brussels, London, 
 
 ## Tours & Experiences
 
-Book gorilla trekking permits (managed by the Rwanda Development Board — permits $1,500 per person), golden monkey trekking, chimpanzee habituation in Nyungwe, and Kigali genocide memorial tours through [Viator](https://www.viator.com/Rwanda/d5453-ttd). Hot air balloon flights over Rwanda's thousand hills are an extraordinary add-on. Cultural experiences and community market visits are bookable through [WeGoTrip](https://wegotrip.com/destinations/rwanda/).
+Book gorilla trekking permits (managed by the Rwanda Development Board — permits $1,500 per person), golden monkey trekking, chimpanzee habituation in Nyungwe, and Kigali genocide memorial tours through [Klook](https://www.klook.com/en-US/search-results/?query=Rwanda). Hot air balloon flights over Rwanda's thousand hills are an extraordinary add-on. Cultural experiences and community market visits are bookable through [WeGoTrip](https://wegotrip.com/destinations/rwanda/).
 
 ## Travel Essentials
 
 **eSIM:** Get a Rwanda eSIM from [Airalo](https://www.airalo.com). MTN Rwanda has the best coverage including in the Volcanoes and Nyungwe park areas. Lodge properties often have satellite WiFi.
 
-**Travel Insurance:** Medical evacuation to Nairobi or Johannesburg is the relevant risk for remote lodges. [SafetyWing](https://safetywing.com) includes evacuation and covers gorilla trekking as an adventure activity.
-
-**VPN:** [NordVPN](https://nordvpn.com) or [ExpressVPN](https://expressvpn.com) for accessing streaming services during lodge evenings.
+**Travel Insurance:** Medical evacuation to Nairobi or Johannesburg is the relevant risk for remote lodges. Check that the policy covers medical evacuation and gorilla trekking as an adventure activity; [EKTA](https://ektatraveling.com/) is one option to compare.

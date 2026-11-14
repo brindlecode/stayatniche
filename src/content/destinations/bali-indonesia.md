@@ -59,16 +59,14 @@ Ngurah Rai International Airport in Denpasar receives direct flights from Singap
 
 ## Getting Around
 
-**Scooter and Motorbike:** The local standard for independent travel within Bali. Rentals from $5/day; international driving licence required technically, but most rentals are casual. Safer alternatives include private drivers hired by the day ($40–60). Compare car rental rates on [Localrent](https://localrent.com/en/?location=Bali), [QEEQ](https://www.qeeq.com/search?q=Bali%2C+Indonesia), or [EconomyBookings](https://www.economybookings.com/?location=Bali). For motorbike rental specifically, compare on [BikeBooking](https://www.bikebooking.com/en/search?location=Bali%2C+Indonesia).
+**Scooter and Motorbike:** The local standard for independent travel within Bali. Rentals from $5/day; international driving licence required technically, but most rentals are casual. Safer alternatives include private drivers hired by the day ($40–60). Compare car rental rates on [Localrent](https://localrent.com/en/?location=Bali), [QEEQ](https://www.qeeq.com/search?q=Bali%2C+Indonesia), or [EconomyBookings](https://www.economybookings.com/?location=Bali). For motorbike rental specifically, compare on [BikeBooking](https://www.bikesbooking.com/en/search?location=Bali%2C+Indonesia).
 
 ## Tours & Experiences
 
-Book Mount Batur sunrise hikes, Tegallalang rice terrace walks, Balinese cooking classes, and sacred temple ceremonies through [Klook](https://www.klook.com/en-US/search-results/?query=Bali) and [Viator](https://www.viator.com/Bali/d774-ttd). Ubud Monkey Forest, Tirta Empul sacred bathing, and white water rafting on the Ayung River are consistently well-reviewed. For curated cultural experiences and self-guided audio tours, use [WeGoTrip](https://wegotrip.com/destinations/bali/).
+Book Mount Batur sunrise hikes, Tegallalang rice terrace walks, Balinese cooking classes, and sacred temple ceremonies through [Klook](https://www.klook.com/en-US/search-results/?query=Bali). Ubud Monkey Forest, Tirta Empul sacred bathing, and white water rafting on the Ayung River are consistently well-reviewed. For curated cultural experiences and self-guided audio tours, use [WeGoTrip](https://wegotrip.com/destinations/bali/).
 
 ## Travel Essentials
 
 **eSIM:** Get a Bali/Indonesia eSIM from [Airalo](https://www.airalo.com) before departure. Telkomsel has the best rural coverage in the island's interior and highland areas.
 
-**Travel Insurance:** Covers water sports, volcano hiking, and scooter riding (check scooter coverage specifically — many standard policies exclude it). [SafetyWing](https://safetywing.com) covers adventure activities and provides solid Asia Pacific healthcare coverage.
-
-**VPN:** Essential in Indonesia — some platforms are geo-restricted. [NordVPN](https://nordvpn.com) or [ExpressVPN](https://expressvpn.com) restore access and provide security on Bali's hotel WiFi networks.
+**Travel Insurance:** Covers water sports, volcano hiking, and scooter riding (check scooter coverage specifically — many standard policies exclude it). Compare policies on [EKTA](https://ektatraveling.com/) and check that the one you pick covers adventure activities and Asia Pacific healthcare.

@@ -1,0 +1,9 @@
+---
+import CountryView from '../../views/CountryView.astro';
+import { countryGroups } from '../../i18n/roundups';
+
+export async function getStaticPaths() {
+  return (await countryGroups('en')).map(g => ({ params: { slug: g.slug }, props: g }));
+}
+---
+<CountryView locale="en" {...Astro.props} />

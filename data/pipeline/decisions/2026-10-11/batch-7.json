@@ -1,0 +1,390 @@
+[
+  {
+    "id": "osm:way/587772395",
+    "is_lodging": true,
+    "operating_status": "open",
+    "category": null,
+    "also_fits": [],
+    "niche_scope": "name_only",
+    "niche_unit_count": null,
+    "niche_feature": null,
+    "category_quote": null,
+    "confidence": 0.4,
+    "red_flags": ["theme_only"],
+    "other_niche_type": null,
+    "official_name": "Hotel Castillo del Alba",
+    "property_type": "hotel",
+    "address": "Pola de Somiedo (Asturias)",
+    "room_count": {
+      "value": 17,
+      "quote": "dispone de 15 habitaciones dobles y 2 suites con vistas panorámicas"
+    },
+    "amenities": [
+      {"text": "Free private parking", "quote": "Convenient on-site parking at no additional cost for our guests"},
+      {"text": "Free WiFi", "quote": "High-speed internet throughout entire property"},
+      {"text": "Air conditioning in suites and upper floor rooms", "quote": "Available in all suites and upper floor rooms"},
+      {"text": "Restaurant serving Asturian cuisine", "quote": "The Castillo del Alba Restaurant offers a gastronomic experience rooted in Premium Traditional Asturian Cuisine"}
+    ],
+    "highlights": [
+      {"text": "Guided nature tour packages in the Somiedo park", "quote": "Enjoy a cozy stay at our hotel, paired with one of the region's most iconic guided activities"},
+      {"text": "Built in 2001, three stars, medieval-inspired design", "quote": "A three-star hotel constructed in 2001"}
+    ],
+    "season": null,
+    "check_in": {"text": "from 15:00", "quote": "Entrada a partir de las 15:00 horas"},
+    "check_out": {"text": "before 12:00", "quote": "Salida antes de las 12:00 horas"},
+    "access": null,
+    "audience": "family_friendly",
+    "best_for": ["couples", "families", "Somiedo park visitors"],
+    "reason": "Ordinary three-star hotel in Pola de Somiedo; the castle name and medieval-style decor do not show a castle building or a castle stay, so no category applies."
+  },
+  {
+    "id": "osm:way/603165644",
+    "is_lodging": true,
+    "operating_status": "open",
+    "category": null,
+    "also_fits": [],
+    "niche_scope": "name_only",
+    "niche_unit_count": null,
+    "niche_feature": null,
+    "category_quote": null,
+    "confidence": 0.5,
+    "red_flags": ["theme_only"],
+    "other_niche_type": null,
+    "official_name": "Hotel Castillo de Gauzón",
+    "property_type": "hotel",
+    "address": "Salinas, Asturias",
+    "room_count": {
+      "value": 11,
+      "quote": "dispone de un total de 11 habitaciones"
+    },
+    "amenities": [
+      {"text": "Free private parking", "quote": "nuestro parking privado es gratuito"},
+      {"text": "24-hour reception", "quote": "nuestro servicio de recepción es 24h"},
+      {"text": "Lift and step-free entrance from the car park", "quote": "dispone de ascensor y entrada desde el parking totalmente adaptada"},
+      {"text": "Wi-Fi in common areas and rooms", "quote": "Conexión en áreas comunes así como en habitaciones"},
+      {"text": "Luggage storage", "quote": "Nos encargamos de tu equipaje."}
+    ],
+    "highlights": [
+      {"text": "Restored early 20th-century colonial-style house (Casa de Indianos)", "quote": "bello edificio de arquitectura colonial, catalogado por el Principado de Asturias, que data de principios del siglo XX"},
+      {"text": "Garden of more than 1,500 m2", "quote": "nuestro jardín de más de 1500m2"}
+    ],
+    "season": null,
+    "check_in": null,
+    "check_out": null,
+    "access": {"text": "About 500 m from Salinas beach", "quote": "Situado a 500 metros de la extensa playa de Salinas"},
+    "audience": "unknown",
+    "best_for": ["beach visitors", "business travellers"],
+    "reason": "Restored indiano-style house in Salinas; the name refers to a historic fortress but the hotel is not in a castle, so no category applies. Pricing text is cut off in the evidence."
+  },
+  {
+    "id": "osm:way/608275728",
+    "is_lodging": true,
+    "operating_status": "open",
+    "category": "safari-lodges",
+    "also_fits": [],
+    "niche_scope": "whole_property",
+    "niche_unit_count": 96,
+    "niche_feature": "Luxury lodge with 96 rooms on stilts in the Taita Hills Wildlife Sanctuary, overlooking a waterhole",
+    "category_quote": "Salt Lick Safari Lodge is a luxurious safari escape set in the heart of the Taita Hills Wildlife Sanctuary",
+    "confidence": 0.75,
+    "red_flags": [],
+    "other_niche_type": null,
+    "official_name": "Salt Lick Safari Lodge",
+    "property_type": "lodge",
+    "address": null,
+    "room_count": {
+      "value": 96,
+      "quote": "Salt Lick Safari Lodge has 96 unique rooms, all elevated on stilts and built across two levels"
+    },
+    "amenities": [
+      {"text": "Bura Restaurant with buffet and live cooking", "quote": "This is the main restaurant, with a capacity of 150 people; it overlooks the watering holes"},
+      {"text": "Vuria Bar Lounge with shaded terrace", "quote": "The bar and adjoining shaded terrace above the Bura Restaurant provides spectacular views of the main waterhole"},
+      {"text": "Bush breakfast and dinners set up in the wild", "quote": "All set up in the wild open, Salt Lick Safari Lodge offers"},
+      {"text": "Digital in-room safe", "quote": "Rooms have digital safe deposit"},
+      {"text": "Mosquito netting and ceiling fan in all bedrooms", "quote": "All bedrooms have mosquito netting and a ceiling fan"}
+    ],
+    "highlights": [
+      {"text": "Rooms overlook the waterhole", "quote": "Rooms are overlooking the water hole"},
+      {"text": "Described by the site as among the world's most photographed lodges", "quote": "famed for being among the World s Most Photographed Lodges"}
+    ],
+    "season": null,
+    "check_in": null,
+    "check_out": null,
+    "access": null,
+    "audience": "unknown",
+    "best_for": ["wildlife viewing", "luxury safari stays"],
+    "reason": "Lodge on stilts inside the Taita Hills Wildlife Sanctuary; the evidence does not explicitly mention game drives, so confidence is moderate. Children under five are not permitted, children five and over are welcome."
+  },
+  {
+    "id": "osm:way/693558239",
+    "is_lodging": true,
+    "operating_status": "open",
+    "category": "safari-lodges",
+    "also_fits": [],
+    "niche_scope": "whole_property",
+    "niche_unit_count": 7,
+    "niche_feature": "Mountain safari lodge with seven self-catering chalets, guided game and carnivore drives, and e-bike wildlife viewing",
+    "category_quote": "Experience unforgettable Namibian adventures with guided game drives, carnivore encounters, e-bike wildlife viewing",
+    "confidence": 0.8,
+    "red_flags": [],
+    "other_niche_type": null,
+    "official_name": "Aloegrove Safari Lodge",
+    "property_type": "lodge",
+    "address": null,
+    "room_count": {
+      "value": 7,
+      "quote": "Private mountain retreat with seven chalets"
+    },
+    "amenities": [
+      {"text": "Self-catering kitchen with indoor barbecue in each chalet", "quote": "Each chalet features a fully equipped self-catering kitchen with an indoor barbecue"},
+      {"text": "Air conditioning, Wi-Fi, small fridge, kettle and hairdryer", "quote": "air conditioning, complimentary Wi-Fi, a small fridge, kettle, hairdryer"},
+      {"text": "Meals at the lodge restaurant on request", "quote": "Guests who prefer to fully unwind can also reserve meals at the lodge restaurant"},
+      {"text": "Bathtub with mountain views", "quote": "a luxurious bathroom complete with a bathtub and shower overlooking the mountains"}
+    ],
+    "highlights": [
+      {"text": "Guided carnivore drive to see resident lion, cheetah and leopard", "quote": "Get closer to the lodge’s resident lioness, cheetah, and leopard on a guided carnivore drive"},
+      {"text": "Self-guided e-bike wildlife viewing", "quote": "Discover the wilderness at your own pace with self-guided e-bike wildlife viewing"},
+      {"text": "Lodge set at 1,630 m above sea level", "quote": "Set at 1,630m above sea level, Aloegrove offers sweeping savanna views near the B1"}
+    ],
+    "season": null,
+    "check_in": null,
+    "check_out": null,
+    "access": {"text": "18 km from the B1 between Otavi and Otjiwarongo", "quote": "Located just 18 km from the B1 between Otavi and Otjiwarongo"},
+    "audience": "unknown",
+    "best_for": ["couples", "wildlife viewing", "quiet mountain stays"],
+    "reason": "Safari lodge with guided game and carnivore drives on protected land; the home page shows an '8 Rooms with a view' statistic, but the description says seven chalets, so the room count uses seven."
+  },
+  {
+    "id": "osm:way/813917316",
+    "is_lodging": true,
+    "operating_status": "open",
+    "category": null,
+    "also_fits": [],
+    "niche_scope": "some_units",
+    "niche_unit_count": 11,
+    "niche_feature": "Bush Camp of 11 safari rooms that combine a tent with a fixed structure, on a Namibian farm that also has guest rooms and campsites",
+    "category_quote": "Erleben Sie die Natur hautnah in unseren 11 Safarizimmern – einer einzigartigen Kombination aus Zelt und fester Unterkunft",
+    "confidence": 0.5,
+    "red_flags": [],
+    "other_niche_type": "safari tent bush camp on a working farm",
+    "official_name": "Omandumba",
+    "property_type": "camp",
+    "address": null,
+    "room_count": null,
+    "amenities": [
+      {"text": "Private hot-water shower at each of four campsites", "quote": "Omandumba bietet vier exklusive Campingplätze, jeweils mit einer eigenen Warmwasserdusche"},
+      {"text": "Swimming pool", "quote": "Bewundernswert ist der Pool in dieser trockenen Region"},
+      {"text": "Farm-style home cooking", "quote": "Hervorragend ist die Küche mit echter Hausmannskost"}
+    ],
+    "highlights": [
+      {"text": "Ancient rock paintings and a living San museum on the farm", "quote": "Erkunden Sie jahrtausendealte Felsmalereien, begegnen Sie den San in ihrem Living Museum"},
+      {"text": "Rooms overlook a waterhole (guest feedback)", "quote": "Von den Zimmern aus direkter Blick auf ein Wasserloch"}
+    ],
+    "season": null,
+    "check_in": null,
+    "check_out": null,
+    "access": null,
+    "audience": "unknown",
+    "best_for": ["nature and culture travellers", "campers"],
+    "reason": "Tented Bush Camp on a farm in the Erongo mountains; the site does not mention a reserve or game drives, so the safari-lodge category is not applied and the niche is recorded as other."
+  },
+  {
+    "id": "osm:way/837382938",
+    "is_lodging": true,
+    "operating_status": "unknown",
+    "category": null,
+    "also_fits": [],
+    "niche_scope": "name_only",
+    "niche_unit_count": null,
+    "niche_feature": null,
+    "category_quote": null,
+    "confidence": 0.2,
+    "red_flags": ["theme_only"],
+    "other_niche_type": null,
+    "official_name": "Casa del Castillo",
+    "property_type": "other",
+    "address": null,
+    "room_count": null,
+    "amenities": [],
+    "highlights": [],
+    "season": null,
+    "check_in": null,
+    "check_out": null,
+    "access": null,
+    "audience": "unknown",
+    "best_for": [],
+    "reason": "The website text is only the name 'Casa del Castillo' with no description, so the castle link cannot be confirmed; is_lodging rests on the rural-house name and the OSM chalet tag."
+  },
+  {
+    "id": "osm:way/85332872",
+    "is_lodging": true,
+    "operating_status": "open",
+    "category": null,
+    "also_fits": [],
+    "niche_scope": "name_only",
+    "niche_unit_count": null,
+    "niche_feature": null,
+    "category_quote": null,
+    "confidence": 0.5,
+    "red_flags": ["theme_only"],
+    "other_niche_type": null,
+    "official_name": "Hotel El Castillo",
+    "property_type": "hotel",
+    "address": "Av/ El Castillo, 115, 24401, Ponferrada (León)",
+    "room_count": {
+      "value": 48,
+      "quote": "que dispone de un total de 48 habitaciones"
+    },
+    "amenities": [
+      {"text": "Free Wi-Fi 24 hours a day", "quote": "dispone de conexión Wi-fi gratuita 24 horas al día"},
+      {"text": "Terrace at the cafe-bar", "quote": "Cuenta con terraza donde nuestro personal les atenderá amablemente"},
+      {"text": "Breakfast from 05:30", "quote": "podrán disfrutar desde las 05.30 de la mañana de un buen desayuno continental"}
+    ],
+    "highlights": [
+      {"text": "Near the Templar Castle of Ponferrada and the Camino de Santiago", "quote": "goza de una privilegiada situación al estar ubicado a 50 metros del Castillo de los Templarios de Ponferrada"}
+    ],
+    "season": null,
+    "check_in": null,
+    "check_out": null,
+    "access": null,
+    "audience": "unknown",
+    "best_for": ["business travellers", "Camino de Santiago pilgrims"],
+    "reason": "Ordinary 48-room hotel with a restaurant; it sits near the Templar castle, which is a nearby-castle name link only, so no category applies."
+  },
+  {
+    "id": "osm:way/944012635",
+    "is_lodging": true,
+    "operating_status": "open",
+    "category": null,
+    "also_fits": [],
+    "niche_scope": "name_only",
+    "niche_unit_count": null,
+    "niche_feature": null,
+    "category_quote": null,
+    "confidence": 0.5,
+    "red_flags": ["theme_only"],
+    "other_niche_type": null,
+    "official_name": "Hotel Castillo Villarrobledo",
+    "property_type": "hotel",
+    "address": "Avenida Reyes Católicos, 20, Villarrobledo",
+    "room_count": {
+      "value": 28,
+      "quote": "it has 28 fully equipped rooms guaranteeing maximum rest and comfort"
+    },
+    "amenities": [
+      {"text": "Hotel with capacity for groups", "quote": "hotel with adapted capacity for groups"}
+    ],
+    "highlights": [
+      {"text": "Nearby activities such as winery visits and fishing", "quote": "fishing and visits to wineries between others"}
+    ],
+    "season": null,
+    "check_in": null,
+    "check_out": null,
+    "access": {"text": "About 5 minutes walk from the town centre, next to the bus and Renfe station", "quote": "5 minutes walking from the center of Villarrobledo, next to the bus and Renfe station"},
+    "audience": "unknown",
+    "best_for": ["business travellers", "leisure stays in Villarrobledo"],
+    "reason": "Ordinary 28-room business and leisure hotel in Villarrobledo; the name has no castle feature on the site, so no category applies."
+  },
+  {
+    "id": "osm:way/995434094",
+    "is_lodging": true,
+    "operating_status": "open",
+    "category": "ice-hotels",
+    "also_fits": [],
+    "niche_scope": "whole_property",
+    "niche_unit_count": null,
+    "niche_feature": "Glass igloo hotel in Santa Claus Village, Rovaniemi, for aurora and starry-sky views",
+    "category_quote": "Santa's Igloos Arctic Circle on lasi-igluhotelli Joulupukin Pajakylässä Rovaniemellä",
+    "confidence": 0.85,
+    "red_flags": [],
+    "other_niche_type": null,
+    "official_name": "Igloos Arctic Circle",
+    "property_type": "hotel",
+    "address": "Joulumaankuja 8, 96930 Napapiiri",
+    "room_count": null,
+    "amenities": [
+      {"text": "Restaurant Arctic Eye", "quote": "Elämyksen kruunaa ravintola Arctic Eye, jossa puhtaat pohjoiset maut kohtaavat kansainväliset vivahteet"},
+      {"text": "Some igloos with a private sauna or outdoor hot tub", "quote": "Mahdollisuus igluihin, joissa oma sauna tai ulkoporeallas"},
+      {"text": "Patio heaters in winter (limited number)", "quote": "Lämmitystolpat käytettävissä talvella (rajallinen määrä)"}
+    ],
+    "highlights": [
+      {"text": "Glass roof with aurora and starry-sky views", "quote": "Lasikatto lämmityksineen avasi upeat näkymät tähtikirkkaana yönä"},
+      {"text": "Located in Santa Claus Village", "quote": "Iglumme sijaitsevat Joulupukin Pajakylässä"}
+    ],
+    "season": null,
+    "check_in": null,
+    "check_out": null,
+    "access": {"text": "About 5 km from Rovaniemi airport and 10 km from the city centre", "quote": "Matkaa lentokentältä tulee noin 5 km ja Rovaniemen keskustasta 10 km"},
+    "audience": "family_friendly",
+    "best_for": ["couples", "families", "aurora viewing"],
+    "reason": "Glass igloo hotel in Rovaniemi, which fits the ice-hotel category via its glass igloos; the site describes the stay as suitable for families and couples."
+  },
+  {
+    "id": "wd:Q131389851",
+    "is_lodging": true,
+    "operating_status": "open",
+    "category": "safari-lodges",
+    "also_fits": [],
+    "niche_scope": "whole_property",
+    "niche_unit_count": 34,
+    "niche_feature": "Traditional safari lodge with 34 stone-and-thatch cottages in the Ngorongoro Conservation Area, near the Serengeti plains",
+    "category_quote": "A traditional Safari lodge in an outstanding wildlife location",
+    "confidence": 0.85,
+    "red_flags": [],
+    "other_niche_type": null,
+    "official_name": "Ndutu Safari Lodge",
+    "property_type": "lodge",
+    "address": "Ngorongoro Conservation Area, Tanzania",
+    "room_count": {
+      "value": 34,
+      "quote": "Our Lodge comprises thirty four comfortable stone and thatch en-suite cottages"
+    },
+    "amenities": [
+      {"text": "Gym and spa", "quote": "We have also recently added a small gym and spa to the lodge"},
+      {"text": "Campfire and bar evenings", "quote": "As the sun lowers, join us around our famous Ndutu campfire"},
+      {"text": "En-suite bathrooms with hot showers", "quote": "Each room has an en- suite bathroom with hot showers, sink and flushing toilet"},
+      {"text": "Freshly prepared breakfast and bush breakfast on game drives", "quote": "After a restful night set yourself up for the day from the wealth of freshly prepared options for breakfast"}
+    ],
+    "highlights": [
+      {"text": "Game drives in the Ngorongoro Conservation Area", "quote": "a game drive in one of many distinct landscape areas within the Ndutu Conservation Area"},
+      {"text": "Cheetah hunting viewing", "quote": "one of the finest locations to witness the extraordinary speed and spectacle of cheetah hunting their prey"},
+      {"text": "Tanzania's oldest safari lodge", "quote": "To this day, Ndutu remains Tanzania’s oldest safari lodge."}
+    ],
+    "season": {"text": "Year-round wildlife viewing", "quote": "Ndutu offers peace, tranquillity and exceptional wildlife viewing throughout the year"},
+    "check_in": null,
+    "check_out": null,
+    "access": null,
+    "audience": "unknown",
+    "best_for": ["wildlife photographers", "safari travellers"],
+    "reason": "Traditional safari lodge in the Ngorongoro Conservation Area with game drives; the home page shows a live booking site, so status is open."
+  },
+  {
+    "id": "wd:Q140627117",
+    "is_lodging": true,
+    "operating_status": "closed",
+    "category": "ice-hotels",
+    "also_fits": [],
+    "niche_scope": "whole_property",
+    "niche_unit_count": null,
+    "niche_feature": "Hotel built from snow and ice in Swedish Lapland (Arjeplog or Arvidsjaur area)",
+    "category_quote": "Das einzigartige Hotel aus Schnee und Eis",
+    "confidence": 0.6,
+    "red_flags": ["closed_hint"],
+    "other_niche_type": null,
+    "official_name": "IGLOOTEL Lapland",
+    "property_type": "hotel",
+    "address": null,
+    "room_count": null,
+    "amenities": [],
+    "highlights": [
+      {"text": "Dog sled, icebreaker and snowmobile activities", "quote": "Von romantischen Hundeschlittentouren über abenteuerliche Ausfahrten mit einem echten Eisbrecher durch die zugefrorene Ostsee"}
+    ],
+    "season": {"text": "Winter season; reopening was planned for 2021/2022", "quote": "Neustart in der Wintersaison 2021/2022"},
+    "check_in": null,
+    "check_out": null,
+    "access": {"text": "About 3 hours from four German airports, with FlyCar", "quote": "erreichen Sie innerhalb nur 3 Stunden von 4 deutschen Flughäfen"},
+    "audience": "unknown",
+    "best_for": [],
+    "reason": "Ice hotel in Swedish Lapland, but Wikidata calls it a former hotel and the site's latest news dates from 2021-2022, so it is marked closed with a closed hint."
+  }
+]

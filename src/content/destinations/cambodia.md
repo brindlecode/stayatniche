@@ -61,12 +61,10 @@ The south coast, long overlooked by travelers focused entirely on the temples, i
 
 ## Tours & Experiences
 
-Book Angkor Wat sunrise tours, Tonle Sap floating village excursions, and Phnom Penh history tours through [Klook](https://www.klook.com/en-US/search-results/?query=Cambodia+Angkor) and [Viator](https://www.viator.com/Cambodia/d733-ttd). Cardamom Mountains trekking and eco-lodge experiences are best arranged through specialist conservation operators. Cambodian cooking classes, silk weaving workshops, and temple photography tours are on [WeGoTrip](https://wegotrip.com/destinations/cambodia/).
+Book Angkor Wat sunrise tours, Tonle Sap floating village excursions, and Phnom Penh history tours through [Klook](https://www.klook.com/en-US/search-results/?query=Cambodia+Angkor). Cardamom Mountains trekking and eco-lodge experiences are best arranged through specialist conservation operators. Cambodian cooking classes, silk weaving workshops, and temple photography tours are on [WeGoTrip](https://wegotrip.com/destinations/cambodia/).
 
 ## Travel Essentials
 
 **eSIM:** Get a Cambodia eSIM from [Airalo](https://www.airalo.com). Smart and Cellcard have the best coverage; signal is variable in the Cardamom Mountains and absent at remote eco-lodges. Most jungle lodges use satellite WiFi.
 
-**Travel Insurance:** Essential — Cambodia's public healthcare is limited, and medical evacuation to Bangkok or Singapore costs $5,000–15,000. [SafetyWing](https://safetywing.com) includes evacuation and covers jungle trekking.
-
-**VPN:** [NordVPN](https://nordvpn.com) or [ExpressVPN](https://expressvpn.com) are essential in Cambodia — some streaming services are geo-blocked, and a VPN provides security on hotel networks.
+**Travel Insurance:** Essential — Cambodia's public healthcare is limited, and medical evacuation to Bangkok or Singapore costs $5,000–15,000. Compare policies on [EKTA](https://ektatraveling.com/) and check that the one you pick covers medical evacuation and jungle trekking.

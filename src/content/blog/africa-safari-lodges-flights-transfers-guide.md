@@ -185,7 +185,7 @@ The closest advanced medical facility to most Kenyan safari camps is Nairobi. A 
 - Medical expense: minimum $50,000 for Tanzania/Kenya
 - Trip cancellation: relevant if you've booked non-refundable high-season lodge nights
 
-[SafetyWing](https://safetywing.com) covers all of the above in its standard Nomad Insurance plan, includes adventure activities (game drives in open vehicles, gorilla trekking) at no extra premium, and costs a fraction of what a single Medivac would. The AMREF Flying Doctors annual membership (Kenya/Tanzania-based) is a useful additional layer for extended East Africa travel.
+A policy from [EKTA](https://ektatraveling.com/) is one option; check that the policy covers medical evacuation and adventure activities (game drives in open vehicles, gorilla trekking), since a single Medivac costs far more than the cover itself. The AMREF Flying Doctors annual membership (Kenya/Tanzania-based) is a useful additional layer for extended East Africa travel.
 
 ---
 
@@ -198,6 +198,6 @@ For an East Africa safari trip with lodge accommodation at the level described i
 3. **Bush flights:** Once lodge dates are confirmed, the lodge will advise the optimal airstrip and operator. Book directly with Safarilink or Coastal Aviation.
 4. **Nairobi hotel:** 1–2 nights pre-safari. Karen and Langata are better than airport hotel districts.
 5. **eSIM:** [Airalo](https://www.airalo.com) East Africa regional plan before departure.
-6. **Travel insurance:** [SafetyWing](https://safetywing.com) as baseline; verify evacuation limits.
+6. **Travel insurance:** [EKTA](https://ektatraveling.com/) as baseline; verify evacuation limits.
 
 The logistics look complex written out; experienced by good operators, they become the journey itself — part of the deepening of perspective that is what East Africa ultimately delivers.

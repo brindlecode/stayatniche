@@ -124,7 +124,7 @@ The night train itinerary is explicitly a carless travel model in most cases —
 
 The exception: if your route includes rural destinations not on the main rail network. The Scottish Highlands, the Loire Valley, Tuscany, the Norwegian fjords — all are significantly better explored by car. In these cases, flying or training to the nearest hub city, then picking up a rental, is the practical solution.
 
-For European car rental, compare on [AutoEurope](https://www.autoeurope.com/?location=Europe), [QEEQ](https://www.qeeq.com/search?q=Europe), and [Localrent](https://localrent.com/en/) for local agency options. For EV travel — increasingly practical in Scandinavia and Germany — these platforms now include EV-specific search filters.
+For European car rental, compare on [AutoEurope](https://www.autoeurope.eu/), [QEEQ](https://www.qeeq.com/search?q=Europe), and [Localrent](https://localrent.com/en/) for local agency options. For EV travel — increasingly practical in Scandinavia and Germany — these platforms now include EV-specific search filters.
 
 ---
 
@@ -132,9 +132,9 @@ For European car rental, compare on [AutoEurope](https://www.autoeurope.com/?loc
 
 The night train model is transit-efficient because the transit is the night. Days are entirely free for the destination. The cities worth pairing with sleeper arrivals have excellent local experiences:
 
-- **Vienna:** Book wine tours, opera tickets (Staatsoper standing room is €4 and worth every cent), and the Kunsthistorisches Museum skip-the-line on [Viator](https://www.viator.com/Vienna/d479-ttd) or [Klook](https://www.klook.com/en-US/search-results/?query=Vienna).
+- **Vienna:** Book wine tours, opera tickets (Staatsoper standing room is €4 and worth every cent), and the Kunsthistorisches Museum skip-the-line on [Klook](https://www.klook.com/en-US/search-results/?query=Vienna).
 - **Paris:** Seine river cruises, Eiffel Tower skip-the-line, Père Lachaise guided walks, and cooking classes all bookable on [Klook](https://www.klook.com/en-US/search-results/?query=Paris).
-- **Scottish Highlands (from Inverness or Fort William):** Loch Ness boat tours, Glencoe guided hikes, and whisky distillery visits on [Viator](https://www.viator.com/Inverness/d5458-ttd).
+- **Scottish Highlands (from Inverness or Fort William):** Loch Ness boat tours, Glencoe guided hikes, and whisky distillery visits on [Klook](https://www.klook.com/en-US/search-results/?query=Inverness).
 
 ---
 

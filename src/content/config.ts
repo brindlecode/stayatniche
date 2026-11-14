@@ -24,7 +24,7 @@ const hotels = defineCollection({
 
     priceRange: z.string(),
     pricePerNight: z.number().optional(),
-    priceIndicator: z.number().min(1).max(5),
+    priceIndicator: z.number().min(1).max(5).optional(),
 
     highlights: z.array(z.string()).default([]),
     amenities: z.array(z.string()).default([]),
@@ -74,6 +74,11 @@ const hotels = defineCollection({
     status: z.enum(['published', 'draft', 'archived']).default('published'),
     publishedDate: z.date().optional(),
     updatedDate: z.date().optional(),
+
+    // Provenance for pipeline-added stays
+    sourceId: z.string().optional(),
+    officialWebsite: z.string().optional(),
+    verifiedAt: z.date().optional(),
 
     seo: seoSchema,
   }),
@@ -193,6 +198,27 @@ const experiences = defineCollection({
   }),
 });
 
+// ── Translations ──────────────────────────────────────────────
+// src/content/translations/<lang>/<collection>/<slug>.md — translatable fields only
+// (see docs/i18n/TRANSLATING.md); merged over the English entry at build time.
+const translations = defineCollection({
+  type: 'content',
+  schema: z.object({ source: z.string() }).passthrough(),
+});
+
+// ── Static pages (about, disclosure, privacy) ─────────────────
+// src/content/pages/<lang>/<name>.md — one full file per language.
+const pages = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title: z.string(),
+    metaTitle: z.string(),
+    metaDescription: z.string(),
+    lead: z.string().optional(),
+    updated: z.date().optional(),
+  }),
+});
+
 // ── Settings ──────────────────────────────────────────────────
 const settings = defineCollection({
   type: 'data',
@@ -206,4 +232,6 @@ export const collections = {
   destinations,
   experiences,
   settings,
+  translations,
+  pages,
 };

@@ -50,18 +50,16 @@ The Negev Desert — which covers 60% of the country's land area — is the aspe
 
 ## Getting Around
 
-**Car Rental:** Essential for the Negev and Galilee. Israeli roads are excellent and well-signposted in Hebrew and English. Compare rental rates on [Localrent](https://localrent.com/en/?location=Israel), [QEEQ](https://www.qeeq.com/search?q=Israel), or [AutoEurope](https://www.autoeurope.com/?location=Israel). Note: avoid the cheapest local companies; quality varies significantly.
+**Car Rental:** Essential for the Negev and Galilee. Israeli roads are excellent and well-signposted in Hebrew and English. Compare rental rates on [Localrent](https://localrent.com/en/?location=Israel), [QEEQ](https://www.qeeq.com/search?q=Israel), or [AutoEurope](https://www.autoeurope.eu/). Note: avoid the cheapest local companies; quality varies significantly.
 
 **Rail and Bus:** The train network connects Tel Aviv, Jerusalem, Haifa, Be'er Sheva, and Nahariya. Egged and Dan bus companies cover routes not served by rail. Jerusalem's light rail is useful within the city. Note: no public transport during Shabbat.
 
 ## Tours & Experiences
 
-Book Jerusalem Old City tours, Dead Sea day trips, Makhtesh Ramon guided hikes, and Masada sunrise experiences through [Klook](https://www.klook.com/en-US/search-results/?query=Israel) and [Viator](https://www.viator.com/Israel/d724-ttd). Negev desert jeep tours and Bedouin camp experiences are well-covered by regional operators. Wine region tours in the Golan and Galilee are bookable through [WeGoTrip](https://wegotrip.com/destinations/israel/).
+Book Jerusalem Old City tours, Dead Sea day trips, Makhtesh Ramon guided hikes, and Masada sunrise experiences through [Klook](https://www.klook.com/en-US/search-results/?query=Israel). Negev desert jeep tours and Bedouin camp experiences are well-covered by regional operators. Wine region tours in the Golan and Galilee are bookable through [WeGoTrip](https://wegotrip.com/destinations/israel/).
 
 ## Travel Essentials
 
 **eSIM:** Israel has excellent 4G/5G coverage including in the Negev highway corridors, though signal drops in remote desert. Get an Israel eSIM from [Airalo](https://www.airalo.com) — Cellcom and Partner have the best rural coverage.
 
-**Travel Insurance:** Standard travel insurance covers Israel; some policies exclude conflict-adjacent areas. Check your policy specifically. [SafetyWing](https://safetywing.com) covers adventure activities including desert hiking and diving.
-
-**VPN:** [NordVPN](https://nordvpn.com) or [ExpressVPN](https://expressvpn.com) are useful for accessing content from home and maintaining privacy on hotel networks.
+**Travel Insurance:** Standard travel insurance covers Israel; some policies exclude conflict-adjacent areas. Check your policy specifically. [EKTA](https://ektatraveling.com/) offers travel insurance; check that the policy covers adventure activities including desert hiking and diving.

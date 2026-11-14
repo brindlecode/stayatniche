@@ -55,12 +55,10 @@ This mobility changes what is possible. Kyoto, Nara, Osaka, Kobe, and Hiroshima 
 
 ## Tours & Experiences
 
-Book guided day trips, cultural experiences, and Fuji excursions through [Klook](https://www.klook.com/en-US/search-results/?query=Japan) and [Viator](https://www.viator.com/Japan/d331-ttd). Specialist ryokan tea ceremony experiences and sake brewery tours are particularly well represented. Traditional cooking classes, sumo morning practice tours, and Noh theatre tickets are available through [WeGoTrip](https://wegotrip.com/destinations/japan/).
+Book guided day trips, cultural experiences, and Fuji excursions through [Klook](https://www.klook.com/en-US/search-results/?query=Japan). Specialist ryokan tea ceremony experiences and sake brewery tours are particularly well represented. Traditional cooking classes, sumo morning practice tours, and Noh theatre tickets are available through [WeGoTrip](https://wegotrip.com/destinations/japan/).
 
 ## Travel Essentials
 
-**eSIM:** Japan's mobile network coverage is excellent. Purchase a Japan eSIM before departure from [Airalo](https://www.airalo.com) (affordable data plans from ¥1,500) or [Holafly](https://www.holafly.com) (unlimited data). Physical pocket WiFi rentals are available at airports but eSIM is simpler.
+**eSIM:** Japan's mobile network coverage is excellent. Purchase a Japan eSIM before departure from [Airalo](https://www.airalo.com) (affordable data plans from ¥1,500). Physical pocket WiFi rentals are available at airports but eSIM is simpler.
 
-**Travel Insurance:** Essential for Japan given the high cost of medical care. [SafetyWing](https://safetywing.com) offers flexible short-term coverage; compare specialist travel policies at standard comparison sites.
-
-**VPN:** Useful for accessing streaming services from home. [NordVPN](https://nordvpn.com) and [ExpressVPN](https://expressvpn.com) both have reliable Japan server coverage.
+**Travel Insurance:** Essential for Japan given the high cost of medical care. Check that the policy covers medical care and your planned activities; [EKTA](https://ektatraveling.com/) is one option, and you can compare specialist travel policies at standard comparison sites.

@@ -1,0 +1,154 @@
+[
+ {
+  "id": "osm:node/14356644797",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.5,
+  "red_flags": [
+   "chain_generic"
+  ],
+  "other_niche_type": null,
+  "official_name": "Made Inn Faro",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Towels and toiletries included",
+    "quote": "Toalhas e produtos de higiene incluídos"
+   },
+   {
+    "text": "Free street parking nearby",
+    "quote": "Estacionamento gratuito nas ruas envolventes"
+   },
+   {
+    "text": "Airport transfers on request",
+    "quote": "Transferes de e para o aeroporto (contacte-nos)"
+   },
+   {
+    "text": "Buffet breakfast",
+    "quote": "E não saia sem antes se deliciar com o nosso pequeno-almoço buffet, variado e com elevada qualidade!"
+   },
+   {
+    "text": "Accessible for reduced mobility guests",
+    "quote": "Acesso a pessoas com mobilidade reduzida"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Best location and guaranteed price",
+    "quote": "Melhor localização e preço garantido"
+   },
+   {
+    "text": "2 minutes walk from the railway station",
+    "quote": "A 2 minutos da estação ferroviária (comboios)"
+   },
+   {
+    "text": "Completely renovated in summer 2023",
+    "quote": "Completamente renovado no verão de 2023"
+   }
+  ],
+  "season": null,
+  "check_in": {
+   "text": "Check-in 15:00 to 23:30, check-out by 12:00",
+   "quote": "Check-in das 15h00 às 23h30; Check-out até às 12h00"
+  },
+  "check_out": null,
+  "access": {
+   "text": "10 minutes from Faro airport",
+   "quote": "A 10 minutos do aeroporto de Faro (FAO)"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Standard urban hotel in Faro with no unusual sleeping feature; the queueCategory lighthouse-hotels is unsupported, as the lighthouse islands are only mentioned as day-trip destinations, and the operator is a chain group.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/1673961554",
+  "is_lodging": null,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.1,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Mara Bush Camp",
+  "property_type": "camp",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The only page (redirected to a soroi.com URL) returned empty title and text, so there is no evidence of a safari lodge, game drives or any lodging; only the OSM tag camp_site and the queueCategory guess exist.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/230998366",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Casa Rural Castillo de Diempures",
+  "property_type": "guesthouse",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Jacuzzi for two in the suite",
+    "quote": "Anexo a la cama se encuentra un jacuzzi para 2 personas"
+   },
+   {
+    "text": "Hydromassage shower",
+    "quote": "La habitación cuenta con una ducha de hidromasaje"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Views of Cantalojas square from the first-floor landing",
+    "quote": "Desde el recibidor de la primera planta podemos contemplar las vistas de la plaza de Cantalojas"
+   },
+   {
+    "text": "House name refers to the remains of the legendary Diempures castle",
+    "quote": "El nombre de la casa hace alusión a los restos que quedan del legendario Castillo de Diempures"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Located in Cantalojas municipality, Guadalajara",
+   "quote": "ubicado en el término municipal de Cantalojas (Guadalajara)"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Rural guesthouse in a village house on the square; the castle appears only in the house name, which refers to castle ruins, and the pages do not say the rooms are inside a castle, so it is a name-only false positive.",
+  "verdict": "rejected",
+  "dropped": []
+ }
+]

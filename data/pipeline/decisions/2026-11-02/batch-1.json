@@ -1,0 +1,159 @@
+[
+  {
+    "id": "osm:node/14301182901",
+    "is_lodging": true,
+    "operating_status": "open",
+    "category": "jungle-lodges",
+    "also_fits": [],
+    "niche_scope": "whole_property",
+    "niche_unit_count": 6,
+    "niche_feature": "Six cabins in a conservation cloud-forest reserve with guided ecotourism and birdwatching",
+    "category_quote": "Vive el bosque de neblina en Ulcumano Ecolodge, Oxapampa",
+    "confidence": 0.7,
+    "red_flags": [],
+    "other_niche_type": null,
+    "official_name": "Ulcumano Ecolodge",
+    "property_type": "lodge",
+    "address": "Sector La Suiza, Chontabamba, Perú",
+    "room_count": {
+      "value": 6,
+      "quote": "Contamos con 06 cabañas en total para albergar a 24 personas diarias"
+    },
+    "amenities": [
+      {
+        "text": "Private bathrooms and 24-hour hot water",
+        "quote": "Todas con baños propios, agua caliente en las duchas las 24 horas del día"
+      },
+      {
+        "text": "Meals included with cabins",
+        "quote": "Cabañas con alimentación, actividades guiadas, observación de aves y full day"
+      },
+      {
+        "text": "Solar power for lighting and charging",
+        "quote": "energía proveída por paneles solares para iluminación y cargar baterías y celulares"
+      }
+    ],
+    "highlights": [
+      {
+        "text": "102 hectares of conservation forest with trails",
+        "quote": "Cuenta con 102 hectáreas de bosque en conservación donde tiene varios senderos para caminata"
+      },
+      {
+        "text": "Guided birdwatching, botany and adventure activities",
+        "quote": "varios senderos para caminata, observación de aves, observación botánica y de aventura"
+      }
+    ],
+    "season": null,
+    "check_in": null,
+    "check_out": null,
+    "access": null,
+    "audience": "unknown",
+    "best_for": [],
+    "reason": "Cabins in a conservation cloud-forest reserve (bosque de neblina) with guided ecotourism, which matches jungle-lodges; the queue guess is supported."
+  },
+  {
+    "id": "osm:way/36625413",
+    "is_lodging": true,
+    "operating_status": "open",
+    "category": null,
+    "also_fits": [],
+    "niche_scope": "name_only",
+    "niche_unit_count": null,
+    "niche_feature": null,
+    "category_quote": null,
+    "confidence": 0.3,
+    "red_flags": ["theme_only"],
+    "other_niche_type": null,
+    "official_name": "Bed and Breakfast Verde Selva",
+    "property_type": "B&B",
+    "address": "Via Umberto Saba 55, 33081 Giais di Aviano (PN), Italy",
+    "room_count": null,
+    "amenities": [
+      {
+        "text": "Breakfast with organic and local products",
+        "quote": "organic and/or locally produced food: home made jams and cakes, fruit, apple juice, cereal, cheese, yogurt."
+      },
+      {
+        "text": "Parking and final cleaning included in price",
+        "quote": "price includes final cleaning, parking, change of towels."
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Mountain hikes right behind the house",
+        "quote": "go for more demanding hikes in the local mountains right behind our house"
+      }
+    ],
+    "season": null,
+    "check_in": null,
+    "check_out": null,
+    "access": null,
+    "audience": "unknown",
+    "best_for": [],
+    "reason": "Ordinary guesthouse apartment in the Friuli Pre-Alps with no rainforest, cave, tree or other niche evidence; only the name Verde Selva hints at a jungle, so it is not classified."
+  },
+  {
+    "id": "wd:Q141948689",
+    "is_lodging": true,
+    "operating_status": "open",
+    "category": "safari-lodges",
+    "also_fits": ["jungle-lodges"],
+    "niche_scope": "whole_property",
+    "niche_unit_count": null,
+    "niche_feature": "Family-run hotel at the Chitwan park gateway that books jeep safaris and canoe trips",
+    "category_quote": "Jeep Safari takes you into prime wildlife zones.",
+    "confidence": 0.5,
+    "red_flags": [],
+    "other_niche_type": null,
+    "official_name": "Rhino Lodge & Hotel",
+    "property_type": "hotel",
+    "address": "Gaida Chowk, Sauraha Road, Chitwan, Nepal",
+    "room_count": null,
+    "amenities": [
+      {
+        "text": "Swimming pool and garden",
+        "quote": "From relaxing in our garden and swimming pool to exploring the wilderness of Chitwan National Park"
+      },
+      {
+        "text": "Air-conditioned rooms",
+        "quote": "comfortable, air-conditioned rooms, a garden pool and genuine Tharu-region hospitality"
+      },
+      {
+        "text": "Meals included in safari packages",
+        "quote": "Every package includes accommodation at Rhino Lodge & Hotel, all meals (breakfast, lunch and dinner)"
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Licensed naturalist-led safaris",
+        "quote": "Every safari is led by a government-licensed guide who knows the park."
+      },
+      {
+        "text": "Jeep safari into the park core zone",
+        "quote": "Drive deep into the core zone in an open 4×4 with a naturalist and spotter"
+      },
+      {
+        "text": "Dugout canoe trip on the Rapti River",
+        "quote": "Glide silently down the river in a traditional dugout canoe past basking gharial and mugger crocodiles"
+      },
+      {
+        "text": "Elephant Breeding Centre visit",
+        "quote": "Visit the government breeding centre to see mothers and calves and learn about conservation"
+      },
+      {
+        "text": "Close to the park for rhino sightings and sunrises over the Rapti",
+        "quote": "steps from Chitwan National Park, so a rhino sighting or a sunrise over the Rapti River is never far away"
+      }
+    ],
+    "season": null,
+    "check_in": null,
+    "check_out": null,
+    "access": {
+      "text": "About 5–6 hours by road from Kathmandu (~146 km)",
+      "quote": "Kathmandu ~146 km 5–6 hours by road"
+    },
+    "audience": "unknown",
+    "best_for": [],
+    "reason": "A hotel at the Chitwan National Park gateway in Sauraha that sells jeep safaris into the park; it is a village hotel outside the reserve, so the fit to safari-lodges is moderate (jungle-lodges also possible)."
+  }
+]

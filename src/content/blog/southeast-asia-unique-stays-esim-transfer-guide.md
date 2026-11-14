@@ -141,7 +141,7 @@ Car rental for Southeast Asia's niche hotel circuit is less relevant than in Eur
 
 Where self-drive is relevant:
 - **Thailand:** For Chiang Mai and Northern Thailand, rental makes sense. Compare via [QEEQ](https://www.qeeq.com/search?q=Thailand) or [Localrent](https://localrent.com/en/?location=Thailand).
-- **Bali, Indonesia:** Scooters are the local standard; rentals from $7/day. For longer-range island exploration, a driver-car arrangement is safer and not significantly more expensive. [BikeBooking](https://www.bikebooking.com/en/search?location=Bali%2C+Indonesia) for motorbikes; [EconomyBookings](https://www.economybookings.com/?location=Bali) for cars.
+- **Bali, Indonesia:** Scooters are the local standard; rentals from $7/day. For longer-range island exploration, a driver-car arrangement is safer and not significantly more expensive. [BikeBooking](https://www.bikesbooking.com/en/search?location=Bali%2C+Indonesia) for motorbikes; [EconomyBookings](https://www.economybookings.com/?location=Bali) for cars.
 - **Cambodia:** Hire a driver rather than self-drive for anything outside Phnom Penh and Siem Reap.
 
 ---
@@ -150,7 +150,7 @@ Where self-drive is relevant:
 
 Every extraordinary hotel on this list is in a location where medical evacuation — if needed — is expensive and complicated. The Cardamom Mountains, Raja Ampat, and Koh Kood all require significant logistics to reach a proper hospital.
 
-**The minimum requirement:** A travel insurance policy that explicitly includes emergency medical evacuation, with coverage of at least $100,000. [SafetyWing](https://safetywing.com) meets this threshold in its standard Nomad Insurance plan, covers adventure activities (jungle trekking, diving, ziplines) at no additional premium, and costs a fraction of what a single Medivac flight would.
+**The minimum requirement:** A travel insurance policy that explicitly includes emergency medical evacuation, with coverage of at least $100,000. Check that the policy also covers adventure activities (jungle trekking, diving, ziplines); [EKTA](https://ektatraveling.com/) is one option to compare, and any such policy costs a fraction of what a single Medivac flight would.
 
 Verify that your policy covers:
 - Diving and water sports (relevant for Misool, Song Saa, all coastal properties)

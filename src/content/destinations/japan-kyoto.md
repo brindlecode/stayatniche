@@ -61,12 +61,10 @@ The yen's sustained weakness against the dollar and euro since 2022 has made Jap
 
 ## Tours & Experiences
 
-Book early-morning Fushimi Inari hikes, geisha district (Gion) walking tours, sake brewery visits, and Arashiyama bamboo forest experiences through [Klook](https://www.klook.com/en-US/search-results/?query=Kyoto) and [Viator](https://www.viator.com/Kyoto/d342-ttd). Tea ceremony experiences, Nishiki Market food tours, and Kodo drumming performances are consistently well-reviewed. Traditional Noh theatre and Maiko (geisha apprentice) dinner evenings book through [WeGoTrip](https://wegotrip.com/destinations/kyoto/).
+Book early-morning Fushimi Inari hikes, geisha district (Gion) walking tours, sake brewery visits, and Arashiyama bamboo forest experiences through [Klook](https://www.klook.com/en-US/search-results/?query=Kyoto). Tea ceremony experiences, Nishiki Market food tours, and Kodo drumming performances are consistently well-reviewed. Traditional Noh theatre and Maiko (geisha apprentice) dinner evenings book through [WeGoTrip](https://wegotrip.com/destinations/kyoto/).
 
 ## Travel Essentials
 
 **eSIM:** Get a Japan eSIM from [Airalo](https://www.airalo.com) before departure. IIJ and Docomo provide excellent 4G coverage throughout Japan including rural areas. Pocket WiFi rentals at airports are the alternative but eSIM is simpler.
 
-**Travel Insurance:** Standard travel insurance covers Japan well. The key coverage is trip cancellation (cherry blossom and autumn foliage season bookings are expensive to lose) and health (Japan's healthcare costs are high for uninsured visitors). [SafetyWing](https://safetywing.com) covers Japan comprehensively.
-
-**VPN:** [NordVPN](https://nordvpn.com) or [ExpressVPN](https://expressvpn.com) for accessing home streaming services during ryokan evenings.
+**Travel Insurance:** Standard travel insurance covers Japan well. The key coverage is trip cancellation (cherry blossom and autumn foliage season bookings are expensive to lose) and health (Japan's healthcare costs are high for uninsured visitors). Compare policies, including [EKTA](https://ektatraveling.com/), and check that the cover is valid in Japan.

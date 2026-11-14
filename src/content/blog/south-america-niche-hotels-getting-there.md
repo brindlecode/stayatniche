@@ -137,7 +137,7 @@ Pre-book through [Welcome Pickups](https://www.welcomepickups.com/) for main gat
 
 Self-drive is practical in Chile (excellent roads, low traffic density on the Atacama routes) and parts of Brazil and Ecuador. Less practical in Peru, Bolivia, and Colombia where road conditions and urban traffic are more challenging.
 
-For Chile: compare on [Localrent](https://localrent.com/en/?location=Chile), [QEEQ](https://www.qeeq.com/search?q=Santiago%2C+Chile), and [AutoEurope](https://www.autoeurope.com/?location=Chile). A 4WD is necessary for Torres del Paine and Atacama highland excursions; a regular car suffices for Atacama's main routes.
+For Chile: compare on [Localrent](https://localrent.com/en/?location=Chile), [QEEQ](https://www.qeeq.com/search?q=Santiago%2C+Chile), and [AutoEurope](https://www.autoeurope.eu/). A 4WD is necessary for Torres del Paine and Atacama highland excursions; a regular car suffices for Atacama's main routes.
 
 For Ecuador: [QEEQ](https://www.qeeq.com/search?q=Quito%2C+Ecuador) and [EconomyBookings](https://www.economybookings.com/?location=Quito). Note that local renters at smaller Quito agencies often offer significantly better rates than international brands.
 
@@ -145,7 +145,7 @@ For Ecuador: [QEEQ](https://www.qeeq.com/search?q=Quito%2C+Ecuador) and [Economy
 
 ## Tours & Experiences
 
-Book local Atacama excursions (El Tatio geysers, Valle de la Luna, salt flat tours), Amazon wildlife activities, and Quito city tours through [Klook](https://www.klook.com/en-US/search-results/?query=South+America) and [Viator](https://www.viator.com/South-America/d346-ttd). Machu Picchu train tickets (if combining with Peru) book through Peru Rail or Inca Rail — these sell out months ahead for peak season.
+Book local Atacama excursions (El Tatio geysers, Valle de la Luna, salt flat tours), Amazon wildlife activities, and Quito city tours through [Klook](https://www.klook.com/en-US/search-results/?query=South+America). Machu Picchu train tickets (if combining with Peru) book through Peru Rail or Inca Rail — these sell out months ahead for peak season.
 
 ---
 
@@ -153,7 +153,7 @@ Book local Atacama excursions (El Tatio geysers, Valle de la Luna, salt flat tou
 
 South America's medical infrastructure varies significantly: major cities have excellent private hospitals; remote Amazon and highland areas require evacuation. The remote lodge model — which is what this guide is about — requires evacuation coverage.
 
-[SafetyWing](https://safetywing.com) covers South America comprehensively, includes adventure activities (cloud forest trekking, Amazon wildlife walks, Atacama volcano hiking) at no extra premium, and provides emergency evacuation coverage. The altitude-specific health risk (Atacama, Quito, Andean passes) is covered under standard plans.
+Check that your travel insurance (for example [EKTA](https://ektatraveling.com/)) covers South America, including adventure activities (cloud forest trekking, Amazon wildlife walks, Atacama volcano hiking) and emergency evacuation. Also check that the policy covers the altitude-specific health risk (Atacama, Quito, Andean passes).
 
 Yellow fever vaccination is required for some regions — check specific requirements for your itinerary, particularly for Amazon travel in Brazil, Peru, and Ecuador.
 

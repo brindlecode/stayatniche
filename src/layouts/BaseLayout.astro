@@ -1,7 +1,9 @@
 ---
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import BottomNav from '../components/BottomNav.astro';
 import { getEntry } from 'astro:content';
+import { getLocale, i18n, LOCALE_META } from '../i18n';
 
 interface Props {
   title: string;
@@ -9,12 +11,16 @@ interface Props {
   image?: string;
   heroImage?: string;
   noIndex?: boolean;
+  /** Hide the mobile bottom tab bar (pages with their own sticky CTA). */
+  hideBottomNav?: boolean;
   type?: 'website' | 'article';
   /** ISO date — used for article structured data / og:updated_time. */
   publishedTime?: string;
   updatedTime?: string;
   /** Extra JSON-LD blocks to inject. */
   jsonLd?: Record<string, unknown> | Record<string, unknown>[];
+  /** Same page in other languages (hreflang). Include this page's own locale. */
+  alternates?: { locale: string; href: string }[];
 }
 
 const {
@@ -23,11 +29,15 @@ const {
   image,
   heroImage,
   noIndex = false,
+  hideBottomNav = false,
   type = 'website',
   publishedTime,
   updatedTime,
   jsonLd,
+  alternates = [],
 } = Astro.props;
+const L = i18n(getLocale(Astro.url));
+const meta = LOCALE_META[L.locale];
 
 // Load settings from CMS
 const seoSettings        = await getEntry('settings', 'seo').catch(() => null);
@@ -39,13 +49,13 @@ const gen        = genSettings?.data        ?? {};
 const analytics  = analyticsSettings?.data  ?? {};
 
 const siteName  = gen.siteName    || 'StayAtNiche';
-const lang      = gen.language    || 'en';
+const lang      = L.locale;
 const canonical = seo.canonicalUrl || 'https://stayatniche.com';
 
-const metaDesc = description || seo.defaultDescription ||
-  "Find the world's most unusual hotels — treehouses, caves, underwater rooms, castles, ice palaces, and more. Curated stays that make the trip.";
+const metaDesc = description || (L.locale === 'en' ? seo.defaultDescription : '') || L.t.meta.defaultDescription;
 
-const ogImage = image || seo.defaultOgImage || 'https://stayatniche.com/og-default.png';
+const ogRaw = image || seo.defaultOgImage || '/og-default.png';
+const ogImage = ogRaw.startsWith('/') ? `https://stayatniche.com${ogRaw}` : ogRaw;
 
 const fullTitle = title.includes(siteName) ? title : `${title} | ${siteName}`;
 const canonicalUrl = new URL(Astro.url.pathname, Astro.site || canonical);
@@ -75,6 +85,17 @@ const extraLd = Array.isArray(jsonLd) ? jsonLd : jsonLd ? [jsonLd] : [];
     <meta name="generator" content={Astro.generator} />
     <meta name="format-detection" content="telephone=no" />
 
+    <!-- Travelpayouts Drive (converts partner links to tracked affiliate links). Verbatim from the dashboard. -->
+    <script is:inline nowprocket data-noptimize="1" data-cfasync="false" data-wpfc-render="false" seraph-accel-crit="1" data-no-defer="1" data-cmp-ab="2">
+      (function () {
+          var script = document.createElement("script");
+          script.async = 1;
+          script.setAttribute("data-cmp-ab","2");
+          script.src = 'https://emrldco.com/NDc4MzA3.js?t=478307';
+          document.head.appendChild(script);
+      })();
+    </script>
+
     <title>{fullTitle}</title>
     <meta name="description" content={metaDesc} />
     <link rel="canonical" href={canonicalUrl} />
@@ -95,7 +116,10 @@ const extraLd = Array.isArray(jsonLd) ? jsonLd : jsonLd ? [jsonLd] : [];
     <meta property="og:image:height" content="630" />
     <meta property="og:image:alt"    content={title} />
     <meta property="og:site_name"   content={siteName} />
-    <meta property="og:locale"      content="en_US" />
+    <meta property="og:locale"      content={meta.og} />
+    {alternates.filter(a => a.locale !== L.locale).map(a => <meta property="og:locale:alternate" content={LOCALE_META[a.locale as keyof typeof LOCALE_META].og} />)}
+    {alternates.length > 1 && alternates.map(a => <link rel="alternate" hreflang={LOCALE_META[a.locale as keyof typeof LOCALE_META].hreflang} href={new URL(a.href, canonical).href} />)}
+    {alternates.length > 1 && alternates.some(a => a.locale === 'en') && <link rel="alternate" hreflang="x-default" href={new URL(alternates.find(a => a.locale === 'en')!.href, canonical).href} />}
     {publishedTime && <meta property="article:published_time" content={publishedTime} />}
     {updatedTime   && <meta property="article:modified_time"  content={updatedTime} />}
 
@@ -116,9 +140,9 @@ const extraLd = Array.isArray(jsonLd) ? jsonLd : jsonLd ? [jsonLd] : [];
       "url": canonical,
       "logo": {
         "@type": "ImageObject",
-        "url": `${canonical}/logo.svg`,
-        "width": 200,
-        "height": 60
+        "url": `${canonical}/logo.png`,
+        "width": 512,
+        "height": 512
       },
       "sameAs": sameAs
     })} />
@@ -128,14 +152,14 @@ const extraLd = Array.isArray(jsonLd) ? jsonLd : jsonLd ? [jsonLd] : [];
       "@context": "https://schema.org",
       "@type": "WebSite",
       "name": siteName,
-      "url": canonical,
+      "url": new URL(L.path('home'), canonical).href,
       "description": metaDesc,
-      "inLanguage": "en-US",
+      "inLanguage": meta.intl,
       "potentialAction": {
         "@type": "SearchAction",
         "target": {
           "@type": "EntryPoint",
-          "urlTemplate": `${canonical}/search/?q={search_term_string}`
+          "urlTemplate": `${new URL(L.path('search'), canonical).href}?q={search_term_string}`
         },
         "query-input": "required name=search_term_string"
       }
@@ -184,36 +208,49 @@ const extraLd = Array.isArray(jsonLd) ? jsonLd : jsonLd ? [jsonLd] : [];
     <!-- Fonts — non-blocking async load -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link rel="preconnect" href="https://images.unsplash.com" />
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Geist:wght@400;500;600;700&display=swap" />
     <link
-      href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600&family=DM+Sans:wght@300;400;500;600&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Geist:wght@400;500;600;700&display=swap"
       rel="stylesheet"
       media="print"
       onload="this.media='all'"
     />
     <noscript>
       <link
-        href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600&family=DM+Sans:wght@300;400;500;600&display=swap"
+        href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Geist:wght@400;500;600;700&display=swap"
         rel="stylesheet"
       />
     </noscript>
 
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <link rel="manifest" href="/manifest.webmanifest" />
-    <meta name="theme-color" content="#1F7D4A" />
+    <meta name="theme-color" content="#FAF9F6" />
     <link rel="sitemap" href="/sitemap.xml" />
-    <link rel="search" type="text/html" href="/search/" title={`${siteName} search`} />
+    <link rel="search" type="text/html" href={L.path('search')} title={`${siteName} search`} />
     <link rel="alternate" type="application/rss+xml" title={`${siteName} — Blog`} href="/rss.xml" />
 
-    <style>
+    <style is:global>
       html { scroll-padding-top: 96px; }
       .scrollbar-hide::-webkit-scrollbar { display: none; }
       .scrollbar-hide { -ms-overflow-style: none; scrollbar-width: none; }
-      .dot-pattern {
-        background-image: radial-gradient(circle, #C9852A18 1px, transparent 1px);
-        background-size: 30px 30px;
-      }
+      /* Legacy decorative texture, retired in the editorial redesign */
+      .dot-pattern { display: none; }
+      /* Instrument Serif ships one weight: never fake-bold it */
+      .font-display { font-weight: 400 !important; letter-spacing: -0.012em; }
+      h1.font-display, h2.font-display { letter-spacing: -0.02em; }
+      ::selection { background: #FAE2D5; color: #0F0E0C; }
+      :focus-visible { outline: 2px solid #1F5C48; outline-offset: 2px; }
+      .eyebrow { font: 600 11px/1.2 Geist, system-ui, sans-serif; letter-spacing: .16em; text-transform: uppercase; }
+      .hairline { border-color: #E5E2DA; }
+      .save-btn.is-saved { color: #C9602E; background: #fff; }
+      .save-btn.is-saved svg { fill: currentColor; }
+      .reveal { opacity: 0; transform: translateY(14px); transition: opacity .6s ease, transform .6s ease; }
+      .reveal.in { opacity: 1; transform: none; }
+      .snap-row { scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch; }
+      .snap-row > * { scroll-snap-align: start; }
+      @media (prefers-reduced-motion: reduce) { .reveal { opacity: 1; transform: none; transition: none; } }
       /* Reduce motion for users who prefer it */
       @media (prefers-reduced-motion: reduce) {
         *, *::before, *::after {
@@ -225,7 +262,7 @@ const extraLd = Array.isArray(jsonLd) ? jsonLd : jsonLd ? [jsonLd] : [];
       }
     </style>
   </head>
-  <body class="bg-warm-50 text-warm-900 font-body antialiased">
+  <body class:list={["bg-warm-50 text-warm-900 font-body antialiased", !hideBottomNav && "pb-16 md:pb-0"]}>
 
     <!-- Google Tag Manager (noscript) -->
     {gtmId && (
@@ -240,23 +277,58 @@ const extraLd = Array.isArray(jsonLd) ? jsonLd : jsonLd ? [jsonLd] : [];
     )}
 
     <a href="#main" class="sr-only focus:not-sr-only focus:fixed focus:top-2 focus:left-2 focus:z-[100] focus:bg-warm-950 focus:text-white focus:px-4 focus:py-2 focus:rounded-lg">
-      Skip to content
+      {L.t.common.skip}
     </a>
 
-    <Header />
+    <Header alternates={alternates} />
     <main id="main" class="pt-16">
       <slot />
     </main>
     <Footer />
+    {!hideBottomNav && <BottomNav />}
     <script is:inline>
       // Never show a broken-image icon: swap any failed <img> for a themed placeholder.
       document.addEventListener('error', function (e) {
         var t = e.target;
         if (t && t.tagName === 'IMG' && !t.dataset.fb) {
-          t.dataset.fb = '1'; t.removeAttribute('srcset'); t.src = '/images/placeholder.svg';
+          t.dataset.fb = '1'; t.removeAttribute('srcset'); t.src = t.dataset.fbSrc || '/images/placeholder.svg';
         }
       }, true);
-      document.querySelectorAll('img').forEach(function (i) { if (i.complete && i.naturalWidth === 0 && !i.dataset.fb) { i.dataset.fb = '1'; i.removeAttribute('srcset'); i.src = '/images/placeholder.svg'; } });
+      document.querySelectorAll('img').forEach(function (i) { if (i.complete && i.naturalWidth === 0 && !i.dataset.fb) { i.dataset.fb = '1'; i.removeAttribute('srcset'); i.src = i.dataset.fbSrc || '/images/placeholder.svg'; } });
+    </script>
+
+    <script is:inline>
+      // Saved stays (localStorage) + scroll reveal
+      (function () {
+        var KEY = 'sn_saved';
+        function read() { try { return JSON.parse(localStorage.getItem(KEY) || '[]'); } catch (e) { return []; } }
+        function write(a) { try { localStorage.setItem(KEY, JSON.stringify(a)); } catch (e) {} }
+        function paint() {
+          var saved = read();
+          document.querySelectorAll('[data-save]').forEach(function (b) {
+            var on = saved.indexOf(b.getAttribute('data-save')) > -1;
+            b.setAttribute('aria-pressed', on ? 'true' : 'false');
+            b.classList.toggle('is-saved', on);
+          });
+          document.querySelectorAll('[data-saved-count]').forEach(function (n) {
+            n.textContent = saved.length; n.classList.toggle('hidden', !saved.length);
+          });
+        }
+        document.addEventListener('click', function (e) {
+          var b = e.target.closest && e.target.closest('[data-save]');
+          if (!b) return;
+          e.preventDefault(); e.stopPropagation();
+          var slug = b.getAttribute('data-save'), saved = read(), i = saved.indexOf(slug);
+          if (i > -1) saved.splice(i, 1); else saved.push(slug);
+          write(saved); paint();
+          document.dispatchEvent(new CustomEvent('sn:saved-changed'));
+        });
+        paint();
+        if ('IntersectionObserver' in window) {
+          var io = new IntersectionObserver(function (es) { es.forEach(function (x) { if (x.isIntersecting) { x.target.classList.add('in'); io.unobserve(x.target); } }); }, { rootMargin: '0px 0px -8% 0px' });
+          document.querySelectorAll('.reveal').forEach(function (el) { io.observe(el); });
+        } else { document.querySelectorAll('.reveal').forEach(function (el) { el.classList.add('in'); }); }
+      })();
     </script>
   </body>
 </html>

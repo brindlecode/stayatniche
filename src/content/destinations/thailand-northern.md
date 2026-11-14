@@ -62,18 +62,16 @@ Chiang Mai is one hour by budget airline from Bangkok, or 12 hours by overnight 
 
 ## Getting Around
 
-**Scooter:** The most efficient way to explore the Chiang Mai region independently. Rentals from $7/day; international licence preferred. For the hill country and Golden Triangle, hire a car or driver. Compare car rates on [Localrent](https://localrent.com/en/?location=Thailand), [QEEQ](https://www.qeeq.com/search?q=Chiang+Mai%2C+Thailand), or [EconomyBookings](https://www.economybookings.com/?location=Chiang+Mai). Motorbike rental via [BikeBooking](https://www.bikebooking.com/en/search?location=Chiang+Mai%2C+Thailand).
+**Scooter:** The most efficient way to explore the Chiang Mai region independently. Rentals from $7/day; international licence preferred. For the hill country and Golden Triangle, hire a car or driver. Compare car rates on [Localrent](https://localrent.com/en/?location=Thailand), [QEEQ](https://www.qeeq.com/search?q=Chiang+Mai%2C+Thailand), or [EconomyBookings](https://www.economybookings.com/?location=Chiang+Mai). Motorbike rental via [BikeBooking](https://www.bikesbooking.com/en/search?location=Chiang+Mai%2C+Thailand).
 
 **Night Train:** The Bangkok–Chiang Mai overnight sleeper (Train 9/10) is a classic journey. Book through the State Railway of Thailand website; sleeping berths sell out quickly. The 13-hour trip through central Thailand's flatlands and into the northern mountains is worth one direction for the experience.
 
 ## Tours & Experiences
 
-Book Doi Inthanon national park hikes, hill tribe village treks, elephant sanctuary visits, and Chiang Mai cooking classes through [Klook](https://www.klook.com/en-US/search-results/?query=Chiang+Mai+Northern+Thailand) and [Viator](https://www.viator.com/Chiang-Mai/d348-ttd). The Yi Peng lantern festival (November) and Songkran water festival (April) are transformative cultural events to plan around. Golden Triangle tours and Mekong boat trips book through [WeGoTrip](https://wegotrip.com/destinations/thailand/).
+Book Doi Inthanon national park hikes, hill tribe village treks, elephant sanctuary visits, and Chiang Mai cooking classes through [Klook](https://www.klook.com/en-US/search-results/?query=Chiang+Mai+Northern+Thailand). The Yi Peng lantern festival (November) and Songkran water festival (April) are transformative cultural events to plan around. Golden Triangle tours and Mekong boat trips book through [WeGoTrip](https://wegotrip.com/destinations/thailand/).
 
 ## Travel Essentials
 
 **eSIM:** Get a Thailand eSIM from [Airalo](https://www.airalo.com) before departure. DTAC and AIS have the best coverage in northern highland areas and hill tribe regions. Excellent value 15-day data packages available.
 
-**Travel Insurance:** Cover elephant encounters and adventure trekking. Dengue fever risk in rural areas; check your policy covers vector-borne illness. [SafetyWing](https://safetywing.com) provides comprehensive adventure coverage for Thailand.
-
-**VPN:** [NordVPN](https://nordvpn.com) or [ExpressVPN](https://expressvpn.com) for accessing streaming services and bypassing occasional Thai internet restrictions.
+**Travel Insurance:** Cover elephant encounters and adventure trekking. Dengue fever risk in rural areas; check your policy covers vector-borne illness. Also check that it covers adventure activities in Thailand; [EKTA](https://ektatraveling.com/) is one option to compare.

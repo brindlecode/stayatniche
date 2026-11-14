@@ -71,7 +71,7 @@ Hakone is the most accessible ryokan destination from Tokyo, 90 minutes by the O
 
 **Rail route:** Shinjuku → Hakone-Yumoto (Odakyu Romancecar, 85 minutes direct). From Hakone-Yumoto, the Hakone Tozan Railway switchbacks up to Gora (30 minutes); from Gora, a ropeway crosses the volcanic Owakudani valley.
 
-**Accommodation:** [Gōra Kadan](https://www.booking.com/hotel/jp/gora-kadan.html) at the top of the Gora cable car is the most prestigious Hakone ryokan. Mid-range options along Hakone-Yumoto's river valley offer genuine tatami rooms and private onsen at accessible prices.
+**Accommodation:** Gōra Kadan ([Expedia](https://www.expedia.com/Hotel-Search?destination=Hakone)) at the top of the Gora cable car is the most prestigious Hakone ryokan. Mid-range options along Hakone-Yumoto's river valley offer genuine tatami rooms and private onsen at accessible prices.
 
 Book Hakone tours and Fuji-viewing experiences on [Klook](https://www.klook.com/en-US/search-results/?query=Hakone+Mount+Fuji) — the Open Air Museum entry and Hakone cruise tickets are available as combos.
 
@@ -96,7 +96,7 @@ Kyoto deserves its own extended guide, but the practical rail information: the c
 - **Arashiyama:** 20 minutes by Sagano Scenic Railway or Hankyu Line. Smaller, more accessible ryokan in a forested river valley setting.
 - **Nishiki/Kawaramachi area:** Budget and mid-range ryokan within walking distance of the Nishiki Market.
 
-Book Kyoto experiences — tea ceremony, Noh theatre, sake tasting — on [Klook](https://www.klook.com/en-US/search-results/?query=Kyoto) and [Viator](https://www.viator.com/Kyoto/d342-ttd). The free Fushimi Inari Shrine is worth the early morning (5–6am) before tour groups arrive.
+Book Kyoto experiences — tea ceremony, Noh theatre, sake tasting — on [Klook](https://www.klook.com/en-US/search-results/?query=Kyoto). The free Fushimi Inari Shrine is worth the early morning (5–6am) before tour groups arrive.
 
 ---
 
@@ -138,7 +138,7 @@ Japan's 4G and 5G networks are excellent throughout the country including rural 
 
 Japan is a safe country with exceptional healthcare — but that healthcare is expensive for uninsured foreign visitors. Hospital admission in Tokyo can cost $500–2,000 per day; an emergency requiring extended care could reach $10,000–20,000.
 
-[SafetyWing](https://safetywing.com) covers Japan's medical costs and includes adventure activities (skiing in Niseko, hiking in the Japanese Alps) at no additional premium. For ryokan stays specifically: most high-end properties require 6–month advance booking with non-refundable deposits; a travel insurance policy that covers trip cancellation is worth checking.
+Check that your travel insurance (for example [EKTA](https://ektatraveling.com/)) covers Japan's medical costs and adventure activities (skiing in Niseko, hiking in the Japanese Alps). For ryokan stays specifically: most high-end properties require 6–month advance booking with non-refundable deposits; a travel insurance policy that covers trip cancellation is worth checking.
 
 ---
 
@@ -146,10 +146,10 @@ Japan is a safe country with exceptional healthcare — but that healthcare is e
 
 Each stop on the Japan ryokan circuit has bookable local experiences:
 
-- **Tokyo:** Tsukiji morning market tours, sake brewery visits, sumo morning practice tours — [Klook](https://www.klook.com/en-US/search-results/?query=Tokyo) and [Viator](https://www.viator.com/Tokyo/d334-ttd)
+- **Tokyo:** Tsukiji morning market tours, sake brewery visits, sumo morning practice tours — [Klook](https://www.klook.com/en-US/search-results/?query=Tokyo)
 - **Kyoto:** Tea ceremony, geisha district evening walking tours, Arashiyama bamboo grove guided walks — [Klook](https://www.klook.com/en-US/search-results/?query=Kyoto)
 - **Naoshima:** Chichu Art Museum timed entry reservations — book directly at [benesse-artsite.jp](https://benesse-artsite.jp)
 - **Hakone:** Open Air Museum, Fuji Views, and hot spring circuit — [Klook](https://www.klook.com/en-US/search-results/?query=Hakone)
-- **Niseko:** Ski pass, heli-skiing, powder snow tours — through the resort directly or [Viator](https://www.viator.com/Niseko/d51291-ttd)
+- **Niseko:** Ski pass, heli-skiing, powder snow tours — through the resort directly or [Klook](https://www.klook.com/en-US/search-results/?query=Niseko)
 
 The Japan Rail Pass makes all of this connected and logical. Purchase it before departure, collect it at the airport, and let the Shinkansen network do the rest.

@@ -2,7 +2,7 @@
 title: "Iceland Remote Hotels: Getting There Without a Tour"
 author: "StayAtNiche Team"
 category: "guide"
-excerpt: "Iceland's most extraordinary places to stay — geodesic domes on glacier lagoons, converted lighthouses on Atlantic peninsulas, aurora bubble cabins deep in the Westfjords — require planning that goes well beyond Booking.com. This is how to get to the remote ones without a tour group."
+excerpt: "Iceland's most extraordinary places to stay — geodesic domes on glacier lagoons, converted lighthouses on Atlantic peninsulas, aurora bubble cabins deep in the Westfjords — require planning that goes well beyond a standard hotel-booking site. This is how to get to the remote ones without a tour group."
 coverImage: /images/blog/iceland-remote-hotels-getting-there.jpg
 publishedDate: 2025-09-15T00:00:00.000Z
 tags:
@@ -64,7 +64,7 @@ The rental market in Iceland is competitive but quality varies significantly at 
 
 1. **Compare on [Localrent](https://localrent.com/en/?location=Iceland)** — this platform specialises in local Icelandic car rental agencies, often 20–30% cheaper than multinational brands for equivalent 4WD vehicles.
 2. **Check [QEEQ](https://www.qeeq.com/search?q=Iceland)** for comparison across multiple providers.
-3. **Book [AutoEurope](https://www.autoeurope.com/?location=Iceland)** if you prefer the security of a known multinational brand.
+3. **Book [AutoEurope](https://www.autoeurope.eu/)** if you prefer the security of a known multinational brand.
 
 **Book well in advance for summer.** The Icelandic 4WD rental market is genuinely constrained in July–August; arriving without a reservation and expecting to find a capable vehicle is optimistic.
 
@@ -122,7 +122,7 @@ For remote lodges with no signal, most properties have WiFi (often via satellite
 Iceland's F-road driving environment, glacier hiking, and the general exposure of remote accommodation requires proper travel insurance. Two things to check:
 
 1. **Off-road driving coverage:** Some standard policies and some rental car insurance waivers exclude F-road damage. Buy the Sand and Ash Protection (SAAP) or Super Collision Damage Waiver (SCDW) from your rental company for full peace of mind, or verify your credit card's rental coverage covers Icelandic conditions specifically.
-2. **Search and Rescue coverage:** Iceland's ICE-SAR (Iceann Search and Rescue) is free, but medical evacuation from remote locations costs money. [SafetyWing](https://safetywing.com) covers adventure activities including glacier hiking at no extra premium.
+2. **Search and Rescue coverage:** Iceland's ICE-SAR (Iceann Search and Rescue) is free, but medical evacuation from remote locations costs money. A policy from [EKTA](https://ektatraveling.com/) is one option; check that the policy covers medical evacuation and adventure activities including glacier hiking.
 
 ---
 
@@ -135,6 +135,6 @@ A sensible self-drive Iceland sequence that hits the remote properties:
 3. **eSIM:** Buy an [Airalo](https://www.airalo.com) Iceland eSIM and install on your phone.
 4. **Remote lodges:** Book directly. Most small Icelandic properties don't have OTA presence and fill up via direct email reservation.
 5. **Blue Lagoon:** Pre-book online — it genuinely sells out.
-6. **Travel insurance:** [SafetyWing](https://safetywing.com) as baseline; check F-road vehicle coverage separately.
+6. **Travel insurance:** [EKTA](https://ektatraveling.com/) as baseline; check F-road vehicle coverage separately.
 
 The formula for Iceland travel that most people discover on their second visit: fewer nights in Reykjavík, more nights in places that aren't Reykjavík. The capital is worth two nights. The south coast, the Snaefellsnes Peninsula, and the north are worth the rest of however long you have.

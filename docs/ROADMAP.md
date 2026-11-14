@@ -47,3 +47,26 @@ Bunları yapmadan gelir gelmez; sırayla:
 7. **Sosyal hesaplar**: `social.json`'daki Instagram/Pinterest/X/Facebook/TikTok adresleri tahmindir; hesapları açın ya da boşaltın (Organization schema'da `sameAs` olarak yayınlanıyor).
 8. **GitHub varsayılan dal**: şu an `claude/setup-stayatniche-project-xHSQk`. Repo Settings → Branches → default'u `main` yapın (önce `main` oluşturulmalı), sonra `netlify.toml`'daki production `branch` satırını güncelleyin.
 9. **Netlify**: Domain settings → `www.stayatniche.com` → apex'e yönlendirme + HTTPS sertifikası; Forms bildirimi (bülten webhook'u); env değişkenleri (`NEWSLETTER_PROVIDER`, anahtarlar).
+
+## 5. Sıfır bütçe güncellemesi (2. tur)
+
+- **Fotoğrafsız da bitmiş görünen site:** 14 kategori + 7 kıta için özgün, lisans sorunu olmayan illüstrasyon posterleri (`public/images/art/`). Dış (Unsplash) bağımlılığı kaldırıldı.
+- **ChatGPT görselleri için hazır sistem:** `docs/IMAGE-PROMPTS.md` (her sayfa için dosya adı + hazır prompt). Görseli `raw-images/<slug>.png` olarak koyup `npm run optimize-images` çalıştırın; site otomatik kullanır, içerik dosyası düzenlemek gerekmez. Yerel görsel her zaman illüstrasyonun önüne geçer.
+- **Uydurma sosyal kanıt kaldırıldı** ("2.400+ abone", "4.9 puan").
+- **Programatik SEO:** `/countries/*` (25 ülke) ve `/best/<tür>-in-<ülke>` (12 sayfa): karşılaştırma tablosu, SSS, ItemList schema, takipli affiliate CTA.
+- Gerçek öncelik sırası: (1) kategori görselleri (14), (2) öne çıkan oteller, (3) diğerleri.
+
+## 6. Tasarım yenilemesi (3. tur)
+- Yeni ana sayfa: koyu hero + entegre arama paneli (tür / yer / bütçe), kategori şeridi, kaydırmalı öne çıkan stays, bütçe kartları, kıta kartları, "nasıl seçiyoruz", rehberler, bülten, SSS.
+- `/hotels/` artık filtre + sıralama sayfası (tür, bütçe, isim/yer araması, URL ile paylaşılabilir).
+- Airbnb tarzı yeni otel kartı: kalp ile kaydetme (`/saved/`, cihazda saklanır), fiyat, puan, "Check rates" bağlantısı.
+- Mobilde alt gezinme çubuğu (Home / Explore / Search / Saved / Guides), otel sayfalarında gizli (kendi sabit rezervasyon çubuğu var).
+- İçerik dosyalarındaki eski dış (Unsplash) görsel bağlantıları artık yok sayılıyor; görseller yerel dosya > çizim poster sırasıyla seçilir.
+
+## 7. Editoryal yeniden tasarım (Opus turu)
+- Yeni kimlik: Instrument Serif + Geist, kâğıt/mürekkep nötrleri, koyu yeşil birincil, terracotta vurgu. Gradient, parlama, nokta deseni, rozet yığınları kaldırıldı.
+- Ana sayfa: tam ekran gerçek fotoğraflı kapak, arama paneli, yapışkan kategori şeridi, numaralı "koleksiyon" bölümleri, tipografik kıta indeksi.
+- Fotoğrafı olmayan oteller için tekrar eden stok görsel yerine her otele özel tipografik "etiket kartı" (yanıltıcı olmayan). `public/images/<otel-slug>.webp` eklenince otomatik fotoğrafa geçer.
+- Otel sayfası: sakin rezervasyon kartı + karşılaştırma listesi, önemli bilgiler tablosu, OpenStreetMap haritası (ücretsiz), sade "Plan the trip" (takipli linkler), mobil sabit rezervasyon çubuğu, paylaş butonu.
+- Kategori sayfaları ve kartlar artık gerçek otel sayılarını ve gerçek fiyat medyanını gösteriyor (içerik dosyasındaki uydurma "42 stays" / "$260" kaldırıldı).
+- Kategori fotoğrafları slug adlı WebP'ye çevrildi (`public/images/categories/`).
