@@ -1,6 +1,6 @@
 ---
 import HotelRoundup from '../components/HotelRoundup.astro';
-import { startPrice } from '../lib/site';
+import { cheapestKnown } from '../lib/site';
 import { i18n, type Locale } from '../i18n';
 import { countrySlug, roundupAlternates } from '../i18n/roundups';
 
@@ -10,17 +10,17 @@ const L = i18n(Astro.props.locale);
 const { t } = L;
 const B = t.best;
 const country = L.country(enCountry);
-const cheapest = [...hs].sort((a, b) => startPrice(a.data.priceRange) - startPrice(b.data.priceRange))[0];
+const cheapest = cheapestKnown(hs); // undefined when no stay here has a known price
 const top = [...hs].sort((a, b) => b.data.rating - a.data.rating)[0];
-const cheapFrom = L.range(cheapest.data.priceRange.split(/\s[-–]\s/)[0]);
-const faq = B.faq({ cat: catTitle, country, names: hs.map((h: any) => h.data.name), top: top.data.name, topWhere: top.data.destination, cheapFrom, cheapest: cheapest.data.name });
+const cheapFrom = cheapest ? L.range(cheapest.data.priceRange.split(/\s[-–]\s/)[0]) : null;
+const faq = B.faq({ cat: catTitle, country, names: hs.map((h: any) => h.data.name), top: top.data.name, topWhere: top.data.destination, cheapFrom, cheapest: cheapest?.data.name ?? null });
 const path = L.path('best', slug);
 ---
 <HotelRoundup
   title={B.title(catTitle, country)}
   metaTitle={B.metaTitle(catTitle, country, hs.length)}
   metaDescription={B.metaDescription(catTitle, country, hs.slice(0, 3).map((h: any) => h.data.name))}
-  intro={B.intro(catTitle, country, hs.length, top.data.name, top.data.destination, cheapest.data.name)}
+  intro={B.intro(catTitle, country, hs.length, top.data.name, top.data.destination, cheapest?.data.name ?? null)}
   path={path}
   hotels={hs}
   crumbs={[{ name: t.hotel.categories, url: L.path('categories') }, { name: catTitle, url: L.path('categories', cat) }, { name: country, url: path }]}

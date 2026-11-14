@@ -13,8 +13,9 @@ const field = 'w-full rounded-xl border border-warm-200 bg-white px-4 py-3 font-
     <p class="eyebrow text-gold-600">{t.footer.letterTitle}</p>
     <h1 class="mt-4 font-display text-5xl leading-[.95] text-warm-950 sm:text-7xl">{N.h1}</h1>
     <p class="mx-auto mt-5 max-w-xl font-body text-lg text-warm-600">{N.lead}</p>
-    <form netlify name="newsletter" method="POST" action={L.path('newsletter-success')} data-netlify-honeypot="bot-field" class="mx-auto mt-8 max-w-md space-y-3 text-left">
-      <input type="hidden" name="form-name" value="newsletter" />
+    <form method="POST" action="/.netlify/functions/newsletter-subscribe" data-newsletter data-msg-sending={N.sending} data-msg-invalid={N.errorInvalid} data-msg-error={N.errorUnavailable} data-status="nl-status" class="mx-auto mt-8 max-w-md space-y-3 text-left">
+      <input type="hidden" name="success" value={L.path('newsletter-success')} />
+      <input type="hidden" name="back" value={Astro.url.pathname} />
       <input type="hidden" name="language" value={L.locale} />
       <p class="hidden"><label>Leave empty: <input name="bot-field" /></label></p>
       <label for="nl-name" class="sr-only">{t.contact.firstName}</label>
@@ -22,6 +23,7 @@ const field = 'w-full rounded-xl border border-warm-200 bg-white px-4 py-3 font-
       <label for="nl-email" class="sr-only">{t.footer.email}</label>
       <input id="nl-email" type="email" name="email" required autocomplete="email" placeholder={t.footer.emailPlaceholder} class={field} />
       <button type="submit" class="w-full rounded-full bg-forest-700 px-8 py-4 font-body text-base font-semibold text-white transition hover:bg-forest-800">{N.button}</button>
+      <p id="nl-status" role="status" aria-live="polite" class="min-h-[1.25rem] text-center font-body text-sm text-warm-600"></p>
       <p class="text-center font-body text-xs text-warm-500">{N.note}</p>
     </form>
   </section>

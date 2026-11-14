@@ -311,12 +311,12 @@ const fr: typeof en = {
     title: (c: string, n: number) => `Hôtels insolites ${inCountry(c)} : ${n} ${plural(n, 'adresse qui vaut', 'adresses qui valent')} le voyage`,
     metaTitle: (c: string, n: number) => `${n} ${plural(n, 'hôtel insolite', 'hôtels insolites')} ${inCountry(c)} : comparatif`,
     metaDescription: (c: string, n: number, types: string[]) => `Comparez ${n} ${plural(n, 'hôtel d’exception', 'hôtels d’exception')} ${inCountry(c)} : ${types.map(noun).join(', ')} et bien plus. Prix indicatifs, profil idéal et où vérifier les tarifs.`,
-    intro: (c: string, n: number, types: string[], from: string, cheapest: string, top: string) => `${n} ${plural(n, 'adresse triée', 'adresses triées')} sur le volet ${inCountry(c)}, entre ${listJoin(types.map(noun))}, et bien d’autres encore. Les prix démarrent autour de ${from} la nuit chez ${cheapest} ; notre adresse la mieux notée est ${top}.`,
+    intro: (c: string, n: number, types: string[], from: string | null, cheapest: string | null, top: string) => `${n} ${plural(n, 'adresse triée', 'adresses triées')} sur le volet ${inCountry(c)}, entre ${listJoin(types.map(noun))}, et bien d’autres encore. ${from && cheapest ? `Les prix démarrent autour de ${from} la nuit chez ${cheapest} ; notre adresse la mieux notée est ${top}.` : `Notre adresse la mieux notée est ${top} ; les tarifs varient, vérifiez-les en temps réel.`}`,
     catWorldwide: (cat: string) => `${cat} à travers le monde`,
     guide: (name: string) => `Guide de voyage : ${name}`,
-    faq: (f: { country: string; n: number; top: string; topWhere: string; types: string[]; cheapest: string; cheapestWhere: string; cheapestRange: string; seasons: string[] }) => [
+    faq: (f: { country: string; n: number; top: string; topWhere: string; types: string[]; cheapest: string | null; cheapestWhere: string; cheapestRange: string | null; seasons: string[] }) => [
       { q: `Quels sont les hôtels les plus insolites ${inCountry(f.country)} ?`, a: `Notre coup de cœur : ${f.top} (${f.topWhere}). Nous recensons ${f.n} ${plural(f.n, 'adresse remarquable', 'adresses remarquables')} ${inCountry(f.country)}, notamment : ${listJoin(f.types.map(noun))}.` },
-      { q: `Quel est l’hôtel insolite le moins cher ${inCountry(f.country)} ?`, a: `${f.cheapest} (${f.cheapestWhere}) affiche le tarif habituel le plus bas de notre sélection : comptez ${lcFirst(f.cheapestRange)} la nuit. Les prix varient selon la saison, vérifiez donc les tarifs en temps réel.` },
+      ...(f.cheapest ? [{ q: `Quel est l’hôtel insolite le moins cher ${inCountry(f.country)} ?`, a: `${f.cheapest} (${f.cheapestWhere}) affiche le tarif habituel le plus bas de notre sélection : comptez ${lcFirst(f.cheapestRange)} la nuit. Les prix varient selon la saison, vérifiez donc les tarifs en temps réel.` }] : []),
       { q: `Quand partir ${inCountry(f.country)} pour profiter de ces adresses ?`, a: f.seasons.join(' ; ') || 'Tout dépend de l’établissement : consultez la fiche de chaque hôtel pour connaître la meilleure saison.' },
     ],
   },
@@ -325,12 +325,12 @@ const fr: typeof en = {
     title: (cat: string, c: string) => `Les plus ${g(cat, 'beaux', 'belles')} ${noun(cat)} ${inCountry(c)}`,
     metaTitle: (cat: string, c: string, n: number) => `${ucFirst(noun(cat))} ${inCountry(c)} : notre top ${n}`,
     metaDescription: (cat: string, c: string, names: string[]) => `Notre comparatif des plus ${g(cat, 'beaux', 'belles')} ${noun(cat)} ${inCountry(c)} : ${names.join(', ')}. Prix indicatifs et, pour chaque adresse, les voyageurs à qui elle convient.`,
-    intro: (cat: string, c: string, n: number, top: string, topWhere: string, cheapest: string) => `${ucFirst(noun(cat))} ${inCountry(c)} : notre rédaction a classé ${plural(n, `l’adresse qui sort du lot`, `les ${n} adresses qui sortent du lot`)}. Commencez par ${top} (${topWhere}) ; la plus abordable est ${cheapest}.`,
+    intro: (cat: string, c: string, n: number, top: string, topWhere: string, cheapest: string | null) => `${ucFirst(noun(cat))} ${inCountry(c)} : notre rédaction a classé ${plural(n, `l’adresse qui sort du lot`, `les ${n} adresses qui sortent du lot`)}. Commencez par ${top} (${topWhere})${cheapest ? ` ; la plus abordable est ${cheapest}` : ''}.`,
     allCat: (cat: string) => `${g(cat, 'Tous', 'Toutes')} les ${noun(cat)}`,
     allIn: (c: string) => `Tous les hébergements ${inCountry(c)}`,
-    faq: (f: { cat: string; country: string; names: string[]; top: string; topWhere: string; cheapFrom: string; cheapest: string }) => [
+    faq: (f: { cat: string; country: string; names: string[]; top: string; topWhere: string; cheapFrom: string | null; cheapest: string | null }) => [
       { q: `${g(f.cat, 'Quels', 'Quelles')} sont les plus ${g(f.cat, 'beaux', 'belles')} ${noun(f.cat)} ${inCountry(f.country)} ?`, a: `${listJoin(f.names)}. L’adresse la mieux notée par notre rédaction : ${f.top} (${f.topWhere}).` },
-      { q: `Quel budget prévoir pour les ${noun(f.cat)} ${inCountry(f.country)} ?`, a: `Comptez à partir d’environ ${f.cheapFrom} la nuit (${f.cheapest}). Vérifiez toujours les tarifs en temps réel pour vos dates.` },
+      ...(f.cheapest ? [{ q: `Quel budget prévoir pour les ${noun(f.cat)} ${inCountry(f.country)} ?`, a: `Comptez à partir d’environ ${f.cheapFrom} la nuit (${f.cheapest}). Vérifiez toujours les tarifs en temps réel pour vos dates.` }] : []),
     ],
   },
   static: {
@@ -396,6 +396,9 @@ const fr: typeof en = {
     successTitle: 'C’est fait. Merci !',
     successText: 'Votre première adresse hors du commun arrive avec la prochaine lettre du vendredi. D’ici là, vous avez de quoi explorer.',
     backHome: 'Retour à l’accueil',
+    sending: "Inscription en cours…",
+    errorInvalid: "Merci d’indiquer une adresse e-mail valide.",
+    errorUnavailable: "Désolé, l’inscription est impossible pour le moment. Votre adresse n’a pas été enregistrée. Merci de réessayer plus tard.",
   },
   notFound: {
     metaTitle: 'Page introuvable | StayAtNiche',

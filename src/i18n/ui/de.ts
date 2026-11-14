@@ -325,12 +325,12 @@ const de: typeof en = {
     title: (c: string, n: number) => `Außergewöhnliche Hotels ${inCountry(c)}: ${n} ${plural(n, 'Unterkunft', 'Unterkünfte')}, für die sich die Reise lohnt`,
     metaTitle: (c: string, n: number) => `${n} ${plural(n, 'außergewöhnliches Hotel', 'außergewöhnliche Hotels')} ${inCountry(c)} (Preise & Vergleich)`,
     metaDescription: (c: string, n: number, types: string[]) => `${n} ${plural(n, 'außergewöhnliches Hotel', 'außergewöhnliche Hotels')} ${inCountry(c)} im Vergleich: ${types.map(catMid).join(', ')} und mehr. Typische Preise, für wen sich was eignet und wo Sie buchen.`,
-    intro: (c: string, n: number, types: string[], from: string, cheapest: string, top: string) => `${n} ${plural(n, 'handverlesene Unterkunft', 'handverlesene Unterkünfte')} ${inCountry(c)}, darunter ${joinAnd(types.map(catMid))}. Am günstigsten übernachten Sie ab etwa ${bare(from)} pro Nacht: ${cheapest}. Unser bestbewerteter Tipp ist ${top}.`,
+    intro: (c: string, n: number, types: string[], from: string | null, cheapest: string | null, top: string) => `${n} ${plural(n, 'handverlesene Unterkunft', 'handverlesene Unterkünfte')} ${inCountry(c)}, darunter ${joinAnd(types.map(catMid))}. ${from && cheapest ? `Am günstigsten übernachten Sie ab etwa ${bare(from)} pro Nacht: ${cheapest}. Unser bestbewerteter Tipp ist ${top}.` : `Unser bestbewerteter Tipp ist ${top}; die Preise schwanken, prüfen Sie daher die aktuellen Angebote.`}`,
     catWorldwide: (cat: string) => `${catStart(cat)} weltweit`,
     guide: (name: string) => `Reiseführer ${name}`,
-    faq: (f: { country: string; n: number; top: string; topWhere: string; types: string[]; cheapest: string; cheapestWhere: string; cheapestRange: string; seasons: string[] }) => [
+    faq: (f: { country: string; n: number; top: string; topWhere: string; types: string[]; cheapest: string | null; cheapestWhere: string; cheapestRange: string | null; seasons: string[] }) => [
       { q: `Was sind die außergewöhnlichsten Hotels ${inCountry(f.country)}?`, a: `Unser Favorit ist ${f.top} in ${f.topWhere}. Insgesamt stellen wir ${f.n} herausragende ${plural(f.n, 'Unterkunft', 'Unterkünfte')} ${inCountry(f.country)} vor, darunter ${joinAnd(f.types.map(catMid))}.` },
-      { q: `Welches außergewöhnliche Hotel ${inCountry(f.country)} ist am günstigsten?`, a: `${f.cheapest} (${f.cheapestWhere}) hat den niedrigsten typischen Preis auf unserer Liste: ${lowerAb(f.cheapestRange)} pro Nacht. Die Preise schwanken je nach Saison, prüfen Sie daher die aktuellen Angebote.` },
+      ...(f.cheapest ? [{ q: `Welches außergewöhnliche Hotel ${inCountry(f.country)} ist am günstigsten?`, a: `${f.cheapest} (${f.cheapestWhere}) hat den niedrigsten typischen Preis auf unserer Liste: ${lowerAb(f.cheapestRange)} pro Nacht. Die Preise schwanken je nach Saison, prüfen Sie daher die aktuellen Angebote.` }] : []),
       { q: `Wann ist die beste Reisezeit für diese Unterkünfte ${inCountry(f.country)}?`, a: f.seasons.join('; ') || 'Das hängt von der Unterkunft ab; saisonale Hinweise finden Sie auf der jeweiligen Hotelseite.' },
     ],
   },
@@ -339,12 +339,12 @@ const de: typeof en = {
     title: (cat: string, c: string) => `Die besten ${catWeak(cat)} ${inCountry(c)}`,
     metaTitle: (cat: string, c: string, n: number) => `${catStart(cat)} ${inCountry(c)}: die ${n} besten im Vergleich`,
     metaDescription: (cat: string, c: string, names: string[]) => `Die besten ${catWeak(cat)} ${inCountry(c)} im Vergleich: ${names.join(', ')}. Mit typischen Preisen und der Antwort, für wen sich welche Unterkunft eignet.`,
-    intro: (cat: string, c: string, n: number, top: string, topWhere: string, cheapest: string) => `${n} herausragende ${catMid(cat)} ${inCountry(c)}, gereiht von unserer Redaktion. Beginnen Sie mit ${top} in ${topWhere}; am günstigsten ist ${cheapest}.`,
+    intro: (cat: string, c: string, n: number, top: string, topWhere: string, cheapest: string | null) => `${n} herausragende ${catMid(cat)} ${inCountry(c)}, gereiht von unserer Redaktion. Beginnen Sie mit ${top} in ${topWhere}${cheapest ? `; am günstigsten ist ${cheapest}` : ''}.`,
     allCat: (cat: string) => `Alle ${catWeak(cat)}`,
     allIn: (c: string) => `Alle Unterkünfte ${inCountry(c)}`,
-    faq: (f: { cat: string; country: string; names: string[]; top: string; topWhere: string; cheapFrom: string; cheapest: string }) => [
+    faq: (f: { cat: string; country: string; names: string[]; top: string; topWhere: string; cheapFrom: string | null; cheapest: string | null }) => [
       { q: `Was sind die besten ${catWeak(f.cat)} ${inCountry(f.country)}?`, a: `${joinAnd(f.names)}. Die höchste Redaktionswertung hat ${f.top} in ${f.topWhere}.` },
-      { q: `Was kosten ${catMid(f.cat)} ${inCountry(f.country)}?`, a: `Die typischen Preise beginnen bei etwa ${bare(f.cheapFrom)} pro Nacht (${f.cheapest}). Prüfen Sie immer die aktuellen Preise für Ihre Reisedaten.` },
+      ...(f.cheapest ? [{ q: `Was kosten ${catMid(f.cat)} ${inCountry(f.country)}?`, a: `Die typischen Preise beginnen bei etwa ${bare(f.cheapFrom)} pro Nacht (${f.cheapest}). Prüfen Sie immer die aktuellen Preise für Ihre Reisedaten.` }] : []),
     ],
   },
   static: {
@@ -409,6 +409,9 @@ const de: typeof en = {
     successTitle: 'Geschafft. Vielen Dank!',
     successText: 'Ihre erste außergewöhnliche Unterkunft kommt mit dem nächsten Freitagsbrief. Bis dahin gibt es reichlich zu entdecken.',
     backHome: 'Zur Startseite',
+    sending: "Anmeldung läuft…",
+    errorInvalid: "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
+    errorUnavailable: "Die Anmeldung ist gerade leider nicht möglich. Ihre Adresse wurde nicht gespeichert. Bitte versuchen Sie es später erneut.",
   },
   notFound: {
     metaTitle: 'Seite nicht gefunden | StayAtNiche',

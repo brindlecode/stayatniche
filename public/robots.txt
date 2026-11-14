@@ -45,4 +45,3 @@ User-agent: Perplexity-User
 Allow: /
 
 Sitemap: https://stayatniche.com/sitemap.xml
-Sitemap: https://stayatniche.com/rss.xml

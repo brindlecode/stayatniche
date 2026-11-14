@@ -1,6 +1,6 @@
 # Hotel pipeline status
 
-Updated 2026-11-14T07:44:52.523Z. Published hotels on site: 195.
+Updated 2026-11-14T19:17:19.847Z. Published hotels on site: 184 (plus 11 drafts, 195 files).
 
 | Category | new | verified | weak | classified | approved | rejected | duplicate | published |
 |---|---|---|---|---|---|---|---|---|

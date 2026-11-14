@@ -39,7 +39,7 @@ const bands = [
   { label: H.bands.low.label, q: 'lt300', note: H.bands.low.note, test: (p: number) => p < 300 },
   { label: H.bands.mid.label, q: '300-800', note: H.bands.mid.note, test: (p: number) => p >= 300 && p <= 800 },
   { label: H.bands.high.label, q: 'gt800', note: H.bands.high.note, test: (p: number) => p > 800 },
-].map(b => ({ ...b, count: hotels.filter(h => b.test(startPrice(h.data.priceRange))).length }));
+].map(b => ({ ...b, count: hotels.filter(h => { const p = startPrice(h.data.priceRange); return p != null && b.test(p); }).length }));
 
 const continents = ['europe', 'africa', 'asia', 'north-america', 'south-america', 'oceania', 'middle-east']
   .map(c => ({ slug: c, label: L.continent(c), count: dests.filter(d => slugify(d.data.continent) === c).length }))
@@ -152,7 +152,7 @@ const fmt = (d: Date | string) => L.date(d);
                     <span class="block font-body text-[15px] font-semibold text-warm-950 group-hover:underline group-hover:underline-offset-4">{h.data.name}</span>
                     <span class="block font-body text-sm text-warm-500">{h.data.destination}, {L.country(h.data.country)}</span>
                   </span>
-                  <span class="font-body text-sm tabular-nums text-warm-700">{H.from(L.usd(startPrice(h.data.priceRange)))}</span>
+                  <span class="font-body text-sm tabular-nums text-warm-700">{(p => p != null ? H.from(L.usd(p)) : t.card.checkRates)(startPrice(h.data.priceRange))}</span>
                 </a>
               </li>
             ))}

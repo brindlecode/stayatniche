@@ -94,7 +94,8 @@ const jsonLd = {
       var orig = cards.slice();
 
       function card(el) { return el.querySelector('[data-hotel]') || el; }
-      function inPrice(p, r) { return !r || (r === 'lt300' && p < 300) || (r === '300-800' && p >= 300 && p <= 800) || (r === 'gt800' && p > 800); }
+      // p is NaN when the stay has no known price: it never matches a price band.
+      function inPrice(p, r) { return !r || (p > 0 && (r === 'lt300' && p < 300) || (r === '300-800' && p >= 300 && p <= 800) || (r === 'gt800' && p > 800)); }
 
       function apply(push) {
         var term = q.value.trim().toLowerCase(), shown = [];
@@ -106,8 +107,8 @@ const jsonLd = {
         var s = sort.value;
         var sorted = shown.slice().sort(function (a, b) {
           var x = card(a).dataset, y = card(b).dataset;
-          if (s === 'low') return (+x.price || 1e9) - (+y.price || 1e9);
-          if (s === 'high') return +y.price - +x.price;
+          if (s === 'low') return (+x.price || 1e9) - (+y.price || 1e9); // unknown price sorts last
+          if (s === 'high') return (+y.price || -1) - (+x.price || -1);
           if (s === 'az') return x.name < y.name ? -1 : 1;
           return (+y.featured - +x.featured) || (+y.rating - +x.rating);
         });

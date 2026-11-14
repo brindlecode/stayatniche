@@ -51,14 +51,16 @@ const social = Object.entries(soc as Record<string, string>)
       <div>
         <p class="eyebrow text-warm-400">{t.footer.letterTitle}</p>
         <p class="mt-2 font-body text-sm text-warm-400">{t.footer.letterText}</p>
-        <form class="mt-4 flex gap-2" netlify name="footer-newsletter" method="POST" action={L.path('newsletter-success')} data-netlify-honeypot="bot-field">
-          <input type="hidden" name="form-name" value="footer-newsletter" />
+        <form class="mt-4 flex gap-2" method="POST" action="/.netlify/functions/newsletter-subscribe" data-newsletter data-msg-sending={t.newsletter.sending} data-msg-invalid={t.newsletter.errorInvalid} data-msg-error={t.newsletter.errorUnavailable} data-status="ft-nl-status">
+          <input type="hidden" name="success" value={L.path('newsletter-success')} />
+          <input type="hidden" name="back" value={Astro.url.pathname} />
           <input type="hidden" name="language" value={L.locale} />
           <p class="hidden"><label>Leave empty: <input name="bot-field" /></label></p>
           <label for="ft-email" class="sr-only">{t.footer.email}</label>
           <input id="ft-email" type="email" name="email" required autocomplete="email" placeholder={t.footer.emailPlaceholder} class="min-w-0 flex-1 rounded-full border border-white/15 bg-white/5 px-5 py-3 font-body text-sm text-white placeholder-warm-500 outline-none focus:border-white/40" />
           <button type="submit" class="rounded-full bg-white px-5 py-3 font-body text-sm font-semibold text-warm-950 transition hover:bg-gold-100">{t.footer.subscribe}</button>
         </form>
+        <p id="ft-nl-status" role="status" aria-live="polite" class="mt-2 min-h-[1rem] font-body text-xs text-warm-300"></p>
       </div>
     </div>
 
@@ -83,3 +85,28 @@ const social = Object.entries(soc as Record<string, string>)
     </div>
   </div>
 </footer>
+
+<script is:inline>
+  // Newsletter forms: show success only when the email provider accepted the address
+  // (the function answers { ok: true }); otherwise show an honest error and keep the input.
+  (function () {
+    document.querySelectorAll('form[data-newsletter]').forEach(function (f) {
+      if (f.dataset.bound) return; f.dataset.bound = '1';
+      f.addEventListener('submit', function (e) {
+        e.preventDefault();
+        var out = document.getElementById(f.dataset.status), btn = f.querySelector('button[type="submit"]');
+        var say = function (m, bad) { if (out) { out.textContent = m; out.classList.toggle('text-red-500', !!bad); } };
+        var data = {}; new FormData(f).forEach(function (v, k) { data[k] = v; });
+        say(f.dataset.msgSending); if (btn) btn.disabled = true;
+        fetch(f.action, { method: 'POST', headers: { 'Content-Type': 'application/json', Accept: 'application/json' }, body: JSON.stringify(data) })
+          .then(function (r) { return r.json().catch(function () { return {}; }).then(function (j) { return { ok: r.ok && j.ok === true, j: j }; }); })
+          .then(function (res) {
+            if (res.ok) { location.href = data.success || '/newsletter-success/'; return; }
+            say(res.j.error === 'invalid_email' ? f.dataset.msgInvalid : f.dataset.msgError, true);
+            if (btn) btn.disabled = false;
+          })
+          .catch(function () { say(f.dataset.msgError, true); if (btn) btn.disabled = false; });
+      });
+    });
+  })();
+</script>
