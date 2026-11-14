@@ -2,8 +2,9 @@
   command = "npm run build"
   publish = "dist"
   base = "."
-  # Skip deploys for commits that only touch pipeline data / docs (nightly bot commits)
-  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- . ':(exclude)data/pipeline' ':(exclude)docs'"
+  # Skip deploys for commits that only touch pipeline data / docs (nightly bot commits).
+  # The script builds whenever it cannot compare with the last built commit.
+  ignore = "sh scripts/netlify-ignore.sh"
 
 [build.environment]
   NODE_VERSION = "20"
