@@ -134,7 +134,7 @@ document and `update` it with `{"status": "published", "slug": "<slug>", "publis
 and its `if_version`.
 
 Making drafts public later (owner said "yayınla"): `node pipeline/publish-drafts.mjs <slug> [slug...]`
-(`--list` shows the drafts), then section 5.
+(`--list` shows the drafts), then section 3a (Expedia page), 3b (translations: drafts have none) and 5.
 
 ## 5. Check and ship
 1. `node scripts/check-duplicates.mjs && npm run build && node scripts/check-build.mjs` must pass. If the

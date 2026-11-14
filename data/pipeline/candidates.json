@@ -161220,7 +161220,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "blocked",
+  "status": "drafted",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "description": "Grade I listed quadrangular castle in County Durham, England, UK",
@@ -161252,12 +161252,8 @@
   "finalCategory": "castle-hotels",
   "reviewedAt": "2026-10-10T07:30:07.537Z",
   "reviewNote": "Not published: no evidence of rooms (operator site unreadable).",
-  "blocked": {
-   "reason": "Elimizdeki tek kaynak birkaç cümlelik Wikipedia özeti; otelin kendi sitesi okunamadı. Uydurmadan sayfa yazılamaz. Yeni kanıt istendi, gelince yazılacak.",
-   "at": "2026-11-14T21:15:24.706Z",
-   "tries": 1,
-   "retry": true
-  }
+  "slug": "lumley-castle-united-kingdom",
+  "draftedAt": "2026-11-14T21:36:43.667Z"
  },
  "osm:relation/14769948": {
   "id": "osm:relation/14769948",
@@ -161855,7 +161851,7 @@
    "tourism": "hostel"
   },
   "source": "osm",
-  "status": "blocked",
+  "status": "drafted",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "description": "Grade I listed castle in Forest of Dean, United Kingdom",
@@ -161887,12 +161883,8 @@
   "finalCategory": "castle-hotels",
   "reviewedAt": "2026-10-10T07:33:28.800Z",
   "reviewNote": "Not published: YHA hostel; no evidence of sleeping in the castle.",
-  "blocked": {
-   "reason": "Elimizdeki tek kaynak birkaç cümlelik Wikipedia özeti; otelin kendi sitesi okunamadı. Uydurmadan sayfa yazılamaz. Yeni kanıt istendi, gelince yazılacak.",
-   "at": "2026-11-14T21:15:24.939Z",
-   "tries": 1,
-   "retry": true
-  }
+  "slug": "yha-st-briavels-castle-united-kingdom",
+  "draftedAt": "2026-11-14T21:36:43.469Z"
  },
  "osm:relation/18794909": {
   "id": "osm:relation/18794909",
@@ -208316,7 +208308,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "blocked",
+  "status": "drafted",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "description": "castle in Argyll and Bute, Scotland, UK",
@@ -208348,12 +208340,8 @@
   "finalCategory": "castle-hotels",
   "reviewedAt": "2026-10-10T07:33:30.783Z",
   "reviewNote": "Not published: no evidence of rooms or bookable stay.",
-  "blocked": {
-   "reason": "Elimizdeki tek kaynak birkaç cümlelik Wikipedia özeti; otelin kendi sitesi okunamadı. Uydurmadan sayfa yazılamaz. Yeni kanıt istendi, gelince yazılacak.",
-   "at": "2026-11-14T21:15:25.154Z",
-   "tries": 1,
-   "retry": true
-  }
+  "slug": "saddell-castle-united-kingdom",
+  "draftedAt": "2026-11-14T21:36:43.897Z"
  },
  "osm:way/232134839": {
   "id": "osm:way/232134839",
@@ -212159,10 +212147,10 @@
   "reviewedAt": "2026-10-10T07:33:34.684Z",
   "reviewNote": "Not published: no evidence of rooms or bookable stay.",
   "blocked": {
-   "reason": "Elimizdeki tek kaynak birkaç cümlelik Wikipedia özeti; otelin kendi sitesi okunamadı. Uydurmadan sayfa yazılamaz. Yeni kanıt istendi, gelince yazılacak.",
-   "at": "2026-11-14T21:15:25.360Z",
+   "reason": "Kaynaklarda bu kalede konaklanabildiğine dair hiçbir bilgi yok (Wikipedia yalnızca tarihini ve sahiplerini anlatıyor, kendi sitesi açılmıyor). Reddetmenizi öneririm.",
+   "at": "2026-11-14T21:36:44.503Z",
    "tries": 1,
-   "retry": true
+   "retry": false
   }
  },
  "osm:way/254707509": {
@@ -213751,10 +213739,10 @@
   "finalCategory": "castle-hotels",
   "reviewedAt": "2026-10-08T21:13:20.443Z",
   "blocked": {
-   "reason": "Elimizdeki tek kaynak birkaç cümlelik Wikipedia özeti; otelin kendi sitesi okunamadı. Uydurmadan sayfa yazılamaz. Yeni kanıt istendi, gelince yazılacak.",
-   "at": "2026-11-14T21:15:25.572Z",
+   "reason": "Kaynaklarda bu sarayın otel olarak işletildiğine dair bilgi yok (Lehçe Wikipedia yalnızca mimarisini ve tarihini anlatıyor, kendi sitesi açılmıyor). Reddetmenizi öneririm.",
+   "at": "2026-11-14T21:36:44.705Z",
    "tries": 1,
-   "retry": true
+   "retry": false
   },
   "lastEvidence": "2026-11-14"
  },
@@ -216666,7 +216654,7 @@
    "stars": "4"
   },
   "source": "osm",
-  "status": "blocked",
+  "status": "drafted",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "description": "castle in Barcaldine, Scotland",
@@ -216698,12 +216686,8 @@
   "finalCategory": "castle-hotels",
   "reviewedAt": "2026-10-10T07:33:32.850Z",
   "reviewNote": "Not published: no evidence of rooms or bookable stay.",
-  "blocked": {
-   "reason": "Elimizdeki tek kaynak birkaç cümlelik Wikipedia özeti; otelin kendi sitesi okunamadı. Uydurmadan sayfa yazılamaz. Yeni kanıt istendi, gelince yazılacak.",
-   "at": "2026-11-14T21:15:25.771Z",
-   "tries": 1,
-   "retry": true
-  }
+  "slug": "barcaldine-castle-united-kingdom",
+  "draftedAt": "2026-11-14T21:36:43.267Z"
  },
  "osm:way/282764419": {
   "id": "osm:way/282764419",
@@ -251480,10 +251464,10 @@
   "finalCategory": "castle-hotels",
   "reviewedAt": "2026-10-10T07:33:25.119Z",
   "blocked": {
-   "reason": "Elimizdeki tek kaynak birkaç cümlelik Wikipedia özeti; otelin kendi sitesi okunamadı. Uydurmadan sayfa yazılamaz. Yeni kanıt istendi, gelince yazılacak.",
-   "at": "2026-11-14T21:15:25.951Z",
+   "reason": "Kalenin kendi sitesi askıya alınmış ve şu an konuk kabul ettiğine dair kanıt yok; Wikipedia yalnızca geçmişini anlatıyor. İşletme durumu belli olana kadar yazılmamalı.",
+   "at": "2026-11-14T21:36:44.303Z",
    "tries": 1,
-   "retry": true
+   "retry": false
   },
   "siteSearchAt": "2026-11-14",
   "websiteSource": "search",
@@ -258909,7 +258893,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "blocked",
+  "status": "drafted",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "description": "ruinous moated fortified 16th century manor house in North Warwickshire, England, UK",
@@ -258932,16 +258916,12 @@
   },
   "finalCategory": "castle-hotels",
   "reviewedAt": "2026-10-10T07:33:19.484Z",
-  "blocked": {
-   "reason": "Elimizdeki tek kaynak birkaç cümlelik Wikipedia özeti; otelin kendi sitesi okunamadı. Uydurmadan sayfa yazılamaz. Yeni kanıt istendi, gelince yazılacak.",
-   "at": "2026-11-14T21:15:26.141Z",
-   "tries": 1,
-   "retry": true
-  },
   "siteSearchAt": "2026-11-14",
   "websiteSource": "search",
   "siteSearch": "found",
-  "lastEvidence": "2026-11-14"
+  "lastEvidence": "2026-11-14",
+  "slug": "astley-castle-united-kingdom",
+  "draftedAt": "2026-11-14T21:36:44.084Z"
  },
  "osm:way/737465374": {
   "id": "osm:way/737465374",
@@ -260934,7 +260914,7 @@
    "stars": "3"
   },
   "source": "osm",
-  "status": "blocked",
+  "status": "drafted",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "description": "castle in County Antrim, Northern Ireland",
@@ -260957,16 +260937,12 @@
   },
   "finalCategory": "castle-hotels",
   "reviewedAt": "2026-10-10T07:33:12.784Z",
-  "blocked": {
-   "reason": "Elimizdeki tek kaynak birkaç cümlelik Wikipedia özeti; otelin kendi sitesi okunamadı. Uydurmadan sayfa yazılamaz. Yeni kanıt istendi, gelince yazılacak.",
-   "at": "2026-11-14T21:15:26.318Z",
-   "tries": 1,
-   "retry": true
-  },
   "siteSearchAt": "2026-11-14",
   "websiteSource": "search",
   "siteSearch": "found",
-  "lastEvidence": "2026-11-14"
+  "lastEvidence": "2026-11-14",
+  "slug": "ballygally-castle-hotel-united-kingdom",
+  "draftedAt": "2026-11-14T21:36:42.881Z"
  },
  "osm:way/773578903": {
   "id": "osm:way/773578903",
@@ -286554,7 +286530,7 @@
   "city": "Argyll and Bute",
   "description": "country house, now hotel, in Argyll and Bute, Scotland, UK",
   "source": "wikidata",
-  "status": "blocked",
+  "status": "drafted",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "hasWikiImage": true,
@@ -286577,13 +286553,9 @@
   },
   "finalCategory": "castle-hotels",
   "reviewedAt": "2026-10-10T07:33:15.119Z",
-  "blocked": {
-   "reason": "Elimizdeki tek kaynak birkaç cümlelik Wikipedia özeti; otelin kendi sitesi okunamadı. Uydurmadan sayfa yazılamaz. Yeni kanıt istendi, gelince yazılacak.",
-   "at": "2026-11-14T21:15:26.510Z",
-   "tries": 1,
-   "retry": true
-  },
-  "websiteSource": "twin"
+  "websiteSource": "twin",
+  "slug": "stonefield-castle-united-kingdom",
+  "draftedAt": "2026-11-14T21:36:43.065Z"
  },
  "wd:Q7903424": {
   "id": "wd:Q7903424",

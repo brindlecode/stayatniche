@@ -191,7 +191,7 @@ function card(x) {
     x.lat != null ? `<a href="https://www.openstreetmap.org/?mlat=${x.lat}&mlon=${x.lng}#map=15/${x.lat}/${x.lng}" target="_blank" rel="noopener">Haritada ↗</a>` : '',
     x.wiki ? `<a href="${esc(x.wiki)}" target="_blank" rel="noopener">Wikipedia ↗</a>` : '',
     `<a href="https://www.google.com/search?q=${encodeURIComponent([x.name, x.city, x.country].filter(Boolean).join(' '))}" target="_blank" rel="noopener">Google'da ara ↗</a>`,
-    x.slug ? `<a href="https://stayatniche.com/hotels/${encodeURIComponent(x.slug)}/" target="_blank" rel="noopener">Sitedeki sayfa ↗</a>` : '',
+    x.slug && !x.draft ? `<a href="https://stayatniche.com/hotels/${encodeURIComponent(x.slug)}/" target="_blank" rel="noopener">Sitedeki sayfa ↗</a>` : '',
   ].filter(Boolean).join('');
   const pill = x.status === 'published' ? '<span class="pill v-published">Yayında</span>' : `<span class="pill v-${esc(x.verdict)}">${esc(VERDICT[x.verdict] ?? x.verdict)}</span>`;
   const catOptions = (cat ? '' : '<option value="" selected>Kategori seçin</option>')
@@ -203,6 +203,7 @@ function card(x) {
   const warn = [
     dupes ? `<p class="warn"><b>Olası tekrar: aynı otel olabilir</b>${dupes}</p>` : '',
     x.urlFound ? '<p class="warn"><b>Web sitesi aramayla bulundu</b><span>Haritada sitesi yoktu. Doğru otelin sitesi mi, açıp kontrol edin.</span></p>' : '',
+    x.draft && x.status !== 'published' ? '<p class="warn"><b>Taslak sayfası hazır</b><span>Sayfa yazıldı ama sitede görünmüyor. Claude’a “yayınla” dediğinizde açılır.</span></p>' : '',
     x.researched ? `<p class="warn"><b>Yeniden araştırıldı (${esc(x.researched)})</b><span>${x.researchResult === 'no readable source' ? 'Okunabilir yeni kaynak bulunamadı; eldeki bilgiyle karar verin.' : 'Aşağıdaki gerekçe ve alıntı yeni okumadan.'}</span></p>` : '',
   ].join('');
   const hold = x.hold ? `<p class="hold"><b>Sayfası yazılamadı:</b> ${esc(x.hold)}</p>` : '';
