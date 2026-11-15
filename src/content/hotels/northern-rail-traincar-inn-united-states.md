@@ -2,7 +2,7 @@
 name: "Northern Rail Traincar Inn"
 category: train-hotels
 destination: "Two Harbors, Minnesota"
-country: "United States"
+country: "USA"
 description: "A hotel made of genuine train boxcars renovated into private bed-and-bath rooms and suites, joined by an enclosed hallway and set in the woods on Minnesota's North Shore."
 priceRange: "Rates vary"
 highlights:

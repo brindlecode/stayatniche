@@ -2,7 +2,7 @@
 name: "Saugerties Lighthouse"
 category: lighthouse-hotels
 destination: "Saugerties, New York"
-country: "United States"
+country: "USA"
 description: "An 1869 lighthouse on the Hudson River, run as a living museum and a two-bedroom bed and breakfast that guests reach on foot along a half-mile trail."
 priceRange: "Rates vary"
 highlights:

@@ -2,7 +2,7 @@
 name: "Sitka Lighthouse"
 category: lighthouse-hotels
 destination: "Sitka, Alaska"
-country: "United States"
+country: "USA"
 description: "A lighthouse built in 1983 on a private one-acre island, a five-minute boat ride from Sitka, with two bedrooms for up to six guests, a glass-walled room, a hot tub and water taxi included."
 priceRange: "Rates vary"
 highlights:

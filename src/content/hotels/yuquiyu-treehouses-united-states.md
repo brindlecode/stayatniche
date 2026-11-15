@@ -2,7 +2,7 @@
 name: "Yuquiyú Treehouses"
 category: treehouse-hotels
 destination: "Río Grande, Puerto Rico"
-country: "United States"
+country: "USA"
 description: "Three treehouses raised on pillars among the trees on a canyon side in the foothills of El Yunque rainforest, each for two adults, with a river below and rainforest beyond."
 priceRange: "Rates vary"
 highlights:

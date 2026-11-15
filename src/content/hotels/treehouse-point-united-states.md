@@ -2,7 +2,7 @@
 name: "Treehouse Point"
 category: treehouse-hotels
 destination: "Issaquah, Washington"
-country: "United States"
+country: "USA"
 description: "Seven treehouses built into the trees of an old-growth forest on a spring-fed river in Washington's Snoqualmie Valley, plus a lodge suite, a cabin and a converted army truck."
 priceRange: "Rates vary"
 highlights:
