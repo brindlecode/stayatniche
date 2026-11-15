@@ -30,7 +30,7 @@ Ballygally Castle se alza al fondo de la bahía de Ballygally, en la costa de An
 
 ## El castillo
 
-La parte antigua es una torre rectangular de estilo baronial escocés: cuatro plantas, muros de unos metro y medio de grosor, torreones en las esquinas y una escalera de caracol de piedra. Sobre la puerta principal aparece la inscripción en escocés medio «Godis Providens is my Inheritans». El castillo fue atacado varias veces durante la rebelión de 1641, pero nunca fue tomado. Más tarde sirvió durante un tiempo como puesto de guardacostas, antes de convertirse en hotel en los años cincuenta.
+La parte antigua es una torre rectangular de estilo baronial escocés: cuatro plantas, muros de un metro y medio de grosor aproximadamente, torreones en las esquinas y una escalera de caracol de piedra. Sobre la puerta principal aparece la inscripción en escocés medio «Godis Providens is my Inheritans». El castillo fue atacado varias veces durante la rebelión de 1641, pero nunca fue tomado. Más tarde sirvió durante un tiempo como puesto de guardacostas, antes de convertirse en hotel en los años cincuenta.
 
 ## Habitaciones
 
