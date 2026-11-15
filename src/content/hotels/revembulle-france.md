@@ -28,7 +28,7 @@ verifiedAt: 2026-11-15
 status: draft
 ---
 
-Rêvembulle offers a night in a transparent bubble suspended up to 3 m above the ground, in the heart of the Massif des Écrins. The postal address is Valgau Aventure in La Chapelle-en-Valgaudémar, and the idea is simple: sleep under the open sky in the middle of a national park, without the usual drawbacks of camping out.
+Rêvembulle offers a night in a transparent bubble suspended up to 3 m above the ground, in the heart of the Massif des Écrins. The stay is at La Fôret, 05800 La Chapelle-en-Valgaudémar.
 
 ## The bubble
 
