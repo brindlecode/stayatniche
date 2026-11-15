@@ -69,6 +69,16 @@ If web search is not available in this session, skip this step and say so.
 `git rebase --abort`, keep your `$D` directory, `git reset --hard origin/$B`, run steps 1.2 and
 4.3 again (both are idempotent), commit and push.
 
+## Category rule: treehouses (site owner, 2026-11-15)
+A unit is a treehouse only if it is **among trees, raised off the ground, and a separate
+free-standing structure**. Built in or attached to a tree, and on stilts or pillars among trees,
+both count; the decision's `niche_feature` and later the page must say which it is. A
+multi-storey building, a villa or hotel block, a room in a larger building, or a property that
+merely has "treehouse" in its name does not count. No description of how the units are built
+(room descriptions and photo captions are evidence) means `needs_review`, never `accepted`.
+The `hotel-classifier` agent carries the same rule; if a batch comes back with a treehouse
+accepted on the name alone, re-run that batch.
+
 ## Rules
 - Never edit evidence packs, `pipeline-data`, hotel pages or anything under `src/`.
 - Never change `decision`, `finalCat` or `note` on a review document, except through

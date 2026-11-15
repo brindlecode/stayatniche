@@ -30,7 +30,8 @@ coordinates:
 officialWebsite: "https://www.treehousepoint.com/"
 sourceId: "osm:way/1557218627"
 verifiedAt: 2026-11-15
-status: draft
+publishedDate: 2026-11-15
+status: published
 ---
 
 Treehouse Point is a bed and breakfast of seven treehouses in an old-growth forest on the banks of a spring-fed river in Washington's Snoqualmie Valley. The treehouses are built in and around living trees, which the owners say shaped each build. The final treehouse, Ananda, was completed in 2021.

@@ -29,7 +29,8 @@ coordinates:
 officialWebsite: "https://www.saugertieslighthouse.com/"
 sourceId: "osm:way/264468493"
 verifiedAt: 2026-11-15
-status: draft
+publishedDate: 2026-11-15
+status: published
 ---
 
 The Saugerties Lighthouse is an 1869 beacon on the Hudson River that doubles as a living museum and a bed and breakfast. Overnight guests sleep in the lighthouse itself, on a remote shoal surrounded by water, in an experience of rustic simplicity and nineteenth-century life.

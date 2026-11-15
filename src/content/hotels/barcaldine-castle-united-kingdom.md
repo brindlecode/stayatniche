@@ -29,7 +29,8 @@ coordinates:
 officialWebsite: "https://barcaldinecastle.co.uk/"
 sourceId: "osm:way/282679643"
 verifiedAt: 2026-11-14
-status: draft
+publishedDate: 2026-11-15
+status: published
 ---
 
 Barcaldine Castle is a small Scottish tower house that you can sleep in. It stands on the south shore of Loch Creran, nine miles north of Oban, and it is run as a bed and breakfast rather than a hotel: a room and breakfast in a building that is four centuries old.

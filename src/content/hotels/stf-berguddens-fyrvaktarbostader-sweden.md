@@ -32,7 +32,8 @@ coordinates:
 officialWebsite: "https://www.svenskaturistforeningen.se/boende/stf-berguddens-fyrvaktarbostader/"
 sourceId: "osm:way/686679758"
 verifiedAt: 2026-11-15
-status: draft
+publishedDate: 2026-11-15
+status: published
 seo:
   metaTitle: "STF Berguddens Fyrvaktarbostäder: Stay in the Lighthouse Keepers' Dwellings on Holmön"
   metaDescription: "Stay in the lighthouse keepers' dwellings beside Bergudden lighthouse on Holmön, Sweden. Five rooms, self-catering, no running water, reached by ferry."

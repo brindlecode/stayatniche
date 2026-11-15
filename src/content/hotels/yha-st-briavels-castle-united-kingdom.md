@@ -36,7 +36,8 @@ coordinates:
 officialWebsite: "https://www.yha.org.uk/hostel/yha-st-briavels-castle"
 sourceId: "osm:relation/18468216"
 verifiedAt: 2026-11-14
-status: draft
+publishedDate: 2026-11-15
+status: published
 ---
 
 This is a hostel, not a hotel, and that is the point: St Briavels is a budget way to spend a night inside a real medieval castle. The building stands on a spur above the River Wye on the western edge of the Forest of Dean, behind a large gatehouse and a moat that is now a garden.

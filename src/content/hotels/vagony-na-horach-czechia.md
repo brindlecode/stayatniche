@@ -29,7 +29,8 @@ coordinates:
 officialWebsite: "https://vagonynahorach.cz/"
 sourceId: "osm:node/9549364464"
 verifiedAt: 2026-11-15
-status: draft
+publishedDate: 2026-11-15
+status: published
 ---
 
 At Kovářská, a small railway station on the ridge of the Ore Mountains, a few retired railway wagons stand on the unused fourth track and now serve as places to sleep. The station is 850 metres above sea level, surrounded by forest, and the owners describe the stay as a dose of railway-station romance in the mountains.

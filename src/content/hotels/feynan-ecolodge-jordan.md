@@ -27,7 +27,8 @@ coordinates:
 officialWebsite: "https://ecohotels.me/"
 sourceId: "osm:node/1229933076"
 verifiedAt: 2026-11-15
-status: draft
+publishedDate: 2026-11-15
+status: published
 ---
 
 Feynan Ecolodge is a lodge in the true sense: a built complex of 26 rooms, with courtyards and terraces, standing in the desert landscape of Wadi Feynan. It sits deep inside the mountainous Dana Biosphere Reserve in southern Jordan, at the end of a rugged track.

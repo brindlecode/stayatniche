@@ -31,7 +31,8 @@ coordinates:
 officialWebsite: "https://saharadunescamp.com/"
 sourceId: "osm:node/13722713351"
 verifiedAt: 2026-11-15
-status: draft
+publishedDate: 2026-11-15
+status: published
 ---
 
 Sahara Dunes Camp is a small, family-run camp built at the edge of the Erg Chebbi dunes, just outside Merzouga in southern Morocco. It offers a handful of handcrafted Berber tents, and it keeps the number deliberately low so that each guest gets real attention. The dunes here rise to over 150 metres and change colour through the day, from pale gold to deep amber.

@@ -28,7 +28,8 @@ coordinates:
 officialWebsite: "https://reflectionsholidays.com.au/unique-stays/norah-head-lighthouse/accommodation/?from=2024-06-19&to=2024-06-21&adults=2"
 sourceId: "osm:way/112116341"
 verifiedAt: 2026-11-15
-status: draft
+publishedDate: 2026-11-15
+status: published
 seo:
   metaTitle: "Norah Head Lighthouse Keepers Quarters, NSW"
   metaDescription: "Stay in the heritage-listed keepers quarters beside Norah Head Lighthouse in New South Wales. Guests sleep in the cottages, not in the lighthouse tower."

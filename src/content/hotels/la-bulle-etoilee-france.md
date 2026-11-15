@@ -29,7 +29,8 @@ coordinates:
 officialWebsite: "https://www.labulleetoilee.fr/"
 sourceId: "osm:node/10189037778"
 verifiedAt: 2026-11-15
-status: draft
+publishedDate: 2026-11-15
+status: published
 ---
 
 La Bulle Etoilée is a small bubble hotel in the countryside at Bonnemaison, in the Calvados department of Normandy, about 20 minutes from Caen. Its owners, Manu and Chrysoline, have run it since 1 March 2016 and describe the idea as a childhood dream. The result is a handful of transparent bubbles meant to combine charm, comfort and privacy for a night away from everything.

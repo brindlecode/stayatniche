@@ -29,7 +29,8 @@ coordinates:
 officialWebsite: "https://www.fyrgarden.com/"
 sourceId: "osm:node/13771769647"
 verifiedAt: 2026-11-15
-status: draft
+publishedDate: 2026-11-15
+status: published
 seo:
   metaTitle: "Fyrgaarden, Lighthouse Keepers House on Anholt"
   metaDescription: "Stay in the lighthouse keepers house beside the old lighthouse on Anholt, Denmark. Three apartments, oil lamps and no electricity. Guests do not sleep in the lighthouse."

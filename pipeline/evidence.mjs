@@ -18,6 +18,10 @@ const OUT = INBOX;
 const CONCURRENCY = 4;
 const PAGE_CHARS = 6000;
 const SUBPAGES = 3;
+// A forced re-fetch (owner asked for research, or a page is waiting on better evidence) reads more
+// pages, room pages first, because the answer is usually in a room description or a photo caption.
+const SUBPAGES_DEEP = 8;
+const ROOM_HINT = /room|suite|accommodation|unterkunft|zimmer|baumhaus|treehouse|cabin|lodge|villa|tent|chambre|cabane|habitacion|camere|kamer|stay|sleep|schlafen|uebernacht|übernacht/i;
 const WIKI_CHARS = 8000;
 // Link text / path hints for pages that describe the stay itself.
 const SUB_HINT = /room|suite|accommodation|stay|lodg|cabin|tent|villa|treehouse|cave|about|history|story|our-|the-hotel|hotel|location|getting|how-to|faq|zimmer|unterkunft|geschichte|camere|storia|chambre|histoire|habitacion|historia|kamer|odalar|hakkimizda|tarihce/i;
@@ -46,6 +50,13 @@ console.log(`evidence for ${ids.length} candidates -> ${OUT}`);
 mkdirSync(OUT, { recursive: true });
 const robotsCache = new Map();
 
+// Photo captions and alt texts say what a unit is ("treehouse on stilts between the oaks"); keep them.
+const captions = (html) => {
+  const out = new Set();
+  for (const m of html.matchAll(/<img\b[^>]*\balt=["']([^"']{12,200})["']/gi)) out.add(m[1].replace(/\s+/g, ' ').trim());
+  for (const m of html.matchAll(/<figcaption[^>]*>([\s\S]{12,300}?)<\/figcaption>/gi)) out.add(m[1].replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim());
+  return [...out].slice(0, 40);
+};
 const clean = (html) => html
   .replace(/<script[\s\S]*?<\/script>|<style[\s\S]*?<\/style>|<noscript[\s\S]*?<\/noscript>|<svg[\s\S]*?<\/svg>|<select[\s\S]*?<\/select>/gi, ' ')
   .replace(/<(header|nav|footer)[\s\S]*?<\/\1>/gi, ' ')
@@ -122,7 +133,7 @@ function jsonLd(html) {
   return out;
 }
 
-function pickSubpages(html, base) {
+function pickSubpages(html, base, deep = false) {
   const host = new URL(base).hostname.replace(/^www\./, '');
   const seen = new Set(); const scored = [];
   for (const m of html.matchAll(/<a\b[^>]*href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi)) {
@@ -132,10 +143,11 @@ function pickSubpages(html, base) {
     if (!key || key === new URL(base).pathname.replace(/\/$/, '') || seen.has(key)) continue;
     seen.add(key);
     const label = m[2].replace(/<[^>]+>/g, ' ').trim();
-    const s = (SUB_HINT.test(label) ? 2 : 0) + (SUB_HINT.test(href.pathname) ? 1 : 0) - href.pathname.split('/').length * 0.1;
+    const s = (SUB_HINT.test(label) ? 2 : 0) + (SUB_HINT.test(href.pathname) ? 1 : 0) - href.pathname.split('/').length * 0.1
+      + (deep && (ROOM_HINT.test(label) || ROOM_HINT.test(href.pathname)) ? 3 : 0);
     if (s > 0) scored.push({ url: href.toString(), label: label.slice(0, 60), s });
   }
-  return scored.sort((a, b) => b.s - a.s).slice(0, SUBPAGES);
+  return scored.sort((a, b) => b.s - a.s).slice(0, deep ? SUBPAGES_DEEP : SUBPAGES);
 }
 
 async function wikipedia(qid) {
@@ -180,14 +192,14 @@ async function collect(id) {
         const title = (r.text.match(/<title[^>]*>([^<]{0,200})/i) ?? [])[1]?.trim() ?? '';
         const desc = (r.text.match(/<meta[^>]+(?:name|property)=["'](?:og:)?description["'][^>]+content=["']([^"']{0,500})/i) ?? [])[1] ?? '';
         pack.htmlLang = (r.text.match(/<html[^>]+lang=["']([^"']+)/i) ?? [])[1] ?? null;
-        pack.pages.push({ url: r.url, kind: 'home', title, description: desc, text: clean(r.text).slice(0, PAGE_CHARS) });
+        pack.pages.push({ url: r.url, kind: 'home', title, description: desc, text: clean(r.text).slice(0, PAGE_CHARS), captions: captions(r.text) });
         pack.jsonLd.push(...jsonLd(r.text));
-        for (const sp of pickSubpages(r.text, r.url)) {
+        for (const sp of pickSubpages(r.text, r.url, forced)) {
           if (!(await allowed(sp.url).catch(() => true))) continue;
           await sleep(1000);
           const s = await fetchText(sp.url);
           if (!s.ok || !s.text) continue;
-          pack.pages.push({ url: s.url, kind: 'sub', label: sp.label, title: (s.text.match(/<title[^>]*>([^<]{0,200})/i) ?? [])[1]?.trim() ?? '', text: clean(s.text).slice(0, PAGE_CHARS) });
+          pack.pages.push({ url: s.url, kind: 'sub', label: sp.label, title: (s.text.match(/<title[^>]*>([^<]{0,200})/i) ?? [])[1]?.trim() ?? '', text: clean(s.text).slice(0, PAGE_CHARS), captions: captions(s.text) });
           pack.jsonLd.push(...jsonLd(s.text));
         }
       } else pack.notes.push(`website fetch failed: ${r.status} ${r.error ?? ''}`.trim());

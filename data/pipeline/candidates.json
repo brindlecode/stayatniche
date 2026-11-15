@@ -2376,7 +2376,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "drafted",
+  "status": "published",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-14",
   "region": "Normandy",
@@ -2406,7 +2406,8 @@
   "finalCategory": "bubble-hotels",
   "reviewedAt": "2026-11-15T07:14:14.625Z",
   "slug": "la-bulle-etoilee-france",
-  "draftedAt": "2026-11-15T07:14:21.053Z"
+  "draftedAt": "2026-11-15T07:14:21.053Z",
+  "publishedAt": "2026-11-15T08:42:34.049Z"
  },
  "osm:node/10197742768": {
   "id": "osm:node/10197742768",
@@ -7842,7 +7843,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "drafted",
+  "status": "published",
   "firstSeen": "2026-10-07",
   "lastSeen": "2026-11-11",
   "region": "Lower Austria",
@@ -7872,7 +7873,8 @@
   "finalCategory": "train-hotels",
   "reviewedAt": "2026-11-15T07:14:14.625Z",
   "slug": "zughotel-waldkirchen-austria",
-  "draftedAt": "2026-11-15T07:14:20.454Z"
+  "draftedAt": "2026-11-15T07:14:20.454Z",
+  "publishedAt": "2026-11-15T08:42:34.041Z"
  },
  "osm:node/10968105205": {
   "id": "osm:node/10968105205",
@@ -13361,7 +13363,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "drafted",
+  "status": "published",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": "Puerto Rico",
@@ -13391,7 +13393,8 @@
   "finalCategory": "treehouse-hotels",
   "reviewedAt": "2026-11-15T07:14:14.625Z",
   "slug": "yuquiyu-treehouses-united-states",
-  "draftedAt": "2026-11-15T07:14:15.656Z"
+  "draftedAt": "2026-11-15T07:14:15.656Z",
+  "publishedAt": "2026-11-15T08:42:33.966Z"
  },
  "osm:node/1154528427": {
   "id": "osm:node/1154528427",
@@ -18711,7 +18714,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "drafted",
+  "status": "published",
   "firstSeen": "2026-10-07",
   "lastSeen": "2026-11-11",
   "region": "North Huvadhu Atoll",
@@ -18741,7 +18744,8 @@
   "finalCategory": "underwater-rooms",
   "reviewedAt": "2026-11-15T07:14:14.625Z",
   "slug": "pullman-maldives-maamutaa-resort-maldives",
-  "draftedAt": "2026-11-15T07:14:22.347Z"
+  "draftedAt": "2026-11-15T07:14:22.347Z",
+  "publishedAt": "2026-11-15T08:42:34.067Z"
  },
  "osm:node/12090362822": {
   "id": "osm:node/12090362822",
@@ -21481,7 +21485,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "drafted",
+  "status": "published",
   "firstSeen": "2026-10-05",
   "lastSeen": "2026-11-09",
   "region": "Tafilah",
@@ -21511,7 +21515,8 @@
   "finalCategory": "desert-camps",
   "reviewedAt": "2026-11-15T07:14:14.625Z",
   "slug": "feynan-ecolodge-jordan",
-  "draftedAt": "2026-11-15T07:14:16.062Z"
+  "draftedAt": "2026-11-15T07:14:16.062Z",
+  "publishedAt": "2026-11-15T08:42:33.970Z"
  },
  "osm:node/12299344501": {
   "id": "osm:node/12299344501",
@@ -29495,7 +29500,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "drafted",
+  "status": "published",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-14",
   "region": "Provence-Alpes-Côte d'Azur",
@@ -29525,7 +29530,8 @@
   "finalCategory": "bubble-hotels",
   "reviewedAt": "2026-11-15T07:14:14.625Z",
   "slug": "revembulle-france",
-  "draftedAt": "2026-11-15T07:14:21.733Z"
+  "draftedAt": "2026-11-15T07:14:21.733Z",
+  "publishedAt": "2026-11-15T08:42:34.058Z"
  },
  "osm:node/13032128601": {
   "id": "osm:node/13032128601",
@@ -38020,7 +38026,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "drafted",
+  "status": "published",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-11-10",
   "region": "KwaZulu-Natal",
@@ -38050,7 +38056,8 @@
   "finalCategory": "safari-lodges",
   "reviewedAt": "2026-11-15T07:14:14.625Z",
   "slug": "bayala-private-safari-lodges-south-africa",
-  "draftedAt": "2026-11-15T07:14:21.922Z"
+  "draftedAt": "2026-11-15T07:14:21.922Z",
+  "publishedAt": "2026-11-15T08:42:34.061Z"
  },
  "osm:node/13627120801": {
   "id": "osm:node/13627120801",
@@ -39219,7 +39226,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "drafted",
+  "status": "published",
   "firstSeen": "2026-10-04",
   "lastSeen": "2026-11-15",
   "region": "Drâa-Tafilalet",
@@ -39249,7 +39256,8 @@
   "finalCategory": "desert-camps",
   "reviewedAt": "2026-11-15T07:14:14.625Z",
   "slug": "sahara-dunes-camp-morocco",
-  "draftedAt": "2026-11-15T07:14:21.287Z"
+  "draftedAt": "2026-11-15T07:14:21.287Z",
+  "publishedAt": "2026-11-15T08:42:34.052Z"
  },
  "osm:node/1372570253": {
   "id": "osm:node/1372570253",
@@ -39819,7 +39827,7 @@
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "drafted",
+  "status": "published",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-11",
   "region": "Central Denmark Region",
@@ -39849,7 +39857,8 @@
   "finalCategory": "lighthouse-hotels",
   "reviewedAt": "2026-11-15T07:14:14.625Z",
   "slug": "fyrgaarden-denmark",
-  "draftedAt": "2026-11-15T07:14:20.663Z"
+  "draftedAt": "2026-11-15T07:14:20.663Z",
+  "publishedAt": "2026-11-15T08:42:34.044Z"
  },
  "osm:node/13776699751": {
   "id": "osm:node/13776699751",
@@ -43621,7 +43630,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "drafted",
+  "status": "published",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-11",
   "region": "Brittany",
@@ -43651,7 +43660,8 @@
   "finalCategory": "lighthouse-hotels",
   "reviewedAt": "2026-11-15T07:14:14.625Z",
   "slug": "phare-de-kerbel-france",
-  "draftedAt": "2026-11-15T07:14:19.142Z"
+  "draftedAt": "2026-11-15T07:14:19.142Z",
+  "publishedAt": "2026-11-15T08:42:34.015Z"
  },
  "osm:node/14105410094": {
   "id": "osm:node/14105410094",
@@ -47725,7 +47735,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "drafted",
+  "status": "published",
   "firstSeen": "2026-11-14",
   "lastSeen": "2026-11-14",
   "region": "Auvergne-Rhône-Alpes",
@@ -47755,7 +47765,8 @@
   "finalCategory": "bubble-hotels",
   "reviewedAt": "2026-11-15T07:14:14.625Z",
   "slug": "bulles-dolive-france",
-  "draftedAt": "2026-11-15T07:14:17.814Z"
+  "draftedAt": "2026-11-15T07:14:17.814Z",
+  "publishedAt": "2026-11-15T08:42:33.998Z"
  },
  "osm:node/1439822690": {
   "id": "osm:node/1439822690",
@@ -53779,7 +53790,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "drafted",
+  "status": "published",
   "firstSeen": "2026-10-07",
   "lastSeen": "2026-11-11",
   "region": "Nova Scotia",
@@ -53809,7 +53820,8 @@
   "finalCategory": "train-hotels",
   "reviewedAt": "2026-11-15T07:14:14.625Z",
   "slug": "train-station-inn-canada",
-  "draftedAt": "2026-11-15T07:14:18.053Z"
+  "draftedAt": "2026-11-15T07:14:18.053Z",
+  "publishedAt": "2026-11-15T08:42:34.001Z"
  },
  "osm:node/1838715703": {
   "id": "osm:node/1838715703",
@@ -61071,7 +61083,7 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "drafted",
+  "status": "published",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-11",
   "region": "Alaska",
@@ -61101,7 +61113,8 @@
   "finalCategory": "lighthouse-hotels",
   "reviewedAt": "2026-11-15T07:14:14.625Z",
   "slug": "sitka-lighthouse-united-states",
-  "draftedAt": "2026-11-15T07:14:19.382Z"
+  "draftedAt": "2026-11-15T07:14:19.382Z",
+  "publishedAt": "2026-11-15T08:42:34.018Z"
  },
  "osm:node/2461642997": {
   "id": "osm:node/2461642997",
@@ -80449,7 +80462,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "drafted",
+  "status": "published",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-11",
   "region": "Satakunta",
@@ -80479,7 +80492,8 @@
   "finalCategory": "lighthouse-hotels",
   "reviewedAt": "2026-11-15T07:14:14.625Z",
   "slug": "majakkahotelli-finland",
-  "draftedAt": "2026-11-15T07:14:17.341Z"
+  "draftedAt": "2026-11-15T07:14:17.341Z",
+  "publishedAt": "2026-11-15T08:42:33.989Z"
  },
  "osm:node/3634354131": {
   "id": "osm:node/3634354131",
@@ -90255,7 +90269,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "drafted",
+  "status": "published",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": "Hesse",
@@ -90285,7 +90299,8 @@
   "finalCategory": "treehouse-hotels",
   "reviewedAt": "2026-11-15T07:14:14.625Z",
   "slug": "baumhaushotel-robins-nest-germany",
-  "draftedAt": "2026-11-15T07:14:16.273Z"
+  "draftedAt": "2026-11-15T07:14:16.273Z",
+  "publishedAt": "2026-11-15T08:42:33.973Z"
  },
  "osm:node/424228711": {
   "id": "osm:node/424228711",
@@ -97722,7 +97737,7 @@
    "historic": "railway_car"
   },
   "source": "osm",
-  "status": "drafted",
+  "status": "published",
   "firstSeen": "2026-10-07",
   "lastSeen": "2026-11-11",
   "category": "train-hotels",
@@ -97751,7 +97766,8 @@
   "finalCategory": "train-hotels",
   "reviewedAt": "2026-11-15T07:14:14.625Z",
   "slug": "wolkensteiner-zughotel-germany",
-  "draftedAt": "2026-11-15T07:14:15.455Z"
+  "draftedAt": "2026-11-15T07:14:15.455Z",
+  "publishedAt": "2026-11-15T08:42:33.963Z"
  },
  "osm:node/4553209789": {
   "id": "osm:node/4553209789",
@@ -114630,7 +114646,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "drafted",
+  "status": "published",
   "firstSeen": "2026-10-04",
   "lastSeen": "2026-11-15",
   "region": "Ash Sharqiyah North Governorate",
@@ -114660,7 +114676,8 @@
   "finalCategory": "desert-camps",
   "reviewedAt": "2026-11-15T07:14:14.625Z",
   "slug": "safari-desert-camp-oman",
-  "draftedAt": "2026-11-15T07:14:14.838Z"
+  "draftedAt": "2026-11-15T07:14:14.838Z",
+  "publishedAt": "2026-11-15T08:42:33.954Z"
  },
  "osm:node/5468824836": {
   "id": "osm:node/5468824836",
@@ -137047,7 +137064,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "drafted",
+  "status": "published",
   "firstSeen": "2026-10-04",
   "lastSeen": "2026-11-15",
   "region": "Aqaba",
@@ -137077,7 +137094,8 @@
   "finalCategory": "desert-camps",
   "reviewedAt": "2026-11-15T07:14:14.625Z",
   "slug": "memories-aicha-luxury-camp-jordan",
-  "draftedAt": "2026-11-15T07:14:18.276Z"
+  "draftedAt": "2026-11-15T07:14:18.276Z",
+  "publishedAt": "2026-11-15T08:42:34.004Z"
  },
  "osm:node/7135940646": {
   "id": "osm:node/7135940646",
@@ -154715,7 +154733,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "drafted",
+  "status": "published",
   "firstSeen": "2026-10-07",
   "lastSeen": "2026-11-11",
   "region": "Ústí nad Labem Region",
@@ -154745,7 +154763,8 @@
   "finalCategory": "train-hotels",
   "reviewedAt": "2026-11-15T07:14:14.625Z",
   "slug": "vagony-na-horach-czechia",
-  "draftedAt": "2026-11-15T07:14:19.628Z"
+  "draftedAt": "2026-11-15T07:14:19.628Z",
+  "publishedAt": "2026-11-15T08:42:34.023Z"
  },
  "osm:node/9549364471": {
   "id": "osm:node/9549364471",
@@ -162139,7 +162158,7 @@
    "tourism": "hostel"
   },
   "source": "osm",
-  "status": "drafted",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "description": "Grade I listed castle in Forest of Dean, United Kingdom",
@@ -162172,7 +162191,8 @@
   "reviewedAt": "2026-10-10T07:33:28.800Z",
   "reviewNote": "Not published: YHA hostel; no evidence of sleeping in the castle.",
   "slug": "yha-st-briavels-castle-united-kingdom",
-  "draftedAt": "2026-11-14T21:36:43.469Z"
+  "draftedAt": "2026-11-14T21:36:43.469Z",
+  "publishedAt": "2026-11-15T08:42:34.078Z"
  },
  "osm:relation/18794909": {
   "id": "osm:relation/18794909",
@@ -166766,7 +166786,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "drafted",
+  "status": "published",
   "firstSeen": "2026-10-07",
   "lastSeen": "2026-11-11",
   "region": "England",
@@ -166796,7 +166816,8 @@
   "finalCategory": "train-hotels",
   "reviewedAt": "2026-11-15T07:14:14.625Z",
   "slug": "the-old-railway-station-united-kingdom",
-  "draftedAt": "2026-11-15T07:14:22.146Z"
+  "draftedAt": "2026-11-15T07:14:22.146Z",
+  "publishedAt": "2026-11-15T08:42:34.064Z"
  },
  "osm:way/1038327145": {
   "id": "osm:way/1038327145",
@@ -166961,7 +166982,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "drafted",
+  "status": "published",
   "firstSeen": "2026-10-04",
   "lastSeen": "2026-11-15",
   "region": "Khomas",
@@ -166991,7 +167012,8 @@
   "finalCategory": "desert-camps",
   "reviewedAt": "2026-11-15T07:14:14.625Z",
   "slug": "bushmans-desert-camp-namibia",
-  "draftedAt": "2026-11-15T07:14:17.580Z"
+  "draftedAt": "2026-11-15T07:14:17.580Z",
+  "publishedAt": "2026-11-15T08:42:33.992Z"
  },
  "osm:way/1041414446": {
   "id": "osm:way/1041414446",
@@ -168067,7 +168089,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "drafted",
+  "status": "published",
   "firstSeen": "2026-10-07",
   "lastSeen": "2026-11-11",
   "region": "Minnesota",
@@ -168097,7 +168119,8 @@
   "finalCategory": "train-hotels",
   "reviewedAt": "2026-11-15T07:14:14.625Z",
   "slug": "northern-rail-traincar-inn-united-states",
-  "draftedAt": "2026-11-15T07:14:15.239Z"
+  "draftedAt": "2026-11-15T07:14:15.239Z",
+  "publishedAt": "2026-11-15T08:42:33.960Z"
  },
  "osm:way/1059789338": {
   "id": "osm:way/1059789338",
@@ -172515,7 +172538,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "drafted",
+  "status": "published",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-11",
   "region": "New South Wales",
@@ -172545,7 +172568,8 @@
   "finalCategory": "lighthouse-hotels",
   "reviewedAt": "2026-11-15T07:14:14.625Z",
   "slug": "norah-head-lighthouse-and-cottages-australia",
-  "draftedAt": "2026-11-15T07:14:17.082Z"
+  "draftedAt": "2026-11-15T07:14:17.082Z",
+  "publishedAt": "2026-11-15T08:42:33.986Z"
  },
  "osm:way/112146827": {
   "id": "osm:way/112146827",
@@ -178589,7 +178613,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "drafted",
+  "status": "published",
   "firstSeen": "2026-10-04",
   "lastSeen": "2026-11-15",
   "region": "Drâa-Tafilalet",
@@ -178619,7 +178643,8 @@
   "finalCategory": "desert-camps",
   "reviewedAt": "2026-11-15T07:14:14.625Z",
   "slug": "desert-luxury-camp-morocco",
-  "draftedAt": "2026-11-15T07:14:20.841Z"
+  "draftedAt": "2026-11-15T07:14:20.841Z",
+  "publishedAt": "2026-11-15T08:42:34.047Z"
  },
  "osm:way/1236336435": {
   "id": "osm:way/1236336435",
@@ -186732,7 +186757,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "drafted",
+  "status": "published",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-14",
   "region": "Occitania",
@@ -186762,7 +186787,8 @@
   "finalCategory": "bubble-hotels",
   "reviewedAt": "2026-11-15T07:14:14.625Z",
   "slug": "somnen-bulle-france",
-  "draftedAt": "2026-11-15T07:14:21.537Z"
+  "draftedAt": "2026-11-15T07:14:21.537Z",
+  "publishedAt": "2026-11-15T08:42:34.055Z"
  },
  "osm:way/1388304409": {
   "id": "osm:way/1388304409",
@@ -195784,7 +195810,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "drafted",
+  "status": "published",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": "Washington",
@@ -195814,7 +195840,8 @@
   "finalCategory": "treehouse-hotels",
   "reviewedAt": "2026-11-15T07:14:14.625Z",
   "slug": "treehouse-point-united-states",
-  "draftedAt": "2026-11-15T07:14:16.658Z"
+  "draftedAt": "2026-11-15T07:14:16.658Z",
+  "publishedAt": "2026-11-15T08:42:33.976Z"
  },
  "osm:way/1557898123": {
   "id": "osm:way/1557898123",
@@ -196472,7 +196499,7 @@
    "stars": "4"
   },
   "source": "osm",
-  "status": "drafted",
+  "status": "published",
   "firstSeen": "2026-10-22",
   "lastSeen": "2026-11-12",
   "region": "Limpopo",
@@ -196502,7 +196529,8 @@
   "finalCategory": "treehouse-hotels",
   "reviewedAt": "2026-11-15T07:14:14.625Z",
   "slug": "pezulu-tree-house-lodge-south-africa",
-  "draftedAt": "2026-11-15T07:14:18.498Z"
+  "draftedAt": "2026-11-15T07:14:18.498Z",
+  "publishedAt": "2026-11-15T08:42:34.009Z"
  },
  "osm:way/157069253": {
   "id": "osm:way/157069253",
@@ -214377,7 +214405,7 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "drafted",
+  "status": "published",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-11",
   "description": "lighthouse on the Hudson River in New York, United States",
@@ -214409,7 +214437,8 @@
   "finalCategory": "lighthouse-hotels",
   "reviewedAt": "2026-11-15T07:14:14.625Z",
   "slug": "saugerties-lighthouse-united-states",
-  "draftedAt": "2026-11-15T07:14:18.733Z"
+  "draftedAt": "2026-11-15T07:14:18.733Z",
+  "publishedAt": "2026-11-15T08:42:34.013Z"
  },
  "osm:way/264888761": {
   "id": "osm:way/264888761",
@@ -217058,7 +217087,7 @@
    "stars": "4"
   },
   "source": "osm",
-  "status": "drafted",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "description": "castle in Barcaldine, Scotland",
@@ -217091,7 +217120,8 @@
   "reviewedAt": "2026-10-10T07:33:32.850Z",
   "reviewNote": "Not published: no evidence of rooms or bookable stay.",
   "slug": "barcaldine-castle-united-kingdom",
-  "draftedAt": "2026-11-14T21:36:43.267Z"
+  "draftedAt": "2026-11-14T21:36:43.267Z",
+  "publishedAt": "2026-11-15T08:42:34.076Z"
  },
  "osm:way/282764419": {
   "id": "osm:way/282764419",
@@ -236634,7 +236664,7 @@
    "historic": "lighthouse"
   },
   "source": "osm",
-  "status": "drafted",
+  "status": "published",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-11",
   "region": "England",
@@ -236664,7 +236694,8 @@
   "finalCategory": "lighthouse-hotels",
   "reviewedAt": "2026-11-15T07:14:14.625Z",
   "slug": "belle-tout-lighthouse-united-kingdom",
-  "draftedAt": "2026-11-15T07:14:20.053Z"
+  "draftedAt": "2026-11-15T07:14:20.053Z",
+  "publishedAt": "2026-11-15T08:42:34.035Z"
  },
  "osm:way/428931097": {
   "id": "osm:way/428931097",
@@ -256278,7 +256309,7 @@
    "tourism": "hostel"
   },
   "source": "osm",
-  "status": "drafted",
+  "status": "published",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-11",
   "region": null,
@@ -256308,7 +256339,8 @@
   "finalCategory": "lighthouse-hotels",
   "reviewedAt": "2026-11-15T07:14:14.625Z",
   "slug": "stf-berguddens-fyrvaktarbostader-sweden",
-  "draftedAt": "2026-11-15T07:14:20.265Z"
+  "draftedAt": "2026-11-15T07:14:20.265Z",
+  "publishedAt": "2026-11-15T08:42:34.038Z"
  },
  "osm:way/68701378": {
   "id": "osm:way/68701378",
@@ -261404,7 +261436,7 @@
    "stars": "3"
   },
   "source": "osm",
-  "status": "drafted",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "description": "castle in County Antrim, Northern Ireland",
@@ -261432,7 +261464,8 @@
   "siteSearch": "found",
   "lastEvidence": "2026-11-14",
   "slug": "ballygally-castle-hotel-united-kingdom",
-  "draftedAt": "2026-11-14T21:36:42.881Z"
+  "draftedAt": "2026-11-14T21:36:42.881Z",
+  "publishedAt": "2026-11-15T08:42:34.070Z"
  },
  "osm:way/773578903": {
   "id": "osm:way/773578903",
@@ -271412,7 +271445,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "drafted",
+  "status": "published",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": "Lower Saxony",
@@ -271442,7 +271475,8 @@
   "finalCategory": "treehouse-hotels",
   "reviewedAt": "2026-11-15T07:14:14.625Z",
   "slug": "baumhaushotel-otterndorf-germany",
-  "draftedAt": "2026-11-15T07:14:15.049Z"
+  "draftedAt": "2026-11-15T07:14:15.049Z",
+  "publishedAt": "2026-11-15T08:42:33.957Z"
  },
  "osm:way/95629259": {
   "id": "osm:way/95629259",
@@ -287058,7 +287092,7 @@
   "city": "Argyll and Bute",
   "description": "country house, now hotel, in Argyll and Bute, Scotland, UK",
   "source": "wikidata",
-  "status": "drafted",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "hasWikiImage": true,
@@ -287083,7 +287117,8 @@
   "reviewedAt": "2026-10-10T07:33:15.119Z",
   "websiteSource": "twin",
   "slug": "stonefield-castle-united-kingdom",
-  "draftedAt": "2026-11-14T21:36:43.065Z"
+  "draftedAt": "2026-11-14T21:36:43.065Z",
+  "publishedAt": "2026-11-15T08:42:34.073Z"
  },
  "wd:Q7903424": {
   "id": "wd:Q7903424",

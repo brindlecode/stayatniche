@@ -29,7 +29,8 @@ coordinates:
 officialWebsite: "https://wolkensteiner-zughotel.de/"
 sourceId: "osm:node/4552834424"
 verifiedAt: 2026-11-15
-status: draft
+publishedDate: 2026-11-15
+status: published
 ---
 
 The Wolkensteiner Zughotel is a hotel built from railway carriages in the small Ore Mountains town of Wolkenstein in Saxony, between Marienberg and Annaberg-Buchholz. It stands at Am Bahnsteig 10, directly on the B101 below Wolkenstein castle in the Zschopau valley. It presents itself as the only train hotel in Germany where you can both sleep and eat traditional Ore Mountains food.

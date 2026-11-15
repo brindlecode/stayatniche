@@ -33,7 +33,8 @@ coordinates:
 officialWebsite: "https://desertluxurycamp.com/"
 sourceId: "osm:way/1236273682"
 verifiedAt: 2026-11-15
-status: draft
+publishedDate: 2026-11-15
+status: published
 ---
 
 Desert Luxury Camp runs two tented camps in the Moroccan Sahara. The Erg Chebbi camp lies in the dunes near Merzouga, and the Erg Chigaga camp is by M'Hamid. It was set up by guides who grew up in the area, with the aim of keeping the stillness of the desert while still offering comfort.

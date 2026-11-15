@@ -34,7 +34,8 @@ verifiedAt: 2026-11-15
 checkInOut:
   checkIn: "15:00"
   checkOut: "11:00"
-status: draft
+publishedDate: 2026-11-15
+status: published
 ---
 
 Eight of the ten guest rooms at The Old Railway Station are in restored Pullman railway carriages, and the other two are in the Station House itself. This bed and breakfast sits in the former Petworth railway station in West Sussex, in the South Downs, and every room is en-suite with breakfast included.

@@ -47,6 +47,9 @@ Use only these sources:
 - A Wikipedia article in the pack (`wikipedia.text`) is a valid source for history and setting;
   paraphrase it. It is not a source for current rooms, prices or opening.
 - If only some rooms are the niche (`haiku.scope: some_units`), say so plainly in the description and body.
+- Treehouses: say plainly how the units are built, as the evidence gives it (in or attached to a tree,
+  or on stilts / pillars among trees). If the evidence does not say, record `blocked` and ask for research;
+  do not publish a treehouse page that cannot say what the structure is.
 
 ## 3. Write `src/content/hotels/<slug>.md`
 Slug: `kebab-case-name-country` (unique). Frontmatter (match `src/content/config.ts`):

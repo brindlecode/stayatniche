@@ -27,7 +27,7 @@ for (const d of decisions) {
   const path = `${INBOX}/${fileName(d.id)}`;
   if (!existsSync(path)) { console.log(`no evidence for ${d.id}`); noPack++; continue; }
   let ev; try { ev = JSON.parse(readFileSync(path, 'utf8')); ev.pages ??= []; } catch { console.log(`unreadable evidence for ${d.id}`); noPack++; continue; }
-  const hay = squash([ev.name, ev.wikidataDescription, ev.wikipedia?.extract, ev.wikipedia?.text, ...ev.pages.flatMap(p => [p.title, p.description, p.text])].filter(Boolean).join('\n'));
+  const hay = squash([ev.name, ev.wikidataDescription, ev.wikipedia?.extract, ev.wikipedia?.text, ...ev.pages.flatMap(p => [p.title, p.description, p.text, ...(p.captions ?? [])])].filter(Boolean).join('\n'));
   const ok = (quote) => { if (!quote) return false; stats.quotes++; const hit = hay.includes(squash(quote)); if (hit) stats.quotesOk++; return hit; };
   const dropped = [];
   const categoryQuoteOk = d.category_quote ? ok(d.category_quote) : false;

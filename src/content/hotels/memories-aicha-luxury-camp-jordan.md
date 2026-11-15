@@ -35,7 +35,8 @@ checkInOut:
 officialWebsite: "http://www.mlc.jo/"
 sourceId: "osm:node/7134042039"
 verifiedAt: 2026-11-15
-status: draft
+publishedDate: 2026-11-15
+status: published
 ---
 
 Memories Aicha Luxury Camp is a camp of 55 tents in the heart of Wadi Rum, tucked into a red valley between rugged mountains and open Arabian desert. The camp's own description is that the site looks more like a Mars colony than a campsite. The idea is to wake up in the wild without giving up hotel-level comfort.
