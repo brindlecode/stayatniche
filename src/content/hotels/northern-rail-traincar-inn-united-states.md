@@ -53,4 +53,4 @@ The inn is smoke-free and pet-free.
 
 Two Harbors is three miles south of the inn, near the junction of Highway 61 and County Highway 3, and Duluth is about 35 minutes away. From here guests can reach the Superior Hiking Trail, state snowmobile and ski trails, Gooseberry Falls, Split Rock Lighthouse and the Gitchi-Gami State Bicycle Trail.
 
-Rooms are bookable directly with the inn; ask which boxcar theme suits you best.
+If you have a favourite among the themes, ask for that boxcar when you book.

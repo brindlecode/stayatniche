@@ -8,7 +8,7 @@ priceRange: "Rates vary"
 highlights:
   - "Overnight guests can climb the operational lighthouse tower at any time during their stay"
   - "Two second-floor bedrooms, each with a double bed, with Hudson River views"
-  - "Reached on foot by a half-mile trail across the shoreline"
+  - "Reached on foot by a gentle half-mile trail"
   - "Small museum with the original beehive Fresnel lens and a model of the 1835 lighthouse"
   - "Open Thursday to Sunday nights all year"
 amenities:
