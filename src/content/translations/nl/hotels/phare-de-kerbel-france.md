@@ -24,7 +24,7 @@ seo:
   metaDescription: "Bretonse vuurtoren uit 1913 in Riantec: een studio bovenin de toren, een privétuin met zwembad en sauna en een voormalige olieopslag aan de voet."
 ---
 
-De Phare de Kerbel in Riantec, in Bretagne, werd in 1913 gebouwd om schepen de haven van Lorient in te loodsen. Als lichtopstand was hij vanaf augustus 1989 buiten gebruik. Volgens de eigenaars is het nu de enige vuurtoren in Frankrijk waar je op de top kunt wonen. Daar staat sinds kort een studio op de plek van de lantaarn, 25 meter hoog.
+De Phare de Kerbel in Riantec, in Bretagne, werd in 1913 gebouwd om schepen de haven van Lorient in te loodsen. Als lichtopstand was hij vanaf augustus 1989 buiten gebruik. Volgens de eigenaars is het de enige vuurtoren in Frankrijk waar je op de top kunt wonen. Daar staat nu een studio op de plek van de lantaarn, 25 meter hoog.
 
 ## Wat waar is
 
