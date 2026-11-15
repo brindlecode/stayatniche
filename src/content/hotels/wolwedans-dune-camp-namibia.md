@@ -28,7 +28,7 @@ verifiedAt: 2026-11-15
 status: draft
 ---
 
-Dune Camp is the original camp of Wolwedans, set on top of a 250-metre dune in the NamibRand Nature Reserve, just south of Sossusvlei in Namibia. From up there the views run across the desert in every direction. Canvas tents, shared dinners and sunsets set the pace, and the aim is a laid-back but stylish stay in which guests slow down and talk to one another.
+Dune Camp is the original camp of Wolwedans, set on top of a 250-metre dune in the NamibRand Nature Reserve in Namibia. From up there the views run across the desert in every direction. Canvas tents, shared dinners and sunsets set the pace, and the aim is a laid-back but stylish stay in which guests slow down and talk to one another.
 
 ## A camp with a past
 

@@ -3,7 +3,7 @@ name: "Belle Tout Lighthouse B&B"
 category: lighthouse-hotels
 destination: "Eastbourne, East Sussex"
 country: "United Kingdom"
-description: "A six-room B&B on the cliffs of Beachy Head. Only one room, the Keeper's Loft, is inside the original 1832 granite lighthouse; the other five are in the rest of the building."
+description: "A six-room B&B on the cliffs of Beachy Head. Only one room, the Keeper's Loft, is inside the original 1832 granite lighthouse; the B&B names it as the only room in the tower itself."
 priceRange: "Rates vary"
 highlights:
   - "Lighthouse built in 1832 on the cliffs of Beachy Head"
@@ -39,7 +39,7 @@ Belle Tout is a lighthouse bed and breakfast on the cliffs of Beachy Head, near 
 
 Not every room is inside the lighthouse itself. The Keeper's Loft is the only bedroom in the original granite lighthouse. It is the lighthouse keeper's original sleeping quarters, a very small room with a double bed on a mezzanine. It is popular, but it does not suit everyone: access is by a steep ladder and the ceiling above the bed is low.
 
-The other five rooms are in the rest of the building:
+The other five rooms are:
 
 - **Beachy Head**: double bedroom with en-suite shower room.
 - **Captain's Cabin**: double bedroom with en-suite shower room.

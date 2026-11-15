@@ -49,7 +49,7 @@ The kitchens come with a kettle, two hobs, a small fridge, crockery, cutlery and
 
 ## Hotel service
 
-Despite the woodland setting, the stay works like a hotel. Housekeeping and a reception team look after guests, and each morning a breakfast is served that is vegetarian and largely regional, with eggs and cheese included. Arrival starts with a welcome drink and a personal check-in that goes all the way up to the treehouse. Check-in runs from 15:00 to 17:30 and check-out is by 11:00. The minimum stay is one night.
+Despite the woodland setting, the stay works like a hotel. Housekeeping and a reception team look after guests, and each morning a breakfast is served that is vegetarian and largely regional, with eggs and cheese included. Arrival starts with a welcome drink and a personal check-in that goes all the way up to the treehouse. Check-in runs from 15:00 to 17:30 and check-out is by 11:00.
 
 ## Around the grounds
 
