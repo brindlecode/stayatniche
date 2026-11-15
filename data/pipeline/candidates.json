@@ -4901,7 +4901,12 @@
    "reason": "Treehouse-style villas raised among jungle trees; the site describes itself as adults-only. Page contains unrelated spam text, which was ignored.",
    "file": "data/pipeline/decisions/2026-10-22/checked.json",
    "decidedAt": "2026-10-22"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-15T07:08:44.773Z",
+   "note": "Sahibin sorusu: Odalar gerçekten ağaçların içinde ya da ağaca bağlı mı, yoksa sadece yüksekte kurulmuş bir bina mı? Otelin kendi sitesinden doğrulanmalı."
+  },
+  "refetch": true
  },
  "osm:node/10689436835": {
   "id": "osm:node/10689436835",
@@ -61584,11 +61589,12 @@
   "finalCategory": "desert-camps",
   "reviewedAt": "2026-11-15T07:14:14.625Z",
   "blocked": {
-   "reason": "Kampın kendi sitesinde yalnızca birkaç cümle var; odaların çadır olduğu bile yazmıyor. Uydurmadan sayfa yazılamaz. Yeni kanıt istendi.",
-   "at": "2026-11-15T07:14:32.773Z",
+   "reason": "Kampın sitesi hâlâ yalnızca birkaç cümle içeriyor ve odaların çadır olduğunu söylemiyor; uydurmadan sayfa yazılamıyor.",
+   "at": "2026-11-15T12:48:08.304Z",
    "tries": 1,
    "retry": true
-  }
+  },
+  "refetch": true
  },
  "osm:node/2495936525": {
   "id": "osm:node/2495936525",
@@ -137167,7 +137173,12 @@
    "reason": "Treehouse-only property with eight stilted treehouses; the site says the treehouses are not recommended for children under 10.",
    "file": "data/pipeline/decisions/2026-10-22/checked.json",
    "decidedAt": "2026-10-22"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-15T07:08:44.773Z",
+   "note": "Sahibin sorusu: Odalar gerçekten ağaçların içinde ya da ağaca bağlı mı, yoksa sadece yüksekte kurulmuş bir bina mı? Otelin kendi sitesinden doğrulanmalı. (Ön kontrol: site evlerin yerden 3-6 m yüksekte olduğunu yazıyor, ağaca bağlı olduğunu yazmıyor.)"
+  },
+  "refetch": true
  },
  "osm:node/7139631086": {
   "id": "osm:node/7139631086",
@@ -151032,7 +151043,12 @@
    "reason": "Site describes the property as a treehouse with suites built among forest trees, a clear match for treehouse-hotels.",
    "file": "data/pipeline/decisions/2026-10-23/checked.json",
    "decidedAt": "2026-10-23"
-  }
+  },
+  "research": {
+   "askedAt": "2026-11-15T07:08:44.769Z",
+   "note": "Sahibin sorusu: Odalar gerçekten ağaçların içinde ya da ağaca bağlı mı, yoksa sadece yüksekte kurulmuş bir bina mı? Otelin kendi sitesinden doğrulanmalı."
+  },
+  "refetch": true
  },
  "osm:node/911163664": {
   "id": "osm:node/911163664",
