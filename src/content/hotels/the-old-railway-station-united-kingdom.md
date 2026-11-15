@@ -3,7 +3,7 @@ name: "The Old Railway Station"
 category: train-hotels
 destination: "Petworth, West Sussex"
 country: "United Kingdom"
-description: "Eight of the ten en-suite rooms are in restored Pullman railway carriages and two are in the old station building, a bed and breakfast on the former Petworth railway line in West Sussex."
+description: "Eight of the ten en-suite rooms are in restored Pullman railway carriages and two are in the old station building, a bed and breakfast in the former Petworth railway station in West Sussex."
 priceRange: "Rates vary"
 highlights:
   - "Eight of the ten en-suite rooms are in restored Pullman railway carriages, two are in the Station House"
@@ -57,4 +57,4 @@ Chichester is 11 miles away, and Goodwood Racecourse, Motor Circuit and House ar
 
 ## Good to know
 
-Check-in is from 3pm to 6pm and check-out is by 11am. Children under 10 cannot stay overnight, and dogs cannot stay either, apart from assistance dogs. Ask for a King Pullman room if you want the bath.
+Check-in is from 3pm to 6pm and check-out is by 11am. Children under 10 cannot stay overnight, and dogs cannot stay either, apart from assistance dogs.
