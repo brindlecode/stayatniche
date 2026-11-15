@@ -31,6 +31,7 @@ const args = process.argv.slice(2);
 const q = loadQueue();
 let ids;
 let healed = 0;
+const requested = new Set(); // ids given on the command line (workflow input evidence_ids)
 if (args[0] === '--next') {
   // Fetched, never classified, and the pack is gone (e.g. a failed upload): fetch again.
   for (const c of Object.values(q)) {
@@ -38,6 +39,7 @@ if (args[0] === '--next') {
   }
   const rank = cellRanker(q);
   const extra = args.slice(2).filter(id => q[id]);
+  for (const id of extra) requested.add(id);
   // Blocked stays keep trying for better evidence: at once when flagged, then every 30 days, 3 tries.
   const due = (c) => c.status === 'blocked' && c.blocked?.retry && (c.blocked.tries ?? 0) < 3 && (!c.lastEvidence || Date.now() - Date.parse(c.lastEvidence) > 30 * 86400000);
   const forced = Object.values(q).filter(c => (c.refetch || due(c)) && (c.website || c.wikidata)).map(c => c.id);
@@ -53,7 +55,8 @@ const robotsCache = new Map();
 // Photo captions and alt texts say what a unit is ("treehouse on stilts between the oaks"); keep them.
 const captions = (html) => {
   const out = new Set();
-  for (const m of html.matchAll(/<img\b[^>]*\balt=["']([^"']{12,200})["']/gi)) out.add(m[1].replace(/\s+/g, ' ').trim());
+  // The closing quote must be the one that opened the attribute: alt="Robin's Nest on stilts".
+  for (const m of html.matchAll(/<img\b[^>]*\balt=(?:"([^"]{12,200})"|'([^']{12,200})')/gi)) out.add((m[1] ?? m[2]).replace(/\s+/g, ' ').trim());
   for (const m of html.matchAll(/<figcaption[^>]*>([\s\S]{12,300}?)<\/figcaption>/gi)) out.add(m[1].replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim());
   return [...out].slice(0, 40);
 };
@@ -169,7 +172,8 @@ const done = { packs: 0, empty: 0, errors: 0, why: {} };
 async function collect(id) {
   const c = q[id];
   if (!c) { console.log(`missing ${id}`); return; }
-  const forced = !!c.refetch || !UNDECIDED.includes(c.status);
+  // Deep read: flagged for re-fetch, already past classification, or asked for by id.
+  const forced = !!c.refetch || !UNDECIDED.includes(c.status) || requested.has(id);
   const pack = {
     id, name: c.name, queueStatus: c.status, queueCategory: c.category ?? c.categories[0], categories: c.categories,
     lat: c.lat, lng: c.lng, country: c.country, city: c.city, region: c.region ?? null,
