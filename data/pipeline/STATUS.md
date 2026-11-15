@@ -1,6 +1,6 @@
 # Otel hattı durumu
 
-Güncelleme: 2026-11-15T07:14:33.201Z. Kuyrukta 8585 aday. Sitede yayında 184 otel, 54 taslak (238 dosya).
+Güncelleme: 2026-11-15T07:59:03.948Z. Kuyrukta 8587 aday. Sitede yayında 184 otel, 54 taslak (238 dosya).
 
 ## Dikkat
 
@@ -10,11 +10,11 @@ Güncelleme: 2026-11-15T07:14:33.201Z. Kuyrukta 8585 aday. Sitede yayında 184 o
 
 | Aşama | Aday | Not |
 |---|---|---|
-| Resmi sitesi bilinmiyor (site bulucu sırasında) | 4320 | aranan: 3, bulunan: 3 |
+| Resmi sitesi bilinmiyor (site bulucu sırasında) | 4321 | aranan: 3, bulunan: 3 |
 | Sitesi var, kanıt indirilecek (gece işi) | 0 |  |
-| Site okunamadı, 30 günde bir yeniden denenir (3 denemede elenir) | 945 | neden kaydedilmemiş (eski kayıt): 945 |
-| Kanıtı hazır, sınıflandırıcıyı bekliyor | 0 |  |
-| **Sizin kararınızı bekliyor (onay kuyruğu)** | 506 | araştırma istenen: 37; son kararınız: 2026-11-15 |
+| Site okunamadı, 30 günde bir yeniden denenir (3 denemede elenir) | 945 | neden kaydedilmemiş (eski kayıt): 907; website fetch failed: 403: 17; no website known: 9; website fetch failed: bağlantı yok: 8 |
+| Kanıtı hazır, sınıflandırıcıyı bekliyor | 3 |  |
+| **Sizin kararınızı bekliyor (onay kuyruğu)** | 506 | araştırma istenen: 36; son kararınız: 2026-11-15 |
 | Onaylı, yazarı bekliyor | 0 |  |
 | Onaylı ama yazılamadı (kanıt yetersiz) | 5 | yeni kanıt bekleyen: 1 |
 | Taslak sayfası hazır, "yayınla" bekliyor | 43 |  |
@@ -25,7 +25,7 @@ Güncelleme: 2026-11-15T07:14:33.201Z. Kuyrukta 8585 aday. Sitede yayında 184 o
 
 | Otel | Neden | Deneme |
 |---|---|---|
-| Al Sultana Luxury Camp | Kampın kendi sitesinde yalnızca birkaç cümle var; odaların çadır olduğu bile yazmıyor. Uydurmadan sayfa yazılamaz. Yeni kanıt istendi. | 0 |
+| Al Sultana Luxury Camp | Kampın kendi sitesinde yalnızca birkaç cümle var; odaların çadır olduğu bile yazmıyor. Uydurmadan sayfa yazılamaz. Yeni kanıt istendi. | 1 |
 | Burlington Bath Castle | Bir dil okulunun öğrenci yurdu; odalar okulun öğrencileri için, gezginler rezervasyon yapamıyor. Reddetmenizi öneririm. | 0 (bekliyor: sizin kararınız) |
 | Erchless Castle | Kaynaklarda bu kalede konaklanabildiğine dair hiçbir bilgi yok (Wikipedia yalnızca tarihini ve sahiplerini anlatıyor, kendi sitesi açılmıyor). Reddetmenizi öneririm. | 1 (bekliyor: sizin kararınız) |
 | Pałac Kosińskich | Kaynaklarda bu sarayın otel olarak işletildiğine dair bilgi yok (Lehçe Wikipedia yalnızca mimarisini ve tarihini anlatıyor, kendi sitesi açılmıyor). Reddetmenizi öneririm. | 1 (bekliyor: sizin kararınız) |
@@ -35,11 +35,13 @@ Güncelleme: 2026-11-15T07:14:33.201Z. Kuyrukta 8585 aday. Sitede yayında 184 o
 
 | Aşama | Zaman (UTC) | Sonuç |
 |---|---|---|
+| evidence | 2026-11-15 07:59 | asked: 79, packs: 40, nothingReadable: 39, errors: 0, requeuedLostPacks: 0, reasons: {"website fetch failed: 503":1,"website fetch failed: 404":4,"website fetch failed: no connection":8,"website fetch failed: 403":17,"no website known":9} |
+| verify | 2026-11-15 07:58 | checked: 2, stillNew: 0 |
+| discover | 2026-11-15 07:58 | categories: ["cliffside-hotels","desert-camps"], added: 2, total: 8587 |
+| apply | 2026-11-15 07:54 | applied: {}, pruned: 81, unreadablePacks: 0 |
 | writer | 2026-11-15 07:14 | last: blocked Al Sultana Luxury Camp |
 | reviews | 2026-11-14 21:57 | documents: 729, changed: {"research requested":37,"rejected":81}, unreadable: 0 |
 | review | 2026-11-14 21:38 | newDocs: 1, updates: 10, onPage: 11, exportGiven: true |
-| apply | 2026-11-14 21:34 | applied: {"reopened for the writer":10}, pruned: 0, unreadablePacks: 0 |
-| evidence | 2026-11-14 21:33 | asked: 10, packs: 10, nothingReadable: 0, errors: 0, requeuedLostPacks: 0, reasons: {} |
 | sites | 2026-11-14 21:16 | found: 0, none: 0, refused: 0 |
 | sites-todo | 2026-11-14 21:15 | withoutWebsite: 4323, taken: 20 |
 
@@ -53,8 +55,8 @@ Güncelleme: 2026-11-15T07:14:33.201Z. Kuyrukta 8585 aday. Sitede yayında 184 o
 | castle-hotels | 0 | 4 | 760 | 210 | 0 | 4 | 7 | 45 | 617 | 23 |
 | floating-hotels | 0 | 0 | 79 | 17 | 0 | 0 | 0 | 4 | 15 | 2 |
 | bubble-hotels | 0 | 0 | 211 | 4 | 0 | 0 | 4 | 1 | 353 | 5 |
-| cliffside-hotels | 0 | 0 | 381 | 14 | 0 | 0 | 0 | 2 | 136 | 6 |
-| desert-camps | 0 | 0 | 241 | 10 | 0 | 1 | 6 | 2 | 42 | 4 |
+| cliffside-hotels | 0 | 0 | 382 | 14 | 0 | 0 | 0 | 2 | 136 | 6 |
+| desert-camps | 0 | 0 | 242 | 10 | 0 | 1 | 6 | 2 | 42 | 4 |
 | jungle-lodges | 0 | 0 | 845 | 65 | 0 | 0 | 1 | 3 | 149 | 5 |
 | ice-hotels | 0 | 0 | 100 | 5 | 0 | 0 | 0 | 2 | 69 | 14 |
 | safari-lodges | 0 | 3 | 898 | 108 | 0 | 0 | 1 | 2 | 102 | 19 |

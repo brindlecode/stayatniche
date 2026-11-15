@@ -1,10 +1,16 @@
 {
- "at": "2026-11-14T21:33:16.399Z",
+ "at": "2026-11-15T07:59:03.803Z",
  "ok": true,
- "asked": 10,
- "packs": 10,
- "nothingReadable": 0,
+ "asked": 79,
+ "packs": 40,
+ "nothingReadable": 39,
  "errors": 0,
  "requeuedLostPacks": 0,
- "reasons": {}
+ "reasons": {
+  "website fetch failed: 503": 1,
+  "website fetch failed: 404": 4,
+  "website fetch failed: no connection": 8,
+  "website fetch failed: 403": 17,
+  "no website known": 9
+ }
 }
