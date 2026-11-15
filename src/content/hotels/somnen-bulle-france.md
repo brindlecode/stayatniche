@@ -32,7 +32,7 @@ verifiedAt: 2026-11-15
 status: draft
 ---
 
-Somn'en Bulle offers nights in translucent inflatable bubbles in a forest on the edge of the Aveyron gorges, in the Occitanie region of southern France. The site is near the village of Najac, one of the villages classed among the most beautiful in France, and the site puts it about an hour and a half from Toulouse. Because the bubbles are transparent, they give a view of the surrounding nature and of the night sky.
+Somn'en Bulle offers nights in translucent inflatable bubbles in a forest on the edge of the Aveyron gorges, in the Occitanie region of southern France. The site is near the village of Najac, one of the villages classed among the most beautiful in France, and the site describes itself as close to Toulouse. Because the bubbles are transparent, they give a view of the surrounding nature and of the night sky.
 
 ## The bubbles
 

@@ -40,7 +40,7 @@ Bushman's Desert Camp sits on Farm Cha-re in the Namib Desert, 33 km north of So
 
 ## Where it came from
 
-The camp grew out of Sossus on Foot, a guiding company founded in 1996 by Boesman, who left a career as an insurance broker to get back to nature. He began with a transfer service for the final 5 km into Sossusvlei, where 4x4 vehicles are essential, and added guided walks in Sossusvlei in 1999. After a change in government legislation the operation moved out and began offering desert tours on its own farm. Guests on those tours needed somewhere to sleep, so campsites came first and self-catering units followed.
+The camp grew out of Sossus on Foot, a guiding company founded in 1996. Boesman, who left a career as an insurance broker to get back to nature, began with a transfer service for the final 5 km into Sossusvlei, where 4x4 vehicles are essential, and added guided walks in Sossusvlei in 1999. After a change in government legislation the operation moved out and began offering desert tours on its own farm. Guests on those tours needed somewhere to sleep, so campsites came first and self-catering units followed.
 
 ## The units
 

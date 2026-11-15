@@ -3,10 +3,10 @@ name: "Pu Luong Tree House"
 category: treehouse-hotels
 destination: "Pù Luông, Thanh Hóa Province"
 country: "Vietnam"
-description: "A secluded lodge in the Pu Luong Nature Reserve of northern Vietnam, with bamboo treehouses, stone-and-bamboo bungalows and a stilt house built in the local Black Thai style."
+description: "A secluded lodge in the Pu Luong Nature Reserve of northern Vietnam, with treehouses, stone-and-bamboo bungalows and a stilt house built in the local Black Thai style."
 priceRange: "Rates vary"
 highlights:
-  - "Bamboo treehouses built with traditional materials and methods by a master Vietnamese bamboo builder"
+  - "Treehouses built with traditional materials and methods by a master Vietnamese bamboo builder"
   - "Thatch-roofed bungalows built from stone found on the property and local bamboo"
   - "The Nest, a traditional wooden stilt house for a family of four or two couples, with a private pond and garden"
   - "Main gathering space in a rehabilitated stilt house in the style of the local Black Thai village"
@@ -37,11 +37,11 @@ Pu Luong Tree House is a secluded lodge in the Pu Luong Nature Reserve in Thanh 
 
 The treehouses are modern in design but built from traditional materials and methods by a master Vietnamese bamboo builder. They are not the only option. The thatch-roofed bungalows are built entirely from stone found on the property and local bamboo, and are described as a getaway for two.
 
-The Nest is a different kind of building: a traditional wooden house on stilts, with handmade furniture, linen bedding and decorative textiles gathered on trips through northern Vietnam. It is not a treehouse. It stands high enough among the treetops to look out over its own private pond and a garden full of flowers, and it suits a family of four or two couples. It is a favourite with returning guests, so it is worth reserving early.
+The Nest is a different kind of building: a traditional wooden house on stilts, with handmade furniture, linen bedding and decorative textiles gathered on trips through northern Vietnam. It is not a treehouse. It is perched high among the treetops, higher than the treehouses, with views of its own private pond and a garden full of flowers, and it suits a family of four or two couples. It is a favourite with returning guests, so it is worth reserving early.
 
 ## The stilt house
 
-The main gathering space is a rehabilitated stilt house built in the traditional style of the local Black Thai village. The tallest structure at the lodge is also a rehabilitated stilt house, built with the same local techniques. Dinner is served in a dedicated dining area.
+The main gathering space is a rehabilitated stilt house built in the traditional style of the local Black Thai village. The tallest structure at the lodge is also a rehabilitated stilt house, built with the same local techniques. There is also a dinner area.
 
 ## Days at the lodge
 

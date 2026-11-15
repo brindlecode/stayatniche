@@ -36,7 +36,7 @@ verifiedAt: 2026-11-15
 status: draft
 ---
 
-Sitka Lighthouse stands on a private one-acre island in Sitka Sound, a five-minute boat ride from the harbour in Sitka, Alaska. Guests stay inside the lighthouse itself, and the island, with its own boat dock, is theirs for the duration.
+Sitka Lighthouse stands on a private one-acre island, a five-minute boat ride from the harbour in Sitka, Alaska. Guests stay inside the lighthouse itself, and the island, with its own boat dock, is theirs for the duration.
 
 ## A lighthouse with a history
 
@@ -52,4 +52,4 @@ Outside, there is a hot tub, a fire pit and a grill on the deck. Four kayaks are
 
 Overnight stays include the airport shuttle and a water taxi on arrival and departure, with luggage storage and parking also provided. Groceries can be pre-ordered online before arrival so that they are waiting at check-in. A concierge service arranges fishing charters, boat tours, wine deliveries and dinner reservations. Guests also get a guest guide after booking, plus direct contact with the owner.
 
-Beyond the island, options include a whale watching and wine pairing trip, a fishing excursion, a hike on a nearby trail or a walk through downtown Sitka. Reservations can be made online, by phone or by email, and anyone with accessibility needs should ask before booking.
+Beyond the island, options include a whale watching and wine pairing trip, a fishing excursion, a hike on a nearby trail or a walk through downtown Sitka. Reservations can be made online, by phone or by email.

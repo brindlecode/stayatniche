@@ -3,11 +3,11 @@ name: "Bulles d'Olive"
 category: bubble-hotels
 destination: "Nyons, Auvergne-Rhône-Alpes"
 country: "France"
-description: "A small guesthouse near Nyons in the Drôme provençale with two transparent bubbles and a wooden cabin, plus a sun-heated pool."
+description: "A small guesthouse in Nyons, in the Drôme provençale with two transparent bubbles and a wooden cabin, plus a sun-heated pool."
 priceRange: "Rates vary"
 highlights:
   - "Two transparent bubbles (Olea and Provence) and a wooden cabin, the Zome Céleste"
-  - "Each unit has its own private path and its own private bathroom"
+  - "Each bubble has its own private path and its own private bathroom"
   - "Pool heated by the sun, with views of the Baronnies hills"
   - "Private jacuzzi available as an option"
   - "Reachable by train and bus"
@@ -35,20 +35,20 @@ verifiedAt: 2026-11-15
 status: draft
 ---
 
-Bulles d'Olive is a small guesthouse in the olive country outside Nyons, in the Drôme provençale. It has just three places to sleep: two transparent bubbles, Olea and Provence, and a wooden cabin called the Zome Céleste. Each is meant for two people, and the whole place is set up for a night together under the stars.
+Bulles d'Olive is a small guesthouse among olive trees at Nyons, in the Drôme provençale. It has just three places to sleep: two transparent bubbles, Olea and Provence, and a wooden cabin called the Zome Céleste. Each is meant for two people, and the whole place is set up for a night together under the stars.
 
 ## The bubbles and the cabin
 
-Every unit has its own private area reached by its own path, which keeps things quiet and private. Inside you will find a double bed, power sockets for charging your devices, and a terrace outside. A private sanitary space stands close to each unit, with a toilet, a shower and a washbasin that only you use. Linen and towels are provided, and the bed is made before you arrive.
+Every bubble has its own private area reached by its own path, which keeps things quiet and private. Inside you will find a double bed, power sockets for charging your devices, and a terrace outside. A private sanitary space stands close to each bubble, with a toilet, a shower and a washbasin that only you use. Linen and towels are provided, and the bed is made before you arrive.
 
 For heating and cooling, each bubble has a reversible Dyson heater that also works as a fan. The hosts suggest packing a light jumper for cool nights, and in a heatwave the bubbles and the cabin can be opened up for air. Sleeping in a bubble is possible whatever the weather, and rain simply patters on the roof.
 
 ## Pool, jacuzzi and breakfast
 
-The pool is heated only by the sun and has views toward the Baronnies hills. It is open from 8:00 to 22:00, with sun loungers beside it. A private jacuzzi can be added at 37 degrees. Breakfast is generous and homemade, and the hosts also take bookings for aperitif baskets. Eating inside the bubbles is not allowed; there are dedicated spaces for meals and picnics.
+The pool is heated only by the sun and has views toward the Baronnies hills. It is open from 8:00 to 22:00, with sun loungers beside it. A private jacuzzi can be added at 37 degrees. Breakfast is homemade, and the hosts also take bookings for aperitif baskets. Eating inside the bubbles is not allowed; there are dedicated spaces for meals and picnics.
 
 ## Hosts and practical notes
 
 Emilie and Vincent are your hosts, along with their two cats, Snow and Pistou. Pets are not accepted. Arrival is from 17:00 to 19:30, and it is not possible to turn up earlier, even just for the pool. Departure is at 11:00. A late-departure option extends your stay to 14:00 if you request it in advance.
 
-The guesthouse opens in mid-March each year and closes for the winter. There is parking for four cars, but not for camper vans, and no electric car charging. Nyons can be reached by train and bus, and the site lists Lyon, Grenoble and Marseille as about two hours away, with Mont Ventoux close by.
+The guesthouse opens in mid-March each year. There is parking for four cars, but not for camper vans, and no electric car charging. Nyons can be reached by train and bus, and the site lists Lyon, Grenoble and Marseille as about two hours away, with Mont Ventoux close by.

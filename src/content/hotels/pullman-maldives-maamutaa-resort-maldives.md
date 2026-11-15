@@ -7,12 +7,12 @@ description: "Only the Aqua Villas at this island resort have an underwater bedr
 priceRange: "Rates vary"
 highlights:
   - "Aqua Villas have a submerged bedroom beneath the lagoon, with a view of marine life"
-  - "Two-level Aqua Villa of 209 square metres with an overwater bedroom and a private pool"
+  - "Two-level Aqua Villa of 209 square metres with an overwater bedroom and a large swimming pool with a private deck"
   - "All other accommodation is beach or overwater villas without an underwater room"
   - "Private island of 18 hectares of vegetation with 122 villas"
   - "All-inclusive dining and drinks at three restaurants and three bars"
 amenities:
-  - "Private pool in the Aqua Villa"
+  - "Large swimming pool with private deck in the Aqua Villa"
   - "Direct lagoon access"
   - "Nespresso coffee machine"
   - "Island bathtub, indoor and outdoor showers"
@@ -33,7 +33,7 @@ verifiedAt: 2026-11-15
 status: draft
 ---
 
-Only the Aqua Villas at Pullman Maldives Maamutaa have an underwater bedroom. The rest of the resort is ordinary beach and overwater villas, which are comfortable but have no submerged room. Anyone booking for the underwater night should choose the Aqua Villa specifically.
+Only the Aqua Villas at Pullman Maldives Maamutaa have an underwater bedroom. The rest of the resort is ordinary beach and overwater villas, which have no submerged room. Anyone booking for the underwater night should choose the Aqua Villa specifically.
 
 ## The Aqua Villa
 

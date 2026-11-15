@@ -32,7 +32,7 @@ verifiedAt: 2026-11-15
 status: draft
 ---
 
-The Saugerties Lighthouse is an 1869 beacon on the Hudson River that doubles as a living museum and a bed and breakfast. Overnight guests sleep in the lighthouse itself, on a remote shoal surrounded by water, in an experience that is deliberately simple and nineteenth-century in feel.
+The Saugerties Lighthouse is an 1869 beacon on the Hudson River that doubles as a living museum and a bed and breakfast. Overnight guests sleep in the lighthouse itself, on a remote shoal surrounded by water, in an experience of rustic simplicity and nineteenth-century life.
 
 ## Getting there
 
@@ -40,7 +40,7 @@ The lighthouse is reached on foot along a gentle half-mile trail. The Hudson is 
 
 ## The rooms
 
-There are two second-floor bedrooms, each with a double bed. The rooms are not rented separately, so the whole lighthouse is shared by one party, whether a couple or a group of friends or family. The West Room looks south down the Hudson and west towards the Catskills. The larger East Room looks east onto the river and has its own auxiliary stove for the coldest months. For families, cots for two extra people are available on request. Children are welcome, and must be supervised by a responsible adult at all times.
+There are two second-floor bedrooms, each with a double bed. The rooms are not rented separately, so guests can come as a couple or invite family or friends for the other room. The West Room looks south down the Hudson and west towards the Catskills. The larger East Room looks east onto the river and has its own auxiliary stove for the coldest months. For families, cots for two extra people are available on request. Children are welcome, and must be supervised by a responsible adult at all times.
 
 All linens are provided. The first-floor bathroom is the only one and is shared by everyone staying. It has a sink and a claw-foot basin shower, and a composting toilet is used because of the remote location.
 

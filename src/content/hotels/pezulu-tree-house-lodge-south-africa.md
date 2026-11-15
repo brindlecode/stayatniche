@@ -43,7 +43,7 @@ A rock pool with loungers offers relief on hot summer days. Once the heat of the
 
 ## The setting
 
-Pezulu sits in game-rich country close to Kruger National Park and the Panorama Route. The lodge describes a wide variety of experiences for both those looking for excitement and those looking for quiet, and it runs a separate activities line for guests who want to arrange something during their stay.
+Pezulu sits in game-rich country close to Kruger National Park and the Panorama Route. The lodge describes a wide variety of experiences for both those looking for excitement and those looking for quiet.
 
 ## Practical notes
 

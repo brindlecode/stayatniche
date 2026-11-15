@@ -3,13 +3,13 @@ name: "Wolwedans Dune Camp"
 category: desert-camps
 destination: "NamibRand Nature Reserve, Hardap"
 country: "Namibia"
-description: "The original Wolwedans camp, a small canvas-tent camp on top of a 250-metre dune inside the 220,000-hectare NamibRand Nature Reserve."
+description: "The original Wolwedans camp, a canvas-tent camp on top of a 250-metre dune inside the 220,000-hectare NamibRand Nature Reserve."
 priceRange: "Rates vary"
 highlights:
   - "Sits atop a 250-metre dune with panoramic views across the desert"
   - "The original Wolwedans camp, on the site of the first four igloo dome tents"
   - "Canvas tents and shared dinners"
-  - "Inside the 220,000-hectare NamibRand Nature Reserve, a Dark Sky reserve"
+  - "Inside the 220,000-hectare NamibRand Nature Reserve, which Wolwedans describes as a Dark Sky reserve"
 amenities:
   - "Canvas tents"
   - "Shared dinners"
@@ -28,11 +28,11 @@ verifiedAt: 2026-11-15
 status: draft
 ---
 
-Dune Camp is the original camp of Wolwedans, set on top of a 250-metre dune in the NamibRand Nature Reserve in Namibia. From up there the views run across the desert in every direction. Canvas tents, shared dinners and sunsets set the pace, and the aim is a laid-back but stylish stay in which guests slow down and talk to one another.
+Dune Camp is the original camp of Wolwedans, set on top of a 250-metre dune in the NamibRand Nature Reserve in Namibia. From up there there are panoramic views across the desert. Canvas tents, shared dinners and sunsets set the pace, and the aim is a laid-back but stylish stay in which guests slow down and talk to one another.
 
 ## A camp with a past
 
-Wolwedans began in 1995 as a dream shared by Albi Brückner and his son Stephan, and it started with four igloo tents. Dune Camp stands where the first four Wolwedans Igloo Dome tents were put up. The igloos are long gone, but the camp has tried to keep the down-to-earth spirit of that time while adding comfort and style. It is a place that carries a lot of memories for the family.
+Wolwedans began in 1995 as a dream shared by Albi Brückner and his son Stephan, and it started with four igloo tents. Dune Camp stands where the first four Wolwedans Igloo Dome tents were put up. The igloos are long gone, but the camp has tried to keep the down-to-earth spirit of that time while adding comfort and style. It is a place that carries many memories.
 
 ## The reserve
 

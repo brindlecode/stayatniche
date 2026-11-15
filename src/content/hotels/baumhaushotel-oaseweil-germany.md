@@ -3,7 +3,7 @@ name: "Baumhaushotel OaseWeil"
 category: treehouse-hotels
 destination: "Weil im Schönbuch, Baden-Württemberg"
 country: "Germany"
-description: "Eight individually designed, solid-timber treehouses, all heated, set between forest and meadows in the Schönbuch Nature Park, each with its own terrace, kitchen and bathroom."
+description: "Eight different, solid-timber treehouses, all heated, set between forest and meadows in the Schönbuch Nature Park, each with its own terrace, kitchen and bathroom."
 priceRange: "Rates vary"
 highlights:
   - "Eight different treehouses, each built from solid wood and all heated"
@@ -39,7 +39,7 @@ verifiedAt: 2026-11-15
 status: draft
 ---
 
-OaseWeil is a treehouse hotel tucked between forest and meadows inside the Schönbuch Nature Park, close to Weil im Schönbuch in Baden-Württemberg. The village of treehouses has eight of them, all different from one another, all built from solid timber and all heated, which makes them usable well outside the summer months.
+OaseWeil is a treehouse hotel tucked between forest and meadows inside the Schönbuch Nature Park, close to Weil im Schönbuch in Baden-Württemberg. The village of treehouses has eight of them, all different from one another, all built from solid timber and all heated.
 
 ## The treehouses
 
@@ -55,4 +55,4 @@ Despite the woodland setting, the stay works like a hotel. Housekeeping and a re
 
 The main house holds Ayurveda massage and treatment rooms, and the Schönbuchhalle on the same grounds hosts private and business events. Beyond the property, a 560 km network of marked trails crosses the Schönbuch. The treehouse village is also a base for horse riding, golf, a falconry visit, brand-name warehouse sales, a thermal bath, e-bike hire and guided tours of the nature park.
 
-Rooms are booked online, by phone or by email, and every treehouse has its own name and layout, so ask which one fits your group size.
+Rooms are booked online, by phone or by email, and every treehouse has its own name, so ask which one fits your group size.

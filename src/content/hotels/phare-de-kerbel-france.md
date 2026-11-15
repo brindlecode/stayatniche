@@ -10,7 +10,7 @@ highlights:
   - "Described as the only lighthouse in France that can be lived in at its summit"
   - "360-degree panorama from the glazed top room, with blackout blinds on every pane"
   - "Private garden of over 1,000 square metres with pool and sauna for guests' exclusive use"
-  - "Once home to Honorine Le Guen, France's first woman lighthouse keeper"
+  - "Once kept by Honorine Le Guen, described as France's first woman lighthouse keeper"
 amenities:
   - "Kitchenette in the studio"
   - "Bed and bath linen provided"

@@ -37,7 +37,7 @@ Treehouse Point is a bed and breakfast of seven treehouses in an old-growth fore
 
 ## The treehouses
 
-Each treehouse has its own character. The Temple of the Blue Moon, the first on the property, was designed by Pete Nelson with the classic lines of the Parthenon in mind. A bridge crosses a slope to its door, and inside are a queen bed, a writing desk, reading chairs and a private balcony over the river.
+Each treehouse has its own character. The Temple of the Blue Moon, the first on the property, was designed by Pete Nelson with the classic lines of the Parthenon in mind. A bridge crosses a slope to its door, and inside are a queen bed, a writing desk, reading chairs and a private balcony where the river can be heard.
 
 Trillium roosts sixteen feet up in a cedar, with a sitting room below and a sleeping loft reached by a ship's ladder. Burl curls around the trunk of a fir that rises nearly 200 feet, and is reached by a long bridge. Bonbibi is secured to a Western red cedar and climbs by a curved staircase with cedar branch railings; it has no toilet, and guests walk to the bathhouse. Nest is the smallest at 100 square feet, tucked into cedar and spruce, with a deck facing the ponds. Upper Pond is 170 square feet with two lofted single beds and a queen, and sleeps four.
 

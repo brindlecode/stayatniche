@@ -3,10 +3,10 @@ name: "Train Station Inn"
 category: train-hotels
 destination: "Tatamagouche, Nova Scotia"
 country: "Canada"
-description: "Vintage Canadian-built cabooses and boxcars, converted into private suites beside an 1887 railway station on the Trans Canada Trail."
+description: "Vintage Canadian-built cabooses and boxcars, converted into private suites beside the original railway station, built around 1887, on the Trans Canada Trail."
 priceRange: "Rates vary"
 highlights:
-  - "Suites in vintage Canadian-built cabooses and a boxcar, redesigned inside with nods to their railway past"
+  - "Suites in vintage Canadian-built cabooses and boxcars, redesigned inside with nods to their railway past"
   - "Caboose #5 dates from 1912 and has a cupola lookout with a reading nook"
   - "An original station building from around 1887 housing a cafe and gift shop"
   - "Live music on the station platform two or three nights a week in summer"
@@ -33,7 +33,7 @@ verifiedAt: 2026-11-15
 status: draft
 ---
 
-The Train Station Inn sits in the village of Tatamagouche, Nova Scotia, where a 600-foot, 400-ton train stays parked as a dominant sight beside the old rail bed. The guest rooms are vintage Canadian-built cabooses and boxcars, authentic on the outside and redesigned inside as private suites that echo their railway past. The grounds are built around the original station, which dates from around 1887.
+The Train Station Inn sits in the village of Tatamagouche, Nova Scotia, where a 600-foot, 400-ton train remains a dominant sight. The guest rooms are vintage Canadian-built cabooses and boxcars, authentic on the outside and redesigned inside as private suites that echo their railway past. The original station building, which dates from around 1887, is part of the property.
 
 ## The railway cars
 

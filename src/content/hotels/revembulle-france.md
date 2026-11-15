@@ -28,7 +28,7 @@ verifiedAt: 2026-11-15
 status: draft
 ---
 
-Rêvembulle offers a night in a transparent bubble suspended up to 3 m above the ground, in the heart of the Massif des Écrins. It is run by Valgau Aventure in La Chapelle-en-Valgaudémar, and the idea is simple: sleep under the open sky in the middle of a national park, without the usual drawbacks of camping out.
+Rêvembulle offers a night in a transparent bubble suspended up to 3 m above the ground, in the heart of the Massif des Écrins. The postal address is Valgau Aventure in La Chapelle-en-Valgaudémar, and the idea is simple: sleep under the open sky in the middle of a national park, without the usual drawbacks of camping out.
 
 ## The bubble
 
@@ -36,7 +36,7 @@ The bubble is clear, so the night sky is the view. The owners describe a night b
 
 ## The setting
 
-The site lies in the Écrins national park, in Valgaudémar. The soundtrack is natural: waterfalls and the song of animals. The stay is private, and the starry sky is the main attraction.
+The site lies in the Écrins national park, in Valgaudémar. The soundtrack is natural: waterfalls and the song of animals. The stay is private.
 
 ## Forest massages
 

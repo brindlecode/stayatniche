@@ -46,7 +46,7 @@ Two tent types are featured: a Luxury Double Occupancy Tent for two guests, with
 
 Stays are all-inclusive. Each rate covers a traditional Moroccan dinner and breakfast, mint tea, a sunset camel trek to camp on arrival (or a 4x4 transfer), and an evening of campfire and Berber music. Sandboarding is part of the stay too. Meals are cooked by a kitchen team that makes tagines and harira.
 
-Everyone who works at the camp comes from the region, including the guides. The camp says it runs on solar power, conserves water and employs local people from Tessardmin, Hassilbid and Rissani.
+Everyone who works at the camp comes from the region, including the guides. The camp says it runs on solar power, conserves water and aims for tourism to benefit local families from Tessardmin, Hassilbid and Rissani.
 
 ## Getting there
 

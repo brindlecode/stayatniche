@@ -16,7 +16,7 @@ amenities:
   - "Breakfast included"
   - "Bed linen, bath towels and bathrobes provided"
   - "Massage treatments"
-  - "Picnic-style evening meal baskets"
+  - "Evening meal baskets"
 bestFor:
   - "Couples"
   - "Romantic breaks"
@@ -36,7 +36,7 @@ La Bulle Etoilée is a small bubble hotel in the countryside at Bonnemaison, in 
 
 ## The bubbles
 
-There are five bubbles, each with its own name: Zozo, Capu, Camille, Caramel and Groseille. Every one is isolated from the others, set in open countryside with no one overlooking it, so the transparent walls do not cost any privacy. Each bubble sleeps a maximum of two people. There are no family accommodations, which makes the place a natural choice for couples.
+There are five bubbles, each with its own name: Zozo, Capu, Camille, Caramel and Groseille. Every one is isolated from the others, set in open countryside with no one overlooking it. Each bubble sleeps a maximum of two people. There are no family accommodations, which makes the place a natural choice for couples.
 
 Each bubble comes with a private hot tub, and breakfast is included in the nightly rate. Bed linen, bath towels and bathrobes are provided. Pets are not allowed on the estate.
 

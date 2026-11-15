@@ -3,7 +3,7 @@ name: "Yuquiyú Treehouses"
 category: treehouse-hotels
 destination: "Río Grande, Puerto Rico"
 country: "United States"
-description: "Three small wooden treehouses raised on pillars among the trees on a canyon side in the foothills of El Yunque rainforest, each for two adults, with a river below and rainforest beyond."
+description: "Three treehouses raised on pillars among the trees on a canyon side in the foothills of El Yunque rainforest, each for two adults, with a river below and rainforest beyond."
 priceRange: "Rates vary"
 highlights:
   - "Three named treehouses raised on pillars among the trees on the side of a canyon"
@@ -35,7 +35,7 @@ verifiedAt: 2026-11-15
 status: draft
 ---
 
-Yuquiyú is a rustic retreat in the foothills of El Yunque, Puerto Rico's rainforest, and its accommodation is a set of three artisan-built treehouses. They are not perched in a single tree. Each one stands on pillars among the trees, on the side of a canyon, in an outcropping of massive boulders. Terraces with an organic garden, fruit trees and free parking sit above; a cascading river runs below, with the rainforest beyond.
+Yuquiyú is a rustic retreat in the foothills of El Yunque, Puerto Rico's rainforest, and its accommodation is a set of three artisan-built treehouses. Each one stands on pillars among the trees, on the side of a canyon, in an outcropping of massive boulders. Terraces with an organic garden, fruit trees and free parking sit above; a cascading river runs below, with the rainforest beyond.
 
 ## The treehouses
 
@@ -51,4 +51,4 @@ The design takes its cue from the small wooden houses that were common across Pu
 
 Guests can use a pool with a view and a plunge pool for cooling off. The property is less than an hour from San Juan's airport.
 
-The treehouses are compact, and in each the private bath is reached by a footbridge, a gravel path or a stairway rather than from inside the sleeping space. Yuquiyú also has a page explaining why it may not suit everyone, so it is worth reading before you book and checking that the layout and setting fit your abilities and interests.
+The treehouses are compact, and in each the private bath is reached by a footbridge, a gravel path or a stairway. Yuquiyú also has a page explaining why it may not suit everyone, so it is worth reading before you book and checking that the layout and setting fit your abilities and interests.

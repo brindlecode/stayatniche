@@ -7,7 +7,7 @@ description: "Two neighbouring lodges with 24 rooms each inside the Zuka Private
 priceRange: "Rates vary"
 highlights:
   - "Two lodges within walking distance of each other, Safari Lodge and Founders Lodge, with 24 rooms each"
-  - "Set inside the 10,300-hectare Zuka Private Game Reserve in northern Zululand"
+  - "Set inside Zuka Private Game Reserve, part of a 10,300-hectare rewilding project in northern Zululand"
   - "Morning and afternoon game drives, the latter with a sundowner stop"
   - "Boma dinners and, by prior booking, bush breakfasts and bush dinners"
   - "A malaria-free area about three hours by road from Durban"

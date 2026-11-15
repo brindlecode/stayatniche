@@ -51,4 +51,4 @@ The easiest way to reach the house is to drive along the beach towards the light
 
 ## An artist residency
 
-Alongside the accommodation, Fyrgaarden runs an artist residency. The setting is peaceful and quiet, surrounded by nature, and suits anyone wanting a break from connected everyday life. The lighthouse itself rises more than 40 metres above the sea.
+Alongside the accommodation, Fyrgaarden runs an artist residency. The setting is peaceful and quiet, surrounded by nature, and suits anyone wanting a break from connected everyday life.

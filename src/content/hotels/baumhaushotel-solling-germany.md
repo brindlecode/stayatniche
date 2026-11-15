@@ -8,7 +8,7 @@ priceRange: "Rates vary"
 highlights:
   - "Ten individually named treehouses, all heated, for two to five guests"
   - "Tree tents stretched between three trees about 1.5 metres above the forest floor"
-  - "Open year-round in the Solling-Vogler nature park"
+  - "Treehouses bookable year-round in the Solling-Vogler nature park"
   - "A winter romance package in the Kobel treehouse"
   - "Two handcarts that guests can borrow free of charge for luggage"
 amenities:

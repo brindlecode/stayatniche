@@ -3,7 +3,7 @@ name: "Vagony na horách"
 category: train-hotels
 destination: "Kovářská, Ústí nad Labem Region"
 country: "Czechia"
-description: "Converted railway wagons parked on a disused track at Kovářská station, 850 metres up on the Ore Mountains ridge, fitted out as heated studios."
+description: "Converted railway wagons parked on a disused track at Kovářská station, 850 metres up on the Ore Mountains ridge, fitted out as insulated studios."
 priceRange: "Rates vary"
 highlights:
   - "Disused railway wagons converted into studios at Kovářská station"
