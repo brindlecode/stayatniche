@@ -2376,7 +2376,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "drafted",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-14",
   "region": "Normandy",
@@ -2391,9 +2391,7 @@
    "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [
-   "no category evidence on official website"
-  ],
+  "reasons": [],
   "lastEvidence": "2026-10-13",
   "haiku": {
    "verdict": "accepted",
@@ -2404,7 +2402,11 @@
    "reason": "Transparent bubble accommodation in Normandy, clearly stated on the homepage; 5 named bubbles on the site, count taken from that list.",
    "file": "data/pipeline/decisions/2026-10-14/checked.json",
    "decidedAt": "2026-10-14"
-  }
+  },
+  "finalCategory": "bubble-hotels",
+  "reviewedAt": "2026-11-15T07:14:14.625Z",
+  "slug": "la-bulle-etoilee-france",
+  "draftedAt": "2026-11-15T07:14:21.053Z"
  },
  "osm:node/10197742768": {
   "id": "osm:node/10197742768",
@@ -7839,7 +7841,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "drafted",
   "firstSeen": "2026-10-07",
   "lastSeen": "2026-11-11",
   "region": "Lower Austria",
@@ -7854,9 +7856,7 @@
    "snippet": null
   },
   "checkedAt": "2026-10-07",
-  "reasons": [
-   "no category evidence on official website"
-  ],
+  "reasons": [],
   "lastEvidence": "2026-10-23",
   "haiku": {
    "verdict": "accepted",
@@ -7867,7 +7867,11 @@
    "reason": "Hotel rooms in two former ÖBB construction-train wagons, a clear train-hotels fit. The stated 2026 season end (21 Sep) has passed as of 2026-10-23, so status is seasonal rather than open.",
    "file": "data/pipeline/decisions/2026-10-23/checked.json",
    "decidedAt": "2026-10-23"
-  }
+  },
+  "finalCategory": "train-hotels",
+  "reviewedAt": "2026-11-15T07:14:14.625Z",
+  "slug": "zughotel-waldkirchen-austria",
+  "draftedAt": "2026-11-15T07:14:20.454Z"
  },
  "osm:node/10968105205": {
   "id": "osm:node/10968105205",
@@ -13355,7 +13359,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "drafted",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": "Puerto Rico",
@@ -13381,7 +13385,11 @@
    "reason": "Every accommodation on the site is a treehouse; three named treehouses are listed, and the site states each treehouse is for two adults aged 18 and older.",
    "file": "data/pipeline/decisions/2026-10-14/checked.json",
    "decidedAt": "2026-10-14"
-  }
+  },
+  "finalCategory": "treehouse-hotels",
+  "reviewedAt": "2026-11-15T07:14:14.625Z",
+  "slug": "yuquiyu-treehouses-united-states",
+  "draftedAt": "2026-11-15T07:14:15.656Z"
  },
  "osm:node/1154528427": {
   "id": "osm:node/1154528427",
@@ -18701,7 +18709,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "drafted",
   "firstSeen": "2026-10-07",
   "lastSeen": "2026-11-11",
   "region": "North Huvadhu Atoll",
@@ -18727,7 +18735,11 @@
    "reason": "The resort has two underwater bedrooms in its Aqua Villas, which fits underwater-rooms; the train-hotel label came from the brand name Pullman.",
    "file": "data/pipeline/decisions/2026-10-26/checked.json",
    "decidedAt": "2026-10-26"
-  }
+  },
+  "finalCategory": "underwater-rooms",
+  "reviewedAt": "2026-11-15T07:14:14.625Z",
+  "slug": "pullman-maldives-maamutaa-resort-maldives",
+  "draftedAt": "2026-11-15T07:14:22.347Z"
  },
  "osm:node/12090362822": {
   "id": "osm:node/12090362822",
@@ -21467,7 +21479,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "drafted",
   "firstSeen": "2026-10-05",
   "lastSeen": "2026-11-09",
   "region": "Tafilah",
@@ -21482,9 +21494,7 @@
    "snippet": null
   },
   "checkedAt": "2026-10-05",
-  "reasons": [
-   "no category evidence on official website"
-  ],
+  "reasons": [],
   "lastEvidence": "2026-10-25",
   "haiku": {
    "verdict": "accepted",
@@ -21495,7 +21505,11 @@
    "reason": "A built lodge in the desert landscape of Wadi Feynan with 26 rooms, which fits desert-camps; it is not in a rainforest.",
    "file": "data/pipeline/decisions/2026-10-25/checked.json",
    "decidedAt": "2026-10-25"
-  }
+  },
+  "finalCategory": "desert-camps",
+  "reviewedAt": "2026-11-15T07:14:14.625Z",
+  "slug": "feynan-ecolodge-jordan",
+  "draftedAt": "2026-11-15T07:14:16.062Z"
  },
  "osm:node/12299344501": {
   "id": "osm:node/12299344501",
@@ -29478,7 +29492,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "drafted",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-14",
   "region": "Provence-Alpes-Côte d'Azur",
@@ -29493,9 +29507,7 @@
    "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [
-   "no category evidence on official website"
-  ],
+  "reasons": [],
   "lastEvidence": "2026-10-13",
   "haiku": {
    "verdict": "accepted",
@@ -29506,7 +29518,11 @@
    "reason": "Whole property is a transparent sleeping bubble in the Ecrins national park; the site says the season ended on 5 October 2026.",
    "file": "data/pipeline/decisions/2026-10-14/checked.json",
    "decidedAt": "2026-10-14"
-  }
+  },
+  "finalCategory": "bubble-hotels",
+  "reviewedAt": "2026-11-15T07:14:14.625Z",
+  "slug": "revembulle-france",
+  "draftedAt": "2026-11-15T07:14:21.733Z"
  },
  "osm:node/13032128601": {
   "id": "osm:node/13032128601",
@@ -38001,7 +38017,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "drafted",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-11-10",
   "region": "KwaZulu-Natal",
@@ -38027,7 +38043,11 @@
    "reason": "Two lodges inside a private Big 5 game reserve with game drives, so safari-lodges fits the whole property.",
    "file": "data/pipeline/decisions/2026-10-10/checked.json",
    "decidedAt": "2026-10-10"
-  }
+  },
+  "finalCategory": "safari-lodges",
+  "reviewedAt": "2026-11-15T07:14:14.625Z",
+  "slug": "bayala-private-safari-lodges-south-africa",
+  "draftedAt": "2026-11-15T07:14:21.922Z"
  },
  "osm:node/13627120801": {
   "id": "osm:node/13627120801",
@@ -39196,7 +39216,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "drafted",
   "firstSeen": "2026-10-04",
   "lastSeen": "2026-11-08",
   "region": "Drâa-Tafilalet",
@@ -39222,7 +39242,11 @@
    "reason": "Clear desert tented camp in Erg Chebbi with all-inclusive stays; room counts are not stated as a total.",
    "file": "data/pipeline/decisions/2026-10-14/checked.json",
    "decidedAt": "2026-10-14"
-  }
+  },
+  "finalCategory": "desert-camps",
+  "reviewedAt": "2026-11-15T07:14:14.625Z",
+  "slug": "sahara-dunes-camp-morocco",
+  "draftedAt": "2026-11-15T07:14:21.287Z"
  },
  "osm:node/1372570253": {
   "id": "osm:node/1372570253",
@@ -39792,7 +39816,7 @@
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "drafted",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-11",
   "region": "Central Denmark Region",
@@ -39807,9 +39831,7 @@
    "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [
-   "no category evidence on official website"
-  ],
+  "reasons": [],
   "lastEvidence": "2026-10-21",
   "haiku": {
    "verdict": "accepted",
@@ -39820,7 +39842,11 @@
    "reason": "Rental of the 1826 lighthouse keeper's house beside the Anholt lighthouse, with three apartments and no electricity.",
    "file": "data/pipeline/decisions/2026-10-22/checked.json",
    "decidedAt": "2026-10-22"
-  }
+  },
+  "finalCategory": "lighthouse-hotels",
+  "reviewedAt": "2026-11-15T07:14:14.625Z",
+  "slug": "fyrgaarden-denmark",
+  "draftedAt": "2026-11-15T07:14:20.663Z"
  },
  "osm:node/13776699751": {
   "id": "osm:node/13776699751",
@@ -43591,7 +43617,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "drafted",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-11",
   "region": "Brittany",
@@ -43606,9 +43632,7 @@
    "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [
-   "no category evidence on official website"
-  ],
+  "reasons": [],
   "lastEvidence": "2026-10-13",
   "haiku": {
    "verdict": "accepted",
@@ -43619,7 +43643,11 @@
    "reason": "Lighthouse whose top has been converted into a studio, with keeper's house and oil room also let out; the evidence states it is the only lighthouse in France habitable at its top.",
    "file": "data/pipeline/decisions/2026-10-14/checked.json",
    "decidedAt": "2026-10-14"
-  }
+  },
+  "finalCategory": "lighthouse-hotels",
+  "reviewedAt": "2026-11-15T07:14:14.625Z",
+  "slug": "phare-de-kerbel-france",
+  "draftedAt": "2026-11-15T07:14:19.142Z"
  },
  "osm:node/14105410094": {
   "id": "osm:node/14105410094",
@@ -47693,7 +47721,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "drafted",
   "firstSeen": "2026-11-14",
   "lastSeen": "2026-11-14",
   "region": "Auvergne-Rhône-Alpes",
@@ -47708,9 +47736,7 @@
    "snippet": null
   },
   "checkedAt": "2026-11-14",
-  "reasons": [
-   "no category evidence on official website"
-  ],
+  "reasons": [],
   "lastEvidence": "2026-11-14",
   "haiku": {
    "verdict": "accepted",
@@ -47721,7 +47747,11 @@
    "reason": "Site describes two transparent bubbles and a cabin as its only rooms, so the stay itself is the bubble niche; seasonal opening stated in FAQ and homepage.",
    "file": "data/pipeline/decisions/2026-11-14/checked.json",
    "decidedAt": "2026-11-14"
-  }
+  },
+  "finalCategory": "bubble-hotels",
+  "reviewedAt": "2026-11-15T07:14:14.625Z",
+  "slug": "bulles-dolive-france",
+  "draftedAt": "2026-11-15T07:14:17.814Z"
  },
  "osm:node/1439822690": {
   "id": "osm:node/1439822690",
@@ -51773,7 +51803,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "drafted",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": "Lower Saxony",
@@ -51799,7 +51829,11 @@
    "reason": "The official site describes its ten treehouses and tree tents as the core offer, with the stay itself being the niche.",
    "file": "data/pipeline/decisions/2026-10-14/checked.json",
    "decidedAt": "2026-10-14"
-  }
+  },
+  "finalCategory": "treehouse-hotels",
+  "reviewedAt": "2026-11-15T07:14:14.625Z",
+  "slug": "baumhaushotel-solling-germany",
+  "draftedAt": "2026-11-15T07:14:16.855Z"
  },
  "osm:node/1772825035": {
   "id": "osm:node/1772825035",
@@ -53741,7 +53775,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "drafted",
   "firstSeen": "2026-10-07",
   "lastSeen": "2026-11-11",
   "region": "Nova Scotia",
@@ -53767,7 +53801,11 @@
    "reason": "All accommodations are restored cabooses and boxcars, which is a railway-carriage stay that matches train-hotels.",
    "file": "data/pipeline/decisions/2026-10-20/checked.json",
    "decidedAt": "2026-10-20"
-  }
+  },
+  "finalCategory": "train-hotels",
+  "reviewedAt": "2026-11-15T07:14:14.625Z",
+  "slug": "train-station-inn-canada",
+  "draftedAt": "2026-11-15T07:14:18.053Z"
  },
  "osm:node/1838715703": {
   "id": "osm:node/1838715703",
@@ -61028,7 +61066,7 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "drafted",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-11",
   "region": "Alaska",
@@ -61043,9 +61081,7 @@
    "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [
-   "no category evidence on official website"
-  ],
+  "reasons": [],
   "lastEvidence": "2026-10-12",
   "haiku": {
    "verdict": "accepted",
@@ -61056,7 +61092,11 @@
    "reason": "Guests stay inside a lighthouse on a private island, which is the whole offer.",
    "file": "data/pipeline/decisions/2026-10-14/checked.json",
    "decidedAt": "2026-10-14"
-  }
+  },
+  "finalCategory": "lighthouse-hotels",
+  "reviewedAt": "2026-11-15T07:14:14.625Z",
+  "slug": "sitka-lighthouse-united-states",
+  "draftedAt": "2026-11-15T07:14:19.382Z"
  },
  "osm:node/2461642997": {
   "id": "osm:node/2461642997",
@@ -61509,7 +61549,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "blocked",
   "firstSeen": "2026-10-04",
   "lastSeen": "2026-11-08",
   "region": "Aqaba",
@@ -61535,7 +61575,16 @@
    "reason": "The site presents a desert camp in Wadi Rum, though it does not state whether guest rooms are tents.",
    "file": "data/pipeline/decisions/2026-10-14/checked.json",
    "decidedAt": "2026-10-14"
-  }
+  },
+  "finalCategory": "desert-camps",
+  "reviewedAt": "2026-11-15T07:14:14.625Z",
+  "blocked": {
+   "reason": "Kampın kendi sitesinde yalnızca birkaç cümle var; odaların çadır olduğu bile yazmıyor. Uydurmadan sayfa yazılamaz. Yeni kanıt istendi.",
+   "at": "2026-11-15T07:14:32.773Z",
+   "tries": 0,
+   "retry": true
+  },
+  "refetch": true
  },
  "osm:node/2495936525": {
   "id": "osm:node/2495936525",
@@ -62362,7 +62411,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "drafted",
   "firstSeen": "2026-10-04",
   "lastSeen": "2026-11-08",
   "region": "Hardap",
@@ -62388,7 +62437,11 @@
    "reason": "Canvas tented camp on a dune in the Namib desert reserve, so desert-camps fits with the whole camp as the niche.",
    "file": "data/pipeline/decisions/2026-10-22/checked.json",
    "decidedAt": "2026-10-22"
-  }
+  },
+  "finalCategory": "desert-camps",
+  "reviewedAt": "2026-11-15T07:14:14.625Z",
+  "slug": "wolwedans-dune-camp-namibia",
+  "draftedAt": "2026-11-15T07:14:16.466Z"
  },
  "osm:node/2524997066": {
   "id": "osm:node/2524997066",
@@ -80391,7 +80444,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "drafted",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-11",
   "region": "Satakunta",
@@ -80406,9 +80459,7 @@
    "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [
-   "no category evidence on official website"
-  ],
+  "reasons": [],
   "lastEvidence": "2026-10-25",
   "haiku": {
    "verdict": "accepted",
@@ -80419,7 +80470,11 @@
    "reason": "Hotel whose guest rooms are in the lighthouse tower on an island, with a few separate island cottages; the lighthouse stay is the core of the property.",
    "file": "data/pipeline/decisions/2026-10-25/checked.json",
    "decidedAt": "2026-10-25"
-  }
+  },
+  "finalCategory": "lighthouse-hotels",
+  "reviewedAt": "2026-11-15T07:14:14.625Z",
+  "slug": "majakkahotelli-finland",
+  "draftedAt": "2026-11-15T07:14:17.341Z"
  },
  "osm:node/3634354131": {
   "id": "osm:node/3634354131",
@@ -90195,7 +90250,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "drafted",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": "Hesse",
@@ -90221,7 +90276,11 @@
    "reason": "Treehouse hotel with three treehouses, a stilt house, a ball house and five tree tents stated on the About page; the unit count of 10 is taken from that sentence. Child stays are restricted in some months and tree tents are adults-only.",
    "file": "data/pipeline/decisions/2026-10-14/checked.json",
    "decidedAt": "2026-10-14"
-  }
+  },
+  "finalCategory": "treehouse-hotels",
+  "reviewedAt": "2026-11-15T07:14:14.625Z",
+  "slug": "baumhaushotel-robins-nest-germany",
+  "draftedAt": "2026-11-15T07:14:16.273Z"
  },
  "osm:node/424228711": {
   "id": "osm:node/424228711",
@@ -97657,7 +97716,7 @@
    "historic": "railway_car"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "drafted",
   "firstSeen": "2026-10-07",
   "lastSeen": "2026-11-11",
   "category": "train-hotels",
@@ -97671,9 +97730,7 @@
    "snippet": null
   },
   "checkedAt": "2026-10-07",
-  "reasons": [
-   "no category evidence on official website"
-  ],
+  "reasons": [],
   "lastEvidence": "2026-10-19",
   "haiku": {
    "verdict": "accepted",
@@ -97684,7 +97741,11 @@
    "reason": "The site describes sleeping in original railway carriages as its core offer, which matches train-hotels with a direct quote.",
    "file": "data/pipeline/decisions/2026-10-19/checked.json",
    "decidedAt": "2026-10-19"
-  }
+  },
+  "finalCategory": "train-hotels",
+  "reviewedAt": "2026-11-15T07:14:14.625Z",
+  "slug": "wolkensteiner-zughotel-germany",
+  "draftedAt": "2026-11-15T07:14:15.455Z"
  },
  "osm:node/4553209789": {
   "id": "osm:node/4553209789",
@@ -114560,7 +114621,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "drafted",
   "firstSeen": "2026-10-04",
   "lastSeen": "2026-11-10",
   "region": "Ash Sharqiyah North Governorate",
@@ -114586,7 +114647,11 @@
    "reason": "Permanent Omani desert camp in the Wahiba Sands; the page also contains unrelated casino spam, which was ignored.",
    "file": "data/pipeline/decisions/2026-10-22/checked.json",
    "decidedAt": "2026-10-22"
-  }
+  },
+  "finalCategory": "desert-camps",
+  "reviewedAt": "2026-11-15T07:14:14.625Z",
+  "slug": "safari-desert-camp-oman",
+  "draftedAt": "2026-11-15T07:14:14.838Z"
  },
  "osm:node/5468824836": {
   "id": "osm:node/5468824836",
@@ -128354,7 +128419,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "drafted",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": "Thanh Hóa Province",
@@ -128380,7 +128445,11 @@
    "reason": "The site centres the lodge on treehouses that inspired it, with a treehouse on stilts called The Nest, so the treehouse-hotel category is well supported.",
    "file": "data/pipeline/decisions/2026-10-26/checked.json",
    "decidedAt": "2026-10-26"
-  }
+  },
+  "finalCategory": "treehouse-hotels",
+  "reviewedAt": "2026-11-15T07:14:14.625Z",
+  "slug": "pu-luong-tree-house-vietnam",
+  "draftedAt": "2026-11-15T07:14:18.944Z"
  },
  "osm:node/6456300216": {
   "id": "osm:node/6456300216",
@@ -129798,7 +129867,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "drafted",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": "Baden-Württemberg",
@@ -129824,7 +129893,11 @@
    "reason": "The site describes a treehouse hotel with eight heated treehouses, which is a whole-property fit for treehouse-hotels.",
    "file": "data/pipeline/decisions/2026-10-14/checked.json",
    "decidedAt": "2026-10-14"
-  }
+  },
+  "finalCategory": "treehouse-hotels",
+  "reviewedAt": "2026-11-15T07:14:14.625Z",
+  "slug": "baumhaushotel-oaseweil-germany",
+  "draftedAt": "2026-11-15T07:14:15.845Z"
  },
  "osm:node/6557143687": {
   "id": "osm:node/6557143687",
@@ -136927,7 +137000,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "drafted",
   "firstSeen": "2026-10-04",
   "lastSeen": "2026-11-08",
   "region": "Aqaba",
@@ -136953,7 +137026,11 @@
    "reason": "Tent camp in Wadi Rum with 55 tents, matching the desert-camp category directly.",
    "file": "data/pipeline/decisions/2026-10-15/checked.json",
    "decidedAt": "2026-10-15"
-  }
+  },
+  "finalCategory": "desert-camps",
+  "reviewedAt": "2026-11-15T07:14:14.625Z",
+  "slug": "memories-aicha-luxury-camp-jordan",
+  "draftedAt": "2026-11-15T07:14:18.276Z"
  },
  "osm:node/7135940646": {
   "id": "osm:node/7135940646",
@@ -154589,7 +154666,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "drafted",
   "firstSeen": "2026-10-07",
   "lastSeen": "2026-11-11",
   "region": "Ústí nad Labem Region",
@@ -154604,9 +154681,7 @@
    "snippet": null
   },
   "checkedAt": "2026-10-07",
-  "reasons": [
-   "no category evidence on official website"
-  ],
+  "reasons": [],
   "lastEvidence": "2026-10-24",
   "haiku": {
    "verdict": "accepted",
@@ -154617,7 +154692,11 @@
    "reason": "The site rents railway wagons as stays at a disused station; the OSM node Zelený is not named on the site, and sibling node osm:node/9549364471 is the same website.",
    "file": "data/pipeline/decisions/2026-10-24/checked.json",
    "decidedAt": "2026-10-24"
-  }
+  },
+  "finalCategory": "train-hotels",
+  "reviewedAt": "2026-11-15T07:14:14.625Z",
+  "slug": "vagony-na-horach-czechia",
+  "draftedAt": "2026-11-15T07:14:19.628Z"
  },
  "osm:node/9549364471": {
   "id": "osm:node/9549364471",
@@ -166636,7 +166715,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "drafted",
   "firstSeen": "2026-10-07",
   "lastSeen": "2026-11-11",
   "region": "England",
@@ -166662,7 +166741,11 @@
    "reason": "Official site describes a B&B where most guest rooms are in restored Pullman railway carriages, matching train-hotels.",
    "file": "data/pipeline/decisions/2026-10-17/checked.json",
    "decidedAt": "2026-10-17"
-  }
+  },
+  "finalCategory": "train-hotels",
+  "reviewedAt": "2026-11-15T07:14:14.625Z",
+  "slug": "the-old-railway-station-united-kingdom",
+  "draftedAt": "2026-11-15T07:14:22.146Z"
  },
  "osm:way/1038327145": {
   "id": "osm:way/1038327145",
@@ -166827,7 +166910,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "drafted",
   "firstSeen": "2026-10-04",
   "lastSeen": "2026-11-08",
   "region": "Khomas",
@@ -166853,7 +166936,11 @@
    "reason": "Open-air desert self-catering units and campsites on Farm Cha-re in the Namib Desert, matching desert-camps.",
    "file": "data/pipeline/decisions/2026-10-22/checked.json",
    "decidedAt": "2026-10-22"
-  }
+  },
+  "finalCategory": "desert-camps",
+  "reviewedAt": "2026-11-15T07:14:14.625Z",
+  "slug": "bushmans-desert-camp-namibia",
+  "draftedAt": "2026-11-15T07:14:17.580Z"
  },
  "osm:way/1041414446": {
   "id": "osm:way/1041414446",
@@ -167929,7 +168016,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "drafted",
   "firstSeen": "2026-10-07",
   "lastSeen": "2026-11-11",
   "region": "Minnesota",
@@ -167944,9 +168031,7 @@
    "snippet": null
   },
   "checkedAt": "2026-10-07",
-  "reasons": [
-   "no category evidence on official website"
-  ],
+  "reasons": [],
   "lastEvidence": "2026-10-15",
   "haiku": {
    "verdict": "accepted",
@@ -167957,7 +168042,11 @@
    "reason": "The whole property is made of real train boxcars; the accommodations page lists 14 units, which is used here although the home page says 15.",
    "file": "data/pipeline/decisions/2026-10-15/checked.json",
    "decidedAt": "2026-10-15"
-  }
+  },
+  "finalCategory": "train-hotels",
+  "reviewedAt": "2026-11-15T07:14:14.625Z",
+  "slug": "northern-rail-traincar-inn-united-states",
+  "draftedAt": "2026-11-15T07:14:15.239Z"
  },
  "osm:way/1059789338": {
   "id": "osm:way/1059789338",
@@ -168904,7 +168993,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "drafted",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": "Schleswig-Holstein",
@@ -168930,7 +169019,11 @@
    "reason": "The whole property is a treehouse hotel with lofts and lodges, and the site states that its concept is aimed at adults.",
    "file": "data/pipeline/decisions/2026-10-15/checked.json",
    "decidedAt": "2026-10-15"
-  }
+  },
+  "finalCategory": "treehouse-hotels",
+  "reviewedAt": "2026-11-15T07:14:14.625Z",
+  "slug": "ostsee-baumhaushotel-germany",
+  "draftedAt": "2026-11-15T07:14:19.839Z"
  },
  "osm:way/1075267870": {
   "id": "osm:way/1075267870",
@@ -172371,7 +172464,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "drafted",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-11",
   "region": "New South Wales",
@@ -172397,7 +172490,11 @@
    "reason": "Keepers' quarters at a lighthouse are offered as holiday accommodation; unit count is null because the site gives both two and three cottages.",
    "file": "data/pipeline/decisions/2026-10-20/checked.json",
    "decidedAt": "2026-10-20"
-  }
+  },
+  "finalCategory": "lighthouse-hotels",
+  "reviewedAt": "2026-11-15T07:14:14.625Z",
+  "slug": "norah-head-lighthouse-and-cottages-australia",
+  "draftedAt": "2026-11-15T07:14:17.082Z"
  },
  "osm:way/112146827": {
   "id": "osm:way/112146827",
@@ -178440,7 +178537,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "drafted",
   "firstSeen": "2026-10-04",
   "lastSeen": "2026-11-08",
   "region": "Drâa-Tafilalet",
@@ -178466,7 +178563,11 @@
    "reason": "Tented luxury camps deep in the Sahara with en-suite bathrooms; the site also sells tours, but the camps are the stay.",
    "file": "data/pipeline/decisions/2026-10-15/checked.json",
    "decidedAt": "2026-10-15"
-  }
+  },
+  "finalCategory": "desert-camps",
+  "reviewedAt": "2026-11-15T07:14:14.625Z",
+  "slug": "desert-luxury-camp-morocco",
+  "draftedAt": "2026-11-15T07:14:20.841Z"
  },
  "osm:way/1236336435": {
   "id": "osm:way/1236336435",
@@ -186578,7 +186679,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "drafted",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-14",
   "region": "Occitania",
@@ -186593,9 +186694,7 @@
    "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [
-   "no category evidence on official website"
-  ],
+  "reasons": [],
   "lastEvidence": "2026-10-13",
   "haiku": {
    "verdict": "accepted",
@@ -186606,7 +186705,11 @@
    "reason": "The official site describes transparent inflatable bubbles for sleeping under the stars, which is a direct bubble-hotel fit.",
    "file": "data/pipeline/decisions/2026-10-15/checked.json",
    "decidedAt": "2026-10-15"
-  }
+  },
+  "finalCategory": "bubble-hotels",
+  "reviewedAt": "2026-11-15T07:14:14.625Z",
+  "slug": "somnen-bulle-france",
+  "draftedAt": "2026-11-15T07:14:21.537Z"
  },
  "osm:way/1388304409": {
   "id": "osm:way/1388304409",
@@ -195627,7 +195730,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "drafted",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": "Washington",
@@ -195653,7 +195756,11 @@
    "reason": "A treehouse hotel where seven treehouses are the main offering; the site sets a 16+ age rule for overnight stays.",
    "file": "data/pipeline/decisions/2026-10-15/checked.json",
    "decidedAt": "2026-10-15"
-  }
+  },
+  "finalCategory": "treehouse-hotels",
+  "reviewedAt": "2026-11-15T07:14:14.625Z",
+  "slug": "treehouse-point-united-states",
+  "draftedAt": "2026-11-15T07:14:16.658Z"
  },
  "osm:way/1557898123": {
   "id": "osm:way/1557898123",
@@ -196311,7 +196418,7 @@
    "stars": "4"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "drafted",
   "firstSeen": "2026-10-22",
   "lastSeen": "2026-11-12",
   "region": "Limpopo",
@@ -196326,9 +196433,7 @@
    "snippet": null
   },
   "checkedAt": "2026-10-22",
-  "reasons": [
-   "no category evidence on official website"
-  ],
+  "reasons": [],
   "lastEvidence": "2026-10-22",
   "haiku": {
    "verdict": "accepted",
@@ -196339,7 +196444,11 @@
    "reason": "Every sleeping unit is described as a treehouse built around tree canopies, and the property is a small game lodge; game drives are not explicitly stated.",
    "file": "data/pipeline/decisions/2026-10-22/checked.json",
    "decidedAt": "2026-10-22"
-  }
+  },
+  "finalCategory": "treehouse-hotels",
+  "reviewedAt": "2026-11-15T07:14:14.625Z",
+  "slug": "pezulu-tree-house-lodge-south-africa",
+  "draftedAt": "2026-11-15T07:14:18.498Z"
  },
  "osm:way/157069253": {
   "id": "osm:way/157069253",
@@ -214211,7 +214320,7 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "drafted",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-11",
   "description": "lighthouse on the Hudson River in New York, United States",
@@ -214228,9 +214337,7 @@
    "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [
-   "no category evidence on official website"
-  ],
+  "reasons": [],
   "lastEvidence": "2026-10-12",
   "haiku": {
    "verdict": "accepted",
@@ -214241,7 +214348,11 @@
    "reason": "A lighthouse B&B where guests sleep in the building, clearly stated on the official site; children are allowed with supervision.",
    "file": "data/pipeline/decisions/2026-10-18/checked.json",
    "decidedAt": "2026-10-18"
-  }
+  },
+  "finalCategory": "lighthouse-hotels",
+  "reviewedAt": "2026-11-15T07:14:14.625Z",
+  "slug": "saugerties-lighthouse-united-states",
+  "draftedAt": "2026-11-15T07:14:18.733Z"
  },
  "osm:way/264888761": {
   "id": "osm:way/264888761",
@@ -236463,7 +236574,7 @@
    "historic": "lighthouse"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "drafted",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-11",
   "region": "England",
@@ -236489,7 +236600,11 @@
    "reason": "Lighthouse guest house on the Beachy Head cliffs with six rooms; the lighthouse itself is the stay, and the site states an adults-only (16+) policy.",
    "file": "data/pipeline/decisions/2026-10-20/checked.json",
    "decidedAt": "2026-10-20"
-  }
+  },
+  "finalCategory": "lighthouse-hotels",
+  "reviewedAt": "2026-11-15T07:14:14.625Z",
+  "slug": "belle-tout-lighthouse-united-kingdom",
+  "draftedAt": "2026-11-15T07:14:20.053Z"
  },
  "osm:way/428931097": {
   "id": "osm:way/428931097",
@@ -256072,7 +256187,7 @@
    "tourism": "hostel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "drafted",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-11",
   "region": null,
@@ -256087,9 +256202,7 @@
    "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [
-   "no category evidence on official website"
-  ],
+  "reasons": [],
   "lastEvidence": "2026-10-22",
   "haiku": {
    "verdict": "accepted",
@@ -256100,7 +256213,11 @@
    "reason": "Rooms are in the Bergudden lighthouse keeper's houses, a clear match for lighthouse-hotels; the osm tag says hostel, and the site lists 5 rooms and 11-25 beds.",
    "file": "data/pipeline/decisions/2026-10-23/checked.json",
    "decidedAt": "2026-10-23"
-  }
+  },
+  "finalCategory": "lighthouse-hotels",
+  "reviewedAt": "2026-11-15T07:14:14.625Z",
+  "slug": "stf-berguddens-fyrvaktarbostader-sweden",
+  "draftedAt": "2026-11-15T07:14:20.265Z"
  },
  "osm:way/68701378": {
   "id": "osm:way/68701378",
@@ -271203,7 +271320,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "drafted",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": "Lower Saxony",
@@ -271229,7 +271346,11 @@
    "reason": "Ten stilt houses in treetops by a North Sea dyke; the site says children under 6 are not suited, which does not fix an audience, so audience stays unknown.",
    "file": "data/pipeline/decisions/2026-10-24/checked.json",
    "decidedAt": "2026-10-24"
-  }
+  },
+  "finalCategory": "treehouse-hotels",
+  "reviewedAt": "2026-11-15T07:14:14.625Z",
+  "slug": "baumhaushotel-otterndorf-germany",
+  "draftedAt": "2026-11-15T07:14:15.049Z"
  },
  "osm:way/95629259": {
   "id": "osm:way/95629259",

@@ -44,7 +44,9 @@ const pageUrl = SITE + L.path('hotels', hotel.slug);
 // known, else a search. Booking.com earns nothing, so it is not offered; the official site is.
 const isOtaUrl = /(booking|expedia)\.com/.test(d.bookingUrl);
 const officialUrl = d.officialWebsite || (!isOtaUrl ? d.bookingUrl : null);
-const sellsOnExpedia = !!expediaHotelPage(hotel.slug) || d.category !== 'train-hotels' || !officialUrl;
+// A stay whose own booking link is its official site and that has no Expedia page is not offered an
+// Expedia name search: the search result is not that stay's page. (Train stays never were.)
+const sellsOnExpedia = !!expediaHotelPage(hotel.slug) || !officialUrl || (isOtaUrl && d.category !== 'train-hotels');
 // When Expedia has no page for this stay the link is a search for its name: say so on the button.
 const expediaUrl = expediaHotelUrl(hotel.slug, d.name, d.destination, { campaign: 'hotel-offer', content: hotel.slug });
 const offers = [
