@@ -41,7 +41,7 @@ The Nest is a different kind of building: a traditional wooden house on stilts, 
 
 ## The stilt house
 
-The main gathering space is a rehabilitated stilt house built in the traditional style of the local Black Thai village. A second stilt house, also rebuilt with local building techniques, is the tallest structure at the lodge. Dinner is served in a dedicated dining area.
+The main gathering space is a rehabilitated stilt house built in the traditional style of the local Black Thai village. The tallest structure at the lodge is also a rehabilitated stilt house, built with the same local techniques. Dinner is served in a dedicated dining area.
 
 ## Days at the lodge
 

@@ -48,4 +48,4 @@ Guests are welcomed at reception between 17:00 and 19:30, and the estate can be 
 
 For the evening, the owners offer meal baskets to eat in the bubble, with a seasonal menu they prepare themselves. Meal options do not have to be added when booking, and the choice can be sent up to 72 hours before the stay. Since the start of 2023, massage treatments have also been offered in a small chalet in the middle of the countryside, carried out by a qualified wellness masseuse. These are best reserved early to secure a time slot.
 
-The address is Le Haut Bosq, 14260 Bonnemaison. Ask the owners which bubble suits you before booking..
+The address is Le Haut Bosq, 14260 Bonnemaison. Ask the owners which of the five bubbles suits you before booking.
