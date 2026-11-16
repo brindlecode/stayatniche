@@ -1,6 +1,6 @@
 # Otel hattı durumu
 
-Güncelleme: 2026-11-15T07:59:03.948Z. Kuyrukta 8587 aday. Sitede yayında 184 otel, 54 taslak (238 dosya).
+Güncelleme: 2026-11-16T08:07:40.667Z. Kuyrukta 8590 aday. Sitede yayında 184 otel, 54 taslak (238 dosya).
 
 ## Dikkat
 
@@ -10,22 +10,22 @@ Güncelleme: 2026-11-15T07:59:03.948Z. Kuyrukta 8587 aday. Sitede yayında 184 o
 
 | Aşama | Aday | Not |
 |---|---|---|
-| Resmi sitesi bilinmiyor (site bulucu sırasında) | 4321 | aranan: 3, bulunan: 3 |
+| Resmi sitesi bilinmiyor (site bulucu sırasında) | 4323 | aranan: 3, bulunan: 3 |
 | Sitesi var, kanıt indirilecek (gece işi) | 0 |  |
-| Site okunamadı, 30 günde bir yeniden denenir (3 denemede elenir) | 945 | neden kaydedilmemiş (eski kayıt): 907; website fetch failed: 403: 17; no website known: 9; website fetch failed: bağlantı yok: 8 |
-| Kanıtı hazır, sınıflandırıcıyı bekliyor | 3 |  |
-| **Sizin kararınızı bekliyor (onay kuyruğu)** | 506 | araştırma istenen: 36; son kararınız: 2026-11-15 |
+| Site okunamadı, 30 günde bir yeniden denenir (3 denemede elenir) | 944 | neden kaydedilmemiş (eski kayıt): 866; no website known: 28; website fetch failed: 403: 20; website fetch failed: bağlantı yok: 20 |
+| Kanıtı hazır, sınıflandırıcıyı bekliyor | 10 |  |
+| **Sizin kararınızı bekliyor (onay kuyruğu)** | 506 | araştırma istenen: 39; son kararınız: 2026-11-15 |
 | Onaylı, yazarı bekliyor | 0 |  |
 | Onaylı ama yazılamadı (kanıt yetersiz) | 5 | yeni kanıt bekleyen: 1 |
 | Taslak sayfası hazır, "yayınla" bekliyor | 43 |  |
 | Yayında (bu hattan) | 91 |  |
-| Elendi / tekrar | 2675 |  |
+| Elendi / tekrar | 2676 |  |
 
 ## Yazılamayanlar
 
 | Otel | Neden | Deneme |
 |---|---|---|
-| Al Sultana Luxury Camp | Kampın kendi sitesinde yalnızca birkaç cümle var; odaların çadır olduğu bile yazmıyor. Uydurmadan sayfa yazılamaz. Yeni kanıt istendi. | 1 |
+| Al Sultana Luxury Camp | Kampın sitesi hâlâ yalnızca birkaç cümle içeriyor ve odaların çadır olduğunu söylemiyor; uydurmadan sayfa yazılamıyor. | 2 |
 | Burlington Bath Castle | Bir dil okulunun öğrenci yurdu; odalar okulun öğrencileri için, gezginler rezervasyon yapamıyor. Reddetmenizi öneririm. | 0 (bekliyor: sizin kararınız) |
 | Erchless Castle | Kaynaklarda bu kalede konaklanabildiğine dair hiçbir bilgi yok (Wikipedia yalnızca tarihini ve sahiplerini anlatıyor, kendi sitesi açılmıyor). Reddetmenizi öneririm. | 1 (bekliyor: sizin kararınız) |
 | Pałac Kosińskich | Kaynaklarda bu sarayın otel olarak işletildiğine dair bilgi yok (Lehçe Wikipedia yalnızca mimarisini ve tarihini anlatıyor, kendi sitesi açılmıyor). Reddetmenizi öneririm. | 1 (bekliyor: sizin kararınız) |
@@ -35,12 +35,12 @@ Güncelleme: 2026-11-15T07:59:03.948Z. Kuyrukta 8587 aday. Sitede yayında 184 o
 
 | Aşama | Zaman (UTC) | Sonuç |
 |---|---|---|
-| evidence | 2026-11-15 07:59 | asked: 79, packs: 40, nothingReadable: 39, errors: 0, requeuedLostPacks: 0, reasons: {"website fetch failed: 503":1,"website fetch failed: 404":4,"website fetch failed: no connection":8,"website fetch failed: 403":17,"no website known":9} |
-| verify | 2026-11-15 07:58 | checked: 2, stillNew: 0 |
-| discover | 2026-11-15 07:58 | categories: ["cliffside-hotels","desert-camps"], added: 2, total: 8587 |
-| apply | 2026-11-15 07:54 | applied: {}, pruned: 81, unreadablePacks: 0 |
-| writer | 2026-11-15 07:14 | last: blocked Al Sultana Luxury Camp |
-| reviews | 2026-11-14 21:57 | documents: 729, changed: {"research requested":37,"rejected":81}, unreadable: 0 |
+| evidence | 2026-11-16 08:07 | asked: 52, packs: 11, nothingReadable: 41, errors: 0, requeuedLostPacks: 0, reasons: {"website fetch failed: no connection":13,"website fetch failed: 403":3,"website fetch failed: 404":2,"no website known":19,"pages had no readable text":2,"website fetch failed: 500":2} |
+| verify | 2026-11-16 08:07 | checked: 3, stillNew: 0 |
+| discover | 2026-11-16 08:06 | categories: ["jungle-lodges","ice-hotels"], added: 3, total: 8590 |
+| apply | 2026-11-16 08:02 | applied: {}, pruned: 0, unreadablePacks: 0 |
+| writer | 2026-11-15 12:48 | last: blocked Al Sultana Luxury Camp |
+| reviews | 2026-11-15 12:48 | documents: 729, changed: {"research requested":3}, unreadable: 0 |
 | review | 2026-11-14 21:38 | newDocs: 1, updates: 10, onPage: 11, exportGiven: true |
 | sites | 2026-11-14 21:16 | found: 0, none: 0, refused: 0 |
 | sites-todo | 2026-11-14 21:15 | withoutWebsite: 4323, taken: 20 |
@@ -57,9 +57,9 @@ Güncelleme: 2026-11-15T07:59:03.948Z. Kuyrukta 8587 aday. Sitede yayında 184 o
 | bubble-hotels | 0 | 0 | 211 | 4 | 0 | 0 | 4 | 1 | 353 | 5 |
 | cliffside-hotels | 0 | 0 | 382 | 14 | 0 | 0 | 0 | 2 | 136 | 6 |
 | desert-camps | 0 | 0 | 242 | 10 | 0 | 1 | 6 | 2 | 42 | 4 |
-| jungle-lodges | 0 | 0 | 845 | 65 | 0 | 0 | 1 | 3 | 149 | 5 |
+| jungle-lodges | 0 | 0 | 848 | 65 | 0 | 0 | 1 | 3 | 149 | 5 |
 | ice-hotels | 0 | 0 | 100 | 5 | 0 | 0 | 0 | 2 | 69 | 14 |
 | safari-lodges | 0 | 3 | 898 | 108 | 0 | 0 | 1 | 2 | 102 | 19 |
 | overwater-bungalows | 0 | 0 | 39 | 0 | 0 | 0 | 0 | 3 | 2 | 35 |
-| lighthouse-hotels | 0 | 0 | 431 | 13 | 0 | 0 | 8 | 3 | 534 | 5 |
+| lighthouse-hotels | 0 | 0 | 430 | 13 | 0 | 0 | 8 | 3 | 535 | 5 |
 | train-hotels | 0 | 0 | 471 | 9 | 0 | 0 | 7 | 1 | 156 | 32 |
