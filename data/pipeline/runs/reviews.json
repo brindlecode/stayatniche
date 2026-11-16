@@ -1,7 +1,9 @@
 {
- "at": "2026-11-16T10:13:54.828Z",
+ "at": "2026-11-16T12:48:40.893Z",
  "ok": true,
- "documents": 729,
- "changed": {},
+ "documents": 730,
+ "changed": {
+  "rejected": 6
+ },
  "unreadable": 0
 }

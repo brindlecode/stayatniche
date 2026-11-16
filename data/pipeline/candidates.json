@@ -2449,15 +2449,18 @@
    "category": "safari-lodges",
    "scope": "whole_property",
    "confidence": 0.6,
-   "feature": "Safari lodge in South Africa offering game viewing, with 9 air-conditioned double rooms",
-   "reason": "Site describes itself as a safari experience with game viewing and 9 rooms, but does not explicitly mention game drives or a reserve, so confidence is moderate; operating status is unknown because the site carries only 2018 news items.",
-   "file": "data/pipeline/decisions/2026-11-09/checked.json",
-   "decidedAt": "2026-11-09"
+   "feature": "Safari lodge in the Northern Cape offering game viewing and photo safaris",
+   "reason": "Reviewer asked about open status and niche: the live site with bookings shows no closure and offers game viewing at a safari lodge, but it never names a reserve or game drives, so confidence is moderate.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-15T07:58:07.619Z"
   },
   "research": {
    "askedAt": "2026-11-14T21:55:43.349Z",
    "note": "Ön eleme: Kanıt yetersiz: tesisin şu an açık olduğu ve niş özelliği kaynakta yeterince net değil.",
-   "fetchedAt": "2026-11-15"
+   "fetchedAt": "2026-11-15",
+   "doneAt": "2026-11-16",
+   "result": "needs_review"
   }
  },
  "osm:node/10205758318": {
@@ -2822,19 +2825,22 @@
   ],
   "lastEvidence": "2026-11-15",
   "haiku": {
-   "verdict": "needs_review",
+   "verdict": "accepted",
    "category": "castle-hotels",
    "scope": "whole_property",
-   "confidence": 0.6,
-   "feature": "Boutique hotel housed in a historic castle fortification",
-   "reason": "Wikipedia extract says the castle remains are now a four-star boutique hotel; the official site returned no text, so room facts and status are unverified.",
-   "file": "data/pipeline/decisions/2026-10-11/checked.json",
-   "decidedAt": "2026-10-11"
+   "confidence": 0.9,
+   "feature": "Boutique hotel inside a restored 9th-century Moorish fortress on a hilltop near Marbella",
+   "reason": "Reviewer said the hotel site could not be read, but the fetched castillodemonda.com pages are the hotel's own site and state that all guest rooms are inside the castle, so this is a whole-property castle hotel.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-15T07:58:07.639Z"
   },
   "research": {
    "askedAt": "2026-11-14T21:55:43.349Z",
    "note": "Ön eleme: Kanıt yetersiz: otelin kendi sitesi okunamadı, elde yalnızca Wikipedia/harita bilgisi var.",
-   "fetchedAt": "2026-11-15"
+   "fetchedAt": "2026-11-15",
+   "doneAt": "2026-11-16",
+   "result": "accepted"
   }
  },
  "osm:node/1025358473": {
@@ -4895,19 +4901,22 @@
   "reasons": [],
   "lastEvidence": "2026-11-16",
   "haiku": {
-   "verdict": "accepted",
+   "verdict": "needs_review",
    "category": "treehouse-hotels",
-   "scope": "whole_property",
-   "confidence": 0.85,
-   "feature": "Elevated treehouse-style villas on a jungle hillside above Phang Nga Bay",
-   "reason": "Treehouse-style villas raised among jungle trees; the site describes itself as adults-only. Page contains unrelated spam text, which was ignored.",
-   "file": "data/pipeline/decisions/2026-10-22/checked.json",
-   "decidedAt": "2026-10-22"
+   "scope": "some_units",
+   "confidence": 0.8,
+   "feature": "Luxury resort on Koh Yao Noi whose signature TreeHouse Villa sits in the jungle canopy, with grounded treehouse-style pool villas",
+   "reason": "Reviewer asked whether the rooms are really in trees: the TreeHouse Villa is a treetop villa reached by a suspended bridge with a balcony above the canopy, but the beachfront pool villas are described as grounded, so only some units are in trees.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-16T08:07:04.158Z"
   },
   "research": {
    "askedAt": "2026-11-15T07:08:44.773Z",
    "note": "Sahibin sorusu: Odalar gerçekten ağaçların içinde ya da ağaca bağlı mı, yoksa sadece yüksekte kurulmuş bir bina mı? Otelin kendi sitesinden doğrulanmalı.",
-   "fetchedAt": "2026-11-16"
+   "fetchedAt": "2026-11-16",
+   "doneAt": "2026-11-16",
+   "result": "needs_review"
   }
  },
  "osm:node/10689436835": {
@@ -21691,16 +21700,19 @@
    "verdict": "needs_review",
    "category": "castle-hotels",
    "scope": "unclear",
-   "confidence": 0.5,
-   "feature": "Knight's castle (Zamek Rycerski) in Krąg, described as a hotel; room details not on the fetched pages",
-   "reason": "The site links a castle at Krąg that takes direct bookings, but most fetched pages describe the separate Gdańsk hotel, so the stay inside the castle is not confirmed.",
-   "file": "data/pipeline/decisions/2026-10-15/checked.json",
-   "decidedAt": "2026-10-15"
+   "confidence": 0.35,
+   "feature": "Possible knight's castle (Zamek Rycerski) in Krag, but the fetched pages only describe the Gdansk city hotel",
+   "reason": "Reviewer asked about scope: the fetched pages cover only Hotel Podewils Gdansk, and the Krag castle appears only in a meta description, so whether guests sleep inside the Krag castle is not established.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-15T07:58:07.656Z"
   },
   "research": {
    "askedAt": "2026-11-14T21:55:43.349Z",
    "note": "Ön eleme: Kanıt yetersiz: niş özelliğinin kapsamı kaynakta net değil.",
-   "fetchedAt": "2026-11-15"
+   "fetchedAt": "2026-11-15",
+   "doneAt": "2026-11-16",
+   "result": "needs_review"
   }
  },
  "osm:node/12302490053": {
@@ -31274,17 +31286,20 @@
   "haiku": {
    "verdict": "needs_review",
    "category": "castle-hotels",
-   "scope": "whole_property",
-   "confidence": 0.5,
-   "feature": "Hilltop hotel built as a Scottish-style castle overlooking Nuwara Eliya",
-   "reason": "The site itself calls the hotel an ancient Scottish-style castle with rooms in it, but the style wording and an FAQ that describes an 86th-floor observatory make the castle claim uncertain, so confidence is moderate.",
-   "file": "data/pipeline/decisions/2026-10-24/checked.json",
-   "decidedAt": "2026-10-24"
+   "scope": "unclear",
+   "confidence": 0.4,
+   "feature": "Hotel styled as a castle on a hill above Nuwara Eliya, with rooms beside a mini castle tower",
+   "reason": "Reviewer flagged the style wording and an FAQ about an 86th-floor observatory that does not fit a hotel, so the ancient-castle claim is unreliable and rooms inside a castle are not confirmed.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-15T07:58:08.526Z"
   },
   "research": {
    "askedAt": "2026-11-14T21:55:43.349Z",
    "note": "Ön eleme: Kanıt yetersiz: The site itself calls the hotel an ancient Scottish-style castle with rooms in it, but the style wording and an FAQ that describes an 86th-floor observatory mak",
-   "fetchedAt": "2026-11-15"
+   "fetchedAt": "2026-11-15",
+   "doneAt": "2026-11-16",
+   "result": "needs_review"
   }
  },
  "osm:node/13110779963": {
@@ -33235,7 +33250,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-11-10",
   "region": "Mara Region",
@@ -33250,23 +33265,29 @@
    "snippet": "Serengeti Kati Kati Tented Camp | Tanganyika Wilderness Camps Mobile Camps Serengeti Kati Kati Tented Camp Serengeti National Park About accommodation Experiences Gallery Arusha Kahawa House Kilimanjaro Kambi ya Tembo ...  Serengeti Kati Kati Tented Camp | Tanganyika Wilderness Camps Skip to content Lodges Close Lodges Open Lodges Arusha KAHAWA HOUSE Kilimanjaro Kambi"
   },
   "checkedAt": "2026-10-06",
-  "reasons": [],
+  "reasons": [
+   "haiku: Reviewer is right: the linked page describes the sibling Serengeti Kati Kati camp and Mara Kati Kati appears only as a list item, so no facts are taken and the safari-camp category rests on the name alone."
+  ],
   "lastEvidence": "2026-11-15",
   "haiku": {
-   "verdict": "needs_review",
+   "verdict": "rejected",
    "category": "safari-lodges",
-   "scope": "unclear",
-   "confidence": 0.4,
-   "feature": "Mobile tented camp in central Serengeti",
-   "reason": "The linked page describes Serengeti Kati Kati, a sibling camp, not the OSM name Mara Kati Kati, which appears only as a list item; no facts are taken from the page.",
-   "file": "data/pipeline/decisions/2026-10-11/checked.json",
-   "decidedAt": "2026-10-11"
+   "scope": "name_only",
+   "confidence": 0.3,
+   "feature": null,
+   "reason": "Reviewer is right: the linked page describes the sibling Serengeti Kati Kati camp and Mara Kati Kati appears only as a list item, so no facts are taken and the safari-camp category rests on the name alone.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-15T07:58:10.008Z"
   },
   "research": {
    "askedAt": "2026-11-14T21:55:43.349Z",
    "note": "Ön eleme: Kanıt yetersiz: The linked page describes Serengeti Kati Kati, a sibling camp, not the OSM name Mara Kati Kati, which appears only as a list item; no facts are taken from the p",
-   "fetchedAt": "2026-11-15"
-  }
+   "fetchedAt": "2026-11-15",
+   "doneAt": "2026-11-16",
+   "result": "rejected"
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/13318869135": {
   "id": "osm:node/13318869135",
@@ -34219,17 +34240,20 @@
   "haiku": {
    "verdict": "needs_review",
    "category": "jungle-lodges",
-   "scope": "whole_property",
-   "confidence": 0.55,
-   "feature": "Village homestay in forest on the edge of a wildlife sanctuary in South Goa, in a traditional mud house",
-   "reason": "The site describes a forest village homestay in Goa rather than a rainforest lodge, so the jungle fit is supported by the forest setting but is not certain.",
-   "file": "data/pipeline/decisions/2026-10-17/checked.json",
-   "decidedAt": "2026-10-17"
+   "scope": "unclear",
+   "confidence": 0.5,
+   "feature": "Village homestay in forest near a wildlife sanctuary in South Goa",
+   "reason": "Reviewer asked about open status and niche: the live site describes a forest homestay near a wildlife sanctuary, but it never says rainforest or cloud forest and the jungle label is partly the name, so scope is unclear.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-15T07:58:14.139Z"
   },
   "research": {
    "askedAt": "2026-11-14T21:55:43.349Z",
    "note": "Ön eleme: Kanıt yetersiz: tesisin şu an açık olduğu ve niş özelliği kaynakta yeterince net değil.",
-   "fetchedAt": "2026-11-15"
+   "fetchedAt": "2026-11-15",
+   "doneAt": "2026-11-16",
+   "result": "needs_review"
   }
  },
  "osm:node/13380329815": {
@@ -38585,19 +38609,22 @@
   "reasons": [],
   "lastEvidence": "2026-11-15",
   "haiku": {
-   "verdict": "needs_review",
+   "verdict": "accepted",
    "category": "jungle-lodges",
    "scope": "whole_property",
-   "confidence": 0.55,
-   "feature": "Private lodge deep inside Manu National Park rainforest, run by Amazon Wildlife Perú",
-   "reason": "The only page is the operator's lodge index; it places Rainforest Lodge inside Manu rainforest but gives no property detail, and it is one of three lodges on that page.",
-   "file": "data/pipeline/decisions/2026-10-14/checked.json",
-   "decidedAt": "2026-10-14"
+   "confidence": 0.8,
+   "feature": "Private lodge at the forest edge in Manu National Park, reached on the Manu Road",
+   "reason": "Reviewer asked about open status and niche: the lodge is described as sitting between mountain and jungle at the cloud forest edge of Manu, and the site is live with rooms and enquiries, so it fits jungle-lodges (the owning company is a tour operator but the lodge itself is lodging).",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-15T07:58:14.389Z"
   },
   "research": {
    "askedAt": "2026-11-14T21:55:43.349Z",
    "note": "Ön eleme: Kanıt yetersiz: tesisin şu an açık olduğu ve niş özelliği kaynakta yeterince net değil.",
-   "fetchedAt": "2026-11-15"
+   "fetchedAt": "2026-11-15",
+   "doneAt": "2026-11-16",
+   "result": "accepted"
   }
  },
  "osm:node/13668101255": {
@@ -39905,7 +39932,7 @@
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-10-07",
   "lastSeen": "2026-11-11",
   "region": "Schleswig-Holstein",
@@ -39921,11 +39948,22 @@
   },
   "checkedAt": "2026-10-07",
   "reasons": [
-   "no category evidence on official website"
+   "haiku: Queue category train-hotels is wrong: this is a privately rented holiday apartment on the Steinwarder with no sleeping unit in a railway carriage, and the only train mention is a travel route by rail and bus."
   ],
   "lastEvidence": "2026-11-16",
   "noEvidence": 1,
-  "noEvidenceAt": "2026-10-17T05:47:11.374Z"
+  "noEvidenceAt": "2026-10-17T05:47:11.374Z",
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "unclear",
+   "confidence": 0.9,
+   "feature": null,
+   "reason": "Queue category train-hotels is wrong: this is a privately rented holiday apartment on the Steinwarder with no sleeping unit in a railway carriage, and the only train mention is a travel route by rail and bus.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-16T08:07:23.725Z"
+  }
  },
  "osm:node/13780701611": {
   "id": "osm:node/13780701611",
@@ -46594,16 +46632,19 @@
    "verdict": "needs_review",
    "category": "castle-hotels",
    "scope": "whole_property",
-   "confidence": 0.6,
-   "feature": "Guest rooms in renovated Renaissance farm buildings of a historic castle estate in Lower Silesia",
-   "reason": "Rooms are in a castle estate, but some rooms are in farm buildings and the site gives 26 rooms on the home page and 24 in the history page, so the fit is moderately confident.",
-   "file": "data/pipeline/decisions/2026-10-17/checked.json",
-   "decidedAt": "2026-10-17"
+   "confidence": 0.5,
+   "feature": "Fortified Renaissance manor complex (Zamek Sarny) with guest rooms in restored farm buildings",
+   "reason": "Reviewer asked about open status and niche: the site says the castle is lived in today with rooms to book, and the rooms are in renovated farm buildings of a fortified manor complex, so scope is uncertain; the home page says 26 rooms and the history page says 24.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-15T07:58:15.560Z"
   },
   "research": {
    "askedAt": "2026-11-14T21:55:43.349Z",
    "note": "Ön eleme: Kanıt yetersiz: tesisin şu an açık olduğu ve niş özelliği kaynakta yeterince net değil.",
-   "fetchedAt": "2026-11-15"
+   "fetchedAt": "2026-11-15",
+   "doneAt": "2026-11-16",
+   "result": "needs_review"
   }
  },
  "osm:node/14276158201": {
@@ -47795,7 +47836,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-11-16",
   "lastSeen": "2026-11-16",
   "region": "Koshi Province",
@@ -47811,9 +47852,20 @@
   },
   "checkedAt": "2026-11-16",
   "reasons": [
-   "no category evidence on official website"
+   "haiku: Mountain eco-lodge in a Sherpa village at about 2,250 m in Makalu Barun National Park with no rainforest or other listed niche, so it fits none of the categories."
   ],
-  "lastEvidence": "2026-11-16"
+  "lastEvidence": "2026-11-16",
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "unclear",
+   "confidence": 0.8,
+   "feature": null,
+   "reason": "Mountain eco-lodge in a Sherpa village at about 2,250 m in Makalu Barun National Park with no rainforest or other listed niche, so it fits none of the categories.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-16T08:07:24.900Z"
+  }
  },
  "osm:node/14373673556": {
   "id": "osm:node/14373673556",
@@ -61725,11 +61777,12 @@
   "finalCategory": "desert-camps",
   "reviewedAt": "2026-11-15T07:14:14.625Z",
   "blocked": {
-   "reason": "Kampın sitesi hâlâ yalnızca birkaç cümle içeriyor ve odaların çadır olduğunu söylemiyor; uydurmadan sayfa yazılamıyor.",
-   "at": "2026-11-15T12:48:08.304Z",
+   "reason": "Kampın sitesi yalnızca birkaç cümle ve üç oda tanımı içeriyor, odaların çadır olup olmadığı belirtilmiyor; uydurmadan doğru bir sayfa yazılamıyor.",
+   "at": "2026-11-16T12:48:51.149Z",
    "tries": 2,
    "retry": true
-  }
+  },
+  "refetch": true
  },
  "osm:node/2495936525": {
   "id": "osm:node/2495936525",
@@ -64786,16 +64839,19 @@
    "verdict": "needs_review",
    "category": "jungle-lodges",
    "scope": "whole_property",
-   "confidence": 0.7,
-   "feature": "Self-contained guest unit in a 42 ha rainforest reserve in the Border Ranges, Queensland",
-   "reason": "Two-person unit in a rainforest reserve in the Border Ranges, so it fits jungle-lodges; an old 2017 unavailability notice is flagged for review.",
-   "file": "data/pipeline/decisions/2026-10-19/checked.json",
-   "decidedAt": "2026-10-19"
+   "confidence": 0.75,
+   "feature": "Self-contained guest unit inside a 42 ha rainforest reserve in the Queensland Border Ranges",
+   "reason": "Reviewer asked about the 2017 notice: that notice is years old and the site is current (copyright 2008-2026), and the single self-contained unit sits in a rainforest reserve, so it fits jungle-lodges.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-15T07:58:18.207Z"
   },
   "research": {
    "askedAt": "2026-11-14T21:55:43.349Z",
    "note": "Ön eleme: Kanıt yetersiz: Two-person unit in a rainforest reserve in the Border Ranges, so it fits jungle-lodges; an old 2017 unavailability notice is flagged for review.",
-   "fetchedAt": "2026-11-15"
+   "fetchedAt": "2026-11-15",
+   "doneAt": "2026-11-16",
+   "result": "needs_review"
   }
  },
  "osm:node/2702189753": {
@@ -65977,16 +66033,19 @@
    "verdict": "needs_review",
    "category": "castle-hotels",
    "scope": "unclear",
-   "confidence": 0.5,
-   "feature": "Hotel on a historic estate with a castle used for breakfast and meetings",
-   "reason": "Bilderberg chain hotel on a historic castle estate; the castle hosts breakfast and meetings, but the evidence does not say the guest rooms are inside the castle.",
-   "file": "data/pipeline/decisions/2026-10-25/checked.json",
-   "decidedAt": "2026-10-25"
+   "confidence": 0.35,
+   "feature": "Chain hotel on a historic castle estate; the castle hosts breakfast and meetings",
+   "reason": "Reviewer is right: the site says guests have breakfast and meetings in the castle but not that guest rooms are inside it, and this is a Bilderberg chain hotel, so the castle niche is unclear.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-15T07:58:19.321Z"
   },
   "research": {
    "askedAt": "2026-11-14T21:55:43.349Z",
    "note": "Ön eleme: Kanıt yetersiz: Bilderberg chain hotel on a historic castle estate; the castle hosts breakfast and meetings, but the evidence does not say the guest rooms are inside the castle",
-   "fetchedAt": "2026-11-15"
+   "fetchedAt": "2026-11-15",
+   "doneAt": "2026-11-16",
+   "result": "needs_review"
   }
  },
  "osm:node/2799384701": {
@@ -68942,16 +69001,19 @@
    "verdict": "needs_review",
    "category": "safari-lodges",
    "scope": "whole_property",
-   "confidence": 0.65,
-   "feature": "Lodge perched inside Tsavo East National Park with panoramic views over water holes",
-   "reason": "Lodge inside Tsavo East National Park with wildlife viewing; the site does not state game drives or a room count, so confidence is moderate.",
-   "file": "data/pipeline/decisions/2026-10-11/checked.json",
-   "decidedAt": "2026-10-11"
+   "confidence": 0.75,
+   "feature": "Wildlife retreat inside Tsavo East National Park with views over waterholes",
+   "reason": "Reviewer asked about open status and niche: the operator's site lists Voi Safari Lodge among its properties and calls it a wildlife retreat inside Tsavo East National Park, so it fits safari-lodges, though game drives are not named.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-15T07:58:20.988Z"
   },
   "research": {
    "askedAt": "2026-11-14T21:55:43.349Z",
    "note": "Ön eleme: Kanıt yetersiz: tesisin şu an açık olduğu ve niş özelliği kaynakta yeterince net değil.",
-   "fetchedAt": "2026-11-15"
+   "fetchedAt": "2026-11-15",
+   "doneAt": "2026-11-16",
+   "result": "needs_review"
   }
  },
  "osm:node/2971603872": {
@@ -79133,7 +79195,7 @@
    "stars": "4"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "classified",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "category": "castle-hotels",
@@ -79150,7 +79212,18 @@
   "reasons": [],
   "lastEvidence": "2026-11-16",
   "noEvidence": 1,
-  "noEvidenceAt": "2026-10-17T05:45:48.190Z"
+  "noEvidenceAt": "2026-10-17T05:45:48.190Z",
+  "haiku": {
+   "verdict": "accepted",
+   "category": "castle-hotels",
+   "scope": "whole_property",
+   "confidence": 0.85,
+   "feature": "Hotel in a historic castle building of about 800 years in the old town of Passau at the river confluence",
+   "reason": "The hotel's own site (schlosshotel-passau.com, the same Passau hotel) describes 18 rooms and suites in a historic castle building, so this is a whole-property castle hotel with no reviewer question.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-16T08:07:17.616Z"
+  }
  },
  "osm:node/3536531740": {
   "id": "osm:node/3536531740",
@@ -82003,7 +82076,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-11-10",
   "region": "Buliisa",
@@ -82019,11 +82092,22 @@
   },
   "checkedAt": "2026-10-06",
   "reasons": [
-   "no category evidence on official website"
+   "haiku: The site returned only a bot-check page, so the only evidence is the name and the OSM hotel tag, and the safari-lodge category is a low-confidence name-only guess."
   ],
   "lastEvidence": "2026-11-16",
   "noEvidence": 1,
-  "noEvidenceAt": "2026-10-17T05:45:11.975Z"
+  "noEvidenceAt": "2026-10-17T05:45:11.975Z",
+  "haiku": {
+   "verdict": "rejected",
+   "category": "safari-lodges",
+   "scope": "name_only",
+   "confidence": 0.2,
+   "feature": null,
+   "reason": "The site returned only a bot-check page, so the only evidence is the name and the OSM hotel tag, and the safari-lodge category is a low-confidence name-only guess.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-16T08:07:14.793Z"
+  }
  },
  "osm:node/3717332245": {
   "id": "osm:node/3717332245",
@@ -83198,7 +83282,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "description": "hotel in Herten, Germany",
@@ -83215,11 +83299,22 @@
   },
   "checkedAt": "2026-10-02",
   "reasons": [
-   "no category evidence on official website"
+   "haiku: The site returned only a bot-check page, so the only evidence is the name Schloss and a Wikidata entry calling it a hotel in Herten, and the castle category is a low-confidence name-only guess."
   ],
   "lastEvidence": "2026-11-16",
   "noEvidence": 1,
-  "noEvidenceAt": "2026-10-17T05:45:45.029Z"
+  "noEvidenceAt": "2026-10-17T05:45:45.029Z",
+  "haiku": {
+   "verdict": "rejected",
+   "category": "castle-hotels",
+   "scope": "name_only",
+   "confidence": 0.25,
+   "feature": null,
+   "reason": "The site returned only a bot-check page, so the only evidence is the name Schloss and a Wikidata entry calling it a hotel in Herten, and the castle category is a low-confidence name-only guess.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-16T08:07:17.929Z"
+  }
  },
  "osm:node/3816354549": {
   "id": "osm:node/3816354549",
@@ -117685,19 +117780,22 @@
   "reasons": [],
   "lastEvidence": "2026-11-15",
   "haiku": {
-   "verdict": "accepted",
+   "verdict": "needs_review",
    "category": "treehouse-hotels",
    "scope": "whole_property",
    "confidence": 0.9,
-   "feature": "Luxury treehouse hotel in the Spessart with ten treehouses in the trees",
-   "reason": "Site is a treehouse hotel with ten treehouses, so treehouse-hotels fits as the whole property; the site warns of a long pause after the autumn season, so status is seasonal with a closed_hint flag.",
-   "file": "data/pipeline/decisions/2026-10-14/checked.json",
-   "decidedAt": "2026-10-14"
+   "feature": "Luxury treehouse hotel with about ten treehouses in an oak and beech forest in Bavaria",
+   "reason": "Whole property is a treehouse resort with about ten treehouses, so the category fits. Reviewer question: the site says no capacity in November and December 2026, then a holiday break and a long renovation pause, so status is unknown and flagged closed_hint; the site does not say it is closed now.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-15T07:58:21.937Z"
   },
   "research": {
    "askedAt": "2026-11-14T21:55:43.349Z",
    "note": "Ön eleme: Kanıt yetersiz: Site is a treehouse hotel with ten treehouses, so treehouse-hotels fits as the whole property; the site warns of a long pause after the autumn season, so status",
-   "fetchedAt": "2026-11-15"
+   "fetchedAt": "2026-11-15",
+   "doneAt": "2026-11-16",
+   "result": "needs_review"
   }
  },
  "osm:node/5657432788": {
@@ -121735,7 +121833,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-11-10",
   "region": "Kiruhura",
@@ -121751,11 +121849,22 @@
   },
   "checkedAt": "2026-10-06",
   "reasons": [
-   "no category evidence on official website"
+   "haiku: Only the name suggests a safari lodge. The site pages hold contact details and an empty rooms page, with no game drives or reserve, so the evidence is too thin."
   ],
   "lastEvidence": "2026-11-16",
   "noEvidence": 1,
-  "noEvidenceAt": "2026-10-17T05:45:12.794Z"
+  "noEvidenceAt": "2026-10-17T05:45:12.794Z",
+  "haiku": {
+   "verdict": "rejected",
+   "category": "safari-lodges",
+   "scope": "name_only",
+   "confidence": 0.3,
+   "feature": "Name suggests a safari lodge; the site text shows no game drives or reserve",
+   "reason": "Only the name suggests a safari lodge. The site pages hold contact details and an empty rooms page, with no game drives or reserve, so the evidence is too thin.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-16T08:07:15.652Z"
+  }
  },
  "osm:node/5937730660": {
   "id": "osm:node/5937730660",
@@ -128782,7 +128891,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-04",
   "lastSeen": "2026-11-15",
   "region": "Maan",
@@ -128797,23 +128906,29 @@
    "snippet": "Seven Wonders Luxury Camp - Martian Domes &amp; Cabins, Petra. Luxury Dome Tents and Cabins with ensuite bathrooms, A/C &amp; wifi. Come Glamping!  Seven Wonders Luxury Camp - Martian Domes Cabins, Petra. About Accommodation Activities/Transportation Location of Camp Contact Us MARTIAN DOME TENTS OR COMFY CABINS - THE CHOICE IS YOURS! MARTIAN DOME TENTS OR COMFY"
   },
   "checkedAt": "2026-10-04",
-  "reasons": [],
+  "reasons": [
+   "haiku: Reviewer question: the website belongs to the Seven Wonders Luxury Camp and its domes and cabins must not be credited to the Bedouin Camp. The only Bedouin Camp facts are that the same owners run it and it shares the driveway, so the niche is name-only with low confidence."
+  ],
   "lastEvidence": "2026-11-15",
   "haiku": {
-   "verdict": "needs_review",
+   "verdict": "rejected",
    "category": "desert-camps",
-   "scope": "unclear",
-   "confidence": 0.5,
-   "feature": "Dome tents and cabins in a camp near Petra (site describes the sister Luxury Camp)",
-   "reason": "The linked website belongs to the Seven Wonders Luxury Camp, which runs tented domes near Petra, but it does not describe the Bedouin Camp's own accommodation, so scope is unclear.",
-   "file": "data/pipeline/decisions/2026-10-14/checked.json",
-   "decidedAt": "2026-10-14"
+   "scope": "name_only",
+   "confidence": 0.4,
+   "feature": "Bedouin camp near Petra; the linked website describes the sister Luxury Camp, not this camp",
+   "reason": "Reviewer question: the website belongs to the Seven Wonders Luxury Camp and its domes and cabins must not be credited to the Bedouin Camp. The only Bedouin Camp facts are that the same owners run it and it shares the driveway, so the niche is name-only with low confidence.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-15T07:58:23.381Z"
   },
   "research": {
    "askedAt": "2026-11-14T21:55:43.349Z",
    "note": "Ön eleme: Kanıt yetersiz: The linked website belongs to the Seven Wonders Luxury Camp, which runs tented domes near Petra, but it does not describe the Bedouin Camp's own accommodation, ",
-   "fetchedAt": "2026-11-15"
-  }
+   "fetchedAt": "2026-11-15",
+   "doneAt": "2026-11-16",
+   "result": "rejected"
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:node/6472494573": {
   "id": "osm:node/6472494573",
@@ -133691,7 +133806,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-11-15",
   "lastSeen": "2026-11-15",
   "region": "Marrakech-Safi",
@@ -133707,9 +133822,20 @@
   },
   "checkedAt": "2026-11-15",
   "reasons": [
-   "no category evidence on official website"
+   "haiku: The only evidence is a third-party booking page whose text is just 'Skip to main content', so the camp and its niche cannot be verified."
   ],
-  "lastEvidence": "2026-11-15"
+  "lastEvidence": "2026-11-15",
+  "haiku": {
+   "verdict": "rejected",
+   "category": "desert-camps",
+   "scope": "unclear",
+   "confidence": 0.2,
+   "feature": "Name only; the booking page has no readable text",
+   "reason": "The only evidence is a third-party booking page whose text is just 'Skip to main content', so the camp and its niche cannot be verified.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-15T07:58:42.301Z"
+  }
  },
  "osm:node/6855946694": {
   "id": "osm:node/6855946694",
@@ -135776,15 +135902,18 @@
    "category": "castle-hotels",
    "scope": "unclear",
    "confidence": 0.4,
-   "feature": "Yoga retreat with rooms in a castle compound, some labelled In der Burg (in the castle) and one in a tower",
-   "reason": "Rooms are labelled In der Burg and Im Turm, which hints at castle units, but no clean single-line quote proves it, so category_quote is null and scope is unclear. The home page is mostly cookie text, and the subpage lists the rooms.",
-   "file": "data/pipeline/decisions/2026-10-11/checked.json",
-   "decidedAt": "2026-10-11"
+   "feature": "Yoga retreat with 13 named rooms; some rooms are labelled In der Burg (in the castle) or Im Turm (in the tower)",
+   "reason": "Reviewer question: room labels In der Burg and Im Turm hint at castle units, but no single-line quote says the rooms are in a castle, so scope is unclear and confidence is 0.4 with no category quote.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-15T07:58:26.573Z"
   },
   "research": {
    "askedAt": "2026-11-14T21:55:43.349Z",
    "note": "Ön eleme: Kanıt yetersiz: Rooms are labelled In der Burg and Im Turm, which hints at castle units, but no clean single-line quote proves it, so category_quote is null and scope is unclea",
-   "fetchedAt": "2026-11-15"
+   "fetchedAt": "2026-11-15",
+   "doneAt": "2026-11-16",
+   "result": "needs_review"
   }
  },
  "osm:node/7052058645": {
@@ -137317,19 +137446,22 @@
   ],
   "lastEvidence": "2026-11-16",
   "haiku": {
-   "verdict": "accepted",
+   "verdict": "needs_review",
    "category": "treehouse-hotels",
    "scope": "whole_property",
-   "confidence": 0.95,
-   "feature": "Stilted treehouses on Koh Yao Noi, the highest about 6 m above ground",
-   "reason": "Treehouse-only property with eight stilted treehouses; the site says the treehouses are not recommended for children under 10.",
-   "file": "data/pipeline/decisions/2026-10-22/checked.json",
-   "decidedAt": "2026-10-22"
+   "confidence": 0.6,
+   "feature": "Eight raised wooden treehouses, about 3.5 to 6 m above ground, among trees",
+   "reason": "Reviewer question: the site says the houses sit between trees at 3.5 to 6 m, which fits the category, but it does not say they are attached to trunks. Check needed: OSM city says Ko Yao Yai while the site says Koh Yao Noi, and the OSM website domain differs from the fetched domain; confidence lowered to 0.6.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-16T08:07:04.199Z"
   },
   "research": {
    "askedAt": "2026-11-15T07:08:44.773Z",
    "note": "Sahibin sorusu: Odalar gerçekten ağaçların içinde ya da ağaca bağlı mı, yoksa sadece yüksekte kurulmuş bir bina mı? Otelin kendi sitesinden doğrulanmalı. (Ön kontrol: site evlerin yerden 3-6 m yüksekte olduğunu yazıyor, ağaca bağlı olduğunu yazmıyor.)",
-   "fetchedAt": "2026-11-16"
+   "fetchedAt": "2026-11-16",
+   "doneAt": "2026-11-16",
+   "result": "needs_review"
   }
  },
  "osm:node/7139631086": {
@@ -137546,17 +137678,20 @@
   "haiku": {
    "verdict": "needs_review",
    "category": "jungle-lodges",
-   "scope": "whole_property",
-   "confidence": 0.55,
-   "feature": "Eco-lodge on the Ba Lang River in the Mekong Delta with a rainforest setting",
-   "reason": "Accepted as jungle-lodges only on the site's own rainforest claim in the Mekong Delta; the page also gives 12 cottages and 48 rooms, so the room count is taken from the rooms sentence.",
-   "file": "data/pipeline/decisions/2026-10-19/checked.json",
-   "decidedAt": "2026-10-19"
+   "scope": "unclear",
+   "confidence": 0.35,
+   "feature": "Eco-lodge of thatched cottages in the Mekong Delta; the site calls the setting rainforest",
+   "reason": "Reviewer question: the site is an eco-lodge in the Mekong Delta with thatched cottages; the rainforest wording is marketing, so the niche is unclear (confidence 0.35). Operating status is not stated. Room counts conflict: the home page says 12 cottages and the accommodation page says 48 rooms.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-15T07:58:26.639Z"
   },
   "research": {
    "askedAt": "2026-11-14T21:55:43.349Z",
    "note": "Ön eleme: Kanıt yetersiz: tesisin şu an açık olduğu ve niş özelliği kaynakta yeterince net değil.",
-   "fetchedAt": "2026-11-15"
+   "fetchedAt": "2026-11-15",
+   "doneAt": "2026-11-16",
+   "result": "needs_review"
   }
  },
  "osm:node/7168631632": {
@@ -144615,18 +144750,21 @@
   "lastEvidence": "2026-11-15",
   "haiku": {
    "verdict": "needs_review",
-   "category": "bubble-hotels",
+   "category": null,
    "scope": "some_units",
    "confidence": 0.6,
-   "feature": "One 'bulle' (bubble) unit on a Paris-area farm, alongside a cabin and a silo; transparency is not stated",
-   "reason": "Bubble is one of three farm units (cabin, bubble, grain silo). The site never says the bubble is transparent. Children under 18 may not stay in the bubble or silo.",
-   "file": "data/pipeline/decisions/2026-10-15/checked.json",
-   "decidedAt": "2026-10-15"
+   "feature": "Farm stay with a grain silo, a bubble and a cabin to sleep in, near Paris",
+   "reason": "Farm with three units: a cabin, a bubble and a grain-silo sleep. The silo is not in the category list, so category is null with other_niche_type set. Bubble transparency is not stated, so bubble-hotels is not assigned. Reviewer question: open status is not stated, and the niche is clear from the silo unit, though the bubble is not confirmed as transparent.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-15T07:58:28.530Z"
   },
   "research": {
    "askedAt": "2026-11-14T21:55:43.349Z",
    "note": "Ön eleme: Kanıt yetersiz: tesisin şu an açık olduğu ve niş özelliği kaynakta yeterince net değil.",
-   "fetchedAt": "2026-11-15"
+   "fetchedAt": "2026-11-15",
+   "doneAt": "2026-11-16",
+   "result": "needs_review"
   }
  },
  "osm:node/8224187825": {
@@ -151189,19 +151327,22 @@
   ],
   "lastEvidence": "2026-11-16",
   "haiku": {
-   "verdict": "accepted",
+   "verdict": "needs_review",
    "category": "treehouse-hotels",
    "scope": "whole_property",
-   "confidence": 0.95,
-   "feature": "Treehouse-style guesthouse built on existing clearings in a coastal forest, with Indian Ocean views",
-   "reason": "Site describes the property as a treehouse with suites built among forest trees, a clear match for treehouse-hotels.",
-   "file": "data/pipeline/decisions/2026-10-23/checked.json",
-   "decidedAt": "2026-10-23"
+   "confidence": 0.9,
+   "feature": "Boutique treehouse hotel with 7 suites in a coastal forest near Watamu",
+   "reason": "Reviewer question: the site says the towers were built in forest clearings without cutting trees, which matches a raised treehouse among trees, so whole-property treehouse fit is clear. Operating status is not stated.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-16T08:07:04.200Z"
   },
   "research": {
    "askedAt": "2026-11-15T07:08:44.769Z",
    "note": "Sahibin sorusu: Odalar gerçekten ağaçların içinde ya da ağaca bağlı mı, yoksa sadece yüksekte kurulmuş bir bina mı? Otelin kendi sitesinden doğrulanmalı.",
-   "fetchedAt": "2026-11-16"
+   "fetchedAt": "2026-11-16",
+   "doneAt": "2026-11-16",
+   "result": "needs_review"
   }
  },
  "osm:node/911163664": {
@@ -155765,16 +155906,19 @@
    "verdict": "needs_review",
    "category": "castle-hotels",
    "scope": "unclear",
-   "confidence": 0.5,
-   "feature": "Historic castle in the Langhe offering suites and rooms",
-   "reason": "Castle in the Langhe with a 'Suites e camere' section, but the page never says the rooms are inside the castle, and its visible focus is weddings and events.",
-   "file": "data/pipeline/decisions/2026-10-22/checked.json",
-   "decidedAt": "2026-10-22"
+   "confidence": 0.4,
+   "feature": "Castle-branded hotel in Novello with suites and rooms; the site does not say the rooms are inside the castle",
+   "reason": "Reviewer question: the site has suites and rooms and a castle name, but no sentence says the rooms are inside the castle, and wedding and event pages dominate. Scope is unclear, confidence 0.4, no category quote.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-15T07:58:30.104Z"
   },
   "research": {
    "askedAt": "2026-11-14T21:55:43.349Z",
    "note": "Ön eleme: Kanıt yetersiz: niş özelliğinin kapsamı kaynakta net değil.",
-   "fetchedAt": "2026-11-15"
+   "fetchedAt": "2026-11-15",
+   "doneAt": "2026-11-16",
+   "result": "needs_review"
   }
  },
  "osm:node/9644044435": {
@@ -166823,17 +166967,20 @@
   "haiku": {
    "verdict": "needs_review",
    "category": "castle-hotels",
-   "scope": "unclear",
-   "confidence": 0.35,
-   "feature": "Historic castle tagged as a hotel (OSM tags only, site fetch failed)",
-   "reason": "OSM tags give tourism=hotel on a historic castle, but the official site failed to fetch and no quotable text says guests sleep inside the castle, so scope is unclear.",
-   "file": "data/pipeline/decisions/2026-10-20/checked.json",
-   "decidedAt": "2026-10-20"
+   "scope": "whole_property",
+   "confidence": 0.75,
+   "feature": "Historic castle converted into a luxury hotel, per Italian Wikipedia",
+   "reason": "Reviewer question: the hotel website could not be read, so the castle-hotel claim rests on Italian Wikipedia, which says the castle was turned into a luxury hotel in 1997. Accepted as whole-property castle hotel; status unknown.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-15T07:58:30.501Z"
   },
   "research": {
    "askedAt": "2026-11-14T21:55:43.349Z",
    "note": "Ön eleme: Kanıt yetersiz: otelin kendi sitesi okunamadı, elde yalnızca Wikipedia/harita bilgisi var.",
-   "fetchedAt": "2026-11-15"
+   "fetchedAt": "2026-11-15",
+   "doneAt": "2026-11-16",
+   "result": "needs_review"
   }
  },
  "osm:way/1036498604": {
@@ -170590,7 +170737,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": "England",
@@ -170605,23 +170752,29 @@
    "snippet": "Malting Farm, Essex | Luxury Cabin &amp; Treehouse Holidays Escape to Malting Farm! Luxury holiday cabins, treehouses and glamping bell-tents nestled around a meadow in the heart of the Essex countryside.  Malting Farm, Essex | Luxury Cabin Treehouse Holidays Book now Stay With Us Cabins Book now Glamping Book now Treehouse Coming soon Our Policies Children All ages welcome. Pets Sorry, no pets. Smoking Strictly no smoking. Accepted Payment Methods Visa"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
+  "reasons": [
+   "haiku: Reviewer question: the home page lists two treehouses, but the treehouse page says the project is under construction and on hold, so no treehouse is offered. Cabins and bell tents are not a niche, so category is null with low-medium confidence."
+  ],
   "lastEvidence": "2026-11-15",
   "haiku": {
-   "verdict": "needs_review",
-   "category": "treehouse-hotels",
+   "verdict": "rejected",
+   "category": null,
    "scope": "unclear",
-   "confidence": 0.4,
-   "feature": "Planned treehouse built around two oak trees; the site's treehouse page says it is under construction and not yet bookable",
-   "reason": "Family farm with cabins and glamping bell-tents; the treehouse is in the category tag and the home page lists two treehouses, but the treehouse page says it is under construction and the site offers no bookable treehouse, so the niche is unclear.",
-   "file": "data/pipeline/decisions/2026-10-18/checked.json",
-   "decidedAt": "2026-10-18"
+   "confidence": 0.6,
+   "feature": "Family farm with cabins and glamping bell tents; the treehouse is on hold and not built",
+   "reason": "Reviewer question: the home page lists two treehouses, but the treehouse page says the project is under construction and on hold, so no treehouse is offered. Cabins and bell tents are not a niche, so category is null with low-medium confidence.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-15T07:58:30.596Z"
   },
   "research": {
    "askedAt": "2026-11-14T21:55:43.349Z",
    "note": "Ön eleme: Kanıt yetersiz: Family farm with cabins and glamping bell-tents; the treehouse is in the category tag and the home page lists two treehouses, but the treehouse page says it is ",
-   "fetchedAt": "2026-11-15"
-  }
+   "fetchedAt": "2026-11-15",
+   "doneAt": "2026-11-16",
+   "result": "rejected"
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:way/109882849": {
   "id": "osm:way/109882849",
@@ -185407,15 +185560,18 @@
    "category": "castle-hotels",
    "scope": "whole_property",
    "confidence": 0.6,
-   "feature": "Castle (château) operating as a hotel in Aartselaar",
-   "reason": "Wikidata describes the château as a hotel; no website or pages exist, so room details are not evidenced.",
-   "file": "data/pipeline/decisions/2026-10-20/checked.json",
-   "decidedAt": "2026-10-20"
+   "feature": "Castle rebuilt in 1992 and fitted out as a hotel, per Dutch Wikipedia",
+   "reason": "Reviewer question: the hotel website was not available, so the evidence is Dutch Wikipedia only. It says the castle was rebuilt in 1992 and fitted out as a hotel. The castle was demolished and rebuilt, which weakens the historic link, so confidence is 0.6.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-15T07:58:31.192Z"
   },
   "research": {
    "askedAt": "2026-11-14T21:55:43.349Z",
    "note": "Ön eleme: Kanıt yetersiz: otelin kendi sitesi okunamadı, elde yalnızca Wikipedia/harita bilgisi var.",
-   "fetchedAt": "2026-11-15"
+   "fetchedAt": "2026-11-15",
+   "doneAt": "2026-11-16",
+   "result": "needs_review"
   }
  },
  "osm:way/1353058372": {
@@ -187252,15 +187408,18 @@
    "category": "jungle-lodges",
    "scope": "whole_property",
    "confidence": 0.6,
-   "feature": "Resort on Lake Quinault inside the Quinault temperate rainforest, with cabins and suites",
-   "reason": "Resort set inside the Quinault Rainforest, which fits jungle-lodges on location alone, though the cabins and suites are standard resort rooms.",
-   "file": "data/pipeline/decisions/2026-10-19/checked.json",
-   "decidedAt": "2026-10-19"
+   "feature": "Lakeside resort inside the Quinault Rainforest on the Olympic Peninsula, Washington",
+   "reason": "Reviewer question: the resort sits in the Quinault Rainforest, which the category wording fits. The lodgings are standard suites, cabins and an inn, so the rainforest setting is the only niche (confidence 0.6). Open status is not confirmed; the footer says 2013.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-15T07:58:31.361Z"
   },
   "research": {
    "askedAt": "2026-11-14T21:55:43.349Z",
    "note": "Ön eleme: Kanıt yetersiz: tesisin şu an açık olduğu ve niş özelliği kaynakta yeterince net değil.",
-   "fetchedAt": "2026-11-15"
+   "fetchedAt": "2026-11-15",
+   "doneAt": "2026-11-16",
+   "result": "needs_review"
   }
  },
  "osm:way/139732826": {
@@ -200822,16 +200981,19 @@
    "verdict": "needs_review",
    "category": "castle-hotels",
    "scope": "whole_property",
-   "confidence": 0.6,
-   "feature": "Castle near Collooney, Co. Sligo, run as a small family hotel",
-   "reason": "Only the Wikipedia extract is available; it says the castle is now a small family-run hotel but does not describe the rooms, and there is no official website.",
-   "file": "data/pipeline/decisions/2026-10-15/checked.json",
-   "decidedAt": "2026-10-15"
+   "confidence": 0.8,
+   "feature": "Historic castle in County Sligo with 30 guest rooms, run as a small family hotel",
+   "reason": "Reviewer question: no website is linked, so the evidence is Wikipedia, which says the castle has operated as a hotel with 30 guest rooms inside. Accepted as castle hotel; current status is not confirmed.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-15T07:58:32.066Z"
   },
   "research": {
    "askedAt": "2026-11-14T21:55:43.349Z",
    "note": "Ön eleme: Kanıt yetersiz: otelin kendi sitesi okunamadı, elde yalnızca Wikipedia/harita bilgisi var.",
-   "fetchedAt": "2026-11-15"
+   "fetchedAt": "2026-11-15",
+   "doneAt": "2026-11-16",
+   "result": "needs_review"
   }
  },
  "osm:way/182765751": {
@@ -204249,19 +204411,22 @@
   ],
   "lastEvidence": "2026-11-15",
   "haiku": {
-   "verdict": "needs_review",
+   "verdict": "accepted",
    "category": "castle-hotels",
    "scope": "whole_property",
-   "confidence": 0.55,
-   "feature": "Hotel in a castle that is part of the fortifications of Alarcón, Cuenca",
-   "reason": "Wikidata calls the castle a current hotel, but there is no site text, so the rooms-in-castle claim rests on one short description.",
-   "file": "data/pipeline/decisions/2026-10-11/checked.json",
-   "decidedAt": "2026-10-11"
+   "confidence": 0.8,
+   "feature": "Medieval fortress in Alarcón converted into a parador hotel in 1966",
+   "reason": "Reviewer question: the site was not available, so Wikipedia and Wikidata are the evidence. Wikipedia says the castle was revitalized as a parador hotel in 1966, and Wikidata calls it a current hotel, so it is accepted as open.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-15T07:58:32.208Z"
   },
   "research": {
    "askedAt": "2026-11-14T21:55:43.349Z",
    "note": "Ön eleme: Kanıt yetersiz: otelin kendi sitesi okunamadı, elde yalnızca Wikipedia/harita bilgisi var.",
-   "fetchedAt": "2026-11-15"
+   "fetchedAt": "2026-11-15",
+   "doneAt": "2026-11-16",
+   "result": "accepted"
   }
  },
  "osm:way/205322745": {
@@ -206663,7 +206828,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "region": "Colorado",
@@ -206679,11 +206844,22 @@
   },
   "checkedAt": "2026-10-04",
   "reasons": [
-   "no category evidence on official website"
+   "haiku: Chain hotel in the town of Castle Rock, Colorado. The word Castle is part of the town name, not a castle building, and the pages hold only booking and login text. Rejected as a false positive for castle-hotels."
   ],
   "lastEvidence": "2026-11-15",
   "noEvidence": 1,
-  "noEvidenceAt": "2026-10-16T06:01:23.110Z"
+  "noEvidenceAt": "2026-10-16T06:01:23.110Z",
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.9,
+   "feature": null,
+   "reason": "Chain hotel in the town of Castle Rock, Colorado. The word Castle is part of the town name, not a castle building, and the pages hold only booking and login text. Rejected as a false positive for castle-hotels.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-15T07:58:43.812Z"
+  }
  },
  "osm:way/222976502": {
   "id": "osm:way/222976502",
@@ -214379,17 +214555,20 @@
   "haiku": {
    "verdict": "needs_review",
    "category": "castle-hotels",
-   "scope": "unclear",
-   "confidence": 0.25,
-   "feature": "Historic palace (Pałac) in Rokosowo; lodging use not stated in the evidence",
-   "reason": "The website failed to load and the only text is a Wikipedia line calling it a historic palace; the hotel status rests on the OSM tag alone, so confidence is low.",
-   "file": "data/pipeline/decisions/2026-10-18/checked.json",
-   "decidedAt": "2026-10-18"
+   "scope": "some_units",
+   "confidence": 0.7,
+   "feature": "19th-century neo-Gothic palace (Zamek) offering rooms and suites in the castle and in outbuildings",
+   "reason": "Reviewer's claim is wrong: the official site text was fetched and says rooms are offered in the castle, pheasantry and carriage house, so castle-hotels fits with some_units at 0.7.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-15T07:58:32.386Z"
   },
   "research": {
    "askedAt": "2026-11-14T21:55:43.349Z",
    "note": "Ön eleme: Kanıt yetersiz: otelin kendi sitesi okunamadı, elde yalnızca Wikipedia/harita bilgisi var.",
-   "fetchedAt": "2026-11-15"
+   "fetchedAt": "2026-11-15",
+   "doneAt": "2026-11-16",
+   "result": "needs_review"
   }
  },
  "osm:way/264334571": {
@@ -214409,7 +214588,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "description": "palace in Poland",
@@ -214427,24 +214606,28 @@
   },
   "checkedAt": "2026-10-02",
   "reasons": [
-   "no category evidence on official website"
+   "haiku: Not accepted: the homepage is a hosting-provider placeholder, the only description calls the palace a wedding house, and the reviewer's cited text (Nocleg dla Twoich gości, a 2023 notice) is not in the evidence file, so lodging cannot be confirmed."
   ],
   "lastEvidence": "2026-11-15",
   "haiku": {
-   "verdict": "needs_review",
-   "category": "castle-hotels",
-   "scope": "whole_property",
-   "confidence": 0.6,
-   "feature": "Rooms inside a 1900 Gothic-style palace, plus restaurant and event venue",
-   "reason": "The site offers rooms in a real palace ('Nocleg dla Twoich gości') but is mainly a catering and event venue, and its only season notice is from 2023, so current status is unknown.",
-   "file": "data/pipeline/decisions/2026-10-18/checked.json",
-   "decidedAt": "2026-10-18"
+   "verdict": "rejected",
+   "category": null,
+   "scope": "unclear",
+   "confidence": 0.3,
+   "feature": "Neo-Gothic manor palace (Schloss von Treskow) described as a wedding house; lodging not evidenced",
+   "reason": "Not accepted: the homepage is a hosting-provider placeholder, the only description calls the palace a wedding house, and the reviewer's cited text (Nocleg dla Twoich gości, a 2023 notice) is not in the evidence file, so lodging cannot be confirmed.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-15T07:58:34.728Z"
   },
   "research": {
    "askedAt": "2026-11-14T21:55:43.349Z",
    "note": "Ön eleme: Kanıt yetersiz: The site offers rooms in a real palace ('Nocleg dla Twoich gości') but is mainly a catering and event venue, and its only season notice is from 2023, so current",
-   "fetchedAt": "2026-11-15"
-  }
+   "fetchedAt": "2026-11-15",
+   "doneAt": "2026-11-16",
+   "result": "rejected"
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:way/264335246": {
   "id": "osm:way/264335246",
@@ -216062,17 +216245,20 @@
   "haiku": {
    "verdict": "needs_review",
    "category": "castle-hotels",
-   "scope": "unclear",
-   "confidence": 0.3,
-   "feature": "Historic palace in Salas, Asturias, possibly a hotel (unverified)",
-   "reason": "OSM tags a hotel in a historic manor, Wikipedia describes only the palace, and the site returned no text, so the hotel and rooms-in-palace claims are unverified.",
-   "file": "data/pipeline/decisions/2026-10-11/checked.json",
-   "decidedAt": "2026-10-11"
+   "scope": "some_units",
+   "confidence": 0.5,
+   "feature": "16th-century palace in Salas that houses a small hotel alongside the tourist office and a cultural centre",
+   "reason": "Reviewer is right that the site text is empty, but Wikipedia says the palace houses a small hotel, so castle-hotels is kept with some_units at 0.5 and unknown status.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-15T07:58:35.103Z"
   },
   "research": {
    "askedAt": "2026-11-14T21:55:43.349Z",
    "note": "Ön eleme: Kanıt yetersiz: otelin kendi sitesi okunamadı, elde yalnızca Wikipedia/harita bilgisi var.",
-   "fetchedAt": "2026-11-15"
+   "fetchedAt": "2026-11-15",
+   "doneAt": "2026-11-16",
+   "result": "needs_review"
   }
  },
  "osm:way/275563123": {
@@ -224882,16 +225068,19 @@
    "verdict": "needs_review",
    "category": "castle-hotels",
    "scope": "unclear",
-   "confidence": 0.5,
-   "feature": "Five-star hotel in a castle ensemble: Renaissance castle, Roman-style villa and medieval barn",
-   "reason": "Five-star hotel whose site describes a castle ensemble, but the evidence does not say which buildings hold the guest rooms, so castle fit is uncertain.",
-   "file": "data/pipeline/decisions/2026-10-18/checked.json",
-   "decidedAt": "2026-10-18"
+   "confidence": 0.4,
+   "feature": "5-star hotel set in an ensemble of Roman villa, Renaissance Schloss and medieval barn among vineyards",
+   "reason": "Reviewer is right that scope is unclear: the site shows a castle within the hotel ensemble but never says the guest rooms are inside it, so castle-hotels is kept at low confidence 0.4 with unclear scope.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-15T07:58:35.219Z"
   },
   "research": {
    "askedAt": "2026-11-14T21:55:43.349Z",
    "note": "Ön eleme: Kanıt yetersiz: niş özelliğinin kapsamı kaynakta net değil.",
-   "fetchedAt": "2026-11-15"
+   "fetchedAt": "2026-11-15",
+   "doneAt": "2026-11-16",
+   "result": "needs_review"
   }
  },
  "osm:way/331897951": {
@@ -229203,7 +229392,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "rejected",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-11-10",
   "region": "Nwoya",
@@ -229218,10 +229407,23 @@
    "snippet": "Pakuba Safari Lodge &#8211; Pakuba Safari Lodge Website   Pakuba Safari Lodge Pakuba Safari Lodge Website .brz .brz-cp-color1, .brz .brz-bcp-color1{color: rgb(var(--brz-global-color1));} .brz .brz-bgp-color1{background-color: rgb(var(--brz-global-color1));}.brz .brz-cp-color2, .brz .brz-bcp-color2{color: rgb(var(--brz-global-color2));} .brz .brz-bgp-color"
   },
   "checkedAt": "2026-10-06",
-  "reasons": [],
+  "reasons": [
+   "haiku: Name-only classification: the fetched home page contains only CSS and a title, with no game drive or reserve evidence, so confidence stays low."
+  ],
   "lastEvidence": "2026-11-16",
   "noEvidence": 1,
-  "noEvidenceAt": "2026-10-17T05:45:07.787Z"
+  "noEvidenceAt": "2026-10-17T05:45:07.787Z",
+  "haiku": {
+   "verdict": "rejected",
+   "category": "safari-lodges",
+   "scope": "name_only",
+   "confidence": 0.3,
+   "feature": "Lodge named as a safari lodge in Nwoya, Uganda; no page content about game drives",
+   "reason": "Name-only classification: the fetched home page contains only CSS and a title, with no game drive or reserve evidence, so confidence stays low.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-16T08:07:13.358Z"
+  }
  },
  "osm:way/368084564": {
   "id": "osm:way/368084564",
@@ -230601,7 +230803,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "description": "Building in Mecklenburg-Western Pomerania, Germany",
@@ -230619,24 +230821,28 @@
   },
   "checkedAt": "2026-10-02",
   "reasons": [
-   "low confidence"
+   "haiku: Reviewer's point holds: the stored site text is SVG markup, and the castle label is only the local name of a manor house, so castle-hotels is not accepted; the description in the present tense suggests the apartments are open."
   ],
   "lastEvidence": "2026-11-15",
   "haiku": {
-   "verdict": "needs_review",
-   "category": "castle-hotels",
-   "scope": "whole_property",
-   "confidence": 0.55,
-   "feature": "Restored manor house called Schloss, with apartments inside",
-   "reason": "Apartments sit in a restored historic manor called Schloss, a loose castle fit; the homepage text is mostly SVG markup so the evidence is thin.",
-   "file": "data/pipeline/decisions/2026-10-19/checked.json",
-   "decidedAt": "2026-10-19"
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.6,
+   "feature": "Restored neo-Baroque manor house (Gutshaus), locally called Schloss, with holiday apartments",
+   "reason": "Reviewer's point holds: the stored site text is SVG markup, and the castle label is only the local name of a manor house, so castle-hotels is not accepted; the description in the present tense suggests the apartments are open.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-15T07:58:35.540Z"
   },
   "research": {
    "askedAt": "2026-11-14T21:55:43.349Z",
    "note": "Ön eleme: Kanıt yetersiz: tesisin şu an açık olduğu ve niş özelliği kaynakta yeterince net değil.",
-   "fetchedAt": "2026-11-15"
-  }
+   "fetchedAt": "2026-11-15",
+   "doneAt": "2026-11-16",
+   "result": "rejected"
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:way/377745265": {
   "id": "osm:way/377745265",
@@ -233581,17 +233787,20 @@
   "haiku": {
    "verdict": "needs_review",
    "category": "treehouse-hotels",
-   "scope": "unclear",
-   "confidence": 0.5,
-   "feature": "Historic tree-top treehouse hotel in Aberdare National Park; the current building is not described in the evidence",
-   "reason": "Wiki extract describes the original hotel as a treehouse in the trees, but the site itself does not say the current rooms are in trees, so the niche is unclear.",
-   "file": "data/pipeline/decisions/2026-10-23/checked.json",
-   "decidedAt": "2026-10-23"
+   "scope": "whole_property",
+   "confidence": 0.55,
+   "feature": "Lodge that began as a treehouse in Aberdare National Park; history describes later rooms on stilt supports",
+   "reason": "The Wikipedia extract says the hotel was built into the treetops as a treehouse and Wikipedia says it reopened in August 2024, but the current site does not describe tree-level rooms, so whole_property is kept at 0.55.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-15T07:58:36.041Z"
   },
   "research": {
    "askedAt": "2026-11-14T21:55:43.349Z",
    "note": "Ön eleme: Kanıt yetersiz: Wiki extract describes the original hotel as a treehouse in the trees, but the site itself does not say the current rooms are in trees, so the niche is unclear.",
-   "fetchedAt": "2026-11-15"
+   "fetchedAt": "2026-11-15",
+   "doneAt": "2026-11-16",
+   "result": "needs_review"
   }
  },
  "osm:way/39947763": {
@@ -245806,16 +246015,19 @@
    "verdict": "needs_review",
    "category": "train-hotels",
    "scope": "some_units",
-   "confidence": 0.6,
-   "feature": "Holiday apartments in restored railway carriages beside a railcar-themed hotel in Dahn",
-   "reason": "The railway carriage apartments are a train-hotels feature; the page is the shared site for the Ferienwaggon units and does not state a unit count or unit-specific details.",
-   "file": "data/pipeline/decisions/2026-10-19/checked.json",
-   "decidedAt": "2026-10-19"
+   "confidence": 0.75,
+   "feature": "Holiday apartments in restored railway carriages (Ferienwaggons) beside a hotel in Dahn",
+   "reason": "Reviewer's concerns are answered: the winter 2026/27 offer shows the property taking bookings, and the site describes Ferienwaggons as railway-carriage holiday units, so train-hotels fits with some_units at 0.75.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-15T07:58:36.045Z"
   },
   "research": {
    "askedAt": "2026-11-14T21:55:43.349Z",
    "note": "Ön eleme: Kanıt yetersiz: tesisin şu an açık olduğu ve niş özelliği kaynakta yeterince net değil.",
-   "fetchedAt": "2026-11-15"
+   "fetchedAt": "2026-11-15",
+   "doneAt": "2026-11-16",
+   "result": "needs_review"
   }
  },
  "osm:way/523401693": {
@@ -248290,7 +248502,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-03",
   "lastSeen": "2026-11-14",
   "region": null,
@@ -248306,24 +248518,28 @@
   },
   "checkedAt": "2026-10-04",
   "reasons": [
-   "no category evidence on official website"
+   "haiku: The name and the OSM tag suggest a floating hotel, but the only page is a generic article about Prague botels that never names Racek and gives no room or booking details, so it stays name_only at low confidence 0.35."
   ],
   "lastEvidence": "2026-11-15",
   "haiku": {
-   "verdict": "needs_review",
+   "verdict": "rejected",
    "category": "floating-hotels",
-   "scope": "whole_property",
-   "confidence": 0.55,
-   "feature": "Botel (floating hotel) moored on the Vltava in Prague",
-   "reason": "The page title frames the site as accommodation on a botel in Prague, but the text is a general article about botels with no room details or booking, so confidence is moderate.",
-   "file": "data/pipeline/decisions/2026-10-23/checked.json",
-   "decidedAt": "2026-10-23"
+   "scope": "name_only",
+   "confidence": 0.35,
+   "feature": "Floating hotel (botel) in Prague; the only page is a generic article about botels",
+   "reason": "The name and the OSM tag suggest a floating hotel, but the only page is a generic article about Prague botels that never names Racek and gives no room or booking details, so it stays name_only at low confidence 0.35.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-15T07:58:40.089Z"
   },
   "research": {
    "askedAt": "2026-11-14T21:55:43.349Z",
    "note": "Ön eleme: Kanıt yetersiz: The page title frames the site as accommodation on a botel in Prague, but the text is a general article about botels with no room details or booking, so confide",
-   "fetchedAt": "2026-11-15"
-  }
+   "fetchedAt": "2026-11-15",
+   "doneAt": "2026-11-16",
+   "result": "rejected"
+  },
+  "reviewedAt": "2026-11-14T21:55:43.349Z"
  },
  "osm:way/548247489": {
   "id": "osm:way/548247489",
@@ -252202,17 +252418,20 @@
   "haiku": {
    "verdict": "needs_review",
    "category": "castle-hotels",
-   "scope": "whole_property",
+   "scope": "some_units",
    "confidence": 0.55,
-   "feature": "Hotel in a former château (Château de la Lesse) in the Meuse valley, with 90 rooms and a 25-hectare park",
-   "reason": "Hotel occupies a former château; the site says two of its three buildings have historic character, so the château fit is strong but not certain.",
-   "file": "data/pipeline/decisions/2026-10-20/checked.json",
-   "decidedAt": "2026-10-20"
+   "feature": "Former château (Château de la Lesse) near Dinant, now a hotel with 90 rooms in three buildings, two historic",
+   "reason": "Reviewer's 'niche unclear' is partly right: the site confirms a former château and 90 bookable rooms with current hotel content, but not which rooms are in the historic buildings, so some_units at 0.55.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-15T07:58:40.235Z"
   },
   "research": {
    "askedAt": "2026-11-14T21:55:43.349Z",
    "note": "Ön eleme: Kanıt yetersiz: tesisin şu an açık olduğu ve niş özelliği kaynakta yeterince net değil.",
-   "fetchedAt": "2026-11-15"
+   "fetchedAt": "2026-11-15",
+   "doneAt": "2026-11-16",
+   "result": "needs_review"
   }
  },
  "osm:way/609820705": {
@@ -254749,16 +254968,19 @@
    "verdict": "needs_review",
    "category": "ice-hotels",
    "scope": "whole_property",
-   "confidence": 0.55,
-   "feature": "Glass-roofed log rooms branded as igloos for watching the northern lights in Lapland",
-   "reason": "Glass-roofed rooms the site calls igloos; they are log buildings, not ice or domes, so ice-hotels is a borderline fit at moderate confidence.",
-   "file": "data/pipeline/decisions/2026-10-10/checked.json",
-   "decidedAt": "2026-10-10"
+   "confidence": 0.65,
+   "feature": "Log-built rooms with glass roofs, branded as igloos, with views of the northern lights in Pyhätunturi",
+   "reason": "Reviewer's concern is answered: the current site lists bookable rooms and guest information, and the glass-roofed log rooms branded as Igloos fit the glass igloo part of ice-hotels at 0.65.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-15T07:58:40.576Z"
   },
   "research": {
    "askedAt": "2026-11-14T21:55:43.349Z",
    "note": "Ön eleme: Kanıt yetersiz: tesisin şu an açık olduğu ve niş özelliği kaynakta yeterince net değil.",
-   "fetchedAt": "2026-11-15"
+   "fetchedAt": "2026-11-15",
+   "doneAt": "2026-11-16",
+   "result": "needs_review"
   }
  },
  "osm:way/654958903": {
@@ -257275,16 +257497,19 @@
    "verdict": "accepted",
    "category": "train-hotels",
    "scope": "whole_property",
-   "confidence": 0.9,
-   "feature": "Sleeping in a renovated 1968 SOO-Line caboose railway car",
-   "reason": "The whole property is a restored 1968 caboose sleeping car; the site's closure notice is stale but still says closed for the season.",
-   "file": "data/pipeline/decisions/2026-10-20/checked.json",
-   "decidedAt": "2026-10-20"
+   "confidence": 0.85,
+   "feature": "Restored 1968 railway caboose used as a sleeping cabin in Sparta, Wisconsin",
+   "reason": "The whole property is one restored caboose sleeping car, which fits train-hotels; the closure notice is stale (it says reopening April 2025) but still says closed for the season, so status is seasonal with a closed_hint flag.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-15T07:58:40.893Z"
   },
   "research": {
    "askedAt": "2026-11-14T21:55:43.349Z",
    "note": "Ön eleme: Kanıt yetersiz: The whole property is a restored 1968 caboose sleeping car; the site's closure notice is stale but still says closed for the season.",
-   "fetchedAt": "2026-11-15"
+   "fetchedAt": "2026-11-15",
+   "doneAt": "2026-11-16",
+   "result": "accepted"
   }
  },
  "osm:way/696405868": {
@@ -263221,7 +263446,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-11-05",
   "region": "Kentucky",
@@ -263237,11 +263462,22 @@
   },
   "checkedAt": "2026-10-01",
   "reasons": [
-   "no category evidence on official website"
+   "haiku: Not a cave hotel: this is a standard Wyndham chain hotel near Mammoth Cave with no rooms inside a cave, and cave-hotels excludes a hotel merely near a cave."
   ],
   "lastEvidence": "2026-11-15",
   "noEvidence": 1,
-  "noEvidenceAt": "2026-10-16T06:01:59.070Z"
+  "noEvidenceAt": "2026-10-16T06:01:59.070Z",
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.85,
+   "feature": "Standard chain hotel near the Mammoth Cave area; rooms are not inside a cave",
+   "reason": "Not a cave hotel: this is a standard Wyndham chain hotel near Mammoth Cave with no rooms inside a cave, and cave-hotels excludes a hotel merely near a cave.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-15T07:58:45.320Z"
+  }
  },
  "osm:way/800196340": {
   "id": "osm:way/800196340",
@@ -270592,16 +270828,19 @@
    "verdict": "needs_review",
    "category": "castle-hotels",
    "scope": "unclear",
-   "confidence": 0.35,
-   "feature": "Hotel named after a castle on a hill about 1 km from Kitzbühel; rooms not evidenced",
-   "reason": "Only Wikipedia and OSM data exist; the castle name suggests a castle hotel, but no source says guests sleep inside the castle.",
-   "file": "data/pipeline/decisions/2026-10-24/checked.json",
-   "decidedAt": "2026-10-24"
+   "confidence": 0.5,
+   "feature": "Schloss Lebenberg near Kitzbühel, a four-star hotel per Wikipedia; no site text available",
+   "reason": "Reviewer is right that no site text was fetched; the German Wikipedia article confirms a four-star hotel in the Schloss but not which rooms are in it, so castle-hotels is kept with unclear scope at 0.5.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-15T07:58:41.789Z"
   },
   "research": {
    "askedAt": "2026-11-14T21:55:43.349Z",
    "note": "Ön eleme: Kanıt yetersiz: otelin kendi sitesi okunamadı, elde yalnızca Wikipedia/harita bilgisi var.",
-   "fetchedAt": "2026-11-15"
+   "fetchedAt": "2026-11-15",
+   "doneAt": "2026-11-16",
+   "result": "needs_review"
   }
  },
  "osm:way/93816535": {
@@ -284987,15 +285226,18 @@
    "category": "floating-hotels",
    "scope": "whole_property",
    "confidence": 0.8,
-   "feature": "Three-star hotel barge (botel) moored on the Vltava in Prague",
-   "reason": "Czech Wikipedia extract describes a three-star botel moored on the Vltava; there is no official site or page text, so operating status is unknown.",
-   "file": "data/pipeline/decisions/2026-10-25/checked.json",
-   "decidedAt": "2026-10-25"
+   "feature": "Three-star floating hotel moored on the Vltava in Prague since 1971",
+   "reason": "Reviewer's concern is answered by the Czech Wikipedia article, which describes a three-star floating hotel moored on the Vltava with 84 rooms, so floating-hotels is accepted at 0.8 with current status unknown.",
+   "file": "data/pipeline/decisions/2026-11-16/checked.json",
+   "decidedAt": "2026-11-16",
+   "evidenceAt": "2026-11-15T07:58:41.936Z"
   },
   "research": {
    "askedAt": "2026-11-14T21:55:43.349Z",
    "note": "Ön eleme: Kanıt yetersiz: otelin kendi sitesi okunamadı, elde yalnızca Wikipedia/harita bilgisi var.",
-   "fetchedAt": "2026-11-15"
+   "fetchedAt": "2026-11-15",
+   "doneAt": "2026-11-16",
+   "result": "needs_review"
   }
  },
  "wd:Q11235591": {
