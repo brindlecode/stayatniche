@@ -1,0 +1,2154 @@
+[
+ {
+  "id": "osm:node/1025345201",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Boutique hotel inside a restored 9th-century Moorish fortress on a hilltop near Marbella",
+  "category_quote": "Inside the castle is where all guest rooms are located",
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castillo de Monda",
+  "property_type": "hotel",
+  "address": "Calle Castillo, 29110 Monda, Malaga",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Saltwater pool",
+    "quote": "unwinding by the saltwater pool"
+   },
+   {
+    "text": "Private balcony in some rooms",
+    "quote": "Some rooms feature a cozy seating area or a private balcony"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Hilltop views over the Monda mountains",
+    "quote": "With its distinctive decor, breathtaking hilltop views, and modern facilities"
+   },
+   {
+    "text": "Built on a Moorish fortress",
+    "quote": "Built on the foundations of a 9th-century Moorish fortress, this castle has been carefully restored"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About 15 minutes from Marbella",
+   "quote": "Castillo de Monda is ideally situated just 15 minutes from the vibrant city of Marbella"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Reviewer said the hotel site could not be read, but the fetched castillodemonda.com pages are the hotel's own site and state that all guest rooms are inside the castle, so this is a whole-property castle hotel.",
+  "evidenceAt": "2026-11-15T07:58:07.639Z",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/3531338298",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Hotel in a historic castle building of about 800 years in the old town of Passau at the river confluence",
+  "category_quote": "Das Hotel Schloss Ort befindet sich in einem historischen Gebäude mit einer rund 800 Jahre alten Geschichte",
+  "confidence": 0.85,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Hotel Schloss Ort",
+  "property_type": "hotel",
+  "address": "Ort 11, D-94032 Passau",
+  "room_count": {
+   "value": 18,
+   "quote": "Das Hotel Schloss Ort verfügt über insgesamt 18 individuell eingerichtete Zimmer und Suiten"
+  },
+  "amenities": [
+   {
+    "text": "Regional breakfast buffet",
+    "quote": "Unser Frühstücksbuffet ist immer etwas Besonderes"
+   },
+   {
+    "text": "Massage treatments in the hotel",
+    "quote": "Entspannungs-, Aroma- und Klangschalenmassagen direkt im Hotel"
+   },
+   {
+    "text": "Free bicycle garage",
+    "quote": "Unsere Fahrradgarage steht Ihnen kostenfrei zur Verfügung"
+   },
+   {
+    "text": "Lift to all rooms",
+    "quote": "Alle Zimmer unseres Hotels sind über einen Fahrstuhl erreichbar"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Riverside terrace at the Inn",
+    "quote": "Unsere Terrasse am Innufer ist zu jeder Jahreszeit ein Highlight"
+   },
+   {
+    "text": "Old town at the river confluence",
+    "quote": "Unmittelbar an der Ortsspitze von Passau, wo die blaue Donau, der grüne Inn und die schwarze Ilz zusammenfließen"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "A few minutes on foot to the old town of Passau",
+   "quote": "Sie erreichen das idyllische Zentrum von Passau in wenigen Minuten zu Fuß"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The hotel's own site (schlosshotel-passau.com, the same Passau hotel) describes 18 rooms and suites in a historic castle building, so this is a whole-property castle hotel with no reviewer question.",
+  "evidenceAt": "2026-11-16T08:07:17.616Z",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/205211606",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Medieval fortress in Alarcón converted into a parador hotel in 1966",
+  "category_quote": "The castle was then revitalized as a parador hotel and opened to the public on 25 March 1966.",
+  "confidence": 0.8,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castillo de Alarcón",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Fortress with a walled enclosure and five outer towers",
+    "quote": "The fortress is composed of a walled enclosure, which houses the heart of the population and the castle proper, and of five exterior towers, separate and strategically placed."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Town of Alarcón, Cuenca province, Spain",
+   "quote": "The Castle of Alarcón forms part of the fortifications built around the town of Alarcón in Cuenca, Spain."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Reviewer question: the site was not available, so Wikipedia and Wikidata are the evidence. Wikipedia says the castle was revitalized as a parador hotel in 1966, and Wikidata calls it a current hotel, so it is accepted as open.",
+  "evidenceAt": "2026-11-15T07:58:32.208Z",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/13668093197",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "jungle-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Private lodge at the forest edge in Manu National Park, reached on the Manu Road",
+  "category_quote": "the Rainforest Lodge sits at the perfect transition between mountain and jungle",
+  "confidence": 0.8,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Rainforest Lodge",
+  "property_type": "lodge",
+  "address": null,
+  "room_count": {
+   "value": 22,
+   "quote": "Comprising 11 double rooms and 11 twin bungalows"
+  },
+  "amenities": [
+   {
+    "text": "Mosquito nets and fully netted bungalows",
+    "quote": "All beds are fitted with mosquito nets and all bungalows are fully netted"
+   },
+   {
+    "text": "Private bathroom in each bungalow",
+    "quote": "each with a private bathroom"
+   },
+   {
+    "text": "Upgraded dining area",
+    "quote": "Recently upgraded with a spacious new dining area"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Hummingbird garden with feeders",
+    "quote": "a dedicated hummingbird garden with feeders"
+   },
+   {
+    "text": "Wildlife near the lodge",
+    "quote": "often the first extraordinary wildlife encounter of any Manu journey"
+   }
+  ],
+  "season": {
+   "text": "Open any time of year; dry season April to October",
+   "quote": "The short answer: any time."
+  },
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "On the Manu Road, about 185 km from Cusco",
+   "quote": "Located on the right side of the Manu Road at the foothill of the Andes"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Reviewer asked about open status and niche: the lodge is described as sitting between mountain and jungle at the cloud forest edge of Manu, and the site is live with rooms and enquiries, so it fits jungle-lodges (the owning company is a tour operator but the lodge itself is lodging).",
+  "evidenceAt": "2026-11-15T07:58:14.389Z",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/696281483",
+  "is_lodging": true,
+  "operating_status": "seasonal",
+  "category": "train-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Restored 1968 railway caboose used as a sleeping cabin in Sparta, Wisconsin",
+  "category_quote": "Stay aboard a 1968 SOO-Line Caboose!",
+  "confidence": 0.85,
+  "red_flags": [
+   "closed_hint"
+  ],
+  "other_niche_type": null,
+  "official_name": "Caboose Cabins",
+  "property_type": "train",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Microwave, refrigerator and gas grill on the deck",
+    "quote": "Microwave, Refrigerator and Gas Grill on Deck"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Trains pass by while guests sit on the deck",
+    "quote": "trains pass by while sitting on the deck"
+   }
+  ],
+  "season": {
+   "text": "Closed for the season; the notice says it reopens April 2025",
+   "quote": "Closed for the season. Reopening April 2025."
+  },
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "The whole property is one restored caboose sleeping car, which fits train-hotels; the closure notice is stale (it says reopening April 2025) but still says closed for the season, so status is seasonal with a closed_hint flag.",
+  "evidenceAt": "2026-11-15T07:58:40.893Z",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/12302312745",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": "Possible knight's castle (Zamek Rycerski) in Krag, but the fetched pages only describe the Gdansk city hotel",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Zamek Podewils Krag",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Reviewer asked about scope: the fetched pages cover only Hotel Podewils Gdansk, and the Krag castle appears only in a meta description, so whether guests sleep inside the Krag castle is not established.",
+  "evidenceAt": "2026-11-15T07:58:07.656Z",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/13108599621",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": "Hotel styled as a castle on a hill above Nuwara Eliya, with rooms beside a mini castle tower",
+  "category_quote": "The Wind Castle hotel commands an impressive presence in the form of an ancient Scottish-style castle set atop a hill",
+  "confidence": 0.4,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "The Wind Castle",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Restaurant with international and local dishes",
+    "quote": "Wide Range of Delisious foods items ranging from Fried Rice, Biriyani, Noodles, Kottu, Pasta and Spaghetti"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Panoramic view of Nuwara Eliya",
+    "quote": "Super Panoramic view of Nuwara Eliya"
+   },
+   {
+    "text": "Six double room types",
+    "quote": "The Castle offers Six Varieties of Double Rooms names as The Rose Meadow"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Reviewer flagged the style wording and an FAQ about an 86th-floor observatory that does not fit a hotel, so the ancient-castle claim is unreliable and rooms inside a castle are not confirmed.",
+  "evidenceAt": "2026-11-15T07:58:08.526Z",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/14275118613",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Fortified Renaissance manor complex (Zamek Sarny) with guest rooms in restored farm buildings",
+  "category_quote": "Prawdziwy renesansowy dwór z fortyfikacjami powstał jednak dopiero w 1590 roku",
+  "confidence": 0.5,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Zamek Sarny",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 26,
+   "quote": "Zapraszamy do zatrzymania się w jednym z 26 unikalnych, starannie zaprojektowanych pokoi"
+  },
+  "amenities": [
+   {
+    "text": "Historic restaurant and cafe",
+    "quote": "Skosztuj wyśmienitych dań w naszej zabytkowej kawiarni i restauracji"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Baroque chapel open daily to visitors",
+    "quote": "Kaplica św. Jana Nepomucena po konserwacji i przywróceniu barokowej elewacji jest codziennie dostępna dla zwiedzających"
+   },
+   {
+    "text": "Summer literary festival held at the castle",
+    "quote": "Największy letni festiwal literacki w Polsce, prowadzony na Zamku Sarny"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About two hours from Prague and Wroclaw",
+   "quote": "Tylko dwie godziny drogi od Pragi i Wrocławia"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Reviewer asked about open status and niche: the site says the castle is lived in today with rooms to book, and the rooms are in renovated farm buildings of a fortified manor complex, so scope is uncertain; the home page says 26 rooms and the history page says 24.",
+  "evidenceAt": "2026-11-15T07:58:15.560Z",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/2790412764",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": "Chain hotel on a historic castle estate; the castle hosts breakfast and meetings",
+  "category_quote": "Geniet van een ontbijt in het kasteel",
+  "confidence": 0.35,
+  "red_flags": [
+   "chain_generic"
+  ],
+  "other_niche_type": null,
+  "official_name": "Bilderberg Kasteel Vaalsbroek",
+  "property_type": "hotel",
+  "address": "Vaalsbroek 1, 6291 NH Vaals",
+  "room_count": {
+   "value": 130,
+   "quote": "Overnacht in één van de 130 comfortabele kamers met uitzicht op de glooiende heuvels"
+  },
+  "amenities": [
+   {
+    "text": "Spa, pool and sauna",
+    "quote": "Wellness met zwembad en sauna"
+   },
+   {
+    "text": "Restaurant In De Oude Watermolen",
+    "quote": "Restaurant In De Oude Watermolen"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Historic estate in South Limburg",
+    "quote": "Welkom bij Kasteel Vaalsbroek! Gelegen op een prachtig landgoed in het Zuid Limburgse heuvellandschap"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Near Maastricht and Aachen in South Limburg",
+   "quote": "vlak bij het Drielandenpunt, Maastricht en Aken"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Reviewer is right: the site says guests have breakfast and meetings in the castle but not that guest rooms are inside it, and this is a Bilderberg chain hotel, so the castle niche is unclear.",
+  "evidenceAt": "2026-11-15T07:58:19.321Z",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/7051556481",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": "Yoga retreat with 13 named rooms; some rooms are labelled In der Burg (in the castle) or Im Turm (in the tower)",
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castillo San Rafael",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Split air conditioning",
+    "quote": "Die Split-Klimageräte werden im Winter und in der Übergangszeit zum Beheizen und im Sommer zum Kühlen eingesetzt."
+   },
+   {
+    "text": "In-room safe",
+    "quote": "In jedem Zimmer hat es einen kleinen Safe."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Private rooms with maximum privacy",
+    "quote": "Wir bieten Ihnen höchstmögliche Privatsphäre in Ihrer Unterkunft."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Reviewer question: room labels In der Burg and Im Turm hint at castle units, but no single-line quote says the rooms are in a castle, so scope is unclear and confidence is 0.4 with no category quote.",
+  "evidenceAt": "2026-11-15T07:58:26.573Z",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/963575571",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": "Castle-branded hotel in Novello with suites and rooms; the site does not say the rooms are inside the castle",
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castello di Novello",
+  "property_type": "hotel",
+  "address": "Piazza G. Marconi, 4 - 12060 Novello CN",
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Castle set in nature, architecture and history",
+    "quote": "Castello di Novello , un luogo senza tempo dove natura, architettura e storia si fondono armoniosamente."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Reviewer question: the site has suites and rooms and a castle name, but no sentence says the rooms are inside the castle, and wedding and event pages dominate. Scope is unclear, confidence 0.4, no category quote.",
+  "evidenceAt": "2026-11-15T07:58:30.104Z",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/103592066",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Historic castle converted into a luxury hotel, per Italian Wikipedia",
+  "category_quote": "che iniziò un'opera di restauro dell'edificio, trasformando il castello in un albergo di lusso.",
+  "confidence": 0.75,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Kasteel van Ordingen",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Neo-Renaissance Flemish castle",
+    "quote": "Il castello di Ordingen è uno storico edificio in stile neorinascimentale fiammingo"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Ordingen, Sint-Truiden, Limburg province, Belgium",
+   "quote": "della frazione belga di Ordingen (comune di Sint-Truiden), nella provincia Limburgo"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Reviewer question: the hotel website could not be read, so the castle-hotel claim rests on Italian Wikipedia, which says the castle was turned into a luxury hotel in 1997. Accepted as whole-property castle hotel; status unknown.",
+  "evidenceAt": "2026-11-15T07:58:30.501Z",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/135267397",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Castle rebuilt in 1992 and fitted out as a hotel, per Dutch Wikipedia",
+  "category_quote": "Dit kasteel werd in 1992 afgebroken, herbouwd en ingericht als hotel.",
+  "confidence": 0.6,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Kasteel Solhof",
+  "property_type": "hotel",
+  "address": "Baron van Ertbornstraat 118-122, Aartselaar",
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Reviewer question: the hotel website was not available, so the evidence is Dutch Wikipedia only. It says the castle was rebuilt in 1992 and fitted out as a hotel. The castle was demolished and rebuilt, which weakens the historic link, so confidence is 0.6.",
+  "evidenceAt": "2026-11-15T07:58:31.192Z",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/182196383",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": 30,
+  "niche_feature": "Historic castle in County Sligo with 30 guest rooms, run as a small family hotel",
+  "category_quote": "Charles Cooper, the younger son, opened the castle as a hotel in 1992.",
+  "confidence": 0.8,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Markree Castle",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 30,
+   "quote": "The entrance contains a monumental staircase, which leads to a wonderful hall, from where a second staircase in carved wood leads to the 30 guest rooms."
+  },
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Stained glass window tracing the Cooper family tree",
+    "quote": "On the landing, a huge stained glass window traces the Cooper family tree from Victorian times back to the time of King John."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Collooney, County Sligo, Ireland",
+   "quote": "Markree Castle is a castle located in Collooney, County Sligo, Ireland."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Reviewer question: no website is linked, so the evidence is Wikipedia, which says the castle has operated as a hotel with 30 guest rooms inside. Accepted as castle hotel; current status is not confirmed.",
+  "evidenceAt": "2026-11-15T07:58:32.066Z",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/264105952",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "some_units",
+  "niche_unit_count": null,
+  "niche_feature": "19th-century neo-Gothic palace (Zamek) offering rooms and suites in the castle and in outbuildings",
+  "category_quote": "Oferujemy noclegi w Zamku, Bażanciarni lub Powozowni w pokojach 1-, 2-, 3- i 4-osobowych oraz apartamentach",
+  "confidence": 0.7,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Zamek Wielkopolski w Rokosowie",
+  "property_type": "hotel",
+  "address": "Rokosowo 1, 63-805 Łęka Mała",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Outdoor gym and playground in the park",
+    "quote": "Miłośnikom aktywnego trybu życia na terenie parku udostępniamy siłownię zewnętrzną, a dzieciom - plac zabaw"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "About 10 ha park with a pond and many tree species",
+    "quote": "Obecnie 10 ha ziemi z pięknym stawem, licznymi gatunkami drzew, krzewów i bylin"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Reviewer's claim is wrong: the official site text was fetched and says rooms are offered in the castle, pheasantry and carriage house, so castle-hotels fits with some_units at 0.7.",
+  "evidenceAt": "2026-11-15T07:58:32.386Z",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/275128629",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "some_units",
+  "niche_unit_count": null,
+  "niche_feature": "16th-century palace in Salas that houses a small hotel alongside the tourist office and a cultural centre",
+  "category_quote": "En la actualidad alberga la oficina de información y turismo de la villa, la casa de cultura y un pequeño hotel.",
+  "confidence": 0.5,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castillo de Valdés-Salas",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Palace declared a monument of cultural interest",
+    "quote": "El palacio está declarado como bien de interés cultural, con categoría de monumento."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Reviewer is right that the site text is empty, but Wikipedia says the palace houses a small hotel, so castle-hotels is kept with some_units at 0.5 and unknown status.",
+  "evidenceAt": "2026-11-15T07:58:35.103Z",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/331885054",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": "5-star hotel set in an ensemble of Roman villa, Renaissance Schloss and medieval barn among vineyards",
+  "category_quote": "romantischem Renaissance-Schloss und mittelalterlicher Scheune, umgeben von sanft ansteigenden Weinbergen",
+  "confidence": 0.4,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Victor's Residenz-Hotel Schloss Berg",
+  "property_type": "hotel",
+  "address": "Schloßstraße 27-29, 66706 Perl-Nennig",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Spa, pool, sauna and fitness room",
+    "quote": "Schwimmbad, Whirlpool, Sauna, Dampfbad, Solarium und Fitnessraum"
+   },
+   {
+    "text": "Three restaurants",
+    "quote": "Victor's Fine Dining, Restaurant Bacchus, Victor's Landgasthaus Die Scheune"
+   },
+   {
+    "text": "Free WiFi throughout the hotel",
+    "quote": "kostenlos schnelles WLAN im gesamten Haus"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Historic ensemble with a Renaissance castle and a medieval barn",
+    "quote": "romantischem Renaissance-Schloss und mittelalterlicher Scheune, umgeben von sanft ansteigenden Weinbergen"
+   },
+   {
+    "text": "Hotel described as a place with a long history",
+    "quote": "Herzlich willkommen auf Schloss Berg einem besonderen Ort mit einer bewegten Historie."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Reviewer is right that scope is unclear: the site shows a castle within the hotel ensemble but never says the guest rooms are inside it, so castle-hotels is kept at low confidence 0.4 with unclear scope.",
+  "evidenceAt": "2026-11-15T07:58:35.219Z",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/609499904",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "some_units",
+  "niche_unit_count": null,
+  "niche_feature": "Former château (Château de la Lesse) near Dinant, now a hotel with 90 rooms in three buildings, two historic",
+  "category_quote": "Cet ancien « Château de la Lesse » est l’un des nombreux forts et châteaux de la vallée de la Haute Meuse.",
+  "confidence": 0.55,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castel de Pont-à-Lesse",
+  "property_type": "hotel",
+  "address": "Rue de Pont-à-Lesse 36, 5500 Dinant",
+  "room_count": {
+   "value": 90,
+   "quote": "Confort et calme absolu garantis dans chacune des 90 chambres de l’hôtel"
+  },
+  "amenities": [
+   {
+    "text": "Air conditioning, TV, safe, fridge and bathroom in every room",
+    "quote": "Toutes les chambres sont équipées de l’air conditionné, d’une télévision, d’un coffre-fort, d’un frigo et d’une salle de bains."
+   },
+   {
+    "text": "Restaurant led by the chef of L’Orangerie",
+    "quote": "Le chef de L’Orangerie concocte chaque jour avec amour des mets raffinés et gastronomiques pour nos hôtes"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Hotel set in a 25-hectare wooded estate",
+    "quote": "Niché dans un écrin de verdure de 25 hectares"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Two steps from Dinant in Namur province",
+   "quote": "L’hôtel Castel de Pont-à-Lesse est situé à deux pas de Dinant, dans la province de Namur."
+  },
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "Reviewer's 'niche unclear' is partly right: the site confirms a former château and 90 bookable rooms with current hotel content, but not which rooms are in the historic buildings, so some_units at 0.55.",
+  "evidenceAt": "2026-11-15T07:58:40.235Z",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/93767394",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": "Schloss Lebenberg near Kitzbühel, a four-star hotel per Wikipedia; no site text available",
+  "category_quote": "1885/88 hatte Hugo Anton Emil Graf von Lamberg im Schlösschen eine der ersten Fremdenpensionen Kitzbühels eröffnet.",
+  "confidence": 0.5,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Hotel Schloss Lebenberg",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Four-star hotel, part of Harisch Hotels",
+    "quote": "Heute ist das Viersternehotel Teil der Harisch Hotels."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About 1 km from Kitzbühel on the Lebenberg hill",
+   "quote": "Das Schloss Lebenberg liegt etwa einen Kilometer entfernt von Kitzbühel auf dem 80 Meter hohen Hügel Lebenberg."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Reviewer is right that no site text was fetched; the German Wikipedia article confirms a four-star hotel in the Schloss but not which rooms are in it, so castle-hotels is kept with unclear scope at 0.5.",
+  "evidenceAt": "2026-11-15T07:58:41.789Z",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q11235562",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "floating-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Three-star floating hotel moored on the Vltava in Prague since 1971",
+  "category_quote": "Botel Admirál (Admiral Botel) je tříhvězdičkový botel (plovoucí hotel) od roku 1971 zakotvený na Vltavě v Praze",
+  "confidence": 0.8,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Botel Admirál",
+  "property_type": "ship",
+  "address": null,
+  "room_count": {
+   "value": 84,
+   "quote": "Botel má 84 pokojů a 184 lůžek."
+  },
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Three-star floating hotel moored on the Vltava since 1971",
+    "quote": "Botel Admirál (Admiral Botel) je tříhvězdičkový botel (plovoucí hotel) od roku 1971 zakotvený na Vltavě v Praze"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Near Zborovská tram stop and Anděl metro station",
+   "quote": "Nedaleko botelu je tramvajová zastávka Zborovská a stanice metra a uzel městské hromadné dopravy Anděl."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Reviewer's concern is answered by the Czech Wikipedia article, which describes a three-star floating hotel moored on the Vltava with 84 rooms, so floating-hotels is accepted at 0.8 with current status unknown.",
+  "evidenceAt": "2026-11-15T07:58:41.936Z",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/654442174",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "ice-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Log-built rooms with glass roofs, branded as igloos, with views of the northern lights in Pyhätunturi",
+  "category_quote": "You can stay comfortably alone or with a group of 2-4 people in our spacious, glass-roofed rooms decorated with Finnish design.",
+  "confidence": 0.65,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Pyhä Igloos",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Sauna and jacuzzi in the courtyard",
+    "quote": "In the courtyard you can use the sauna & jacuzzi, fireplace room and an atmospheric barbecue hut."
+   },
+   {
+    "text": "Free parking and 11 kWh EV charging point",
+    "quote": "There are free parking spaces in the courtyard, as well as free 11 kWh charging point for charging hybrid and electric cars."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Front-row seats to the northern lights from 32 m² glass-roofed rooms",
+    "quote": "Our well-equipped 32 m² glass-roofed rooms offer comfortable space for 2-4 people and front-row seats to the northern lights."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About 90 minutes by car from Rovaniemi",
+   "quote": "The drive from Rovaniemi to Pyhätunturi takes about 90 minutes."
+  },
+  "audience": "unknown",
+  "best_for": [
+   "northern lights viewing",
+   "winter adventure"
+  ],
+  "reason": "Reviewer's concern is answered: the current site lists bookable rooms and guest information, and the glass-roofed log rooms branded as Igloos fit the glass igloo part of ice-hotels at 0.65.",
+  "evidenceAt": "2026-11-15T07:58:40.576Z",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/13378700230",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "jungle-lodges",
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": "Village homestay in forest near a wildlife sanctuary in South Goa",
+  "category_quote": "surrounded by lush forests, gentle streams, and whispering trees",
+  "confidence": 0.5,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Jungletrails Homestay",
+  "property_type": "guesthouse",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Home-cooked Goan food",
+    "quote": "home-cooked Goan food, and the warmth of village hospitality"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Traditional mud house",
+    "quote": "The homestay is a traditional mud house with cowdung smeared floor"
+   },
+   {
+    "text": "Next to Bhagwan Mahaveer Wildlife Sanctuary",
+    "quote": "Located on the boundary of Bhagwan Mahaveer Wildlife Sanctuary"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Village of Taldem in South Goa",
+   "quote": "a quiet retreat nestled deep in the forests of Taldem, a sleepy village in South Goa"
+  },
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "Reviewer asked about open status and niche: the live site describes a forest homestay near a wildlife sanctuary, but it never says rainforest or cloud forest and the jungle label is partly the name, so scope is unclear.",
+  "evidenceAt": "2026-11-15T07:58:14.139Z",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/2699167662",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "jungle-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Self-contained guest unit inside a 42 ha rainforest reserve in the Queensland Border Ranges",
+  "category_quote": "Arborlee is set in 42 ha of rainforest wilderness adjoining similar rainforest around most boundaries",
+  "confidence": 0.75,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Arborlee Rainforest Retreat",
+  "property_type": "B&B",
+  "address": null,
+  "room_count": {
+   "value": 1,
+   "quote": "our two person self contained unit"
+  },
+  "amenities": [
+   {
+    "text": "Verandah with rainforest views",
+    "quote": "The Guest Unit opens through French doors onto a verandah and views to the rainforest"
+   },
+   {
+    "text": "Self-contained kitchen and ensuite",
+    "quote": "The unit is self contained with two burner gas stove, bar frig, sink, cooking utensils, ensuite"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Birds, frogs and rainforest wildlife",
+    "quote": "The special features of Arborlee are birds, frogs, plants, fungi and other wildlife of the rainforest setting"
+   },
+   {
+    "text": "Guided walks on the property",
+    "quote": "Guided walks can be arranged around the property."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Under 3 hours from Brisbane",
+   "quote": "It is 2.5 to 3 hours drive from Brisbane"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Reviewer asked about the 2017 notice: that notice is years old and the site is current (copyright 2008-2026), and the single self-contained unit sits in a rainforest reserve, so it fits jungle-lodges.",
+  "evidenceAt": "2026-11-15T07:58:18.207Z",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/7168558085",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "jungle-lodges",
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": "Eco-lodge of thatched cottages in the Mekong Delta; the site calls the setting rainforest",
+  "category_quote": "The sweeping rainforest stretching from our front door simply begs to be explored.",
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Can Tho Ecolodge",
+  "property_type": "lodge",
+  "address": null,
+  "room_count": {
+   "value": 48,
+   "quote": "All 48 of our rooms represent the powerful call of nature across renewable building materials and 4-star amenities."
+  },
+  "amenities": [
+   {
+    "text": "Restaurant and bar",
+    "quote": "A restaurant and bar offer dining and socialising options, while a spa, swimming pool, and jacuzzi pool provide opportunities to melt into tropical paradise."
+   },
+   {
+    "text": "Spa, swimming pool and jacuzzi pool",
+    "quote": "A restaurant and bar offer dining and socialising options, while a spa, swimming pool, and jacuzzi pool provide opportunities to melt into tropical paradise."
+   },
+   {
+    "text": "Free bicycles for guests",
+    "quote": "All bicycles at Can Tho Ecolodge are of high quality and free to use for all guests."
+   },
+   {
+    "text": "Panoramic balcony and wooden bathtub",
+    "quote": "These include a panoramic balcony and natural wooden bathtub, each delivered in a symphony of local bamboo, palm leaf and red brick."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Boat tours from the lodge along Mekong Delta rivers",
+    "quote": "Can Tho Ecolodge's boat tours head from our luxury eco-accommodation throughout the Mekong Delta's languid rivers"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About 150 km from Ho Chi Minh City, gateway to the Mekong",
+   "quote": "Can Tho is known widely as the Gateway to the Mekong, owing to its location about 150km from Ho Chi Minh City"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Reviewer question: the site is an eco-lodge in the Mekong Delta with thatched cottages; the rainforest wording is marketing, so the niche is unclear (confidence 0.35). Operating status is not stated. Room counts conflict: the home page says 12 cottages and the accommodation page says 48 rooms.",
+  "evidenceAt": "2026-11-15T07:58:26.639Z",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/1396029796",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "jungle-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Lakeside resort inside the Quinault Rainforest on the Olympic Peninsula, Washington",
+  "category_quote": "The Rain Forest Resort Village is set in the beautiful Quinault Rainforest on the shores of picturesque Lake Quinault.",
+  "confidence": 0.6,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Rain Forest Resort Village",
+  "property_type": "lodge",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Gas fireplace and large deck in Parkside Suites",
+    "quote": "They have a gas fireplace in the living room with a large deck overlooking the lake."
+   },
+   {
+    "text": "Jetted tub in suite bathroom",
+    "quote": "A queen size bed in the comfortable bedroom and a jetted tub in the bathroom."
+   },
+   {
+    "text": "Restaurant on site",
+    "quote": "Enjoy fine dining in our Salmon House Restaurant"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Lake beach with glacier-fed water",
+    "quote": "Lake Quinault's pristine glacier fed waters lap at the beach of our resort."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Lake Quinault, Olympic Peninsula, Washington",
+   "quote": "Beautiful Lake Quinault in the Quinault Rainforest"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Reviewer question: the resort sits in the Quinault Rainforest, which the category wording fits. The lodgings are standard suites, cabins and an inn, so the rainforest setting is the only niche (confidence 0.6). Open status is not confirmed; the footer says 2013.",
+  "evidenceAt": "2026-11-15T07:58:31.361Z",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/10197742768",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Safari lodge in the Northern Cape offering game viewing and photo safaris",
+  "category_quote": "We offer you the best safari experience in South Africa.",
+  "confidence": 0.6,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Linksfontein Safari Lodge",
+  "property_type": "lodge",
+  "address": null,
+  "room_count": {
+   "value": 9,
+   "quote": "Linksfontein Safari Lodge boasts 9 Air-Conditioned Luxury Double Rooms."
+  },
+  "amenities": [
+   {
+    "text": "Swimming pool",
+    "quote": "9 en-suite bedrooms with room service, Swimming Pool, Large dining area, Indoor & Outdoor BBQ areas"
+   },
+   {
+    "text": "Serenity Spa",
+    "quote": "can enjoy our luxury Serenity Spa and cuisine by our in-house gourmet chef"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Game viewing, fishing, hiking and historical tours",
+    "quote": "a range of activities including, game viewing, fishing, hiking, the Big Hole"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Gravel road from the N8 near Campbell, about 105 km from Kimberley",
+   "quote": "Drive on the N8 high road from Kimberley to Griekwastad/Campbell"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Reviewer asked about open status and niche: the live site with bookings shows no closure and offers game viewing at a safari lodge, but it never names a reserve or game drives, so confidence is moderate.",
+  "evidenceAt": "2026-11-15T07:58:07.619Z",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/296945752",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Wildlife retreat inside Tsavo East National Park with views over waterholes",
+  "category_quote": "Elegantly perched within the majestic sprawl of Tsavo East National Park",
+  "confidence": 0.75,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Voi Safari Lodge",
+  "property_type": "lodge",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Views of wildlife at nearby waterholes",
+    "quote": "unique panoramic and spectacular views of diverse wildlife frequenting the nearby water holes"
+   },
+   {
+    "text": "Innovative wildlife retreat design",
+    "quote": "Voi Safari Lodge is one of the most innovatively conceived and constructed wildlife retreats in Kenya"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Inside Tsavo East National Park",
+   "quote": "Elegantly perched within the majestic sprawl of Tsavo East National Park"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Reviewer asked about open status and niche: the operator's site lists Voi Safari Lodge among its properties and calls it a wildlife retreat inside Tsavo East National Park, so it fits safari-lodges, though game drives are not named.",
+  "evidenceAt": "2026-11-15T07:58:20.988Z",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/523401692",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "train-hotels",
+  "also_fits": [],
+  "niche_scope": "some_units",
+  "niche_unit_count": null,
+  "niche_feature": "Holiday apartments in restored railway carriages (Ferienwaggons) beside a hotel in Dahn",
+  "category_quote": "Unsere Ferienwaggons sind liebevoll restauriert, komfortabel eingerichtet und über eine kleine Aussentreppe direkt erreichbar.",
+  "confidence": 0.75,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Ferienbahnhof Reichenbach",
+  "property_type": "hotel",
+  "address": "An der Reichenbach 6, 66994 Dahn-Reichenbach",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Zirben sauna included in the room rate",
+    "quote": "Die Benutzung der Zirbensauna ist im Übernachtungspreis enthalten."
+   },
+   {
+    "text": "Breakfast buffet",
+    "quote": "Starten Sie in den Tag mit einem reichhaltigen Frühstücksbuffet."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Original Esslinger railcar used as hotel reception, bar and breakfast room",
+    "quote": "Einzigartig und sehenswert – eine original Esslinger Eisenbahn im Hotelfoyer"
+   }
+  ],
+  "season": {
+   "text": "Winter offer on hotel stays, November 2026 to February 2027",
+   "quote": "für Aufenthalte im November, Dezember 2026"
+  },
+  "check_in": {
+   "text": "14:00",
+   "quote": "Check in ab 14 Uhr / Check out bis 10 Uhr"
+  },
+  "check_out": {
+   "text": "10:00",
+   "quote": "Check in ab 14 Uhr / Check out bis 10 Uhr"
+  },
+  "access": null,
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "Reviewer's concerns are answered: the winter 2026/27 offer shows the property taking bookings, and the site describes Ferienwaggons as railway-carriage holiday units, so train-hotels fits with some_units at 0.75.",
+  "evidenceAt": "2026-11-15T07:58:36.045Z",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/10687466781",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "treehouse-hotels",
+  "also_fits": [],
+  "niche_scope": "some_units",
+  "niche_unit_count": null,
+  "niche_feature": "Luxury resort on Koh Yao Noi whose signature TreeHouse Villa sits in the jungle canopy, with grounded treehouse-style pool villas",
+  "category_quote": "Set amongst the jungle’s canopy in a treetop location with unspoiled views to the sea",
+  "confidence": 0.8,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "TreeHouse Villas Koh Yao",
+  "property_type": "hotel",
+  "address": "24/21 Moo 4, Koh Yao Noi sub-district, Koh Yao district, Phang Nga 82160",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Private plunge pool in the TreeHouse Villa",
+    "quote": "The lower floor is open-aired deck space with private plunge pool and lofted airconditioned bedroom above"
+   },
+   {
+    "text": "Spa",
+    "quote": "At our Spa, we aim to envelop our guests in the ultimate sense of luxury"
+   },
+   {
+    "text": "Free Wi-Fi",
+    "quote": "FREE Wi-Fi Internet throughout the entire resort"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Suspended bridge entry to the treetop villa",
+    "quote": "The entry, over a suspended bridge, takes you into the signature TreeHouse Villa"
+   },
+   {
+    "text": "Beachfront pool villas on one level",
+    "quote": "Our beachfront villas offer the same treehouse layout but on a single level"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Island reached only by boat, with private speedboat transfers from Phuket or Krabi",
+   "quote": "Our remote island of Koh Yao Noi is only accessible by boat"
+  },
+  "audience": "adults_only",
+  "best_for": [],
+  "reason": "Reviewer asked whether the rooms are really in trees: the TreeHouse Villa is a treetop villa reached by a suspended bridge with a balcony above the canopy, but the beachfront pool villas are described as grounded, so only some units are in trees.",
+  "evidenceAt": "2026-11-16T08:07:04.158Z",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/5656921625",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "treehouse-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": 10,
+  "niche_feature": "Luxury treehouse hotel with about ten treehouses in an oak and beech forest in Bavaria",
+  "category_quote": "Unsere Luxus Baumhaushotel-Anlage bieten Ihnen das ganze Jahr ber einen ganz besonderen Ort der Erholung und Entspannung.",
+  "confidence": 0.9,
+  "red_flags": [
+   "closed_hint"
+  ],
+  "other_niche_type": null,
+  "official_name": "Baumhaushotel Seemühle",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 10,
+   "quote": "Im wundersch nen offenen Tal des Waizenbachs sind zehn Luxus-Baumh user in einem romantischen Eichen- und Buchenwald entstanden."
+  },
+  "amenities": [
+   {
+    "text": "Private shower with WC, heating, TV and Wi-Fi in each treehouse",
+    "quote": "ein modernes Duschbad mit WC, Heizung, Fernseher, WLAN sowie z. T. einen freien Blick vom Bett aus"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Each treehouse has a large balcony with a view of the greenery",
+    "quote": "Jedes Baumhaus verf gt ber einen gro z gigen Balkon mit Aussicht ins Gr ne."
+   }
+  ],
+  "season": {
+   "text": "No capacity in November and December 2026, then a long renovation pause",
+   "quote": "Danach gehen wir in die Betriebsferien und werden anschließend wegen anstehender Renovierungsarbeiten längere Zeit pausieren."
+  },
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "In Bavaria, in the Spessart nature park",
+   "quote": "liegt in Bayern, im Naturpark Spessart in der Mitte Deutschlands."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Whole property is a treehouse resort with about ten treehouses, so the category fits. Reviewer question: the site says no capacity in November and December 2026, then a holiday break and a long renovation pause, so status is unknown and flagged closed_hint; the site does not say it is closed now.",
+  "evidenceAt": "2026-11-15T07:58:21.937Z",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/7139345982",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "treehouse-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": 8,
+  "niche_feature": "Eight raised wooden treehouses, about 3.5 to 6 m above ground, among trees",
+  "category_quote": "Houses no. 2 sits a little further inside the land between the trees and stand about 4m above ground level.",
+  "confidence": 0.6,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Treehouse Holidays",
+  "property_type": "guesthouse",
+  "address": null,
+  "room_count": {
+   "value": 8,
+   "quote": "Currently we offer you 8 different houses, different designs and with a different price range."
+  },
+  "amenities": [
+   {
+    "text": "Fully equipped kitchen",
+    "quote": "You have a fully equipped kitchen with sink, fridge and all cooking ware for 3 people."
+   },
+   {
+    "text": "Safe box and fan in every house",
+    "quote": "A safe box and moving fan is installed in every house."
+   },
+   {
+    "text": "Yoga place for up to 20 people and a massage cottage",
+    "quote": "There s a nicely ventilated and roofed yoga place (for up to 20 people), a massage cottage"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Organic garden with fruit free for guests",
+    "quote": "We have our own biological garden for organic vegetables and fruit with no chemicals added."
+   },
+   {
+    "text": "Beaches a couple hundred metres away",
+    "quote": "It s just a couple hundred metres to the nearest beaches"
+   }
+  ],
+  "season": {
+   "text": "Warm sea and sandy beaches all year round",
+   "quote": "sandy beaches and warm ocean water all year round."
+  },
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Fly to Phuket or Krabi, then a short taxi and boat ride",
+   "quote": "Phuket International is the nearest Airport (just 15 min by taxi to the pier where the boat to Koh Yao Noi leaves from)"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Reviewer question: the site says the houses sit between trees at 3.5 to 6 m, which fits the category, but it does not say they are attached to trunks. Check needed: OSM city says Ko Yao Yai while the site says Koh Yao Noi, and the OSM website domain differs from the fetched domain; confidence lowered to 0.6.",
+  "evidenceAt": "2026-11-16T08:07:04.199Z",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/9111505799",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "treehouse-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": 7,
+  "niche_feature": "Boutique treehouse hotel with 7 suites in a coastal forest near Watamu",
+  "category_quote": "Feel at home in a wildly beautiful treehouse with views of the Indian Ocean and a UNESCO protected mangrove forest.",
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Watamu Treehouse",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 7,
+   "quote": "All of our 7 suites offer something different. Discover the one that speaks to you!"
+  },
+  "amenities": [
+   {
+    "text": "Yoga and retreats",
+    "quote": "Connect with nature; connect with community. Breathe and flow with enhanced wellbeing."
+   },
+   {
+    "text": "Kayak, SUP and snorkel experiences",
+    "quote": "Dive into our energising nature experiences. Kayak, SUP, snorkel and more."
+   },
+   {
+    "text": "Healthy meals with fresh local ingredients",
+    "quote": "Treehouse is famous for healthful cuisine and we always use fresh, local ingredients."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Towers built in forest clearings without cutting trees",
+    "quote": "The towers were built on existing clearings in the forest without cutting trees and with the intention of preserving the forest."
+   },
+   {
+    "text": "Verandas and rooftop lounging spaces",
+    "quote": "Relax on one of our verandas or sublime rooftop lounging spaces."
+   }
+  ],
+  "season": {
+   "text": "High season October to March or April",
+   "quote": "The high season (with the best ocean conditions for activities such as snorkeling and diving) is from October through to March or April"
+  },
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "111 km from Mombasa and 25 km from Malindi Airport",
+   "quote": "Watamu Treehouse is 111 Km from Mombasa (Nyali Bridge) and 25 Km from Malindi Airport."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Reviewer question: the site says the towers were built in forest clearings without cutting trees, which matches a raised treehouse among trees, so whole-property treehouse fit is clear. Operating status is not stated.",
+  "evidenceAt": "2026-11-16T08:07:04.200Z",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/399219094",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "treehouse-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Lodge that began as a treehouse in Aberdare National Park; history describes later rooms on stilt supports",
+  "category_quote": "it was built into the tops of the trees of Aberdare National Park as a treehouse",
+  "confidence": 0.55,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Treetops Lodge",
+  "property_type": "lodge",
+  "address": "Aberdares National Park Entrance Gate, Nyeri, Kenya",
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Royal history: Princess Elizabeth stayed here in 1952",
+    "quote": "Treetops holds a special place in history."
+   },
+   {
+    "text": "Observation lounges and ground-level hides for wildlife viewing",
+    "quote": "observation lounges and ground-level photographic hides from which guests can observe the local wildlife"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The Wikipedia extract says the hotel was built into the treetops as a treehouse and Wikipedia says it reopened in August 2024, but the current site does not describe tree-level rooms, so whole_property is kept at 0.55.",
+  "evidenceAt": "2026-11-15T07:58:36.041Z",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/8223275777",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "some_units",
+  "niche_unit_count": 3,
+  "niche_feature": "Farm stay with a grain silo, a bubble and a cabin to sleep in, near Paris",
+  "category_quote": "Nuit Insolite en bulle, en cabane ou dans un silo grains proche de Paris",
+  "confidence": 0.6,
+  "red_flags": [],
+  "other_niche_type": "grain silo stay",
+  "official_name": "La bulle des champs",
+  "property_type": "B&B",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Shared outdoor pool, 15 April to 15 October",
+    "quote": "Piscine partagée extérieure accessible de 9h à 20h du 15 avril au 15 octobre uniquement."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Sleep in a cabin, a bubble or a silo",
+    "quote": "Dormir dans la cabane, la bulle du pré ou le silo des étoiles, vous permettra de vivre un moment suspendu."
+   }
+  ],
+  "season": {
+   "text": "Shared pool open 15 April to 15 October",
+   "quote": "Piscine partagée extérieure accessible de 9h à 20h du 15 avril au 15 octobre uniquement."
+  },
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Under 1h30 from Paris, on a cereal farm in the Gâtinais regional park",
+   "quote": "A moins de 1h30 de Paris, notre ferme céréalière où vous séjournerez est située dans le Parc Régional du Gâtinais au sud de l'Essonne."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Farm with three units: a cabin, a bubble and a grain-silo sleep. The silo is not in the category list, so category is null with other_niche_type set. Bubble transparency is not stated, so bubble-hotels is not assigned. Reviewer question: open status is not stated, and the niche is clear from the silo unit, though the bubble is not confirmed as transparent.",
+  "evidenceAt": "2026-11-15T07:58:28.530Z",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/3808281659",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.25,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Hotel Schloss Westerholt",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The site returned only a bot-check page, so the only evidence is the name Schloss and a Wikidata entry calling it a hotel in Herten, and the castle category is a low-confidence name-only guess.",
+  "evidenceAt": "2026-11-16T08:07:17.929Z",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/6469738785",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "desert-camps",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Bedouin camp near Petra; the linked website describes the sister Luxury Camp, not this camp",
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Seven Wonders Bedouin Camp",
+  "property_type": "camp",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Shares a driveway with the Seven Wonders Luxury Camp",
+   "quote": "There is a sign for us AND a sign for the Seven Wonders Bedouin Camp (we share same driveway)."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Reviewer question: the website belongs to the Seven Wonders Luxury Camp and its domes and cabins must not be credited to the Bedouin Camp. The only Bedouin Camp facts are that the same owners run it and it shares the driveway, so the niche is name-only with low confidence.",
+  "evidenceAt": "2026-11-15T07:58:23.381Z",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/6855127685",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "desert-camps",
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": "Name only; the booking page has no readable text",
+  "category_quote": null,
+  "confidence": 0.2,
+  "red_flags": [
+   "listing_site"
+  ],
+  "other_niche_type": null,
+  "official_name": "Agafay Luxury Camp",
+  "property_type": "camp",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The only evidence is a third-party booking page whose text is just 'Skip to main content', so the camp and its niche cannot be verified.",
+  "evidenceAt": "2026-11-15T07:58:42.301Z",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/548174907",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "floating-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Floating hotel (botel) in Prague; the only page is a generic article about botels",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Botel Racek",
+  "property_type": "ship",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The name and the OSM tag suggest a floating hotel, but the only page is a generic article about Prague botels that never names Racek and gives no room or booking details, so it stays name_only at low confidence 0.35.",
+  "evidenceAt": "2026-11-15T07:58:40.089Z",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/13316086041",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Mara Kati Kati Tented Camp",
+  "property_type": "camp",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Reviewer is right: the linked page describes the sibling Serengeti Kati Kati camp and Mara Kati Kati appears only as a list item, so no facts are taken and the safari-camp category rests on the name alone.",
+  "evidenceAt": "2026-11-15T07:58:10.008Z",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/3713816552",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.2,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Nile Safari Lodge",
+  "property_type": null,
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The site returned only a bot-check page, so the only evidence is the name and the OSM hotel tag, and the safari-lodge category is a low-confidence name-only guess.",
+  "evidenceAt": "2026-11-16T08:07:14.793Z",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/5937222957",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a safari lodge; the site text shows no game drives or reserve",
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Mpogo Safari Lodge",
+  "property_type": "lodge",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name suggests a safari lodge. The site pages hold contact details and an empty rooms page, with no game drives or reserve, so the evidence is too thin.",
+  "evidenceAt": "2026-11-16T08:07:15.652Z",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/367832148",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Lodge named as a safari lodge in Nwoya, Uganda; no page content about game drives",
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Pakuba Safari Lodge",
+  "property_type": "lodge",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Name-only classification: the fetched home page contains only CSS and a title, with no game drive or reserve evidence, so confidence stays low.",
+  "evidenceAt": "2026-11-16T08:07:13.358Z",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/13776699751",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Ostseeglueck Strand & See",
+  "property_type": "apartment",
+  "address": "Seepark 3, 23774 Heiligenhafen",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Full kitchen appliances, washing machine and dryer",
+    "quote": "Vollausstattung: Geschirrspüler, Waschmaschine & Trockner"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Beach and lake location with sea view",
+    "quote": "Lage: Am Strand & Binnensee mit tollem Meerblick"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "Queue category train-hotels is wrong: this is a privately rented holiday apartment on the Steinwarder with no sleeping unit in a railway carriage, and the only train mention is a travel route by rail and bus.",
+  "evidenceAt": "2026-11-16T08:07:23.725Z",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/14372798901",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.8,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Snow Lion ECO Lodge",
+  "property_type": "lodge",
+  "address": null,
+  "room_count": {
+   "value": 17,
+   "quote": "The lodge offers 17 cozy double-rooms on two floors"
+  },
+  "amenities": [
+   {
+    "text": "Restaurant with Sherpa, Nepali and western dishes",
+    "quote": "We serve seasonal Sherpa and Nepali dishes and beverages as well as a choice of western style meals"
+   },
+   {
+    "text": "Electricity and WiFi in rooms",
+    "quote": "Our cozy rooms provide electricity and WiFi"
+   },
+   {
+    "text": "Hot water showers",
+    "quote": "Hot water showers and a washing area to feel fresh and comfortable"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Peaceful stupa next to the lodge",
+    "quote": "Next to the Lodge is a peaceful Stupa"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Remote Sherpa village in the Himalayan foothills",
+   "quote": "in the foothills of the Himalaya at an altitude of 2.250m"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Mountain eco-lodge in a Sherpa village at about 2,250 m in Makalu Barun National Park with no rainforest or other listed niche, so it fits none of the categories.",
+  "evidenceAt": "2026-11-16T08:07:24.900Z",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/1098049561",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": "Family farm with cabins and glamping bell tents; the treehouse is on hold and not built",
+  "category_quote": null,
+  "confidence": 0.6,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Malting Farm",
+  "property_type": "glamping",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Hot tub in cabins",
+    "quote": "The combination of the outside hot tub with king sized bed in the master bedroom"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Part of a 300 acre working family farm",
+    "quote": "Malting Farm is part of our 300 acre working family farm in Little Bentley."
+   }
+  ],
+  "season": {
+   "text": "Two-night minimum in off-peak season",
+   "quote": "Minimum of 2 night stays only during off-peak season excluding school holidays."
+  },
+  "check_in": {
+   "text": "Check-in from 4pm to 9pm",
+   "quote": "Earliest check in is 4.00pm. Latest check in is 9.00pm."
+  },
+  "check_out": {
+   "text": "Check out by 10am",
+   "quote": "We kindly ask that you check out by 10.00am."
+  },
+  "access": {
+   "text": "About 1.5 hours from London, near Colchester",
+   "quote": "Only an hour and a half from London, we’re the ideal place to bring family and friends for a short break away from it all."
+  },
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "Reviewer question: the home page lists two treehouses, but the treehouse page says the project is under construction and on hold, so no treehouse is offered. Cabins and bell tents are not a niche, so category is null with low-medium confidence.",
+  "evidenceAt": "2026-11-15T07:58:30.596Z",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/222966825",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.9,
+  "red_flags": [
+   "chain_generic"
+  ],
+  "other_niche_type": null,
+  "official_name": "Days Inn & Suites by Wyndham Castle Rock",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Chain hotel in the town of Castle Rock, Colorado. The word Castle is part of the town name, not a castle building, and the pages hold only booking and login text. Rejected as a false positive for castle-hotels.",
+  "evidenceAt": "2026-11-15T07:58:43.812Z",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/264334571",
+  "is_lodging": false,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": "Neo-Gothic manor palace (Schloss von Treskow) described as a wedding house; lodging not evidenced",
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "event_venue_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Zamek von Treskow",
+  "property_type": "other",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Wedding house set up after renovation",
+    "quote": "nach seiner Renovierung wurde hier ein Hochzeitshaus eingerichtet"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Not accepted: the homepage is a hosting-provider placeholder, the only description calls the palace a wedding house, and the reviewer's cited text (Nocleg dla Twoich gości, a 2023 notice) is not in the evidence file, so lodging cannot be confirmed.",
+  "evidenceAt": "2026-11-15T07:58:34.728Z",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/376727622",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Restored neo-Baroque manor house (Gutshaus), locally called Schloss, with holiday apartments",
+  "category_quote": null,
+  "confidence": 0.6,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Gutshaus Badow",
+  "property_type": "apartment",
+  "address": "Söhringer Str. 1, Schildetal, Germany",
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Restored manor house with apartments and a large park",
+    "quote": "Schloss Badow ist ein liebevoll restauriertes Gutshaus in Mecklenburg mit stilvollen Apartments, historischem Charme und weitläufigem Park."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "A few minutes from Schwerin and the Schaalsee biosphere reserve",
+   "quote": "nur wenige Minuten von Schwerin und dem Biosphärenreservat Schaalsee entfernt"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Reviewer's point holds: the stored site text is SVG markup, and the castle label is only the local name of a manor house, so castle-hotels is not accepted; the description in the present tense suggests the apartments are open.",
+  "evidenceAt": "2026-11-15T07:58:35.540Z",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/799755707",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Standard chain hotel near the Mammoth Cave area; rooms are not inside a cave",
+  "category_quote": null,
+  "confidence": 0.85,
+  "red_flags": [
+   "chain_generic"
+  ],
+  "other_niche_type": null,
+  "official_name": "Days Inn by Wyndham Cave City",
+  "property_type": "hotel",
+  "address": "1006 Doyle Ave., Cave City, KY 42127-8441",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Free light breakfast",
+    "quote": "Start your day off with a free light breakfast item together with your choice of coffee, tea and juice."
+   },
+   {
+    "text": "Outdoor pool",
+    "quote": "Jump into our refreshing outdoor pool for an invigorating afternoon workout."
+   },
+   {
+    "text": "Free WiFi in guest rooms",
+    "quote": "Guest rooms are well-appointed with free high-speed WiFi, flat-screen HDTV, and ironing facilities."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Mammoth Cave National Park nearby (not on site)",
+    "quote": "Venture through the longest cave system in the world at Mammoth Cave National Park, with over 400 miles to explore."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Off I-65, near Louisville and Nashville routes",
+   "quote": "Off I-65 with access to Louisville and Nashville"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Not a cave hotel: this is a standard Wyndham chain hotel near Mammoth Cave with no rooms inside a cave, and cave-hotels excludes a hotel merely near a cave.",
+  "evidenceAt": "2026-11-15T07:58:45.320Z",
+  "verdict": "rejected",
+  "dropped": []
+ }
+]
