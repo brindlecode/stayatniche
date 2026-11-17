@@ -19,6 +19,7 @@ bestFor:
 seo:
   metaTitle: "Igloos de verre à Ranua, en Laponie | StayAtNiche"
   metaDescription: "Arctic Guesthouse & Igloos à Ranua : dix igloos de verre déplaçables pour admirer les aurores boréales, chambres d'hôtes et lodges en bordure du lac."
+niche_feature: "Igloos de verre (AuroraHut, idéalement pour 2 personnes) sur la rive du lac Ranua, dont certains peuvent flotter et se déplacer en été grâce à un moteur électrique ; l'établissement propose aussi des chambres d'hôtes ordinaires et des Aurora Lake Lodges."
 ---
 
 Une partie seulement de l'établissement fait l'attrait du lieu : dix igloos de verre déplaçables, installés à côté de chambres d'hôtes abordables et de lodges plus récents. Arctic Guesthouse & Igloos se trouve à Ranua, village du sud de la Laponie, à environ une heure de Rovaniemi et un peu plus de deux heures d'Oulu. Vous choisissez ainsi la part d'expérience arctique que vous souhaitez.

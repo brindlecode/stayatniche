@@ -16,6 +16,7 @@ bestFor:
 seo:
   metaTitle: "Thulhagiri: Wasserbungalows Malediven | StayAtNiche"
   metaDescription: "Thulhagiri Island Resort and Spa im Nord-Malé-Atoll: 37 Wasserbungalows über der Lagune und ein Hausriff zum Schnorcheln, 20 Min. vom Flughafen."
+niche_feature: "17 Water Bungalows (56 m²) und 20 Superior Water Bungalows (78 m²) über der Lagune, neben 50 Standard Deluxe Strandbungalows."
 ---
 
 Das Thulhagiri Island Resort and Spa ist ein kleines Inselresort im Nord-Malé-Atoll auf den Malediven. Siebenunddreißig seiner Zimmer sind Wasserbungalows über der Lagune (17 Water Bungalows und 20 Superior Water Bungalows). Nur ein Teil des Resorts steht also über dem Wasser; die übrigen Unterkünfte sind 50 Standard-Deluxe-Strandbungalows (Strandvillen) mit Außenduschen.

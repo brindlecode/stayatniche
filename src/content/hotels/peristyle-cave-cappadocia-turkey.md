@@ -43,11 +43,11 @@ niche_source_url: "https://www.peristylecave.com/en"
 niche_verified_at: 2026-11-17
 ---
 
-Peristyle Cave Cappadocia is a small hotel high in Uçhisar, beneath the castle that gives the village its skyline. It has eight rooms in total: five caves and three stone rooms. So this is a stay where most, though not all, of the rooms are carved into the rock.
+Peristyle Cave Cappadocia is a small hotel high in Uçhisar, beneath the castle that gives the village its skyline. It has eight rooms in total: five caves and three stone rooms. So this is a stay where most, though not all, of the rooms are caves.
 
 ## The rooms
 
-The rooms are named after the planets: Uranus, Mars, Jupiter, Saturn, Neptune, Mercury, Earth and Venus. Ask when booking if you specifically want a cave room.
+The rooms are named after the planets: Uranus, Mars, Jupiter, Saturn, Neptune, Mercury, Earth and Venus. The site does not say which of them are the cave rooms and which are stone, so ask when booking if you specifically want a cave room.
 
 ## The setting
 

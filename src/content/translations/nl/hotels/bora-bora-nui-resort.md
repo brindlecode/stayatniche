@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Bora Bora Nui: overwaterbungalows | StayAtNiche"
   metaDescription: "Ruime overwaterbungalows met zicht op de Mount Otemanu en snorkelen vanaf je terras tussen rifhaaien en roggen: Bora Bora Nui Resort & Spa in Frans-Polynesië."
+niche_feature: "Het resort (nu Conrad Bora Bora Nui, met 114 villa's volgens Forbes Travel Guide) bestaat grotendeels uit overwaterbungalows, met enkele villa's aan het strand, in de tuin en op de heuvel. De officiële site van Hilton gaf een 403-foutmelding."
 ---
 
 Bora Bora is het nulpunt van de overwaterbungalow: het concept werd hier bedacht, en het eiland is nog altijd het overtuigendste argument ervoor. In het midden staat de 727 meter hoge basalttop van de Mount Otemanu, omringd door een barrièrerif rond een lagune waarvan de turquoise kleur haar tot een van de meest gefotografeerde wateren op aarde heeft gemaakt. Dit is de Stille Zuidzee zoals de foto's beloven, en dat is zeldzamer dan het klinkt.

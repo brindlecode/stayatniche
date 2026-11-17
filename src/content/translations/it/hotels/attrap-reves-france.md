@@ -50,6 +50,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Attrap’Rêves, dormire in una bolla in Provenza | StayAtNiche"
   metaDescription: "Dormi in una bolla trasparente nella campagna provenzale vicino a Marsiglia: Attrap’Rêves, l’indirizzo francese per guardare le stelle. Da 280 $ a notte."
+niche_feature: "Bolle trasparenti (Zen, Jungle, Love Nature, Chic & Design, 1001 e altre) ad Allauch; la struttura vende anche unità che non sono bolle (Lov'nid, Aqua'Room, capanne tahitiane e capanne scoiattolo) e dispone di un sito separato per le cabine, A Fleur de Bois."
 ---
 
 A dieci chilometri dalla stazione di Marsiglia Saint-Charles e lontanissimo da essa, Attrap’Rêves si trova tra le colline di gariga sopra Allauch: rosmarino, querce autoctone, luce mediterranea. Ogni bolla trasparente occupa un proprio lembo di macchia provenzale, schermato dai vicini. Non vedi le altre bolle. Vedi la campagna e, di notte, il cielo.

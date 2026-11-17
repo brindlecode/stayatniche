@@ -3,7 +3,7 @@ name: Conrad Maldives Muraka
 category: underwater-rooms
 destination: Rangali Island
 country: Maldives
-description: The world's only two-story underwater hotel suite, Muraka at Conrad Maldives Rangali Island places its bedroom and bathroom 5 metres beneath the Indian Ocean. Curved acrylic panels on all sides give 180-degree views of living coral reef from the bed — reef sharks, rays, and fish drifting past as you fall asleep.
+description: Muraka at Conrad Maldives Rangali Island is a two-level residence whose underwater master bedroom suite sits more than 16 feet (about 5 metres) below sea level in the Indian Ocean. A 180-degree curved acrylic dome gives views of living coral reef from the bed, with reef sharks, rays and fish drifting past as you fall asleep.
 coverImage: /images/hotels/conrad-maldives-muraka.jpg
 gallery:
   - /images/hotels/conrad-maldives-muraka-2.jpg
@@ -11,13 +11,13 @@ gallery:
 priceRange: "$8,000 - $15,000"
 priceIndicator: 5
 highlights:
-  - Only two-story underwater suite in the world
-  - Bedroom surrounded by Indian Ocean coral reef
+  - Billed by the resort as the world's first undersea residence
+  - Underwater master bedroom under a 180-degree acrylic dome
   - Private butler and dedicated chef
   - Private pool, gym, and outdoor deck
   - Direct ocean access for diving and snorkeling
 amenities:
-  - Curved panoramic underwater windows
+  - 180-degree curved acrylic viewing dome
   - Private infinity pool
   - Dedicated personal chef
   - 24-hour butler service
@@ -56,9 +56,9 @@ niche_source_url: "https://www.conradmaldives.com/villa/the-muraka/"
 niche_verified_at: 2026-11-17
 ---
 
-Muraka, meaning "coral" in Dhivehi, is the singular most extraordinary hotel room on the planet. Launched in 2019 after five years of development, it required engineering solutions that had never been attempted in hospitality before.
+Muraka, meaning "coral" in Dhivehi, is described by the resort as the world's first undersea residence, with four years of engineering innovation behind it.
 
-The suite occupies two levels. The upper level contains a master bedroom, living room, and outdoor deck at water level, with sweeping views across the Indian Ocean. A spiral staircase descends to the lower level — a curved bedroom and bathroom built 5 metres below the ocean's surface, enclosed entirely by curved acrylic panels that provide a 180-degree view of the living reef.
+The suite occupies two levels. The upper level contains two ensuite bedrooms, living areas and an outdoor deck at water level, with sweeping views across the Indian Ocean. A spiral staircase descends to the lower level — an underwater master bedroom suite with its own bathroom, built more than 16 feet (about 5 metres) below sea level and enclosed by a curved 180-degree acrylic dome that gives a view of the living reef.
 
 Guests fall asleep watching reef sharks, rays, and thousands of tropical fish move past. The lighting is carefully calibrated not to disturb the marine ecosystem while still providing enough illumination to see clearly into the water.
 

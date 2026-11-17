@@ -50,6 +50,7 @@ nearbyAttractions:
 seo:
   metaTitle: "The Manta Resort, habitación submarina | StayAtNiche"
   metaDescription: "Duerme a 4 metros bajo el océano Índico en la habitación submarina de The Manta Resort, frente a la isla de Pemba (Tanzania), con el arrecife tras el cristal."
+niche_feature: "Una Underwater Room: una suite flotante de tres niveles anclada a unos 250 m de la costa de Pemba, con el dormitorio doble a cuatro metros bajo la superficie del mar. El resto del resort (villas y habitaciones con jardín) es alojamiento convencional."
 ---
 
 A cuatro metros bajo la superficie del océano Índico, con la vida del arrecife del canal de Pemba desfilando en la oscuridad al otro lado de los cristales, las categorías hoteleras convencionales dejan de servir. La Underwater Room de The Manta Resort es algo aparte: un dormitorio sumergido frente a una de las islas menos visitadas del océano Índico occidental, donde los peces sienten bastante más curiosidad por ti que tú por ellos.

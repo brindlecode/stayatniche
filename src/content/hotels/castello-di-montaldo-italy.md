@@ -3,11 +3,11 @@ name: "Castello di Montaldo"
 category: castle-hotels
 destination: "Montaldo Torinese, Piedmont"
 country: "Italy"
-description: "A 4-star Superior hotel and spa carved out of a medieval castle, 20 minutes from Turin, with 20 suites and 19 rooms."
+description: "A 4-star Superior hotel and spa carved out of a medieval castle, 20 minutes from Turin, with 20 double rooms and 19 suites."
 priceRange: "Rates vary"
 highlights:
   - "4-star Superior hotel inside a medieval castle"
-  - "20 suites and 19 rooms"
+  - "20 double rooms and 19 suites"
   - "3,000 m² spa with sauna rituals led by sauna masters"
   - "About 20 minutes from Turin"
   - "Restaurant Du Château and the Enoteca Crotin"
@@ -49,7 +49,7 @@ Castello di Montaldo is a 4-star Superior hotel created inside a medieval castle
 
 ## The rooms
 
-The hotel has 20 suites and 19 spacious, bright rooms, 39 in all. The setting is the draw, and from the rooms there is a direct way down to the spa. Guests can walk from their room to the spa in a bathrobe.
+The hotel has 20 double rooms and 19 suites, 39 in all. The setting is the draw, and from the rooms there is a direct way down to the spa. Guests can walk from their room to the spa in a bathrobe.
 
 ## The spa
 

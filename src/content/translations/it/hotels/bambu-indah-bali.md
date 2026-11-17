@@ -49,6 +49,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Bambu Indah, ville nella giungla di Ubud | StayAtNiche"
   metaDescription: "Antiche case nuziali giavanesi e strutture in bambù sul fiume, nella giungla vicino a Ubud: Bambu Indah è l’indirizzo più raffinato di Bali. Da 250 $ a notte."
+niche_feature: "Una Treehouse (3 posti letto) tra 24 case: una struttura di bambù separata, tra i rami di due alberi di bunut. Le altre case (case nuziali joglo, case di bambù, tende) non sono case sugli alberi."
 ---
 
 La maggior parte degli alloggi di lusso di Bali segue uno schema noto: piscina a sfioro piastrellata, lobby in un padiglione aperto, villa privata con piscina cosparsa di frangipani. Bambu Indah parte da presupposti completamente diversi. John Hardy, il designer di gioielli canadese che ha fondato sia la Green School di Bali sia un movimento di architettura in bambù che ha influenzato l’edilizia tropicale in tutto il mondo, ha creato Bambu Indah come dimostrazione concreta di come potrebbe essere un alloggio a Bali sostenibile, onesto nei materiali e rigoroso nell’estetica.

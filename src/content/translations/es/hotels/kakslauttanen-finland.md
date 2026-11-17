@@ -52,6 +52,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Kakslauttanen: iglús de cristal en Laponia | StayAtNiche"
   metaDescription: "Iglús de cristal en la Laponia finlandesa: duerme bajo la aurora boreal en iglús climatizados de Kakslauttanen, en dos aldeas. Desde 400 US$ la noche."
+niche_feature: "Iglús de cristal (pequeños, grandes y Kelo-Glass, con dormitorios en chalés de troncos) en las aldeas del Este y del Oeste, junto a cabañas y chalés de troncos convencionales, suites e iglús de nieve. Los iglús de cristal funcionan de finales de agosto a abril."
 ---
 
 Hay lugares que existen en el imaginario colectivo de los viajeros mucho antes de que alguien los visite, y Kakslauttanen Arctic Resort es sin duda uno de ellos. Situado a 68 grados norte, en plena naturaleza de la Laponia finlandesa, este conjunto de iglús de cristal térmico se ha convertido en la respuesta definitiva a la pregunta que persigue a todo cazador de auroras: ¿cuál es el mejor lugar del planeta para dormir bajo la aurora boreal?

@@ -33,7 +33,7 @@ Los días empiezan con un desayuno abundante, del que el castillo se enorgullece
 
 ## Más allá de los muros
 
-El castillo se encuentra en el centro de Casamassella, en la Piazza Vittorio Emanuele II, y además acoge eventos y bodas. La costa del Salento, en torno a Otranto, está cerca, lo que facilita alternar entre un castillo tranquilo y las playas y los cascos antiguos del talón de la bota italiana.
+El castillo se encuentra en el centro de Casamassella, en la Piazza Vittorio Emanuele II, y además acoge eventos y bodas. Su sitio web también ofrece el castillo en uso exclusivo, en régimen de alojamiento autogestionado («Rent a castle»), así que conviene preguntar si se puede reservar todo el edificio en lugar de una sola habitación. La costa del Salento, en torno a Otranto, está cerca, lo que facilita alternar entre un castillo tranquilo y las playas y los cascos antiguos del talón de la bota italiana.
 
 ## Antes de viajar
 

@@ -47,6 +47,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Song Saa: Privatinsel in Kambodscha | StayAtNiche"
   metaDescription: "Song Saa Private Island im Koh-Rong-Archipel: zwei Privatinseln in Kambodscha mit Wasservillen über einem Meeresschutzgebiet und intaktem Riff – ab 1.500 $."
+niche_feature: "Overwater Villas mit einem und zwei Schlafzimmern auf Stelzen über dem Golf von Thailand; zu den 24 Villen des Resorts gehören außerdem Dschungelvillen, Villen mit Meerblick und eine Royal Villa an Land."
 ---
 
 Kambodschas Küste bekommt nicht die Aufmerksamkeit, die sie verdient. Der Koh-Rong-Archipel, eine Gruppe unbebauter Inseln im Golf von Thailand vor der Küste Kambodschas, birgt einige der intaktesten Korallenriffe und Wälder Südostasiens. Song Saa Private Island nimmt zwei seiner kleinsten und am besten geschützten Inseln ein, Koh Ouen und Koh Bong, verbunden durch eine hölzerne Fußgängerbrücke und vollständig einem einzigen Resort vorbehalten.

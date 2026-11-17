@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Walworth Castle: hotel castillo en Darlington | StayAtNiche"
   metaDescription: "Walworth Castle, cerca de Darlington: castillo del siglo XII con habitaciones en el edificio principal, suites con dosel en las torres y la King James Suite."
+niche_feature: "Las habitaciones del castillo, las suites con cama con dosel (algunas en las torres) y la King James I Suite están dentro del castillo principal; las habitaciones del anexo están en un edificio moderno contiguo, además de un Lodge en la casa del guarda (6 huéspedes) y una casa de vacaciones."
 ---
 
 Walworth Castle es un edificio catalogado Grade I con origen en el siglo XII, cerca de Darlington, en el condado de Durham. La casa actual se terminó hacia 1600, probablemente por Thomas Holt para Thomas Jenison, en el lugar de una antigua casona o castillo levantado por la familia Hansard. Durante la Segunda Guerra Mundial sirvió como campo para prisioneros de guerra. Hoy funciona como hotel y se presenta como el único castillo de Darlington.

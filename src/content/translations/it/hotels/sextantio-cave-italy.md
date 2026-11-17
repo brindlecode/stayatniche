@@ -49,6 +49,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Sextantio Matera: dormire nei Sassi in grotta | StayAtNiche"
   metaDescription: "Sextantio Le Grotte della Civita: dormi nelle antiche grotte dei Sassi di Matera, città UNESCO abitata da 9.000 anni: un boutique hotel straordinario."
+niche_feature: "18 camere sono grotte restaurate nel Sasso Barisano (Civita) (per esempio Grotta 17, 18, 20). Lo stesso complesso gestisce anche un Palazzo della Civita separato, con camere che non sono grotte."
 ---
 
 Nel 1952 il presidente del Consiglio Alcide De Gasperi venne a Matera e la definì *la vergogna d'Italia*. Chi abitava nei Sassi — le case-grotta scavate nelle gravine di questa cittadina lucana arroccata su un'altura — viveva senza acqua corrente né elettricità e divideva gli spazi con i propri animali. Nel giro di un decennio il governo trasferì gli abitanti con la forza. Per trent'anni le grotte rimasero vuote.

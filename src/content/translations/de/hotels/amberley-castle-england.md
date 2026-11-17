@@ -51,6 +51,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Amberley Castle: Burghotel in West Sussex | StayAtNiche"
   metaDescription: "Fallgitter, originale Zinnen und Turmzimmer: Amberley Castle in den South Downs ist Englands romantischste Burg aus dem 12. Jahrhundert – nahe London."
+niche_feature: "Echte mittelalterliche Burg mit Ringmauer; ihre 19 Zimmer liegen in verschiedenen Teilen des Anwesens: im Manor House, im Tower House Mews und als Gatehouse Suites in der Bishopric Dairy aus dem 17. Jahrhundert, unmittelbar jenseits der Mauern."
 ---
 
 Das Fallgitter von Amberley Castle senkt sich hinter Ihnen mit einem Geräusch – Eisen auf Stein, bedächtig und schwer –, das jede Frage danach klärt, wo Sie sich befinden. Sie sind in einer Burg aus dem 12. Jahrhundert. Die Außenwelt liegt jenseits von 18 Metern mittelalterlicher Ringmauer. Das ist keine Metapher.

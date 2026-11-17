@@ -49,6 +49,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Sextantio Matera: slapen in een grothotel | StayAtNiche"
   metaDescription: "Slapen in een eeuwenoude grotwoning in de Sassi van Matera, UNESCO-werelderfgoed in Zuid-Italië: Sextantio Le Grotte della Civita, een bijzonder grothotel."
+niche_feature: "18 kamers zijn gerestaureerde grotten in de Sasso Barisano (Civita) (bijvoorbeeld Cave 17, 18, 20). Hetzelfde complex heeft ook een apart Palazzo della Civita met kamers die geen grot zijn."
 ---
 
 In 1952 stond de Italiaanse premier Alcide De Gasperi in Matera en noemde de stad *la vergogna d'Italia*: de schande van Italië. De mensen die in de Sassi woonden, de grotwoningen die zijn uitgehakt in de ravijnen van dit heuvelstadje in Basilicata, hadden geen stromend water en geen elektriciteit, en deelden hun woonruimte met hun dieren. De regering liet hen binnen tien jaar gedwongen verhuizen. Dertig jaar lang stonden de grotten leeg.

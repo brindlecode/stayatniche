@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Sorrisniva: Eishotel mit Polarlichtern in Alta | StayAtNiche"
   metaDescription: "Sorrisniva Igloo Hotel in Alta: jeden Winter neu gebautes Eishotel auf 70° N, in der Polarlichtzone der Finnmark, geöffnet vom 20. Dezember bis 31. März."
+niche_feature: "Igluhotel aus Eis und Schnee, jeden Winter neu gebaut (20. Dezember bis 31. März), mit Iglu-Zimmern, Familienzimmern und Themensuiten; die separate Arctic Wilderness Lodge bietet gewöhnliche beheizte Zimmer."
 ---
 
 Das Sorrisniva Igloo Hotel entsteht jeden Winter am zugefrorenen Ufer des Altaelva auf 70 Grad Nord, und die Lage leistet hier echte Arbeit. Alta liegt tief im Finnmarksvidda, dem Hochplateau der Finnmark, und ist die nördlichste Stadt Norwegens von nennenswerter Größe. Ihre Kp-Index-Werte erreichen regelmäßig die Schwelle, ab der Polarlichter nicht nur möglich, sondern verlässlich sind. Dies ist einer der besten Polarlicht-Standorte Europas – mit einem richtigen Hotel, das darum herum gebaut wurde, statt nur einem angehefteten Werbeversprechen.

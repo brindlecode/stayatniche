@@ -24,6 +24,7 @@ bestFor:
 seo:
   metaTitle: "Ashford Castle: hotel castillo en Irlanda | StayAtNiche"
   metaDescription: "Castillo de 1228 a orillas del Lough Corrib, en el condado de Mayo: 83 habitaciones únicas, escuela de cetrería, comedor George V y 350 acres de finca irlandesa."
+niche_feature: "Castillo histórico con orígenes en el siglo XIII, explotado como hotel; el sitio oficial enumera 83 habitaciones y suites, además de la Boathouse, un edificio independiente junto al lago. No indica qué habitaciones están dentro de la estructura del castillo. The Lodge es un hotel aparte."
 ---
 
 Ashford Castle existe desde 1228, cuando la familia anglonormanda De Burgo levantó la torre original a orillas del Lough Corrib. La familia Guinness lo amplió considerablemente en el siglo XIX, y el resultado es una finca irlandesa de 350 acres con un castillo en el centro que es, sin ningún género de duda, auténtico: ni un capricho victoriano ni un hotel que simplemente tiene un torreón.

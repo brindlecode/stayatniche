@@ -23,6 +23,7 @@ bestFor:
 seo:
   metaTitle: "Misool Eco Resort: bungalows in Raja Ampat | StayAtNiche"
   metaDescription: "Misool Eco Resort in Raja Ampat, Indonesië: overwaterbungalows in het rijkste zeegebied ter wereld. Duiken met mantaroggen in een eigen beschermd reservaat."
+niche_feature: "8 Water Cottages op palen boven de North Lagoon, plus 4 North Lagoon Villas (minstens twee op palen); de andere villa's liggen aan South Beach of op een heuveltop. In totaal 20 eenheden."
 ---
 
 Raja Ampat betekent 'Vier Koningen', een verwijzing naar de vier hoofdeilanden van een archipel in West-Papoea die in het hart van de Koraaldriehoek ligt, het wereldwijde centrum van mariene biodiversiteit. De cijfers zijn duizelingwekkend: meer dan 1.500 soorten vissen, 700 soorten weekdieren en 600 soorten koraal, meer dan in het hele Caribisch gebied, samengepakt in de wateren rond deze eilandketen. Mariene biologen die hun hele loopbaan riffen hebben bestudeerd, zeggen dat de duikplekken van Raja Ampat met niets te vergelijken zijn wat ze ooit hebben gezien.

@@ -50,6 +50,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Attrap'Rêves: Bubble-Hotel in der Provence | StayAtNiche"
   metaDescription: "Schlafen in transparenten Bubble-Kuppeln in der Provence nahe Marseille: Attrap'Rêves ist Frankreichs schönstes Hotel zum Sternegucken – ab 280 $ pro Nacht."
+niche_feature: "Transparente Bubbles (Zen, Jungle, Love Nature, Chic & Design, 1001 und weitere) in Allauch; auf dem Gelände gibt es auch Unterkünfte ohne Bubble (Lov'nid, Aqua'Room, tahitianische Hütten und Eichhörnchen-Hütten) sowie ein separates Hüttengelände, A Fleur de Bois."
 ---
 
 Zehn Kilometer vom Bahnhof Marseille Saint-Charles entfernt und doch eine ganz andere Welt: Das Attrap'Rêves liegt in den Garrigue-Hügeln oberhalb von Allauch – Rosmarin, einheimische Eichen, mediterranes Licht. Jede transparente Bubble steht auf ihrem eigenen Stück provenzalischer Buschlandschaft, abgeschirmt von den Nachbarn. Andere Bubbles sehen Sie nicht. Sie sehen die Landschaft und nachts den Himmel.

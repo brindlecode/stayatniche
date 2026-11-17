@@ -21,6 +21,7 @@ bestFor:
 seo:
   metaTitle: "Borgo Castello Panicaglia: castillo en Umbría | StayAtNiche"
   metaDescription: "Borgo Castello Panicaglia, en Umbría: casa de huéspedes en un castillo de 1266, con piscina, restaurante, clases de cocina y habitaciones con nombre propio."
+niche_feature: "Habitaciones en un castillo que data de 1266 dentro del borgo de Panicaglia; el sitio enumera unas 17 habitaciones y suites con nombre, además de la casa vacacional Michele, que linda con el hotel en lugar de estar en el castillo."
 ---
 
 Borgo Castello Panicaglia ocupa un castillo construido en 1266 en el pequeño pueblo medieval de Panicaglia, en Umbría. Se encuentra a 800 metros de altitud, con vistas a las montañas de Umbría, y funciona como casa de huéspedes en la que se invita a participar en la vida familiar: asomarse a la cocina, echar una mano en el huerto o instalarse en uno de los muchos rincones de estar.

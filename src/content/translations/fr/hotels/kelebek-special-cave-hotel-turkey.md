@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Kelebek Special Cave Hotel : hôtel à Göreme | StayAtNiche"
   metaDescription: "Kelebek Special Cave Hotel à Göreme : hôtel de longue date au-dessus du village avec chambres troglodytes, hammam, piscine et vue sur les montgolfières."
+niche_feature: "36 chambres mêlant chambres troglodytes, chambres dans des cheminées de fée et chambres en pierre ; seules certaines chambres troglodytes sont creusées directement dans la roche naturelle, dont des espaces historiques remontant au VIIIe siècle. Les autres relèvent de l'architecture en pierre."
 ---
 
 Le Kelebek Special Cave Hotel domine le village de Göreme, à l’intérieur du parc national, et mise sur ses vues sur le village, les vallées, les montgolfières et les montagnes à l’horizon. Les chambres troglodytes font partie de l’offre, mais seules certaines sont taillées dans la roche. Les autres sont présentées comme des chambres mixtes, grotte et pierre. L’hôtel annonce 36 chambres au total, mêlant chambres troglodytes, cheminées de fées et pierre, et son propre site l’appelle désormais Kelebek Cave Hotel.

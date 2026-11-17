@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Inkaterra, casa sugli alberi in Amazzonia | StayAtNiche"
   metaDescription: "Dormi a 30 metri d’altezza tra le chiome della Riserva di Tambopata, in Perù, con naturalisti residenti, are, lontre giganti e caimani nell’Amazzonia."
+niche_feature: "Un'unica Canopy Tree House con due letti su una piattaforma privata alla fine dell'Inkaterra Canopy Walkway, a circa 28 m di altezza; si prenota come notte aggiuntiva a un soggiorno alla Reserva Amazónica, le cui 35 cabañas sono a livello del suolo."
 ---
 
 L’Amazzonia peruviana intorno a Puerto Maldonado, in particolare la Riserva nazionale di Tambopata e l’area protetta che la circonda, è uno degli ecosistemi con la più alta biodiversità mai registrata. Un solo ettaro di foresta può contenere più specie di formiche di quante specie di insetti in totale ospitino le intere isole britanniche; una sola giornata di birdwatching può regalare 200 specie; una passeggiata notturna rivela una densità di anfibi, rettili e artropodi che fa sembrare il buio abitato come nessun paesaggio temperato potrebbe. Dormire tra le chiome di questa foresta, al livello in cui penetra la luce e si concentra lo strato più produttivo dell’ecosistema, è un’esperienza che si misura in specie all’ora.

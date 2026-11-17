@@ -8,8 +8,6 @@ highlights:
   - "Domaine boisé d'environ 500 hectares, avec sentiers suivis par GPS"
   - "Entre Arezzo et Sienne, avec vue sur le Val di Chiana"
 amenities:
-  - "Bar dans la boutique du village"
-  - "Restaurant situé hors des murailles"
   - "Options de menus sans gluten"
 bestFor:
   - "Couples"
@@ -28,7 +26,7 @@ Gargonza se dresse à environ 540 mètres d'altitude et domine le Val di Chiana,
 
 ## Où dormir et manger
 
-L'hébergement se compose de suites et d'appartements à l'intérieur des murailles du bourg. Le village dispose d'un bar au sein de sa boutique, la Bottega di Gargonza, tandis que le restaurant se trouve juste à l'extérieur des murs. Le restaurant peut proposer des menus sans gluten, et des menus de saison sont servis à Noël et au Nouvel An.
+L'hébergement se compose de suites et d'appartements à l'intérieur des murailles du bourg. Le village dispose d'une boutique, la Bottega di Gargonza, où se tiennent aussi des dégustations, et d'un restaurant. Le restaurant peut proposer des menus sans gluten, et des menus de saison sont servis à Noël et au Nouvel An.
 
 ## Autour du domaine
 

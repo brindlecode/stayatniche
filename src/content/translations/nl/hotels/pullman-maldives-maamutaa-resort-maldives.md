@@ -21,6 +21,7 @@ bestFor:
 seo:
   metaTitle: "Pullman Maldives Maamutaa: onderwaterkamer | StayAtNiche"
   metaDescription: "Bij Pullman Maldives Maamutaa heeft alleen de Aqua Villa een slaapkamer onder water. De overige villa's staan aan het strand of boven het water."
+niche_feature: "Alleen de Aqua Villas (twee, volgens het resort met 2 onderwaterslaapkamers) hebben een ondergedompelde hoofdslaapkamer onder de lagune plus een slaapkamer boven water; de andere villa's van de 122 zijn strand- of overwatervilla's."
 ---
 
 Alleen de Aqua Villas van het Pullman Maldives Maamutaa hebben een slaapkamer onder water. De rest van het resort bestaat uit gewone strandvilla's en overwatervilla's zonder ondergedompelde kamer. Wie de onderwaternacht wil, boekt dus specifiek een Aqua Villa.

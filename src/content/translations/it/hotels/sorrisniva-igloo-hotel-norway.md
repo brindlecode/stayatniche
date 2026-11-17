@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Sorrisniva: hotel di ghiaccio sul fiume Alta | StayAtNiche"
   metaDescription: "Sorrisniva Igloo Hotel, Alta: hotel di ghiaccio ricostruito ogni inverno a 70° nord, nella fascia dell'aurora del Finnmark, aperto dal 20 dic. al 31 marzo."
+niche_feature: "Igloo Hotel di ghiaccio e neve ricostruito ogni inverno (dal 20 dicembre al 31 marzo) con camere igloo, camere familiari e suite a tema; l'Arctic Wilderness Lodge, separato, offre normali camere riscaldate."
 ---
 
 Il Sorrisniva Igloo Hotel viene costruito ogni inverno sulle rive ghiacciate del fiume Alta, a 70 gradi nord, e la posizione fa la sua parte, eccome. Alta si trova nel cuore dell'altopiano del Finnmark, è la città di una certa dimensione più settentrionale della Norvegia, e i suoi valori dell'indice Kp raggiungono regolarmente la soglia oltre la quale l'aurora boreale non è solo possibile, ma affidabile. È una delle migliori posizioni d'Europa per l'aurora, con un vero hotel costruito attorno a essa e non solo uno slogan pubblicitario.

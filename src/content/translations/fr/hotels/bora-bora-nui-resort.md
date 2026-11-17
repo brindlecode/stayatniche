@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Bora Bora Nui : bungalows sur pilotis | StayAtNiche"
   metaDescription: "Avis sur le Bora Bora Nui Resort : bungalows sur pilotis spacieux face au mont Otemanu, lagon turquoise et snorkeling parmi les requins en Polynésie."
+niche_feature: "Le resort (désormais Conrad Bora Bora Nui, 114 villas selon le Forbes Travel Guide) se compose surtout de bungalows sur pilotis, avec quelques villas en bord de plage, dans le jardin et à flanc de colline. Le site officiel de Hilton a renvoyé une erreur 403."
 ---
 
 Bora Bora est le berceau du bungalow sur pilotis : c'est ici que le concept a été inventé, et l'île en reste la démonstration la plus convaincante. Le pic basaltique du mont Otemanu, haut de 727 mètres, se dresse en son centre, cerné par une barrière de corail qui enclôt un lagon dont le turquoise en a fait l'une des étendues d'eau les plus photographiées de la planète. C'est le Pacifique Sud tel que les photos le promettent, ce qui est plus rare qu'on ne le croit.

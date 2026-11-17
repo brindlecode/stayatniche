@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Langley Castle: hotel castillo en Hexham | StayAtNiche"
   metaDescription: "Langley Castle cerca de Hexham: castillo medieval del siglo XIV junto al Muro de Adriano, con nueve habitaciones en el castillo y 19 en Castle View."
+niche_feature: "Nueve habitaciones en el castillo principal del siglo XIV (catalogado Grade I, con muros de hasta siete pies de grosor); otras 19 habitaciones están en Castle View, a poca distancia a pie, además de la Toll Bar Luxury Villa con cocina propia."
 ---
 
 Langley Castle es una torre medieval restaurada en el valle del río South Tyne, en Northumberland, a tres millas al sur de Haydon Bridge. Se construyó en 1364 con planta en H, cuatro plantas y una torre en cada esquina, y es un edificio catalogado Grade I. Sus muros tienen hasta siete pies de grosor, lo que da al interior una quietud muy especial.

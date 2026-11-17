@@ -21,6 +21,7 @@ bestFor:
 seo:
   metaTitle: "Borgo Castello Panicaglia : château Ombrie | StayAtNiche"
   metaDescription: "Borgo Castello Panicaglia, château de 1266 en Ombrie : chambres nommées, piscine, restaurant, cours de cuisine et vue sur les montagnes ombriennes."
+niche_feature: "Chambres dans un château datant de 1266, au cœur du borgo de Panicaglia ; le site recense environ 17 chambres et suites nommées, ainsi que la maison de vacances Michele, attenante à l'hôtel et non située dans le château."
 ---
 
 Borgo Castello Panicaglia occupe un château construit en 1266 dans le petit village médiéval de Panicaglia, en Ombrie. Perché à 800 mètres d'altitude, il offre une vue sur les montagnes ombriennes et fonctionne comme une maison d'hôtes où l'on est invité à prendre part à la vie de famille : jeter un œil à la cuisine, donner un coup de main au potager ou s'installer dans l'un des nombreux coins salon.

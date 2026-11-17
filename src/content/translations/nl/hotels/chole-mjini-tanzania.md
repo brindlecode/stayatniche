@@ -49,6 +49,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Chole Mjini Lodge: boomhutten in Tanzania | StayAtNiche"
   metaDescription: "Slapen in boomhutten tussen de ruïnes van een 19e-eeuwse handelspost op Chole Island in Tanzania. Ecolodge van de gemeenschap, met topduiken bij Mafia Island."
+niche_feature: "Zes boomhutten, met de hand gebouwd rond baobabs en Swahili-ruïnes op het eiland Chole, plus één huis op de grond (Sita). Moja staat hoog in een levende baobab; de andere staan tussen de ruïnes en langs de oever."
 ---
 
 Chole Island bewaart zijn geheimen stilletjes. Vanaf het water lijkt het een dichte wirwar van baobabs en mangroven die uit de Indische Oceaan oprijst, een van de tientallen eilandjes in het Mafia Island Marine Park. Maar stap aan land, loop het bos in, en de ruïnes vinden jou: grote muren van koraalsteen, ingestorte bogen en dakloze vertrekken, overwoekerd door vijgenbomen en dichte begroeiing. Het zijn de resten van een Arabische handelspost uit de 19e eeuw, ooit een van de welvarendste nederzettingen aan de Swahilikust van Tanzania, nu langzaam teruggewonnen door de vegetatie van het eiland.

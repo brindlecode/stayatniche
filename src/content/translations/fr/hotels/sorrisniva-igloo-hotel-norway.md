@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Sorrisniva : hôtel de glace en Norvège | StayAtNiche"
   metaDescription: "Sorrisniva Igloo Hotel, Alta : hôtel de glace reconstruit chaque hiver par 70° nord, en zone d'aurores boréales du Finnmark, ouvert du 20 déc. au 31 mars."
+niche_feature: "Hôtel igloo de glace et de neige reconstruit chaque hiver (du 20 décembre au 31 mars), avec des chambres igloo, des chambres familiales et des suites à thème ; l'Arctic Wilderness Lodge, distinct, propose des chambres chauffées ordinaires."
 ---
 
 Le Sorrisniva Igloo Hotel est construit chaque hiver sur les rives gelées de l'Alta, par 70 degrés nord, et cet emplacement n'a rien d'anodin. Alta se trouve au cœur du plateau du Finnmark ; c'est la ville d'une certaine taille la plus septentrionale de Norvège, et son indice Kp atteint régulièrement le seuil à partir duquel les aurores boréales ne sont plus seulement possibles, mais quasi certaines. C'est l'un des meilleurs postes d'observation des aurores en Europe, avec un vrai hôtel bâti autour, et non un simple argument marketing plaqué dessus.

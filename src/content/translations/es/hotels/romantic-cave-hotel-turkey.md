@@ -5,7 +5,7 @@ description: "Hotel de siete habitaciones cueva históricas en Ürgüp, con terr
 highlights:
   - "Siete habitaciones, todas descritas como cuevas históricas"
   - "Terrazas y suites con jacuzzi"
-  - "Tamaños de 30 a 40 metros cuadrados en las habitaciones listadas"
+  - "Tamaños de 30 a 50 metros cuadrados en las habitaciones listadas"
   - "Wi-Fi gratuito, desayuno y recepción las 24 horas"
   - "Ambiente tranquilo que el hotel describe como espiritual"
 amenities:
@@ -26,7 +26,7 @@ El Romantic Cave Hotel es un hotel de siete habitaciones en Ürgüp en el que to
 
 ## Las habitaciones
 
-Entre las habitaciones que aparecen en la web están Oublite y Osiana, de 30 metros cuadrados cada una, y Katbatuka y Helen, de 40 metros cuadrados cada una; también hay una Master Room. Todas se promocionan con vistas a Capadocia. El hotel destaca sus suites con jacuzzi y sus terrazas. Té, café, Wi-Fi y un desayuno especial aparecen como servicios incluidos o disponibles en la habitación.
+Entre las habitaciones que aparecen en la web están Oublite y Osiana, de 30 metros cuadrados cada una, Katbatuka y Helen, de 40 metros cuadrados cada una, y Eros y Agape, de 50 metros cuadrados cada una; también hay una Master Room. Todas se promocionan con vistas a Capadocia. El hotel destaca sus suites con jacuzzi y sus terrazas. Té, café, Wi-Fi y un desayuno especial aparecen como servicios incluidos o disponibles en la habitación.
 
 ## Servicio
 

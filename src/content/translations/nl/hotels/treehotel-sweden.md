@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Treehotel: slapen in een boomhut in Zweden | StayAtNiche"
   metaDescription: "Slapen in een boomhut in Zweeds Lapland: Treehotel in Harads heeft negen designkamers tussen de dennen, zoals de Mirrored Cube, met kans op noorderlicht."
+niche_feature: "Negen aparte designboomkamers (Mirrorcube, UFO, Bird's Nest, Cabin, 7th Room en andere) tussen de dennen; het aparte Guesthouse (zes kamers met historisch karakter) is geen boomhut."
 ---
 
 De kamers van Treehotel zijn elk een unieke creatie van verschillende architecten en ontwerpteams. Ze staan in het bos van het Lule-dal bij het dorp Harads, dat ongeveer 50 kilometer ten zuiden van de poolcirkel ligt.

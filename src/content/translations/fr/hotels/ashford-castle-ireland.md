@@ -24,6 +24,7 @@ bestFor:
 seo:
   metaTitle: "Ashford Castle : château-hôtel en Irlande | StayAtNiche"
   metaDescription: "Ashford Castle, château de 1228 au bord du Lough Corrib en Irlande : 83 chambres uniques, école de fauconnerie, table étoilée et domaine de 140 hectares."
+niche_feature: "Château historique aux origines remontant au XIIIe siècle, exploité comme hôtel ; le site officiel recense 83 chambres, suites, ainsi que le Boathouse, distinct et situé au bord du lac. Il n'indique pas quelles chambres se trouvent dans le bâti du château. The Lodge est un hôtel à part."
 ---
 
 Ashford Castle existe depuis 1228, date à laquelle la famille anglo-normande de Burgo érigea la tour d'origine sur les rives du Lough Corrib. La famille Guinness l'agrandit considérablement au XIXe siècle, et il en résulte un domaine irlandais de 140 hectares avec, en son centre, un château sans la moindre ambiguïté : ni folie victorienne, ni hôtel qui se trouverait simplement doté d'une tourelle.

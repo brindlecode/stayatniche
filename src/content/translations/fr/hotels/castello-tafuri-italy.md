@@ -1,9 +1,9 @@
 ---
 source: castello-tafuri-italy
 destination: "Portopalo di Capo Passero, Sicile"
-description: "Un château à la pointe sud de la Sicile, transformé en dix-huit chambres et suites, dont certaines donnent sur une ancienne tonnara et la mer, avec une piscine panoramique."
+description: "Une villa en forme de château, commencée en 1935, à la pointe sud de la Sicile, avec dix-huit chambres et suites, dont certaines donnent sur une ancienne tonnara et la mer, avec une piscine panoramique."
 highlights:
-  - "Château historique de Portopalo di Capo Passero transformé en dix-huit chambres et suites"
+  - "Villa en forme de château (commencée en 1935) à Portopalo di Capo Passero, avec dix-huit chambres et suites"
   - "Suites donnant sur une tonnara et la mer"
   - "Balcons des suites aménagés entre les créneaux du château"
   - "Piscine panoramique avec solarium"
@@ -22,7 +22,7 @@ seo:
 niche_note: "Le Castello Tafuri n’est pas un château médiéval : c’est une villa en forme de château, conçue en 1933, commencée en 1935 et devenue hôtel en 1964."
 ---
 
-Castello Tafuri se dresse à Portopalo di Capo Passero, à la pointe sud-est de la Sicile, et a été transformé en petit hôtel de dix-huit chambres et suites. Ce château-demeure fortifié, crénelé, domine la mer en contrebas et a conservé ses créneaux : certaines suites disposent de balcons aménagés entre les merlons.
+Castello Tafuri se dresse à Portopalo di Capo Passero, à la pointe sud-est de la Sicile, et est un petit hôtel de dix-huit chambres et suites. Le bâtiment est une villa en forme de château, commencée en 1935 et utilisée comme hôtel depuis 1964. Crénelée, elle domine la mer en contrebas et a conservé ses créneaux : certaines suites disposent de balcons aménagés entre les merlons.
 
 ## Les suites
 

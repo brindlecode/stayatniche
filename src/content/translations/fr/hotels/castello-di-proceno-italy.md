@@ -5,7 +5,7 @@ description: "Albergo diffuso installé dans un château médiéval et un villag
 highlights:
   - "Albergo diffuso (hôtel diffus) dans un château médiéval et un village"
   - "Propriété de la famille Cecchini depuis 1644"
-  - "Chambres aménagées dans une tour de l'ancienne enceinte"
+  - "Trois chambres dans une ancienne tour de l'enceinte"
   - "Piscine et restaurant d'été accessibles par un passage taillé dans la roche volcanique"
   - "À proximité des thermes de Fonteverde"
 amenities:
@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Castello di Proceno : hôtel diffus en Latium | StayAtNiche"
   metaDescription: "Castello di Proceno : hôtel diffus dans un château médiéval sur la Via Francigena, avec appartements, quatre chambres, piscine et restaurant d'été."
+niche_feature: "Albergo diffuso dans le complexe du château de Proceno (forteresse pentagonale dotée d'un donjon, de deux tourelles et d'un pont-levis en état de marche) : appartements et suites dans le fortino et la cour, ainsi que quatre chambres dans une ancienne tour de rempart. La ferme Il Giulione, distincte, se trouve hors du château."
 ---
 
 Le Castello di Proceno est un albergo diffuso, un hôtel dont les chambres sont réparties dans les bâtiments d'un village historique plutôt que sous un même toit. Il occupe un château et un bourg à Proceno, sur la Via Francigena, au point de rencontre de la Toscane, de l'Ombrie et du Latium, au cœur de la Tuscia. Les thermes de Fonteverde, à San Casciano dei Bagni, se trouvent à quelques kilomètres.
@@ -30,7 +31,7 @@ Le château appartient à la famille Cecchini, aujourd'hui Bisoni Cecchini, depu
 
 ## Les hébergements
 
-L'essentiel du séjour se déroule dans des appartements et des suites, tous nommés : Primavera, Estate, Autunno, Corsetto, Chiostrino, Loggia, Bicocca et Innominato. On trouve aussi quatre chambres, Caciaia, Collinella, Poggiolo et Belvedere. Les deux dernières se font face, et les quatre sont accessibles par une porte donnant sur l'ancienne cour intérieure.
+L'essentiel du séjour se déroule dans des appartements et des suites, tous nommés : Primavera, Estate, Autunno, Corsetto, Chiostrino, Loggia, Bicocca et Innominato. On trouve aussi quatre chambres, Caciaia, Collinella, Poggiolo et Belvedere. Les deux dernières se font face, et les quatre sont accessibles par une porte donnant sur l'ancienne cour intérieure. D'après la page des appartements du château, Caciaia, Collinella et Poggiolo sont les chambres qui faisaient autrefois partie d'une tour de l'ancien rempart du village.
 
 Un escalier intérieur relie trois étages qui faisaient autrefois partie d'une des tours de l'ancienne enceinte. L'escalier est raide et déconseillé aux enfants. Chacune des quatre chambres dispose d'un petit réfrigérateur, d'un micro-ondes, d'une bouilloire électrique, d'un grille-pain et d'un lavabo, et les salles de bains sont équipées d'une douche et d'un sèche-cheveux. Le petit-déjeuner est servi sur demande.
 
@@ -41,3 +42,5 @@ Un petit jardin mène aux suites, et une limonaia conduit à un passage creusé 
 ## Informations pratiques
 
 L'arrivée se fait entre 16 h et 19 h, et le départ avant 10 h, mais les horaires peuvent être ajustés si vous prévenez le château. Une salle de réunion accueille jusqu'à 30 personnes. Des concerts et des événements sont organisés au château tout au long de l'année.
+
+Le site du château propose aussi Il Giulione, une ferme séparée (agriturismo) à 12 km du château, avec six chambres, six salles de bain et sa propre piscine. Elle ne fait pas partie du complexe du château.

@@ -51,6 +51,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Amberley Castle: hotel castillo del siglo XII | StayAtNiche"
   metaDescription: "Rastrillo en funcionamiento, almenas originales y dormitorios en torres en el castillo medieval más romántico de Inglaterra, en los South Downs, cerca de Londres."
+niche_feature: "Auténtico castillo medieval amurallado; sus 19 habitaciones se reparten por distintas zonas de la finca: Manor House, Tower House Mews y las Gatehouse Suites, en la Bishopric Dairy del siglo XVII, justo fuera de las murallas."
 ---
 
 El rastrillo de Amberley Castle desciende tras de ti con un sonido —hierro contra piedra, pausado y pesado— que despeja cualquier duda sobre dónde estás. Estás dentro de un castillo del siglo XII. El mundo exterior queda al otro lado de 60 pies de muralla medieval. Y no es una metáfora.

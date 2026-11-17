@@ -52,6 +52,7 @@ nearbyAttractions:
 seo:
   metaTitle: "ICEHOTEL Zweden: slapen in het ijshotel | StayAtNiche"
   metaDescription: "Het originele ijshotel, sinds 1990 elke winter opgebouwd uit ijs van de Torne. Kunstsuites op -5 °C, noorderlicht en middernachtszon, vanaf $ 500."
+niche_feature: "IJskamers en kunstsuites in ICEHOTEL Winter (december tot april), plus ICEHOTEL 365 met het hele jaar door kunst- en deluxe suites van ijs en sneeuw (18 suites, -5 °C); de warme kamers en hutten in aparte gebouwen zijn gewone accommodatie."
 ---
 
 Alles begint bij de rivier. De Torne, die op weg naar de Botnische Golf de grens tussen Zweden en Finland vormt, bevriest elke november tot meer dan een meter diep: een massa uitzonderlijk zuiver, kristalhelder ijs die zich uitstekend leent voor architectonische doeleinden. Uit deze rivier haalden Yngve Bergqvist en een team Japanse kunstenaars in 1989 de eerste blokken, en daarvan bouwden ze – als experiment en zonder enige zekerheid dat het zou lukken – het eerste hotel ter wereld dat volledig van ijs was gemaakt.

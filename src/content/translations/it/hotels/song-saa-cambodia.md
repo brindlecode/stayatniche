@@ -47,6 +47,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Song Saa: isola privata in Cambogia | StayAtNiche"
   metaDescription: "Song Saa, arcipelago di Koh Rong: due isole private in Cambogia con ville sull'acqua sopra una riserva marina protetta e barriera corallina intatta. Da 1.500 $."
+niche_feature: "Overwater Villas con una o due camere da letto su palafitte sul Golfo di Thailandia; le 24 ville del resort comprendono anche ville nella giungla, ville con vista sull'oceano e una Royal Villa sulla terraferma."
 ---
 
 La costa della Cambogia non riceve l'attenzione che merita. L'arcipelago di Koh Rong, un gruppo di isole incontaminate nel Golfo di Thailandia al largo della costa cambogiana, custodisce alcune delle barriere coralline e delle foreste più intatte del Sud-est asiatico, e Song Saa Private Island occupa due delle sue isole più piccole e protette, Koh Ouen e Koh Bong, collegate da una passerella di legno e interamente dedicate a un unico resort.

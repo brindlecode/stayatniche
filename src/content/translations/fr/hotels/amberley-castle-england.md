@@ -51,6 +51,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Amberley Castle : château-hôtel en Angleterre | StayAtNiche"
   metaDescription: "Amberley Castle, château du XIIe siècle dans les South Downs : herse en état de marche, créneaux d'origine, chambres dans les tours, à 90 min de Londres."
+niche_feature: "Véritable château médiéval ceint de remparts ; ses 19 chambres sont réparties dans différentes parties du domaine : Manor House, Tower House Mews et Gatehouse Suites, ces dernières dans la Bishopric Dairy du XVIIe siècle, juste au-delà des murs."
 ---
 
 La herse d'Amberley Castle retombe derrière vous dans un bruit de fer contre la pierre, lent et lourd, qui dissipe tout doute sur l'endroit où vous vous trouvez. Vous êtes à l'intérieur d'un château du XIIe siècle. Le monde extérieur est de l'autre côté de 18 mètres de courtine médiévale. Ce n'est pas une image.

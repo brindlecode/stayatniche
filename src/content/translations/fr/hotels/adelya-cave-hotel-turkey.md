@@ -18,6 +18,7 @@ bestFor:
 seo:
   metaTitle: "Adelya Cave Hotel : hôtel troglodyte à Göreme | StayAtNiche"
   metaDescription: "Adelya Cave Hotel à Göreme : maison familiale restaurée de neuf chambres à l’histoire singulière, dont certaines troglodytes, avec transfert aéroport payant."
+niche_feature: "Neuf chambres dans une maison familiale restaurée ; le Woodshed, la Grandpa Mehmet & Grandma Havva's Room, le Stable et le Hayloft sont décrits comme creusés dans la roche, le Wine House comme une chambre troglodyte ; la Stone Room et le Çardak ne sont pas décrits comme troglodytes."
 ---
 
 Adelya Cave Hotel raconte l’histoire d’une maison. Selon l’hôtel, une famille y a vécu des années 1950 aux années 1990 : les enfants ont grandi, les repas étaient partagés et la récolte des vignes et des jardins était préparée pour l’hiver. Des animaux vivaient dans ses chambres troglodytes, tandis que le raisin devenait jus de raisin, mélasse, vinaigre et vin. Cette histoire se reflète dans le nom des chambres.

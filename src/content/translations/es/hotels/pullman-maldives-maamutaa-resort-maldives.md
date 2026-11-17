@@ -21,6 +21,7 @@ bestFor:
 seo:
   metaTitle: "Pullman Maldives Maamutaa: villa submarina | StayAtNiche"
   metaDescription: "En el Pullman Maldives Maamutaa, solo las Aqua Villas tienen un dormitorio bajo el agua. El resto son villas en la playa o sobre el agua en una isla privada."
+niche_feature: "Solo las Aqua Villas (dos, según el resort, que anuncia 2 dormitorios submarinos) tienen un dormitorio principal sumergido bajo la laguna y un dormitorio sobre el agua; las demás villas de las 122 son villas de playa o sobre el agua."
 ---
 
 Solo las Aqua Villas del Pullman Maldives Maamutaa tienen un dormitorio bajo el agua. El resto del resort son villas convencionales en la playa y sobre el agua, sin ninguna habitación sumergida. Si quieres dormir bajo el agua, reserva una Aqua Villa en concreto.

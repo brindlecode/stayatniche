@@ -1,11 +1,11 @@
 ---
 source: romantic-cave-hotel-turkey
 destination: "Ürgüp, Nevşehir"
-description: "Hotel di sette camere storiche ricavate nella roccia a Ürgüp, con terrazze e suite con jacuzzi; secondo l'hotel il team può contare su cinquant'anni di esperienza."
+description: "Hotel di sette camere storiche in grotta a Ürgüp, con terrazze e suite con jacuzzi; secondo l'hotel il team può contare su cinquant'anni di esperienza."
 highlights:
   - "Sette camere, tutte descritte come storiche camere in grotta"
   - "Terrazze e suite con jacuzzi"
-  - "Metrature di 30–40 metri quadrati per le camere elencate"
+  - "Metrature di 30–50 metri quadrati per le camere elencate"
   - "Wi-Fi gratuito, colazione e reception 24 ore su 24"
   - "Atmosfera tranquilla che l'hotel definisce spirituale"
 amenities:
@@ -26,7 +26,7 @@ Il Romantic Cave Hotel è un hotel di sette camere a Ürgüp, in cui ogni stanza
 
 ## Le camere
 
-Tra le camere presentate sul sito ci sono Oublite e Osiana, di 30 metri quadrati ciascuna, Katbatuka e Helen, di 40 metri quadrati ciascuna, oltre a una Master Room. Tutte sono proposte con vista sulla Cappadocia. L'hotel punta su suite con jacuzzi e terrazze. Tè, caffè, Wi-Fi e una colazione speciale risultano tra i servizi in camera o inclusi.
+Tra le camere presentate sul sito ci sono Oublite e Osiana, di 30 metri quadrati ciascuna, Katbatuka e Helen, di 40 metri quadrati ciascuna, ed Eros e Agape, di 50 metri quadrati ciascuna, oltre a una Master Room. Tutte sono proposte con vista sulla Cappadocia. L'hotel punta su suite con jacuzzi e terrazze. Tè, caffè, Wi-Fi e una colazione speciale risultano tra i servizi in camera o inclusi.
 
 ## Servizi
 

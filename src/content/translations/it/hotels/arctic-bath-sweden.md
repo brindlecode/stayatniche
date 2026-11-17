@@ -1,18 +1,18 @@
 ---
 source: arctic-bath-sweden
 destination: Harads, Lapponia svedese
-description: "Un anello di legno galleggiante sul fiume Lule, a 66 gradi nord, con sei cabine private e una piscina centrale aperta al cielo tutto l’anno: un bagno nel ghiaccio quando d’inverno il fiume gela, una nuotata selvaggia d’estate. Gli architetti Bertil Harström e Johan Kauppi hanno creato un luogo che rende l’Artico perfettamente abitabile."
+description: "Un hotel galleggiante sul fiume Lule, nella Lapponia svedese, con un edificio principale circolare ispirato alla storia della fluitazione del legname, 12 cabine (sei delle quali galleggiano sul fiume) e una spa costruita attorno a saune e bagni freddi. Progettato dagli architetti svedesi Bertil Harström e Johan Kauppi."
 highlights:
-  - Hotel ad anello in legno galleggiante sul fiume Lule ghiacciato
-  - La piscina centrale all’aperto diventa d’inverno un bagno di ghiaccio naturale
-  - Sei cabine galleggianti e quattro cabine nel bosco con vista sul fiume
+  - "Hotel galleggiante sul fiume Lule, sull’acqua d’estate e imprigionato nel ghiaccio d’inverno"
+  - "Spa con due saune secche, una sauna a vapore, due idromassaggi all’aperto e un bagno freddo"
+  - "12 cabine: sei cabine galleggianti, tre suite sulla terraferma e tre cabine familiari sulla terraferma"
   - Spa nordica e trattamenti benessere tutto l’anno
 amenities:
-  - Cabina galleggiante o nel bosco con vista panoramica sul fiume
-  - Spa artica con sauna, bagno turco e bagno di ghiaccio
+  - "Cabina galleggiante o sulla terraferma con vista panoramica sul fiume"
+  - "Spa con due saune secche, sauna a vapore, idromassaggi all’aperto e bagno freddo"
   - Ristorante di cucina nordica con ingredienti locali
-  - Slitte trainate dai cani e ciaspolate in inverno
-  - Kayak e pesca in estate
+  - "Escursioni in motoslitta, con slitte trainate dai cani e sugli sci in inverno, secondo disponibilità"
+  - "Noleggio di canoe e tavole da stand up paddle in estate"
   - Sveglia in caso di aurora boreale
 bestFor:
   - Amanti del benessere
@@ -21,13 +21,14 @@ bestFor:
   - Appassionati di design e architettura
 seo:
   metaTitle: "Arctic Bath, hotel galleggiante in Lapponia | StayAtNiche"
-  metaDescription: "Hotel galleggiante ad anello sul fiume Lule, in Lapponia svedese: cabine con sauna privata, bagno di ghiaccio sotto le stelle e aurora boreale d’inverno."
+  metaDescription: "Arctic Bath: hotel galleggiante con spa sul fiume Lule, in Lapponia svedese, con sei cabine galleggianti, sei sulla terraferma, saune e bagno freddo."
+niche_feature: "Sei delle 12 cabine sono Floating Cabins sul fiume Lule, raggiungibili a piedi su un sentiero sull'acqua; le altre sei (tre Land Suite, tre Land Family) sono sulla terraferma. L'hotel è promosso come galleggiante."
 ---
 
-L’Arctic Bath si trova sul fiume Lule, a 66 gradi nord, e il design è tutto. Gli architetti Bertil Harström e Johan Kauppi hanno costruito l’hotel come un anello di legno: pareti curve di legno flottato che circondano una piscina centrale aperta al cielo tutto l’anno. D’inverno, quando il fiume gela e la temperatura scende a -25 °C, quella piscina diventa un bagno di ghiaccio. D’estate, con il sole di mezzanotte che gira sopra la testa, è una piscina naturale in mezzo a un fiume boreale.
+L’Arctic Bath si trova sul fiume Lule, nella Lapponia svedese, e il design è tutto. Gli architetti svedesi Bertil Harström e Johan Kauppi lo hanno ideato come omaggio al patrimonio del legno della regione. Al centro c’è un edificio principale circolare ispirato alla storia della fluitazione del legname, che ospita la spa con il suo caratteristico bagno freddo, saune, idromassaggi e sale per i trattamenti, oltre a ristorante, lounge e bar. La struttura galleggia d’estate ed è imprigionata nel ghiaccio d’inverno.
 
-Sei cabine galleggianti sono agganciate all’anello centrale, ciascuna pensata per due persone, con vetrate panoramiche che incorniciano il fiume e le betulle e i pini che lo sovrastano. Il design è nordico nella sua forma più funzionale: linee pulite, pino, betulla, pietra e la vista come elemento dominante. Ogni cabina ha una sauna privata, che a questa latitudine è una necessità più che un lusso. Uscire da una sauna a 90 gradi nell’aria del fiume a -20 °C, con l’aurora boreale sopra la testa, è l’esperienza per cui questo posto è stato costruito.
+In tutto ci sono 12 cabine. Sei cabine galleggianti si allineano lungo la riva, ciascuna una camera doppia di 24 m² raggiungibile con un sentiero sull’acqua e circondata da una terrazza in legno di 57,5 m²; d’estate galleggiano libere sul fiume Lule e d’inverno restano ghiacciate. Le altre sei sono sulla terraferma: tre suite (62 m², per due persone, con camera nel soppalco) e tre cabine familiari (62 m², fino a cinque ospiti). Gli interni uniscono design scandinavo moderno, legno e pietra. Colazione e accesso completo alla spa sono inclusi in ogni soggiorno. Secondo l’hotel, l’aurora boreale appare spesso proprio sopra la struttura ed è visibile dalla terrazza o dall’idromassaggio caldo dopo una sessione di sauna.
 
-La spa punta sulle tradizioni nordiche, massaggi con fascine di betulla, immersioni nel freddo, argilla artica, e le piscine all’aperto funzionano tutto l’anno. Il ristorante sulla riva serve renna della Lapponia, pesce d’acqua dolce del Lule, erbe e bacche raccolte in natura e pane cotto ogni giorno nel forno a legna. Carta dei vini piccola e ben scelta.
+La spa affonda le radici nella cultura svedese della sauna e dei bagni freddi, con due saune secche, una sauna a vapore, due idromassaggi all’aperto e un bagno freddo, oltre a rituali di sauna guidati chiamati Julevädno e a un’esperienza Arctic Blend in cui gli ospiti creano la propria miscela botanica. I trattamenti si prenotano a pagamento. Al ristorante la cena è un menù fisso a base di ingredienti locali, mentre colazione e pranzo sono alla carta.
 
-L’inverno porta uscite con le slitte trainate dai cani e in motoslitta insieme al vicino Treehotel. La stagione dell’aurora va da fine agosto a marzo, e la posizione aperta sul fiume è uno dei punti di osservazione migliori della zona, senza alberi a coprire il cielo nelle direzioni che contano. L’estate offre kayak sotto il sole di mezzanotte e la luce della Svezia settentrionale di giugno e luglio, che ripaga i fotografi disposti a fare il viaggio.
+In inverno le attività proposte dall’hotel comprendono escursioni in motoslitta, con slitte trainate dai cani e sugli sci, tutte secondo disponibilità. L’hotel indica la stagione dell’aurora da fine agosto ad aprile. D’estate il sole splende 24 ore su 24 da fine maggio a metà luglio e alla reception si possono noleggiare canoe e tavole da stand up paddle.

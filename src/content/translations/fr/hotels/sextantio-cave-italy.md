@@ -49,6 +49,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Sextantio : hôtel troglodyte à Matera | StayAtNiche"
   metaDescription: "Dormir dans une grotte à Matera : Sextantio Le Grotte della Civita, hôtel troglodyte dans les sassi, cité UNESCO habitée depuis 9 000 ans, en Basilicate."
+niche_feature: "18 chambres sont des grottes restaurées du Sasso Barisano (Civita) (par exemple les grottes 17, 18 et 20). Le même complexe exploite aussi un Palazzo della Civita distinct, dont les chambres ne sont pas troglodytes."
 ---
 
 En 1952, le président du Conseil italien Alcide De Gasperi, de passage à Matera, qualifia la ville de *la vergogna d'Italia* : la honte de l'Italie. Les habitants des sassi — ces habitations troglodytes creusées dans les ravins de ce bourg perché de Basilicate — vivaient sans eau courante ni électricité, et partageaient leur espace avec leurs bêtes. En moins de dix ans, le gouvernement les reloga de force. Les grottes restèrent vides pendant trente ans.

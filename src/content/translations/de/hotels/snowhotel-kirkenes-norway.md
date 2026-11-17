@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Snowhotel Kirkenes: Eishotel in Nordnorwegen | StayAtNiche"
   metaDescription: "Snowhotel Kirkenes in der Finnmark: künstlerisch gestaltete Eissuiten nahe der russischen Grenze, Königskrabben-Safari, Huskyschlitten und Polarlichter."
+niche_feature: "Snowhotel 365: Suiten aus Schnee und Eis, ganzjährig gefroren gehalten, im Snow Resort Kirkenes (Bjørnevatn); das Resort hat außerdem beheizte Gamme-Hütten als gewöhnliche Unterkunft."
 ---
 
 Kirkenes liegt am äußersten Rand Norwegens, eine kleine Hafenstadt am Varangerfjord nahe der russischen und finnischen Grenze – eine Lage, die ihr einen in Skandinavien einzigartigen Grenzland-Charakter verleiht. Das Licht ist hier in beide Richtungen extrem: Die Polarnacht von Ende November bis Ende Januar bringt wochenlange völlige Dunkelheit, während die Mitternachtssonne im Juni und Juli nie ganz untergeht. Mit anderen Worten: genau die Art von Ort, an dem ein Eishotel vollkommen stimmig ist. Das 2006 gegründete Snowhotel Kirkenes hat das Beste aus seiner bemerkenswerten Lage gemacht.

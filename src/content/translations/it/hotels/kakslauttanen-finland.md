@@ -52,6 +52,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Kakslauttanen: igloo di vetro in Lapponia | StayAtNiche"
   metaDescription: "Kakslauttanen Arctic Resort, Lapponia finlandese: igloo di vetro riscaldati per dormire sotto l'aurora boreale, nei villaggi Est e Ovest. Da 400 $ a notte."
+niche_feature: "Igloo di vetro (piccoli, grandi e Kelo-Glass, con camere da letto in chalet di tronchi) nei villaggi Est e Ovest, accanto a normali cabine e chalet di tronchi, suite e igloo di neve. Gli igloo di vetro sono aperti da fine agosto ad aprile."
 ---
 
 Ci sono luoghi che abitano l'immaginario collettivo dei viaggiatori molto prima di essere visitati, e il Kakslauttanen Arctic Resort è senza dubbio uno di questi. A 68 gradi di latitudine nord, nella natura selvaggia della Lapponia finlandese, questo insieme di igloo di vetro termico è diventato la risposta definitiva alla domanda che tormenta ogni cacciatore di aurore: qual è il posto migliore al mondo per dormire sotto l'aurora boreale?

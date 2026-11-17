@@ -49,6 +49,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Sextantio Matera: Höhlenhotel in den Sassi | StayAtNiche"
   metaDescription: "Sextantio Le Grotte della Civita: Übernachten in uralten Höhlenwohnungen in Matera, der 9.000 Jahre alten UNESCO-Stadt – eines der besonderen Hotels Italiens."
+niche_feature: "18 Zimmer sind restaurierte Höhlen im Sasso Barisano (Civita) (z. B. Höhle 17, 18, 20). Zum selben Komplex gehört auch ein separater Palazzo della Civita mit Zimmern, die keine Höhlen sind."
 ---
 
 1952 stand der italienische Ministerpräsident Alcide De Gasperi in Matera und nannte die Stadt *la vergogna d'Italia*: die Schande Italiens. Die Menschen, die in den Sassi lebten – den in die Schluchten dieser Hügelstadt in der Basilikata gehauenen Höhlenwohnungen –, hatten weder fließendes Wasser noch Strom und teilten ihre Räume mit ihren Tieren. Innerhalb eines Jahrzehnts siedelte die Regierung sie zwangsweise um. Dreißig Jahre lang standen die Höhlen leer.

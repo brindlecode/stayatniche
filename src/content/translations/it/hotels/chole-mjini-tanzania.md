@@ -49,6 +49,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Chole Mjini, case sugli alberi in Tanzania | StayAtNiche"
   metaDescription: "Dormi in case sugli alberi tra le rovine di un emporio arabo dell’Ottocento a Chole, Tanzania: eco-lodge comunitario con immersioni nel Parco marino di Mafia."
+niche_feature: "Sei case sugli alberi costruite a mano attorno ai baobab e alle rovine swahili sull'isola di Chole, più una casa a terra (Sita). Moja è posata in alto in un baobab vivo; le altre sorgono tra le rovine e lungo la riva."
 ---
 
 L’isola di Chole custodisce i suoi segreti in silenzio. Dal mare appare come un fitto intreccio di baobab e mangrovie che emerge dall’Oceano Indiano, una delle decine di isolette sparse nel Parco marino dell’isola di Mafia. Ma basta sbarcare e addentrarsi nella foresta perché siano le rovine a trovarti: grandi muri di pietra corallina, archi crollati e stanze senza tetto soffocate dai fichi e da una vegetazione fittissima. Sono i resti di un emporio commerciale arabo del XIX secolo, un tempo uno degli insediamenti più prosperi della costa swahili della Tanzania, oggi lentamente riconquistato dalla vegetazione dell’isola.

@@ -50,6 +50,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Manta Resort : chambre sous-marine à Pemba | StayAtNiche"
   metaDescription: "Dormir sous l'océan Indien : au Manta Resort, sur l'île de Pemba en Tanzanie, la chambre est immergée à 4 m, les poissons du récif derrière les vitres."
+niche_feature: "Une Underwater Room : une suite flottante sur trois niveaux, ancrée à environ 250 m du rivage de Pemba, dont la chambre double se trouve à quatre mètres sous la surface de la mer. Le reste du resort (villas, chambres dans le jardin) est un hébergement ordinaire."
 ---
 
 À quatre mètres sous la surface de l'océan Indien, quand la vie du récif du canal de Pemba défile derrière les vitres dans l'obscurité, les catégories hôtelières habituelles perdent tout leur sens. L'Underwater Room du Manta Resort est une expérience à part : une chambre immergée au large de l'une des îles les moins visitées de l'ouest de l'océan Indien, où les poissons se montrent bien plus curieux de vous que vous ne l'êtes d'eux.

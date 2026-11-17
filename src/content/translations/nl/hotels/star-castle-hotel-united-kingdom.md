@@ -21,6 +21,7 @@ bestFor:
 seo:
   metaTitle: "Star Castle Hotel: kasteelhotel op St Mary's | StayAtNiche"
   metaDescription: "Star Castle op St Mary's, Scilly-eilanden: vesting uit 1593 die nu een hotel met 38 kamers is, met Castle Rooms, Garden Rooms en verwarmd binnenzwembad."
+niche_feature: "De Castle Rooms, Superior Castle Rooms, een eenpersoonskamer en drie Guard Rooms op de wallen liggen in de vesting uit 1593 (Grade I); de Garden Rooms en Suites zijn aparte, nieuwere kamers in cottagestijl op het terrein."
 ---
 
 Star Castle werd in 1593 gebouwd, onder koningin Elizabeth I, om de Scilly-eilanden te verdedigen tegen een mogelijke Spaanse invasie. Het staat op Garrison Hill, ten westen van Hugh Town op St Mary's, en kijkt in alle richtingen uit over de zee en de eilanden. Vandaag is het een hotel met 38 kamers.

@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Bulles d'Olive: hotel bolla in Francia | StayAtNiche"
   metaDescription: "Bulles d'Olive a Nyons: due bolle trasparenti e una cabina in legno tra gli ulivi, piscina riscaldata dal sole e colazione fatta in casa nella Drôme."
+niche_feature: "Due bolle trasparenti (Olea, Provence) e una cabina in legno (Zome Céleste) in una casa d'ospiti a Nyons; solo le due bolle rientrano nella categoria."
 ---
 
 Bulles d'Olive è una piccola casa per ospiti tra gli ulivi, a Nyons, nella Drôme provenzale. Ha solo tre alloggi: due bolle trasparenti, Olea e Provence, e una cabina in legno chiamata Zome Céleste. Ognuno è pensato per due persone, e tutta la struttura è organizzata per trascorrere una notte insieme sotto le stelle.

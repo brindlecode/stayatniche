@@ -19,6 +19,7 @@ bestFor:
 seo:
   metaTitle: "Inverlochy Castle : château-hôtel en Écosse | StayAtNiche"
   metaDescription: "Inverlochy Castle près de Fort William : château baronnial de 1863 au pied du Ben Nevis, avec chambres dans le château, Walled Garden Rooms et Gate Lodge."
+niche_feature: "Les chambres et suites du château se trouvent dans le château de style baronnial écossais du XIXe siècle (1863) ; les chambres du Walled Garden occupent une ancienne écurie transformée, à cinq minutes, et le Gate Lodge est un pavillon d'entrée victorien distinct. Le site officiel le présente aussi comme une demeure de campagne victorienne."
 ---
 
 Inverlochy Castle est un manoir baronnial du XIXe siècle, posé entre montagne et loch près de Fort William. Il a été construit en 1863 par William Scarlett, 3e baron Abinger, et la reine Victoria y a passé une semaine lors d'une visite à Balmoral en 1873. Il tire son nom du château d'Inverlochy, bien plus ancien, datant du XIIIe siècle, qui se trouve à environ deux miles. Aujourd'hui, c'est un hôtel cinq étoiles.

@@ -23,6 +23,7 @@ bestFor:
 seo:
   metaTitle: "Misool Eco Resort: Wasserbungalows Raja Ampat | StayAtNiche"
   metaDescription: "Misool Eco Resort in Raja Ampat: Wasserbungalows im artenreichsten Meer der Welt, mit privatem Schutzgebiet, Mantarochen und Tauchen im Korallendreieck."
+niche_feature: "8 Water Cottages auf Stelzen über der North Lagoon sowie 4 North Lagoon Villas (mindestens zwei auf Stelzen); die übrigen Villen liegen am South Beach oder auf einer Hügelkuppe. Insgesamt 20 Einheiten."
 ---
 
 Raja Ampat bedeutet „Vier Könige“ – ein Verweis auf die vier Hauptinseln eines Archipels in Westpapua, der im Herzen des Korallendreiecks liegt, des weltweiten Zentrums der marinen Artenvielfalt. Die Zahlen sind atemberaubend: über 1.500 Fischarten, 700 Weichtierarten und 600 Korallenarten – mehr als in der gesamten Karibik –, konzentriert auf die Gewässer rund um diese Inselkette. Meeresbiologen, die ihr ganzes Berufsleben Riffsysteme erforscht haben, beschreiben die Tauchplätze von Raja Ampat als mit nichts vergleichbar, was sie je gesehen haben.

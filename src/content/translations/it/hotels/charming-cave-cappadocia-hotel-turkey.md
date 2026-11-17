@@ -1,9 +1,9 @@
 ---
 source: charming-cave-cappadocia-hotel-turkey
 destination: "Göreme, Nevşehir"
-description: "Pensione a Göreme con camere scavate nella roccia naturale, una terrazza con vista sulle mongolfiere e trasferimenti dagli aeroporti di Nevşehir e Kayseri."
+description: "Pensione a Göreme che dichiara di essere scavata nella roccia naturale, con cinque camere standard in grotta e una suite in grotta tra le sue quindici camere, una terrazza con vista sulle mongolfiere e trasferimenti dagli aeroporti di Nevşehir e Kayseri."
 highlights:
-  - "Camere scavate nella roccia naturale"
+  - "Dichiara di essere scavato nella roccia naturale; cinque camere standard in grotta e una suite in grotta su quindici camere"
   - "Tipologie di camera: grotta, pietra, tripla e junior suite"
   - "Vista sulle mongolfiere dalla terrazza"
   - "Trasferimenti dagli aeroporti di Nevşehir e Kayseri"
@@ -19,10 +19,11 @@ bestFor:
   - "Coppie"
 seo:
   metaTitle: "Hotel in grotta a Göreme | StayAtNiche"
-  metaDescription: "Charming Cave Cappadocia Hotel a Göreme: pensione con camere scavate nella roccia, vista sulle mongolfiere e trasferimenti da Nevşehir e Kayseri."
+  metaDescription: "Charming Cave Cappadocia Hotel a Göreme: pensione con cinque camere in grotta, vista sulle mongolfiere e trasferimenti da Nevşehir e Kayseri."
+niche_feature: "Quindici camere: cinque Standard Cave Rooms (301-305) nel cortile più una Cave Suite (103) sono camere in grotta; le Standard e Deluxe Stone Rooms, le Junior Suite e le altre sono costruite in pietra o di altro tipo."
 ---
 
-Il Charming Cave Cappadocia Hotel è una pensione a Göreme che dichiara di avere camere scavate nella roccia naturale. È in attività da oltre dieci anni e descrive quindici camere curate, pensate per un soggiorno confortevole e rilassato. Il sito alterna camere in grotta e camere in pietra, quindi conviene chiedere espressamente una camera in grotta al momento della prenotazione.
+Il Charming Cave Cappadocia Hotel è una pensione a Göreme che dichiara di essere scavata nella roccia naturale. È in attività da oltre dieci anni e descrive quindici camere curate, pensate per un soggiorno confortevole e rilassato. Il sito alterna camere in grotta e camere in pietra, quindi conviene chiedere espressamente una camera in grotta al momento della prenotazione. Solo le cinque camere standard in grotta e la suite in grotta sono descritte come camere in grotta, e ciò che il sito dice sulla roccia scavata è generico, non camera per camera.
 
 ## Le camere
 

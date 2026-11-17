@@ -51,6 +51,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Amberley Castle: kasteelhotel in Engeland | StayAtNiche"
   metaDescription: "Een werkend valhek, originele kantelen en slaapkamers in de torens: Amberley Castle in de South Downs is een middeleeuws kasteelhotel vlak bij Londen."
+niche_feature: "Een echt middeleeuws kasteel met muren; de 19 slaapkamers liggen verspreid over het landgoed: Manor House, Tower House Mews en de Gatehouse Suites in de zeventiende-eeuwse Bishopric Dairy net buiten de muren."
 ---
 
 Het valhek van Amberley Castle zakt achter je neer met een geluid – ijzer op steen, weloverwogen en zwaar – dat elke twijfel over waar je bent wegneemt. Je bent in een kasteel uit de 12e eeuw. De wereld buiten ligt aan de andere kant van een middeleeuwse ringmuur van 60 voet hoog. Dit is geen beeldspraak.

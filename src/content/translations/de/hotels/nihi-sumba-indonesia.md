@@ -50,6 +50,7 @@ seo:
   metaTitle: "Nihi Sumba: Luxusresort mit Surfspot, Sumba | StayAtNiche"
   metaDescription: "Nihi Sumba in Indonesien: 28 Villen auf einem 567 Acres großen Anwesen, exklusiver Zugang zur Surfwelle Occy's Left und Ausritte am Strand – ab 1.200 $."
 niche_badge: "Nur eine Villa"
+niche_feature: "Nur eine der 31 Villen und Anwesen erfüllt das Kriterium: das Treehouse mit drei Schlafzimmern, gebaut in den Bäumen am Rand eines uralten Waldes, mit runden Glasschlafzimmern, die über dem Boden liegen und durch erhöhte Stege verbunden sind. Die übrigen Villen sind Strand- oder Hangvillen und keine Baumhäuser."
 ---
 
 Sumba ist nicht Bali. Die Insel liegt 350 Kilometer weiter östlich in der Kette der Kleinen Sundainseln, und kaum etwas an ihr erinnert an jene Spielart des indonesischen Tourismus, die Bali weltweit bekannt gemacht hat. Die Landschaft besteht aus trockener Savanne, Dörfern, in denen Ikat gewebt wird, und megalithischen Steingräbern; an der Südwestküste hat der Indische Ozean ungehindert gewirkt, lange bevor irgendjemand Wellen vermaß. Nihi Sumba nimmt 567 Acres dieser Küste ein, und dass die Leser von Travel + Leisure es mehrere Jahre in Folge zum besten Hotel der Welt wählten, sagt einiges darüber aus, was eine bestimmte Art von Reisenden am meisten schätzt.

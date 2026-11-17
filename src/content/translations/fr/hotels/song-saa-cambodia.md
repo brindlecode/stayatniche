@@ -47,6 +47,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Song Saa : île privée au Cambodge | StayAtNiche"
   metaDescription: "Song Saa, deux îles privées de l'archipel de Koh Rong au Cambodge : villas sur pilotis au-dessus d'une réserve marine protégée. À partir de 1 500 $ la nuit."
+niche_feature: "Overwater Villas d'une et de deux chambres sur pilotis, au-dessus du golfe de Thaïlande ; les 24 villas du resort comprennent aussi des villas dans la jungle, des villas avec vue sur l'océan et une Royal Villa, toutes sur la terre ferme."
 ---
 
 Le littoral cambodgien ne reçoit pas l'attention qu'il mérite. L'archipel de Koh Rong, un chapelet d'îles vierges du golfe de Thaïlande au large des côtes cambodgiennes, abrite certains des récifs coralliens et des forêts les plus intacts d'Asie du Sud-Est. Song Saa Private Island occupe deux de ses îles les plus petites et les mieux protégées, Koh Ouen et Koh Bong, reliées par une passerelle en bois et entièrement dévolues à un seul resort.

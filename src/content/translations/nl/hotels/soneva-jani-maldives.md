@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Soneva Jani: overwatervilla's op de Malediven | StayAtNiche"
   metaDescription: "Soneva Jani op de Malediven: overwatervilla's met schuifdak en eigen waterglijbaan de lagune in, plus Beach Villas en Signature Villas in het Noonu-atol."
+niche_feature: "De overwatervilla's (met inschuifbaar dak en een glijbaan naar de lagune) staan naast eilandvilla's aan het strand en Signature-eilandvilla's tussen het groen; alleen de watervilla's en water reserves staan boven het water."
 ---
 
 De meeste ultraluxe resorts op de Malediven concurreren met de omvang van hun infinityzwembaden of de verfijning van hun spamenu's. Soneva Jani koos een andere aanpak: hoe zou een overwatervilla eruitzien als de architectuur werd ontworpen rond het karakter van juist deze lagune en juist deze hemel? Het antwoord: een schuifdak boven de slaapkamer, een waterglijbaan die het slaapkamerterras rechtstreeks met het water verbindt, en een openluchtbioscoopscherm boven de lagune. Het is, in de meest nuttige betekenis van het woord, een resort dat speelt.

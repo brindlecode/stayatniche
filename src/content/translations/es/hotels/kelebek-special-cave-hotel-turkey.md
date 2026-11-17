@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Kelebek Special Cave Hotel: cuevas en Göreme | StayAtNiche"
   metaDescription: "Kelebek Special Cave Hotel en Göreme: hotel de larga trayectoria con habitaciones cueva, baño turco, piscina y vistas a los globos y a los valles."
+niche_feature: "36 habitaciones que combinan cuevas, chimeneas de hadas y habitaciones de piedra; solo algunas habitaciones cueva están excavadas directamente en la roca natural, entre ellas espacios históricos que se remontan al siglo VIII. Las demás son de arquitectura de piedra."
 ---
 
 Kelebek Special Cave Hotel se alza sobre el pueblo de Göreme, dentro del parque nacional, y se vende por sus vistas al pueblo, los valles, los globos aerostáticos y las montañas del fondo. Las habitaciones cueva forman parte de la oferta, aunque solo algunas están excavadas en la roca. Otras se describen como habitaciones mixtas de cueva y piedra. El hotel indica que tiene 36 habitaciones en total, entre cueva, chimenea de hadas y piedra, y su propia web ya lo llama Kelebek Cave Hotel.

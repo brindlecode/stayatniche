@@ -18,6 +18,7 @@ bestFor:
 seo:
   metaTitle: "Adelya Cave Hotel: hotel in grotta a Göreme | StayAtNiche"
   metaDescription: "Adelya Cave Hotel a Göreme: casa di famiglia restaurata con nove camere dai nomi storici, servizio navetta per l’aeroporto a pagamento e parcheggio."
+niche_feature: "Nove camere in una casa di famiglia restaurata; Woodshed, Grandpa Mehmet & Grandma Havva's Room, Stable e Hayloft sono descritte come scavate nella roccia, la Wine House come camera in grotta; Stone Room e Çardak non sono descritte come grotte."
 ---
 
 Adelya Cave Hotel racconta la storia di una casa. Secondo l’hotel, qui visse una famiglia dagli anni Cinquanta agli anni Novanta: i figli crescevano, i pasti si condividevano e il raccolto di vigne e orti veniva preparato per l’inverno. Nelle camere in grotta vivevano animali, mentre l’uva diventava mosto, melassa, aceto e vino. Questa storia si riflette nei nomi delle camere.

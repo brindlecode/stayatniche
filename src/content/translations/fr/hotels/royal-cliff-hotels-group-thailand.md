@@ -18,6 +18,7 @@ bestFor:
 seo:
   metaTitle: "Royal Cliff à Pattaya : hôtels de falaise | StayAtNiche"
   metaDescription: "Royal Cliff Hotels Group à Pattaya : quatre hôtels cinq étoiles sur une falaise surplombant le golfe de Thaïlande, avec Beach Terrace et piscine à débordement."
+niche_feature: "Seul le Royal Cliff Beach Terrace (89 chambres et suites) est construit à même la falaise ; les trois autres hôtels du groupe ne sont pas décrits comme des établissements à flanc de falaise."
 ---
 
 Le Royal Cliff Hotels Group occupe un domaine de 64 acres entre Jomtien et le sud de Pattaya, face à la côte orientale du golfe de Thaïlande. Il réunit quatre hôtels cinq étoiles et un centre de congrès, le Pattaya Exhibition and Convention Hall. Le groupe a été fondé en 1973.

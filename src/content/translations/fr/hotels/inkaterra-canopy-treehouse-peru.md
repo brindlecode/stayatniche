@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Inkaterra Canopy Treehouse : cabane perchée | StayAtNiche"
   metaDescription: "Avis sur l'Inkaterra Canopy Treehouse : dormir dans une cabane à 30 m de haut dans la canopée amazonienne de Tambopata, au Pérou, avec guides naturalistes."
+niche_feature: "Une unique Canopy Tree House de deux lits, sur une plateforme privée au bout de l'Inkaterra Canopy Walkway, à environ 28 m de hauteur ; réservée en nuit supplémentaire en complément d'un séjour à la Reserva Amazónica, dont les 35 cabañas sont de plain-pied."
 ---
 
 L'Amazonie péruvienne autour de Puerto Maldonado, et plus précisément la réserve nationale de Tambopata et sa zone protégée, compte parmi les écosystèmes les plus riches en biodiversité jamais étudiés. Un seul hectare de forêt peut y abriter plus d'espèces de fourmis que les îles Britanniques ne comptent d'espèces d'insectes, toutes confondues ; une seule journée d'ornithologie peut livrer 200 espèces ; une balade nocturne révèle une densité d'amphibiens, de reptiles et d'arthropodes qui donne à l'obscurité une présence qu'aucun paysage tempéré ne peut égaler. Dormir dans la canopée de cette forêt, à la hauteur où pénètre la lumière et où se concentre la strate la plus productive de l'écosystème, est une expérience qui se mesure en espèces par heure.

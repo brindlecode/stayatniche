@@ -3,10 +3,10 @@ name: "Charming Cave Cappadocia Hotel"
 category: cave-hotels
 destination: "Göreme, Nevşehir"
 country: "Turkey"
-description: "A guesthouse in Göreme with rooms cut into natural rock, a terrace with hot air balloon views and airport transfers from Nevşehir and Kayseri."
+description: "A guesthouse in Göreme that says it is carved from natural rock, with five Standard Cave Rooms and a Cave Suite among its fifteen rooms, a terrace with hot air balloon views and airport transfers from Nevşehir and Kayseri."
 priceRange: "Rates vary"
 highlights:
-  - "Rooms carved into natural rock"
+  - "Hotel says it is carved from natural rock; five Standard Cave Rooms and a Cave Suite among fifteen rooms"
   - "Room types include cave, stone, triple and junior suites"
   - "Hot air balloon views from the terrace"
   - "Airport transfers from Nevşehir and Kayseri airports"
@@ -44,7 +44,7 @@ niche_source_url: "https://www.thecharmingcavehotel.com/"
 niche_verified_at: 2026-11-17
 ---
 
-Charming Cave Cappadocia Hotel is a guesthouse in Göreme that says its rooms are carved from natural rock. It has been in service for over ten years, and describes fifteen styled rooms offering comfortable and relaxed accommodation. The site mixes cave rooms with stone rooms, so a request for a cave room is worth making when you book.
+Charming Cave Cappadocia Hotel is a guesthouse in Göreme that says the hotel is carved from natural rock. It has been in service for over ten years, and describes fifteen styled rooms offering comfortable and relaxed accommodation. The site mixes cave rooms with stone rooms, so a request for a cave room is worth making when you book. Only the five Standard Cave Rooms and the Cave Suite are described as cave rooms, and the site's wording about rock carving is general rather than room by room.
 
 ## The rooms
 

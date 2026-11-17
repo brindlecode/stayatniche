@@ -19,6 +19,7 @@ bestFor:
 seo:
   metaTitle: "Iglús de cristal en Ranua, Laponia | StayAtNiche"
   metaDescription: "Arctic Guesthouse & Igloos en Ranua, Laponia: diez iglús de cristal desplazables para ver auroras boreales, con habitaciones y lodges a orillas del lago."
+niche_feature: "Iglús de cristal (AuroraHut, ideales para 2 personas) a orillas del lago Ranua, algunos capaces de flotar y desplazarse con motor eléctrico en verano; el alojamiento también tiene habitaciones de casa de huéspedes convencionales y Aurora Lake Lodges."
 ---
 
 No todo el complejo es el reclamo: diez iglús de cristal desplazables comparten espacio con habitaciones económicas y varios lodges más recientes, así que puedes elegir cuánto de la experiencia ártica quieres. Arctic Guesthouse & Igloos está en Ranua, una localidad del sur de Laponia, a una hora aproximadamente de Rovaniemi y algo más de dos horas de Oulu.

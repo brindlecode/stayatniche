@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Snowhotel Kirkenes: hotel di ghiaccio artico | StayAtNiche"
   metaDescription: "Snowhotel Kirkenes, Norvegia artica: suite di ghiaccio d'artista vicino al confine russo, safari del granchio reale, slitte con gli husky e aurora boreale."
+niche_feature: "Snowhotel 365: suite di neve e ghiaccio, mantenute ghiacciate tutto l'anno, allo Snow Resort Kirkenes (Bjørnevatn); il resort ha anche cabine Gamme riscaldate come alloggio normale."
 ---
 
 Kirkenes si trova all'estremità della Norvegia: una piccola città portuale sul Varangerfjord, a ridosso dei confini russo e finlandese, una posizione che le dà un carattere di frontiera unico in Scandinavia. Qui la luce è estrema in entrambe le direzioni: la notte polare, da fine novembre a fine gennaio, porta settimane di buio totale, mentre il sole di mezzanotte di giugno e luglio non tramonta mai del tutto. È, in altre parole, esattamente il tipo di luogo in cui un hotel di ghiaccio ha pienamente senso, e lo Snowhotel Kirkenes, fondato nel 2006, ha saputo sfruttare al meglio la sua straordinaria posizione.

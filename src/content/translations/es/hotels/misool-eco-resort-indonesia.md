@@ -23,6 +23,7 @@ bestFor:
 seo:
   metaTitle: "Misool, bungalós sobre el agua en Raja Ampat | StayAtNiche"
   metaDescription: "Misool Eco Resort: bungalós sobre el agua en Raja Ampat, el ecosistema marino más rico del mundo. Buceo, mantarrayas y una reserva privada de pesca prohibida."
+niche_feature: "8 Water Cottages construidas sobre pilotes en la laguna norte, y 4 North Lagoon Villas (al menos dos sobre pilotes); las demás villas están en South Beach o en una colina. 20 unidades en total."
 ---
 
 Raja Ampat significa «Cuatro Reyes», en referencia a las cuatro islas principales de un archipiélago de Papúa Occidental situado en el corazón del Triángulo de Coral, el epicentro mundial de la biodiversidad marina. Las cifras abruman: más de 1.500 especies de peces, 700 de moluscos y 600 de corales (más que en todo el Caribe) concentradas en las aguas que rodean esta cadena de islas. Biólogos marinos que han dedicado su carrera a estudiar arrecifes describen los puntos de buceo de Raja Ampat como algo distinto a todo lo que han conocido.

@@ -49,6 +49,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Bambu Indah : villas dans la jungle à Ubud | StayAtNiche"
   metaDescription: "Avis sur Bambu Indah à Ubud, Bali : maisons nuptiales javanaises anciennes et structures en bambou au bord d'une rivière, dans la jungle. Dès 250 $ la nuit."
+niche_feature: "Une seule Treehouse (3 couchages) parmi 24 maisons : une structure en bambou indépendante, installée dans les branches de deux bunut. Les autres maisons (maisons joglo pour jeunes mariés, maisons en bambou, tentes) ne sont pas des cabanes dans les arbres."
 ---
 
 À Bali, la plupart des hébergements de luxe suivent un modèle bien connu : piscine à débordement carrelée, lobby en pavillon ouvert, villa privée avec bassin parsemé de fleurs de frangipanier. Bambu Indah part de prémisses totalement différentes. John Hardy, créateur de bijoux canadien, fondateur de la Green School de Bali et d'un mouvement d'architecture en bambou qui a influencé la construction tropicale dans le monde entier, a imaginé Bambu Indah comme la démonstration concrète de ce que pourrait être, à Bali, un hébergement durable, honnête dans ses matériaux et rigoureux sur le plan esthétique.

@@ -19,6 +19,7 @@ bestFor:
 seo:
   metaTitle: "Glasiglus bei Ranua: Arctic Guesthouse | StayAtNiche"
   metaDescription: "Arctic Guesthouse & Igloos in Ranua, Lappland: zehn versetzbare Glasiglus zur Nordlichtbeobachtung, dazu Gästezimmer und Lodges am Ufer des Ranuasees."
+niche_feature: "Glasiglus (AuroraHut, ideal für 2 Personen) am Ufer des Ranuasees, einige davon im Sommer schwimmfähig und mit Elektromotor beweglich; zur Unterkunft gehören außerdem gewöhnliche Gästezimmer und die Aurora Lake Lodges."
 ---
 
 Arctic Guesthouse & Igloos liegt in Ranua, einem Dorf im südlichen Lappland, etwa eine Stunde von Rovaniemi und gut zwei Stunden von Oulu entfernt. Im Mittelpunkt steht allerdings nur ein Teil der Anlage: zehn versetzbare Glasiglus stehen neben preiswerten Gästezimmern und einer Reihe neuerer Lodges. So bestimmen Sie selbst, wie viel vom arktischen Erlebnis Sie möchten.

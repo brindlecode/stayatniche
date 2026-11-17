@@ -8,8 +8,6 @@ highlights:
   - "Bewaldetes Gelände von rund 500 Hektar mit GPS-erfassten Wanderwegen"
   - "Zwischen Arezzo und Siena, mit Blick über das Val di Chiana"
 amenities:
-  - "Bar im Dorfladen"
-  - "Restaurant außerhalb der Mauern"
   - "Glutenfreie Menüoptionen"
 bestFor:
   - "Paare"
@@ -28,7 +26,7 @@ Gargonza liegt rund 540 Meter über dem Meeresspiegel und blickt zwischen Arezzo
 
 ## Wo man schläft und isst
 
-Die Unterkünfte sind Suiten und Apartments innerhalb der Mauern des Dorfes. Eine Bar gibt es im Dorfladen, der Bottega di Gargonza, das Restaurant liegt direkt außerhalb der Mauern. Das Restaurant ist auf glutenfreie Menüs eingerichtet, und zu Weihnachten und Silvester werden saisonale Menüs angeboten.
+Die Unterkünfte sind Suiten und Apartments innerhalb der Mauern des Dorfes. Das Dorf hat einen Laden, die Bottega di Gargonza, in der auch Verkostungen stattfinden, sowie ein Restaurant. Das Restaurant ist auf glutenfreie Menüs eingerichtet, und zu Weihnachten und Silvester werden saisonale Menüs angeboten.
 
 ## Rund um das Gut
 

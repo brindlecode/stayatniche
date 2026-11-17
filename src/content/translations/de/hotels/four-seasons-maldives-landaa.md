@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Four Seasons Landaa Giraavaru: Malediven | StayAtNiche"
   metaDescription: "Wasservillen im UNESCO-Biosphärenreservat Baa-Atoll, nahe den Mantaansammlungen der Hanifaru Bay, mit eigenem Team von Meeresbiologen und Glasböden."
+niche_feature: "Laut offiziellem Factsheet gibt es 103 Villen, darunter Water Villas und Beach Villas; die Unterkunftsseiten auf fourseasons.com lieferten einen 403-Fehler, und der Forbes Travel Guide beschreibt Villen über dem Wasser neben Strandvillen. Die Zahl der Villen über dem Wasser ist nicht angegeben."
 ---
 
 Was das Landaa Giraavaru vom übrigen Feld der Wasservillen auf den Malediven unterscheidet, ist nicht die Qualität der Unterkünfte, so beachtlich sie auch ist, sondern seine Lage und das, was es ernst nimmt. Das Baa-Atoll ist UNESCO-Biosphärenreservat und birgt einige der reichsten Meereslebensräume des Indischen Ozeans. In der Hanifaru Bay, eine kurze Bootsfahrt vom Resort entfernt, finden die größten bekannten Fressansammlungen von Mantarochen der Welt statt: Zwischen Juni und November kommen Hunderte Riffmantas, um in kreisförmigen Formationen zu fressen, die auf dem ganzen Planeten ihresgleichen suchen. Dieses Schauspiel mit der Schnorchelmaske zu beobachten, gehört zu den verwirrendsten Tiererlebnissen überhaupt.

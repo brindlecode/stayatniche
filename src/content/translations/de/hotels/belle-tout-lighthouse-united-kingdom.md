@@ -21,6 +21,7 @@ bestFor:
 seo:
   metaTitle: "Leuchtturmhotel Belle Tout bei Eastbourne | StayAtNiche"
   metaDescription: "B&B im Leuchtturm Belle Tout von 1832 auf den Klippen von Beachy Head: sechs Zimmer, davon nur das Keeper's Loft im Turm, und Blick über die South Downs."
+niche_feature: "Nur 1 von 6 Schlafzimmern, der Keeper's Loft, liegt im ursprünglichen Leuchtturm aus Granit; die übrigen fünf Zimmer sind gewöhnliche Zimmer mit eigenem Bad im restlichen Gebäude."
 ---
 
 Belle Tout ist ein Leuchtturm-B&B auf den Klippen von Beachy Head, nahe Eastbourne in East Sussex. Der Leuchtturm wurde 1832 erbaut und restauriert; er blickt über den Ärmelkanal, die Seven Sisters und die sanft gewellte Landschaft der South Downs. Es werden nur sechs Zimmer angeboten, und alle verfügen über ein eigenes Bad.

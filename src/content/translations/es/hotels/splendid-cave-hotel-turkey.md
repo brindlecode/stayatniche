@@ -18,6 +18,7 @@ bestFor:
 seo:
   metaTitle: "Splendid Cave Hotel: hotel cueva en Ortahisar | StayAtNiche"
   metaDescription: "Splendid Cave Hotel en Ortahisar: diez de sus doce habitaciones son en cueva, con dos estándar, TV, teléfono y minibar, en la Capadocia central."
+niche_feature: "La lista oficial de habitaciones nombra 10 de las 12 como Cave Rooms (Standard, Deluxe, Suit, Superior Suit); las habitaciones 203 y 401 son simples Standard Double Rooms. El sitio nunca habla de roca excavada, solo de los nombres “Cave Room”."
 ---
 
 El Splendid Cave Hotel de Ortahisar es un establecimiento mixto, y conviene dejarlo claro desde el principio. La web del hotel lista doce habitaciones. Diez de ellas llevan «cave room» en su nombre, y dos, las habitaciones 203 y 401, aparecen como simples Standard Double Rooms. Así que la experiencia en cueva se aplica a la mayoría de las habitaciones, pero no a todas.

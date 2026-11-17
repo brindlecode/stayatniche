@@ -21,6 +21,7 @@ bestFor:
 seo:
   metaTitle: "Borgo Castello Panicaglia: kasteel Umbrië | StayAtNiche"
   metaDescription: "Borgo Castello Panicaglia in Umbrië: gastenverblijf in een kasteel uit 1266, met zwembad, restaurant, kookles en kamers met een eigen naam, op 800 meter."
+niche_feature: "Kamers in een kasteel uit 1266 in het borgo van Panicaglia; op de site staan ongeveer 17 kamers en suites met een naam, plus het vakantiehuis Michele, dat tegen het hotel aan ligt en dus niet in het kasteel zit."
 ---
 
 Borgo Castello Panicaglia is gevestigd in een kasteel uit 1266 in het kleine middeleeuwse dorp Panicaglia, in Umbrië. Het ligt op 800 meter hoogte, met uitzicht over de Umbrische bergen, en werkt als gastenverblijf waar je wordt uitgenodigd om deel te nemen aan het familieleven: even in de keuken kijken, meehelpen in de moestuin of neerstrijken in een van de vele loungehoekjes.

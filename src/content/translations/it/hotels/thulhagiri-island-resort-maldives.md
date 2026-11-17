@@ -16,6 +16,7 @@ bestFor:
 seo:
   metaTitle: "Thulhagiri: bungalow sull’acqua alle Maldive | StayAtNiche"
   metaDescription: "Thulhagiri Island Resort and Spa a Malé Nord: 37 bungalow sull’acqua sulla laguna, barriera privata per lo snorkeling e 20 minuti di motoscafo dall’aeroporto."
+niche_feature: "17 Water Bungalows (56 m²) e 20 Superior Water Bungalows (78 m²) sulla laguna, accanto a 50 bungalow Standard Deluxe sulla spiaggia."
 ---
 
 Thulhagiri Island Resort and Spa è un piccolo resort su un’isola nell’Atollo di Malé Nord, alle Maldive. Trentasette delle sue camere sono bungalow sull’acqua sulla laguna (17 Water Bungalow e 20 Superior Water Bungalow), quindi solo una parte del resort si trova sull’acqua; il resto delle sistemazioni è costituito da 50 bungalow sulla spiaggia Standard Deluxe (ville sulla spiaggia) con docce all’aperto.

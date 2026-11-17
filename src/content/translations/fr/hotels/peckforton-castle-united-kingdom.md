@@ -19,6 +19,7 @@ bestFor:
 seo:
   metaTitle: "Peckforton Castle : château-hôtel Cheshire | StayAtNiche"
   metaDescription: "Peckforton Castle : château victorien de 1851 aux 48 chambres, suites dans les tours, restaurant 1851 et domaine de 48 acres. Idéal en couple ou en groupe."
+niche_feature: "Les 48 chambres et suites (dont les Tower Suites) se trouvent dans le château victorien de 1851, classé Grade I ; The Lodge et The Retreat sont des maisons distinctes, destinées aux groupes, sur le domaine."
 ---
 
 Peckforton Castle a été construit en 1851 pour reproduire une forteresse médiévale, et il en a toujours l'allure : un bastion gothique victorien classé Grade I, au cœur de la campagne du Cheshire. Ses propriétaires le décrivent comme une véritable forteresse, avec tours, tourelles, créneaux et pont-levis. Aujourd'hui, c'est à la fois un hôtel, un restaurant et un lieu de réception, et les clients qui y passent la nuit dorment entre ses murs plutôt que dans une annexe moderne.

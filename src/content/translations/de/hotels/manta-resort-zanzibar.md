@@ -50,6 +50,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Manta Resort Pemba: Unterwasserzimmer Sansibar | StayAtNiche"
   metaDescription: "Schlafen im Indischen Ozean: Das Unterwasserzimmer des Manta Resort liegt 4 Meter unter der Oberfläche vor Pemba, Tansania – mit Rifffischen vor den Fenstern."
+niche_feature: "Ein Underwater Room: eine dreistöckige schwimmende Suite, rund 250 m vor der Küste von Pemba verankert, mit dem Doppelschlafzimmer vier Meter unter der Meeresoberfläche. Der Rest des Resorts (Villen, Gartenzimmer) ist gewöhnliche Unterkunft."
 ---
 
 Vier Meter unter der Oberfläche des Indischen Ozeans, während das Riffleben des Pemba-Kanals im Dunkeln an den Fenstern vorbeitreibt, taugen die üblichen Hotelkategorien nichts mehr. Das Underwater Room des Manta Resort ist etwas ganz Eigenes: ein Schlafzimmer unter Wasser vor einer der am wenigsten besuchten Inseln im westlichen Indischen Ozean, wo die Fische deutlich neugieriger auf Sie sind als Sie auf die Fische.

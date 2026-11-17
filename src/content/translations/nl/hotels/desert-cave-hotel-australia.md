@@ -1,17 +1,17 @@
 ---
 source: desert-cave-hotel-australia
 destination: "Coober Pedy"
-description: "Uitgehouwen in het opaalhoudende zandsteen van Coober Pedy – het stadje dat 70% van de opalen van edelsteenkwaliteit ter wereld levert en waar de meeste inwoners ondergronds wonen om zomers van 50 °C te ontvluchten – houdt het Desert Cave Hotel het hele jaar een constante 23 °C aan, met aders van edelsteen zichtbaar in de muren van de gangen."
+description: "In Coober Pedy, het Zuid-Australische opaalstadje waar veel inwoners ondergronds wonen, biedt het Desert Cave Hotel ondergrondse kamers in dugout-stijl, plus kamers bovengronds voor gasten die liever niet onder de grond slapen."
 highlights:
-  - "Kamers uitgehouwen in opaalhoudend zandsteen, met opalen zichtbaar in de muren"
-  - "Coober Pedy levert 70% van de opalen ter wereld"
-  - "De natuurlijke ondergrondse temperatuur blijft het hele jaar constant op 23 °C"
-  - "Unieke ondergrondse voorzieningen, waaronder bar, restaurant en zwembad"
+  - "Ondergrondse kamers in dugout-stijl en kamers bovengronds"
+  - "Geopend in 1988"
+  - "Ondergrondse kamers beschreven als stil, koel, donker en luchtig"
+  - "Restaurant en bar in het hotel"
   - "Een echt surrealistisch outbackstadje in Zuid-Australië"
 amenities:
-  - "Ondergrondse kamers met natuurlijke zandstenen muren"
-  - "Ondergronds binnenzwembad"
-  - "Restaurant en bar (ondergronds)"
+  - "Ondergrondse kamers in dugout-stijl"
+  - "Kamers bovengronds"
+  - "Restaurant en bar"
   - "Opaaltentoonstelling en -winkel"
   - "Tourbalie voor bezoeken aan opaalmijnen"
   - "Airconditioning"
@@ -25,8 +25,7 @@ bestFor:
 prosAndCons:
   pros:
     - "Volkomen uniek; nergens anders slaap je zoals hier"
-    - "Door de constante natuurlijke temperatuur ideaal bij extreme hitte"
-    - "De opalen in de muren van de kamers zijn elke dag weer een wonder"
+    - "De ondergrondse kamers worden omschreven als koel en stil, een verademing bij extreme hitte"
     - "Coober Pedy is een fascinerend, surrealistisch stadje dat op zich al een bezoek waard is"
     - "Uitstekende prijs-kwaliteitverhouding vergeleken met glamoureuzere grothotels"
   cons:
@@ -48,16 +47,17 @@ nearbyAttractions:
     distance: "150 km"
 seo:
   metaTitle: "Desert Cave Hotel: ondergronds in Coober Pedy | StayAtNiche"
-  metaDescription: "Slapen onder de grond in opaalhoudend zandsteen in het Desert Cave Hotel in Coober Pedy, het vreemdste outbackstadje van Australië. Het hele jaar 23 °C."
+  metaDescription: "Slapen onder de grond in een dugout-kamer in het Desert Cave Hotel in Coober Pedy, een outbackstadje in Zuid-Australië, of kies een kamer bovengronds."
+niche_feature: "Het eerste ondergrondse hotel van Coober Pedy (geopend in 1988); er zijn in de grond uitgegraven ondergrondse kamers en ook gewone kamers boven de grond. De officiële site beschrijft alleen in het algemeen de ondergrondse hotels van Coober Pedy, niet welke kamers hier zo zijn."
 ---
 
 Wie door de outback van South Australia naar het noorden rijdt, ziet Coober Pedy aan de horizon opdoemen als een veld van hopen, pijpen en puin, zonder één boom. De grond is bezaaid met duizenden mijnschachten. Van een afstand lijkt het een landschap dat industrieel is afgegraven en daarna grotendeels verlaten – en in zekere zin klopt dat ook. Het stadje is gebouwd op de opaalwinning, en die heeft alles eraan bepaald, ook het feit dat de meeste van de 2000 inwoners ondergronds wonen, in huizen die dugouts heten. Als het 's zomers bovengronds regelmatig meer dan 50 °C wordt, is die logica moeilijk te weerleggen. De Aboriginalnaam voor het gebied is *kupa piti*: witte man in een gat.
 
-Het Desert Cave Hotel is het grootste verblijf van het stadje, en het neemt die positie zonder pretenties in. De lobby, de bar, het restaurant, het zwembad en een flink deel van de kamers zijn rechtstreeks uitgehouwen in de zandstenen heuvel achter de hoofdstraat. De rots is hier dezelfde lichte crème en terracotta steen waar de opalen uit komen – en in de muren van de gangen en in de kamers zelf zie je de melkachtige aders van de edelsteen in het ruwe gesteente.
+Het Desert Cave Hotel is het grootste verblijf van het stadje, en het neemt die positie zonder pretenties in. Tot de kamers van het hotel behoren typische ondergrondse dugouts, beschreven als stil, koel, donker en luchtig, en ook kamers bovengronds voor bezoekers die niet graag onder de grond slapen.
 
 **De kamers**
 
-De ondergrondse kamers zijn eerder praktisch dan theatraal. Het zandsteen is aanwezig en zichtbaar, maar de inrichting is eerder gewoon hotel dan grotesthetiek. Het belangrijkste kenmerk is de omgeving: geen ramen, geen daglicht, en een constante temperatuur van rond de 23 °C, wat er bovengronds ook gebeurt. In december, als het aan de oppervlakte 52 °C is, is die constantheid geen bijzaak. De kamers zijn bovendien stil op die bijzondere manier die alleen ondergrondse ruimtes kennen: geen verkeer, geen wind, geen enkel achtergrondgeluid.
+De ondergrondse kamers zijn eerder praktisch dan theatraal. Het zandsteen is aanwezig en zichtbaar, maar de inrichting is eerder gewoon hotel dan grotesthetiek. Het belangrijkste kenmerk is de omgeving: geen ramen, geen daglicht en, in de woorden van de website van het hotel over ondergrondse kamers in Coober Pedy, geen hitte en geen vochtigheid. De kamers zijn bovendien stil op die bijzondere manier die alleen ondergrondse ruimtes kennen: geen verkeer, geen wind, geen enkel achtergrondgeluid.
 
 **De opaalbeleving**
 

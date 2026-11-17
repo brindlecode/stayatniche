@@ -50,6 +50,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Manta Resort: onderwaterkamer bij Zanzibar | StayAtNiche"
   metaDescription: "Slapen onder water in de Indische Oceaan: de onderwaterkamer van The Manta Resort ligt 4 meter diep voor Pemba, Tanzania. 's Nachts rifvissen voor je raam."
+niche_feature: "Eén Underwater Room: een drijvende suite met drie niveaus, op ongeveer 250 m van de kust van Pemba verankerd, met de tweepersoonsslaapkamer vier meter onder het zeeoppervlak. De rest van het resort (villa's, tuinkamers) is gewone accommodatie."
 ---
 
 Vier meter onder het oppervlak van de Indische Oceaan, terwijl het rifleven van het Pemba Channel in het donker langs de ramen drijft, schieten de gebruikelijke hotelcategorieën tekort. De Underwater Room van The Manta Resort is iets aparts: een slaapkamer onder water voor de kust van een van de minst bezochte eilanden in het westen van de Indische Oceaan, waar de vissen een stuk nieuwsgieriger naar jou zijn dan jij naar hen.

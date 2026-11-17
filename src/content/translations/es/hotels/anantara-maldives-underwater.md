@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Anantara Kihavah: restaurante submarino en Maldivas | StayAtNiche"
   metaDescription: "Cena a 6 metros bajo el mar en SEA y alójate en villas con piscina privada en Anantara Kihavah, en la Reserva de la Biosfera del atolón Baa, Maldivas."
+niche_feature: "SEA es un restaurante submarino (solo como experiencia). Se duerme en 80 villas con piscina, algunas sobre el agua en pilotes y a las que se llega por un muelle, y otras villas de playa. No se han encontrado dormitorios submarinos. El sitio oficial está bloqueado (403)."
 ---
 
 Anantara Kihavah organiza sus experiencias estrella en torno a cuatro siglas: FIRE (la parrilla), SKY (el observatorio en la azotea), ICE (la bodega) y SEA. SEA es la razón por la que la mayoría de la gente reserva.

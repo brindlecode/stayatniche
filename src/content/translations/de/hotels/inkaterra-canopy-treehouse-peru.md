@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Inkaterra Canopy Treehouse: Baumhaus Amazonas | StayAtNiche"
   metaDescription: "Schlafen 30 Meter über dem Regenwaldboden im Tambopata-Reservat in Peru: Baumhaus mit Naturkundlern, Ara-Lehmlecken, Altarmseen und nächtlicher Kaimansuche."
+niche_feature: "Ein einziges Canopy Tree House mit zwei Betten auf einer privaten Plattform am Ende des Inkaterra Canopy Walkway, rund 28 m hoch; es wird als zusätzliche Nacht zu einem Aufenthalt im Reserva Amazónica gebucht, dessen 35 Cabañas ebenerdig liegen."
 ---
 
 Der peruanische Amazonas rund um Puerto Maldonado, genauer das Tambopata-Nationalreservat und sein geschütztes Umland, zählt zu den artenreichsten Ökosystemen, die je erfasst wurden. Ein einziger Hektar Wald kann hier mehr Ameisenarten beherbergen als die gesamten Britischen Inseln Insektenarten insgesamt; an einem einzigen Tag lassen sich 200 Vogelarten beobachten; eine Nachtwanderung offenbart eine Dichte an Amphibien, Reptilien und Gliederfüßern, die die Dunkelheit auf eine Weise belebt erscheinen lässt, wie es keine Landschaft gemäßigter Breiten auch nur annähernd vermag. Im Blätterdach dieses Waldes zu schlafen, auf der Höhe, wo das Licht durchdringt und sich die produktivste Schicht des Ökosystems konzentriert, ist ein Erlebnis, das man in Arten pro Stunde misst.

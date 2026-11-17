@@ -21,6 +21,7 @@ bestFor:
 seo:
   metaTitle: "Pullman Maldives Maamutaa : chambre sous l'eau | StayAtNiche"
   metaDescription: "Pullman Maldives Maamutaa : seules les Aqua Villas ont une chambre sous l'eau, avec vue sur la vie marine. Formule tout compris sur l'île privée de Maamutaa."
+niche_feature: "Seules les Aqua Villas (deux, selon le resort qui annonce 2 chambres sous-marines) ont une chambre parentale immergée sous le lagon, plus une chambre sur l'eau ; les autres villas, sur un total de 122, sont des villas de plage ou sur l'eau."
 ---
 
 Seules les Aqua Villas du Pullman Maldives Maamutaa possèdent une chambre sous l'eau. Le reste du resort se compose de villas classiques en bord de plage et sur pilotis, sans pièce immergée. Pour dormir sous l'eau, il faut donc réserver spécifiquement une Aqua Villa.

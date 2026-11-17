@@ -15,9 +15,9 @@ highlights:
   - "Seven distinct ecosystems within a single reserve, sand forest to wetland"
   - "Exceptional cheetah populations and sightings"
   - "Black and white rhino on the same reserve"
-  - "Africa's only sand forest ecosystem housing secretive forest cats and rare birds"
+  - "Rare sand forest, home to the shy suni and the rare red duiker"
   - "Acclaimed community conservation model"
-  - "The acclaimed Ocean Lodge offers combination bush-and-beach experiences"
+  - "Bush-and-beach itineraries with nearby Indian Ocean activities"
 amenities:
   - "Six camp options from intimate glass-and-steel suites to classic canvas"
   - "Full board with all local drinks"
@@ -25,7 +25,7 @@ amenities:
   - "Bush walks and night drives"
   - "Private swimming pools at premium suites"
   - "Spa facilities"
-  - "Ocean Lodge beach access and water activities"
+  - "Nearby Indian Ocean activities such as ocean safaris and scuba diving"
 bestFor:
   - "Families with children (Phinda has excellent family programmes)"
   - "Cheetah enthusiasts and big cat researchers"
@@ -35,7 +35,7 @@ prosAndCons:
   pros:
     - "Exceptional habitat diversity makes every game drive different"
     - "Cheetah sightings are more reliable here than almost anywhere in Africa"
-    - "The combination bush-and-beach option with Ocean Lodge is unique in South Africa"
+    - "The reserve lies close to the beaches and coral reefs of the Indian Ocean, so bush-and-beach itineraries are possible"
     - "&Beyond's community partnerships represent genuinely responsible tourism"
   cons:
     - "Multiple camps with different quality levels, research which camp suits your expectations"
@@ -47,7 +47,7 @@ rating: 9.5
 seasonalInfo:
   bestTime: May to September for best game viewing in dry season; November to February for birding
   peakSeason: South African school holidays and July–August dry season
-  notes: Phinda's diverse habitats make it rewarding year-round. The dry season (May–September) concentrates game around water and provides easier visibility through sparse vegetation. The green season (October–April) transforms the landscape dramatically, brings nesting birds, and offers lower prices. Turtle nesting season at nearby beaches (November–January) is an extraordinary bonus for Ocean Lodge guests.
+  notes: Phinda's diverse habitats make it rewarding year-round. The dry season (May–September) concentrates game around water and provides easier visibility through sparse vegetation. The green season (October–April) transforms the landscape dramatically, brings nesting birds, and offers lower prices. Turtle nesting at nearby Sodwana Bay, which runs for four months of the southern hemisphere summer, is an extraordinary seasonal bonus.
 nearbyAttractions:
   - name: iSimangaliso Wetland Park (UNESCO World Heritage Site)
     distance: 20 km
@@ -86,12 +86,12 @@ niche_source_url: "https://assets.andbeyond.com/image/upload/v1757070782/Collate
 niche_verified_at: 2026-11-17
 ---
 
-In the late 1980s, Phinda was exhausted farmland, overgrazed, wildlife-depleted, economically marginal. &Beyond acquired it in 1990 and ran one of Africa's more ambitious private wildlife restoration programmes: fences out, land rested, animals reintroduced in careful sequence. The result is a reserve that now supports all of the Big Five, reliable cheetah sightings, the continent's only sand forest ecosystem, and populations that have recovered beyond what anyone projected in 1990.
+Before Phinda existed, the land had spent almost a century under pineapple, cattle, sisal and game farms and was severely overgrazed and degraded. &Beyond was launched with the creation of Phinda Private Game Reserve in 1991, the first private game reserve in KwaZulu-Natal, with the aim of rehabilitating the land and reintroducing the large mammals that had originally lived there. The result is a 29,866-hectare reserve (grown from the original 13,076 hectares) that is home to the Big Five and particularly well known for close-up cheetah sightings.
 
-Seven distinct habitat types within a single reserve is an unusual proposition. Sand forest, found nowhere else in Africa, home to secretive forest cats and rare Rudd's apalis, sits alongside savanna woodland, wetland, riverine forest, open plains, and rocky hillside. The transition zones between habitats are where the ecological richness concentrates. In practice, this means each game drive moves through genuinely different landscapes with different species assemblages. The photographic and natural history interest doesn't plateau after the first day, which it can at reserves with a single dominant habitat.
+Seven distinct habitat types within a single reserve is an unusual proposition. Rare sand forest, home to the shy suni, the rare red duiker and Rudd's apalis, sits alongside savanna woodland, wetland, riverine forest, open plains, and rocky hillside. The transition zones between habitats are where the ecological richness concentrates. In practice, this means each game drive moves through genuinely different landscapes with different species assemblages. The photographic and natural history interest doesn't plateau after the first day, which it can at reserves with a single dominant habitat.
 
 Cheetah sightings at Phinda are as reliable as anywhere in Africa. The rangers know individual animals and their territories well enough that hunts, not merely sightings, but hunts, are available with reasonable consistency. Black and white rhino coexist on the same reserve, a conservation achievement that remains genuinely rare in African safari. The birdlist runs to over 400 species, including sand forest endemics that bring dedicated birders from around the world.
 
-&Beyond runs six camps within the reserve. Forest Lodge is the most distinctive, its suites suspended above the sand forest on stilts with windows at canopy level. Rock Lodge sits on a bouldered hillside. Vlei Lodge overlooks a seasonal wetland. At the coast, Ocean Lodge enables a proper bush-and-beach combination itinerary, game drives in the morning, Indian Ocean in the afternoon.
+&Beyond runs six camps within the reserve: Mountain, Forest, Rock, Vlei, Zuka and Homestead. Forest Lodge is the most distinctive, its suites suspended above the sand forest on stilts with windows at canopy level. Rock Lodge is a cliff-top pueblo suspended over the valley. Vlei Lodge overlooks a seasonal wetland. The reserve lies close to the beaches and coral reefs of the Indian Ocean, so a bush-and-beach itinerary is possible: game drives in the morning, ocean activities in the afternoon.
 
 The community partnerships &Beyond built at Phinda, providing employment, education, and direct financial benefit to surrounding communities, have become a template for responsible African safari development. The model is genuinely effective, which matters when choosing where to spend this level of money.

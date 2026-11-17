@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Soneva Jani : villa sur pilotis aux Maldives | StayAtNiche"
   metaDescription: "Soneva Jani, aux Maldives : villas sur pilotis avec toit ouvrant sur les étoiles et toboggan privé jusqu'au lagon, dans l'atoll préservé de Noonu."
+niche_feature: "Les villas sur l'eau (avec toit rétractable et toboggan donnant sur le lagon) côtoient des villas d'île et de plage ainsi que des Signature island villas au milieu de la verdure ; seules les villas sur l'eau et les water reserves sont sur l'eau."
 ---
 
 La plupart des resorts ultra-luxe des Maldives rivalisent sur la taille de leurs piscines à débordement ou le raffinement de leur carte de soins. Soneva Jani a pris un autre chemin : à quoi ressemblerait une villa sur pilotis si son architecture était pensée autour du caractère propre à ce lagon et à ce ciel ? La réponse passe par un toit rétractable au-dessus de la chambre principale, un toboggan reliant directement la terrasse de la chambre à l'eau et un écran de cinéma en plein air suspendu au-dessus du lagon. C'est, dans le meilleur sens du terme, un resort qui joue.

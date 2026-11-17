@@ -49,6 +49,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Bambu Indah Ubud: junglevilla's op Bali | StayAtNiche"
   metaDescription: "Antieke Javaanse bruidshuizen en bamboehuizen aan een junglerivier bij Ubud op Bali. Bambu Indah is het bijzonderste architectuuradres van de streek."
+niche_feature: "Eén Treehouse (voor 3 personen) tussen 24 huizen: een aparte bamboeconstructie in de takken van twee bunutbomen. De andere huizen (joglo-huizen voor bruidsparen, bamboehuizen, tenten) zijn geen boomhutten."
 ---
 
 De meeste luxeverblijven op Bali volgen een bekend sjabloon: betegelde infinitypool, open paviljoen als lobby, privévilla met een plonsbad vol frangipanibloemen. Bambu Indah vertrekt vanuit totaal andere uitgangspunten. John Hardy – de Canadese sieradenontwerper die zowel de Green School Bali oprichtte als een beweging in bamboearchitectuur die wereldwijd het tropisch bouwen heeft beïnvloed – maakte Bambu Indah als levend voorbeeld van hoe een duurzaam, eerlijk in materiaal en esthetisch doordacht verblijf op Bali eruit kan zien.

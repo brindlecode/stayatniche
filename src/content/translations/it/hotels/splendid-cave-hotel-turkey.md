@@ -18,6 +18,7 @@ bestFor:
 seo:
   metaTitle: "Splendid Cave Hotel: hotel in grotta | StayAtNiche"
   metaDescription: "Splendid Cave Hotel a Ortahisar: dieci delle dodici camere sono in grotta, due sono standard, con TV, telefono e minibar in Cappadocia centrale."
+niche_feature: "L'elenco ufficiale delle camere indica 10 delle 12 come Cave Rooms (Standard, Deluxe, Suit, Superior Suit); le camere 203 e 401 sono semplici Standard Double Rooms. Il sito non parla mai di scavo nella roccia, solo dei nomi «Cave Room»."
 ---
 
 Lo Splendid Cave Hotel di Ortahisar è una struttura mista, e conviene chiarirlo subito. Il sito dell’hotel elenca dodici camere. Dieci hanno la dicitura «cave room» nel nome, mentre due, le camere 203 e 401, sono indicate come semplici Standard Double Rooms. L’esperienza in grotta riguarda quindi la maggior parte delle camere, ma non tutte.

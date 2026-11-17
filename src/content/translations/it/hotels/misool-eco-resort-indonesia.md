@@ -23,6 +23,7 @@ bestFor:
 seo:
   metaTitle: "Misool Eco Resort: bungalow sull'acqua | StayAtNiche"
   metaDescription: "Misool Eco Resort, Indonesia: bungalow sull'acqua nell'ecosistema marino più ricco al mondo. Immersioni a Raja Ampat, riserva marina privata e mante."
+niche_feature: "8 Water Cottages costruiti su palafitte sopra la North Lagoon, più 4 North Lagoon Villas (almeno due su palafitte); le altre ville sono su South Beach o su una collina. 20 unità in totale."
 ---
 
 Raja Ampat significa «Quattro Re», un riferimento alle quattro isole principali di un arcipelago della Papua Occidentale che si trova nel cuore del Triangolo dei Coralli, il centro mondiale della biodiversità marina. I numeri sono sbalorditivi: oltre 1.500 specie di pesci, 700 specie di molluschi e 600 specie di coralli — più dell'intero Mar dei Caraibi — concentrate nelle acque attorno a questa catena di isole. I biologi marini che hanno dedicato la carriera allo studio delle barriere coralline descrivono i siti d'immersione di Raja Ampat come diversi da qualsiasi altro abbiano mai visto.

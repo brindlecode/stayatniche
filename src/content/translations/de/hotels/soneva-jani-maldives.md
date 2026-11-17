@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Soneva Jani: Wasservilla mit Rutsche | StayAtNiche"
   metaDescription: "Soneva Jani im Noonu-Atoll: Wasserbungalows mit aufschiebbarem Dach und eigener Rutsche in die Lagune sowie Beach Villas und Signature Villas auf den Malediven."
+niche_feature: "Die Wasservillen (mit einfahrbarem Dach und Rutschen in die Lagune) stehen neben Insel- und Strandvillen sowie Signature Island Villas inmitten von Grün; nur die Water Villas und Water Reserves liegen über dem Wasser."
 ---
 
 Die meisten Ultra-Luxusresorts der Malediven konkurrieren über die Größe ihrer Infinity-Pools oder die Raffinesse ihrer Spa-Menüs. Soneva Jani wählte einen anderen Ansatz: Wie sähe eine Wasservilla aus, wenn die Architektur ganz auf den Charakter genau dieser Lagune und dieses Himmels zugeschnitten wäre? Die Antwort: ein aufschiebbares Dach über dem Hauptschlafzimmer, eine Wasserrutsche, die das Schlafzimmerdeck direkt mit dem Wasser verbindet, und eine Freiluftkinoleinwand über der Lagune. Es ist, im besten Sinne, ein Resort, das spielt.

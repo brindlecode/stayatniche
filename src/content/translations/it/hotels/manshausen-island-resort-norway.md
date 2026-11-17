@@ -23,6 +23,7 @@ bestFor:
 seo:
   metaTitle: "Manshausen: cabine sul mare artico in Norvegia | StayAtNiche"
   metaDescription: "Manshausen Island Resort, Norvegia: cabine su palafitte sul Mare di Norvegia oltre il Circolo polare artico. Aurora boreale, sole di mezzanotte e kayak."
+niche_feature: "Cabine sul mare in un'isola privata: le cabine originali poggiano su vecchie banchine di pietra, quelle più recenti sporgono sul mare; due Towers sul bordo del molo. Palafitte o pali non sono indicati. Nessun contesto di scogliera."
 ---
 
 L'arcipelago di Steigen è la Norvegia come appare quando le montagne vengono spinte direttamente in mare: una catena di isole rocciose e ripide oltre il Circolo polare artico, dove la muraglia delle Lofoten prosegue verso nord e i fiordi del Nordland si aprono sul Mare di Norvegia. A 68° N questa è l'Artide norvegese autentica: non quella turistica di Tromsø, ma la Norvegia dei villaggi di pescatori ancora operosi, con infrastrutture ridotte al minimo e un paesaggio dal carattere indomito, tipico di una costa che non è mai stata di moda.

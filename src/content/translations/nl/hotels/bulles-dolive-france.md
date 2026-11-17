@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Bulles d'Olive: bubbelhotel in Frankrijk | StayAtNiche"
   metaDescription: "Bulles d'Olive in Nyons: twee transparante bubbels en een houten hut tussen de olijfbomen, zwembad verwarmd door de zon en ontbijt in de Drôme."
+niche_feature: "Twee transparante bubbels (Olea, Provence) en een houten hut (Zome Céleste) bij een gastenverblijf in Nyons; alleen de twee bubbels vallen onder de niche."
 ---
 
 Bulles d'Olive is een klein gastenverblijf tussen de olijfbomen in Nyons, in de Drôme provençale. Er zijn maar drie slaapplekken: twee transparante bubbels, Olea en Provence, en een houten hut genaamd de Zome Céleste. Elk is bedoeld voor twee personen en het hele terrein is ingericht op een nacht samen onder de sterren.

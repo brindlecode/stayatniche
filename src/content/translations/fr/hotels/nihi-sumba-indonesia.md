@@ -50,6 +50,7 @@ seo:
   metaTitle: "Nihi Sumba : surf privé et villas en Indonésie | StayAtNiche"
   metaDescription: "Nihi Sumba : 28 villas sur un domaine privé de l'île de Sumba, accès exclusif à la vague d'Occy's Left et fondation contre le paludisme. Dès 1 200 $ la nuit."
 niche_badge: "Une seule villa"
+niche_feature: "Une seule des 31 villas et propriétés répond au critère : la Treehouse de trois chambres, construite dans les arbres, en lisière d'une forêt ancienne, avec des chambres circulaires en verre surélevées et reliées par des passerelles aériennes. Les autres villas sont des villas en bord de plage ou à flanc de colline, pas des cabanes dans les arbres."
 ---
 
 Sumba n'est pas Bali. L'île se trouve à 350 kilomètres plus à l'est, dans l'arc des Petites îles de la Sonde, et presque rien ici ne ressemble au tourisme indonésien qui a rendu Bali célèbre dans le monde entier. Le paysage est fait de savane sèche, de villages de tisserands d'ikat et de tombeaux mégalithiques, avec une côte sud-ouest que l'océan Indien façonne sans obstacle depuis bien avant que quiconque ne mesure les vagues. Nihi Sumba occupe 567 acres de ce littoral, et le fait que les lecteurs de Travel + Leisure l'aient élu meilleur hôtel du monde plusieurs années d'affilée en dit long sur ce qu'une certaine catégorie de voyageurs place au-dessus de tout.

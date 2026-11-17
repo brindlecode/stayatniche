@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Inkaterra Canopy Treehouse: boomhut in Peru | StayAtNiche"
   metaDescription: "Slapen in een boomhut 30 meter boven de bodem van het Amazoneregenwoud in Tambopata, Peru, met dagelijkse tochten naar ara's, reuzenotters en kaaimannen."
+niche_feature: "Eén Canopy Tree House met twee bedden op een privéplatform aan het eind van de Inkaterra Canopy Walkway, op ongeveer 28 m hoogte; te boeken als extra nacht bovenop een verblijf in Reserva Amazónica, waarvan de 35 cabañas op de grond staan."
 ---
 
 De Peruaanse Amazone rond Puerto Maldonado, met name het Tambopata National Reserve en het beschermde gebied eromheen, is een van de ecosystemen met de grootste biodiversiteit die ooit zijn gemeten. Eén hectare bos kan hier meer mierensoorten bevatten dan de hele Britse Eilanden aan insectensoorten bij elkaar; op één dag vogelen zie je er 200 soorten; en een nachtwandeling onthult zo'n dichtheid aan amfibieën, reptielen en geleedpotigen dat de duisternis bewoond aanvoelt op een manier waar geen landschap in een gematigd klimaat aan kan tippen. Slapen in het bladerdak van dit bos, op de hoogte waar het licht doordringt en de meest productieve laag van het ecosysteem zich concentreert, is een ervaring die je in soorten per uur meet.

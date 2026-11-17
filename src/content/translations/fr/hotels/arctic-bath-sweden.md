@@ -1,18 +1,18 @@
 ---
 source: arctic-bath-sweden
 destination: "Harads, Laponie suédoise"
-description: "Un anneau de bois flotté posé sur la rivière Lule, à 66 degrés de latitude nord, avec six cabanes privées et un bassin central ouvert sur le ciel toute l'année : bain glacé quand la rivière gèle en hiver, baignade sauvage en été. Les architectes Bertil Harström et Johan Kauppi ont créé un lieu qui rend l'Arctique parfaitement habitable."
+description: "Un hôtel flottant sur la rivière Lule, en Laponie suédoise, avec un bâtiment principal circulaire inspiré de l'histoire du flottage du bois, 12 cabanes (dont six flottent sur la rivière) et un spa articulé autour des saunas et des bains froids. Conçu par les architectes suédois Bertil Harström et Johan Kauppi."
 highlights:
-  - "Un hôtel flottant en forme d'anneau de bois flotté sur la rivière Lule gelée"
-  - "Le bassin extérieur central devient un bain glacé naturel en hiver"
-  - "Six cabanes flottantes et quatre cabanes en forêt avec vue sur la rivière"
+  - "Hôtel flottant sur la rivière Lule, sur l'eau en été et pris dans la glace en hiver"
+  - "Spa avec deux saunas secs, un sauna vapeur, deux jacuzzis extérieurs et un bain froid"
+  - "12 cabanes : six cabanes flottantes, trois suites terrestres et trois cabanes familiales terrestres"
   - "Spa nordique et soins bien-être toute l'année"
 amenities:
-  - "Cabane flottante ou en forêt avec vue panoramique sur la rivière"
-  - "Spa arctique avec sauna, hammam et bain glacé"
+  - "Cabane flottante ou terrestre avec vue panoramique sur la rivière"
+  - "Spa avec deux saunas secs, un sauna vapeur, des jacuzzis extérieurs et un bain froid"
   - "Restaurant de cuisine nordique à base de produits locaux"
-  - "Traîneau à chiens et randonnées en raquettes en hiver"
-  - "Kayak et pêche en été"
+  - "Sorties en motoneige, en traîneau à chiens et à ski en hiver, selon disponibilité"
+  - "Location de canoës et de paddles en été"
   - "Service de réveil pour les aurores boréales"
 bestFor:
   - "Adeptes du bien-être"
@@ -21,13 +21,14 @@ bestFor:
   - "Passionnés de design et d'architecture"
 seo:
   metaTitle: "Arctic Bath : hôtel flottant en Laponie | StayAtNiche"
-  metaDescription: "Avis sur l'Arctic Bath, hôtel flottant sur la rivière Lule en Laponie suédoise : cabanes sur l'eau, bain glacé, sauna et aurores boréales au-dessus du spa."
+  metaDescription: "Arctic Bath : hôtel flottant et spa sur la rivière Lule, en Laponie suédoise, avec six cabanes flottantes, six cabanes terrestres, saunas et bain froid."
+niche_feature: "Six des 12 cabanes sont des Floating Cabins sur la rivière Lule, accessibles par un sentier au-dessus de l'eau ; les six autres (trois Land Suites, trois Land Family) sont sur la terre ferme. L'hôtel est présenté comme flottant."
 ---
 
-L'Arctic Bath est posé sur la rivière Lule, à 66 degrés de latitude nord, et son design est toute sa raison d'être. Les architectes Bertil Harström et Johan Kauppi ont conçu l'hôtel comme un anneau de bois : des murs incurvés de bois flotté encerclant un bassin central ouvert sur le ciel toute l'année. En hiver, quand la rivière gèle et que le thermomètre descend à -25 °C, ce bassin devient un bain glacé. En été, sous le soleil de minuit qui tourne au-dessus de l'horizon, c'est une piscine de baignade sauvage au milieu d'une rivière boréale.
+L'Arctic Bath est posé sur la rivière Lule, en Laponie suédoise, et son design est toute sa raison d'être. Les architectes suédois Bertil Harström et Johan Kauppi l'ont conçu comme un hommage au patrimoine du bois de la région. Au cœur de l'ensemble se trouve un bâtiment principal circulaire inspiré de l'histoire du flottage du bois, qui abrite le spa avec son bain froid caractéristique, des saunas, des jacuzzis et des salles de soins, ainsi que le restaurant, le salon et le bar. La structure flotte en été et est prise dans la glace en hiver.
 
-Six cabanes flottantes sont amarrées à l'anneau central, chacune conçue pour deux, avec de grandes baies qui cadrent la rivière, les bouleaux et les pins penchés au-dessus de l'eau. Le design est nordique dans ce qu'il a de plus fonctionnel : lignes épurées, pin, bouleau, pierre, et la vue comme élément principal. Chaque cabane dispose de son sauna privé, qui, à cette latitude, relève de la nécessité plus que du luxe. Passer d'un sauna à 90 degrés à l'air de la rivière à -20 °C, sous les aurores boréales : c'est pour cette expérience que ce lieu a été construit.
+Il y a 12 cabanes au total. Six cabanes flottantes bordent la rive, chacune étant une chambre double de 24 m² accessible par un chemin sur l'eau et entourée d'une terrasse en bois de 57,5 m² ; en été, elles flottent librement sur la Lule et, en hiver, elles sont prises dans la glace. Les six autres sont sur la terre ferme : trois suites terrestres (62 m², pour deux personnes, avec chambre en mezzanine) et trois cabanes familiales terrestres (62 m², jusqu'à cinq personnes). Les intérieurs allient design scandinave moderne, bois et pierre. Le petit-déjeuner et l'accès complet au spa sont compris dans chaque séjour. Selon l'hôtel, les aurores boréales apparaissent souvent juste au-dessus de la propriété, visibles depuis la terrasse ou le jacuzzi chaud après une séance de sauna.
 
-Le spa s'appuie sur les traditions nordiques (massage aux branches de bouleau, immersion dans l'eau froide, argile arctique), et les bassins extérieurs fonctionnent toute l'année. Le restaurant, sur la berge, sert du renne de Laponie, des poissons d'eau douce de la Lule, des herbes et baies cueillies dans la nature et du pain cuit chaque jour au feu de bois. Une petite carte des vins, bien choisie.
+Le spa s'enracine dans la culture suédoise du sauna et du bain froid, avec deux saunas secs, un sauna vapeur, deux jacuzzis extérieurs et un bain froid, ainsi que des rituels de sauna guidés appelés Julevädno et une expérience Arctic Blend où les hôtes composent leur propre mélange de plantes. Les soins se réservent en supplément. Au restaurant, le dîner est un menu unique à base de produits locaux, tandis que le petit-déjeuner et le déjeuner se prennent à la carte.
 
-L'hiver apporte des sorties en traîneau à chiens et en motoneige avec le Treehotel voisin. La saison des aurores boréales s'étend de fin août à mars, et la position de l'hôtel, en pleine rivière, en fait l'un des meilleurs points d'observation de la région : aucun arbre ne masque le ciel dans les directions cruciales. L'été, place au kayak sous le soleil de minuit et à la lumière si particulière du nord de la Suède en juin et juillet, qui récompense les photographes prêts à faire le voyage.
+En hiver, les activités proposées par l'hôtel comprennent des sorties en motoneige, en traîneau à chiens et à ski, toutes selon disponibilité. L'hôtel situe la saison des aurores boréales de fin août à avril. En été, le soleil brille 24 heures sur 24 de fin mai à la mi-juillet, et l'on peut louer des canoës et des paddles à la réception.

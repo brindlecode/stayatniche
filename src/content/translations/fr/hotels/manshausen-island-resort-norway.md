@@ -23,6 +23,7 @@ bestFor:
 seo:
   metaTitle: "Manshausen : cabanes sur la mer arctique | StayAtNiche"
   metaDescription: "Manshausen Island Resort, en Norvège arctique : cabanes sur pilotis au-dessus de la mer, aurores boréales, soleil de minuit et kayak au départ de la cabane."
+niche_feature: "Cabanes de mer sur une île privée : les cabanes d'origine reposent sur d'anciens quais de pierre, les plus récentes avancent au-dessus de la mer ; deux Towers au bord de la jetée. Pilotis non mentionnés. Pas de situation à flanc de falaise."
 ---
 
 L'archipel de Steigen, c'est la Norvège quand les montagnes ont été poussées tout droit dans la mer : un chapelet d'îles rocheuses et escarpées au-delà du cercle polaire, là où la muraille des Lofoten se prolonge vers le nord et où les fjords du Nordland s'ouvrent sur la mer de Norvège. Par 68° nord, c'est l'Arctique norvégien véritable — non pas l'Arctique touristique de Tromsø, mais la Norvège des villages de pêcheurs en activité, où les infrastructures sont réduites au minimum et où le paysage garde le caractère farouche d'une côte qui n'a jamais été à la mode.

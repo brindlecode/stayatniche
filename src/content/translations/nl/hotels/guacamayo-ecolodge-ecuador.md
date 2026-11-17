@@ -1,9 +1,9 @@
 ---
 source: guacamayo-ecolodge-ecuador
 destination: "Cuyabeno-reservaat, provincie Sucumbíos"
-description: "Ecolodge met houten hutten in het oerregenwoud van het Cuyabeno-reservaat in Ecuador, met gecertificeerde lokale gidsen en meerdaagse verblijven inclusief excursies."
+description: "Ecolodge met hutten in het regenwoud van het Cuyabeno-reservaat in Ecuador, met gecertificeerde lokale gidsen en meerdaagse verblijven inclusief excursies."
 highlights:
-  - "Houten hutten in het oerregenwoud van het Cuyabeno-reservaat"
+  - "Hutten in het regenwoud van het Cuyabeno-reservaat"
   - "Gecertificeerde lokale gidsen die Engels en Spaans spreken"
   - "Begeleide excursies door het reservaat"
   - "Balkons met uitzicht over het oerwoud in sommige hutten"
@@ -17,10 +17,10 @@ bestFor:
   - "Natuurreizigers"
 seo:
   metaTitle: "Guacamayo Ecolodge: ecolodge in Ecuador | StayAtNiche"
-  metaDescription: "Guacamayo Ecolodge in Ecuador: houten hutten in het oerregenwoud van Cuyabeno, gecertificeerde lokale gidsen en meerdaagse pakketten met excursies."
+  metaDescription: "Guacamayo Ecolodge in Ecuador: hutten in het regenwoud van het Cuyabeno-reservaat, gecertificeerde lokale gidsen en meerdaagse pakketten met excursies."
 ---
 
-Guacamayo Ecolodge is een verzameling houten hutten in het oerregenwoud van het Cuyabeno-reservaat, in de Ecuadoraanse Amazone. De lodge combineert volgens eigen zeggen ecologisch comfort met de natuur eromheen. Hij wordt vooral verkocht als meerdaagse pakketten, en de excursies zijn daarin inbegrepen.
+Guacamayo Ecolodge is een verzameling hutten in het regenwoud van het Cuyabeno-reservaat, in de Ecuadoraanse Amazone. De lodge combineert volgens eigen zeggen ecologisch comfort met de natuur eromheen. Hij wordt vooral verkocht als meerdaagse pakketten, en de excursies zijn daarin inbegrepen.
 
 ## De hutten
 

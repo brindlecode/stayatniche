@@ -18,6 +18,7 @@ bestFor:
 seo:
   metaTitle: "Royal Cliff Pattaya: hotel a strapiombo | StayAtNiche"
   metaDescription: "Royal Cliff Hotels Group a Pattaya: quattro hotel a cinque stelle su una scogliera affacciata sul golfo di Thailandia, con Beach Terrace e piscina a sfioro."
+niche_feature: "Solo il Royal Cliff Beach Terrace (89 camere/suite) è costruito nella parete della scogliera; gli altri tre hotel del gruppo non sono descritti come strutture a strapiombo."
 ---
 
 Il Royal Cliff Hotels Group occupa una tenuta di 64 acri tra Jomtien e il sud di Pattaya, affacciata sulla costa orientale del golfo di Thailandia. Comprende quattro hotel a cinque stelle e un centro congressi, il Pattaya Exhibition and Convention Hall. Il gruppo è stato fondato nel 1973.

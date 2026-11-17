@@ -50,6 +50,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Attrap'Rêves: bubbelhotel in de Provence | StayAtNiche"
   metaDescription: "Slapen in een doorzichtige bubbel in het Provençaalse heuvelland bij Marseille: Attrap'Rêves is hét bubbelhotel van Frankrijk om sterren te kijken, vanaf $ 280."
+niche_feature: "Transparante bubbels (Zen, Jungle, Love Nature, Chic & Design, 1001 en andere) in Allauch; op de site worden ook accommodaties zonder bubbel aangeboden (Lov'nid, Aqua'Room, Tahitiaanse hutten en eekhoornhutten) en er is een aparte hutlocatie, A Fleur de Bois."
 ---
 
 Tien kilometer van station Marseille Saint-Charles en er toch helemaal los van ligt Attrap'Rêves in de garrigueheuvels boven Allauch: rozemarijn, inheemse eiken, mediterraan licht. Elke doorzichtige bubbel staat op een eigen stukje Provençaals struikgewas, afgeschermd van de buren. Je ziet geen andere bubbels. Je ziet het landschap, en 's nachts de hemel.

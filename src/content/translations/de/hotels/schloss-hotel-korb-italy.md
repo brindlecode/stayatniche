@@ -21,6 +21,7 @@ bestFor:
 seo:
   metaTitle: "Schloss Hotel Korb in Missian bei Bozen | StayAtNiche"
   metaDescription: "Schloss Hotel Korb in Missian, Südtirol: 4-Sterne-Superior-Hotel mit Schlosssuiten, Residenz, Hallen- und Freibad sowie Blick auf Bozen und die Dolomiten."
+niche_feature: "Die Schlosssuiten (rund 40 m², die meisten im historischen Wohnturm bzw. Schloss) und einige Komfort-Doppelzimmer liegen im Schloss; die Panoramasuiten, exklusiven Doppelzimmer sowie die Südtiroler und Gartensuiten befinden sich in der neueren Residence."
 ---
 
 Das Schloss Hotel Korb ist ein 4-Sterne-Superior-Hotel in Missian, in der Gemeinde Eppan in Südtirol, mit Blick auf Bozen und die Dolomiten. Das Haus beschreibt seine Unterkünfte als märchenhafte Nächte im Schloss und in der Residenz.

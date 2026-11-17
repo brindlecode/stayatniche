@@ -50,6 +50,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Manta Resort: camera subacquea a Pemba | StayAtNiche"
   metaDescription: "The Manta Resort, Tanzania: una camera sommersa 4 metri sotto l'Oceano Indiano al largo di Pemba, con i pesci della barriera ai vetri per tutta la notte."
+niche_feature: "Una Underwater Room: una suite galleggiante su tre livelli ancorata a circa 250 m dalla riva di Pemba, con la camera da letto doppia a quattro metri sotto la superficie del mare. Il resto del resort (ville, camere giardino) è alloggio normale."
 ---
 
 A quattro metri sotto la superficie dell'Oceano Indiano, con la vita della barriera corallina del canale di Pemba che scivola nel buio davanti alle finestre, le categorie alberghiere tradizionali smettono di avere senso. L'Underwater Room del Manta Resort è un'altra cosa: una camera da letto sommersa al largo di una delle isole meno visitate dell'Oceano Indiano occidentale, dove i pesci sono decisamente più curiosi di te di quanto tu lo sia di loro.

@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Real Castello: hotel nel castello a Verduno | StayAtNiche"
   metaDescription: "Real Castello a Verduno: hotel e ristorante in un castello del Piemonte dal 1953, con sei camere nell'ala storica e vista sulle colline delle Langhe."
+niche_feature: "Sei camere (2 suite, 3 junior suite, 1 doppia) ai piani superiori dell'ala del castello di Verduno; le altre camere sono nelle dépendance adiacenti Castalderia e Nando Foresteria."
 ---
 
 Real Castello di Verduno è un hotel con ristorante nelle Langhe, la terra del vino piemontese. Dal 1953 le camere occupano una parte del castello, la vicina Castalderia e una foresteria per gli ospiti chiamata Nando Foresteria.

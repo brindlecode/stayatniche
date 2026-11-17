@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Walworth Castle: kasteelhotel bij Darlington | StayAtNiche"
   metaDescription: "Walworth Castle bij Darlington: kasteel uit de 12e eeuw met kasteelkamers, hemelbedsuites in de torens en de King James Suite, op 18 acres terrein."
+niche_feature: "De kasteelkamers, suites met hemelbed (sommige in de torens) en de King James I Suite liggen in het hoofdkasteel; de kamers in het bijgebouw zitten in een aangrenzend modern gebouw, plus een Lodge bij de poort (6 gasten) en een vakantiecottage."
 ---
 
 Walworth Castle is een beschermd monument (Grade I) met wortels in de 12e eeuw, bij Darlington in County Durham. Het huidige huis werd rond 1600 voltooid, waarschijnlijk door Thomas Holt voor Thomas Jenison, op de plek van een eerder landhuis of kasteel van de familie Hansard. In de Tweede Wereldoorlog diende het later als krijgsgevangenenkamp. Nu is het een hotel dat zichzelf het enige kasteel van Darlington noemt.

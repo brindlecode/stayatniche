@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Hotel nei treni in Repubblica Ceca | StayAtNiche"
   metaDescription: "Vagoni ferroviari dismessi trasformati in monolocali alla stazione di Kovářská, sui Monti Metalliferi, a 850 metri di altitudine, con cucina e doccia calda."
+niche_feature: "Quattro vagoni ferroviari in disuso (Alois, Fanynka, Lesní, Přednostův) sul quarto binario inutilizzato della stazione di Kovářská, allestiti come monolocali isolati. Un quinto alloggio, Vechtrovna, è l'ex casa di un casellante, non un vagone."
 ---
 
 A Kovářská, una piccola stazione ferroviaria sulla cresta dei Monti Metalliferi, alcuni vagoni ferroviari in pensione si trovano sul quarto binario, inutilizzato, e ora fanno da alloggio notturno. La stazione si trova a 850 metri sul livello del mare, circondata dal bosco, e i proprietari descrivono il soggiorno come una dose di romanticismo da stazione in montagna.

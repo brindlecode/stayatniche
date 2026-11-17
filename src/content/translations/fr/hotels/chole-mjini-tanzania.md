@@ -49,6 +49,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Chole Mjini : cabane perchée en Tanzanie | StayAtNiche"
   metaDescription: "Avis sur le Chole Mjini : dormir dans une cabane perchée au milieu des ruines d'un comptoir arabe en Tanzanie, écolodge communautaire au cœur d'un parc marin."
+niche_feature: "Six cabanes dans les arbres construites à la main autour de baobabs et de ruines swahilies sur l'île de Chole, plus une maison de plain-pied (Sita). Moja est perchée haut dans un baobab vivant ; les autres se nichent parmi les ruines et le long du rivage."
 ---
 
 L'île de Chole garde ses secrets en silence. Depuis l'eau, elle n'apparaît que comme un enchevêtrement dense de baobabs et de mangroves surgissant de l'océan Indien, l'une des dizaines de petites îles disséminées dans le parc marin de l'île de Mafia. Mais posez le pied sur le rivage et avancez dans la forêt, et ce sont les ruines qui viennent à vous : de grands murs de pierre corallienne, des arches effondrées, des pièces sans toit envahies par les figuiers et une végétation épaisse. Ce sont les vestiges d'un comptoir commercial arabe du XIXe siècle, jadis l'un des établissements les plus prospères de la côte swahilie de Tanzanie, que la végétation de l'île reconquiert peu à peu.

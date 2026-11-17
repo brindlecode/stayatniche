@@ -18,6 +18,7 @@ bestFor:
 seo:
   metaTitle: "Royal Cliff Pattaya: hoteles en acantilados | StayAtNiche"
   metaDescription: "Royal Cliff Hotels Group en Pattaya: cuatro hoteles de cinco estrellas en un acantilado frente al golfo de Tailandia, con Beach Terrace y piscina infinita."
+niche_feature: "Solo el Royal Cliff Beach Terrace (89 habitaciones y suites) está construido en la pared del acantilado; los otros tres hoteles del grupo no se describen como alojamientos en acantilado."
 ---
 
 El Royal Cliff Hotels Group ocupa una finca de 64 acres entre Jomtien y el sur de Pattaya, frente a la costa oriental del golfo de Tailandia. Incluye cuatro hoteles de cinco estrellas y un centro de convenciones, el Pattaya Exhibition and Convention Hall. El grupo se fundó en 1973.

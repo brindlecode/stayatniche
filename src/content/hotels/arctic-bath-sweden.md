@@ -3,7 +3,7 @@ name: "Arctic Bath"
 category: floating-hotels
 destination: "Harads, Swedish Lapland"
 country: "Sweden"
-description: "A wooden driftwood ring floating on the Lule River at 66 degrees north, with six private cabins and a central pool open to the sky year-round — an ice bath when the river freezes solid in winter, a wild swim in summer. Architects Bertil Harström and Johan Kauppi built something that makes the Arctic feel entirely habitable."
+description: "A floating hotel on the Lule River in Swedish Lapland, with a circular main building inspired by log-driving history, 12 cabins (six of them floating on the river) and a spa built around saunas and cold bathing. Designed by Swedish architects Bertil Harström and Johan Kauppi."
 coverImage: /images/hotels/arctic-bath-sweden.jpg
 gallery:
   - /images/hotels/arctic-bath-sweden-2.jpg
@@ -11,16 +11,16 @@ gallery:
 priceRange: "$500 - $1,200"
 priceIndicator: 4
 highlights:
-  - "Floating driftwood ring hotel on the frozen Lule River"
-  - "Central outdoor pool becomes a natural ice bath in winter"
-  - "Six floating cabins and four forest cabins with river views"
+  - "Floating hotel on the Lule River, afloat in summer and frozen into the ice in winter"
+  - "Spa with two dry saunas, a steam sauna, two outdoor Jacuzzis and a cold bath"
+  - "12 cabins: six Floating Cabins, three Land Suites and three Land Family Cabins"
   - "Nordic spa and wellness treatments year-round"
 amenities:
-  - "Floating or forest cabin with panoramic river views"
-  - "Arctic spa with sauna, steam room, and ice bath"
+  - "Floating or land cabin with panoramic river views"
+  - "Spa with two dry saunas, a steam sauna, outdoor Jacuzzis and a cold bath"
   - "Restaurant serving Nordic cuisine from local ingredients"
-  - "Dog sledding and snowshoe excursions in winter"
-  - "Kayaking and fishing in summer"
+  - "Snowmobile, sled dog and ski tours in winter, subject to availability"
+  - "Canoe and stand-up paddleboard rental in summer"
   - "Northern lights wake-up service"
 bestFor:
   - "Wellness seekers"
@@ -55,10 +55,10 @@ niche_source_url: "https://arcticbath.se/hotel/"
 niche_verified_at: 2026-11-17
 ---
 
-Arctic Bath sits on the Lule River at 66 degrees north, and the design is the entire point. Architects Bertil Harström and Johan Kauppi built the hotel as a wooden ring, curved driftwood walls encircling a central pool open to the sky year-round. In winter, when the river freezes and the temperature drops to -25°C, that pool becomes an ice bath. In summer, when the midnight sun circles overhead, it's a wild swimming pool in the middle of a boreal river.
+Arctic Bath sits on the Lule River in Swedish Lapland, and the design is the entire point. Swedish architects Bertil Harström and Johan Kauppi designed it as a tribute to the region's timber heritage. At its heart is a circular main building inspired by log-driving history, home to the spa with its characteristic cold bath, saunas, Jacuzzis and treatment rooms, as well as the restaurant, lounge and bar. The structure floats during summer and is frozen into the ice in winter.
 
-Six floating cabins attach to the central ring, each designed for two, with panoramic windows framing the river and the overhanging birch and pine. The design is Nordic at its most functional: clean lines, pine, birch, stone, and the view as the dominant element. Each cabin has a private sauna, which at this latitude is a necessity rather than a luxury. Stepping from a 90-degree sauna into -20°C river air, with the northern lights overhead, is the experience this place is built for.
+There are 12 cabins in all. Six Floating Cabins stand along the shoreline, each a 24 m2 double room reached by a footpath over the water and encircled by a wooden deck of 57.5 m2; in summer they float freely on the Lule River and in winter they are frozen in. The other six are on land: three Land Suite Cabins (62 m2, for two, with a loft bedroom) and three Land Family Cabins (62 m2, for up to five guests). Interiors blend modern Scandinavian design with wood and stone. Breakfast and full access to the spa are included in every stay. The hotel says the northern lights often appear right above the property, visible from the terrace or the warm Jacuzzi after a sauna session.
 
-The spa focuses on Nordic traditions, birch whisk massage, cold immersion, Arctic clay, and the outdoor pools work year-round. The restaurant on the riverbank serves Lapland reindeer, freshwater fish from the Lule, foraged herbs and berries, bread baked daily in a wood oven. Small, well-chosen wine list.
+The spa is rooted in Swedish sauna culture and cold bathing, with two dry saunas, a steam sauna, two outdoor Jacuzzis and a cold bath, plus guided sauna rituals called Julevädno and an Arctic Blend experience in which guests create a personal botanical blend. Treatments can be booked at extra cost. In the restaurant, dinner is a set menu based on local ingredients, and breakfast and lunch are à la carte.
 
-Winter brings dog sledding and snowmobile excursions with the nearby Treehotel. The aurora season runs late August through March, and the hotel's open river position is one of the better viewing spots in the region, no trees blocking the sky in critical directions. Summer offers midnight sun kayaking and the quality of northern Swedish light in June and July, which rewards photographers who make the journey.
+In winter the hotel's activity list includes snowmobile tours, sled dog tours and ski tours, all subject to availability. The hotel gives the northern lights season as late August to April. In summer the sun shines 24 hours a day from late May to the middle of July, and canoes and stand-up paddle boards can be rented at the front desk.

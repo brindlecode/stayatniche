@@ -23,6 +23,7 @@ bestFor:
 seo:
   metaTitle: "Manshausen: zeehutten boven de poolcirkel | StayAtNiche"
   metaDescription: "Manshausen Island Resort in Noord-Noorwegen: zeehutten op palen boven de Noorse Zee, noorderlicht in het water, middernachtzon en kajakken vanaf je eigen hut."
+niche_feature: "Zeehutten op een privé-eiland: de oorspronkelijke hutten staan op oude stenen kades, de nieuwere steken uit over de zee; twee Towers aan de rand van de pier. Palen of pijlers worden niet genoemd. Geen ligging aan een klif."
 ---
 
 De Steigen-archipel laat zien hoe Noorwegen eruitziet als de bergen rechtstreeks de zee in zijn geduwd: een keten van steile, rotsige eilanden boven de poolcirkel, waar de muur van de Lofoten naar het noorden doorloopt en de fjorden van Nordland uitmonden in de Noorse Zee. Op 68° noorderbreedte is dit het echte Arctische Noorwegen. Niet het toeristische Noordpoolgebied van Tromsø, maar het Noorwegen van werkende vissersdorpen, waar de infrastructuur minimaal is en het landschap de ongetemde uitstraling heeft van een kust die nooit in de mode is geweest.

@@ -21,6 +21,7 @@ bestFor:
 seo:
   metaTitle: "Robins Nest: boomhuthotel in Hessen | StayAtNiche"
   metaDescription: "Robins Nest bij Witzenhausen: boomhutten op zo'n zeven meter hoogte, een huis op palen en boomtenten, vlak bij Schloss Berlepsch in Noord-Hessen."
+niche_feature: "Boomhutten (Birkenhaus op ca. 5 m, Stammhaus op ca. 7 m, kurkhuis, een bol die aan kabels tussen de bomen hangt), bereikbaar via trappen en bruggen, plus een paalwoning. De glampinglodge, blokhut en koepeltenten zijn geen boomhutten; de boomtenten hangen op ongeveer 130 cm hoogte."
 ---
 
 Robins Nest is een boomhuthotel bij Witzenhausen in Noord-Hessen, dicht bij Schloss Berlepsch. Oprichter Peter Becker begon met een tipi, en de eerste boomhutten openden in de zomer van 2015. Hij bouwt met hoogwaardig hout en gerecycled materiaal. Volgens het eigen plan van het terrein moet er een klein dorp van boomnesten ontstaan, verbonden door bruggen en tunnels.

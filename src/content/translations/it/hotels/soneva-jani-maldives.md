@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Soneva Jani: ville sull'acqua alle Maldive | StayAtNiche"
   metaDescription: "Soneva Jani, atollo di Noonu: ville sull'acqua con tetto apribile e scivolo privato in laguna, più Beach Villas e Signature Villas alle Maldive."
+niche_feature: "Le ville sull'acqua (con tetti retrattili e scivoli che scendono nella laguna) sorgono accanto alle ville sull'isola e sulla spiaggia e alle Signature island villas immerse nel verde; solo le water villas e le water reserves sono sull'acqua."
 ---
 
 La maggior parte dei resort di lusso estremo delle Maldive gareggia sulle dimensioni delle piscine a sfioro o sulla raffinatezza dei menu della spa. Soneva Jani ha scelto un'altra strada: come sarebbe una villa sull'acqua se l'architettura fosse costruita attorno al carattere specifico di questa laguna e di questo cielo? La risposta comprende pannelli del tetto apribili sopra la camera principale, uno scivolo d'acqua che collega la terrazza della camera direttamente al mare e uno schermo cinematografico all'aperto sospeso sulla laguna. È, nel senso più autentico, un resort che gioca.

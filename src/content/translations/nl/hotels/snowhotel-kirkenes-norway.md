@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Snowhotel Kirkenes: ijshotel in Noorwegen | StayAtNiche"
   metaDescription: "Slapen in een ijshotel bij de Russische grens: Snowhotel Kirkenes in Noorwegen, met ijssuites vol kunst, koningskrabsafari, huskytochten en het noorderlicht."
+niche_feature: "Snowhotel 365: suites van sneeuw en ijs, het hele jaar bevroren gehouden, bij Snow Resort Kirkenes (Bjørnevatn); het resort heeft ook warme Gamme-hutten als gewone accommodatie."
 ---
 
 Kirkenes ligt helemaal aan de rand van Noorwegen: een kleine havenstad aan de Varangerfjord, dicht bij de Russische en Finse grens, wat het een grensstadkarakter geeft dat uniek is in Scandinavië. Het licht is hier in beide richtingen extreem. De poolnacht, van eind november tot eind januari, brengt weken van volledige duisternis, terwijl de middernachtzon in juni en juli nooit helemaal ondergaat. Het is met andere woorden precies het soort plek waar een ijshotel volkomen logisch is, en Snowhotel Kirkenes, opgericht in 2006, haalt alles uit deze opmerkelijke ligging.

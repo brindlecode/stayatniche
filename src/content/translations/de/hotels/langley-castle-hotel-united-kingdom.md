@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Langley Castle Hotel: Burghotel bei Hexham | StayAtNiche"
   metaDescription: "Langley Castle bei Hexham: restaurierte Burg aus dem 14. Jahrhundert nahe Hadrianswall, mit neun Zimmern im Hauptgebäude und 19 hundefreundlichen Zimmern."
+niche_feature: "Neun Zimmer im Hauptschloss aus dem 14. Jahrhundert (Grade I denkmalgeschützt, Mauern bis zu sieben Fuß dick); weitere 19 Zimmer liegen in Castle View, nur einen kurzen Fußweg entfernt, dazu kommt die Villa Toll Bar Luxury Villa mit Selbstversorgung."
 ---
 
 Langley Castle ist ein restaurierter mittelalterlicher Turm im Tal des River South Tyne in Northumberland, drei Meilen südlich von Haydon Bridge. Er wurde 1364 in H-Form mit vier Geschossen und je einem Turm an jeder Ecke errichtet und ist als Grade-I-Denkmal eingestuft. Seine Mauern sind bis zu sieben Fuß dick, was dem Innenraum eine ganz besondere Ruhe verleiht.

@@ -53,6 +53,7 @@ seo:
   metaDescription: "Stammsitz der O'Brien-Dynastie, heute Irlands geschichtsträchtigstes Luxus-Schlosshotel: Golf, Falknerei und Spitzenküche auf 450 Acres im County Clare."
 closure:
   note: "Das Schloss ist wegen Renovierungsarbeiten vorübergehend geschlossen; Buchungen für das Schloss sind für Aufenthalte ab Mai 2027 möglich. Die Ferienlodges mit Selbstversorgung bleiben geöffnet."
+niche_feature: "Die Suiten liegen innerhalb der ursprünglichen Schlossmauern; wo die übrigen Zimmerkategorien des Schlosses liegen, gibt die Website nicht an. Das Schloss ist der Neubau im Stil der Neugotik von 1835 am Stammsitz der O'Briens und seit 1963 ein Hotel. Die Ferienlodges mit Selbstversorgung sind getrennt."
 ---
 
 Die Ahnenreihe der Familie O'Brien muss niemand erfinden. Der Clan, der im 16. Jahrhundert am Ufer des Dromoland Lake im County Clare eine Burg errichtete, stammte direkt von Brian Boru ab, dem Hochkönig, der die irischen Königreiche einte und 1014 in der Schlacht von Clontarf fiel. Das ist kein Werbetext, sondern eine dokumentierte Genealogie über mehr als tausend Jahre – und das merkt man an der Haltung des Schlosses. Hier ringt nichts um Bedeutung. Die Steintürme, der See, die formalen Gärten und der 450 Acres große Park strahlen die gelassene Autorität eines Ortes aus, der nie verkünden musste, was er ist.

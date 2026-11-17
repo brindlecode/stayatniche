@@ -1,16 +1,16 @@
 ---
 source: venice-simplon-orient-express
 destination: "Van Londen naar Venetië (en verder)"
-description: "De Venice Simplon-Orient-Express, een van de beroemdste treinen ter wereld, is een rijdend museum van art-decopracht uit de jaren twintig, met originele, gerestaureerde rijtuigen op de grote spoorroutes van Europa. Van Londen naar Venetië, van Parijs naar Istanbul of van de Zwitserse Alpen naar de Adriatische Zee: dit is reizen zoals in de gouden eeuw van het spoor, onthaast, prachtig en onvervangbaar."
+description: "De Venice Simplon-Orient-Express is een rijdend museum van art-decopracht uit de jaren twintig, met originele, gerestaureerde rijtuigen naar meer dan 15 Europese steden. Van Parijs naar Venetië of van Istanbul naar Parijs: dit is reizen zoals in de gouden eeuw van het spoor, onthaast en prachtig."
 highlights:
   - "Originele Pullman- en wagons-litsrijtuigen uit de jaren twintig en dertig, liefdevol gerestaureerd"
-  - "Route van Londen naar Venetië door de Zwitserse Alpen en langs de Italiaanse meren"
+  - "Parijs-Venetië, een van de kenmerkende reizen van de trein"
   - "Route van Parijs naar Istanbul, de oorspronkelijke reis van de Orient Express"
   - "Driegangendiner in het restauratierijtuig, met bediening in witte handschoenen"
   - "Nieuwe Italiaanse routes van La Dolce Vita Orient Express"
-  - "Privécabinesuites met art-decomarqueterie en authentiek interieur"
+  - "Suites en Historic Cabins in gerestaureerde rijtuigen uit de jaren twintig, met ambachtelijk meubilair"
 amenities:
-  - "Privécabinesuites met eigen badkamer (Grand Suites op bepaalde routes)"
+  - "Suites en Grand Suites met eigen badkamer; de Historic Cabins gebruiken gedeelde toiletten aan het einde van elk rijtuig"
   - "Driegangendiner in het restauratierijtuig"
   - "Barrijtuig met live pianomuziek"
   - "Volpension op nachtroutes"
@@ -25,30 +25,28 @@ bestFor:
 prosAndCons:
   pros:
     - "Opmerkelijke historische sfeer in echt originele rijtuigen"
-    - "De reis van Londen naar Venetië door de Alpen is een van de grote reiservaringen van Europa"
+    - "Parijs-Venetië is een van de kenmerkende reizen van de trein"
     - "Dineren aan boord is een belevenis op zich, uitzonderlijk eten in een buitengewone omgeving"
     - "Het gevoel van een bijzondere gelegenheid, van vertrek tot aankomst, is met geen andere vorm van reizen te vergelijken"
   cons:
     - "De cabines zijn klein naar moderne maatstaven, de romantiek hoort bij een tijd die intimiteit boven ruimte verkoos"
-    - "Zeer duur voor de duur van de reis, Londen-Venetië duurt ongeveer 31 uur"
+    - "Duur voor de duur van de reis, Parijs-Venetië is een reis van één nacht"
     - "Niet alle routes rijden het hele jaar, dus vooruit plannen is nodig"
     - "Het barrijtuig kan tot laat op de avond rumoerig zijn voor wie vroeg wil slapen"
 seasonalInfo:
   bestTime: Voorjaar (april–mei) en najaar (september–oktober) voor de mooiste Alpen- en Italiaanse landschappen
   peakSeason: Zomer (juni–augustus) en rond Valentijnsdag
-  notes: De VSOE rijdt het hele jaar op de vlaggenschiproute Londen–Venetië en in het seizoen op andere Europese routes. Het voorjaar biedt het frisste Alpenlandschap en een warme Italiaanse lente bij aankomst. De herfst brengt de prachtige kleuren van de Zwitserse bossen en het gouden Italiaanse najaarslicht. Een winterse reis kan magisch zijn, maar bij slecht zicht zie je minder van de Alpen.
+  notes: De VSOE rijdt naar meer dan 15 Europese steden, met routes die per seizoen verschillen. Het voorjaar biedt het frisste Alpenlandschap en een warme Italiaanse lente bij aankomst. De herfst brengt de prachtige kleuren van de Zwitserse bossen en het gouden Italiaanse najaarslicht. Een winterse reis kan magisch zijn, maar bij slecht zicht zie je minder van de Alpen.
 nearbyAttractions:
   - name: Station Venezia Santa Lucia
     distance: Eindpunt
-  - name: Station London Victoria
-    distance: Vertrekpunt
   - name: Paris Gare de l'Est
     distance: Op de route
   - name: Innsbruck en de Oostenrijkse Alpen
     distance: Op de route
 seo:
   metaTitle: "Venice Simplon-Orient-Express: luxe treinreis | StayAtNiche"
-  metaDescription: "Met de legendarische Venice Simplon-Orient-Express in originele rijtuigen uit de jaren twintig van Londen naar Venetië, door de Zwitserse Alpen. Vanaf $ 3.000."
+  metaDescription: "Met de legendarische Venice Simplon-Orient-Express in originele rijtuigen uit de jaren twintig van Parijs naar Venetië en meer. Vanaf $ 3.000."
 ---
 
 Ergens in de Zwitserse Alpen, laat in de middag, neemt de Venice Simplon-Orient-Express een lange bocht en zie je vanuit het raam de hele trein: een stoet crème- en marineblauwe rijtuigen tegen de bergen en een onwaarschijnlijk blauwe lucht. Op dat moment voelt het niet meer als vervoer. Dit is reizen als doel op zich, geen middel om ergens te komen, maar de bestemming zelf.
@@ -59,6 +57,6 @@ De cabines zijn klein naar de maatstaven van hedendaagse hotelkamers, en dat hoo
 
 Het restauratierijtuig is het sociale hart van de trein en de plek van enkele van de grootste genoegens. Aan tafels met wit linnen, kristallen glazen en zilveren bediening krijg je drie gangen geserveerd terwijl het landschap buiten voorbijtrekt: de Italiaanse meren in de schemering, het Franse platteland in het gouden middaglicht. Het eten is echt goed, geïnspireerd op regionale tradities langs de route en gepresenteerd met het theater dat bij de setting past. Het barrijtuig, met zijn glaspanelen van Lalique en een vaste pianist, wordt de plek waar gesprekken met vreemden de openhartigheid krijgen die alleen beweging en afstand kunnen oproepen.
 
-De route van Londen naar Venetië, 's ochtends vertrekkend van London Victoria, per ferry of door de tunnel het Kanaal over, instappen in Calais of Parijs, via de Brennerpas over de Alpen en de volgende middag aankomen in Venetië, doorkruist in één doorlopende reis enkele van de mooiste landschappen van Europa. De route naar Istanbul, die in het seizoen rijdt, volgt het oorspronkelijke traject door de Balkan en over de Bosporus naar de Aziatische oever.
+De route van Parijs naar Venetië is een van de kenmerkende reizen van de trein, een reis van één nacht tussen de twee steden. De reis van Istanbul naar Parijs duurt vijf nachten, met stops in Boekarest, Sinaia en Boedapest op weg naar Parijs.
 
-Boek ver vooruit. De VSOE is een van de meest gewilde reiservaringen ter wereld, en de populairste routes en data zijn vele maanden van tevoren uitverkocht.
+Boek ver vooruit. De populairste routes en data zijn vele maanden van tevoren uitverkocht.

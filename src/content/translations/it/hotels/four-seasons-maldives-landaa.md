@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Four Seasons Landaa Giraavaru, Maldive | StayAtNiche"
   metaDescription: "Ville sull’acqua nell’atollo di Baa, Riserva UNESCO, a pochi minuti dalle mante della baia di Hanifaru, con biologi marini residenti e pavimenti di vetro."
+niche_feature: "La scheda tecnica ufficiale elenca 103 ville, tra cui Water villas e Beach villas; le pagine degli alloggi di fourseasons.com hanno restituito un errore 403 e la Forbes Travel Guide descrive ville sull'acqua accanto alle ville sulla spiaggia. Il numero di ville sull'acqua non è indicato."
 ---
 
 Ciò che distingue il Landaa Giraavaru dalle altre ville sull’acqua delle Maldive non è la qualità degli alloggi, pur notevole, ma il luogo in cui si trova e ciò che prende sul serio. L’atollo di Baa è Riserva della biosfera UNESCO e custodisce alcuni degli ambienti marini più ricchi dell’Oceano Indiano. La baia di Hanifaru, a breve distanza in barca dal resort, ospita i più grandi raduni di mante in alimentazione conosciuti al mondo: tra giugno e novembre arrivano centinaia di mante di barriera, che si nutrono in formazioni circolari senza eguali in nessun altro luogo del pianeta. Osservarle con maschera e boccaglio è una delle esperienze naturalistiche più spiazzanti che si possano vivere.

@@ -52,6 +52,7 @@ nearbyAttractions:
 seo:
   metaTitle: "ICEHOTEL 365: el hotel de hielo original de Laponia | StayAtNiche"
   metaDescription: "El hotel de hielo original, reconstruido cada invierno desde 1990 en la Laponia sueca: suites artísticas a -5 °C y auroras. Desde 500 US$ la noche."
+niche_feature: "Habitaciones de hielo y suites de arte en ICEHOTEL Winter (dic.-abr.), además de las suites de arte y deluxe de ICEHOTEL 365, abiertas todo el año y hechas de hielo y nieve (18 suites, -5 °C); las habitaciones con calefacción y las cabañas, en edificios aparte, son alojamientos convencionales."
 ---
 
 Todo empieza con el río. El Torne, que marca la frontera entre Suecia y Finlandia en su descenso hacia el golfo de Botnia, se congela cada noviembre hasta más de un metro de profundidad: una masa de hielo excepcionalmente puro y cristalino especialmente adecuado para fines arquitectónicos. De este río extrajeron en 1989 los primeros bloques Yngve Bergqvist y un equipo de artistas japoneses, y con ellos construyeron, de forma experimental y sin ninguna certeza de éxito, el primer hotel del mundo hecho íntegramente de hielo.

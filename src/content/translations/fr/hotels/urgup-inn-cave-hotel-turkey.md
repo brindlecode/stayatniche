@@ -23,6 +23,7 @@ bestFor:
 seo:
   metaTitle: "Urgup Inn Cave Hotel à Ürgüp, Cappadoce | StayAtNiche"
   metaDescription: "Urgup Inn Cave Hotel à Ürgüp : hôtel familial dans une maison transformée, dix chambres avec salle de bains, petit-déjeuner inclus, au cœur d’Ürgüp."
+niche_feature: "Maison familiale transformée en hôtel de 10 chambres ; seule la chambre 105 (Jacuzzi Deluxe Cave Room, « Mağara Oda », une chambre voûtée formée de deux chambres réunies) est désignée comme chambre troglodyte. Les autres chambres sont des chambres standard avec salle de bain privative."
 ---
 
 Urgup Inn Cave Hotel n’a qu’un caractère troglodytique léger, et sa page doit être lue en ce sens. C’est un hôtel confortable et familial, installé dans une ancienne maison familiale au cœur d’Ürgüp. Sur ses dix chambres, une seule, la chambre 105 (une Jacuzzi Deluxe Cave Room), est présentée comme troglodytique. Les autres sont des chambres aux décors traditionnels, avec salle de bains privative.

@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Castello la Leccia: agroturismo en Chianti | StayAtNiche"
   metaDescription: "Castello la Leccia en el Chianti Classico: agroturismo ecológico con 12 habitaciones, spa, restaurante y piscina panorámica en un castillo documentado desde 1077."
+niche_feature: "Las habitaciones del hotel están en el castillo (documentado desde 1077, convertido en una especie de villa en el siglo XVIII y restaurado en 2012); el apartamento contiguo Casa La Leccia (5 dobles) es un edificio independiente. El sitio nunca indica con exactitud en qué edificio están las 12 habitaciones."
 ---
 
 Castello la Leccia es una finca ecológica y un encantador agroturismo en el Chianti Classico, cerca de Castellina in Chianti, en la provincia de Siena. El castillo es el corazón de la propiedad: habitaciones, salones, restaurante, piscina, spa y otros servicios están a disposición de los huéspedes.

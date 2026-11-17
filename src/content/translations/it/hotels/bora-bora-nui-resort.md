@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Bora Bora Nui, bungalow sull’acqua | StayAtNiche"
   metaDescription: "Bungalow sull’acqua sulla barriera esterna di Bora Bora, con vista sul monte Otemanu, pavimenti di vetro e snorkeling tra squali e razze dalla terrazza privata."
+niche_feature: "Il resort (oggi Conrad Bora Bora Nui, 114 ville secondo la Forbes Travel Guide) è composto soprattutto da bungalow sull'acqua, con alcune ville fronte spiaggia, nel giardino e sulla collina. Il sito ufficiale di Hilton ha restituito un errore 403."
 ---
 
 Bora Bora è il punto zero dei bungalow sull’acqua: la formula è nata qui, e l’isola resta il suo argomento più convincente. Al centro si innalza il picco basaltico del monte Otemanu, 727 metri, circondato da una barriera corallina che racchiude una laguna il cui turchese l’ha resa uno degli specchi d’acqua più fotografati della Terra. È il Pacifico del Sud esattamente come lo promettono le foto, cosa più rara di quanto sembri.

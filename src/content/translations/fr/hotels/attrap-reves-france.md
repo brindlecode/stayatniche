@@ -50,6 +50,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Attrap'Rêves : nuit dans une bulle en Provence | StayAtNiche"
   metaDescription: "Avis sur Attrap'Rêves : dormir dans une bulle transparente près de Marseille, dans la garrigue provençale, sous les étoiles. À partir de 280 $ la nuit."
+niche_feature: "Bulles transparentes (Zen, Jungle, Love Nature, Chic & Design, 1001 et d'autres) à Allauch ; le site propose aussi des hébergements qui ne sont pas des bulles (Lov'nid, Aqua'Room, cabanes tahitiennes et cabanes écureuil) ainsi qu'un site distinct consacré aux cabanes, A Fleur de Bois."
 ---
 
 À dix kilomètres de la gare Saint-Charles de Marseille et pourtant à mille lieues de son agitation, Attrap'Rêves s'est installé dans les collines de garrigue qui dominent Allauch : romarin, chênes verts, lumière méditerranéenne. Chaque bulle transparente occupe sa propre parcelle de maquis provençal, à l'abri du regard des voisins. Vous ne voyez pas les autres bulles. Vous voyez la campagne et, la nuit, le ciel.

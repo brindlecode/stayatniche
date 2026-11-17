@@ -47,6 +47,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Song Saa Private Island, villas sobre el agua | StayAtNiche"
   metaDescription: "Dos islas privadas en el archipiélago de Koh Rong (Camboya), con villas sobre el agua encima de una reserva marina protegida. Desde 1.500 US$ por noche."
+niche_feature: "Overwater Villas de uno y dos dormitorios sobre pilotes en el golfo de Tailandia; las 24 villas del resort incluyen además villas en la selva, villas con vista al mar y una Royal Villa, todas en tierra firme."
 ---
 
 La costa de Camboya no recibe la atención que merece. El archipiélago de Koh Rong, un conjunto de islas vírgenes del golfo de Tailandia frente a la costa de Camboya, alberga algunos de los arrecifes de coral y bosques más intactos del Sudeste Asiático, y Song Saa Private Island ocupa dos de sus islas más pequeñas y protegidas, Koh Ouen y Koh Bong, unidas por una pasarela de madera y dedicadas por completo a un único resort.

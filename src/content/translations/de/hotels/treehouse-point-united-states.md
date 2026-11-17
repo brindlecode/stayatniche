@@ -21,6 +21,7 @@ bestFor:
 seo:
   metaTitle: "Treehouse Point: Baumhäuser in Washington | StayAtNiche"
   metaDescription: "Treehouse Point bei Issaquah: sieben Baumhäuser in einem Wald mit alten Bäumen am Raging River, dazu Lodge-Suite, Hütte und umgebauter Armee-Lkw."
+niche_feature: "Sieben Baumhäuser in oder an lebenden Bäumen befestigt (z. B. Trillium in einer Zeder, Ananda von zwei Douglasien getragen); dazu eine Lodge-Suite, eine Hütte und ein umgebauter Armeelastwagen, die keine Baumhäuser sind."
 ---
 
 Treehouse Point ist ein Bed & Breakfast mit sieben Baumhäusern in einem Wald mit alten Bäumen an den Ufern eines quellgespeisten Flusses im Snoqualmie Valley im Bundesstaat Washington. Die Baumhäuser sind in und um lebende Bäume gebaut, was laut den Besitzern jeden Bau mitgeprägt hat. Das letzte Baumhaus, Ananda, wurde 2021 fertiggestellt.

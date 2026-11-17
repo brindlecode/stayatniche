@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Treehotel, cabañas en los árboles en Laponia | StayAtNiche"
   metaDescription: "Treehotel, en Harads (Laponia sueca): nueve habitaciones de autor suspendidas entre los pinos, del cubo de espejo al OVNI, con auroras boreales en invierno."
+niche_feature: "Nueve habitaciones en los árboles de diseño, independientes (Mirrorcube, UFO, Bird's Nest, Cabin, 7th Room, etc.), entre los pinos; la Guesthouse, aparte (seis habitaciones tradicionales), no es una cabaña en los árboles."
 ---
 
 Las habitaciones del Treehotel son creaciones únicas de distintos arquitectos y equipos de diseño. Se alzan en el bosque del valle del río Lule, a las afueras del pueblo de Harads, que se encuentra a unos 50 kilómetros al sur del Círculo Polar Ártico.

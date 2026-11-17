@@ -19,6 +19,7 @@ bestFor:
 seo:
   metaTitle: "Ottoman Cave Suites: hotel cueva en Göreme | StayAtNiche"
   metaDescription: "Ottoman Cave Suites en Göreme: pequeño hotel de 13 habitaciones, ocho excavadas en la roca, con desayuno en terraza y vistas a las chimeneas de hadas."
+niche_feature: "13 habitaciones: 8 excavadas en la roca (kaya oyma) y 5 habitaciones estándar de piedra; cinco de las suites excavadas en la roca dan al castillo de Uçhisar."
 ---
 
 Ottoman Cave Suites se describe como un pequeño hotel excavado en la roca, acogedor y cómodo, en una zona con buen acceso al centro de Göreme y a muchos de los lugares de interés de Capadocia. Tiene 13 habitaciones en total: ocho excavadas en la roca y cinco estándar de piedra. Así que la mayor parte de la estancia transcurre en habitaciones cueva, aunque no todas lo sean.
@@ -33,6 +34,6 @@ El hotel anuncia vistas panorámicas sobre los valles, las montañas y el volcá
 
 ## Notas prácticas
 
-La dirección indicada es Avcılar Mahallesi, Okul Sokak No: 6, 50180 Göreme. El hotel es de reciente apertura, así que es un establecimiento nuevo y no una casa con mucha trayectoria.
+La dirección indicada es Avcılar Mahallesi, Okul Sokak No: 6, 50180 Göreme.
 
 Una buena opción si quieres una habitación cueva en Göreme, en un hotel lo bastante pequeño como para sentirse personal. Pide expresamente una habitación excavada en la roca al reservar.

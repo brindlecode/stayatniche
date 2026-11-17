@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Real Castello: hotel castillo en Verduno | StayAtNiche"
   metaDescription: "Real Castello en Verduno, Piamonte: hotel y restaurante en un castillo desde 1953, con habitaciones en el ala histórica y vistas a las Langhe."
+niche_feature: "Seis habitaciones (2 suites, 3 junior suites y 1 doble) en las plantas superiores del ala del castillo de Verduno; las demás habitaciones están en los anexos contiguos Castalderia y Nando Foresteria."
 ---
 
 El Real Castello di Verduno es un hotel con restaurante en las Langhe, la tierra del vino de Piamonte. Desde 1953, las habitaciones ocupan parte del castillo, la contigua Castalderia y un anexo para huéspedes llamado Nando Foresteria.

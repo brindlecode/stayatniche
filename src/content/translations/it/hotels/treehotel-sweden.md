@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Treehotel: case sugli alberi in Lapponia | StayAtNiche"
   metaDescription: "Treehotel, Lapponia svedese: nove camere d'autore sospese tra i pini a Harads, in Svezia, dal Mirrored Cube all'UFO. Aurora boreale in inverno."
+niche_feature: "Nove tree room di design indipendenti (Mirrorcube, UFO, Bird's Nest, Cabin, 7th Room e altre) tra i pini; la Guesthouse separata (sei camere storiche) non è una casa sull'albero."
 ---
 
 Le camere del Treehotel sono creazioni uniche di architetti e studi di design diversi. Sorgono nella foresta della valle del fiume Lule, alle porte del villaggio di Harads, che si trova a circa 50 chilometri a sud del Circolo polare artico.

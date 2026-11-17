@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Sorrisniva Igloo Hotel, hotel de hielo en Alta | StayAtNiche"
   metaDescription: "Sorrisniva Igloo Hotel, en Alta: hotel de hielo reconstruido cada invierno a 70° norte, en la zona de auroras de Finnmark, abierto del 20 dic. al 31 mar."
+niche_feature: "Hotel iglú de hielo y nieve que se reconstruye cada invierno (del 20 de diciembre al 31 de marzo), con habitaciones iglú, habitaciones familiares y suites temáticas; el Arctic Wilderness Lodge, aparte, ofrece habitaciones convencionales con calefacción."
 ---
 
 El Sorrisniva Igloo Hotel se construye cada invierno en las orillas heladas del río Alta, a 70 grados norte, y la ubicación cumple un papel fundamental. Alta se encuentra en plena meseta de Finnmark, es la ciudad de cierto tamaño más septentrional de Noruega, y sus lecturas del índice Kp alcanzan con regularidad el umbral en el que la aurora boreal no es solo posible, sino previsible. Es uno de los mejores puntos de Europa para ver auroras, con un hotel de verdad construido a su alrededor y no una simple frase de marketing pegada encima.

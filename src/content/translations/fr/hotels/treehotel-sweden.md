@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Treehotel : cabanes d'architectes en Laponie | StayAtNiche"
   metaDescription: "Treehotel, à Harads en Laponie suédoise : neuf cabanes dans les arbres signées par des architectes, dont le célèbre cube miroir, et aurores boréales en hiver."
+niche_feature: "Neuf chambres dans les arbres, conçues par des designers et indépendantes (Mirrorcube, UFO, Bird's Nest, Cabin, 7th Room, etc.), au milieu des pins ; la Guesthouse, distincte (six chambres patrimoniales), n'est pas une cabane dans les arbres."
 ---
 
 Les chambres du Treehotel sont chacune une création unique d'architectes ou d'équipes de designers différents. Elles se dressent dans la forêt de la vallée de la Lule, aux abords du village de Harads, situé à environ 50 kilomètres au sud du cercle polaire.

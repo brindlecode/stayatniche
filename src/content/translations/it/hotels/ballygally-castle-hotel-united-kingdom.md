@@ -24,6 +24,7 @@ bestFor:
 seo:
   metaTitle: "Ballygally Castle Hotel: hotel nei castelli | StayAtNiche"
   metaDescription: "Il Ballygally Castle Hotel, sulla costa di Antrim, occupa un castello del 1625 con 54 camere, alcune nella torre originale che domina la baia di Ballygally."
+niche_feature: "Hotel in un castello del XVII secolo; le Tower Bedrooms si trovano nell'edificio originale del castello, mentre l'hotel ha 54 camere in tutto. La fonte non indica quante siano le camere nel castello."
 ---
 
 Ballygally Castle sorge in fondo alla baia di Ballygally, sulla costa di Antrim, a circa tre miglia a nord di Larne, con la strada costiera e il Mare d'Irlanda proprio di fronte. Il castello fu costruito nel 1625 da James Shaw, uno scozzese di Greenock, e ancora oggi è utilizzato come residenza. Oggi è un hotel a quattro stelle gestito da Hastings Hotels, che lo acquistò nel 1966.

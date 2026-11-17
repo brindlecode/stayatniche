@@ -50,6 +50,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Hapuku Lodge : cabanes perchées à Kaikōura | StayAtNiche"
   metaDescription: "Avis sur Hapuku Lodge : cabanes de luxe perchées à 8 m au-dessus des manukas, face aux Kaikōura Ranges et au Pacifique, en Nouvelle-Zélande."
+niche_feature: "Tree Houses (une chambre, et une cabane familiale sur deux niveaux) surélevées à 10 m dans la canopée de kanuka et de puriri indigènes ; les suites du lodge et l'Olive House sont des chambres ordinaires. Le site officiel n'explique pas comment les cabanes sont construites."
 ---
 
 La vue depuis la terrasse d'une cabane de Hapuku est d'une beauté presque injuste. À l'ouest, les Kaikōura Ranges s'élèvent brusquement de la plaine côtière, leurs crêtes enneigées une bonne partie de l'année. À l'est, le Pacifique Sud s'étire sans obstacle jusqu'à l'horizon. Sous vos pieds, huit mètres plus bas, les manukas indigènes ondulent dans la brise marine, leurs feuilles vert argenté captant la lumière de l'après-midi. Le genre de vue qui vous fait vous demander pourquoi vous dormez encore au rez-de-chaussée.

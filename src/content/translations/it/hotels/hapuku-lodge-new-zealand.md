@@ -50,6 +50,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Hapuku Lodge, case sugli alberi a Kaikōura | StayAtNiche"
   metaDescription: "A 8 metri d’altezza tra i manuka, con vista sulle Kaikōura Ranges e sul Pacifico: Hapuku Lodge offre le case sugli alberi più spettacolari della Nuova Zelanda."
+niche_feature: "Tree Houses (con una camera da letto e una casa familiare sull'albero su due piani) sollevate di 10 m nella chioma di kanuka e puriri autoctoni; le suite del lodge e la Olive House sono camere normali. Il sito ufficiale non dice come siano costruite le case sugli alberi."
 ---
 
 La vista dalla terrazza di una casa sugli alberi di Hapuku è di una bellezza quasi ingiusta. A ovest, le Kaikōura Ranges si alzano bruscamente dalla pianura costiera, con le creste più alte coperte di neve per buona parte dell’anno. A est, il Pacifico del Sud si stende senza interruzioni fino all’orizzonte. Sotto di te, otto metri più in basso, i manuka autoctoni ondeggiano nella brezza marina, con le foglie verde argento che catturano la luce del pomeriggio. È il tipo di vista che ti fa chiedere perché tu abbia mai dormito a livello del suolo.

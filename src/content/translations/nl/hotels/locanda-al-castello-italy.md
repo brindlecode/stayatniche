@@ -23,6 +23,7 @@ seo:
   metaTitle: "Charmehotel Locanda al Castello in Cividale | StayAtNiche"
   metaDescription: "Locanda al Castello in Cividale del Friuli: charmehotel met restaurant, wellnesscentrum met binnenzwembad en panoramisch uitzicht op de Karnische Alpen."
 niche_note: "Het “kasteel” is geen middeleeuwse vesting: het landhuis is een villa met kantelen in kasteelstijl uit het midden van de 19e eeuw, gebouwd als jezuïetenvilla Betlemme. De kamers zijn verdeeld over het landhuis en een moderne wellnessvleugel."
+niche_feature: "27 kamers, verdeeld over het ‘antico maniero’ (een villa in kasteelstijl met kantelen, het voormalige jezuïetenklooster ‘Villa Betlemme’ uit het midden van de 19e eeuw) en een moderne wellnessvleugel; het aantal per vleugel wordt niet genoemd."
 ---
 
 Locanda al Castello combineert een hotel, een restaurant en een wellnesscentrum op één locatie, op enkele minuten van het centrum van Cividale del Friuli. De omgeving is een kasteelcomplex met kantelen en panoramische terrassen, die ook als decor voor bruiloften dienen.

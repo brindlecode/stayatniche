@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Bora Bora Nui: Wasserbungalows in der Südsee | StayAtNiche"
   metaDescription: "Geräumige Wasserbungalows am Außenriff von Bora Bora mit Blick auf den Mount Otemanu, Glasböden und Schnorcheln mit Haien und Rochen direkt vom eigenen Deck."
+niche_feature: "Das Resort (heute Conrad Bora Bora Nui, 114 Villen laut Forbes Travel Guide) besteht überwiegend aus Wasserbungalows, dazu kommen einige Strand-, Garten- und Hangvillen. Die offizielle Hilton-Website lieferte einen 403-Fehler."
 ---
 
 Bora Bora ist der Ursprungsort des Wasserbungalows – das Format wurde hier erfunden, und die Insel ist bis heute sein überzeugendstes Argument. In der Mitte ragt der 727 Meter hohe Basaltgipfel des Mount Otemanu auf, umgeben von einem Barriereriff, das eine Lagune umschließt, deren Türkis sie zu einem der meistfotografierten Gewässer der Erde gemacht hat. Das ist die Südsee, wie die Fotos sie versprechen – und das ist seltener, als es klingt.

@@ -33,7 +33,7 @@ Der Tag beginnt mit einem großzügigen Frühstück, auf das das Schloss stolz i
 
 ## Rund um das Schloss
 
-Das Schloss steht mitten in Casamassella an der Piazza Vittorio Emanuele II und richtet außerdem Veranstaltungen und Hochzeiten aus. Die Küste des Salento bei Otranto ist nah, sodass sich ein Wechsel zwischen dem ruhigen Schloss und den Stränden und Altstädten am Absatz des italienischen Stiefels leicht gestalten lässt.
+Das Schloss steht mitten in Casamassella an der Piazza Vittorio Emanuele II und richtet außerdem Veranstaltungen und Hochzeiten aus. Auf ihrer Website bietet das Schloss sich auch zur exklusiven Nutzung als Selbstversorger-Schlossurlaub an („Rent a castle“), es lohnt sich also nachzufragen, ob man statt eines einzelnen Zimmers das ganze Gebäude mieten kann. Die Küste des Salento bei Otranto ist nah, sodass sich ein Wechsel zwischen dem ruhigen Schloss und den Stränden und Altstädten am Absatz des italienischen Stiefels leicht gestalten lässt.
 
 ## Vor der Anreise
 

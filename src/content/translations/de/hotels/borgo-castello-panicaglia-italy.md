@@ -21,6 +21,7 @@ bestFor:
 seo:
   metaTitle: "Borgo Castello Panicaglia: Schloss in Umbrien | StayAtNiche"
   metaDescription: "Borgo Castello Panicaglia in Umbrien: Gästehaus im Schloss von 1266, mit Pool, Restaurant, Kochkursen und Zimmern mit eigenen Namen, 800 Meter hoch gelegen."
+niche_feature: "Zimmer in einem Schloss aus dem Jahr 1266 im Borgo von Panicaglia; die Website listet rund 17 benannte Zimmer und Suiten sowie das Ferienhaus Michele, das an das Hotel angrenzt und nicht im Schloss liegt."
 ---
 
 Borgo Castello Panicaglia befindet sich in einem Schloss aus dem Jahr 1266 im kleinen mittelalterlichen Dorf Panicaglia in Umbrien. Es liegt auf 800 Metern Höhe mit Blick über die umbrischen Berge und wird als Gästehaus geführt, in dem Sie am Familienleben teilhaben können: einen Blick in die Küche werfen, im Gemüsegarten mithelfen oder sich in eine der vielen Lounge-Ecken zurückziehen.

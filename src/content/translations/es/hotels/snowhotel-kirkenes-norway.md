@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Snowhotel Kirkenes, hotel de hielo en Noruega | StayAtNiche"
   metaDescription: "Snowhotel Kirkenes: suites de hielo decoradas por artistas en el Ártico noruego, junto a la frontera rusa, con safaris del cangrejo real y trineos de huskies."
+niche_feature: "Snowhotel 365: suites de nieve y hielo, mantenidas congeladas todo el año, en el Snow Resort Kirkenes (Bjørnevatn); el complejo también tiene cabañas Gamme con calefacción como alojamiento convencional."
 ---
 
 Kirkenes se encuentra en el extremo mismo de Noruega, una pequeña ciudad portuaria del Varangerfjord cerca de las fronteras rusa y finlandesa, una ubicación que le da un aire fronterizo único en Escandinavia. La luz aquí es extrema en ambos sentidos: la noche polar, de finales de noviembre a finales de enero, trae semanas de oscuridad total, mientras que el sol de medianoche de junio y julio nunca llega a ponerse del todo. Es, en otras palabras, exactamente el tipo de lugar donde un hotel de hielo tiene todo el sentido, y el Snowhotel Kirkenes, fundado en 2006, ha sabido sacar el máximo partido a su extraordinaria ubicación.

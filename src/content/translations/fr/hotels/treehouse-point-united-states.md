@@ -21,6 +21,7 @@ bestFor:
 seo:
   metaTitle: "Treehouse Point : cabanes dans les arbres | StayAtNiche"
   metaDescription: "Treehouse Point près d'Issaquah : sept cabanes dans une forêt ancienne au bord de la Raging River, une suite de lodge et un camion militaire aménagé."
+niche_feature: "Sept cabanes dans les arbres, installées dans des arbres vivants ou fixées à eux (par exemple Trillium dans un cèdre, Ananda soutenue par deux sapins de Douglas) ; on trouve aussi une suite de lodge, une cabane et un camion militaire transformé, qui ne sont pas des cabanes dans les arbres."
 ---
 
 Treehouse Point est un bed and breakfast composé de sept cabanes dans une forêt ancienne, sur les rives d'une rivière alimentée par des sources, dans la vallée de Snoqualmie, dans l'État de Washington. Les cabanes sont construites dans et autour d'arbres vivants, ce qui, selon les propriétaires, a guidé chaque construction. La dernière, Ananda, a été achevée en 2021.

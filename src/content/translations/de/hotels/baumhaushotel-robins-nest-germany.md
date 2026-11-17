@@ -21,6 +21,7 @@ bestFor:
 seo:
   metaTitle: "Robins Nest: Baumhaushotel in Hessen | StayAtNiche"
   metaDescription: "Robins Nest bei Witzenhausen: Baumhäuser rund sieben Meter hoch im Kronendach, ein Pfahlhaus und Baumzelte nahe Schloss Berlepsch in Nordhessen."
+niche_feature: "Baumhäuser (Birkenhaus ca. 5 m, Stammhaus ca. 7 m, Korkhaus, an Seilen zwischen Bäumen aufgehängte Kugel), erreichbar über Treppen und Brücken, dazu ein Stelzenhaus. Glamping-Lodge, Blockhütte und Kuppeln sind keine Baumhäuser; die Baumzelte hängen etwa 130 cm über dem Boden."
 ---
 
 Robins Nest ist ein Baumhaushotel bei Witzenhausen im Norden Hessens, nahe Schloss Berlepsch. Sein Gründer Peter Becker begann mit einem Tipi, die ersten Baumhäuser öffneten im Sommer 2015. Er baut mit hochwertigem Holz und recycelten Materialien. Laut Plan des Hotels soll ein kleines Dorf aus Baumnestern entstehen, verbunden durch Brücken und Tunnel.

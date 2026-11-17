@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Anantara Kihavah: onderwaterrestaurant | StayAtNiche"
   metaDescription: "Dineren 6 meter onder de zee in restaurant SEA en verblijven in villa's met eigen zwembad: Anantara Kihavah in het Baa-atol op de Malediven."
+niche_feature: "SEA is een onderwaterrestaurant (alleen als ervaring). Er wordt geslapen in 80 poolvilla's, sommige boven het water op palen en bereikbaar via een steiger, andere aan het strand. Geen onderwaterslaapkamers gevonden. Officiële site geblokkeerd (403)."
 ---
 
 Anantara Kihavah bouwt zijn kenmerkende belevenissen rond vier namen: FIRE (de grill), SKY (de sterrenwacht op het dak), ICE (de wijnkelder) en SEA. SEA is de reden waarom de meeste mensen boeken.

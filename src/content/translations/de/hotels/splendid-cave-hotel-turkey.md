@@ -18,6 +18,7 @@ bestFor:
 seo:
   metaTitle: "Splendid Cave Hotel: Höhlenhotel Ortahisar | StayAtNiche"
   metaDescription: "Splendid Cave Hotel in Ortahisar: zehn von zwölf Zimmern sind Höhlenzimmer, dazu zwei Standardzimmer mit TV, Telefon und Minibar in Kappadokien."
+niche_feature: "Die offizielle Zimmerliste führt 10 von 12 Zimmern als Cave Rooms auf (Standard, Deluxe, Suit, Superior Suit); die Zimmer 203 und 401 sind einfache Standard-Doppelzimmer. Die Website beschreibt nirgends, dass die Zimmer in den Fels gehauen sind, sondern nennt nur die Bezeichnung „Cave Room“."
 ---
 
 Das Splendid Cave Hotel in Ortahisar ist ein gemischtes Haus, und das sollten Sie gleich zu Beginn wissen. Die Website führt zwölf Zimmer. Zehn davon tragen im Namen den Zusatz „cave room“, zwei, die Zimmer 203 und 401, sind als einfache Standard Double Rooms gelistet. Das Höhlenerlebnis gilt also für die meisten, aber nicht für alle Zimmer.

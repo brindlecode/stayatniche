@@ -8,7 +8,7 @@ priceRange: "Rates vary"
 highlights:
   - "Seven rooms, all described as historic cave rooms"
   - "Terraces and jacuzzi suites"
-  - "Room sizes of 30 to 40 square metres on the rooms listed"
+  - "Room sizes of 30 to 50 square metres on the rooms listed"
   - "Free Wi-Fi, breakfast and 24-hour reception"
   - "Calm atmosphere the hotel describes as spiritual"
 amenities:
@@ -49,7 +49,7 @@ Romantic Cave Hotel is a seven-room hotel in Ürgüp in which every room is desc
 
 ## The rooms
 
-The rooms listed on the website include Oublite and Osiana at 30 square metres each, and Katbatuka and Helen at 40 square metres each; there is also a Master Room. All are marketed with views of Cappadocia. The hotel emphasises jacuzzi suites and terraces. Tea, coffee, Wi-Fi and a special breakfast are listed as in-room or included items.
+The rooms listed on the website include Oublite and Osiana at 30 square metres each, Katbatuka and Helen at 40 square metres each, and Eros and Agape at 50 square metres each; there is also a Master Room. All are marketed with views of Cappadocia. The hotel emphasises jacuzzi suites and terraces. Tea, coffee, Wi-Fi and a special breakfast are listed as in-room or included items.
 
 ## Service
 

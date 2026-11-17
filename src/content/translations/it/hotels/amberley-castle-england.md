@@ -51,6 +51,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Amberley Castle, castello medievale inglese | StayAtNiche"
   metaDescription: "Saracinesca funzionante, merlature originali e camere nelle torri: Amberley Castle, il castello medievale più romantico d’Inghilterra, è a un’ora da Londra."
+niche_feature: "Autentico castello medievale cinto da mura; le sue 19 camere si trovano in diverse parti della tenuta: Manor House, Tower House Mews e le Gatehouse Suites nella Bishopric Dairy del XVII secolo, appena fuori dalle mura."
 ---
 
 La saracinesca di Amberley Castle si chiude alle tue spalle con un rumore, ferro sulla pietra, lento e pesante, che toglie ogni dubbio su dove ti trovi. Sei dentro un castello del XII secolo. Il mondo esterno è dall’altra parte di 60 piedi di mura di cinta medievali. E non è una metafora.

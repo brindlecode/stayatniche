@@ -18,6 +18,7 @@ bestFor:
 seo:
   metaTitle: "Splendid Cave Hotel: grothotel in Ortahisar | StayAtNiche"
   metaDescription: "Splendid Cave Hotel in Ortahisar: tien van de twaalf kamers zijn grotkamers, twee zijn standaard, met tv, telefoon en minibar in Centraal-Cappadocië."
+niche_feature: "In de officiële kamerlijst zijn 10 van de 12 kamers Cave Rooms (Standard, Deluxe, Suit, Superior Suit); kamers 203 en 401 zijn gewone Standard Double Rooms. De site beschrijft nergens uitgehouwen rots, alleen de benaming ‘Cave Room’."
 ---
 
 Splendid Cave Hotel in Ortahisar is een gemengd hotel, en dat is goed om meteen duidelijk te maken. De website van het hotel vermeldt twaalf kamers. Tien daarvan hebben ‘cave room’ in hun naam; twee, kamers 203 en 401, staan vermeld als gewone Standard Double Rooms. De grotervaring geldt dus voor de meeste kamers, maar niet voor alle.

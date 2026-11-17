@@ -23,6 +23,7 @@ bestFor:
 seo:
   metaTitle: "Manshausen, cabañas sobre el mar ártico | StayAtNiche"
   metaDescription: "Manshausen Island Resort: cabañas sobre el mar de Noruega al norte del Círculo Polar Ártico, con auroras boreales, sol de medianoche y kayak desde la puerta."
+niche_feature: "Cabañas marinas en una isla privada: las cabañas originales descansan sobre antiguos muelles de piedra y las más nuevas se adentran sobre el mar; dos Towers en el borde del muelle. No se mencionan pilotes. No hay entorno de acantilado."
 ---
 
 El archipiélago de Steigen es lo que parece Noruega cuando las montañas se han empujado directamente al mar: una cadena de islas rocosas y escarpadas por encima del Círculo Polar Ártico, donde la muralla de las Lofoten continúa hacia el norte y los fiordos de Nordland se abren al mar de Noruega. A 68° N, esto es el Ártico noruego de verdad: no el Ártico turístico de Tromsø, sino la Noruega de los pueblos pesqueros en activo, con infraestructuras mínimas y un paisaje con ese carácter indómito de una costa que nunca ha estado de moda.

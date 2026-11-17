@@ -18,6 +18,7 @@ bestFor:
 seo:
   metaTitle: "Royal Cliff Hotels in Pattaya: Klippenhotels | StayAtNiche"
   metaDescription: "Royal Cliff Hotels Group in Pattaya: vier Fünf-Sterne-Hotels auf einem Klippenanwesen am Golf von Thailand, mit Beach Terrace und Infinity-Pool."
+niche_feature: "Nur die Royal Cliff Beach Terrace (89 Zimmer und Suiten) ist in die Felswand gebaut; die anderen drei Hotels der Gruppe werden nicht als Klippenhotels beschrieben."
 ---
 
 Die Royal Cliff Hotels Group umfasst ein 64 Acres großes Parkgelände zwischen Jomtien und Süd-Pattaya mit Blick auf die Ostküste des Golfs von Thailand. Zur Gruppe gehören vier Fünf-Sterne-Hotels und ein Kongresszentrum, die Pattaya Exhibition and Convention Hall. Die Gruppe wurde 1973 gegründet.

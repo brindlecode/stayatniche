@@ -23,6 +23,7 @@ bestFor:
 seo:
   metaTitle: "Misool : bungalows sur pilotis à Raja Ampat | StayAtNiche"
   metaDescription: "Misool Eco Resort : bungalows sur pilotis à Raja Ampat, en Indonésie. Plongée dans le Triangle de corail, raies manta et réserve marine privée protégée."
+niche_feature: "8 Water Cottages construits sur pilotis au-dessus du North Lagoon, plus 4 North Lagoon Villas (au moins deux sur pilotis) ; les autres villas se trouvent sur South Beach ou sur une colline. 20 unités au total."
 ---
 
 Raja Ampat signifie « Quatre Rois », en référence aux quatre îles principales d'un archipel de Papouasie occidentale situé au cœur du Triangle de corail, épicentre mondial de la biodiversité marine. Les chiffres donnent le vertige : plus de 1 500 espèces de poissons, 700 espèces de mollusques et 600 espèces de coraux — davantage que dans toute la mer des Caraïbes — concentrées dans les eaux de ce chapelet d'îles. Des biologistes marins qui ont consacré leur carrière à l'étude des récifs décrivent les sites de plongée de Raja Ampat comme sans équivalent dans tout ce qu'ils ont pu voir.

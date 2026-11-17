@@ -19,6 +19,7 @@ bestFor:
 seo:
   metaTitle: "Augill Castle: castello hotel nel Cumbria | StayAtNiche"
   metaDescription: "Augill Castle nel Cumbria: castello neogotico nella valle dell'Eden con camere a baldacchino, camini accesi e afternoon tea, vicino agli Yorkshire Dales."
+niche_feature: "Castello del XIX secolo; le camere del castello (la maggior parte con letto a baldacchino) si trovano nel castello stesso, ma l'hotel affitta anche Garden Suites, Family Estate Houses e una Stable House fuori dall'edificio principale."
 ---
 
 Augill Castle è un castello neogotico ottocentesco nella valle dell'Eden, nel Cumbria, nato come residenza privata e poi trasformato in hotel. Sorge tra gli Yorkshire Dales e il Lake District, in quello che i proprietari indicano come il centro geografico delle isole britanniche, a quattro miglia dalla cittadina di Kirkby Stephen.

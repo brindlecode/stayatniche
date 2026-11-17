@@ -52,6 +52,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Kakslauttanen: glazen iglo in Fins Lapland | StayAtNiche"
   metaDescription: "Slapen onder het noorderlicht in een verwarmde glazen iglo: Kakslauttanen in Fins Lapland, met glazen iglo's in twee dorpen. Vanaf $ 400 per nacht."
+niche_feature: "Glazen iglo's (klein, groot, en Kelo-Glass-iglo's met slaapkamers in een blokhut) in het oostelijke en westelijke dorp, naast gewone blokhutten en chalets, suites en sneeuwiglo's. De glazen iglo's zijn open van eind augustus tot april."
 ---
 
 Sommige plekken bestaan al in de verbeelding van reizigers lang voordat ze er ooit komen, en Kakslauttanen Arctic Resort is daar een schoolvoorbeeld van. Deze verzameling glazen iglo's op 68 graden noorderbreedte, midden in de wildernis van Fins Lapland, is uitgegroeid tot hét antwoord op de vraag die elke noorderlichtjager bezighoudt: waar op aarde slaap je het allerbest onder het noorderlicht?

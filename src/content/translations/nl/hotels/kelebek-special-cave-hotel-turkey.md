@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Kelebek Special Cave Hotel: grothotel Göreme | StayAtNiche"
   metaDescription: "Kelebek Special Cave Hotel in Göreme: al jaren bestaand hotel met grotkamers en terrassen, een Turks bad, buitenzwembad en uitzicht op ballonnen."
+niche_feature: "36 kamers: een mix van grotkamers, kamers in een feeënschoorsteen en stenen kamers; alleen sommige grotkamers zijn rechtstreeks in de natuurlijke rots uitgehouwen, onder meer historische ruimtes uit de 8e eeuw. De andere zijn van steen gebouwd."
 ---
 
 Kelebek Special Cave Hotel ligt boven het dorp Göreme, binnen het nationaal park, en verkoopt zichzelf met uitzicht op het dorp, de valleien, de heteluchtballonnen en de bergen daarachter. Grotkamers horen bij het aanbod, al zijn maar sommige kamers uit de rots gehakt. Andere worden omschreven als kamers van grot en steen. Het hotel noemt in totaal 36 kamers, een mix van grot-, feeënschoorsteen- en steenkamers, en noemt zich op de eigen website inmiddels Kelebek Cave Hotel.

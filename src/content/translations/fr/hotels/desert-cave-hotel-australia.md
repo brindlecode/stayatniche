@@ -1,17 +1,17 @@
 ---
 source: desert-cave-hotel-australia
 destination: "Coober Pedy"
-description: "Creusé dans le grès opalifère de Coober Pedy, la ville qui produit 70 % des opales de qualité gemme du monde et dont la plupart des habitants vivent sous terre pour échapper aux étés à 50 °C, le Desert Cave Hotel conserve une température constante de 23 °C toute l'année, avec des veines d'opale visibles dans les murs des couloirs."
+description: "À Coober Pedy, la ville d'opale d'Australie-Méridionale où de nombreux habitants vivent sous terre, le Desert Cave Hotel propose des chambres souterraines de type dugout, ainsi que des chambres en surface pour ceux qui préfèrent ne pas dormir sous terre."
 highlights:
-  - "Chambres creusées dans le grès opalifère, avec des opales visibles dans les murs"
-  - "Coober Pedy produit 70 % des opales du monde"
-  - "Sous terre, la température naturelle reste constante à 23 °C toute l'année"
-  - "Des équipements souterrains uniques, dont un bar, un restaurant et une piscine"
+  - "Chambres souterraines de type dugout et chambres en surface"
+  - "Ouvert en 1988"
+  - "Chambres souterraines décrites comme calmes, fraîches, sombres et aérées"
+  - "Restaurant et bar sur place"
   - "Une ville de l'Outback véritablement surréaliste, en Australie-Méridionale"
 amenities:
-  - "Chambres souterraines aux murs de grès naturel"
-  - "Piscine intérieure souterraine"
-  - "Restaurant et bar (souterrains)"
+  - "Chambres souterraines de type dugout"
+  - "Chambres en surface"
+  - "Restaurant et bar"
   - "Exposition et boutique d'opales"
   - "Comptoir d'excursions pour visiter les mines d'opale"
   - "Climatisation"
@@ -25,8 +25,7 @@ bestFor:
 prosAndCons:
   pros:
     - "Absolument unique, vous ne dormirez jamais ailleurs dans un lieu pareil"
-    - "La température naturelle constante en fait un refuge idéal par forte chaleur"
-    - "Les opales incrustées dans les murs des chambres émerveillent au quotidien"
+    - "Les chambres souterraines sont décrites comme fraîches et calmes, un soulagement par forte chaleur"
     - "Coober Pedy est une ville fascinante et surréaliste qui mérite la visite en soi"
     - "Un excellent rapport qualité-prix face à des hôtels troglodytes plus glamour"
   cons:
@@ -48,16 +47,17 @@ nearbyAttractions:
     distance: "150 km"
 seo:
   metaTitle: "Desert Cave Hotel : hôtel souterrain | StayAtNiche"
-  metaDescription: "Avis sur le Desert Cave Hotel : dormir sous terre dans le grès opalifère de Coober Pedy, ville surréaliste de l'Outback australien, à 23 °C toute l'année."
+  metaDescription: "Desert Cave Hotel : dormez sous terre dans un dugout à Coober Pedy, ville surréaliste de l'Outback australien, ou choisissez une chambre en surface."
+niche_feature: "Premier hôtel souterrain de Coober Pedy (ouvert en 1988) ; il propose des chambres souterraines creusées dans la roche, ainsi que des chambres ordinaires en surface. Le site officiel ne décrit que les hôtels souterrains de Coober Pedy en général, sans préciser quelles chambres sont concernées ici."
 ---
 
 Quand on roule vers le nord à travers l'Outback d'Australie-Méridionale, Coober Pedy apparaît à l'horizon comme un champ de monticules, de tuyaux et de gravats, sans un seul arbre. Le sol est criblé de milliers de puits de mine. De loin, on dirait un paysage excavé à l'échelle industrielle puis largement abandonné, ce qui, d'une certaine façon, est exact. La ville s'est construite sur l'extraction de l'opale, et cette activité a tout façonné, y compris le fait que la plupart de ses 2 000 habitants vivent sous terre, dans des maisons appelées *dugouts*. Quand les températures en surface dépassent régulièrement les 50 °C en été, la logique est difficile à contester. Le nom aborigène de la région est *kupa piti* : « l'homme blanc dans un trou ».
 
-Le Desert Cave Hotel est l'établissement le plus important de la ville, et il assume sa place sans prétention. Le hall principal, le bar, le restaurant, la piscine et une bonne partie des chambres sont directement creusés dans la colline de grès qui s'élève derrière la rue principale. La roche est ici ce même grès crème pâle et terre cuite qui renferme les opales : dans les murs des couloirs comme à l'intérieur des chambres, les veines laiteuses de la pierre précieuse affleurent dans la roche brute.
+Le Desert Cave Hotel est l'établissement le plus important de la ville, et il assume sa place sans prétention. Les chambres de l'hôtel comprennent de typiques dugouts souterrains, décrits comme calmes, frais, sombres et aérés, ainsi que des chambres en surface pour les visiteurs qui n'aiment pas dormir sous terre.
 
 **Les chambres**
 
-Les chambres souterraines sont pratiques plutôt que spectaculaires. Le grès est présent et visible, mais la décoration relève de l'hôtel classique plus que de l'esthétique troglodyte. L'atout majeur est environnemental : pas de fenêtres, pas de lumière naturelle, et une température constante d'environ 23 °C, quelles que soient les conditions en surface. En décembre, quand le thermomètre affiche 52 °C dehors, cette constance n'a rien d'un détail. Les chambres sont en outre silencieuses comme seuls les espaces souterrains savent l'être : ni circulation, ni vent, ni le moindre bruit ambiant.
+Les chambres souterraines sont pratiques plutôt que spectaculaires. Le grès est présent et visible, mais la décoration relève de l'hôtel classique plus que de l'esthétique troglodyte. L'atout majeur est environnemental : pas de fenêtres, pas de lumière naturelle et, selon les mots du site de l'hôtel à propos des chambres souterraines de Coober Pedy, ni chaleur ni humidité. Les chambres sont en outre silencieuses comme seuls les espaces souterrains savent l'être : ni circulation, ni vent, ni le moindre bruit ambiant.
 
 **L'expérience de l'opale**
 

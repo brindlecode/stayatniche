@@ -49,6 +49,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Chole Mjini: Baumhaus-Lodge in Tansania | StayAtNiche"
   metaDescription: "Schlafen in Baumhäusern inmitten arabischer Ruinen aus dem 19. Jahrhundert auf Chole: Öko-Lodge in Gemeindebesitz im Mafia Island Marine Park."
+niche_feature: "Sechs von Hand um Baobabs und Suaheli-Ruinen gebaute Baumhäuser auf der Insel Chole, dazu ein Haus am Boden (Sita). Moja thront hoch in einem lebenden Baobab; die anderen stehen zwischen Ruinen und am Ufer."
 ---
 
 Die Insel Chole hütet ihre Geheimnisse leise. Vom Wasser aus wirkt sie wie ein dichtes Gewirr aus Baobabs und Mangroven, das aus dem Indischen Ozean aufsteigt – eine von Dutzenden kleinen Inseln im Mafia Island Marine Park. Doch sobald Sie an Land gehen und in den Wald hineinlaufen, finden die Ruinen Sie: mächtige Mauern aus Korallenstein, eingestürzte Torbögen und dachlose Räume, überwuchert von Feigenbäumen und dichter Vegetation. Es sind die Überreste eines arabischen Handelspostens aus dem 19. Jahrhundert, einst eine der wohlhabendsten Siedlungen an Tansanias Swahili-Küste, heute langsam von der Vegetation der Insel zurückerobert.

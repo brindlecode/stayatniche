@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Kelebek Special Cave Hotel: grotta a Göreme | StayAtNiche"
   metaDescription: "Kelebek Special Cave Hotel a Göreme: hotel di lunga tradizione con camere in grotta, bagno turco, piscina e vista su villaggio, mongolfiere e valli."
+niche_feature: "36 camere tra grotta, camini delle fate e pietra; solo alcune camere in grotta sono scavate direttamente nella roccia naturale, compresi ambienti storici che risalgono all'VIII secolo. Le altre sono architettura in pietra."
 ---
 
 Il Kelebek Special Cave Hotel sorge sopra il villaggio di Göreme, all’interno del parco nazionale, e punta sulle viste del villaggio, delle valli, delle mongolfiere e delle montagne sullo sfondo. Le camere in grotta fanno parte dell’offerta, ma solo alcune sono scavate nella roccia. Altre sono descritte come camere miste, grotta e pietra. L’hotel dichiara 36 camere in totale, tra camere in grotta, nei camini delle fate e in pietra, e sul proprio sito si chiama ormai Kelebek Cave Hotel.

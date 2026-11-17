@@ -18,6 +18,7 @@ bestFor:
 seo:
   metaTitle: "Splendid Cave Hotel : hôtel troglodyte | StayAtNiche"
   metaDescription: "Splendid Cave Hotel à Ortahisar : dix chambres troglodytes sur douze, deux chambres standard, avec télévision, téléphone et minibar en Cappadoce."
+niche_feature: "La liste officielle des chambres désigne 10 des 12 chambres comme des Cave Rooms (Standard, Deluxe, Suit, Superior Suit) ; les chambres 203 et 401 sont de simples Standard Double Rooms. Le site ne décrit jamais de roche creusée, seulement les noms « Cave Room »."
 ---
 
 Le Splendid Cave Hotel d’Ortahisar est un établissement mixte, et il vaut mieux le préciser d’emblée. Le site de l’hôtel répertorie douze chambres. Dix portent la mention « cave room » dans leur nom ; deux, les chambres 203 et 401, sont listées comme de simples Standard Double Rooms. L’expérience troglodyte concerne donc la plupart des chambres, mais pas toutes.

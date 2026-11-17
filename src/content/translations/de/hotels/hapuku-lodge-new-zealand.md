@@ -50,6 +50,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Hapuku Lodge: Baumhaus-Suiten in Neuseeland | StayAtNiche"
   metaDescription: "Acht Meter über Manuka-Bäumen mit Blick auf die Kaikōura Ranges und den Pazifik: Hapuku Lodge bietet Neuseelands spektakulärste Luxus-Baumhäuser."
+niche_feature: "Tree Houses (mit einem Schlafzimmer sowie ein zweistöckiges Familien-Baumhaus), 10 m hoch im Blätterdach aus einheimischem Kanuka und Puriri; die Lodge-Suiten und das Olive House sind gewöhnliche Zimmer. Die offizielle Website sagt nicht, wie die Baumhäuser gebaut sind."
 ---
 
 Der Blick vom Deck eines Hapuku-Baumhauses ist fast unverschämt schön. Im Westen erheben sich die Kaikōura Ranges steil aus der flachen Küstenebene, ihre oberen Grate tragen einen Großteil des Jahres Schnee. Im Osten erstreckt sich der Südpazifik ohne Unterbrechung bis zum Horizont. Acht Meter unter Ihnen wiegen sich einheimische Manuka-Bäume in der Meeresbrise, ihre silbergrünen Blätter fangen das Nachmittagslicht ein. Es ist einer jener Ausblicke, bei denen man sich fragt, warum man überhaupt je ebenerdig schläft.

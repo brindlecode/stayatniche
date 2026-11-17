@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "The Old Railway Station: Zughotel in Petworth | StayAtNiche"
   metaDescription: "Ehemaliger Bahnhof Petworth in West Sussex: acht Zimmer in Pullman-Waggons, zwei im Bahnhofsgebäude, alle mit eigenem Bad, Frühstück inklusive."
+niche_feature: "Acht Zimmer (2 King Pullman, 6 Standard Pullman) befinden sich in restaurierten Pullman-Waggons; zwei Zimmer (Station House Lower/Upper) und eine Station Masters Suite mit Selbstversorgung liegen im alten Bahnhofsgebäude."
 ---
 
 Acht der zehn Gästezimmer im The Old Railway Station befinden sich in restaurierten Pullman-Eisenbahnwaggons, die übrigen zwei im Station House selbst. Die Bed-and-Breakfast-Unterkunft liegt im ehemaligen Bahnhof von Petworth in West Sussex, in den South Downs, und jedes Zimmer hat ein eigenes Bad, das Frühstück ist inklusive.

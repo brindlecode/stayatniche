@@ -23,6 +23,7 @@ bestFor:
 seo:
   metaTitle: "Manshausen: Seehütten im arktischen Norwegen | StayAtNiche"
   metaDescription: "Manshausen Island Resort in Nordland: gläserne Seehütten auf Stelzen nördlich des Polarkreises, mit Polarlichtern, Mitternachtssonne und Kajak vor der Tür."
+niche_feature: "Seehütten auf einer Privatinsel: Die ursprünglichen Hütten ruhen auf alten Steinkais, die neueren ragen über das Meer hinaus; dazu zwei Türme am Rand des Stegs. Stelzen oder Pfähle werden nicht erwähnt. Keine Lage an einer Klippe."
 ---
 
 Der Steigen-Archipel zeigt, wie Norwegen aussieht, wenn die Berge direkt ins Meer geschoben wurden: eine Kette steiler, felsiger Inseln nördlich des Polarkreises, wo sich die Wand der Lofoten nach Norden fortsetzt und die Fjorde Nordlands sich zum Europäischen Nordmeer öffnen. Auf 68° N ist dies die echte norwegische Arktis – nicht die touristische Arktis von Tromsø, sondern das Norwegen der arbeitenden Fischerdörfer, wo die Infrastruktur minimal ist und die Landschaft den ungezähmten Charakter einer Küste hat, die nie in Mode war.

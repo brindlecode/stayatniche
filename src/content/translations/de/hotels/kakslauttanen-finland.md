@@ -52,6 +52,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Kakslauttanen: Glasiglu in Finnisch-Lappland | StayAtNiche"
   metaDescription: "Schlafen unter Nordlichtern: Das Kakslauttanen Arctic Resort in Finnisch-Lappland bietet beheizte Glasiglus im Ost- und Westdorf, ab 400 $ pro Nacht."
+niche_feature: "Glasiglus (kleine, große sowie Kelo-Glasiglus mit Schlafzimmern im Blockhaus-Stil) im Ost- und im Westdorf, daneben gewöhnliche Blockhütten und Chalets, Suiten und Schneeiglus. Die Glasiglus sind von Ende August bis April in Betrieb."
 ---
 
 Manche Orte existieren in der kollektiven Vorstellung von Reisenden lange bevor sie sie je besuchen, und das Kakslauttanen Arctic Resort gehört unbedingt dazu. Auf 68 Grad nördlicher Breite in der Wildnis Finnisch-Lapplands gelegen, ist diese Ansammlung von Thermoglas-Iglus zur maßgeblichen Antwort auf die Frage geworden, die jeden Polarlichtjäger umtreibt: Wo auf der Welt schläft man am allerbesten unter den Nordlichtern?

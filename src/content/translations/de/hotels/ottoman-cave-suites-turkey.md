@@ -19,6 +19,7 @@ bestFor:
 seo:
   metaTitle: "Ottoman Cave Suites: Höhlenhotel in Göreme | StayAtNiche"
   metaDescription: "Ottoman Cave Suites in Göreme: kleines Hotel mit 13 Zimmern, davon acht in den Fels gehauen, Terrassenfrühstück und Blick auf Feenkamine und Vulkan."
+niche_feature: "13 Zimmer: 8 in den Fels gehauene (kaya oyma) Zimmer und 5 gewöhnliche Steinzimmer; fünf der in den Fels gehauenen Suiten blicken auf die Burg von Uçhisar."
 ---
 
 Ottoman Cave Suites beschreibt sich selbst als gemütliches, komfortables kleines Felsenhotel in einer Gegend mit guter Anbindung an das Zentrum von Göreme und viele Sehenswürdigkeiten Kappadokiens. Es gibt insgesamt 13 Zimmer: acht in den Fels gehauene und fünf Standardzimmer aus Stein. Der größte Teil des Aufenthalts findet also in Höhlenzimmern statt, eine Minderheit der Zimmer jedoch nicht.
@@ -33,6 +34,6 @@ Das Hotel wirbt mit einem Panoramablick über die Täler, die Berge und den Vulk
 
 ## Praktische Hinweise
 
-Die angegebene Adresse lautet Avcılar Mahallesi, Okul Sokak No: 6, 50180 Göreme. Das Hotel ist brandneu, es handelt sich also um eine Neueröffnung und nicht um ein seit Langem etabliertes Haus.
+Die angegebene Adresse lautet Avcılar Mahallesi, Okul Sokak No: 6, 50180 Göreme.
 
 Eine gute Wahl, wenn Sie in Göreme ein Höhlenzimmer suchen, in einem Hotel, das klein genug ist, um persönlich zu wirken. Fragen Sie bei der Buchung ausdrücklich nach einem in den Fels gehauenen Zimmer.

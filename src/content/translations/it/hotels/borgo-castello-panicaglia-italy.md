@@ -21,6 +21,7 @@ bestFor:
 seo:
   metaTitle: "Borgo Castello Panicaglia: castello in Umbria | StayAtNiche"
   metaDescription: "Borgo Castello Panicaglia in Umbria: casa per ospiti in un castello del 1266, con piscina, ristorante, corsi di cucina e camere con nome proprio."
+niche_feature: "Camere in un castello del 1266 nel borgo di Panicaglia; il sito elenca circa 17 camere e suite con nome, più la casa vacanze Michele, che confina con l'hotel e non si trova nel castello."
 ---
 
 Borgo Castello Panicaglia occupa un castello costruito nel 1266 nel piccolo borgo medievale di Panicaglia, in Umbria. Si trova a 800 metri di altitudine, con vista sulle montagne umbre, e funziona come casa per ospiti dove si è invitati a prendere parte alla vita di famiglia: sbirciare in cucina, dare una mano nell'orto o accomodarsi in uno dei tanti angoli salotto.

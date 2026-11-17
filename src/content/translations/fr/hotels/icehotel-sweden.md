@@ -52,6 +52,7 @@ nearbyAttractions:
 seo:
   metaTitle: "ICEHOTEL : hôtel de glace en Laponie | StayAtNiche"
   metaDescription: "Avis sur l'ICEHOTEL, l'hôtel de glace originel, rebâti chaque hiver depuis 1990 : suites d'art à -5 °C et aurores boréales. Dès 500 $ la nuit."
+niche_feature: "Chambres de glace et suites d'artistes à l'ICEHOTEL Winter (de décembre à avril), ainsi que les suites d'artistes et deluxe de l'ICEHOTEL 365, ouvertes toute l'année et faites de glace et de neige (18 suites, -5 °C) ; les chambres chauffées et les cabanes, dans des bâtiments distincts, sont des hébergements ordinaires."
 ---
 
 Tout commence avec la rivière. La Torne, qui marque la frontière entre la Suède et la Finlande dans sa descente vers le golfe de Botnie, gèle chaque mois de novembre sur plus d'un mètre d'épaisseur : une masse de glace d'une pureté exceptionnelle, d'une transparence cristalline, particulièrement adaptée à un usage architectural. C'est dans cette rivière qu'Yngve Bergqvist et une équipe d'artistes japonais ont extrait les premiers blocs en 1989, et c'est avec eux qu'ils ont bâti, à titre expérimental et sans la moindre certitude de succès, le premier hôtel au monde entièrement fait de glace.

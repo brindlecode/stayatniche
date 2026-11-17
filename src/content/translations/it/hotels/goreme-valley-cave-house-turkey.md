@@ -18,6 +18,7 @@ bestFor:
 seo:
   metaTitle: "Göreme Valley Cave House: pensione in grotta | StayAtNiche"
   metaDescription: "Göreme Valley Cave House a Göreme: guesthouse con tre camere in grotta, camere per gruppi e famiglie fino a sette ospiti e Wi-Fi in tutte le camere."
+niche_feature: "Solo 3 camere della casa d'ospiti sono camere sotterranee in grotta scavate nella roccia viva; le altre camere (3 standard, 5 familiari, 6 suite) non sono descritte come camere in grotta."
 ---
 
 Göreme Valley Cave House si presenta come «la tua casa lontano da casa» ed è una guesthouse più che un grande hotel. La parte in grotta è solo parziale: il sito ufficiale elenca tre camere in grotta sotterranea tra le camere standard, per famiglie e suite, quindi la maggior parte delle camere è convenzionale. Il sito indica 17 camere in totale (3 standard, 3 in grotta, 5 per famiglie e 6 suite) e precisa che la guesthouse ospita solo 60 persone alla volta.

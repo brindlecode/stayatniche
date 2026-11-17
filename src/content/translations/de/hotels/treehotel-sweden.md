@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Treehotel: Baumhaushotel in Lappland | StayAtNiche"
   metaDescription: "Treehotel in Harads: neun von Architekten entworfene Baumhauszimmer in Schwedisch-Lappland, vom Mirrored Cube bis zum UFO, mit Polarlichtern im Winter."
+niche_feature: "Neun separate Design-Baumzimmer (Mirrorcube, UFO, Bird's Nest, Cabin, 7th Room usw.) in den Kiefern; das separate Guesthouse (sechs historische Zimmer) ist kein Baumhaus."
 ---
 
 Die Baumzimmer des Treehotels sind jeweils einzigartige Schöpfungen verschiedener Architekten und Designteams. Sie stehen im Wald des Luleälv-Tals vor dem Dorf Harads, das rund 50 Kilometer südlich des Polarkreises liegt.

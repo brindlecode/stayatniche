@@ -16,6 +16,7 @@ bestFor:
 seo:
   metaTitle: "Thulhagiri : bungalows sur pilotis Maldives | StayAtNiche"
   metaDescription: "Thulhagiri Island Resort and Spa, à Malé Nord : 37 bungalows sur pilotis au-dessus du lagon, récif pour le snorkeling et 20 min de vedette de l'aéroport."
+niche_feature: "17 Water Bungalows (56 m²) et 20 Superior Water Bungalows (78 m²) au-dessus du lagon, aux côtés de 50 bungalows de plage Standard Deluxe."
 ---
 
 Thulhagiri Island Resort and Spa est un petit resort insulaire de l'atoll de Malé Nord, aux Maldives. Trente-sept de ses chambres sont des bungalows sur l'eau au-dessus du lagon (17 Water Bungalows et 20 Superior Water Bungalows) : seule une partie du resort se trouve donc sur l'eau. Le reste de l'hébergement se compose de 50 bungalows de plage Standard Deluxe (villas de plage), dotés de douches extérieures.

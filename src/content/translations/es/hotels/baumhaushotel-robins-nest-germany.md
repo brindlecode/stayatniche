@@ -21,6 +21,7 @@ bestFor:
 seo:
   metaTitle: "Robins Nest: hotel en los árboles en Hesse | StayAtNiche"
   metaDescription: "Robins Nest cerca de Witzenhausen: cabañas en los árboles a unos siete metros, casa sobre pilotes y tiendas, junto al Schloss Berlepsch en Hesse."
+niche_feature: "Cabañas en los árboles (Birkenhaus de unos 5 m, Stammhaus de unos 7 m, casa de corcho y una bola colgada de cables entre los árboles) a las que se accede por escaleras y puentes, además de una casa sobre pilotes. El glamping lodge, la cabaña de bloques y las cúpulas no son cabañas en los árboles; las tiendas de árbol cuelgan a unos 130 cm del suelo."
 ---
 
 Robins Nest es un hotel de cabañas en los árboles cerca de Witzenhausen, en el norte de Hesse, junto al Schloss Berlepsch. Su fundador, Peter Becker, empezó con un tipi, y las primeras cabañas abrieron en el verano de 2015. Construye con madera de alta calidad y materiales reciclados. El propio plan del lugar contempla un pequeño pueblo de nidos en los árboles unidos por puentes y túneles.

@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Sorrisniva: ijshotel en noorderlicht in Alta | StayAtNiche"
   metaDescription: "Sorrisniva Igloo Hotel in Alta: ijshotel dat elke winter opnieuw wordt gebouwd, op 70° noord in de noorderlichtzone van Finnmark, open 20 dec. tot 31 maart."
+niche_feature: "Iglohotel van ijs en sneeuw dat elke winter opnieuw wordt gebouwd (20 december tot 31 maart), met iglokamers, familiekamers en suites met een thema; de aparte Arctic Wilderness Lodge biedt gewone, warme kamers."
 ---
 
 Sorrisniva Igloo Hotel wordt elke winter gebouwd op de bevroren oevers van de Alta-rivier op 70 graden noorderbreedte, en die ligging doet er echt toe. Alta ligt diep in het plateau van Finnmark, de noordelijkste stad van enige omvang in Noorwegen, en de Kp-index bereikt hier regelmatig de drempel waarbij het noorderlicht niet alleen mogelijk maar betrouwbaar is. Dit is een van de beste noorderlichtplekken van Europa, met een echt hotel eromheen gebouwd in plaats van alleen een marketingclaim eraan vastgeknoopt.

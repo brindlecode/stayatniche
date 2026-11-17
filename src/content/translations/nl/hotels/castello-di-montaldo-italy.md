@@ -1,10 +1,10 @@
 ---
 source: castello-di-montaldo-italy
 destination: "Montaldo Torinese, Piemonte"
-description: "Een hotel en spa van 4 sterren Superior in een middeleeuws kasteel, 20 minuten van Turijn, met 20 suites en 19 kamers."
+description: "Een hotel en spa van 4 sterren Superior in een middeleeuws kasteel, 20 minuten van Turijn, met 20 tweepersoonskamers en 19 suites."
 highlights:
   - "4-sterren Superior hotel in een middeleeuws kasteel"
-  - "20 suites en 19 kamers"
+  - "20 tweepersoonskamers en 19 suites"
   - "Spa van 3.000 m² met saunarituelen onder leiding van saunameesters"
   - "Ongeveer 20 minuten van Turijn"
   - "Restaurant Du Château en de Enoteca Crotin"
@@ -20,14 +20,14 @@ bestFor:
   - "Bruiloften"
 seo:
   metaTitle: "Castello di Montaldo: kasteelhotel bij Turijn | StayAtNiche"
-  metaDescription: "Castello di Montaldo: 4-sterren Superior hotel met spa in een middeleeuws kasteel bij Turijn, met 20 suites, 19 kamers en 3.000 m² aan wellness."
+  metaDescription: "Castello di Montaldo: 4-sterren Superior hotel met spa in een middeleeuws kasteel bij Turijn, met 20 tweepersoonskamers, 19 suites en 3.000 m² aan wellness."
 ---
 
 Castello di Montaldo is een hotel van 4 sterren Superior dat is ingericht in een middeleeuws kasteel in Montaldo Torinese, op de heuvels ten oosten van Turijn. Het hele terrein is het kasteel zelf, dus elke kamer maakt deel uit van het historische gebouw.
 
 ## De kamers
 
-Het hotel heeft 20 suites en 19 ruime, lichte kamers, samen 39. De omgeving is de grote troef, en vanuit de kamers loop je rechtstreeks naar de spa. Je kunt in badjas van je kamer naar de spa lopen.
+Het hotel heeft 20 tweepersoonskamers en 19 suites, samen 39. De omgeving is de grote troef, en vanuit de kamers loop je rechtstreeks naar de spa. Je kunt in badjas van je kamer naar de spa lopen.
 
 ## De spa
 

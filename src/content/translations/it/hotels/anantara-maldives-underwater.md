@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Anantara Kihavah, cena sott’acqua alle Maldive | StayAtNiche"
   metaDescription: "All’Anantara Kihavah, atollo di Baa, si cena a 6 metri sotto l’oceano al SEA e si soggiorna in ville con piscina privata, nella Riserva della biosfera UNESCO."
+niche_feature: "SEA è un ristorante sottomarino (solo esperienza). Si dorme in 80 ville con piscina, alcune sull'acqua su palafitte raggiungibili da un pontile, altre ville sulla spiaggia. Non sono state trovate camere da letto sottomarine. Il sito ufficiale non era accessibile (403)."
 ---
 
 L’Anantara Kihavah organizza le sue esperienze simbolo intorno a quattro sigle: FIRE (la griglia), SKY (l’osservatorio sul tetto), ICE (la cantina dei vini) e SEA. È per SEA che la maggior parte delle persone prenota.

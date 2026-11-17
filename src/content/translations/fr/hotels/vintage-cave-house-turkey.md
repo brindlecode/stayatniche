@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Vintage Cave House : hôtel troglodyte à Göreme | StayAtNiche"
   metaDescription: "Vintage Cave House à Göreme : hôtel-boutique familial avec quatre chambres troglodytes, cinq chambres en pierre et terrasses pour les montgolfières."
+niche_feature: "Maison familiale de cinq générations à Göreme, transformée en hôtel de charme en 2015, avec 4 chambres troglodytes restaurées et 5 chambres en pierre ; la page d'accueil indique que les chambres troglodytes sont creusées dans des roches anciennes."
 ---
 
 Vintage Cave House commence par une ancienne maison de Göreme qui est le foyer de la famille depuis cinq générations. Elle est devenue depuis un hôtel-boutique, et elle assume sa particularité : quatre chambres troglodytes et cinq chambres en pierre. Si vous voulez une chambre taillée dans la roche, demandez l’une des chambres troglodytes.

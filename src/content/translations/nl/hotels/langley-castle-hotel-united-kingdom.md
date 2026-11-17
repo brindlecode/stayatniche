@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Langley Castle Hotel: kasteelhotel bij Hexham | StayAtNiche"
   metaDescription: "Langley Castle bij Hexham: gerestaureerd kasteel uit de 14e eeuw vlak bij de Hadriaanswal, met negen kamers in het hoofdkasteel en 19 in Castle View."
+niche_feature: "Negen kamers in het hoofdkasteel uit de 14e eeuw (Grade I, muren tot zeven voet dik); nog eens 19 kamers liggen in Castle View, een korte wandeling verderop, plus de zelfvoorzienende Toll Bar Luxury Villa."
 ---
 
 Langley Castle is een gerestaureerd middeleeuws torenhuis in het dal van de rivier South Tyne in Northumberland, drie mijl ten zuiden van Haydon Bridge. Het werd in 1364 gebouwd in een H-vorm, met vier verdiepingen en aan elke hoek een toren, en het is een beschermd monument (Grade I). De muren zijn tot zeven voet dik, wat het interieur een heel bijzondere rust geeft.

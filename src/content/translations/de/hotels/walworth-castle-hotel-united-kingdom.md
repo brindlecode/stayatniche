@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Walworth Castle: Schlosshotel bei Darlington | StayAtNiche"
   metaDescription: "Walworth Castle bei Darlington: Burg aus dem 12. Jahrhundert mit Burgzimmern, Himmelbett-Suiten in den Türmen und der King James Suite, auf 18 Acres Grün."
+niche_feature: "Die Schlosszimmer, Himmelbett-Suiten (einige in den Türmen) und die King James I Suite liegen im Hauptschloss; die Zimmer im Anbau befinden sich in einem angrenzenden modernen Gebäude, dazu kommen eine Lodge im Torhaus (6 Gäste) und ein Ferienhäuschen."
 ---
 
 Walworth Castle ist ein unter Denkmalschutz stehendes Gebäude (Grade I) mit Ursprüngen im 12. Jahrhundert, nahe Darlington in County Durham. Der heutige Bau wurde um 1600 fertiggestellt, vermutlich von Thomas Holt für Thomas Jenison, an der Stelle eines älteren Herrenhauses oder einer Burg der Familie Hansard. Im Zweiten Weltkrieg diente es als Kriegsgefangenenlager. Heute wird hier ein Hotel betrieben, das sich als einzige Burg Darlingtons bezeichnet.

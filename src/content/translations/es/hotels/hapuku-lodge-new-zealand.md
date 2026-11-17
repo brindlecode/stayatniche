@@ -50,6 +50,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Hapuku Lodge: cabañas en los árboles en Nueva Zelanda | StayAtNiche"
   metaDescription: "Cabañas de lujo a 8 metros sobre un bosque de manuka, con vistas a la cordillera de Kaikōura y al Pacífico, ballenas cerca y cocina con productos de la granja."
+niche_feature: "Tree Houses (de un dormitorio, y una cabaña familiar de dos plantas) elevadas 10 m entre el dosel de kanuka y puriri autóctonos; las suites del lodge y la Olive House son habitaciones convencionales. El sitio oficial no explica cómo están construidas las cabañas en los árboles."
 ---
 
 La vista desde la terraza de una cabaña de Hapuku es de una belleza casi injusta. Al oeste, la cordillera de Kaikōura se alza bruscamente sobre la llanura costera, con las crestas nevadas buena parte del año. Al este, el Pacífico Sur se extiende sin interrupción hasta el horizonte. Bajo tus pies, ocho metros más abajo, los manukas autóctonos se mecen con la brisa marina y sus hojas verde plateado atrapan la luz de la tarde. Es de esas vistas que te hacen preguntarte por qué duermes a ras de suelo.

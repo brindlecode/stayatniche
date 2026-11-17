@@ -49,6 +49,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Bambu Indah: Dschungelvillen am Fluss in Ubud | StayAtNiche"
   metaDescription: "Antike javanische Brauthäuser und Bambusbauten über einem Dschungelfluss bei Ubud: Bambu Indah ist Balis architektonisch anspruchsvollste Adresse. Ab 250 $."
+niche_feature: "Ein Treehouse (für 3 Personen) unter 24 Häusern: ein separater Bambusbau in den Ästen zweier Bunut-Bäume. Die übrigen Häuser (Joglo-Brauthäuser, Bambushäuser, Zelte) sind keine Baumhäuser."
 ---
 
 Die meisten Luxusunterkünfte auf Bali folgen einer vertrauten Vorlage: gefliester Infinity-Pool, offene Pavillon-Lobby, private Villa mit Tauchbecken voller Frangipaniblüten. Bambu Indah geht von völlig anderen Voraussetzungen aus. John Hardy – der kanadische Schmuckdesigner, der sowohl die Green School Bali als auch eine Bambusarchitektur-Bewegung gründete, die das Bauen in den Tropen weltweit beeinflusst hat – schuf Bambu Indah als lebendigen Beweis dafür, wie nachhaltige, materialehrliche und ästhetisch konsequente Unterkünfte auf Bali aussehen können.

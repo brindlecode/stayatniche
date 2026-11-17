@@ -1,7 +1,7 @@
 ---
 source: castello-di-monterone-italy
 destination: "Pérouse, Ombrie"
-description: "Un château du XIIIe siècle restauré, à trois kilomètres de Pérouse, transformé en résidence historique de dix-huit chambres, dont certaines ornées de fresques d'origine."
+description: "Un château médiéval restauré, à trois kilomètres de Pérouse, transformé en résidence historique de dix-huit chambres, dont certaines ornées de fresques d'origine."
 highlights:
   - "Château médiéval transformé en résidence historique (residenza d’epoca)"
   - "Dix-huit chambres, chacune avec son histoire"
@@ -15,10 +15,10 @@ bestFor:
   - "Amateurs d'histoire"
 seo:
   metaTitle: "Castello di Monterone : château-hôtel Pérouse | StayAtNiche"
-  metaDescription: "Castello di Monterone, château du XIIIe siècle près de Pérouse : résidence historique de dix-huit chambres, dont certaines avec fresques d'origine."
+  metaDescription: "Castello di Monterone, château médiéval près de Pérouse : résidence historique de dix-huit chambres, dont certaines avec fresques d'origine."
 ---
 
-Castello di Monterone est un petit château du XIIIe siècle restauré, sur la route qui relie Pérouse à Assise en passant par Ponte San Giovanni. Transformé en residenza d'epoca, une résidence historique, il compte aujourd'hui dix-huit chambres meublées dans l'esprit de son passé. Il se dresse au milieu de la verdure, à trois kilomètres environ du centre ancien de Pérouse.
+Castello di Monterone est un petit château médiéval restauré, sur la route qui relie Pérouse à Assise en passant par Ponte San Giovanni. Transformé en residenza d'epoca, une résidence historique, il compte aujourd'hui dix-huit chambres meublées dans l'esprit de son passé. Il se dresse au milieu de la verdure, à trois kilomètres environ du centre ancien de Pérouse. Selon la page d'histoire du château, le bâtiment remonte au moins au XIe siècle, car un édifice à Monterone figure déjà dans un document du 18 janvier 1200 conservé aux Archives d'État de Pérouse.
 
 ## Les chambres
 

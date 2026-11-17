@@ -21,6 +21,7 @@ bestFor:
 seo:
   metaTitle: "Treehouse Point: case sugli alberi | StayAtNiche"
   metaDescription: "Treehouse Point vicino a Issaquah: sette case sugli alberi in una foresta antica accanto al Raging River, una suite nel lodge e un camion militare."
+niche_feature: "Sette case sugli alberi in alberi vivi o fissate ad essi (per esempio Trillium in un cedro, Ananda sostenuta da due abeti di Douglas); ci sono anche una suite nel lodge, una cabina e un camion militare trasformato, che non sono case sugli alberi."
 ---
 
 Treehouse Point è un bed and breakfast con sette case sugli alberi, in una foresta antica sulle rive di un fiume alimentato da sorgenti, nella valle dello Snoqualmie, nello stato di Washington. Le case sono costruite dentro e intorno ad alberi vivi, un elemento che, secondo i proprietari, ha guidato ogni costruzione. L'ultima, Ananda, è stata completata nel 2021.

@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Anantara Kihavah : restaurant sous-marin | StayAtNiche"
   metaDescription: "Anantara Kihavah Maldives Villas, dans l'atoll de Baa classé UNESCO : dîner au restaurant SEA, à 6 m sous l'océan, et villas avec piscine privée."
+niche_feature: "SEA est un restaurant sous-marin (simple expérience). On dort dans l'une des 80 villas avec piscine, dont certaines sont sur pilotis au-dessus de l'eau, accessibles par une jetée, et d'autres sont des villas de plage. Aucune chambre sous-marine trouvée. Site officiel bloqué (403)."
 ---
 
 L'Anantara Kihavah articule ses expériences signature autour de quatre acronymes : FIRE (le grill), SKY (l'observatoire sur le toit), ICE (la cave à vins) et SEA. C'est SEA qui décide la plupart des voyageurs à réserver.

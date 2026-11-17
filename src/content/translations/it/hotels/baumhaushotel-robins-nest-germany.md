@@ -21,6 +21,7 @@ bestFor:
 seo:
   metaTitle: "Robins Nest: hotel sugli alberi in Assia | StayAtNiche"
   metaDescription: "Robins Nest vicino a Witzenhausen: case sugli alberi a circa sette metri, una casa su palafitte e tende accanto al castello di Berlepsch in Assia."
+niche_feature: "Case sugli alberi (Birkenhaus di circa 5 m, Stammhaus di circa 7 m, casa di sughero, sfera appesa a cavi tra gli alberi) raggiungibili con scale e ponti, più una casa su palafitte. Il glamping lodge, la capanna di tronchi (block hut) e le cupole non sono case sugli alberi; le tende sugli alberi sono sospese a circa 130 cm da terra."
 ---
 
 Robins Nest è un hotel con case sugli alberi vicino a Witzenhausen, nel nord dell'Assia, accanto al castello di Berlepsch. Il fondatore, Peter Becker, ha iniziato con un tipi, e le prime case sugli alberi hanno aperto nell'estate del 2015. Costruisce con legno di alta qualità e materiali riciclati. Secondo il progetto del sito, dovrebbe nascere un piccolo villaggio di nidi tra gli alberi, collegati da ponti e gallerie.

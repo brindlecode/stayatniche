@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Four Seasons Landaa Giraavaru, Maldives | StayAtNiche"
   metaDescription: "Avis sur le Four Seasons Landaa Giraavaru : villas sur pilotis dans l'atoll de Baa, classé par l'UNESCO, à deux pas des raies manta de Hanifaru Bay."
+niche_feature: "La fiche officielle recense 103 villas, dont des Water villas et des Beach villas ; les pages d'hébergement de fourseasons.com ont renvoyé une erreur 403 et le Forbes Travel Guide décrit des villas sur l'eau aux côtés de villas de plage. Le nombre de villas sur l'eau n'est pas indiqué."
 ---
 
 Ce qui distingue Landaa Giraavaru du reste des villas sur pilotis des Maldives, ce n'est pas la qualité de ses hébergements, pourtant remarquable, mais son emplacement et ce qu'il prend au sérieux. L'atoll de Baa est classé réserve de biosphère par l'UNESCO et abrite certains des milieux marins les plus riches de l'océan Indien. Hanifaru Bay, à quelques minutes de bateau de l'hôtel, accueille les plus grands rassemblements connus de raies manta en train de se nourrir : des centaines de mantas de récif y arrivent entre juin et novembre pour se nourrir en formations circulaires sans équivalent ailleurs sur la planète. Assister à ce spectacle masque sur le visage compte parmi les expériences animalières les plus déroutantes qui soient.

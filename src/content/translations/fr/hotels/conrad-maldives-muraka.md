@@ -1,15 +1,15 @@
 ---
 source: conrad-maldives-muraka
 destination: "Île de Rangali"
-description: "Seule suite d'hôtel sous-marine sur deux niveaux au monde, The Muraka, au Conrad Maldives Rangali Island, place sa chambre et sa salle de bains à 5 mètres sous la surface de l'océan Indien. Des panneaux d'acrylique incurvés tout autour offrent depuis le lit une vue à 180 degrés sur un récif corallien vivant : requins de récif, raies et poissons défilent pendant que vous vous endormez."
+description: "The Muraka, au Conrad Maldives Rangali Island, est une résidence sur deux niveaux dont la chambre principale est sous-marine, à plus de 16 pieds (environ 5 mètres) sous le niveau de la mer dans l'océan Indien. Un dôme d'acrylique incurvé à 180 degrés offre depuis le lit une vue sur un récif corallien vivant, avec requins de récif, raies et poissons qui défilent pendant que vous vous endormez."
 highlights:
-  - "La seule suite sous-marine sur deux niveaux au monde"
-  - "Une chambre entourée par le récif corallien de l'océan Indien"
+  - "Présentée par le resort comme la première résidence sous-marine au monde"
+  - "Chambre principale sous-marine sous un dôme d'acrylique à 180 degrés"
   - "Majordome privé et chef attitré"
   - "Piscine privée, salle de sport et terrasse extérieure"
   - "Accès direct à l'océan pour la plongée et le snorkeling"
 amenities:
-  - "Baies sous-marines panoramiques incurvées"
+  - "Dôme d'observation en acrylique incurvé à 180 degrés"
   - "Piscine à débordement privée"
   - "Chef personnel attitré"
   - "Service de majordome 24 h/24"
@@ -23,12 +23,13 @@ bestFor:
   - "L'expérience d'une vie"
 seo:
   metaTitle: "The Muraka, Conrad Maldives : suite sous l'eau | StayAtNiche"
-  metaDescription: "Avis sur The Muraka au Conrad Maldives : dormir dans une chambre sous-marine à 5 m sous l'océan Indien, entouré par le récif, avec majordome et chef privés."
+  metaDescription: "The Muraka au Conrad Maldives, présentée comme la première résidence sous-marine au monde : chambre principale sous l'océan Indien, majordome et piscine privée."
+niche_feature: "The Muraka est une résidence unique sur deux niveaux, avec 3 chambres (2 au-dessus de l'eau, 1 suite parentale sous l'eau avec un dôme en acrylique à 180 degrés) ; le reste du resort se compose de villas de plage et de villas sur l'eau ordinaires."
 ---
 
-The Muraka, qui signifie « corail » en divehi, est tout simplement la chambre d'hôtel la plus extraordinaire de la planète. Inaugurée en 2019 après cinq années de développement, elle a exigé des solutions d'ingénierie jamais tentées auparavant dans l'hôtellerie.
+The Muraka, qui signifie « corail » en divehi, est présentée par le resort comme la première résidence sous-marine au monde, fruit de quatre années d'innovation en ingénierie.
 
-La suite occupe deux niveaux. Le niveau supérieur comprend une chambre principale, un salon et une terrasse au ras de l'eau, avec une vue panoramique sur l'océan Indien. Un escalier en colimaçon descend au niveau inférieur : une chambre et une salle de bains aux formes incurvées, construites à 5 mètres sous la surface et entièrement enveloppées de panneaux d'acrylique incurvés qui offrent une vue à 180 degrés sur le récif vivant.
+La suite occupe deux niveaux. Le niveau supérieur comprend deux chambres avec salle de bains privative, des espaces de vie et une terrasse au ras de l'eau, avec une vue panoramique sur l'océan Indien. Un escalier en colimaçon descend au niveau inférieur : une suite parentale sous-marine avec sa propre salle de bains, construite à plus de 16 pieds (environ 5 mètres) sous le niveau de la mer et enveloppée d'un dôme d'acrylique incurvé à 180 degrés qui offre une vue sur le récif vivant.
 
 On s'endort en regardant défiler requins de récif, raies et des milliers de poissons tropicaux. L'éclairage est soigneusement réglé pour ne pas perturber l'écosystème marin, tout en restant suffisant pour voir distinctement dans l'eau.
 

@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Vintage Cave House: Höhlenhotel in Göreme | StayAtNiche"
   metaDescription: "Vintage Cave House in Göreme: Boutiquehotel in einem Familienhaus mit vier Höhlenzimmern, fünf Steinzimmern, Terrassen mit Ballonblick und Garten."
+niche_feature: "Familienhaus in Göreme, seit fünf Generationen im Familienbesitz, 2015 zum Boutiquehotel umgebaut, mit 4 restaurierten Höhlenzimmern und 5 Steinzimmern; laut Startseite sind die Höhlenzimmer in uralte Felsen gehauen."
 ---
 
 Vintage Cave House beginnt mit einem alten Haus in Göreme, das seit fünf Generationen das Zuhause der Familie ist. Inzwischen ist daraus ein Boutiquehotel geworden, und es macht aus seiner Mischung kein Geheimnis: vier Höhlenzimmer und fünf Zimmer aus Stein. Wer ein Zimmer direkt im Fels möchte, sollte nach einem der Höhlenzimmer fragen.

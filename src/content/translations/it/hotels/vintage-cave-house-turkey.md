@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Vintage Cave House: hotel in grotta a Göreme | StayAtNiche"
   metaDescription: "Vintage Cave House a Göreme: boutique hotel in una casa di famiglia con quattro camere in grotta, cinque in pietra e terrazze per le mongolfiere."
+niche_feature: "Casa di famiglia di cinque generazioni a Göreme, trasformata nel 2015 in boutique hotel con 4 camere in grotta restaurate e 5 in pietra; la home page dice che le camere in grotta sono scavate in rocce antiche."
 ---
 
 Vintage Cave House comincia da una vecchia casa di Göreme che è la dimora della famiglia da cinque generazioni. Nel frattempo è diventata un boutique hotel, e non nasconde la sua particolarità: quattro camere scavate nella roccia e cinque in pietra. Se cerchi una stanza ricavata nella roccia, chiedi una delle camere-grotta.

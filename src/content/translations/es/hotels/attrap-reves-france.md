@@ -50,6 +50,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Attrap'Rêves: hotel burbuja en la Provenza | StayAtNiche"
   metaDescription: "Duerme en burbujas transparentes en plena campiña provenzal, cerca de Marsella: el hotel de Francia para mirar las estrellas desde la cama. Desde 280 US$."
+niche_feature: "Burbujas transparentes (Zen, Jungle, Love Nature, Chic & Design, 1001 y otras) en Allauch; el sitio también vende alojamientos que no son burbujas (Lov'nid, Aqua'Room, cabañas tahitianas y cabañas ardilla) y cuenta con un sitio de cabañas aparte, A Fleur de Bois."
 ---
 
 A diez kilómetros de la estación de Saint-Charles de Marsella y a un mundo de distancia, Attrap'Rêves se esconde en las colinas de garriga que dominan Allauch: romero, encina autóctona, luz mediterránea. Cada burbuja transparente ocupa su propio rincón de monte provenzal, resguardada de las vecinas. No ves otras burbujas. Ves el campo y, de noche, el cielo.

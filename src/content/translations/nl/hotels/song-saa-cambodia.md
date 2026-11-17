@@ -47,6 +47,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Song Saa: privé-eiland met overwatervilla's | StayAtNiche"
   metaDescription: "Song Saa Private Island in Cambodja: twee privé-eilanden in de Koh Rong-archipel met overwatervilla's boven een beschermd koraalrif. Vanaf $ 1.500 per nacht."
+niche_feature: "Overwatervilla's met een of twee slaapkamers op palen boven de Golf van Thailand; de 24 villa's van het resort omvatten ook junglevilla's, villa's met zeezicht en een Royal Villa op het land."
 ---
 
 De kust van Cambodja krijgt niet de aandacht die ze verdient. De Koh Rong-archipel, een groep onbebouwde eilanden in de Golf van Thailand voor de kust van Cambodja, heeft enkele van de meest intacte koraalriffen en bossen van Zuidoost-Azië. Song Saa Private Island beslaat twee van de kleinste en best beschermde eilanden, Koh Ouen en Koh Bong, verbonden door een houten voetbrug en in hun geheel gewijd aan één resort.

@@ -49,6 +49,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Sextantio Le Grotte della Civita, Matera | StayAtNiche"
   metaDescription: "Duerme en las antiguas casas cueva de los sassi de Matera, ciudad de la UNESCO con 9.000 años de historia, en Sextantio, un hotel cueva extraordinario."
+niche_feature: "18 habitaciones son cuevas del Sasso Barisano (Civita) (por ejemplo, Cueva 17, 18 y 20), restauradas. El mismo complejo gestiona además un Palazzo della Civita aparte, con habitaciones que no son cuevas."
 ---
 
 En 1952, el primer ministro italiano Alcide De Gasperi visitó Matera y la llamó *la vergogna d'Italia*: la vergüenza de Italia. Quienes vivían en los sassi, las viviendas excavadas en los barrancos de este pueblo encaramado de Basilicata, no tenían agua corriente ni electricidad y compartían su espacio con los animales. En menos de una década, el Gobierno los realojó a la fuerza. Las cuevas quedaron vacías durante treinta años.

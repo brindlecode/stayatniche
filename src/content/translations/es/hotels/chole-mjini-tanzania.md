@@ -49,6 +49,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Chole Mjini: cabañas en los árboles en Tanzania | StayAtNiche"
   metaDescription: "Duerme en cabañas en los árboles entre ruinas árabes del siglo XIX en la isla de Chole (Tanzania): ecolodge comunitario con buceo excepcional en Mafia."
+niche_feature: "Seis cabañas en los árboles construidas a mano alrededor de baobabs y ruinas swahili en la isla de Chole, además de una casa a ras de suelo (Sita). Moja está encaramada a gran altura en un baobab vivo; las demás se sitúan entre las ruinas y la orilla."
 ---
 
 La isla de Chole guarda sus secretos en silencio. Desde el agua parece una maraña densa de baobabs y manglares que emerge del océano Índico, una más de las decenas de islitas repartidas por el Parque Marino de la Isla de Mafia. Pero pisa tierra, adéntrate en el bosque y las ruinas te encontrarán: grandes muros de piedra coralina, arcos derrumbados y estancias sin techo sepultadas bajo higueras y una vegetación espesa. Son los restos de un puesto comercial árabe del siglo XIX, en su día uno de los asentamientos más prósperos de la costa swahili de Tanzania, que la vegetación de la isla va reclamando poco a poco.

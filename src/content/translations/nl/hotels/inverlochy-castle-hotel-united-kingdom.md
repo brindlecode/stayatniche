@@ -19,6 +19,7 @@ bestFor:
 seo:
   metaTitle: "Inverlochy Castle: kasteelhotel in Schotland | StayAtNiche"
   metaDescription: "Inverlochy Castle bij Fort William: baronieel kasteel uit 1863 aan de voet van de Ben Nevis, met kamers in het kasteel, Walled Garden Rooms en Gate Lodge."
+niche_feature: "De kasteelkamers en suites liggen in het kasteel uit 1863 in Schotse baronstijl (19e eeuw); de Walled Garden-kamers zitten in een verbouwde stal op vijf minuten afstand en de Gate Lodge is een apart victoriaans poortgebouw. De officiële site noemt het ook een victoriaans landhuis."
 ---
 
 Inverlochy Castle is een baronieel landhuis uit de 19e eeuw, gelegen tussen berg en loch bij Fort William. Het werd in 1863 gebouwd door William Scarlett, 3e Baron Abinger, en koningin Victoria verbleef er een week tijdens een bezoek aan Balmoral in 1873. De naam komt van het veel oudere Inverlochy Castle uit de 13e eeuw, op een paar mijl afstand. Vandaag is het een vijfsterrenhotel.

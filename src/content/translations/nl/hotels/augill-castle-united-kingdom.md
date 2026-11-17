@@ -19,6 +19,7 @@ bestFor:
 seo:
   metaTitle: "Augill Castle: kasteelhotel in Cumbria | StayAtNiche"
   metaDescription: "Augill Castle in Kirkby Stephen: neogotisch kasteel in het Eden Valley met hemelbedkamers, houtvuren, afternoon tea en uitzicht op de Yorkshire Dales."
+niche_feature: "Kasteel uit de 19e eeuw; de kasteelkamers (de meeste met hemelbed) liggen in het kasteel zelf, maar het hotel verhuurt ook Garden Suites, Family Estate Houses en een Stable House buiten het hoofdgebouw."
 ---
 
 Augill Castle is een neogotisch kasteel uit de 19e eeuw in het Eden Valley in Cumbria, een landhuis dat oorspronkelijk een privéwoning was en later tot hotel werd verbouwd. Het ligt tussen de Yorkshire Dales en het Lake District, op wat de eigenaars het geografische middelpunt van de Britse eilanden noemen, vier mijl buiten de marktstad Kirkby Stephen.

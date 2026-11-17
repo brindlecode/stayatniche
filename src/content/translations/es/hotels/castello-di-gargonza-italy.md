@@ -8,8 +8,6 @@ highlights:
   - "Finca boscosa de unas 500 hectáreas con senderos rastreados por GPS"
   - "Entre Arezzo y Siena, con vistas al Val di Chiana"
 amenities:
-  - "Bar en la tienda del pueblo"
-  - "Restaurante fuera de las murallas"
   - "Opciones de menú sin gluten"
 bestFor:
   - "Parejas"
@@ -28,7 +26,7 @@ Gargonza se encuentra a unos 540 metros sobre el nivel del mar y domina el Val d
 
 ## Dónde dormir y comer
 
-El alojamiento son suites y apartamentos dentro de las murallas del burgo. El pueblo tiene un bar en su tienda, la Bottega di Gargonza, mientras que el restaurante está justo fuera de las murallas. El restaurante está preparado para menús sin gluten, y en Navidad y Año Nuevo se ofrecen menús de temporada.
+El alojamiento son suites y apartamentos dentro de las murallas del burgo. El pueblo tiene una tienda, la Bottega di Gargonza, donde también se hacen catas, y un restaurante. El restaurante está preparado para menús sin gluten, y en Navidad y Año Nuevo se ofrecen menús de temporada.
 
 ## Alrededores de la finca
 

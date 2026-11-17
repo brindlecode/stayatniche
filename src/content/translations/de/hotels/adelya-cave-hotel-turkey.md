@@ -18,6 +18,7 @@ bestFor:
 seo:
   metaTitle: "Adelya Cave Hotel: Höhlenhotel in Göreme | StayAtNiche"
   metaDescription: "Adelya Cave Hotel in Göreme: restauriertes Familienhaus mit neun Zimmern, Höhlenzimmern mit Geschichte und Flughafentransfer gegen Aufpreis."
+niche_feature: "Neun Zimmer in einem restaurierten Familienhaus; das Woodshed, das Zimmer von Grandpa Mehmet & Grandma Havva, der Stable und der Hayloft werden als in den Fels gehauen beschrieben, das Wine House als Höhlenzimmer; Stone Room und Çardak werden nicht als Höhlenzimmer beschrieben."
 ---
 
 Das Adelya Cave Hotel erzählt die Geschichte eines Hauses. Laut Hotel lebte hier von den 1950er- bis zu den 1990er-Jahren eine Familie: Kinder wuchsen auf, Mahlzeiten wurden gemeinsam eingenommen, und die Ernte aus Weinbergen und Gärten wurde für den Winter vorbereitet. In den Höhlenzimmern lebten Tiere, während aus den Trauben Traubensaft, Melasse, Essig und Wein entstanden. Diese Geschichte spiegelt sich in den Zimmernamen wider.

@@ -23,6 +23,7 @@ seo:
   metaTitle: "Hotel con encanto Locanda al Castello | StayAtNiche"
   metaDescription: "Locanda al Castello en Cividale del Friuli: hotel con encanto, restaurante, centro de bienestar con piscina y vistas panorámicas a los Alpes Cárnicos."
 niche_note: "El «castillo» no es una fortaleza medieval: la casona es una villa almenada de estilo castillo de mediados del siglo XIX, construida como Villa Betlemme de los jesuitas. Las habitaciones se reparten entre la casona y un ala de bienestar moderna."
+niche_feature: "27 habitaciones repartidas entre el “antico maniero” (una villa con aire de castillo almenado, el antiguo monasterio jesuita “Villa Betlemme”, de mediados del siglo XIX) y un ala de bienestar moderna; no se indica el número de habitaciones de cada ala."
 ---
 
 La Locanda al Castello reúne en un mismo lugar un hotel, un restaurante y un centro de bienestar, a pocos minutos del centro de Cividale del Friuli. El entorno es un complejo de castillo con almenas y terrazas panorámicas, que sirve también de escenario para bodas.

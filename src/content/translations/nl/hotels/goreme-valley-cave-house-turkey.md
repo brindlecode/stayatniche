@@ -18,6 +18,7 @@ bestFor:
 seo:
   metaTitle: "Göreme Valley Cave House: gastenhuis Göreme | StayAtNiche"
   metaDescription: "Göreme Valley Cave House in Göreme: gastenhuis met drie grotkamers, gezinskamers voor vier tot zeven personen en wifi op alle kamers en luchthavenshuttle."
+niche_feature: "Slechts 3 kamers van het gastenverblijf zijn ondergrondse grotkamers, uitgehouwen in echte rots; de andere kamers (3 standaard, 5 familie, 6 suites) worden niet als grotkamer beschreven."
 ---
 
 Göreme Valley Cave House noemt zichzelf “je thuis weg van thuis” en is eerder een gastenhuis dan een groot hotel. Het grotgedeelte is beperkt: de officiële site vermeldt drie ondergrondse grotkamers naast standaard-, gezins- en suitekamers, dus de meeste kamers zijn gewone kamers. De site noemt in totaal 17 kamers (3 standaard-, 3 grot-, 5 gezins- en 6 suitekamers) en meldt dat het gastenhuis maar 60 mensen tegelijk huisvest.

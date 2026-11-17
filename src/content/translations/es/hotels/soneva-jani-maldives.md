@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Soneva Jani, villas sobre el agua en Maldivas | StayAtNiche"
   metaDescription: "Soneva Jani, en el atolón de Noonu (Maldivas): villas sobre el agua con techo retráctil y tobogán a la laguna, además de Beach Villas y Signature Villas."
+niche_feature: "Las villas sobre el agua (con techos retráctiles y toboganes hacia la laguna) se alzan junto a villas de isla y de playa y a villas Signature island entre la vegetación; solo las villas de agua y las water reserves están sobre el agua."
 ---
 
 La mayoría de los resorts de ultralujo de Maldivas compiten por el tamaño de sus piscinas infinitas o la sofisticación de sus cartas de spa. Soneva Jani tomó otro camino: ¿cómo sería una villa sobre el agua si la arquitectura se construyera en torno al carácter concreto de esta laguna y de este cielo? La respuesta incluye paneles de techo retráctiles sobre el dormitorio principal, un tobogán que une la terraza del dormitorio directamente con el agua y una pantalla de cine al aire libre suspendida sobre la laguna. Es, en el mejor sentido de la palabra, un resort que juega.

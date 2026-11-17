@@ -19,6 +19,7 @@ bestFor:
 seo:
   metaTitle: "Pezulu Tree House Lodge : cabanes perchées | StayAtNiche"
   metaDescription: "Pezulu Tree House Lodge près d'Hoedspruit : petit lodge dans le Greater Kruger, cabanes bâties autour d'arbres en croissance, bassin rocheux et dîner au boma."
+niche_feature: "La plupart des unités sont des cabanes dans les arbres indépendantes, construites dans ou autour d'arbres vivants (par exemple Mountain View, à 7 m de hauteur dans un jackalberry, ou Dream, entrelacée avec deux marulas) ; la cabane de brousse en location meublée Zebrawood est de plain-pied."
 ---
 
 Pezulu Tree House Lodge est un petit lodge de safari dans la région du Greater Kruger, autour de Hoedspruit, dans la province sud-africaine du Limpopo. Son hébergement se compose surtout de cabanes dans les arbres, chacune construite autour de la canopée d'arbres en croissance ; l'exception est Zebrawood, une cabane de brousse en autonomie complète (self-catering). Le lodge est volontairement petit afin que chaque hôte vive une expérience personnelle.

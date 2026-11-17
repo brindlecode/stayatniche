@@ -52,6 +52,7 @@ nearbyAttractions:
 seo:
   metaTitle: "ICEHOTEL Schweden: Das Original-Eishotel | StayAtNiche"
   metaDescription: "Das Original-Eishotel, seit 1990 jeden Winter aus dem Eis des Torne neu gebaut: Art Suites bei −5 °C, Nordlichter und Mitternachtssonne. Ab 500 $."
+niche_feature: "Eiszimmer und Kunstsuiten im ICEHOTEL Winter (Dez.-Apr.) sowie die ganzjährig geöffneten Kunst- und Deluxe-Suiten des ICEHOTEL 365 aus Eis und Schnee (18 Suiten, -5 °C); die warmen Zimmer und Hütten in separaten Gebäuden sind gewöhnliche Unterkünfte."
 ---
 
 Alles beginnt mit dem Fluss. Der Torne, der auf seinem Weg zum Bottnischen Meerbusen die Grenze zwischen Schweden und Finnland bildet, friert jeden November mehr als einen Meter tief zu: eine Masse außergewöhnlich reinen, kristallklaren Eises, das sich für architektonische Zwecke hervorragend eignet. Aus diesem Fluss schnitten Yngve Bergqvist und ein Team japanischer Künstler 1989 die ersten Blöcke, und aus diesen Blöcken bauten sie – als Experiment und ohne jede Gewissheit, dass es gelingen würde – das erste Hotel der Welt, das vollständig aus Eis bestand.

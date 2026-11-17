@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Kelebek Special Cave Hotel: Höhlenhotel Göreme | StayAtNiche"
   metaDescription: "Kelebek Special Cave Hotel in Göreme: Hotel über dem Dorf mit Höhlenzimmern, türkischem Bad, Außenpool, Concierge und Blick auf Ballone und Täler."
+niche_feature: "36 Zimmer, eine Mischung aus Höhlen-, Feenkamin- und Steinzimmern; nur einige Höhlenzimmer sind direkt in den natürlichen Fels gehauen, darunter historische Räume aus dem 8. Jahrhundert. Die anderen sind Steinarchitektur."
 ---
 
 Das Kelebek Special Cave Hotel liegt oberhalb des Dorfes Göreme innerhalb des Nationalparks und wirbt mit Blick auf das Dorf, die Täler, die Heißluftballone und die Berge dahinter. Höhlenzimmer gehören zum Angebot, doch nur einige Zimmer sind in den Fels gehauen. Andere werden als Höhlen-Steinzimmer beschrieben. Das Hotel nennt insgesamt 36 Zimmer, eine Mischung aus Höhlen-, Feenkamin- und Steinzimmern, und bezeichnet sich auf der eigenen Website inzwischen als Kelebek Cave Hotel.

@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Four Seasons Landaa Giraavaru: villas en Maldivas | StayAtNiche"
   metaDescription: "Villas sobre el agua en la Reserva de la Biosfera del atolón Baa, junto a la bahía de Hanifaru y sus mantarrayas, con biólogos marinos residentes y spa."
+niche_feature: "La ficha oficial enumera 103 villas, entre ellas Water villas y Beach villas; las páginas de alojamiento de fourseasons.com devolvieron un error 403 y Forbes Travel Guide describe villas sobre el agua junto a villas en la playa. No se indica cuántas están sobre el agua."
 ---
 
 Lo que distingue a Landaa Giraavaru del resto de villas sobre el agua de Maldivas no es la calidad de su alojamiento, por considerable que sea, sino su ubicación y lo que se toma en serio. El atolón Baa es Reserva de la Biosfera de la UNESCO y alberga algunos de los entornos marinos más ricos del océano Índico. La bahía de Hanifaru, a un breve trayecto en barco del resort, acoge las mayores concentraciones de mantarrayas alimentándose que se conocen en el mundo: cientos de mantas de arrecife llegan entre junio y noviembre para alimentarse en formaciones circulares que no tienen equivalente en ningún otro lugar del planeta. Verlo con unas gafas de snorkel es una de las experiencias con fauna más desconcertantes que existen.

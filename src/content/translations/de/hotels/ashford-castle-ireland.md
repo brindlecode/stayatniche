@@ -24,6 +24,7 @@ bestFor:
 seo:
   metaTitle: "Ashford Castle: Schlosshotel in Irland | StayAtNiche"
   metaDescription: "800 Jahre irische Geschichte am Lough Corrib: Ashford Castle im County Mayo bietet 83 individuelle Zimmer, eine renommierte Falknerschule und feine Küche."
+niche_feature: "Historisches Schloss mit Ursprüngen im 13. Jahrhundert, heute als Hotel geführt; laut offizieller Website gibt es 83 Zimmer und Suiten sowie das separate Boathouse am See. Welche Zimmer in der Bausubstanz des Schlosses liegen, ist dort nicht angegeben. Die Lodge ist ein eigenständiges Hotel."
 ---
 
 Ashford Castle gibt es seit 1228, als die anglonormannische Familie de Burgo den ursprünglichen Turm am Ufer des Lough Corrib errichtete. Im 19. Jahrhundert baute die Familie Guinness die Anlage erheblich aus, und das Ergebnis ist ein irisches Anwesen von 350 Acres mit einer Burg im Zentrum, die zweifellos echt ist: keine viktorianische Spielerei, kein Hotel, das zufällig ein Türmchen hat.

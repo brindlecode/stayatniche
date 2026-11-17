@@ -5,7 +5,7 @@ description: "Albergo diffuso in een middeleeuws kasteel en dorp aan de Via Fran
 highlights:
   - "Albergo diffuso (verspreid hotel) in een middeleeuws kasteel en dorp"
   - "Sinds 1644 in handen van de familie Cecchini"
-  - "Kamers in een toren van de oude stadsmuur"
+  - "Drie kamers in een voormalige toren van de oude stadsmuur"
   - "Zwembad en zomerrestaurant bereikbaar via een doorgang uitgehouwen in vulkanisch gesteente"
   - "Dichtbij de thermen van Fonteverde"
 amenities:
@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Castello di Proceno: albergo diffuso in Lazio | StayAtNiche"
   metaDescription: "Castello di Proceno: albergo diffuso in een middeleeuws kasteel aan de Via Francigena, met appartementen, vier kamers, zwembad en zomerrestaurant."
+niche_feature: "Albergo diffuso in het kasteelcomplex van Proceno (een vijfhoekige vesting met donjon, twee torentjes en een werkende ophaalbrug): appartementen en suites in het fortino en rond de binnenplaats, plus vier kamers in een voormalige muurtoren. De aparte boerderij Il Giulione ligt buiten het kasteel."
 ---
 
 Castello di Proceno is een albergo diffuso, een hotel dat verspreid ligt over de gebouwen van een historisch dorp in plaats van onder één dak. Het beslaat een kasteel en een dorpskern in Proceno, aan de Via Francigena, op het punt waar Toscane, Umbrië en Lazio samenkomen, in het hart van de Tuscia. De Terme di Fonteverde in San Casciano dei Bagni liggen op enkele kilometers afstand.
@@ -30,7 +31,7 @@ Het kasteel is sinds 1644 in handen van de familie Cecchini, tegenwoordig Bisoni
 
 ## De kamers
 
-Het grootste deel van het verblijf vindt plaats in appartementen en suites, elk met een naam: Primavera, Estate, Autunno, Corsetto, Chiostrino, Loggia, Bicocca en Innominato. Daarnaast zijn er vier kamers die Caciaia, Collinella, Poggiolo en Belvedere heten. De laatste twee liggen tegenover elkaar, en alle vier zijn bereikbaar via een deur op de oude binnenplaats.
+Het grootste deel van het verblijf vindt plaats in appartementen en suites, elk met een naam: Primavera, Estate, Autunno, Corsetto, Chiostrino, Loggia, Bicocca en Innominato. Daarnaast zijn er vier kamers die Caciaia, Collinella, Poggiolo en Belvedere heten. De laatste twee liggen tegenover elkaar, en alle vier zijn bereikbaar via een deur op de oude binnenplaats. Volgens de appartementenpagina van het kasteel maakten Caciaia, Collinella en Poggiolo vroeger deel uit van een toren van de oude dorpsmuur.
 
 Een binnentrap verbindt drie verdiepingen die vroeger deel uitmaakten van een van de torens van de oude stadsmuur. De trap is steil en niet geschikt voor kinderen. Elk van de vier kamers heeft een kleine koelkast, magnetron, waterkoker, broodrooster en wastafel, en de badkamers hebben een douche en föhn. Overnachting met ontbijt is op verzoek mogelijk.
 
@@ -41,3 +42,5 @@ Een kleine tuin geeft toegang tot de suites, en een citroenhuis leidt naar een d
 ## Praktische info
 
 Inchecken kan tussen 16.00 en 19.00 uur en uitchecken is uiterlijk om 10.00 uur, al kunnen de tijden worden aangepast als je het kasteel laat weten. Een vergaderzaal biedt plaats aan maximaal 30 personen. Het hele jaar door worden in het kasteel concerten en evenementen gehouden.
+
+Op de website van het kasteel wordt ook Il Giulione aangeboden, een aparte boerderij (agriturismo) op 12 km van het kasteel, met zes slaapkamers, zes badkamers en een eigen zwembad. Het maakt geen deel uit van het kasteelcomplex.

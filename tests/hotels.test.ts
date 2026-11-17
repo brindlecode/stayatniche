@@ -125,3 +125,20 @@ describe('notes shown at the top of a page exist in every language', () => {
     }
   });
 });
+
+describe('list fields stay lists of plain strings (an unquoted "a: b" turns into an object)', () => {
+  const files = [
+    ...hotels.map(h => [`src/content/hotels/${h.slug}.md`, h.data] as const),
+    ...['de', 'fr', 'es', 'it', 'nl'].flatMap(l => readdirSync(join(ROOT, `src/content/translations/${l}/hotels`)).map(f => {
+      const t = readFileSync(join(ROOT, `src/content/translations/${l}/hotels/${f}`), 'utf8');
+      return [`translations/${l}/hotels/${f}`, parse(t.match(/^---\n([\s\S]*?)\n---/)![1]) as Record<string, any>] as const;
+    })),
+  ];
+  it('highlights, amenities, bestFor and tags hold only strings', () => {
+    const bad: string[] = [];
+    for (const [name, d] of files) for (const k of ['highlights', 'amenities', 'bestFor', 'tags']) {
+      (d[k] ?? []).forEach((v: unknown, i: number) => { if (typeof v !== 'string') bad.push(`${name} ${k}[${i}]`); });
+    }
+    expect(bad).toEqual([]);
+  });
+});

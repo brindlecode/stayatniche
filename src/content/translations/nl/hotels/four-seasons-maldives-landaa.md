@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Four Seasons Landaa Giraavaru, Malediven | StayAtNiche"
   metaDescription: "Overwatervilla's met glazen vloer in het UNESCO-biosfeerreservaat van het Baa-atol, vlak bij de mantaroggen van Hanifaru Bay, met eigen mariene biologen."
+niche_feature: "Volgens de officiële factsheet zijn er 103 villa's, waaronder Water Villas en Beach Villas; de accommodatiepagina's op fourseasons.com gaven een 403-foutmelding en Forbes Travel Guide beschrijft overwatervilla's naast strandvilla's. Het aantal overwatervilla's wordt niet genoemd."
 ---
 
 Wat Landaa Giraavaru onderscheidt van de rest van het aanbod aan overwatervilla's op de Malediven, is niet de kwaliteit van de accommodatie, hoe hoog die ook is, maar waar het ligt en wat het serieus neemt. Het Baa-atol heeft de status van UNESCO-biosfeerreservaat en herbergt enkele van de rijkste mariene omgevingen van de Indische Oceaan. Hanifaru Bay, een kort boottochtje van het resort, is de plek van de grootste bekende samenscholingen van foeragerende mantaroggen ter wereld: tussen juni en november komen honderden rifmanta's hier eten in cirkelvormige formaties die nergens anders op aarde hun gelijke hebben. Het met een snorkelbril bekijken hoort bij de meest desoriënterende natuurbelevenissen die er zijn.

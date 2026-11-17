@@ -52,6 +52,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Kakslauttanen : igloo de verre en Laponie | StayAtNiche"
   metaDescription: "Dormir sous les aurores boréales en Laponie finlandaise : des igloos de verre chauffés, de tailles variées, à Kakslauttanen. À partir de 400 $ la nuit."
+niche_feature: "Igloos de verre (petits, grands, et igloos Kelo-Glass dont les chambres sont aménagées dans un chalet en rondins) dans les villages Est et Ouest, aux côtés de cabanes et chalets en rondins classiques, de suites et d'igloos de neige. Les igloos de verre sont ouverts de fin août à avril."
 ---
 
 Certains lieux vivent dans l'imaginaire collectif des voyageurs bien avant qu'on ne les découvre, et le Kakslauttanen Arctic Resort en fait résolument partie. Posé par 68 degrés nord dans les étendues sauvages de la Laponie finlandaise, cet ensemble d'igloos en verre thermique est devenu la réponse de référence à la question qui obsède tout chasseur d'aurores : où dormir, sur cette planète, pour être au plus près des aurores boréales ?

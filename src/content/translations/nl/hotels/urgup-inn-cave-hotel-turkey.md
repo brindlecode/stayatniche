@@ -23,6 +23,7 @@ bestFor:
 seo:
   metaTitle: "Urgup Inn Cave Hotel in Ürgüp, Cappadocië | StayAtNiche"
   metaDescription: "Urgup Inn Cave Hotel in Ürgüp: familiehotel in een verbouwd huis, tien kamers met eigen badkamer, ontbijt inbegrepen en centrale ligging in de stad."
+niche_feature: "Een familiehuis dat is omgebouwd tot hotel met 10 kamers; alleen kamer 105 (Jacuzzi Deluxe Cave Room, ‘Mağara Oda’, een overwelfde kamer die uit twee samengevoegde kamers bestaat) wordt een grotkamer genoemd. De andere kamers zijn gewone kamers met eigen badkamer."
 ---
 
 Urgup Inn Cave Hotel heeft maar een lichte grotsfeer, en de pagina moet ook zo gelezen worden. Het is een comfortabel familiehotel in een verbouwd familiehuis in het centrum van Ürgüp. Van de tien kamers wordt alleen kamer 105 (een Jacuzzi Deluxe Cave Room) als grotkamer genoemd. De rest zijn traditioneel ingerichte kamers met eigen badkamer.

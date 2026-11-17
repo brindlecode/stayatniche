@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Inkaterra Canopy Treehouse: dormir en la Amazonía | StayAtNiche"
   metaDescription: "Duerme a 30 metros de altura en el dosel de la selva amazónica, en la Reserva de Tambopata (Perú), con naturalistas residentes, colpas de guacamayos y caimanes."
+niche_feature: "Una única Canopy Tree House de dos camas sobre una plataforma privada al final del Inkaterra Canopy Walkway, a unos 28 m de altura; se reserva como noche suplementaria sobre una estancia en Reserva Amazónica, cuyas 35 cabañas están a nivel del suelo."
 ---
 
 La Amazonía peruana en torno a Puerto Maldonado —en concreto, la Reserva Nacional Tambopata y su área protegida circundante— es uno de los ecosistemas con mayor biodiversidad jamás registrados. Una sola hectárea de bosque puede albergar aquí más especies de hormigas que especies de insectos de todo tipo hay en las islas británicas; un solo día de observación de aves puede sumar 200 especies, y un paseo nocturno revela una densidad de anfibios, reptiles y artrópodos que hace que la oscuridad parezca habitada como ningún paisaje templado puede lograrlo. Dormir en el dosel de esta selva, a la altura donde penetra la luz y se concentra el estrato más productivo del ecosistema, es una experiencia que se mide en especies por hora.

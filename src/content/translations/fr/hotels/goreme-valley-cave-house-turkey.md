@@ -18,6 +18,7 @@ bestFor:
 seo:
   metaTitle: "Maison d’hôtes Göreme Valley Cave House | StayAtNiche"
   metaDescription: "Göreme Valley Cave House à Göreme : maison d’hôtes avec trois chambres troglodytes, chambres familiales jusqu’à sept personnes et Wi-Fi partout."
+niche_feature: "Seules 3 chambres de la maison d'hôtes sont de véritables chambres troglodytes creusées dans la roche ; les autres chambres (3 standard, 5 familiales, 6 suites) ne sont pas décrites comme troglodytes."
 ---
 
 Göreme Valley Cave House se présente comme « votre chez-vous loin de chez vous » et s’apparente à une maison d’hôtes plutôt qu’à un grand hôtel. L’aspect troglodytique n’est que partiel : le site officiel répertorie trois chambres souterraines parmi ses chambres standard, familiales et suites ; la majorité des chambres sont donc classiques. Le site indique au total 17 chambres (3 standard, 3 troglodytes, 5 familiales et 6 suites) et précise que la maison d’hôtes n’accueille que 60 personnes à la fois.
