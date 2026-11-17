@@ -60,7 +60,7 @@ Boek tours in Hakone en uitstapjes met Fuji-uitzicht via [Klook](https://www.klo
 
 ## Van Tokio naar Naoshima: het kunsteiland per Shinkansen
 
-Naoshima, het kunsteiland in de Japanse Binnenzee waar [Benesse House](/hotels/benesse-house-naoshima-japan) staat, bereik je met de Shinkansen naar Okayama, dan een lokale trein naar de haven van Uno en tot slot een veerboot van 20 minuten. Totale reistijd vanuit Tokio: ongeveer 4,5 uur. Vanuit Kyoto: 3,5 uur.
+Naoshima, het kunsteiland in de Japanse Binnenzee waar Benesse House staat, bereik je met de Shinkansen naar Okayama, dan een lokale trein naar de haven van Uno en tot slot een veerboot van 20 minuten. Totale reistijd vanuit Tokio: ongeveer 4,5 uur. Vanuit Kyoto: 3,5 uur.
 
 **Treinroute:** Tokio → Okayama (Shinkansen Hikari, 3 uur en 15 minuten, met JR Pass) → station Chayamachi → haven van Uno (30 minuten, met JR Pass op de Uno-lijn) → veerboot naar Naoshima (20 minuten, niet met JR Pass)
 
@@ -83,7 +83,7 @@ Boek ervaringen in Kyoto, zoals een theeceremonie, Nō-theater of sakeproeverij,
 
 ## Van Tokio naar Niseko, Hokkaido: ryokan in de winter
 
-[Zaborin](/hotels/zaborin-hokkaido-japan) en het bredere skigebied van Niseko op Hokkaido vormen de belangrijkste winterbestemming van Japan: uitzonderlijk skiterrein gecombineerd met een luxe ryokanscene die zich de afgelopen tien jaar razendsnel heeft ontwikkeld.
+Zaborin en het bredere skigebied van Niseko op Hokkaido vormen de belangrijkste winterbestemming van Japan: uitzonderlijk skiterrein gecombineerd met een luxe ryokanscene die zich de afgelopen tien jaar razendsnel heeft ontwikkeld.
 
 **Treinroute:** Tokio → Shin-Hakodate-Hokuto (Hokkaido Shinkansen, met JR Pass, 4 uur en 15 minuten) → Hakodate → Niseko (2,5 uur per bus of privétransfer; de treinverbinding is omslachtig en traag, een privétransfer is praktischer)
 
@@ -97,7 +97,7 @@ Zoek transfers van New Chitose Airport naar Niseko via [KiwiTaxi](https://kiwita
 
 ## Hoshinoya Fuji: de Fuji vanaf het meer
 
-[Hoshinoya Fuji](/hotels/hoshinoya-fuji-japan), de glampingplek in het bos boven het Kawaguchimeer met direct uitzicht op de Fuji, vraagt om een specifieke aanpak.
+Hoshinoya Fuji, de glampingplek in het bos boven het Kawaguchimeer met direct uitzicht op de Fuji, vraagt om een specifieke aanpak.
 
 **Treinroute:** Shinjuku → station Kawaguchiko (Fuji Excursion Limited Express, JR Pass plus toeslag voor een gereserveerde plaats; of de snelbus vanaf Shinjuku Bus Terminal, 90 minuten). Vanaf station Kawaguchiko rijdt een gratis pendelbus naar Hoshinoya Fuji (15 minuten; check de tijden bij de accommodatie).
 

@@ -7,12 +7,14 @@ on:
         description: 'Re-download existing logos (yes/no)'
         default: 'no'
 
-permissions:
-  contents: write
+# Nothing by default; the one job gets only what it needs.
+permissions: {}
 
 jobs:
   logos:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # commits the downloaded logos back to the branch
     steps:
       - uses: actions/checkout@v7
       - uses: actions/setup-node@v7

@@ -60,7 +60,7 @@ Touren in Hakone und Ausflüge mit Fuji-Blick buchen Sie auf [Klook](https://www
 
 ## Von Tokio nach Naoshima: Mit dem Shinkansen zur Kunstinsel
 
-Naoshima – die Kunstinsel in der Seto-Inlandsee, auf der das [Benesse House](/hotels/benesse-house-naoshima-japan) steht – erreichen Sie mit dem Shinkansen bis Okayama, dann mit einem Regionalzug bis zum Hafen Uno und schließlich mit einer 20-minütigen Fähre. Gesamtreisezeit ab Tokio: etwa 4,5 Stunden, ab Kyoto 3,5 Stunden.
+Naoshima – die Kunstinsel in der Seto-Inlandsee, auf der das Benesse House steht – erreichen Sie mit dem Shinkansen bis Okayama, dann mit einem Regionalzug bis zum Hafen Uno und schließlich mit einer 20-minütigen Fähre. Gesamtreisezeit ab Tokio: etwa 4,5 Stunden, ab Kyoto 3,5 Stunden.
 
 **Bahnstrecke:** Tokio → Okayama (Shinkansen Hikari, 3 Stunden 15 Minuten, im JR Pass enthalten) → Bahnhof Chayamachi → Hafen Uno (30 Minuten, auf der Uno-Linie im JR Pass enthalten) → Fähre nach Naoshima (20 Minuten, nicht im JR Pass enthalten)
 
@@ -83,7 +83,7 @@ Erlebnisse in Kyoto – Teezeremonie, Nō-Theater, Sake-Verkostung – buchen Si
 
 ## Von Tokio nach Niseko auf Hokkaido: Ryokan im Winter
 
-Das [Zaborin](/hotels/zaborin-hokkaido-japan) und das gesamte Resortgebiet von Niseko auf Hokkaido sind Japans erstes Winterreiseziel – eine Kombination aus herausragendem Skigelände und einer Szene von Luxus-Ryokan, die sich im letzten Jahrzehnt rasant entwickelt hat.
+Das Zaborin und das gesamte Resortgebiet von Niseko auf Hokkaido sind Japans erstes Winterreiseziel – eine Kombination aus herausragendem Skigelände und einer Szene von Luxus-Ryokan, die sich im letzten Jahrzehnt rasant entwickelt hat.
 
 **Bahnstrecke:** Tokio → Shin-Hakodate-Hokuto (Hokkaido-Shinkansen, im JR Pass enthalten, 4 Stunden 15 Minuten) → Hakodate → Niseko (2,5 Stunden mit dem Bus oder privatem Transfer; die Bahnverbindung ist umständlich und langsam – ein privater Transfer ist praktischer)
 
@@ -97,7 +97,7 @@ Transfers vom Flughafen New Chitose nach Niseko finden Sie über [KiwiTaxi](http
 
 ## Hoshinoya Fuji: Der Fuji vom See aus
 
-Das [Hoshinoya Fuji](/hotels/hoshinoya-fuji-japan) – das Waldglamping-Refugium oberhalb des Kawaguchi-Sees mit direktem Blick auf den Fuji – verlangt eine eigene Anreiseplanung.
+Das Hoshinoya Fuji – das Waldglamping-Refugium oberhalb des Kawaguchi-Sees mit direktem Blick auf den Fuji – verlangt eine eigene Anreiseplanung.
 
 **Bahnstrecke:** Shinjuku → Bahnhof Kawaguchiko (Fuji Excursion Limited Express, JR Pass plus Zuschlag für die Platzreservierung; alternativ Fernbus ab dem Busbahnhof Shinjuku, 90 Minuten). Ab dem Bahnhof Kawaguchiko fährt ein kostenloser Shuttlebus zum Hoshinoya Fuji (15 Minuten, Abfahrtszeiten beim Haus bestätigen).
 

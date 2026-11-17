@@ -71,7 +71,7 @@ La laguna glaciar de Jökulsárlón —donde los icebergs se desprenden del glac
 
 ### Deplar Farm, península de Tröllaskagi
 
-[Deplar Farm](https://stayatniche.com/hotels/deplar-farm-iceland/) se encuentra en la península de Tröllaskagi, en el norte de Islandia: un lodge de heliesquí y de pesca con mosca en verano situado en lo más alto del mercado de alojamiento islandés. Su ubicación septentrional permite ver auroras casi todas las noches despejadas de invierno. En verano se ofrecen vuelos en helicóptero sobre los fiordos de los alrededores.
+Deplar Farm se encuentra en la península de Tröllaskagi, en el norte de Islandia: un lodge de heliesquí y de pesca con mosca en verano situado en lo más alto del mercado de alojamiento islandés. Su ubicación septentrional permite ver auroras casi todas las noches despejadas de invierno. En verano se ofrecen vuelos en helicóptero sobre los fiordos de los alrededores.
 
 **Cómo llegar:** vuelo nacional de Reikiavik a Akureyri (50 minutos) y traslado a Deplar en helicóptero o por carretera según la temporada. El lodge se encarga de toda la logística.
 

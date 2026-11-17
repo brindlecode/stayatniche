@@ -33,8 +33,8 @@ on:
         required: false
         default: 'false'
 
-permissions:
-  contents: write
+# Nothing by default; the one job gets only what it needs.
+permissions: {}
 
 concurrency:
   group: hotel-pipeline
@@ -43,6 +43,8 @@ concurrency:
 jobs:
   run:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # pushes the queue to the branch and the evidence packs to pipeline-data
     timeout-minutes: 300
     env:
       EVIDENCE_IDS: ${{ github.event.inputs.evidence_ids }}

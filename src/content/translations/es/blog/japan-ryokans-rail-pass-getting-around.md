@@ -60,7 +60,7 @@ Reserva excursiones por Hakone y experiencias con vistas al Fuji en [Klook](http
 
 ## De Tokio a Naoshima: la isla del arte en Shinkansen
 
-Para llegar a Naoshima —la isla del arte en el mar Interior de Seto donde se alza [Benesse House](/hotels/benesse-house-naoshima-japan)— hay que tomar el Shinkansen hasta Okayama, luego un tren local hasta el puerto de Uno y, por último, un ferri de 20 minutos. Tiempo total desde Tokio: unas 4,5 horas. Desde Kioto: 3,5 horas.
+Para llegar a Naoshima —la isla del arte en el mar Interior de Seto donde se alza Benesse House— hay que tomar el Shinkansen hasta Okayama, luego un tren local hasta el puerto de Uno y, por último, un ferri de 20 minutos. Tiempo total desde Tokio: unas 4,5 horas. Desde Kioto: 3,5 horas.
 
 **Ruta en tren:** Tokio → Okayama (Shinkansen Hikari, 3 h 15 min, cubierto por el JR Pass) → estación de Chayamachi → puerto de Uno (30 minutos, cubierto por el JR Pass en la línea Uno) → ferri a Naoshima (20 minutos, no cubierto por el JR Pass)
 
@@ -83,7 +83,7 @@ Reserva experiencias en Kioto —ceremonia del té, teatro Noh, cata de sake— 
 
 ## De Tokio a Niseko (Hokkaido): ryokan de invierno
 
-[Zaborin](/hotels/zaborin-hokkaido-japan) y la amplia zona turística de Niseko, en Hokkaido, son el gran destino invernal de Japón: una combinación de terreno de esquí excepcional y una escena de ryokan de lujo que ha crecido rápidamente en la última década.
+Zaborin y la amplia zona turística de Niseko, en Hokkaido, son el gran destino invernal de Japón: una combinación de terreno de esquí excepcional y una escena de ryokan de lujo que ha crecido rápidamente en la última década.
 
 **Ruta en tren:** Tokio → Shin-Hakodate-Hokuto (Shinkansen de Hokkaido, cubierto por el JR Pass, 4 h 15 min) → Hakodate → Niseko (2,5 horas en autobús o traslado privado; la conexión ferroviaria es indirecta y lenta, así que el traslado privado resulta más práctico)
 
@@ -97,7 +97,7 @@ Busca traslados del aeropuerto New Chitose a Niseko en [KiwiTaxi](https://kiwita
 
 ## Hoshinoya Fuji: el monte Fuji desde el lago
 
-[Hoshinoya Fuji](/hotels/hoshinoya-fuji-japan) —el glamping en el bosque sobre el lago Kawaguchi con vistas directas al Fuji— exige un plan de transporte concreto.
+Hoshinoya Fuji —el glamping en el bosque sobre el lago Kawaguchi con vistas directas al Fuji— exige un plan de transporte concreto.
 
 **Ruta en tren:** Shinjuku → estación de Kawaguchiko (expreso limitado Fuji Excursion, JR Pass más suplemento por asiento reservado; o autobús de carretera desde la terminal de autobuses de Shinjuku, 90 minutos). Desde la estación de Kawaguchiko: autobús lanzadera gratuito a Hoshinoya Fuji (15 minutos; confirma los horarios con el alojamiento).
 

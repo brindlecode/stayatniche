@@ -71,7 +71,7 @@ Die Gletscherlagune Jökulsárlón – wo Eisberge vom Breiðamerkurjökull kalb
 
 ### Deplar Farm, Tröllaskagi
 
-Die [Deplar Farm](https://stayatniche.com/hotels/deplar-farm-iceland/) liegt auf der Trollhalbinsel (Tröllaskagi) in Nordisland – eine Lodge für Heliskiing im Winter und Fliegenfischen im Sommer, ganz an der Spitze des isländischen Unterkunftsmarkts. Dank der nördlichen Lage lassen sich in fast jeder klaren Winternacht Polarlichter beobachten. Im Sommer werden Hubschrauberflüge über die umliegenden Fjorde angeboten.
+Die Deplar Farm liegt auf der Trollhalbinsel (Tröllaskagi) in Nordisland – eine Lodge für Heliskiing im Winter und Fliegenfischen im Sommer, ganz an der Spitze des isländischen Unterkunftsmarkts. Dank der nördlichen Lage lassen sich in fast jeder klaren Winternacht Polarlichter beobachten. Im Sommer werden Hubschrauberflüge über die umliegenden Fjorde angeboten.
 
 **Anreise:** Inlandsflug von Reykjavík nach Akureyri (50 Minuten), dann je nach Jahreszeit per Hubschrauber oder auf dem Landweg zur Deplar Farm. Die Lodge organisiert die gesamte Logistik.
 

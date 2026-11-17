@@ -42,3 +42,15 @@ export function placeLabel(destination: string, country: string, localCountry: s
   const d = cleanDestination(destination, country, localCountry);
   return fold(d) === fold(country) || fold(d) === fold(localCountry) ? localCountry : `${d}, ${localCountry}`;
 }
+
+/**
+ * Site-verification code from settings (src/content/settings/seo.json). Accepts the bare code or the
+ * whole tag Search Console shows (<meta name="google-site-verification" content="…" />), so pasting
+ * either works. Returns '' when empty or not a plausible code.
+ */
+export function verificationCode(value: unknown): string {
+  if (typeof value !== 'string') return '';
+  const v = value.trim();
+  const code = v.match(/content\s*=\s*["']([^"']+)["']/i)?.[1] ?? v;
+  return /^[A-Za-z0-9_\-.=:]{4,200}$/.test(code.trim()) ? code.trim() : '';
+}

@@ -71,7 +71,7 @@ La lagune glaciaire de Jökulsárlón, où les icebergs se détachent du glacier
 
 ### Deplar Farm, péninsule de Tröllaskagi
 
-[Deplar Farm](https://stayatniche.com/hotels/deplar-farm-iceland/) se trouve sur la péninsule des Trolls (Tröllaskagi), dans le nord de l'Islande : un lodge d'héliski et de pêche à la mouche estivale qui évolue tout en haut du marché de l'hébergement islandais. Sa situation septentrionale permet d'observer les aurores presque chaque nuit claire d'hiver. En été, des survols en hélicoptère des fjords environnants sont proposés.
+Deplar Farm se trouve sur la péninsule des Trolls (Tröllaskagi), dans le nord de l'Islande : un lodge d'héliski et de pêche à la mouche estivale qui évolue tout en haut du marché de l'hébergement islandais. Sa situation septentrionale permet d'observer les aurores presque chaque nuit claire d'hiver. En été, des survols en hélicoptère des fjords environnants sont proposés.
 
 **Accès :** vol intérieur de Reykjavík à Akureyri (50 minutes), puis transfert jusqu'à Deplar en hélicoptère ou par la route selon la saison. Le lodge coordonne toute la logistique.
 

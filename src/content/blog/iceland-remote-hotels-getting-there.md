@@ -88,7 +88,7 @@ Jökulsárlón glacier lagoon — where icebergs calve from Breiðamerkurjökull
 
 ### Deplar Farm, Troll Peninsula
 
-[Deplar Farm](https://stayatniche.com/hotels/deplar-farm-iceland/) sits on the Troll Peninsula (Tröllaskagi) in northern Iceland — a helicopter skiing and summer fly fishing lodge that operates at the very top of the Icelandic accommodation market. The northern location means aurora viewing almost every clear winter night. Summer helicopter tours of the surrounding fjords are available.
+Deplar Farm sits on the Troll Peninsula (Tröllaskagi) in northern Iceland — a helicopter skiing and summer fly fishing lodge that operates at the very top of the Icelandic accommodation market. The northern location means aurora viewing almost every clear winter night. Summer helicopter tours of the surrounding fjords are available.
 
 **Getting there:** Fly Reykjavík to Akureyri domestic (50 minutes), then transfer to Deplar by helicopter or ground vehicle depending on season. The lodge coordinates all logistics.
 

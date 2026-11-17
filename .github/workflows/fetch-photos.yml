@@ -3,12 +3,14 @@ name: Fetch hotel photos (Wikimedia)
 on:
   workflow_dispatch:
 
-permissions:
-  contents: write
+# Nothing by default; the one job gets only what it needs.
+permissions: {}
 
 jobs:
   photos:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # commits the downloaded photos back to the branch
     steps:
       - uses: actions/checkout@v7
       - uses: actions/setup-node@v7

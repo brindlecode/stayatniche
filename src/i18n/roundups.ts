@@ -3,6 +3,12 @@ import { SITE, slugify } from '../lib/site';
 import { i18n, countryName, categorySlug, localePath, LOCALES, type Locale } from './index';
 import { localized } from './content';
 
+/**
+ * A roundup page that lists fewer stays than this is built (its URL keeps working) but is thin:
+ * noindex, out of the sitemap and out of the hreflang sets of its other languages.
+ */
+export const MIN_INDEXABLE = 3;
+
 export const countrySlug = (locale: Locale, country: string) => slugify(countryName(locale, country));
 export const bestSlug = (locale: Locale, cat: string, country: string) =>
   slugify(i18n(locale).t.best.slug(categorySlug(locale, cat), countrySlug(locale, country)));
@@ -32,13 +38,16 @@ export async function bestGroups(locale: Locale) {
   });
 }
 
-/** hreflang alternates for a country / best page (only locales where it exists). */
+/**
+ * Language versions of a country / best page (only locales where it exists). `indexable` is false for a
+ * version that lists fewer than MIN_INDEXABLE stays: the language menu still links to it, hreflang does not.
+ */
 export async function roundupAlternates(kind: 'countries' | 'best', country: string, cat?: string) {
-  const out: { locale: string; href: string }[] = [];
+  const out: { locale: string; href: string; indexable: boolean }[] = [];
   for (const l of LOCALES as Locale[]) {
     const list = kind === 'countries' ? await countryGroups(l) : await bestGroups(l);
     const hit = list.find((g: any) => g.country === country && (!cat || g.cat === cat));
-    if (hit) out.push({ locale: l, href: localePath(l, kind, hit.slug) });
+    if (hit) out.push({ locale: l, href: localePath(l, kind, hit.slug), indexable: hit.hs.length >= MIN_INDEXABLE });
   }
   return out;
 }

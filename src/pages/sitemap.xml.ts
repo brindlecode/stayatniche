@@ -2,7 +2,7 @@ import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
 import { LOCALES, LOCALE_META, type Locale } from '../i18n';
 import { localized, entryAlternates, allAlternates, type Col } from '../i18n/content';
-import { countryGroups, bestGroups, roundupAlternates } from '../i18n/roundups';
+import { countryGroups, bestGroups, roundupAlternates, MIN_INDEXABLE } from '../i18n/roundups';
 
 const SITE = 'https://stayatniche.com';
 type Alt = { locale: string; href: string };
@@ -31,7 +31,7 @@ export const GET: APIRoute = async () => {
   for (const [kind, priority, changefreq] of [
     ['home', '1.0', 'daily'], ['categories', '0.9', 'weekly'], ['hotels', '0.9', 'weekly'], ['blog', '0.8', 'daily'],
     ['destinations', '0.8', 'weekly'], ['experiences', '0.7', 'weekly'], ['countries', '0.6', 'weekly'],
-    ['newsletter', '0.3', 'monthly'], ['contact', '0.4', 'monthly'],
+    ['newsletter', '0.3', 'monthly'], ['contact', '0.4', 'monthly'], ['photo-credits', '0.2', 'monthly'],
   ] as const) groups.push({ alts: allAlternates(kind), priority, changefreq });
 
   for (const name of ['about', 'disclosure', 'privacy']) {
@@ -43,15 +43,20 @@ export const GET: APIRoute = async () => {
     ['categories', 'categories', '0.9', 'weekly'], ['hotels', 'hotels', '0.8', 'monthly'], ['blog', 'blog', '0.7', 'monthly'],
     ['destinations', 'destinations', '0.6', 'monthly'], ['experiences', 'experiences', '0.6', 'monthly'],
   ];
+  // A category with fewer than MIN_INDEXABLE live stays is noindex (CategoryView): not listed.
+  const live = await localized('hotels', 'en');
   for (const [col, kind, priority, changefreq] of entries) {
     for (const e of await localized(col, 'en')) {
+      if (col === 'categories' && live.filter(h => h.data.category === e.slug).length < MIN_INDEXABLE) continue;
       const d: any = e.data;
       groups.push({ alts: await entryAlternates(col, kind, e.slug), lastmod: day(d.updatedDate ?? d.publishedDate), priority, changefreq });
     }
   }
 
-  for (const g of await countryGroups('en')) groups.push({ alts: await roundupAlternates('countries', g.country), priority: '0.7', changefreq: 'weekly' });
-  for (const g of await bestGroups('en')) groups.push({ alts: await roundupAlternates('best', g.country, g.cat), priority: '0.7', changefreq: 'weekly' });
+  // Thin roundups (fewer than 3 stays in that language) are noindex: left out here.
+  const indexable = (alts: { locale: string; href: string; indexable: boolean }[]) => alts.filter(a => a.indexable).map(({ locale, href }) => ({ locale, href }));
+  for (const g of await countryGroups('en')) groups.push({ alts: indexable(await roundupAlternates('countries', g.country)), priority: '0.7', changefreq: 'weekly' });
+  for (const g of await bestGroups('en')) groups.push({ alts: indexable(await roundupAlternates('best', g.country, g.cat)), priority: '0.7', changefreq: 'weekly' });
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">

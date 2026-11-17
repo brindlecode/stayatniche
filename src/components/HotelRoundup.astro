@@ -20,9 +20,11 @@ interface Props {
   searchPlace: string;  // for the Expedia CTA (English, used in partner search URLs)
   placeLabel?: string;  // same place, localized for display
   related?: { label: string; url: string }[];
-  alternates?: { locale: string; href: string }[];
+  alternates?: { locale: string; href: string; indexable?: boolean }[];
+  /** Thin page (fewer than 3 stays): kept for visitors, out of the index. */
+  noIndex?: boolean;
 }
-const { title, metaTitle, metaDescription, intro, path, hotels, crumbs, faq, searchPlace, related = [], alternates, placeLabel } = Astro.props;
+const { title, metaTitle, metaDescription, intro, path, hotels, crumbs, faq, searchPlace, related = [], alternates, placeLabel, noIndex = false } = Astro.props;
 const L = i18n(getLocale(Astro.url));
 const R = L.t.roundup;
 
@@ -36,10 +38,10 @@ const ld = [
   { '@context': 'https://schema.org', '@type': 'ItemList', name: title, numberOfItems: sorted.length, itemListElement: sorted.map((h, i) => ({ '@type': 'ListItem', position: i + 1, name: h.data.name, url: SITE + L.path('hotels', h.slug) })) },
 ];
 ---
-<BaseLayout title={metaTitle} description={metaDescription} jsonLd={ld} alternates={alternates}>
+<BaseLayout title={metaTitle} description={metaDescription} jsonLd={ld} alternates={alternates} noIndex={noIndex}>
   <section class="bg-warm-50 pt-8 pb-10">
     <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-      <nav aria-label={L.t.common.breadcrumb} class="mb-6 flex flex-wrap gap-1.5 font-body text-sm text-warm-500">
+      <nav aria-label={L.t.common.breadcrumb} data-breadcrumb class="mb-6 flex flex-wrap gap-1.5 font-body text-sm text-warm-500">
         <a href={L.path('home')} class="hover:text-warm-800">{L.t.common.home}</a>
         {crumbs.map((c, i) => (<><span class="text-warm-300">/</span>{i === crumbs.length - 1 ? <span class="font-medium text-warm-800">{c.name}</span> : <a href={c.url} class="hover:text-warm-800">{c.name}</a>}</>))}
       </nav>

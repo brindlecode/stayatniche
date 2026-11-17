@@ -71,7 +71,7 @@ De gletsjerlagune Jökulsárlón, waar ijsbergen afkalven van de gletsjer Breið
 
 ### Deplar Farm, Trollenschiereiland
 
-[Deplar Farm](https://stayatniche.com/hotels/deplar-farm-iceland/) ligt op het Trollenschiereiland (Tröllaskagi) in Noord-IJsland: een lodge voor heliskiën en in de zomer vliegvissen, helemaal aan de top van de IJslandse accommodatiemarkt. Door de noordelijke ligging zie je vrijwel elke heldere winternacht noorderlicht. In de zomer kun je helikoptervluchten over de omliggende fjorden maken.
+Deplar Farm ligt op het Trollenschiereiland (Tröllaskagi) in Noord-IJsland: een lodge voor heliskiën en in de zomer vliegvissen, helemaal aan de top van de IJslandse accommodatiemarkt. Door de noordelijke ligging zie je vrijwel elke heldere winternacht noorderlicht. In de zomer kun je helikoptervluchten over de omliggende fjorden maken.
 
 **Bereikbaarheid:** vlieg binnenlands van Reykjavik naar Akureyri (50 minuten) en reis dan per helikopter of over de weg naar Deplar, afhankelijk van het seizoen. De lodge regelt de hele logistiek.
 

@@ -89,3 +89,20 @@ describe('drafted stays leave the live site through a redirect', () => {
     }
   });
 });
+
+describe('no content links to a drafted or archived stay', () => {
+  // The built-site check (tests/build/dist.test.ts) covers rendered pages; this one catches it in the
+  // Markdown already, in every language: blog posts, guides, destinations, best-of text.
+  const notLive = new Set(hotels.filter(h => (h.data.status ?? 'published') !== 'published').map(h => h.slug));
+  const files = (d: string): string[] => readdirSync(d, { withFileTypes: true }).flatMap(e => e.isDirectory() ? files(join(d, e.name)) : e.name.endsWith('.md') ? [join(d, e.name)] : []);
+  const segs = 'hotels|unterkuenfte|hebergements|alojamientos|alloggi|verblijven';
+  it('in any Markdown link', () => {
+    const bad: string[] = [];
+    for (const f of files(join(ROOT, 'src/content'))) {
+      const t = readFileSync(f, 'utf8');
+      for (const m of t.matchAll(new RegExp(`\\]\\((?:https://stayatniche\\.com)?(?:/[a-z]{2})?/(?:${segs})/([a-z0-9-]+)`, 'g')))
+        if (notLive.has(m[1])) bad.push(`${f.slice(ROOT.length + 1)} → ${m[1]}`);
+    }
+    expect(bad).toEqual([]);
+  });
+});

@@ -7,6 +7,7 @@ import { resolveImage, sizedImage } from '../lib/images';
 import { SITE } from '../lib/site';
 import { i18n, type Locale } from '../i18n';
 import { localized, entryAlternates, type Localized } from '../i18n/content';
+import { MIN_INDEXABLE } from '../i18n/roundups';
 
 interface Props { locale: Locale; category: Localized<'categories'> }
 const { category } = Astro.props;
@@ -69,7 +70,7 @@ const itemListJsonLd = categoryHotels.length > 0 ? {
 } : null;
 ---
 
-<BaseLayout title={metaTitle} description={metaDesc} image={heroOgImg} heroImage={heroSrcLg} alternates={await entryAlternates('categories', 'categories', category.slug)}>
+<BaseLayout title={metaTitle} description={metaDesc} image={heroOgImg} heroImage={heroSrcLg} alternates={await entryAlternates('categories', 'categories', category.slug)} noIndex={categoryHotels.length < MIN_INDEXABLE}>
 
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonLd)} />
   {itemListJsonLd && <script type="application/ld+json" set:html={JSON.stringify(itemListJsonLd)} />}
@@ -95,7 +96,7 @@ const itemListJsonLd = categoryHotels.length > 0 ? {
 
     <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-14 pb-16">
       <!-- Breadcrumb -->
-      <nav class="flex items-center gap-2 text-white/70 text-sm font-body mb-10" aria-label={t.common.breadcrumb}>
+      <nav class="flex items-center gap-2 text-white/70 text-sm font-body mb-10" aria-label={t.common.breadcrumb} data-breadcrumb>
         <a href={L.path('home')} class="hover:text-white transition-colors">{t.common.home}</a>
         <span class="text-white/40">/</span>
         <a href={L.path('categories')} class="hover:text-white transition-colors">{t.hotel.categories}</a>

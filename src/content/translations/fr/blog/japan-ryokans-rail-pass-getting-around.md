@@ -60,7 +60,7 @@ Réservez vos excursions à Hakone et vos expériences avec vue sur le Fuji sur 
 
 ## De Tokyo à Naoshima : l'île de l'art en Shinkansen
 
-Pour rejoindre Naoshima, l'île de l'art de la mer intérieure de Seto où se dresse [Benesse House](/hotels/benesse-house-naoshima-japan), il faut prendre le Shinkansen jusqu'à Okayama, puis un train local jusqu'au port d'Uno, et enfin un ferry de 20 minutes. Temps total depuis Tokyo : environ 4 h 30. Depuis Kyoto : 3 h 30.
+Pour rejoindre Naoshima, l'île de l'art de la mer intérieure de Seto où se dresse Benesse House, il faut prendre le Shinkansen jusqu'à Okayama, puis un train local jusqu'au port d'Uno, et enfin un ferry de 20 minutes. Temps total depuis Tokyo : environ 4 h 30. Depuis Kyoto : 3 h 30.
 
 **Itinéraire en train :** Tokyo → Okayama (Shinkansen Hikari, 3 h 15, couvert par le JR Pass) → gare de Chayamachi → port d'Uno (30 minutes, ligne Uno couverte par le JR Pass) → ferry pour Naoshima (20 minutes, non couvert par le JR Pass)
 
@@ -83,7 +83,7 @@ Réservez vos expériences à Kyoto (cérémonie du thé, théâtre nô, dégust
 
 ## De Tokyo à Niseko, Hokkaido : le ryokan en hiver
 
-[Zaborin](/hotels/zaborin-hokkaido-japan) et la station de Niseko, à Hokkaido, forment la première destination d'hiver du Japon : un domaine skiable exceptionnel doublé d'une offre de ryokans de luxe qui s'est développée à grande vitesse depuis une dizaine d'années.
+Zaborin et la station de Niseko, à Hokkaido, forment la première destination d'hiver du Japon : un domaine skiable exceptionnel doublé d'une offre de ryokans de luxe qui s'est développée à grande vitesse depuis une dizaine d'années.
 
 **Itinéraire en train :** Tokyo → Shin-Hakodate-Hokuto (Hokkaido Shinkansen, couvert par le JR Pass, 4 h 15) → Hakodate → Niseko (2 h 30 en bus ou en transfert privé ; la liaison ferroviaire est indirecte et lente, un transfert privé est plus pratique)
 
@@ -97,7 +97,7 @@ Trouvez un transfert de l'aéroport New Chitose à Niseko sur [KiwiTaxi](https:/
 
 ## Hoshinoya Fuji : le mont Fuji depuis le lac
 
-[Hoshinoya Fuji](/hotels/hoshinoya-fuji-japan), le glamping en forêt qui domine le lac Kawaguchi face au Fuji, demande une logistique particulière.
+Hoshinoya Fuji, le glamping en forêt qui domine le lac Kawaguchi face au Fuji, demande une logistique particulière.
 
 **Itinéraire en train :** Shinjuku → gare de Kawaguchiko (Fuji Excursion Limited Express, JR Pass plus supplément pour la place réservée ; ou bus express depuis le terminal de bus de Shinjuku, 90 minutes). Depuis la gare de Kawaguchiko : navette gratuite jusqu'à Hoshinoya Fuji (15 minutes, horaires à confirmer auprès de l'établissement).
 
