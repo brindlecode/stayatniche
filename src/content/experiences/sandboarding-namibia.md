@@ -3,7 +3,7 @@ title: "Sandboarding on the Dunes of Sossusvlei"
 type: adventure
 destination: "Sossusvlei, Namib Desert"
 country: "Namibia"
-description: "Plunge down the face of the world's tallest sand dunes on a sandboard, reaching speeds of 80km/h on sand mountains that rise 300 metres from the ancient clay pan below. Sossusvlei's dunes are among the most photographed natural formations on Earth, brick-red, perfectly sculptured by wind, and utterly silent, and the act of throwing yourself down one at speed turns the world's most beautiful desert into the world's most dramatic playground."
+description: "Plunge down the face of some of the world's tallest sand dunes on a sandboard, reaching speeds of 80km/h on sand mountains that rise 300 metres from the ancient clay pan below. Sossusvlei's dunes are among the most photographed natural formations on Earth, brick-red, perfectly sculptured by wind, and utterly silent, and the act of throwing yourself down one at speed turns one of the world's most striking deserts into a dramatic playground."
 coverImage: /images/experiences/sandboarding-namibia.jpg
 booking:
   provider: direct
@@ -41,7 +41,7 @@ tags:
   - dunes
 seo:
   metaTitle: "Sandboarding at Sossusvlei, Namibia | StayAtNiche"
-  metaDescription: "Board down 300-metre dunes at 80km/h in Namibia's Sossusvlei. The world's most beautiful desert becomes an adrenaline playground. From $80 per person."
+  metaDescription: "Board down 300-metre dunes at 80km/h in Namibia's Sossusvlei. One of the world's most striking deserts becomes an adrenaline playground. From $80 per person."
 ---
 
 Big Daddy dune rises 325 metres from the floor of the Deadvlei pan. The climb takes about 45 minutes, following the knife-edge ridge with desert on both sides and the white clay pan shrinking below. At the top, wind strips the sand from the crest in horizontal curtains. The view (the Namib stretching to every horizon, dead camel thorn trees casting blue shadows across white ground, dune ridges receding into heat shimmer) is something travel photography consistently fails to do justice to.

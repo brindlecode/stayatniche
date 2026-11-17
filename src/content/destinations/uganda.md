@@ -17,7 +17,7 @@ mustSee:
   - "Mountain gorilla trekking, Bwindi Impenetrable Forest, a genuinely life-changing hour with a gorilla family"
   - "Chimpanzee habituation, Kibale Forest, following a wild chimp family from dawn to dusk with researchers"
   - "Queen Elizabeth National Park, tree-climbing lions in the Ishasha sector and boat safaris on the Kazinga Channel"
-  - "Murchison Falls, the world's most powerful waterfall, where the Nile forces through a 7-meter gorge"
+  - "Murchison Falls, one of the world's most powerful waterfalls, where the Nile forces through a 7-meter gorge"
   - "Source of the Nile, Jinja, the exact point where the Nile departs Lake Victoria, with white-water rafting"
   - "Rwenzori Mountains, 'Mountains of the Moon' with glacier trekking at the equator"
 travelTips:
@@ -45,4 +45,4 @@ The accommodation around Bwindi has matured into some of Africa's finest wildern
 
 Uganda is consistently misread as a one-species destination. Kibale National Park, four hours north of Bwindi, offers the most reliable chimpanzee trekking in Africa and, uniquely, a full-day chimpanzee habituation experience where guests follow a family from dawn nesting until dusk alongside the research team. Queen Elizabeth National Park has the famous tree-climbing lions of Ishasha and boat safaris on the Kazinga Channel, where hippos, buffalo, and elephants congregate in substantial numbers.
 
-Murchison Falls compresses the Nile from 50 metres wide to 7 metres and drops it 43 metres in a display of pure hydraulic force. The spray and noise from the base viewpoint are visceral. It is the world's most powerful waterfall by volume per width, and you feel that fact physically when you stand beneath it.
+Murchison Falls compresses the Nile from 50 metres wide to 7 metres and drops it 43 metres in a display of pure hydraulic force. The spray and noise from the base viewpoint are visceral. It ranks among the world's most powerful waterfalls by volume per width, and you feel that fact physically when you stand beneath it.

@@ -3,7 +3,7 @@ title: "Overnight Camel Trek into the Sahara"
 type: adventure
 destination: "Merzouga"
 country: "Morocco"
-description: "Ride a camel into the vast Erg Chebbi sand sea at sunset, make camp in a Berber tent beneath a sky so dense with stars it seems structural, and wake the following morning for a sunrise that turns the dunes gold and rose in the world's most cinematic desert landscape. This 24-hour camel trekking experience from Merzouga is the classic Sahara overnight, unhurried, genuinely remote, and unexpectedly peaceful once the last camel bell fades into the desert silence."
+description: "Ride a camel into the vast Erg Chebbi sand sea at sunset, make camp in a Berber tent beneath a sky so dense with stars it seems structural, and wake the following morning for a sunrise that turns the dunes gold and rose in one of the world's most cinematic desert landscapes. This 24-hour camel trekking experience from Merzouga is the classic Sahara overnight, unhurried, genuinely remote, and unexpectedly peaceful once the last camel bell fades into the desert silence."
 coverImage: /images/experiences/camel-trekking-sahara.jpg
 booking:
   provider: viator

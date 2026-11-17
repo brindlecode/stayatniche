@@ -13,7 +13,7 @@ essentials:
   plugType: "Type A/B (120V)"
 bestTimeToVisit:
   summary: "May–June and September–October"
-  details: "Late spring (May–June) brings mild temperatures, wildflowers in the mountains, and the city before peak season. Summer is Santa Fe's busiest period, warm days (80s°F), afternoon monsoon thunderstorms that clear by evening, and a full calendar of markets, opera, and gallery openings. The Santa Fe Indian Market in August is the world's most prestigious Native American art market and draws enormous crowds. Fall (September–October) is outstanding, golden aspens in the Sangre de Cristo, cooling temperatures, and the harvest season at nearby farms and orchards. Winter is cold but festive, with ski season at Ski Santa Fe and the extraordinary Christmas Eve farolito walk on Canyon Road."
+  details: "Late spring (May–June) brings mild temperatures, wildflowers in the mountains, and the city before peak season. Summer is Santa Fe's busiest period, warm days (80s°F), afternoon monsoon thunderstorms that clear by evening, and a full calendar of markets, opera, and gallery openings. The Santa Fe Indian Market in August is one of the world's most prestigious Native American art markets and draws enormous crowds. Fall (September–October) is outstanding, golden aspens in the Sangre de Cristo, cooling temperatures, and the harvest season at nearby farms and orchards. Winter is cold but festive, with ski season at Ski Santa Fe and the extraordinary Christmas Eve farolito walk on Canyon Road."
 mustSee:
   - "Canyon Road, the historic mile-long gallery district with over 80 art galleries"
   - "Palace of the Governors, the oldest continuously occupied public building in the US (c. 1610)"

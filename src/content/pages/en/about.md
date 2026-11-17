@@ -1,8 +1,8 @@
 ---
 title: We find the stays others miss
-metaTitle: "About StayAtNiche | Curating the World's Most Extraordinary Stays"
-metaDescription: "StayAtNiche is an independent guide to the world's most unusual hotels: treehouses, caves, underwater rooms, ice hotels, castles and more, verified and compared."
-lead: StayAtNiche is an independent travel guide to the world's most extraordinary places to sleep. We don't do ordinary.
+metaTitle: "About StayAtNiche | Curating Extraordinary Stays"
+metaDescription: "StayAtNiche is an independent guide to unusual hotels around the world: treehouses, caves, underwater rooms, ice hotels, castles and more, verified and compared."
+lead: StayAtNiche is an independent travel guide to extraordinary places to sleep around the world. We don't do ordinary.
 ---
 
 ## Travel should be a story worth telling

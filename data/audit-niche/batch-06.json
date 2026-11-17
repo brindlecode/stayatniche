@@ -113,8 +113,8 @@
   "operating": "open",
   "verdict": "draft",
   "new_category": null,
-  "closest_category": null,
-  "reason": "Concrete art-museum hotel by Ando; not carved into rock or in a cave, and fits none of the 14 categories.",
+  "closest_category": "cliffside-hotels",
+  "reason": "Concrete art-museum hotel by Ando; not carved into rock or in a cave, and fits none of the 14 categories. Closest category chosen by editor: hillside-by-the-sea site, nothing fits exactly.",
   "treehouse_structure": null,
   "location": {
    "region": "Kagawa",

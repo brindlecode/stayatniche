@@ -3,7 +3,7 @@ title: "Stargazing in the Atacama Desert"
 type: adventure
 destination: "San Pedro de Atacama"
 country: "Chile"
-description: "Look up from 2,400 metres altitude in the driest desert on Earth and see the night sky as humans saw it before electricity existed, a Milky Way so dense and three-dimensional that it casts a faint shadow, the Magellanic Clouds visible to the naked eye as satellite galaxies of our own, and the Southern Cross wheeling overhead in a display of cosmic density that professional astronomers travel to the Atacama specifically to access. The world's best night sky is here, and sharing it with an astronomer who knows it intimately is one of travel's most profound experiences."
+description: "Look up from 2,400 metres altitude in the driest desert on Earth and see the night sky as humans saw it before electricity existed, a Milky Way so dense and three-dimensional that it casts a faint shadow, the Magellanic Clouds visible to the naked eye as satellite galaxies of our own, and the Southern Cross wheeling overhead in a display of cosmic density that professional astronomers travel to the Atacama specifically to access. One of the world's best night skies is here, and sharing it with an astronomer who knows it intimately is one of travel's most profound experiences."
 coverImage: /images/experiences/stargazing-atacama-chile.jpg
 booking:
   provider: direct

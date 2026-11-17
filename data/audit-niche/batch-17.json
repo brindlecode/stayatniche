@@ -1,0 +1,325 @@
+[
+ {
+  "slug": "bangkok-tree-house-thailand",
+  "name": "Bangkok Tree House",
+  "official_url": "https://www.bangkoktreehouse.com/",
+  "source_url": "https://www.bangkoktreehouse.com/cozy-nest/bee-hive",
+  "source_type": "official",
+  "niche_scope": "unverified",
+  "niche_feature": "Official site says tree house accommodation, but room pages describe tall multi-storey buildings with ground-floor bathrooms and outdoor stairs, not free-standing units raised in trees. Only View With A Room has a bamboo balcony about 23 ft up.",
+  "evidence_quote": "This three-story building features an outdoor staircase.",
+  "operating": "open",
+  "verdict": "draft",
+  "new_category": null,
+  "closest_category": "jungle-lodges",
+  "reason": "Units are multi-storey ground-based buildings (3 levels, bathroom on ground floor); site rule excludes multi-storey buildings as treehouses. Closest fit is a weak nature eco-resort.",
+  "treehouse_structure": "other_building",
+  "location": {
+   "region": "Samut Prakan",
+   "city": "Phra Pradaeng",
+   "locality": "Bang Nam Phueng (Bang Kachao)"
+  },
+  "page_issues": [
+   "Destination says Bangkok; official address is Bang Nam Phueng, Phra Pradaeng, Samut Prakan 10130",
+   "Rooms are tall multi-storey buildings (Tree Top Nest 3 levels, Bee Hive 3 storeys), not treehouses; 'treehouse-style' unsupported by official room pages",
+   "Bee Hive described as three-storey; only the View With A Room has a treetop-level balcony (~23 ft)"
+  ]
+ },
+ {
+  "slug": "baumhaushotel-otterndorf-germany",
+  "name": "Baumhaushotel Otterndorf",
+  "official_url": "https://www.mein-baumhaus.de/",
+  "source_url": "https://www.mein-baumhaus.de/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Ten 30 m2 stilt houses 4 m above ground among many trees; every bookable house is one. A free extra tree house, screwed into a tree without insulation, is open to guests of the 4 m houses.",
+  "evidence_quote": "30qm Stelzenhäuser in 4m Höhe inkl. Bad und Pantry-Küche, Schlafbereich, Couchecke und Essbereich – umgeben von vielen Bäumen",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Free-standing stilt houses raised 4 m among old trees plus a free tree house built in a tree meet the treehouse rule.",
+  "treehouse_structure": "stilts_among_trees",
+  "location": {
+   "region": "Lower Saxony",
+   "city": "Otterndorf",
+   "locality": null
+  },
+  "page_issues": [
+   "Earth houses (Erdhäuser) are announced only from 2027 and are not part of the current stay"
+  ]
+ },
+ {
+  "slug": "baumhaushotel-robins-nest-germany",
+  "name": "Baumhaushotel Robins Nest",
+  "official_url": "https://www.robins-nest.de/",
+  "source_url": "https://www.robins-nest.de/de/stammhaus",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Treehouses (Birkenhaus ~5 m, Stammhaus ~7 m, cork house, ball hung on cables between trees) reached by stairs and bridges, plus a stilt house. Glamping lodge, block hut, domes are not treehouses; tree tents hang ~130 cm up.",
+  "evidence_quote": "Der Buchenstamm führt direkt durchs Hausinnere und lädt ein, sich an Ihm zu stärken.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Elevated free-standing treehouses built around or hung between trees qualify; other unit types on site are ordinary glamping/cabins.",
+  "treehouse_structure": "in_or_attached_to_tree",
+  "location": {
+   "region": "Hesse",
+   "city": "Witzenhausen",
+   "locality": "Berlepsch"
+  },
+  "page_issues": [
+   "Treehouse heights vary (Birkenhaus about 5 m, Stammhaus about 7 m), not all 'about seven metres'",
+   "Tree tents (hung ~130 cm above ground), glamping lodge, block hut and domes are not treehouses; page lumps them in",
+   "Official site counts three treehouses, one stilt house, one ball treehouse and five tree tents on the home page"
+  ]
+ },
+ {
+  "slug": "chole-mjini-tanzania",
+  "name": "Chole Mjini Lodge",
+  "official_url": "https://www.cholemjini.com/",
+  "source_url": "https://www.cholemjini.com/rooms/moja/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Six treehouses built by hand around baobabs and Swahili ruins on Chole Island, plus one ground house (Sita). Moja is perched high in a living baobab; others sit among ruins and shoreline.",
+  "evidence_quote": "Perched high in an ancient baobab, Moja looks out over the mangroves to the ocean and Kinasi Pass.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site: six treehouses built in/around baobabs plus one ground house; genuine treehouse lodge.",
+  "treehouse_structure": "in_or_attached_to_tree",
+  "location": {
+   "region": "Pwani",
+   "city": "Mafia Island",
+   "locality": "Chole Island"
+  },
+  "page_issues": [
+   "'No electricity, lit by lanterns' contradicted: official site says 'You'll have electricity, ensuite bathrooms'",
+   "'Community-owned and operated' unsupported: lodge founded by Anne and Jean with the Chole Mjini Trust alongside it",
+   "'19th-century Arab trading post' ruins not stated by official site (it says ruins of the old town)",
+   "Superlatives ('one of Africa's most remote and authentic eco-lodges') unsupported",
+   "One of seven units (Sita) is a ground house, not a treehouse"
+  ]
+ },
+ {
+  "slug": "free-spirit-spheres-canada",
+  "name": "Free Spirit Spheres",
+  "official_url": "https://freespiritspheres.com/",
+  "source_url": "https://freespiritspheres.com/about-the-spheres/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Three spherical treehouses (Luna, Melody, Eryn), each suspended by ropes from three trees, 5 to 100 ft up, reached by stairway and suspension bridge. Free-standing, among coastal rainforest.",
+  "evidence_quote": "A suspended sphere is tethered by 3 nearly vertical ropes to strong points on each of 3 separate trees.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Free-standing spheres hung from trees are a genuine treehouse type; all three bookable units qualify.",
+  "treehouse_structure": "in_or_attached_to_tree",
+  "location": {
+   "region": "British Columbia",
+   "city": "Qualicum Bay",
+   "locality": null
+  },
+  "page_issues": [
+   "Current spheres are Luna, Melody and Eryn; page names Eve (the first sphere, not listed for booking) instead of Luna",
+   "Page says Qualicum Beach 12 km; official says Qualicum Beach about 14 km and the site is near Qualicum Bay (420 Horne Lake Rd)",
+   "Propane heater claim contradicted: Eryn is electrically heated",
+   "Superlatives ('genuinely one of a kind in the world') unsupported",
+   "Eryn page notes bookings only 'at our current location' through May, hinting at a possible move"
+  ]
+ },
+ {
+  "slug": "gibbon-experience-laos",
+  "name": "The Gibbon Experience",
+  "official_url": "https://www.gibbonexperience.org/",
+  "source_url": "https://www.gibbonexperience.org/classic-tour/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Guided 2- or 3-day tours sleeping in treehouses scattered in Nam Kan National Park, built on rope wires, wooden consoles or a geodesic core in giant tree forks; reached by trek and ziplines.",
+  "evidence_quote": "three days and two nights in treehouses scattered within the Nam Kan National Park",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site confirms overnight stays in treehouses built in giant trees; sold as a tour, not walk-in rooms.",
+  "treehouse_structure": "in_or_attached_to_tree",
+  "location": {
+   "region": "Bokeo",
+   "city": "Huay Xai",
+   "locality": "Nam Kan National Park"
+  },
+  "page_issues": [
+   "Destination 'Bokeo Nature Reserve, Houaphan' wrong: official says Nam Kan National Park, Bokeo Province",
+   "Page says primary rainforest; official describes mixed deciduous forest",
+   "'40 metres' height not stated by official site (it claims the world's highest treehouses)",
+   "'No comparable experience anywhere else in Southeast Asia' and similar superlatives unsupported",
+   "'Community-owned' not stated; official calls it a tourism-based conservation program",
+   "Rating 9.4 and 2,341 reviews unsupported"
+  ]
+ },
+ {
+  "slug": "hapuku-lodge-new-zealand",
+  "name": "Hapuku Lodge & Tree Houses",
+  "official_url": "https://www.hapukulodge.com/",
+  "source_url": "https://www.hapukulodge.com/stay/tree-houses/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Tree Houses (one-bedroom and a two-storey family tree house) elevated 10 m in native kanuka and puriri canopy; lodge suites and the Olive House are ordinary rooms. Official site does not say how the tree houses are built.",
+  "evidence_quote": "Perched in the canopy of native trees, including kānuka and pūriri, our Tree Houses bring you closer to nature.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Tree Houses are elevated in a native tree canopy; the rest of the lodge is conventional. Construction method not stated officially.",
+  "treehouse_structure": "unknown",
+  "location": {
+   "region": "Canterbury",
+   "city": "Kaikōura",
+   "locality": "Hapuku"
+  },
+  "page_issues": [
+   "Height: official says elevated 10 m, page says 8 m",
+   "Trees: official says kanuka and puriri, page says manuka",
+   "Official page does not state 'five' tree houses; count unconfirmed",
+   "Lodge suites and the Olive House are not tree houses (specific rooms only)",
+   "Booking link points to Booking.com instead of the official site"
+  ]
+ },
+ {
+  "slug": "hoshinoya-fuji-japan",
+  "name": "Hoshinoya Fuji",
+  "official_url": "https://hoshinoresorts.com/en/hotels/hoshinoyafuji/",
+  "source_url": "https://hoshinoresorts.com/en/presscenter/08/2023/103688/",
+  "source_type": "official",
+  "niche_scope": "unverified",
+  "niche_feature": "Glamping resort with 40 cabins on a forested hillside above Lake Kawaguchi. Official press page describes concrete-walled cabins nestled on a hillside; no raised, in-tree or stilt treehouse structures are stated.",
+  "evidence_quote": "Unadorned concrete walls form the exterior of cabins at HOSHINOYA Fuji, giving them a contemporary façade.",
+  "operating": "open",
+  "verdict": "draft",
+  "new_category": null,
+  "closest_category": "jungle-lodges",
+  "reason": "Cabins are ground-level concrete glamping units on a slope, not raised among trees; fits none of the 14 categories, forest lodge is closest.",
+  "treehouse_structure": "other_building",
+  "location": {
+   "region": "Yamanashi",
+   "city": "Fujikawaguchiko",
+   "locality": "Oishi"
+  },
+  "page_issues": [
+   "Page says 67 log cabins; official site says 40 guest rooms and cabins have concrete exteriors",
+   "'Timber box on stilts' unsupported by official sources",
+   "'Cabins elevated among pine forest' unsupported; cabins sit on a clear hillside section",
+   "Price range and 'one of the most sought-after' unsupported"
+  ]
+ },
+ {
+  "slug": "inkaterra-canopy-treehouse-peru",
+  "name": "Inkaterra Canopy Treehouse",
+  "official_url": "https://www.inkaterra.com/inkaterra/inkaterra-reserva-amazonica/",
+  "source_url": "https://www.inkaterra.com/inkaterra/inkaterra-reserva-amazonica/services/additional-services/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "A single two-bed Canopy Tree House on a private platform at the end of the Inkaterra Canopy Walkway, about 28 m up; booked as a supplement night on top of a stay at Reserva Amazónica, whose 35 cabañas are ground-level.",
+  "evidence_quote": "Overnight stay 28 meters above the ground, nestled in the tree canopy.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "One canopy treehouse (add-on night) on a platform in the rainforest canopy; main lodge rooms are ordinary cabañas.",
+  "treehouse_structure": "unknown",
+  "location": {
+   "region": "Madre de Dios",
+   "city": "Puerto Maldonado",
+   "locality": "Tambopata (Reserva Amazónica, Km 15)"
+  },
+  "page_issues": [
+   "Treehouse is an add-on night at Reserva Amazónica, not a standalone property; lodge has 35 wooden cabañas",
+   "Height: official gives about 28 m (older sheets 22 to 27 m), page says 30 m",
+   "Page says reached by suspension bridge from main lodge; official says a motorized canoe cruise to the Canopy Walkway, then walkway",
+   "Basic room (2 beds, portable toilet, limited electricity) vs page's 'comfortable beds'",
+   "Excursion list (clay licks, oxbow lakes, caiman watches) not confirmed on pages read"
+  ]
+ },
+ {
+  "slug": "keemala-bird-nest-phuket",
+  "name": "Keemala Bird's Nest Pool Villa",
+  "official_url": "https://www.keemala.com/",
+  "source_url": "https://www.keemala.com/villa/birds-nest-pool-villas/",
+  "source_type": "official",
+  "niche_scope": "unverified",
+  "niche_feature": "Official page describes Bird's Nest Pool Villas as private pool villas with a woven bird's nest exterior; it does not say they stand on poles or among trees. The separate Tree Pool Houses are two-floor villas, excluded by the rule.",
+  "evidence_quote": "Their distinctive exclusivity is expressed by the signature woven bird’s nest exterior.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Villa resort; raised or in-tree construction not stated for the Bird's Nest villas, and the Tree Pool Houses are two-floor villas that fail the site rule.",
+  "treehouse_structure": "unknown",
+  "location": {
+   "region": "Phuket",
+   "city": "Kamala",
+   "locality": null
+  },
+  "page_issues": [
+   "'Perched on angled timber poles above a jungle ravine' not stated on the official Bird's Nest page",
+   "Official page gives villa size 185 m2 including pool; no height or pole structure given",
+   "Tree Pool Houses (seven, two floors) are the official 'treehouse' units and do not match the page's villa",
+   "'Fully habitable suites of genuine quality' and similar claims are opinion"
+  ]
+ },
+ {
+  "slug": "lapa-rios-costa-rica",
+  "name": "Lapa Rios Lodge",
+  "official_url": "https://www.laparios.com/",
+  "source_url": "https://www.laparios.com/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Eco-lodge inside a private 1,000-acre rainforest reserve on the Osa Peninsula; stand-alone villas, suites and bungalows are all within the reserve. Rooms are described as perched above the canopy, not as treehouses.",
+  "evidence_quote": "An amazing lodge in Central America’s last remaining tropical lowland rainforest",
+  "operating": "open",
+  "verdict": "move",
+  "new_category": "jungle-lodges",
+  "closest_category": null,
+  "reason": "Official site shows no treehouse units; it is a remote rainforest-reserve lodge, so jungle-lodges fits.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Puntarenas",
+   "city": null,
+   "locality": "Osa Peninsula"
+  },
+  "page_issues": [
+   "'Bungalows elevated in the rainforest canopy' not stated: official says Lapa Villas are perched above the canopy, no stilts or tree structure mentioned",
+   "Wildlife list (jaguars, four monkey species) not confirmed on official pages read",
+   "Not a treehouse stay"
+  ]
+ },
+ {
+  "slug": "niku-hide-finland",
+  "name": "Niku Hide",
+  "official_url": null,
+  "source_url": null,
+  "source_type": "none",
+  "niche_scope": "unverified",
+  "niche_feature": "Could not confirm: no official website reachable (nikuhide.com and variants have no connection) and web searches found no property named Niku Hide in Saariselkä. The feature (stilt aurora cabins above the treeline) is also not a treehouse.",
+  "evidence_quote": null,
+  "operating": "unknown",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "No citable source found for the property; page claims could not be verified.",
+  "treehouse_structure": null,
+  "location": {
+   "region": null,
+   "city": null,
+   "locality": null
+  },
+  "page_issues": [
+   "Property not found by name in any search; existence unconfirmed",
+   "Page's own 'elevated above the treeline' cabins on stilts would not be among trees (not a treehouse)",
+   "'No other property in Scandinavia' superlative, rating 9.1 and 312 reviews unsupported"
+  ]
+ }
+]
