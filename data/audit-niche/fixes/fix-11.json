@@ -1,0 +1,191 @@
+[
+ {
+  "slug": "castello-tafuri-italy",
+  "issue": "Page calls it a historic castle; the official history says it is a villa built in castle form from 1935 (hotel use 1964, closed 1998).",
+  "action": "corrected",
+  "detail": "Replaced 'historic castle / castle converted into a hotel' (description, highlight, body, all 5 translations) with 'villa built in the form of a castle, begun in 1935, used as a hotel from 1964' (official: villa in forma di castello, project 1933, works began 1935, hotel from 1964). The 1998 closure was not added; the page keeps the niche_note untouched.",
+  "source_url": "https://www.castellotafuri.it/castello/il-castello/"
+ },
+ {
+  "slug": "castello-tafuri-italy",
+  "issue": "Site shows online booking under renewal and a 2021 copyright; current operating status could not be confirmed.",
+  "action": "skipped_not_text",
+  "detail": "Operating status cannot be confirmed from the source and the page makes no specific claim to fix; no text change.",
+  "source_url": "https://www.castellotafuri.it/castello/il-castello/"
+ },
+ {
+  "slug": "dromoland-castle-ireland",
+  "issue": "Official site says the castle is temporarily closed for refurbishment; castle bookings from May 2027, self-catering lodges still open.",
+  "action": "skipped_not_text",
+  "detail": "Closure is already carried by the existing closure block; per batch rules the page was not rewritten as closed. Official site is behind a Cloudflare block for this agent, so it could not be re-fetched.",
+  "source_url": "https://www.dromoland.ie/"
+ },
+ {
+  "slug": "dromoland-castle-ireland",
+  "issue": "Page says castle built in the 16th century; the current building dates from 1835 (Gothic Revival, per Wikipedia).",
+  "action": "corrected",
+  "detail": "Removed 'built a castle ... in the 16th century' (EN + 5 translations) and added 'The present castle is a Gothic Revival rebuild dating from 1835' (Wikipedia infobox: est_completion '15th/16th century (original); 1835 (current structure)', style Gothic Revival).",
+  "source_url": "https://en.wikipedia.org/wiki/Dromoland_Castle"
+ },
+ {
+  "slug": "dromoland-castle-ireland",
+  "issue": "Claims about old stone-tower rooms vs newer wing, 9.3 rating and 1,247 reviews were not confirmed by the official site.",
+  "action": "deleted",
+  "detail": "Replaced the bedrooms paragraph (original stone towers vs newer wing) and the 'newer wing lacks historic character' con with the supported statement that suites are within the original castle walls and other categories' locations are not stated (niche_feature, niche_source_url official site). The figures 9.3 and 1,247 do not appear anywhere on the page or translations (rating field is 8.8, untouched), so nothing to remove.",
+  "source_url": "https://www.dromoland.ie/"
+ },
+ {
+  "slug": "locanda-al-castello-italy",
+  "issue": "Official site says the manor was built in the mid-19th century as Jesuit Villa Betlemme, not an ancient medieval castle",
+  "action": "corrected",
+  "detail": "Replaced 'ancient manor' / 'castle complex' / 'old castle building' (description, highlight, body, 5 translations) with 'manor, a mid-19th-century former Jesuit monastery (Villa Betlemme), crenellated castle-style complex' per the official castle page ('monastero gesuita Villa Betlemme innalzato a metà Ottocento').",
+  "source_url": "https://www.alcastello.net/_it/il_castello"
+ },
+ {
+  "slug": "locanda-al-castello-italy",
+  "issue": "Page does not give how many of the 27 rooms are in the manor (source does not either)",
+  "action": "not_an_issue",
+  "detail": "Page never gave a per-wing count; added one sentence saying the hotel does not state how many of the 27 rooms are in the manor (EN + 5 translations).",
+  "source_url": "https://www.alcastello.net/it/camere"
+ },
+ {
+  "slug": "tyr-graig-castle-united-kingdom",
+  "issue": "Castle is a Victorian (1892) gothic-style house resembling a castle, not a medieval fortress; official site itself says both 'completed in 1892' and 'late 1890s'",
+  "action": "corrected",
+  "detail": "Page already says Victorian gothic castle-style house built 1892. Removed the contradictory 'Built in the late 1890s' phrase in the interiors section (EN + 5 translations), keeping the official 'completed in 1892'.",
+  "source_url": "https://www.tyrgraig-castle.co.uk/history"
+ },
+ {
+  "slug": "tyr-graig-castle-united-kingdom",
+  "issue": "Official rooms page lists two hillside rooms separately from the turret rooms; page does not mention turret room types",
+  "action": "corrected",
+  "detail": "Added a sentence listing room types: Premium Turret, Four Poster Turret and Standard Turret rooms plus two Large Double hillside rooms (EN + 5 translations). The 11-room count already on the page matches.",
+  "source_url": "https://www.tyrgraig-castle.co.uk/rooms"
+ },
+ {
+  "slug": "tyr-graig-castle-united-kingdom",
+  "issue": "Booking page widget on official site dated 2025; current trading status not independently confirmed",
+  "action": "skipped_not_text",
+  "detail": "Trading status cannot be confirmed and the page makes no specific claim to fix; no text change.",
+  "source_url": "https://www.tyrgraig-castle.co.uk/history"
+ },
+ {
+  "slug": "nihi-sumba-indonesia",
+  "issue": "Page says 28 villas; official villas page says 31 villas and estates",
+  "action": "corrected",
+  "detail": "Changed 28 to 31 villas and estates in description, highlight, meta description (kept 140-160 chars) in EN and all 5 translations.",
+  "source_url": "https://nihi.com/sumba/the-villas/"
+ },
+ {
+  "slug": "nihi-sumba-indonesia",
+  "issue": "Page says surf break limited to ten surfers at once; official says 15 registered surfers per day",
+  "action": "corrected",
+  "detail": "Replaced 'ten surfers at once / maximum ten in the water' with 'fifteen registered surfers per day' in highlight, pros, body and meta (EN + 5 translations); removed 'Exclusive' from the German highlight only because of grammar.",
+  "source_url": "https://nihi.com/sumba/surfing/"
+ },
+ {
+  "slug": "nihi-sumba-indonesia",
+  "issue": "567-acre estate size not found on official pages",
+  "action": "deleted",
+  "detail": "Removed all '567 acres' mentions (highlight, meta description, opening paragraph) in EN and 5 translations; replaced with the official location (Wanokaka, West Sumba Regency).",
+  "source_url": "https://nihi.com/sumba/the-villas/"
+ },
+ {
+  "slug": "nihi-sumba-indonesia",
+  "issue": "'Most expensive accommodation in Indonesia by a considerable margin' is an unsupported superlative",
+  "action": "deleted",
+  "detail": "The page's con 'One of the most expensive places to stay in Indonesia' replaced with 'High nightly rates' (EN + 5 translations). Also deleted the unsupported 'voted world's best hotel by Travel + Leisure readers' clause that shared the sentence with the acreage claim.",
+  "source_url": null
+ },
+ {
+  "slug": "nihi-sumba-indonesia",
+  "issue": "Jungle-lodge framing unsupported: official describes beachfront villas along Nihiwatu Beach",
+  "action": "skipped_not_text",
+  "detail": "Category framing (treehouse-hotels), not a text fix; category not touched.",
+  "source_url": "https://nihi.com/sumba/the-villas/"
+ },
+ {
+  "slug": "intercontinental-thalasso-bora-bora",
+  "issue": "Resort is closed (since 1 June 2026) but page reads as open",
+  "action": "skipped_not_text",
+  "detail": "Closure is carried by the existing closure block; per batch rules the page was not rewritten as closed. Official home page confirms closure on 1 June 2026.",
+  "source_url": "https://thalasso.intercontinental.com/"
+ },
+ {
+  "slug": "intercontinental-thalasso-bora-bora",
+  "issue": "Claims 'first' deep-sea air conditioning, ~90% energy saving, 900 m depth/3,000 m pipe not on the official page",
+  "action": "deleted",
+  "detail": "Removed 'first deep-sea AC in hospitality', the 900 m / 3,000 m / 90% figures and the refrigerant claim (description, highlight, body paragraph; EN + 5 translations). Replaced with the official wording that the overwater villas are 'cooled sustainably by the ocean'.",
+  "source_url": "https://thalasso.intercontinental.com/"
+ },
+ {
+  "slug": "intercontinental-thalasso-bora-bora",
+  "issue": "Superlative: 'most exposed and dramatic position of any overwater resort'",
+  "action": "deleted",
+  "detail": "Deleted the sentence-opening superlative in the body (EN + 5 translations); the factual location on Motu Piti Aau stays.",
+  "source_url": "https://thalasso.intercontinental.com/"
+ },
+ {
+  "slug": "intercontinental-thalasso-bora-bora",
+  "issue": "Price range, rating and review count are stale for a closed property",
+  "action": "deleted",
+  "detail": "priceRange '$900 - $3,500' replaced by 'Rates vary' (EN). No review count appears on the page or translations. The frontmatter rating (9.3) is a restricted key and was NOT touched, so the rating remains.",
+  "source_url": "https://thalasso.intercontinental.com/"
+ },
+ {
+  "slug": "andbeyond-ngorongoro-crater-lodge",
+  "issue": "Lodge is closed for a rebuild until 2027 but the page describes it as open",
+  "action": "skipped_not_text",
+  "detail": "Closure is carried by the existing closure block; page not rewritten as closed. Official page confirms closed for an extensive rebuild, reopening December 2027.",
+  "source_url": "https://www.andbeyond.com/our-lodges/africa/tanzania/ngorongoro-crater/andbeyond-ngorongoro-crater-lodge/"
+ },
+ {
+  "slug": "andbeyond-ngorongoro-crater-lodge",
+  "issue": "'25 individual bandas' and the baroque interior details describe the pre-rebuild lodge and will change",
+  "action": "deleted",
+  "detail": "Removed '25' and 'bandas' (now 'individual suites'), the 'baroque fantasy' wording, beaded curtains, gilt mirrors, carved wooden floors and the in-room fireplace amenity (EN + 5 translations; fireplace item removed from all six arrays). The official page gives no banda count or interior description.",
+  "source_url": "https://www.andbeyond.com/our-lodges/africa/tanzania/ngorongoro-crater/andbeyond-ngorongoro-crater-lodge/"
+ },
+ {
+  "slug": "utter-inn-sweden",
+  "issue": "Not bookable: Visit Västmanland says 'Just nu går det inte att boka hotellet'; secondary 2026 guide says it did not operate and is for sale",
+  "action": "skipped_not_text",
+  "detail": "Already carried by the existing closure block; page not rewritten as closed. Re-verified the tourist-board page still says it cannot currently be booked.",
+  "source_url": "https://visitvastmanland.com/hotell-utter-inn"
+ },
+ {
+  "slug": "utter-inn-sweden",
+  "issue": "No official website found; page implies current availability",
+  "action": "skipped_not_text",
+  "detail": "officialWebsite is already null; availability is handled by the closure block. No text change.",
+  "source_url": "https://visitvastmanland.com/hotell-utter-inn"
+ },
+ {
+  "slug": "utter-inn-sweden",
+  "issue": "Tourist board says there is no electricity (gas heating, power only for lamps) and a dry toilet; page's kitchenette/compact bathroom wording is unsupported",
+  "action": "corrected",
+  "detail": "Replaced kitchenette/provisions/compact bathroom (amenities, cons, body, final paragraph; EN + 5 translations) with: cooking equipment (hob, tableware) and 10 L fresh water canister, dry toilet, no electricity apart from lamp power, gas heating. Also corrected 'two porthole-style windows' to panoramic windows in all four directions per the same source. Removed the unsupported stocked-provisions list (coffee, bread, cheese, smoked fish).",
+  "source_url": "https://visitvastmanland.com/hotell-utter-inn"
+ },
+ {
+  "slug": "utter-inn-sweden",
+  "issue": "Kayak access and life jackets unsupported (source mentions a rubber boat); '3 km by boat' to city centre unverified",
+  "action": "deleted",
+  "detail": "Kayak item replaced by 'rubber boat for trips to nearby uninhabited islands'; life jackets item deleted; the Västerås city centre '3 km by boat' attraction removed from nearbyAttractions; the 'dinner means a boat trip into Västerås' sentence removed (EN + 5 translations).",
+  "source_url": "https://visitvastmanland.com/hotell-utter-inn"
+ },
+ {
+  "slug": "utter-inn-sweden",
+  "issue": "Surface area described as a 25 sqm floating pontoon plus a room above water; 'sitting area' and 'maximum two guests' not confirmed by this source",
+  "action": "deleted",
+  "detail": "Removed 'sitting area' and the 'two guests maximum / limited to 2' claims (amenity, con, body), replaced with the source's 25 sqm floating pontoon for sunbathing/swimming and a room above water with cooking equipment (EN + 5 translations).",
+  "source_url": "https://visitvastmanland.com/hotell-utter-inn"
+ },
+ {
+  "slug": "utter-inn-sweden",
+  "issue": "'World's first underwater hotel room' and 'one of the most discussed hotel concepts' are unsupported superlatives",
+  "action": "deleted",
+  "detail": "Removed 'world's first / original underwater hotel room' (description, highlight, pro, meta title/description, closing paragraph) and 'one of the most discussed hotel concepts ever created' (intro) in EN and 5 translations; reworded neutrally as an underwater room built as an art project.",
+  "source_url": "https://visitvastmanland.com/hotell-utter-inn"
+ }
+]

@@ -47,7 +47,7 @@ nearbyAttractions:
     distance: 45 km
 seo:
   metaTitle: "Lindesnes Fyr: appartement bij de vuurtoren | StayAtNiche"
-  metaDescription: "Lindesnes, de oudste vuurtoren van Noorwegen, op de zuidpunt van het vasteland. Geen hotel: één vakantieappartement in het voormalige assistentenhuis en een vuurtorenmuseum."
+  metaDescription: "Lindesnes, de oudste vuurtoren van Noorwegen, op de zuidpunt van het vasteland. Geen hotel: één vakantieappartement in het voormalige assistentenhuis."
 ---
 
 Lindesnes markeert het zuidelijkste punt van het Noorse vasteland. Op 27 februari 1656 werd hier het eerste vuurtorenlicht van Noorwegen ontstoken, bij de ingang van het Skagerrak, maar het werd nog dezelfde herfst gedoofd na klachten over het slechte licht; het station geldt desondanks als gesticht in 1656. De huidige gietijzeren toren, 16,1 meter hoog, dateert van 1915, toen de lens uit de oude toren erheen werd verplaatst; zijn huidige vorm kreeg het station in 1920, met een nieuw machinehuis en een mistsignaalinstallatie.

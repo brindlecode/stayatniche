@@ -63,7 +63,7 @@ featured: false
 status: published
 seo:
   metaTitle: "Lindesnes Lighthouse: Keeper's House Apartment | StayAtNiche"
-  metaDescription: "Lindesnes, Norway's oldest lighthouse, at the southern tip of the mainland. No hotel: one holiday apartment in the former assistant keeper's house, plus a lighthouse museum."
+  metaDescription: "Lindesnes, Norway's oldest lighthouse, at the southern tip of the mainland. No hotel: one holiday apartment in the former assistant keeper's house, and a museum."
 affiliateLinks:
   - partner: "expedia"
     url: "https://www.expedia.com/Hotel-Search?destination=Lindesnes%2C%20Vest-Agder%2C%20Norway&adults=2"
