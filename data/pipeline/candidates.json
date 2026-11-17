@@ -20267,7 +20267,7 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "lastEvidence": "2026-10-26",
+  "lastEvidence": "2026-11-17",
   "haiku": {
    "verdict": "accepted",
    "category": "treehouse-hotels",
@@ -20289,9 +20289,9 @@
   "research": {
    "askedAt": "2026-11-17T20:10:50.244Z",
    "note": "Ön eleme: Ağaç ev kuralı: birimlerin nasıl inşa edildiği (ağaca bağlı ya da direkler üzerinde) kaynakta yazmıyor.",
-   "by": "prescreen"
-  },
-  "refetch": true
+   "by": "prescreen",
+   "fetchedAt": "2026-11-17"
+  }
  },
  "osm:node/12126392032": {
   "id": "osm:node/12126392032",
@@ -32538,7 +32538,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "classified",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "region": "Central Province",
@@ -56684,7 +56684,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [],
-  "lastEvidence": "2026-10-25",
+  "lastEvidence": "2026-11-17",
   "haiku": {
    "verdict": "needs_review",
    "category": "treehouse-hotels",
@@ -56706,9 +56706,9 @@
   "research": {
    "askedAt": "2026-11-17T20:10:50.244Z",
    "note": "Ön eleme: Ağaç ev kuralı: birimlerin nasıl inşa edildiği (ağaca bağlı ya da direkler üzerinde) kaynakta yazmıyor.",
-   "by": "prescreen"
-  },
-  "refetch": true
+   "by": "prescreen",
+   "fetchedAt": "2026-11-17"
+  }
  },
  "osm:node/1879765872": {
   "id": "osm:node/1879765872",
@@ -68827,7 +68827,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "classified",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-13",
   "category": "castle-hotels",
@@ -88849,7 +88849,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [],
-  "lastEvidence": "2026-10-21",
+  "lastEvidence": "2026-11-17",
   "haiku": {
    "verdict": "accepted",
    "category": "treehouse-hotels",
@@ -88871,9 +88871,9 @@
   "research": {
    "askedAt": "2026-11-17T20:10:50.244Z",
    "note": "Ön eleme: Ağaç ev kuralı: birimlerin nasıl inşa edildiği (ağaca bağlı ya da direkler üzerinde) kaynakta yazmıyor.",
-   "by": "prescreen"
-  },
-  "refetch": true
+   "by": "prescreen",
+   "fetchedAt": "2026-11-17"
+  }
  },
  "osm:node/3975738172": {
   "id": "osm:node/3975738172",
@@ -108973,7 +108973,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [],
-  "lastEvidence": "2026-10-13",
+  "lastEvidence": "2026-11-17",
   "haiku": {
    "verdict": "accepted",
    "category": "treehouse-hotels",
@@ -108995,9 +108995,9 @@
   "research": {
    "askedAt": "2026-11-17T20:10:50.244Z",
    "note": "Ön eleme: Ağaç ev kuralı: birimlerin nasıl inşa edildiği (ağaca bağlı ya da direkler üzerinde) kaynakta yazmıyor.",
-   "by": "prescreen"
-  },
-  "refetch": true
+   "by": "prescreen",
+   "fetchedAt": "2026-11-17"
+  }
  },
  "osm:node/4867039921": {
   "id": "osm:node/4867039921",
@@ -150900,7 +150900,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "classified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-14",
   "region": "Ile-de-France",
@@ -174499,7 +174499,7 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "lastEvidence": "2026-10-24",
+  "lastEvidence": "2026-11-17",
   "haiku": {
    "verdict": "needs_review",
    "category": "treehouse-hotels",
@@ -174521,9 +174521,9 @@
   "research": {
    "askedAt": "2026-11-17T20:10:50.244Z",
    "note": "Ön eleme: Ağaç ev kuralı: birimlerin nasıl inşa edildiği (ağaca bağlı ya da direkler üzerinde) kaynakta yazmıyor.",
-   "by": "prescreen"
-  },
-  "refetch": true
+   "by": "prescreen",
+   "fetchedAt": "2026-11-17"
+  }
  },
  "osm:way/1043773843": {
   "id": "osm:way/1043773843",
@@ -194278,7 +194278,7 @@
   },
   "checkedAt": "2026-10-05",
   "reasons": [],
-  "lastEvidence": "2026-10-26",
+  "lastEvidence": "2026-11-17",
   "haiku": {
    "verdict": "needs_review",
    "category": "treehouse-hotels",
@@ -194300,9 +194300,9 @@
   "research": {
    "askedAt": "2026-11-17T20:10:50.244Z",
    "note": "Ön eleme: Ağaç ev kuralı: birimlerin nasıl inşa edildiği (ağaca bağlı ya da direkler üzerinde) kaynakta yazmıyor.",
-   "by": "prescreen"
-  },
-  "refetch": true
+   "by": "prescreen",
+   "fetchedAt": "2026-11-17"
+  }
  },
  "osm:way/136882096": {
   "id": "osm:way/136882096",
@@ -226977,7 +226977,7 @@
   "reasons": [
    "low confidence"
   ],
-  "lastEvidence": "2026-10-12",
+  "lastEvidence": "2026-11-17",
   "haiku": {
    "verdict": "accepted",
    "category": "castle-hotels",
@@ -226999,9 +226999,9 @@
   "research": {
    "askedAt": "2026-11-17T20:10:50.244Z",
    "note": "Ön eleme: Kanıt yetersiz: sitede kapanış ya da uzun ara notu var; tesisin şu an açık olduğu net değil.",
-   "by": "prescreen"
-  },
-  "refetch": true
+   "by": "prescreen",
+   "fetchedAt": "2026-11-17"
+  }
  },
  "osm:way/28466000": {
   "id": "osm:way/28466000",
@@ -263926,7 +263926,7 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "lastEvidence": "2026-10-27",
+  "lastEvidence": "2026-11-17",
   "haiku": {
    "verdict": "needs_review",
    "category": "treehouse-hotels",
@@ -263948,9 +263948,9 @@
   "research": {
    "askedAt": "2026-11-17T20:10:50.244Z",
    "note": "Ön eleme: Ağaç ev kuralı: birimlerin nasıl inşa edildiği (ağaca bağlı ya da direkler üzerinde) kaynakta yazmıyor.",
-   "by": "prescreen"
-  },
-  "refetch": true
+   "by": "prescreen",
+   "fetchedAt": "2026-11-17"
+  }
  },
  "osm:way/623116115": {
   "id": "osm:way/623116115",

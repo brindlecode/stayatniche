@@ -1,8 +1,8 @@
 {
- "at": "2026-11-17T19:52:29.396Z",
+ "at": "2026-11-17T20:29:04.168Z",
  "ok": true,
- "asked": 0,
- "packs": 0,
+ "asked": 8,
+ "packs": 8,
  "nothingReadable": 0,
  "errors": 0,
  "requeuedLostPacks": 0,

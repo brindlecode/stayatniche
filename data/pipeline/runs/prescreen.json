@@ -1,22 +1,10 @@
 {
- "at": "2026-11-17T20:10:50.478Z",
+ "at": "2026-11-17T20:28:43.958Z",
  "ok": true,
- "reject": 4,
- "research": 8,
- "keep": 486,
- "rules": {
-  "pass": 469,
-  "unclear-scope-after-research": 4,
-  "treehouse": 7,
-  "no-quote-after-research": 3,
-  "name-only": 1,
-  "no-proof": 1,
-  "closure-hint-after-research": 2,
-  "no-category": 2,
-  "no-own-site-after-research": 7,
-  "status-unknown-after-research": 1,
-  "closure-hint": 1
- },
- "ownerTouched": 2,
- "alreadyScreened": 0
+ "reject": 0,
+ "research": 0,
+ "keep": 0,
+ "rules": {},
+ "ownerTouched": 10,
+ "alreadyScreened": 489
 }
