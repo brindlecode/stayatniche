@@ -19,7 +19,7 @@ bestFor:
   - "Liebhaber kleiner Hotels"
 seo:
   metaTitle: "Cappadocia Inans Cave Suites: Höhlenhotel | StayAtNiche"
-  metaDescription: "Cappadocia Inans Cave Suites in Nar bei Nevşehir: zehn Höhlensuiten mit beheiztem Höhlenpool, Buffetfrühstück und Transfer vom Flughafen Nevşehir in Kappadokien."
+  metaDescription: "Cappadocia Inans Cave Suites in Nar: zehn Höhlensuiten mit beheiztem Höhlenpool, Buffetfrühstück und Transfer vom Flughafen Nevşehir in Kappadokien."
 ---
 
 Cappadocia Inans Cave Suites ist ein kleines Hotel im Dorf Nar bei Nevşehir (Çavuş Sokak No:8, 50130 Nar), dessen Unterkünfte rund um Höhlenzimmer entstanden sind. Das Haus hat zehn sorgfältig eingerichtete Zimmer, und die Website führt sie mit Nummern auf: 101 bis 104, 201 bis 203, 302, 401 und 402. Das Hotel präsentiert die gesamte Anlage als Höhlenunterkunft und nicht als Haus mit ein oder zwei Themenzimmern.

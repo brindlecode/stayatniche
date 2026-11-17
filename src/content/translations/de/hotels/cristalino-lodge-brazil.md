@@ -21,7 +21,7 @@ bestFor:
   - Amazonas-Entdecker
 seo:
   metaTitle: "Cristalino Lodge: Öko-Lodge am Amazonas | StayAtNiche"
-  metaDescription: "Cristalino Lodge in Mato Grosso: Bungalows im privaten Amazonasreservat, 595 erfasste Vogelarten, zwei 50-Meter-Türme über dem Blätterdach und gelebter Naturschutz."
+  metaDescription: "Cristalino Lodge in Mato Grosso: Bungalows im privaten Amazonasreservat, 595 erfasste Vogelarten und zwei 50-Meter-Türme über dem Blätterdach."
 ---
 
 Der südliche Amazonas – jener Waldbogen, der sich durch den Bundesstaat Mato Grosso zieht, wo der Rand des Beckens auf die Cerrado-Savanne trifft – weist in mehreren Tier- und Pflanzengruppen eine höhere Artenvielfalt auf als der zentrale Amazonas, weil er an der Schnittstelle zweier großer Biome Südamerikas liegt. Die Cristalino Lodge wurde hier 1990 als erste Lodge ihrer Art im Amazonasgebiet von Mato Grosso gegründet, bevor naturschutzorientierter Tourismus am Amazonas sich wirtschaftlich bewährt hatte, und beweist seit Jahrzehnten, dass ein privates Reservat Lebensraum schützen und zugleich die Einnahmen erwirtschaften kann, die es zu seinem Erhalt braucht.

@@ -4,23 +4,23 @@ category: desert-camps
 destination: Canyon Point, Utah
 country: USA
 continent: North America
-description: Built around an ancient Navajo sandstone mesa in the canyon country of southern Utah, Amangiri's poured concrete suites have private plunge pools calibrated to catch the electric blues and crimsons of the desert sky. The main pool is pressed against the mesa face; the spa treatment rooms hover over the rock itself.
+description: Set on over 900 acres of the Colorado Plateau in the canyon country of southern Utah, Amangiri has 34 modernist suites, an Aman Spa and a pool built against the mesa, with Camp Sarika's ten tented pavilions as its satellite camp.
 coverImage: /images/hotels/amangiri-utah.jpg
 priceRange: "$2,000 - $5,000"
 priceIndicator: 5
 highlights:
-  - Resort designed around an ancient geological mesa formation
-  - Private pool suites with direct canyon and mesa views
-  - Mesa pool cantilevered over the rock formation at the resort's heart
-  - Aman Spa with floating treatment rooms over the rock
+  - Resort built around a mesa on over 900 acres of the Colorado Plateau
+  - 34 suites plus Camp Sarika's ten tented pavilions, each with a private plunge pool
+  - Pool built against the mesa, with a sandstone escarpment protruding into the water
+  - Expansive Aman Spa
   - Private access to Lake Powell and surrounding canyon lands
   - Hot air balloon flights over the Grand Staircase at sunrise
   - Guided canyoneering, rock climbing, and cultural hikes
   - Helicopter excursions to remote canyon formations
 amenities:
-  - Private plunge pool (all suites)
+  - Private plunge pool (Camp Sarika pavilions)
   - Aman Spa with extensive treatment menu
-  - Heated main pool built around natural rock formation
+  - Main pool built against the mesa
   - Multiple dining venues with desert and canyon views
   - Yoga and fitness studio
   - Curated adventure activity programme
@@ -33,10 +33,10 @@ bestFor:
   - Outdoor adventurers who refuse to compromise on comfort
 prosAndCons:
   pros:
-    - Arguably the most architecturally stunning resort in North America
+    - Distinctive minimalist architecture in red-rock desert country
     - Aman's legendarily high service standards executed to perfection in the desert
     - Extraordinary access to some of the American Southwest's most remote landscapes
-    - The spa is among the finest in the country
+    - A large Aman Spa on site
   cons:
     - Among the most expensive hotels in the United States
     - Remote location requires private transport or a connecting flight to Page, AZ
@@ -48,15 +48,6 @@ seasonalInfo:
   bestTime: March to May and September to November for ideal temperatures
   peakSeason: October and spring break (March-April)
   notes: Spring and autumn are the prime seasons, warm days suitable for hiking and outdoor activities, cool evenings, and the extraordinary colour transformations of the canyon landscape. Summer is viable but very hot; winter brings occasional snow that transforms the mesas spectacularly.
-nearbyAttractions:
-  - name: Lake Powell and Glen Canyon National Recreation Area
-    distance: 10 km
-  - name: Grand Staircase-Escalante National Monument
-    distance: 40 km
-  - name: Antelope Canyon
-    distance: 50 km
-  - name: Bryce Canyon National Park
-    distance: 130 km
 coordinates:
   lat: 37.014623
   lng: -111.611121
@@ -64,7 +55,7 @@ featured: true
 status: published
 seo:
   metaTitle: "Amangiri Review, Aman's Luxury Desert Resort, Utah"
-  metaDescription: "Aman's masterpiece desert resort built into the canyon landscape of southern Utah. Amangiri offers extraordinary architecture, exceptional service, and direct access to the American Southwest. From $2,000/night."
+  metaDescription: "Aman's desert resort in the canyon country of southern Utah: 34 modernist suites, Camp Sarika's tented pavilions, a mesa-side pool and spa. From $2,000/night."
 affiliateLinks:
   - partner: "expedia"
     url: "https://www.expedia.com/Hotel-Search?destination=Canyon%20Point%2C%20Utah%2C%20USA&adults=2"
@@ -86,12 +77,12 @@ niche_source_url: "https://www.aman.com/resorts/amangiri"
 niche_verified_at: 2026-11-17
 ---
 
-Amangiri is one of the most acclaimed desert hotels in North America. The architecture alone justifies the flight to Utah. Architect Marwan Al-Sayed designed the entire resort around an ancient sandstone mesa, an outcropping of Navajo sandstone sitting at the building's core, and the result is a long, low complex of poured concrete and desert stone that doesn't compete with the landscape, it simply becomes part of it.
+Amangiri is a desert resort on over 900 acres of the Colorado Plateau in southern Utah, and the architecture is the draw. Marwan Al-Sayed, Rick Joy and Wendell Burnett designed it, and a sandstone escarpment protrudes into the main pool. The result is a minimalist complex of large concrete slabs that doesn't compete with the landscape, it simply becomes part of it.
 
-The main pool is built directly against the mesa face. The spa treatment rooms hover over it. Every sightline in the public spaces has been calibrated to return your attention to the rock. This is architecture with a very clear set of priorities, and it executes them without a wasted detail.
+The main pool is built directly against the mesa. Every sightline in the public spaces has been calibrated to return your attention to the rock. This is architecture with a very clear set of priorities, and it executes them without a wasted detail.
 
-Rooms are exercises in restraint: raw concrete walls, sand-coloured textiles, beds facing floor-to-ceiling windows that frame specific sections of the canyon panorama. The private plunge pools are positioned to catch the changing colours of the Utah sky: electric blue in the desert morning, saffron and crimson at sunset. In the canyon country of southern Utah, those colours are among the most extreme available anywhere on Earth.
+The 34 suites are modernist in design and, in the resort's own words, embrace the raw aesthetic of the desert, and each room has an open view of the surrounding desert landscape. Camp Sarika, the resort's satellite camp, adds ten tented pavilions, each with a private plunge pool.
 
-The Aman Spa covers 5,000 square metres within the rock. The floating pool, built over a crack in the mesa, puts you in warm water with ancient desert and nothing but rock below. It's one of the better spatial experiences available in a hotel anywhere.
+The Aman Spa is a 25,000-square-foot spa (about 2,300 square metres), and the pool is built against the mesa, with a sandstone escarpment protruding into the water.
 
-Lake Powell is 10 kilometres away. Antelope Canyon 50 kilometres. Bryce Canyon 130. Guides run helicopter excursions to canyon formations accessible no other way, kayak trips on the glassy surface of the lake, and guided hikes into slot canyons where the sky narrows to a sliver of blue between walls of undulating sandstone. Book 6–12 months ahead. This isn't a hotel that sits empty.
+Activities include helicopter flights over towering rock formations and guided hikes into slot canyons where the sky narrows to a sliver of blue between walls of undulating sandstone. Book 6–12 months ahead. This isn't a hotel that sits empty.
