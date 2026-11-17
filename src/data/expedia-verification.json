@@ -1,0 +1,1563 @@
+{
+  "adelya-cave-hotel-turkey": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Nevsehir-Hotels-Adelya-Cave-Hotel.h42357754.Hotel-Information",
+    "expediaTitle": "Adelya Cave Hotel",
+    "evidence": "expedia.com/es URL city segment Nevsehir, same id h42357754; answer text: address Isali Cad 24, Goreme, Nevsehir",
+    "notes": "The exact existingUrl (English path on expedia.com) did not appear in results; the same id h42357754 appeared on expedia.com only under the /es/ path (url field here, verbatim). English-path versions with same id seen on expedia.ae, expedia.ie, expedia.co.in, expedia.com.my, travelocity.com. Existing URL shares the id, so likely valid, but its exact string was not returned."
+  },
+  "al-maha-dubai": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Murqquab-Hotels-Al-Maha.h1769509.Hotel-Information",
+    "expediaTitle": "Al Maha, A Luxury Collection Desert Resort & Spa, Dubai Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Murqquab; answer text: Dubai Desert Conservation Reserve, Dubai - Al Ain Road, Murqquab",
+    "notes": "Existing-URL query returned only non-.com Expedia domains; confirmed on the allowed_domains expedia.com search. Brand suffix 'A Luxury Collection' only."
+  },
+  "aldourie-castle-united-kingdom": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No property page; Aldourie Castle only mentioned in passing (spa mention, cruise sight) in Loch Ness guide texts. Not shown as a bookable Expedia hotel in results."
+  },
+  "alila-jabal-akhdar-oman": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Nizwa-Hotels-Alila-Jabal-Akhdar.h7755939.Hotel-Information",
+    "expediaTitle": "Alila Jabal Akhdar, Oman Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Nizwa; answer text says address 'Plot No 4, Al Roose, Nizwa, Oman', mountain/canyon setting, only 4WD past the Jebel Al Akhdar checkpoint",
+    "notes": "Same id h7755939 also seen on travelocity, ebookers, lastminute, orbitz in the first (URL) query."
+  },
+  "alila-villas-uluwatu-bali": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Pecatu-Hotels-Alila-Villas-Uluwatu.h2256615.Hotel-Information",
+    "expediaTitle": "Alila Villas Uluwatu, Bali Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Pecatu; answer text: luxury clifftop resort in Pecatu, near Uluwatu Cliffs and Uluwatu Temple",
+    "notes": "Search on the URL itself returned only the Travelocity mirror with same id h2256615 (title 'Seaside stay'); the expedia.com URL appeared on the second query."
+  },
+  "aman-i-khas-india": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Sawai-Madhopur-Hotels-Aman-I-Khas.h118991123.Hotel-Information",
+    "expediaTitle": "Aman I Khas Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Sawai-Madhopur; answer text says close to Ranthambore National Park",
+    "notes": "First query (the URL itself) returned the same id h118991123 only on expedia.co.nz/.ie/.com.ph/.co.in/.co.uk and travelocity.com; the second query returned the exact expedia.com URL. A separate older expedia.com listing for the same name exists with a different id (h1393070, title 'Aman-i-khas: 2019 Room Prices , Deals & Reviews'); not used."
+  },
+  "amangiri-utah": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Glen-Canyon-National-Recreation-Area-Hotels-Amangiri.h3025100.Hotel-Information",
+    "expediaTitle": "Top 10 Hotels in Canyon Point, UT from $38 - Competitive Prices - Expedia",
+    "evidence": "URL slug Amangiri; sibling expedia.com URL Canyon-Point-Hotels-Amangiri.h3025100.Hotel-Information; title says Canyon Point, UT; answer text places Amangiri in Canyon Point",
+    "notes": "Same id h3025100 seen on expedia.com under both the existing Glen-Canyon path (result URL had no www) and https://www.expedia.com/Canyon-Point-Hotels-Amangiri.h3025100.Hotel-Information. Result titles are generic city-list titles and do not literally contain the name Amangiri; name match rests on the URL slug and answer text. Direct URL query returned no expedia.com results."
+  },
+  "amberley-castle-england": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Arundel-Hotels-Amberley-Castle.h5741.Hotel-Information",
+    "expediaTitle": "Amberley Castle",
+    "evidence": "Same id h5741 on expedia.com (www.expedia.com/es/Arundel-Hoteles-Amberley-Castle.h5741.Informacion-Hotel, title 'Amberley Castle'); answer text: 'Amberley Castle in Arundel, West Sussex'; URL city segment Arundel",
+    "notes": "The exact English www.expedia.com URL was not itself returned; the expedia.com result with id h5741 was the /es/ variant. Existing URL kept. Id h5741 also seen on expedia.com.au, .ca, .ie, .com.my, .co.nz with matching name."
+  },
+  "anantara-maldives-underwater": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Kihavah-Hotels-Anantara-Kihavah-Maldives-Villas.h3113059.Hotel-Information",
+    "expediaTitle": "Anantara Kihavah Maldives Villas",
+    "evidence": "URL city segment Kihavah; answer text says Kihavah Huravalhi Island in Baa Atoll",
+    "notes": "Exact expedia.com URL with id h3113059 returned verbatim. Same id also on travelocity/orbitz/wotif."
+  },
+  "andbeyond-benguerra-island-mozambique": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Benguerra-Island-Hotels-AndBeyond-Benguerra-Island-Lodge.h48514424.Hotel-Information",
+    "expediaTitle": "andBeyond Benguerra Island Lodge Hotel - Book Your Stay - Expedia",
+    "evidence": "URL city segment Benguerra-Island; text: property sits in Bazaruto Archipelago National Park, helicopter transfer from Vilanculos",
+    "notes": "Existing URL query only returned the id on expedia.co.uk/.co.id/.ae etc.; the exact expedia.com URL appeared in the second query. Name differs only by 'Lodge'."
+  },
+  "andbeyond-ngorongoro-crater-lodge": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Only Ngorongoro area/list pages and other lodges (Ngorongoro Lodge Melia, Serena Safari Lodge, etc.). No .Hotel-Information page for the &Beyond lodge."
+  },
+  "andbeyond-phinda-south-africa": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Only a lodge-level page appeared: 'andBeyond Phinda Forest Lodge' (https://www.expedia.com/Hluhluwe-Hotels-AndBeyond-Phinda-Forest-Lodge.h48519844.Hotel-Information). Not the same entry as the reserve as a whole, so not accepted; parent may consider if the site entry is really the Forest Lodge. One search only."
+  },
+  "archipelago-igloos-finland": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Only Helsinki archipelago boat tours/activities returned; no property page. Not shown on Expedia per results."
+  },
+  "arctic-guesthouse-and-igloos-finland": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Ranua-Hotels-Arctic-Guesthouse-Igloos.h24941301.Hotel-Information",
+    "expediaTitle": "Arctic Guesthouse & Igloos",
+    "evidence": "URL city segment Ranua; answer text says listing is for Arctic Guesthouse & Igloos in Ranua, Finland, near Ranua Zoo",
+    "notes": "Exact existing URL returned as expedia.com result with same id. Also appears on hotels.com, booking.com."
+  },
+  "ashford-castle-ireland": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Cong-Hotels-Ashford-Castle.h76936.Hotel-Information",
+    "expediaTitle": "Ashford Castle",
+    "evidence": "URL city segment Cong; text says address in Cong, Co. Mayo",
+    "notes": "Exact existingUrl returned on expedia.com. Separate page exists for The Lodge at Ashford Castle (h4585612), a different property."
+  },
+  "atlantis-aquaventure-bahamas": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Paradise-Island-Hotels-Atlantis.h71632290.Hotel-Information",
+    "expediaTitle": "Atlantis , Paradise Island, Bahamas Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Paradise-Island; title says Paradise Island, Bahamas",
+    "notes": "Existing-URL query did not return the id; found on second query. Search also returned separate Harborside at Atlantis condo/villa listings (different ids), and The Beach/Coral/Royal at Atlantis towers on non-.com domains. Title is just 'Atlantis' (main resort)."
+  },
+  "attrap-reves-france": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Only match was https://www.expedia.com/Strasbourg-Hotels-LAttrapReves.h38872670.Hotel-Information, an Alsace guesthouse with a similar name, so rejected. Allauch results were only generic travel guide pages."
+  },
+  "augill-castle-united-kingdom": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Kirkby-Stephen-Hotels-Augill-Castle.h6694609.Hotel-Information",
+    "expediaTitle": "Augill Castle Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Kirkby-Stephen; text says castle is on Leacett Lane in Kirkby Stephen, near Brough Castle and Yorkshire Dales",
+    "notes": "Id h6694609 also appears under Cumbria-Hotels path on expedia.ie and travelocity.ca, and Kirkby-Stephen path on expedia.co.uk etc."
+  },
+  "awasi-atacama-chile": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/San-Pedro-De-Atacama-Hotels-Awasi-Atacama.h120584412.Hotel-Information",
+    "expediaTitle": "Awasi Atacama",
+    "evidence": "URL city segment San-Pedro-De-Atacama; answer text: address in San Pedro de Atacama",
+    "notes": "Exact expedia.com URL appeared in results; also expedia.com.au/.tw/.co.kr and ebookers.ie mirrors. Answer text odd (3.0 star, Tocopilla 551) but name and place match."
+  },
+  "ballygally-castle-hotel-united-kingdom": {
+    "status": "confirmed",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Larne-Hotels-Ballygally-Castle.h970906.Hotel-Information",
+    "expediaTitle": "Ballygally Castle Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Larne; text: 274 Coast Road, Larne, Northern Ireland; Ballygally guide page in same results",
+    "notes": "Name differs only by 'Hotel'. Expedia files Ballygally under Larne."
+  },
+  "bambu-indah-bali": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Ubud-Hotels-Bambu-Indah-Resort.h102674429.Hotel-Information",
+    "expediaTitle": "Bambu Indah Resort Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Ubud; answer text says luxury eco-style resort listed near Ubud Monkey Forest",
+    "notes": "Title says 'Bambu Indah Resort' (brand suffix 'Resort'). First query (URL itself) returned id h102674429 only on hotels.com/travelocity sites. A separate older expedia.com listing 'Bambu Indah' exists with id h68639076 (2023 title, Sayan, Ubud); not used."
+  },
+  "banwell-castle-united-kingdom": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Only Banwell guide page (photo credit mentions the castle) and The Old Cow Shed (different property). No Banwell Castle page."
+  },
+  "barahi-jungle-lodge-nepal": {
+    "status": "confirmed",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Meghauli-Hotels-Barahi-Jungle-Lodge.h17679715.Hotel-Information",
+    "expediaTitle": "Barahi Jungle Lodge Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Meghauli; answer text: 5-star property in Meghauli near Chitwan National Park (some Expedia pages say Andrauli, Jitpur, Meghauli)",
+    "notes": "id h17679715"
+  },
+  "barcaldine-castle-united-kingdom": {
+    "status": "confirmed",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Oban-Hotels-Barcaldine-Castle.h45266862.Hotel-Information",
+    "expediaTitle": "Barcaldine Castle in Oban - Verified Reviews 2026 - Expedia",
+    "evidence": "URL city segment Oban; answer text: listing at Benderloch, Oban, PA37 1SA",
+    "notes": "id h45266862"
+  },
+  "barony-castle-hotel-united-kingdom": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Peebles-Hotels-Barony-Castle-Hotel.h1604660.Hotel-Information",
+    "expediaTitle": "Barony Castle Hotel in Peebles - Verified Reviews 2026 - Expedia",
+    "evidence": "URL city segment Peebles; text says hotel is in Eddleston, a rural area of Peebles, Scotland",
+    "notes": "Exact existing URL returned on www.expedia.com. Another expedia.com result with same id: Scottish-Borders-Hotels-Mercure-Peebles-Barony-Castle-Hotel.h1604660 (older 2019 title, former Mercure branding)."
+  },
+  "baumhaushotel-otterndorf-germany": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No Baumhaushotel Otterndorf page. Only treehouse hotel in results was Robins Nest Baumhaushotel in Witzenhausen (different). One search only."
+  },
+  "baumhaushotel-robins-nest-germany": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Witzenhausen-Hotels-Robins-Nest-Baumhaushotel.h33361179.Hotel-Information",
+    "expediaTitle": "Robins Nest Baumhaushotel: 2019 Room Prices $176, Deals & Reviews",
+    "evidence": "URL city segment Witzenhausen; answer text: 'The hotel is in Witzenhausen, with five tree-house accommodations'",
+    "notes": "Found on second query (allowed_domains expedia.com); first query (the URL itself) returned only non-.com Expedia domains with id h33361179. Result appears to be an old/stale page snapshot (2019 title)."
+  },
+  "baumhaushotel-solling-germany": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No Baumhaushotel Solling in results. Only 'Robins Nest Baumhaushotel' (Witzenhausen, different place) and Uslar generic pages. One search only."
+  },
+  "bayala-private-safari-lodges-south-africa": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Not accepted: name differs and results do not establish it is the same business. Expedia's Hluhluwe list text also names a 'Bayala Private Lodge' but no page for it was returned in two searches."
+  },
+  "belle-tout-lighthouse-united-kingdom": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No Belle Tout listing; only Eastbourne area pages and unrelated properties (e.g. The New England). Belle Tout mentioned only in passing in another property's description."
+  },
+  "belmond-royal-scotsman": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: It is a luxury train; results showed only unrelated Belmond hotels and The Scotsman Hotel Edinburgh. No Royal Scotsman listing seen."
+  },
+  "benesse-house-naoshima-japan": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Naoshima-Hotels-Benesse-House.h78492113.Hotel-Information",
+    "expediaTitle": "Benesse House",
+    "evidence": "Answer text: address 364-1, Naoshima, Kagawa 761-3110; slug URLs on other domains use Naoshima-Hotels",
+    "notes": "Id h78492113 appears on expedia.com only in the short form https://www.expedia.com/h78492113.Hotel-Information. The existing long slug form (Naoshima-Hotels-Benesse-House) appeared only on expedia.co.kr and expedia.sa in results, not on expedia.com. Search text also calls it Benesse House Hotel / Benesse House Naoshima."
+  },
+  "bora-bora-nui-resort": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Bora-Bora-Hotels-Conrad-Bora-Bora-Nui.h16649075.Hotel-Information",
+    "expediaTitle": "Conrad Bora Bora Nui",
+    "evidence": "URL city segment Bora-Bora; text: Vaitape, Bora Bora, 98730, overwater villas",
+    "notes": "Name differs by brand: Expedia lists it as Conrad Bora Bora Nui. A follow-up search showed the property is the Conrad Bora Bora Nui, formerly Hilton Bora Bora Nui Resort & Spa (booking.com URL slug hilton-bora-bora-nui-resort). No result literally titled 'Bora Bora Nui Resort & Spa' was seen; treat as same property under a brand change."
+  },
+  "borgo-castello-panicaglia-italy": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No .Hotel-Information page for this hotel appeared. Search text said the name appears only in directory lists under Montefalco and Petrignano, unverified. Only one query run."
+  },
+  "bubbletent-australia": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No BubbleTent listing; only unrelated Hunter Valley properties returned."
+  },
+  "bulles-dolive-france": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: One search; nothing matching. Not evidence of absence on Expedia."
+  },
+  "bushmans-desert-camp-namibia": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Two queries (Solitaire, Sossusvlei); only Solitaire/Sesriem area guides, tours and generic Desert Camp mentions. No Bushman's Desert Camp property page. Not shown as bookable on Expedia per results."
+  },
+  "cappadocia-cave-suites-turkey": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Nevsehir-Hotels-Cappadocia-Cave-Suites-Boutique-Hotel-Special-Class.h3024368.Hotel-Information",
+    "expediaTitle": "Cappadocia Cave Suites Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Nevsehir; answer text says listing is in Nevsehir, near Goreme",
+    "notes": "First query (URL) returned the id only on expedia.com.tw/ebookers/lastminute/orbitz/travelocity; second query returned the exact expedia.com URL. Other-site titles show 'Cappadocia Cave Suites Adult Only +12' variant; expedia.com title is plain 'Cappadocia Cave Suites'."
+  },
+  "cappadocia-inans-cave-suites-turkey": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Nevsehir-Hotels-Cappadocia-Inans-Cave.h93141330.Hotel-Information",
+    "expediaTitle": "Cappadocia inans Cave & Swimming Pool Hot",
+    "evidence": "URL city segment Nevsehir; text says B&B in Nevsehir, neighbourhood Nar, near Uchisar Castle",
+    "notes": "Exact existingUrl returned on expedia.com. Expedia name is 'Cappadocia Inans Cave' (title variants add '& Swimming Pool Hot'); our name has 'Suites'. Core name matches; flagging the small name difference."
+  },
+  "castello-della-pieve-italy": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Mercatello-Sul-Metauro-Hotels-Agriturismo-Castello-Della-Pieve.h24145768.Hotel-Information",
+    "expediaTitle": "Agriturismo Castello della Pieve (Ranch) Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Mercatello-Sul-Metauro; text: Mercatello sul Metauro, Marche",
+    "notes": "Existing-URL query returned only non-.com Expedia domains/Travelocity/ebookers with same id; confirmed on allowed_domains query. Expedia also lists same-named properties in Verucchio and Montone (different places); this id is the Mercatello one."
+  },
+  "castello-di-casamassella-italy": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Casamassella and Uggiano la Chiesa guide/list pages returned, but no property named Castello di Casamassella. Aia Grande (Uggiano la Chiesa) is a different property."
+  },
+  "castello-di-fagnano-albergo-diffuso-italy": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Only Fagnano Alto guide page and other albergo diffuso properties elsewhere (Comeglians, Torre Del Nera, Borgotufi) plus Hotel Castello L'Aquila (different). No page for this property."
+  },
+  "castello-di-gargonza-italy": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Monte-San-Savino-Hotels-Castello-Di-Gargonza.h21339462.Hotel-Information",
+    "expediaTitle": "Castello di Gargonza, Monte San Savino - Check Reviews 2026 - Expedia",
+    "evidence": "URL city segment Monte-San-Savino; title says Monte San Savino; text says listing is in Monte San Savino, restaurant La Torre di Gargonza, Historic Hotels of Europe",
+    "notes": "Id h21339462 also on expedia.co.in, expedia.com.ph, expedia.ae in the first (URL) query."
+  },
+  "castello-di-guarene-italy": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Guarene-Hotels-Castello-Di-Guarene-Relais-Chateaux.h14800271.Hotel-Information",
+    "expediaTitle": "Castello di Guarene",
+    "evidence": "URL city segment Guarene; answer text: Castello di Guarene, Relais & Chateaux, Via Alessandro Roero 2, 12050 Guarene, Italy",
+    "notes": "Exact expedia.com URL in results; many mirrors share id h14800271."
+  },
+  "castello-di-montaldo-italy": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Turin-Hotels-Castello-Di-Montaldo-Torino.h18824217.Hotel-Information",
+    "expediaTitle": "Castello di Montaldo Torino",
+    "evidence": "URL city segment Turin; answer text says located in Montaldo Torinese near Turin, 4-star hotel in a regional park",
+    "notes": "Exact expedia.com URL returned in first query. Name differs only by suffix 'Torino'."
+  },
+  "castello-di-monterone-italy": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Perugia-Hotels-Castello-Di-Monterone.h2256280.Hotel-Information",
+    "expediaTitle": "TH Perugia - Castello di Monterone Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Perugia; text: Strada Montevile 3, Perugia, PG 06126",
+    "notes": "Exact existing URL returned on www.expedia.com. Expedia title carries a TH Perugia brand prefix."
+  },
+  "castello-di-oviglio-italy": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Oviglio-Hotels-Relais-Del-Castello-Di-Oviglio.h1865749.Hotel-Information",
+    "expediaTitle": "Relais del Castello di Oviglio",
+    "evidence": "Same id h1865749 on expedia.com (www.expedia.com/es/Oviglio-Hoteles-Relais-Del-Castello-Di-Oviglio.h1865749.Informacion-Hotel); URL city segment Oviglio; text: 'Via Xxiv Maggio 1, 15026 Oviglio (Alessandria)', 14th-century castle",
+    "notes": "Expedia name is 'Relais del Castello di Oviglio' vs site name 'Castello di Oviglio' (prefix 'Relais del'); same castle/town, judged a match but flag for reviewer. The exact English www.expedia.com URL was not itself returned; only the /es/ variant on expedia.com. Existing URL kept."
+  },
+  "castello-di-proceno-italy": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Proceno-Hotels-Castello-Di-Proceno-Albergo-Diffuso.h27781014.Hotel-Information",
+    "expediaTitle": "Castello Di Proceno Albergo Diffuso",
+    "evidence": "URL city segment Proceno; answer text says property in Proceno",
+    "notes": "Exact expedia.com URL returned verbatim."
+  },
+  "castello-di-septe-italy": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Mozzagrogna-Hotels-Hotel-Castello-Di-Septe.h8210639.Hotel-Information",
+    "expediaTitle": "Hotel Castello di Septe Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Mozzagrogna; text: hotel in Mozzagrogna, Abruzzo",
+    "notes": "First query (URL) showed the id only on expedia.com.au/.ie/.sg/.nz, ebookers, wotif etc.; expedia.com page appeared in the second query."
+  },
+  "castello-fai-italy": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No result named Castello Fai. Other Fai della Paganella hotels returned (Hotel Fai, Solea Boutique & Spa, etc.), none this property."
+  },
+  "castello-la-leccia-italy": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Castellina-In-Chianti-Hotels-Castello-La-Leccia.h4985032.Hotel-Information",
+    "expediaTitle": "Castello La Leccia Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Castellina-In-Chianti; text says luxury farm stay in Castellina in Chianti",
+    "notes": "First query showed id on expedia.com.my/.co.in/.co.th, ebookers, travelocity; second query returned exact expedia.com URL."
+  },
+  "castello-tafuri-italy": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Portopalo-Di-Capo-Passero-Hotels-Castello-Tafuri.h15353200.Hotel-Information",
+    "expediaTitle": "Castello Tafuri (Aparthotel) Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Portopalo-Di-Capo-Passero; text: Via Tonnara N. 1 Portopalo di Capo Passero SR",
+    "notes": "Not in the first (URL) query on expedia.com but returned by the second query. Expedia name 'Castello Tafuri' vs ours 'Castello Tafuri Charming Suites' (suffix only)."
+  },
+  "cavo-tagoo-mykonos-greece": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Mykonos-Hotels-CAVO-TAGOO-MYKONOS.h16344226.Hotel-Information",
+    "expediaTitle": "CAVO TAGOO MYKONOS",
+    "evidence": "URL city segment Mykonos; text: close to Mykonos New Port and Windmills of Mykonos",
+    "notes": ""
+  },
+  "charming-cave-cappadocia-hotel-turkey": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Nevsehir-Hotels-Charming-Cave-Hotel.h19893654.Hotel-Information",
+    "expediaTitle": "Charming Cave Hotel Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Nevsehir; answer text says 'Charming Cave Hotel in Nevsehir (Goreme area)', near Goreme Open Air Museum and Uchisar Castle",
+    "notes": "Expedia name is 'Charming Cave Hotel' (site name is 'Charming Cave Cappadocia Hotel'); first-query results gave address Aydinli Orta Mahalle, Kevenci Sk. No:16-1, Göreme. Name difference is minor (Cappadocia dropped)."
+  },
+  "chole-mjini-tanzania": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Mafia-Island-Hotels-Chole-Mjini.h31789041.Hotel-Information",
+    "expediaTitle": "Chole Mjini Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Mafia-Island; answer text: beach hotel on Chole Island near Mafia Island, Tanzania",
+    "notes": "Search on the URL itself showed only non-.com mirrors (expedia.com.au, .sa, .co.kr, ebookers, travelocity); expedia.com URL appeared on second query. Expedia lists it as Chole Mjini (not 'Lodge')."
+  },
+  "cliff-house-hotel-ireland": {
+    "status": "confirmed",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Ardmore-Hotels-Cliff-House-Hotel.h1853356.Hotel-Information",
+    "expediaTitle": "Cliff House Hotel Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Ardmore; answer text says clifftop hotel above Ardmore Bay, County Waterford",
+    "notes": "Exact name match."
+  },
+  "conrad-maldives-muraka": {
+    "status": "unconfirmed",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "unconfirmed: Id h564176 did not appear in either search (2 searches, allowed_domains expedia.com); only Rangali Island list/guide pages returned. Answer text says Expedia describes the Muraka as an underwater suite within Conrad Maldives Rangali Island resort, so Muraka looks like a villa in that resort rather than its own property; existing URL names the resort, not Muraka. Keep existingUrl, not ",
+    "removedUrl": "https://www.expedia.com/Rangali-Island-Hotels-Conrad-Maldives-Rangali-Island.h564176.Hotel-Information"
+  },
+  "corsewall-lighthouse-hotel-scotland": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Answer text of both queries described Expedia pages for the hotel (address Corsewall Point, Stranraer), but no Corsewall Lighthouse Hotel .Hotel-Information URL appeared in result links; only 'Corsewall Castle Farm Lodges' h26992983 (different property). No URL accepted."
+  },
+  "cuevas-la-granja-spain": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Benalua-De-Guadix-Hotels-Cuevas-La-Granja.h4335348.Hotel-Information",
+    "expediaTitle": "Cuevas la Granja Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Benalua-De-Guadix; text says cave-style lodging in Benalua de Guadix near Guadix, Granada province",
+    "notes": "Exact existing URL returned on www.expedia.com."
+  },
+  "dalhousie-castle-united-kingdom": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Edinburgh-Hotels-Dalhousie-Castle-Hotel-Spa.h552253.Hotel-Information",
+    "expediaTitle": "Dalhousie Castle Hotel, Bonnyrigg - Guest Reviews 2026 - Expedia",
+    "evidence": "Answer text: 'Dalhousie Castle Hotel & Spa, a 4-star property in Bonnyrigg'; URL city segment Edinburgh; 22 min drive from Edinburgh Castle",
+    "notes": "Found on second query; first query returned only other Expedia domains (.com.au, .co.kr, .sa) with id h552253."
+  },
+  "deplar-farm-iceland": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Skagafjorour-Hotels-Eleven-Experience-Deplar-Farm.h35065041.Hotel-Information",
+    "expediaTitle": "Eleven Deplar Farm - All inclusive Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Skagafjorour; text: 570 Fljot, Skagafjordur, Fljot Valley on the Troll Peninsula, northern Iceland",
+    "notes": "Not found on expedia.com in the first (URL) search; found on the second search with allowed_domains expedia.com. Name has Eleven prefix/All inclusive suffix."
+  },
+  "desert-camp-namibia": {
+    "status": "confirmed",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Sesriem-Hotels-Desert-Camp.h5548297.Hotel-Information",
+    "expediaTitle": "Desert Camp Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Sesriem; Sesriem guide titled Sesriem, Hardap Region",
+    "notes": "id h5548297. Name and area (Sesriem/Sossusvlei, Hardap Region) match, but the answer text mentions a second, separate 'Desert Camp' Expedia page (5km before the Sossusvlei/Naukluft gate, Sesriem) and a different 'The Elegant Desert Camp' (h60030751); only one URL was seen, so there may be duplicate listings. Official-site match is not verified from results."
+  },
+  "desert-cave-hotel-australia": {
+    "status": "unconfirmed",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "unconfirmed: Id h178901 not seen in any returned URL (only Coober Pedy list/filter pages). Keep existingUrl, not confirmed.",
+    "removedUrl": "https://www.expedia.com/Coober-Pedy-Hotels-Desert-Cave-Hotel.h178901.Hotel-Information"
+  },
+  "desert-luxury-camp-morocco": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Several similarly named Merzouga camps returned, none an exact name match: Merzouga Desert Luxury Camp (Rissani, h87346219), Merzouga Luxury Camp (h87345334), Luxury Desert Camp in Merzouga (h76791348), Merzouga Luxury Desert Camps (h44435942), etc. Answer text said a Merzouga property list contains entries named 'Desert Luxury Camp' and 'Desert Luxury Camp Merzouga' but gave no URL. No"
+  },
+  "dornoch-castle-hotel-united-kingdom": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Scottish-Highlands-Hotels-Dornoch-Castle-Hotel.h2293384.Hotel-Information",
+    "expediaTitle": "Dornoch Castle Hotel Reviews, Deals & Photos 2025 - Expedia",
+    "evidence": "Text: hotel sits in the historic town of Dornoch, across from the cathedral; URL segment Scottish-Highlands",
+    "notes": "Result URL was https://expedia.com/... (no www), normalised. First query (URL) found nothing on Expedia."
+  },
+  "dromoland-castle-ireland": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Newmarket-On-Fergus-Hotels-Dromoland-Castle.h35231912.Hotel-Information",
+    "expediaTitle": "Dromoland Castle Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Newmarket-On-Fergus; text: Newmarket-on-Fergus, County Clare",
+    "notes": "Not in first query (only travelocity.ca and ebookers.fi with the same id), returned by the second query. Other nearby Expedia properties exist (The Inn at Dromoland, THE RINE), which are different."
+  },
+  "ethie-castle-united-kingdom": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Only candidate was 'Unique Victorian mansion house with period details - 14 bedrooms. (Castle)' h21685675 in Arbroath, which does not name Ethie Castle; not accepted."
+  },
+  "ferienwaggons-zittauer-schmalspurbahn-germany": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Two searches; no matching property. One result 'Übernachtung im nostalgischen Bahnwaggon' (URL city segment Bogen, h56935100) appeared, but its slug places it in Bogen, not Jonsdorf, so it is not accepted."
+  },
+  "feynan-ecolodge-jordan": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Two searches (Feynan Ecolodge Wadi Feynan Jordan Expedia hotel; Feynan Ecolodge Jordan Expedia), both with allowed_domains expedia.com, returned no .h<digits>.Hotel-Information page for Feynan. Other results were Jordan country/list pages and unrelated properties (Jordan EcoPark, Beauraing Ecolodge). No claim that it is absent from Expedia."
+  },
+  "floating-seahorse-dubai": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Two searches with allowed_domains expedia.com. Nothing named Floating Seahorse in Dubai surfaced."
+  },
+  "fonab-castle-hotel-united-kingdom": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Hotel appears to be sold on Expedia (per answer text) but no .h<digits>.Hotel-Information URL was returned, so no mapping. Not constructing a URL."
+  },
+  "four-seasons-maldives-landaa": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Landaa-Giraavaru-Hotels-Four-Seasons-Maldives-At-Landaa-Giraavaru.h1392594.Hotel-Information",
+    "expediaTitle": "Four Seasons Maldives at Landaa Giraavaru",
+    "evidence": "URL city segment Landaa-Giraavaru; text: located in Landaa Giraavaru, Four Seasons note on Kuda Huraa transfer; other sites place it in Baa Atoll, Maldives",
+    "notes": "expedia.com.sg lists same id under Maldives-Hotels path."
+  },
+  "free-spirit-spheres-canada": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Only Qualicum Beach area pages and other properties returned. One search only; not evidence it is absent."
+  },
+  "fyrgaarden-denmark": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Two searches (one with alternate spelling Fyrgården); no Fyrgaarden property. Appears not listed on Expedia per results."
+  },
+  "gamirasu-cave-turkey": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Urgup-Hotels-Gamirasu-Cave-Hotel-Special-Class.h9455727.Hotel-Information",
+    "expediaTitle": "Gamirasu Cave Hotel - Special Class Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Urgup; answer text says luxury cave hotel in Ayvali, Urgup, Nevsehir",
+    "notes": "A second, separate expedia.com listing exists: 'Cappadocia Gamirasu Cave Hotel' https://www.expedia.com/Urgup-Hotels-Cappadocia-Gamirasu-Cave-Hotel.h121325722.Hotel-Information (id h121325722), possibly a duplicate/older listing; existing id h9455727 is the one that matched 'Gamirasu Cave Hotel' with 93 reviews / 9.6 score per results."
+  },
+  "georgios-cave-cappadocia-turkey": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Only other Urgup cave hotels returned; no Georgios Cave page."
+  },
+  "gili-lankanfushi-maldives": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Lankanfushi-Island-Hotels-Gili-Lankanfushi-Maldives.h1717151.Hotel-Information",
+    "expediaTitle": "Gili Lankanfushi Maldives Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Lankanfushi-Island; answer text: overwater bungalow resort on Lankanfushi Island; Maldives",
+    "notes": "First query (URL) only returned wotif mirror with same id and expedia.com/affiliates slugs; expedia.com Hotel-Information URL appeared on second query."
+  },
+  "goreme-valley-cave-house-turkey": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Nevsehir-Hotels-Goreme-Valley-Cave-House.h12708388.Hotel-Information",
+    "expediaTitle": "Goreme Valley Cave House",
+    "evidence": "URL city segment Nevsehir; answer text says in the center of Goreme Valley, steps from Goreme National Park",
+    "notes": "Exact expedia.com URL returned in first query."
+  },
+  "guacamayo-ecolodge-ecuador": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Answer text said no dedicated Expedia page found; it appears only in directory/attraction mentions. Similar names (Guacamaya Lodge, Cuyabeno Lodge) are different properties."
+  },
+  "halong-bay-indochina-sails": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Ha-Long-Hotels-Indochina-Sails.h2537055.Hotel-Information",
+    "expediaTitle": "Indochina Sails Ha Long Bay (Cruise) Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Ha-Long; text: Tuan Chau, Ha Long, Quang Ninh",
+    "notes": "Exact existing URL returned on www.expedia.com. Expedia classes it as a Cruise (boat), not a hotel. Older duplicate path with same id: Halong-Bay-Hotels-Indochina-Sails.h2537055 (2019 title)."
+  },
+  "hapuku-lodge-new-zealand": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Kaikoura-Hotels-Hapuku-Lodge-Tree-Houses.h27174765.Hotel-Information",
+    "expediaTitle": "Hapuku Lodge & Tree Houses Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Kaikoura; answer text: address '1 Station Rd Hapuku Canterbury', treehouse rooms",
+    "notes": "Found on second query; first query (the URL itself) returned no Expedia results at all."
+  },
+  "hazlewood-castle-and-spa-united-kingdom": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Tadcaster-Hotels-Hazlewood-Castle-Spa.h200680.Hotel-Information",
+    "expediaTitle": "Hazlewood Castle & Spa Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Tadcaster; text address Paradise Ln, Leeds, England, LS24 9NJ",
+    "notes": "Not found on expedia.com in the first (URL) search (only expedia.co.uk/.co.jp); found on second search. A different expedia.com page, Hazlewood Castle h27736699 (2023), also exists and is not the one used."
+  },
+  "hoshinoya-fuji-japan": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Kofu-Hotels-HOSHINOYA-Fuji.h20071865.Hotel-Information",
+    "expediaTitle": "HOSHINOYA Fuji",
+    "evidence": "URL city segment Kofu; text says Fujikawaguchiko, near Lake Kawaguchi; another expedia.com URL for same id uses Fujikawaguchiko-hotels",
+    "notes": "Same id also appeared as https://expedia.com/Fujikawaguchiko-hotels-HOSHINOYA-Fuji.h20071865.Hotel-information. Existing Kofu slug is Expedia's own, area differs from destination label but text matches Fujikawaguchiko."
+  },
+  "hotel-al-castello-italy": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Bassano-Del-Grappa-Hotels-Hotel-Al-Castello.h48458467.Hotel-Information",
+    "expediaTitle": "Hotel Al Castello",
+    "evidence": "URL city segment Bassano-del-Grappa; text says 3-star hotel at Via Bonamigo 19 in the historic centre of Bassano del Grappa, next to the castle",
+    "notes": "Same id h48458467 returned on expedia.com in this case-variant form (https://expedia.com/Bassano-del-Grappa-hotels-Hotel-Al-Castello.h48458467.Hotel-information); the existing URL form itself appeared only on expedia.com.ph/.co.nz/.ae etc. Either form carries the same id. Site status: draft."
+  },
+  "hotel-castello-di-santa-vittoria-italy": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Santa-Vittoria-DAlba-Hotels-Hotel-Castello-Di-Santa-Vittoria.h2193261.Hotel-Information",
+    "expediaTitle": "Hotel Castello di Santa Vittoria",
+    "evidence": "URL city segment Santa-Vittoria-DAlba; text: Santa Vittoria d'Alba, Via Cagna 4",
+    "notes": "Exact English existingUrl not returned on expedia.com; same id h2193261 returned on expedia.com only under /es/ (url field, verbatim). English-path versions seen on expedia.co.in, .com.sg, .ie, .ae, .sa, .com.ph."
+  },
+  "hotel-castello-miramare-italy": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Genoa-Hotels-Castello-Miramare.h5224600.Hotel-Information",
+    "expediaTitle": "Castello Miramare",
+    "evidence": "URL city segment Genoa; text: 3.0 star property in Ponente, Genoa, beachfront, 6-minute walk from Genoa Pegli Station",
+    "notes": "Expedia name lacks the 'Hotel' prefix; same property."
+  },
+  "houseboat-arka-mielno-poland": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No 'Arka' listing. Closest was 'HT Houseboats' (h12776929, Mielno) which is a different name, not accepted. Input name was truncated ('Houseboat \\'); query used slug-derived 'Houseboat Arka'. One search only."
+  },
+  "houseboat-harmony-utrecht-netherlands": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Only 'Houseboat harmony Pure relaxation' (h24274432) which is in Bitterfeld-Wolfen, Germany: wrong location, rejected."
+  },
+  "icehotel-sweden": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Jukkasjarvi-Hotels-Ice-Hotel.h1545892.Hotel-Information",
+    "expediaTitle": "Jukkasjarvi Hotels Ice Hotel.h1545892.Hotel Information",
+    "evidence": "URL city segment Jukkasjarvi; answer text says 'the Ice Hotel in Jukkasjarvi, Sweden', riverfront, sauna; other Expedia domains list id under Kiruna-Hotels-Icehotel",
+    "notes": "Expedia lists it as 'Ice Hotel'/'Icehotel' (not '365'); the same id h1545892 is the Icehotel in Jukkasjarvi, so name match is brand-level only. Title is a slug-style title, not a rich page title; no second search was run."
+  },
+  "il-borgo-del-castello-italy": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No matching property. Cremolino results were other properties (Nordelaia h63178098, HEMANAIRE h36432709). First pass had noted same-named hotels in Rota d'Imagna (h113466280), not Piedmont/Cremolino; not mapped."
+  },
+  "inkaterra-machu-picchu": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Machu-Picchu-Hotels-Inkaterra-Machu-Picchu-Pueblo-Hotel.h894836.Hotel-Information",
+    "expediaTitle": "Inkaterra Machu Picchu Pueblo Hotel Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Machu-Picchu; answer text: Inkaterra Machu Picchu Pueblo Hotel in Aguas Calientes, near train station",
+    "notes": "Search on the URL itself only returned ebookers.ie mirror with same id; expedia.com URL appeared on second query (also a variant with tracking params, not used)."
+  },
+  "intercontinental-thalasso-bora-bora": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Bora-Bora-Hotels-InterContinental-Bora-Bora-Resort-And-Thalasso-Spa.h14637.Hotel-Information",
+    "expediaTitle": "InterContinental Bora Bora Resort and Thalasso Spa by IHG",
+    "evidence": "URL city segment Bora-Bora; answer text says resort on Motu Piti Aau, Bora Bora",
+    "notes": "Exact expedia.com URL returned in first query. 'by IHG' is a brand suffix."
+  },
+  "inverlochy-castle-hotel-united-kingdom": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Fort-William-Hotels-Inverlochy-Castle.h73509.Hotel-Information",
+    "expediaTitle": "Inverlochy Castle Hotel, Fort William - Photos & Reviews 2026 - Expedia",
+    "evidence": "URL city segment Fort-William; answer text places hotel in Torlundy near Ben Nevis, Fort William",
+    "notes": "Same id h73509 as existingUrl, on expedia.com; title names Inverlochy Castle Hotel."
+  },
+  "jade-mountain-st-lucia": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Soufriere-Hotels-Jade-Mountain-Resort.h1529727.Hotel-Information",
+    "expediaTitle": "Jade Mountain Resort",
+    "evidence": "URL city segment Soufriere; answer text: 'beachfront resort near Anse Chastanet Beach, at 1000 Anse Chastanet Road, Soufrière, St. Lucia' (from combined sources)",
+    "notes": "Exact URL returned on expedia.com. Same id also on travelocity.com, expedia.com.au, expedia.com.sg."
+  },
+  "jao-camp-botswana": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Two searches: no .Hotel-Information page for Jao Camp. Results were only Okavango Delta / Jao Island / Botswana guide pages. Not confirmed as sold on Expedia; possibly absent or listed under another name."
+  },
+  "kakslauttanen-finland": {
+    "status": "confirmed",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Sodankyla-Hotels-Kakslauttanen-Arctic-Resort.h12318138.Hotel-Information",
+    "expediaTitle": "Kakslauttanen Arctic Resort in Sodankyla - Recent Reviews 2026 - Expedia",
+    "evidence": "URL city segment Sodankyla; text says Kiilopaantie 9, Sodankyla (Saariselka area)",
+    "notes": "replaced previous mapping https://www.expedia.com/Sodankyla-Hotels-Kakslauttanen.h22665800.Hotel-Information. Existing id h22665800 also exists on expedia.com (title 'Kakslauttanen: 2019 Room Prices , Deals & Reviews', URL Sodankyla-Hotels-Kakslauttanen) but it is a stale listing without 'Arctic Resort' in the name. Current page h12318138 matches the full name exactly."
+  },
+  "keemala-bird-nest-phuket": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Phuket-Hotels-Keemala.h10507369.Hotel-Information",
+    "expediaTitle": "Phuket Hotels Keemala.h10507369.Hotel Information",
+    "evidence": "URL city segment Phuket; text: Kamala, Moo 6, Kamala, Phuket 83150",
+    "notes": "Matched result was https://expedia.com/Phuket-Hotels-Keemala.h10507369.Hotel-Information (normalised to www). It is the Keemala resort page; 'Bird's Nest Pool Villa' is a room/villa type not named in the title, so this is the property-level page."
+  },
+  "kelebek-special-cave-hotel-turkey": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Nevsehir-Hotels-Kelebek-Special-Cave-Hotel.h15969407.Hotel-Information",
+    "expediaTitle": "Kelebek Special Cave Hotel & Spa",
+    "evidence": "URL city segment Nevşehir; text says cave hotel in Göreme near Göreme National Park",
+    "notes": "Same id h15969407 on expedia.com in this variant URL (verbatim, normalised to www). Existing URL form appeared on travelocity/ebookers/expedia.co.jp/.com.vn etc. and an expedia.com/affiliates link. Name differs only by '& Spa' suffix; some sites titled it 'Kelebek Cave Hotel'."
+  },
+  "killeavy-castle-estate-united-kingdom": {
+    "status": "confirmed",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Newry-Hotels-Killeavy-Castle-Estate.h30431238.Hotel-Information",
+    "expediaTitle": "Killeavy Castle Estate - Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Newry; text says 12 Ballintemple Road, Newry, Northern Ireland, 1 mile from Slieve Gullion",
+    "notes": "New mapping, id h30431238."
+  },
+  "kokopelli-cave-usa": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Two searches, no property page for Kokopelli's Cave B&B in Farmington. Not found on Expedia per results."
+  },
+  "la-bulle-etoilee-france": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Only unrelated results; 'La Bulle, an authentic and romantic spa' (h123161595) is under a Nice path, not Bonnemaison, so not accepted. No matching page."
+  },
+  "langley-castle-hotel-united-kingdom": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Hexham-Hotels-Langley-Castle-Hotel.h17608560.Hotel-Information",
+    "expediaTitle": "Langley Castle Hotel",
+    "evidence": "URL city segment Hexham; text: in Hexham's historical district",
+    "notes": "Exact existingUrl returned on expedia.com."
+  },
+  "lapa-rios-costa-rica": {
+    "status": "unconfirmed",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "unconfirmed: id h1447895 never appeared on any returned expedia.com URL (results were only Cabo Matapalo, Osa Peninsula, Puerto Jimenez, Corcovado list/guide pages). existingUrl is kept but not confirmed.",
+    "removedUrl": "https://www.expedia.com/Puerto-Jimenez-Hotels-Lapa-Rios-Lodge.h1447895.Hotel-Information"
+  },
+  "lindesnes-lighthouse-norway": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No hotel by this name; only Lindesnes/Spangereid/Mandal guide pages returned. Answer text mentions Lindesnes Havhotell and Mandal Hotel as other properties (not accepted)."
+  },
+  "locanda-al-castello-italy": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Cividale del Friuli results showed other properties (Matilde's Medieval Guest House, a charming apartment) and list pages, none named Locanda al Castello. Also a 'La Locanda del Castello' in Montalcino (different). Only one search was run; the first was a clear wrong-place match."
+  },
+  "londolozi-varty-camp-south-africa": {
+    "status": "unconfirmed",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "mismatch: Same id h2602780 as existingUrl IS on expedia.com, but its title is the reserve-level listing 'Londolozi Private Game Reserve' (12 rooms, Relais & Chateaux per answer text), not 'Varty Camp'. Expedia's Londolozi hotels page names Londolozi Camp and Londolozi Tree Camp. No Varty Camp page was found in two searches. Location matches, name does not, so not confirmed as Varty Camp; reviewer ",
+    "removedUrl": "https://www.expedia.com/Kruger-National-Park-Hotels-Londolozi-Private-Game-Reserve.h2602780.Hotel-Information"
+  },
+  "longitude-131-australia": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Yulara-Hotels-Longitude-131.h57865128.Hotel-Information",
+    "expediaTitle": "Longitude 131 Reviews, Deals & Photos 2025 - Expedia",
+    "evidence": "URL city segment Yulara; answer text: 5-star luxury lodge in Yulara, Uluru-Kata Tjuta National Park about 8 min drive",
+    "notes": "Search on the URL itself returned only regional expedia domains and travelocity with same id; expedia.com URL appeared on second query. Expedia title omits the degree sign (Longitude 131)."
+  },
+  "lucky-cave-cappadocia-turkey": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Nevsehir-Hotels-Lucky-Cave-Hotel-Cappadocia.h34161048.Hotel-Information",
+    "expediaTitle": "Lucky Cave Cappadocia Reviews, Deals & Photos 2025 - Expedia",
+    "evidence": "URL city segment Nevsehir; answer text gives address Karsi Bucak Cad, Mizrak Sok. No. 8 in Goreme, Goreme National Park 1 min walk",
+    "notes": "First query (URL itself) showed id h34161048 on expedia.co.in/.com.au/.ca and on expedia.com/cn/ (slug 'Lucky-Cave-Cappadocia'); second query returned the exact expedia.com URL above. Page metadata appears several years old."
+  },
+  "machupicchu-ecolodge-peru": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No property with this name returned; only other Santa Teresa lodges (Llactapata Lodge, Santuario Machupicchu, etc.)."
+  },
+  "majakkahotelli-finland": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No result for the name; only other Rauma hotels (some Rauma, Norway pages) returned."
+  },
+  "manta-resort-zanzibar": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: One search; no .h<digits>.Hotel-Information URL for Manta Resort in results. Not evidence that it is absent from Expedia."
+  },
+  "mashpi-lodge-ecuador": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Mashpi-Hotels-Mashpi-Lodge.h7597491.Hotel-Information",
+    "expediaTitle": "Mashpi Lodge",
+    "evidence": "URL city segment Pacto; text: Mashpi Village, Pacto, Pichincha, Ecuador",
+    "notes": "Id h7597491 shown on www.expedia.com as a Hotel-Reviews page under a Pacto slug (title Mashpi Lodge). The existing Mashpi-Hotels...Hotel-Information path was seen only on expedia.com.vn/.my/.sg and expedia.ca/fr, not on expedia.com, so the id is confirmed but the exact existing path was not seen on .com; keeping existingUrl is reasonable."
+  },
+  "melek-cave-hotel-turkey": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Nevsehir-Hotels-Melek-Cave-Hotel.h15493630.Hotel-Information",
+    "expediaTitle": "Melek Cave Hotel",
+    "evidence": "Same id h15493630 on expedia.com (www.expedia.com/es/Nevsehir-Hoteles-Melek-Cave-Hotel.h15493630.Informacion-Hotel); URL city segment Nevsehir; text: 'steps from Göreme National Park'",
+    "notes": "The exact English www.expedia.com URL was not itself returned; only the /es/ variant on expedia.com (plus expedia.ie, expedia.com.ph, travelocity, wotif, ebookers with same id). Existing URL kept."
+  },
+  "melville-castle-united-kingdom": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Edinburgh-Hotels-Melville-Castle.h70096143.Hotel-Information",
+    "expediaTitle": "Melville Castle, Lasswade - Recent Reviews 2026 - Expedia",
+    "evidence": "URL city segment Edinburgh; title and text say Lasswade, postcode EH18 1AP",
+    "notes": "Not found on expedia.com in the first (URL) search (only expedia.co.uk); found on second search."
+  },
+  "memories-aicha-luxury-camp-jordan": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Aqaba-Hotels-Memories-Aicha-Luxury-Camp.h25606785.Hotel-Information",
+    "expediaTitle": "Memories Aicha Luxury Camp",
+    "evidence": "Expedia text: 'Located in Aqaba, Memories Aicha Luxury Camp is near the beach'; Aqaba in URL path on other expedia domains and https://www.expedia.com/cn/Aqaba-Hotels-Memories-Aicha-Luxury-Camp.h25606785.Hotel-Information",
+    "notes": "The exact long-form existing URL was not returned; expedia.com returned the short form (verbatim here) and the /cn/ long form with the same id h25606785. Existing long URL very likely valid but not seen verbatim. Booking.com and lastminute list it under Wadi Rum; Expedia lists Aqaba."
+  },
+  "mt-matutum-domesville-glamping-philippines": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No DomesVille listing in results; only Tupi/Mt Matutum destination pages. Official booking is via Cloudbeds. One search only."
+  },
+  "museum-hotel-cappadocia": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Nevsehir-Hotels-Museum-Hotel-Special-Class.h3155186.Hotel-Information",
+    "expediaTitle": "Museum Hotel Cappadocia, Nevsehir - Verified Reviews 2026 - Expedia",
+    "evidence": "URL city segment Nevsehir; text says Expedia's Uçhisar pages list it as MUSEUM HOTEL - Relais & Châteaux, on the slopes below Uchisar Castle",
+    "notes": "Exact existing URL returned on expedia.com. First query also returned expedia.com /es/ and Hotel-Reviews pages with the same id, titled 'MUSEUM HOTEL - Relais & Châteaux'. Answer text noted a Göreme page labels it 'Special Class' and flagged possible mislabel, but the id is the same."
+  },
+  "night-train-caledonian-sleeper": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Results were Fort William/Euston hotels and travel guides only; no Caledonian Sleeper property page. It is a train; no evidence it is sold as a hotel on Expedia (results showed only other hotels mentioning it)."
+  },
+  "nihi-sumba-indonesia": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Wanokaka-Hotels-Nihi-Sumba-Island.h17680731.Hotel-Information",
+    "expediaTitle": "NIHI Sumba - member Leading Hotels of the World Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Wanokaka; answer text: 5-star property in Wanokaka on Sumba Island, near Nihiwatu Beach",
+    "notes": "Same id h17680731 as existingUrl on expedia.com. Result URL returned verbatim (a second copy with affiliate tracking params also appeared; clean one used)."
+  },
+  "norah-head-lighthouse-and-cottages-australia": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No property page URL for this hotel. Answer text mentioned 'Reflections Norah Head Lighthouse Cottages', 40 Bush Street Norah Head NSW, 4.0 star, within Budgewoi Peninsula list, but no .Hotel-Information URL for it was returned. Other Norah Head results (Norah Head Hideaway Cottage h38272264, Cliff Cottage Noraville h117507334) are different properties. Likely sold on Expedia under the "
+  },
+  "northern-rail-traincar-inn-united-states": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Only other Two Harbors lodgings (Country Inn of Two Harbors, Grand Superior Lodge, Voyageur Motel) and city lists returned; no Northern Rail property page. Not found on Expedia per results."
+  },
+  "nothofagus-hotel-chile": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Neltume-Hotels-Huilo-Huilo-Nothofagus-Hotel-Spa.h2244395.Hotel-Information",
+    "expediaTitle": "Huilo Huilo Nothofagus Hotel & Spa",
+    "evidence": "URL city segment Neltume; text: Neltume, Chile, within a 5-minute drive of Huilo-Huilo Biological Reserve",
+    "notes": "Expedia name has 'Huilo Huilo' prefix."
+  },
+  "off-paris-seine-france": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Paris-Hotels-OFF-PARIS-SEINE.h13304275.Hotel-Information",
+    "expediaTitle": "Off Paris Seine (Hotel) Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Paris; text says upscale houseboat near Notre-Dame in Paris",
+    "notes": "Same id h13304275 as existingUrl."
+  },
+  "okonjima-bush-camp-namibia": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Two searches with allowed_domains expedia.com. Nothing showing Okonjima Bush Camp as a bookable Expedia property."
+  },
+  "ostsee-baumhaushotel-germany": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No Ostsee Baumhaushotel. Wangels results were 'Baltic Sea Tiny House' (h120741379, described as a treehouse, different name, not accepted), Weissenhauser Strand and apartments. One search only."
+  },
+  "otterburn-castle-country-house-hotel-united-kingdom": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Newcastle-Upon-Tyne-Hotels-Otterburn-Castle-Country-House-Hotel.h31634085.Hotel-Information",
+    "expediaTitle": "Otterburn Castle Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Newcastle-Upon-Tyne (nearest Expedia region, not Otterburn itself); related expedia.com results mention Northumberland National Park; mirror-listing text said 'in Otterburn, Newcastle-upon-Tyne, near Northumberland National Park'",
+    "notes": "Same id h31634085 also seen as expedia.com Hotel-Reviews page under 'Newcastle-Upon-Tyne-And-Vicinity'. Expedia text never explicitly stated Otterburn in the returned answer, so location is region-level (Newcastle area / Northumberland); name matches. Title shortens to 'Otterburn Castle'."
+  },
+  "ottoman-cave-suites-turkey": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Nevsehir-Hotels-Ottoman-Cave-Suites.h5667024.Hotel-Information",
+    "expediaTitle": "Ottoman Cave Suites",
+    "evidence": "URL city segment Nevsehir; answer text says near Goreme National Park, 5-minute stroll to Goreme Roman Castle",
+    "notes": "Exact expedia.com URL returned in first query."
+  },
+  "palafitos-overwater-bungalows-mexico": {
+    "status": "confirmed",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Playa-Del-Carmen-Hotels-Palafitos-Overwater-Bungalows-At-El-Dorado-Maroma.h22671135.Hotel-Information",
+    "expediaTitle": "Palafitos Overwater Bungalows, Playa del Carmen: Photos & Reviews 2026 - Expedia",
+    "evidence": "URL city segment Playa-Del-Carmen; text says Maroma area of Playa del Carmen, Carretera Cancun Tulum Km 55.3",
+    "notes": "New mapping, id h22671135. Text describes 'Palafitos Overwater Bungalows, All & More Inclusive - Adults Only' in Maroma; URL slug includes 'At El Dorado Maroma'. Search answer warned of variant-named related listings but only this one was returned as a .Hotel-Information page."
+  },
+  "peckforton-castle-united-kingdom": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Tarporley-Hotels-Peckforton-Castle.h2759572.Hotel-Information",
+    "expediaTitle": "Peckforton Castle",
+    "evidence": "URL city segment Tarporley; text: historic hotel in Tarporley, Cheshire",
+    "notes": "Id h2759572 shown on www.expedia.com as the Hotel-Reviews variant of the same Tarporley slug. Existing Hotel-Information path itself was seen only on ebookers/travelocity/lastminute, not expedia.com; id and slug match."
+  },
+  "peristyle-cave-cappadocia-turkey": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Strong candidate: name and Uçhisar location match. Set not_found only because the sole URL returned is the Spanish variant https://www.expedia.com/es/Nevsehir-Hoteles-Peristyle-Cave-Cappadocia.h74874533.Informacion-Hotel (ends .Informacion-Hotel, not .Hotel-Information) and the English URL must not be constructed. Reviewer may accept this /es/ URL."
+  },
+  "pezulu-tree-house-lodge-south-africa": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Hoedspruit-Hotels-Pezulu-Tree-House-Lodge.h17782856.Hotel-Information",
+    "expediaTitle": "Pezulu Tree House Lodge",
+    "evidence": "URL city segment Hoedspruit; text: 'in the Guernsey Private Nature Reserve near Hoedspruit' (from combined sources)",
+    "notes": "Exact URL returned on expedia.com (also /cn/ variant)."
+  },
+  "phare-de-kerbel-france": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No Phare de Kerbel page in either query; only Riantec area pages and unrelated properties (La Maison du Phare, Riantec, a rental, does not name Kerbel; not accepted)."
+  },
+  "pullman-maldives-maamutaa-resort-maldives": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Kooddoo-Hotels-Pullman-Maldives-Maamutaa-Resort.h39802685.Hotel-Information",
+    "expediaTitle": "Pullman Maldives Resort Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Kooddoo; text says Maamutaa Island, Gaafu Alifu Atoll",
+    "notes": "Not found on expedia.com in the first (URL) search; found on second search. Title says 'Pullman Maldives Resort'; URL slug includes Maamutaa-Resort."
+  },
+  "quirpon-lighthouse-inn-canada": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Two searches; no property page for Quirpon Lighthouse Inn. Answer text for the first search mentioned Norse Skol Accommodations as a Quirpon Island property (no URL seen), a different property. Not found on Expedia per results."
+  },
+  "real-castello-italy": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Verduno-Hotels-Albergo-Real-Castello.h23482020.Hotel-Information",
+    "expediaTitle": "Albergo Real Castello",
+    "evidence": "URL city segment Verduno; text: Piazza Canonico Borgna Don Pietro, 9, 12060, Verduno, Cuneo, Piedmont",
+    "notes": "Name differs only by 'Albergo' prefix."
+  },
+  "rekero-camp-masai-mara": {
+    "status": "unconfirmed",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "unconfirmed: Id h4962810 did not appear in either query (name query and URL query); results were other Maasai Mara camps only. Keep existingUrl in report as unconfirmed.",
+    "removedUrl": "https://www.expedia.com/Masai-Mara-Hotels-Rekero-Camp-All-Inclusive.h4962810.Hotel-Information"
+  },
+  "revembulle-france": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No Rêvembulle listing; only town guide and unrelated chalet/auberge listings returned."
+  },
+  "robles-treehouse-lodge-peru": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No Robles listing in results. Only 'Treehouse Lodge in Saquena' (h11781590) appeared; Saquena is not shown as Manu/Madre de Dios, so rejected. One search only."
+  },
+  "romantic-cave-hotel-turkey": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Urgup-Hotels-Romantic-Cave-Hotel.h84061743.Hotel-Information",
+    "expediaTitle": "Romantic Cave Hotel Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Urgup; answer text says hotel in Ürgüp, near Goreme Open Air Museum and Goreme National Park",
+    "notes": "Same id h84061743 as existingUrl. The same search also returned a second, older listing for the same name, h57695730 ('Romantic Cave Hotel: 2022 Room Prices, Deals & Reviews'); the 2026-titled h84061743 is the current one."
+  },
+  "rovos-rail-south-africa": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No Rovos Rail property page in results (only flights/destination pages). It is a luxury train, results showed no Expedia listing. One search only."
+  },
+  "royal-cliff-hotels-group-thailand": {
+    "status": "unconfirmed",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "mismatch: existingUrl id h10024248 confirmed on expedia.com (https://www.expedia.com/Pattaya-Hotels-Royal-Cliff-Beach-Terrace-Hotel.h10024248.Hotel-Information) but it is the single property Royal Cliff Beach Terrace Hotel Pattaya, not an entity named 'Royal Cliff Hotels Group'. First search also indicated separate Expedia listings for Royal Cliff Beach Hotel Pattaya and Royal Cliff Grand Hotel Pa",
+    "removedUrl": "https://www.expedia.com/Pattaya-Hotels-Royal-Cliff-Beach-Terrace-Hotel.h10024248.Hotel-Information"
+  },
+  "safari-desert-camp-oman": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Bidiya-Hotels-Safari-Desert-Camp-Oman.h120788470.Hotel-Information",
+    "expediaTitle": "Safari Desert Camp Oman",
+    "evidence": "URL city segment Bidiya; text says it is in Bidiya, Ash Sharqiyah North Governorate, Oman",
+    "notes": "expedia.com result returned directly for the URL query. Expedia name has 'Oman' suffix. Other similarly named camps exist (Safari Dunes Camp on hotels.com, Luxury Desert Camp Oman h83664228, Desert Wonders Camp h35002595) but are different ids."
+  },
+  "sahara-dunes-camp-morocco": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No exact 'Sahara Dunes Camp'. Closest: 'Sahara dunes Luxury Camp' (https://www.expedia.com/Taouz-Hotels-Sahara-Dunes-Luxury-Camp.h119687444.Hotel-Information), Merzouga area, but name is not an exact match and operator not verified, so not accepted. One search only."
+  },
+  "saugerties-lighthouse-united-states": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Two searches; no property page named Saugerties Lighthouse. Expedia shows only nearby stays and an attraction page. The Homestead (Kingston-Hotels-The-Homestead.h32012414) is a different property."
+  },
+  "scarabeo-camp-morocco": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Marrakech-Hotels-Scarabeo-Camp.h44462216.Hotel-Information",
+    "expediaTitle": "Scarabeo Camp",
+    "evidence": "URL city segment Marrakech; answer text: campground in Agafay area outside Marrakech",
+    "notes": "Exact expedia.com URL in results; Expedia labels it a 2.0-star campground."
+  },
+  "scargill-castle-united-kingdom": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No property page. Answer text said Scargill Castle appears only in area directory pages (All-Durham-Hotels, All-Brough-Sowerby-Hotels, All-Gayle-Hotels) listed as 'Scargill, Co. Durham, Barnard Castle, Yorkshire'; no .Hotel-Information URL seen."
+  },
+  "schloss-hotel-korb-italy": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Appiano-Sulla-Strada-Del-Vino-Hotels-SCHLOSS-HOTEL-KORB.h23182916.Hotel-Information",
+    "expediaTitle": "Schloss Hotel Korb Reviews, Deals & Photos 2025 - Expedia",
+    "evidence": "URL city segment Appiano-Sulla-Strada-Del-Vino (Italian name of Eppan); answer text says Appiano sulla Strada del Vino, the municipality that includes Missian; address Strada Castel D'Appiano 5 per Expedia regional listings",
+    "notes": "First query returned id h23182916 only on expedia.com.au/.com.sg and sister sites; second query returned exact expedia.com URL. Expedia also has a Missiano hotels area page (not used)."
+  },
+  "schloss-hotel-wehrburg-italy": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Only 3 results, all different properties: Hotel Wehrburg in Cuxhaven (h7020352, Germany), Schloss Hotel Wasserburg, Wasserschloss Westerburg. None in South Tyrol."
+  },
+  "schwimmendes-haus-partwitzer-see-germany": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Only 'Ferienhaus am Partwitzer See' (Elsterheide, h42389018, different property) and a houseboat in Ribnitz-Damgarten (different place) returned; neither matches."
+  },
+  "seki-cave-hotel-turkey": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Avanos-Hotels-Seki-Cave-Cavusin.h24207038.Hotel-Information",
+    "expediaTitle": "Seki Cave Hotel, Wake Up to Hot Air Balloons Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL segment Avanos-...-Cavusin; answer text: address Ikinci Kume Evleri No: 158/1, Cavusin Village Avanos Nevsehir",
+    "notes": "Same id h24207038 as existingUrl on expedia.com. Answer text also mentions a separate 'Seki Cave Suites' listing in Nevsehir that may be a different property."
+  },
+  "severin-safari-camp-kenya": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Tsavo-Hotels-Severin-Safari-Camp.h9100114.Hotel-Information",
+    "expediaTitle": "Severin Safari Camp Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Tsavo; answer text: 'Tsavo West National Park, Kitani Wildlife Area, Tsavo, 80100 is its listed address'",
+    "notes": "Found on second query; first query returned only other Expedia domains and travelocity with id h9100114."
+  },
+  "sextantio-cave-italy": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Matera-Hotels-Sextantio-Le-Grotte-Della-Civita.h3694295.Hotel-Information",
+    "expediaTitle": "Sextantio Le Grotte Della Civita",
+    "evidence": "URL city segment Matera; text address Via Civita 28, Matera, MT, 75100",
+    "notes": "Exact expedia.com URL returned verbatim."
+  },
+  "shinta-mani-wild-cambodia": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Sihanoukville-Hotels-Bensley-Collection-Shinta-Mani-Wild.h31908958.Hotel-Information",
+    "expediaTitle": "Shinta Mani Wild, Kampong Seila - Latest Reviews 2026 - Expedia",
+    "evidence": "URL city segment Sihanoukville; title and text say Kampong Seila (Prey Praseth Village, Preah Sihanouk), Cambodia, Cardamom region",
+    "notes": "Id h31908958 matches existingUrl on expedia.com. Expedia admin area is Kampong Seila / Preah Sihanouk (URL says Sihanoukville), not Koh Kong; the answer text claimed Expedia's Koh Kong list also includes it (not independently seen in titles). Name and country/Cardamom area match."
+  },
+  "signature-cave-cappadocia-turkey": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Urgup-Hotels-Signature-Cave-Premium-Suites.h104047496.Hotel-Information",
+    "expediaTitle": "Signature Cave Cappadocia, Trademark Collection by Wyndham Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Urgup; text says address Yukari Mahalle, No:54 Ürgüp Nevşehir",
+    "notes": "Title matches site name. URL slug still says 'Signature-Cave-Premium-Suites'; answer text mentions a separate Expedia entry called 'Signature Cave Premium Suites' at Yukari Mevki Dere Sokak 16, Ürgüp, shown on an attraction page (not seen as a distinct URL). Other-TLD pages with the same id are titled 'Signature Cave Premium Suites'. Id h104047496 is the one titled Trademark Collection by Wyndham on expedia.com."
+  },
+  "singita-grumeti-tanzania": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Expedia pages seen were individual lodges (Singita Sasakwa Lodge h10984974, 'Singita Faru Faru'/'Serengeti House' URLs whose content was other properties); none is the Singita Grumeti brand/reserve page itself, so not mapped. Sasakwa Lodge is a separate named property."
+  },
+  "singita-lebombo-south-africa": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Kruger-National-Park-Hotels-Singita-Lebombo-Lodge.h2871298.Hotel-Information",
+    "expediaTitle": "Singita Lebombo Lodge: 2019 Room Prices , Deals & Reviews",
+    "evidence": "URL city segment Kruger-National-Park; text says lodge is in Kruger National Park, 21 rooms",
+    "notes": "Same id h2871298 as existingUrl on www.expedia.com (an expedia.com variant URL under Mpumalanga-Limpopo with same id also appeared, titled 'Top Hotels in Bushbuckridge from $66'). Page title carries '2019' so listing may be dated."
+  },
+  "sitka-lighthouse-united-states": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Only general Sitka hotel pages and other properties (Totem Square, Golden Alaskan Lodge etc.) returned; no Sitka Lighthouse property page."
+  },
+  "six-senses-shaharut-israel": {
+    "status": "unconfirmed",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "unconfirmed: Id h49021083 not seen in any returned expedia.com URL (only Hevel Eilot/Yahel/Elifaz/Ovda guide pages came back). Keep existingUrl, not confirmed.",
+    "removedUrl": "https://www.expedia.com/Hevel-Eilot-Hotels-Six-Senses-Shaharut.h49021083.Hotel-Information"
+  },
+  "skylodge-peru": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Closest was 'Vertical Sky Suites' h70547062 in Ollantaytambo, whose result text does not say it is Skylodge Adventure Suites; not accepted. 'Skylodge Resort' is in Coron (different)."
+  },
+  "snowcastle-kemi-finland": {
+    "status": "unconfirmed",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "unconfirmed: Id h21218479 not seen in returned URLs. Name on Expedia per text is SnowHotel of Kemi, differing from SnowCastle of Kemi. Keep existingUrl, not confirmed. Related expedia.com pages: Kemi-Snow-Castle-Kemi.d6163464 attraction, SnowExperience365 attraction.",
+    "removedUrl": "https://www.expedia.com/Kemi-Hotels-SnowHotel-Of-Kemi.h21218479.Hotel-Information"
+  },
+  "snowhotel-kirkenes-norway": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/South-Varanger-Hotels-Snowhotel-Kirkenes.h33802052.Hotel-Information",
+    "expediaTitle": "Snow Resort Kirkenes, South Varanger - Photos & Reviews 2026 - Expedia",
+    "evidence": "URL city segment South-Varanger; answer text: listed as Snow Resort Kirkenes and Snowhotel Kirkenes at Sandnesdalen 14, South Varanger, a short drive into Kirkenes town",
+    "notes": "Same id h33802052 as existingUrl. Title says 'Snow Resort Kirkenes' while URL slug is Snowhotel-Kirkenes; answer text says Expedia lists it under both names. A separate Expedia property 'Gamme Cabins by Snowhotel Kirkenes' (h34860317) also exists; not this one."
+  },
+  "somnen-bulle-france": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No .Hotel-Information page for Somn'en Bulle. Answer text said the name appears only in a 'More trip options' list on the Expedia Carmaux hotels guide (Carmaux-Hotels.d6202998.Travel-Guide-Hotels), with no property page. Not confirmed as sold on Expedia."
+  },
+  "soneva-jani-maldives": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Medhufaru-Hotels-Soneva-Jani.h15375843.Hotel-Information",
+    "expediaTitle": "Soneva Jani Hotel in Medhufaru - View Latest Reviews 2026",
+    "evidence": "URL city segment Medhufaru; text: 5-star resort in Medhufaru, Noonu Atoll, Maldives",
+    "notes": "id h15375843 matches existingUrl; found on second query (first query did not return it)"
+  },
+  "soneva-kiri-thailand": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Ko-Kood-Hotels-Soneva-Kiri.h2700059.Hotel-Information",
+    "expediaTitle": "Soneva Kiri Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Trat-Province; text address 110 Moo 4, Koh Kood Sub-District, Ko Kood, Trat",
+    "notes": "Same id h2700059 as existingUrl, but different slug (Trat-Province-Hotels vs Ko-Kood-Hotels). A second result with slug Trat-Hotels-Soneva-Kiri.h2700059 (tracking params) also appeared. Both resolve to same id; recommend using the Trat-Province URL."
+  },
+  "song-saa-cambodia": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Sihanoukville-Hotels-Song-Saa-Private-Island.h5248561.Hotel-Information",
+    "expediaTitle": "Song Saa Private Island, Koh Ouen: Reviews & Photos 2026 - Expedia",
+    "evidence": "URL city segment Sihanoukville; title Koh Ouen; text: Koh Rong Archipelago",
+    "notes": "id h5248561 matches existingUrl"
+  },
+  "sorrisniva-igloo-hotel-norway": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Alta-Hotels-Sorrisniva-Igloo-Hotel.h19656440.Hotel-Information",
+    "expediaTitle": "Sorrisniva Igloo Hotel",
+    "evidence": "URL city segment Alta; text address Sorrisniva 20, Alta, Norway",
+    "notes": "Exact expedia.com URL returned verbatim. A Hotels.com snippet says the property is closed 01 May to 30 November (seasonal)."
+  },
+  "splendid-cave-hotel-turkey": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No result named Splendid Cave Hotel. Nearest was 'Ortahisar Cave Hotel' (h6419362, Urgup), a different name, not accepted. Not shown on Expedia in this one search."
+  },
+  "star-castle-hotel-united-kingdom": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No hotel page. Only an attraction page 'The Garrison and Star Castle' (d553248622647988823, Vacation-Attraction) and area guides, which do not count. Not confirmed as sold on Expedia."
+  },
+  "stf-berguddens-fyrvaktarbostader-sweden": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not searched; NOT SEARCHED: shared WebSearch budget (200/turn) was exhausted. 'not_found' here means no search was possible, not that the property was checked and absent."
+  },
+  "stonefield-castle-united-kingdom": {
+    "status": "confirmed",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Tarbert-Hotels-Stonefield-Castle-Hotel.h1835719.Hotel-Information",
+    "expediaTitle": "Stonefield Castle Hotel Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Tarbert; answer text says near Tarbert on the Kintyre side of Loch Fyne, Argyll",
+    "notes": "Name differs only by 'Hotel'."
+  },
+  "sultan-cave-suites-turkey": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Nevsehir-Hotels-Sultan-Cave-Suites.h17896395.Hotel-Information",
+    "expediaTitle": "Sultan Cave Suites",
+    "evidence": "URL city segment Nevsehir; text: hotel in Nevsehir, Turkey near Goreme National Park",
+    "notes": ""
+  },
+  "taru-cave-suites-turkey": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Urgup-Hotels-Taru-Cave-Suites.h36106825.Hotel-Information",
+    "expediaTitle": "Taru Cave Suites",
+    "evidence": "URL city segment Urgup; text says Esbelli Mh, Ürgüp 50350, city centre of Ürgüp",
+    "notes": "Exact existing URL returned as an expedia.com result with the same id."
+  },
+  "telunas-private-island-overwater-villas-indonesia": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No Telunas listing in results; only Riau Islands generic pages and other resorts. One search only."
+  },
+  "the-castle-hotel-taunton-united-kingdom": {
+    "status": "unconfirmed",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "unconfirmed: Same id h481675 as existingUrl returned on expedia.com and location matches Taunton, but Expedia title is 'The Castle at Taunton', not exactly 'The Castle Hotel'; per the strict name rule not claimed as confirmed. Answer text also said Expedia lists a separate 'The Castle Hotel' (pub-style, no address seen), so name ambiguity exists. Parent should decide whether 'The Castle at Taunton",
+    "removedUrl": "https://www.expedia.com/Taunton-Hotels-The-Castle-At-Taunton.h481675.Hotel-Information"
+  },
+  "the-dune-camp-botswana": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No result by this name; closest was Deception Valley Lodge (Hainaveld Game Farm), a different property."
+  },
+  "the-ghan-australia": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: The Ghan is a rail journey, not a property; results showed no Expedia hotel listing for it. One search only (clearly decisive)."
+  },
+  "the-harpy-houseboat-london-united-kingdom": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No 'Harpy' listing; London houseboat results were other, differently named boats (not accepted). One search only."
+  },
+  "the-old-railway-station-united-kingdom": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Petworth-Hotels-The-Old-Railway-Station.h11899976.Hotel-Information",
+    "expediaTitle": "The Old Railway Station Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Petworth; answer text says Station Road, Petworth, West Sussex",
+    "notes": "Id h11899976 matches existingUrl on expedia.com."
+  },
+  "thulhagiri-island-resort-maldives": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Thulhaagiri-Hotels-Thulhagiri-Island-Resort.h11016420.Hotel-Information",
+    "expediaTitle": "Thulhagiri Island Resort, Thulhaagiri - Check Latest Reviews 2026 - Expedia",
+    "evidence": "URL city segment Thulhaagiri; answer text says North Malé Atoll, address Ameenee Magu, Thulhaagiri, Maldives",
+    "notes": "Id h11016420 matches existingUrl on expedia.com. Expedia title lacks 'and Spa' (suffix, acceptable)."
+  },
+  "tierra-patagonia-chile": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Torres-Del-Paine-Hotels-Tierra-Patagonia-Hotel-And-Spa.h4644789.Hotel-Information",
+    "expediaTitle": "Tierra Patagonia Hotel And Spa: 2018 Room Prices, Deals & Reviews",
+    "evidence": "URL city segment Torres-Del-Paine; text says lake-side spa hotel near the park",
+    "notes": "Same id h4644789 as existingUrl (result URL had tracking query params kword/regionId/semcid, stripped here; path identical). Title carries a stale '2018' label, so the listing may be old; name and place match."
+  },
+  "torrisdale-castle-estate-united-kingdom": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Torrisdale Castle appears only as a filter label/nearby name on Machrihanish/Saddell pages; no property page."
+  },
+  "train-station-inn-canada": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Two queries returned only Tatamagouche guides, hotel roundups, cottages and guest-house lists; no page naming Train Station Inn. Not evidence it is absent from Expedia."
+  },
+  "transfagarasan-treehouse-village-romania": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No hotel page. Answer text mentions a 'Treehouse Village' only as a restaurant in a tour listing; other lodging in Arefu was Hotel Piscul Negru; 'All Seasons Treehouse Village' is in Eureka Springs (different property). One search only."
+  },
+  "treehotel-sweden": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Lulea-Hotels-Tree-Hotel.h7749094.Hotel-Information",
+    "expediaTitle": "Tree Hotel in Harads",
+    "evidence": "URL city segment Lulea; answer text says Treehotel in Harads, Norrbotten County, address Edeforsvag 2 A, Harads",
+    "notes": "First query (URL itself) returned id h7749094 only on expedia.de/.co.kr/.es/.ca; second query returned exact expedia.com URL. Expedia name is 'Tree Hotel' (spelling variant of Treehotel). Check-in location is Brittas Pensionat per listing."
+  },
+  "treehouse-holidays-thailand": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Results show TreeHouse Villas Koh Yao (h19956932, h109792467, h109792463), a differently named property; not accepted as the same without name match."
+  },
+  "treehouse-point-united-states": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No Treehouse Point listing in results; only Issaquah city/hotel pages. One search only."
+  },
+  "tulloch-castle-hotel-united-kingdom": {
+    "status": "unconfirmed",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "unconfirmed: Id h1636459 not seen in returned expedia.com URLs (only Dingwall guide/list pages returned). Keep existingUrl, not confirmed.",
+    "removedUrl": "https://www.expedia.com/Dingwall-Hotels-Tulloch-Castle-Hotel.h1636459.Hotel-Information"
+  },
+  "tyr-graig-castle-united-kingdom": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Barmouth-Hotels-Tyr-Graig-Castle.h35201016.Hotel-Information",
+    "expediaTitle": "Tyr Graig Castle Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Barmouth; answer text: '4-star hotel on Llanaber Road in Barmouth, Wales'",
+    "notes": "Found on second query; first query returned expedia.co.uk/.co.nz/.ae versions with id h35201016. Apostrophe dropped in Expedia name (Tyr vs Ty'r)."
+  },
+  "urgup-inn-cave-hotel-turkey": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Urgup-Hotels-Urgup-Inn-Cave-Hotel.h4457188.Hotel-Information",
+    "expediaTitle": "Urgup Inn Cave Hotel",
+    "evidence": "URL city segment Urgup; text says central Urgup inn near Temenni Wishing Hill",
+    "notes": "Exact expedia.com URL returned verbatim."
+  },
+  "utopia-cave-cappadocia-turkey": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Urgup-Hotels-Utopia-Cave-Cappadocia.h18359119.Hotel-Information",
+    "expediaTitle": "Utopia Cave Cappadocia",
+    "evidence": "URL city segment Urgup; text: Urgup 50400, near Goreme National Park",
+    "notes": "Also listed elsewhere as Best Western Premier Cappadocia Special Class."
+  },
+  "utter-inn-sweden": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Only Västerås hotels (Steam Hotel, Hotell Västerås etc.); no Utter Inn. One search only; not evidence it is absent."
+  },
+  "vagony-na-horach-czechia": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No result for the name; only Kovářská area pages and unrelated holiday homes returned."
+  },
+  "venice-simplon-orient-express": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: It is a train; results showed only unrelated 'Orient Express' hotels in Venice and an Expedia magazine article. Not shown as bookable on Expedia per results."
+  },
+  "vintage-cave-house-turkey": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Nevsehir-Hotels-Vintage-Cave-House.h42600746.Hotel-Information",
+    "expediaTitle": "Vintage Cave House Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Nevsehir; text says central Göreme, near Göreme Open Air Museum",
+    "notes": "First query showed id only on expedia.com.au/.co.uk/.ca etc.; second query returned the exact expedia.com URL."
+  },
+  "vuurtoren-van-harlingen-netherlands": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Two searches; no property page for Vuurtoren van Harlingen. Not found on Expedia per results."
+  },
+  "walworth-castle-hotel-united-kingdom": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Darlington-Hotels-Best-Western-Walworth-Castle-Hotel.h1600878.Hotel-Information",
+    "expediaTitle": "Walworth Castle Hotel, BW Signature Collection Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL city segment Darlington; answer text says 'Walworth Castle Hotel, BW Signature Collection in Darlington'",
+    "notes": "Id h1600878 matches existingUrl exactly. Separate expedia.com listing exists for Walworth Castle Cottage (h127237936), a different property."
+  },
+  "whitepod-switzerland": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Monthey-Hotels-Whitepod.h10426546.Hotel-Information",
+    "expediaTitle": "Whitepod Eco-Luxury Lodge in Monthey - Easy Booking - Expedia",
+    "evidence": "URL city segment Monthey; answer text says 'Les Cerniers, 1871 Monthey VS'",
+    "notes": "Id h10426546 matches existingUrl exactly. Expedia title says 'Lodge' rather than 'Hotel'; address Les Cerniers matches our destination."
+  },
+  "wilderness-davisons-camp-zimbabwe": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No Davison's Camp listing; other Hwange/Dete lodges returned (The Hide Safari Camp, Khulu Lodge, Gwango Heritage Resort)."
+  },
+  "wolkensteiner-zughotel-germany": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: One search. Hotel appears in Expedia directory text but no property URL was returned, so not mapped. Different Wolkenstein hotel Santé Royale (h8821680) is not this property."
+  },
+  "yha-st-briavels-castle-united-kingdom": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Results had only a Gloucestershire guide mentioning the castle is a youth hostel, a different St Briavels holiday home (h123832039, not this hostel) and other YHA hostels elsewhere. No page for this hostel; not shown as sold on Expedia per results."
+  },
+  "yuquiyu-treehouses-united-states": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Only Rio Grande area pages and unrelated properties (Yucca Yurt, El Yunque Beautiful Villa). No Yuquiyu page."
+  },
+  "zaborin-hokkaido-japan": {
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
+    "verifiedAt": "2026-11-17",
+    "url": "https://www.expedia.com/Niseko-Hotels-Zaborin.h15126302.Hotel-Information",
+    "expediaTitle": "Zaborin in Kutchan: Guest Reviews for 2026 - Expedia",
+    "evidence": "URL city segment Niseko; answer text says address '76-4 Hanazano Kutchan Hokkaido', near Niseko Hanazono Resort",
+    "notes": "Id h15126302 matches existingUrl exactly. Expedia describes it as a guesthouse in Kutchan."
+  },
+  "zughotel-waldkirchen-austria": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Results were Waldkirchen in Bavaria (different place) and Raabs an der Thaya guide; no ZUGHOTEL page."
+  }
+}
