@@ -30,7 +30,7 @@ Desert Luxury Camp gestisce due campi tendati nel Sahara marocchino. Quello dell
 
 ## Le tende
 
-Gli ospiti dormono in tende con bagno privato, docce calde, WC con sciacquone e letti comodi, e con aria condizionata di notte. Gli inverni portano notti fredde, quindi i campi riscaldano le tende con stufe elettriche o a gas, mentre sui letti ci sono borse dell’acqua calda o coperte elettriche. Verso la fine di marzo o l’inizio di aprile le tende di solito non hanno più bisogno di riscaldamento. Il campo usa energia solare, e le tende sono costruite per resistere a forti venti. Uno dei ristoranti è in mattoni di argilla e funge da rifugio in caso di maltempo.
+Gli ospiti dormono in tende con bagno privato, docce calde, WC con sciacquone e letti comodi, e con aria condizionata di notte. Il tour operator Scott Dunn descrive il campo principale di Erg Chebbi come composto da cinque tende con bagno privato. Gli inverni portano notti fredde, quindi i campi riscaldano le tende con stufe elettriche o a gas, mentre sui letti ci sono borse dell’acqua calda o coperte elettriche. Verso la fine di marzo o l’inizio di aprile le tende di solito non hanno più bisogno di riscaldamento. Il campo usa energia solare, e le tende sono costruite per resistere a forti venti. Uno dei ristoranti è in mattoni di argilla e funge da rifugio in caso di maltempo.
 
 ## Cibo e attività
 

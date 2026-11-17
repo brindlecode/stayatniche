@@ -49,7 +49,7 @@ nearbyAttractions:
     distance: "25 km"
 seo:
   metaTitle: "Hapuku Lodge: Baumhaus-Suiten in Neuseeland | StayAtNiche"
-  metaDescription: "In 10 m Höhe im Blätterdach einheimischer Kānuka- und Pūriri-Bäume, mit Blick auf die Kaikōura Ranges und den Pazifik: die Baumhäuser der Hapuku Lodge in Kaikōura."
+  metaDescription: "10 m hoch im Blätterdach einheimischer Kānuka- und Pūriri-Bäume, mit Blick auf Kaikōura Ranges und Pazifik: die Baumhäuser der Hapuku Lodge in Kaikōura."
 niche_feature: "Tree Houses (mit einem Schlafzimmer sowie ein zweistöckiges Familien-Baumhaus), 10 m hoch im Blätterdach aus einheimischem Kanuka und Puriri; die Lodge-Suiten und das Olive House sind gewöhnliche Zimmer. Die offizielle Website sagt nicht, wie die Baumhäuser gebaut sind."
 ---
 

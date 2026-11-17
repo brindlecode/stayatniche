@@ -30,7 +30,7 @@ Desert Luxury Camp gestiona dos campamentos de tiendas en el Sáhara marroquí. 
 
 ## Las tiendas
 
-Los huéspedes duermen en tiendas con baño privado, duchas de agua caliente, inodoros con cisterna y camas cómodas, y con aire acondicionado por la noche. Los inviernos traen noches frías, así que los campamentos calientan las tiendas con calefactores eléctricos o de gas, y en las camas hay bolsas de agua caliente o mantas eléctricas. Hacia finales de marzo o principios de abril, las tiendas normalmente ya no necesitan calefacción. El campamento funciona con energía solar, y las tiendas están diseñadas para resistir vientos fuertes. Uno de los restaurantes está construido con ladrillos de barro y sirve de refugio en caso de mal tiempo.
+Los huéspedes duermen en tiendas con baño privado, duchas de agua caliente, inodoros con cisterna y camas cómodas, y con aire acondicionado por la noche. El operador turístico Scott Dunn describe el campamento principal de Erg Chebbi como un conjunto de cinco tiendas con baño privado. Los inviernos traen noches frías, así que los campamentos calientan las tiendas con calefactores eléctricos o de gas, y en las camas hay bolsas de agua caliente o mantas eléctricas. Hacia finales de marzo o principios de abril, las tiendas normalmente ya no necesitan calefacción. El campamento funciona con energía solar, y las tiendas están diseñadas para resistir vientos fuertes. Uno de los restaurantes está construido con ladrillos de barro y sirve de refugio en caso de mal tiempo.
 
 ## Comida y actividades
 

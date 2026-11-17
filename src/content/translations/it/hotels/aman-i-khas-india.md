@@ -51,7 +51,7 @@ nearbyAttractions:
     distance: 7 km
 seo:
   metaTitle: "Aman-i-Khás, safari della tigre a Ranthambore | StayAtNiche"
-  metaDescription: "Quattordici padiglioni in tenda d’ispirazione moghul ai margini del Parco di Ranthambore, con due safari al giorno per vedere la tigre del Bengala. Da 1.200 $ a notte."
+  metaDescription: "Quattordici padiglioni d’ispirazione moghul ai margini del Parco di Ranthambore, con due safari al giorno per vedere la tigre. Da 1.200 $ a notte."
 ---
 
 I 1.334 chilometri quadrati di foresta decidua secca, praterie e antichi laghi di Ranthambore si stendono all’ombra di un forte rajput del XII secolo, e qui le tigri si muovono nel paesaggio con la sicurezza di animali protetti e studiati abbastanza a lungo da aver smesso di nascondersi. In una buona mattina una tigre attraversa il letto asciutto di un fiume senza nemmeno rallentare.

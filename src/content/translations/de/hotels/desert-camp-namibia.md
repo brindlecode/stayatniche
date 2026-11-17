@@ -13,7 +13,7 @@ amenities:
   - "Klimatisierte Schlafzimmer"
   - "Küchenzeile und Grill in jeder Einheit"
   - "Privater Parkplatz"
-  - "WLAN an der Bar und am Pool"
+  - "Kostenloses WLAN im Hauptgebäude"
 bestFor:
   - "Selbstversorger-Gruppen"
   - "Tagesausflüge nach Sossusvlei"
@@ -32,7 +32,7 @@ Es gibt 28 einzelne Selbstversorgereinheiten, die sich bewusst in die Landschaft
 
 ## Die Umgebung
 
-Das Camp liegt unter Kameldornbäumen, die nach Angaben des Camps jahrhundertealt sind, mit Blick auf die Wüstenlandschaft und die umliegenden Berge. Das Hauptgebäude hat eine gut bestückte Bar mit großem Fernseher und einen Swimmingpool; zwei Gemeinschafts-Bomas bieten Gruppen am Abend einen Treffpunkt. WLAN gibt es an der Bar und am Pool, nicht aber in den Einheiten.
+Das Camp liegt unter Kameldornbäumen, die nach Angaben des Camps jahrhundertealt sind, mit Blick auf die Wüstenlandschaft und die umliegenden Berge. Das Hauptgebäude hat eine gut bestückte Bar mit großem Fernseher und einen Swimmingpool; zwei Gemeinschafts-Bomas bieten Gruppen am Abend einen Treffpunkt. Im Hauptgebäude gibt es kostenloses WLAN.
 
 ## Praktische Hinweise
 

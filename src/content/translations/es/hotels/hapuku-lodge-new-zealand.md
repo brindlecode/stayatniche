@@ -49,7 +49,7 @@ nearbyAttractions:
     distance: "25 km"
 seo:
   metaTitle: "Hapuku Lodge: cabañas en los árboles en Nueva Zelanda | StayAtNiche"
-  metaDescription: "Cabañas a 10 metros de altura en el dosel de kānukas y pūriris, con vistas a la cordillera de Kaikōura y al Pacífico, ballenas cerca y cocina con productos de la granja."
+  metaDescription: "Cabañas a 10 metros de altura en el dosel de kānukas y pūriris, con vistas a la cordillera de Kaikōura y al Pacífico y cocina con productos de la granja."
 niche_feature: "Tree Houses (de un dormitorio, y una cabaña familiar de dos plantas) elevadas 10 m entre el dosel de kanuka y puriri autóctonos; las suites del lodge y la Olive House son habitaciones convencionales. El sitio oficial no explica cómo están construidas las cabañas en los árboles."
 ---
 

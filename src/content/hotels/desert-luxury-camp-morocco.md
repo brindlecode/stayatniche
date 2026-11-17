@@ -53,7 +53,7 @@ Desert Luxury Camp runs two tented camps in the Moroccan Sahara. The Erg Chebbi 
 
 ## The tents
 
-Guests sleep in tents fitted with en-suite bathrooms, hot showers, flushing toilets and comfortable beds, and with air conditioning at night. Winters bring cold nights, so the camps heat the tents with electrical or gas heaters, with water bottles or electric blankets on the beds. By late March to early April the tents generally no longer need heating. The camp uses solar power, and the tents are built to withstand heavy winds. One of the restaurants is built of clay bricks and serves as a refuge in bad weather.
+Guests sleep in tents fitted with en-suite bathrooms, hot showers, flushing toilets and comfortable beds, and with air conditioning at night. The tour operator Scott Dunn describes the main camp at Erg Chebbi as having five en-suite sleeping tents. Winters bring cold nights, so the camps heat the tents with electrical or gas heaters, with water bottles or electric blankets on the beds. By late March to early April the tents generally no longer need heating. The camp uses solar power, and the tents are built to withstand heavy winds. One of the restaurants is built of clay bricks and serves as a refuge in bad weather.
 
 ## Food and activities
 

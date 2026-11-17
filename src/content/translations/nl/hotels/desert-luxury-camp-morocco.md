@@ -30,7 +30,7 @@ Desert Luxury Camp beheert twee tentenkampen in de Marokkaanse Sahara. Het kamp 
 
 ## De tenten
 
-Gasten slapen in tenten met eigen badkamer, warme douche, spoeltoilet en comfortabele bedden, en 's nachts met airconditioning. In de winter zijn de nachten koud, dus de kampen verwarmen de tenten met elektrische of gasverwarming, en op de bedden liggen kruiken of elektrische dekens. Tegen eind maart of begin april hebben de tenten meestal geen verwarming meer nodig. Het kamp gebruikt zonne-energie en de tenten zijn gebouwd om hevige wind te doorstaan. Een van de restaurants is opgetrokken uit kleibakstenen en dient als toevluchtsoord bij slecht weer.
+Gasten slapen in tenten met eigen badkamer, warme douche, spoeltoilet en comfortabele bedden, en 's nachts met airconditioning. Reisorganisatie Scott Dunn beschrijft het hoofdkamp bij Erg Chebbi als vijf slaaptenten met eigen badkamer. In de winter zijn de nachten koud, dus de kampen verwarmen de tenten met elektrische of gasverwarming, en op de bedden liggen kruiken of elektrische dekens. Tegen eind maart of begin april hebben de tenten meestal geen verwarming meer nodig. Het kamp gebruikt zonne-energie en de tenten zijn gebouwd om hevige wind te doorstaan. Een van de restaurants is opgetrokken uit kleibakstenen en dient als toevluchtsoord bij slecht weer.
 
 ## Eten en activiteiten
 

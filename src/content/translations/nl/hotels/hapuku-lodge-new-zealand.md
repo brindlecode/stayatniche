@@ -49,7 +49,7 @@ nearbyAttractions:
     distance: "25 km"
 seo:
   metaTitle: "Hapuku Lodge: boomhutten in Nieuw-Zeeland | StayAtNiche"
-  metaDescription: "Boomhutten 10 meter hoog in het bladerdak van kānuka- en pūriribomen, met uitzicht op de Kaikōura Ranges en de Stille Oceaan: de boomhutten van Hapuku Lodge in Kaikōura."
+  metaDescription: "Boomhutten 10 meter hoog in het bladerdak van kānuka- en pūriribomen, met uitzicht op de Kaikōura Ranges en de Stille Oceaan: Hapuku Lodge in Kaikōura."
 niche_feature: "Tree Houses (met één slaapkamer, en een familieboomhut met twee verdiepingen) op 10 m hoogte in het bladerdak van inheemse kanuka- en puriribomen; de lodgesuites en het Olive House zijn gewone kamers. De officiële site vertelt niet hoe de boomhutten zijn gebouwd."
 ---
 

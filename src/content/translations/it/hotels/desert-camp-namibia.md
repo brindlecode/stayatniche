@@ -13,7 +13,7 @@ amenities:
   - "Camere con aria condizionata"
   - "Cucinino e barbecue in ogni unità"
   - "Parcheggio privato"
-  - "Wi-Fi al bar e nell’area piscina"
+  - "Wi-Fi gratuito nell’edificio principale"
 bestFor:
   - "Gruppi che si autogestiscono"
   - "Escursioni giornaliere a Sossusvlei"
@@ -32,7 +32,7 @@ Ci sono 28 unità indipendenti in autogestione, progettate per integrarsi nel pa
 
 ## L’ambiente
 
-Il campo è immerso tra acacie che il campo descrive come secolari, con vista sul paesaggio desertico e sulle montagne circostanti. L’edificio principale ospita un bar ben fornito con televisore a grande schermo e una piscina; due bomas comuni offrono ai gruppi un luogo di ritrovo la sera. Il Wi-Fi è disponibile al bar e nell’area piscina, ma non nelle unità.
+Il campo è immerso tra acacie che il campo descrive come secolari, con vista sul paesaggio desertico e sulle montagne circostanti. L’edificio principale ospita un bar ben fornito con televisore a grande schermo e una piscina; due bomas comuni offrono ai gruppi un luogo di ritrovo la sera. Il Wi-Fi gratuito è disponibile nell’edificio principale.
 
 ## Informazioni pratiche
 

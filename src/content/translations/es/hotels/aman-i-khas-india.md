@@ -51,7 +51,7 @@ nearbyAttractions:
     distance: "7 km"
 seo:
   metaTitle: "Aman-i-Khás: safari de tigres en Ranthambore | StayAtNiche"
-  metaDescription: "Catorce pabellones de inspiración mogol en las afueras del Parque Nacional de Ranthambore, con dos safaris diarios en busca del tigre de Bengala. Desde 1200 US$."
+  metaDescription: "Catorce pabellones de inspiración mogol en las afueras del Parque Nacional de Ranthambore, con dos safaris diarios para ver al tigre. Desde 1200 US$."
 ---
 
 Los 1334 kilómetros cuadrados de bosque seco caducifolio, praderas y lagos antiguos de Ranthambore se extienden a la sombra de un fuerte rajput del siglo XII, y los tigres se mueven por el paisaje con la seguridad de animales que llevan tanto tiempo protegidos y estudiados que han dejado de esconderse. En una buena mañana, una tigresa cruza el lecho seco de un río sin aflojar el paso.
