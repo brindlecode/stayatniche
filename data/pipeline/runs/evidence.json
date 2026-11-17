@@ -1,17 +1,10 @@
 {
- "at": "2026-11-17T09:20:37.938Z",
+ "at": "2026-11-17T11:38:12.727Z",
  "ok": true,
- "asked": 47,
- "packs": 2,
- "nothingReadable": 45,
+ "asked": 11,
+ "packs": 11,
+ "nothingReadable": 0,
  "errors": 0,
  "requeuedLostPacks": 0,
- "reasons": {
-  "website fetch failed: 404": 7,
-  "no website known": 4,
-  "website fetch failed: no connection": 22,
-  "robots.txt disallows fetching": 7,
-  "website fetch failed: 403": 3,
-  "website fetch failed: 405": 2
- }
+ "reasons": {}
 }

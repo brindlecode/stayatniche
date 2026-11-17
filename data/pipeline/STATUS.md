@@ -1,6 +1,6 @@
 # Otel hattı durumu
 
-Güncelleme: 2026-11-17T11:33:06.864Z. Kuyrukta 8591 aday. Sitede yayında 219 otel, 19 taslak (238 dosya).
+Güncelleme: 2026-11-17T11:38:12.865Z. Kuyrukta 8591 aday. Sitede yayında 219 otel, 19 taslak (238 dosya).
 
 ## Dikkat
 
@@ -19,7 +19,7 @@ Güncelleme: 2026-11-17T11:33:06.864Z. Kuyrukta 8591 aday. Sitede yayında 219 o
 | Onaylı ama yazılamadı (kanıt yetersiz) | 5 | yeni kanıt bekleyen: 0 |
 | Taslak sayfası hazır, "yayınla" bekliyor | 8 |  |
 | Yayında (bu hattan) | 126 |  |
-| Elendi / tekrar | 2691 |  |
+| Elendi / tekrar | 2692 |  |
 
 ## Yazılamayanlar
 
@@ -35,16 +35,16 @@ Güncelleme: 2026-11-17T11:33:06.864Z. Kuyrukta 8591 aday. Sitede yayında 219 o
 
 | Aşama | Zaman (UTC) | Sonuç |
 |---|---|---|
+| evidence | 2026-11-17 11:38 | asked: 11, packs: 11, nothingReadable: 0, errors: 0, requeuedLostPacks: 0, reasons: {} |
+| apply | 2026-11-17 11:37 | applied: {"needs_review":63,"accepted":9,"rejected":7}, pruned: 36, unreadablePacks: 0 |
 | sites | 2026-11-17 10:15 | found: 0, none: 20, refused: 0 |
 | sites-todo | 2026-11-17 10:15 | withoutWebsite: 4303, taken: 20 |
 | review | 2026-11-17 10:14 | newDocs: 0, updates: 7, onPage: 730, exportGiven: true |
 | check | 2026-11-17 10:14 | decisions: 1, accepted: 0, needs_review: 0, no_evidence: 0, duplicate: 0, rejected: 1, withoutPack: 0 |
 | batches | 2026-11-17 10:14 | needDecision: 1, taken: 1, batches: 1, unreadablePacks: 0 |
 | reviews | 2026-11-17 10:14 | documents: 730, changed: {}, unreadable: 0 |
-| evidence | 2026-11-17 09:20 | asked: 47, packs: 2, nothingReadable: 45, errors: 0, requeuedLostPacks: 0, reasons: {"website fetch failed: 404":7,"no website known":4,"website fetch failed: no connection":22,"robots.txt disallows fetching":7,"website fetch failed: 403":3,"website fetch failed: 405":2} |
 | verify | 2026-11-17 09:19 | checked: 1, stillNew: 0 |
 | discover | 2026-11-17 09:19 | categories: ["safari-lodges","overwater-bungalows"], added: 1, total: 8591 |
-| apply | 2026-11-17 09:16 | applied: {"needs_review":63,"accepted":9,"rejected":6}, pruned: 15, unreadablePacks: 0 |
 | writer | 2026-11-16 12:48 | last: blocked Al Sultana Luxury Camp |
 | publish | 2026-11-15 08:42 | published: ["safari-desert-camp-oman","baumhaushotel-otterndorf-germany","northern-rail-traincar-inn-united-states","wolkensteiner-zughotel-germany","yuquiyu-treehouses-united-states","feynan-ecolodge-jordan","baumhaushotel-robins-nest-germany","treehouse-point-united-states","norah-head-lighthouse-and-cottages-australia","majakkahotelli-finland","bushmans-desert-camp-namibia","bulles-dolive-franc |
 
@@ -62,7 +62,7 @@ Güncelleme: 2026-11-17T11:33:06.864Z. Kuyrukta 8591 aday. Sitede yayında 219 o
 | desert-camps | 0 | 0 | 241 | 9 | 0 | 1 | 1 | 7 | 44 | 4 |
 | jungle-lodges | 0 | 0 | 847 | 65 | 0 | 0 | 0 | 4 | 150 | 5 |
 | ice-hotels | 0 | 0 | 100 | 5 | 0 | 0 | 0 | 2 | 69 | 14 |
-| safari-lodges | 0 | 2 | 897 | 107 | 0 | 0 | 0 | 3 | 106 | 19 |
+| safari-lodges | 0 | 2 | 896 | 107 | 0 | 0 | 0 | 3 | 107 | 19 |
 | overwater-bungalows | 0 | 0 | 39 | 0 | 0 | 0 | 0 | 3 | 2 | 35 |
 | lighthouse-hotels | 0 | 0 | 430 | 13 | 0 | 0 | 0 | 11 | 535 | 5 |
 | train-hotels | 0 | 0 | 470 | 9 | 0 | 0 | 0 | 8 | 157 | 32 |

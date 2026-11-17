@@ -4901,7 +4901,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [],
-  "lastEvidence": "2026-11-16",
+  "lastEvidence": "2026-11-17",
   "haiku": {
    "verdict": "needs_review",
    "category": "treehouse-hotels",
@@ -47852,7 +47852,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-11-17",
   "lastSeen": "2026-11-17",
   "region": "Queensland",
@@ -47868,9 +47868,20 @@
   },
   "checkedAt": "2026-11-17",
   "reasons": [
-   "no category evidence on official website"
+   "haiku: Free public camping area where visitors camp anywhere between the river and town with no facilities except drinking water, so it is not a lodging property and has no safari or lodge evidence; the queue category safari-lodges is unsupported."
   ],
-  "lastEvidence": "2026-11-17"
+  "lastEvidence": "2026-11-17",
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "unclear",
+   "confidence": 0.5,
+   "feature": null,
+   "reason": "Free public camping area where visitors camp anywhere between the river and town with no facilities except drinking water, so it is not a lodging property and has no safari or lodge evidence; the queue category safari-lodges is unsupported.",
+   "file": "data/pipeline/decisions/2026-11-17/checked.json",
+   "decidedAt": "2026-11-17",
+   "evidenceAt": "2026-11-17T09:19:53.872Z"
+  }
  },
  "osm:node/14372798901": {
   "id": "osm:node/14372798901",
@@ -52067,7 +52078,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [],
-  "lastEvidence": "2026-10-13",
+  "lastEvidence": "2026-11-17",
   "haiku": {
    "verdict": "accepted",
    "category": "treehouse-hotels",
@@ -62681,7 +62692,7 @@
   },
   "checkedAt": "2026-10-04",
   "reasons": [],
-  "lastEvidence": "2026-10-22",
+  "lastEvidence": "2026-11-17",
   "haiku": {
    "verdict": "accepted",
    "category": "desert-camps",
@@ -128824,7 +128835,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [],
-  "lastEvidence": "2026-10-26",
+  "lastEvidence": "2026-11-17",
   "haiku": {
    "verdict": "accepted",
    "category": "treehouse-hotels",
@@ -130278,7 +130289,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [],
-  "lastEvidence": "2026-10-13",
+  "lastEvidence": "2026-11-17",
   "haiku": {
    "verdict": "accepted",
    "category": "treehouse-hotels",
@@ -137560,7 +137571,7 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "lastEvidence": "2026-11-16",
+  "lastEvidence": "2026-11-17",
   "haiku": {
    "verdict": "needs_review",
    "category": "treehouse-hotels",
@@ -151444,7 +151455,7 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "lastEvidence": "2026-11-16",
+  "lastEvidence": "2026-11-17",
   "haiku": {
    "verdict": "needs_review",
    "category": "treehouse-hotels",
@@ -161962,7 +161973,7 @@
   },
   "checkedAt": "2026-10-02",
   "reasons": [],
-  "lastEvidence": "2026-11-14",
+  "lastEvidence": "2026-11-17",
   "haiku": {
    "verdict": "needs_review",
    "category": "castle-hotels",
@@ -169507,7 +169518,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [],
-  "lastEvidence": "2026-10-13",
+  "lastEvidence": "2026-11-17",
   "haiku": {
    "verdict": "accepted",
    "category": "treehouse-hotels",
@@ -209193,7 +209204,7 @@
   },
   "checkedAt": "2026-10-02",
   "reasons": [],
-  "lastEvidence": "2026-11-14",
+  "lastEvidence": "2026-11-17",
   "haiku": {
    "verdict": "needs_review",
    "category": "castle-hotels",
@@ -259955,7 +259966,7 @@
   "siteSearchAt": "2026-11-14",
   "websiteSource": "search",
   "siteSearch": "found",
-  "lastEvidence": "2026-11-14",
+  "lastEvidence": "2026-11-17",
   "slug": "astley-castle-united-kingdom",
   "draftedAt": "2026-11-14T21:36:44.084Z"
  },
