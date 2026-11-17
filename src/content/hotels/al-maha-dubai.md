@@ -42,7 +42,7 @@ prosAndCons:
     - Peak periods (December to February and New Year) are the busiest
     - Some guests find the desert setting isolating without the city connection
 bookingUrl: https://www.booking.com/hotel/ae/al-maha-a-luxury-collection-desert-resort-and-spa.html
-rating: 9.5
+rating: 8.4
 seasonalInfo:
   bestTime: October to April for outdoor activity and comfortable temperatures
   peakSeason: December to February and New Year

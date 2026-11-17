@@ -28,7 +28,7 @@ bestFor:
   - "Primate conservation supporters"
   - "Intrepid explorers"
 bookingUrl: https://www.booking.com/
-rating: 9.4
+rating: 8.1
 coordinates:
   lat: 20.41163
   lng: 100.69757

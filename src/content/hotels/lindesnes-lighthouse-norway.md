@@ -84,6 +84,7 @@ niche_scope: entire_property
 niche_feature: "No hotel exists: the only accommodation is one holiday apartment (sleeps 6) in half of the former assistant keeper's house at Lindesnes lighthouse; the other half houses the duty keeper. Booking site confirms single apartment."
 niche_source_url: "https://no.wikipedia.org/wiki/Lindesnes_fyr"
 niche_verified_at: 2026-11-17
+niche_note: "Lindesnes Lighthouse has no hotel: the stay is a holiday apartment in half of the former assistant keeper's house at the lighthouse. The other half is still the home of the duty keeper."
 ---
 
 Lindesnes marks the southernmost point of the Norwegian mainland. Norway's first lighthouse light was lit here on 27 February 1656, at the entrance to the Skagerrak, although it was put out the same autumn after complaints about the poor light; the station is nonetheless counted as founded in 1656. The present cast-iron tower, 16.1 metres tall, dates from 1915, when the lens was moved into it from the old tower; the station took the form it still has in 1920, with a new machine house and a fog signal installation.

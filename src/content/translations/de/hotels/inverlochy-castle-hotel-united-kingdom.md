@@ -20,6 +20,7 @@ seo:
   metaTitle: "Inverlochy Castle: Schlosshotel in Schottland | StayAtNiche"
   metaDescription: "Inverlochy Castle bei Fort William: Baronialschloss von 1863 am Ben Nevis mit Zimmern im Schloss, Walled Garden Rooms, Seasgair-Restaurant und Gate Lodge."
 niche_feature: "Die Schlosszimmer und Suiten liegen im Schloss im Scottish-Baronial-Stil aus dem 19. Jahrhundert (1863); die Walled-Garden-Zimmer befinden sich in einem umgebauten Stallgebäude fünf Minuten entfernt, und die Gate Lodge ist ein separates viktorianisches Torhaus. Die offizielle Website bezeichnet das Haus auch als viktorianisches Landhaus."
+niche_note: "Inverlochy Castle ist keine mittelalterliche Burg, sondern ein 1863 von William Scarlett, 3. Baron Abinger, erbautes Herrenhaus im Scottish-Baronial-Stil (laut Wikipedia), rund drei Kilometer von der namensgebenden Burgruine aus dem 13. Jahrhundert entfernt."
 ---
 
 Inverlochy Castle ist ein Herrenhaus im Baronialstil aus dem 19. Jahrhundert, das zwischen Bergen und Loch unweit von Fort William liegt. Es wurde 1863 von William Scarlett, 3. Baron Abinger, erbaut, und Königin Victoria verbrachte 1873 auf der Reise nach Balmoral eine Woche hier. Benannt ist es nach dem viel älteren Inverlochy Castle aus dem 13. Jahrhundert, das gut zwei Meilen entfernt liegt. Heute ist es ein Fünf-Sterne-Hotel.

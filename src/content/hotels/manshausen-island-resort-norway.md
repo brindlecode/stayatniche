@@ -30,7 +30,7 @@ bestFor:
   - Midnight sun seekers
   - Extreme remoteness
 bookingUrl: https://www.booking.com/hotel/no/manshausen.html
-rating: 8.8
+rating: 8.1
 coordinates:
   lat: 67.835247
   lng: 14.773851

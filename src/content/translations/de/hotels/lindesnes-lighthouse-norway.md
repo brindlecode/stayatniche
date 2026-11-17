@@ -48,6 +48,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Lindesnes Fyr: Ferienwohnung am Leuchtturm | StayAtNiche"
   metaDescription: "Lindesnes, Norwegens ältester Leuchtturm an der Südspitze des Festlands. Kein Hotel: eine Ferienwohnung im früheren Assistentenhaus und ein Leuchtturmmuseum."
+niche_note: "Am Leuchtturm Lindesnes gibt es kein Hotel: Übernachtet wird in einer Ferienwohnung in der einen Hälfte des ehemaligen Assistentenhauses der Leuchtturmwärter. In der anderen Hälfte wohnt der diensthabende Leuchtturmwärter."
 ---
 
 Lindesnes markiert den südlichsten Punkt des norwegischen Festlands. Am 27. Februar 1656 wurde hier das erste Leuchtfeuer Norwegens entzündet, am Eingang zum Skagerrak, allerdings noch im selben Herbst nach Klagen über das schlechte Licht wieder gelöscht; die Station gilt dennoch als 1656 gegründet. Der heutige gusseiserne Turm, 16,1 Meter hoch, stammt von 1915, als die Linse aus dem alten Turm dorthin umgesetzt wurde; ihre heutige Gestalt erhielt die Station 1920 mit einem neuen Maschinenhaus und einer Nebelsignalanlage.

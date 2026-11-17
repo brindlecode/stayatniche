@@ -38,7 +38,7 @@ prosAndCons:
     - "Farmington itself offers limited dining and entertainment options"
     - "Self-catering format requires guests to bring or source their own supplies"
 bookingUrl: https://www.expedia.com/Farmington-Hotels.d6194.Travel-Guide-Hotels
-rating: 8.7
+rating: 9.1
 seasonalInfo:
   bestTime: "April to June and September to November"
   peakSeason: "October (fall colours and archaeological site season)"
