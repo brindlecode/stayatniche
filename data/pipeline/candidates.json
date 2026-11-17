@@ -4885,7 +4885,7 @@
    "stars": "5"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": null,
@@ -4900,7 +4900,9 @@
    "snippet": "hailand.  KohYao Luxury Beachfront TreeHouse Villas Resort Near Phuket MENU CLOSE EN English TH ไทย CN 简体中文 Hi! Member Member Benefits Sign Up GAIN ACCESS TO EXCLUSIVE ROOM TYPES AND RATES AFTER SIGN UP SIGN UP No, Thanks Book Now Destination Villas TreeHouse Villa Beachfront Pool Villa Hilltop Pool Villa Experiences Offers Gallery Destination Villas TreeHouse Villa Beachfront Pool Villa Hilltop Pool Villa Experiences Offers Gallery TreeHouse Villas Koh Yao 5-star Luxurious TreeHouse Villas with Secluded Beach The Original Luxury TreeHouse Experience in Asia ‘Designed by craftsmen, inspired by"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
+  "reasons": [
+   "reviewer: Ağaç ev kuralına uymuyor: birimler villa; sahildekiler tek katlı ve zeminde."
+  ],
   "lastEvidence": "2026-11-17",
   "haiku": {
    "verdict": "needs_review",
@@ -4919,7 +4921,8 @@
    "fetchedAt": "2026-11-16",
    "doneAt": "2026-11-16",
    "result": "needs_review"
-  }
+  },
+  "reviewedAt": "2026-11-17T12:05:52.082Z"
  },
  "osm:node/10689436835": {
   "id": "osm:node/10689436835",
@@ -52062,7 +52065,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "drafted",
+  "status": "published",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": "Lower Saxony",
@@ -52092,7 +52095,8 @@
   "finalCategory": "treehouse-hotels",
   "reviewedAt": "2026-11-15T07:14:14.625Z",
   "slug": "baumhaushotel-solling-germany",
-  "draftedAt": "2026-11-15T07:14:16.855Z"
+  "draftedAt": "2026-11-15T07:14:16.855Z",
+  "publishedAt": "2026-11-17T12:05:51.867Z"
  },
  "osm:node/1772825035": {
   "id": "osm:node/1772825035",
@@ -137556,7 +137560,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "published",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": null,
@@ -137568,9 +137572,7 @@
    "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [
-   "no category evidence on official website"
-  ],
+  "reasons": [],
   "lastEvidence": "2026-11-17",
   "haiku": {
    "verdict": "needs_review",
@@ -137589,7 +137591,11 @@
    "fetchedAt": "2026-11-16",
    "doneAt": "2026-11-16",
    "result": "needs_review"
-  }
+  },
+  "finalCategory": "treehouse-hotels",
+  "reviewedAt": "2026-11-17T12:05:52.082Z",
+  "slug": "treehouse-holidays-thailand",
+  "publishedAt": "2026-11-17T12:05:52.267Z"
  },
  "osm:node/7139631086": {
   "id": "osm:node/7139631086",
@@ -151437,7 +151443,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": "Kilifi County",
@@ -151453,7 +151459,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: Ağaç ev kuralına uymuyor: katları, koridorları ve çatı terası olan tek bir bina; ayrı duran, yükseltilmiş birim değil."
   ],
   "lastEvidence": "2026-11-17",
   "haiku": {
@@ -151473,7 +151479,8 @@
    "fetchedAt": "2026-11-16",
    "doneAt": "2026-11-16",
    "result": "needs_review"
-  }
+  },
+  "reviewedAt": "2026-11-17T12:05:52.082Z"
  },
  "osm:node/911163664": {
   "id": "osm:node/911163664",
@@ -169502,7 +169509,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "drafted",
+  "status": "published",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": "Schleswig-Holstein",
@@ -169532,7 +169539,8 @@
   "finalCategory": "treehouse-hotels",
   "reviewedAt": "2026-11-15T07:14:14.625Z",
   "slug": "ostsee-baumhaushotel-germany",
-  "draftedAt": "2026-11-15T07:14:19.839Z"
+  "draftedAt": "2026-11-15T07:14:19.839Z",
+  "publishedAt": "2026-11-17T12:05:51.863Z"
  },
  "osm:way/1075267870": {
   "id": "osm:way/1075267870",

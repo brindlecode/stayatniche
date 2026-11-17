@@ -2831,5 +2831,15 @@
     "distanceKm": 4.2,
     "kind": "area",
     "place": "Río Grande"
+  },
+  "area:treehouse-holidays-thailand": {
+    "author": "A J Butler",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sunrise_on_Ko_Yao_Noi_-_panoramio.jpg",
+    "title": "Sunrise on Ko Yao Noi - panoramio.jpg",
+    "distanceKm": 1.9,
+    "kind": "area",
+    "place": "Koh Yao Noi"
   }
 }
