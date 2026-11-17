@@ -144,7 +144,9 @@ const jsonLd = {
 
       var p = new URLSearchParams(location.search);
       type = p.get('type') || ''; q.value = p.get('q') || ''; price.value = p.get('price') || ''; sort.value = p.get('sort') || 'top';
-      apply(false);
+      // Without filters in the URL the page is already rendered in the default order and count: skip
+      // re-sorting and re-inserting every card on load (it was most of the main-thread work on phones).
+      if (type || q.value || price.value || sort.value !== 'top') apply(false);
       var on = document.querySelector('.type-chip.is-on'); if (on && type) on.scrollIntoView({ inline: 'center', block: 'nearest' });
     })();
   </script>
