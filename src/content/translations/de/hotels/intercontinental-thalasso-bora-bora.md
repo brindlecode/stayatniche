@@ -1,9 +1,9 @@
 ---
 source: intercontinental-thalasso-bora-bora
 destination: "Bora Bora, Gesellschaftsinseln"
-description: "Ein Resort mit Wasserbungalows am äußeren Riff von Bora Bora, mit der ersten Tiefseewasser-Klimaanlage der Hotellerie – sie holt kaltes Wasser aus 900 Metern Tiefe im Pazifik und kühlt das Resort mit einem Bruchteil der Energie herkömmlicher Anlagen. Die Wasservillen bieten direkten Zugang zur Lagune von Bora Bora, und das Deep Ocean Spa schwebt direkt über dem Riff."
+description: "Ein Resort mit Wasserbungalows am äußeren Riff von Bora Bora, mit Wasservillen, die laut Resort nachhaltig vom Ozean gekühlt werden. Die Wasservillen bieten direkten Zugang zur Lagune von Bora Bora, und das Deep Ocean Spa schwebt direkt über dem Riff."
 highlights:
-  - "Die erste Tiefseewasser-Klimaanlage der Welt"
+  - "Wasservillen, die laut Resort nachhaltig vom Ozean gekühlt werden"
   - "Vielfach gelobtes Deep Ocean Spa am äußeren Riff"
   - "Wasservillen mit direktem Zugang zur Lagune von Bora Bora"
   - "Hervorragendes Schnorcheln direkt vom Villendeck"
@@ -26,9 +26,9 @@ closure:
   note: "Das Resort hat am 1. Juni 2026 für eine umfassende Renovierung geschlossen. Auf der Website des Resorts ist kein Wiedereröffnungstermin genannt."
 ---
 
-Das InterContinental Bora Bora Resort and Thalasso Spa hat die exponierteste und spektakulärste Lage aller Wasserbungalow-Resorts der Insel. Es liegt direkt auf dem äußeren Riff – auf Motu Piti Aau, einer kleinen Koralleninsel am Südende des Barriereriffs von Bora Bora. Von hier aus breitet sich die Lagune nach Norden zu einem Panorama aus, das die gesamte Silhouette von Mount Otemanu und Mount Pahia auf der Hauptinsel umfasst, während das Wasser je nach Lichteinfall zwischen fast Türkis und fast Saphirblau wechselt.
+Das InterContinental Bora Bora Resort and Thalasso Spa liegt direkt auf dem äußeren Riff – auf Motu Piti Aau, einer kleinen Koralleninsel am Südende des Barriereriffs von Bora Bora. Von hier aus breitet sich die Lagune nach Norden zu einem Panorama aus, das die gesamte Silhouette von Mount Otemanu und Mount Pahia auf der Hauptinsel umfasst, während das Wasser je nach Lichteinfall zwischen fast Türkis und fast Saphirblau wechselt.
 
-Die wichtigste Innovation des Resorts ist eher praktischer als architektonischer Natur: Die Tiefseewasser-Klimaanlage holt kaltes Meerwasser aus 900 Metern unter der Pazifikoberfläche durch eine 3.000 Meter lange Leitung herauf und kühlt damit die Gebäude ohne herkömmliche Kältetechnik. Das System senkt den Energieverbrauch für die Kühlung um rund 90 Prozent und kommt ohne die Kältemittel konventioneller Klimaanlagen aus – ein echter Beitrag zur Nachhaltigkeit eines Hauses, das auf einer abgelegenen Koralleninsel sonst eine hohe Energielast tragen würde. Für die Gäste bleibt die Technik völlig unsichtbar: Die Zimmer sind kühl und angenehm, die Anlage arbeitet lautlos, und das einzige Anzeichen ist das etwas wärmere Wasser, das nach Gebrauch an die Meeresoberfläche zurückgeleitet wird.
+Laut der Website des Resorts werden die Wasservillen nachhaltig vom Ozean gekühlt – ein stiller Beitrag zur Nachhaltigkeit auf einer abgelegenen Koralleninsel. Für die Gäste bleibt die Technik unsichtbar: Die Zimmer sind kühl und angenehm, und die Anlage arbeitet lautlos.
 
 Das Deep Ocean Spa ist direkt auf das Riff gebaut, mit Behandlungsräumen, die über der Lagune schweben, und Thalassotherapie-Becken mit Tiefenwasser, das messbar mineralreicher ist als Oberflächenwasser. Das Behandlungsangebot verbindet traditionelle polynesische Massagetechniken – heiße Steine, Kokosöl, Rituale mit Monoi-Blüten – mit zeitgemäßen Wellnessansätzen. Die Umgebung, mit der Lagune unter den Glasbodenelementen und dem Pazifikhorizont hinter offenen Wänden, erzeugt eine Ruhe, die man sonst kaum irgendwo findet.
 

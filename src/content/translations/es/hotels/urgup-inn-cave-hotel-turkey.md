@@ -40,4 +40,4 @@ Según el hotel, ocupa una posición privilegiada en el centro de Ürgüp, cerca
 
 El desayuno se puede tomar a cualquier hora. Hay traslado al aeropuerto y taxi bajo petición. Se aceptan tarjetas de crédito y se puede cambiar dinero.
 
-Si quieres pasar una noche en una habitación excavada en la roca, pide expresamente la 105. Si buscas sobre todo una base amable y céntrica en Ürgüp y te haría ilusión una habitación cueva, es una opción razonable. Si lo que te interesa es un hotel totalmente excavado en la roca, busca en otro sitio.
+Si quieres pasar una noche en una habitación cueva, pide expresamente la 105. Si buscas sobre todo una base amable y céntrica en Ürgüp y te haría ilusión una habitación cueva, es una opción razonable. Si lo que te interesa es un hotel formado solo por habitaciones cueva, busca en otro sitio.

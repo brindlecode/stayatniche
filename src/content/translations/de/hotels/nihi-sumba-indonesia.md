@@ -1,12 +1,12 @@
 ---
 source: nihi-sumba-indonesia
 destination: "Insel Sumba, Ost-Nusa-Tenggara, Indonesien"
-description: "Ein Anwesen mit achtundzwanzig Villen an der wilden Südwestküste der Insel Sumba, mit eigenem Surfspot, Ausritten an menschenleeren Stränden und einer gemeinnützigen Stiftung, die den Zugang zur Insel an Naturschutz und Gemeindearbeit knüpft."
+description: "Ein Anwesen mit 31 Villen und Anwesen an der wilden Südwestküste der Insel Sumba, mit eigenem Surfspot, Ausritten an menschenleeren Stränden und einer gemeinnützigen Stiftung, die den Zugang zur Insel an Naturschutz und Gemeindearbeit knüpft."
 highlights:
-  - "Exklusiver Zugang zu Occy's Left, einer weltberühmten Surfwelle, für höchstens zehn Surfer gleichzeitig"
+  - "Zugang zu Occy's Left, einer weltberühmten Surfwelle, begrenzt auf höchstens 15 registrierte Surfer pro Tag"
   - "Ausritte an leeren Stränden entlang der Südwestküste Sumbas"
   - "Die Nihiwatu Foundation finanziert Malariabekämpfung und Schulbau auf ganz Sumba"
-  - "Achtundzwanzig Villen auf 567 Acres privatem Küstenland"
+  - "31 Villen und Anwesen an der Südwestküste Sumbas"
   - "Abgelegene Insellage – auf Sumba gibt es keine Infrastruktur für Massentourismus"
   - "Wellnessprogramm Spa Safari mit mehrtägigen Anwendungen"
 amenities:
@@ -24,13 +24,13 @@ bestFor:
   - "Paare, die völlige Abgeschiedenheit suchen"
 prosAndCons:
   pros:
-    - "Occy's Left mit höchstens zehn Surfern im Wasser – eine seltene Chance auf leere Wellen in Indonesien"
+    - "Occy's Left, begrenzt auf 15 registrierte Surfer pro Tag, – eine seltene Chance auf leere Wellen in Indonesien"
     - "Sumba unterscheidet sich kulturell und landschaftlich deutlich vom Rest Indonesiens"
     - "Die Nihiwatu Foundation verleiht dem Aufenthalt echte ethische Substanz"
     - "Ausritte an leeren Stränden sind genau das, wonach sie klingen – außergewöhnlich"
   cons:
     - "Die Anreise nach Sumba erfordert einen Flug über Bali oder Lombok und kostet viel Zeit"
-    - "Eine der teuersten Unterkünfte Indonesiens"
+    - "Hohe Preise pro Nacht"
     - "Wegen der Abgeschiedenheit Sumbas gibt es außerhalb des Resorts nur wenige Angebote"
     - "Der Surfzugang kostet zusätzlich zum ohnehin hohen Zimmerpreis"
 seasonalInfo:
@@ -48,14 +48,14 @@ nearbyAttractions:
     distance: 45 km
 seo:
   metaTitle: "Nihi Sumba: Luxusresort mit Surfspot, Sumba | StayAtNiche"
-  metaDescription: "Nihi Sumba in Indonesien: 28 Villen auf einem 567 Acres großen Anwesen, exklusiver Zugang zur Surfwelle Occy's Left und Ausritte am Strand – ab 1.200 $."
+  metaDescription: "Nihi Sumba in Indonesien: 31 Villen und Anwesen, Surfwelle Occy's Left auf 15 registrierte Surfer pro Tag begrenzt und Ausritte am Strand – ab 1.200 $."
 niche_badge: "Nur eine Villa"
 niche_feature: "Nur eine der 31 Villen und Anwesen erfüllt das Kriterium: das Treehouse mit drei Schlafzimmern, gebaut in den Bäumen am Rand eines uralten Waldes, mit runden Glasschlafzimmern, die über dem Boden liegen und durch erhöhte Stege verbunden sind. Die übrigen Villen sind Strand- oder Hangvillen und keine Baumhäuser."
 ---
 
-Sumba ist nicht Bali. Die Insel liegt 350 Kilometer weiter östlich in der Kette der Kleinen Sundainseln, und kaum etwas an ihr erinnert an jene Spielart des indonesischen Tourismus, die Bali weltweit bekannt gemacht hat. Die Landschaft besteht aus trockener Savanne, Dörfern, in denen Ikat gewebt wird, und megalithischen Steingräbern; an der Südwestküste hat der Indische Ozean ungehindert gewirkt, lange bevor irgendjemand Wellen vermaß. Nihi Sumba nimmt 567 Acres dieser Küste ein, und dass die Leser von Travel + Leisure es mehrere Jahre in Folge zum besten Hotel der Welt wählten, sagt einiges darüber aus, was eine bestimmte Art von Reisenden am meisten schätzt.
+Sumba ist nicht Bali. Die Insel liegt 350 Kilometer weiter östlich in der Kette der Kleinen Sundainseln, und kaum etwas an ihr erinnert an jene Spielart des indonesischen Tourismus, die Bali weltweit bekannt gemacht hat. Die Landschaft besteht aus trockener Savanne, Dörfern, in denen Ikat gewebt wird, und megalithischen Steingräbern; an der Südwestküste hat der Indische Ozean ungehindert gewirkt, lange bevor irgendjemand Wellen vermaß. Nihi Sumba liegt an dieser Küste, in Wanokaka im Regierungsbezirk West-Sumba.
 
-Die Surfwelle namens Occy's Left – benannt nach dem australischen Weltmeister Mark Occhilupo, der sie in den 1980er-Jahren surfte – bricht direkt vor dem Resort. Eine linke Barrel-Welle über einem Riffpass, am besten bei vier bis sechs Fuß in der Trockenzeit, wenn die Dünungszüge des Indischen Ozeans aus dem fernen Süden heranrollen. Nihi kontrolliert den Zugang zur Welle als Annehmlichkeit des Resorts: höchstens zehn Surfer gleichzeitig im Wasser, Vorrang für Hotelgäste, Slots als tägliches Zusatzangebot buchbar. Für eine Welle dieser Qualität – in einer Zeit, in der jeder bekannte Surfspot Indonesiens bei jeden Bedingungen von Massen gesurft wird – rechtfertigt allein dieser Zugang einen erheblichen Planungsaufwand.
+Die Surfwelle namens Occy's Left – benannt nach dem australischen Weltmeister Mark Occhilupo, der sie in den 1980er-Jahren surfte – bricht direkt vor dem Resort. Eine linke Barrel-Welle über einem Riffpass, am besten bei vier bis sechs Fuß in der Trockenzeit, wenn die Dünungszüge des Indischen Ozeans aus dem fernen Süden heranrollen. Nihi kontrolliert den Zugang zur Welle als Annehmlichkeit des Resorts: die Welle ist auf 15 registrierte Surfer pro Tag begrenzt, Vorrang für Hotelgäste, Slots als tägliches Zusatzangebot buchbar. Für eine Welle dieser Qualität – in einer Zeit, in der jeder bekannte Surfspot Indonesiens bei jeden Bedingungen von Massen gesurft wird – rechtfertigt allein dieser Zugang einen erheblichen Planungsaufwand.
 
 Jenseits des Surfens ist Sumba selbst die Attraktion. Die indigene Kultur der Insel – animistische Traditionen, über Monate von Hand gewebte Ikat-Stoffe, Dörfer, die um gemeinschaftliche Megalithgräber herum gebaut sind – ist weitgehend intakt geblieben, während Balis Kultur längst durch den Tourismus gefiltert wird. Die von den Gründern James und Petra McBride ins Leben gerufene Nihiwatu Foundation hat Programme zur Malariabekämpfung, den Bau von Schulen und die Trinkwasserversorgung im umliegenden Regierungsbezirk finanziert. Zu den Aktivitäten für Gäste gehören Besuche bei der Stiftung, bei denen diese Projekte gezeigt und erklärt werden – nicht als Marketingübung, sondern als laufende Programme mit messbaren Erfolgen in Gesundheit und Bildung.
 

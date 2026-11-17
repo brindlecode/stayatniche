@@ -25,7 +25,7 @@ El Splendid Cave Hotel de Ortahisar es un establecimiento mixto, y conviene deja
 
 ## Las habitaciones
 
-Las habitaciones en cueva se dividen en varias categorías. La web incluye una Superior Suit Cave Room (306), una Suit Cave Room (201), Deluxe Double Cave Rooms (303, 207, 208 y 204) y Standard Double Cave Rooms (402, 302, 301 y 205). Cada anuncio menciona TV, teléfono y minibar. Pregunta al hotel cómo es cada habitación antes de elegir una.
+Las habitaciones en cueva se dividen en varias categorías. La web incluye una Superior Suit Cave Room (306), una Suit Cave Room (201), Deluxe Double Cave Rooms (303, 207, 208 y 204) y Standard Double Cave Rooms (402, 302, 301 y 205). Cada anuncio menciona TV, teléfono y minibar. La web solo las nombra como habitaciones en cueva y no indica si están excavadas en la roca. Pregunta al hotel cómo es cada habitación antes de elegir una.
 
 Al reservar, indica la habitación en cueva por nombre o número. Si quieres la experiencia completa en cueva, evita las dos habitaciones estándar.
 
@@ -37,4 +37,4 @@ El hotel está en Ortahisar, un pueblo del centro de Capadocia.
 
 La web muestra una página de traslados y otra de reservas, y permite ver los precios en liras turcas, dólares estadounidenses o euros. Confirma con el hotel qué está incluido antes de reservar.
 
-Es una opción sensata si buscas una estancia modesta en cueva en un pueblo más tranquilo que el centro turístico principal y no te importa que un par de habitaciones sean convencionales. Es menos adecuada si quieres un alojamiento totalmente excavado.
+Es una opción sensata si buscas una estancia modesta en cueva en un pueblo más tranquilo que el centro turístico principal y no te importa que un par de habitaciones sean convencionales. Es menos adecuada si quieres que todas las habitaciones sean en cueva.

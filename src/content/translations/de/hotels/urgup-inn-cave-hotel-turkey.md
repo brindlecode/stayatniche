@@ -40,4 +40,4 @@ Das Hotel liegt laut eigener Aussage zentral in Ürgüp, nahe den Ruinen von Kay
 
 Frühstück gibt es zu jeder Zeit. Ein Flughafentransfer ist auf Anfrage erhältlich, ebenso ein Taxi. Kreditkarten werden akzeptiert, Geld kann gewechselt werden.
 
-Wer eine Nacht in einem Felsenzimmer verbringen möchte, sollte ausdrücklich Zimmer 105 anfragen. Wer vor allem eine freundliche, zentrale Basis in Ürgüp sucht und sich über ein einzelnes Höhlenzimmer freuen würde, ist hier gut aufgehoben. Steht ein vollständig in den Fels gehauenes Hotel im Mittelpunkt der Reise, sollte man anderswo suchen.
+Wer eine Nacht in einem Höhlenzimmer verbringen möchte, sollte ausdrücklich Zimmer 105 anfragen. Wer vor allem eine freundliche, zentrale Basis in Ürgüp sucht und sich über ein einzelnes Höhlenzimmer freuen würde, ist hier gut aufgehoben. Steht ein Hotel, das ausschließlich aus Höhlenzimmern besteht, im Mittelpunkt der Reise, sollte man anderswo suchen.

@@ -3,12 +3,12 @@ name: "Corsewall Lighthouse Hotel"
 category: lighthouse-hotels
 destination: "Kirkcolm, Dumfries and Galloway"
 country: "United Kingdom"
-description: "A working lighthouse on Scotland's Rhins of Galloway coast with eleven rooms, six of them in the original keepers' quarters."
+description: "An eleven-room hotel at an automated lighthouse on Scotland's Rhins of Galloway coast, six of the rooms in the original keepers' quarters."
 priceRange: "Rates vary"
 highlights:
   - "Eleven rooms across the former keepers' quarters and additional buildings in the grounds"
   - "Six rooms in the original keepers' quarters, named Fulmar, Galloway, Ailsa, Dunskirkloch, Mull of Kintyre and Firth of Cromarty"
-  - "Working lighthouse on Scotland's coast with sea views"
+  - "Rooms at an automated lighthouse on Scotland's coast, with sea views"
   - "On-site hotel restaurant"
 amenities:
   - "Restaurant"
@@ -43,7 +43,7 @@ niche_source_url: "https://www.lighthousehotel.co.uk/accommodation"
 niche_verified_at: 2026-11-17
 ---
 
-Corsewall Lighthouse Hotel is a working lighthouse on the coast of Scotland, and only part of it is the lighthouse proper. The hotel has eleven rooms in total, spread across the former keepers' quarters and further buildings within the grounds, so the stay feels intimate rather than grand. The hotel says it has been featured in The Times and The Guardian, and its own tagline calls it Scotland's most remarkable coastal stay.
+Corsewall Lighthouse Hotel stands at a lighthouse on the coast of south-west Scotland that has been automated and monitored by the Northern Lighthouse Board since 1994, and only part of the hotel is in the original lighthouse buildings. The hotel has eleven rooms in total, spread across the former keepers' quarters and further buildings within the grounds, so the stay feels intimate rather than grand. The hotel says it has been featured in The Times and The Guardian, and its own tagline calls it Scotland's most remarkable coastal stay.
 
 ## The rooms
 

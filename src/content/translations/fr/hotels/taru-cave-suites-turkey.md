@@ -24,7 +24,7 @@ seo:
   metaDescription: "Taru Cave Suites à Ürgüp : chambres troglodytes élégantes, restaurant et bar, parking gratuit, petit-déjeuner offert et réception 24 h/24 en Cappadoce."
 ---
 
-Taru Cave Suites est un hôtel troglodyte de charme à Ürgüp, qui allie, selon l'hôtel, élégance, authenticité et équipements modernes. Ses chambres sont décrites comme des « chambres troglodytes au design élégant » : l'esprit troglodyte concerne donc tout le séjour.
+Taru Cave Suites est un hôtel troglodyte de charme à Ürgüp, qui allie, selon l'hôtel, élégance, authenticité et équipements modernes. Ses chambres sont décrites comme des « chambres troglodytes au design élégant » : le site n'indique pas comment elles sont construites ni combien de chambres compte l'hôtel.
 
 ## Les chambres
 

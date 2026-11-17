@@ -1,9 +1,9 @@
 ---
 source: pullman-maldives-maamutaa-resort-maldives
 destination: "Île de Maamutaa, atoll de Gaafu Alifu"
-description: "Seules les Aqua Villas de ce resort insulaire disposent d'une chambre sous l'eau ; le reste du complexe se compose de villas classiques en bord de plage et sur pilotis. Chaque Aqua Villa associe une chambre immergée à une chambre sur pilotis à l'étage."
+description: "Seules les deux Aqua Villas de ce resort insulaire disposent d'une chambre sous l'eau ; le reste du complexe se compose de villas classiques en bord de plage et sur pilotis. Chaque Aqua Villa associe une chambre immergée à une chambre sur pilotis à l'étage."
 highlights:
-  - "Les Aqua Villas disposent d'une chambre immergée sous le lagon, avec vue sur la vie marine"
+  - "Les deux Aqua Villas disposent d'une chambre immergée sous le lagon, avec vue sur la vie marine"
   - "Aqua Villa sur deux niveaux de 209 mètres carrés, avec chambre sur pilotis et grande piscine dotée d'un deck privatif"
   - "Tous les autres logements sont des villas de plage ou sur pilotis, sans chambre sous-marine"
   - "Île privée de 18 hectares de végétation, comptant 122 villas"
@@ -24,7 +24,7 @@ seo:
 niche_feature: "Seules les Aqua Villas (deux, selon le resort qui annonce 2 chambres sous-marines) ont une chambre parentale immergée sous le lagon, plus une chambre sur l'eau ; les autres villas, sur un total de 122, sont des villas de plage ou sur l'eau."
 ---
 
-Seules les Aqua Villas du Pullman Maldives Maamutaa possèdent une chambre sous l'eau. Le reste du resort se compose de villas classiques en bord de plage et sur pilotis, sans pièce immergée. Pour dormir sous l'eau, il faut donc réserver spécifiquement une Aqua Villa.
+Seules les deux Aqua Villas du Pullman Maldives Maamutaa possèdent une chambre sous l'eau. Le reste du resort se compose de villas classiques en bord de plage et sur pilotis, sans pièce immergée. Pour dormir sous l'eau, il faut donc réserver spécifiquement une Aqua Villa.
 
 ## L'Aqua Villa
 

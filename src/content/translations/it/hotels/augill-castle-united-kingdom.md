@@ -1,9 +1,9 @@
 ---
 source: augill-castle-united-kingdom
 destination: "Kirkby Stephen, Cumbria"
-description: "Un castello neogotico rilassato e a conduzione familiare nella valle dell'Eden, tra il Lake District e gli Yorkshire Dales, con camere nel castello per lo più dotate di letto a baldacchino."
+description: "Un castello ottocentesco rilassato e a conduzione familiare nella valle dell'Eden, tra il Lake District e gli Yorkshire Dales, con camere nel castello per lo più dotate di letto a baldacchino."
 highlights:
-  - "Castello neogotico del XIX secolo tra il Lake District e gli Yorkshire Dales"
+  - "Castello del XIX secolo tra il Lake District e gli Yorkshire Dales"
   - "Camere nel castello, la maggior parte con letto a baldacchino, con vista sui Dales e sui Lakeland Fells"
   - "Atmosfera informale e a misura di famiglia, con camini accesi"
   - "Ristorante, afternoon tea e un bar nella veranda"
@@ -18,11 +18,11 @@ bestFor:
   - "Gruppi di amici"
 seo:
   metaTitle: "Augill Castle: castello hotel nel Cumbria | StayAtNiche"
-  metaDescription: "Augill Castle nel Cumbria: castello neogotico nella valle dell'Eden con camere a baldacchino, camini accesi e afternoon tea, vicino agli Yorkshire Dales."
+  metaDescription: "Augill Castle nel Cumbria: castello ottocentesco nella valle dell'Eden con camere a baldacchino, camini accesi e afternoon tea, vicino agli Yorkshire Dales."
 niche_feature: "Castello del XIX secolo; le camere del castello (la maggior parte con letto a baldacchino) si trovano nel castello stesso, ma l'hotel affitta anche Garden Suites, Family Estate Houses e una Stable House fuori dall'edificio principale."
 ---
 
-Augill Castle è un castello neogotico ottocentesco nella valle dell'Eden, nel Cumbria, nato come residenza privata e poi trasformato in hotel. Sorge tra gli Yorkshire Dales e il Lake District, in quello che i proprietari indicano come il centro geografico delle isole britanniche, a quattro miglia dalla cittadina di Kirkby Stephen.
+Augill Castle è un castello ottocentesco nella valle dell'Eden, nel Cumbria, gestito come hotel. Sorge tra gli Yorkshire Dales e il Lake District, in quello che i proprietari indicano come il centro geografico delle isole britanniche, a quattro miglia dalla cittadina di Kirkby Stephen.
 
 ## Un castello senza formalità
 
@@ -30,7 +30,7 @@ Ciò che distingue Augill è il tono. I proprietari puntano su comfort, cordiali
 
 ## Le camere
 
-Le camere del castello sono il vero richiamo. La maggior parte ha letti a baldacchino, e la vista si spinge fino agli Yorkshire Dales e ai Lakeland Fells. Le camere variano, quindi vale la pena chiedere quale si adatti meglio al tuo gruppo.
+Le camere del castello sono il vero richiamo. La maggior parte ha letti a baldacchino, e la vista si spinge fino agli Yorkshire Dales e ai Lakeland Fells. Le camere variano, quindi vale la pena chiedere quale si adatti meglio al tuo gruppo. Non tutte si trovano nel castello vero e proprio: l'hotel affitta anche Garden Suite, Family Estate House e una Stable House, quindi verifica quale tipologia prenoti.
 
 ## Ristorazione e bar
 

@@ -1,7 +1,7 @@
 ---
 source: ballygally-castle-hotel-united-kingdom
 destination: "Ballygally, County Antrim, Nordirland"
-description: "Ein Vier-Sterne-Hotel um ein Schloss von 1625 an der Küste von Antrim, mit 54 Zimmern, von denen wenige im ursprünglichen Turm über der Ballygally Bay liegen."
+description: "Ein Vier-Sterne-Hotel um ein Schloss von 1625 an der Küste von Antrim, mit 54 Zimmern, von denen einige im ursprünglichen Schlossgebäude über der Ballygally Bay liegen."
 highlights:
   - "1625 erbautes Schloss mit Blick auf die Ballygally Bay und die Irische See"
   - "Turmzimmer im originalen Turm aus dem 17. Jahrhundert"
@@ -23,7 +23,7 @@ bestFor:
   - "Familien"
 seo:
   metaTitle: "Ballygally Castle Hotel: Schlosshotel Antrim | StayAtNiche"
-  metaDescription: "Ballygally Castle Hotel an der Küste von Antrim: ein Schloss von 1625 mit 54 Zimmern, darunter Turmzimmer im Originalbau über der Bucht."
+  metaDescription: "Ballygally Castle Hotel an der Küste von Antrim: ein Schloss von 1625 mit 54 Zimmern, darunter Turmzimmer im ursprünglichen Schlossbau über der Bucht."
 niche_feature: "Schlosshotel aus dem 17. Jahrhundert; die Tower Bedrooms befinden sich im ursprünglichen Schlossgebäude, während das Hotel insgesamt 54 Zimmer hat. Die Zahl der Schlosszimmer nennt die Quelle nicht."
 ---
 
@@ -35,7 +35,7 @@ Der alte Teil ist ein rechteckiger Turm im schottischen Baronialstil: vier Stock
 
 ## Zimmer
 
-Das Hotel hat 54 Zimmer. Die meisten liegen in späteren Anbauten, darunter die 2014 hinzugefügten Coastal-Deluxe-Zimmer mit direktem Blick über die Bucht; Superior-Zimmer gehen auf die ummauerten Gärten hinaus. Wer wegen des Schlosses selbst kommt, sollte eines der wenigen Tower Bedrooms buchen, die im ursprünglichen Gebäude aus dem 17. Jahrhundert liegen. Ganz oben, in einem der Ecktürme, befindet sich das „Geisterzimmer“, das Überlieferungen zufolge das Schlafzimmer von Lady Isabella Shaw war; ihr Geist gehört zur Geschichte des Schlosses. Außerdem gibt es Junior Suites, Familienzimmer und Verbindungszimmer sowie zwei vollständig barrierefreie Zimmer mit Wetroom.
+Das Hotel hat 54 Zimmer. Die Coastal-Deluxe-Zimmer bieten Panoramablick über die Bucht; Superior-Zimmer gehen auf die ummauerten Gärten hinaus. Wer wegen des Schlosses selbst kommt, sollte eines der Tower Bedrooms buchen, die im ursprünglichen Schlossgebäude aus dem 17. Jahrhundert liegen. Ganz oben, in einem der Ecktürme, befindet sich das „Geisterzimmer“, das Überlieferungen zufolge das Schlafzimmer von Lady Isabella Shaw war; ihr Geist gehört zur Geschichte des Schlosses. Außerdem gibt es Junior Suites, Familienzimmer und Verbindungszimmer sowie zwei vollständig barrierefreie Zimmer mit Wetroom.
 
 ## Umgebung
 
@@ -43,4 +43,4 @@ Ballygally liegt an der Causeway Coastal Route, sodass sich das Hotel gut als Au
 
 ## Praktische Hinweise
 
-Der Check-in beginnt um 16 Uhr, der Check-out ist bis 11 Uhr. Nur wenige Zimmer befinden sich im alten Turm, daher sollte man beim Buchen ein Tower Bedroom ausdrücklich anfragen.
+Der Check-in beginnt um 16 Uhr, der Check-out ist bis 11 Uhr. Die Tower Bedrooms liegen im alten Schlossgebäude, daher sollte man beim Buchen ein Tower Bedroom ausdrücklich anfragen.

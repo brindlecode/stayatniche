@@ -1,7 +1,7 @@
 ---
 source: ballygally-castle-hotel-united-kingdom
 destination: "Ballygally, contea di Antrim, Irlanda del Nord"
-description: "Un hotel a quattro stelle costruito attorno a un castello del 1625 sulla costa di Antrim, con 54 camere, di cui solo alcune nella torre originale che domina la baia di Ballygally."
+description: "Un hotel a quattro stelle costruito attorno a un castello del 1625 sulla costa di Antrim, con 54 camere, di cui alcune nell'edificio originale del castello che domina la baia di Ballygally."
 highlights:
   - "Castello costruito nel 1625, di fronte alla baia di Ballygally e al Mare d'Irlanda"
   - "Tower Bedrooms, all'interno della torre originale del Seicento"
@@ -23,7 +23,7 @@ bestFor:
   - "Famiglie"
 seo:
   metaTitle: "Ballygally Castle Hotel: hotel nei castelli | StayAtNiche"
-  metaDescription: "Il Ballygally Castle Hotel, sulla costa di Antrim, occupa un castello del 1625 con 54 camere, alcune nella torre originale che domina la baia di Ballygally."
+  metaDescription: "Il Ballygally Castle Hotel, sulla costa di Antrim, occupa un castello del 1625 con 54 camere, alcune nell'edificio originale del castello che domina la baia di Ballygally."
 niche_feature: "Hotel in un castello del XVII secolo; le Tower Bedrooms si trovano nell'edificio originale del castello, mentre l'hotel ha 54 camere in tutto. La fonte non indica quante siano le camere nel castello."
 ---
 
@@ -35,7 +35,7 @@ La parte antica è una torre rettangolare in stile baronale scozzese: quattro pi
 
 ## Camere
 
-L'hotel dispone di 54 camere. La maggior parte si trova in ampliamenti successivi, tra cui le Coastal Deluxe aggiunte nel 2014, che si affacciano direttamente sulla baia; le Superior guardano verso i giardini murati. Se sei venuto per il castello in sé, prenota una delle poche Tower Bedrooms, situate nell'edificio originale del Seicento. In cima, in una delle torrette, si trova la «stanza dei fantasmi», che si dice fosse la camera da letto di Lady Isabella Shaw, il cui fantasma fa parte della storia del castello. Ci sono anche Junior Suite, camere per famiglie e camere comunicanti, oltre a due camere completamente accessibili con bagno wet room.
+L'hotel dispone di 54 camere. Le Coastal Deluxe offrono una vista panoramica sulla baia; le Superior guardano verso i giardini murati. Se sei venuto per il castello in sé, prenota una delle Tower Bedrooms, situate nell'edificio originale del castello, del Seicento. In cima, in una delle torrette, si trova la «stanza dei fantasmi», che si dice fosse la camera da letto di Lady Isabella Shaw, il cui fantasma fa parte della storia del castello. Ci sono anche Junior Suite, camere per famiglie e camere comunicanti, oltre a due camere completamente accessibili con bagno wet room.
 
 ## Dintorni
 
@@ -43,4 +43,4 @@ Ballygally si trova sulla Causeway Coastal Route, quindi l'hotel è una buona ba
 
 ## Informazioni pratiche
 
-Il check-in è dalle 16:00 e il check-out entro le 11:00. Solo poche camere si trovano nella vecchia torre, quindi chiedi espressamente una Tower Bedroom al momento della prenotazione.
+Il check-in è dalle 16:00 e il check-out entro le 11:00. Le Tower Bedrooms si trovano nel vecchio castello, quindi chiedine espressamente una al momento della prenotazione.

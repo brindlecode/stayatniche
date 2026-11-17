@@ -3,10 +3,10 @@ name: "Augill Castle"
 category: castle-hotels
 destination: "Kirkby Stephen, Cumbria"
 country: "United Kingdom"
-description: "A relaxed, family-run Gothic Revival castle in the Eden Valley between the Lake District and the Yorkshire Dales, with castle rooms that mostly have four-poster beds."
+description: "A relaxed, family-run 19th-century castle in the Eden Valley between the Lake District and the Yorkshire Dales, with castle rooms that mostly have four-poster beds."
 priceRange: "Rates vary"
 highlights:
-  - "19th-century Gothic Revival castle between the Lake District and Yorkshire Dales"
+  - "19th-century castle between the Lake District and Yorkshire Dales"
   - "Castle rooms, most with four-poster beds and views to the Dales and Lakeland Fells"
   - "Informal, family-friendly atmosphere with log fires"
   - "Restaurant, afternoon tea and a conservatory bar"
@@ -44,7 +44,7 @@ niche_source_url: "https://stayinacastle.com/"
 niche_verified_at: 2026-11-17
 ---
 
-Augill Castle is a 19th-century Gothic Revival castle in the Eden Valley in Cumbria, a country house that was originally a private residence and later converted into a hotel. It sits between the Yorkshire Dales and the Lake District, on what the owners describe as the geographical centre of the British Isles, four miles outside the market town of Kirkby Stephen.
+Augill Castle is a 19th-century castle in the Eden Valley in Cumbria, run as a hotel. It sits between the Yorkshire Dales and the Lake District, on what the owners describe as the geographical centre of the British Isles, four miles outside the market town of Kirkby Stephen.
 
 ## A castle without the formality
 
@@ -52,7 +52,7 @@ What sets Augill apart is the tone. Its owners aim for comfort, friendliness and
 
 ## The rooms
 
-The castle rooms are the draw. Most have four-poster beds, and views stretch to the Yorkshire Dales and the Lakeland Fells. The rooms vary, so it is worth asking which suits your party best.
+The castle rooms are the draw. Most have four-poster beds, and views stretch to the Yorkshire Dales and the Lakeland Fells. The rooms vary, so it is worth asking which suits your party best. Not every room is in the castle itself: the hotel also lets Garden Suites, Family Estate Houses and a Stable House, so check which type you are booking.
 
 ## Eating and drinking
 

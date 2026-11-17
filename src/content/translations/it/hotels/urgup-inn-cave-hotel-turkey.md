@@ -40,4 +40,4 @@ Secondo l’hotel, la struttura gode di una posizione privilegiata nel centro di
 
 La colazione può essere consumata in qualsiasi momento. Su richiesta sono disponibili la navetta per l’aeroporto e il taxi. Si accettano carte di credito e si può cambiare valuta.
 
-Se vuoi passare una notte in una camera scavata nella roccia, chiedi espressamente la 105. Se cerchi soprattutto una base accogliente e centrale a Ürgüp e ti basta una camera in grotta, è una scelta sensata. Se un hotel interamente scavato nella roccia è il cuore del tuo viaggio, cerca altrove.
+Se vuoi passare una notte in una camera in grotta, chiedi espressamente la 105. Se cerchi soprattutto una base accogliente e centrale a Ürgüp e ti basta una camera in grotta, è una scelta sensata. Se un hotel composto solo da camere in grotta è il cuore del tuo viaggio, cerca altrove.

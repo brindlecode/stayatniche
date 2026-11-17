@@ -40,4 +40,4 @@ Il castello sorge su 25 acri di giardini e terreni, condivisi con il Banwell Gar
 
 ## Informazioni pratiche
 
-L'indirizzo è Banwell, Somerset, BS29 6NX. Trattandosi di una casa di famiglia, conviene contattare direttamente il castello per camere e disponibilità, e chiedere quale camera è più adatta al tuo gruppo prima di prenotare.
+L'indirizzo è Banwell, Somerset, BS29 6NX. Trattandosi di una casa di famiglia, conviene contattare direttamente il castello per camere e disponibilità, e chiedere quale camera è più adatta al tuo gruppo prima di prenotare. Il sito del castello riporta un copyright del 2009 e non sembra aggiornato da allora, quindi verifica che il bed and breakfast sia attualmente offerto, e le tariffe, prima di pianificare il soggiorno.

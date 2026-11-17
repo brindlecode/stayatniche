@@ -40,4 +40,4 @@ Volgens het hotel ligt het gunstig in het centrum van Ürgüp, bij de ruïnes va
 
 Ontbijt kan op elk moment worden genomen. Een luchthavenshuttle is op aanvraag beschikbaar, net als een taxi. Creditcards worden geaccepteerd en er kan geld worden gewisseld.
 
-Wil je één nacht in een uitgehouwen kamer slapen, vraag dan specifiek naar kamer 105. Zoek je vooral een vriendelijke, centrale uitvalsbasis in Ürgüp en vind je één grotkamer leuk, dan is dit een prima keuze. Gaat het bij je reis vooral om een volledig uit de rots gehouwen hotel, zoek dan elders.
+Wil je één nacht in een grotkamer slapen, vraag dan specifiek naar kamer 105. Zoek je vooral een vriendelijke, centrale uitvalsbasis in Ürgüp en vind je één grotkamer leuk, dan is dit een prima keuze. Gaat het bij je reis vooral om een hotel met uitsluitend grotkamers, zoek dan elders.

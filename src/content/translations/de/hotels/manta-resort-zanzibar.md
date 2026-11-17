@@ -1,20 +1,20 @@
 ---
 source: manta-resort-zanzibar
 destination: "Insel Pemba"
-description: "Eine frei schwimmende, vor der Insel Pemba verankerte Plattform – Pemba gehört zu den am wenigsten besuchten Inseln im westlichen Indischen Ozean – mit einem Schlafzimmer vier Meter unter Wasser. Das nächtliche Riffleben vor den Fenstern ist der Grund, warum die meisten Gäste berichten, kein Auge zugetan zu haben."
+description: "Eine dreistöckige, schwimmende Suite, rund 250 Meter vor der Küste der abgelegenen Insel Pemba verankert, mit einem Doppelschlafzimmer vier Meter unter der Meeresoberfläche, wo sanftes Licht nachts Riffbewohner an die Fenster lockt."
 highlights:
-  - "Das gesamte Schlafzimmer liegt 4 Meter unter der Oberfläche des Indischen Ozeans"
-  - "Unterwasserfenster rundum mit Blick auf das nächtliche Riffleben"
-  - "Schwimmende Konstruktion mit Dachdeck, Lounge auf Meereshöhe und Unterwasserschlafzimmer"
-  - "Vor der abgelegenen Insel Pemba, einem der am wenigsten besuchten Ziele im Indischen Ozean"
-  - "Ein besonderes Schlaferlebnis unter Wasser, über das in Reisemedien regelmäßig berichtet wird"
+  - "Das Doppelschlafzimmer liegt 4 Meter unter der Oberfläche des Indischen Ozeans"
+  - "Fast 360 Grad Glas rund um das Bett, nachts mit beleuchtetem Blick aufs Riff"
+  - "Drei Ebenen: Dachdeck, Lounge mit Bad auf Meereshöhe und Unterwasserschlafzimmer"
+  - "Rund 250 Meter vor der Küste der abgelegenen Insel Pemba verankert"
+  - "Aufenthalte tragen zum Schutz des Pemba Channel Conservation Area bei"
 amenities:
   - "Schlafzimmer unter Wasser"
-  - "Dachdeck mit Blick aufs offene Meer"
-  - "Lounge und Essbereich auf Meereshöhe"
-  - "Eigener Gastgeber und Privatkoch an Bord der Plattform"
-  - "Kajak- und Schnorchelausrüstung"
-  - "Cocktails zum Sonnenuntergang"
+  - "Dachdeck zum Sonnenbaden"
+  - "Lounge und Bad auf Meereshöhe"
+  - "Gefüllter Barkühlschrank und per Boot gelieferte Mahlzeiten"
+  - "Schnorchelausrüstung"
+  - "Persönliches Concierge-Team und ein Mobiltelefon für den Kontakt zum Resort"
   - "Bootstransfer vom Hauptresort"
   - "Tauchgänge über das Tauchzentrum des Manta Resort"
 bestFor:
@@ -26,15 +26,15 @@ prosAndCons:
   pros:
     - "Ein außergewöhnliches Schlaferlebnis, bei dem das Riff die ganze Nacht durch die Fenster zu sehen ist"
     - "Das nächtliche Riffleben vor den Schlafzimmerfenstern ist wirklich magisch"
-    - "Absolute Privatsphäre – die Plattform liegt ganz allein im offenen Meer"
+    - "Privatsphäre, denn die Suite liegt rund 250 Meter vor der Küste"
     - "Das Manta Resort an Land ergänzt das Erlebnis mit exzellentem Tauchen"
-    - "Ein eigener Gastgeber sorgt für aufmerksamen, persönlichen Service"
+    - "Ein persönliches Concierge-Team sorgt für diskreten, aufmerksamen Service"
   cons:
-    - "Eines der teuersten Hotelerlebnisse Afrikas"
-    - "Die Insel Pemba ist extrem abgelegen und schwer zu erreichen"
+    - "Ein hoher Preis, und das Resort verlangt einen Mindestaufenthalt von drei Nächten"
+    - "Die Insel Pemba ist abgelegen, mit Flug nach Pemba und danach rund 1,5 Stunden Fahrt zum Resort"
     - "Manche Gäste empfinden das Unterwasserzimmer als beengend"
     - "Die Bedingungen auf See beeinträchtigen gelegentlich Zugang und Komfort"
-    - "Frühzeitige Buchung unerlässlich, sehr begrenzte Verfügbarkeit"
+    - "Das Underwater Room bietet nur zwei Gästen Platz"
 seasonalInfo:
   bestTime: "Juni bis Oktober (Trockenzeit)"
   notes: "Pembas Trockenzeit (Juni–Oktober) bringt das klarste Wasser und die ruhigste See – ideale Bedingungen für das Unterwasserzimmer. Die kurze Regenzeit (November) und die lange Regenzeit (April–Mai) können rauere Bedingungen bringen. Die Walhai-Saison dauert von Oktober bis Februar."
@@ -45,32 +45,28 @@ nearbyAttractions:
     distance: "8 km"
   - name: "Korallenriffe der Insel Pemba"
     distance: "direkt vor Ort"
-  - name: "Chake Chake (Hauptort von Pemba)"
-    distance: "25 km"
 seo:
   metaTitle: "Manta Resort Pemba: Unterwasserzimmer Sansibar | StayAtNiche"
-  metaDescription: "Schlafen im Indischen Ozean: Das Unterwasserzimmer des Manta Resort liegt 4 Meter unter der Oberfläche vor Pemba, Tansania – mit Rifffischen vor den Fenstern."
+  metaDescription: "Schlafen vier Meter unter dem Indischen Ozean: dreistöckige schwimmende Suite vor der Insel Pemba, Tansania, mit Glas fast rundum um das Bett."
 niche_feature: "Ein Underwater Room: eine dreistöckige schwimmende Suite, rund 250 m vor der Küste von Pemba verankert, mit dem Doppelschlafzimmer vier Meter unter der Meeresoberfläche. Der Rest des Resorts (Villen, Gartenzimmer) ist gewöhnliche Unterkunft."
 ---
 
-Vier Meter unter der Oberfläche des Indischen Ozeans, während das Riffleben des Pemba-Kanals im Dunkeln an den Fenstern vorbeitreibt, taugen die üblichen Hotelkategorien nichts mehr. Das Underwater Room des Manta Resort ist etwas ganz Eigenes: ein Schlafzimmer unter Wasser vor einer der am wenigsten besuchten Inseln im westlichen Indischen Ozean, wo die Fische deutlich neugieriger auf Sie sind als Sie auf die Fische.
+Vier Meter unter der Oberfläche des Indischen Ozeans, während das Riffleben des Pemba-Kanals im Dunkeln an den Fenstern vorbeitreibt, taugen die üblichen Hotelkategorien nichts mehr. Das Underwater Room des Manta Resort ist etwas ganz Eigenes: ein Schlafzimmer unter Wasser vor der abgelegenen Insel Pemba im nördlichen Sansibar-Archipel.
 
-Die schwimmende Plattform ist im offenen Wasser vor der Insel Pemba verankert – 80 Kilometer nördlich von Sansibar und nur von einem Bruchteil der Touristen besucht, die jedes Jahr nach Tansania reisen. Die Plattform hat drei Ebenen: ein Dachdeck, das ganz den Sternen und dem offenen Meer ausgesetzt ist, eine Lounge auf Meereshöhe mit umlaufendem Deck zum Schwimmen und für Cocktails bei Sonnenuntergang und das Schlafzimmer, das man von der Lounge aus über eine Luke und eine Leiter vier Meter unter Wasser erreicht.
+Die dreistöckige Suite ist rund 250 Meter vor der Küste der Insel Pemba verankert und schwimmt über einem Korallengarten im geschützten Pemba-Kanal. Oben liegt ein Dachdeck zum Sonnenbaden, nachts offen zu den Sternen; die mittlere Ebene ist eine schattige Lounge mit umweltbewusst gestaltetem Bad; und das Doppelschlafzimmer liegt vier Meter unter der Meeresoberfläche.
 
 **Das Unterwasserschlafzimmer**
 
-Der Raum ist eine runde Kammer mit raumhohen Fenstern auf allen Seiten. Das Glas rahmt den Ozean nicht ein, wie ein Hotelfenster eine Stadt einrahmt – es versetzt Sie mitten hinein. Direkt hinter der Scheibe beginnt das Riff. Tagsüber filtert das aquamarinfarbene Licht des Indischen Ozeans durch die Wassersäule nach unten. Nachts locken die Unterwasserlampen der Plattform die Meeresbewohner ans Glas: Rifffische, die sich zu silbernen Schwärmen sammeln, ein Kalmar, der sich auf jene präzise, fremdartige Weise bewegt, wie sich Kalmare eben bewegen, ein Oktopus, der sich mit offenbar echter Neugier flach gegen das Fenster drückt.
-
-Die meisten Gäste berichten, dass sie überhaupt nicht schlafen konnten. Nicht aus Unbehagen, sondern weil sie die Augen einfach nicht schließen wollten.
+Fast 360 Grad Glas umgeben das Doppelbett. Das Glas rahmt den Ozean nicht ein, wie ein Hotelfenster eine Stadt einrahmt – es versetzt Sie mitten hinein. Tagsüber ziehen Schwärme von Papageifischen, Trompetenfischen und Zackenbarschen an den Fenstern vorbei, gelegentlich auch ein Oktopus oder ein Kalmar. Nachts locken sanfte Unterwasserlichter nachtaktive Meeresbewohner ans Glas.
 
 **Die Plattform**
 
-Vom Dachdeck aus erlebt man einen der schönsten Sonnenaufgänge Tansanias. Das Festland ist nicht zu sehen, der Horizont ist eine ununterbrochene Linie, und die Silhouetten der Daus, die gelegentlich durch das Morgenlicht ziehen, gehören zu einem Gewässer, das Swahili-Händler des 9. Jahrhunderts mühelos wiedererkennen würden.
+Das Dachdeck ist tagsüber eine Sonnenterrasse und nachts ein Platz unter einem Himmel, der laut Resort frei von Lichtverschmutzung ist.
 
-Während jedes Aufenthalts lebt ein eigener Gastgeber auf der Plattform, der Mahlzeiten und Cocktails zubereitet und auf dem Deck auf Meereshöhe serviert. Das Essen wird in einer kleinen Kombüse gekocht und ist ausgezeichnet: frischer Fisch und Meeresfrüchte aus der Region, tropische Früchte, richtiger Kaffee.
+Einen Gastgeber, der an Bord lebt, gibt es nicht. Das Resort liefert ausgewählte Mahlzeiten per Boot, und zur Suite gehören ein gefüllter Barkühlschrank, Schnorchelausrüstung, ein Mobiltelefon für den Kontakt zum Resort und ein persönliches Concierge-Team. Das Underwater Room ist für zwei Gäste ausgelegt.
 
 **Die Insel Pemba**
 
 Die Insel selbst lohnt die Reise auch für sich genommen. Direkt vor der Küste fällt der Pemba-Kanal in beträchtliche Tiefen ab, und die aufsteigenden Strömungen nähren einige der gesündesten Korallen im Indischen Ozean. Touristische Infrastruktur gibt es kaum – eine Handvoll Lodges, keine Hotelmeile –, und die Dörfer der Nelkenbauern und Fischer entlang der Küste leben in einem Tempo, das wirklich gemächlich wirkt.
 
-Die Lodge des Manta Resort an Land dient als Ankunftsort, bietet exzellentes Tauchen und übernimmt die gesamte Bootslogistik für die Fahrt zum Underwater Room. Das Zimmer ist nicht die luxuriöseste Übernachtung im Indischen Ozean. Nach dem Urteil fast aller, die dort eine Nacht verbracht haben, ist es aber eine der einzigartigsten, die es gibt.
+Das Manta Resort liegt an der Nordspitze von Pemba, rund 1,5 Fahrstunden vom Flughafen Pemba entfernt, und übernimmt die Bootslogistik für die Fahrt zum Underwater Room. Laut den FAQ des Resorts gilt ein Mindestaufenthalt von drei Nächten, und der Preis umfasst Unterkunft, alle Mahlzeiten und Getränke, Wellnessanwendungen und Wäscheservice; Flughafentransfers und geführte Ausflüge, auch Tauch- und Schnorcheltrips, kosten extra.

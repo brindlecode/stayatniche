@@ -1,9 +1,9 @@
 ---
 source: royal-cliff-hotels-group-thailand
 destination: "Pattaya"
-description: "Quatre hôtels cinq étoiles réunis sur un domaine de 64 acres, en haut d'une falaise, à Pattaya ; le Beach Terrace est un complexe bas niché dans la falaise, avec 89 suites ouvrant sur la plage."
+description: "Quatre hôtels cinq étoiles réunis sur un domaine de 64 acres face au golfe de Thaïlande, à Pattaya ; le Beach Terrace est un complexe bas niché dans la falaise, avec 89 suites ouvrant sur la plage."
 highlights:
-  - "Quatre hôtels sur un domaine de 64 acres au-dessus du golfe de Thaïlande"
+  - "Quatre hôtels sur un domaine de 64 acres face au golfe de Thaïlande"
   - "Royal Cliff Beach Terrace : complexe bas niché dans la falaise"
   - "89 suites ouvrant sur la plage au Beach Terrace"
   - "Piscine à débordement avec vue sur l'océan"

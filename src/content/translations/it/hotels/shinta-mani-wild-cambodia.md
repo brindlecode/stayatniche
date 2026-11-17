@@ -1,11 +1,11 @@
 ---
 source: shinta-mani-wild-cambodia
 destination: Monti Cardamomi, provincia di Koh Kong
-description: "Un campo tendato di lusso nei Monti Cardamomi, in Cambogia — la più grande foresta pluviale intatta del Sud-est asiatico continentale — raggiungibile solo con una zipline che porta gli ospiti in volo per 400 metri sopra un fiume nella foresta fino al punto d'arrivo. Il progetto di Bill Bensley integra nove suite tendate nella volta della foresta; la struttura finanzia e gestisce una propria squadra antibracconaggio che opera nel parco nazionale."
+description: "Un campo tendato di lusso nei Monti Cardamomi, in Cambogia — la più grande foresta pluviale intatta del Sud-est asiatico continentale — che si raggiunge con una zipline che porta gli ospiti in volo per 400 metri sopra un fiume nella foresta fino al punto d'arrivo. Bill Bensley ha progettato le 15 tende lungo il fiume e il resort finanzia i ranger di Wildlife Alliance che pattugliano la foresta dei Cardamomi."
 highlights:
   - Arrivo in zipline sopra un fiume nella foresta pluviale
-  - Ranger antibracconaggio privati finanziati dal resort
-  - Nove suite tendate tra le chiome dei Monti Cardamomi
+  - "Ranger antibracconaggio di Wildlife Alliance finanziati dal resort"
+  - "15 tende sul fiume progettate da Bill Bensley nella foresta pluviale dei Cardamomi"
   - I Monti Cardamomi, la più grande foresta pluviale del Sud-est asiatico continentale
   - Architettura e design di Bill Bensley
 amenities:
@@ -22,13 +22,13 @@ bestFor:
   - Amanti dell'architettura e del design
 seo:
   metaTitle: "Shinta Mani Wild: campo di lusso nella giungla | StayAtNiche"
-  metaDescription: "Shinta Mani Wild, Cambogia: arrivo in zipline nella foresta pluviale dei Monti Cardamomi. Il lodge di Bill Bensley finanzia ranger antibracconaggio."
+  metaDescription: "Shinta Mani Wild, Cambogia: arrivo in zipline nei Monti Cardamomi, 15 tende di Bill Bensley, all inclusive e ranger antibracconaggio finanziati dal resort."
 ---
 
-I Monti Cardamomi si estendono nel sud-ovest della Cambogia: 4,4 milioni di ettari di foresta pluviale che rappresentano la più vasta foresta intatta rimasta nel Sud-est asiatico continentale. Qui vivono popolazioni di tigre indocinese, elefante asiatico, leopardo nebuloso e orso malese, specie cacciate fino all'estinzione o a una presenza ormai invisibile in gran parte della regione. La foresta non è un'attrazione nel senso tradizionale del termine: è un ecosistema funzionante, la cui sopravvivenza dipende dalla scelta di considerarla più preziosa intatta che abbattuta.
+I Monti Cardamomi si estendono nel sud-ovest della Cambogia: 4,4 milioni di ettari di foresta pluviale che rappresentano la più vasta foresta intatta rimasta nel Sud-est asiatico continentale. Qui vivono più di 50 specie animali minacciate, tra cui elefanti, orsi malesi, pangolini, leopardi nebulosi e gibboni, specie minacciate in tutta la regione da bracconaggio, disboscamento e altre attività illegali. La foresta non è un'attrazione nel senso tradizionale del termine: è un ecosistema funzionante, la cui sopravvivenza dipende dalla scelta di considerarla più preziosa intatta che abbattuta.
 
-Shinta Mani Wild prende questo presupposto di conservazione e ne fa il prodotto stesso. La squadra antibracconaggio del resort — oltre 70 ranger attivi su una concessione di 45.000 ettari all'interno del parco nazionale — è finanziata direttamente dagli introiti delle camere. Gli ospiti possono unirsi alle pattuglie all'alba, imparando a riconoscere le trappole, a seguire le tracce degli animali e a comprendere le pressioni economiche che alimentano il bracconaggio nella regione. È un'educazione con conseguenze dirette per la conservazione: la fauna che gli ospiti possono incontrare durante le passeggiate nella foresta esiste perché i ranger lavorano senza sosta per proteggerla.
+Shinta Mani Wild prende questo presupposto di conservazione e ne fa il prodotto stesso. Il resort contribuisce a finanziare Wildlife Alliance, una ONG cambogiana i cui ranger armati pattugliano la foresta dei Cardamomi, e ha costruito per loro una stazione sui suoi 350 ettari; dichiara di coprire tutte le spese e l'attrezzatura dei ranger. Gli ospiti possono accompagnare i ranger in moto in pattuglie da due a sei ore, a seconda della resistenza, trovandosi così in prima linea nel lavoro di conservazione che il loro soggiorno aiuta a finanziare.
 
-L'arrivo è puro teatro. Il campo si raggiunge solo in zipline — un cavo di 400 metri sopra un fiume nella foresta pluviale — oppure con una camminata più lunga nel bosco. La zipline, percorsa all'altezza delle chiome sopra l'acqua impetuosa, è l'arrivo più spettacolare di qualsiasi lodge del Sud-est asiatico. Le nove suite tendate, firmate da Bill Bensley (l'architetto di base a Bangkok che ha definito il linguaggio visivo degli eco-lodge di lusso della regione), poggiano su piattaforme sopraelevate con vista sulla giungla dal letto king-size. Il design è volutamente sontuoso — tessuti fantasia, texture sovrapposte, un massimalismo dichiarato — in contrappunto al minimalismo della foresta pluviale là fuori.
+L'arrivo è puro teatro. Il campo si raggiunge in zipline — un cavo di 400 metri sopra un fiume nella foresta pluviale — oppure con una camminata più lunga nel bosco. La zipline, percorsa all'altezza delle chiome sopra l'acqua impetuosa, è un volo esaltante sopra le cime degli alberi. Le 15 tende, progettate dall'architetto Bill Bensley, sono disposte lungo il fiume, su palafitte, appartate e con aria condizionata, ciascuna con un ampio portico e una vasca all'aperto. Il design è volutamente sontuoso — tessuti fantasia, texture sovrapposte, un massimalismo dichiarato — in contrappunto al minimalismo della foresta pluviale là fuori.
 
 Phnom Penh è la porta d'accesso internazionale più vicina; da lì Koh Kong dista 4 ore di strada, e il campo altre 2 ore di barca risalendo il fiume Preak Tachan. Il resort si occupa di tutta la logistica dei trasferimenti.

@@ -1,9 +1,9 @@
 ---
 source: pullman-maldives-maamutaa-resort-maldives
 destination: "Isola di Maamutaa, atollo di Gaafu Alifu"
-description: "Solo le Aqua Villa di questo resort insulare hanno una camera da letto sott'acqua; il resto del resort è composto da normali ville sulla spiaggia e sull'acqua. Ogni Aqua Villa unisce una camera sommersa a una camera sull'acqua al piano superiore."
+description: "Solo le due Aqua Villa di questo resort insulare hanno una camera da letto sott'acqua; il resto del resort è composto da normali ville sulla spiaggia e sull'acqua. Ogni Aqua Villa unisce una camera sommersa a una camera sull'acqua al piano superiore."
 highlights:
-  - "Le Aqua Villa hanno una camera sommersa sotto la laguna, con vista sulla vita marina"
+  - "Le due Aqua Villa hanno una camera sommersa sotto la laguna, con vista sulla vita marina"
   - "Aqua Villa su due livelli di 209 metri quadrati, con camera sull'acqua e una grande piscina con terrazza privata"
   - "Tutte le altre sistemazioni sono ville sulla spiaggia o sull'acqua, senza camera sottomarina"
   - "Isola privata di 18 ettari di vegetazione con 122 ville"
@@ -24,7 +24,7 @@ seo:
 niche_feature: "Solo le Aqua Villas (due, secondo quanto dichiara il resort per le 2 camere da letto subacquee) hanno una camera da letto principale sommersa sotto la laguna e una camera da letto sull'acqua; le altre ville delle 122 sono ville sulla spiaggia o sull'acqua."
 ---
 
-Solo le Aqua Villa del Pullman Maldives Maamutaa hanno una camera da letto sott'acqua. Il resto del resort è composto da normali ville sulla spiaggia e sull'acqua, senza alcuna camera sommersa. Chi vuole trascorrere la notte sott'acqua deve prenotare specificamente un'Aqua Villa.
+Solo le due Aqua Villa del Pullman Maldives Maamutaa hanno una camera da letto sott'acqua. Il resto del resort è composto da normali ville sulla spiaggia e sull'acqua, senza alcuna camera sommersa. Chi vuole trascorrere la notte sott'acqua deve prenotare specificamente un'Aqua Villa.
 
 ## L'Aqua Villa
 

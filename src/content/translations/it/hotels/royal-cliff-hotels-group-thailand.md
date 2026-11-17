@@ -1,9 +1,9 @@
 ---
 source: royal-cliff-hotels-group-thailand
 destination: "Pattaya"
-description: "Gruppo di quattro hotel a cinque stelle su una tenuta di 64 acri in cima a una scogliera a Pattaya; il Beach Terrace è un resort basso incastonato nella scogliera, con 89 suite affacciate sulla spiaggia."
+description: "Gruppo di quattro hotel a cinque stelle su una tenuta di 64 acri affacciata sul golfo di Thailandia, a Pattaya; il Beach Terrace è un resort basso incastonato nella scogliera, con 89 suite affacciate sulla spiaggia."
 highlights:
-  - "Quattro hotel su una tenuta di 64 acri sopra il golfo di Thailandia"
+  - "Quattro hotel su una tenuta di 64 acri affacciata sul golfo di Thailandia"
   - "Royal Cliff Beach Terrace: resort basso incastonato nella scogliera"
   - "89 suite affacciate sulla spiaggia al Beach Terrace"
   - "Piscina a sfioro con vista sull'oceano"

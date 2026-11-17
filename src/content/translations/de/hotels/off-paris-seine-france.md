@@ -1,19 +1,19 @@
 ---
 source: off-paris-seine-france
 destination: "Paris, Île-de-France"
-description: "Das einzige schwimmende Hotel von Paris liegt zwischen dem 5. und dem 13. Arrondissement vor Anker, flussaufwärts Notre-Dame, flussabwärts die Bibliothèque nationale. Die Zimmer blicken direkt auf den Fluss und zeigen die Stadt aus einer Perspektive, die die meisten Pariser nur von einem vorbeifahrenden Bateau-Mouche kennen."
+description: "Das erste schwimmende Hotel von Paris liegt am Fuß des Gare d'Austerlitz im 13. Arrondissement vor Anker, mit 54 Zimmern im Stil von Schiffskabinen und 4 Suiten auf der Seine, einem Pool und einer Dinner-Bar."
 highlights:
-  - "Das einzige schwimmende Hotel von Paris, vertäut an der Seine"
-  - "Moderne Zimmer mit Panoramablick auf Fluss und Stadt"
-  - "Architektonisch anspruchsvolles Design von Pariser Architekten"
-  - "Dachdeck und Bar mit Panoramablick auf Notre-Dame und die Stadt"
+  - "Das erste schwimmende Hotel von Paris, vertäut an der Seine"
+  - "54 Zimmer im Schiffskabinen-Stil und 4 Suiten mit Blick auf die Kais und die Seine"
+  - "Ambiente aus Holz und Glas; die Zimmer auf der untersten Ebene liegen auf Wasserhöhe"
+  - "Pool und Dinner-Bar an Deck mit Blick auf die Seine"
 amenities:
-  - "Flusskabine mit Panoramafenstern"
-  - "Restaurant und Bar an Bord"
-  - "Dachterrasse"
+  - "Zimmer und Suiten im Schiffskabinen-Stil auf der Seine"
+  - "Dinner-Bar an Deck"
+  - "Pool mit Blick auf die Seine"
   - "Frühstück"
-  - "Zentrale Lage zwischen Notre-Dame und dem 13. Arrondissement"
-  - "Fahrradverleih"
+  - "Zwischen Gare d'Austerlitz und Gare de Lyon, 13. Arrondissement"
+  - "Private Bootscharter vom Anleger auf Wasserhöhe"
 bestFor:
   - "Architekturliebhaber"
   - "Paare"
@@ -21,15 +21,15 @@ bestFor:
   - "Paris-Neulinge und Wiederholungstäter"
 seo:
   metaTitle: "OFF Paris Seine: Schwimmendes Hotel in Paris | StayAtNiche"
-  metaDescription: "OFF Paris Seine: das einzige schwimmende Hotel von Paris, auf der Seine zwischen Notre-Dame und Bibliothèque nationale – Flussblick vom Bett, Dachterrasse."
+  metaDescription: "OFF Paris Seine: das erste schwimmende Hotel von Paris am Gare d'Austerlitz, mit 54 Zimmern im Schiffskabinen-Stil, 4 Suiten, Pool und Dinner-Bar an der Seine."
 ---
 
-Das OFF Paris Seine liegt am Kai zwischen dem 5. und dem 13. Arrondissement vor Anker, flussaufwärts sind die Strebepfeiler von Notre-Dame zu sehen, flussabwärts die Türme der Bibliothèque nationale. Der Blick, den es bietet – Paris auf Höhe des Wassers, hinaus auf die steinernen Ufer der Stadt –, unterscheidet sich grundlegend von dem, was die großen Adressen am rechten Ufer oder die Boutiquehotels von Saint-Germain bieten können. Es ist die Perspektive, die die meisten Pariser nur von einem fahrenden Bateau-Mouche kennen – hier steht sie still und ist vom Bett aus zu haben.
+Das OFF Paris Seine liegt am Fuß des Gare d'Austerlitz, zwischen Gare d'Austerlitz und Gare de Lyon im 13. Arrondissement. Der Blick, den es bietet – Paris auf Flusshöhe, hinaus auf die steinernen Ufer der Stadt –, ist die Perspektive, die die meisten Pariser nur von einem fahrenden Bateau-Mouche kennen, und hier steht sie still, erreichbar vom Bett aus.
 
-Das 2017 eröffnete Schiff ist ein Neubau und kein umgebautes historisches Boot – ein bewusst gestaltetes Stück Architektur, das die klare, industrielle Formensprache der Arbeitsschiffe auf der Seine aufgreift und so zuspitzt, dass es sich neben der außergewöhnlichen Stadtkulisse behauptet. Außen verwitterter Stahl und Holz, zurückhaltend und ortsbezogen; innen wird jeder Zentimeter effizient genutzt, mit jener französischen Begabung, einen kleinen Raum durchdacht statt bloß kompakt wirken zu lassen. Große Panoramafenster in jedem Zimmer sorgen dafür, dass der Fluss immer präsent ist.
+Das 2016 eröffnete Hotel, von Sortiraparis als erstes schwimmendes Hotel auf der Seine bezeichnet, hat 54 Zimmer im Stil von Schiffskabinen und 4 Suiten in einem Ambiente aus Holz und Glas. Manche Zimmer blicken auf den Kai, andere auf die Seine, und die Zimmer auf der Ebene −1 liegen auf Wasserhöhe. Laut Hotel ist der Blick aufs Wasser allgegenwärtig, mit Licht und Spiegelungen, die sich im Lauf des Tages verändern.
 
-Die Seine ist ein arbeitender Fluss, und wer auf ihr übernachtet, merkt das. Lastkähne ziehen dicht vorbei, abends kreisen Ausflugsboote mit Scheinwerfern, vor 7 Uhr tauchen Ruderteams auf dem Wasser auf. Aus einem Zimmer zum Fluss wirken diese Bewegungen unmittelbar, nicht beobachtet. Das Spiegelbild der beleuchteten Brücken von Paris – Pont de Sully, Pont d'Austerlitz – im nächtlichen Wasser gehört zum Schönsten, was die Stadt zu bieten hat, und das Hotel liefert es als privaten Blick vom Kopfkissen.
+Im Mittelpunkt des Hotels steht ein Pool mit Blick auf die Seine, um den herum die Dinner-Bar angelegt ist. Die Bar mit Restaurant an Deck ist im Sommer unter freiem Himmel und bei Kälte überdacht, mit kreativen Cocktails und Tapas zum Teilen; Sortiraparis nennt DJ-Sets am Samstag, Live-Musik am Freitag und einen Sonntagsbrunch.
 
-Das Dachdeck ist der gesellige Mittelpunkt des Hotels. An warmen Abenden treffen sich hier Architekten, Designer und Filmemacher auf einen Drink, während die Sonne hinter dem linken Ufer versinkt und die letzten Bateaux-Mouches des Tages unten durchs Wasser gleiten. Das Restaurant auf dem unteren Deck bietet solide moderne französische Küche, saisonale Produkte und Naturweine – nichts, was mehr verspricht, als es hält. Das Frühstück ist eine echt französische Angelegenheit: Croissants, Tartines, frischer Saft und kräftiger Café au Lait, während sich der Morgennebel über dem Fluss lichtet und oben am Kai die ersten Jogger auftauchen.
+Auf Wasserhöhe reicht eine Balkonterrasse bis zu einem Anleger, von dem aus sich ein privates Boot für eine Fahrt auf der Seine chartern lässt. Das Frühstück wird in der Dinner-Bar des Hotels serviert.
 
-Die Lage ist letztlich das überzeugendste Argument des Hotels. Das 4. und das 5. Arrondissement, das Marais, die Île de la Cité, das Quartier Latin – alles ist bequem zu Fuß erreichbar. Unmittelbar südlich beginnt das 13. Arrondissement mit seiner neueren Architektur und Restaurantszene. Paris liegt vor der Tür, und die Tür öffnet sich zum Fluss.
+Das Hotel liegt im 13. Arrondissement, nur einen Steinwurf von der Cité de la Mode et du Design entfernt, in einem Viertel, das das Hotel als sich rasch wandelnd beschreibt – mit dem rechten und dem linken Seineufer zu beiden Seiten des Flusses.

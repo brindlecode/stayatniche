@@ -1,9 +1,9 @@
 ---
 source: royal-cliff-hotels-group-thailand
 destination: "Pattaya"
-description: "Een groep van vier vijfsterrenhotels op een landgoed van 64 acres op een klif in Pattaya; het Beach Terrace is een laagbouwresort tegen de klif aan, met 89 suites die uitkomen op het strand."
+description: "Een groep van vier vijfsterrenhotels op een landgoed van 64 acres met uitzicht op de Golf van Thailand in Pattaya; het Beach Terrace is een laagbouwresort tegen de klif aan, met 89 suites die uitkomen op het strand."
 highlights:
-  - "Vier hotels op een landgoed van 64 acres boven de Golf van Thailand"
+  - "Vier hotels op een landgoed van 64 acres met uitzicht op de Golf van Thailand"
   - "Royal Cliff Beach Terrace: laagbouwresort tegen de klif"
   - "89 suites met directe toegang tot het strand bij het Beach Terrace"
   - "Infinitypool met uitzicht op de oceaan"

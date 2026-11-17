@@ -47,7 +47,7 @@ niche_source_url: "https://tarucavesuites.com/"
 niche_verified_at: 2026-11-17
 ---
 
-Taru Cave Suites is a boutique cave hotel in Ürgüp that combines, according to the hotel, elegance, authenticity and modern amenities. Its rooms are described as "elegantly designed cave rooms", so the cave setting applies to the stay as a whole.
+Taru Cave Suites is a boutique cave hotel in Ürgüp that combines, according to the hotel, elegance, authenticity and modern amenities. Its rooms are described as "elegantly designed cave rooms"; the site does not say how they are built or how many rooms there are.
 
 ## The rooms
 

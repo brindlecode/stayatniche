@@ -62,4 +62,4 @@ The castle sits in 25 acres of gardens and grounds, shared with Banwell Garden C
 
 ## Practical notes
 
-The address is Banwell, Somerset, BS29 6NX. As a family home, it is best to contact the castle directly about rooms and availability, and to ask which rooms suit your party before you book.
+The address is Banwell, Somerset, BS29 6NX. As a family home, it is best to contact the castle directly about rooms and availability, and to ask which rooms suit your party before you book. The castle's website carries a 2009 copyright and has not been visibly updated since, so confirm that bed and breakfast is currently offered, and the rates, before you plan a stay.

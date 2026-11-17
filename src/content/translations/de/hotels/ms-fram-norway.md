@@ -1,19 +1,19 @@
 ---
 source: ms-fram-norway
 destination: "Spitzbergen und norwegische Arktis"
-description: "Das eisverstärkte Expeditionsschiff von Hurtigruten, benannt nach dem Polarschiff von Nansen und Amundsen, bringt seine Gäste mit Zodiacs an Gletscherfronten und Walrossstrände auf 78 Grad Nord – mit 16 Fachleuten an Bord und Eisbärbegegnungen, die eine echte Wahrscheinlichkeit sind und kein Werbeversprechen."
+description: "Das speziell für Polarreisen gebaute Expeditionsschiff von HX Expeditions für 200 Gäste, benannt nach dem norwegischen Forschungsschiff, das unter Fridtjof Nansen durch das arktische Eis driftete, mit Science Centre, zwei Restaurants und Außen-Whirlpools."
 highlights:
-  - "Benannt nach dem legendären Polarforschungsschiff von Nansen und Amundsen"
-  - "Expertenteam aus Naturkundlern, Historikern und Polarguides auf jeder Reise"
+  - "Benannt nach dem legendären norwegischen Forschungsschiff, das unter Nansen durch das arktische Eis driftete"
+  - "Expeditionsteam und ein Science Centre an Bord mit Vorträgen und Mikroskopen"
   - "Zodiacs und Kajaks für Erkundungen von Eis und Tierwelt aus nächster Nähe"
-  - "Polarlichter, Eisbären und kalbende Gletscher vom Deck aus"
+  - "Zwei Außen-Whirlpools, Sauna und Fitnessraum an Bord"
 amenities:
   - "Expeditionskabine oder Suite mit Polarblick"
-  - "Mehrere Restaurants und Bars"
-  - "Wissenschaftszentrum und Vortragssaal"
-  - "Expeditionsteam aus mehr als 16 Fachleuten"
+  - "Zwei Restaurants (Aune und Lindstrøm) und die Explorer Lounge & Bar"
+  - "Science Centre mit Vorträgen und Mikroskopen"
+  - "Expeditionsteam mit Vorträgen an Bord"
   - "Zodiac-Landungsboote"
-  - "Aussichtsdeck und Whirlpool im Polarmeer"
+  - "Zwei Außen-Whirlpools, Sauna und Fitnessraum"
 bestFor:
   - "Expeditionsreisende"
   - "Tierliebhaber"
@@ -21,15 +21,15 @@ bestFor:
   - "Abenteurer"
 seo:
   metaTitle: "MS Fram: Expeditionsreise nach Spitzbergen | StayAtNiche"
-  metaDescription: "Mit der MS Fram von Hurtigruten in die Arktis: Zodiac-Touren zu Gletschern und Walrossen auf Spitzbergen, 16 Fachleute an Bord und gute Chancen auf Eisbären."
+  metaDescription: "MS Fram von HX Expeditions: speziell für Polarreisen gebautes Expeditionsschiff für 200 Gäste mit Science Centre, zwei Restaurants, Außen-Whirlpools und Sauna."
 ---
 
-Die ursprüngliche Fram – das Schiff von Fridtjof Nansen, das später Roald Amundsen für seine Antarktisexpedition nutzte – gelangte weiter nach Norden als jedes andere Schiff der überlieferten Geschichte und weiter nach Süden als jedes Holzschiff vor oder nach ihr. Heute steht sie in ihrem eigenen Museum in Oslo, bewahrt als Nationaldenkmal. Die MS Fram von Hurtigruten, das moderne Expeditionsschiff, das ihren Namen trägt, bringt Reisende in dieselben arktischen und antarktischen Gewässer – mit einem Anspruch an echte Entdeckung, an den die meisten Kreuzfahrtanbieter nicht heranreichen.
+Die ursprüngliche Fram – das Schiff von Fridtjof Nansen, das später Roald Amundsen für seine Antarktisexpedition nutzte – gelangte weiter nach Norden als jedes andere Schiff der überlieferten Geschichte und weiter nach Süden als jedes Holzschiff vor oder nach ihr. Heute steht sie in ihrem eigenen Museum in Oslo, bewahrt als Nationaldenkmal. Die MS Fram von HX Expeditions, das moderne Expeditionsschiff, das ihren Namen trägt, ist speziell für Polarreisen gebaut.
 
-Das Schiff wurde vom Kiel an für polare Bedingungen konstruiert. Sein Rumpf ist für die Fahrt durchs Eis verstärkt, seine Zodiac-Flotte landet an Küsten, die größere Schiffe nicht erreichen, und seine sechzehn Fachleute – Meeresbiologen, Glaziologen, Ornithologen, Historiker, Fotografen – bringen eine intellektuelle Tiefe mit, die eine Reise eher zu einem Feldkurs macht als zu einer herkömmlichen Kreuzfahrt. Vorträge im Theatersaal wechseln sich ab mit Zodiac-Ausflügen zu Gletscherfronten, Lebensräumen der Eisbären, Walrossstränden und Vogelfelsen, an denen Tausende Krabbentaucher und Papageitaucher lärmen.
+Mit Platz für 200 Gäste führt die MS Fram den Geist des legendären norwegischen Forschungsschiffs fort, das einst unter Nansen durch das arktische Eis driftete. Im Zentrum des Schiffs liegt das Science Centre, in dem Gäste Vorträgen folgen, Proben unter leistungsstarken Mikroskopen untersuchen und den Vorträgen des Expeditionsteams lauschen.
 
-Spitzbergen, der norwegische Archipel auf 78 Grad nördlicher Breite, ist das wichtigste Sommerziel. Rund 3.000 Eisbären leben auf der Inselgruppe – mehr Bären als Menschen in Longyearbyen –, und Begegnungen sind eine echte Wahrscheinlichkeit, fest in die Expeditionsroute eingeplant, statt eines Werbeversprechens mit Sternchen. Polarfüchse, Spitzbergen-Rentiere, Belugawale und die Kolonien Atlantischer Walrosse, die sich im Spätsommer an abgelegenen Stränden versammeln, gehören zu den regelmäßigen Sichtungen, denen die Naturkundler auf jeder Reise nachspüren.
+Spitzbergen, der norwegische Archipel auf 78 Grad nördlicher Breite, ist eine von mehreren Routen, die HX Expeditions anbietet; das Schiff fährt auch andere Ziele an. Prüfen Sie daher die Route der Reise, die Sie buchen.
 
-Am Bug der MS Fram zu stehen, während sie in der Mitternachtssonne durch das Packeis gleitet – das Licht flach und golden, die Eisberge in Farben von blassem Türkis bis tiefem Kobaltblau –, beschreiben die meisten Reisenden als ein Erlebnis, das mit nichts vergleichbar ist, was sie je getan haben. Die Abgeschiedenheit hier ist echt. Das ist keine Freizeitpark-Version der Wildnis mit einem Sicherheitsnetz gleich hinter der Bühne.
+Die MS Fram ist eine Schiffsreise und kein Aufenthalt an einem festen Ort: Alle Kabinen und Suiten befinden sich an Bord, und die Route entscheidet, wo Sie jeden Morgen aufwachen.
 
-Die Kabinen reichen von praktischen Doppelkabinen bis zu Panoramasuiten, alle auf die Anforderungen von Polarreisen ausgelegt: solider Stauraum, warme Materialien und Fenster, die groß genug sind, um das arktische Licht richtig zu nutzen. Im Speisesaal wird norwegische Küche mit arktischen Zutaten serviert – Königskrabbe, Rentier, Seesaibling und Desserts aus Moltebeeren, die zu den reinsten Genüssen gehören, die die norwegische Landschaft hervorbringt.
+Die Unterkünfte reichen von Polar-Innen- und Polar-Außenkabinen über Arctic-Superior-Kabinen bis zu Expeditionssuiten, einige mit privatem Balkon. Das Restaurant Aune ist der Hauptspeisesaal, in dem alle Mahlzeiten inbegriffen sind; das Restaurant Lindstrøm ist ein Spezialitätenrestaurant, für Suitengäste inklusive und für andere gegen Aufpreis. Dazu kommen zwei Außen-Whirlpools, eine Sauna auf dem obersten Deck, ein Fitnessraum auf Deck 7 und die nach vorn gerichtete Explorer Lounge & Bar.

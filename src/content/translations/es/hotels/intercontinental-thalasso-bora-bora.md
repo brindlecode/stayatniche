@@ -1,9 +1,9 @@
 ---
 source: intercontinental-thalasso-bora-bora
 destination: "Bora Bora, islas de la Sociedad"
-description: "Resort de bungalós sobre el agua en el arrecife exterior de Bora Bora, con el primer sistema de climatización con agua de mar profunda de la hotelería: extrae agua fría de 900 metros bajo el Pacífico para refrigerar el complejo con una fracción de la energía de los sistemas convencionales. Las villas sobre el agua dan acceso directo a la laguna de Bora Bora, y el Deep Ocean Spa se alza suspendido sobre el propio arrecife."
+description: "Resort de bungalós sobre el agua en el arrecife exterior de Bora Bora, con villas sobre el agua que, según el resort, se refrigeran de forma sostenible con el océano. Las villas sobre el agua dan acceso directo a la laguna de Bora Bora, y el Deep Ocean Spa se alza suspendido sobre el propio arrecife."
 highlights:
-  - "El primer sistema de climatización con agua de mar profunda del mundo"
+  - "Villas sobre el agua refrigeradas de forma sostenible por el océano, según el resort"
   - "El aclamado Deep Ocean Spa, en el arrecife exterior"
   - "Villas sobre el agua con acceso directo a la laguna de Bora Bora"
   - "Snorkel excepcional desde las terrazas de las villas"
@@ -26,9 +26,9 @@ closure:
   note: "El resort cerró el 1 de junio de 2026 para una renovación completa. Su web no indica fecha de reapertura."
 ---
 
-El InterContinental Bora Bora Resort and Thalasso Spa ocupa la posición más expuesta y espectacular de todos los resorts sobre el agua de la isla. Se asienta en el propio arrecife exterior: Motu Piti Aau, un pequeño islote de coral en el extremo sur de la barrera de coral de Bora Bora. Desde aquí, la laguna se extiende hacia el norte en una panorámica que abarca toda la silueta de los montes Otemanu y Pahia alzándose en la isla principal, con un agua que pasa del casi turquesa al casi zafiro según el ángulo de la luz.
+El InterContinental Bora Bora Resort and Thalasso Spa se asienta en el propio arrecife exterior: Motu Piti Aau, un pequeño islote de coral en el extremo sur de la barrera de coral de Bora Bora. Desde aquí, la laguna se extiende hacia el norte en una panorámica que abarca toda la silueta de los montes Otemanu y Pahia alzándose en la isla principal, con un agua que pasa del casi turquesa al casi zafiro según el ángulo de la luz.
 
-La innovación más importante del resort es práctica más que arquitectónica: el sistema de climatización Deep Ocean Water extrae agua de mar fría de 900 metros bajo la superficie del Pacífico a través de una tubería de 3000 metros de longitud y la utiliza para refrigerar los edificios sin refrigeración convencional. El sistema reduce el consumo energético de la climatización en aproximadamente un 90 % y elimina los refrigerantes que necesita el aire acondicionado convencional: una contribución real a la sostenibilidad de un complejo que, de otro modo, supondría una gran carga energética en un remoto islote de coral. Para el huésped, la tecnología es totalmente invisible: las habitaciones están frescas y son cómodas, el mecanismo es silencioso y la única señal de su existencia es el agua algo más templada que se devuelve a la superficie del océano tras su uso.
+Según la web del resort, sus villas sobre el agua se refrigeran de forma sostenible con el océano, una discreta aportación a la sostenibilidad en un remoto islote de coral. Para el huésped, la tecnología es invisible: las habitaciones están frescas y son cómodas, y el mecanismo es silencioso.
 
 El Deep Ocean Spa está construido sobre el propio arrecife, con salas de tratamiento suspendidas sobre la laguna y piscinas de talasoterapia que utilizan agua de mar profunda, de riqueza mineral medible superior a la del agua de superficie. La carta de tratamientos combina técnicas tradicionales de masaje polinesio —piedras calientes, aceite de coco, rituales con flor de monoi— con enfoques contemporáneos de bienestar. El entorno, con la laguna visible bajo los paneles de cristal del suelo y el horizonte del Pacífico a través de las paredes abiertas, produce una calidad de silencio difícil de encontrar en ningún otro lugar.
 

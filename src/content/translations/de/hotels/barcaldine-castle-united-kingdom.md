@@ -1,9 +1,9 @@
 ---
 source: barcaldine-castle-united-kingdom
 destination: "Benderloch, nahe Oban, Argyll and Bute, Schottland"
-description: "Ein Wohnturm, erbaut zwischen 1601 und 1609 am Ufer des Loch Creran, nördlich von Oban, heute eine Frühstückspension, die sich auch exklusiv als Ganzes mieten lässt."
+description: "Ein Wohnturm aus dem frühen 17. Jahrhundert, bis 1609 fertiggestellt, am Ufer des Loch Creran, nördlich von Oban, heute eine Frühstückspension, die sich auch exklusiv als Ganzes mieten lässt."
 highlights:
-  - "Das „Black Castle“, erbaut 1601 bis 1609 von Sir Duncan Campbell of Glenorchy"
+  - "Das „Black Castle“, von Sir Duncan Campbell of Glenorchy erbaut und bis 1609 fertiggestellt"
   - "Mauern rund neun Fuß dick, zwei geheime Treppen und ein Verlies"
   - "Das originale eiserne Yett, ein Schutzgitter, bewacht noch immer den Eingang"
   - "Am Südufer des Loch Creran, mit Blick auf das Glencoe-Gebirge"
@@ -19,14 +19,14 @@ bestFor:
   - "Kleine Hochzeiten und private Feiern"
 seo:
   metaTitle: "Barcaldine Castle: Übernachten im Schloss | StayAtNiche"
-  metaDescription: "Barcaldine Castle am Loch Creran bei Oban: ein Wohnturm von 1601 bis 1609, als Frühstückspension buchbar oder komplett exklusiv gemietet, mit Hochzeiten."
+  metaDescription: "Barcaldine Castle am Loch Creran bei Oban: ein Wohnturm, bis 1609 fertiggestellt, als Frühstückspension buchbar oder komplett exklusiv gemietet, mit Hochzeiten."
 ---
 
 Barcaldine Castle ist ein kleiner schottischer Wohnturm, in dem man übernachten kann. Er steht am Südufer des Loch Creran, neun Meilen nördlich von Oban, und wird als Frühstückspension statt als Hotel betrieben: ein Zimmer mit Frühstück in einem Gebäude, das vier Jahrhunderte alt ist.
 
 ## Das Schloss
 
-Sir Duncan Campbell of Glenorchy, genannt Black Duncan, ließ das Schloss zwischen 1601 und 1609 als militärischen Stützpunkt errichten; bis heute heißt es „Black Castle“. Es folgt dem L-förmigen Grundriss, der für Wohntürme dieser Zeit typisch war. Die Mauern sind rund neun Fuß dick und aus lokalem Stein gebaut. Das Schloss besitzt zwei Geheimtreppen, ein Verlies und das originale Yett, das schmiedeeiserne Gitter, das die Tür schützte.
+Sir Duncan Campbell of Glenorchy, genannt Black Duncan, ließ das Schloss als militärischen Stützpunkt errichten und stellte es bis 1609 fertig (die Seiten des Schlosses nennen als Baubeginn auf einer Seite 1590, auf einer anderen 1601); bis heute heißt es „Black Castle“. Es folgt dem L-förmigen Grundriss, der für Wohntürme dieser Zeit typisch war. Die Mauern sind rund neun Fuß dick und aus lokalem Stein gebaut. Das Schloss besitzt zwei Geheimtreppen, ein Verlies und das originale Yett, das schmiedeeiserne Gitter, das die Tür schützte.
 
 Die Campbells of Barcaldine zogen 1735 in ein neues Herrenhaus im Dorf, und das Schloss verfiel, bis Sir Duncan Campbell es zwischen 1897 und 1906 restaurierte. Das äußere Mauerwerk ist original; die Türmchen und das Innere ab dem großen Saal aufwärts stammen von dieser Restaurierung. Die Familie verkaufte das Schloss 2009 an den heutigen Eigentümer.
 

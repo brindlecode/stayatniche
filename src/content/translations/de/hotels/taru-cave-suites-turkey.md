@@ -24,7 +24,7 @@ seo:
   metaDescription: "Taru Cave Suites in Ürgüp: Boutique-Höhlenzimmer mit Restaurant und Bar, kostenlosem Parkplatz und Frühstück, Ballonfahrten und 24-Stunden-Rezeption."
 ---
 
-Taru Cave Suites ist ein Boutique-Höhlenhotel in Ürgüp, das laut Hotel Eleganz, Authentizität und moderne Ausstattung verbindet. Die Zimmer werden als „elegant gestaltete Höhlenzimmer“ beschrieben. Das Höhlenambiente gilt also für den gesamten Aufenthalt.
+Taru Cave Suites ist ein Boutique-Höhlenhotel in Ürgüp, das laut Hotel Eleganz, Authentizität und moderne Ausstattung verbindet. Die Zimmer werden als „elegant gestaltete Höhlenzimmer“ beschrieben; die Website sagt nicht, wie sie gebaut sind oder wie viele Zimmer es gibt.
 
 ## Die Zimmer
 

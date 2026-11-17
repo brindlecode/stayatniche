@@ -1,9 +1,9 @@
 ---
 source: okonjima-bush-camp-namibia
 destination: "Naturreservat Okonjima, Otjiwarongo"
-description: "Ein traditionelles Safari-Camp im 22.000 Hektar großen Naturreservat Okonjima in Namibia, mit geführten Pirschfahrten, Wanderungen zu Fuß und Leopardenspurensuche."
+description: "Das Luxury Bush Camp, eine von fünf Unterkunftsoptionen im 22.000 Hektar großen Naturreservat Okonjima in Namibia, mit geführten Pirschfahrten, Wanderungen zu Fuß und Leopardenspurensuche."
 highlights:
-  - "Safarikamp in einem 22.000 Hektar großen Privatreservat"
+  - "Luxury Bush Camp in einem 22.000 Hektar großen Privatreservat"
   - "Leopardenspuren verfolgen"
   - "Geführte Naturwanderungen zu Fuß"
   - "Sundowner in der Akazien-Dornsavanne"
@@ -17,7 +17,7 @@ seo:
   metaDescription: "Okonjima Bush Camp im 22.000 Hektar großen Naturreservat in Namibia: Pirschfahrten, Leopardenspuren und Sundowner zwischen Windhoek und Etosha."
 ---
 
-Das Okonjima Bush Camp ist das traditionelle Safari-Camp im Okonjima Nature Reserve, einem 22.000 Hektar großen Privatreservat in Namibia am Fuß der Omboroko-Berge, zwischen Windhoek und dem Etosha-Nationalpark. Okonjima ist in Familienbesitz und bietet fünf verschiedene Unterkunftsformen. Das Bush Camp ist diejenige, die ganz auf das klassische Safari-Ambiente setzt.
+Okonjimas Luxury Bush Camp (hier als Okonjima Bush Camp geführt) ist eine der Unterkunftsoptionen im Okonjima Nature Reserve, einem 22.000 Hektar großen Privatreservat in Namibia am Fuß der Omboroko-Berge, zwischen Windhoek und dem Etosha-Nationalpark. Okonjima ist in Familienbesitz und bietet fünf verschiedene Unterkunftsformen. Das Luxury Bush Camp hat acht reetgedeckte Chalets und eine Junior Suite.
 
 ## Das Reservat
 
@@ -33,4 +33,4 @@ Okonjima liegt 2,5 Autostunden von Windhoek entfernt oder eine Stunde im Flugzeu
 
 ## Die richtige Unterkunft wählen
 
-Da das Reservat fünf Unterkunftsarten anbietet, sollten Sie gezielt das Bush Camp buchen, wenn Sie das traditionelle Safari-Camp-Ambiente suchen. Das Reservat liegt zwischen Windhoek und dem Etosha-Nationalpark und passt daher gut in eine längere Namibia-Reise. Die AfriCat Foundation betreibt seit 1992 Forschung und Naturschutz im Reservat. Erkundigen Sie sich beim Reservat, welche Aktivitäten an Ihren Reisetagen inbegriffen sind.
+Da das Reservat fünf Unterkunftsarten anbietet, sollten Sie gezielt das Luxury Bush Camp buchen, wenn Sie die reetgedeckten Chalets möchten. Das Reservat liegt zwischen Windhoek und dem Etosha-Nationalpark und passt daher gut in eine längere Namibia-Reise. Die AfriCat Foundation betreibt seit 1992 Forschung und Naturschutz im Reservat. Erkundigen Sie sich beim Reservat, welche Aktivitäten an Ihren Reisetagen inbegriffen sind.

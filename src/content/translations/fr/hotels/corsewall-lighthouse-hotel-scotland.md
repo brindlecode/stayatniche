@@ -1,11 +1,11 @@
 ---
 source: corsewall-lighthouse-hotel-scotland
 destination: "Kirkcolm, Dumfries and Galloway"
-description: "Phare en activité sur la côte des Rhins of Galloway, en Écosse : onze chambres, dont six dans les anciens logements des gardiens."
+description: "Hôtel de onze chambres sur le site d’un phare automatisé de la côte des Rhins of Galloway, en Écosse, dont six dans les anciens logements des gardiens."
 highlights:
   - "Onze chambres réparties entre les anciens logements des gardiens et d’autres bâtiments du domaine"
   - "Six chambres dans les logements d’origine des gardiens, baptisées Fulmar, Galloway, Ailsa, Dunskirkloch, Mull of Kintyre et Firth of Cromarty"
-  - "Phare en activité sur la côte écossaise, avec vue sur la mer"
+  - "Chambres sur le site d’un phare automatisé de la côte écossaise, avec vue sur la mer"
   - "Restaurant de l’hôtel sur place"
 amenities:
   - "Restaurant"
@@ -17,11 +17,11 @@ bestFor:
   - "Petits groupes"
 seo:
   metaTitle: "Dormir dans un phare Corsewall en Écosse | StayAtNiche"
-  metaDescription: "Corsewall Lighthouse Hotel à Kirkcolm : onze chambres, dont six dans les anciens logements des gardiens d’un phare en activité sur la côte écossaise."
+  metaDescription: "Corsewall Lighthouse Hotel à Kirkcolm : onze chambres, dont six dans les anciens logements des gardiens d’un phare automatisé de la côte écossaise."
 niche_feature: "Six des 11 chambres (Fulmar, Galloway, Ailsa, Dunskirkloch, Mull of Kintyre, Firth of Cromarty) se trouvent dans les logements d'origine des gardiens du phare ; deux suites et les Stevenson Rooms occupent des bâtiments modernes distincts."
 ---
 
-Corsewall Lighthouse Hotel est un phare en activité sur la côte écossaise, et seule une partie de l’ensemble est le phare à proprement parler. L’hôtel compte onze chambres au total, réparties entre les anciens logements des gardiens et d’autres bâtiments du domaine : le séjour est donc intime plutôt que fastueux. L’établissement affirme avoir été remarqué par The Times et The Guardian, et son slogan le présente comme le séjour côtier le plus remarquable d’Écosse.
+Corsewall Lighthouse Hotel se trouve sur le site d’un phare de la côte sud-ouest de l’Écosse, automatisé depuis 1994 et surveillé par le Northern Lighthouse Board, et seule une partie de l’hôtel occupe les bâtiments d’origine du phare. L’hôtel compte onze chambres au total, réparties entre les anciens logements des gardiens et d’autres bâtiments du domaine : le séjour est donc intime plutôt que fastueux. L’établissement affirme avoir été remarqué par The Times et The Guardian, et son slogan le présente comme le séjour côtier le plus remarquable d’Écosse.
 
 ## Les chambres
 

@@ -1,9 +1,9 @@
 ---
 source: royal-cliff-hotels-group-thailand
 destination: "Pattaya"
-description: "Eine Gruppe aus vier Fünf-Sterne-Hotels auf einem 64 Acres großen Anwesen auf einer Klippe in Pattaya. Das Beach Terrace ist eine niedrig gebaute Resortanlage, die in den Hang eingebettet ist, mit 89 Suiten mit direktem Zugang zum Strand."
+description: "Eine Gruppe aus vier Fünf-Sterne-Hotels auf einem 64 Acres großen Anwesen mit Blick auf den Golf von Thailand in Pattaya. Das Beach Terrace ist eine niedrig gebaute Resortanlage, die in den Hang eingebettet ist, mit 89 Suiten mit direktem Zugang zum Strand."
 highlights:
-  - "Vier Hotels auf einem 64 Acres großen Anwesen über dem Golf von Thailand"
+  - "Vier Hotels auf einem 64 Acres großen Anwesen mit Blick auf den Golf von Thailand"
   - "Royal Cliff Beach Terrace: niedrig gebaute Anlage am Hang"
   - "89 Suiten mit Zugang zum Strand im Beach Terrace"
   - "Infinity-Pool mit Meerblick"

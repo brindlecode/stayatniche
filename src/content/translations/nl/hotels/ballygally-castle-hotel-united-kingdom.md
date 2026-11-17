@@ -1,7 +1,7 @@
 ---
 source: ballygally-castle-hotel-united-kingdom
 destination: "Ballygally, graafschap Antrim, Noord-Ierland"
-description: "Een viersterrenhotel rond een kasteel uit 1625 aan de kust van Antrim, met 54 kamers, waarvan een handvol in de oorspronkelijke toren boven de baai."
+description: "Een viersterrenhotel rond een kasteel uit 1625 aan de kust van Antrim, met 54 kamers, waarvan een aantal in het oorspronkelijke kasteelgebouw boven de baai."
 highlights:
   - "Kasteel uit 1625, met uitzicht op de baai van Ballygally en de Ierse Zee"
   - "Torenkamers in de oorspronkelijke toren uit de 17e eeuw"
@@ -23,7 +23,7 @@ bestFor:
   - "Gezinnen"
 seo:
   metaTitle: "Ballygally Castle Hotel: kasteelhotel Antrim | StayAtNiche"
-  metaDescription: "Ballygally Castle Hotel aan de kust van Antrim: een kasteel uit 1625 met 54 kamers, waarvan een handvol in de oorspronkelijke toren boven de baai."
+  metaDescription: "Ballygally Castle Hotel aan de kust van Antrim: een kasteel uit 1625 met 54 kamers, waarvan een aantal in het oorspronkelijke kasteelgebouw boven de baai."
 niche_feature: "Kasteelhotel uit de 17e eeuw; de Tower Bedrooms liggen in het oorspronkelijke kasteelgebouw, terwijl het hotel in totaal 54 slaapkamers heeft. De bron noemt niet hoeveel kamers in het kasteel liggen."
 ---
 
@@ -35,7 +35,7 @@ Het oude deel is een rechthoekige toren in de Schotse baroniale stijl: vier verd
 
 ## Kamers
 
-Het hotel heeft 54 kamers. De meeste zitten in latere aanbouwen, waaronder de Coastal Deluxe-kamers uit 2014, die recht over de baai uitkijken. Superior-kamers kijken uit op de ommuurde tuinen. Kom je voor het kasteel zelf, boek dan een van de weinige Tower Bedrooms, die in het oorspronkelijke gebouw uit de 17e eeuw liggen. Helemaal boven, in een van de torentjes, is de „spookkamer”, waarvan wordt gezegd dat het de slaapkamer van Lady Isabella Shaw was. Haar geest hoort bij het verhaal van het kasteel. Verder zijn er Junior Suites, familie- en verbindingskamers, en twee volledig toegankelijke kamers met wetroom.
+Het hotel heeft 54 kamers. De Coastal Deluxe-kamers hebben een panoramisch uitzicht over de baai. Superior-kamers kijken uit op de ommuurde tuinen. Kom je voor het kasteel zelf, boek dan een van de Tower Bedrooms, die in het oorspronkelijke kasteelgebouw uit de 17e eeuw liggen. Helemaal boven, in een van de torentjes, is de „spookkamer”, waarvan wordt gezegd dat het de slaapkamer van Lady Isabella Shaw was. Haar geest hoort bij het verhaal van het kasteel. Verder zijn er Junior Suites, familie- en verbindingskamers, en twee volledig toegankelijke kamers met wetroom.
 
 ## Omgeving
 
@@ -43,4 +43,4 @@ Ballygally ligt aan de Causeway Coastal Route, dus het hotel is een goede uitval
 
 ## Praktische informatie
 
-Inchecken kan vanaf 16.00 uur en uitchecken moet vóór 11.00 uur. Slechts enkele kamers zitten in de oude toren, dus vraag bij het boeken uitdrukkelijk naar een Tower Bedroom.
+Inchecken kan vanaf 16.00 uur en uitchecken moet vóór 11.00 uur. De Tower Bedrooms zitten in het oude kasteel, dus vraag bij het boeken uitdrukkelijk naar een Tower Bedroom.

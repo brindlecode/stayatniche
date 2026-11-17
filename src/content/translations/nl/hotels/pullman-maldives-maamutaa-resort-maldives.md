@@ -1,9 +1,9 @@
 ---
 source: pullman-maldives-maamutaa-resort-maldives
 destination: "Maamutaa-eiland, Gaafu Alifu-atol"
-description: "Alleen de Aqua Villas van dit eilandresort hebben een slaapkamer onder water; de rest van het resort bestaat uit gewone strandvilla's en overwatervilla's. Elke Aqua Villa combineert een ondergedompelde slaapkamer met een slaapkamer boven het water op de bovenverdieping."
+description: "Alleen de twee Aqua Villas van dit eilandresort hebben een slaapkamer onder water; de rest van het resort bestaat uit gewone strandvilla's en overwatervilla's. Elke Aqua Villa combineert een ondergedompelde slaapkamer met een slaapkamer boven het water op de bovenverdieping."
 highlights:
-  - "Aqua Villas hebben een ondergedompelde slaapkamer onder de lagune, met uitzicht op het zeeleven"
+  - "De twee Aqua Villas hebben een ondergedompelde slaapkamer onder de lagune, met uitzicht op het zeeleven"
   - "Aqua Villa op twee niveaus van 209 vierkante meter, met een slaapkamer boven het water en een groot zwembad met privéterras"
   - "Alle andere accommodaties zijn strandvilla's of overwatervilla's zonder onderwaterkamer"
   - "Privé-eiland met 18 hectare begroeiing en 122 villa's"
@@ -24,7 +24,7 @@ seo:
 niche_feature: "Alleen de Aqua Villas (twee, volgens het resort met 2 onderwaterslaapkamers) hebben een ondergedompelde hoofdslaapkamer onder de lagune plus een slaapkamer boven water; de andere villa's van de 122 zijn strand- of overwatervilla's."
 ---
 
-Alleen de Aqua Villas van het Pullman Maldives Maamutaa hebben een slaapkamer onder water. De rest van het resort bestaat uit gewone strandvilla's en overwatervilla's zonder ondergedompelde kamer. Wie de onderwaternacht wil, boekt dus specifiek een Aqua Villa.
+Alleen de twee Aqua Villas van het Pullman Maldives Maamutaa hebben een slaapkamer onder water. De rest van het resort bestaat uit gewone strandvilla's en overwatervilla's zonder ondergedompelde kamer. Wie de onderwaternacht wil, boekt dus specifiek een Aqua Villa.
 
 ## De Aqua Villa
 
