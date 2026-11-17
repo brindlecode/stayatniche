@@ -21,7 +21,7 @@
     "status": "not_found",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "not_found: No property page; Aldourie Castle only mentioned in passing (spa mention, cruise sight) in Loch Ness guide texts. Not shown as a bookable Expedia hotel in results."
+    "note": "not_found: Two searches: no property page. Only other Loch Ness/Inverness/Dores hotels returned. Possibly not sold on Expedia but results did not show that definitively."
   },
   "alila-jabal-akhdar-oman": {
     "status": "confirmed",
@@ -81,7 +81,7 @@
     "status": "not_found",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "not_found: No property named 'Anantara Sir Bani Yas Island Safari Resort' appeared. Results showed other Sir Bani Yas properties (Anantara Al Sahel Villa Resort h6609874, Al Yamm Villa Resort h4989080, Desert Islands Resort & Spa by Anantara h2039941) but names differ and could not be matched to this hotel, so not mapped."
+    "note": "not_found: Two searches: no property named 'Anantara Sir Bani Yas Island Safari Resort'. Results showed other Anantara properties on the island: Anantara Sir Bani Yas Island Al Yamm Villa Resort (h4989080, https://expedia.com/Western-Abu-Dhabi-Emirate-Hotels-Anantara-Sir-Bani-Yas-Island-Al-Yamm-Villa-Resort.h4989080.Hotel-Reviews), Al Sahel Villa Resort and Desert Islands Resort & Spa. These are d"
   },
   "andbeyond-benguerra-island-mozambique": {
     "status": "confirmed",
@@ -96,13 +96,13 @@
     "status": "not_found",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "not_found: Only Ngorongoro area/list pages and other lodges (Ngorongoro Lodge Melia, Serena Safari Lodge, etc.). No .Hotel-Information page for the &Beyond lodge."
+    "note": "not_found: Only area/list pages and other lodges (Ngorongoro Lodge Melia h89635698, Lemala Ngorongoro, Tented Camp, etc.). Answer text said Expedia area guides mention the lodge in passing; no Hotel-Information page returned."
   },
   "andbeyond-phinda-south-africa": {
     "status": "not_found",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "not_found: Only a lodge-level page appeared: 'andBeyond Phinda Forest Lodge' (https://www.expedia.com/Hluhluwe-Hotels-AndBeyond-Phinda-Forest-Lodge.h48519844.Hotel-Information). Not the same entry as the reserve as a whole, so not accepted; parent may consider if the site entry is really the Forest Lodge. One search only."
+    "note": "not_found: Only a lodge-level page (andBeyond Phinda Forest Lodge, id h48519844) exists; no page for the reserve as a whole. Not the same entry as 'Phinda Private Game Reserve', so not mapped."
   },
   "archipelago-igloos-finland": {
     "status": "not_found",
@@ -114,7 +114,7 @@
     "status": "not_found",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "not_found: No Arctic Bath property page found. Only Tree Hotel (Harads, h7749094; different property) appeared. A Luleå guide blurb mentions Arctic Bath floating saunas but no hotel page. Not shown as sold on Expedia per results."
+    "note": "not_found: Only mention is in Expedia's Luleå guide text (floating saunas); no hotel page. Only Tree Hotel (h7749094) and other properties returned."
   },
   "arctic-guesthouse-and-igloos-finland": {
     "status": "confirmed",
@@ -189,7 +189,7 @@
     "status": "not_found",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "not_found: Only Banwell guide page (photo credit mentions the castle) and The Old Cow Shed (different property). No Banwell Castle page."
+    "note": "not_found: Only The Old Cow Shed (h78632823, Banwell, different property), Banwell guide page, unrelated Castle Hotels elsewhere."
   },
   "barahi-jungle-lodge-nepal": {
     "status": "confirmed",
@@ -249,7 +249,7 @@
     "status": "not_found",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "not_found: No Belle Tout listing; only Eastbourne area pages and unrelated properties (e.g. The New England). Belle Tout mentioned only in passing in another property's description."
+    "note": "not_found: Two searches: no Belle Tout listing; only Eastbourne area pages, unrelated hotels, and passing mentions of Belle Tout in other pages (a cottage description, a tour activity)."
   },
   "belmond-royal-scotsman": {
     "status": "not_found",
@@ -270,7 +270,7 @@
     "status": "not_found",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "not_found: Expedia Musanze guide text mentions 'eco-friendly Bisate Lodge' in passing, but no Hotel-Information page for it appeared in either search."
+    "note": "not_found: Two searches: no Hotel-Information page for Bisate; only Rwanda/Musanze/Kinigi/Volcanoes National Park list pages."
   },
   "bora-bora-nui-resort": {
     "status": "confirmed",
@@ -285,7 +285,7 @@
     "status": "not_found",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "not_found: No .Hotel-Information page for this hotel appeared. Search text said the name appears only in directory lists under Montefalco and Petrignano, unverified. Only one query run."
+    "note": "not_found: No .Hotel-Information page returned. Search answer text said the name appears in Expedia 'List of all Properties' pages for Montefalco and Petrignano, which I did not verify; no property page seen."
   },
   "bubbletent-australia": {
     "status": "not_found",
@@ -303,13 +303,13 @@
     "status": "not_found",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "not_found: Two queries (Solitaire, Sossusvlei); only Solitaire/Sesriem area guides, tours and generic Desert Camp mentions. No Bushman's Desert Camp property page. Not shown as bookable on Expedia per results."
+    "note": "not_found: No Bushman's Desert Camp page; only Solitaire/Sesriem guides, tours, and a differently named 'Desert Camp' near Sesriem (not matched)."
   },
   "campi-ya-kanzi-kenya": {
     "status": "not_found",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "not_found: Answer text said Expedia lists Campi Ya Kanzi as a tentalow at Chyulu Hills, Mtito Andei, Tsavo (rating 3.5), but no Hotel-Information URL for it appeared in the results of either search, so no URL can be confirmed. Possibly sold on Expedia; unverified."
+    "note": "not_found: Appears to be on Expedia per answer text (Taita-Taveta County glamping page) but no .Hotel-Information URL was returned in either search; Expedia location (Mtito Andei/Tsavo) differs from Kajiado. Not mapped."
   },
   "cappadocia-cave-suites-turkey": {
     "status": "confirmed",
@@ -342,7 +342,7 @@
     "status": "not_found",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "not_found: Casamassella and Uggiano la Chiesa guide/list pages returned, but no property named Castello di Casamassella. Aia Grande (Uggiano la Chiesa) is a different property."
+    "note": "not_found: Two searches: Casamassella and Uggiano la Chiesa guide/list pages and nearby properties (Aia Grande, La Filanda) only; no property named Castello di Casamassella."
   },
   "castello-di-fagnano-albergo-diffuso-italy": {
     "status": "not_found",
@@ -477,20 +477,20 @@
     "status": "unconfirmed",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "unconfirmed: Id h564176 did not appear in either search (2 searches, allowed_domains expedia.com); only Rangali Island list/guide pages returned. Answer text says Expedia describes the Muraka as an underwater suite within Conrad Maldives Rangali Island resort, so Muraka looks like a villa in that resort rather than its own property; existing URL names the resort, not Muraka. Keep existingUrl, not ",
+    "note": "mismatch: Same id h564176 IS on expedia.com, but the page is the whole resort 'Conrad Maldives Rangali Island', not 'Conrad Maldives Muraka'. Expedia's underwater-hotels page (https://www.expedia.com/lp/b/underwater) describes the Muraka as a two-floor underwater suite at this resort, so Muraka has no own property page in results; the id is the parent resort. Not a name match, so not confirmed as ",
     "removedUrl": "https://www.expedia.com/Rangali-Island-Hotels-Conrad-Maldives-Rangali-Island.h564176.Hotel-Information"
   },
   "corsewall-lighthouse-hotel-scotland": {
     "status": "not_found",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "not_found: Answer text of both queries described Expedia pages for the hotel (address Corsewall Point, Stranraer), but no Corsewall Lighthouse Hotel .Hotel-Information URL appeared in result links; only 'Corsewall Castle Farm Lodges' h26992983 (different property). No URL accepted."
+    "note": "not_found: Two searches: the hotel evidently exists on Expedia (answer text quotes ratings and reviews), but no .Hotel-Information URL for it appeared in result links. A different property 'Corsewall Castle Farm Lodges' (h26992983) did appear; not the same hotel."
   },
   "cristalino-lodge-brazil": {
     "status": "not_found",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "not_found: Only Alta Floresta/Mato Grosso guide pages and other hotels (Hotel Mandino, Hotel Mato Grosso) appeared. No Cristalino Lodge page."
+    "note": "not_found: Only Alta Floresta/Mato Grosso guide pages and other hotels (Hotel Mandino, Hotel Mato Grosso) appeared; no Cristalino Lodge page."
   },
   "cuevas-la-granja-spain": {
     "status": "confirmed",
@@ -532,7 +532,7 @@
     "status": "unconfirmed",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "unconfirmed: Id h178901 not seen in any returned URL (only Coober Pedy list/filter pages). Keep existingUrl, not confirmed.",
+    "note": "unconfirmed: Id h178901 with name Desert Cave Hotel and Coober Pedy shown only on sister sites (wotif.com, travelocity.ca, ebookers, lastminute.com.au), never on an expedia.com URL in either search (extended query returned only Coober Pedy list pages, though answer text described Desert Cave Hotel on Expedia pages without giving a URL). Strong corroboration but not confirmed on expedia.com per bri",
     "removedUrl": "https://www.expedia.com/Coober-Pedy-Hotels-Desert-Cave-Hotel.h178901.Hotel-Information"
   },
   "desert-luxury-camp-morocco": {
@@ -563,7 +563,7 @@
     "status": "not_found",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "not_found: Only candidate was 'Unique Victorian mansion house with period details - 14 bedrooms. (Castle)' h21685675 in Arbroath, which does not name Ethie Castle; not accepted."
+    "note": "not_found: Only Inverkeilor/Arbroath list pages, 'Unique Victorian mansion house ... (Castle)' h21685675 (does not name Ethie Castle, rejected), and unrelated Castle Hotels."
   },
   "ferienwaggons-zittauer-schmalspurbahn-germany": {
     "status": "not_found",
@@ -575,7 +575,7 @@
     "status": "not_found",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "not_found: Two searches (Feynan Ecolodge Wadi Feynan Jordan Expedia hotel; Feynan Ecolodge Jordan Expedia), both with allowed_domains expedia.com, returned no .h<digits>.Hotel-Information page for Feynan. Other results were Jordan country/list pages and unrelated properties (Jordan EcoPark, Beauraing Ecolodge). No claim that it is absent from Expedia."
+    "note": "not_found: Two searches: no Hotel-Information page; only Dana/Dana Biosphere Reserve guide pages, Rummana Camp (different property)."
   },
   "floating-seahorse-dubai": {
     "status": "not_found",
@@ -587,7 +587,7 @@
     "status": "not_found",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "not_found: Hotel appears to be sold on Expedia (per answer text) but no .h<digits>.Hotel-Information URL was returned, so no mapping. Not constructing a URL."
+    "note": "not_found: Hotel is evidently listed on Expedia per answer text (9.4/10, 5-star) but neither search returned its .Hotel-Information URL; only Pitlochry list pages. Not constructing a URL."
   },
   "four-seasons-maldives-landaa": {
     "status": "confirmed",
@@ -602,7 +602,7 @@
     "status": "not_found",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "not_found: Only Qualicum Beach area pages and other properties returned. One search only; not evidence it is absent."
+    "note": "not_found: Only Qualicum Beach/Bay area pages and other properties (Qualicum Bay Resort h12350047, Qualicum Beach Inn). Not evidence of absence."
   },
   "fyrgaarden-denmark": {
     "status": "not_found",
@@ -653,7 +653,7 @@
     "status": "not_found",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "not_found: Answer text said no dedicated Expedia page found; it appears only in directory/attraction mentions. Similar names (Guacamaya Lodge, Cuyabeno Lodge) are different properties."
+    "note": "not_found: Two searches: the name is listed in directory/attraction pages, but no Hotel-Information page URL returned. Guacamaya Lodge (h8412009) is a different property (coast), Cuyabeno Lodge and Piranha EcoLodge are different."
   },
   "halong-bay-indochina-sails": {
     "status": "confirmed",
@@ -749,7 +749,7 @@
     "status": "not_found",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "not_found: No page for 'Canopy Treehouse'. Other Inkaterra properties appeared (Reserva Amazonica h894833, Hacienda Concepcion h15470957, Amazon Field Station h23160039); different names so not mapped."
+    "note": "not_found: Other Inkaterra properties only (Reserva Amazonica h894833, Hacienda Concepcion h15470957, Amazon Field Station h23160039, Machu Picchu Pueblo, etc.); no Canopy Treehouse page."
   },
   "inkaterra-machu-picchu": {
     "status": "confirmed",
@@ -791,7 +791,7 @@
     "status": "not_found",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "not_found: Two searches: no .Hotel-Information page for Jao Camp. Results were only Okavango Delta / Jao Island / Botswana guide pages. Not confirmed as sold on Expedia; possibly absent or listed under another name."
+    "note": "not_found: Two searches returned only Okavango Delta/Maun/Botswana guide pages and unrelated lodges; no Jao Camp page. Not evidence it is absent from Expedia."
   },
   "jules-undersea-lodge-florida": {
     "status": "not_found",
@@ -803,7 +803,7 @@
     "status": "not_found",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "not_found: No Juvet page in either search; only Valldal/Norddal guide pages and other hotels appeared."
+    "note": "not_found: Only Valldal/Norddal/Tafjord guide pages and other properties; no Juvet page."
   },
   "kakslauttanen-finland": {
     "status": "confirmed",
@@ -866,14 +866,14 @@
     "status": "unconfirmed",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "unconfirmed: id h1447895 never appeared on any returned expedia.com URL (results were only Cabo Matapalo, Osa Peninsula, Puerto Jimenez, Corcovado list/guide pages). existingUrl is kept but not confirmed.",
+    "note": "unconfirmed: Same id h1447895 and name 'Lapa Rios Lodge' returned only on non-.com Expedia locales and Travelocity/Wotif, never on an expedia.com URL in either search, so not confirmed under the expedia.com-only rule. Keep existingUrl but do not claim confirmed (strong corroboration that id belongs to Lapa Rios Lodge, Puerto Jimenez). Search 1 (extended, expedia.com only) returned only Osa Peninsu",
     "removedUrl": "https://www.expedia.com/Puerto-Jimenez-Hotels-Lapa-Rios-Lodge.h1447895.Hotel-Information"
   },
   "lindesnes-lighthouse-norway": {
     "status": "not_found",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "not_found: No hotel by this name; only Lindesnes/Spangereid/Mandal guide pages returned. Answer text mentions Lindesnes Havhotell and Mandal Hotel as other properties (not accepted)."
+    "note": "not_found: No hotel by this name; only Lindesnes/Spangereid/Mandal pages. Answer text names Lindesnes Havhotell (different property, not accepted)."
   },
   "locanda-al-castello-italy": {
     "status": "not_found",
@@ -885,7 +885,7 @@
     "status": "unconfirmed",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "mismatch: Same id h2602780 as existingUrl IS on expedia.com, but its title is the reserve-level listing 'Londolozi Private Game Reserve' (12 rooms, Relais & Chateaux per answer text), not 'Varty Camp'. Expedia's Londolozi hotels page names Londolozi Camp and Londolozi Tree Camp. No Varty Camp page was found in two searches. Location matches, name does not, so not confirmed as Varty Camp; reviewer ",
+    "note": "mismatch: Same id h2602780 shows on expedia.com (result URL had a ?kword=... tracking suffix, removed here), but the title is reserve-level 'Londolozi Private Game Reserve' (12 rooms, Relais & Chateaux per answer text), not Varty Camp. Answer text said no dedicated Varty Camp listing was found. Name does not match.",
     "removedUrl": "https://www.expedia.com/Kruger-National-Park-Hotels-Londolozi-Private-Game-Reserve.h2602780.Hotel-Information"
   },
   "longitude-131-australia": {
@@ -910,7 +910,7 @@
     "status": "not_found",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "not_found: No property with this name returned; only other Santa Teresa lodges (Llactapata Lodge, Santuario Machupicchu, etc.)."
+    "note": "not_found: Two searches: only other Santa Teresa lodges (Llactapata Lodge, Eco Quechua Lodge, Eco Lodge Restaurant Araplay, etc.) and a Machu Picchu Pueblo property 'Eco Machu Picchu Pueblo'; none is Machupicchu Ecolodge."
   },
   "majakkahotelli-finland": {
     "status": "not_found",
@@ -928,7 +928,7 @@
     "status": "not_found",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "not_found: One search; no .h<digits>.Hotel-Information URL for Manta Resort in results. Not evidence that it is absent from Expedia."
+    "note": "not_found: Two searches: Expedia Pemba Island guide text mentions the Manta Resort and its underwater room, but no .Hotel-Information page for it appeared (only Pemba Island guide/list pages, Manta Beach attraction page)."
   },
   "mashpi-lodge-ecuador": {
     "status": "confirmed",
@@ -970,7 +970,7 @@
     "status": "not_found",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "not_found: No property page; Expedia Misool Barat guide text describes Misool Eco Resort as a dive resort but no Hotel-Information URL appeared."
+    "note": "not_found: Two searches: guide/list pages only (Misool Barat, Raja Ampat); the guide text does not list it among bookable hotels. Probably not sold on Expedia but not proven."
   },
   "ms-fram-norway": {
     "status": "not_found",
@@ -1048,7 +1048,7 @@
     "status": "not_found",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "not_found: Two searches with allowed_domains expedia.com. Nothing showing Okonjima Bush Camp as a bookable Expedia property."
+    "note": "not_found: Two searches: only other Otjiwarongo properties (Out of Africa Town Lodge, Village Boutique Hotel etc.) and an Okonjima Nature Reserve tour mention. No Okonjima property page. Probably not sold on Expedia per results, but not proven."
   },
   "ostsee-baumhaushotel-germany": {
     "status": "not_found",
@@ -1141,7 +1141,7 @@
     "status": "unconfirmed",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "unconfirmed: Id h4962810 did not appear in either query (name query and URL query); results were other Maasai Mara camps only. Keep existingUrl in report as unconfirmed.",
+    "note": "unconfirmed: Id h4962810 not seen anywhere in results. URL query returned only non-Expedia sites about Rekero Camp (siyabona, safari.com, etc.). Keep existingUrl, not confirmed.",
     "removedUrl": "https://www.expedia.com/Masai-Mara-Hotels-Rekero-Camp-All-Inclusive.h4962810.Hotel-Information"
   },
   "revembulle-france": {
@@ -1154,7 +1154,7 @@
     "status": "not_found",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "not_found: No Robles listing in results. Only 'Treehouse Lodge in Saquena' (h11781590) appeared; Saquena is not shown as Manu/Madre de Dios, so rejected. One search only."
+    "note": "not_found: Only 'Treehouse Lodge in Saquena' h11781590 (location not shown as Manu, rejected) and unrelated treehouses."
   },
   "romantic-cave-hotel-turkey": {
     "status": "confirmed",
@@ -1175,7 +1175,7 @@
     "status": "unconfirmed",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "mismatch: existingUrl id h10024248 confirmed on expedia.com (https://www.expedia.com/Pattaya-Hotels-Royal-Cliff-Beach-Terrace-Hotel.h10024248.Hotel-Information) but it is the single property Royal Cliff Beach Terrace Hotel Pattaya, not an entity named 'Royal Cliff Hotels Group'. First search also indicated separate Expedia listings for Royal Cliff Beach Hotel Pattaya and Royal Cliff Grand Hotel Pa",
+    "note": "mismatch: id h10024248 is on expedia.com but is the single property 'Royal Cliff Beach Terrace Hotel Pattaya', not the 'Royal Cliff Hotels Group' entry. Expedia also lists separate properties Royal Cliff Beach Hotel Pattaya and Royal Cliff Grand Hotel Pattaya (first query); no group-level page. A group cannot be mapped to one property page.",
     "removedUrl": "https://www.expedia.com/Pattaya-Hotels-Royal-Cliff-Beach-Terrace-Hotel.h10024248.Hotel-Information"
   },
   "safari-desert-camp-oman": {
@@ -1212,7 +1212,7 @@
     "status": "not_found",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "not_found: No property page. Answer text said Scargill Castle appears only in area directory pages (All-Durham-Hotels, All-Brough-Sowerby-Hotels, All-Gayle-Hotels) listed as 'Scargill, Co. Durham, Barnard Castle, Yorkshire'; no .Hotel-Information URL seen."
+    "note": "not_found: Two searches: name appears only in area directory pages, no Hotel-Information page URL returned. Other Barnard Castle properties returned (different)."
   },
   "schloss-hotel-korb-italy": {
     "status": "confirmed",
@@ -1227,7 +1227,7 @@
     "status": "not_found",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "not_found: Only 3 results, all different properties: Hotel Wehrburg in Cuxhaven (h7020352, Germany), Schloss Hotel Wasserburg, Wasserschloss Westerburg. None in South Tyrol."
+    "note": "not_found: Only Hotel Wehrburg in Cuxhaven, Germany (h7020352, different) and area guides (Foiana, Tesimo). No South Tyrol property found."
   },
   "schwimmendes-haus-partwitzer-see-germany": {
     "status": "not_found",
@@ -1284,7 +1284,7 @@
     "status": "not_found",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "not_found: Expedia pages seen were individual lodges (Singita Sasakwa Lodge h10984974, 'Singita Faru Faru'/'Serengeti House' URLs whose content was other properties); none is the Singita Grumeti brand/reserve page itself, so not mapped. Sasakwa Lodge is a separate named property."
+    "note": "not_found: Returned individual Singita lodges only: Singita Sasakwa Lodge h10984974, 'Singita Faru Faru Lodge' h5217591 URL (content was other property), Singita Serengeti House h10984975. None is the Singita Grumeti brand; not mapped."
   },
   "singita-lebombo-south-africa": {
     "status": "confirmed",
@@ -1302,23 +1302,25 @@
     "note": "not_found: Only general Sitka hotel pages and other properties (Totem Square, Golden Alaskan Lodge etc.) returned; no Sitka Lighthouse property page."
   },
   "six-senses-shaharut-israel": {
-    "status": "unconfirmed",
-    "method": "web-search-title-location",
+    "status": "confirmed",
+    "method": "web-search-url-id-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "unconfirmed: Id h49021083 not seen in any returned expedia.com URL (only Hevel Eilot/Yahel/Elifaz/Ovda guide pages came back). Keep existingUrl, not confirmed.",
-    "removedUrl": "https://www.expedia.com/Hevel-Eilot-Hotels-Six-Senses-Shaharut.h49021083.Hotel-Information"
+    "url": "https://www.expedia.com/Hevel-Eilot-Hotels-Six-Senses-Shaharut.h49021083.Hotel-Information",
+    "expediaTitle": "Six Senses Shaharut Reviews, Deals & Photos 2026 - Expedia.com",
+    "evidence": "URL segment Hevel-Eilot; answer text: listed under Shaharut in Hevel Eilot, Arava Valley, Negev; near Hai-Bar Nature Reserve",
+    "notes": "Id h49021083 matches existingUrl exactly; name matches exactly."
   },
   "skylodge-peru": {
     "status": "not_found",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "not_found: Closest was 'Vertical Sky Suites' h70547062 in Ollantaytambo, whose result text does not say it is Skylodge Adventure Suites; not accepted. 'Skylodge Resort' is in Coron (different)."
+    "note": "not_found: Skylodge Resort h25089212 is in Coron, Philippines (different). Answer text in first search mentioned 'Vertical Sky Suites' in Urubamba Province without a URL or confirmation it is Skylodge; not accepted."
   },
   "snowcastle-kemi-finland": {
     "status": "unconfirmed",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "unconfirmed: Id h21218479 not seen in returned URLs. Name on Expedia per text is SnowHotel of Kemi, differing from SnowCastle of Kemi. Keep existingUrl, not confirmed. Related expedia.com pages: Kemi-Snow-Castle-Kemi.d6163464 attraction, SnowExperience365 attraction.",
+    "note": "unconfirmed: Id h21218479 appears only on other Expedia locale domains and sister sites, not on an expedia.com URL. Expedia's name is 'SnowHotel of Kemi' (LumiLinnankatu 15), whereas our name is 'SnowCastle of Kemi'; the answer text said it was unclear whether these are the same. Keep existingUrl, not confirmed; name check not clearly met.",
     "removedUrl": "https://www.expedia.com/Kemi-Hotels-SnowHotel-Of-Kemi.h21218479.Hotel-Information"
   },
   "snowhotel-kirkenes-norway": {
@@ -1382,7 +1384,7 @@
     "status": "not_found",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "not_found: No hotel page. Only an attraction page 'The Garrison and Star Castle' (d553248622647988823, Vacation-Attraction) and area guides, which do not count. Not confirmed as sold on Expedia."
+    "note": "not_found: Only the attraction page The Garrison and Star Castle (Vacation-Attraction) and St Mary's/Hugh Town guides appeared; no hotel page. Expedia shows other St Mary's hotels (The Atlantic, Appletree) but not Star Castle Hotel."
   },
   "stf-berguddens-fyrvaktarbostader-sweden": {
     "status": "not_found",
@@ -1433,7 +1435,7 @@
     "status": "unconfirmed",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "unconfirmed: Same id h481675 as existingUrl returned on expedia.com and location matches Taunton, but Expedia title is 'The Castle at Taunton', not exactly 'The Castle Hotel'; per the strict name rule not claimed as confirmed. Answer text also said Expedia lists a separate 'The Castle Hotel' (pub-style, no address seen), so name ambiguity exists. Parent should decide whether 'The Castle at Taunton",
+    "note": "unconfirmed: Same id h481675 as existingUrl returned on expedia.com with location matching Taunton, but the Expedia title is 'The Castle at Taunton', not 'The Castle Hotel'; text said no listing under the exact name 'The Castle Hotel' was found. Left unconfirmed under the strict name rule; likely the same property, so the caller may decide to accept it manually.",
     "removedUrl": "https://www.expedia.com/Taunton-Hotels-The-Castle-At-Taunton.h481675.Hotel-Information"
   },
   "the-dune-camp-botswana": {
@@ -1485,7 +1487,7 @@
     "status": "not_found",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "not_found: Torrisdale Castle appears only as a filter label/nearby name on Machrihanish/Saddell pages; no property page."
+    "note": "not_found: Torrisdale Castle appeared only as a nearby-attraction mention (Saddell Castle page) and a filter label on the Machrihanish Beach hotels page; no property page."
   },
   "train-station-inn-canada": {
     "status": "not_found",
@@ -1518,13 +1520,13 @@
     "status": "not_found",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "not_found: No Treehouse Point listing in results; only Issaquah city/hotel pages. One search only."
+    "note": "not_found: Two searches: no Treehouse Point property page; only Issaquah/Fall City list pages and unrelated treehouse rentals elsewhere in Washington. Note the answer text suggested the real location is Fall City, near Issaquah (from the model's memory, not the results)."
   },
   "tulloch-castle-hotel-united-kingdom": {
     "status": "unconfirmed",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "unconfirmed: Id h1636459 not seen in returned expedia.com URLs (only Dingwall guide/list pages returned). Keep existingUrl, not confirmed.",
+    "note": "unconfirmed: Id h1636459 never appeared in result URLs across 2 searches (only Dingwall/Highland/Black Isle guide and list pages). Keep existingUrl but it is not confirmed.",
     "removedUrl": "https://www.expedia.com/Dingwall-Hotels-Tulloch-Castle-Hotel.h1636459.Hotel-Information"
   },
   "tyr-graig-castle-united-kingdom": {
@@ -1558,7 +1560,7 @@
     "status": "not_found",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "not_found: Only Västerås hotels (Steam Hotel, Hotell Västerås etc.); no Utter Inn. One search only; not evidence it is absent."
+    "note": "not_found: Only other Västerås hotels (Steam Hotel, Hotell Västerås, Elite Stadshotellet) and area pages; no Utter Inn. One search only; not evidence it is absent."
   },
   "vagony-na-horach-czechia": {
     "status": "not_found",
@@ -1615,7 +1617,7 @@
     "status": "not_found",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "not_found: No Davison's Camp listing; other Hwange/Dete lodges returned (The Hide Safari Camp, Khulu Lodge, Gwango Heritage Resort)."
+    "note": "not_found: Two searches: no Davison's Camp listing; other Hwange/Dete properties returned (Hwange Safari Lodge, The Hide Safari Camp, Hwange National Park Guest House, Gwango Heritage Resort, Ivory Lodge)."
   },
   "wolkensteiner-zughotel-germany": {
     "status": "not_found",
