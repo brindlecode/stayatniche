@@ -28,7 +28,7 @@ bestFor:
   - "Photographers"
   - "Adventurers"
 bookingUrl: https://www.booking.com/
-rating: 9.2
+rating: 7.4
 coordinates:
   lat: 78.2200
   lng: 15.6500

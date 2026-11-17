@@ -48,6 +48,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Lindesnes Fyr: apartamento en el faro | StayAtNiche"
   metaDescription: "Lindesnes, el faro más antiguo de Noruega, en el extremo sur del continente. Sin hotel: un apartamento vacacional en la antigua casa del ayudante y un museo."
+niche_note: "El faro de Lindesnes no tiene hotel: el alojamiento es un apartamento vacacional en la mitad de la antigua casa del ayudante del farero. En la otra mitad vive el farero de guardia."
 ---
 
 Lindesnes marca el punto más meridional de la Noruega continental. El 27 de febrero de 1656 se encendió aquí la primera luz de faro de Noruega, a la entrada del Skagerrak, aunque se apagó ese mismo otoño tras las quejas por su mala luz; aun así, se considera que la estación se fundó en 1656. La torre actual, de hierro fundido y 16,1 metros de altura, data de 1915, cuando se trasladó a ella la lente de la torre antigua; la estación adquirió su forma actual en 1920, con una nueva sala de máquinas y una instalación de señales de niebla.

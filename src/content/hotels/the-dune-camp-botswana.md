@@ -17,7 +17,7 @@ bestFor:
   - "Safari game viewing"
   - "Cultural travellers"
   - "Couples"
-bookingUrl: "https://www.expedia.com/Hotel-Search?destination=The%20Dune%20Camp%2C%20Deception%20Valley%20Private%20Reserve&adults=2"
+bookingUrl: "https://www.bushways.com/our-lodges/the-dune-camp/"
 rating: 8.5
 coordinates:
   lat: -20.9643415

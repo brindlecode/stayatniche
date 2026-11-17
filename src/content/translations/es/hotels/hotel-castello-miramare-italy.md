@@ -21,6 +21,7 @@ bestFor:
 seo:
   metaTitle: "Hotel Castello Miramare en Pegli, Génova | StayAtNiche"
   metaDescription: "Hotel Castello Miramare en Pegli: hotel de 3 estrellas en un antiguo castillo junto a la playa, con habitaciones con vistas al mar y ferri a Génova."
+niche_note: "El Castello Miramare no es un castillo medieval: según la web del hotel, se alza sobre los cimientos de un fortín medieval y se transformó después en una villa neogótica con torre; el castillo se data hacia 1880."
 ---
 
 El Hotel Castello Miramare es un hotel de 3 estrellas en el paseo marítimo de Pegli, barrio a pocos kilómetros del centro de Génova. Los huéspedes se alojan en un antiguo castillo que ha conservado su ambiente y parte de su estructura arquitectónica, con la playa justo enfrente. Según la página de historia del hotel, el edificio se levanta sobre los cimientos de un fortín medieval y fue transformado después en una villa neogótica con torre; el Castello Chiozza, como se le conocía, se construyó hacia 1880.

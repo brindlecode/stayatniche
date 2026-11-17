@@ -20,7 +20,7 @@ bestFor:
   - "Wildlife lovers"
   - "Adventurous travellers"
   - "Small groups"
-bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Robles%20Treehouse%20Lodge%2C%20Manu&adults=2"
+bookingUrl: "https://www.manurainforestperu.com/robles-tree-house.php"
 rating: 8.3
 coordinates:
   lat: -12.6313907

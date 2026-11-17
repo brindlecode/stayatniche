@@ -21,7 +21,7 @@ bestFor:
   - "Romantic breaks"
   - "Weddings"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Banwell%20Castle%2C%20Banwell&adults=2"
-rating: 7.6
+rating: 5.9
 coordinates:
   lat: 51.3237629
   lng: -2.8602148

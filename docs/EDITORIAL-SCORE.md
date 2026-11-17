@@ -27,8 +27,18 @@ average of anything. The site labels it "editorial score" in all six languages, 
 The score is a judgement on documented facts, not on price, popularity, affiliate commission or
 guest reviews. Commission never changes a score.
 
+## How Practicality is counted (scripts/rescore.mjs)
+For stays recalculated by the script the third question is counted from the page itself, so anyone can
+reproduce it: +1 a working booking route (a `bookingUrl`, and the stay is not temporarily closed),
++1 season stated (`seasonalInfo.bestTime`), +0.5 check-in/out times stated, +0.5 how to get there stated in
+the text (airport, drive, transfer, ferry, distance...). Maximum 3. Setting and Stay stay editor judgements;
+the editor's inputs and one-line reasons are in `data/audit-niche/score-inputs.json`, the result of every
+step in `data/audit-niche/score-recalc.json`.
+
 ## Existing scores
 
 Scores written before 2026-11-17 were editorial judgements without a written rubric. They were kept
-as they were and only **lowered to the ceiling** of their `niche_scope`; they were not re-scored. New
+as they were and only **lowered to the ceiling** of their `niche_scope`, except the 20 stays whose score had
+no support in any source (listed in `data/audit-niche/score-inputs.json`): those were **recalculated by the
+steps above on 2026-11-17** and now carry whatever the rule gives. New
 and updated pages follow the steps above.

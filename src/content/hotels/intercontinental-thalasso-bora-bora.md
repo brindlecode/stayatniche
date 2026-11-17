@@ -28,7 +28,7 @@ bestFor:
   - "Honeymooners"
   - "Environmental sustainability enthusiasts"
 bookingUrl: https://www.booking.com/hotel/pf/intercontinental-bora-bora-resort-thalasso-spa.html
-rating: 9.3
+rating: 6.3
 coordinates:
   lat: -16.505202
   lng: -151.701447
