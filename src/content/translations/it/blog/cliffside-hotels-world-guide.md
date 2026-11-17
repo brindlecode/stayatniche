@@ -1,13 +1,13 @@
 ---
 source: cliffside-hotels-world-guide
-title: "Hotel a strapiombo: gli alloggi con la posizione più spettacolare del mondo"
-excerpt: "Dal bordo della caldera di Santorini alle terrazze vertiginose della Costiera Amalfitana: scopri gli hotel a strapiombo più spettacolari del mondo, dove ogni vista è uno spettacolo."
+title: "Hotel a strapiombo: alloggi in posizioni spettacolari in tutto il mondo"
+excerpt: "Dal bordo della caldera di Santorini alle terrazze vertiginose della Costiera Amalfitana: scopri hotel a strapiombo spettacolari, dove ogni vista è uno spettacolo."
 seo:
-  metaTitle: "Hotel a strapiombo più belli del mondo | StayAtNiche"
-  metaDescription: "Gli hotel a strapiombo più spettacolari del mondo, da Santorini alla Costiera Amalfitana: viste da vertigine, piscine a sfioro e architetture indimenticabili."
+  metaTitle: "Hotel a strapiombo: posizioni spettacolari | StayAtNiche"
+  metaDescription: "Hotel a strapiombo spettacolari, da Santorini alla Costiera Amalfitana: viste da vertigine, piscine a sfioro e architetture indimenticabili."
 ---
 
-Un hotel a strapiombo fa una cosa che nessun’altra categoria di alloggio sa fare: ti porta sul bordo estremo della terraferma, con tutto che precipita sotto di te. Mare, valle o deserto in basso; cielo in alto; l’orizzonte ininterrotto. Le strutture migliori hanno capito da decenni che la vista non è un servizio accessorio: è il prodotto. Tutto il resto (la cucina, la piscina, il servizio) viene dopo.
+Un hotel a strapiombo fa una cosa che nessun’altra categoria di alloggio sa fare: ti porta sul bordo estremo della terraferma, con tutto che precipita sotto di te. Mare, valle o deserto in basso; cielo in alto; l’orizzonte ininterrotto. Le strutture di punta hanno capito da decenni che la vista non è un servizio accessorio: è il prodotto. Tutto il resto (la cucina, la piscina, il servizio) viene dopo.
 
 Piscine a sfioro che si fondono con il mare; pareti interamente di vetro che cancellano il confine tra camera e paesaggio; terrazze sul ciglio della scogliera dove ceni davanti a un tramonto che sembra teatrale perché lo è davvero: i migliori hotel a strapiombo del mondo si riconoscono da un’architettura che asseconda la posizione invece di farle concorrenza.
 
@@ -33,7 +33,7 @@ Grace è stato tra i primi hotel di Santorini ad attirare l’attenzione dei med
 **Ideale per:** coppie, fotografi, chi dà più valore a posizione e vista che alle dimensioni della camera
 
 
-Tra gli hotel di lusso più antichi e celebrati di Santorini, Katikies occupa una posizione privilegiata sulla caldera a Oia e ha tre piscine sulla parete della scogliera visibili dal basso, un elemento architettonico distintivo comparso in innumerevoli servizi delle riviste di viaggio. Le 27 camere e suite sono arredate una per una con un raffinato mix di tradizione cicladica e design contemporaneo; il wine bar Chateau Nico custodisce la più ampia collezione al mondo di vini di Santorini.
+Tra gli hotel di lusso più antichi e celebrati di Santorini, Katikies occupa una posizione privilegiata sulla caldera a Oia e ha tre piscine sulla parete della scogliera visibili dal basso, un elemento architettonico distintivo comparso in innumerevoli servizi delle riviste di viaggio. Le 27 camere e suite sono arredate una per una con un raffinato mix di tradizione cicladica e design contemporaneo; il wine bar Chateau Nico custodisce un’ampia collezione di vini di Santorini.
 
 **Fascia di prezzo:** camere da 500 € a notte
 **Ideale per:** appassionati di vino, coppie, chi vuole l’indirizzo storico più celebre di Oia
@@ -44,7 +44,7 @@ Tra gli hotel di lusso più antichi e celebrati di Santorini, Katikies occupa un
 La Costiera Amalfitana unisce la spettacolarità delle scogliere a una delle più grandi concentrazioni al mondo di cultura, cucina e bellezza naturale. I 50 chilometri di costa tra Positano e Salerno, paesaggio culturale Patrimonio dell’Umanità UNESCO, scendono dalla cresta dei Monti Lattari direttamente nel Tirreno, con gli antichi borghi di pescatori di Positano, Amalfi e Ravello aggrappati alla roccia a diverse altezze.
 
 
-In una villa del XII secolo sulle scogliere sopra Ravello, a 350 metri sul mare, nel paese più alto della costiera, Palazzo Avino è tra i migliori hotel costieri d’Italia. L’ex palazzo privato è diventato hotel nel 1997; le 43 camere e suite conservano un’atmosfera aristocratica fatta di soffitti affrescati, arredi antichi e opere d’arte scelte con cura. La terrazza della piscina e il ristorante abbracciano tutta la costa da Amalfi a Capri, e il ristorante stellato Michelin Pink Sapphire è il miglior indirizzo gastronomico della costiera.
+In una villa del XII secolo sulle scogliere sopra Ravello, a 350 metri sul mare, nel paese più alto della costiera, Palazzo Avino è tra i migliori hotel costieri d’Italia. L’ex palazzo privato è diventato hotel nel 1997; le 43 camere e suite conservano un’atmosfera aristocratica fatta di soffitti affrescati, arredi antichi e opere d’arte scelte con cura. La terrazza della piscina e il ristorante abbracciano tutta la costa da Amalfi a Capri, e il ristorante stellato Michelin Pink Sapphire è un indirizzo gastronomico di rilievo della costiera.
 
 **Fascia di prezzo:** camere Deluxe da 600 € a notte; suite sulla parete della scogliera da 1.500 € a notte
 **Ideale per:** buongustai, coppie che festeggiano un traguardo, chi vuole il miglior indirizzo della Costiera Amalfitana
@@ -108,7 +108,7 @@ Dentro la città murata di Cartagena, Casa San Agustin collega tre dimore coloni
 La posizione spettacolare che rende straordinari gli hotel a strapiombo può mettere in difficoltà gli ospiti che soffrono di vertigini. Quasi tutte le strutture offrono camere a distanze diverse dal ciglio; chiedere una camera meno esposta, pur godendo di vista e atmosfera, è una richiesta ragionevole che la maggior parte degli hotel accoglie volentieri.
 
 
-Molti dei migliori hotel a strapiombo del mondo comportano parecchie scale: la posizione sulla parete, che rende la vista straordinaria, di solito rende impossibile un accesso in piano. Gli hotel sul bordo della caldera di Santorini possono avere decine di gradini; le strutture della Costiera Amalfitana richiedono spesso salite ripide. Tienine conto se hai problemi di mobilità: molte strutture hanno ascensori limitati, e anche quelle che li hanno spesso non servono tutte le categorie di camera.
+Molti hotel a strapiombo comportano parecchie scale: la posizione sulla parete, che rende la vista straordinaria, di solito rende impossibile un accesso in piano. Gli hotel sul bordo della caldera di Santorini possono avere decine di gradini; le strutture della Costiera Amalfitana richiedono spesso salite ripide. Tienine conto se hai problemi di mobilità: molte strutture hanno ascensori limitati, e anche quelle che li hanno spesso non servono tutte le categorie di camera.
 
 
 Gli hotel a strapiombo offrono occasioni fotografiche eccezionali, ma pongono sfide specifiche:

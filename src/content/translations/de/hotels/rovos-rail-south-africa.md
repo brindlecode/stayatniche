@@ -1,9 +1,9 @@
 ---
 source: rovos-rail-south-africa
 destination: "Von Pretoria nach Kapstadt (und weiter)"
-description: "Rovos Rail gilt weithin als luxuriösester Zug der Welt: Privat betriebene historische Wagen, jeder originalgetreu restauriert, rollen über die spektakulärsten Strecken des südlichen Afrikas. Die Fahrt von Pretoria nach Kapstadt durchquert die Karoo, das Epos vom Kap nach Kairo dauert zwei Wochen. Service und Komfort übertreffen die meisten Fünfsternehotels."
+description: "Rovos Rail ist ein privater Luxuszug: Privat betriebene historische Wagen, jeder originalgetreu restauriert, rollen über die spektakulärsten Strecken des südlichen Afrikas. Die Fahrt von Pretoria nach Kapstadt durchquert die Karoo, das Epos vom Kap nach Kairo dauert zwei Wochen. Service und Komfort stehen vielen Fünfsternehotels in nichts nach."
 highlights:
-  - "Weithin als luxuriösester Zug der Welt gefeiert"
+  - "Weithin als einer der großen Luxuszüge der Welt gefeiert"
   - "Vom Eigentümer selbst geführt – kein Konzernprodukt, sondern ein persönliches Herzensprojekt"
   - "Von Pretoria nach Kapstadt durch die Karoo, eine der großen Landschaften Afrikas"
   - "Aussichtswagen am Zugende für den Panoramablick unter freiem Himmel"
@@ -24,7 +24,7 @@ bestFor:
   - "Reisende, die Afrika in beschaulichem Tempo erleben möchten"
 prosAndCons:
   pros:
-    - "Der persönliche Service ist außergewöhnlich und wird oft als der beste auf Schienen bezeichnet"
+    - "Der persönliche Service ist außergewöhnlich und wird oft besonders gelobt"
     - "Der Aussichtswagen ist eines der großen Vergnügen des Reisens – Afrika von einer offenen Plattform aus"
     - "Die persönliche Eigentümerschaft sorgt für eine Wärme und einen Charakter, die kein Konzernzug bieten kann"
     - "Die Karoo und die Hex River Mountains gehören zu den schönsten Landschaften Südafrikas"
@@ -48,10 +48,10 @@ nearbyAttractions:
     distance: 50 km von Kapstadt
 seo:
   metaTitle: "Rovos Rail: Luxuszug Pretoria–Kapstadt | StayAtNiche"
-  metaDescription: "Rovos Rail: der luxuriöseste Zug der Welt, mit historischen Wagen von Pretoria durch die Karoo nach Kapstadt – offener Aussichtswagen, feine Küche, ab 2.800 $."
+  metaDescription: "Rovos Rail: ein Luxuszug mit historischen Wagen von Pretoria durch die Karoo nach Kapstadt – offener Aussichtswagen, feine Küche, ab 2.800 $."
 ---
 
-Rovos Rail ist kein Unternehmen im Sinne der meisten Luxusreiseanbieter. Es ist eine Leidenschaft, die auf Schienen rollt. Rohan Vos begann in den 1980er-Jahren als persönliches Projekt, historische Eisenbahnwagen zu erwerben und zu restaurieren – um die prächtigen Waggons aus dem goldenen Zeitalter der Eisenbahn im südlichen Afrika zu bewahren, die verschrottet wurden, als die Bahnnetze des Kontinents schrumpften. Was als Sammlerleidenschaft begann, ist in vierzig Jahren zum besten privat betriebenen Luxuszug der Welt geworden.
+Rovos Rail ist kein Unternehmen im Sinne der meisten Luxusreiseanbieter. Es ist eine Leidenschaft, die auf Schienen rollt. Rohan Vos begann in den 1980er-Jahren als persönliches Projekt, historische Eisenbahnwagen zu erwerben und zu restaurieren – um die prächtigen Waggons aus dem goldenen Zeitalter der Eisenbahn im südlichen Afrika zu bewahren, die verschrottet wurden, als die Bahnnetze des Kontinents schrumpften. Was als Sammlerleidenschaft begann, ist in vierzig Jahren zu einem der bekanntesten privat betriebenen Luxuszüge der Welt geworden.
 
 Die Wagen sind authentisch: viktorianische Waggons, die aus ihrem ursprünglichen Zweck umgebaut wurden, oder Schlafwagen aus dem frühen 20. Jahrhundert, gebaut für den Union Limited und andere prestigeträchtige Verbindungen aus der Eisenbahnzeit des Britischen Empire – jeder mit außergewöhnlicher Treue zu seinem historischen Charakter restauriert. Teakvertäfelung, Messingbeschläge, Originalfenster, die für Klimaanlage und Sicherheit angepasst wurden, und eigene Bäder dort, wo einst die Waschbecken der Wagons-Lits standen. Die Royal Suites – 16 Quadratmeter privates Abteil mit großem Bett, Sofa, Bad und Fenstern auf drei Seiten – bieten ein Maß an Raum und Privatsphäre, das kein vergleichbarer Zug erreicht.
 

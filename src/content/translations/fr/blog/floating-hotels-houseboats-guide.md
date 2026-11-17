@@ -4,7 +4,7 @@ title: "Hôtels flottants et maisons flottantes : le guide complet pour dormir
 excerpt: "Des maisons flottantes en bois sculpté du Cachemire aux hôtels des fjords arctiques de Norvège, découvrez des hébergements flottants extraordinaires."
 seo:
   metaTitle: "Hôtels flottants et maisons flottantes | StayAtNiche"
-  metaDescription: "Hôtels flottants et maisons flottantes, du Cachemire à la Norvège : notre guide pour dormir sur l'eau, bien au-delà des Maldives."
+  metaDescription: "Hôtels flottants et maisons flottantes, du Cachemire à la Norvège : notre guide pour dormir sur l'eau, bien au-delà des Maldives, avec prix et conseils."
 ---
 
 Dormir sur l'eau procure un repos d'une qualité particulière, qu'aucun hôtel à terre ne peut reproduire : le léger balancement, le clapotis contre la coque, la façon dont la lumière se comporte autrement quand elle rebondit sur une surface vivante. Les hôtels flottants et les maisons flottantes occupent une niche fascinante : ils sont, par définition, en dialogue permanent avec leur environnement.

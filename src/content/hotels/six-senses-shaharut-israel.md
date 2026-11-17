@@ -15,7 +15,7 @@ highlights:
   - Negev Desert plateau at 900m above sea level
   - Nabataean-inspired cliff architecture
   - UNESCO Incense Route heritage nearby
-  - World-class Six Senses spa
+  - Six Senses spa
   - Stargazing in internationally dark skies reserve
 amenities:
   - Six Senses spa
@@ -44,7 +44,7 @@ affiliateLinks:
     label: "Negev Tours on Klook"
 seo:
   metaTitle: "Six Senses Shaharut Review: Negev Desert Luxury Retreat | StayAtNiche"
-  metaDescription: "Six Senses Shaharut: 60 Nabataean-style villas on a Negev Desert plateau. UNESCO Incense Route, world-class spa, and internationally dark stargazing skies."
+  metaDescription: "Six Senses Shaharut: 60 Nabataean-style villas on a Negev Desert plateau. UNESCO Incense Route, Six Senses spa, and internationally dark stargazing skies."
 location:
   country: "Israel"
   countryCode: "IL"

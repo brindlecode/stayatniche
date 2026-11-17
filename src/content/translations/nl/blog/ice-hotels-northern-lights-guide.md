@@ -142,7 +142,7 @@ De meeste ijshotels geven gasten bij aankomst een briefing. De standaardprocedur
 
 IJsland heeft geen traditioneel ijshotel in Scandinavische zin, maar biedt wel een aantal troeven die het tot een aantrekkelijk alternatief maken voor reizen rond het noorderlicht:
 
-**The Retreat at Blue Lagoon** heeft geothermische baden waarin je om middernacht kunt weken terwijl boven je het noorderlicht danst: misschien wel de spectaculairste noorderlichtsetting ter wereld.
+**The Retreat at Blue Lagoon** heeft geothermische baden waarin je om middernacht kunt weken terwijl boven je het noorderlicht danst: een indrukwekkende noorderlichtsetting.
 
 **Ion Adventure Hotel** in Nesjavellir is speciaal ontworpen om naar het noorderlicht te kijken, met panoramaramen en de nabijheid van de donkere hemel van Nationaal Park Þingvellir.
 

@@ -1,9 +1,9 @@
 ---
 source: rovos-rail-south-africa
 destination: "Da Pretoria a Città del Capo (e oltre)"
-description: "Considerato da molti il treno più lussuoso del mondo, Rovos Rail fa viaggiare carrozze d'epoca di proprietà privata, ciascuna restaurata secondo le specifiche originali, lungo le rotte più spettacolari dell'Africa australe. Il viaggio da Pretoria a Città del Capo attraversa il Karoo; l'epopea dal Capo al Cairo dura due settimane. Servizio e comfort superano quelli della maggior parte degli hotel a cinque stelle."
+description: "Treno di lusso privato, Rovos Rail fa viaggiare carrozze d'epoca di proprietà privata, ciascuna restaurata secondo le specifiche originali, lungo le rotte più spettacolari dell'Africa australe. Il viaggio da Pretoria a Città del Capo attraversa il Karoo; l'epopea dal Capo al Cairo dura due settimane. Servizio e comfort reggono il confronto con quelli di molti hotel a cinque stelle."
 highlights:
-  - "Acclamato da molti come il treno più lussuoso del mondo"
+  - "Acclamato come uno dei grandi treni di lusso del mondo"
   - "Gestito direttamente dal proprietario: non un prodotto aziendale ma un progetto nato da una passione personale"
   - "Il viaggio da Pretoria a Città del Capo attraverso il Karoo, uno dei grandi paesaggi d'Africa"
   - "Carrozza panoramica in coda al treno per ammirare il paesaggio all'aria aperta"
@@ -24,7 +24,7 @@ bestFor:
   - "Viaggiatori che vogliono vivere l'Africa a un ritmo contemplativo"
 prosAndCons:
   pros:
-    - "Il livello di servizio e di attenzione personale è eccezionale, spesso citato come il migliore su qualsiasi treno"
+    - "Il livello di servizio e di attenzione personale è eccezionale, spesso elogiato dai passeggeri"
     - "La carrozza panoramica è uno dei grandi piaceri del viaggio: l'Africa vista da una piattaforma aperta"
     - "La gestione familiare di Rovos crea un calore e un carattere che nessun treno aziendale può replicare"
     - "Il paesaggio del Karoo e le Hex River Mountains sono tra i più belli del Sudafrica"
@@ -51,7 +51,7 @@ seo:
   metaDescription: "Rovos Rail: carrozze d'epoca da Pretoria a Città del Capo attraverso il Karoo, carrozza panoramica aperta, cucina eccellente e servizio impeccabile. Da 2.800 $."
 ---
 
-Rovos Rail non è un'azienda nel senso in cui lo è la maggior parte delle realtà del turismo di lusso. È una passione trasformata in materiale rotabile. Rohan Vos cominciò ad acquistare e restaurare carrozze ferroviarie d'epoca negli anni Ottanta come progetto personale, un modo per salvare le magnifiche vetture dell'età d'oro della ferrovia nell'Africa australe, che venivano rottamate man mano che le reti ferroviarie del continente si ridimensionavano. Quella che era nata come l'ossessione di un collezionista è diventata, in quarant'anni, il miglior treno di lusso a gestione privata del mondo.
+Rovos Rail non è un'azienda nel senso in cui lo è la maggior parte delle realtà del turismo di lusso. È una passione trasformata in materiale rotabile. Rohan Vos cominciò ad acquistare e restaurare carrozze ferroviarie d'epoca negli anni Ottanta come progetto personale, un modo per salvare le magnifiche vetture dell'età d'oro della ferrovia nell'Africa australe, che venivano rottamate man mano che le reti ferroviarie del continente si ridimensionavano. Quella che era nata come l'ossessione di un collezionista è diventata, in quarant'anni, uno dei treni di lusso a gestione privata più noti al mondo.
 
 Le carrozze sono autentiche: vetture di epoca vittoriana riconvertite dal loro uso originale, o vagoni letto dei primi del Novecento costruiti per l'Union Limited e altri servizi prestigiosi dell'era ferroviaria dell'Impero britannico, ciascuno restaurato con straordinaria fedeltà al carattere del suo tempo. Pannelli in teak, finiture in ottone, finestrini originali adattati per l'aria condizionata e la sicurezza, e bagni privati dove un tempo c'erano i lavabi dei wagon-lits. Le Royal Suite — 16 metri quadrati di scompartimento privato con letto di dimensioni normali, divano, bagno e finestrini su tre lati — offrono uno standard di spazio e privacy che nessun treno paragonabile può eguagliare.
 

@@ -1,10 +1,10 @@
 ---
 source: bubble-hotels-stargazing-guide
 title: "Bolle trasparenti e notti sotto le stelle: la guida completa per dormire a cielo aperto"
-excerpt: "Dalle bolle per l’aurora della Lapponia finlandese alle cupole tra i vigneti di Francia: scopri le bolle trasparenti più belle del mondo, pensate per guardare le stelle, l’aurora boreale e lasciarsi incantare."
+excerpt: "Dalle bolle per l’aurora della Lapponia finlandese alle cupole tra i vigneti di Francia: scopri bolle trasparenti da tutto il mondo, pensate per guardare le stelle, l’aurora boreale e lasciarsi incantare."
 seo:
   metaTitle: "Bolle trasparenti: dormire sotto le stelle | StayAtNiche"
-  metaDescription: "Le bolle trasparenti più belle del mondo, dagli igloo di vetro della Finlandia alle cupole tra i vigneti francesi e nel Wadi Rum: prezzi, stagioni e consigli."
+  metaDescription: "Bolle trasparenti, dagli igloo di vetro della Finlandia alle cupole tra i vigneti francesi e nel Wadi Rum: prezzi, stagioni e consigli per scegliere."
 ---
 
 L’idea di dormire sotto un cielo visibile, in un vero letto e al caldo, guardando la Via Lattea che si inarca sopra di te, ha dato vita a una delle categorie più originali e in più rapida crescita tra gli alloggi insoliti. Bolle trasparenti, capsule, cupole geodetiche e cabine con il tetto di vetro si sono moltiplicate in tutto il mondo nell’ultimo decennio, spinte da un desiderio preciso: vivere la natura in prima persona senza rinunciare al comfort.
@@ -19,7 +19,7 @@ Questa guida raccoglie le esperienze in bolla trasparente più belle del mondo, 
 La Finlandia è la culla delle bolle trasparenti. La sua posizione straordinaria all’interno della zona aurorale, dove l’aurora boreale compare nella maggior parte delle notti serene tra settembre e marzo, ha creato sia la domanda sia l’ispirazione per strutture trasparenti da cui guardare l’aurora direttamente dal letto.
 
 
-Il primo e più celebre hotel a bolle per l’aurora del mondo, il Kakslauttanen Resort, tra i fell finlandesi a sud di Saariselkä, ha inventato l’igloo di vetro nel 1999 ed è diventato un grande resort che riunisce igloo di vetro, cabine in legno, saune a fumo e safari con le renne. Gli igloo di vetro sono il cuore della struttura: unità trasparenti indipendenti con letto matrimoniale riscaldato, bagno e una pianta studiata per offrire a entrambi gli ospiti una vista libera sul cielo.
+Il primo hotel a bolle per l’aurora e uno dei più noti, il Kakslauttanen Resort, tra i fell finlandesi a sud di Saariselkä, ha inventato l’igloo di vetro nel 1999 ed è diventato un grande resort che riunisce igloo di vetro, cabine in legno, saune a fumo e safari con le renne. Gli igloo di vetro sono il cuore della struttura: unità trasparenti indipendenti con letto matrimoniale riscaldato, bagno e una pianta studiata per offrire a entrambi gli ospiti una vista libera sul cielo.
 
 Il resort si trova in un’area Dark Sky. Nelle notti serene la Via Lattea e l’aurora boreale si vedono con una nitidezza straordinaria. Il sistema di allarme aurora del resort sveglia gli ospiti addormentati quando compaiono le luci, se hanno chiesto di essere chiamati.
 

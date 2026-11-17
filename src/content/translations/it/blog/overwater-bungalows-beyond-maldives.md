@@ -1,10 +1,10 @@
 ---
 source: overwater-bungalows-beyond-maldives
-title: "Bungalow sull’acqua oltre le Maldive: i migliori soggiorni sull’acqua del mondo"
+title: "Bungalow sull’acqua oltre le Maldive: una selezione di soggiorni sull’acqua in tutto il mondo"
 excerpt: "Le Maldive hanno reso celebri i bungalow sull’acqua, ma Bora Bora, le Fiji, i Caraibi e altre mete offrono esperienze altrettanto straordinarie, a volte a una frazione del prezzo."
 seo:
   metaTitle: "Bungalow sull’acqua oltre le Maldive | StayAtNiche"
-  metaDescription: "I migliori bungalow sull’acqua oltre le Maldive: Bora Bora, Fiji, Caraibi, Indonesia e altre mete. Prezzi, qualità dello snorkeling e confronti onesti."
+  metaDescription: "Bungalow sull’acqua oltre le Maldive: Bora Bora, Fiji, Caraibi, Indonesia e altre mete. Prezzi, qualità dello snorkeling e confronti onesti."
 ---
 
 Sono state le Maldive a rendere famoso il bungalow sull’acqua, e le loro strutture migliori restano il riferimento della categoria. Ma una villa sull’acqua di alto livello in un grande resort maldiviano costa oggi in media 1.500–4.000 $ e oltre a notte, e la vivi in un paesaggio piatto, piuttosto monotono e limitato alle attività acquatiche. Per molti è proprio questo il bello. Per altri non basta.
@@ -84,7 +84,7 @@ Le ville sull’acqua sono splendide: piscine a sfioro, tetti di paglia molto sp
 ---
 
 
-Raja Ampat, nel Bird’s Head Seascape della Papua Occidentale, custodisce il 75% delle specie di corallo del mondo. Se il metro di giudizio è la biodiversità marina, niente in questa lista lo supera. Il Misool Eco Resort gode di una concessione privata su 300.000 acri di ambiente marino, con bungalow sull’acqua sospesi su sistemi di barriera che i sub esperti descrivono come i migliori mai visti.
+Raja Ampat, nel Bird’s Head Seascape della Papua Occidentale, custodisce il 75% delle specie di corallo del mondo. Se il metro di giudizio è la biodiversità marina, niente in questa lista lo supera. Il Misool Eco Resort gode di una concessione privata su 300.000 acri di ambiente marino, con bungalow sull’acqua sospesi su sistemi di barriera che i sub esperti apprezzano molto.
 
 Misool non è le Maldive. È un vero eco-resort, remoto e avventuroso, senza le finiture impeccabili del lusso. Immersioni e snorkeling sono tutto. Mante, squali balena, cavallucci marini pigmei, squali tappeto wobbegong e pesci di barriera in concentrazioni che sembrano inverosimili finché non sei in acqua.
 

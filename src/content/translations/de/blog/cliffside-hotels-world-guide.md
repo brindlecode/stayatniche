@@ -4,7 +4,7 @@ title: "Klippenhotels: spektakulär gelegene Unterkünfte rund um die Welt"
 excerpt: "Vom Kraterrand Santorins bis zu den schwindelerregenden Terrassen der Amalfiküste: Entdecken Sie spektakulär gelegene Klippenhotels, in denen jeder Ausblick ein Schauspiel ist."
 seo:
   metaTitle: "Klippenhotels: spektakuläre Lagen weltweit | StayAtNiche"
-  metaDescription: "Spektakuläre Klippenhotels von Santorin bis zur Amalfiküste. Schwindelerregende Ausblicke, Infinity-Pools und unvergessliche Architektur."
+  metaDescription: "Spektakuläre Klippenhotels von Santorin bis zur Amalfiküste. Schwindelerregende Ausblicke, Infinity-Pools, unvergessliche Architektur und Tipps zur Buchung."
 ---
 
 Ein Klippenhotel kann etwas, das keine andere Unterkunftskategorie vermag: Es stellt Sie an den tatsächlichen Rand des Landes, während unter Ihnen alles in die Tiefe stürzt. Meer, Tal oder Wüste darunter, der Himmel darüber, der Horizont ungebrochen. Führende Häuser haben seit Jahrzehnten verstanden, dass die Aussicht kein Ausstattungsmerkmal ist, sondern das eigentliche Produkt. Alles andere – Küche, Pool, Service – ist zweitrangig.

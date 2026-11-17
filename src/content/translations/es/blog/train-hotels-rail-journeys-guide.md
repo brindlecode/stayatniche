@@ -4,7 +4,7 @@ title: "Hoteles en trenes y viajes en tren de lujo: guía completa de trenes noc
 excerpt: "Del Orient Express al Rovos Rail de Sudáfrica, descubre hoteles en trenes extraordinarios, donde el viaje es el destino y cada kilómetro se convierte en un recuerdo."
 seo:
   metaTitle: "Hoteles en trenes y trenes de lujo: guía | StayAtNiche"
-  metaDescription: "Hoteles en trenes, del Orient Express al Rocky Mountaineer: trenes nocturnos de lujo, consejos de reserva y rutas ferroviarias icónicas."
+  metaDescription: "Hoteles en trenes, del Orient Express al Rocky Mountaineer: trenes nocturnos de lujo, precios, consejos de reserva y rutas ferroviarias icónicas."
 ---
 
 La locomotora fue la tecnología que definió el siglo XIX, y los grandes coches cama de la era Pullman transformaron el tren de largo recorrido en algo parecido a un hotel en movimiento: paneles de caoba, servicio de comedor con guantes blancos, sábanas impecables en literas estrechas pero cómodas y un paisaje desfilando tras la ventanilla que ninguna ventanilla de avión moderna puede igualar. El romanticismo del tren nunca se fue del todo; simplemente ha encontrado una nueva expresión en un pequeño número de operaciones ferroviarias de lujo verdaderamente extraordinarias que tratan el viaje no como un transporte, sino como el eje central de la experiencia.

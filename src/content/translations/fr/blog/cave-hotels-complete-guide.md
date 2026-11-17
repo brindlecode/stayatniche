@@ -4,7 +4,7 @@ title: "Hôtels troglodytes du monde entier : le guide ultime (où dormir et �
 excerpt: "Des suites taillées dans la roche de Cappadoce aux villes souterraines des mineurs d'opale australiens, le guide complet des hôtels troglodytes du monde, avec nos conseils de réservation."
 seo:
   metaTitle: "Hôtels troglodytes du monde : le guide | StayAtNiche"
-  metaDescription: "Des hôtels troglodytes de la Cappadoce à Matera et Coober Pedy : à quoi s'attendre, où réserver et nos conseils pour dormir dans la roche."
+  metaDescription: "Des hôtels troglodytes de la Cappadoce à Matera et Coober Pedy : à quoi s'attendre, où réserver et nos conseils pratiques pour dormir dans la roche."
 ---
 
 L'homme dort dans des grottes depuis quelque 300 000 ans. Pendant l'essentiel de cette période, c'était par nécessité. Aujourd'hui, certaines des chambres d'hôtel les plus raffinées du monde sont creusées directement dans la roche ancienne, avec à la clé une géologie spectaculaire, une régulation naturelle de la température et une atmosphère chargée d'histoire qu'aucune construction classique ne peut reproduire.

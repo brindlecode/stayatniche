@@ -19,18 +19,18 @@ amenities:
   - "Diepzeevissen en snorkeltochten"
   - "Bezoeken aan projecten van de Nihiwatu Foundation"
 bestFor:
-  - "Serieuze surfers die een rustige golf van wereldklasse voor zichzelf willen"
+  - "Serieuze surfers die een rustige golf voor zichzelf willen"
   - "Reizigers die naast luxe ook echt iets willen bijdragen"
   - "Stellen die volledige afzondering zoeken"
 prosAndCons:
   pros:
-    - "Occy's Left met maximaal tien surfers is iets wat je nergens anders in Indonesië vindt"
+    - "Occy's Left met maximaal tien surfers is een zeldzame kans op surfen zonder drukte in Indonesië"
     - "Sumba is cultureel en landschappelijk totaal anders dan de rest van Indonesië"
     - "De Nihiwatu Foundation geeft het verblijf echte ethische inhoud"
     - "Paardrijden op lege stranden is precies wat het belooft: uitzonderlijk"
   cons:
     - "Naar Sumba vlieg je via Bali of Lombok, wat de reistijd flink verlengt"
-    - "Met ruime voorsprong de duurste accommodatie van Indonesië"
+    - "Een van de duurste accommodaties van Indonesië"
     - "Door de afgelegen ligging is er buiten het resort weinig te doen"
     - "Surftoegang komt bovenop het toch al hoge kamertarief"
 seasonalInfo:

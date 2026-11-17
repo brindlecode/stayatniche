@@ -1,7 +1,7 @@
 ---
 source: venice-simplon-orient-express
 destination: "Van Londen naar Venetië (en verder)"
-description: "De Venice Simplon-Orient-Express, de beroemdste trein ter wereld, is een rijdend museum van art-decopracht uit de jaren twintig, met originele, gerestaureerde rijtuigen op de grote spoorroutes van Europa. Van Londen naar Venetië, van Parijs naar Istanbul of van de Zwitserse Alpen naar de Adriatische Zee: dit is reizen zoals in de gouden eeuw van het spoor, onthaast, prachtig en onvervangbaar."
+description: "De Venice Simplon-Orient-Express, een van de beroemdste treinen ter wereld, is een rijdend museum van art-decopracht uit de jaren twintig, met originele, gerestaureerde rijtuigen op de grote spoorroutes van Europa. Van Londen naar Venetië, van Parijs naar Istanbul of van de Zwitserse Alpen naar de Adriatische Zee: dit is reizen zoals in de gouden eeuw van het spoor, onthaast, prachtig en onvervangbaar."
 highlights:
   - "Originele Pullman- en wagons-litsrijtuigen uit de jaren twintig en dertig, liefdevol gerestaureerd"
   - "Route van Londen naar Venetië door de Zwitserse Alpen en langs de Italiaanse meren"

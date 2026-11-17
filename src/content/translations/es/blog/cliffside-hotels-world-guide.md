@@ -3,8 +3,8 @@ source: cliffside-hotels-world-guide
 title: "Hoteles en acantilados: alojamientos con ubicaciones espectaculares en todo el mundo"
 excerpt: "Del borde de la caldera de Santorini a las vertiginosas terrazas de la Costa Amalfitana, descubre hoteles en acantilados con ubicaciones espectaculares, donde cada vista es un espectáculo."
 seo:
-  metaTitle: "Hoteles en acantilados: ubicaciones espectaculares | StayAtNiche"
-  metaDescription: "Hoteles en acantilados en Santorini, la Costa Amalfitana, el Duero, Petra y Yangshuo, con precios, mejor época y consejos prácticos."
+  metaTitle: "Hoteles en acantilados: vistas espectaculares | StayAtNiche"
+  metaDescription: "Hoteles en acantilados en Santorini, la Costa Amalfitana, el Duero, Petra y Yangshuo, con precios, mejor época, vistas vertiginosas y consejos prácticos."
 ---
 
 Un hotel en un acantilado hace algo que ninguna otra categoría de alojamiento puede hacer: te sitúa en el borde mismo de la tierra, con todo desplomándose bajo tus pies. Mar, valle o desierto abajo; cielo arriba; el horizonte intacto. Los alojamientos de referencia entendieron hace décadas que la vista no es un servicio más: es el producto. Todo lo demás (la comida, la piscina, el servicio) es secundario.

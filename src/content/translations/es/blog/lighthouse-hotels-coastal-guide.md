@@ -4,7 +4,7 @@ title: "Hoteles en faros: guía completa para dormir en un icono marítimo en fu
 excerpt: "De las costas escarpadas de Irlanda a las orillas blanqueadas por el sol del Mediterráneo, descubre hoteles en faros y casas de fareros extraordinarios."
 seo:
   metaTitle: "Hoteles en faros: guía de estancias costeras | StayAtNiche"
-  metaDescription: "Hoteles en faros espectaculares, de Irlanda a Nueva Zelanda: casas de fareros restauradas, vistas al mar y consejos para tu estancia."
+  metaDescription: "Hoteles en faros espectaculares, de Irlanda a Nueva Zelanda: casas de fareros restauradas, vistas al mar, precios y consejos prácticos para tu estancia."
 ---
 
 Hay un motivo por el que los faros llevan siglos cautivando la imaginación humana. Encaramados en los confines de continentes e islas, sobre cabos azotados por los temporales del Atlántico y el siroco del Mediterráneo, estas construcciones transmiten una mezcla muy particular de aislamiento, deber y dramatismo elemental que cala hondo. La vida del farero, que mantenía la luz encendida entre tormentas, solo en una torre sobre olas que rompían sin descanso, ha dado lugar a toda una literatura y una mitología propias.

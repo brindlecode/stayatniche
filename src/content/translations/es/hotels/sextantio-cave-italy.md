@@ -24,11 +24,11 @@ bestFor:
   - "Amantes de la buena mesa que exploran la cocina del sur de Italia"
 prosAndCons:
   pros:
-    - "Un ambiente histórico sin rival: duermes en estancias usadas durante milenios"
+    - "Un ambiente histórico extraordinario: duermes en estancias usadas durante milenios"
     - "Una restauración guiada por la conservación, de verdad sensible y bella"
     - "Matera es una de las ciudades más extraordinarias e infravaloradas de Italia"
     - "Excelente restaurante con un fuerte arraigo regional"
-    - "Uno de los interiores hoteleros más fotogénicos del mundo"
+    - "Interiores de hotel muy fotogénicos"
   cons:
     - "Las habitaciones cueva pueden resultar oscuras, poco ideales para quien necesita luz natural"
     - "No es fácil llegar a Matera sin coche o sin conexiones específicas"

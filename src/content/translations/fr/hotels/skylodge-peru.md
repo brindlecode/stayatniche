@@ -22,12 +22,12 @@ amenities:
   - Vue à 360 degrés sur la montagne et la vallée
 bestFor:
   - Aventuriers qui n'ont pas le vertige
-  - Couples en quête de l'expérience romantique la plus spectaculaire au monde
+  - Couples en quête d'une expérience romantique spectaculaire
   - Photographes à l'affût des lumières andines de l'aube et du crépuscule
   - Amateurs d'expériences inoubliables
 prosAndCons:
   pros:
-    - Une vue absolument sans rivale, sans doute le point de vue hôtelier le plus vertigineux de la planète
+    - Une vue exceptionnelle, depuis l'un des points de vue hôteliers les plus vertigineux qui soient
     - L'effort physique pour atteindre les capsules rend l'expérience d'autant plus méritée
     - Une vraie intimité, avec seulement trois capsules et donc aucune foule
     - Le dîner gastronomique en altitude est un moment extraordinaire
@@ -58,7 +58,7 @@ Aux deux tiers environ de la via ferrata tracée sur la paroi de granit rouge du
 
 Puis ils lèvent les yeux et aperçoivent leur lit pour la nuit, arrimé à la falaise cinquante mètres plus haut.
 
-Les Skylodge Adventure Suites, exploitées par Natura Vive dans la Vallée sacrée du Pérou, peuvent légitimement prétendre au titre d'endroit le plus audacieux où dormir sur terre. Les trois capsules suspendues — des structures en aluminium de qualité aérospatiale habillées de panneaux de polycarbonate transparent — sont ancrées directement dans la montagne, à environ 400 mètres au-dessus du fond de la vallée. Chacune accueille jusqu'à quatre personnes, mais l'expérience prend tout son sens à deux. L'intimité si particulière d'une chambre transparente suspendue dans l'air raréfié des Andes supporte mal une compagnie plus nombreuse.
+Les Skylodge Adventure Suites, exploitées par Natura Vive dans la Vallée sacrée du Pérou, comptent parmi les endroits les plus audacieux où dormir sur terre. Les trois capsules suspendues — des structures en aluminium de qualité aérospatiale habillées de panneaux de polycarbonate transparent — sont ancrées directement dans la montagne, à environ 400 mètres au-dessus du fond de la vallée. Chacune accueille jusqu'à quatre personnes, mais l'expérience prend tout son sens à deux. L'intimité si particulière d'une chambre transparente suspendue dans l'air raréfié des Andes supporte mal une compagnie plus nombreuse.
 
 L'ascension fait clairement comprendre que cet hôtel n'est pas pour tout le monde, et elle le fait sans s'excuser. On enfile son baudrier au fond de la vallée pour attaquer la via ferrata, un itinéraire d'escalade équipé d'échelons de fer et de câbles d'acier, accessible à toute personne en condition physique correcte, même sans expérience de la grimpe. Le parcours prend une à deux heures, selon le rythme et le temps passé à contempler le paysage. Il est aussi possible, en fin de séjour, de redescendre en tyrolienne depuis le sommet : une façon absurde et euphorique de quitter un hôtel.
 

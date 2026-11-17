@@ -24,11 +24,11 @@ bestFor:
   - "Gastronomes curieux de la cuisine du sud de l'Italie"
 prosAndCons:
   pros:
-    - "Une atmosphère historique sans égale : dormir dans des pièces habitées depuis des millénaires"
+    - "Une atmosphère historique remarquable : dormir dans des pièces habitées depuis des millénaires"
     - "Une restauration guidée par la conservation, d'une sensibilité et d'une beauté réelles"
     - "Matera est l'une des villes les plus extraordinaires et les plus méconnues d'Italie"
     - "Un excellent restaurant résolument tourné vers le terroir"
-    - "L'un des intérieurs d'hôtel les plus photogéniques au monde"
+    - "Des intérieurs d'hôtel très photogéniques"
   cons:
     - "Les chambres troglodytes peuvent sembler sombres, peu idéales pour qui a besoin de lumière naturelle"
     - "Matera n'est pas facile d'accès sans voiture ou sans correspondances précises"

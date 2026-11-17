@@ -1,7 +1,7 @@
 ---
 source: sadie-cove-alaska
 destination: "Kachemak Bay, Homer, Alaska, USA"
-description: "Un lodge di cabine isolato sulla sponda meridionale della Kachemak Bay, raggiungibile solo in idrovolante o in taxi acqueo da Homer, con orsi bruni sulla spiaggia, pesca all'halibut in acque di livello mondiale e un tratto di costa dove la rete stradale dello Stato non arriva."
+description: "Un lodge di cabine isolato sulla sponda meridionale della Kachemak Bay, raggiungibile solo in idrovolante o in taxi acqueo da Homer, con orsi bruni sulla spiaggia, pesca all'halibut in acque molto pescose e un tratto di costa dove la rete stradale dello Stato non arriva."
 highlights:
   - "Lodge nella natura selvaggia, senza strade d'accesso, raggiungibile in idrovolante o in taxi acqueo"
   - "Orsi bruni spesso visibili sulla spiaggia e nella foresta circostante"

@@ -4,7 +4,7 @@ title: "Habitaciones submarinas: guía completa para dormir bajo la superficie"
 excerpt: "Del extraordinario Conrad Rangali de Maldivas al Utter Inn sumergido en un lago de Suecia, descubre habitaciones y suites submarinas extraordinarias."
 seo:
   metaTitle: "Habitaciones submarinas: guía completa | StayAtNiche"
-  metaDescription: "Habitaciones submarinas, de Maldivas a Tanzania y Suecia: duerme bajo el mar rodeado de coral y peces tropicales con todo el lujo."
+  metaDescription: "Habitaciones submarinas, de Maldivas a Tanzania y Suecia: duerme bajo el mar rodeado de coral y peces tropicales con todo el lujo, precios y consejos."
 ---
 
 Despertar a las 5 de la mañana y ver un pez Napoleón deslizarse frente a la ventana de tu dormitorio, con sus escamas iridiscentes atrapando la primera luz filtrada desde la superficie y un tiburón de arrecife patrullando en silencio detrás: es una experiencia que redefine lo que puede ser una estancia en un hotel. Las habitaciones submarinas sitúan a sus huéspedes en una intimidad extraordinaria con el mundo marino y convierten el simple hecho de dormir en una inmersión en uno de los ecosistemas más complejos del planeta.

@@ -28,12 +28,12 @@ amenities:
   - 360-degree mountain and valley views
 bestFor:
   - Adventure travellers with a head for heights
-  - Couples seeking the world's most dramatic romantic experience
+  - Couples seeking a dramatic romantic experience
   - Photographers chasing Andean dawn and dusk light
   - Unmissable experience seekers
 prosAndCons:
   pros:
-    - Absolutely unrivalled views, arguably the most dramatic hotel vantage point on Earth
+    - Exceptional views from one of the most dramatic hotel vantage points anywhere
     - The physical effort of reaching the pods makes the experience feel deeply earned
     - Genuinely intimate, only three pods mean no crowds
     - The gourmet dinner at altitude is an extraordinary experience
@@ -64,7 +64,7 @@ featured: true
 status: published
 seo:
   metaTitle: "Skylodge Peru Review, Sleep 400m Above the Sacred Valley in a Hanging Pod"
-  metaDescription: "The world's most daring hotel: transparent pods suspended 400 metres above the Sacred Valley. Reach them by via ferrata or zip line. Skylodge Adventure Suites from $450/night."
+  metaDescription: "A daring hotel of transparent pods suspended 400 metres above the Sacred Valley. Reach them by via ferrata or zip line. Skylodge Adventure Suites from $450/night."
 affiliateLinks:
   - partner: "expedia"
     url: "https://www.expedia.com/Hotel-Search?destination=Sacred%20Valley%2C%20Cusco%20Region%2C%20Peru&adults=2"
@@ -91,7 +91,7 @@ Roughly two-thirds of the way up the via ferrata carved into the red granite fac
 
 Then they look up, and see their bed for the night bolted to the cliff face fifty metres above.
 
-Skylodge Adventure Suites, operated by Natura Vive in Peru's Sacred Valley, has a legitimate claim to being the most audacious place to sleep on earth. The three hanging pods — aerospace-grade aluminium frames with transparent polycarbonate panels — are anchored directly into the mountainside at approximately 400 metres above the valley floor. Each sleeps up to four guests, though the experience works best for two. The specific intimacy of a transparent room suspended in thin Andean air resists company beyond a pair.
+Skylodge Adventure Suites, operated by Natura Vive in Peru's Sacred Valley, is one of the most audacious places to sleep on earth. The three hanging pods — aerospace-grade aluminium frames with transparent polycarbonate panels — are anchored directly into the mountainside at approximately 400 metres above the valley floor. Each sleeps up to four guests, though the experience works best for two. The specific intimacy of a transparent room suspended in thin Andean air resists company beyond a pair.
 
 The ascent makes clear this is not a hotel for everyone, and does so without apology. Guests clip into harnesses at the valley floor and start the via ferrata — a fixed-rope climbing route fitted with iron rungs and steel cables, manageable for anyone with reasonable fitness and no prior climbing experience. The route takes one to two hours depending on pace and how long you stop to stare. Alternatively, guests can opt for a zip-line descent from the mountain summit at the end of their stay: an absurd, joy-filled way to leave a hotel.
 

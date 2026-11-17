@@ -4,7 +4,7 @@ title: "Lodges dans la jungle et hôtels en forêt tropicale : le guide complet 
 excerpt: "Du bassin amazonien aux forêts primaires de Bornéo, découvrez des lodges dans la jungle d'exception, là où une biodiversité hors du commun rencontre un hébergement pensé pour l'immersion."
 seo:
   metaTitle: "Lodges dans la jungle : le guide complet | StayAtNiche"
-  metaDescription: "Des lodges dans la jungle d'exception, de l'Amazonie à Bornéo : conseils d'experts sur l'hébergement en forêt tropicale, la faune sauvage et le voyage responsable."
+  metaDescription: "Des lodges dans la jungle d'exception, de l'Amazonie à Bornéo : conseils sur l'hébergement en forêt tropicale, la faune sauvage et le voyage responsable."
 ---
 
 Les grandes forêts tropicales de la planète comptent parmi les milieux les plus complexes sur le plan biologique et les plus saisissants visuellement. Le seul bassin amazonien abriterait environ 10 % de toutes les espèces de la Terre ; les forêts primaires de Bornéo accueillent orangs-outans, éléphants pygmées et nasiques dans des habitats restés quasiment inchangés depuis des millions d'années ; les forêts de nuages du Costa Rica protègent le quetzal resplendissant dans des canopées drapées d'une brume perpétuelle.

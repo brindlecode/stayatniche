@@ -22,12 +22,12 @@ amenities:
   - Vista a 360 gradi su montagne e valle
 bestFor:
   - Viaggiatori avventurosi che non soffrono di vertigini
-  - Coppie in cerca dell'esperienza romantica più spettacolare al mondo
+  - Coppie in cerca di un'esperienza romantica spettacolare
   - Fotografi a caccia della luce andina all'alba e al tramonto
   - Chi cerca esperienze imperdibili
 prosAndCons:
   pros:
-    - Panorami assolutamente senza rivali, forse il punto di vista d'albergo più spettacolare della Terra
+    - Panorami eccezionali, da uno dei punti di vista d'albergo più spettacolari che esistano
     - La fatica fisica per raggiungere le capsule rende l'esperienza profondamente guadagnata
     - Davvero intimo, con sole tre capsule non c'è mai folla
     - La cena gourmet in quota è un'esperienza straordinaria
@@ -58,7 +58,7 @@ Più o meno a due terzi della via ferrata scavata nella parete di granito rosso 
 
 Poi alzano lo sguardo e vedono il loro letto per la notte, imbullonato alla parete cinquanta metri più su.
 
-Gli Skylodge Adventure Suites, gestiti da Natura Vive nella Valle Sacra peruviana, possono legittimamente rivendicare il titolo di posto più audace della Terra in cui dormire. Le tre capsule sospese — telai in alluminio di qualità aerospaziale con pannelli trasparenti in policarbonato — sono ancorate direttamente al fianco della montagna a circa 400 metri sopra il fondovalle. Ognuna ospita fino a quattro persone, anche se l'esperienza dà il meglio di sé in due. L'intimità particolare di una stanza trasparente sospesa nell'aria rarefatta delle Ande mal sopporta compagnie più numerose di una coppia.
+Gli Skylodge Adventure Suites, gestiti da Natura Vive nella Valle Sacra peruviana, sono tra i posti più audaci della Terra in cui dormire. Le tre capsule sospese — telai in alluminio di qualità aerospaziale con pannelli trasparenti in policarbonato — sono ancorate direttamente al fianco della montagna a circa 400 metri sopra il fondovalle. Ognuna ospita fino a quattro persone, anche se l'esperienza dà il meglio di sé in due. L'intimità particolare di una stanza trasparente sospesa nell'aria rarefatta delle Ande mal sopporta compagnie più numerose di una coppia.
 
 La salita chiarisce subito, senza scusarsi, che non è un hotel per tutti. Gli ospiti si agganciano all'imbracatura a fondovalle e attaccano la via ferrata: un percorso attrezzato con pioli di ferro e cavi d'acciaio, alla portata di chiunque abbia una discreta forma fisica, anche senza esperienza di arrampicata. Il percorso richiede da una a due ore, a seconda del ritmo e di quanto tempo ci si ferma a contemplare. In alternativa, a fine soggiorno si può scegliere di scendere in zipline dalla cima della montagna: un modo assurdo e gioioso di lasciare un hotel.
 

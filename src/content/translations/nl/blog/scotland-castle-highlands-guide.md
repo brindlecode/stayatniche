@@ -96,8 +96,8 @@ Kinloch Lodge, aan het eind van Loch na Dal op het schiereiland Sleat van Skye, 
 De Schotse whiskycultuur voegt een bijzondere dimensie toe aan elke reis door de Highlands. Speyside, het dal van de rivier de Spey tussen Inverness en Aberdeen, heeft de hoogste concentratie whiskydistilleerderijen ter wereld: Glenfiddich, The Macallan, Glenlivet, Glenfarclas en tientallen andere liggen op korte rijafstand van elkaar.
 
 De beste distilleerderijbezoeken:
-- **The Macallan Estate, Speyside:** Het nieuwe bezoekerscentrum, ontworpen door Rog Partnership, is een van de bijzonderste distilleerderijgebouwen ter wereld: een gebouw met een grasdak dat uit de heuvel boven de distilleerderij lijkt te groeien. Privéproeverijen vanaf £ 200 per persoon.
-- **Glenfiddich, Dufftown:** In familiebezit en de meest bezochte single-maltdistilleerderij ter wereld. De Pioneering-tour geeft toegang tot de pakhuizen en experimentele vatprogramma's.
+- **The Macallan Estate, Speyside:** Het nieuwe bezoekerscentrum, ontworpen door Rog Partnership, is een opvallend distilleerderijgebouw: een gebouw met een grasdak dat uit de heuvel boven de distilleerderij lijkt te groeien. Privéproeverijen vanaf £ 200 per persoon.
+- **Glenfiddich, Dufftown:** In familiebezit en een van de meest bezochte single-maltdistilleerderijen. De Pioneering-tour geeft toegang tot de pakhuizen en experimentele vatprogramma's.
 - **Springbank, Campbeltown:** De meest traditionele distilleerderij van Schotland, op het schiereiland Kintyre, een van de weinige die nog zelf op de vloer mouten en het hele proces in eigen hand hebben. Kleine tours met deskundige uitleg; reserveer vooraf.
 
 Reis je speciaal voor whisky, dan geven het Spirit of Speyside Whisky Festival (begin mei) en het Islay Festival of Music and Malt (eind mei) toegang tot distilleerderijen en ervaringen die op andere momenten niet beschikbaar zijn.
@@ -135,7 +135,7 @@ Het Highlandlandschap van Schotland biedt een paar van de mooiste buitenervaring
 
 
 
-Voor historische authenticiteit en een spectaculair landschap: Inverlochy Castle Hotel aan de voet van de Ben Nevis geldt algemeen als het mooiste Highland-kasteelhotel. Voor culturele rijkdom en hedendaagse kunst: The Fife Arms in Braemar is ongeëvenaard. Voor de faciliteiten van een groot resort: Gleneagles heeft in Schotland zijn gelijke niet.
+Voor historische authenticiteit en een spectaculair landschap: Inverlochy Castle Hotel aan de voet van de Ben Nevis geldt als een van de meest gewaardeerde Highland-kasteelhotels. Voor culturele rijkdom en hedendaagse kunst: The Fife Arms in Braemar springt eruit. Voor de faciliteiten van een groot resort: Gleneagles is in Schotland het bekendste grote resort.
 
 
 Voor elke reis door de Highlands of over de eilanden raden we een auto sterk aan. Het Schotse openbaar vervoer wordt beter (ScotRail rijdt naar de grote plaatsen; de Caledonian Sleeper rijdt 's nachts van Londen naar Fort William, Inverness en Aberdeen), maar de bijzonderste bestemmingen, zoals Torridon, Harris en het schiereiland Ardnamurchan, zijn zonder auto onbereikbaar.

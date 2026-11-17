@@ -4,7 +4,7 @@ title: "Leuchtturmhotels: Der große Ratgeber für Nächte in einer maritimen Ik
 excerpt: "Von den rauen Küsten Irlands bis an die sonnengebleichten Ufer des Mittelmeers: Entdecken Sie außergewöhnliche Leuchtturmhotels und Wärterhäuser."
 seo:
   metaTitle: "Leuchtturmhotels weltweit: Der Ratgeber | StayAtNiche"
-  metaDescription: "Leuchtturmhotels von Irland bis Neuseeland: Übernachten Sie im umgebauten Leuchtturmwärterhaus mit spektakulärem Blick auf Küste und Meer."
+  metaDescription: "Leuchtturmhotels von Irland bis Neuseeland: Übernachten Sie im umgebauten Leuchtturmwärterhaus mit spektakulärem Blick auf Küste und Meer – mit Buchungstipps."
 ---
 
 Es hat seinen Grund, dass Leuchttürme die Fantasie der Menschen seit Jahrhunderten beflügeln. Sie thronen an den Rändern von Kontinenten und Inseln, auf Landspitzen, die von Atlantikstürmen und dem Schirokko des Mittelmeers gepeitscht werden, und erzählen von einer ganz eigenen Mischung aus Abgeschiedenheit, Pflichtgefühl und elementarer Dramatik, die tief berührt. Das Leben des Leuchtturmwärters, der das Licht durch jeden Sturm hindurch am Brennen hielt, allein in seinem Turm über der tosenden Brandung, hat eine ganze Literatur und Mythologie hervorgebracht.

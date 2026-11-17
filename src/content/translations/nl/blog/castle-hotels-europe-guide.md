@@ -16,10 +16,10 @@ Wat de beste kasteelhotels onderscheidt van gewone historische accommodaties, is
 ---
 
 
-Schotland kan met recht claimen dé bestemming ter wereld te zijn voor een verblijf in een kasteelhotel. De woelige geschiedenis van het land, eeuwen van clanoorlogen, conflicten tussen Engeland en Schotland en de omwentelingen van de Highland Clearances, leverde een buitengewone concentratie versterkte woningen op, waarvan er veel zijn omgebouwd tot hotels van uiteenlopende kwaliteit en prijsklasse.
+Schotland kan met recht claimen een van de toonaangevende bestemmingen ter wereld te zijn voor een verblijf in een kasteelhotel. De woelige geschiedenis van het land, eeuwen van clanoorlogen, conflicten tussen Engeland en Schotland en de omwentelingen van de Highland Clearances, leverde een buitengewone concentratie versterkte woningen op, waarvan er veel zijn omgebouwd tot hotels van uiteenlopende kwaliteit en prijsklasse.
 
 
-Inverlochy geldt algemeen als het mooiste kasteelhotel van Schotland en ligt aan de voet van de Ben Nevis in de Schotse Highlands, omringd door een privélandgoed van 500 acres. Het kasteel werd in 1863 in Schotse baronale stijl gebouwd voor de eerste Lord Abinger, is sinds 1969 een hotel en is vandaag een van de meest geroemde adressen van Schotland. Koningin Victoria verbleef hier in 1873 en schreef in haar dagboek dat het uitzicht het mooiste was dat ze ooit in de Highlands had gezien.
+Inverlochy geldt als een van de meest gewaardeerde kasteelhotels van Schotland en ligt aan de voet van de Ben Nevis in de Schotse Highlands, omringd door een privélandgoed van 500 acres. Het kasteel werd in 1863 in Schotse baronale stijl gebouwd voor de eerste Lord Abinger, is sinds 1969 een hotel en is vandaag een van de meest geroemde adressen van Schotland. Koningin Victoria verbleef hier in 1873 en schreef in haar dagboek dat het uitzicht het mooiste was dat ze ooit in de Highlands had gezien.
 
 Het interieur is buitengewoon: originele beschilderde plafonds, olieverfschilderijen, antieke meubels en een sfeer van stille, aristocratische grandeur die een nieuwgebouwd hotel nooit kan nabootsen. Het restaurant, geleid door een team dat een Michelin-erkenning heeft gehad, serveert producten uit de Highlands op het hoogste niveau. Op het landgoed kun je vissen, op herten jagen en schieten; het nabijgelegen Glen Nevis en het skigebied Nevis Range bieden het hele jaar buitenactiviteiten.
 

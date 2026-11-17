@@ -24,11 +24,11 @@ bestFor:
   - "Foodies die de Zuid-Italiaanse keuken willen ontdekken"
 prosAndCons:
   pros:
-    - "Ongeëvenaarde historische sfeer: je slaapt in ruimtes die al millennia worden gebruikt"
+    - "Opmerkelijke historische sfeer: je slaapt in ruimtes die al millennia worden gebruikt"
     - "Een restauratie vanuit behoud die echt respectvol en mooi is"
     - "Matera zelf is een van de bijzonderste en meest onderschatte steden van Italië"
     - "Uitstekend restaurant met een sterke regionale focus"
-    - "Een van de meest fotogenieke hotelinterieurs ter wereld"
+    - "Zeer fotogenieke hotelinterieurs"
   cons:
     - "Grotkamers kunnen donker aanvoelen, niet ideaal als je daglicht op je kamer wilt"
     - "Matera is zonder auto of specifieke verbindingen niet makkelijk te bereiken"

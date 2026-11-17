@@ -1,15 +1,15 @@
 ---
 source: patagonia-remote-lodges-guide
 title: "Afgelegen lodges in Patagonië: de complete gids voor overnachten aan het einde van de wereld"
-excerpt: "De afgelegen lodges van Patagonië bieden de spectaculairste wildernisaccommodatie op aarde: gletsjeruitzicht bij het ontbijt, 's middags poema's spoorzoeken en een stilte zo diep dat die je verandert."
+excerpt: "De afgelegen lodges van Patagonië bieden enkele van de spectaculairste wildernisaccommodaties: gletsjeruitzicht bij het ontbijt, 's middags poema's spoorzoeken en een stilte zo diep dat die je verandert."
 seo:
   metaTitle: "Afgelegen lodges in Patagonië: complete gids | StayAtNiche"
-  metaDescription: "De bijzonderste lodges in Patagonië, van Torres del Paine en El Chaltén tot Vuurland. Met prijzen, poema's spotten, beste reistijd en hoe je er komt."
+  metaDescription: "Bijzondere lodges in Patagonië, van Torres del Paine en El Chaltén tot Vuurland. Met prijzen, poema's spotten, beste reistijd en hoe je er komt."
 ---
 
 Patagonië ligt op de zuidpunt van Zuid-Amerika; het eerstvolgende land in het zuiden is Antarctica. De torens van Torres del Paine rijzen loodrecht op uit de steppe. Het Zuid-Patagonische IJsveld, na Antarctica en Groenland het op twee na grootste ter wereld, laat gletsjers direct in de fjorden afkalven. Andescondors met een spanwijdte van 3,2 meter cirkelen boven bergketens waar geen paden lopen.
 
-De lodges die zich de afgelopen twintig jaar in dit landschap hebben gevestigd, vroegen echte logistieke ambitie om te bouwen. Het eten komt uit gemeenschappen honderden kilometers verderop. Het personeel woont er wekenlang. De ervaringen die ze mogelijk maken, zoals poema's spoorzoeken, gletsjertochten en condors bekijken vanuit een hottub, bestaan nergens anders op aarde op dit niveau.
+De lodges die zich de afgelopen twintig jaar in dit landschap hebben gevestigd, vroegen echte logistieke ambitie om te bouwen. Het eten komt uit gemeenschappen honderden kilometers verderop. Het personeel woont er wekenlang. De ervaringen die ze mogelijk maken, zoals poema's spoorzoeken, gletsjertochten en condors bekijken vanuit een hottub, zijn elders op dit niveau zeldzaam.
 
 Deze gids zet de beste lodges in het Chileense en Argentijnse Patagonië op een rij, met eerlijke informatie over bereikbaarheid, seizoenen en wat de reis er echt bij komt kijken.
 
@@ -18,7 +18,7 @@ Deze gids zet de beste lodges in het Chileense en Argentijnse Patagonië op een 
 
 'Patagonië' is het zuidelijke deel van Zuid-Amerika, verdeeld over Chili en Argentinië. Meestal wordt gezegd dat het ten zuiden van de 40e breedtegraad begint en doorloopt tot Vuurland en Kaap Hoorn. Het omvat enorm uiteenlopende landschappen:
 
-**Chileens Patagonië:** Het massief van Torres del Paine en het omliggende nationale park (het belangrijkste doel van internationale toeristen), de fjorden van de regio's Aysén en Magallanes, de afgelegen Carretera Austral (de spectaculairste onverharde hoofdweg ter wereld) en de archipel van Vuurland.
+**Chileens Patagonië:** Het massief van Torres del Paine en het omliggende nationale park (het belangrijkste doel van internationale toeristen), de fjorden van de regio's Aysén en Magallanes, de afgelegen Carretera Austral (een beroemde, schilderachtige onverharde hoofdweg) en de archipel van Vuurland.
 
 **Argentijns Patagonië:** De Perito Moreno-gletsjer en het nationale park Los Glaciares (Calafate), het Fitz Roy-massief en El Chaltén (de hoofdstad van het trekken), het schiereiland Valdés (walvissen spotten en pinguïnkolonies) en het Argentijnse deel van Vuurland.
 
@@ -162,7 +162,7 @@ Het toegankelijke seizoen in Patagonië loopt van oktober tot april (lente tot h
 Wie Patagonië bezoekt, noemt het steevast de indrukwekkendste landschapservaring van zijn leven. De afstand is reëel: Buenos Aires ligt 13+ uur vliegen van Londen en 9 uur van Miami, plus binnenlandse aansluitingen. Maar de combinatie van schaal, wilde dieren en echte afgelegenheid vind je nergens anders met deze intensiteit. De reis zelf hoort erbij.
 
 
-Het ecosysteem van Torres del Paine herbergt poema's (het iconische roofdier van de regio, en een van de beste plekken ter wereld om wilde poema's te zien), guanaco's (wilde kameelachtigen, familie van de lama), Andescondors (met een spanwijdte van 3,2 m een van de grootste vliegende vogels ter wereld), grijze vossen, gordeldieren en het bedreigde huemul-hert. Zeedieren, zoals pinguïns, zeeleeuwen, dolfijnen en af en toe orka's, zie je in de Chileense fjorden en in het Beaglekanaal bij Ushuaia.
+Het ecosysteem van Torres del Paine herbergt poema's (het iconische roofdier van de regio, en een bekende plek om wilde poema's te zien), guanaco's (wilde kameelachtigen, familie van de lama), Andescondors (met een spanwijdte van 3,2 m een van de grootste vliegende vogels ter wereld), grijze vossen, gordeldieren en het bedreigde huemul-hert. Zeedieren, zoals pinguïns, zeeleeuwen, dolfijnen en af en toe orka's, zie je in de Chileense fjorden en in het Beaglekanaal bij Ushuaia.
 
 
 Patagonië vanuit een lodge (dus niet kamperen of slaapzalen): **Instapniveau** (Standard Dome van EcoCamp): vanaf $ 400 per persoon per nacht. **Middenklasse** (Tierra Patagonia, standaardkamer bij Explora): $ 700–1.200 per persoon per nacht. **Ultraluxe** (Awasi, Yagan Camp): $ 1.400–2.500 per persoon per nacht. Een reis van 7 nachten langs twee bestemmingen in middenklasselodges (Torres del Paine + Calafate) kost doorgaans $ 5.000–9.000 per persoon inclusief accommodatie en maaltijden, exclusief internationale vluchten.

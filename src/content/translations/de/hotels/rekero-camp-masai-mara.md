@@ -1,7 +1,7 @@
 ---
 source: rekero-camp-masai-mara
 destination: "Masai Mara National Reserve, Rift Valley"
-description: "Rekero ist ein klassisches Zeltcamp in einem Hain aus Feigenbäumen am Ufer des Talek River im Herzen der Masai Mara. Betrieben wird es von der Governors'-Camp-Gruppe, mit Schwerpunkt auf echtem Buscherlebnis, erfahrenen Massai-Guides und der ansässigen Tierwelt von Kenias größtem Wildreservat. Die Lage im Reservat bringt die Gäste in Reichweite herausragender Sichtungen der Großen Tierwanderung."
+description: "Rekero ist ein klassisches Zeltcamp in einem Hain aus Feigenbäumen am Ufer des Talek River im Herzen der Masai Mara. Betrieben wird es von der Governors'-Camp-Gruppe, mit Schwerpunkt auf echtem Buscherlebnis, erfahrenen Massai-Guides und der ansässigen Tierwelt eines der bekanntesten Wildreservate Kenias. Die Lage im Reservat bringt die Gäste in Reichweite herausragender Sichtungen der Großen Tierwanderung."
 highlights:
   - "Spektakuläre Flussüberquerungen der Großen Tierwanderung am Mara River (Juli–Oktober)"
   - "Ansässige Löwenrudel, Gepardenfamilien und Leoparden in den Ebenen der Mara"
@@ -24,7 +24,7 @@ bestFor:
   - "Liebhaber klassischer Safari-Atmosphäre"
 prosAndCons:
   pros:
-    - "Die Masai Mara zur Zeit der Migration ist der Höhepunkt des afrikanischen Safari-Spektakels"
+    - "Die Masai Mara zur Zeit der Migration ist eines der großen afrikanischen Safari-Spektakel"
     - "Klassisches Zeltcamp mit echter ostafrikanischer Atmosphäre"
     - "Ganztägige Pirschfahrten ermöglichen intensive Tierbegegnungen ohne Zeitlimit"
     - "Erfahrene Massai-Guides bieten kulturelle Tiefe und außergewöhnliches Fährtenwissen"
@@ -51,7 +51,7 @@ seo:
   metaDescription: "Rekero Camp in der Masai Mara, Kenia: klassisches Zeltcamp für die Große Tierwanderung, mit Massai-Guides und ganztägigen Pirschfahrten – ab 600 $ pro Nacht."
 ---
 
-Das offene, sanft gewellte Grasland der Masai Mara, das sich unter dem ostafrikanischen Himmel bis zu jedem Horizont erstreckt, beherbergt eine Dichte an großen Säugetieren, die außerhalb des Serengeti-Ökosystems ihresgleichen sucht – die Mara ist dessen nördliche Fortsetzung auf kenianischem Boden. Liegt ein Camp an der richtigen Stelle im Reservat, sind die Tiere unmittelbar und ständig präsent, statt etwas, zu dem man erst fahren muss.
+Das offene, sanft gewellte Grasland der Masai Mara, das sich unter dem ostafrikanischen Himmel bis zu jedem Horizont erstreckt, beherbergt eine außergewöhnliche Dichte an großen Säugetieren im weiteren Serengeti-Ökosystem – die Mara ist dessen nördliche Fortsetzung auf kenianischem Boden. Liegt ein Camp an der richtigen Stelle im Reservat, sind die Tiere unmittelbar und ständig präsent, statt etwas, zu dem man erst fahren muss.
 
 Rekero liegt in einem Hain hoch aufragender Feigenbäume am Talek River. Seine zehn klassischen Leinwandzelte reihen sich am Flussufer auf, im Stil der großen ostafrikanischen Camps aus der Zeit der kolonialen Jagdsafaris, heute aber ganz der Fotosafari und Tierbeobachtung gewidmet. Leinwandwände und Holzrahmen lassen die Geräusche des Buschs unmittelbar herein – das Revierhusten eines Leoparden irgendwo in der Dunkelheit, die fernen Kontaktrufe eines Löwenrudels, die Flusspferde im Fluss unterhalb –, und die Veranden hoch über dem Ufer machen jeden Morgen zu etwas, worauf man sich freut.
 

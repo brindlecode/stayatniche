@@ -4,7 +4,7 @@ category: train-hotels
 destination: "London to Venice (and beyond)"
 country: "Multiple"
 continent: "Europe"
-description: "The most famous train in the world, the Venice Simplon-Orient-Express is a rolling museum of 1920s Art Deco grandeur, operating its original restored carriages across the great rail routes of Europe. From London to Venice, Paris to Istanbul, or the Swiss Alps to the Adriatic, this is travel as it was experienced in the golden age of railways, unhurried, beautiful, and irreplaceable."
+description: "One of the best-known trains in the world, the Venice Simplon-Orient-Express is a rolling museum of 1920s Art Deco grandeur, operating its original restored carriages across the great rail routes of Europe. From London to Venice, Paris to Istanbul, or the Swiss Alps to the Adriatic, this is travel as it was experienced in the golden age of railways, unhurried, beautiful, and irreplaceable."
 coverImage: /images/hotels/venice-simplon-orient-express.jpg
 gallery:
   - /images/hotels/venice-simplon-orient-express-2.jpg
@@ -63,8 +63,8 @@ coordinates:
 featured: false
 status: published
 seo:
-  metaTitle: "Venice Simplon-Orient-Express Review, The World's Most Famous Train, Europe"
-  metaDescription: "Travel aboard the legendary Venice Simplon-Orient-Express in original 1920s Pullman carriages. London to Venice through the Swiss Alps. The ultimate European luxury train journey. From $3,000."
+  metaTitle: "Venice Simplon-Orient-Express Review, Art Deco Luxury Train, Europe"
+  metaDescription: "Travel aboard the legendary Venice Simplon-Orient-Express in original 1920s Pullman carriages. London to Venice through the Swiss Alps. A classic European luxury train journey. From $3,000."
 affiliateLinks:
   - partner: "expedia"
     url: "https://www.expedia.com/Hotel-Search?destination=London%20to%20Venice%20%28and%20beyond%29%2C%20Multiple&adults=2"

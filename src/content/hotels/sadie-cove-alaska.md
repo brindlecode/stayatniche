@@ -4,7 +4,7 @@ category: jungle-lodges
 destination: "Kachemak Bay, Homer, Alaska, USA"
 country: USA
 continent: North America
-description: "A remote cabin lodge on the south shore of Kachemak Bay, accessible only by floatplane or water taxi from Homer, with brown bears on the beach, halibut fishing in world-class waters, and a coastline that the state highway system cannot reach."
+description: "A remote cabin lodge on the south shore of Kachemak Bay, accessible only by floatplane or water taxi from Homer, with brown bears on the beach, halibut fishing in productive waters, and a coastline that the state highway system cannot reach."
 coverImage: "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=900&q=80&auto=format&fit=crop"
 gallery: []
 priceRange: "$400 - $700"

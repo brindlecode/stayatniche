@@ -4,7 +4,7 @@ title: "Trains-hôtels et voyages ferroviaires de luxe : le guide complet des t
 excerpt: "De l'Orient-Express au Rovos Rail sud-africain, découvrez des trains-hôtels extraordinaires, où le voyage devient la destination et chaque kilomètre un souvenir."
 seo:
   metaTitle: "Trains-hôtels et trains de luxe : le guide | StayAtNiche"
-  metaDescription: "Des trains-hôtels de l'Orient-Express au Rocky Mountaineer : notre guide des trains de nuit de luxe, des itinéraires et des réservations."
+  metaDescription: "Des trains-hôtels de l'Orient-Express au Rocky Mountaineer : notre guide des trains de nuit de luxe, des itinéraires, des prix et des réservations."
 ---
 
 La locomotive fut la technologie emblématique du XIXe siècle, et les grandes voitures-lits de l'ère Pullman ont fait du voyage ferroviaire au long cours une sorte d'hôtel en mouvement : boiseries d'acajou, service à table en gants blancs, draps impeccables sur des couchettes étroites mais confortables, et un paysage qui défile derrière la vitre comme aucun hublot d'avion moderne ne saurait l'offrir. Le romantisme du train n'a jamais vraiment disparu ; il s'exprime simplement aujourd'hui à travers une poignée de trains de luxe véritablement extraordinaires qui font du trajet non pas un moyen de transport, mais la pièce maîtresse du voyage.

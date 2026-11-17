@@ -1,7 +1,7 @@
 ---
 source: venice-simplon-orient-express
 destination: "De Londres à Venise (et au-delà)"
-description: "Le train le plus célèbre du monde, le Venice Simplon-Orient-Express est un musée roulant de la splendeur Art déco des années 1920, qui fait circuler ses voitures d'origine restaurées sur les grandes lignes ferroviaires d'Europe. De Londres à Venise, de Paris à Istanbul ou des Alpes suisses à l'Adriatique, c'est le voyage tel qu'on le vivait à l'âge d'or du rail : sans hâte, beau et irremplaçable."
+description: "L'un des trains les plus célèbres du monde, le Venice Simplon-Orient-Express est un musée roulant de la splendeur Art déco des années 1920, qui fait circuler ses voitures d'origine restaurées sur les grandes lignes ferroviaires d'Europe. De Londres à Venise, de Paris à Istanbul ou des Alpes suisses à l'Adriatique, c'est le voyage tel qu'on le vivait à l'âge d'or du rail : sans hâte, beau et irremplaçable."
 highlights:
   - "Des voitures Pullman et wagons-lits d'origine des années 1920 et 1930, restaurées avec amour"
   - "L'itinéraire Londres-Venise à travers les Alpes suisses et les lacs italiens"

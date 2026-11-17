@@ -4,7 +4,7 @@ title: "Hoteles flotantes y casas flotantes: la guía completa para dormir sobre
 excerpt: "De las ornamentadas casas flotantes de madera de Cachemira a los hoteles en los fiordos árticos de Noruega, descubre experiencias de alojamiento flotante extraordinarias."
 seo:
   metaTitle: "Hoteles flotantes y casas flotantes | StayAtNiche"
-  metaDescription: "Hoteles flotantes y casas flotantes, de Cachemira y los fiordos noruegos a Ámsterdam y el Mekong, con precios y consejos para reservar."
+  metaDescription: "Hoteles flotantes y casas flotantes, de Cachemira y los fiordos noruegos a Ámsterdam y el Mekong, con precios, qué esperar y consejos para reservar."
 ---
 
 Dormir sobre el agua produce una calidad de descanso especial que ningún hotel en tierra firme puede reproducir: el leve balanceo, el sonido del agua contra el casco, la forma distinta en que se comporta la luz al rebotar en una superficie viva. Los hoteles flotantes y las casas flotantes ocupan un nicho fascinante: por definición, están en diálogo constante con su entorno.

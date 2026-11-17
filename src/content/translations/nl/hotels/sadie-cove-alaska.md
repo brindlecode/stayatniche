@@ -1,7 +1,7 @@
 ---
 source: sadie-cove-alaska
 destination: "Kachemak Bay, Homer, Alaska, VS"
-description: "Een afgelegen lodge met houten hutten aan de zuidoever van Kachemak Bay, alleen bereikbaar per watervliegtuig of watertaxi vanuit Homer. Bruine beren op het strand, heilbotvissen in water van wereldklasse en een kust waar geen enkele snelweg van de staat komt."
+description: "Een afgelegen lodge met houten hutten aan de zuidoever van Kachemak Bay, alleen bereikbaar per watervliegtuig of watertaxi vanuit Homer. Bruine beren op het strand, heilbotvissen in rijke wateren en een kust waar geen enkele snelweg van de staat komt."
 highlights:
   - "Wildernislodge zonder wegverbinding, bereikbaar per watervliegtuig of watertaxi"
   - "Bruine beren vaak te zien op het strand en in het omliggende bos"

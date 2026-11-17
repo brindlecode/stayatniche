@@ -1,15 +1,15 @@
 ---
 source: safari-lodges-africa-complete-guide
 title: "Safarilodges in Afrika: de complete gids voor de mooiste wildlife-overnachtingen van het continent"
-excerpt: "Van de vlaktes van de Serengeti tot de Okavangodelta: ontdek de beste safarilodges van Afrika, waar bijzondere ontmoetingen met wilde dieren samengaan met uitzonderlijke luxe."
+excerpt: "Van de vlaktes van de Serengeti tot de Okavangodelta: ontdek toonaangevende safarilodges van Afrika, waar bijzondere ontmoetingen met wilde dieren samengaan met uitzonderlijke luxe."
 seo:
   metaTitle: "Safarilodges in Afrika: de complete gids | StayAtNiche"
-  metaDescription: "De beste safarilodges van Afrika, van Tanzania en Kenia tot Botswana en Zuid-Afrika. Met tips over de mooiste lodges, seizoenen en hoe je je safari boekt."
+  metaDescription: "Toonaangevende safarilodges van Afrika, van Tanzania en Kenia tot Botswana en Zuid-Afrika. Met tips over de mooiste lodges, seizoenen en hoe je je safari boekt."
 ---
 
 Voor zonsopkomst wakker worden in een Afrikaans bushkamp en leeuwen door het donker horen roepen, en dan in een open Land Cruiser stappen terwijl het eerste licht over de savanne breekt: die zintuiglijke ervaringen stapelen zich op zoals bij geen enkele andere reis. Safarilodges draaien om wat er buiten is, niet binnen. De accommodatie is bij de beste lodges uitstekend, maar ze staat in dienst van de ontmoeting met de dieren.
 
-De markt voor safarilodges is flink volwassen geworden. Het aanbod loopt nu van uiterst minimalistische fly camps in wildernisconcessies met drie man personeel tot privévilla's met meerdere suites, infinitypools met uitzicht op drinkplaatsen en een eigen butler. De topadressen kunnen zich qua service, eten en kamers meten met de beste stadshotels ter wereld, en verslaan ze glansrijk op ligging.
+De markt voor safarilodges is flink volwassen geworden. Het aanbod loopt nu van uiterst minimalistische fly camps in wildernisconcessies met drie man personeel tot privévilla's met meerdere suites, infinitypools met uitzicht op drinkplaatsen en een eigen butler. De topadressen kunnen zich qua service, eten en kamers meten met topstadshotels, en verslaan ze glansrijk op ligging.
 
 Deze gids behandelt de belangrijkste bestemmingen en raadt concrete lodges aan voor verschillende budgetten en prioriteiten.
 
@@ -49,10 +49,10 @@ De Masai Mara in Kenia is het noordelijke deel van hetzelfde ecosysteem. De over
 
 **Angama Mara**
 
-Angama ligt op de rand van de Oloololo-escarpment, 1.800 voet boven de vlaktes van de Mara, met twee kampen van elk 15 tentsuites die uitkijken over de Mara-driehoek tot aan de heuvels van Tanzania. Het uitzicht is het mooiste van alle lodges in de Masai Mara. Het fotografieprogramma, opgezet samen met gerenommeerde natuurfotografen, is het sterkste van Kenia. Ben je serieus met natuurfotografie bezig, dan moet je hier zijn.
+Angama ligt op de rand van de Oloololo-escarpment, 1.800 voet boven de vlaktes van de Mara, met twee kampen van elk 15 tentsuites die uitkijken over de Mara-driehoek tot aan de heuvels van Tanzania. Het uitzicht is het mooiste van alle lodges in de Masai Mara. Het fotografieprogramma, opgezet samen met gerenommeerde natuurfotografen, is een van de sterkste van Kenia. Ben je serieus met natuurfotografie bezig, dan moet je hier zijn.
 
 **Prijsindicatie:** Vanaf $ 1.200 per persoon per nacht
-**Ideaal voor:** Fotografieliefhebbers, stellen, wie de beste uitzichten van de Mara wil
+**Ideaal voor:** Fotografieliefhebbers, stellen, wie bijzondere uitzichten over de Mara wil
 
 **Mahali Mzuri, het Keniaanse safarikamp van Richard Branson**
 

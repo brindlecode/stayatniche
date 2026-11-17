@@ -19,18 +19,18 @@ amenities:
   - "Sorties pêche au gros et snorkeling"
   - "Visites des projets de la Nihiwatu Foundation"
 bestFor:
-  - "Surfeurs confirmés en quête d'une vague de classe mondiale, privée et sans foule"
+  - "Surfeurs confirmés en quête d'une vague privée et sans foule"
   - "Voyageurs qui veulent allier hébergement de luxe et impact philanthropique réel"
   - "Couples en quête d'isolement absolu"
 prosAndCons:
   pros:
-    - "Occy's Left limité à dix surfeurs : une offre introuvable ailleurs en Indonésie"
+    - "Occy's Left limité à dix surfeurs : une rare occasion de surfer sans foule en Indonésie"
     - "Sumba se distingue du reste de l'Indonésie, par sa culture comme par sa géographie"
     - "La Nihiwatu Foundation donne au séjour une véritable dimension éthique"
     - "Galoper sur des plages désertes, c'est exactement aussi exceptionnel que cela en a l'air"
   cons:
     - "Rejoindre Sumba impose un vol via Bali ou Lombok, ce qui allonge nettement le trajet"
-    - "L'hébergement le plus cher d'Indonésie, et de loin"
+    - "L'un des hébergements les plus chers d'Indonésie"
     - "L'isolement de Sumba limite les options hors du resort"
     - "L'accès au surf est facturé en plus d'un tarif déjà élevé"
 seasonalInfo:

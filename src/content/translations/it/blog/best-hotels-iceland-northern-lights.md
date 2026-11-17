@@ -57,7 +57,7 @@ Ogni cabina è in pratica una serra di vetro temperato, con tetto curvo in vetro
 ---
 
 
-The Retreat at Blue Lagoon non è, prima di tutto, un hotel per l’aurora. È la struttura di lusso più celebrata d’Islanda, punto. Ma la sua posizione tra i campi geotermici della penisola di Reykjanes, unita all’accesso alle piscine esterne della Blue Lagoon a qualsiasi ora, crea forse il contesto più spettacolare al mondo per osservare l’aurora boreale: galleggiare in acqua geotermale ricca di minerali a 38 °C mentre l’aurora si muove sopra di te.
+The Retreat at Blue Lagoon non è, prima di tutto, un hotel per l’aurora. È la struttura di lusso più celebrata d’Islanda, punto. Ma la sua posizione tra i campi geotermici della penisola di Reykjanes, unita all’accesso alle piscine esterne della Blue Lagoon a qualsiasi ora, crea uno scenario spettacolare per osservare l’aurora boreale: galleggiare in acqua geotermale ricca di minerali a 38 °C mentre l’aurora si muove sopra di te.
 
 The Retreat occupa un campo di lava proprio accanto alla Blue Lagoon, con 62 suite e camere costruite dentro e attorno al paesaggio vulcanico. Gli ospiti hanno accesso esclusivo, a ogni ora, alla RETREAT Spa privata della laguna, piscine all’aperto comprese. Quando compare l’aurora (e a questa latitudine, con l’attuale massimo solare, succede spesso) puoi scivolare nell’acqua bianca di silice e guardarla da lì.
 

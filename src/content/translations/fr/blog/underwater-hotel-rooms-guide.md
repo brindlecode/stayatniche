@@ -4,7 +4,7 @@ title: "Chambres sous-marines : le guide complet pour dormir sous la surface"
 excerpt: "De l'extraordinaire Conrad Rangali aux Maldives à l'Utter Inn posé au fond d'un lac suédois, découvrez des chambres et suites sous-marines extraordinaires."
 seo:
   metaTitle: "Chambres sous-marines : le guide mondial | StayAtNiche"
-  metaDescription: "Des chambres sous-marines, des Maldives à la Tanzanie et à la Suède : dormir sous la mer, entouré de coraux et de poissons tropicaux."
+  metaDescription: "Des chambres sous-marines, des Maldives à la Tanzanie et à la Suède : dormir sous la mer, entouré de coraux et de poissons tropicaux, avec prix et conseils."
 ---
 
 Se réveiller à 5 heures du matin en voyant un napoléon glisser devant la fenêtre de sa chambre, ses écailles irisées captant la première lumière filtrée depuis la surface, un requin de récif croisant en silence derrière lui : voilà une expérience qui redéfinit ce que peut être un séjour à l'hôtel. Les chambres sous-marines placent leurs hôtes dans une intimité extraordinaire avec le monde marin et font du sommeil une immersion dans l'un des écosystèmes les plus complexes de la planète.

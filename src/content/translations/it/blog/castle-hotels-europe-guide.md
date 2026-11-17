@@ -16,7 +16,7 @@ Ciò che distingue i migliori hotel nei castelli dalle semplici dimore storiche 
 ---
 
 
-La Scozia può a buon diritto definirsi la prima destinazione al mondo per dormire in un castello. La sua storia turbolenta (secoli di guerre tra clan, conflitti anglo-scozzesi e gli sconvolgimenti delle Highland Clearances) ha prodotto una concentrazione straordinaria di residenze fortificate, molte delle quali sono state trasformate in hotel di qualità e prezzo diversi.
+La Scozia può a buon diritto definirsi una delle principali destinazioni al mondo per dormire in un castello. La sua storia turbolenta (secoli di guerre tra clan, conflitti anglo-scozzesi e gli sconvolgimenti delle Highland Clearances) ha prodotto una concentrazione straordinaria di residenze fortificate, molte delle quali sono state trasformate in hotel di qualità e prezzo diversi.
 
 
 Considerato da molti il miglior castello-hotel di Scozia, l’Inverlochy sorge ai piedi del Ben Nevis nelle Highlands scozzesi, circondato da una tenuta privata di 500 acri. Costruito nel 1863 in stile baronale scozzese per il primo Lord Abinger, il castello è un hotel dal 1969 e oggi è uno degli indirizzi più celebrati di Scozia. La regina Vittoria vi soggiornò nel 1873 e nel suo diario descrisse la vista come la più bella che avesse mai visto nelle Highlands.

@@ -6,7 +6,7 @@ highlights:
   - Altopiano del deserto del Negev a 900 m sul livello del mare
   - Architettura rupestre ispirata ai Nabatei
   - Nelle vicinanze, la Via dell'Incenso patrimonio UNESCO
-  - Spa Six Senses di livello mondiale
+  - Spa Six Senses
   - Osservazione delle stelle in una riserva di cielo buio riconosciuta a livello internazionale
 amenities:
   - Spa Six Senses

@@ -1,10 +1,10 @@
 ---
 source: overwater-bungalows-beyond-maldives
-title: "Overwaterbungalows buiten de Malediven: de mooiste overnachtingen boven het water"
+title: "Overwaterbungalows buiten de Malediven: een selectie overnachtingen boven het water wereldwijd"
 excerpt: "De Malediven maakten de overwaterbungalow beroemd, maar Bora Bora, Fiji, het Caribisch gebied en andere bestemmingen bieden net zo bijzondere ervaringen, soms voor een fractie van de prijs."
 seo:
   metaTitle: "Overwaterbungalows buiten de Malediven | StayAtNiche"
-  metaDescription: "De mooiste overwaterbungalows buiten de Malediven: Bora Bora, Fiji, Raja Ampat, Cambodja en het Caribisch gebied, met prijzen en eerlijke vergelijkingen."
+  metaDescription: "Overwaterbungalows buiten de Malediven: Bora Bora, Fiji, Raja Ampat, Cambodja en het Caribisch gebied, met prijzen en eerlijke vergelijkingen."
 ---
 
 De Malediven maakten de overwaterbungalow beroemd, en de beste adressen daar zijn nog altijd de maatstaf voor de categorie. Maar een gemiddelde premium overwatervilla in een topresort op de Malediven kost inmiddels $ 1.500–4.000+ per nacht, in een landschap dat vlak en tamelijk eentonig is en waar je alleen in en op het water iets te doen hebt. Voor veel mensen is dat juist de bedoeling. Voor anderen is het niet genoeg.
@@ -84,7 +84,7 @@ De overwatervilla's zijn prachtig: infinitypools, hoge rieten daken en een ontwe
 ---
 
 
-Raja Ampat in de Bird's Head Seascape van West-Papoea herbergt 75% van alle koraalsoorten ter wereld. Als je mariene biodiversiteit als maatstaf neemt, verslaat niets in dit overzicht deze plek. Misool Eco Resort heeft een privépacht over 300.000 acre zeegebied, met overwaterbungalows boven riffen die ervaren duikers de beste noemen die ze ooit hebben gezien.
+Raja Ampat in de Bird's Head Seascape van West-Papoea herbergt 75% van alle koraalsoorten ter wereld. Als je mariene biodiversiteit als maatstaf neemt, verslaat niets in dit overzicht deze plek. Misool Eco Resort heeft een privépacht over 300.000 acre zeegebied, met overwaterbungalows boven riffen die ervaren duikers hoog waarderen.
 
 Misool is niet de Malediven. Dit is een echt ecoresort: afgelegen, avontuurlijk en zonder de smetteloze luxe afwerking. Duiken en snorkelen zijn hier alles. Manta's, walvishaaien, dwergzeepaardjes, wobbegongs en rifvissen in aantallen die ongeloofwaardig lijken tot je zelf in het water ligt.
 

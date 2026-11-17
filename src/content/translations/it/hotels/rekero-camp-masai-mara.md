@@ -1,7 +1,7 @@
 ---
 source: rekero-camp-masai-mara
 destination: "Riserva nazionale Masai Mara, Rift Valley"
-description: "Rekero è un classico campo tendato immerso in un boschetto di fichi sulle rive del fiume Talek, nel cuore del Masai Mara, gestito dal gruppo Governors' Camp con un'attenzione particolare all'esperienza autentica nella savana, alle guide masai esperte e alla fauna stanziale della più grande riserva del Kenya. La sua posizione all'interno della riserva mette a portata di mano avvistamenti straordinari della Grande Migrazione."
+description: "Rekero è un classico campo tendato immerso in un boschetto di fichi sulle rive del fiume Talek, nel cuore del Masai Mara, gestito dal gruppo Governors' Camp con un'attenzione particolare all'esperienza autentica nella savana, alle guide masai esperte e alla fauna stanziale di una delle riserve più note del Kenya. La sua posizione all'interno della riserva mette a portata di mano avvistamenti straordinari della Grande Migrazione."
 highlights:
   - "Spettacolari attraversamenti del fiume Mara durante la Grande Migrazione (luglio–ottobre)"
   - "Branchi stanziali di leoni, famiglie di ghepardi e leopardi nelle pianure del Mara"
@@ -24,7 +24,7 @@ bestFor:
   - "Chi cerca l'atmosfera del safari classico"
 prosAndCons:
   pros:
-    - "Il Masai Mara durante la migrazione è l'apice dello spettacolo del safari africano"
+    - "Il Masai Mara durante la migrazione è uno dei grandi spettacoli del safari africano"
     - "Classico campo tendato con un'autentica atmosfera dell'Africa orientale"
     - "Ottima politica dei game drive a giornata intera, per incontri con la fauna senza limiti di tempo"
     - "Le guide masai esperte offrono profondità culturale e straordinarie capacità di tracciamento"
@@ -51,7 +51,7 @@ seo:
   metaDescription: "Rekero Camp: classico campo tendato nel cuore del Masai Mara per la Grande Migrazione, con guide masai esperte e game drive a giornata intera. Da 600 $ a notte."
 ---
 
-Le praterie aperte e ondulate del Masai Mara, che si allungano fino a ogni orizzonte sotto il cielo dell'Africa orientale, ospitano concentrazioni di grandi mammiferi che non hanno eguali al di fuori dell'ecosistema del Serengeti, di cui il Mara è la propaggine settentrionale in territorio keniota. Un campo ben posizionato all'interno della riserva significa che la fauna è vicina e costante, non qualcosa che devi andare a cercare in auto.
+Le praterie aperte e ondulate del Masai Mara, che si allungano fino a ogni orizzonte sotto il cielo dell'Africa orientale, ospitano concentrazioni eccezionali di grandi mammiferi nell'ambito dell'ecosistema più ampio del Serengeti, di cui il Mara è la propaggine settentrionale in territorio keniota. Un campo ben posizionato all'interno della riserva significa che la fauna è vicina e costante, non qualcosa che devi andare a cercare in auto.
 
 Rekero sorge tra fichi imponenti sul fiume Talek, con le sue dieci classiche tende in tela allineate lungo la riva nello stile dei grandi campi dell'Africa orientale dell'epoca coloniale della caccia, oggi interamente dedicati al safari fotografico e all'osservazione della fauna. Le pareti di tela e la struttura in legno rendono vicinissimi i suoni della savana — la tosse territoriale di un leopardo da qualche parte nel buio, i richiami lontani di un branco di leoni, gli ippopotami nel fiume sottostante — e le verande delle tende affacciate sulla riva rendono ogni mattina un momento da attendere con impazienza.
 

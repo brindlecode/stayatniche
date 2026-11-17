@@ -1,13 +1,13 @@
 ---
 source: japan-ryokans-rail-pass-getting-around
 title: "Japan per trein: zo bereik je de beste ryokan, onsenstadjes en bijzondere overnachtingen"
-excerpt: "Japan heeft het beste spoornet ter wereld en een paar van de meest bijzondere slaapplekken op aarde. De Japan Rail Pass is de sleutel tot allebei. Deze gids zet de treinroutes naar de mooiste ryokanbestemmingen op een rij, van Hakone tot de onsenstadjes van Kyushu, plus de bijzondere overnachtingen die elke aankomst de reis waard maken."
+excerpt: "Japan heeft een uitstekend spoornet en een aantal bijzondere slaapplekken. De Japan Rail Pass is de sleutel tot allebei. Deze gids zet de treinroutes naar de mooiste ryokanbestemmingen op een rij, van Hakone tot de onsenstadjes van Kyushu, plus de bijzondere overnachtingen die elke aankomst de reis waard maken."
 seo:
   metaTitle: "Japan Rail Pass en ryokan: reisgids per trein | StayAtNiche"
   metaDescription: "Zo gebruik je de Japan Rail Pass om de beste ryokan, onsenstadjes en bijzondere hotels te bereiken. Treinroutes van Tokio naar Kyoto, Hakone en Hokkaido."
 ---
 
-De Japanse Shinkansen is de efficiëntste manier ter wereld om tussen grote steden te reizen. Tokio–Kyoto in 2 uur en 15 minuten. Kyoto–Hiroshima in 1 uur en 25 minuten. Osaka–Hakata (Fukuoka) in 2 uur en 15 minuten. Het net loopt noordwaarts tot Hokkaido en zuidwaarts tot Kagoshima; in de steden brengen metro en lokale JR-lijnen je van het station naar je wijk. Het hele systeem valt onder de Japan Rail Pass, op een handvol particuliere spoorlijnen en een paar toeslagen voor sneltreinen na.
+De Japanse Shinkansen is een van de efficiëntste manieren om tussen grote steden te reizen. Tokio–Kyoto in 2 uur en 15 minuten. Kyoto–Hiroshima in 1 uur en 25 minuten. Osaka–Hakata (Fukuoka) in 2 uur en 15 minuten. Het net loopt noordwaarts tot Hokkaido en zuidwaarts tot Kagoshima; in de steden brengen metro en lokale JR-lijnen je van het station naar je wijk. Het hele systeem valt onder de Japan Rail Pass, op een handvol particuliere spoorlijnen en een paar toeslagen voor sneltreinen na.
 
 De Japan Rail Pass is hét document als je Japan per trein wilt verkennen. Je koopt hem alleen buiten Japan (dus vóór vertrek) en je reist er onbeperkt mee in bijna alle JR-treinen, inclusief alle Shinkansen behalve de Nozomi en Mizuho. De pas voor 7 dagen kost ongeveer ¥ 50.000 ($ 330), die voor 14 dagen ¥ 80.000 ($ 530). Of hij zich terugverdient, hangt af van je route. Maar voor een rondje Tokio–Kyoto–Hiroshima–Hakone heb je hem op dag 4 al terugverdiend.
 

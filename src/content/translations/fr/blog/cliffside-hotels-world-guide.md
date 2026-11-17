@@ -4,7 +4,7 @@ title: "Hôtels à flanc de falaise : les adresses les plus vertigineuses du m
 excerpt: "Du bord de la caldeira de Santorin aux terrasses vertigineuses de la côte amalfitaine, découvrez des hôtels à flanc de falaise spectaculaires, où chaque vue est un spectacle."
 seo:
   metaTitle: "Hôtels à flanc de falaise : le guide | StayAtNiche"
-  metaDescription: "Des hôtels à flanc de falaise saisissants, de Santorin à la côte amalfitaine : vues vertigineuses, piscines à débordement, design."
+  metaDescription: "Des hôtels à flanc de falaise saisissants, de Santorin à la côte amalfitaine : vues vertigineuses, piscines à débordement, design et conseils de réservation."
 ---
 
 Un hôtel à flanc de falaise offre ce qu'aucune autre catégorie d'hébergement ne peut offrir : il vous place au bord même de la terre, avec le vide qui s'ouvre sous vos pieds. La mer, la vallée ou le désert en contrebas ; le ciel au-dessus ; un horizon ininterrompu. Les plus belles adresses ont compris depuis des décennies que la vue n'est pas un simple atout : c'est le produit lui-même. Tout le reste (la table, la piscine, le service) passe au second plan.

@@ -1,9 +1,9 @@
 ---
 source: rovos-rail-south-africa
 destination: "Van Pretoria naar Kaapstad (en verder)"
-description: "Rovos Rail geldt als de luxueuste trein ter wereld en rijdt met particuliere, historische rijtuigen, elk tot in detail in de oorspronkelijke staat gerestaureerd, over de spectaculairste routes van zuidelijk Afrika. De reis van Pretoria naar Kaapstad gaat door de Karoo; de epische tocht van Kaap tot Caïro duurt twee weken. Service en comfort overtreffen de meeste vijfsterrenhotels."
+description: "Rovos Rail is een luxe particuliere trein en rijdt met particuliere, historische rijtuigen, elk tot in detail in de oorspronkelijke staat gerestaureerd, over de spectaculairste routes van zuidelijk Afrika. De reis van Pretoria naar Kaapstad gaat door de Karoo; de epische tocht van Kaap tot Caïro duurt twee weken. Service en comfort doen niet onder voor veel vijfsterrenhotels."
 highlights:
-  - "Alom geprezen als de luxueuste trein ter wereld"
+  - "Alom geprezen als een van de grote luxetreinen ter wereld"
   - "Geleid door de eigenaar zelf: geen bedrijfsproduct maar een persoonlijk passieproject"
   - "Van Pretoria naar Kaapstad door de Karoo, een van de grote landschappen van Afrika"
   - "Observatierijtuig achter aan de trein voor panoramisch uitzicht in de buitenlucht"
@@ -24,7 +24,7 @@ bestFor:
   - "Reizigers die Afrika in een beschouwelijk tempo willen beleven"
 prosAndCons:
   pros:
-    - "De persoonlijke service en aandacht zijn uitzonderlijk en worden vaak de beste van alle treinen genoemd"
+    - "De persoonlijke service en aandacht zijn uitzonderlijk en worden vaak bijzonder geprezen"
     - "Het observatierijtuig is een van de grote genoegens van het reizen: Afrika vanaf een open platform"
     - "Doordat Rovos in particuliere handen is, heeft het een warmte en karakter die geen commerciële trein kan nabootsen"
     - "Het Karoo-landschap en de Hex River Mountains behoren tot het mooiste wat Zuid-Afrika te bieden heeft"
@@ -48,10 +48,10 @@ nearbyAttractions:
     distance: 50 km van Kaapstad
 seo:
   metaTitle: "Rovos Rail: luxe treinreis door Zuid-Afrika | StayAtNiche"
-  metaDescription: "Met Rovos Rail van Pretoria naar Kaapstad: historische rijtuigen, een open observatierijtuig en uitstekende diners in de luxueuste trein. Vanaf $ 2.800."
+  metaDescription: "Met Rovos Rail van Pretoria naar Kaapstad: historische rijtuigen, een open observatierijtuig en uitstekende diners in een luxe trein. Vanaf $ 2.800."
 ---
 
-Rovos Rail is geen bedrijf zoals de meeste luxe reisbedrijven dat zijn. Het is een passie op rails. Rohan Vos begon in de jaren tachtig als persoonlijk project historische treinrijtuigen te kopen en te restaureren, om de prachtige rijtuigen uit de gouden eeuw van het spoor in zuidelijk Afrika te redden, die werden gesloopt terwijl de spoornetten van het continent inkrompen. Wat begon als de obsessie van een verzamelaar, is in veertig jaar uitgegroeid tot de mooiste particuliere luxetrein ter wereld.
+Rovos Rail is geen bedrijf zoals de meeste luxe reisbedrijven dat zijn. Het is een passie op rails. Rohan Vos begon in de jaren tachtig als persoonlijk project historische treinrijtuigen te kopen en te restaureren, om de prachtige rijtuigen uit de gouden eeuw van het spoor in zuidelijk Afrika te redden, die werden gesloopt terwijl de spoornetten van het continent inkrompen. Wat begon als de obsessie van een verzamelaar, is in veertig jaar uitgegroeid tot een van de bekendste particuliere luxetreinen ter wereld.
 
 De rijtuigen zijn echt: Victoriaanse rijtuigen die van hun oorspronkelijke functie zijn omgebouwd, of slaaprijtuigen uit het begin van de twintigste eeuw, gebouwd voor de Union Limited en andere prestigieuze diensten uit het spoortijdperk van het Britse Rijk. Elk is met buitengewone trouw aan zijn oorspronkelijke karakter gerestaureerd. Teakhouten lambrisering, messing beslag, originele ramen die zijn aangepast voor airco en veiligheid, en eigen badkamers op de plek waar ooit de wastafels van de wagons-lits stonden. De Royal Suites, privécompartimenten van 16 vierkante meter met een volwaardig bed, bank, badkamer en ramen aan drie kanten, bieden een ruimte en privacy waar geen vergelijkbare trein aan kan tippen.
 

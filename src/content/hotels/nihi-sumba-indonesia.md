@@ -26,18 +26,18 @@ amenities:
   - "Deep-sea fishing and snorkelling excursions"
   - "Nihiwatu Foundation project visits"
 bestFor:
-  - "Serious surfers seeking a private and uncrowded world-class break"
+  - "Serious surfers seeking a private and uncrowded break"
   - "Travellers wanting genuine philanthropic impact alongside luxury accommodation"
   - "Couples seeking complete seclusion"
 prosAndCons:
   pros:
-    - "Occy's Left with a ten-surfer maximum is a proposition unavailable anywhere else in Indonesia"
+    - "Occy's Left with a ten-surfer maximum is a rare chance at uncrowded surf in Indonesia"
     - "Sumba is culturally and geographically distinct from the rest of Indonesia"
     - "The Nihiwatu Foundation gives the stay genuine ethical substance"
     - "Horse riding on empty beaches is exactly what it sounds like — exceptional"
   cons:
     - "Getting to Sumba requires a flight via Bali or Lombok, adding significant journey time"
-    - "The most expensive accommodation in Indonesia by a considerable margin"
+    - "One of the most expensive places to stay in Indonesia"
     - "Sumba's remoteness means limited options outside the resort"
     - "Surf access costs are additional to the already high room rate"
 bookingUrl: https://www.booking.com/hotel/id/nihi-sumba.html

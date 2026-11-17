@@ -1,9 +1,9 @@
 ---
 source: rovos-rail-south-africa
 destination: "De Pretoria au Cap (et au-delà)"
-description: "Considéré par beaucoup comme le train le plus luxueux du monde, Rovos Rail fait circuler des voitures d'époque appartenant à un propriétaire privé, chacune restaurée à l'identique, sur les itinéraires les plus spectaculaires d'Afrique australe. Le trajet de Pretoria au Cap traverse le Karoo ; l'épopée du Cap au Caire dure deux semaines. Le service et le confort surpassent ceux de la plupart des hôtels cinq étoiles."
+description: "Train de luxe privé, Rovos Rail fait circuler des voitures d'époque appartenant à un propriétaire privé, chacune restaurée à l'identique, sur les itinéraires les plus spectaculaires d'Afrique australe. Le trajet de Pretoria au Cap traverse le Karoo ; l'épopée du Cap au Caire dure deux semaines. Le service et le confort rivalisent avec ceux de nombreux hôtels cinq étoiles."
 highlights:
-  - "Unanimement salué comme le train le plus luxueux du monde"
+  - "Largement salué comme l'un des grands trains de luxe du monde"
   - "Géré par son propriétaire : non pas un produit d'entreprise, mais une passion personnelle"
   - "Le trajet de Pretoria au Cap à travers le Karoo, l'un des grands paysages d'Afrique"
   - "Voiture d'observation à l'arrière du train, pour une vue panoramique en plein air"
@@ -24,7 +24,7 @@ bestFor:
   - "Voyageurs qui veulent découvrir l'Afrique au rythme de la contemplation"
 prosAndCons:
   pros:
-    - "Un niveau de service et d'attention exceptionnel, souvent cité comme le meilleur de tous les trains"
+    - "Un niveau de service et d'attention exceptionnel, souvent salué par les voyageurs"
     - "La voiture d'observation est l'un des grands plaisirs du voyage : l'Afrique vue depuis une plateforme ouverte"
     - "La gestion personnelle de Rovos crée une chaleur et un caractère qu'aucun train d'entreprise ne peut reproduire"
     - "Le Karoo et les montagnes de la Hex River comptent parmi les plus beaux paysages d'Afrique du Sud"
@@ -47,11 +47,11 @@ nearbyAttractions:
   - name: Vignobles du Cap
     distance: À 50 km du Cap
 seo:
-  metaTitle: "Rovos Rail : le train le plus luxueux du monde | StayAtNiche"
+  metaTitle: "Rovos Rail : train de luxe en Afrique du Sud | StayAtNiche"
   metaDescription: "Rovos Rail, de Pretoria au Cap à travers le Karoo : voitures d'époque, plateforme d'observation ouverte, table d'exception et service rare. Dès 2 800 $."
 ---
 
-Rovos Rail n'est pas une entreprise au sens où le sont la plupart des acteurs du voyage de luxe. C'est une passion faite matériel roulant. Rohan Vos a commencé à acquérir et restaurer des voitures ferroviaires d'époque dans les années 1980, à titre personnel, pour sauver les magnifiques voitures de l'âge d'or du rail en Afrique australe, promises à la ferraille à mesure que les réseaux du continent se contractaient. Ce qui n'était qu'une obsession de collectionneur est devenu, en quarante ans, le plus beau train de luxe privé du monde.
+Rovos Rail n'est pas une entreprise au sens où le sont la plupart des acteurs du voyage de luxe. C'est une passion faite matériel roulant. Rohan Vos a commencé à acquérir et restaurer des voitures ferroviaires d'époque dans les années 1980, à titre personnel, pour sauver les magnifiques voitures de l'âge d'or du rail en Afrique australe, promises à la ferraille à mesure que les réseaux du continent se contractaient. Ce qui n'était qu'une obsession de collectionneur est devenu, en quarante ans, l'un des trains de luxe privés les plus réputés du monde.
 
 Les voitures sont authentiques : voitures de l'époque victorienne détournées de leur usage d'origine, ou voitures-lits du début du XXe siècle construites pour l'Union Limited et d'autres services prestigieux de l'ère ferroviaire de l'Empire britannique, chacune restaurée avec une fidélité extraordinaire à son époque. Boiseries de teck, garnitures en laiton, fenêtres d'origine adaptées pour la climatisation et la sécurité, salles de bains privatives là où se trouvaient jadis les lavabos des wagons-lits. Les Royal Suites — 16 mètres carrés de compartiment privé avec grand lit, canapé, salle de bains et fenêtres sur trois côtés — offrent un espace et une intimité qu'aucun train comparable ne peut égaler.
 

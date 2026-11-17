@@ -1,10 +1,10 @@
 ---
 source: cliffside-hotels-world-guide
-title: "Klifhotels: de meest spectaculair gelegen accommodaties ter wereld"
-excerpt: "Van de kraterrand van Santorini tot de duizelingwekkende terrassen van de Amalfikust: ontdek de spectaculairst gelegen klifhotels ter wereld, waar elk uitzicht een schouwspel is."
+title: "Klifhotels: spectaculair gelegen accommodaties over de hele wereld"
+excerpt: "Van de kraterrand van Santorini tot de duizelingwekkende terrassen van de Amalfikust: ontdek spectaculair gelegen klifhotels, waar elk uitzicht een schouwspel is."
 seo:
   metaTitle: "De mooiste klifhotels ter wereld: gids | StayAtNiche"
-  metaDescription: "De spectaculairste klifhotels ter wereld, van Santorini tot de Amalfikust. Duizelingwekkende uitzichten, infinityzwembaden en onvergetelijke architectuur."
+  metaDescription: "Spectaculaire klifhotels, van Santorini tot de Amalfikust. Duizelingwekkende uitzichten, infinityzwembaden, onvergetelijke architectuur en praktische boektips."
 ---
 
 Een klifhotel doet iets wat geen enkele andere categorie accommodaties kan: het zet je letterlijk aan de rand van het land, met alles wat onder je wegvalt. Zee, dal of woestijn beneden; hemel boven; een ononderbroken horizon. De beste accommodaties begrijpen al tientallen jaren dat het uitzicht geen voorziening is, maar het product zelf. Al het andere (het eten, het zwembad, de service) is bijzaak.
@@ -33,7 +33,7 @@ Grace was een van de eerste hotels op Santorini dat om de kwaliteit van zijn des
 **Ideaal voor:** stellen, fotografen, reizigers die ligging en uitzicht belangrijker vinden dan de grootte van de kamer
 
 
-Katikies, een van de oudste en meest geroemde luxehotels van Santorini, heeft een toplocatie aan de caldera in Oia en drie zwembaden in de rotswand die van beneden te zien zijn: een kenmerkend architectonisch element dat in talloze reportages in reismagazines is verschenen. De 27 kamers en suites zijn elk apart ingericht met een verfijnde mix van Cycladische traditie en eigentijds design; wijnbar Chateau Nico heeft de meest uitgebreide collectie Santorini-wijnen ter wereld.
+Katikies, een van de oudste en meest geroemde luxehotels van Santorini, heeft een toplocatie aan de caldera in Oia en drie zwembaden in de rotswand die van beneden te zien zijn: een kenmerkend architectonisch element dat in talloze reportages in reismagazines is verschenen. De 27 kamers en suites zijn elk apart ingericht met een verfijnde mix van Cycladische traditie en eigentijds design; wijnbar Chateau Nico heeft een uitgebreide collectie Santorini-wijnen.
 
 **Prijsklasse:** kamers vanaf € 500 per nacht
 **Ideaal voor:** wijnliefhebbers, stellen, wie het meest geroemde historische hoteladres van Oia zoekt
@@ -44,7 +44,7 @@ Katikies, een van de oudste en meest geroemde luxehotels van Santorini, heeft ee
 De Amalfikust in Italië combineert klifdrama met een van de grootste concentraties cultuur, gastronomie en natuurschoon ter wereld. De 50 kilometer lange kust tussen Positano en Salerno, een cultuurlandschap op de UNESCO-werelderfgoedlijst, valt van de kam van de Monti Lattari recht in de Tyrreense Zee, met de eeuwenoude vissersplaatsjes Positano, Amalfi en Ravello op verschillende hoogtes tegen de rotswand geplakt.
 
 
-Palazzo Avino zit in een villa uit de 12e eeuw op de kliffen boven Ravello, het hoogstgelegen stadje aan de kust, 350 meter boven zee, en is een van de mooiste kusthotels van Italië. Het voormalige privépalazzo werd in 1997 een hotel; de 43 kamers en suites ademen een aristocratische sfeer met beschilderde plafonds, antiek meubilair en zorgvuldig gekozen kunst. Het zwembadterras en het restaurant kijken uit over de hele kust van Amalfi tot Capri, en het Pink Sapphire-restaurant met Michelinster is het beste restaurant aan de kust.
+Palazzo Avino zit in een villa uit de 12e eeuw op de kliffen boven Ravello, het hoogstgelegen stadje aan de kust, 350 meter boven zee, en is een van de mooiste kusthotels van Italië. Het voormalige privépalazzo werd in 1997 een hotel; de 43 kamers en suites ademen een aristocratische sfeer met beschilderde plafonds, antiek meubilair en zorgvuldig gekozen kunst. Het zwembadterras en het restaurant kijken uit over de hele kust van Amalfi tot Capri, en het Pink Sapphire-restaurant met Michelinster is een topadres aan de kust.
 
 **Prijsklasse:** Deluxe-kamers vanaf € 600 per nacht; suites in de rotswand vanaf € 1.500 per nacht
 **Ideaal voor:** fijnproevers, stellen die een mijlpaal vieren, wie het beste adres aan de Amalfikust zoekt
@@ -108,7 +108,7 @@ Casa San Agustin ligt binnen de ommuurde stad van Cartagena en verbindt drie his
 De spectaculaire ligging die klifhotels zo buitengewoon maakt, kan lastig zijn voor gasten met flinke hoogtevrees. De meeste accommodaties hebben kamers op verschillende afstanden van de rand van de klif; vragen om een minder blootgestelde kamer, terwijl je toch van het uitzicht en de sfeer profiteert, is een redelijk verzoek waar de meeste hotels graag aan meewerken.
 
 
-Bij veel van de mooiste klifhotels ter wereld horen flink wat trappen: juist de ligging in de rotswand die het uitzicht zo buitengewoon maakt, betekent meestal dat toegang op één niveau onmogelijk is. Bij hotels op de kraterrand van Santorini kun je tientallen treden tegenkomen; aan de Amalfikust moet je vaak steil klimmen. Houd daar rekening mee als je minder mobiel bent; veel accommodaties hebben beperkte liften, en waar die er wel zijn, bereiken ze vaak niet alle kamercategorieën.
+Bij veel klifhotels horen flink wat trappen: juist de ligging in de rotswand die het uitzicht zo buitengewoon maakt, betekent meestal dat toegang op één niveau onmogelijk is. Bij hotels op de kraterrand van Santorini kun je tientallen treden tegenkomen; aan de Amalfikust moet je vaak steil klimmen. Houd daar rekening mee als je minder mobiel bent; veel accommodaties hebben beperkte liften, en waar die er wel zijn, bereiken ze vaak niet alle kamercategorieën.
 
 
 Klifhotels bieden fantastische fotokansen, maar ook specifieke uitdagingen:

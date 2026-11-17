@@ -17,7 +17,7 @@ Questa guida copre tutto quello che devi sapere sugli hotel di ghiaccio e sui vi
 
 
 
-L’originale. Il punto di riferimento assoluto. Tutto il resto è un’imitazione.
+L’originale. Un punto di riferimento del genere. Tutto il resto è un’imitazione.
 
 ICEHOTEL sorge sulle rive del fiume Torne a Jukkasjärvi, un villaggio di 500 abitanti nella Lapponia svedese, 200 km a nord del Circolo Polare Artico. Ogni autunno si raccolgono e si conservano 5.000 tonnellate di ghiaccio del fiume, che da novembre in poi vengono usate per scolpire da zero un nuovo hotel. Il progetto di ogni anno è unico, frutto della collaborazione tra artisti selezionati tramite bandi aperti a livello mondiale, che passano settimane a scolpire le proprie camere trasformandole in sculture dentro cui poi dormono gli ospiti.
 
@@ -142,7 +142,7 @@ Quasi tutti gli hotel di ghiaccio danno istruzioni agli ospiti all’arrivo. La 
 
 L’Islanda non ha un hotel di ghiaccio tradizionale nel senso scandinavo, ma offre diversi elementi che ne fanno un’alternativa convincente per un viaggio dedicato all’aurora boreale:
 
-**The Retreat at Blue Lagoon** ha piscine geotermali di cui godere a mezzanotte mentre l’aurora danza sopra di te: probabilmente il contesto più spettacolare al mondo per osservarla.
+**The Retreat at Blue Lagoon** ha piscine geotermali di cui godere a mezzanotte mentre l’aurora danza sopra di te: un contesto spettacolare per osservarla.
 
 **Ion Adventure Hotel**, a Nesjavellir, è stato progettato apposta per l’aurora, con vetrate panoramiche e la vicinanza alla zona di cielo buio del Parco Nazionale di Þingvellir.
 

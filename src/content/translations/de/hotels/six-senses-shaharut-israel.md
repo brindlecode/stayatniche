@@ -6,7 +6,7 @@ highlights:
   - Plateau der Negev-Wüste auf 900 m über dem Meer
   - Von den Nabatäern inspirierte Felsarchitektur
   - UNESCO-Welterbe Weihrauchstraße ganz in der Nähe
-  - Six Senses Spa von Weltklasse
+  - Six Senses Spa
   - Sternbeobachtung in einem international anerkannten Lichtschutzgebiet
 amenities:
   - Six Senses Spa

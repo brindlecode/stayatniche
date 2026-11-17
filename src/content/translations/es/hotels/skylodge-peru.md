@@ -22,12 +22,12 @@ amenities:
   - Vistas de 360 grados a las montañas y al valle
 bestFor:
   - Viajeros aventureros que no sufren de vértigo
-  - Parejas en busca de la experiencia romántica más espectacular del mundo
+  - Parejas en busca de una experiencia romántica espectacular
   - Fotógrafos tras la luz del amanecer y el atardecer andinos
   - Buscadores de experiencias que no te puedes perder
 prosAndCons:
   pros:
-    - Unas vistas absolutamente incomparables, probablemente el mirador hotelero más espectacular del planeta
+    - Unas vistas excepcionales, desde uno de los miradores hoteleros más espectaculares que existen
     - El esfuerzo físico de llegar a las cápsulas hace que la experiencia se sienta muy merecida
     - Verdaderamente íntimo; con solo tres cápsulas no hay aglomeraciones
     - La cena gourmet en las alturas es una experiencia extraordinaria
@@ -51,14 +51,14 @@ nearbyAttractions:
     distance: 40 km
 seo:
   metaTitle: "Skylodge, cápsulas en el Valle Sagrado | StayAtNiche"
-  metaDescription: "El hotel más audaz del mundo: cápsulas transparentes colgadas a 400 metros sobre el Valle Sagrado de Perú, con acceso por vía ferrata. Desde 450 US$ por noche."
+  metaDescription: "Un hotel audaz de cápsulas transparentes colgadas a 400 metros sobre el Valle Sagrado de Perú, con acceso por vía ferrata. Desde 450 US$ por noche."
 ---
 
 A unos dos tercios de la vía ferrata tallada en la pared de granito rojo de la montaña Pachar, el Valle Sagrado de los Incas se despliega en toda su anchura. El río Urubamba es un hilo plateado muy abajo; los andenes de Ollantaytambo brillan en verde sobre la tierra ocre; los Andes nevados cierran todos los horizontes. La mayoría de los escaladores se detiene aquí, no por agotamiento, sino porque la vista los deja clavados.
 
 Entonces levantan la mirada y ven su cama para esa noche atornillada a la pared del acantilado, cincuenta metros más arriba.
 
-Skylodge Adventure Suites, gestionado por Natura Vive en el Valle Sagrado de Perú, puede presumir con razón de ser el lugar más audaz del planeta para dormir. Las tres cápsulas colgantes, con estructuras de aluminio de calidad aeroespacial y paneles transparentes de policarbonato, están ancladas directamente a la montaña a unos 400 metros sobre el fondo del valle. Cada una aloja hasta a cuatro personas, aunque la experiencia funciona mejor para dos. La intimidad tan particular de una habitación transparente suspendida en el aire enrarecido de los Andes no admite más compañía que la de una pareja.
+Skylodge Adventure Suites, gestionado por Natura Vive en el Valle Sagrado de Perú, es uno de los lugares más audaces del planeta para dormir. Las tres cápsulas colgantes, con estructuras de aluminio de calidad aeroespacial y paneles transparentes de policarbonato, están ancladas directamente a la montaña a unos 400 metros sobre el fondo del valle. Cada una aloja hasta a cuatro personas, aunque la experiencia funciona mejor para dos. La intimidad tan particular de una habitación transparente suspendida en el aire enrarecido de los Andes no admite más compañía que la de una pareja.
 
 El ascenso deja claro, sin pedir disculpas, que este no es un hotel para todo el mundo. Los huéspedes se ponen el arnés en el fondo del valle y empiezan la vía ferrata, una ruta de escalada equipada con peldaños de hierro y cables de acero, asequible para cualquiera con una forma física razonable y sin experiencia previa en escalada. El recorrido dura de una a dos horas, según el ritmo y el tiempo que te detengas a contemplar el paisaje. Como alternativa, al final de la estancia los huéspedes pueden bajar en tirolina desde la cima de la montaña: una forma absurda y llena de alegría de dejar un hotel.
 

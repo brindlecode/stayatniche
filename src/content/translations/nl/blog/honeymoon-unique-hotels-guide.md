@@ -1,10 +1,10 @@
 ---
 source: honeymoon-unique-hotels-guide
-title: "De ultieme gids voor huwelijksreishotels: bijzondere overnachtingen voor de romantischste reis ter wereld"
-excerpt: "Je huwelijksreis verdient iets buitengewoons. Van privé-eilanden in de Indische Oceaan tot grotsuites op de kliffen van Cappadocië: dit zijn de romantischste bijzondere hotels ter wereld."
+title: "De ultieme gids voor huwelijksreishotels: bijzondere overnachtingen voor jouw romantischste reis"
+excerpt: "Je huwelijksreis verdient iets buitengewoons. Van privé-eilanden in de Indische Oceaan tot grotsuites op de kliffen van Cappadocië: dit zijn bijzondere hotels die zijn gemaakt voor romantiek."
 seo:
   metaTitle: "Huwelijksreis: de mooiste romantische hotels | StayAtNiche"
-  metaDescription: "De mooiste huwelijksreishotels ter wereld: privé-eilanden, overwatervilla's, boomhutten in de jungle en grotsuites voor de romantischste reis van je leven."
+  metaDescription: "Bijzondere huwelijksreishotels: privé-eilanden, overwatervilla's, boomhutten in de jungle en grotsuites voor een romantische reis om nooit te vergeten."
 ---
 
 De stellen die hun huwelijksreis de rest van hun leven blijven herinneren, zijn niet degenen die een mooi resort boekten en een week op het strand lagen. Het zijn degenen die wakker werden boven turquoise lagunes, bij dageraad door nevelwouden liepen, vanuit bed naar het noorderlicht keken of bij zonsopgang in een luchtballon boven feeënschoorstenen zweefden. De accommodaties in deze gids delen één criterium: ze leveren het soort ervaring dat deel wordt van het gedeelde verhaal van een stel, de ijkpunten waar je jaren later nog naar verwijst, de nachten die het antwoord worden op de vraag "wat is het meest buitengewone dat jullie ooit samen hebben gedaan?"

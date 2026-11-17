@@ -61,7 +61,7 @@ niche_source_url: "https://zaborin.com/en/"
 niche_verified_at: 2026-11-17
 ---
 
-Niseko's fame rests on powder snow — the statistics are remarkable: 15 metres of annual snowfall, dry champagne consistency, and a powder record that surpasses most of the world's premier ski destinations. But Niseko has a second season that receives less attention internationally: summer and autumn, when the Hokkaido countryside — volcanic mountains, rolling dairy farmland, river valleys — is among Japan's most beautiful rural landscapes. Zaborin was designed for both, and succeeds equally at each.
+Niseko's fame rests on powder snow — the statistics are remarkable: 15 metres of annual snowfall, dry champagne consistency, and a powder reputation that rivals major ski destinations worldwide. But Niseko has a second season that receives less attention internationally: summer and autumn, when the Hokkaido countryside — volcanic mountains, rolling dairy farmland, river valleys — is among Japan's most beautiful rural landscapes. Zaborin was designed for both, and succeeds equally at each.
 
 The property comprises forty independent villas scattered through the forest, each constructed from natural materials — dark timber, stone, washi paper screens — that harmonise with the winter snowscape and the summer green without effort. The defining feature of each villa is the private outdoor rotenburo: a stone-lined bath filled with water drawn from a natural thermal spring, set on a terrace surrounded by bamboo and birch. In winter, guests soak in water at 40°C while snow falls silently around them, which is one of the more persuasive arguments for travel anywhere. In summer, the same bath looks out onto birdsong and dappled forest light.
 

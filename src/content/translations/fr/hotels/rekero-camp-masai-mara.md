@@ -1,7 +1,7 @@
 ---
 source: rekero-camp-masai-mara
 destination: "Réserve nationale du Masai Mara, vallée du Rift"
-description: "Rekero est un camp de tentes classique, niché dans un bosquet de figuiers au bord de la rivière Talek, au cœur du Masai Mara. Géré par le groupe Governors' Camp, il mise sur une expérience authentique de la brousse, des guides massaïs chevronnés et la faune résidente de la plus grande réserve du Kenya. Sa position au sein de la réserve met la Grande Migration à portée de ses hôtes, pour des observations remarquables."
+description: "Rekero est un camp de tentes classique, niché dans un bosquet de figuiers au bord de la rivière Talek, au cœur du Masai Mara. Géré par le groupe Governors' Camp, il mise sur une expérience authentique de la brousse, des guides massaïs chevronnés et la faune résidente de l'une des réserves les mieux connues du Kenya. Sa position au sein de la réserve met la Grande Migration à portée de ses hôtes, pour des observations remarquables."
 highlights:
   - "Des traversées exceptionnelles de la rivière Mara pendant la Grande Migration (juillet-octobre)"
   - "Troupes de lions, familles de guépards et léopards résidents dans les plaines du Mara"
@@ -24,7 +24,7 @@ bestFor:
   - "Amateurs de l'atmosphère du safari classique"
 prosAndCons:
   pros:
-    - "Le Masai Mara pendant la migration, c'est le summum du spectacle du safari africain"
+    - "Le Masai Mara pendant la migration, c'est l'un des grands spectacles du safari africain"
     - "Un camp de tentes classique, à l'atmosphère est-africaine authentique"
     - "Des safaris à la journée qui permettent de vivre les rencontres jusqu'au bout, sans contrainte horaire"
     - "Des guides massaïs qui apportent profondeur culturelle et talents de pisteur extraordinaires"
@@ -51,7 +51,7 @@ seo:
   metaDescription: "Rekero, camp de tentes classique au cœur du Masai Mara, au Kenya : Grande Migration, guides massaïs, safaris à la journée. À partir de 600 $ la nuit."
 ---
 
-Les prairies ouvertes et vallonnées du Masai Mara, qui s'étendent jusqu'à l'horizon sous le ciel d'Afrique de l'Est, abritent des concentrations de grands mammifères sans équivalent hors de l'écosystème du Serengeti, dont le Mara est le prolongement kényan au nord. Dans un camp bien placé au sein de la réserve, la faune est immédiate et permanente : inutile de faire de la route pour la trouver.
+Les prairies ouvertes et vallonnées du Masai Mara, qui s'étendent jusqu'à l'horizon sous le ciel d'Afrique de l'Est, abritent des concentrations exceptionnelles de grands mammifères au sein de l'écosystème élargi du Serengeti, dont le Mara est le prolongement kényan au nord. Dans un camp bien placé au sein de la réserve, la faune est immédiate et permanente : inutile de faire de la route pour la trouver.
 
 Rekero est installé sous de grands figuiers au bord de la rivière Talek. Ses dix tentes classiques en toile s'alignent le long de la berge, dans le style des grands camps d'Afrique de l'Est de l'époque des chasses coloniales, désormais entièrement dédiés au safari photo et à l'observation de la faune. Les parois de toile et la structure en bois rendent les bruits de la brousse tout proches — la toux territoriale d'un léopard quelque part dans l'obscurité, les appels lointains d'une troupe de lions, les hippopotames dans la rivière en contrebas —, et les vérandas surplombant la berge font de chaque matin un moment attendu.
 

@@ -1,9 +1,9 @@
 ---
 source: rovos-rail-south-africa
 destination: "De Pretoria a Ciudad del Cabo (y más allá)"
-description: "Considerado por muchos el tren más lujoso del mundo, Rovos Rail recorre las rutas más espectaculares del sur de África con vagones de época de propiedad privada, cada uno restaurado fielmente según su periodo. El trayecto de Pretoria a Ciudad del Cabo cruza el Karoo; la epopeya de El Cabo a El Cairo dura dos semanas. El servicio y la comodidad superan a los de la mayoría de los hoteles de cinco estrellas."
+description: "Tren de lujo de gestión privada, Rovos Rail recorre las rutas más espectaculares del sur de África con vagones de época de propiedad privada, cada uno restaurado fielmente según su periodo. El trayecto de Pretoria a Ciudad del Cabo cruza el Karoo; la epopeya de El Cabo a El Cairo dura dos semanas. El servicio y la comodidad rivalizan con los de muchos hoteles de cinco estrellas."
 highlights:
-  - "Aclamado por muchos como el tren más lujoso del mundo"
+  - "Aclamado como uno de los grandes trenes de lujo del mundo"
   - "Gestionado por su propietario: no es un producto corporativo, sino un proyecto personal nacido de la pasión"
   - "Trayecto de Pretoria a Ciudad del Cabo a través del Karoo, uno de los grandes paisajes de África"
   - "Vagón mirador en la cola del tren para disfrutar de vistas panorámicas al aire libre"
@@ -24,7 +24,7 @@ bestFor:
   - "Viajeros que quieren conocer África a un ritmo contemplativo"
 prosAndCons:
   pros:
-    - "El nivel de servicio y atención personal es excepcional, citado a menudo como el mejor de cualquier tren"
+    - "El nivel de servicio y atención personal es excepcional, elogiado a menudo por los viajeros"
     - "El vagón mirador es uno de los grandes placeres del viaje: África vista desde una plataforma abierta"
     - "Al ser de propiedad personal, Rovos tiene una calidez y un carácter que ningún tren corporativo puede imitar"
     - "El paisaje del Karoo y las montañas del río Hex están entre los más bellos de Sudáfrica"
@@ -47,11 +47,11 @@ nearbyAttractions:
   - name: Región vinícola de El Cabo
     distance: A 50 km de Ciudad del Cabo
 seo:
-  metaTitle: "Rovos Rail, el tren más lujoso de Sudáfrica | StayAtNiche"
-  metaDescription: "Los vagones de época de Rovos Rail entre Pretoria y Ciudad del Cabo: el tren más lujoso del mundo, con vagón mirador y cocina de primer nivel. Desde 2.800 US$."
+  metaTitle: "Rovos Rail, tren de lujo en Sudáfrica | StayAtNiche"
+  metaDescription: "Los vagones de época de Rovos Rail entre Pretoria y Ciudad del Cabo: un tren de lujo con vagón mirador y cocina de primer nivel. Desde 2.800 US$."
 ---
 
-Rovos Rail no es una empresa en el sentido en que lo son la mayoría de los negocios de viajes de lujo. Es una pasión convertida en material rodante. Rohan Vos empezó a comprar y restaurar vagones de ferrocarril antiguos en los años ochenta como proyecto personal, una forma de salvar los magníficos coches de la edad de oro del ferrocarril en el sur de África, que se estaban desguazando a medida que se reducían las redes ferroviarias del continente. Lo que comenzó como una obsesión de coleccionista se ha convertido, a lo largo de cuarenta años, en el mejor tren de lujo de gestión privada del mundo.
+Rovos Rail no es una empresa en el sentido en que lo son la mayoría de los negocios de viajes de lujo. Es una pasión convertida en material rodante. Rohan Vos empezó a comprar y restaurar vagones de ferrocarril antiguos en los años ochenta como proyecto personal, una forma de salvar los magníficos coches de la edad de oro del ferrocarril en el sur de África, que se estaban desguazando a medida que se reducían las redes ferroviarias del continente. Lo que comenzó como una obsesión de coleccionista se ha convertido, a lo largo de cuarenta años, en uno de los trenes de lujo de gestión privada más conocidos del mundo.
 
 Los vagones son auténticos: coches de la época victoriana reconvertidos de su uso original, o coches cama de principios del siglo XX construidos para el Union Limited y otros servicios de prestigio de la era ferroviaria del Imperio británico, cada uno restaurado con una fidelidad extraordinaria a su carácter de época. Paneles de teca, herrajes de latón, ventanas originales adaptadas para el aire acondicionado y la seguridad, y baños privados allí donde antes estaban los lavabos originales del coche cama. Las Royal Suites, compartimentos privados de 16 metros cuadrados con cama de tamaño completo, sofá, baño y ventanas en tres lados, ofrecen un nivel de espacio y privacidad que ningún tren comparable puede igualar.
 

@@ -43,11 +43,11 @@ tags:
   - "southern-italy"
 prosAndCons:
   pros:
-    - "Unrivalled historic atmosphere, sleeping in rooms used for millennia"
+    - "Remarkable historic atmosphere, sleeping in rooms used for millennia"
     - "Conservation-led restoration that is genuinely sensitive and beautiful"
     - "Matera itself is one of Italy's most extraordinary and underrated cities"
     - "Excellent restaurant with strong regional focus"
-    - "Among the world's most photogenic hotel interiors"
+    - "Highly photogenic hotel interiors"
   cons:
     - "Cave rooms can feel dark, not ideal for those who need natural light in rooms"
     - "Matera is not easily reached without a car or specific connections"
@@ -80,7 +80,7 @@ status: "published"
 publishedDate: 2025-01-22
 seo:
   metaTitle: "Sextantio Le Grotte della Civita Review, Cave Hotel in Matera, Italy"
-  metaDescription: "Sleep in ancient sassi cave dwellings in Matera, Italy's 9,000-year-old UNESCO city. Sextantio Le Grotte della Civita is one of the world's most extraordinary boutique hotels."
+  metaDescription: "Sleep in ancient sassi cave dwellings in Matera, Italy's 9,000-year-old UNESCO city. Sextantio Le Grotte della Civita is a distinctive boutique cave hotel."
 affiliateLinks:
   - partner: "expedia"
     url: "https://www.expedia.com/Hotel-Search?destination=Matera%2C%20Italy&adults=2"

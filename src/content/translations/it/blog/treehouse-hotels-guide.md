@@ -57,7 +57,7 @@ Nelle strutture di alto livello i tempi dello spirito di adattamento sugli alber
 
 
 
-**Treehotel, Harads, Lapponia svedese**: la casa sugli alberi più ambiziosa dal punto di vista architettonico della Terra. Sette camere progettate da architetti diversi, ognuna più sorprendente della precedente: il Mirrored Cube, l’UFO, il Bird’s Nest, la 7th Room (una suite in quota raggiungibile con un ponte sospeso). D’inverno ti trovi sotto alcuni dei cieli più bui e limpidi della Scandinavia. Prezzi da circa 350–700 $ a notte a seconda della camera. Per le date invernali prenota con 6–12 mesi di anticipo.
+**Treehotel, Harads, Lapponia svedese**: una delle case sugli alberi più ambiziose dal punto di vista architettonico. Sette camere progettate da architetti diversi, ognuna più sorprendente della precedente: il Mirrored Cube, l’UFO, il Bird’s Nest, la 7th Room (una suite in quota raggiungibile con un ponte sospeso). D’inverno ti trovi sotto alcuni dei cieli più bui e limpidi della Scandinavia. Prezzi da circa 350–700 $ a notte a seconda della camera. Per le date invernali prenota con 6–12 mesi di anticipo.
 
 **La Cabane Perchée, Francia**: una rete di case sugli alberi di lusso in diverse regioni forestali francesi, alcune nei castagneti della Valle della Loira, altre nei boschi di querce della Normandia. Il livello delle finiture (letti a baldacchino, stufe a legna, terrazze private) è davvero eccezionale. Prezzi da 300–600 € a notte.
 
@@ -66,7 +66,7 @@ Nelle strutture di alto livello i tempi dello spirito di adattamento sugli alber
 
 **Free Spirit Spheres, isola di Vancouver, Canada**: tre capsule sferiche sospese, Eve, Eryn e Melody, appese con cavi agli abeti di Douglas sull’isola di Vancouver. Non sono strutture di lusso (bagni in comune a terra, attrezzature da cucina essenziali), ma sono davvero tra i concetti di alloggio più originali del pianeta. Prezzi intorno ai 200–280 CAD a notte. Prenota con mesi di anticipo.
 
-**Costa Rica**: il Costa Rica offre probabilmente la migliore combinazione al mondo tra case sugli alberi e biodiversità. Il Lapa Rios, sulla penisola di Osa, ha bungalow sopraelevati tra le chiome della foresta pluviale; case sugli alberi più piccole, gestite dai proprietari, nelle regioni di Monteverde e Arenal offrono una vera immersione nella volta forestale con un accesso straordinario alla fauna. Prezzi da 150 a oltre 600 $ a notte a seconda della struttura.
+**Costa Rica**: il Costa Rica offre un’eccellente combinazione tra case sugli alberi e biodiversità. Il Lapa Rios, sulla penisola di Osa, ha bungalow sopraelevati tra le chiome della foresta pluviale; case sugli alberi più piccole, gestite dai proprietari, nelle regioni di Monteverde e Arenal offrono una vera immersione nella volta forestale con un accesso straordinario alla fauna. Prezzi da 150 a oltre 600 $ a notte a seconda della struttura.
 
 **Stati Uniti**: negli Stati Uniti le case sugli alberi sono in pieno boom. Treehouse Point vicino a Seattle (sei case sugli alberi costruite da Pete Nelson, noto per il programma TV Treehouse Masters) è il punto di riferimento. Il Tennessee conta decine di case sugli alberi di lusso in affitto nelle Great Smoky Mountains. Le Cascate occidentali e il Pacifico nord-occidentale offrono un’ottima immersione nella foresta.
 
