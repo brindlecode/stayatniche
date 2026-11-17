@@ -20,7 +20,7 @@ amenities:
 bestFor:
   - "Liebhaber luxuriöser Bahnreisen"
   - "Fans südafrikanischer Geschichte und Landschaften"
-  - "Paare auf der Suche nach der ultimativen romantischen Zugreise"
+  - "Paare auf der Suche nach einer romantischen Zugreise"
   - "Reisende, die Afrika in beschaulichem Tempo erleben möchten"
 prosAndCons:
   pros:
@@ -55,7 +55,7 @@ Rovos Rail ist kein Unternehmen im Sinne der meisten Luxusreiseanbieter. Es ist 
 
 Die Wagen sind authentisch: viktorianische Waggons, die aus ihrem ursprünglichen Zweck umgebaut wurden, oder Schlafwagen aus dem frühen 20. Jahrhundert, gebaut für den Union Limited und andere prestigeträchtige Verbindungen aus der Eisenbahnzeit des Britischen Empire – jeder mit außergewöhnlicher Treue zu seinem historischen Charakter restauriert. Teakvertäfelung, Messingbeschläge, Originalfenster, die für Klimaanlage und Sicherheit angepasst wurden, und eigene Bäder dort, wo einst die Waschbecken der Wagons-Lits standen. Die Royal Suites – 16 Quadratmeter privates Abteil mit großem Bett, Sofa, Bad und Fenstern auf drei Seiten – bieten ein Maß an Raum und Privatsphäre, das kein vergleichbarer Zug erreicht.
 
-Der Aussichtswagen am Ende des Zuges ist das Element, das die Fahrgäste am zuverlässigsten innehalten lässt: eine offene Plattform am Zugende, auf der man steht und zusieht, wie die afrikanische Landschaft hinter einem zurückweicht – ohne Glas dazwischen, nah genug am Gleis, um die Hitze zu spüren und den Klang der Karoo zu hören, nichts zwischen sich und dem Kontinent. Am frühen Morgen, wenn die Luft kalt ist und die Tafelberge der Karoo das erste flache Licht einfangen, ist das ein Aussichtspunkt, wie ihn kein anderer Zug der Welt bietet.
+Der Aussichtswagen am Ende des Zuges ist das Element, das die Fahrgäste am zuverlässigsten innehalten lässt: eine offene Plattform am Zugende, auf der man steht und zusieht, wie die afrikanische Landschaft hinter einem zurückweicht – ohne Glas dazwischen, nah genug am Gleis, um die Hitze zu spüren und den Klang der Karoo zu hören, nichts zwischen sich und dem Kontinent. Am frühen Morgen, wenn die Luft kalt ist und die Tafelberge der Karoo das erste flache Licht einfangen, ist das ein Aussichtspunkt, wie ihn nur eine offene Aussichtsplattform bieten kann.
 
 Im Speisewagen wird formell eingedeckt, ganz im Sinne der viktorianischen Eisenbahntradition, aus der er stammt. Drei Gänge zum Abendessen, begleitet von einer Auswahl aus Südafrikas besten Weinregionen, an Tischen für Gruppen, die sich im Laufe der zweitägigen Reise immer wieder neu zusammensetzen. Die Gespräche, die sich im Rovos Rail entspinnen, haben eine Qualität, die dieser Art des Reisens eigen ist: Die unvermeidliche Nähe einer kleinen, fahrenden Welt ohne Telefon und Internet schafft eine gesellige Atmosphäre, die die meisten Reisenden zu den unerwarteten Freuden der Fahrt zählen.
 

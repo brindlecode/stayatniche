@@ -1,7 +1,7 @@
 ---
 source: awasi-atacama-chile
 destination: San Pedro de Atacama, Antofagasta
-description: "Twaalf privévilla's hoog in de Atacamawoestijn, elk met een eigen auto en een eigen gids: de meest persoonlijke manier om de droogste niet-polaire woestijn ter wereld te ontdekken. De zoutvlakten, geisers, flamingolagunes en vulkanen van 8000 meter van de Atacama deel je niet volgens een schema met andere gasten; je verkent ze in je eigen tempo met een vaste expert."
+description: "Twaalf privévilla's hoog in de Atacamawoestijn, elk met een eigen auto en een eigen gids: een zeer persoonlijke manier om de droogste niet-polaire woestijn ter wereld te ontdekken. De zoutvlakten, geisers, flamingolagunes en vulkanen van 8000 meter van de Atacama deel je niet volgens een schema met andere gasten; je verkent ze in je eigen tempo met een vaste expert."
 highlights:
   - Eigen gids en auto voor elke villa
   - De Atacama op maat verkennen, zonder groepstours

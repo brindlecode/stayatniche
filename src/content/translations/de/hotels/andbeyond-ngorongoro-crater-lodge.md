@@ -24,7 +24,7 @@ bestFor:
   - "Hochzeitsreisende"
 prosAndCons:
   pros:
-    - "Die Tierbeobachtung auf dem Kraterboden ist die verlässlichste Afrikas, mit allen Big Five an jedem Tag"
+    - "Die Tierbeobachtung auf dem Kraterboden ist verlässlich außergewöhnlich, mit allen Big Five an jedem Tag"
     - "Die Lodge selbst ist eines der großen theatralischen Hotelerlebnisse Afrikas"
     - "Die Lage am Kraterrand bietet ständigen Panoramablick in die Caldera"
     - "Die Verbindung von Kultur (Massai), Geologie und Tierwelt ist außergewöhnlich"

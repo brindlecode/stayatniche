@@ -24,7 +24,7 @@ bestFor:
   - "Chiunque voglia celebrare un traguardo importante con uno stile eccezionale"
 prosAndCons:
   pros:
-    - "Atmosfera storica incomparabile in carrozze davvero originali"
+    - "Atmosfera storica straordinaria in carrozze davvero originali"
     - "Il viaggio da Londra a Venezia attraverso le Alpi è una delle grandi esperienze di viaggio d'Europa"
     - "Cenare a bordo è un evento in sé: cucina eccezionale in un ambiente straordinario"
     - "Il senso dell'occasione, dalla partenza all'arrivo, non ha eguali in nessun'altra forma di viaggio"

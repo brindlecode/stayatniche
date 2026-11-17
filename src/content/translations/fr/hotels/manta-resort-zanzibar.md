@@ -72,4 +72,4 @@ Un hôte dédié vit à bord de la plateforme pendant toute la durée de chaque 
 
 L'île vaut à elle seule le voyage. Le canal de Pemba plonge à des profondeurs considérables tout près du rivage, provoquant des remontées d'eau qui nourrissent certains des coraux les plus sains de l'océan Indien. Les infrastructures touristiques sont minimales — une poignée de lodges, aucun front de mer bétonné — et les villages de cultivateurs de girofle et de pêcheurs qui jalonnent la côte vivent à un rythme véritablement paisible.
 
-Le lodge du Manta Resort, sur l'île, sert de point d'arrivée, propose une excellente plongée et prend en charge toute la logistique en bateau pour rejoindre l'Underwater Room. Ce n'est pas la nuit la plus luxueuse de l'océan Indien. Mais, de l'avis de presque tous ceux qui y ont dormi, c'est la plus singulière qui soit.
+Le lodge du Manta Resort, sur l'île, sert de point d'arrivée, propose une excellente plongée et prend en charge toute la logistique en bateau pour rejoindre l'Underwater Room. Ce n'est pas la nuit la plus luxueuse de l'océan Indien. Mais, de l'avis de presque tous ceux qui y ont dormi, c'est l'une des plus singulières qui soient.

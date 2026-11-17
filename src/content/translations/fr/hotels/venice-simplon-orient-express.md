@@ -24,7 +24,7 @@ bestFor:
   - "Tous ceux qui célèbrent un grand moment avec un style exceptionnel"
 prosAndCons:
   pros:
-    - "Une atmosphère historique incomparable, dans des voitures authentiquement d'origine"
+    - "Une atmosphère historique remarquable, dans des voitures authentiquement d'origine"
     - "Le trajet Londres-Venise à travers les Alpes est l'une des grandes expériences de voyage en Europe"
     - "Le dîner à bord est un événement en soi : une cuisine exceptionnelle dans un cadre extraordinaire"
     - "Le sentiment d'exception, du départ à l'arrivée, ne ressemble à aucun autre mode de voyage"

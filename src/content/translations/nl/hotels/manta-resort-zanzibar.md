@@ -72,4 +72,4 @@ Tijdens elk verblijf woont een vaste gastheer op het platform, die zorgt voor ma
 
 Het eiland zelf is de reis al waard. Het Pemba Channel wordt vlak voor de kust al snel erg diep, en het opwellende water houdt een van de gezondste koraalriffen van de Indische Oceaan in stand. Toeristische voorzieningen zijn er nauwelijks, een handvol lodges en geen strook met resorts, en de dorpen van kruidnagelboeren en vissers langs de kust leven in een tempo dat echt onthaast aanvoelt.
 
-De lodge van The Manta Resort op het eiland is het aankomstpunt, biedt uitstekende duikmogelijkheden en regelt alle bootvervoer naar de Underwater Room. De kamer is niet de luxueuste slaapplek van de Indische Oceaan. Maar volgens bijna iedereen die er een nacht heeft doorgebracht, is het wel de meest unieke die er waar dan ook te vinden is.
+De lodge van The Manta Resort op het eiland is het aankomstpunt, biedt uitstekende duikmogelijkheden en regelt alle bootvervoer naar de Underwater Room. De kamer is niet de luxueuste slaapplek van de Indische Oceaan. Maar volgens bijna iedereen die er een nacht heeft doorgebracht, is het wel een van de meest unieke die er te vinden zijn.

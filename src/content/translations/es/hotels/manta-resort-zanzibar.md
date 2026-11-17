@@ -72,4 +72,4 @@ Un anfitrión dedicado vive en la plataforma durante cada estancia y se encarga 
 
 La isla en sí merece el viaje por méritos propios. El canal de Pemba alcanza grandes profundidades muy cerca de la costa, lo que genera afloramientos de agua que mantienen algunos de los corales más sanos del océano Índico. La infraestructura turística es mínima (un puñado de lodges, ninguna franja de resorts) y los pueblos de cultivadores de clavo y pescadores de la costa viven a un ritmo que se siente de verdad sin prisas.
 
-El lodge de The Manta Resort en tierra firme sirve de punto de llegada, ofrece un buceo excelente y se ocupa de toda la logística en barco para llegar a la Underwater Room. No es la noche más lujosa del océano Índico. Según casi todos los que han dormido en ella, es la más singular que existe en cualquier parte.
+El lodge de The Manta Resort en tierra firme sirve de punto de llegada, ofrece un buceo excelente y se ocupa de toda la logística en barco para llegar a la Underwater Room. No es la noche más lujosa del océano Índico. Según casi todos los que han dormido en ella, es una de las más singulares que existen.

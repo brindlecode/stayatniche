@@ -27,7 +27,7 @@ amenities:
   - In-pavilion telescope for night sky viewing
   - Daily guided cultural experiences
 bestFor:
-  - Discerning travellers seeking the ultimate Outback luxury experience
+  - Discerning travellers seeking a high-end Outback luxury experience
   - Cultural explorers interested in deep Anangu heritage
   - Photographers chasing Uluru's extraordinary light conditions
   - Couples marking a milestone occasion
@@ -64,7 +64,7 @@ featured: true
 status: published
 seo:
   metaTitle: "Longitude 131° Review, Luxury Tented Camp with Direct Uluru Views, Australia"
-  metaDescription: "Sixteen luxury pavilions on a private red-sand dune with sunrise views of Uluru. Longitude 131° is the most exclusive address in the Australian Outback. From $1,500/night."
+  metaDescription: "Sixteen luxury pavilions on a private red-sand dune with sunrise views of Uluru. Longitude 131° is an exclusive address in the Australian Outback. From $1,500/night."
 affiliateLinks:
   - partner: "expedia"
     url: "https://www.expedia.com/Hotel-Search?destination=Uluru%2C%20Northern%20Territory%2C%20Australia&adults=2"

@@ -24,7 +24,7 @@ bestFor:
   - "Huwelijksreizigers"
 prosAndCons:
   pros:
-    - "De wildobservatie op de kraterbodem is de betrouwbaarst uitzonderlijke van Afrika, elke dag alle Big Five"
+    - "De wildobservatie op de kraterbodem is betrouwbaar uitzonderlijk, elke dag alle Big Five"
     - "De lodge zelf is een van de grote theatrale hotelervaringen van Afrika"
     - "Door de ligging op de rand heb je permanent panoramisch zicht in de caldera"
     - "De combinatie van cultuur (Masai), geologie en wildlife is uitzonderlijk"

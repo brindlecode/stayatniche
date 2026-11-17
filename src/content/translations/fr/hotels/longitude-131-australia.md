@@ -21,7 +21,7 @@ amenities:
   - Télescope dans le pavillon pour observer le ciel nocturne
   - Expériences culturelles guidées chaque jour
 bestFor:
-  - Voyageurs exigeants en quête du summum du luxe dans l'Outback
+  - Voyageurs exigeants en quête d'un luxe haut de gamme dans l'Outback
   - Explorateurs curieux de la culture anangu en profondeur
   - Photographes en quête des lumières extraordinaires d'Uluru
   - Couples qui célèbrent un grand moment
@@ -51,7 +51,7 @@ nearbyAttractions:
     distance: 8 km
 seo:
   metaTitle: "Longitude 131° : camp de luxe face à Uluru | StayAtNiche"
-  metaDescription: "Longitude 131°, l'adresse la plus exclusive de l'Outback australien : seize pavillons de luxe sur une dune rouge, face à Uluru au lever du soleil. Dès 1 500 $."
+  metaDescription: "Longitude 131°, une adresse exclusive de l'Outback australien : seize pavillons de luxe sur une dune rouge, face à Uluru au lever du soleil. Dès 1 500 $."
 ---
 
 Uluru, dans les minutes qui suivent l'aube, justifie à lui seul un voyage. Le monolithe — 348 mètres de haut, 9,4 kilomètres de circonférence, un grès arkosique déposé il y a 500 millions d'années — absorbe et renvoie le soleil levant dans une succession de couleurs qui glisse du violet profond à l'orange brûlé puis au rose corail en une vingtaine de minutes. Des peintres s'y sont essayés. Des photographes y ont bâti leur carrière. À Longitude 131°, on le contemple depuis son lit.

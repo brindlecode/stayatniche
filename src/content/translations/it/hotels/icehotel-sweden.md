@@ -10,7 +10,7 @@ highlights:
   - Un bar di ghiaccio che serve cocktail in bicchieri di ghiaccio scolpito a -5 °C
   - Aurora boreale d’inverno, esplorazioni sotto il sole di mezzanotte d’estate
   - Slitte trainate dai cani, spedizioni in motoslitta e laboratori di scultura del ghiaccio
-  - Una cappella in loco, la location per matrimoni più fredda del mondo
+  - Una cappella in loco per matrimoni invernali
 amenities:
   - Art suite scolpita nel ghiaccio del fiume Torne (mantenuta a -5 °C)
   - Sacco a pelo su pelle di renna sul letto di ghiaccio (disponibili anche camere calde)

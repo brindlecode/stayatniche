@@ -21,7 +21,7 @@ amenities:
   - Telescopio en el pabellón para observar el cielo nocturno
   - Experiencias culturales guiadas a diario
 bestFor:
-  - Viajeros exigentes que buscan el lujo definitivo en el Outback
+  - Viajeros exigentes que buscan un lujo de alto nivel en el Outback
   - Exploradores culturales interesados a fondo en el legado anangu
   - Fotógrafos tras la extraordinaria luz de Uluru
   - Parejas que celebran una ocasión especial
@@ -51,7 +51,7 @@ nearbyAttractions:
     distance: 8 km
 seo:
   metaTitle: "Longitude 131°, lujo frente a Uluru | StayAtNiche"
-  metaDescription: "Dieciséis pabellones de lujo sobre una duna privada de arena roja con vistas al amanecer en Uluru: la dirección más exclusiva del Outback. Desde 1.500 US$."
+  metaDescription: "Dieciséis pabellones de lujo sobre una duna privada de arena roja con vistas al amanecer en Uluru: una dirección exclusiva del Outback. Desde 1.500 US$."
 ---
 
 Uluru en los minutos que siguen al amanecer justifica por sí solo un viaje. El monolito, de 348 metros de altura y 9,4 kilómetros de perímetro, una arenisca arcósica depositada hace 500 millones de años, absorbe y devuelve el primer sol en una secuencia de colores que pasa del violeta intenso al naranja tostado y al rosa coral en unos veinte minutos. Los pintores lo han intentado. Los fotógrafos han construido carreras en torno a ello. En Longitude 131°, los huéspedes lo contemplan desde la cama.

@@ -24,7 +24,7 @@ bestFor:
   - "Les voyages de noces"
 prosAndCons:
   pros:
-    - "L'observation de la faune au fond du cratère est la plus régulièrement exceptionnelle d'Afrique, avec les Big Five chaque jour"
+    - "L'observation de la faune au fond du cratère est régulièrement exceptionnelle, avec les Big Five chaque jour"
     - "Le lodge lui-même est l'une des grandes expériences hôtelières théâtrales d'Afrique"
     - "Sa position sur le rebord offre une vue panoramique permanente sur la caldeira"
     - "L'alliance de la culture massaï, de la géologie et de la faune est exceptionnelle"

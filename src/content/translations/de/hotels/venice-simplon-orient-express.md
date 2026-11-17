@@ -24,7 +24,7 @@ bestFor:
   - "Alle, die einen großen Anlass mit außergewöhnlichem Stil feiern"
 prosAndCons:
   pros:
-    - "Unvergleichliche historische Atmosphäre in wirklich originalen Wagen"
+    - "Beeindruckende historische Atmosphäre in wirklich originalen Wagen"
     - "Die Fahrt von London nach Venedig durch die Alpen gehört zu den großen Reiseerlebnissen Europas"
     - "Das Dinner an Bord ist ein Ereignis für sich – exzellente Küche in außergewöhnlichem Rahmen"
     - "Das Gefühl eines besonderen Anlasses von der Abfahrt bis zur Ankunft ist mit keiner anderen Reiseform vergleichbar"

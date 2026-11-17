@@ -33,7 +33,7 @@ bestFor:
   - "Honeymooners"
 prosAndCons:
   pros:
-    - "The crater floor game viewing is the most reliably exceptional in Africa, all Big Five daily"
+    - "The crater floor game viewing is reliably exceptional, with all Big Five seen daily"
     - "The lodge itself is one of Africa's great theatrical hotel experiences"
     - "The rim position provides permanent panoramic views into the caldera"
     - "The combination of cultural (Maasai), geological, and wildlife interest is exceptional"

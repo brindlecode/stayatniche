@@ -29,7 +29,7 @@ amenities:
 bestFor:
   - "Luxury rail travel enthusiasts"
   - "South African history and landscape devotees"
-  - "Couples seeking the ultimate romantic rail journey"
+  - "Couples seeking a romantic rail journey"
   - "Travellers who want to experience Africa at a contemplative pace"
 prosAndCons:
   pros:
@@ -91,7 +91,7 @@ Rovos Rail is not a company in the way most luxury travel businesses are compani
 
 The carriages are authentic: Victorian-era coaches converted from their original purposes, or early twentieth-century sleeping cars built for the Union Limited and other prestigious services of the British Empire railway era, each restored with extraordinary fidelity to its period character. Teak panelling, brass fittings, original windows modified for air conditioning and safety, and private en-suite bathrooms where the original wagon-lits washbasins once stood. The Royal Suites, 16 square metres of private compartment with a full-sized bed, couch, bathroom, and windows on three sides, represent a standard of space and privacy that no comparable train can match.
 
-The observation car, attached to the rear of the train, is the feature that most consistently stops passengers in their tracks: an outdoor platform at the tail where guests stand and watch the African landscape recede behind them, unobstructed by glass, close enough to the track to feel the heat and hear the sound of the Karoo, with nothing between them and the continent. In the early morning, when the air is cold and the flat topped hills of the Karoo catch the first horizontal light, it is the kind of vantage point that no other train in the world provides.
+The observation car, attached to the rear of the train, is the feature that most consistently stops passengers in their tracks: an outdoor platform at the tail where guests stand and watch the African landscape recede behind them, unobstructed by glass, close enough to the track to feel the heat and hear the sound of the Karoo, with nothing between them and the continent. In the early morning, when the air is cold and the flat topped hills of the Karoo catch the first horizontal light, it is the kind of vantage point that only an open observation platform can provide.
 
 The dining car operates on a formal table setting basis that is entirely appropriate to the Victorian railway tradition from which it descends. Three courses for dinner, served with a selection from South Africa's finest wine regions, at tables set for groups that form and reform as the two-day journey progresses. The conversations that develop on Rovos Rail have a quality distinctive to this mode of travel: the enforced intimacy of a small moving world, without phones or internet, creates a social atmosphere that most travellers describe as one of the journey's unexpected pleasures.
 

@@ -33,7 +33,7 @@ bestFor:
   - "Anyone celebrating a major milestone in exceptional style"
 prosAndCons:
   pros:
-    - "Incomparable historic atmosphere in genuinely original carriages"
+    - "Remarkable historic atmosphere in genuinely original carriages"
     - "The London to Venice journey through the Alps is one of Europe's great travel experiences"
     - "Dining aboard is an event in itself, exceptional food in extraordinary surroundings"
     - "The sense of occasion from departure to arrival is unlike any other form of travel"

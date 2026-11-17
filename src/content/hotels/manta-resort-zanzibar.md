@@ -123,4 +123,4 @@ A dedicated host lives aboard the platform for the duration of each stay, provid
 
 The island itself is worth the journey on its own terms. The Pemba Channel drops to considerable depth just offshore, generating upwellings that sustain some of the healthiest coral in the Indian Ocean. Tourist infrastructure is minimal — a handful of lodges, no resort strip — and the villages of clove farmers and fishermen along the coast operate at a pace that feels genuinely unhurried.
 
-The Manta Resort's mainland lodge serves as the arrival point, provides excellent diving, and handles all the boat logistics for reaching the Underwater Room. The room is not the most luxurious sleep in the Indian Ocean. By the account of nearly everyone who has spent a night in it, it is the most singular one available anywhere.
+The Manta Resort's mainland lodge serves as the arrival point, provides excellent diving, and handles all the boat logistics for reaching the Underwater Room. The room is not the most luxurious sleep in the Indian Ocean. By the account of nearly everyone who has spent a night in it, it is among the most singular available anywhere.

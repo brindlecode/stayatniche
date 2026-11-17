@@ -20,7 +20,7 @@ amenities:
 bestFor:
   - "Amateurs de voyages ferroviaires de luxe"
   - "Passionnés d'histoire et de paysages sud-africains"
-  - "Couples en quête du voyage en train le plus romantique qui soit"
+  - "Couples en quête d'un voyage en train romantique"
   - "Voyageurs qui veulent découvrir l'Afrique au rythme de la contemplation"
 prosAndCons:
   pros:
@@ -55,7 +55,7 @@ Rovos Rail n'est pas une entreprise au sens où le sont la plupart des acteurs d
 
 Les voitures sont authentiques : voitures de l'époque victorienne détournées de leur usage d'origine, ou voitures-lits du début du XXe siècle construites pour l'Union Limited et d'autres services prestigieux de l'ère ferroviaire de l'Empire britannique, chacune restaurée avec une fidélité extraordinaire à son époque. Boiseries de teck, garnitures en laiton, fenêtres d'origine adaptées pour la climatisation et la sécurité, salles de bains privatives là où se trouvaient jadis les lavabos des wagons-lits. Les Royal Suites — 16 mètres carrés de compartiment privé avec grand lit, canapé, salle de bains et fenêtres sur trois côtés — offrent un espace et une intimité qu'aucun train comparable ne peut égaler.
 
-La voiture d'observation, accrochée à l'arrière du train, est ce qui laisse le plus souvent les passagers sans voix : une plateforme ouverte en queue de convoi, où l'on regarde le paysage africain s'éloigner, sans vitre pour faire écran, assez près des rails pour sentir la chaleur et entendre la rumeur du Karoo, sans rien entre soi et le continent. Tôt le matin, quand l'air est froid et que les collines tabulaires du Karoo accrochent les premiers rayons rasants, c'est un poste d'observation qu'aucun autre train au monde n'offre.
+La voiture d'observation, accrochée à l'arrière du train, est ce qui laisse le plus souvent les passagers sans voix : une plateforme ouverte en queue de convoi, où l'on regarde le paysage africain s'éloigner, sans vitre pour faire écran, assez près des rails pour sentir la chaleur et entendre la rumeur du Karoo, sans rien entre soi et le continent. Tôt le matin, quand l'air est froid et que les collines tabulaires du Karoo accrochent les premiers rayons rasants, c'est un poste d'observation que seule une plateforme ouverte peut offrir.
 
 La voiture-restaurant fonctionne selon un service à table formel, parfaitement fidèle à la tradition ferroviaire victorienne dont elle descend. Trois plats au dîner, accompagnés d'une sélection issue des meilleures régions viticoles d'Afrique du Sud, à des tables où les convives se font et se défont au fil des deux jours de voyage. Les conversations qui naissent à bord de Rovos Rail ont une qualité propre à ce mode de voyage : l'intimité imposée d'un petit monde en mouvement, sans téléphone ni internet, crée une atmosphère que la plupart des voyageurs décrivent comme l'un des plaisirs inattendus du voyage.
 

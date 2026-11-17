@@ -72,4 +72,4 @@ Per tutta la durata del soggiorno un host dedicato vive a bordo della piattaform
 
 L'isola merita il viaggio di per sé. Il canale di Pemba sprofonda a grandi profondità subito al largo, generando risalite di acque profonde che alimentano alcuni dei coralli più sani dell'Oceano Indiano. Le infrastrutture turistiche sono minime — una manciata di lodge, nessuna fila di resort — e i villaggi di coltivatori di chiodi di garofano e di pescatori lungo la costa vivono a un ritmo davvero senza fretta.
 
-Il lodge del Manta Resort sulla terraferma è il punto d'arrivo, offre ottime immersioni e gestisce tutta la logistica in barca per raggiungere l'Underwater Room. Non è la notte più lussuosa dell'Oceano Indiano. Ma, a detta di quasi tutti quelli che ci hanno dormito, è la più singolare che si possa vivere al mondo.
+Il lodge del Manta Resort sulla terraferma è il punto d'arrivo, offre ottime immersioni e gestisce tutta la logistica in barca per raggiungere l'Underwater Room. Non è la notte più lussuosa dell'Oceano Indiano. Ma, a detta di quasi tutti quelli che ci hanno dormito, è tra le più singolari che si possano vivere.

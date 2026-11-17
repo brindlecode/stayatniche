@@ -1,7 +1,7 @@
 ---
 source: awasi-atacama-chile
 destination: "San Pedro de Atacama, Antofagasta"
-description: "Doce villas privadas en el altiplano del desierto de Atacama, cada una con su propio vehículo y guía privado: el acceso más personalizado al desierto no polar más seco del mundo. Los salares, géiseres, lagunas con flamencos y volcanes de 8000 metros de Atacama no se comparten con otros huéspedes ni se ajustan a horarios; los exploras a tu ritmo con un experto dedicado solo a ti."
+description: "Doce villas privadas en el altiplano del desierto de Atacama, cada una con su propio vehículo y guía privado: un acceso muy personalizado al desierto no polar más seco del mundo. Los salares, géiseres, lagunas con flamencos y volcanes de 8000 metros de Atacama no se comparten con otros huéspedes ni se ajustan a horarios; los exploras a tu ritmo con un experto dedicado solo a ti."
 highlights:
   - "Guía y vehículo privados para cada villa"
   - "Exploración personalizada de Atacama, sin excursiones en grupo"

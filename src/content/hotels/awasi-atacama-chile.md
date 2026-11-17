@@ -4,7 +4,7 @@ category: desert-camps
 destination: San Pedro de Atacama, Antofagasta
 country: Chile
 continent: South America
-description: Twelve private villas in the high Atacama Desert, each with its own vehicle and private guide — the most personalised access to the world's driest non-polar desert. The Atacama's salt flats, geysers, flamingo lagoons, and 8,000-metre volcanoes are not shared with other guests on schedules; they are explored at your own pace with a dedicated expert.
+description: Twelve private villas in the high Atacama Desert, each with its own vehicle and private guide — a highly personalised way to experience the world's driest non-polar desert. The Atacama's salt flats, geysers, flamingo lagoons, and 8,000-metre volcanoes are not shared with other guests on schedules; they are explored at your own pace with a dedicated expert.
 coverImage: /images/hotels/awasi-atacama-chile.jpg
 gallery:
   - /images/hotels/awasi-atacama-chile-2.jpg

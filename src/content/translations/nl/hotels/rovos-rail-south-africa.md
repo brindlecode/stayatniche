@@ -20,7 +20,7 @@ amenities:
 bestFor:
   - "Liefhebbers van luxe treinreizen"
   - "Wie gefascineerd is door de geschiedenis en landschappen van Zuid-Afrika"
-  - "Stellen die de ultieme romantische treinreis zoeken"
+  - "Stellen die een romantische treinreis zoeken"
   - "Reizigers die Afrika in een beschouwelijk tempo willen beleven"
 prosAndCons:
   pros:
@@ -55,7 +55,7 @@ Rovos Rail is geen bedrijf zoals de meeste luxe reisbedrijven dat zijn. Het is e
 
 De rijtuigen zijn echt: Victoriaanse rijtuigen die van hun oorspronkelijke functie zijn omgebouwd, of slaaprijtuigen uit het begin van de twintigste eeuw, gebouwd voor de Union Limited en andere prestigieuze diensten uit het spoortijdperk van het Britse Rijk. Elk is met buitengewone trouw aan zijn oorspronkelijke karakter gerestaureerd. Teakhouten lambrisering, messing beslag, originele ramen die zijn aangepast voor airco en veiligheid, en eigen badkamers op de plek waar ooit de wastafels van de wagons-lits stonden. De Royal Suites, privécompartimenten van 16 vierkante meter met een volwaardig bed, bank, badkamer en ramen aan drie kanten, bieden een ruimte en privacy waar geen vergelijkbare trein aan kan tippen.
 
-Het observatierijtuig achter aan de trein is wat passagiers het vaakst met stomheid slaat: een open platform aan de achterkant waar je staat te kijken hoe het Afrikaanse landschap achter je wegglijdt, zonder glas ertussen, dicht genoeg bij het spoor om de hitte te voelen en de Karoo te horen, met niets tussen jou en het continent. Vroeg in de ochtend, als de lucht koud is en de tafelbergen van de Karoo het eerste lage licht vangen, is het een uitkijkpunt dat geen andere trein ter wereld biedt.
+Het observatierijtuig achter aan de trein is wat passagiers het vaakst met stomheid slaat: een open platform aan de achterkant waar je staat te kijken hoe het Afrikaanse landschap achter je wegglijdt, zonder glas ertussen, dicht genoeg bij het spoor om de hitte te voelen en de Karoo te horen, met niets tussen jou en het continent. Vroeg in de ochtend, als de lucht koud is en de tafelbergen van de Karoo het eerste lage licht vangen, is het een uitkijkpunt dat alleen een open uitkijkplatform kan bieden.
 
 In het restauratierijtuig wordt formeel gedekt, helemaal in de geest van de Victoriaanse spoortraditie waar het uit voortkomt. 's Avonds drie gangen, met wijnen uit de beste wijnstreken van Zuid-Afrika, aan tafels waar het gezelschap in de loop van de tweedaagse reis steeds wisselt. De gesprekken die op Rovos Rail ontstaan, hebben een kwaliteit die typisch is voor deze manier van reizen: de gedwongen intimiteit van een kleine, rijdende wereld zonder telefoon of internet schept een sociale sfeer die de meeste reizigers een van de onverwachte genoegens van de reis noemen.
 

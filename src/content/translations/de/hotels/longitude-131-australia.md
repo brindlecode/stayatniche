@@ -21,7 +21,7 @@ amenities:
   - Teleskop im Pavillon zur Sternbeobachtung
   - Täglich geführte Kulturerlebnisse
 bestFor:
-  - Anspruchsvolle Reisende, die das ultimative Luxuserlebnis im Outback suchen
+  - Anspruchsvolle Reisende, die ein hochwertiges Luxuserlebnis im Outback suchen
   - Kulturinteressierte mit Blick für das Erbe der Anangu
   - Fotografen, die das außergewöhnliche Licht am Uluru einfangen wollen
   - Paare, die einen besonderen Anlass feiern

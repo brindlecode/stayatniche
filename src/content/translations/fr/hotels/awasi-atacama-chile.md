@@ -1,7 +1,7 @@
 ---
 source: awasi-atacama-chile
 destination: "San Pedro de Atacama, Antofagasta"
-description: "Douze villas privées sur les hauts plateaux du désert d'Atacama, chacune avec son véhicule et son guide attitré : l'accès le plus personnalisé qui soit au désert non polaire le plus sec du monde. Salars, geysers, lagunes à flamants roses et volcans de 8 000 mètres ne se partagent pas avec d'autres voyageurs selon un horaire imposé : on les explore à son rythme, avec un expert dédié."
+description: "Douze villas privées sur les hauts plateaux du désert d'Atacama, chacune avec son véhicule et son guide attitré : un accès très personnalisé au désert non polaire le plus sec du monde. Salars, geysers, lagunes à flamants roses et volcans de 8 000 mètres ne se partagent pas avec d'autres voyageurs selon un horaire imposé : on les explore à son rythme, avec un expert dédié."
 highlights:
   - "Guide et véhicule privés pour chaque villa"
   - "Une exploration de l'Atacama sur mesure, sans excursions en groupe"

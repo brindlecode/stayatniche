@@ -24,7 +24,7 @@ bestFor:
   - "Iedereen die een grote mijlpaal in stijl wil vieren"
 prosAndCons:
   pros:
-    - "Onvergelijkbare historische sfeer in echt originele rijtuigen"
+    - "Opmerkelijke historische sfeer in echt originele rijtuigen"
     - "De reis van Londen naar Venetië door de Alpen is een van de grote reiservaringen van Europa"
     - "Dineren aan boord is een belevenis op zich, uitzonderlijk eten in een buitengewone omgeving"
     - "Het gevoel van een bijzondere gelegenheid, van vertrek tot aankomst, is met geen andere vorm van reizen te vergelijken"
