@@ -9,7 +9,7 @@ highlights:
   - Paseos en camello al amanecer por el paisaje desértico
   - Cena a la luz de las velas bajo las estrellas con un festín marroquí
   - El Atlas visible en el horizonte
-  - Dos campamentos: The Stone Camp (histórico) y Les Roches Noires (más reciente)
+  - "Dos campamentos: The Stone Camp (histórico) y Les Roches Noires (más reciente)"
   - Sesiones de yoga y meditación en pleno desierto
 amenities:
   - Jaima bereber de lujo con camas y ropa de cama de calidad

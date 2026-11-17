@@ -9,7 +9,7 @@ highlights:
   - Balades à dos de dromadaire au lever du soleil dans le désert
   - Dîner aux chandelles sous les étoiles, avec festin marocain
   - L'Atlas visible à l'horizon
-  - Deux camps : The Stone Camp (historique) et Les Roches Noires (plus récent)
+  - "Deux camps : The Stone Camp (historique) et Les Roches Noires (plus récent)"
   - Séances de yoga et de méditation à même le sol du désert
 amenities:
   - Tente berbère de luxe, avec vrais lits et beau linge

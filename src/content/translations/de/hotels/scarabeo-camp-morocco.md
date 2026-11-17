@@ -9,7 +9,7 @@ highlights:
   - Kamelritte bei Sonnenaufgang in die Wüstenlandschaft
   - Abendessen bei Kerzenlicht unter den Sternen mit marokkanischem Festmahl
   - Das Atlasgebirge am Horizont
-  - Zwei Camps: The Stone Camp (historisch) und Les Roches Noires (neuer)
+  - "Zwei Camps: The Stone Camp (historisch) und Les Roches Noires (neuer)"
   - Yoga und Meditation auf dem Wüstenboden
 amenities:
   - Luxuriöses Berberzelt mit richtigen Betten und Bettwäsche

@@ -10,7 +10,7 @@ priceRange: "$280 - $480"
 priceIndicator: 3
 highlights:
   - Transparent bubbles in a Provençal park near Marseille
-  - Individually decorated bubbles: Zen, Jungle, Love Nature, Chic & Design and 1001 nights
+  - "Individually decorated bubbles: Zen, Jungle, Love Nature, Chic & Design and 1001 nights"
   - Private outdoor area with garden furniture for meals and breakfast
   - 180-degree stargazing from the comfort of your king bed
   - Gourmet breakfast basket delivered to your bubble each morning

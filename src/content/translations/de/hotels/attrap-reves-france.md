@@ -4,18 +4,18 @@ destination: Allauch, Provence
 description: "Transparente Bubbles, diskret verteilt in den Garrigue-Hügeln oberhalb von Allauch, jede mit eigener Einrichtung (Zen, Jungle, Love Nature, Chic & Design, 1001 Nächte) und alle so ausgerichtet, dass der provenzalische Nachthimmel die Decke über Ihrem Bett füllt. Zehn Kilometer vom Bahnhof Marseille Saint-Charles entfernt und doch eine ganz andere Welt."
 highlights:
   - Transparente Bubbles in einem provenzalischen Park nahe Marseille
-  - Individuell eingerichtete Bubbles: Zen, Jungle, Love Nature, Chic & Design und 1001 Nächte
+  - "Individuell eingerichtete Bubbles: Zen, Jungle, Love Nature, Chic & Design und 1001 Nächte"
   - Privater Außenbereich mit Gartenmöbeln für Mahlzeiten und Frühstück
   - Sternegucken mit 180-Grad-Blick bequem vom Kingsize-Bett aus
   - Jeden Morgen ein Gourmet-Frühstückskorb an Ihrer Bubble
-  - Optional buchbar: Whirlpool-Sitzung und Massage
+  - "Optional buchbar: Whirlpool-Sitzung und Massage"
   - Nähe zu Marseille, Aix-en-Provence und Cassis
   - Lavendel und Wildblumen rund um jede Kuppel, je nach Jahreszeit
 amenities:
   - Klimatisierte, transparente Bubble-Kuppel
   - Kingsize-Bett mit Blick in den Himmel
   - Private Außenterrasse
-  - Optional: Whirlpool-Sitzung und Massage (gegen Aufpreis)
+  - "Optional: Whirlpool-Sitzung und Massage (gegen Aufpreis)"
   - Frühstückskorb inklusive
   - Eigenes Bad mit Regendusche
   - Minibar und Nespresso-Maschine

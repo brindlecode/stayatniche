@@ -1,36 +1,39 @@
 ---
 source: palafitos-overwater-bungalows-mexico
 destination: "Playa del Carmen, Riviera Maya"
-description: "Un hôtel de la Riviera Maya dont toutes les chambres sont des bungalows sur pilotis au-dessus de la mer, membre du groupe Lomas Hospitality."
+description: "Un hôtel de la Riviera Maya dont toutes les chambres sont des bungalows au-dessus de la mer, membre du groupe Lomas Hospitality."
 highlights:
-  - "Chaque chambre est un bungalow sur pilotis au-dessus de l’eau"
+  - "Chaque chambre est un bungalow au-dessus de l’eau"
   - "Plancher de verre pour observer la vie marine"
   - "Bungalows Elite avec vue panoramique sur l’océan"
   - "Overwater Grill & Bar"
 amenities:
   - "Overwater Grill & Bar"
+  - "Spa (mentionné sur le site officiel)"
+  - "Plancher de verre dans la chambre pour observer la vie marine"
+  - "Baignoire à remous premium dans les bungalows Elite"
 bestFor:
   - "Couples"
   - "Séjours romantiques"
   - "Retraites de luxe"
 seo:
-  metaTitle: "Bungalows sur pilotis à Playa del Carmen | StayAtNiche"
-  metaDescription: "Palafitos, hôtel de la Riviera Maya à Playa del Carmen : bungalows sur pilotis au-dessus de la mer, plancher de verre et Bungalows Elite avec vue océan."
+  metaTitle: "Bungalows sur l’eau à Playa del Carmen | StayAtNiche"
+  metaDescription: "Palafitos, hôtel de la Riviera Maya (Playa del Carmen) : bungalows au-dessus de la mer, plancher de verre et bungalows Elite avec vue océan et baignoire."
 ---
 
-Palafitos Overwater Bungalows se trouve à Playa del Carmen, sur la Riviera Maya mexicaine, et il est géré par Lomas Hospitality. Son nom fait référence aux maisons sur pilotis qui donnent au lieu son allure : chaque chambre est un bungalow sur pilotis, si bien que l’ensemble de l’établissement repose au-dessus de la mer plutôt qu’à côté.
+Palafitos Overwater Bungalows se trouve sur la Riviera Maya mexicaine, référencé à Playa del Carmen, et il est géré par Lomas Hospitality. Chaque chambre est un bungalow au-dessus de l’eau, si bien que l’ensemble de l’établissement repose au-dessus de la mer plutôt qu’à côté.
 
 ## Les bungalows
 
-L’hôtel présente ses bungalows comme un refuge exclusif et luxueux, en harmonie avec la nature, et promet de vivre au-dessus des eaux bleues de la Riviera Maya. Un plancher de verre permet d’observer la vie marine en dessous. Les bungalows Elite offrent une vue panoramique sur l’océan. Comme chaque chambre est un bungalow sur pilotis, il n’y a pas à choisir entre une chambre côté jardin et une chambre côté eau, comme c’est souvent le cas dans les complexes balnéaires.
+L’hôtel présente ses bungalows comme un refuge exclusif et luxueux, en harmonie avec la nature, et promet de vivre au-dessus des eaux bleues de la Riviera Maya. Un plancher de verre permet d’observer la vie marine en dessous. Les bungalows Elite offrent une vue panoramique sur l’océan et une baignoire à remous premium. Comme chaque chambre est un bungalow au-dessus de l’eau, il n’y a pas à choisir entre une chambre côté jardin et une chambre côté eau, comme c’est souvent le cas dans les complexes balnéaires.
 
 ## Restauration
 
-L’Overwater Grill & Bar est le restaurant de l’établissement : on y dîne donc, lui aussi, au-dessus de l’eau.
+L’Overwater Grill & Bar est le restaurant de l’établissement : on y dîne donc, lui aussi, au-dessus de l’eau. Le menu du site officiel mentionne aussi un spa, sans détails.
 
 ## Le cadre
 
-Playa del Carmen est une ville côtière des Caraïbes, et l’adresse de l’hôtel le place sur ce tronçon de la Riviera Maya.
+L’adresse officielle est KM 45, Carretera Cancún-Tulum, sur la Riviera Maya, dans le Quintana Roo, et non une adresse dans la ville de Playa del Carmen.
 
 ## À qui s’adresse l’hôtel
 

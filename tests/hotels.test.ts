@@ -66,7 +66,7 @@ describe('every published hotel page', () => {
   });
   it('has no reviewCount without a source, and no guest-review wording for the editorial score', () => {
     for (const h of hotels) {
-      if (h.data.reviewCount != null) expect(h.data.reviewCountSource, h.slug).toBeTruthy();
+      if (h.data.reviewCount != null && (h.data.status ?? 'published') === 'published') expect(h.data.reviewCountSource, h.slug).toBeTruthy();
       expect(`${h.data.description}\n${h.body}`, h.slug).not.toMatch(/personally (reviewed|tested|stayed)|best in the world/i);
     }
   });

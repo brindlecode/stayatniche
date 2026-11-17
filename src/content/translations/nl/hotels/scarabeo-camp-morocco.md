@@ -9,7 +9,7 @@ highlights:
   - Kameeltochten bij zonsopgang de woestijn in
   - Diner bij kaarslicht onder de sterren met een Marokkaans feestmaal
   - Het Atlasgebergte zichtbaar aan de horizon
-  - Twee kampen: The Stone Camp (historisch) en Les Roches Noires (nieuwer)
+  - "Twee kampen: The Stone Camp (historisch) en Les Roches Noires (nieuwer)"
   - Yoga en meditatie op de woestijnbodem
 amenities:
   - Luxe berbertent met echte bedden en beddengoed

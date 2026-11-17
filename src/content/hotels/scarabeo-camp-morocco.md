@@ -15,7 +15,7 @@ highlights:
   - Camel treks at sunrise into the desert landscape
   - Candlelit dinner under the stars with Moroccan feast
   - Atlas Mountains visible on the horizon
-  - Two camps: The Stone Camp (historic) and Les Roches Noires (newer)
+  - "Two camps: The Stone Camp (historic) and Les Roches Noires (newer)"
   - Yoga and meditation sessions on the desert floor
 amenities:
   - Luxury Berber tent with proper beds and linens

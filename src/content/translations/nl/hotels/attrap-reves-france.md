@@ -4,7 +4,7 @@ destination: Allauch, Provence
 description: "Doorzichtige bubbels, afgeschermd verspreid in de garrigueheuvels boven Allauch, elk met een eigen inrichting (Zen, Jungle, Love Nature, Chic & Design, 1001 nachten) en allemaal zo gedraaid dat de Provençaalse nachthemel het plafond boven je bed vult. Tien kilometer van station Marseille Saint-Charles, en toch mijlenver ervandaan."
 highlights:
   - Doorzichtige bubbels in een Provençaals park vlak bij Marseille
-  - Bubbels met elk een eigen inrichting: Zen, Jungle, Love Nature, Chic & Design en 1001 nachten
+  - "Bubbels met elk een eigen inrichting: Zen, Jungle, Love Nature, Chic & Design en 1001 nachten"
   - Eigen buitenruimte met tuinmeubilair voor maaltijden en ontbijt
   - Sterrenkijken over 180 graden vanuit je kingsize bed
   - Elke ochtend een gastronomische ontbijtmand bij je bubbel

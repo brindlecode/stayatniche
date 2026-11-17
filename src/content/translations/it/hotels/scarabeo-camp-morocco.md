@@ -9,7 +9,7 @@ highlights:
   - Escursioni in cammello nel deserto all'alba
   - Cena a lume di candela sotto le stelle con un banchetto marocchino
   - L'Atlante visibile all'orizzonte
-  - Due campi: The Stone Camp (storico) e Les Roches Noires (più recente)
+  - "Due campi: The Stone Camp (storico) e Les Roches Noires (più recente)"
   - Sessioni di yoga e meditazione nel cuore del deserto
 amenities:
   - Tenda berbera di lusso con veri letti e biancheria di qualità

@@ -4,7 +4,7 @@ destination: Allauch, Provenza
 description: "Bolle trasparenti sistemate in piena riservatezza tra le colline di gariga sopra Allauch, ciascuna con un proprio arredamento (Zen, Jungle, Love Nature, Chic & Design, 1001 notti) e tutte orientate in modo che il cielo notturno della Provenza riempia il soffitto sopra il tuo letto. A dieci chilometri dalla stazione di Marsiglia Saint-Charles, eppure lontanissime."
 highlights:
   - Bolle trasparenti in un parco provenzale vicino a Marsiglia
-  - Bolle arredate ciascuna a modo suo: Zen, Jungle, Love Nature, Chic & Design e 1001 notti
+  - "Bolle arredate ciascuna a modo suo: Zen, Jungle, Love Nature, Chic & Design e 1001 notti"
   - Area esterna privata con mobili da giardino per pasti e colazione
   - Stelle a 180 gradi, comodamente sdraiato nel tuo letto king size
   - Cestino della colazione gourmet consegnato ogni mattina alla tua bolla
