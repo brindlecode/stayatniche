@@ -26,7 +26,8 @@ coordinates:
 officialWebsite: "https://www.baumhaushotel-solling.de/"
 sourceId: "osm:node/1768803607"
 verifiedAt: 2026-11-15
-status: draft
+publishedDate: 2026-11-17
+status: published
 ---
 
 Baumhaushotel Solling is a treehouse hotel in the forest of the Solling, in the Weserbergland of Lower Saxony. It opened in 2008 and was the first treehouse hotel in the state. Its guests come from near and far.
