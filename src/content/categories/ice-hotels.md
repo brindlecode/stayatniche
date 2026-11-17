@@ -1,7 +1,7 @@
 ---
 title: Ice Hotels
 tagline: "Sculpted from winter, melted by spring"
-description: Rebuilt entirely from scratch each winter using thousands of tonnes of Arctic snow and river ice, ice hotels are the world's most ephemeral luxury. Sculpted by international artists, maintained at sub-zero temperatures, and open for just a few months before returning poetically to the river, these frozen palaces are unlike anything else that exists.
+description: Rebuilt entirely from scratch each winter using thousands of tonnes of Arctic snow and river ice, ice hotels are among the most ephemeral forms of luxury. Sculpted by international artists, maintained at sub-zero temperatures, and open for just a few months before returning poetically to the river, these frozen palaces are unlike anything else that exists.
 icon: ice-hotels
 coverImage: /images/categories/ice-hotels.webp
 stats:
@@ -12,7 +12,7 @@ featured: true
 order: 10
 seo:
   metaTitle: "Ice Hotels, Sleep in a Frozen Palace This Winter | StayAtNiche"
-  metaDescription: "Experience the world's most extraordinary seasonal hotels carved from ice. Discover ice hotels in Sweden, Finland, Norway, and Canada and book your Arctic adventure."
+  metaDescription: "Experience extraordinary seasonal hotels carved from ice. Discover ice hotels in Sweden, Finland, Norway, and Canada and book your Arctic adventure."
 ---
 
 Every year, as autumn turns to winter in the Swedish subarctic, a peculiar construction project begins on the frozen Torne River near the village of Jukkasjärvi. Teams of ice harvesters move onto the ice and begin cutting, extracting blocks of crystal clear river ice — some up to 90 centimetres thick — that will form the structural bones of a building that does not yet exist. International artists arrive with sketches and chisels. Architects translate blueprints into construction guidelines for a medium unlike any other. By December, where there was frozen tundra in October, there is a palace: sculpted, lit, and open for guests to sleep in at temperatures well below freezing.

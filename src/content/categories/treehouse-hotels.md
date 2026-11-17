@@ -1,7 +1,7 @@
 ---
 title: Treehouse Hotels
 tagline: Sleep among the canopy, above it all
-description: Suspended high above the forest floor, treehouse hotels transform a childhood dream into sophisticated adult luxury. From Scandinavia's minimalist glass-and-timber retreats to tropical jungle platforms in Costa Rica and Bali, these canopy-level escapes deliver an unmatched connection with nature wrapped in genuine comfort.
+description: Suspended high above the forest floor, treehouse hotels transform a childhood dream into sophisticated adult luxury. From Scandinavia's minimalist glass-and-timber retreats to tropical jungle platforms in Costa Rica and Bali, these canopy-level escapes deliver a close connection with nature wrapped in genuine comfort.
 icon: treehouse-hotels
 coverImage: /images/categories/treehouse-hotels.webp
 stats:
@@ -12,7 +12,7 @@ featured: true
 order: 1
 seo:
   metaTitle: Treehouse Hotels, Luxury Stays Among the Treetops | StayAtNiche
-  metaDescription: Discover the world's finest treehouse hotels. Sleep in elevated luxury among forests in Sweden, Costa Rica, Bali, and beyond. Book your canopy escape today.
+  metaDescription: Discover standout treehouse hotels. Sleep in elevated luxury among forests in Sweden, Costa Rica, Bali, and beyond. Book your canopy escape today.
 ---
 
 The Treehotel in Harads, Sweden, has a mirrored cube that reflects the surrounding boreal forest so completely it disappears from the ground. That's the benchmark — not just for treehouse hotels, but for what niche accommodation can achieve when architects take the brief seriously.

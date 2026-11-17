@@ -2,7 +2,7 @@
 name: "Ecuador & the Galápagos"
 type: country
 continent: "South America"
-description: "The Galápagos Islands are the planet's greatest laboratory of evolution, 127 islands and islets where animals evolved without natural predators and remain fearless of human visitors. Ecuador's mainland adds cloud forest reserves, the Amazon basin, and Quito's extraordinary colonial old town to create one of South America's most diverse travel itineraries."
+description: "The Galápagos Islands are among the planet's most celebrated natural laboratories of evolution, 127 islands and islets where animals evolved without natural predators and remain fearless of human visitors. Ecuador's mainland adds cloud forest reserves, the Amazon basin, and Quito's extraordinary colonial old town to create one of South America's most diverse travel itineraries."
 coverImage: /images/destinations/ecuador-galapagos.jpg
 essentials:
   currency: "USD (Ecuador uses the US Dollar)"
@@ -45,6 +45,6 @@ The central Galápagos decision is between a liveaboard cruise and island-based 
 
 Ecuador's mainland is routinely treated as a transit corridor to the Galápagos, which is a significant mistake. Quito's Centro Histórico is the best-preserved colonial old town in the Americas — a UNESCO World Heritage Site of extraordinary churches, monasteries, and plazas compact enough to cover on foot. The Teleférico cable car climbs to 4,050 metres on Pichincha volcano above the city and delivers a perspective that puts the scale of the Andes into immediate context.
 
-The Mindo cloud forest, two hours west of Quito, is one of the world's top birdwatching destinations, with over 500 species in a small area of forest served by excellent lodge infrastructure. [Jungle lodges](/categories/jungle-lodges) in the Ecuadorian Amazon — Napo Wildlife Center, Sacha Lodge — offer serious wildlife experiences within reach of a continent that the Galápagos has historically overshadowed. Cuyabeno Wildlife Reserve, in particular, delivers river boat encounters with pink river dolphins, giant otters, and black caimans from lodges of genuine quality.
+The Mindo cloud forest, two hours west of Quito, is a well-known birdwatching destination, with over 500 species in a small area of forest served by excellent lodge infrastructure. [Jungle lodges](/categories/jungle-lodges) in the Ecuadorian Amazon — Napo Wildlife Center, Sacha Lodge — offer serious wildlife experiences within reach of a continent that the Galápagos has historically overshadowed. Cuyabeno Wildlife Reserve, in particular, delivers river boat encounters with pink river dolphins, giant otters, and black caimans from lodges of genuine quality.
 
 Galápagos flights depart from Quito (UIO) and Guayaquil (GYE) to Baltra or San Cristóbal. Only LATAM and Avianca Ecuador fly the route — book through your cruise or hotel as part of a package. The Galápagos National Park fee (USD $200 per person as of 2024) is paid on arrival, separate from the TCC. The total cost is real. So is the fact that the Galápagos remains one of the very few places on earth that consistently exceeds the expectations set by its own legendary reputation.

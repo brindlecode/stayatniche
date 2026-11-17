@@ -35,7 +35,7 @@ featured: true
 order: 1
 seo:
   metaTitle: "Maldives Travel Guide, Overwater Villas & Atolls | StayAtNiche"
-  metaDescription: "Discover the Maldives beyond the brochure, overwater bungalows, private atolls, bioluminescent beaches, and the world's best dive sites. Complete travel guide."
+  metaDescription: "Discover the Maldives beyond the brochure, overwater bungalows, private atolls, bioluminescent beaches, and renowned dive sites. Complete travel guide."
 ---
 
 The images are all real. Turquoise water so clear it looks artificial, villas on stilts hovering above coral gardens, sand that squeaks underfoot. But what photographs don't capture is the silence. Out here, 800 kilometres south-west of India, the Indian Ocean stretches to every horizon and the only sound is water. It's a particular kind of quiet you don't forget.

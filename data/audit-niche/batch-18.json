@@ -1,0 +1,304 @@
+[
+ {
+  "slug": "nothofagus-hotel-chile",
+  "name": "Nothofagus Hotel & Spa",
+  "official_url": "https://www.huilohuilo.com/en/where-to-stay/hotel-nothofagus",
+  "source_url": "https://www.huilohuilo.com/en/where-to-stay/hotel-nothofagus",
+  "source_type": "official",
+  "niche_scope": "unverified",
+  "niche_feature": "Official page describes a 55-room hotel building of 'mountain architecture' with four room categories; no separate treehouse units, no rooms built in or among trees. Treehouse feature not confirmed.",
+  "evidence_quote": "It is a hotel of mountain architecture and name inspired by the trees of the Patagonian Forest.",
+  "operating": "open",
+  "verdict": "draft",
+  "new_category": null,
+  "closest_category": "jungle-lodges",
+  "reason": "Multi-room hotel building (55 rooms), not free-standing treehouses; official source says only its name is inspired by trees. Fails treehouse rule.",
+  "treehouse_structure": "other_building",
+  "location": {
+   "region": "Los Ríos",
+   "city": "Neltume",
+   "locality": "Huilo-Huilo Biological Reserve"
+  },
+  "page_issues": [
+   "'Built around living ancient Nothofagus trees' is not supported by the official page (name merely inspired by trees)",
+   "Marketed as a treehouse hotel but is a 55-room hotel building"
+  ]
+ },
+ {
+  "slug": "pezulu-tree-house-lodge-south-africa",
+  "name": "Pezulu Tree House Lodge",
+  "official_url": "https://pezulu.co.za/welcome/",
+  "source_url": "https://pezulu.co.za/welcome/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Most units are separate treehouses built in or around living trees (e.g. Mountain View 7 m up in a Jackalberry tree, Dream interwoven with two Marula trees); the Zebrawood self-catering bush cabin is ground-level.",
+  "evidence_quote": "With each treehouse built around the canopy of growing trees, our unique accommodation fuses nature and comfort.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site confirms free-standing treehouses built in/around trees; one ordinary bush cabin (Zebrawood) is also offered.",
+  "treehouse_structure": "in_or_attached_to_tree",
+  "location": {
+   "region": "Limpopo",
+   "city": "Hoedspruit",
+   "locality": null
+  },
+  "page_issues": [
+   "Not every unit is a treehouse: Zebrawood is a self-catering ground bush cabin"
+  ]
+ },
+ {
+  "slug": "robles-treehouse-lodge-peru",
+  "name": "Robles Treehouse Lodge",
+  "official_url": "https://www.manurainforestperu.com/robles-tree-house.php",
+  "source_url": "https://www.manurainforestperu.com/robles-tree-house.php",
+  "source_type": "official",
+  "niche_scope": "unverified",
+  "niche_feature": "Official site says 10 private bungalows described as 'elevated treehouse-style'; it does not say they stand among trees, in trees or on stilts, so the treehouse rule cannot be confirmed.",
+  "evidence_quote": "stay in elevated treehouse-style bungalows surrounded by pristine Amazon nature",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Bungalows described only as elevated 'treehouse-style'; construction (among trees vs ordinary raised cabins) not stated, so unverified.",
+  "treehouse_structure": "unknown",
+  "location": {
+   "region": "Madre de Dios",
+   "city": "Manu",
+   "locality": "Palotoa River"
+  },
+  "page_issues": [
+   "'Raised above the jungle floor in the treehouse style' only partly supported; official text says 'elevated treehouse-style' with no detail on trees or stilts",
+   "Booking link points to Expedia, official lodge is part of a tour operator programme"
+  ]
+ },
+ {
+  "slug": "soneva-kiri-thailand",
+  "name": "Soneva Kiri",
+  "official_url": "https://kiriprivatereserve.com/",
+  "source_url": "https://hospibuz.com/hotel/Hotel-listicles/thailands-soneva-kiri-at-koh-kood-transitions-to-kiri-private-reserve-9367475",
+  "source_type": "other",
+  "niche_scope": "experience_only",
+  "niche_feature": "Tree pod is a dining experience in the rainforest canopy; guest accommodation is pool villas, not treehouses. Resort was renamed Kiri Private Reserve in 2025 and the old Soneva link now lands on an unrelated site.",
+  "evidence_quote": "Treepod Dining in the rainforest canopy, Tuk’s Kitchen serving authentic Thai cuisine",
+  "operating": "unknown",
+  "verdict": "draft",
+  "new_category": null,
+  "closest_category": "jungle-lodges",
+  "reason": "Treehouse element is only a dining pod; villas are not treehouses. Renamed Kiri Private Reserve; current operating status could not be confirmed.",
+  "treehouse_structure": "other_building",
+  "location": {
+   "region": "Trat",
+   "city": "Ko Kut",
+   "locality": null
+  },
+  "page_issues": [
+   "Resort renamed Kiri Private Reserve (June 2025) and ownership changed",
+   "Official domain soneva.com/soneva-kiri now redirects to kiriprivatereserve.com, which served unrelated gambling content; status unconfirmable",
+   "Tree pod is dining only, not accommodation"
+  ]
+ },
+ {
+  "slug": "transfagarasan-treehouse-village-romania",
+  "name": "Transfagarasan Treehouse Village",
+  "official_url": "https://transfagarasantreehousevillage.com",
+  "source_url": "https://transfagarasantreehousevillage.com/en/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Village of small separate cabins (Double, Triple, Twin, each about 25 sq m) described as houses suspended in trees; the site gives no further structural detail.",
+  "evidence_quote": "un mic satuc de case suspendate in copaci",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site describes the lodging as a village of houses suspended in trees; separate cabins, all bookable units.",
+  "treehouse_structure": "in_or_attached_to_tree",
+  "location": {
+   "region": "Argeș",
+   "city": "Curtea de Argeș",
+   "locality": "Transfăgărășan road, DN7C km 75"
+  },
+  "page_issues": [
+   "'Arefu' not stated by official site (it gives Transfagarasan DN7C km 75, Curtea de Arges)",
+   "Structure details beyond 'suspended in trees' not provided"
+  ]
+ },
+ {
+  "slug": "treehotel-sweden",
+  "name": "Treehotel",
+  "official_url": "https://treehotel.se",
+  "source_url": "https://treehotel.se/treerooms/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Nine separate designer treerooms (Mirrorcube, UFO, Bird's Nest, Cabin, 7th Room, etc.) in the pines; the separate Guesthouse (six heritage rooms) is not a treehouse.",
+  "evidence_quote": "Gaze out at Sweden’s spectacular nature from our separate, unique, secluded and comfortable rooms in the trees.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site confirms separate rooms in the trees (e.g. UFO 'suspended among the trees'); an ordinary guesthouse also exists.",
+  "treehouse_structure": "in_or_attached_to_tree",
+  "location": {
+   "region": "Norrbotten",
+   "city": "Boden",
+   "locality": "Harads"
+  },
+  "page_issues": [
+   "Page says seven rooms; official site lists nine treerooms plus a six-room Guesthouse",
+   "'One of the most inventive places to sleep in Europe' is a superlative",
+   "'Sixty kilometres south of the Arctic Circle' not on official pages"
+  ]
+ },
+ {
+  "slug": "treehouse-point-united-states",
+  "name": "Treehouse Point",
+  "official_url": "https://www.treehousepoint.com/",
+  "source_url": "https://www.treehousepoint.com/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Seven treehouses in or fixed to living trees (e.g. Trillium in a cedar, Ananda supported by two Douglas firs); also a lodge suite, a cabin and a converted army truck that are not treehouses.",
+  "evidence_quote": "Seven one-of-a-kind treehouses await you in an old-growth forest along the banks of a spring-fed river in Washington’s Snoqualmie Valley.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site confirms seven free-standing treehouses built in or around trees, plus three non-treehouse rooms.",
+  "treehouse_structure": "in_or_attached_to_tree",
+  "location": {
+   "region": "Washington",
+   "city": "Issaquah",
+   "locality": "Snoqualmie Valley"
+  },
+  "page_issues": []
+ },
+ {
+  "slug": "yuquiyu-treehouses-united-states",
+  "name": "Yuquiyú Treehouses",
+  "official_url": "https://yuquiyufarm.com/treehouses/",
+  "source_url": "https://yuquiyufarm.com/treehouses/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Three separate treehouses (El Mirador, La Cara de Indio, La Cascada) raised on pillars among the trees on a canyon side; each for two adults.",
+  "evidence_quote": "our humble dwellings float on pillars among the trees",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site confirms three free-standing units on pillars among trees; all bookable units are treehouses.",
+  "treehouse_structure": "stilts_among_trees",
+  "location": {
+   "region": "Puerto Rico",
+   "city": "Río Grande",
+   "locality": "El Yunque rainforest foothills"
+  },
+  "page_issues": []
+ },
+ {
+  "slug": "anantara-maldives-underwater",
+  "name": "Anantara Kihavah Maldives Villas",
+  "official_url": "https://www.anantara.com/en/kihavah-maldives",
+  "source_url": "https://www.thenationalnews.com/travel/2025/10/10/anantara-kihavah-maldives-review/",
+  "source_type": "other",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "SEA is an underwater restaurant (experience only). Sleeping is in 80 pool villas, some overwater on stilts reached by jetty, others beach villas. No underwater bedrooms found. Official site blocked (403).",
+  "evidence_quote": "a stilted villa, open to the ocean on all sides",
+  "operating": "open",
+  "verdict": "move",
+  "new_category": "overwater-bungalows",
+  "closest_category": null,
+  "reason": "Underwater element is the SEA restaurant only; bedrooms are beach or stilted overwater pool villas, so overwater-bungalows fits.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Baa Atoll",
+   "city": null,
+   "locality": "Kihavah Huravalhi"
+  },
+  "page_issues": [
+   "Glass floors above living reef not confirmed by any source reached",
+   "SEA depth given as 5 m; sources say about 6 m (nearly 20 ft)",
+   "'Most distinctive dinner in the Maldives' is a superlative",
+   "Not underwater rooms: restaurant only"
+  ]
+ },
+ {
+  "slug": "atlantis-aquaventure-bahamas",
+  "name": "Atlantis Paradise Island",
+  "official_url": "https://www.atlantisbahamas.com/",
+  "source_url": "https://www.atlantisbahamas.com/faq",
+  "source_type": "official",
+  "niche_scope": "experience_only",
+  "niche_feature": "Resort with towers (Cove, Royal, Coral, Reef, Harborside) and marine habitats/The Dig as attractions; no underwater rooms or suites found on official room or FAQ pages.",
+  "evidence_quote": "the largest open-air marine habitat in the world with over 50,000 marine animals from 250 species",
+  "operating": "open",
+  "verdict": "draft",
+  "new_category": null,
+  "closest_category": "underwater-rooms",
+  "reason": "Aquarium and marine habitat are attractions; no bedrooms below water. Underwater suites exist at Atlantis Dubai/Sanya, not Paradise Island.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "New Providence",
+   "city": "Nassau",
+   "locality": "Paradise Island"
+  },
+  "page_issues": [
+   "'Underwater suites with floor-to-ceiling lagoon views' not supported for Paradise Island",
+   "Habitat size inconsistent (11 vs 14 million litres) and unsourced",
+   "'World's largest outdoor marine habitat' superlative; official says largest open-air",
+   "Aquaventure acreage and slide counts unverified"
+  ]
+ },
+ {
+  "slug": "conrad-maldives-muraka",
+  "name": "Conrad Maldives Muraka",
+  "official_url": "https://conradmaldives.com/",
+  "source_url": "https://www.conradmaldives.com/villa/the-muraka/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "The Muraka is a single two-level residence with 3 bedrooms (2 above water, 1 underwater master suite with 180-degree acrylic dome); the rest of the resort is ordinary beach and overwater villas.",
+  "evidence_quote": "your master bedroom rests submerged over 16 feet below sea level in the Indian Ocean",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official page confirms an underwater master bedroom suite; it is one residence within a larger resort. Muraka under renovation until 15 Dec 2026.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "South Ari Atoll",
+   "city": null,
+   "locality": "Rangali Island"
+  },
+  "page_issues": [
+   "Only the master bedroom is underwater; the other two bedrooms are above water",
+   "Muraka currently closed for renovation, reopening 15 December 2026",
+   "'Only two-story underwater suite in the world' is a superlative; official says 'world's first'"
+  ]
+ },
+ {
+  "slug": "jules-undersea-lodge-florida",
+  "name": "Jules' Undersea Lodge",
+  "official_url": "https://www.marinelabunderseapark.org",
+  "source_url": "https://www.marinelabunderseapark.org/jules",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Historic habitat on the Key Largo lagoon floor (22 ft) now run by nonprofit MarineLab as 'Jules' Undersea Lab'; guests sleep underwater on a 24-hour Aquanaut Mission, no longer a hotel.",
+  "evidence_quote": "the world’s only underwater habitat where any recreational diver can experience what it’s like to live, learn and sleep underwater!",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site confirms sleeping in an underwater habitat via 24-hour missions, though it is now an educational attraction rather than a hotel.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Florida",
+   "city": "Key Largo",
+   "locality": null
+  },
+  "page_issues": [
+   "No longer a hotel or 'lodge': official site says it has been 'an exclusive hotel, and now an educational attraction'; renamed Jules' Undersea Lab",
+   "Stay is a 24-hour Aquanaut Mission, minimum two participants",
+   "Open Water certification (or accompanying instructor) required; 3-hour mini course claim not supported",
+   "'World's only true underwater hotel' superlative"
+  ]
+ }
+]

@@ -18,7 +18,7 @@ mustSee:
   - "Hot air balloon flight over Göreme Valley at sunrise"
   - "Göreme Open Air Museum, rock-cut churches with Byzantine frescoes"
   - "Derinkuyu Underground City, an 18-floor subterranean labyrinth"
-  - "Devrent Valley (Imagination Valley), the most dramatic fairy chimney formations"
+  - "Devrent Valley (Imagination Valley), dramatic fairy chimney formations"
   - "Ihlara Valley gorge hike between canyon walls of carved churches"
   - "Uçhisar Castle, the region's highest rock-cut fortress with panoramic views"
   - "Avanos pottery workshops, the region's ancient terracotta tradition"
@@ -43,7 +43,7 @@ Cappadocia is one of those places that looks better in real life than in photos.
 
 Cappadocia is ground zero for cave accommodation. Early Christians carved this landscape beginning in the 4th century, creating monasteries, churches, and entire underground cities to shelter from Arab raids. Today, those same chambers, and the rock-cut structures built upon them, have been transformed into some of the world's most distinctive hotels. The best cave suites combine original stone walls and arched ceilings with underfloor heating, rainfall showers, and private terraces overlooking valleys that glow amber at sunset. This is not novelty accommodation. It is genuinely extraordinary.
 
-Every morning when conditions allow, hundreds of balloons lift from the valleys around Göreme and Uçhisar in what is arguably the most spectacular aerial spectacle on earth. From above, the fairy chimneys cast long shadows over a landscape that resembles no other. Flights typically run 45–75 minutes and require pre-dawn pickups, but the reward is an hour suspended in silence over one of the world's great geological wonders. Book two to three months ahead for spring and autumn, or you won't get on one.
+Every morning when conditions allow, hundreds of balloons lift from the valleys around Göreme and Uçhisar in what is among the most spectacular aerial sights on earth. From above, the fairy chimneys cast long shadows over a landscape that resembles no other. Flights typically run 45–75 minutes and require pre-dawn pickups, but the reward is an hour suspended in silence over one of the world's great geological wonders. Book two to three months ahead for spring and autumn, or you won't get on one.
 
 The region's underground cities are among history's most ambitious engineering projects. Derinkuyu descends 18 floors below the surface and could shelter 20,000 people, complete with stables, wineries, churches, and ventilation shafts. Kaymakli is smaller but more atmospheric, its low tunnels connecting storage rooms and living quarters in near-total darkness.
 

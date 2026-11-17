@@ -18,7 +18,7 @@ mustSee:
   - "Deadvlei, ghost forest of 900-year-old camel thorn trees in a white clay depression"
   - "Etosha National Park, enormous salt pan with exceptional elephant, lion, and black rhino"
   - "Fish River Canyon, the second largest canyon on earth after the Grand Canyon"
-  - "Skeleton Coast, shipwrecks, Cape fur seal colonies, and the world's most remote coastline"
+  - "Skeleton Coast, shipwrecks, Cape fur seal colonies, and one of the world's most remote coastlines"
   - "Damaraland, desert-adapted elephants and ancient San rock engravings at Twyfelfontein"
 travelTips:
   - "Self-drive is Namibia's great adventure, roads are excellent, distances are vast, and a 4WD camper offers the freedom to sleep wherever you reach at sunset."
@@ -43,7 +43,7 @@ Deadvlei is more striking still. A white clay pan within walking distance of the
 
 Etosha National Park centres on the Etosha Pan, a vast, flat, blinding-white salt lake that was an inland sea before tectonic uplift drained it roughly five million years ago. In the dry season, waterholes around the pan's southern edge draw hundreds of elephants, entire lion prides, black and white rhino, giraffe, and zebra. The floodlit waterhole at Okaukuejo camp lets you watch wildlife drinking through the night from the perimeter fence — one of Africa's most accessible and consistently productive game-viewing set-ups.
 
-The desert-adapted elephants of Damaraland and the Hoanib River Valley survive in landscapes receiving less than 25mm of rainfall annually. They travel vast distances between water sources, dig for water with their feet in dry riverbeds, and eat vegetation their Chobe or Amboseli counterparts would ignore. Watching a family materialise from a rocky hillside and descend silently into a dry riverbed is one of Africa's finest wildlife encounters.
+The desert-adapted elephants of Damaraland and the Hoanib River Valley survive in landscapes receiving less than 25mm of rainfall annually. They travel vast distances between water sources, dig for water with their feet in dry riverbeds, and eat vegetation their Chobe or Amboseli counterparts would ignore. Watching a family materialise from a rocky hillside and descend silently into a dry riverbed is a memorable wildlife encounter.
 
 The Skeleton Coast, named for the bleached whale bones and wrecked ships whose sailors had no prospect of surviving a waterless desert, is accessible today only by fly-in [safari lodges](/categories/safari-lodges) operating under strict concession limits. Cape Cross, slightly more accessible by road, holds a Cape fur seal colony of over 100,000 animals. The noise, the smell, and the sheer spectacle of it has no equivalent on the continent.
 

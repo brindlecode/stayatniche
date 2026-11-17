@@ -2,7 +2,7 @@
 name: "Morocco & the Atlas Mountains"
 type: country
 continent: "Africa"
-description: "Morocco layers ancient medinas, Saharan sand dunes, and the snow capped High Atlas Mountains into a single country of extraordinary contrasts. From the labyrinthine souks of Fez to the silence of the Erg Chebbi dunes at dawn, it offers one of the world's most richly sensory travel experiences, and an accommodation culture of unmatched craft and beauty."
+description: "Morocco layers ancient medinas, Saharan sand dunes, and the snow capped High Atlas Mountains into a single country of extraordinary contrasts. From the labyrinthine souks of Fez to the silence of the Erg Chebbi dunes at dawn, it offers one of the world's most richly sensory travel experiences, and an accommodation culture of remarkable craft and beauty."
 coverImage: /images/destinations/morocco-atlas.jpg
 essentials:
   currency: "MAD (Moroccan Dirham); cash essential outside major cities"
@@ -25,7 +25,7 @@ travelTips:
   - "Bargaining is expected in souks, start at roughly 40% of the opening price and work from there; walking away often produces a better offer."
   - "Dress modestly in medinas and rural areas, shoulders and knees covered is the minimum; women may receive unwanted attention in certain districts regardless."
   - "Be aware of commission touts who offer to guide you to 'their cousin's' carpet shop, politely decline and navigate independently or with a licensed guide."
-  - "The best riads require booking well in advance, Morocco's finest boutique accommodation fills months ahead for spring and autumn travel."
+  - "The best riads require booking well in advance, Morocco's most sought-after boutique accommodation fills months ahead for spring and autumn travel."
 coordinates:
   lat: 31.7917
   lng: -7.0926
@@ -41,7 +41,7 @@ Morocco's four imperial cities each served as capital at different periods and e
 
 Marrakech runs faster. The Djemaa el-Fna square at dusk — snake charmers, storytellers, mobile food stalls, the whole theatrical production — is one of the world's great urban spectacles. The riads concealed behind the medina's blank exterior walls offer the opposite: private courtyards with central fountains, orange trees, and the silence of thick earthen walls. That contrast between the street outside and the interior is the essential Marrakech experience.
 
-The riad — the courtyard house as boutique hotel — is one of the world's great accommodation formats. The finest riads in Fez and Marrakech are acts of craft as much as hospitality: hand-carved plasterwork, zellij tile floors, muqarnas ceilings, cedar-wood mashrabiya screens. The concept of the inward-looking house, blank facade and elaborate interior, produces a privacy and calm that feels genuinely rare now. Book the best ones months ahead for spring and autumn travel. They fill early and don't discount.
+The riad — the courtyard house as boutique hotel — is one of the world's great accommodation formats. The most carefully crafted riads in Fez and Marrakech are acts of craft as much as hospitality: hand-carved plasterwork, zellij tile floors, muqarnas ceilings, cedar-wood mashrabiya screens. The concept of the inward-looking house, blank facade and elaborate interior, produces a privacy and calm that feels genuinely rare now. Book the best ones months ahead for spring and autumn travel. They fill early and don't discount.
 
 The Erg Chebbi dunes near Merzouga rise to 150 metres and extend for 22 kilometres. The standard experience — camel trek to a desert camp at dusk, proper beds in Berber-style tents, stars from the dune crest, sunrise light across the sand — is theatrical and deliberate. It is also genuinely beautiful. The theatricality doesn't diminish it.
 

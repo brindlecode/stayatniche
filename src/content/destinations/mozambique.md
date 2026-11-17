@@ -32,7 +32,7 @@ coordinates:
 featured: false
 seo:
   metaTitle: "Mozambique Travel Guide, Island Lodges, Whale Sharks & Pristine Reefs | StayAtNiche"
-  metaDescription: "Mozambique travel guide, Bazaruto Archipelago, Quirimbas island lodges, whale sharks at Tofo, dugong, and Africa's finest Indian Ocean beach destination."
+  metaDescription: "Mozambique travel guide, Bazaruto Archipelago, Quirimbas island lodges, whale sharks at Tofo, dugong, and a leading Indian Ocean beach destination in Africa."
 ---
 
 Mozambique has 2,500 kilometres of Indian Ocean coastline, most of it still undeveloped. Beaches run uninterrupted for kilometres. Dhows sit on the horizon. No tower blocks break the tree line. The marine environment — coral reefs, whale sharks, humpback whales, manta rays, dugongs, sea turtle nesting beaches — is served by a handful of lodges so carefully limited in capacity that the sense of having found something untouched is not entirely marketing.

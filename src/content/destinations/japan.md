@@ -2,7 +2,7 @@
 name: Japan
 type: country
 continent: Asia
-description: "An archipelago of four main islands and nearly 7,000 smaller ones where ancient forests meet neon-lit cities, bullet trains connect opposite coasts in hours, and the world's most refined hospitality tradition — the ryokan — coexists with capsule hotels. Japan rewards any level of engagement from a two-week first visit to a lifetime of return."
+description: "An archipelago of four main islands and nearly 7,000 smaller ones where ancient forests meet neon-lit cities, bullet trains connect opposite coasts in hours, and a deeply refined hospitality tradition — the ryokan — coexists with capsule hotels. Japan rewards any level of engagement from a two-week first visit to a lifetime of return."
 coverImage: /images/destinations/japan.jpg
 essentials:
   currency: "JPY (Japanese Yen); cash still widely used, especially at smaller establishments and rural ryokan"
@@ -12,7 +12,7 @@ essentials:
   plugType: "Type A/B (100V) — lower voltage than most countries; check device compatibility"
 bestTimeToVisit:
   summary: "March–April for cherry blossom; October–November for autumn foliage; December–February for powder snow"
-  details: "Cherry blossom season (late March to mid-April depending on latitude) is the country's most spectacular annual phenomenon but also its most crowded. Autumn foliage in October and November is equally beautiful with fewer crowds. Winter brings world-class skiing in Hokkaido and Nagano. Summer (July–August) is hot and humid; regional festivals make it worthwhile despite the heat."
+  details: "Cherry blossom season (late March to mid-April depending on latitude) is the country's most spectacular annual phenomenon but also its most crowded. Autumn foliage in October and November is equally beautiful with fewer crowds. Winter brings well-regarded skiing in Hokkaido and Nagano. Summer (July–August) is hot and humid; regional festivals make it worthwhile despite the heat."
 mustSee:
   - "Fushimi Inari Taisha, Kyoto — thousands of vermillion torii gates climbing the mountain"
   - "Shirakawa-go, Gifu — UNESCO-listed village of thatched farmhouses in a mountain valley"

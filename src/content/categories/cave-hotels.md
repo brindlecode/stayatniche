@@ -12,7 +12,7 @@ featured: true
 order: 3
 seo:
   metaTitle: "Cave Hotels, Rock-Carved Luxury Stays Worldwide | StayAtNiche"
-  metaDescription: "Sleep inside ancient rock formations at the world's finest cave hotels. Cappadocia, Santorini, and beyond, discover naturally cool, atmospheric cave suites."
+  metaDescription: "Sleep inside ancient rock formations at standout cave hotels. Cappadocia, Santorini, and beyond, discover naturally cool, atmospheric cave suites."
 ---
 
 Cappadocia has been inhabited for over 2,000 years, with archaeological evidence of human presence in its cave systems stretching back considerably further. The region's volcanic tufa — sculpted by erosion into the famous fairy chimneys and dramatic valleys — was ideally suited to cave dwelling: soft enough to carve with basic tools, yet hardening on exposure to air into durable, thermally stable living spaces. The cave hotels here aren't novelties. They're the latest iteration of an extremely long tradition.

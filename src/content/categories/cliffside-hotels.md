@@ -12,7 +12,7 @@ featured: true
 order: 8
 seo:
   metaTitle: "Cliffside Hotels with Breathtaking Views | StayAtNiche"
-  metaDescription: "Stay on the edge of the world in stunning cliffside hotels. Santorini, Peru's Skylodge, Oman's Alila Jabal Akhdar, discover vertiginous luxury with unmatched views."
+  metaDescription: "Stay on the edge of the world in stunning cliffside hotels. Santorini, Peru's Skylodge, Oman's Alila Jabal Akhdar, discover vertiginous luxury with dramatic views."
 ---
 
 A hotel on a hill has elevation. A hotel on a cliff has something else entirely — vertiginous exposure, a sheer vertical drop that makes the air feel different, the horizon feel closer, and the view feel earned. True cliffside hotels are defined by geological fact: the cliff shapes the architecture required to build there, the engineering required to keep it standing, and the specific sensation of existing at the boundary between solid earth and open air.

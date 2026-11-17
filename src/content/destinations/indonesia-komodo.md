@@ -43,7 +43,7 @@ Komodo dragons are the world's largest living lizards — up to three meters lon
 The national park protects both Komodo and Rinca islands, plus a marine area extending across the surrounding strait. Rinca tends to offer more reliable dragon sightings thanks to a larger resident population and more open terrain; Komodo island adds deeper forest walks and more dramatic scenery.
 
 
-The Komodo Strait sits at the confluence of the Indian Ocean and the Flores Sea, generating extraordinary nutrient upwelling that supports a marine ecosystem of staggering richness. The diving here is consistently rated among the best in the world — not for visibility (which can be moderate due to plankton) but for density and diversity of life. Batu Bolong, a submerged seamount, carries so much coral cover and so many fish species that photographers run out of memory before they run out of subjects.
+The Komodo Strait sits at the confluence of the Indian Ocean and the Flores Sea, generating extraordinary nutrient upwelling that supports a marine ecosystem of staggering richness. The diving here is highly regarded among divers worldwide — not for visibility (which can be moderate due to plankton) but for density and diversity of life. Batu Bolong, a submerged seamount, carries so much coral cover and so many fish species that photographers run out of memory before they run out of subjects.
 
 Manta Point hosts predictable aggregations of reef and oceanic manta rays throughout the dry season, animals with wingspans up to five meters performing barrel rolls in the current alongside you. For non-divers, the snorkeling at several sites is exceptional, and glass-bottom boat tours from Labuan Bajo offer a window into the shallower reefs.
 

@@ -14,7 +14,7 @@ bestTimeToVisit:
   summary: "May–September (cooler dry season)"
   details: "The Australian winter (May to September) is the only comfortable time to visit the Outback, daytime temperatures range from 20 to 28°C and nights are cool but not prohibitively cold. Summer (October to April) brings extreme heat, temperatures above 45°C are common in the Red Centre, combined with occasional flash flooding that can close roads for days. The shoulder months of April and October offer warm days and cold nights with excellent conditions for photography at Uluru."
 mustSee:
-  - "Uluru (Ayers Rock), sunrise and sunset colour changes on the world's most sacred monolith"
+  - "Uluru (Ayers Rock), sunrise and sunset colour changes on a monolith of deep sacred significance to the Anangu"
   - "Kata Tjuta (The Olgas), 36-dome rock formation with the Valley of the Winds walk"
   - "Kings Canyon, Watarrka National Park, 270m sandstone walls above the Garden of Eden"
   - "Kakadu National Park, ancient Aboriginal rock art and vast wetlands in the Top End"
