@@ -4,7 +4,7 @@ category: "castle-hotels"
 destination: "Amberley, West Sussex"
 country: "England"
 continent: "Europe"
-description: "A 12th-century castle in West Sussex with 60-foot curtain walls still intact, a portcullis raised and lowered daily, and 19 individually designed rooms set inside the original towers and gatehouse."
+description: "A castle in West Sussex with origins in 1103, still enclosed by a 60-foot curtain wall and entered through an ancient portcullis, with 19 individually designed rooms in different parts of the estate."
 coverImage: "/images/hotels/amberley-castle-england.jpg"
 gallery:
   - "/images/hotels/amberley-castle-england-1.jpg"
@@ -13,9 +13,9 @@ gallery:
 priceRange: "$350 - $750"
 priceIndicator: 4
 highlights:
-  - "Working 12th-century portcullis, still raised and lowered daily"
-  - "Original 60-foot curtain walls and battlements in exceptional condition"
-  - "Bedrooms in towers, including the spectacular Queen's Room in the gatehouse"
+  - "An ancient portcullis at the castle entrance"
+  - "A 60-foot curtain wall still enclosing the castle, with a twin-tower gatehouse"
+  - "19 rooms across the estate, from the Manor House and Tower House Mews to the Bishopric Dairy"
   - "900-year-old grounds with historic yew trees and a croquet lawn"
   - "Located on the South Downs, England's newest national park"
 amenities:
@@ -43,9 +43,9 @@ tags:
   - "luxury"
 prosAndCons:
   pros:
-    - "One of the most perfectly preserved castle structures in England used as a hotel"
+    - "A genuine medieval castle with around 900 years of history, used as a hotel"
     - "The portcullis experience on arrival is genuinely theatrical and thrilling"
-    - "Bedrooms in towers with genuine medieval proportions"
+    - "Rooms vary in character and location, so no two feel exactly alike"
     - "Small number of rooms means service is attentive and personal"
     - "Easy reach from London (90 minutes by train)"
   cons:
@@ -82,7 +82,7 @@ status: "published"
 publishedDate: 2025-02-08
 seo:
   metaTitle: "Amberley Castle Review, 12th-Century Castle Hotel in West Sussex, England"
-  metaDescription: "A working portcullis, original battlements, and tower bedrooms in England's most romantically preserved medieval castle. Amberley Castle in the South Downs is an hour from London."
+  metaDescription: "Amberley Castle in West Sussex: a medieval castle hotel with an ancient portcullis, a 60-foot curtain wall and 19 individually designed rooms near Arundel."
 affiliateLinks:
   - partner: "expedia"
     url: "https://www.expedia.com/Hotel-Search?destination=Amberley%2C%20West%20Sussex%2C%20England&adults=2"
@@ -105,13 +105,13 @@ niche_source_url: "https://amberleycastle.co.uk/explore/castle-stays-in-west-sus
 niche_verified_at: 2026-11-17
 ---
 
-The portcullis at Amberley Castle comes down behind you with a sound — iron on stone, deliberate and heavy — that settles any question about where you are. You are inside a 12th-century castle. The world outside is on the other side of 60 feet of medieval curtain wall. This is not a metaphor.
+You enter Amberley Castle past an ancient portcullis, and that settles any question about where you are. You are inside a castle whose origins date to 1103. The world outside is on the other side of a curtain wall 60 feet high. This is not a metaphor.
 
-Built as a fortified country retreat for the Bishops of Chichester, Amberley has been occupied since around 1100 and has survived almost intact. The curtain walls stand at their original height. The gatehouse still controls the only entrance. The walled grounds, enclosed within the ancient perimeter, have the compressed, suspended quality that only genuinely medieval gardens achieve: yew trees that predate any guest currently alive, a croquet lawn within a structure built for defence, and in the evenings, a silence that the South Downs countryside outside reinforces.
+Built as a fortified country retreat for the Bishops of Chichester, Amberley has been occupied since the early 12th century. The curtain wall, 60 feet high, still encloses the castle, although 20 to 30 feet of it was lost when the defences were destroyed in 1643, during the Civil War. A twin-tower gatehouse stands to the south. The walled grounds, enclosed within the ancient perimeter, have the compressed, suspended quality that only genuinely medieval gardens achieve: yew trees that predate any guest currently alive, a croquet lawn within a structure built for defence, and in the evenings, a silence that the South Downs countryside outside reinforces.
 
 **The Rooms**
 
-Each of the 19 rooms and suites has been designed around the physical character of its particular part of the castle, which means no two are alike. Tower rooms carry the compressed verticality of medieval construction: walls a metre thick, windows set deep in the stone that admit limited light, and an acoustic stillness that modern building techniques cannot manufacture. The Queen's Room in the original gatehouse is the one to book if it is available — a chamber with enough height for a genuine four-poster, views directly over the drawbridge approach, and the knowledge that every person of consequence who entered this castle over nine centuries passed through the floor directly beneath it.
+Each of the 19 rooms and suites is individually designed, and they occupy different parts of the estate, from the Manor House and Tower House Mews to the Bishopric Dairy beyond the walls, so no two feel alike.
 
 Bathrooms are fitted thoughtfully into spaces not designed for plumbing, and the quality of bedding and linens is high. The combination holds: old stone and modern comfort coexist without the usual awkwardness.
 

@@ -1,16 +1,16 @@
 ---
 source: jade-mountain-st-lucia
 destination: "Soufrière, Sainte-Lucie"
-description: "Vingt-neuf « sanctuaires » bâtis dans une falaise au-dessus de la mer des Caraïbes, tous privés de quatrième mur pour que les Pitons encadrent un panorama sans obstacle depuis le lit et que la piscine à débordement file vers l'horizon."
+description: "Vingt-neuf « sanctuaires » perchés au-dessus du domaine balnéaire d'Anse Chastanet, sur la côte caraïbe de Sainte-Lucie, tous délibérément privés de quatrième mur pour que les Pitons encadrent la vue, dont 24 avec piscine à débordement privée."
 highlights:
   - "Chaque sanctuaire est privé de quatrième mur, pour une vue dégagée sur les Pitons et la mer"
-  - "Piscine à débordement privée dans chaque sanctuaire"
+  - "Piscine à débordement privée dans 24 des 29 sanctuaires ; les cinq sanctuaires Sky ont une baignoire à remous à la place"
   - "Vue directe sur les Pitons, classés par l'UNESCO"
-  - "Accroché à la falaise au-dessus de la mer des Caraïbes, au sud de Soufrière"
+  - "Perché au-dessus du domaine balnéaire d'Anse Chastanet (600 acres), au sud de Soufrière"
   - "Restaurant Jade Mountain Club, cuisine caribéenne de la plantation à l'assiette"
   - "Plage et récif corallien d'Anse Chastanet accessibles depuis le domaine"
 amenities:
-  - "Piscine à débordement privée dans chaque sanctuaire"
+  - "Piscine à débordement privée dans 24 sanctuaires (baignoire à remous dans les sanctuaires Sky)"
   - "Pas de quatrième mur : vue panoramique permanente sur la mer des Caraïbes et les Pitons"
   - "Lit king size orienté vers le côté ouvert"
   - "Table du Jade Mountain Club et ses menus dégustation caribéens"
@@ -36,7 +36,7 @@ prosAndCons:
 seasonalInfo:
   bestTime: "De décembre à avril"
   peakSeason: "De janvier à mars"
-  notes: "La saison sèche, de décembre à avril, offre la météo la plus fiable pour profiter des sanctuaires ouverts et de la vue sur la mer des Caraïbes. La saison des pluies (de juin à octobre) apporte des averses l'après-midi et un risque d'ouragan au cœur de la saison cyclonique atlantique (d'août à octobre) ; la position de Jade Mountain sur la falaise et la situation méridionale de Sainte-Lucie réduisent ce risque sans l'éliminer. Mai et novembre sont des mois intermédiaires, souvent d'un excellent rapport qualité-prix."
+  notes: "La saison sèche, de décembre à avril, offre la météo la plus fiable pour profiter des sanctuaires ouverts et de la vue sur la mer des Caraïbes. La saison des pluies (de juin à octobre) apporte des averses l'après-midi et un risque d'ouragan au cœur de la saison cyclonique atlantique (d'août à octobre) ; la position en hauteur de Jade Mountain et la situation méridionale de Sainte-Lucie réduisent ce risque sans l'éliminer. Mai et novembre sont des mois intermédiaires, souvent d'un excellent rapport qualité-prix."
 nearbyAttractions:
   - name: "Les Pitons (site classé par l'UNESCO)"
     distance: "Vue directe depuis le domaine"
@@ -48,12 +48,12 @@ nearbyAttractions:
     distance: "12 km"
 seo:
   metaTitle: "Jade Mountain : face aux Pitons à Sainte-Lucie | StayAtNiche"
-  metaDescription: "Avis sur Jade Mountain : 29 sanctuaires sur falaise sans quatrième mur, piscine à débordement privée et vue sur les Pitons à Sainte-Lucie. Dès 1 200 $ la nuit."
+  metaDescription: "Jade Mountain : 29 sanctuaires sans quatrième mur, dont 24 avec piscine à débordement privée, et vue sur les Pitons à Sainte-Lucie. Dès 1 200 $ la nuit."
 ---
 
-Les Pitons sont l'image emblématique de Sainte-Lucie : deux pitons volcaniques qui surgissent à pic de la mer des Caraïbes au sud de Soufrière, le Gros Piton à 770 mètres et le Petit Piton à 743 mètres, inscrits au patrimoine mondial de l'UNESCO en 2004. Tous les resorts de la côte sud de Sainte-Lucie ont conscience de leur présence. Jade Mountain a bâti tout son parti pris architectural autour d'eux, en disposant vingt-neuf sanctuaires à flanc de falaise de sorte que le quatrième mur, celui qui fermerait normalement la chambre et la séparerait de son environnement, soit tout simplement absent. Les Pitons sont dans la chambre.
+Les Pitons sont l'image emblématique de Sainte-Lucie : deux pitons volcaniques qui surgissent à pic de la mer des Caraïbes au sud de Soufrière, le Gros Piton à 770 mètres et le Petit Piton à 743 mètres, inscrits au patrimoine mondial de l'UNESCO en 2004. Tous les resorts de la côte sud de Sainte-Lucie ont conscience de leur présence. Jade Mountain a bâti tout son parti pris architectural autour d'eux, en disposant vingt-neuf sanctuaires de sorte que le quatrième mur, celui qui fermerait normalement la chambre et la séparerait de son environnement, soit tout simplement absent. Les Pitons sont dans la chambre.
 
-C'est l'œuvre de l'architecte Nick Troubetzkoy, entièrement vouée, sans la moindre réserve, à une idée unique : que rien ne s'interpose entre l'hôte et ce paysage-là. Dans chaque sanctuaire, la piscine à débordement commence au niveau du parquet ciré et s'étend jusqu'à un rebord qui plonge vers la mer des Caraïbes, en contrebas. Le lit fait face au côté ouvert. La table aussi. Des rideaux sont prévus pour l'intimité et la pluie, mais l'état naturel d'un sanctuaire de Jade Mountain est une exposition délibérée au panorama. Les Pitons au lever du soleil, passant du vert sombre à l'or quand la lumière les atteint par-dessus la mer, visibles depuis l'oreiller à cinq heures du matin : voilà tout l'enjeu.
+C'est l'œuvre de l'architecte Nick Troubetzkoy, entièrement vouée, sans la moindre réserve, à une idée unique : que rien ne s'interpose entre l'hôte et ce paysage-là. Dans les 24 sanctuaires dotés d'une piscine à débordement privée, celle-ci se fond avec la chambre et le salon et s'étend vers la mer des Caraïbes ; les cinq sanctuaires Sky ont à la place une baignoire à remous pour deux. Le lit fait face au côté ouvert. La table aussi. Des rideaux sont prévus pour l'intimité et la pluie, mais l'état naturel d'un sanctuaire de Jade Mountain est une exposition délibérée au panorama. Les Pitons au lever du soleil, passant du vert sombre à l'or quand la lumière les atteint par-dessus la mer, visibles depuis l'oreiller à cinq heures du matin : voilà tout l'enjeu.
 
 À la table du Jade Mountain Club, on aborde le patrimoine agricole de Sainte-Lucie comme l'architecture aborde son paysage : le restaurant construit ses menus autour de la fertilité du sol volcanique de l'île, avec cacao cultivé sur place, cocoa tea, fruit à pain, dachine et prises des pêcheurs du front de mer de Soufrière. La cuisine est raffinée et résolument antillaise, loin de la cuisine de resort caribéen générique. La carte des vins est sérieuse et le service attentif sans être guindé.
 

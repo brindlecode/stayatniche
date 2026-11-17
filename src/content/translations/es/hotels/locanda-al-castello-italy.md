@@ -1,9 +1,9 @@
 ---
 source: locanda-al-castello-italy
 destination: "Cividale del Friuli, Friul-Venecia Julia"
-description: "Hotel con encanto, restaurante y centro de bienestar a pocos minutos del centro de Cividale del Friuli, con 27 habitaciones repartidas entre una antigua casa señorial del complejo del castillo y un moderno anexo dedicado al bienestar."
+description: "Hotel con encanto, restaurante y centro de bienestar a pocos minutos del centro de Cividale del Friuli, con 27 habitaciones repartidas entre la casa señorial, un antiguo monasterio jesuita de mediados del siglo XIX, y un moderno anexo dedicado al bienestar."
 highlights:
-  - "27 habitaciones en la antigua casa señorial y en un moderno ala de bienestar"
+  - "27 habitaciones en la casa señorial del siglo XIX y en un ala de bienestar moderna"
   - "Vistas desde el casco antiguo de Cividale hasta los Alpes Cárnicos"
   - "Centro de bienestar con piscina cubierta, circuito Kneipp y jacuzzi"
   - "Restaurante con vistas panorámicas"
@@ -26,11 +26,11 @@ niche_note: "El «castillo» no es una fortaleza medieval: la casona es una vill
 niche_feature: "27 habitaciones repartidas entre el “antico maniero” (una villa con aire de castillo almenado, el antiguo monasterio jesuita “Villa Betlemme”, de mediados del siglo XIX) y un ala de bienestar moderna; no se indica el número de habitaciones de cada ala."
 ---
 
-La Locanda al Castello reúne en un mismo lugar un hotel, un restaurante y un centro de bienestar, a pocos minutos del centro de Cividale del Friuli. El entorno es un complejo de castillo con almenas y terrazas panorámicas, que sirve también de escenario para bodas.
+La Locanda al Castello reúne en un mismo lugar un hotel, un restaurante y un centro de bienestar, a pocos minutos del centro de Cividale del Friuli. El entorno es un complejo almenado con forma de castillo, el antiguo monasterio jesuita Villa Betlemme, construido a mediados del siglo XIX, con terrazas panorámicas que sirven también de escenario para bodas.
 
 ## Casa señorial o ala de bienestar
 
-El hotel con encanto cuenta con 27 habitaciones, junior suites o dobles superiores, repartidas entre dos espacios: la antigua casa señorial y un ala moderna y panorámica unida directamente al centro de bienestar, con su piscina cubierta y su spa. Solo las habitaciones de la casa señorial están en el antiguo edificio del castillo, así que pide una si el entorno histórico es el motivo de tu viaje.
+El hotel con encanto cuenta con 27 habitaciones, junior suites o dobles superiores, repartidas entre dos espacios: la casa señorial y un ala moderna y panorámica unida directamente al centro de bienestar, con su piscina cubierta y su spa. Solo las habitaciones de la casa señorial están en el edificio original, así que pide una si el entorno histórico es el motivo de tu viaje. El hotel no indica cuántas de las 27 habitaciones están en la casa señorial.
 
 Todas las habitaciones tienen Wi-Fi, minibar, aire acondicionado, televisión por satélite, caja fuerte y teléfono. Las vistas recorren desde el centro histórico de Cividale las colinas verdes del este hasta el antiguo monasterio de Castelmonte y el perfil de los Alpes Cárnicos, con las cumbres del Monte Canin y del Matajur nevadas en invierno. El desayuno está incluido en el precio de la habitación.
 

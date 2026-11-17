@@ -18,7 +18,7 @@ bestFor:
   - "Bodas y eventos"
 seo:
   metaTitle: "Tulloch Castle Hotel: castillo en Dingwall | StayAtNiche"
-  metaDescription: "Tulloch Castle Hotel en Dingwall: hotel-castillo con 22 habitaciones, salón de paneles de madera y perros bienvenidos en Escocia."
+  metaDescription: "Tulloch Castle Hotel en Dingwall: hotel-castillo con 22 habitaciones, salón de paneles de madera y perros bienvenidos en las Highlands escocesas."
 ---
 
 El hotel data Tulloch Castle en el siglo XII, cuando los Bain y, más tarde, el clan Davidson reclamaron sus tierras; según Wikipedia, el castillo probablemente data como mínimo de finales del siglo XIV. Sufrió daños por un incendio en 1845 y se amplió en 1891. Desde entonces su historia ha dado muchos giros, y hoy es un hotel en Dingwall, en las Highlands escocesas. Antaño, solo el laird o el jefe del clan podía alojarse en un castillo de las Highlands como este; hoy cualquiera puede reservar una habitación.

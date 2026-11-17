@@ -44,7 +44,7 @@ niche_source_url: "https://domkinawodzie.mielno.pl/"
 niche_verified_at: 2026-11-17
 ---
 
-Houseboat "Arka" is a houseboat holiday rental in Mielno, on the Polish Baltic coast, moored between Lake Jamno and the sea. The operator, Domki na Wodzie, offers water houses, which it likens to camper vans on water, with the same advantages and drawbacks.
+Houseboat "Arka" is a houseboat holiday rental in Mielno, on the Polish Baltic coast, moored on the grounds of a campsite that lies between Lake Jamno and the sea. The operator, Domki na Wodzie, offers water houses, which it likens to camper vans on water, with the same advantages and drawbacks.
 
 ## The boat
 
@@ -56,6 +56,6 @@ The plot is only about 200 m from the Baltic Sea and its beach, and the houseboa
 
 ## Practical notes
 
-The houseboat sits at a campsite, which means a relaxed, holiday-park atmosphere rather than a quiet private mooring.
+The houseboat sits at a campsite, which means a relaxed, holiday-park atmosphere rather than a quiet private mooring. The operator's website lists two boats, Arka I and Arka II, so check which unit you are booking, and note that the boats are moored on the campsite grounds, so this is a holiday home on a campsite mooring rather than a cruise on open water.
 
 The Arka suits families and couples who want a different kind of coastal holiday, one with a lake on one side and the sea on the other. Ask the operator about the season, the booking terms and what is included before you reserve. The kitchenette means you can self-cater, and the two bedrooms give a family or two couples room to spread out.

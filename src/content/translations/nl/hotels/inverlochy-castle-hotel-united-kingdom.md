@@ -5,7 +5,7 @@ description: "Een vijfsterrenhotel in een baronieel kasteel uit de 19e eeuw aan 
 highlights:
   - "Baronieel kasteel uit de 19e eeuw, gebouwd in 1863"
   - "Kamers en suites in het kasteel met uitzicht op het terrein en de loch"
-  - "Acht Walled Garden Rooms in de verbouwde stal, elk met balkon of terras"
+  - "Walled Garden-kamers en -suites in de verbouwde stal, elk met balkon of terras"
   - "Gate Lodge met één tweepersoonskamer en één eenpersoonskamer"
   - "Seasgair-dineerervaring van Michel Roux"
 amenities:
@@ -29,7 +29,7 @@ Inverlochy Castle is een baronieel landhuis uit de 19e eeuw, gelegen tussen berg
 De kamers zijn verdeeld over het hoofdgebouw van het kasteel en de tuinen, en je kunt uit drie opties kiezen:
 
 - **Kamers en suites in het kasteel** zijn individueel ingericht met antieke meubels en bieden uitzicht over het terrein en de loch.
-- **Walled Garden Rooms** zijn acht kamers in een verbouwde stal, met uitzicht op de rustige ommuurde tuin, elk met balkon of terras.
+- **Walled Garden Rooms** zijn kamers en suites in een verbouwde stal, vijf minuten lopen van het kasteel, met uitzicht op de rustige ommuurde tuin, elk met balkon of terras.
 - **The Gate Lodge** is een intiem poortgebouw op het terrein, op korte afstand lopen van het kasteel bij de hoofdingang, met één tweepersoonskamer en één eenpersoonskamer.
 
 ## Eten en ontdekken

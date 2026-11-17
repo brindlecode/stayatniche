@@ -35,7 +35,7 @@ prosAndCons:
     - "Hoge prijzen; een van de duurste hotelervaringen van Ierland"
     - "In het hoogseizoen populair bij grote zakelijke groepen en bruiloften"
     - "De omgeving in Clare is rustiger dan Kerry of Connemara"
-    - "Sommige kamers in de nieuwere vleugel missen het historische karakter van de kasteelkamers"
+    - "Het hotel vermeldt niet waar elke kamercategorie ligt; vraag naar de ligging van uw kamer"
 seasonalInfo:
   bestTime: "Mei tot september"
   notes: "De Ierse zomer brengt de langste dagen en de beste golfomstandigheden. Het kasteel is in elk seizoen mooi: de herfstkleuren op het landgoed zijn in oktober spectaculair, en kerst op Dromoland is beroemd om zijn uitbundigheid. Golf is weersafhankelijk, maar de Ieren spelen het hele jaar door."
@@ -56,7 +56,7 @@ closure:
 niche_feature: "De suites liggen binnen de oorspronkelijke kasteelmuren; de site zegt niet waar de overige kasteelkamercategorieën liggen. Het kasteel is de neogotische herbouw uit 1835 van de zetel van de familie O'Brien en is sinds 1963 een hotel. De zelfvoorzienende lodges zijn aparte accommodaties."
 ---
 
-De stamboom van de familie O'Brien hoeft niet te worden verzonnen. De clan die in de 16e eeuw een kasteel bouwde aan de oever van Dromoland Lake in County Clare, bestond uit rechtstreekse afstammelingen van Brian Boru, de hoge koning die de Ierse koninkrijken verenigde en in 1014 sneuvelde in de Slag bij Clontarf. Dat is geen marketingpraat, maar een gedocumenteerde genealogie van meer dan duizend jaar, en je ziet het aan de manier waarop het kasteel zich presenteert. Hier wordt niet krampachtig naar betekenis gezocht. De stenen torens, het meer, de formele tuinen en het park van 450 acre hebben allemaal het vanzelfsprekende gezag van een plek die nooit heeft hoeven aankondigen wat ze is.
+De stamboom van de familie O'Brien hoeft niet te worden verzonnen. De clan wiens zetel aan de oever van Dromoland Lake in County Clare staat, bestond uit rechtstreekse afstammelingen van Brian Boru, de hoge koning die de Ierse koninkrijken verenigde en in 1014 sneuvelde in de Slag bij Clontarf. Dat is geen marketingpraat, maar een gedocumenteerde genealogie van meer dan duizend jaar, en je ziet het aan de manier waarop het kasteel zich presenteert. Hier wordt niet krampachtig naar betekenis gezocht. De stenen torens, het meer, de formele tuinen en het park van 450 acre hebben allemaal het vanzelfsprekende gezag van een plek die nooit heeft hoeven aankondigen wat ze is. Het huidige kasteel is een neogotische herbouw uit 1835.
 
 **Het landgoed**
 
@@ -68,7 +68,7 @@ Naast de golfbaan kun je op het landgoed vissen op bruine forel in het meer, kle
 
 De Great Hall is het middelpunt van de openbare ruimtes: een bewerkte stenen schouw, voorouderportretten van de O'Brien-dynastie en proporties die een mens in de juiste verhouding plaatsen tot een paar eeuwen geschiedenis. De salons en de bibliotheek, gebruikt voor afternoon tea en als verzamelplek voor het diner, hebben het licht versleten, doorleefde gemak van kamers die altijd door mensen zijn bewoond in plaats van voor de show bewaard.
 
-De slaapkamers verschillen sterk per plek in het kasteel. Vraag om een kamer in de oorspronkelijke stenen torens: hoge plafonds, diepe vensterbanken met uitzicht over het park en het meer, en de heel bijzondere stilte die dikke stenen muren 's nachts geven. De kamers in de nieuwere vleugel zijn in de gangbare zin comfortabeler, maar missen de sfeer waarvoor de meeste gasten komen.
+De website van het hotel zegt dat de suites binnen de oorspronkelijke kasteelmuren liggen; waar de andere kamercategorieën liggen, vermeldt de site niet. Vraag dus voor het boeken in welke vleugel en in welke kamercategorie uw kamer ligt.
 
 **Eten en drinken**
 

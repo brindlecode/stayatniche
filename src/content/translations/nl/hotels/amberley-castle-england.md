@@ -1,11 +1,11 @@
 ---
 source: amberley-castle-england
 destination: "Amberley, West Sussex"
-description: "Een kasteel uit de 12e eeuw in West Sussex, met nog volledig intacte ringmuren van 60 voet hoog, een valhek dat elke dag wordt opgehaald en neergelaten, en 19 individueel ingerichte kamers in de oorspronkelijke torens en het poortgebouw."
+description: "Een kasteel in West Sussex met oorsprong in 1103, nog steeds omringd door een ringmuur van 60 voet hoog en met een oud valhek bij de ingang, met 19 individueel ingerichte kamers verspreid over het landgoed."
 highlights:
-  - "Werkend valhek uit de 12e eeuw, nog elke dag opgehaald en neergelaten"
-  - "Originele ringmuren van 60 voet hoog en kantelen in uitzonderlijke staat"
-  - "Slaapkamers in de torens, waaronder de spectaculaire Queen's Room in het poortgebouw"
+  - "Een oud valhek bij de ingang van het kasteel"
+  - "Een ringmuur van 60 voet hoog die het kasteel nog omsluit, met een poortgebouw met twee torens"
+  - "19 kamers verspreid over het landgoed, van het Manor House en de Tower House Mews tot de Bishopric Dairy"
   - "900 jaar oude tuinen met historische taxusbomen en een croquetveld"
   - "Gelegen in de South Downs, het jongste nationale park van Engeland"
 amenities:
@@ -24,9 +24,9 @@ bestFor:
   - "Foodies met interesse in goede Britse kookkunst"
 prosAndCons:
   pros:
-    - "Een van de best bewaarde kastelen van Engeland dat als hotel in gebruik is"
+    - "Een echt middeleeuws kasteel met ongeveer 900 jaar geschiedenis dat als hotel in gebruik is"
     - "Aankomen door het valhek is echt theatraal en spannend"
-    - "Slaapkamers in torens met echte middeleeuwse proporties"
+    - "Kamers verschillen in karakter en ligging, dus geen twee zijn hetzelfde"
     - "Weinig kamers, dus attente en persoonlijke service"
     - "Makkelijk bereikbaar vanuit Londen (90 minuten met de trein)"
   cons:
@@ -50,17 +50,17 @@ nearbyAttractions:
     distance: "22 km"
 seo:
   metaTitle: "Amberley Castle: kasteelhotel in Engeland | StayAtNiche"
-  metaDescription: "Een werkend valhek, originele kantelen en slaapkamers in de torens: Amberley Castle in de South Downs is een middeleeuws kasteelhotel vlak bij Londen."
+  metaDescription: "Amberley Castle in West Sussex: middeleeuws kasteelhotel met oud valhek, ringmuur van 60 voet en 19 individueel ingerichte kamers bij Arundel."
 niche_feature: "Een echt middeleeuws kasteel met muren; de 19 slaapkamers liggen verspreid over het landgoed: Manor House, Tower House Mews en de Gatehouse Suites in de zeventiende-eeuwse Bishopric Dairy net buiten de muren."
 ---
 
-Het valhek van Amberley Castle zakt achter je neer met een geluid – ijzer op steen, weloverwogen en zwaar – dat elke twijfel over waar je bent wegneemt. Je bent in een kasteel uit de 12e eeuw. De wereld buiten ligt aan de andere kant van een middeleeuwse ringmuur van 60 voet hoog. Dit is geen beeldspraak.
+Je betreedt Amberley Castle langs een oud valhek, en dat neemt elke twijfel over waar je bent weg. Je bent in een kasteel waarvan de oorsprong teruggaat tot 1103. De wereld buiten ligt aan de andere kant van een ringmuur van 60 voet hoog. Dit is geen beeldspraak.
 
-Amberley werd gebouwd als versterkt buitenverblijf voor de bisschoppen van Chichester, is al sinds ongeveer 1100 bewoond en heeft het vrijwel intact overleefd. De ringmuren staan nog op hun oorspronkelijke hoogte. Het poortgebouw beheerst nog altijd de enige ingang. De ommuurde tuinen binnen de eeuwenoude omwalling hebben die ingetogen, tijdloze sfeer die alleen echt middeleeuwse tuinen hebben: taxusbomen die ouder zijn dan welke gast ook die nu leeft, een croquetveld binnen een bouwwerk dat voor de verdediging werd gebouwd, en 's avonds een stilte die het platteland van de South Downs erbuiten nog versterkt.
+Amberley werd gebouwd als versterkt buitenverblijf voor de bisschoppen van Chichester, is al sinds het begin van de 12e eeuw bewoond. De ringmuur van 60 voet omsluit het kasteel nog steeds, al ging er 20 tot 30 voet van verloren toen de verdedigingswerken in 1643 tijdens de Burgeroorlog werden verwoest. In het zuiden staat een poortgebouw met twee torens. De ommuurde tuinen binnen de eeuwenoude omwalling hebben die ingetogen, tijdloze sfeer die alleen echt middeleeuwse tuinen hebben: taxusbomen die ouder zijn dan welke gast ook die nu leeft, een croquetveld binnen een bouwwerk dat voor de verdediging werd gebouwd, en 's avonds een stilte die het platteland van de South Downs erbuiten nog versterkt.
 
 **De kamers**
 
-Elk van de 19 kamers en suites is ontworpen rond het fysieke karakter van het deel van het kasteel waar het in ligt, dus geen twee zijn hetzelfde. Torenkamers hebben de samengebalde verticaliteit van middeleeuwse bouw: muren van een meter dik, diep in de steen gezette ramen die maar weinig licht doorlaten, en een akoestische stilte die moderne bouwtechnieken niet kunnen maken. De Queen's Room in het oorspronkelijke poortgebouw is degene die je moet boeken als hij vrij is: een vertrek dat hoog genoeg is voor een echt hemelbed, met uitzicht recht op de toegang over de ophaalbrug, en met de wetenschap dat iedereen van belang die dit kasteel in negen eeuwen binnenkwam, recht onder deze vloer door liep.
+Elk van de 19 kamers en suites is individueel ontworpen en ligt in een ander deel van het landgoed, van het Manor House en de Tower House Mews tot de Bishopric Dairy buiten de muren, dus geen twee zijn hetzelfde.
 
 De badkamers zijn doordacht ingepast in ruimtes die nooit voor leidingen waren bedoeld, en het beddengoed en linnen zijn van hoge kwaliteit. De combinatie klopt: oude steen en modern comfort gaan samen zonder de gebruikelijke ongemakkelijkheid.
 

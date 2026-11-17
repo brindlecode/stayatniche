@@ -31,7 +31,7 @@ El edificio se terminó en 1892 como residencia familiar de WW Greener, el céle
 
 ## Los interiores
 
-Construido a finales de los años 1890, conserva la elegancia de la era victoriana, con vidrieras, paneles de madera y suelos y techos muy decorados. Las chimeneas arden con leña recién cortada, y el edificio añade comodidades modernas. Cada una de las 11 habitaciones está decorada de forma individual e incluye facilidades para té y café, secador de pelo, televisor LCD con Freeview y reproductor de DVD.
+Conserva la elegancia de la era victoriana, con vidrieras, paneles de madera y suelos y techos muy decorados. Las chimeneas arden con leña recién cortada, y el edificio añade comodidades modernas. Cada una de las 11 habitaciones está decorada de forma individual e incluye facilidades para té y café, secador de pelo, televisor LCD con Freeview y reproductor de DVD. Los tipos de habitación incluyen Premium Turret, Four Poster Turret y Standard Turret, además de dos habitaciones dobles grandes en la ladera (Hillside).
 
 ## Entorno
 

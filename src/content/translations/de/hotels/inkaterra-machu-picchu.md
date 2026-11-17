@@ -48,7 +48,7 @@ nearbyAttractions:
     distance: 80 km per Zug
 seo:
   metaTitle: "Inkaterra Machu Picchu: Lodge im Nebelwald | StayAtNiche"
-  metaDescription: "Inkaterra Machu Picchu Pueblo Hotel: 80 Casitas auf fünf Hektar privatem Nebelwald am Fuß von Machu Picchu, mit 372 registrierten Orchideenarten. Ab 600 $ pro Nacht."
+  metaDescription: "Inkaterra Machu Picchu Pueblo Hotel: 80 Casitas in privatem Nebelwald am Fuß von Machu Picchu, mit 372 registrierten Orchideenarten. Ab 600 $ pro Nacht."
 ---
 
 Aguas Calientes ist ein Ort, der ausschließlich wegen dessen existiert, was vier Kilometer die Straße hinauf liegt, und die Infrastruktur spiegelt das wider: Souvenirläden, Touristenrestaurants, Backpacker-Hostels und Mittelklassehotels säumen die Hauptstraße und die Schlucht des Urubamba. Das Inkaterra Machu Picchu Pueblo Hotel ist die Ausnahme. Es liegt auf fünf Hektar Nebelwald oberhalb des Ortes, seine achtzig Casitas sind entlang steingepflasterter Wege, die der natürlichen Topografie folgen, in der Vegetation verteilt, und irgendwo unten rauscht stets der Urubamba.

@@ -1,11 +1,11 @@
 ---
 source: amberley-castle-england
 destination: "Amberley, West Sussex"
-description: "Eine Burg aus dem 12. Jahrhundert in West Sussex mit noch vollständig erhaltenen, 18 Meter hohen Ringmauern, einem Fallgitter, das täglich hoch- und heruntergelassen wird, und 19 individuell gestalteten Zimmern in den originalen Türmen und im Torhaus."
+description: "Eine Burg in West Sussex mit Ursprüngen im Jahr 1103, noch immer von einer 18 Meter hohen Ringmauer umgeben und durch ein altes Fallgitter betreten, mit 19 individuell gestalteten Zimmern in verschiedenen Teilen des Anwesens."
 highlights:
-  - "Funktionierendes Fallgitter aus dem 12. Jahrhundert, das noch täglich hoch- und heruntergelassen wird"
-  - "Originale, 18 Meter hohe Ringmauern und Zinnen in außergewöhnlichem Zustand"
-  - "Schlafzimmer in den Türmen, darunter das spektakuläre Queen's Room im Torhaus"
+  - "Ein altes Fallgitter am Burgeingang"
+  - "Eine 18 Meter hohe Ringmauer umschließt noch immer die Burg, dazu ein Torhaus mit zwei Türmen"
+  - "19 Zimmer auf dem Anwesen, vom Manor House und den Tower House Mews bis zur Bishopric Dairy"
   - "900 Jahre alte Anlage mit historischen Eiben und Krocketrasen"
   - "Lage in den South Downs, Englands jüngstem Nationalpark"
 amenities:
@@ -24,9 +24,9 @@ bestFor:
   - "Feinschmecker mit Sinn für gute britische Küche"
 prosAndCons:
   pros:
-    - "Eine der am vollkommensten erhaltenen Burganlagen Englands, die als Hotel genutzt wird"
+    - "Eine echte mittelalterliche Burg mit rund 900 Jahren Geschichte, die als Hotel genutzt wird"
     - "Die Ankunft durch das Fallgitter ist wirklich theatralisch und aufregend"
-    - "Schlafzimmer in Türmen mit echten mittelalterlichen Proportionen"
+    - "Die Zimmer unterscheiden sich in Charakter und Lage, keines gleicht dem anderen"
     - "Dank weniger Zimmer ist der Service aufmerksam und persönlich"
     - "Gut von London aus erreichbar (90 Minuten mit dem Zug)"
   cons:
@@ -50,17 +50,17 @@ nearbyAttractions:
     distance: "22 km"
 seo:
   metaTitle: "Amberley Castle: Burghotel in West Sussex | StayAtNiche"
-  metaDescription: "Fallgitter, originale Zinnen und Turmzimmer: Amberley Castle in den South Downs ist Englands romantischste Burg aus dem 12. Jahrhundert – nahe London."
+  metaDescription: "Amberley Castle in West Sussex: mittelalterliches Burghotel mit altem Fallgitter, 18 Meter hoher Ringmauer und 19 individuell gestalteten Zimmern bei Arundel."
 niche_feature: "Echte mittelalterliche Burg mit Ringmauer; ihre 19 Zimmer liegen in verschiedenen Teilen des Anwesens: im Manor House, im Tower House Mews und als Gatehouse Suites in der Bishopric Dairy aus dem 17. Jahrhundert, unmittelbar jenseits der Mauern."
 ---
 
-Das Fallgitter von Amberley Castle senkt sich hinter Ihnen mit einem Geräusch – Eisen auf Stein, bedächtig und schwer –, das jede Frage danach klärt, wo Sie sich befinden. Sie sind in einer Burg aus dem 12. Jahrhundert. Die Außenwelt liegt jenseits von 18 Metern mittelalterlicher Ringmauer. Das ist keine Metapher.
+Sie betreten Amberley Castle durch ein altes Fallgitter, und das klärt jede Frage danach, wo Sie sich befinden. Sie sind in einer Burg, deren Ursprünge auf das Jahr 1103 zurückgehen. Die Außenwelt liegt jenseits einer 18 Meter hohen Ringmauer. Das ist keine Metapher.
 
-Als befestigter Landsitz für die Bischöfe von Chichester erbaut, ist Amberley seit etwa 1100 bewohnt und hat fast unversehrt überdauert. Die Ringmauern stehen in ihrer ursprünglichen Höhe. Das Torhaus kontrolliert noch immer den einzigen Zugang. Die von der uralten Umfassung eingeschlossenen Gärten haben jene verdichtete, wie aus der Zeit gefallene Stimmung, die nur echte mittelalterliche Gärten erreichen: Eiben, die älter sind als jeder heute lebende Gast, ein Krocketrasen in einem zur Verteidigung errichteten Bauwerk und abends eine Stille, die von der Landschaft der South Downs draußen noch verstärkt wird.
+Als befestigter Landsitz für die Bischöfe von Chichester erbaut, ist Amberley seit dem frühen 12. Jahrhundert bewohnt. Die 18 Meter hohe Ringmauer umschließt die Burg noch immer, auch wenn 1643, als im Bürgerkrieg die Verteidigungsanlagen zerstört wurden, 6 bis 9 Meter davon verloren gingen. Im Süden steht ein Torhaus mit zwei Türmen. Die von der uralten Umfassung eingeschlossenen Gärten haben jene verdichtete, wie aus der Zeit gefallene Stimmung, die nur echte mittelalterliche Gärten erreichen: Eiben, die älter sind als jeder heute lebende Gast, ein Krocketrasen in einem zur Verteidigung errichteten Bauwerk und abends eine Stille, die von der Landschaft der South Downs draußen noch verstärkt wird.
 
 **Die Zimmer**
 
-Jedes der 19 Zimmer und Suiten wurde nach dem baulichen Charakter seines jeweiligen Burgteils gestaltet, sodass keines dem anderen gleicht. Die Turmzimmer tragen die gedrängte Vertikalität mittelalterlicher Bauweise in sich: meterdicke Mauern, tief in den Stein gesetzte Fenster, die nur wenig Licht hereinlassen, und eine akustische Ruhe, die moderne Bautechnik nicht herstellen kann. Das Queen's Room im ursprünglichen Torhaus ist das Zimmer, das Sie buchen sollten, wenn es frei ist – ein Gemach mit genug Höhe für ein echtes Himmelbett, direktem Blick auf den Zugang über die Zugbrücke und dem Wissen, dass jede bedeutende Persönlichkeit, die diese Burg in neun Jahrhunderten betrat, direkt unter diesem Boden hindurchging.
+Jedes der 19 Zimmer und Suiten ist individuell gestaltet, und sie verteilen sich auf verschiedene Teile des Anwesens, vom Manor House und den Tower House Mews bis zur Bishopric Dairy jenseits der Mauern, sodass keines dem anderen gleicht.
 
 Die Bäder sind mit Bedacht in Räume eingefügt, die nie für Wasserleitungen gedacht waren, und Betten wie Bettwäsche sind von hoher Qualität. Die Verbindung gelingt: Alter Stein und moderner Komfort existieren ohne die übliche Unbeholfenheit nebeneinander.
 

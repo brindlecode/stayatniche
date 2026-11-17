@@ -64,7 +64,7 @@ trending: false
 status: published
 seo:
   metaTitle: "Inkaterra Machu Picchu Pueblo Hotel Review — Cloud Forest Lodge, Peru | StayAtNiche"
-  metaDescription: "Eighty casitas in five hectares of private cloud forest at the base of Machu Picchu, with 372 registered orchid species and pre-dawn citadel access. From $600/night."
+  metaDescription: "Eighty casitas in five hectares of private cloud forest at the base of Machu Picchu, with 372 registered orchid species and pre-dawn access. From $600/night."
 affiliateLinks:
   - partner: "expedia"
     url: "https://www.expedia.com/Hotel-Search?destination=Aguas+Calientes%2C+Cusco%2C+Peru&adults=2"

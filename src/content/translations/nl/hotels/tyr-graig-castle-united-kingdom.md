@@ -31,7 +31,7 @@ Het gebouw werd in 1892 voltooid als familiewoning voor WW Greener, de beroemde 
 
 ## De interieurs
 
-Het werd eind jaren 1890 gebouwd en heeft nog steeds de elegantie van het Victoriaanse tijdperk, met glas-in-loodramen, houten lambrisering en rijk versierde vloeren en plafonds. In de haarden brandt vers gekapt hout, en het gebouw biedt ook moderne comfort. Elk van de 11 kamers is individueel ingericht en heeft thee- en koffiefaciliteiten, een haardroger, een LCD-tv met Freeview en een dvd-speler.
+Het heeft nog steeds de elegantie van het Victoriaanse tijdperk, met glas-in-loodramen, houten lambrisering en rijk versierde vloeren en plafonds. In de haarden brandt vers gekapt hout, en het gebouw biedt ook moderne comfort. Elk van de 11 kamers is individueel ingericht en heeft thee- en koffiefaciliteiten, een haardroger, een LCD-tv met Freeview en een dvd-speler. De kamertypes zijn onder meer Premium Turret, Four Poster Turret en Standard Turret, plus twee grote tweepersoonskamers aan de heuvelzijde (Hillside).
 
 ## Ligging
 

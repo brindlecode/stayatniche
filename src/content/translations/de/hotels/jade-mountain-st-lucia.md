@@ -1,16 +1,16 @@
 ---
 source: jade-mountain-st-lucia
 destination: "Soufrière, St. Lucia"
-description: "Neunundzwanzig „Sanctuaries“, in eine Klippe über dem Karibischen Meer gebaut, jede ohne vierte Wand, sodass die Pitons vom Bett aus ein ungehindertes Panorama rahmen und der Infinity-Pool bis zum offenen Horizont zu reichen scheint."
+description: "Neunundzwanzig „Sanctuaries“ oberhalb des Strandanwesens Anse Chastanet an der Karibikküste St. Lucias, jede mit bewusst fehlender vierter Wand, sodass die Pitons den Blick rahmen; 24 davon haben einen privaten Infinity-Pool."
 highlights:
   - "Jede Sanctuary ohne vierte Wand, für freien Blick auf die Pitons und das Meer"
-  - "Privater Infinity-Pool in jeder Sanctuary"
+  - "Privater Infinity-Pool in 24 der 29 Sanctuaries; die fünf Sky-Sanctuaries haben stattdessen eine Whirlpool-Badewanne"
   - "Direkte Sichtachsen auf die Pitons, UNESCO-Welterbe"
-  - "Lage an der Klippe über dem Karibischen Meer südlich von Soufrière"
+  - "Oberhalb des 600 Acres großen Strandanwesens Anse Chastanet südlich von Soufrière"
   - "Restaurant Jade Mountain Club mit karibischer Plantation-to-Table-Küche"
   - "Strand und Korallenriff von Anse Chastanet vom Resort aus erreichbar"
 amenities:
-  - "Privater Infinity-Pool in jeder Sanctuary"
+  - "Privater Infinity-Pool in 24 Sanctuaries (Sky-Sanctuaries mit Whirlpool-Badewanne)"
   - "Keine vierte Wand – ständiger Panoramablick auf Karibik und Pitons"
   - "Kingsize-Bett, zur offenen Seite ausgerichtet"
   - "Jade Mountain Club mit karibischen Degustationsmenüs"
@@ -36,7 +36,7 @@ prosAndCons:
 seasonalInfo:
   bestTime: "Dezember bis April"
   peakSeason: "Januar bis März"
-  notes: "Die Trockenzeit von Dezember bis April bietet das verlässlichste Wetter, um die offenen Sanctuaries und den Blick auf das Karibische Meer zu genießen. Die Regenzeit (Juni bis Oktober) bringt Nachmittagsregen und auf dem Höhepunkt der atlantischen Hurrikansaison (August bis Oktober) ein Hurrikanrisiko, das die Klippenlage von Jade Mountain und die südliche Lage St. Lucias zwar verringern, aber nicht ausschließen. Mai und November sind Zwischensaison und bieten oft ein ausgezeichnetes Preis-Leistungs-Verhältnis."
+  notes: "Die Trockenzeit von Dezember bis April bietet das verlässlichste Wetter, um die offenen Sanctuaries und den Blick auf das Karibische Meer zu genießen. Die Regenzeit (Juni bis Oktober) bringt Nachmittagsregen und auf dem Höhepunkt der atlantischen Hurrikansaison (August bis Oktober) ein Hurrikanrisiko, das die erhöhte Lage von Jade Mountain und die südliche Lage St. Lucias zwar verringern, aber nicht ausschließen. Mai und November sind Zwischensaison und bieten oft ein ausgezeichnetes Preis-Leistungs-Verhältnis."
 nearbyAttractions:
   - name: Die Pitons (UNESCO-Welterbe)
     distance: Direkter Blick vom Resort
@@ -48,12 +48,12 @@ nearbyAttractions:
     distance: 12 km
 seo:
   metaTitle: "Jade Mountain: Suiten mit Piton-Blick | StayAtNiche"
-  metaDescription: "29 Klippen-Suiten ohne vierte Wand, mit privatem Infinity-Pool und Blick auf die Pitons: Jade Mountain ist die eigenwilligste Karibik-Architektur. Ab 1.200 $."
+  metaDescription: "29 Sanctuaries ohne vierte Wand, 24 davon mit privatem Infinity-Pool, und Blick auf die Pitons: Jade Mountain auf St. Lucia. Ab 1.200 $ pro Nacht."
 ---
 
-Die Pitons sind das Wahrzeichen von St. Lucia: zwei vulkanische Schlotfüllungen, die südlich von Soufrière steil aus dem Karibischen Meer ragen, der Gros Piton mit 770 Metern und der Petit Piton mit 743 Metern, seit 2004 UNESCO-Welterbe. Jedes Resort an der Südküste St. Lucias weiß um die Pitons. Jade Mountain hat sein gesamtes architektonisches Konzept um sie herum gebaut und neunundzwanzig Sanctuaries so an die Felswand gesetzt, dass die vierte Wand – jene, die einen Raum normalerweise umschließt und von der Umgebung trennt – vollständig fehlt. Die Pitons sind im Zimmer.
+Die Pitons sind das Wahrzeichen von St. Lucia: zwei vulkanische Schlotfüllungen, die südlich von Soufrière steil aus dem Karibischen Meer ragen, der Gros Piton mit 770 Metern und der Petit Piton mit 743 Metern, seit 2004 UNESCO-Welterbe. Jedes Resort an der Südküste St. Lucias weiß um die Pitons. Jade Mountain hat sein gesamtes architektonisches Konzept um sie herum gebaut und neunundzwanzig Sanctuaries so angeordnet, dass die vierte Wand – jene, die einen Raum normalerweise umschließt und von der Umgebung trennt – vollständig fehlt. Die Pitons sind im Zimmer.
 
-Es ist der Entwurf des Architekten Nick Troubetzkoy, und er verschreibt sich ohne jede Einschränkung einer einzigen Idee: dass zwischen dem Gast und dieser bestimmten Landschaft nichts stehen soll. Der Infinity-Pool jeder Sanctuary beginnt auf Höhe des polierten Holzbodens und reicht bis zu einer Kante, hinter der es zur Karibik hinabgeht. Das Bett blickt auf die offene Seite. Der Esstisch blickt auf die offene Seite. Vorhänge gibt es für Privatsphäre und bei Regen, doch der Normalzustand einer Jade-Mountain-Sanctuary ist bewusste Hingabe an das Panorama. Die Pitons bei Sonnenaufgang, die sich von Dunkelgrün zu Gold färben, wenn das Licht sie über das Wasser erreicht – um fünf Uhr morgens vom Kopfkissen aus zu sehen –, sind der ganze Sinn der Übung.
+Es ist der Entwurf des Architekten Nick Troubetzkoy, und er verschreibt sich ohne jede Einschränkung einer einzigen Idee: dass zwischen dem Gast und dieser bestimmten Landschaft nichts stehen soll. In den 24 Sanctuaries mit privatem Infinity-Pool verschmilzt der Pool mit Schlaf- und Wohnbereich und reicht zur Karibik hin; die fünf Sky-Sanctuaries haben stattdessen eine Whirlpool-Badewanne für zwei. Das Bett blickt auf die offene Seite. Der Esstisch blickt auf die offene Seite. Vorhänge gibt es für Privatsphäre und bei Regen, doch der Normalzustand einer Jade-Mountain-Sanctuary ist bewusste Hingabe an das Panorama. Die Pitons bei Sonnenaufgang, die sich von Dunkelgrün zu Gold färben, wenn das Licht sie über das Wasser erreicht – um fünf Uhr morgens vom Kopfkissen aus zu sehen –, sind der ganze Sinn der Übung.
 
 Die Küche im Jade Mountain Club geht mit dem landwirtschaftlichen Erbe St. Lucias so um wie die Architektur mit der Landschaft: Das Restaurant baut seine Menüs auf der Fruchtbarkeit der vulkanischen Böden der Insel auf, mit einheimischem Kakao, Kakaotee, Brotfrucht, Dasheen und dem Fang der Fischerboote von der Uferpromenade in Soufrière. Die Küche ist raffiniert und ausgesprochen westindisch statt austauschbare karibische Resortküche. Die Weinkarte ist ernst zu nehmen, der Service aufmerksam, ohne förmlich zu sein.
 

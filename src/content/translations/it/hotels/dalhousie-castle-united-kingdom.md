@@ -23,7 +23,7 @@ seo:
 niche_feature: "35 camere: Castle Classic, Deluxe, Junior Suite, Four Poster, Suite e due Feature Rooms si trovano nel castello di 800 anni; le camere del Lodge (Classic, Deluxe, Junior Suite, Suite) sono in un edificio moderno separato nel parco. Il numero per gruppo non è indicato."
 ---
 
-Dalhousie Castle esiste da oltre 800 anni e si definisce il castello abitato più antico della Scozia. Sorge in undici acri di parco privato e valli boscose alle porte di Edimburgo, a Bonnyrigg. Un tempo sede del clan dei Ramsay, ha ospitato reali e poeti fin dal XIII secolo, ed è stato di recente sottoposto a un'ampia ristrutturazione.
+Dalhousie Castle esiste da oltre 800 anni e si definisce uno dei castelli abitati più antichi della Scozia. Sorge in undici acri di parco privato e valli boscose alle porte di Edimburgo, a Bonnyrigg. Un tempo sede del clan dei Ramsay, ha ospitato reali e poeti fin dal XIII secolo, ed è stato di recente sottoposto a un'ampia ristrutturazione.
 
 ## Camere del castello e del lodge
 

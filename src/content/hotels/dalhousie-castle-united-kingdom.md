@@ -44,7 +44,7 @@ niche_source_url: "https://www.dalhousiecastle.co.uk/"
 niche_verified_at: 2026-11-17
 ---
 
-Dalhousie Castle has stood for more than 800 years and describes itself as Scotland's oldest inhabited castle. It sits in eleven acres of private parkland and wooded valleys just outside Edinburgh, in Bonnyrigg. Once the seat of the Ramsay clan, it has hosted royalty and poets since the 13th century, and it has recently been through an extensive refurbishment.
+Dalhousie Castle has stood for more than 800 years and describes itself as one of Scotland's oldest inhabited castles. It sits in eleven acres of private parkland and wooded valleys just outside Edinburgh, in Bonnyrigg. Once the seat of the Ramsay clan, it has hosted royalty and poets since the 13th century, and it has recently been through an extensive refurbishment.
 
 ## Castle rooms and lodge rooms
 

@@ -1,16 +1,16 @@
 ---
 source: jade-mountain-st-lucia
 destination: "Soufrière, Saint Lucia"
-description: "Negenentwintig 'sanctuaries' gebouwd tegen een klif boven de Caribische Zee, elk zonder vierde muur, zodat de Pitons vanuit bed een onafgebroken panorama vormen en de infinitypool doorloopt tot aan de open horizon."
+description: "Negenentwintig 'sanctuaries' hoog boven het strandterrein van Anse Chastanet aan de Caribische kust van Saint Lucia, elk met een bewust ontbrekende vierde muur zodat de Pitons het uitzicht omlijsten, en 24 ervan met een eigen infinitypool."
 highlights:
   - "Elke sanctuary zonder vierde muur, voor vrij uitzicht op de Pitons en de zee"
-  - "Eigen infinitypool in elke sanctuary"
+  - "Eigen infinitypool in 24 van de 29 sanctuaries; de vijf Sky-sanctuaries hebben een whirlpoolbad"
   - "Direct zicht op de Pitons, UNESCO-werelderfgoed"
-  - "Tegen de klif boven de Caribische Zee, ten zuiden van Soufrière"
+  - "Hoog boven het strandterrein van Anse Chastanet (600 acre), ten zuiden van Soufrière"
   - "Restaurant Jade Mountain Club met Caribische keuken van plantage tot bord"
   - "Strand en koraalrif van Anse Chastanet bereikbaar vanaf het resort"
 amenities:
-  - "Eigen infinitypool in elke sanctuary"
+  - "Eigen infinitypool in 24 sanctuaries (whirlpoolbad in de Sky-sanctuaries)"
   - "Geen vierde muur – permanent panoramisch uitzicht op de Caribische Zee en de Pitons"
   - "Kingsize bed gericht op de open wand"
   - "Dineren in de Jade Mountain Club met Caribische proefmenu's"
@@ -36,7 +36,7 @@ prosAndCons:
 seasonalInfo:
   bestTime: "December tot april"
   peakSeason: "Januari tot maart"
-  notes: "Het droge seizoen van december tot en met april biedt het betrouwbaarste weer om te genieten van de open sanctuaries en het uitzicht op de Caribische Zee. Het natte seizoen (juni–oktober) brengt middagbuien en, op het hoogtepunt van het Atlantische orkaanseizoen (augustus–oktober), orkaanrisico; de ligging van Jade Mountain op de klif en de zuidelijke ligging van Saint Lucia verkleinen dat risico, maar nemen het niet weg. Mei en november zijn tussenseizoenen en vaak erg voordelig."
+  notes: "Het droge seizoen van december tot en met april biedt het betrouwbaarste weer om te genieten van de open sanctuaries en het uitzicht op de Caribische Zee. Het natte seizoen (juni–oktober) brengt middagbuien en, op het hoogtepunt van het Atlantische orkaanseizoen (augustus–oktober), orkaanrisico; de hoge ligging van Jade Mountain en de zuidelijke ligging van Saint Lucia verkleinen dat risico, maar nemen het niet weg. Mei en november zijn tussenseizoenen en vaak erg voordelig."
 nearbyAttractions:
   - name: De Pitons (UNESCO-werelderfgoed)
     distance: Direct uitzicht vanaf het resort
@@ -48,12 +48,12 @@ nearbyAttractions:
     distance: 12 km
 seo:
   metaTitle: "Jade Mountain Saint Lucia: klifresort | StayAtNiche"
-  metaDescription: "Negenentwintig suites tegen de klif zonder vierde muur, met eigen infinitypool en direct zicht op de Pitons op Saint Lucia. Vanaf $ 1.200 per nacht."
+  metaDescription: "Negenentwintig suites zonder vierde muur, 24 met eigen infinitypool, en direct zicht op de Pitons op Saint Lucia in het Caribisch gebied. Vanaf $ 1.200 per nacht."
 ---
 
-De Pitons zijn hét beeld van Saint Lucia: twee vulkanische pluggen die ten zuiden van Soufrière loodrecht uit de Caribische Zee oprijzen, de Gros Piton van 770 meter en de Petit Piton van 743 meter, sinds 2004 UNESCO-werelderfgoed. Elk resort aan de zuidkust van Saint Lucia is zich bewust van de Pitons. Jade Mountain heeft er zijn hele architectonische concept omheen gebouwd, met negenentwintig sanctuaries tegen de klif waarin de vierde muur – die normaal de kamer afsluit en scheidt van de omgeving – volledig ontbreekt. De Pitons staan in de kamer.
+De Pitons zijn hét beeld van Saint Lucia: twee vulkanische pluggen die ten zuiden van Soufrière loodrecht uit de Caribische Zee oprijzen, de Gros Piton van 770 meter en de Petit Piton van 743 meter, sinds 2004 UNESCO-werelderfgoed. Elk resort aan de zuidkust van Saint Lucia is zich bewust van de Pitons. Jade Mountain heeft er zijn hele architectonische concept omheen gebouwd, met negenentwintig sanctuaries waarin de vierde muur – die normaal de kamer afsluit en scheidt van de omgeving – volledig ontbreekt. De Pitons staan in de kamer.
 
-Het is een ontwerp van architect Nick Troubetzkoy, en het is zonder voorbehoud toegewijd aan één idee: dat er tussen de gast en dit specifieke landschap niets mag staan. De infinitypool in elke sanctuary begint op de hoogte van de gepolijste houten vloer en loopt door tot een rand die richting de Caribische Zee afvalt. Het bed kijkt naar de open wand. De eettafel kijkt naar de open wand. Er zijn gordijnen voor privacy en tegen de regen, maar de standaardtoestand van een sanctuary in Jade Mountain is een bewuste blootstelling aan het panorama. De Pitons bij zonsopkomst, die van donkergroen naar goud kleuren als het licht ze over het water vindt, om vijf uur 's ochtends vanaf je kussen te zien: daar draait het allemaal om.
+Het is een ontwerp van architect Nick Troubetzkoy, en het is zonder voorbehoud toegewijd aan één idee: dat er tussen de gast en dit specifieke landschap niets mag staan. In de 24 sanctuaries met een eigen infinitypool loopt het zwembad over in slaap- en woonruimte en reikt het richting de Caribische Zee; de vijf Sky-sanctuaries hebben in plaats daarvan een whirlpoolbad voor twee. Het bed kijkt naar de open wand. De eettafel kijkt naar de open wand. Er zijn gordijnen voor privacy en tegen de regen, maar de standaardtoestand van een sanctuary in Jade Mountain is een bewuste blootstelling aan het panorama. De Pitons bij zonsopkomst, die van donkergroen naar goud kleuren als het licht ze over het water vindt, om vijf uur 's ochtends vanaf je kussen te zien: daar draait het allemaal om.
 
 De Jade Mountain Club benadert het agrarische erfgoed van Saint Lucia zoals de architectuur het landschap benadert: het restaurant bouwt zijn menu's rond de vruchtbare vulkanische bodem van het eiland, met lokaal geteelde cacao, cacaothee, broodvrucht, dasheen en de vangst van de vissersboten aan de waterkant van Soufrière. De keuken is verfijnd en specifiek West-Indisch, geen algemene Caribische resortkost. De wijnkaart is serieus en de bediening attent zonder formeel te zijn.
 

@@ -1,17 +1,18 @@
 ---
 source: bambu-indah-bali
 destination: Ubud, Bali, Indonesia
-description: "Una struttura sul fiume nella giungla di Ubud, costruita con antiche case nuziali giavanesi e strutture in bambù, dove le vasche per il bagno nel fiume sono scavate nella pietra sotto le chiome della giungla e ogni edificio è un frammento recuperato della storia architettonica indonesiana."
+description: "Una struttura di 24 case sul fiume nella giungla di Ubud, con antiche case nuziali giavanesi, strutture in bambù e una Treehouse tra i rami di due alberi bunut, oltre a una vasca alimentata da una sorgente accanto al fiume."
 highlights:
   - Antiche case nuziali giavanesi smontate e ricostruite nella giungla di Ubud
-  - Bagni naturali nel fiume, in vasche scavate nella pietra sotto le chiome
+  - Vasca alimentata da una sorgente accanto a un fiume impetuoso
   - Strutture in bambù ideate da John Hardy, fondatore della Green School di Bali
   - Fattoria biologica e orti in permacultura che riforniscono la cucina
   - Sulla Sayan Ridge, sopra un affluente del fiume Ayung
   - Cucina a chilometro zero con i prodotti dei giardini della struttura
+  - Treehouse tra i rami di due alberi bunut (per 3 persone), una delle 24 case
 amenities:
   - Sistemazione in villa indipendente o in struttura di bambù
-  - Vasche naturali per il bagno nel fiume
+  - Vasca alimentata da una sorgente accanto al fiume
   - Fattoria biologica e orti in loco
   - Colazione inclusa con prodotti della fattoria
   - Trattamenti spa in padiglioni all’aperto
@@ -48,7 +49,7 @@ nearbyAttractions:
     distance: 8 km
 seo:
   metaTitle: "Bambu Indah, ville nella giungla di Ubud | StayAtNiche"
-  metaDescription: "Antiche case nuziali giavanesi e strutture in bambù sul fiume, nella giungla vicino a Ubud: Bambu Indah è l’indirizzo più raffinato di Bali. Da 250 $ a notte."
+  metaDescription: "Antiche case nuziali giavanesi, case in bambù e una Treehouse tra i rami di due alberi bunut, nella giungla vicino a Ubud, a Bali. Da 250 $ a notte."
 niche_feature: "Una Treehouse (3 posti letto) tra 24 case: una struttura di bambù separata, tra i rami di due alberi di bunut. Le altre case (case nuziali joglo, case di bambù, tende) non sono case sugli alberi."
 ---
 
@@ -56,6 +57,8 @@ La maggior parte degli alloggi di lusso di Bali segue uno schema noto: piscina a
 
 Le strutture più antiche sono case nuziali giavanesi d’epoca: padiglioni con telaio in legno che la famiglia donava tradizionalmente alla figlia al momento del matrimonio, raccolte in tutta Giava nel corso di decenni e ricostruite con cura sulla Sayan Ridge, sopra un affluente del fiume Ayung. Ognuna è diversa per struttura e aspetto, con pannelli di legno intagliato, tetti alti e appuntiti e proporzioni calibrate sulle tradizioni domestiche indonesiane da cui provengono. Accanto a queste, Hardy ha costruito nuove strutture in bambù che mostrano cosa sa fare questo materiale nelle mani di abili artigiani balinesi: soffitti curvi, piattaforme a sbalzo sulla giungla, spazi che con il vento forte si flettono leggermente, come l’edilizia tradizionale non fa mai.
 
-Il bagno nel fiume è l’elemento che distingue più nettamente Bambu Indah dalla concorrenza di Ubud. Vasche naturali scavate nella pietra sotto le chiome della giungla, alimentate dal fiume e ombreggiate dalla vegetazione, si trovano in fondo a un sentiero che scende dalle strutture più in alto. In un pomeriggio caldo della stagione secca balinese sono esattamente ciò che una piscina clorata da resort non è: fresche, in movimento, legate al paesaggio e perfettamente coerenti con l’idea centrale della struttura su cosa dovrebbe significare il lusso in questo ambiente.
+Una delle 24 case è una Treehouse: una struttura in bambù con tetto di rame curvo, tra i rami di due alberi bunut sopra la valle. Ospita tre persone, con un letto queen nell’area principale e un secondo in un soppalco, e vi si accede da una stretta scala a chiocciola.
+
+Il bagno nel fiume è l’elemento che distingue più nettamente Bambu Indah dalla concorrenza di Ubud. Nella proprietà c’è una vasca alimentata da una sorgente accanto a un fiume impetuoso, e un sentiero di pietre posate a mano la attraversa. In un pomeriggio caldo della stagione secca balinese sono esattamente ciò che una piscina clorata da resort non è: fresche, in movimento, legate al paesaggio e perfettamente coerenti con l’idea centrale della struttura su cosa dovrebbe significare il lusso in questo ambiente.
 
 La fattoria biologica, alle spalle degli edifici principali, rifornisce la cucina di verdure, erbe aromatiche, uova e frutta. La colazione a Bambu Indah è l’espressione diretta di ciò che l’orto ha dato quella mattina. La stessa filosofia si estende all’acqua: la struttura ha un proprio sistema di depurazione, e la plastica monouso che riempie i rifiuti di quasi tutti i resort balinesi qui è assente. Per chi è già stato a Bali e ha trovato la scena dei resort più commerciali esteticamente sfiancante, Bambu Indah è l’antidoto.

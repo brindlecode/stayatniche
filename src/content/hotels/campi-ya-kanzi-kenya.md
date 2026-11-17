@@ -4,7 +4,7 @@ category: safari-lodges
 destination: Chyulu Hills, Kajiado County
 country: Kenya
 continent: Africa
-description: A family-owned bush camp on 283,000 acres of Maasai community land in the shadow of Kilimanjaro, with Kibo's snow-capped peak visible from the dining tent on clear mornings. Eight tented rooms face the African plain; the camp is owned in partnership with the Maasai community, which directs the majority of revenue toward conservation and education. This is the Amboseli ecosystem as it was designed to be seen.
+description: A family-owned bush camp on 400,000 acres of Maasai-owned land in the shadow of Kilimanjaro, with Kibo's snow-capped peak visible from camp on clear mornings. Eight tented rooms face the African plain; the camp is owned in partnership with the Maasai community, which directs the majority of revenue toward conservation and education.
 coverImage: /images/hotels/campi-ya-kanzi-kenya.jpg
 gallery:
   - /images/hotels/campi-ya-kanzi-kenya-2.jpg
@@ -13,7 +13,7 @@ priceRange: "$700 - $1500"
 priceIndicator: 5
 highlights:
   - Kilimanjaro views from camp
-  - 283,000-acre Maasai community conservancy
+  - 400,000 acres of Maasai-owned land
   - Walking safaris with Maasai guides
   - Night safaris on private land
   - Maasai community ownership and conservation model
@@ -44,7 +44,7 @@ affiliateLinks:
     label: "Kenya Safari Tours on Klook"
 seo:
   metaTitle: "Campi ya Kanzi Review: Kilimanjaro View Safari Camp | StayAtNiche"
-  metaDescription: "Campi ya Kanzi: Maasai community safari camp with Kilimanjaro views in Kenya's Chyulu Hills. Walking safaris, night drives on 283,000-acre private conservancy."
+  metaDescription: "Campi ya Kanzi: Maasai community safari camp with Kilimanjaro views in Kenya's Chyulu Hills. Walking and night safaris on 400,000 acres of Maasai-owned land."
 location:
   country: "Kenya"
   countryCode: "KE"

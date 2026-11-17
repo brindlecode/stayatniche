@@ -54,7 +54,7 @@ prosAndCons:
     - "Premium pricing, one of Ireland's most expensive hotel experiences"
     - "Popular with large corporate groups and weddings during peak season"
     - "The surrounding area of Clare is quieter than Kerry or Connemara"
-    - "Some rooms in the newer wing lack the historic character of castle rooms"
+    - "The hotel does not say where each castle room category sits, so ask about the setting of your room"
 bookingUrl: "https://www.booking.com/hotel/ie/dromoland-castle.html"
 rating: 8.8
 checkInOut:
@@ -108,7 +108,7 @@ closure:
   checked_at: 2026-11-17
 ---
 
-The O'Brien family line does not require invention. The clan who built a castle on the shores of Dromoland Lake in County Clare in the 16th century were the direct descendants of Brian Boru, the High King who unified the Irish kingdoms and died at the Battle of Clontarf in 1014. That is not marketing copy — it is a documented genealogy stretching over a thousand years, and it shows in the way the castle carries itself. There is no straining for significance here. The stone towers, the lake, the formal gardens, and the 450-acre parkland all have the settled authority of a place that has never needed to announce what it is.
+The O'Brien family line does not require invention. The clan whose seat stands on the shores of Dromoland Lake in County Clare were the direct descendants of Brian Boru, the High King who unified the Irish kingdoms and died at the Battle of Clontarf in 1014. That is not marketing copy — it is a documented genealogy stretching over a thousand years, and it shows in the way the castle carries itself. There is no straining for significance here. The stone towers, the lake, the formal gardens, and the 450-acre parkland all have the settled authority of a place that has never needed to announce what it is. The present castle is a Gothic Revival rebuild dating from 1835.
 
 **The Estate**
 
@@ -120,7 +120,7 @@ Beyond the course, the estate has brown trout fishing on the lake, clay pigeon s
 
 The Great Hall is the centrepiece of the public rooms: a carved stone fireplace, ancestral portraits of the O'Brien dynasty, and proportions that place a human being in correct relationship to several centuries of history. The drawing rooms and library, used for afternoon tea and as gathering spaces before dinner, have the slightly worn, lived-in ease of rooms that have always been occupied by people rather than preserved for display.
 
-The bedrooms vary considerably by location within the castle. The rooms in the original stone towers are the ones to request: high ceilings, deep window seats looking out over the parkland and the lake, and the very particular silence that thick stone walls produce at night. The rooms in the newer wing are more comfortable in a conventional sense but lack the atmosphere that most guests come for.
+The hotel's website says its suites are set within the original castle walls; it does not say where its other castle room categories sit, so ask which wing and room category you are being offered before you book.
 
 **Dining**
 

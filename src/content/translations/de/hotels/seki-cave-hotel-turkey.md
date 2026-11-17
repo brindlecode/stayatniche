@@ -23,7 +23,7 @@ seo:
   metaDescription: "Seki Cave Hotel in Çavuşin, rund 3 km von Göreme: Höhlenhotel mit privaten Terrassen für Ballonblicke, Jacuzzi auf dem Dach und Hamam in Kappadokien."
 ---
 
-Das Seki Cave Hotel liegt in Çavuşin, einem Dorf rund 3 km von Göreme entfernt. Der Name geht auf das türkische Wort für Terrassenplattformen zurück, und genau darum dreht sich das Haus: Laut Hotel können Gäste von einer privaten Terrasse aus Sonnenaufgang, Sonnenuntergang und die Heißluftballons beobachten. Die Website stellt die gesamte Anlage als Höhlenhotel vor.
+Das Seki Cave Hotel liegt in Çavuşin, einem Dorf rund 3 km von Göreme entfernt. Der Name geht auf das türkische Wort für Terrassenplattformen zurück, und genau darum dreht sich das Haus: Laut Hotel können Gäste von einer privaten Terrasse aus Sonnenaufgang, Sonnenuntergang und die Heißluftballons beobachten. Die Website verspricht „authentische Höhlenzimmer“, doch einige Twin- und Doppelzimmer in der Zimmerliste sind nicht als Höhlenzimmer bezeichnet; fragen Sie daher bei der Buchung nach.
 
 ## Das Angebot
 

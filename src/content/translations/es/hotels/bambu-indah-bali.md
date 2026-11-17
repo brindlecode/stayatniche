@@ -1,17 +1,18 @@
 ---
 source: bambu-indah-bali
 destination: "Ubud, Bali, Indonesia"
-description: "Un alojamiento a orillas de un río en la selva de Ubud, construido con antiguas casas nupciales javanesas y estructuras de bambú, donde las pozas para bañarse en el río están talladas en piedra bajo el dosel de la selva y cada edificio es un fragmento recuperado de la historia arquitectónica de Indonesia."
+description: "Un alojamiento de 24 casas a orillas de un río en la selva de Ubud, con antiguas casas nupciales javanesas, estructuras de bambú y una Treehouse en las ramas de dos árboles bunut, además de una poza alimentada por un manantial junto al río."
 highlights:
   - "Antiguas casas nupciales javanesas trasladadas y reconstruidas en la selva de Ubud"
-  - "Baños naturales en el río, en pozas talladas en piedra bajo el dosel de la selva"
+  - "Poza alimentada por un manantial junto a un río impetuoso"
   - "Estructuras de bambú diseñadas por John Hardy, fundador de la Green School de Bali"
   - "Granja ecológica y huertos de permacultura que abastecen la cocina"
   - "Situado en la cresta de Sayan, sobre un afluente del río Ayung"
   - "Cocina de la huerta a la mesa con productos de los propios jardines"
+  - "Treehouse en las ramas de dos árboles bunut (para 3 personas), una de las 24 casas"
 amenities:
   - "Alojamiento en villa independiente o estructura de bambú"
-  - "Pozas naturales para bañarse en el río"
+  - "Poza alimentada por un manantial junto al río"
   - "Granja ecológica y huertos en el recinto"
   - "Desayuno incluido con productos de la granja"
   - "Tratamientos de spa en pabellones al aire libre"
@@ -48,7 +49,7 @@ nearbyAttractions:
     distance: "8 km"
 seo:
   metaTitle: "Bambu Indah: villas en la selva de Ubud, Bali | StayAtNiche"
-  metaDescription: "Antiguas casas nupciales javanesas y estructuras de bambú junto a un río en la selva de Ubud (Bali), con pozas naturales y granja ecológica. Desde 250 US$."
+  metaDescription: "Casas nupciales javanesas antiguas, estructuras de bambú y una Treehouse junto a un río en la selva de Ubud (Bali), con granja ecológica. Desde 250 US$."
 niche_feature: "Una Treehouse (para 3 personas) entre 24 casas: una estructura de bambú independiente situada entre las ramas de dos árboles bunut. Las demás casas (casas nupciales joglo, casas de bambú y tiendas) no son cabañas en los árboles."
 ---
 
@@ -56,6 +57,8 @@ La mayoría de los alojamientos de lujo de Bali siguen una plantilla conocida: p
 
 Las construcciones más antiguas del lugar son casas nupciales javanesas: pabellones de madera que, por tradición, una familia regalaba a su hija al casarse, reunidos por toda Java a lo largo de décadas y reconstruidos con esmero en la cresta de Sayan, sobre un afluente del río Ayung. Cada una es distinta en estructura y aspecto, con paneles de madera tallada, altos tejados apuntados y unas proporciones fieles a las tradiciones domésticas indonesias de las que proceden. Junto a ellas, Hardy levantó nuevas estructuras de bambú que muestran lo que este material puede hacer en manos de artesanos balineses expertos: techos curvos, plataformas en voladizo sobre la selva y espacios que se flexionan levemente con el viento fuerte, algo que la construcción tradicional nunca hace.
 
-Los baños en el río son lo que más claramente distingue a Bambu Indah de la competencia de Ubud. Al final de un sendero que baja desde las construcciones superiores hay pozas naturales talladas en piedra bajo el dosel de la selva, alimentadas por el río y a la sombra de la vegetación. En una tarde calurosa de la estación seca, son exactamente lo que no es una piscina de resort con cloro: frescas, vivas, conectadas con el paisaje y totalmente coherentes con la idea central del lugar sobre lo que debería significar el lujo en este entorno.
+Una de las 24 casas es una Treehouse: una estructura de bambú con tejado de cobre curvo, situada en las ramas de dos árboles bunut sobre el valle. Tiene capacidad para tres personas, con una cama queen en el espacio principal y otra en un altillo, y se accede por una estrecha escalera de caracol.
+
+Los baños en el río son lo que más claramente distingue a Bambu Indah de la competencia de Ubud. En el recinto hay una poza alimentada por un manantial junto a un río impetuoso, y un sendero de piedra colocada a mano lo recorre. En una tarde calurosa de la estación seca, son exactamente lo que no es una piscina de resort con cloro: frescas, vivas, conectadas con el paisaje y totalmente coherentes con la idea central del lugar sobre lo que debería significar el lujo en este entorno.
 
 La granja ecológica, detrás de los edificios principales, abastece a la cocina de verduras, hierbas, huevos y fruta. El desayuno en Bambu Indah es un reflejo directo de lo que ha dado el huerto esa mañana. La filosofía alimentaria se extiende también al agua: el alojamiento tiene su propio sistema de depuración, y aquí no encontrarás el plástico de un solo uso que llena la mayoría de los residuos de los resorts balineses. Si has estado en Bali y la escena de los grandes resorts te ha dejado estéticamente agotado, Bambu Indah es el antídoto.

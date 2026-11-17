@@ -23,7 +23,7 @@ seo:
   metaDescription: "Hotel Castello Miramare in Pegli: 3-sterrenhotel in een oud kasteel aan het strand, met kamers met zeezicht en veerboot naar Genua in minder dan 30 minuten."
 ---
 
-Hotel Castello Miramare is een hotel met 3 sterren aan de zeekant in Pegli, een wijk een paar kilometer van het centrum van Genua. Je verblijft in een oud kasteel dat zijn sfeer en een deel van de architectonische structuur heeft behouden, met het strand vlak voor de deur.
+Hotel Castello Miramare is een hotel met 3 sterren aan de zeekant in Pegli, een wijk een paar kilometer van het centrum van Genua. Je verblijft in een oud kasteel dat zijn sfeer en een deel van de architectonische structuur heeft behouden, met het strand vlak voor de deur. Volgens de geschiedenispagina van het hotel staat het gebouw op de fundamenten van een middeleeuws fort en werd het later verbouwd tot een neogotische villa met toren; het Castello Chiozza, zoals het heette, werd rond 1880 gebouwd.
 
 ## De kamers
 

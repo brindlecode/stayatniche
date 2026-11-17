@@ -1,14 +1,14 @@
 ---
 source: halong-bay-indochina-sails
 destination: Ha Long-baai, Quảng Ninh
-description: "Een boetiekcruise per jonk tussen de 1969 kalksteenrotsen van de Ha Long-baai, met hutten met eigen balkon, kajakken door zeegrotten die alleen bij laagwater bereikbaar zijn en kookles met zeevruchten die je koopt van langsvarende drijvende markten."
+description: "Een traditioneel houten cruiseschip met 23 hutten op twee dekken, dat overnachtingscruises van 2 dagen/1 nacht en 3 dagen/2 nachten door de Ha Long-baai aanbiedt, met kajakken door grotten op de route van 3 dagen."
 highlights:
-  - Eigen balkon boven de baai
-  - Kajakken door verborgen zeegrotten
-  - Tai chi bij zonsopkomst op het zonnedek
-  - Kookles met lokale zeevruchten
-  - Per kajak naar verlaten stranden
-  - Cocktails bij zonsondergang op het bovendek
+  - "23 hutten op twee dekken, met tweepersoonsbed of twee losse bedden"
+  - "Kajakken door grotten op de route van 3 dagen"
+  - "Tai chi, fruitsnijdemonstratie en inktvisvissen aan boord"
+  - "Bezoek aan de grootste grot van de Ha Long-baai en zwemmen op een strand uit de Lonely Planet Top 100"
+  - "Verborgen stranden op de route van 3 dagen"
+  - "Zonnebaden en zonsondergangen boven de baai"
 amenities:
   - Eigen badkamer
   - Airconditioning
@@ -24,7 +24,7 @@ prosAndCons:
   pros:
     - Unieke drijvende ervaring in een UNESCO-werelderfgoed
     - Maaltijden en activiteiten bij de prijs inbegrepen
-    - Kajakken naar grotten die alleen per jonk bereikbaar zijn
+    - "Kajakken door grotten op de route van 3 dagen"
     - Spectaculaire zonsopkomsten en zonsondergangen
   cons:
     - Weinig tijd aan land
@@ -41,15 +41,15 @@ nearbyAttractions:
     distance: "45 min per boot"
 seo:
   metaTitle: "Indochina Sails: cruise in de Ha Long-baai | StayAtNiche"
-  metaDescription: "Slapen op het water tussen de legendarische kalksteenrotsen van de Ha Long-baai aan boord van Indochina Sails, in een ruime hut met eigen balkon."
+  metaDescription: "Overnachtingscruises in de Ha Long-baai op Indochina Sails, een traditioneel houten schip met 23 hutten met airconditioning en routes van 2 of 3 dagen."
 ---
 
-De Ha Long-baai heeft een heel specifiek effect op wie er voor het eerst komt: de schaal is gewoon niet wat je verwachtte. Bijna tweeduizend kalksteenrotsen rijzen over 1500 vierkante kilometer op uit de Golf van Tonkin, en de enige manier om er goed tussendoor te bewegen, is per boot. Een cruise per jonk is niet alleen de handigste manier om de baai te zien – het is de enige manier om de binnenlagunes, de getijdengrotten en de stukken water te bereiken waar vissersdorpen al generaties bestaan zonder toegang over de weg.
+De Ha Long-baai heeft een heel specifiek effect op wie er voor het eerst komt: de schaal is gewoon niet wat je verwachtte. Kalksteenrotsen rijzen op uit de Golf van Tonkin, en de enige manier om er goed tussendoor te bewegen, is per boot. Een cruise is niet alleen de handigste manier om de baai te zien: je slaapt er ook op het water tussen de rotsen.
 
-Je eigen hut komt uit op een smal balkon net boven de waterlijn. De ochtend begint met mist die tussen de rotstorens door rolt – de Ha Long-baai maakt haar sfeervolle reputatie het meest waar bij dageraad, als het licht laag is, de vissersboten al varen en de kalkstenen wanden grijs en dichtbij zijn. De baai lijkt zich langzaam te onthullen naarmate het licht sterker wordt, en dat is precies het goede tempo.
+Indochina Sails heeft 23 hutten op twee dekken, allemaal met airconditioning, eigen badkamer en keuze uit een tweepersoonsbed of twee losse bedden. De ochtend begint met mist die tussen de rotstorens door rolt – de Ha Long-baai maakt haar sfeervolle reputatie het meest waar bij dageraad, als het licht laag is, de vissersboten al varen en de kalkstenen wanden grijs en dichtbij zijn. De baai lijkt zich langzaam te onthullen naarmate het licht sterker wordt, en dat is precies het goede tempo.
 
-Met het dagprogramma bewijst Indochina Sails zijn waarde. Kajakken naar de verborgen lagunes – ingesloten stukken water die je alleen bij laagwater bereikt door lage grotgangen, plat liggend op je kajak – is een van de gedenkwaardigere kleine avonturen van Zuidoost-Azië. De kookles in de kombuis werkt met producten die je koopt bij de verkopers van de drijvende markt die 's ochtends langszij peddelen; de gids leert je Vietnamese loempia's en pho maken, met het geduld van iemand die al heel wat mensen met rijstpapier heeft zien worstelen.
+Het programma aan boord omvat tai chi, een fruitsnijdemonstratie, zonnebaden, bezienswaardigheden, inktvisvissen en bordspellen. De excursies gaan naar de grootste grot van de Ha Long-baai en omvatten zwemmen op een van de Top 100-stranden van Lonely Planet; de route van 3 dagen voegt verborgen stranden en kajakken door grotten toe.
 
-Tijdens het gouden uur wordt het zonnedek het sociale middelpunt van de boot. Gasten verzamelen zich met een Saigon-biertje om te zien hoe het licht over de rotsen trekt – eerst amber, dan roze, dan een diep blauwgrijs als de torens silhouetten worden – in een natuurschouwspel dat hoe dan ook uitzonderlijk is.
+Tijdens het gouden uur trekt het licht over de rotsen – eerst amber, dan roze, dan een diep blauwgrijs als de torens silhouetten worden – in een natuurschouwspel dat hoe dan ook uitzonderlijk is.
 
 Indochina Sails vertrekt vanuit de haven van Tuan Chau, 20 kilometer van Ha Long-stad. De meeste gasten komen uit Hanoi met een geregelde transfer van ongeveer 3,5 uur over de weg.

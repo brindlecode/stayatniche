@@ -31,7 +31,7 @@ Le bâtiment fut achevé en 1892 comme résidence familiale de WW Greener, le c�
 
 ## Les intérieurs
 
-Construit à la fin des années 1890, le bâtiment conserve l'élégance de l'ère victorienne, avec vitraux, boiseries et sols et plafonds richement décorés. Les cheminées brûlent du bois fraîchement abattu, et l'édifice offre aussi tout le confort moderne. Chacune des 11 chambres est décorée individuellement et dispose d'un nécessaire à thé et café, d'un sèche-cheveux, d'un téléviseur LCD avec Freeview et d'un lecteur DVD.
+Le bâtiment conserve l'élégance de l'ère victorienne, avec vitraux, boiseries et sols et plafonds richement décorés. Les cheminées brûlent du bois fraîchement abattu, et l'édifice offre aussi tout le confort moderne. Chacune des 11 chambres est décorée individuellement et dispose d'un nécessaire à thé et café, d'un sèche-cheveux, d'un téléviseur LCD avec Freeview et d'un lecteur DVD. Les types de chambres comprennent des chambres Premium Turret, Four Poster Turret et Standard Turret, ainsi que deux grandes chambres doubles côté colline (Hillside).
 
 ## Cadre
 

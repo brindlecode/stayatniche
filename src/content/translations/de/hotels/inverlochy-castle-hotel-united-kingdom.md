@@ -5,7 +5,7 @@ description: "Ein Fünf-Sterne-Baronialschloss aus dem 19. Jahrhundert am Fuß d
 highlights:
   - "Baronialschloss aus dem 19. Jahrhundert, erbaut 1863"
   - "Zimmer und Suiten im Schloss mit Blick auf das Gelände und den Loch"
-  - "Acht Walled Garden Rooms im umgebauten Stallgebäude, jeweils mit Balkon oder Terrasse"
+  - "Walled-Garden-Zimmer und -Suiten im umgebauten Stallgebäude, jeweils mit Balkon oder Terrasse"
   - "Gate Lodge mit einem Doppel- und einem Einzelzimmer"
   - "Speiseerlebnis Seasgair von Michel Roux"
 amenities:
@@ -29,7 +29,7 @@ Inverlochy Castle ist ein Herrenhaus im Baronialstil aus dem 19. Jahrhundert, da
 Die Zimmer verteilen sich auf das Hauptgebäude des Schlosses und das Gartengelände, und es gibt drei verschiedene Optionen:
 
 - **Zimmer und Suiten im Schloss** sind einzeln mit antiken Möbeln gestaltet und bieten Blick über das Gelände und den Loch.
-- **Walled Garden Rooms** sind acht Zimmer in einem umgebauten Stallgebäude mit Blick auf den ruhigen, ummauerten Garten, jeweils mit Balkon oder Terrasse.
+- **Walled Garden Rooms** sind Zimmer und Suiten in einem umgebauten Stallgebäude, fünf Gehminuten vom Schloss entfernt, mit Blick auf den ruhigen, ummauerten Garten, jeweils mit Balkon oder Terrasse.
 - **The Gate Lodge** ist ein intimes Torhaus auf dem Gelände, ein kurzer Fußweg vom Schloss entfernt am Haupteingang, mit einem Doppel- und einem Einzelzimmer.
 
 ## Essen und Erkunden

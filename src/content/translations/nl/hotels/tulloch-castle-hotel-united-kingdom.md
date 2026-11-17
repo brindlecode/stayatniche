@@ -18,7 +18,7 @@ bestFor:
   - "Bruiloften en evenementen"
 seo:
   metaTitle: "Tulloch Castle Hotel: kasteelhotel in Dingwall | StayAtNiche"
-  metaDescription: "Tulloch Castle Hotel in Dingwall: kasteelhotel met 22 kamers, betimmerde grote hal en hondvriendelijke kamers, in de Schotse Highlands."
+  metaDescription: "Tulloch Castle Hotel in Dingwall: kasteelhotel met 22 kamers met eigen badkamer, betimmerde grote hal en hondvriendelijke kamers, in de Schotse Highlands."
 ---
 
 Het hotel dateert Tulloch Castle uit de 12e eeuw, toen de familie Bain en later de Clan Davidson aanspraak maakten op het land; volgens Wikipedia dateert het kasteel waarschijnlijk uit minstens de late 14e eeuw. In 1845 raakte het beschadigd door brand en in 1891 werd het uitgebreid. Het lot van het kasteel is sindsdien vaak veranderd, en nu is het een hotel in Dingwall, in de Schotse Highlands. Vroeger kon alleen de laird of het clanhoofd in zo'n Highland-kasteel logeren; tegenwoordig kan iedereen een kamer boeken.

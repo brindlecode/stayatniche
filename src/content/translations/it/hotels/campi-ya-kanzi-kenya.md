@@ -1,10 +1,10 @@
 ---
 source: campi-ya-kanzi-kenya
 destination: Chyulu Hills, contea di Kajiado
-description: "Un campo nella savana a conduzione familiare su 283.000 acri di terre comunitarie masai all’ombra del Kilimangiaro, con la cima innevata del Kibo visibile dalla tenda ristorante nelle mattine limpide. Otto tende si affacciano sulla pianura africana; il campo è di proprietà condivisa con la comunità masai, che destina la maggior parte degli introiti a conservazione e istruzione. È l’ecosistema di Amboseli come dovrebbe essere visto."
+description: "Un campo nella savana a conduzione familiare su 400.000 acri di terre di proprietà dei masai all’ombra del Kilimangiaro, con la cima innevata del Kibo visibile dal campo nelle mattine limpide. Otto tende si affacciano sulla pianura africana; il campo è di proprietà condivisa con la comunità masai, che destina la maggior parte degli introiti a conservazione e istruzione."
 highlights:
   - Vista sul Kilimangiaro dal campo
-  - Una riserva comunitaria masai di 283.000 acri
+  - 400.000 acri di terre di proprietà dei masai
   - Safari a piedi con guide masai
   - Safari notturni su terreno privato
   - Un modello di proprietà e conservazione comunitaria masai
@@ -22,7 +22,7 @@ bestFor:
   - L’Africa lontano dai soliti percorsi
 seo:
   metaTitle: "Campi ya Kanzi, safari con vista Kilimangiaro | StayAtNiche"
-  metaDescription: "Campi ya Kanzi: campo safari della comunità masai nelle Chyulu Hills, Kenya, con vista sul Kilimangiaro. Safari a piedi e notturni su 283.000 acri privati."
+  metaDescription: "Campi ya Kanzi: campo safari della comunità masai nelle Chyulu Hills, Kenya, con vista sul Kilimangiaro. Safari a piedi e notturni su 400.000 acri masai."
 ---
 
 Le Chyulu Hills sono una giovane catena vulcanica, geologicamente parlando ancora in formazione, che si innalza tra Amboseli e Tsavo, nel Kenya meridionale. Le colline sono boscose e spettacolari; le pianure ai loro piedi sono la classica savana dell’Africa orientale punteggiata di acacie e acacie fischianti, abitate da elefanti, leoni, bufali, licaoni e piccoli kudu, con popolazioni che si sono riprese in modo spettacolare da quando, nel 1996, la comunità masai vi ha istituito la sua riserva.

@@ -1,33 +1,33 @@
 ---
 source: jules-undersea-lodge-florida
 destination: Key Largo, Florida
-description: "Adagiato dal 1986 sul fondo di una laguna di Key Largo, il Jules’ Undersea Lodge si raggiunge attraverso una moon pool nel pavimento: gli ospiti scendono con le bombole a 6 metri di profondità per arrivare in camera, e ne fanno l’unico hotel al mondo dove per il check-in serve la muta."
+description: "Il Jules’ Undersea Lodge, oggi gestito dall’organizzazione non profit MarineLab come Jules’ Undersea Lab, poggia sul fondo di una laguna di Key Largo, a 22 piedi (circa 6,7 metri) sotto la superficie. Vi si entra da una moon pool nel pavimento, e i subacquei brevettati possono dormirci durante una missione da aquanauta di 24 ore."
 highlights:
-  - L’unico vero hotel sottomarino al mondo, raggiungibile immergendosi a 6 metri
-  - Gli ospiti devono avere un brevetto da sub o seguire un mini-corso di immersione di 3 ore
+  - Habitat sottomarino raggiungibile immergendosi a 22 piedi (circa 6,7 metri) attraverso una moon pool
+  - Serve almeno il brevetto Open Water (gli allievi solo con il proprio istruttore)
   - Pesci e vita marina visibili da grandi oblò subacquei
-  - In passato il lodge era un habitat sottomarino per la ricerca scientifica
+  - Un tempo stazione di ricerca sottomarina e hotel esclusivo, oggi attrazione educativa
 amenities:
   - Camera da letto sott’acqua con vista dagli oblò
   - Zona giorno e cucina in comune
-  - Attrezzatura subacquea completa fornita
-  - Consegna di pizza e pasti sott’acqua
+  - Bombole, zavorre e tre pasti inclusi (l’attrezzatura si può noleggiare)
+  - Pranzo a base di pizza consegnato dal Mission Director
   - Docce calde e cabine notte private
-  - Immersioni illimitate durante il soggiorno
+  - Immersioni di escursione guidate durante la missione
 bestFor:
   - Sub brevettati
   - Amanti dell’avventura
   - Appassionati del mondo sommerso
   - Collezionisti di esperienze irripetibili
 seo:
-  metaTitle: "Jules’ Undersea Lodge, dormire sott’acqua | StayAtNiche"
-  metaDescription: "A Key Largo si dorme a 6 metri sotto la superficie: al Jules’ Undersea Lodge si arriva in camera con le bombole, tra oblò sui pesci e pizza consegnata dai sub."
+  metaTitle: "Jules’ Undersea Lodge, habitat sottomarino | StayAtNiche"
+  metaDescription: "Jules’ Undersea Lab (ex Lodge) a Key Largo: vivere e dormire 24 ore da aquanauta in un habitat sottomarino storico, a 22 piedi di profondità, in Florida."
 ---
 
-Il Jules’ Undersea Lodge è una categoria a sé. Non esiste al mondo un’altra struttura che chieda agli ospiti di indossare l’attrezzatura da sub, scendere in una laguna ed entrare nel proprio alloggio attraverso una moon pool nel pavimento, eppure il lodge fa esattamente questo nella laguna di mangrovie del Key Largo Undersea Park dal 1986: è il primo hotel sottomarino del mondo e quello in attività da più tempo.
+Il Jules’ Undersea Lodge, oggi chiamato Jules’ Undersea Lab, è una categoria a sé. I partecipanti indossano l’attrezzatura subacquea, scendono nella laguna di Jules’ al MarineLab Undersea Park di Key Largo ed entrano nell’habitat da una moon pool nel pavimento. I gestori lo descrivono come l’unico habitat sottomarino al mondo in cui qualsiasi subacqueo ricreativo può vivere, imparare e dormire sott’acqua. È stato una stazione di ricerca sottomarina e un hotel esclusivo, e oggi è un’attrazione educativa dell’organizzazione non profit MarineLab. Il soggiorno è una missione da aquanauta di 24 ore.
 
-La struttura è nata come La Chalupa, un laboratorio di ricerca usato negli anni Settanta dagli scienziati che studiavano l’ambiente marino delle Florida Keys. Trasformata nel 1986 nella sua funzione attuale, poggia sul fondo della laguna a circa sei metri di profondità, ancorata a una base zavorrata e rifornita di aria respirabile pompata di continuo dalla superficie. L’interno, pressurizzato per impedire all’acqua di entrare dalla moon pool aperta sul fondo, comprende una zona giorno principale con cucina, tavolo da pranzo e oblò, più due cabine notte separate. Gli oblò sono circolari, con un diametro di circa 45 centimetri, posizionati all’altezza degli occhi di chi è seduto. Attraverso di essi gli abitanti della laguna sono sempre in vista: pesci sergente, pesci damigella, qualche barracuda, cernie che scivolano lente nell’ombra della struttura e le varie specie che hanno colonizzato l’esterno nei decenni in cui il lodge è rimasto sul fondo.
+La struttura è nata come La Chalupa, un laboratorio di ricerca usato negli anni Settanta dagli scienziati che studiavano l’ambiente marino delle Florida Keys. Poggia sul fondo della laguna a 22 piedi (circa 6,7 metri) di profondità, ancorata a una base zavorrata e rifornita di aria respirabile pompata di continuo dalla superficie. L’interno, pressurizzato per impedire all’acqua di entrare dalla moon pool aperta sul fondo, comprende una zona giorno principale con cucina, tavolo da pranzo e oblò, più due cabine notte separate. Gli oblò sono circolari, con un diametro di circa 45 centimetri, posizionati all’altezza degli occhi di chi è seduto. Attraverso di essi gli abitanti della laguna sono sempre in vista: pesci sergente, pesci damigella, qualche barracuda, cernie che scivolano lente nell’ombra della struttura e le varie specie che hanno colonizzato l’esterno nei decenni in cui il lodge è rimasto sul fondo.
 
-L’obbligo di immergersi è centrale nell’esperienza, e nel tipo di ospite che attira. Chi non ha il brevetto segue un’introduzione di tre ore prima della discesa, e il gesto ripetuto di entrare e uscire dal lodge diventa a sua volta una parte significativa del soggiorno. Svegliarsi alle 3 di notte in una stanza sott’acqua, infilarsi la muta e scivolare attraverso la moon pool in una laguna illuminata solo dal plancton bioluminescente e dalla luce lontana della superficie è qualcosa che pochissime persone al mondo hanno fatto. Resta una delle esperienze di alloggio più davvero estreme che esistano.
+L’obbligo di immergersi è centrale nell’esperienza, e nel tipo di ospite che attira. Serve almeno il brevetto Open Water (gli allievi solo accompagnati dal proprio istruttore) e si partecipa insieme a un compagno di immersione, quindi non si può prenotare da soli. Il gesto ripetuto di entrare e uscire dal lodge è a sua volta una parte significativa del soggiorno. Svegliarsi alle 3 di notte in una stanza sott’acqua, infilarsi la muta e scivolare attraverso la moon pool in una laguna illuminata solo dal plancton bioluminescente e dalla luce lontana della superficie è qualcosa che pochissime persone al mondo hanno fatto. Resta una delle esperienze di alloggio più davvero estreme che esistano.
 
-Gli aspetti pratici sono gestiti con buonumore. I pasti vengono consegnati da corrieri subacquei dalla cucina in superficie: la consegna della pizza sott’acqua è una delle caratteristiche più celebri del lodge. Le cabine notte sono raccolte ma funzionali, le docce sono calde, e il rumore dei pesciolini che esplorano il vetro degli oblò è un aiuto al sonno insolito, ma del tutto efficace.
+Gli aspetti pratici sono gestiti con buonumore. Tre pasti sono inclusi nella missione, e il pranzo a base di pizza consegnato dal Mission Director è definito dai gestori famoso in tutto il mondo. Le cabine notte sono raccolte ma funzionali, le docce sono calde, e il rumore dei pesciolini che esplorano il vetro degli oblò è un aiuto al sonno insolito, ma del tutto efficace.

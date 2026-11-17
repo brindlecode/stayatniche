@@ -1,17 +1,18 @@
 ---
 source: bambu-indah-bali
 destination: "Ubud, Bali, Indonesien"
-description: "Ein Anwesen am Fluss im Dschungel von Ubud, erbaut aus antiken javanischen Brauthäusern und Bambuskonstruktionen, mit in Stein gehauenen Flussbadebecken unter dem Blätterdach – und jedes Gebäude ist ein Stück geretteter indonesischer Architekturgeschichte."
+description: "Ein Anwesen mit 24 Häusern am Fluss im Dschungel von Ubud, darunter antike javanische Brauthäuser, Bambuskonstruktionen und ein Treehouse in den Ästen zweier Bunut-Bäume, mit einem quellgespeisten Pool am Fluss."
 highlights:
   - "Antike javanische Brauthäuser, versetzt und im Dschungel von Ubud wieder aufgebaut"
-  - "Natürliches Flussbad, in Stein gehauen, unter dem Blätterdach"
+  - "Quellgespeister Pool direkt am rauschenden Fluss"
   - "Bambusbauten von John Hardy, dem Gründer der Green School Bali"
   - "Biohof und Permakulturgärten, die die Küche beliefern"
   - "Lage auf dem Sayan Ridge oberhalb eines Nebenflusses des Ayung"
   - "Farm-to-Table-Küche aus den eigenen Gärten"
+  - "Treehouse in den Ästen zweier Bunut-Bäume (für 3 Personen), eines von 24 Häusern"
 amenities:
   - "Unterkunft in einer eigenen Villa oder einem Bambushaus"
-  - "Natürliche Flussbadebecken"
+  - "Quellgespeister Pool am Fluss"
   - "Biohof und Gärten vor Ort"
   - "Frühstück mit Erzeugnissen vom eigenen Hof inklusive"
   - "Spa-Anwendungen in offenen Pavillons"
@@ -48,7 +49,7 @@ nearbyAttractions:
     distance: 8 km
 seo:
   metaTitle: "Bambu Indah: Dschungelvillen am Fluss in Ubud | StayAtNiche"
-  metaDescription: "Antike javanische Brauthäuser und Bambusbauten über einem Dschungelfluss bei Ubud: Bambu Indah ist Balis architektonisch anspruchsvollste Adresse. Ab 250 $."
+  metaDescription: "Antike javanische Brauthäuser und Bambusbauten über einem Dschungelfluss bei Ubud: Dazu ein Treehouse in den Ästen zweier Bunut-Bäume. Ab 250 $."
 niche_feature: "Ein Treehouse (für 3 Personen) unter 24 Häusern: ein separater Bambusbau in den Ästen zweier Bunut-Bäume. Die übrigen Häuser (Joglo-Brauthäuser, Bambushäuser, Zelte) sind keine Baumhäuser."
 ---
 
@@ -56,6 +57,8 @@ Die meisten Luxusunterkünfte auf Bali folgen einer vertrauten Vorlage: gefliest
 
 Die ältesten Gebäude auf dem Anwesen sind antike javanische Brauthäuser – Holzpavillons, die eine Familie traditionell ihrer Tochter zur Hochzeit schenkte. Über Jahrzehnte in ganz Java gesammelt, wurden sie auf dem Sayan Ridge oberhalb des Nebenflusses des Ayung sorgfältig wieder aufgebaut. Jedes ist baulich und optisch einzigartig, mit geschnitzten Holzpaneelen, hohen Spitzdächern und Proportionen, die den indonesischen Wohntraditionen entsprechen, aus denen sie stammen. Daneben hat Hardy neue Bambusbauten errichtet, die zeigen, was das Material in den Händen geschickter balinesischer Handwerker vermag: gewölbte Decken, über den Dschungel auskragende Plattformen und Räume, die bei starkem Wind leicht nachgeben, wie es traditionelle Bauweise nie tut.
 
-Das Flussbad ist das Element, das Bambu Indah am deutlichsten von der Konkurrenz in Ubud unterscheidet. Natürliche, in Stein gehauene Becken unter dem Blätterdach, gespeist vom Fluss und beschattet von der Vegetation darüber, liegen am Ende eines Pfades von den oberen Gebäuden hinab. An einem heißen Nachmittag in Balis Trockenzeit sind sie genau das, was ein gechlorter Resortpool nicht ist: kühl, bewegt, mit der Landschaft verbunden und ganz im Einklang mit der Kernaussage des Hauses darüber, was Luxus in dieser Umgebung bedeuten sollte.
+Eines der 24 Häuser ist ein Treehouse: eine Bambuskonstruktion mit geschwungenem Kupferdach in den Ästen zweier Bunut-Bäume über dem Tal. Es bietet Platz für drei Personen, mit einem Queensize-Bett im Hauptbereich und einem zweiten in einem Loft, und ist über eine schmale Wendeltreppe erreichbar.
+
+Das Flussbad ist das Element, das Bambu Indah am deutlichsten von der Konkurrenz in Ubud unterscheidet. Zum Gelände gehört ein quellgespeister Pool direkt am rauschenden Fluss, und ein von Hand gelegter Steinpfad führt hindurch. An einem heißen Nachmittag in Balis Trockenzeit sind sie genau das, was ein gechlorter Resortpool nicht ist: kühl, bewegt, mit der Landschaft verbunden und ganz im Einklang mit der Kernaussage des Hauses darüber, was Luxus in dieser Umgebung bedeuten sollte.
 
 Der Biohof liegt hinter den Hauptgebäuden und beliefert die Küche mit Gemüse, Kräutern, Eiern und Obst. Das Frühstück in Bambu Indah ist ein direkter Ausdruck dessen, was der Garten an diesem Morgen hergegeben hat. Die Philosophie erstreckt sich auch auf das Wasser: Das Haus nutzt eine eigene Aufbereitungsanlage, und das Einwegplastik, das den Abfall der meisten balinesischen Resorts füllt, sucht man hier vergebens. Für Reisende, die Bali kennen und die gängige Resortszene ästhetisch ermüdend fanden, ist Bambu Indah das Gegenmittel.

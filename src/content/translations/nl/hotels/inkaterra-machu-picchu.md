@@ -1,14 +1,14 @@
 ---
 source: inkaterra-machu-picchu
 destination: "Aguas Calientes, regio Cusco, Peru"
-description: "Drieëntachtig witgekalkte casita's verspreid over vijf hectare nevelwoud aan de voet van Machu Picchu, met het enige private orchideeënreservaat van Peru op het terrein en de Urubamba hoorbaar vanuit elk gebouw."
+description: "Tachtig witgekalkte casita's verspreid over vijf hectare nevelwoud aan de voet van Machu Picchu, met 372 geregistreerde orchideeënsoorten op het terrein en de Urubamba hoorbaar vanuit elk gebouw."
 highlights:
-  - "Drieëntachtig casita's in vijf hectare privénevelwoud"
-  - "Eigen orchideeënreservaat met meer dan 370 soorten – de grootste privécollectie van Peru"
-  - "Vijf minuten van station Aguas Calientes, het verblijf het dichtst bij Machu Picchu"
+  - "Tachtig casita's in vijf hectare privénevelwoud"
+  - "Orchideeëncollectie met 372 geregistreerde soorten, door het hotel omschreven als 's werelds grootste collectie inheemse orchideeën"
+  - "Recht tegenover station Machu Picchu Pueblo, met bussen naar de citadel vanaf het dorp"
   - "Begeleid vertrek voor zonsopkomst om bij de opening bij de citadel te zijn"
   - "Nevelwoudpaden over het terrein met gespecialiseerde natuurgidsen"
-  - "Beschermingsprogramma voor de brilbeer op het terrein"
+  - "317 vogelsoorten geregistreerd op het terrein"
 amenities:
   - "Eigen casita met open haard en tuinterras"
   - "Twee verwarmde zwembaden omringd door nevelwoud"
@@ -24,7 +24,7 @@ bestFor:
   - "Stellen op huwelijksreis in Zuid-Amerika"
 prosAndCons:
   pros:
-    - "Het enige verblijf dat je midden in echt nevelwoud zet in plaats van naast een stadje"
+    - "In een privéreservaat van vijf hectare nevelwoud, recht tegenover het station"
     - "De natuurgidsen van Inkaterra geven je bezoek aan Machu Picchu echte ecologische diepgang"
     - "De orchideeëncollectie is een bestemming op zich"
     - "Dankzij het vroege programma ben je in Machu Picchu voordat de groepsreizen arriveren"
@@ -48,12 +48,12 @@ nearbyAttractions:
     distance: 80 km per trein
 seo:
   metaTitle: "Inkaterra Machu Picchu: nevelwoudlodge Peru | StayAtNiche"
-  metaDescription: "Drieëntachtig casita's in eigen nevelwoud aan de voet van Machu Picchu, met de grootste orchideeëncollectie van Peru en vroege toegang tot de citadel."
+  metaDescription: "Inkaterra Machu Picchu Pueblo Hotel: tachtig casita's in privénevelwoud aan de voet van Machu Picchu, met 372 orchideeënsoorten. Vanaf $ 600 per nacht."
 ---
 
-Aguas Calientes is een stadje dat alleen bestaat vanwege wat er vier kilometer verderop ligt, en dat zie je aan de infrastructuur: souvenirwinkels, toeristenrestaurants, backpackershostels en middenklassehotels langs de hoofdstraat en de kloof van de Urubamba. Inkaterra Machu Picchu Pueblo Hotel is de uitzondering. Het hotel beslaat vijf hectare nevelwoud boven het stadje, met de drieëntachtig casita's verspreid door het groen langs met steen geplaveide paden die het natuurlijke reliëf volgen, en altijd ergens beneden het geluid van de Urubamba.
+Aguas Calientes is een stadje dat alleen bestaat vanwege wat er vier kilometer verderop ligt, en dat zie je aan de infrastructuur: souvenirwinkels, toeristenrestaurants, backpackershostels en middenklassehotels langs de hoofdstraat en de kloof van de Urubamba. Inkaterra Machu Picchu Pueblo Hotel is de uitzondering. Het hotel beslaat vijf hectare nevelwoud boven het stadje, met de tachtig casita's verspreid door het groen langs met steen geplaveide paden die het natuurlijke reliëf volgen, en altijd ergens beneden het geluid van de Urubamba.
 
-Het nevelwoud dat Inkaterra beheert, is een werkend biologisch leefgebied. Op het terrein groeien meer dan 370 orchideeënsoorten – de grootste privécollectie van Peru – onderhouden door een vast botanisch team. De brilbeer, de enige berensoort van Zuid-Amerika en een dier dat de meeste reizigers nooit in het wild zien, leeft in het omringende bos en wordt gevolgd door het beschermingsprogramma van het hotel. Natuurgidsen leiden wandelingen door het nevelwoud over paden die beekjes kruisen en door groene corridors lopen waar kolibries van dichtbij nectar drinken uit bloeiende bromelia's. Dit is geen tuin; het is intact bergnevelwoud op 2040 meter hoogte, en de gidsen zijn opgeleid om het met wetenschappelijke precisie te lezen.
+Het nevelwoud dat Inkaterra beheert, is een werkend biologisch leefgebied. Het hotel meldt 372 geregistreerde orchideeënsoorten, die het omschrijft als 's werelds grootste collectie inheemse orchideeën, en 317 geregistreerde vogelsoorten, waaronder de goudkopquetzal en de Andes-rotshaan. Natuurgidsen leiden wandelingen door het nevelwoud over paden die beekjes kruisen en door groene corridors lopen waar kolibries van dichtbij nectar drinken uit bloeiende bromelia's. Dit is geen tuin; het is intact bergnevelwoud op ongeveer 2020 meter hoogte, en de gidsen zijn opgeleid om het met wetenschappelijke precisie te lezen.
 
 De casita's zijn witgekalkte gebouwtjes in adobestijl met een open haard en een tuinterras, warm en solide in een omgeving waar de temperatuur daalt en de mist halverwege de middag binnenrolt. De twee verwarmde zwembaden liggen in het bos, omringd door groen, en worden net zo vaak gebruikt om op te warmen na een vroeg bezoek aan de citadel als om gewoon te zwemmen. Het hoofdrestaurant put uit de biodiversiteit van de Andes rond het hotel: inheemse aardappelrassen, quinoa van grote hoogte en Amazone-ingrediënten van de lagere hellingen in het oosten.
 

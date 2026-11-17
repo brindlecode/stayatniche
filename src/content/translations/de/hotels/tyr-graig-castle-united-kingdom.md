@@ -31,7 +31,7 @@ Das Gebäude wurde 1892 als Familiensitz für WW Greener fertiggestellt, den ber
 
 ## Die Innenräume
 
-Das Gebäude wurde Ende der 1890er-Jahre errichtet und bewahrt noch die Eleganz der viktorianischen Zeit, mit Buntglasfenstern, Holzvertäfelungen und reich verzierten Böden und Decken. Die Kamine werden mit frisch gefälltem Holz befeuert, und zugleich bietet das Haus moderne Annehmlichkeiten. Jedes der 11 Zimmer ist individuell eingerichtet und verfügt über Tee- und Kaffeeausstattung, einen Haartrockner, einen LCD-TV mit Freeview und einen DVD-Player.
+Das Gebäude bewahrt noch die Eleganz der viktorianischen Zeit, mit Buntglasfenstern, Holzvertäfelungen und reich verzierten Böden und Decken. Die Kamine werden mit frisch gefälltem Holz befeuert, und zugleich bietet das Haus moderne Annehmlichkeiten. Jedes der 11 Zimmer ist individuell eingerichtet und verfügt über Tee- und Kaffeeausstattung, einen Haartrockner, einen LCD-TV mit Freeview und einen DVD-Player. Zu den Zimmertypen zählen Premium-, Four-Poster- und Standard-Turmzimmer (Turret) sowie zwei große Doppelzimmer am Hang (Hillside).
 
 ## Lage
 

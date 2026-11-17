@@ -1,16 +1,16 @@
 ---
 source: jade-mountain-st-lucia
 destination: "Soufrière, Santa Lucía"
-description: "Veintinueve santuarios construidos en un acantilado sobre el mar Caribe, a los que les falta la cuarta pared para que los Pitons enmarquen desde la cama una panorámica sin interrupciones y la piscina infinita se prolongue hacia el horizonte abierto."
+description: "Veintinueve santuarios en lo alto de la finca de playa de Anse Chastanet, en la costa caribeña de Santa Lucía, todos sin cuarta pared a propósito para que los Pitons enmarquen la vista, y 24 de ellos con piscina infinita privada."
 highlights:
   - "Santuarios sin cuarta pared, con panorámicas despejadas de los Pitons y el mar"
-  - "Piscina infinita privada en cada santuario"
+  - "Piscina infinita privada en 24 de los 29 santuarios; los cinco santuarios Sky tienen un jacuzzi en su lugar"
   - "Vistas directas a los Pitons, Patrimonio Mundial de la UNESCO"
-  - "En la pared de un acantilado sobre el mar Caribe, al sur de Soufrière"
+  - "En lo alto de la finca de playa de Anse Chastanet (600 acres), al sur de Soufrière"
   - "Restaurante Jade Mountain Club, con cocina caribeña de la plantación a la mesa"
   - "Acceso a la playa y al arrecife de coral de Anse Chastanet desde el hotel"
 amenities:
-  - "Piscina infinita privada en cada santuario"
+  - "Piscina infinita privada en 24 santuarios (jacuzzi en los santuarios Sky)"
   - "Sin cuarta pared: vista panorámica permanente al Caribe y a los Pitons"
   - "Cama king orientada hacia el lado abierto"
   - "Jade Mountain Club, con menús degustación caribeños"
@@ -36,7 +36,7 @@ prosAndCons:
 seasonalInfo:
   bestTime: "De diciembre a abril"
   peakSeason: "De enero a marzo"
-  notes: "La estación seca, de diciembre a abril, ofrece el tiempo más fiable para disfrutar de los santuarios abiertos y de las vistas al mar Caribe. La estación húmeda (junio-octubre) trae lluvias por la tarde y riesgo de huracanes en pleno pico de la temporada atlántica (agosto-octubre), aunque la posición en el acantilado de Jade Mountain y la ubicación meridional de Santa Lucía reducen ese riesgo sin eliminarlo. Mayo y noviembre son temporada media y suelen tener una excelente relación calidad-precio."
+  notes: "La estación seca, de diciembre a abril, ofrece el tiempo más fiable para disfrutar de los santuarios abiertos y de las vistas al mar Caribe. La estación húmeda (junio-octubre) trae lluvias por la tarde y riesgo de huracanes en pleno pico de la temporada atlántica (agosto-octubre), aunque la posición elevada de Jade Mountain y la ubicación meridional de Santa Lucía reducen ese riesgo sin eliminarlo. Mayo y noviembre son temporada media y suelen tener una excelente relación calidad-precio."
 nearbyAttractions:
   - name: "Los Pitons (Patrimonio de la UNESCO)"
     distance: "Vista directa desde el hotel"
@@ -48,12 +48,12 @@ nearbyAttractions:
     distance: "12 km"
 seo:
   metaTitle: "Jade Mountain: vistas a los Pitons en Santa Lucía | StayAtNiche"
-  metaDescription: "29 santuarios en un acantilado sin cuarta pared, con piscina infinita privada y vistas directas a los Pitons de Santa Lucía, en el Caribe. Desde 1200 US$."
+  metaDescription: "29 santuarios sin cuarta pared, 24 de ellos con piscina infinita privada, y vistas directas a los Pitons de Santa Lucía, en el Caribe. Desde 1200 US$."
 ---
 
-Los Pitons son la imagen que define Santa Lucía: dos chimeneas volcánicas que se alzan a pico desde el mar Caribe al sur de Soufrière, el Gros Piton, de 770 metros, y el Petit Piton, de 743, declarados Patrimonio Mundial por la UNESCO en 2004. Todos los resorts de la costa sur de Santa Lucía son conscientes de los Pitons. Jade Mountain ha construido toda su propuesta arquitectónica en torno a ellos: ha situado veintinueve santuarios en la pared del acantilado de forma que la cuarta pared —la que normalmente cerraría la habitación y la separaría del entorno— no existe. Los Pitons están dentro de la habitación.
+Los Pitons son la imagen que define Santa Lucía: dos chimeneas volcánicas que se alzan a pico desde el mar Caribe al sur de Soufrière, el Gros Piton, de 770 metros, y el Petit Piton, de 743, declarados Patrimonio Mundial por la UNESCO en 2004. Todos los resorts de la costa sur de Santa Lucía son conscientes de los Pitons. Jade Mountain ha construido toda su propuesta arquitectónica en torno a ellos: ha situado veintinueve santuarios de forma que la cuarta pared —la que normalmente cerraría la habitación y la separaría del entorno— no existe. Los Pitons están dentro de la habitación.
 
-Es obra del arquitecto Nick Troubetzkoy, y se entrega sin reservas a una sola idea: que entre el huésped y este paisaje concreto no haya nada. La piscina infinita de cada santuario empieza al nivel del suelo de madera pulida y se extiende hasta un borde que se asoma al Caribe. La cama mira al lado abierto. La mesa del comedor mira al lado abierto. Hay cortinas para la privacidad y para la lluvia, pero el estado natural de un santuario de Jade Mountain es una exposición deliberada a la panorámica. Los Pitons al amanecer, pasando del verde oscuro al dorado a medida que la luz los alcanza desde el otro lado del agua, visibles desde la almohada a las cinco de la mañana: ese es el sentido de todo.
+Es obra del arquitecto Nick Troubetzkoy, y se entrega sin reservas a una sola idea: que entre el huésped y este paisaje concreto no haya nada. En los 24 santuarios con piscina infinita privada, la piscina se funde con el dormitorio y la sala y se extiende hacia el Caribe; los cinco santuarios Sky tienen en su lugar un jacuzzi para dos. La cama mira al lado abierto. La mesa del comedor mira al lado abierto. Hay cortinas para la privacidad y para la lluvia, pero el estado natural de un santuario de Jade Mountain es una exposición deliberada a la panorámica. Los Pitons al amanecer, pasando del verde oscuro al dorado a medida que la luz los alcanza desde el otro lado del agua, visibles desde la almohada a las cinco de la mañana: ese es el sentido de todo.
 
 La cocina del Jade Mountain Club aborda la herencia agrícola de Santa Lucía con el mismo enfoque que la arquitectura aplica al paisaje: el restaurante construye sus menús en torno a la fertilidad del suelo volcánico de la isla, con cacao cultivado en la zona, té de cacao, fruta del pan, dasheen y las capturas de los barcos de pesca del puerto de Soufrière. La cocina es sofisticada y específicamente antillana, no la genérica de resort caribeño. La carta de vinos es seria y el servicio, atento sin formalismos.
 

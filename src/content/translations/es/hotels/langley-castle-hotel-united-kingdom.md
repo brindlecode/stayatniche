@@ -3,7 +3,7 @@ source: langley-castle-hotel-united-kingdom
 destination: "Hexham, Northumberland"
 description: "Castillo medieval del siglo XIV restaurado junto al Muro de Adriano, con nueve habitaciones en el castillo principal y otras 19 en el edificio Castle View, a poca distancia a pie."
 highlights:
-  - "Castillo del siglo XIV construido en 1364, con muros de hasta siete pies de grosor"
+  - "Castillo del siglo XIV construido por primera vez en 1350, con muros de hasta siete pies de grosor"
   - "Nueve habitaciones con estilo propio en el castillo principal, con camas con dosel, y bañeras spa o saunas en algunas"
   - "19 habitaciones que admiten perros en Castle View, a poca distancia a pie"
   - "Visita diaria a las almenas a las 10:15"
@@ -23,7 +23,7 @@ seo:
 niche_feature: "Nueve habitaciones en el castillo principal del siglo XIV (catalogado Grade I, con muros de hasta siete pies de grosor); otras 19 habitaciones están en Castle View, a poca distancia a pie, además de la Toll Bar Luxury Villa con cocina propia."
 ---
 
-Langley Castle es una torre medieval restaurada en el valle del río South Tyne, en Northumberland, a tres millas al sur de Haydon Bridge. Se construyó en 1364 con planta en H, cuatro plantas y una torre en cada esquina, y es un edificio catalogado Grade I. Sus muros tienen hasta siete pies de grosor, lo que da al interior una quietud muy especial.
+Langley Castle es una torre medieval restaurada en el valle del río South Tyne, en Northumberland, a tres millas al sur de Haydon Bridge. Se construyó por primera vez en 1350 con planta en H, cuatro plantas y una torre en cada esquina, y es un edificio catalogado Grade I. Sus muros tienen hasta siete pies de grosor, lo que da al interior una quietud muy especial.
 
 ## Dónde dormir
 

@@ -23,7 +23,7 @@ seo:
   metaDescription: "Seki Cave Hotel a Çavuşin, vicino a Göreme: terrazze private per ammirare le mongolfiere, jacuzzi sul tetto, hammam e reception 24 ore in Cappadocia."
 ---
 
-Il Seki Cave Hotel si trova a Çavuşin, un villaggio a circa 3 km da Göreme. Il nome deriva dalla parola turca che indica le piattaforme a terrazza, e le terrazze sono il cuore dell'esperienza: secondo l'hotel, dalla terrazza privata si possono ammirare l'alba, il tramonto e le mongolfiere. Il sito presenta l'intera struttura come un hotel in grotta.
+Il Seki Cave Hotel si trova a Çavuşin, un villaggio a circa 3 km da Göreme. Il nome deriva dalla parola turca che indica le piattaforme a terrazza, e le terrazze sono il cuore dell'esperienza: secondo l'hotel, dalla terrazza privata si possono ammirare l'alba, il tramonto e le mongolfiere. Il sito promette «autentiche camere in grotta», ma alcune camere twin e doppie del suo elenco non sono indicate come grotta, quindi chiedi al momento della prenotazione.
 
 ## Cosa offre
 

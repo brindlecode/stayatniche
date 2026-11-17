@@ -3,10 +3,10 @@ name: "Locanda al Castello"
 category: castle-hotels
 destination: "Cividale del Friuli, Friuli-Venezia Giulia"
 country: "Italy"
-description: "A charm hotel, restaurant and wellness centre a few minutes from the centre of Cividale del Friuli, with 27 rooms split between an ancient manor of the castle complex and a modern wellness wing."
+description: "A charm hotel, restaurant and wellness centre a few minutes from the centre of Cividale del Friuli, with 27 rooms split between the manor, a mid-19th-century former Jesuit monastery, and a modern wellness wing."
 priceRange: "Rates vary"
 highlights:
-  - "27 rooms in the ancient manor and a modern wellness wing"
+  - "27 rooms in the 19th-century manor and a modern wellness wing"
   - "Views from the old town of Cividale to the Carnic Alps"
   - "Wellness centre with indoor pool, Kneipp path and hot tub"
   - "Restaurant with a panoramic view"
@@ -47,11 +47,11 @@ niche_verified_at: 2026-11-17
 niche_note: "The “castle” is not a medieval fortress: the manor is a crenellated castle-style villa from the mid-19th century, built as the Jesuit Villa Betlemme. Rooms are split between the manor and a modern wellness wing."
 ---
 
-Locanda al Castello combines a hotel, a restaurant and a wellness centre in one property, a few minutes from the centre of Cividale del Friuli. The setting is a castle complex, with crenellations and panoramic terraces that also serve as a backdrop for weddings.
+Locanda al Castello combines a hotel, a restaurant and a wellness centre in one property, a few minutes from the centre of Cividale del Friuli. The setting is a crenellated castle-style complex, the former Jesuit monastery Villa Betlemme, built in the mid-19th century, with panoramic terraces that also serve as a backdrop for weddings.
 
 ## Manor or wellness wing
 
-The charm hotel has 27 rooms, either Junior Suites or Superior Doubles, and they are divided between two places: the ancient manor and a modern panoramic wing directly connected to the wellness centre, with its indoor pool and spa. Only the rooms in the manor are in the old castle building, so ask for one if the historic setting is why you are coming.
+The charm hotel has 27 rooms, either Junior Suites or Superior Doubles, and they are divided between two places: the manor and a modern panoramic wing directly connected to the wellness centre, with its indoor pool and spa. Only the rooms in the manor are in the original building, so ask for one if the historic setting is why you are coming. The hotel does not say how many of the 27 rooms are in the manor.
 
 All rooms have Wi-Fi, a minibar, air conditioning, satellite TV, a safe and a telephone. The view sweeps from the historic centre of Cividale over the green eastern hills to the ancient monastery of Castelmonte and the skyline of the Carnic Alps, with the peaks of Monte Canin and Matajur snow-capped in winter. Breakfast is included in the room rate.
 

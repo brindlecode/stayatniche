@@ -1,9 +1,9 @@
 ---
 source: locanda-al-castello-italy
 destination: "Cividale del Friuli, Friuli-Venezia Giulia"
-description: "Hotel di charme, con ristorante e centro benessere, a pochi minuti dal centro di Cividale del Friuli: 27 camere divise tra un antico maniero del complesso castellano e un’ala moderna dedicata al benessere."
+description: "Hotel di charme, con ristorante e centro benessere, a pochi minuti dal centro di Cividale del Friuli: 27 camere divise tra il maniero, un ex monastero gesuita di metà Ottocento, e un’ala moderna dedicata al benessere."
 highlights:
-  - "27 camere nell’antico maniero e in un’ala moderna dedicata al benessere"
+  - "27 camere nel maniero ottocentesco e in un’ala moderna dedicata al benessere"
   - "Vista dal centro storico di Cividale fino alle Alpi Carniche"
   - "Centro benessere con piscina coperta, percorso Kneipp e vasca idromassaggio"
   - "Ristorante con vista panoramica"
@@ -26,11 +26,11 @@ niche_note: "Il «castello» non è una fortezza medievale: il maniero è una vi
 niche_feature: "27 camere divise tra l'«antico maniero» (una villa in stile castello merlato, ex monastero gesuita «Villa Betlemme», di metà Ottocento) e un'ala wellness moderna; il numero per ala non è indicato."
 ---
 
-La Locanda al Castello unisce in un’unica struttura hotel, ristorante e centro benessere, a pochi minuti dal centro di Cividale del Friuli. Il contesto è un complesso castellano con merlature e terrazze panoramiche, che fa da scenario anche a matrimoni.
+La Locanda al Castello unisce in un’unica struttura hotel, ristorante e centro benessere, a pochi minuti dal centro di Cividale del Friuli. Il contesto è un complesso merlato in forma di castello, l’ex monastero gesuita Villa Betlemme, costruito a metà Ottocento, con terrazze panoramiche che fanno da scenario anche a matrimoni.
 
 ## Maniero o ala benessere
 
-L’hotel di charme dispone di 27 camere, junior suite o doppie superior, divise tra due sedi: l’antico maniero e un’ala moderna e panoramica collegata direttamente al centro benessere, con la sua piscina coperta e la spa. Solo le camere del maniero si trovano nell’antico edificio del castello, quindi chiedine una se il contesto storico è il motivo del tuo viaggio.
+L’hotel di charme dispone di 27 camere, junior suite o doppie superior, divise tra due sedi: il maniero e un’ala moderna e panoramica collegata direttamente al centro benessere, con la sua piscina coperta e la spa. Solo le camere del maniero si trovano nell’edificio originale, quindi chiedine una se il contesto storico è il motivo del tuo viaggio. L’hotel non precisa quante delle 27 camere siano nel maniero.
 
 Tutte le camere dispongono di Wi-Fi, minibar, aria condizionata, TV satellitare, cassaforte e telefono. La vista spazia dal centro storico di Cividale sulle verdi colline orientali fino all’antico monastero di Castelmonte e al profilo delle Alpi Carniche, con le cime del Monte Canin e del Matajur innevate in inverno. La colazione è inclusa nella tariffa della camera.
 

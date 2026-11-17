@@ -5,7 +5,7 @@ description: "Un castillo señorial de cinco estrellas del siglo XIX a los pies 
 highlights:
   - "Castillo señorial del siglo XIX, construido en 1863"
   - "Habitaciones y suites en el castillo, con vistas a los terrenos y al lago"
-  - "Ocho Walled Garden Rooms en el antiguo establo reconvertido, cada una con balcón o terraza"
+  - "Habitaciones y suites Walled Garden en el antiguo establo reconvertido, cada una con balcón o terraza"
   - "Gate Lodge con una habitación doble y una individual"
   - "Experiencia gastronómica Seasgair de Michel Roux"
 amenities:
@@ -29,7 +29,7 @@ Inverlochy Castle es una mansión señorial del siglo XIX situada entre la monta
 Las habitaciones se reparten entre el edificio principal del castillo y los jardines, y hay tres opciones:
 
 - **Habitaciones y suites del castillo** están diseñadas individualmente con piezas antiguas y ofrecen vistas a los terrenos y al lago.
-- **Walled Garden Rooms** son ocho habitaciones en un antiguo establo reconvertido, con vistas al tranquilo jardín amurallado, cada una con balcón o terraza.
+- **Walled Garden Rooms** son habitaciones y suites en un antiguo establo reconvertido, a cinco minutos a pie del castillo, con vistas al tranquilo jardín amurallado, cada una con balcón o terraza.
 - **The Gate Lodge** es una casa de guarda íntima en los terrenos, a poca distancia a pie del castillo, junto a la entrada principal, con una habitación doble y una individual.
 
 ## Comer y explorar

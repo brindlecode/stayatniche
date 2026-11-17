@@ -45,7 +45,7 @@ niche_source_url: "https://www.sekicavehotel.com/en/about-us"
 niche_verified_at: 2026-11-17
 ---
 
-Seki Cave Hotel is in Çavuşin, a village about 3 km from Göreme. The hotel's name comes from the Turkish word for terraced platforms, and the terraces are the point: the hotel says guests can watch sunrise, sunset and the hot air balloons from a private terrace. The site presents the whole property as a cave hotel.
+Seki Cave Hotel is in Çavuşin, a village about 3 km from Göreme. The hotel's name comes from the Turkish word for terraced platforms, and the terraces are the point: the hotel says guests can watch sunrise, sunset and the hot air balloons from a private terrace. The site promises "authentic cave rooms", though some of the twin and double rooms on its room list are not labelled as cave rooms, so ask when booking.
 
 ## What it offers
 

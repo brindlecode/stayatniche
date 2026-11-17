@@ -53,7 +53,7 @@ The building was completed in 1892 as a family home for WW Greener, the famous B
 
 ## The interiors
 
-Built in the late 1890s, it still keeps the elegance of the Victorian era, with stained glass windows, wood panelling and highly decorated floors and ceilings. Hearths burn freshly felled timber, and the building adds modern comforts. Each of the 11 rooms is individually decorated and comes with tea and coffee facilities, a hairdryer, an LCD TV with Freeview and a DVD player.
+It still keeps the elegance of the Victorian era, with stained glass windows, wood panelling and highly decorated floors and ceilings. Hearths burn freshly felled timber, and the building adds modern comforts. Each of the 11 rooms is individually decorated and comes with tea and coffee facilities, a hairdryer, an LCD TV with Freeview and a DVD player. The room types include Premium Turret, Four Poster Turret and Standard Turret rooms, plus two Large Double hillside rooms.
 
 ## Setting
 

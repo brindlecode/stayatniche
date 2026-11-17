@@ -5,7 +5,7 @@ description: "Un castello baronale cinque stelle del XIX secolo ai piedi del Ben
 highlights:
   - "Castello baronale del XIX secolo, costruito nel 1863"
   - "Camere e suite nel castello, con vista sul parco e sul loch"
-  - "Otto Walled Garden Rooms nell'ex scuderia, ciascuna con balcone o terrazza"
+  - "Camere e suite Walled Garden nell'ex scuderia, ciascuna con balcone o terrazza"
   - "Gate Lodge con una camera matrimoniale e una singola"
   - "Esperienza gastronomica Seasgair firmata Michel Roux"
 amenities:
@@ -29,7 +29,7 @@ Inverlochy Castle è un maniero baronale ottocentesco incastonato tra montagna e
 Le camere sono distribuite tra il corpo principale del castello e il giardino, con tre diverse scelte:
 
 - **Camere e suite del castello** sono arredate individualmente con pezzi antichi e offrono vista sul parco e sul loch.
-- **Walled Garden Rooms** sono otto camere ricavate in un'ex scuderia ristrutturata, affacciate sul tranquillo giardino murato, ciascuna con balcone o terrazza.
+- **Walled Garden Rooms** sono camere e suite ricavate in un'ex scuderia ristrutturata, a cinque minuti a piedi dal castello, affacciate sul tranquillo giardino murato, ciascuna con balcone o terrazza.
 - **The Gate Lodge** è una piccola casa di guardia intima nel parco, a pochi passi dal castello, vicino all'ingresso principale, con una camera matrimoniale e una singola.
 
 ## Ristorazione ed esplorazione

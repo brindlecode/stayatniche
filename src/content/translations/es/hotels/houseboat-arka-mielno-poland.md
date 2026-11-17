@@ -21,7 +21,7 @@ seo:
   metaDescription: "Casa flotante Arka en Mielno, en la costa báltica polaca: autosuficiente, dos dormitorios, azotea con vistas al lago Jamno y playa a unos 200 m."
 ---
 
-Houseboat «Arka» es un alquiler vacacional de casa flotante en Mielno, en la costa báltica polaca, amarrada entre el lago Jamno y el mar. El operador, Domki na Wodzie, ofrece casas sobre el agua, a las que compara con autocaravanas sobre el agua, con las mismas ventajas e inconvenientes.
+Houseboat «Arka» es un alquiler vacacional de casa flotante en Mielno, en la costa báltica polaca, amarrada en los terrenos de un camping situado entre el lago Jamno y el mar. El operador, Domki na Wodzie, ofrece casas sobre el agua, a las que compara con autocaravanas sobre el agua, con las mismas ventajas e inconvenientes.
 
 ## La embarcación
 
@@ -33,6 +33,6 @@ La parcela está a solo unos 200 m del mar Báltico y su playa, y la embarcació
 
 ## Información práctica
 
-La casa flotante está en un camping, lo que supone un ambiente relajado de parque vacacional y no un amarre privado y tranquilo.
+La casa flotante está en un camping, lo que supone un ambiente relajado de parque vacacional y no un amarre privado y tranquilo. La web del operador muestra dos barcos, Arka I y Arka II, así que comprueba cuál de las dos unidades reservas. Los barcos están amarrados en los terrenos del camping, por lo que se trata de un alojamiento vacacional en un amarre de camping y no de una travesía en aguas abiertas.
 
 La Arka es ideal para familias y parejas que buscan unas vacaciones costeras diferentes, con un lago a un lado y el mar al otro. Antes de reservar, pregunta al operador por la temporada, las condiciones de reserva y qué incluye. La zona de cocina te permite cocinar por tu cuenta, y los dos dormitorios dan espacio a una familia o a dos parejas.

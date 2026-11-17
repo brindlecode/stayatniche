@@ -31,7 +31,7 @@ L'edificio fu completato nel 1892 come residenza di famiglia di WW Greener, il c
 
 ## Gli interni
 
-Costruito alla fine degli anni Novanta dell'Ottocento, conserva l'eleganza dell'epoca vittoriana, con vetrate colorate, boiserie e pavimenti e soffitti riccamente decorati. I camini sono alimentati con legna appena tagliata, e l'edificio offre comodità moderne. Ciascuna delle 11 camere è arredata in modo individuale e dispone di dotazioni per tè e caffè, asciugacapelli, TV LCD con Freeview e lettore DVD.
+Conserva l'eleganza dell'epoca vittoriana, con vetrate colorate, boiserie e pavimenti e soffitti riccamente decorati. I camini sono alimentati con legna appena tagliata, e l'edificio offre comodità moderne. Ciascuna delle 11 camere è arredata in modo individuale e dispone di dotazioni per tè e caffè, asciugacapelli, TV LCD con Freeview e lettore DVD. Le tipologie di camera comprendono Premium Turret, Four Poster Turret e Standard Turret, oltre a due ampie camere doppie sul lato collina (Hillside).
 
 ## Posizione
 
