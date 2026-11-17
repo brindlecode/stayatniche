@@ -77,14 +77,14 @@ const otherTypes = sorted.filter(e => !types.some(t => t.value === e.data.type))
           <div id={typeGroup.value} class="mb-16 scroll-mt-48">
             <div class="flex items-center gap-3 mb-6">
               <h2 class="font-display text-2xl font-bold text-warm-950">{typeGroup.label}</h2>
-              <span class="font-body text-warm-400 text-sm">({byType[typeGroup.value].length})</span>
+              <span class="font-body text-warm-500 text-sm">({byType[typeGroup.value].length})</span>
             </div>
             <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
               {byType[typeGroup.value].map(exp => (
                 <a href={L.path('experiences', exp.slug)} class="group bg-white rounded-2xl overflow-hidden shadow-card hover:shadow-card-hover transition-all duration-300 hover:-translate-y-1 border border-warm-100">
                   <div class="relative h-48 bg-gradient-to-br from-warm-100 to-warm-200 overflow-hidden">
                     {coverOf(exp) ? (
-                      <img src={coverOf(exp)!} alt={exp.data.title} class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+                      <img src={coverOf(exp)!} alt={exp.data.title} class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" width="600" height="400" />
                     ) : (
                       <div class="absolute inset-0 bg-gradient-to-br from-forest-100 to-warm-200" />
                     )}
@@ -98,11 +98,11 @@ const otherTypes = sorted.filter(e => !types.some(t => t.value === e.data.type))
                   </div>
                   <div class="p-5">
                     <h3 class="font-display text-base font-bold text-warm-950 group-hover:text-forest-700 transition-colors mb-1 leading-snug">{exp.data.title}</h3>
-                    {exp.data.destination && <p class="font-body text-warm-400 text-xs mb-2">{placeLabel(exp.data.destination, exp.en.country, L.country(exp.en.country))}</p>}
+                    {exp.data.destination && <p class="font-body text-warm-500 text-xs mb-2">{placeLabel(exp.data.destination, exp.en.country, L.country(exp.en.country))}</p>}
                     {exp.data.description && <p class="font-body text-warm-600 text-sm line-clamp-2 mb-4">{exp.data.description}</p>}
                     <div class="flex items-center justify-between pt-3 border-t border-warm-100">
                       {exp.data.booking?.price && <span class="font-body text-warm-600 text-sm font-semibold">{exp.data.booking.price}</span>}
-                      {exp.data.booking?.duration && <span class="font-body text-warm-400 text-xs">{exp.data.booking.duration}</span>}
+                      {exp.data.booking?.duration && <span class="font-body text-warm-500 text-xs">{exp.data.booking.duration}</span>}
                     </div>
                   </div>
                 </a>
@@ -117,7 +117,7 @@ const otherTypes = sorted.filter(e => !types.some(t => t.value === e.data.type))
               {otherTypes.map(exp => (
                 <a href={L.path('experiences', exp.slug)} class="group bg-white rounded-2xl overflow-hidden shadow-card hover:shadow-card-hover transition-all duration-300 hover:-translate-y-1 border border-warm-100">
                   <div class="relative h-48 bg-gradient-to-br from-forest-100 to-warm-200 overflow-hidden">
-                    {coverOf(exp) && <img src={coverOf(exp)!} alt={exp.data.title} class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />}
+                    {coverOf(exp) && <img src={coverOf(exp)!} alt={exp.data.title} class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" width="600" height="400" />}
                     <div class="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent" />
                     {exp.data.type && (
                       <div class="absolute bottom-3 left-3 bg-white/90 text-warm-800 font-body text-xs font-semibold px-2.5 py-1 rounded-full capitalize">
@@ -127,11 +127,11 @@ const otherTypes = sorted.filter(e => !types.some(t => t.value === e.data.type))
                   </div>
                   <div class="p-5">
                     <h3 class="font-display text-base font-bold text-warm-950 group-hover:text-forest-700 transition-colors mb-1 leading-snug">{exp.data.title}</h3>
-                    {exp.data.destination && <p class="font-body text-warm-400 text-xs mb-2">{placeLabel(exp.data.destination, exp.en.country, L.country(exp.en.country))}</p>}
+                    {exp.data.destination && <p class="font-body text-warm-500 text-xs mb-2">{placeLabel(exp.data.destination, exp.en.country, L.country(exp.en.country))}</p>}
                     {exp.data.description && <p class="font-body text-warm-600 text-sm line-clamp-2 mb-4">{exp.data.description}</p>}
                     <div class="flex items-center justify-between pt-3 border-t border-warm-100">
                       {exp.data.booking?.price && <span class="font-body text-warm-600 text-sm font-semibold">{exp.data.booking.price}</span>}
-                      {exp.data.booking?.duration && <span class="font-body text-warm-400 text-xs">{exp.data.booking.duration}</span>}
+                      {exp.data.booking?.duration && <span class="font-body text-warm-500 text-xs">{exp.data.booking.duration}</span>}
                     </div>
                   </div>
                 </a>

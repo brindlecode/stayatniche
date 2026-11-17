@@ -11,8 +11,10 @@ interface Props {
   highlights: string[]; bookingUrl: string; slug: string; category: string;
   featured?: boolean; coverImage?: string; class?: string;
   nicheScope?: string; nicheBadge?: string; closed?: boolean;
+  /** First row of a listing: load the photo now; priority = it is the page's main (LCP) image. */
+  eager?: boolean; priority?: boolean;
 }
-const { name, destination, country, priceRange, rating, highlights, bookingUrl, slug, category, featured, coverImage, class: cls = '', nicheScope, nicheBadge, closed } = Astro.props;
+const { name, destination, country, priceRange, rating, highlights, bookingUrl, slug, category, featured, coverImage, class: cls = '', nicheScope, nicheBadge, closed, eager = false, priority = false } = Astro.props;
 const L = i18n(getLocale(Astro.url));
 const { t } = L;
 const from = startPrice(priceRange);
@@ -22,7 +24,7 @@ const isSearch = !!bookUrl && isExpediaSearch(bookUrl);
 ---
 <article class:list={['hotel-card group relative flex flex-col', cls]} data-hotel data-slug={slug} data-name={name.toLowerCase()} data-place={`${destination} ${country} ${place}`.toLowerCase()} data-cat={category} data-cat-name={L.cat(category, category.replace(/-/g, ' ')).toLowerCase()} data-price={from ?? undefined} data-rating={rating} data-featured={featured ? 1 : 0}>
   <div class="hc-media">
-    <StayVisual slug={slug} name={name} category={category} destination={destination} country={place} coverImage={coverImage} />
+    <StayVisual slug={slug} name={name} category={category} destination={destination} country={place} coverImage={coverImage} eager={eager} priority={priority} />
     {featured && <span class="hc-pick">{t.card.editorsPick}</span>}
     <button type="button" data-save={slug} aria-pressed="false" aria-label={t.card.save(name)} class="save-btn hc-save">
       <svg class="hc-heart" fill="none" aria-hidden="true"><use href="#sn-heart" /></svg>

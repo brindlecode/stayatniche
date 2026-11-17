@@ -1,7 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
-import { guideImage } from '../lib/images';
+import { guideImage, imgAttrs, SIZES } from '../lib/images';
 import { i18n, type Locale } from '../i18n';
 import { localized, allAlternates } from '../i18n/content';
 
@@ -29,7 +29,7 @@ const fmt = (d: Date | string) => L.date(d);
   {lead && (
     <section class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
       <a href={L.path('blog', lead.slug)} class="group grid overflow-hidden rounded-2xl border border-warm-200 bg-white md:grid-cols-[1.4fr_1fr]">
-        <div class="aspect-[16/10] overflow-hidden bg-warm-100 md:aspect-auto"><img src={img(lead)} alt="" class="h-full w-full object-cover transition duration-700 group-hover:scale-[1.03]" width="1200" height="800" /></div>
+        <div class="aspect-[16/10] overflow-hidden bg-warm-100 md:aspect-auto"><img {...imgAttrs(img(lead), SIZES.half, [1200, 800])} alt="" class="h-full w-full object-cover transition duration-700 group-hover:scale-[1.03]" fetchpriority="high" /></div>
         <div class="flex flex-col justify-center p-6 sm:p-10">
           <p class="eyebrow text-gold-600">{nice(lead.data.category)} · {fmt(lead.data.publishedDate)}</p>
           <h2 class="mt-3 font-display text-4xl leading-[1] text-warm-950 group-hover:underline group-hover:decoration-1 group-hover:underline-offset-4 sm:text-5xl">{lead.data.title}</h2>
@@ -48,7 +48,7 @@ const fmt = (d: Date | string) => L.date(d);
     <div id="g-grid" class="grid gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-3">
       {rest.map(p => (
         <a href={L.path('blog', p.slug)} data-cat={p.data.category} class="group block">
-          <div class="aspect-[16/10] overflow-hidden rounded-xl bg-warm-100"><img src={img(p)} alt="" class="h-full w-full object-cover transition duration-700 group-hover:scale-[1.04]" loading="lazy" width="800" height="500" /></div>
+          <div class="aspect-[16/10] overflow-hidden rounded-xl bg-warm-100"><img {...imgAttrs(img(p), SIZES.card, [800, 500])} alt="" class="h-full w-full object-cover transition duration-700 group-hover:scale-[1.04]" loading="lazy" /></div>
           <p class="mt-4 font-body text-xs font-medium uppercase tracking-wider text-warm-500">{nice(p.data.category)} · {fmt(p.data.publishedDate)}</p>
           <h3 class="mt-2 font-display text-2xl leading-[1.08] text-warm-950 group-hover:underline group-hover:decoration-1 group-hover:underline-offset-4">{p.data.title}</h3>
           <p class="mt-2 line-clamp-2 font-body text-[15px] text-warm-600">{p.data.excerpt}</p>

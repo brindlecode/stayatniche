@@ -129,8 +129,56 @@ describe.skipIf(!existsSync(DIST))('built site', () => {
       }
       expect([...bad], report([...bad])).toEqual([]);
     });
-    it('gives every image an alt attribute', () => {
-      const bad = [...pages.values()].flatMap(p => imageProblems(p.html).filter(x => x.problem === 'missing alt').map(x => `${p.path}: ${x.problem} ${x.tag}`));
+    it('gives every image an alt attribute and a width and height', () => {
+      const bad = [...pages.values()].flatMap(p => imageProblems(p.html).map(x => `${p.path}: ${x.problem} ${x.tag}`));
+      expect(bad, report(bad)).toEqual([]);
+    });
+  });
+
+  describe('images', () => {
+    const imgs = (html: string) => [...html.replace(/<script\b[\s\S]*?<\/script>/g, '').matchAll(/<img\b[^>]*>/g)].map(m => m[0]);
+    const attr = (tag: string, a: string) => tag.match(new RegExp(`\\s${a}="([^"]*)"`))?.[1];
+    it('serves photos as WebP with smaller sizes to choose from (srcset + sizes)', () => {
+      const bad = new Set<string>();
+      for (const p of pages.values()) for (const t of imgs(p.html)) {
+        const src = attr(t, 'src') ?? '';
+        if (!/^\/images\/(hotels|area|categories|destinations)\/|^\/images\/hero\./.test(src)) continue;
+        if (!/\.webp$/.test(src)) bad.add(`${p.path}: not WebP ${src}`);
+        // A photo under 480px wide has nothing smaller worth offering: one src is right.
+        if ((!attr(t, 'srcset') || !attr(t, 'sizes')) && Number(attr(t, 'width')) > 480) bad.add(`${p.path}: no srcset/sizes ${src}`);
+      }
+      expect([...bad], report([...bad])).toEqual([]);
+    });
+    it('loads the main image of home, hotel, category and /hotels/ pages first, never lazily', () => {
+      const bad: string[] = [];
+      const hotelsIdx = /^\/(?:(?:de|fr|es|it|nl)\/)?(hotels|unterkuenfte|hebergements|alojamientos|alloggi|verblijven)\/$/;
+      const detail = /^\/(?:(?:de|fr|es|it|nl)\/)?(hotels|unterkuenfte|hebergements|alojamientos|alloggi|verblijven|categories|kategorien|categorias|categorie|categorieen)\/[^/]+\/$/;
+      const main = [...pages.values()].filter(p => !p.info.noindex && (/^\/((de|fr|es|it|nl)\/)?$/.test(p.path) || hotelsIdx.test(p.path) || detail.test(p.path)));
+      expect(main.length).toBeGreaterThan(1000);
+      for (const p of main) {
+        // The first screen: from <main> to the first section heading (the hero, or the first row of cards on /hotels/).
+        const body = p.html.slice(p.html.indexOf('<main'));
+        const top = hotelsIdx.test(p.path) ? body : body.slice(0, Math.max(0, body.search(/<h2\b/)) || undefined);
+        const first = imgs(top)[0];
+        if (!first) continue; // a stay without any photo shows a drawn label instead
+        if (attr(first, 'loading') === 'lazy') bad.push(`${p.path}: first image is lazy`);
+        if (attr(first, 'fetchpriority') !== 'high') bad.push(`${p.path}: first image has no fetchpriority=high`);
+        const pre = p.html.match(/<link rel="preload" as="image"[^>]*>/)?.[0];
+        if (pre && attr(pre, 'href') !== attr(first, 'src')) bad.push(`${p.path}: preload ${attr(pre, 'href')} is not the first image ${attr(first, 'src')}`);
+        if (pre && (attr(pre, 'imagesrcset') ?? '') !== (attr(first, 'srcset') ?? '')) bad.push(`${p.path}: preload srcset differs from the image`);
+        if (pre && attr(pre, 'imagesrcset') && attr(pre, 'imagesizes') !== attr(first, 'sizes')) bad.push(`${p.path}: preload sizes differ from the image`);
+      }
+      expect(bad, report(bad)).toEqual([]);
+    });
+    it('lazy-loads everything else (at most 4 eager images per page, one high priority)', () => {
+      const bad: string[] = [];
+      for (const p of pages.values()) {
+        const all = imgs(p.html.slice(p.html.indexOf('<body')));
+        const eager = all.filter(t => attr(t, 'loading') !== 'lazy');
+        const high = all.filter(t => attr(t, 'fetchpriority') === 'high');
+        if (eager.length > 4) bad.push(`${p.path}: ${eager.length} eager images`);
+        if (high.length > 1) bad.push(`${p.path}: ${high.length} high-priority images`);
+      }
       expect(bad, report(bad)).toEqual([]);
     });
   });
@@ -199,9 +247,10 @@ describe.skipIf(!existsSync(DIST))('built site', () => {
   });
 
   describe('/hotels/ index', () => {
-    // Was 777 KB with inline Tailwind classes and icons on every card (2026-11-17); now ~515 KB.
+    // Was 777 KB with inline Tailwind classes and icons on every card (2026-11-17); ~515 KB after that,
+    // ~565 KB once every card image got a srcset (which saves megabytes of image downloads).
     const paths = ['/hotels/', '/de/unterkuenfte/', '/fr/hebergements/', '/es/alojamientos/', '/it/alloggi/', '/nl/verblijven/'];
-    it('stays under 600 KB of HTML in every language', () => {
+    it('stays under 600 KB of HTML in every language (now including image srcsets)', () => {
       for (const p of paths) expect(pages.get(p)!.html.length, p).toBeLessThan(600_000);
     });
     it('keeps what the filters, shareable URLs and filter_use need on every card', () => {

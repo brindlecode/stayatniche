@@ -9,6 +9,10 @@
 [build.environment]
   NODE_VERSION = "20"
 
+# Keeps the build-time image copies between deploys (netlify/plugins/image-cache).
+[[plugins]]
+  package = "./netlify/plugins/image-cache"
+
 # ── Production branch (the repo's default branch) ─────────────────────────────
 [context.production]
   branch = "claude/setup-stayatniche-project-xHSQk"

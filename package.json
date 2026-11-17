@@ -5,11 +5,12 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro build",
+    "build": "node scripts/responsive-images.mjs && astro build",
     "preview": "astro preview",
     "astro": "astro",
     "optimize-images": "node scripts/optimize-images.mjs",
-    "test": "vitest run"
+    "test": "vitest run",
+    "images:sizes": "node scripts/responsive-images.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.2",
