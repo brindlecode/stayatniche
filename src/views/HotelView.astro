@@ -6,7 +6,7 @@ import TripEssentials from '../components/TripEssentials.astro';
 import PartnerLogo from '../components/PartnerLogo.astro';
 import Faq from '../components/Faq.astro';
 import AdSlot from '../components/AdSlot.astro';
-import { ownPhoto, areaPhoto } from '../lib/images';
+import { ownPhoto, areaPhoto, imgAttrs, SIZES } from '../lib/images';
 import photoCredits from '../data/photo-credits.json';
 import { SITE, startPrice, placeLabel, cleanDestination } from '../lib/site';
 import { withTracking, AFFILIATE_REL, mapsUrl, expediaHotelUrl, expediaHotelPage, isExpediaSearch, trackAttrs } from '../lib/affiliate';
@@ -46,6 +46,9 @@ const photo = ownPhoto(d.coverImage, hotel.slug);
 const area = photo ? null : areaPhoto(hotel.slug);
 const credit = (photoCredits as Record<string, any>)[photo ? hotel.slug : `area:${hotel.slug}`];
 const gallery = d.gallery.map((g: string) => ownPhoto(g)).filter(Boolean) as string[];
+// The hero (own photo, else the labelled area photo) is the LCP image: preloaded with the same srcset.
+const heroSrc = photo ?? area;
+const heroImg = heroSrc ? imgAttrs(heroSrc, SIZES.wide) : null;
 const hotelImageOg = photo || area ? `${SITE}${photo ?? area}` : `${SITE}/og-default.png`;
 const pageUrl = SITE + L.path('hotels', hotel.slug);
 
@@ -117,7 +120,7 @@ const faqItems = T.faq({
 });
 ---
 
-<BaseLayout title={metaTitle} description={metaDesc} image={hotelImageOg} heroImage={photo ?? undefined} type="article" hideBottomNav={true} trackPage={{ hotel: hotel.slug, category: d.category, country: d.country }} updatedTime={d.updatedDate?.toISOString()} alternates={await entryAlternates('hotels', 'hotels', hotel.slug)}>
+<BaseLayout title={metaTitle} description={metaDesc} image={hotelImageOg} heroImage={heroSrc ?? undefined} heroSrcset={heroImg?.srcset} heroSizes={SIZES.wide} type="article" hideBottomNav={true} trackPage={{ hotel: hotel.slug, category: d.category, country: d.country }} updatedTime={d.updatedDate?.toISOString()} alternates={await entryAlternates('hotels', 'hotels', hotel.slug)}>
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonLd)} />
   <script type="application/ld+json" set:html={JSON.stringify(hotelJsonLd)} />
 
@@ -169,13 +172,13 @@ const faqItems = T.faq({
       </div>
       {gallery.length > 0 && (
         <div class="hidden grid-rows-2 gap-2 md:grid">
-          {gallery.slice(0, 2).map((g, i) => <img src={g} alt={T.photoAlt(d.name, i + 2)} class="h-full w-full object-cover" loading="lazy" />)}
+          {gallery.slice(0, 2).map((g, i) => <img {...imgAttrs(g, '(min-width: 768px) 33vw, 1px', [800, 600])} alt={T.photoAlt(d.name, i + 2)} class="h-full w-full object-cover" loading="lazy" />)}
         </div>
       )}
     </div>
-    {!photo && !area && <p class="mt-2 font-body text-xs text-warm-400">{T.noPhoto}</p>}
+    {!photo && !area && <p class="mt-2 font-body text-xs text-warm-500">{T.noPhoto}</p>}
     {(photo || area) && credit && (
-      <p class="mt-2 font-body text-xs text-warm-400">{area ? T.areaPhoto : T.photo}: <a href={credit.source} target="_blank" rel="noopener noreferrer" class="underline">{credit.author}</a>, {credit.licenseUrl ? <a href={credit.licenseUrl} target="_blank" rel="noopener noreferrer license" class="underline">{credit.license}</a> : credit.license}, {T.viaCommons}</p>
+      <p class="mt-2 font-body text-xs text-warm-500">{area ? T.areaPhoto : T.photo}: <a href={credit.source} target="_blank" rel="noopener noreferrer" class="underline">{credit.author}</a>, {credit.licenseUrl ? <a href={credit.licenseUrl} target="_blank" rel="noopener noreferrer license" class="underline">{credit.license}</a> : credit.license}, {T.viaCommons}</p>
     )}
 
     <div class="mt-10 grid grid-cols-1 gap-12 lg:grid-cols-[1fr_380px] lg:gap-16">
@@ -278,7 +281,7 @@ const faqItems = T.faq({
               </a></li>
             ))}
           </ul>
-          <p class="mt-4 font-body text-[11px] leading-relaxed text-warm-400">{T.commission} <a href={L.path('disclosure')} class="underline">{t.footer.disclosure}</a></p>
+          <p class="mt-4 font-body text-[11px] leading-relaxed text-warm-500">{T.commission} <a href={L.path('disclosure')} class="underline">{t.footer.disclosure}</a></p>
         </div>
         {d.seasonalInfo?.notes && (
           <div class="mt-4 rounded-2xl bg-warm-100 p-5">

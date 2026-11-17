@@ -8,7 +8,7 @@ import Faq from '../components/Faq.astro';
 import { getCollection } from 'astro:content';
 import { i18n, type Locale } from '../i18n';
 import { localized, allAlternates } from '../i18n/content';
-import { ownPhoto } from '../lib/images';
+import { ownPhoto, imgAttrs, SIZES } from '../lib/images';
 import { AFFILIATE_REL, withTracking, trackAttrs } from '../lib/affiliate';
 import { isLive, startPrice, slugify, placeLabel } from '../lib/site';
 
@@ -35,6 +35,8 @@ const features = cats.filter(c => ownPhoto(c.data.coverImage, c.slug)).slice(0, 
 }));
 const heroPhoto = ownPhoto('/images/hero.webp') ?? ownPhoto(catsAll.find(c => c.slug === 'treehouse-hotels')?.data.coverImage, 'treehouse-hotels');
 
+const heroImg = heroPhoto ? imgAttrs(heroPhoto, SIZES.full, [1600, 1067]) : null;
+
 const bands = [
   { label: H.bands.low.label, q: 'lt300', note: H.bands.low.note, test: (p: number) => p < 300 },
   { label: H.bands.mid.label, q: '300-800', note: H.bands.mid.note, test: (p: number) => p >= 300 && p <= 800 },
@@ -53,12 +55,14 @@ const fmt = (d: Date | string) => L.date(d);
   title={H.metaTitle}
   description={H.metaDescription}
   heroImage={heroPhoto ?? undefined}
+  heroSrcset={heroImg?.srcset}
+  heroSizes={SIZES.full}
   alternates={allAlternates('home')}
 >
 
   <!-- HERO: full-bleed photograph, magazine-cover type -->
   <section class="relative isolate -mt-16 flex min-h-[640px] items-end overflow-hidden bg-warm-950 pt-28 sm:pt-16 text-white sm:min-h-[720px] lg:min-h-[88vh]">
-    {heroPhoto && <img src={heroPhoto} alt={H.heroAlt} class="absolute inset-0 -z-10 h-full w-full object-cover" fetchpriority="high" width="1600" height="1067" />}
+    {heroPhoto && <img {...heroImg!} alt={H.heroAlt} class="absolute inset-0 -z-10 h-full w-full object-cover" fetchpriority="high" />}
     <div class="absolute inset-0 -z-10 bg-gradient-to-t from-black/80 via-black/25 to-black/30"></div>
     <div class="mx-auto w-full max-w-7xl px-4 pb-10 sm:px-6 sm:pb-14 lg:px-8">
       <p class="eyebrow text-white/80">{H.eyebrow(stats.hotels, stats.countries, stats.types)}</p>
@@ -69,19 +73,19 @@ const fmt = (d: Date | string) => L.date(d);
         <div class="grid gap-1 sm:grid-cols-[1.1fr_1fr_.8fr_auto] sm:items-stretch">
           <label class="block rounded-xl px-4 py-2.5 hover:bg-warm-100">
             <span class="block font-body text-[11px] font-semibold text-warm-500">{H.form.kind}</span>
-            <select name="type" class="w-full bg-transparent font-body text-[15px] font-medium text-warm-950 focus:outline-none">
+            <select name="type" class="w-full bg-transparent font-body text-[15px] font-medium text-warm-950 focus:outline-none focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-forest-600">
               <option value="">{H.form.anyKind}</option>
               {cats.map(c => <option value={c.slug}>{c.title}</option>)}
             </select>
           </label>
           <label class="block rounded-xl px-4 py-2.5 hover:bg-warm-100 sm:border-l sm:border-warm-200">
             <span class="block font-body text-[11px] font-semibold text-warm-500">{H.form.where}</span>
-            <input name="q" list="places" autocomplete="off" placeholder={H.form.wherePlaceholder} class="w-full bg-transparent font-body text-[15px] font-medium text-warm-950 placeholder:text-warm-400 focus:outline-none" />
+            <input name="q" list="places" autocomplete="off" placeholder={H.form.wherePlaceholder} class="w-full bg-transparent font-body text-[15px] font-medium text-warm-950 placeholder:text-warm-400 focus:outline-none focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-forest-600" />
             <datalist id="places">{countries.map(c => <option value={c} />)}</datalist>
           </label>
           <label class="block rounded-xl px-4 py-2.5 hover:bg-warm-100 sm:border-l sm:border-warm-200">
             <span class="block font-body text-[11px] font-semibold text-warm-500">{H.form.budget}</span>
-            <select name="price" class="w-full bg-transparent font-body text-[15px] font-medium text-warm-950 focus:outline-none">
+            <select name="price" class="w-full bg-transparent font-body text-[15px] font-medium text-warm-950 focus:outline-none focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-forest-600">
               <option value="">{H.form.anyBudget}</option>
               {bands.map(b => <option value={b.q}>{b.label}</option>)}
             </select>
@@ -104,7 +108,7 @@ const fmt = (d: Date | string) => L.date(d);
           <li class="flex-shrink-0">
             <a href={`${L.path('hotels')}?type=${c.slug}`} class="group flex min-w-[76px] flex-col items-center gap-2 text-center">
               <span class="relative block h-14 w-14 overflow-hidden rounded-full ring-2 ring-transparent ring-offset-2 ring-offset-warm-50 transition group-hover:ring-gold-500 sm:h-16 sm:w-16">
-                {img ? <img src={img} alt="" class="h-full w-full object-cover transition duration-500 group-hover:scale-110" loading="lazy" width="128" height="128" /> : <span class="grid h-full w-full place-items-center bg-warm-100 text-forest-700"><CategoryIcon slug={c.slug} size={22} /></span>}
+                {img ? <img {...imgAttrs(img, SIZES.thumb, [128, 128])} alt="" class="h-full w-full object-cover transition duration-500 group-hover:scale-110" loading="lazy" /> : <span class="grid h-full w-full place-items-center bg-warm-100 text-forest-700"><CategoryIcon slug={c.slug} size={22} /></span>}
               </span>
               <span class="whitespace-nowrap font-body text-[12px] font-semibold leading-tight text-warm-700 group-hover:text-warm-950">{L.locale === 'en' ? c.title.replace(/ (Hotels|Rooms)$/, '') : c.title}</span>
             </a>
@@ -137,7 +141,7 @@ const fmt = (d: Date | string) => L.date(d);
     <section class="mx-auto max-w-7xl px-4 pt-20 sm:px-6 lg:px-8 lg:pt-28">
       <div class:list={['grid items-start gap-8 lg:grid-cols-2 lg:gap-16', i % 2 && 'lg:[&>*:first-child]:order-2']}>
         <a href={L.path('categories', f.cat.slug)} class="group relative block overflow-hidden rounded-xl">
-          <img src={f.photo} alt={f.cat.title} class="aspect-[4/5] w-full object-cover transition duration-700 group-hover:scale-[1.03] sm:aspect-[5/4] lg:aspect-[4/5]" loading="lazy" />
+          <img {...imgAttrs(f.photo, SIZES.half, [800, 1000])} alt={f.cat.title} class="aspect-[4/5] w-full object-cover transition duration-700 group-hover:scale-[1.03] sm:aspect-[5/4] lg:aspect-[4/5]" loading="lazy" />
         </a>
         <div class="lg:sticky lg:top-40">
           <p class="eyebrow text-gold-600">{H.collection} · {String(i + 1).padStart(2, '0')}</p>

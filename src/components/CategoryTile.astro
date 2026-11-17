@@ -1,6 +1,6 @@
 ---
 import CategoryIcon from './CategoryIcon.astro';
-import { ownPhoto, CATEGORY_TONE } from '../lib/images';
+import { ownPhoto, CATEGORY_TONE, imgAttrs, SIZES } from '../lib/images';
 import { getLocale, i18n } from '../i18n';
 interface Props { slug: string; title: string; count: number; coverImage?: string; tagline?: string; big?: boolean; class?: string }
 const { slug, title, count, coverImage, tagline, big = false, class: cls = '' } = Astro.props;
@@ -11,7 +11,7 @@ const [bg, ink] = CATEGORY_TONE[slug] ?? ['#E5E2DA', '#2D2A26'];
 <a href={L.path('categories', slug)} class:list={['group relative isolate block overflow-hidden rounded-xl', cls]} style={photo ? undefined : `background:${bg};color:${ink}`}>
   {photo ? (
     <>
-      <img src={photo} alt="" class="absolute inset-0 -z-10 h-full w-full object-cover transition duration-700 group-hover:scale-[1.04]" loading="lazy" decoding="async" />
+      <img {...imgAttrs(photo, big ? SIZES.half : SIZES.card)} alt="" class="absolute inset-0 -z-10 h-full w-full object-cover transition duration-700 group-hover:scale-[1.04]" loading="lazy" decoding="async" />
       <div class="absolute inset-0 -z-10 bg-gradient-to-t from-black/65 via-black/5 to-transparent"></div>
     </>
   ) : (

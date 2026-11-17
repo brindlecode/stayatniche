@@ -59,7 +59,7 @@ const social = Object.entries(soc as Record<string, string>)
           <input type="hidden" name="language" value={L.locale} />
           <p class="hidden"><label>Leave empty: <input name="bot-field" /></label></p>
           <label for="ft-email" class="sr-only">{t.footer.email}</label>
-          <input id="ft-email" type="email" name="email" required autocomplete="email" placeholder={t.footer.emailPlaceholder} class="min-w-0 flex-1 rounded-full border border-white/15 bg-white/5 px-5 py-3 font-body text-sm text-white placeholder-warm-500 outline-none focus:border-white/40" />
+          <input id="ft-email" type="email" name="email" required autocomplete="email" placeholder={t.footer.emailPlaceholder} class="min-w-0 flex-1 rounded-full border border-white/15 bg-white/5 px-5 py-3 font-body text-sm text-white placeholder-warm-500 outline-none focus:border-white/40 focus-visible:ring-2 focus-visible:ring-white/80" />
           <button type="submit" class="rounded-full bg-white px-5 py-3 font-body text-sm font-semibold text-warm-950 transition hover:bg-gold-100">{t.footer.subscribe}</button>
         </form>
         <p id="ft-nl-status" role="status" aria-live="polite" class="mt-2 min-h-[1rem] font-body text-xs text-warm-300"></p>

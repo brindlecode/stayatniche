@@ -10,7 +10,7 @@
  *
  * External URLs in content are still honoured as-is.
  */
-import { existsSync, readdirSync } from 'node:fs';
+import { existsSync, readdirSync, readFileSync } from 'node:fs';
 import { join, extname, basename } from 'node:path';
 
 const PUBLIC = join(process.cwd(), 'public');
@@ -23,6 +23,7 @@ function scan(dir: string, urlBase: string) {
   for (const e of readdirSync(dir, { withFileTypes: true })) {
     if (e.isDirectory()) {
       if (e.name === 'art') continue; // built-in posters
+      if (e.name === '_w') continue;  // smaller copies made at build time (scripts/responsive-images.mjs)
       scan(join(dir, e.name), `${urlBase}/${e.name}`);
     } else {
       const ext = extname(e.name).toLowerCase();
@@ -128,4 +129,57 @@ export function guideImage(post: { data: { coverImage?: string; tags?: string[];
   if (hit) return INDEX.get(hit.slug)!;
   for (const cat of CATEGORY_ART) if (title.includes(cat.replace(/-hotels|-rooms|-camps|-lodges/, '').replace('-', ' ')) && INDEX.has(cat)) return INDEX.get(cat)!;
   return INDEX.get('hero') ?? '/og-default.png';
+}
+
+// ── Responsive images ─────────────────────────────────────────────────────────
+// scripts/responsive-images.mjs (run before every build) writes smaller WebP copies of each photo and
+// this manifest of real sizes. Missing manifest (e.g. unit tests) = plain src, no srcset.
+type SizeEntry = { width: number; height: number; variants: { w: number; url: string }[] };
+let SIZE_INDEX: Record<string, SizeEntry> = {};
+try {
+  SIZE_INDEX = JSON.parse(readFileSync(join(process.cwd(), 'node_modules/.cache/stayatniche/image-sizes.json'), 'utf8'));
+} catch { /* no manifest: images keep their single src */ }
+
+/** How wide an image is drawn, per layout (the `sizes` attribute). */
+export const SIZES = {
+  /** Hotel cards and other grid cards: 1 column on phones, 2 on tablets, 3–4 on desktop. */
+  card: '(min-width: 1024px) 400px, (min-width: 640px) 50vw, 100vw',
+  /** Full-bleed heroes. */
+  full: '100vw',
+  /** Wide image inside the page container (max-w-7xl). */
+  wide: '(min-width: 1280px) 1216px, 100vw',
+  /** Half the container on desktop. */
+  half: '(min-width: 1024px) 50vw, 100vw',
+  /** Round / square thumbnails up to 64px. */
+  thumb: '64px',
+} as const;
+
+// Width range worth offering per layout (CSS width × 1–3 device pixel ratio).
+const RANGE: Record<string, [number, number]> = {
+  [SIZES.card]: [480, 1200],
+  [SIZES.thumb]: [160, 480],
+  [SIZES.half]: [480, Infinity],
+  [SIZES.full]: [480, Infinity],
+  [SIZES.wide]: [480, Infinity],
+};
+
+/** Real pixel size of a local photo, if known. */
+export function imageSize(url: string | null | undefined): { width: number; height: number } | null {
+  const e = url ? SIZE_INDEX[url] : undefined;
+  return e ? { width: e.width, height: e.height } : null;
+}
+
+/**
+ * <img> attributes for a local photo: src, srcset of the smaller copies plus the original, sizes, and
+ * the true width/height (no layout shift). Spread it: <img {...imgAttrs(url, SIZES.card)} alt=… />.
+ */
+export function imgAttrs(url: string, sizes: string, fallback?: [number, number]): { src: string; srcset?: string; sizes?: string; width?: number; height?: number } {
+  const e = SIZE_INDEX[url];
+  // Not a measured photo (SVG art, placeholder): keep the box size the template asked for.
+  if (!e) return fallback ? { src: url, width: fallback[0], height: fallback[1] } : { src: url };
+  // Only the widths this layout can use: small layouts skip the big files, big ones skip the 160px thumb.
+  const [min, max] = RANGE[sizes] ?? [0, Infinity];
+  const cands = [...e.variants.map((v) => ({ w: v.w, url: v.url })), { w: e.width, url }].filter((c) => c.w >= min && c.w <= max);
+  const srcset = cands.length > 1 ? cands.map((c) => `${c.url} ${c.w}w`).join(', ') : undefined;
+  return { src: url, ...(srcset ? { srcset, sizes } : {}), width: e.width, height: e.height };
 }

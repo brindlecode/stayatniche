@@ -13,6 +13,9 @@ interface Props {
   description?: string;
   image?: string;
   heroImage?: string;
+  /** srcset/sizes of the hero <img>, so the preload fetches the same file the browser picks. */
+  heroSrcset?: string;
+  heroSizes?: string;
   noIndex?: boolean;
   /** Hide the mobile bottom tab bar (pages with their own sticky CTA). */
   hideBottomNav?: boolean;
@@ -34,6 +37,8 @@ const {
   description,
   image,
   heroImage,
+  heroSrcset,
+  heroSizes,
   noIndex = false,
   hideBottomNav = false,
   type = 'website',
@@ -201,7 +206,7 @@ const xDefault = hreflangs.find(a => a.locale === 'en');
     )}
 
     {heroImage && (
-      <link rel="preload" as="image" href={heroImage} fetchpriority="high" />
+      <link rel="preload" as="image" href={heroImage} imagesrcset={heroSrcset} imagesizes={heroSrcset ? heroSizes : undefined} fetchpriority="high" />
     )}
 
     <!-- Fonts — non-blocking async load -->
@@ -241,6 +246,9 @@ const xDefault = hreflangs.find(a => a.locale === 'en');
       h1.font-display, h2.font-display { letter-spacing: -0.02em; }
       ::selection { background: #FAE2D5; color: #0F0E0C; }
       :focus-visible { outline: 2px solid #1F5C48; outline-offset: 2px; }
+      /* On dark sections the green outline is too faint (under 3:1): use a light one. */
+      footer :focus-visible, .bg-warm-950 :focus-visible, .bg-forest-950 :focus-visible { outline-color: #FAF9F6; }
+      .bg-white :focus-visible { outline-color: #1F5C48; }
       .eyebrow { font: 600 11px/1.2 Geist, system-ui, sans-serif; letter-spacing: .16em; text-transform: uppercase; }
       .hairline { border-color: #E5E2DA; }
       .save-btn.is-saved { color: #C9602E; background: #fff; }

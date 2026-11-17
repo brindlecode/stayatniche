@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import { resolveImage } from '../lib/images';
+import { resolveImage, imgAttrs, SIZES } from '../lib/images';
 import { slugify } from '../lib/site';
 import { i18n, type Locale } from '../i18n';
 import { localized, allAlternates } from '../i18n/content';
@@ -27,7 +27,7 @@ const staysIn = (d: any) => hotels.filter(h => h.en.country === d.en.country || 
 
   <nav class="sticky top-16 z-30 border-y border-warm-200 bg-warm-50/95 backdrop-blur" aria-label={D.continents}>
     <ul class="scrollbar-hide mx-auto flex max-w-7xl gap-2 overflow-x-auto px-4 py-3 sm:px-6 lg:px-8">
-      {groups.map(g => <li class="flex-shrink-0"><a href={`#${g.slug}`} class="block rounded-full border border-warm-300 bg-white px-4 py-2 font-body text-sm font-semibold text-warm-800 hover:border-warm-950">{g.label} <span class="font-normal text-warm-400">{g.items.length}</span></a></li>)}
+      {groups.map(g => <li class="flex-shrink-0"><a href={`#${g.slug}`} class="block rounded-full border border-warm-300 bg-white px-4 py-2 font-body text-sm font-semibold text-warm-800 hover:border-warm-950">{g.label} <span class="font-normal text-warm-500">{g.items.length}</span></a></li>)}
     </ul>
   </nav>
 
@@ -43,7 +43,7 @@ const staysIn = (d: any) => hotels.filter(h => h.en.country === d.en.country || 
           const n = staysIn(d);
           return (
             <a href={L.path('destinations', d.slug)} class="group relative isolate block aspect-[4/5] overflow-hidden rounded-xl bg-warm-200">
-              <img src={img} alt={d.data.name} class="absolute inset-0 -z-10 h-full w-full object-cover transition duration-700 group-hover:scale-[1.05]" loading="lazy" decoding="async" width="600" height="750" />
+              <img {...imgAttrs(img, SIZES.card, [600, 750])} alt={d.data.name} class="absolute inset-0 -z-10 h-full w-full object-cover transition duration-700 group-hover:scale-[1.05]" loading="lazy" decoding="async" />
               <div class="absolute inset-0 -z-10 bg-gradient-to-t from-black/75 via-black/10 to-transparent"></div>
               <div class="flex h-full flex-col justify-end p-4 text-white sm:p-5">
                 <p class="eyebrow text-white/70">{d.en.country && d.en.country !== d.en.name ? L.country(d.en.country) : D.types[d.data.type as keyof typeof D.types]}</p>

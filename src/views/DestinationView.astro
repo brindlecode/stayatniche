@@ -2,7 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import HotelCard from '../components/HotelCard.astro';
 import { withTracking, AFFILIATE_REL, trackAttrs } from '../lib/affiliate';
-import { resolveImage, sizedImage } from '../lib/images';
+import { resolveImage, sizedImage, imgAttrs, SIZES } from '../lib/images';
 import { SITE } from '../lib/site';
 import { i18n, type Locale } from '../i18n';
 import { localized, entryAlternates, type Localized } from '../i18n/content';
@@ -47,6 +47,7 @@ const heroImage = resolveImage(dest.data.heroImage || dest.data.coverImage, {
 });
 const heroImageLg = sizedImage(heroImage, 1600);
 const heroImageOg = sizedImage(heroImage, 1200);
+const heroImg = imgAttrs(heroImage, SIZES.full, [1600, 900]);
 
 const destJsonLd = {
   "@context": "https://schema.org",
@@ -69,7 +70,7 @@ const destJsonLd = {
 };
 ---
 
-<BaseLayout title={metaTitle} description={metaDesc} image={heroImageOg} heroImage={heroImageLg} type="article" alternates={await entryAlternates('destinations', 'destinations', dest.slug)}>
+<BaseLayout title={metaTitle} description={metaDesc} image={heroImageOg} heroImage={heroImageLg} heroSrcset={heroImg.srcset} heroSizes={SIZES.full} type="article" alternates={await entryAlternates('destinations', 'destinations', dest.slug)}>
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonLd)} />
   <script type="application/ld+json" set:html={JSON.stringify(destJsonLd)} />
 
@@ -77,15 +78,11 @@ const destJsonLd = {
   <section class="relative overflow-hidden">
     <div class="h-72 sm:h-[460px] relative bg-warm-100">
       <img
-        src={heroImageLg}
-        srcset={`${sizedImage(heroImage, 1000)} 1000w, ${heroImageLg} 1600w`}
-        sizes="100vw"
+        {...heroImg}
         alt={dest.data.name}
         class="w-full h-full object-cover"
         loading="eager"
         fetchpriority="high"
-        width="1600"
-        height="900"
       />
       <div class="absolute inset-0 bg-gradient-to-t from-warm-950/70 via-warm-950/20 to-transparent" />
       <div class="absolute bottom-0 inset-x-0 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-10">
@@ -218,7 +215,7 @@ const destJsonLd = {
                   </a></li>
                 ))}
               </ul>
-              <p class="mt-2 font-body text-[11px] text-warm-400">{D.affiliate}</p>
+              <p class="mt-2 font-body text-[11px] text-warm-500">{D.affiliate}</p>
             </div>
           );
         })()}

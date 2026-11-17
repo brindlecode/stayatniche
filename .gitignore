@@ -39,3 +39,6 @@ data/pipeline/decisions/*/queue-batches.json
 data/pipeline/decisions/*/queue-updates.json
 data/pipeline/decisions/*/queue/*.update.json
 data/pipeline/candidates.json.tmp
+
+# smaller image copies made at build time (scripts/responsive-images.mjs)
+public/images/_w/
