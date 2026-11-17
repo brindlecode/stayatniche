@@ -56,7 +56,6 @@ prosAndCons:
     - "Advance booking essential, very limited availability"
 bookingUrl: "https://www.booking.com/searchresults.html?ss=Manta+Resort+Pemba+Island+Tanzania"
 rating: 9.6
-reviewCount: 234
 checkInOut:
   checkIn: "15:00"
   checkOut: "11:00"

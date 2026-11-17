@@ -31,7 +31,6 @@ notIncluded:
   - Personal travel insurance
   - Tips for guides (customary and appreciated)
 rating: 9.6
-reviewCount: 5214
 featured: false
 tags:
   - volcano-hiking

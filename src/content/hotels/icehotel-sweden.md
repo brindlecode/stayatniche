@@ -44,7 +44,6 @@ prosAndCons:
     - The winter hotel melts and is rebuilt each year, art suites are temporary by design
 bookingUrl: https://www.booking.com/hotel/se/icehotel.html
 rating: 9.4
-reviewCount: 2134
 seasonalInfo:
   bestTime: December to March for the full winter ice hotel; June to August for midnight sun
   peakSeason: December to February (northern lights season) and Midsummer

@@ -23,7 +23,6 @@ bestFor:
   - "Adults seeking a quiet retreat"
 bookingUrl: "https://www.treehousepoint.com/"
 rating: 9.2
-reviewCount: 0
 coordinates:
   lat: 47.53792
   lng: -121.9108782

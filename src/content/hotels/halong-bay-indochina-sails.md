@@ -38,7 +38,6 @@ prosAndCons:
     - Can feel small for extended stays
 bookingUrl: https://www.booking.com/hotel/vn/indochina-sails-ha-long.html
 rating: 9.0
-reviewCount: 1243
 seasonalInfo:
   bestTime: October to April
   peakSeason: December to February

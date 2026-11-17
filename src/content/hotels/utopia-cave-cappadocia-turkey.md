@@ -22,7 +22,6 @@ bestFor:
   - "Honeymooners"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Utopia%20Cave%20Cappadocia%2C%20%C3%9Crg%C3%BCp&adults=2"
 rating: 8.8
-reviewCount: 0
 coordinates:
   lat: 38.6293977
   lng: 34.9028512

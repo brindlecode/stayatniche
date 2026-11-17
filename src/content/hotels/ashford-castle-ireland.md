@@ -31,7 +31,6 @@ bestFor:
   - Special occasions
 bookingUrl: https://www.booking.com/hotel/ie/ashford-castle.html
 rating: 9.5
-reviewCount: 2156
 coordinates:
   lat: 53.5427
   lng: -9.3009

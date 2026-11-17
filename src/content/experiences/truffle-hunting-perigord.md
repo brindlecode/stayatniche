@@ -30,7 +30,6 @@ notIncluded:
   - Personal travel insurance
   - Accommodation in the Dordogne
 rating: 9.5
-reviewCount: 876
 featured: false
 tags:
   - truffle-hunting

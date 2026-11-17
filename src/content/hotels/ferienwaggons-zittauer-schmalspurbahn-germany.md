@@ -19,7 +19,6 @@ bestFor:
   - "Families"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Ferienwaggons%20Zittauer%20Schmalspurbahn%2C%20Jonsdorf&adults=2"
 rating: 8
-reviewCount: 0
 coordinates:
   lat: 50.8539902
   lng: 14.7068719

@@ -22,7 +22,6 @@ bestFor:
   - "History lovers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Real%20Castello%2C%20Verduno&adults=2"
 rating: 8.6
-reviewCount: 0
 coordinates:
   lat: 44.6673261
   lng: 7.9332395

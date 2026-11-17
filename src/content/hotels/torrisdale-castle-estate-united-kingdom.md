@@ -22,7 +22,6 @@ bestFor:
   - "Wildlife watchers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Torrisdale%20Castle%20Estate%2C%20Kintyre&adults=2"
 rating: 8
-reviewCount: 0
 coordinates:
   lat: 55.5688113
   lng: -5.5012667

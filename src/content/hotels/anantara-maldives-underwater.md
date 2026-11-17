@@ -29,7 +29,6 @@ bestFor:
   - "Underwater dining experience seekers"
 bookingUrl: https://www.booking.com/hotel/mv/anantara-kihavah-maldives-villas.html
 rating: 9.5
-reviewCount: 2134
 coordinates:
   lat: 5.0833
   lng: 73.0333

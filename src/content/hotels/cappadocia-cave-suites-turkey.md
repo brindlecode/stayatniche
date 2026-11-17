@@ -29,7 +29,6 @@ bestFor:
   - "Cultural explorers"
 bookingUrl: https://www.booking.com/
 rating: 9.1
-reviewCount: 1876
 coordinates:
   lat: 38.6431
   lng: 34.8289

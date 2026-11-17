@@ -24,7 +24,6 @@ bestFor:
   - "Couples"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Transfagarasan%20Treehouse%20Village%2C%20Arefu&adults=2"
 rating: 8.2
-reviewCount: 0
 coordinates:
   lat: 45.4065627
   lng: 24.6365594

@@ -44,7 +44,6 @@ prosAndCons:
     - Flies are a fact of Outback life, this is not a resort failing but worth knowing
 bookingUrl: https://www.booking.com/hotel/au/longitude-131.html
 rating: 9.7
-reviewCount: 567
 seasonalInfo:
   bestTime: April to September for the most comfortable temperatures
   peakSeason: July and August (Australian winter school holidays)

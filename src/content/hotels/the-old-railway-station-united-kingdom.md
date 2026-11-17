@@ -24,7 +24,6 @@ bestFor:
   - "Racing and polo fans"
 bookingUrl: "https://www.old-station.co.uk/"
 rating: 8.7
-reviewCount: 0
 coordinates:
   lat: 50.9637116
   lng: -0.6202866

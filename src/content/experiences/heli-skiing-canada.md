@@ -31,7 +31,6 @@ notIncluded:
   - Gratuities for guides and pilots
   - Flights to Revelstoke or Golden, BC
 rating: 9.9
-reviewCount: 892
 featured: false
 tags:
   - heli-skiing

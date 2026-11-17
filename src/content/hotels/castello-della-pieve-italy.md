@@ -23,7 +23,6 @@ bestFor:
   - "Dog owners"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Castello%20della%20Pieve%2C%20Mercatello%20sul%20Metauro&adults=2"
 rating: 8.2
-reviewCount: 0
 coordinates:
   lat: 43.6619238
   lng: 12.3120346

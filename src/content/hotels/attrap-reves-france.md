@@ -44,7 +44,6 @@ prosAndCons:
     - Not suitable for guests with limited mobility
 bookingUrl: https://www.booking.com/hotel/fr/attrap-reves.html
 rating: 9.1
-reviewCount: 1234
 seasonalInfo:
   bestTime: April to June and September to October for ideal temperatures and clear skies
   peakSeason: July and August

@@ -22,7 +22,6 @@ bestFor:
   - "Walkers on the Via Francigena"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Castello%20di%20Proceno%2C%20Proceno&adults=2"
 rating: 8.5
-reviewCount: 0
 coordinates:
   lat: 42.75851
   lng: 11.8272778

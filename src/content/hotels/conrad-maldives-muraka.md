@@ -31,7 +31,6 @@ bestFor:
   - Once in a lifetime experiences
 bookingUrl: https://www.booking.com/hotel/mv/conrad-maldives-rangali-island.html
 rating: 9.8
-reviewCount: 89
 coordinates:
   lat: 3.6282
   lng: 72.7847

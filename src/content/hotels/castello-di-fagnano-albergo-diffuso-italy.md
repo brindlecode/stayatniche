@@ -22,7 +22,6 @@ bestFor:
   - "Quiet getaways"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Castello%20di%20Fagnano%20Albergo%20Diffuso%20%26%20Spa%2C%20Castello%20di%20Fagnano&adults=2"
 rating: 8.1
-reviewCount: 0
 coordinates:
   lat: 42.2516997
   lng: 13.5883159

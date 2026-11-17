@@ -21,7 +21,6 @@ bestFor:
   - "Digital detox"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Machupicchu%20Ecolodge%2C%20Santa%20Teresa&adults=2"
 rating: 8.2
-reviewCount: 0
 coordinates:
   lat: -13.185491
   lng: -72.5881678

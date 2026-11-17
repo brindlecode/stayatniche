@@ -31,7 +31,6 @@ bestFor:
   - Weekend escape from Dubai/Abu Dhabi
 bookingUrl: https://www.booking.com/hotel/ae/anantara-sir-bani-yas-island-safari.html
 rating: 9.0
-reviewCount: 734
 coordinates:
   lat: 24.3167
   lng: 52.5833

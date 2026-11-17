@@ -29,7 +29,6 @@ bestFor:
   - "Unmissable South Pacific travellers"
 bookingUrl: https://www.booking.com/hotel/pf/bora-bora-nui-resort-spa.html
 rating: 9.2
-reviewCount: 1876
 coordinates:
   lat: -16.4833
   lng: -151.7500

@@ -29,7 +29,6 @@ bestFor:
   - "Couples"
 bookingUrl: https://www.booking.com/hotel/bs/atlantis-paradise-island.html
 rating: 8.8
-reviewCount: 8745
 coordinates:
   lat: 25.0833
   lng: -77.3167

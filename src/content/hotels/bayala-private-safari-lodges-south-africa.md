@@ -26,7 +26,6 @@ checkInOut:
   checkOut: "10:00"
 bookingUrl: "https://bayala.co.za/"
 rating: 8.6
-reviewCount: 0
 coordinates:
   lat: -27.8299965
   lng: 32.2000936

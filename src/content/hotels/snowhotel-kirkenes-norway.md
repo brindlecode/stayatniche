@@ -29,7 +29,6 @@ bestFor:
   - "Dog sled enthusiasts"
 bookingUrl: https://www.booking.com/hotel/no/snowhotel-kirkenes.html
 rating: 9.1
-reviewCount: 734
 coordinates:
   lat: 69.676827
   lng: 29.904617

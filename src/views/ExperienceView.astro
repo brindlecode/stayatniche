@@ -2,6 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import HotelCard from '../components/HotelCard.astro';
 import { withTracking, trackAttrs } from '../lib/affiliate';
+import { placeLabel } from '../lib/site';
 import { isPartner } from '../lib/tp-programs.mjs';
 import { i18n, type Locale } from '../i18n';
 import { localized, entryAlternates, type Localized } from '../i18n/content';
@@ -17,7 +18,7 @@ const bookUrl = experience.data.booking?.url ?? '';
 const bookHost = (() => { try { return new URL(bookUrl).hostname; } catch { return ''; } })();
 const ownBooking = !!bookHost && (isPartner(bookHost) || /(^|\.)stayatniche\.com$/.test(bookHost));
 const { Content } = await experience.render();
-const where = `${experience.data.destination}, ${L.country(experience.en.country)}`;
+const where = placeLabel(experience.data.destination, experience.en.country, L.country(experience.en.country));
 
 const allHotels = await localized('hotels', L.locale);
 const relatedHotels = allHotels
@@ -195,7 +196,6 @@ const metaDesc = seo.metaDescription || experience.data.description;
             priceRange={hotel.data.priceRange}
             priceIndicator={hotel.data.priceIndicator}
             rating={hotel.data.rating}
-            reviewCount={hotel.data.reviewCount}
             highlights={hotel.data.highlights}
             bookingUrl={hotel.data.bookingUrl}
             slug={hotel.slug}

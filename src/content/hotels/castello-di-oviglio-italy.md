@@ -21,7 +21,6 @@ bestFor:
   - "Wedding guests"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Castello%20di%20Oviglio%2C%20Oviglio&adults=2"
 rating: 8.4
-reviewCount: 0
 coordinates:
   lat: 44.8604743
   lng: 8.4878726

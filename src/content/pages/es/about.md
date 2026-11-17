@@ -15,9 +15,13 @@ Buscamos lugares que llevan la idea de «alojarse» hasta el límite: una burbuj
 
 **Descubrimiento.** Rastreamos la prensa de viajes, datos cartográficos abiertos, fuentes oficiales de turismo y las webs de los propios alojamientos para dar con estancias que la mayoría de las plataformas de reserva deja enterradas.
 
-**Verificación.** Contrastamos cada alojamiento con su web oficial y con datos cartográficos abiertos: tiene que existir, aceptar huéspedes y ser de verdad lo que dice su categoría. Si no podemos verificarlo, no entra en la lista.
+**Verificación.** Contrastamos cada alojamiento con su web oficial u otra fuente citable. De cada uno anotamos qué lo hace especial, si afecta a todo el alojamiento o solo a algunas habitaciones, la fuente y el día en que lo comprobamos. Cuando no hemos podido confirmarlo, la página lo dice.
 
 **Selección.** Solo pasan el corte los lugares que destacan por su entorno, su arquitectura o la experiencia que ofrecen. Nuestras puntuaciones son valoraciones editoriales, no opiniones de huéspedes.
+
+## Cómo se calcula la puntuación editorial
+
+La puntuación sobre 10 es nuestra propia valoración editorial, no una media de opiniones de huéspedes, y no mostramos recuentos de opiniones. La redacción pondera tres cosas: hasta qué punto el entorno es el motivo del viaje, lo que dice la fuente oficial sobre habitaciones, comida y acceso, y lo práctico de la estancia (temporada, llegada). La comprobación del rasgo especial fija un tope: hasta 10 si todo el alojamiento lo es, 8,8 si solo algunas habitaciones, 8,5 si no pudimos confirmarlo y 7,5 si el rasgo no es el lugar donde se duerme.
 
 ## Sobre la transparencia
 

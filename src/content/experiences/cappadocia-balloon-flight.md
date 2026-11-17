@@ -27,7 +27,6 @@ notIncluded:
   - "Gratuities for crew"
   - "Additional photos/video packages"
 rating: 9.6
-reviewCount: 4821
 featured: true
 tags:
   - adventure

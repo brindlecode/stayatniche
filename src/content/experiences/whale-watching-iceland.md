@@ -29,7 +29,6 @@ notIncluded:
   - Seasickness medication (available to purchase in town)
   - Personal travel insurance
 rating: 9.1
-reviewCount: 2876
 featured: false
 tags:
   - whale-watching

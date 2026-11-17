@@ -26,7 +26,6 @@ bestFor:
   - "Friends travelling together"
 bookingUrl: "https://www.sitkalighthouse.com/"
 rating: 9.0
-reviewCount: 0
 coordinates:
   lat: 57.0359293
   lng: -135.333655

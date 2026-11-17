@@ -23,7 +23,6 @@ bestFor:
   - "Marine life lovers"
 bookingUrl: "https://www.pullmanmaldivesmaamutaa.com/villas-suites/"
 rating: 8.5
-reviewCount: 0
 coordinates:
   lat: 0.8438854
   lng: 73.4089357

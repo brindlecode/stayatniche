@@ -26,7 +26,6 @@ checkInOut:
   checkOut: "10:00"
 bookingUrl: "https://www.zughotel.at/"
 rating: 8.3
-reviewCount: 0
 coordinates:
   lat: 48.9352315
   lng: 15.3583734

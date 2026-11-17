@@ -54,7 +54,6 @@ prosAndCons:
     - "Weather can be unpredictable in Patagonia"
 bookingUrl: "https://www.booking.com/searchresults.html?ss=Nothofagus+Hotel+Huilo+Huilo"
 rating: 9.1
-reviewCount: 320
 checkInOut:
   checkIn: "15:00"
   checkOut: "11:00"

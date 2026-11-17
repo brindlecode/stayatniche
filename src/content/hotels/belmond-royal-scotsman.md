@@ -44,7 +44,6 @@ prosAndCons:
     - "The experience is expensive relative to journey duration for some routes"
 bookingUrl: https://www.belmond.com/trains/europe/royal-scotsman/
 rating: 9.5
-reviewCount: 1654
 seasonalInfo:
   bestTime: May to September for best light and weather; September for heather bloom
   peakSeason: Summer (June–August)

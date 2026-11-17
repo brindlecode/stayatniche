@@ -44,7 +44,6 @@ prosAndCons:
     - Northern lights sightings depend on solar and weather conditions
 bookingUrl: https://www.booking.com/hotel/fi/kakslauttanen-arctic-resort.html
 rating: 9.3
-reviewCount: 2847
 seasonalInfo:
   bestTime: November to March for northern lights; June to August for midnight sun
   peakSeason: December to February

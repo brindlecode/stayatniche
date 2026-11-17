@@ -30,7 +30,6 @@ bestFor:
   - Outdoor adventurers
 bookingUrl: https://www.booking.com/hotel/jp/hoshinoya-fuji.html
 rating: 9.1
-reviewCount: 614
 coordinates:
   lat: 35.5128
   lng: 138.7577

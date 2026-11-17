@@ -30,7 +30,6 @@ notIncluded:
   - Gratuities for guides
   - Photography (camera recommended but secured on harness)
 rating: 9.4
-reviewCount: 6782
 featured: false
 tags:
   - zip-lining

@@ -44,7 +44,6 @@ prosAndCons:
     - Altitude may cause mild breathlessness for some guests on arrival
 bookingUrl: https://www.booking.com/hotel/om/alila-jabal-akhdar.html
 rating: 9.6
-reviewCount: 1567
 seasonalInfo:
   bestTime: October to April for the most comfortable temperatures at altitude
   peakSeason: December to February and Eid holidays

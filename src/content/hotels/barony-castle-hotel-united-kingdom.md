@@ -23,7 +23,6 @@ bestFor:
   - "Weekend breaks"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Barony%20Castle%20Hotel%2C%20Eddleston&adults=2"
 rating: 8.3
-reviewCount: 0
 coordinates:
   lat: 55.7127915
   lng: -3.2170603

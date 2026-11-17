@@ -55,7 +55,6 @@ prosAndCons:
     - "Older parts of the building involve steps and uneven floors"
 bookingUrl: "https://www.booking.com/hotel/gb/amberley-castle.html"
 rating: 9.1
-reviewCount: 876
 checkInOut:
   checkIn: "15:00"
   checkOut: "11:00"

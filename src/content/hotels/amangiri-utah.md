@@ -44,7 +44,6 @@ prosAndCons:
     - High demand means bookings are often required 6-12 months in advance
 bookingUrl: https://www.booking.com/hotel/us/amangiri.html
 rating: 9.8
-reviewCount: 743
 seasonalInfo:
   bestTime: March to May and September to November for ideal temperatures
   peakSeason: October and spring break (March-April)

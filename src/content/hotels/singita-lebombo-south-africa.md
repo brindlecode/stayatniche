@@ -42,7 +42,6 @@ prosAndCons:
     - "Only fifteen suites means availability is tightly constrained, plan well ahead"
 bookingUrl: https://www.booking.com/hotel/za/singita-lebombo-lodge.html
 rating: 9.6
-reviewCount: 1243
 seasonalInfo:
   bestTime: "May to September"
   peakSeason: "July to August"

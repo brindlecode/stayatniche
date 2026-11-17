@@ -19,7 +19,6 @@ bestFor:
   - "Families"
 bookingUrl: "https://www.baumhaushotel-solling.de/"
 rating: 8.4
-reviewCount: 0
 coordinates:
   lat: 51.7076166
   lng: 9.5570866

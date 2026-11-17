@@ -22,7 +22,6 @@ bestFor:
   - "Hikers and cross-country skiers"
 bookingUrl: "https://vagonynahorach.cz/"
 rating: 8.6
-reviewCount: 0
 coordinates:
   lat: 50.4301747
   lng: 13.0354842

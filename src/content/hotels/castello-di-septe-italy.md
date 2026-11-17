@@ -22,7 +22,6 @@ bestFor:
   - "Weddings"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Castello%20di%20Septe%2C%20Mozzagrogna&adults=2"
 rating: 8.6
-reviewCount: 0
 coordinates:
   lat: 42.1847445
   lng: 14.4639569

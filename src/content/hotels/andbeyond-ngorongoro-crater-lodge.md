@@ -44,7 +44,6 @@ prosAndCons:
     - "Very high prices relative to the game drive experience, which is shared with other vehicles"
 bookingUrl: https://www.booking.com/
 rating: 9.4
-reviewCount: 1087
 seasonalInfo:
   bestTime: Year-round, the crater's resident population doesn't migrate
   peakSeason: June to September and the Christmas/New Year period

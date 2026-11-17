@@ -1,0 +1,314 @@
+[
+ {
+  "slug": "bisate-lodge-rwanda",
+  "name": "Bisate Lodge",
+  "official_url": "https://www.wildernessdestinations.com/africa/rwanda/volcanoes-national-park/bisate-lodge",
+  "source_url": "https://www.wildernessdestinations.com/africa/rwanda/volcanoes-national-park/bisate-lodge",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Lodge of six forest villas (shaped like giant birds' nests) on the edge of Volcanoes National Park, run by Wilderness; base for mountain gorilla and golden monkey trekking.",
+  "evidence_quote": "Six architecturally striking forest villas, each designed as an homage to Rwandan royal heritage, overlooking Mount Bisoke, Karisimbi and Mikeno.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Lodge on the edge of Volcanoes National Park; wildlife (gorilla) viewing is the core activity; all six villas are the same type.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Northern Province",
+   "city": "Musanze",
+   "locality": "Bisate"
+  },
+  "page_issues": [
+   "Operator is Wilderness per official site, not andBeyond (page and meta description say andBeyond)",
+   "Official site says the lodge is on the edge of / walking distance from Volcanoes National Park, not inside it",
+   "Gorilla permit price and travel-time figures not checked against the source"
+  ]
+ },
+ {
+  "slug": "campi-ya-kanzi-kenya",
+  "name": "Campi ya Kanzi",
+  "official_url": "https://www.campiyakanzi.com/",
+  "source_url": "https://maasai.com/resorts/campi-ya-kanzi/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Tented-cottage safari camp (two king doubles, four twins, plus two tented suites) on Maasai-owned land in the Chyulu Hills, with walking safaris; owned by Maasai Wilderness Conservation Trust.",
+  "evidence_quote": "Set on 400,000 acres of Maasai-owned land, Campi ya Kanzi offers walking safaris and wildlife experiences led by Maasai guides",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Camp inside a private Maasai wildlife conservation area with wildlife viewing and walking safaris as core activities.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Kajiado",
+   "city": null,
+   "locality": "Chyulu Hills"
+  },
+  "page_issues": [
+   "Land area: andBeyond says 283,000 acres, operator site says 400,000 acres",
+   "'Eight tented rooms' fits 6 cottages + 2 suites; 'Amboseli ecosystem' framing and 'dining tent' not confirmed",
+   "Camp's own domain campiyakanzi.com now only shows webcams; county and nearest town not stated by the cited source"
+  ]
+ },
+ {
+  "slug": "jao-camp-botswana",
+  "name": "Jao Camp",
+  "official_url": "https://jaoreserve.com/jao-camp/",
+  "source_url": "https://jaoreserve.com/jao-camp/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Seven units (five suites and two villas) on a private island in the Jao Reserve, Okavango Delta; mokoro, boat and game-drive safaris. Described as architectural, not as treehouses.",
+  "evidence_quote": "Jao comprises five en-suite suites and two exclusive villas, each with its own private plunge pool, lounge and dining areas",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Camp in a private Okavango Delta concession; wildlife viewing core; all units are suites or villas.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "North-West",
+   "city": "Maun",
+   "locality": "Jao Reserve, Okavango Delta"
+  },
+  "page_issues": [
+   "Operator is now the independent Jao Reserve / Jao Collection, not Wilderness Safaris",
+   "'Treehouse-style architecture' not supported: official says modern architectural camp (third party: raised walkways, canvas and thatch)",
+   "Concession size given as 60,000 acres; third-party sources say 60,000 hectares",
+   "Superlatives ('finest concession', 'most singular') unsupported"
+  ]
+ },
+ {
+  "slug": "londolozi-varty-camp-south-africa",
+  "name": "Londolozi Varty Camp",
+  "official_url": "https://www.londolozi.com/",
+  "source_url": "https://www.londolozi.com/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Varty Camp, 10 chalets with private plunge pools on raised timber decks under riverine forest, within Londolozi Private Game Reserve in the Sabi Sand Game Reserve (Greater Kruger).",
+  "evidence_quote": "Londolozi is situated on the banks of the Sand River, in the heart of the Sabi Sand Game Reserve within the Greater Kruger National Park.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Camp in a private game reserve in the Greater Kruger with wildlife viewing as the core activity.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Mpumalanga",
+   "city": null,
+   "locality": "Sabi Sand Game Reserve"
+  },
+  "page_issues": [
+   "Page says Varty Camp established in the 1970s; official site says Londolozi began in 1926 and Varty Camp is nearly 100 years old",
+   "'Birthplace of the modern luxury safari', 'most reliable leopard sightings in Africa', 'World's Best Leopard Sightings' are unsupported superlatives",
+   "Official site says Sabi Sand lies within the Greater Kruger; 'unfenced border with Kruger' not confirmed on cited pages"
+  ]
+ },
+ {
+  "slug": "okonjima-bush-camp-namibia",
+  "name": "Okonjima Bush Camp",
+  "official_url": "https://okonjima.com/",
+  "source_url": "https://okonjima.com/luxury-bush-camp/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Luxury Bush Camp: eight thatched chalets and a Junior Suite (plus three guide/pilot tents) inside the Okonjima Nature Reserve, home to AfriCat; leopard and pangolin tracking.",
+  "evidence_quote": "It comprises eight thatched, African-style chalets, a Junior Suite, and three en-suite, safari tents for your private guide or pilot.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Camp inside a private nature reserve with wildlife tracking and game drives as core activities.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Otjozondjupa",
+   "city": "Otjiwarongo",
+   "locality": "Okonjima Nature Reserve"
+  },
+  "page_issues": [
+   "Official name is 'Luxury Bush Camp' (one of five accommodation options); page calls it 'traditional safari camp'",
+   "Bush camp page itself says '2,000ha' reserve while the main site says 22,000 hectares (source inconsistency)"
+  ]
+ },
+ {
+  "slug": "rekero-camp-masai-mara",
+  "name": "Rekero Camp",
+  "official_url": "https://www.asiliaafrica.com/camps-lodges/rekero-camp/",
+  "source_url": "https://www.asiliaafrica.com/camps-lodges/rekero-camp/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Nine safari tents (two family suites) on the Talek River in the Masai Mara National Reserve; open June to March, closed April and May.",
+  "evidence_quote": "Nestled among the trees and overlooking the Talek River, nine classic and spacious safari tents await you.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Tented camp inside Masai Mara National Reserve with wildlife viewing as the core activity.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Narok",
+   "city": null,
+   "locality": "Masai Mara National Reserve (Talek River)"
+  },
+  "page_issues": [
+   "Operator is Asilia Africa, not Governors' Camp group",
+   "Page says ten tents; official says nine (including 2 family suites)",
+   "'Grove of fig trees' not confirmed; official says nestled among the trees",
+   "Camp is closed April to May; page implies year-round"
+  ]
+ },
+ {
+  "slug": "severin-safari-camp-kenya",
+  "name": "Severin Safari Camp",
+  "official_url": "https://severinsafaricamp.com",
+  "source_url": "https://www.severinsafaricamp.com/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Open, unfenced tented camp in Tsavo West National Park: luxury tents, junior and executive suites (tent canvas) and self-catering Kitani bandas 1.5 km away.",
+  "evidence_quote": "Amidst Tsavo West National Park we have created a place that reflects the deep bond with the country like nothing else.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Unfenced tented camp inside Tsavo West National Park with game drives as the main activity.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Taita-Taveta",
+   "city": null,
+   "locality": "Tsavo West National Park"
+  },
+  "page_issues": [
+   "Nearest-town transfer (Mtito Andei, Madaraka Express) not confirmed on the pages read",
+   "Official rooms also include self-catering bandas about 1.5 km from the main camp"
+  ]
+ },
+ {
+  "slug": "singita-grumeti-tanzania",
+  "name": "Singita Grumeti",
+  "official_url": "https://singita.com/region/grumeti/",
+  "source_url": "https://singita.com/region/grumeti/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Singita's lodges and camps on the 350,000-acre Grumeti Reserve beside Serengeti National Park, managed with the Grumeti Fund; wildlife viewing is the core activity.",
+  "evidence_quote": "Singita Grumeti, situated adjacent to the Serengeti National Park in Tanzania, is an integral part of the Serengeti-Mara ecosystem",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Lodges inside a private reserve adjoining Serengeti National Park, wildlife viewing core; all units are safari lodging.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Mara",
+   "city": null,
+   "locality": "Grumeti Game Reserve"
+  },
+  "page_issues": [
+   "Page says only Sabora, Sasakwa and Faru Faru operate there; official lists seven (also Milele, Serengeti House, Explore, Kilima)",
+   "Page treats the whole reserve as one hotel; it is a collection of separate lodges",
+   "'Africa's finest safari service' and 'only vehicle present' are unsupported superlatives"
+  ]
+ },
+ {
+  "slug": "singita-lebombo-south-africa",
+  "name": "Singita Lebombo Lodge",
+  "official_url": "https://singita.com/lodge/singita-lebombo-lodge/",
+  "source_url": "https://singita.com/lodge/singita-lebombo-lodge/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "13 glass-walled suites on a cliffside above the N'wanetsi River in a Singita concession in Kruger National Park; also an exclusive-use villa.",
+  "evidence_quote": "Glass-walled and light-filled, the 13 contemporary suites ensure deeply moving connections with nature",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Lodge in a private concession inside Kruger National Park; wildlife viewing core.",
+  "treehouse_structure": null,
+  "location": {
+   "region": null,
+   "city": null,
+   "locality": "Kruger National Park"
+  },
+  "page_issues": [
+   "Page says fifteen suites; official says 13 suites (plus a separate villa)",
+   "15,000-hectare concession figure not confirmed (other sources: about 13,500 ha)",
+   "Province given as Limpopo; not confirmed from a source",
+   "'The finest address in South African safari' is an unsupported superlative"
+  ]
+ },
+ {
+  "slug": "wilderness-davisons-camp-zimbabwe",
+  "name": "Wilderness Davison's Camp",
+  "official_url": "https://www.wildernessdestinations.com/africa/zimbabwe/hwange-national-park/davisons-camp",
+  "source_url": "https://www.wildernessdestinations.com/africa/zimbabwe/hwange-national-park/davisons-camp",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Nine en-suite tents (including one family unit) in Hwange National Park overlooking a waterhole, in the Linkwasha-Makalolo Private Wilderness Area; classic game-viewing camp.",
+  "evidence_quote": "Nestled in a grove of false mopane trees, nine, airy en-suite tents, including a family unit, make up the accommodation at Davison’s.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Tented camp inside Hwange National Park with wildlife viewing as the core activity.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Matabeleland North",
+   "city": "Hwange",
+   "locality": "Hwange National Park (Linkwasha)"
+  },
+  "page_issues": [
+   "'Ngweshla Pan' name not found on the official page (waterhole only mentioned)",
+   "Page cites a 'Linkwasha Concession'; official calls it the Linkwasha-Makalolo Private Wilderness Area",
+   "Big Five and wild-dog claims not confirmed on the official page"
+  ]
+ },
+ {
+  "slug": "belmond-royal-scotsman",
+  "name": "Belmond Royal Scotsman",
+  "official_url": "https://www.belmond.com/en/trains/europe/uk/royal-scotsman",
+  "source_url": "https://www.belmond.com/en/trains/europe/uk/royal-scotsman",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Luxury sleeper train with 18 sleeper cabins, two dining cars and an observation car; 2 to 7 night round trips from Edinburgh through the Scottish Highlands.",
+  "evidence_quote": "Welcome aboard the Royal Scotsman, a unique luxury sleeper train exploring the Scottish Highlands.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Guests sleep in private cabins aboard a luxury sleeper train.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Scotland",
+   "city": "Edinburgh",
+   "locality": null
+  },
+  "page_issues": [
+   "'Britain's only luxury sleeper train' contradicted: Belmond also runs the Britannic Explorer sleeper train (England and Wales)",
+   "Cabin types outdated: official lists Grand Suites, Suites, Double and Twin Cabins (18 cabins), not single 'State Cabins'",
+   "Brand is now 'Royal Scotsman, A Belmond Train'; journey lengths are 2 to 7 nights, 'four-night Grand Tour' is stale (Grand Tour is 7 nights)"
+  ]
+ },
+ {
+  "slug": "ferienwaggons-zittauer-schmalspurbahn-germany",
+  "name": "Ferienwaggons Zittauer Schmalspurbahn",
+  "official_url": "https://www.zittauer-schmalspurbahn.de/bahn-region/uebernachtung/",
+  "source_url": "https://www.zittauer-schmalspurbahn.de/bahn-region/uebernachtung/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Two passenger carriages converted into holiday apartments for two (kitchen, shower, bedroom, terrace) at Jonsdorf station (Easter to July) and Oybin station (August to October) on the narrow-gauge steam railway.",
+  "evidence_quote": "Die in Ferienwohnungen umgebauten Personenwagen besitzen Übernachtungsmöglichkeiten für 2 Personen mit Küche, Duschbad, separiertem Schlafraum und Terrasse",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Guests sleep in stationary converted railway carriages; the railway's pension and apartment are separate offers.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Saxony",
+   "city": "Kurort Jonsdorf",
+   "locality": "Zittauer Gebirge"
+  },
+  "page_issues": [
+   "Official page lists carriages at Jonsdorf (bookable Easter to July) and Oybin (August to October); availability is seasonal per station",
+   "Railway also lets a pension and an apartment in station buildings (not carriages)"
+  ]
+ }
+]

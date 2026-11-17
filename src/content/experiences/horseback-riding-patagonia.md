@@ -30,7 +30,6 @@ notIncluded:
   - Personal travel insurance
   - Riding boots (strongly recommended; rental available)
 rating: 9.5
-reviewCount: 1203
 featured: false
 tags:
   - horseback-riding

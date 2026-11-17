@@ -23,7 +23,6 @@ bestFor:
   - "Adults seeking quiet"
 bookingUrl: "https://www.ostsee-baumhaushotel.de/"
 rating: 8.9
-reviewCount: 0
 coordinates:
   lat: 54.2730814
   lng: 10.7622968

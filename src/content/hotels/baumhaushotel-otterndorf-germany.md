@@ -27,7 +27,6 @@ bestFor:
   - "Dog owners"
 bookingUrl: "https://www.mein-baumhaus.de/"
 rating: 8.7
-reviewCount: 0
 checkInOut:
   checkIn: "15:00"
   checkOut: "11:00"

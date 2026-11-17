@@ -1,0 +1,322 @@
+[
+ {
+  "slug": "juvet-landscape-hotel-norway",
+  "name": "Juvet Landscape Hotel",
+  "official_url": "https://juvet.com/en",
+  "source_url": "https://juvet.com/en/landskapsromma",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Seven glass-walled Landscape rooms raised on stilts in a birch forest by a river (plus two Bird Houses and a Writer's Lodge). No cliff setting is stated; the stilted cubes fit the site's stilts-among-trees treehouse rule only borderline.",
+  "evidence_quote": "Seven small cubes on stilts, with glass walls that offer you an immaculate view of the valley, the forest or the dramatic river below.",
+  "operating": "open",
+  "verdict": "move",
+  "new_category": "treehouse-hotels",
+  "closest_category": "treehouse-hotels",
+  "reason": "Official source never describes a cliff setting; the seven Landscape rooms are free-standing cubes on stilts in birch forest, so treehouse-hotels fits better (borderline).",
+  "treehouse_structure": "stilts_among_trees",
+  "location": {
+   "region": "Møre og Romsdal",
+   "city": "Valldal",
+   "locality": null
+  },
+  "page_issues": [
+   "Not a cliffside hotel: official site describes cubes on stilts in birch forest, no cliff",
+   "Page says three river rooms; official lists 7 Landscape rooms, 2 Bird Houses and a Writer's Lodge (10 rooms, 24 beds)",
+   "'Carved into the riverbank' River Rooms not supported by official site",
+   "Locality 'Alnes' not confirmed; official says just outside the village of Valldal",
+   "Ratings/review counts and 'best base' superlative unsupported"
+  ]
+ },
+ {
+  "slug": "manshausen-island-resort-norway",
+  "name": "Manshausen Island Resort",
+  "official_url": "https://www.manshausen.no/",
+  "source_url": "https://bystinessen.com/architecture/manshausen2/",
+  "source_type": "other",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Sea cabins on a private island: the original cabins rest on old stone quays, the newer ones sit out over the sea; two Towers on the pier edge. Stilts/piles not stated. No cliff setting.",
+  "evidence_quote": "The new ones are positioned at the tip of the rocky formations at the island’s northern end and out over the sea.",
+  "operating": "open",
+  "verdict": "move",
+  "new_category": "overwater-bungalows",
+  "closest_category": "overwater-bungalows",
+  "reason": "No cliff setting stated; architect's page says newer cabins sit out over the sea while older ones rest on stone quays. Overwater fits better, with stilts unconfirmed.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Nordland",
+   "city": "Steigen",
+   "locality": "Manshausen Island"
+  },
+  "page_issues": [
+   "Page says four sea cabins; official site lists seven Sea Cabins and two Towers",
+   "'All four extend over the sea on stilts' not supported: older cabins rest on stone quays",
+   "Not a cliffside hotel",
+   "Rating and review counts unsupported",
+   "Original building described as fishermen's warehouse; official site lists Main House with restaurant and library"
+  ]
+ },
+ {
+  "slug": "royal-cliff-hotels-group-thailand",
+  "name": "Royal Cliff Hotels Group",
+  "official_url": "http://www.royalcliff.com",
+  "source_url": "https://www.royalcliff.com/royal-cliff-beach-terrace/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Only Royal Cliff Beach Terrace (89 rooms/suites) is built into the cliff face; the group's other three hotels are not described as cliff properties.",
+  "evidence_quote": "this stunning low-rise romantic hotel is built directly into the cliff face on an incredible private beachfront location with panoramic ocean views",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official Beach Terrace page says the hotel is built directly into the cliff face; the group's other hotels are ordinary.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Chonburi",
+   "city": "Pattaya",
+   "locality": "Phra Tamnak"
+  },
+  "page_issues": [
+   "Only one of four hotels (Beach Terrace) is cliff-built",
+   "Page says '64 acres' and 'infinity pool' not checked against official pages"
+  ]
+ },
+ {
+  "slug": "skylodge-peru",
+  "name": "Skylodge Adventure Suites",
+  "official_url": "https://naturavive.com/web/skylodge-adventure-suites/",
+  "source_url": "https://naturavive.com/web/skylodge-adventure-suites/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Three transparent capsule suites hanging on a mountain wall about 400 m above the ground, reached by via ferrata. Word 'cliff' is not used by the source; setting is a vertical mountain face.",
+  "evidence_quote": "Our vertically hanging transparent capsule suites are situated at the top of our 1200 ft mountain with a 300 degree view",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site describes three hanging capsule suites on a high mountain face reached by via ferrata; cliff-face setting is the core feature.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Cusco",
+   "city": "Urubamba",
+   "locality": "Sacred Valley"
+  },
+  "page_issues": [
+   "Official: three suites with total capacity 8 people, four beds each; page's 'up to 4 guests each' conflicts with capacity of 8",
+   "'Pachar mountain' not stated by official site",
+   "Superlatives ('world's most dramatic', 'unrivalled') unsupported",
+   "Rating 9.5 / 892 reviews unsupported",
+   "'Via ferrata 1-2 hours' not stated; official says 400 m via ferrata or 40-minute hike to first zipline"
+  ]
+ },
+ {
+  "slug": "tierra-patagonia-chile",
+  "name": "Tierra Patagonia",
+  "official_url": "https://tierrapatagonia.com/",
+  "source_url": "https://tierrapatagonia.com/",
+  "source_type": "official",
+  "niche_scope": "unverified",
+  "niche_feature": "Lakeshore lodge of forty rooms overlooking Lake Sarmiento; one mention of lenga wood curving 'along the bluff' but no clifftop or cliff-face setting is stated.",
+  "evidence_quote": "overlooking Lake Sarmiento – its design adorned with local lenga wood gracefully curving along the bluff",
+  "operating": "open",
+  "verdict": "draft",
+  "new_category": null,
+  "closest_category": "cliffside-hotels",
+  "reason": "Official site presents a lakeshore national-park lodge, not a cliff property; only a passing 'bluff' mention. Fits no category clearly.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Magallanes",
+   "city": "Torres del Paine",
+   "locality": "Lake Sarmiento"
+  },
+  "page_issues": [
+   "Not a cliffside hotel per official site (lodge 'on the shores of Lake Sarmiento')",
+   "Official lists forty rooms; page does not state count",
+   "Spa is called Uma Spa, not 'Tierra Spa'",
+   "'Completed 2011' and '2,800 metres' unsupported by official site",
+   "Rating 9.5 / 1,456 reviews unsupported"
+  ]
+ },
+ {
+  "slug": "al-maha-dubai",
+  "name": "Al Maha Desert Resort & Spa",
+  "official_url": "https://www.marriott.com/luxury/explore-luxury-suites/al-maha-dubai",
+  "source_url": "https://guide.michelin.com/en/hotels-stays/dubai/al-maha-a-luxury-collection-desert-resort-spa-9474",
+  "source_type": "other",
+  "niche_scope": "entire_property",
+  "niche_feature": "Tented Bedouin-style encampment of suites inside the Dubai Desert Conservation Reserve; Marriott lists Bedouin, Royal and Presidential suites with private pools. Marriott pages gave no suite count (403 on main page).",
+  "evidence_quote": "a tented Bedouin-style encampment that heats its water with solar energy",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Michelin guide and Marriott describe a Bedouin-style tented desert resort in a conservation reserve with desert-view suites.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Dubai",
+   "city": "Dubai",
+   "locality": "Dubai Desert Conservation Reserve"
+  },
+  "page_issues": [
+   "42 suites and 225 sq km reserve size not confirmed by fetched sources",
+   "Private pool described as infinity pool; Marriott says 'temperature-controlled swimming pool'",
+   "Children age limit (under 12) unconfirmed",
+   "Rating and review counts unsupported"
+  ]
+ },
+ {
+  "slug": "aman-i-khas-india",
+  "name": "Aman-i-Khás",
+  "official_url": "https://www.aman.com/resorts/aman-i-khas",
+  "source_url": "https://www.aman.com/resorts/aman-i-khas",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Fourteen tented pavilions (some with plunge pools) on the outskirts of Ranthambore National Park; twice-daily tiger safaris are the core activity. Rajasthan scrub landscape, not a desert.",
+  "evidence_quote": "On the outskirts of Ranthambore National Park, the camp’s fourteen expansive tented accommodation overlooks a ruggedly beautiful landscape.",
+  "operating": "open",
+  "verdict": "move",
+  "new_category": "safari-lodges",
+  "closest_category": "safari-lodges",
+  "reason": "Tented camp beside Ranthambore National Park with tiger safaris as core activity; Rajasthan is not desert here. Safari-lodges fits.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Rajasthan",
+   "city": "Sawai Madhopur",
+   "locality": "Sherpur-Khiljipur"
+  },
+  "page_issues": [
+   "Page says ten pavilions; official site says fourteen tented accommodations",
+   "'Highest tiger sighting rate of any Indian reserve' superlative unsupported",
+   "Monsoon closure dates unconfirmed",
+   "Not a desert camp",
+   "Rating and review counts unsupported"
+  ]
+ },
+ {
+  "slug": "awasi-atacama-chile",
+  "name": "Awasi Atacama",
+  "official_url": "https://awasi.com/atacama/",
+  "source_url": "https://awasi.com/atacama/accommodations/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Adobe, stone and thatch lodge buildings (round rooms) on the edge of San Pedro de Atacama in the Atacama Desert, with a private guide and 4x4 per room. Official site gives no room count.",
+  "evidence_quote": "Awasi Atacama is made up of several adobe buildings, each one built using ancient techniques and locally sourced wood, thatch and stone.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Desert lodge in the Atacama with adobe rooms; fits desert-camps loosely as lodge in a desert landscape.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Antofagasta",
+   "city": "San Pedro de Atacama",
+   "locality": null
+  },
+  "page_issues": [
+   "'Twelve villas' not confirmed by official site",
+   "'8,000-metre volcanoes' claim unsupported by official site",
+   "Rating 9.5 / 341 reviews unsupported",
+   "'Open-air observatory terrace' unconfirmed"
+  ]
+ },
+ {
+  "slug": "bushmans-desert-camp-namibia",
+  "name": "Bushman's Desert Camp",
+  "official_url": "https://www.bushmansdesertcamp-sossus.com/",
+  "source_url": "https://www.bushmansdesertcamp-sossus.com/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Campsites plus twelve open-air-concept en-suite self-catering units on Farm Cha-re in the Namib Desert, with guided desert tours.",
+  "evidence_quote": "we first established campsites and then later built self-catering units with an open air concept.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official page confirms a desert camp with campsites and twelve units in the Namib on its own farm.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Khomas",
+   "city": "Solitaire",
+   "locality": "Farm Cha-re"
+  },
+  "page_issues": []
+ },
+ {
+  "slug": "deplar-farm-iceland",
+  "name": "Deplar Farm",
+  "official_url": "https://elevenexperience.com/lodge-destinations/iceland/eleven-deplar-farm",
+  "source_url": "https://elevenexperience.com/lodge-destinations/iceland/eleven-deplar-farm",
+  "source_type": "official",
+  "niche_scope": "unverified",
+  "niche_feature": "Converted 15th-century sheep farm adventure lodge in Iceland's Fljót Valley with 13 rooms, heli-skiing and a geothermal pool. Subarctic mountain lodge, not a desert camp; no matching category.",
+  "evidence_quote": "Deplar Farm is a 15th-century sheep farm turned adventure lodge in Iceland’s remote Fljót Valley.",
+  "operating": "open",
+  "verdict": "draft",
+  "new_category": null,
+  "closest_category": "safari-lodges",
+  "reason": "Subarctic heli-ski lodge in a converted farm; not a desert and fits none of the 14 categories. Closest is a remote wilderness lodge.",
+  "treehouse_structure": null,
+  "location": {
+   "region": null,
+   "city": null,
+   "locality": "Fljót Valley"
+  },
+  "page_issues": [
+   "Not a desert camp",
+   "Page says thirteen suites; official says 13 rooms (10 king, 2 queen, 1 bunk room)",
+   "'Geothermal infinity pool facing the fjord' not supported; official says geothermally heated pool and swim-up bar",
+   "'Never commercially skied' runs claim unsupported",
+   "Rating 9.4 / 389 reviews unsupported"
+  ]
+ },
+ {
+  "slug": "desert-camp-namibia",
+  "name": "Desert Camp",
+  "official_url": "https://www.desertcamp.com/",
+  "source_url": "https://www.desertcamp.com/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "28 self-catering bungalow-style units in a camp under camel thorn trees, 5 km from the Sossusvlei gate, with desert and mountain views.",
+  "evidence_quote": "Desert Camp is situated just 5 km from the entrance gate to Sossusvlei and Sesriem Canyon in the Namib Nauklauft Park.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site confirms a self-catering camp of 28 units in the Namib desert setting by Sossusvlei, though units are bungalow-style, not tents.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Hardap",
+   "city": "Sesriem",
+   "locality": "Sossusvlei"
+  },
+  "page_issues": [
+   "Official site says free Wi-Fi at bar area; units not mentioned (page says not in units, plausible)",
+   "Official says 'Namib Naukluft Park', page region 'Hardap' not stated on official page"
+  ]
+ },
+ {
+  "slug": "desert-luxury-camp-morocco",
+  "name": "Desert Luxury Camp",
+  "official_url": "https://desertluxurycamp.com/",
+  "source_url": "https://scottdunn.com/morocco/hotels/desert-luxury-camp",
+  "source_type": "other",
+  "niche_scope": "entire_property",
+  "niche_feature": "Tented camp among the Erg Chebbi dunes with five en-suite sleeping tents in the main camp (per tour operator). Official site returned HTTP 520, so a second camp at Erg Chigaga could not be confirmed.",
+  "evidence_quote": "Desert Luxury Camp is a peaceful and secluded tented camp in Erg Chebbi.",
+  "operating": "unknown",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Tour operator page confirms a tented Sahara dune camp at Erg Chebbi; official site unreachable (HTTP 520).",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Drâa-Tafilalet",
+   "city": "Merzouga",
+   "locality": "Erg Chebbi"
+  },
+  "page_issues": [
+   "Official site unreachable (HTTP 520); second camp at Erg Chigaga unconfirmed",
+   "Air conditioning at night not confirmed by fetched source",
+   "Operator page says five tents in main camp; page gives no count"
+  ]
+ }
+]

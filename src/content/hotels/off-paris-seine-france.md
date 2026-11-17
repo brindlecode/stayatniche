@@ -29,7 +29,6 @@ bestFor:
   - "Paris first-time and repeat visitors"
 bookingUrl: https://www.booking.com/hotel/fr/off-paris-seine.html
 rating: 8.8
-reviewCount: 1456
 coordinates:
   lat: 48.842733
   lng: 2.368117

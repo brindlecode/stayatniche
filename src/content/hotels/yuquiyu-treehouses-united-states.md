@@ -25,7 +25,6 @@ bestFor:
   - "Adults-only retreats"
 bookingUrl: "https://yuquiyufarm.com/treehouses/"
 rating: 8.7
-reviewCount: 0
 coordinates:
   lat: 18.3518832
   lng: -65.8098365

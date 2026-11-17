@@ -23,7 +23,6 @@ bestFor:
   - "Pet owners"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Seki%20Cave%20Hotel%2C%20%C3%87avu%C5%9Fin&adults=2"
 rating: 8.4
-reviewCount: 0
 coordinates:
   lat: 38.6663118
   lng: 34.8426829

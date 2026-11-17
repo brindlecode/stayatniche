@@ -21,7 +21,6 @@ bestFor:
   - "Water lovers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Houseboat%20%22Arka%22%2C%20Mielno&adults=2"
 rating: 7.8
-reviewCount: 0
 coordinates:
   lat: 54.261415
   lng: 16.0745128

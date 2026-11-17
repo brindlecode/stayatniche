@@ -15,9 +15,13 @@ Wir suchen Orte, die die Idee einer Unterkunft so weit wie möglich ausreizen: e
 
 **Entdecken.** Wir durchforsten Reisemagazine, offene Kartendaten, offizielle Tourismusquellen und die Websites der Unterkünfte selbst – und finden so Orte, die auf den meisten Buchungsplattformen untergehen.
 
-**Prüfen.** Jede Unterkunft gleichen wir mit ihrer offiziellen Website und offenen Kartendaten ab: Sie muss existieren, Gäste aufnehmen und wirklich das sein, was ihre Kategorie verspricht. Was wir nicht überprüfen können, kommt nicht auf die Liste.
+**Prüfen.** Jede Unterkunft gleichen wir mit ihrer offiziellen Website oder einer anderen belegbaren Quelle ab. Wir halten fest, was das Besondere ist, ob es für die ganze Unterkunft oder nur für einzelne Zimmer gilt, welche Quelle das belegt und wann wir geprüft haben. Wo wir es nicht bestätigen konnten, steht das auf der Seite.
 
 **Kuratieren.** Nur Orte, die durch Lage, Architektur oder Erlebnis herausragen, schaffen es in die Auswahl. Unsere Wertungen sind redaktionelle Urteile, keine Gästebewertungen.
+
+## So entsteht die Redaktionswertung
+
+Die Wertung von 10 ist unsere eigene redaktionelle Bewertung und kein Durchschnitt von Gästebewertungen; Bewertungszahlen zeigen wir nicht an. Die Redaktion gewichtet drei Dinge: wie sehr die Lage selbst der Reisegrund ist, was die offizielle Quelle zu Zimmern, Essen und Anreise sagt und wie praktikabel der Aufenthalt ist (Saison, Anfahrt). Die Prüfung des Besonderen setzt eine Obergrenze: Ist die ganze Unterkunft das Besondere, sind bis zu 10 möglich, gilt es nur für einzelne Zimmer bis zu 8,8, konnten wir es nicht bestätigen bis zu 8,5, und liegt es nicht dort, wo man schläft, bis zu 7,5.
 
 ## Ein Wort zur Transparenz
 

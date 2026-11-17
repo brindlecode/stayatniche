@@ -21,7 +21,6 @@ bestFor:
   - "Groups and celebrations"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Peckforton%20Castle%2C%20Cheshire&adults=2"
 rating: 8.9
-reviewCount: 0
 coordinates:
   lat: 53.1177986
   lng: -2.6991619

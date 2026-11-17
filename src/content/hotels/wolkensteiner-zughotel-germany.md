@@ -22,7 +22,6 @@ bestFor:
   - "Couples"
 bookingUrl: "https://wolkensteiner-zughotel.de/"
 rating: 8.4
-reviewCount: 0
 coordinates:
   lat: 50.6531424
   lng: 13.0630218

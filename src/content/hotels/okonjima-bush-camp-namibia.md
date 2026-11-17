@@ -17,7 +17,6 @@ bestFor:
   - "Families"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Okonjima%20Bush%20Camp%2C%20Okonjima%20Nature%20Reserve&adults=2"
 rating: 8.5
-reviewCount: 0
 coordinates:
   lat: -20.8501581
   lng: 16.6662207

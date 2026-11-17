@@ -29,7 +29,6 @@ bestFor:
   - "Winter adventure seekers"
 bookingUrl: https://www.booking.com/hotel/fi/snowcastle-of-kemi.html
 rating: 8.9
-reviewCount: 1023
 coordinates:
   lat: 65.7333
   lng: 24.5667

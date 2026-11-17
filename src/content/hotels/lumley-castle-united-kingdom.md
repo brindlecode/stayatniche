@@ -20,7 +20,6 @@ bestFor:
   - "Cricket fans"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Lumley%20Castle%2C%20Chester-le-Street%2C%20England&adults=2"
 rating: 8.5
-reviewCount: 0
 coordinates:
   lat: 54.8535545
   lng: -1.553183

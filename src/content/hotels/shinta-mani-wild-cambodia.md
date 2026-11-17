@@ -31,7 +31,6 @@ bestFor:
   - Architecture and design lovers
 bookingUrl: https://www.booking.com/hotel/kh/shinta-mani-wild.html
 rating: 9.5
-reviewCount: 234
 coordinates:
   lat: 11.4167
   lng: 103.1667

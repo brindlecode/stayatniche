@@ -22,7 +22,6 @@ bestFor:
   - "Heritage lovers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Walworth%20Castle%20Hotel%2C%20Darlington&adults=2"
 rating: 8.3
-reviewCount: 0
 coordinates:
   lat: 54.5642451
   lng: -1.6438409

@@ -23,7 +23,6 @@ bestFor:
   - "Hikers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Schloss%20Hotel%20Korb%2C%20Missian&adults=2"
 rating: 8.5
-reviewCount: 0
 coordinates:
   lat: 46.4818725
   lng: 11.2490214

@@ -29,7 +29,6 @@ bestFor:
   - "Unmissable travellers"
 bookingUrl: https://www.booking.com/
 rating: 9.0
-reviewCount: 892
 coordinates:
   lat: 25.133094
   lng: -80.398618

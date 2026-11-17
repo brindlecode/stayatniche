@@ -23,7 +23,6 @@ bestFor:
   - "Private gatherings"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Aldourie%20Castle%2C%20Loch%20Ness&adults=2"
 rating: 9
-reviewCount: 0
 coordinates:
   lat: 57.4036316
   lng: -4.3297997

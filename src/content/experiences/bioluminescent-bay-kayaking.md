@@ -29,7 +29,6 @@ notIncluded:
   - Personal travel insurance
   - Ferry ticket from Ceiba to Vieques
 rating: 9.3
-reviewCount: 2341
 featured: false
 tags:
   - bioluminescence

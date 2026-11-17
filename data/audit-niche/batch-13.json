@@ -1,0 +1,288 @@
+[
+ {
+  "slug": "majakkahotelli-finland",
+  "name": "Majakkahotelli",
+  "official_url": "https://www.kylmapihlaja.com/majakkahotelli.php",
+  "source_url": "https://www.kylmapihlaja.com/majakkahotelli.php",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "All 15 hotel rooms are in the Kylmapihlaja lighthouse tower on an outer-sea island; the island also has eight separate two-person cottages, which are not in the tower.",
+  "evidence_quote": "Kaikki majoitushuoneemme sijaitsevat majakan tornissa ja niistä on merimaisema, pois lukien economy huone, josta näkymä on majakan terassille.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official page states all hotel rooms are in the lighthouse tower; cottages are extra units.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Satakunta",
+   "city": "Rauma",
+   "locality": "Kylmäpihlaja"
+  },
+  "page_issues": []
+ },
+ {
+  "slug": "norah-head-lighthouse-and-cottages-australia",
+  "name": "Norah Head Lighthouse & Cottages",
+  "official_url": "https://reflectionsholidays.com.au/unique-stays/norah-head-lighthouse/accommodation/",
+  "source_url": "https://reflectionsholidays.com.au/unique-stays/norah-head-lighthouse/accommodation/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Both bookable units are the Head and Assistant Lighthouse Keepers' Quarters (3 bedrooms, 9 guests each) beside the 1903 tower on the lighthouse reserve; guests do not sleep in the tower.",
+  "evidence_quote": "the quaint Lighthouse Keeper’s Quarters and Assistant Lighthouse Keeper’s Quarters remain available for holiday bookings",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Keepers' quarters on a lighthouse station qualify; both units are the quarters.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "New South Wales",
+   "city": "Norah Head",
+   "locality": null
+  },
+  "page_issues": []
+ },
+ {
+  "slug": "phare-de-kerbel-france",
+  "name": "Phare de Kerbel",
+  "official_url": "https://www.pharedekerbel.com/",
+  "source_url": "https://www.pharedekerbel.com/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Studio in place of the lantern room 25 m up the tower, plus a former oil room outbuilding and the attached keeper's house, all on the lighthouse property.",
+  "evidence_quote": "le Phare de Kerbel est le seul phare de France habitable en son sommet",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site shows a studio in the tower plus outbuilding and keeper's house on the station.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Brittany",
+   "city": "Riantec",
+   "locality": "Kerbel"
+  },
+  "page_issues": []
+ },
+ {
+  "slug": "quirpon-lighthouse-inn-canada",
+  "name": "Quirpon Lighthouse Inn",
+  "official_url": "https://www.linkumtours.com/accommodations/quirpon-lighthouse-inn/",
+  "source_url": "https://www.linkumtours.com/accommodations/quirpon-lighthouse-inn/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Ten rooms in a restored 1922 light-keeper's home at the base of a still-operating lighthouse on Quirpon Island; guests do not sleep in the tower. Page fetched via tool because direct curl returned 403.",
+  "evidence_quote": "Quirpon Lighthouse Inn features ten beautiful rooms at the base of a still-operating lighthouse",
+  "operating": "unknown",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Rooms are in the keeper's home on a working lighthouse station; seasonal status not stated.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Newfoundland and Labrador",
+   "city": null,
+   "locality": "Quirpon Island"
+  },
+  "page_issues": [
+   "Booking widget on official page references 2021 dates, so current season/opening not confirmed",
+   "Iceberg Alley and 'quintessential lighthouse life' wording not checked against the page"
+  ]
+ },
+ {
+  "slug": "saugerties-lighthouse-united-states",
+  "name": "Saugerties Lighthouse",
+  "official_url": "https://www.saugertieslighthouse.com/",
+  "source_url": "https://www.saugertieslighthouse.com/accommodations",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Two second-floor double bedrooms inside the 1869 lighthouse (rented together, shared bathroom with composting toilet), on a river shoal reached by half-mile trail; the tower is open to guests.",
+  "evidence_quote": "There are two second-floor bedrooms, each with a double bed.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Guests sleep inside the lighthouse building; official B&B open Thursday to Sunday nights year-round.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "New York",
+   "city": "Saugerties",
+   "locality": "Hudson River"
+  },
+  "page_issues": []
+ },
+ {
+  "slug": "sitka-lighthouse-united-states",
+  "name": "Sitka Lighthouse",
+  "official_url": "https://www.sitkalighthouse.com/",
+  "source_url": "https://www.sitkalighthouse.com/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "The whole lighthouse (built 1983 as Rockwell Lighthouse; two bedrooms, 1.5 baths) is rented as a private-island vacation rental; guests sleep inside it. Water taxi included, five-minute boat ride.",
+  "evidence_quote": "Inside the historic lighthouse, a glass-walled room offers panoramic views of Alaskan beauty shifting with the tide throughout the day.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site confirms guests stay inside the lighthouse on Rockwell Island.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Alaska",
+   "city": "Sitka",
+   "locality": "Rockwell Island"
+  },
+  "page_issues": []
+ },
+ {
+  "slug": "stf-berguddens-fyrvaktarbostader-sweden",
+  "name": "STF Berguddens Fyrvaktarbostäder",
+  "official_url": "https://www.svenskaturistforeningen.se/boende/stf-berguddens-fyrvaktarbostader/",
+  "source_url": "https://www.svenskaturistforeningen.se/boende/stf-berguddens-fyrvaktarbostader/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Five rooms (11-25 beds) in the former lighthouse keepers' dwellings beside Bergudden lighthouse on Holmön; shared self-catering kitchen, no running water, outhouse toilet. Not in the tower.",
+  "evidence_quote": "Här har fyrvaktare med familjer bott och verkat genom historien.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Keepers' dwellings on a lighthouse station qualify; official STF page lists five rooms.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Västerbotten",
+   "city": "Umeå",
+   "locality": "Holmön"
+  },
+  "page_issues": []
+ },
+ {
+  "slug": "vuurtoren-van-harlingen-netherlands",
+  "name": "Vuurtoren van Harlingen",
+  "official_url": "https://www.vuurtoren-harlingen.nl/",
+  "source_url": "https://www.dromenaanzee.nl/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "The whole lighthouse tower is one accommodation unit for two over three floors, with the bed on the middle level; run by Dromen aan Zee. Dedicated site vuurtoren-harlingen.nl had an expired TLS certificate and was not read.",
+  "evidence_quote": "De Vuurtoren van Harlingen is uniek in Europa: nergens anders kun je in de top van een vuurtoren overnachten.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Operator page confirms overnight stays in the lighthouse tower itself.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Friesland",
+   "city": "Harlingen",
+   "locality": null
+  },
+  "page_issues": [
+   "Dedicated site vuurtoren-harlingen.nl has an expired SSL certificate (could not be read safely)"
+  ]
+ },
+ {
+  "slug": "andbeyond-benguerra-island-mozambique",
+  "name": "andBeyond Benguerra Island",
+  "official_url": "https://www.andbeyond.com/lodge-editorial/benguerra-island/accommodation/",
+  "source_url": "https://www.andbeyond.com/lodge-editorial/benguerra-island/accommodation/",
+  "source_type": "official",
+  "niche_scope": "unverified",
+  "niche_feature": "Official page lists 13 beach units (2 Cabanas, 10 Casinhas, 1 Casa Familia) among forest and white sand with beach-facing plunge pools; nothing states they are over water or on stilts.",
+  "evidence_quote": "Thirteen spacious rooms are tucked between indigenous forest and soft white sand",
+  "operating": "open",
+  "verdict": "draft",
+  "new_category": null,
+  "closest_category": "safari-lodges",
+  "reason": "Beachfront island lodge, not overwater; fits no category well. Closest is safari-lodges (andBeyond lodge in a marine park), a weak fit.",
+  "treehouse_structure": null,
+  "location": {
+   "region": null,
+   "city": null,
+   "locality": "Benguerra Island"
+  },
+  "page_issues": [
+   "Page says fourteen casitas and villas; official lists 13 rooms (10 Casinhas, 2 Cabanas, 1 Casa Familia)",
+   "Not overwater: units are beachfront, so the overwater-bungalows category does not apply",
+   "Unsupported superlatives (largest dugong population in Western Indian Ocean, world-class snorkelling)"
+  ]
+ },
+ {
+  "slug": "bora-bora-nui-resort",
+  "name": "Bora Bora Nui Resort & Spa",
+  "official_url": "https://www.hilton.com/en/hotels/pptbnci-conrad-bora-bora-nui/",
+  "source_url": "https://forbestravelguide.com/hotels/bora-bora-french-polynesia/conrad-bora-bora-nui",
+  "source_type": "other",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Resort (now Conrad Bora Bora Nui, 114 villas per Forbes Travel Guide) is mostly overwater bungalows, with some beachfront, garden and hillside villas. Hilton official site returned 403.",
+  "evidence_quote": "The majority of the resort consists of overwater bungalows",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Majority overwater bungalows per Forbes Travel Guide; official Hilton page blocked; reopened May 2026 after renovation.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Society Islands",
+   "city": "Bora Bora",
+   "locality": "Motu To'opua"
+  },
+  "page_issues": [
+   "Resort now operates as Conrad Bora Bora Nui; page uses old name",
+   "Closed for renovation early 2026 per press, reopened 1 May 2026",
+   "Not every villa is overwater (beach, garden and hillside villas exist)",
+   "Unsupported claims: 'format was invented here', views of Otemanu from every deck, 'among the best' snorkelling"
+  ]
+ },
+ {
+  "slug": "four-seasons-maldives-landaa",
+  "name": "Four Seasons Resort Maldives at Landaa Giraavaru",
+  "official_url": "https://www.fourseasons.com/maldiveslg/accommodations/",
+  "source_url": "https://press.fourseasons.com/maldiveslg/hotel-facts/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Official fact sheet lists 103 villas including Water villas and Beach villas; fourseasons.com accommodation pages returned 403 and Forbes Travel Guide describes overwater villas alongside beach villas. Overwater count not given.",
+  "evidence_quote": "Water villas have mezzanine-level lofts accessed by spiral staircase for ocean views",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Water villas confirmed by Four Seasons fact sheet and Forbes; only part of the 103 villas are overwater.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Baa Atoll",
+   "city": null,
+   "locality": "Landaa Giraavaru"
+  },
+  "page_issues": [
+   "Not all 103 villas are overwater; beach villas exist",
+   "Superlatives: world's largest known manta aggregations",
+   "Plunge pool and glass floor panels in each villa not confirmed"
+  ]
+ },
+ {
+  "slug": "gili-lankanfushi-maldives",
+  "name": "Gili Lankanfushi",
+  "official_url": "https://gili-lankanfushi.com/",
+  "source_url": "https://gili-lankanfushi.com/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "45 villas and residences described as overwater villas, including the Private Reserve and Crusoe Residences reached by short boat ride; villa pages describe overwater sundecks.",
+  "evidence_quote": "authentically-styled yet luxuriously appointed overwater villas with pools in Maldives",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site presents all 45 villas and residences as overwater.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "North Malé Atoll",
+   "city": "Malé",
+   "locality": "Gili Lankanfushi"
+  },
+  "page_issues": [
+   "Private Reserve is 1,700 sqm on the official page, not 1,600 sqm",
+   "'World's largest overwater villa' is the resort's own claim ('largest stand-alone overwater villa')",
+   "'Twenty minutes by speedboat' and sustainability-ranking claims not confirmed"
+  ]
+ }
+]

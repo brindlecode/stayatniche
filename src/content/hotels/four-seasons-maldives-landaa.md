@@ -29,7 +29,6 @@ bestFor:
   - "Marine wildlife enthusiasts"
 bookingUrl: https://www.booking.com/hotel/mv/four-seasons-resort-maldives-at-landaa-giraavaru.html
 rating: 9.6
-reviewCount: 2876
 coordinates:
   lat: 5.2863632
   lng: 73.1120772

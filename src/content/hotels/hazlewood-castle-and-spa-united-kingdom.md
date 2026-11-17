@@ -21,7 +21,6 @@ bestFor:
   - "Weddings"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Hazlewood%20Castle%20%26%20Spa%2C%20Tadcaster&adults=2"
 rating: 8.5
-reviewCount: 0
 coordinates:
   lat: 53.8523722
   lng: -1.3192468

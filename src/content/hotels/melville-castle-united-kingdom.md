@@ -23,7 +23,6 @@ bestFor:
   - "Edinburgh visitors"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Melville%20Castle%2C%20Lasswade&adults=2"
 rating: 8.5
-reviewCount: 0
 coordinates:
   lat: 55.8910128
   lng: -3.1044229

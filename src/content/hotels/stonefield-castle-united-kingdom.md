@@ -22,7 +22,6 @@ bestFor:
   - "Dog owners"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Stonefield%20Castle%2C%20Tarbert%2C%20Scotland&adults=2"
 rating: 8.3
-reviewCount: 0
 coordinates:
   lat: 55.8912
   lng: -5.41706

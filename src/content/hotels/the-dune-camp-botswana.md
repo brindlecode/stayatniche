@@ -19,7 +19,6 @@ bestFor:
   - "Couples"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=The%20Dune%20Camp%2C%20Deception%20Valley%20Private%20Reserve&adults=2"
 rating: 8.5
-reviewCount: 0
 coordinates:
   lat: -20.9643415
   lng: 23.4404429

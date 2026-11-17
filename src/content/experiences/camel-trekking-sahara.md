@@ -31,7 +31,6 @@ notIncluded:
   - Gratuities for guides and camp staff
   - Sandboarding equipment rental (available on site)
 rating: 9.2
-reviewCount: 1547
 featured: false
 tags:
   - camel-trek

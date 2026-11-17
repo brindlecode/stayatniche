@@ -42,7 +42,6 @@ prosAndCons:
     - "Surf access costs are additional to the already high room rate"
 bookingUrl: https://www.booking.com/hotel/id/nihi-sumba.html
 rating: 9.7
-reviewCount: 743
 seasonalInfo:
   bestTime: "May to October for surf; year-round for non-surfers"
   peakSeason: "June to September"

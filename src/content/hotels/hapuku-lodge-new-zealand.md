@@ -55,7 +55,6 @@ prosAndCons:
     - "Popular, requires advance booking"
 bookingUrl: "https://www.booking.com/hotel/nz/hapuku-lodge-amp-tree-houses.html"
 rating: 9.2
-reviewCount: 412
 checkInOut:
   checkIn: "15:00"
   checkOut: "11:00"

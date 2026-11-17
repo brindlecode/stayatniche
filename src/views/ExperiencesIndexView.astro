@@ -2,6 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { i18n, type Locale } from '../i18n';
 import { localized, allAlternates } from '../i18n/content';
+import { placeLabel } from '../lib/site';
 
 interface Props { locale: Locale }
 const L = i18n(Astro.props.locale);
@@ -86,7 +87,7 @@ const otherTypes = sorted.filter(e => !types.some(t => t.value === e.data.type))
                     )}
                     <div class="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent" />
                     {exp.data.rating && (
-                      <div class="absolute top-3 right-3 flex items-center gap-1 bg-white/90 backdrop-blur text-warm-900 text-sm font-body font-bold px-2.5 py-1 rounded-full">
+                      <div title={t.card.scoreTitle} aria-label={`${t.hotel.editorScore}: ${exp.data.rating.toFixed(1)} / 10`} class="absolute top-3 right-3 flex items-center gap-1 bg-white/90 backdrop-blur text-warm-900 text-sm font-body font-bold px-2.5 py-1 rounded-full">
                         <span class="mt-2 inline-block h-1.5 w-1.5 flex-shrink-0 rounded-full bg-gold-500" aria-hidden="true"></span>
                         {L.num(Number(exp.data.rating.toFixed(1)))}
                       </div>
@@ -94,7 +95,7 @@ const otherTypes = sorted.filter(e => !types.some(t => t.value === e.data.type))
                   </div>
                   <div class="p-5">
                     <h3 class="font-display text-base font-bold text-warm-950 group-hover:text-forest-700 transition-colors mb-1 leading-snug">{exp.data.title}</h3>
-                    {exp.data.destination && <p class="font-body text-warm-400 text-xs mb-2">{exp.data.destination}, {L.country(exp.en.country)}</p>}
+                    {exp.data.destination && <p class="font-body text-warm-400 text-xs mb-2">{placeLabel(exp.data.destination, exp.en.country, L.country(exp.en.country))}</p>}
                     {exp.data.description && <p class="font-body text-warm-600 text-sm line-clamp-2 mb-4">{exp.data.description}</p>}
                     <div class="flex items-center justify-between pt-3 border-t border-warm-100">
                       {exp.data.booking?.price && <span class="font-body text-warm-600 text-sm font-semibold">{exp.data.booking.price}</span>}
@@ -123,7 +124,7 @@ const otherTypes = sorted.filter(e => !types.some(t => t.value === e.data.type))
                   </div>
                   <div class="p-5">
                     <h3 class="font-display text-base font-bold text-warm-950 group-hover:text-forest-700 transition-colors mb-1 leading-snug">{exp.data.title}</h3>
-                    {exp.data.destination && <p class="font-body text-warm-400 text-xs mb-2">{exp.data.destination}, {L.country(exp.en.country)}</p>}
+                    {exp.data.destination && <p class="font-body text-warm-400 text-xs mb-2">{placeLabel(exp.data.destination, exp.en.country, L.country(exp.en.country))}</p>}
                     {exp.data.description && <p class="font-body text-warm-600 text-sm line-clamp-2 mb-4">{exp.data.description}</p>}
                     <div class="flex items-center justify-between pt-3 border-t border-warm-100">
                       {exp.data.booking?.price && <span class="font-body text-warm-600 text-sm font-semibold">{exp.data.booking.price}</span>}

@@ -21,7 +21,6 @@ bestFor:
   - "Food lovers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Inverlochy%20Castle%20Hotel%2C%20Fort%20William&adults=2"
 rating: 9.2
-reviewCount: 0
 coordinates:
   lat: 56.8443661
   lng: -5.0540276

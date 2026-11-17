@@ -42,7 +42,6 @@ prosAndCons:
     - "Ubud road access can be slow during Bali's peak season"
 bookingUrl: https://www.booking.com/hotel/id/bambu-indah-ubud-bali.html
 rating: 9.0
-reviewCount: 892
 seasonalInfo:
   bestTime: "May to September"
   peakSeason: "July to August"

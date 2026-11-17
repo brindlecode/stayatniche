@@ -25,7 +25,6 @@ bestFor:
   - "Ski holidays"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Castello%20Fai%2C%20Fai%20della%20Paganella&adults=2"
 rating: 8
-reviewCount: 0
 coordinates:
   lat: 46.1803891
   lng: 11.0705492

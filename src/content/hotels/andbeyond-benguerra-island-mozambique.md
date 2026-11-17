@@ -31,7 +31,6 @@ bestFor:
   - Complete remote escape
 bookingUrl: https://www.booking.com/hotel/mz/andbeyond-benguerra-island.html
 rating: 9.3
-reviewCount: 198
 coordinates:
   lat: -21.8667
   lng: 35.4333

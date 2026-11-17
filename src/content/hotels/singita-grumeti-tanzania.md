@@ -45,7 +45,6 @@ prosAndCons:
     - "The premium pricing puts this beyond the reach of most budgets"
 bookingUrl: https://www.booking.com/
 rating: 9.8
-reviewCount: 612
 seasonalInfo:
   bestTime: June to July for Great Migration river crossings; December to March for calving season
   peakSeason: June to August (dry season and migration)

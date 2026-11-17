@@ -19,7 +19,6 @@ bestFor:
   - "Lighthouse lovers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Quirpon%20Lighthouse%20Inn%2C%20Quirpon%20Island&adults=2"
 rating: 9.2
-reviewCount: 0
 coordinates:
   lat: 51.6399985
   lng: -55.4269653

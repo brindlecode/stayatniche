@@ -21,7 +21,6 @@ bestFor:
   - "Slow travel"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Il%20Borgo%20del%20Castello%2C%20Cremolino&adults=2"
 rating: 8.1
-reviewCount: 0
 coordinates:
   lat: 44.6360623
   lng: 8.5856261

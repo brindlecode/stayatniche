@@ -29,7 +29,6 @@ bestFor:
   - "Birdwatchers"
 bookingUrl: https://www.booking.com/hotel/pe/inkaterra-reserva-amazonica.html
 rating: 9.3
-reviewCount: 876
 coordinates:
   lat: -12.5500
   lng: -69.0500

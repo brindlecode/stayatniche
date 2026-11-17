@@ -20,7 +20,6 @@ bestFor:
   - "Nature lovers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Barahi%20Jungle%20Lodge%2C%20Meghauli&adults=2"
 rating: 8.4
-reviewCount: 0
 coordinates:
   lat: 27.5688625
   lng: 84.1958172

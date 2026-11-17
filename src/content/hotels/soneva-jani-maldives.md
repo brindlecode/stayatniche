@@ -29,7 +29,6 @@ bestFor:
   - "Families seeking adventure"
 bookingUrl: https://www.booking.com/hotel/mv/soneva-jani.html
 rating: 9.7
-reviewCount: 1456
 coordinates:
   lat: 5.7137476
   lng: 73.4150087

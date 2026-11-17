@@ -1,4 +1,5 @@
 import { defineCollection, z } from 'astro:content';
+import { NICHE_SCOPES, nicheProblems } from '../lib/niche.mjs';
 
 // ── Shared schemas ────────────────────────────────────────────
 const seoSchema = z.object({
@@ -9,13 +10,24 @@ const seoSchema = z.object({
 }).optional();
 
 // ── Hotels ────────────────────────────────────────────────────
-const hotels = defineCollection({
-  type: 'content',
-  schema: z.object({
+// Which part of the stay is the niche (docs/NICHE-AUDIT.md). Every published hotel must have one.
+
+// Structured place. The legacy `destination` + `country` strings stay (URLs, country pages, search).
+const locationSchema = z.object({
+  country: z.string(),                                  // official English name, e.g. "United Kingdom"
+  countryCode: z.string().regex(/^[A-Z]{2}$/),          // ISO 3166-1 alpha-2, e.g. "GB"
+  region: z.string().optional(),                        // state / province / county / governorate / UK nation
+  city: z.string().optional(),                          // nearest city, town or municipality
+  locality: z.string().optional(),                      // village, island, estate, neighbourhood
+  coordinates: z.object({ lat: z.number(), lng: z.number() }).optional(),
+});
+
+const hotelShape = z.object({
     name: z.string(),
     category: z.string(),
     destination: z.string(),
     country: z.string(),
+    location: locationSchema.optional(),
     continent: z.string().optional(),
     address: z.string().optional(),
     description: z.string(),
@@ -43,8 +55,11 @@ const hotels = defineCollection({
       label: z.string().default('Check Rates'),
     })).default([]),
 
+    // EDITORIAL score (docs/EDITORIAL-SCORE.md), not a guest rating. We collect no guest reviews, so
+    // reviewCount is only allowed together with the source of that number (reviewCountSource).
     rating: z.number().min(1).max(10),
-    reviewCount: z.number(),
+    reviewCount: z.number().optional(),
+    reviewCountSource: z.string().optional(),
 
     checkInOut: z.object({
       checkIn: z.string().default('15:00'),
@@ -80,7 +95,19 @@ const hotels = defineCollection({
     officialWebsite: z.string().optional(),
     verifiedAt: z.date().optional(),
 
+    // Niche audit: what exactly is the category feature, and where was it verified?
+    niche_scope: z.enum(NICHE_SCOPES as [string, ...string[]]).optional(),
+    niche_feature: z.string().optional(),          // the verified feature, one factual sentence
+    niche_source_url: z.string().url().optional(), // the page that supports it (official site preferred)
+    niche_verified_at: z.date().optional(),        // the day the source was read
+
     seo: seoSchema,
+  });
+
+const hotels = defineCollection({
+  type: 'content',
+  schema: hotelShape.superRefine((h, ctx) => {
+    for (const { path, message } of nicheProblems(h)) ctx.addIssue({ code: z.ZodIssueCode.custom, path: [path], message });
   }),
 });
 
@@ -187,8 +214,9 @@ const experiences = defineCollection({
     highlights: z.array(z.string()).default([]),
     included: z.array(z.string()).default([]),
     notIncluded: z.array(z.string()).default([]),
-    rating: z.number().min(1).max(10).optional(),
-    reviewCount: z.number().optional(),
+    rating: z.number().min(1).max(10).optional(), // editorial score (docs/EDITORIAL-SCORE.md)
+    reviewCount: z.number().optional(),            // only with its source
+    reviewCountSource: z.string().optional(),
     featured: z.boolean().default(false),
     tags: z.array(z.string()).default([]),
     seo: z.object({

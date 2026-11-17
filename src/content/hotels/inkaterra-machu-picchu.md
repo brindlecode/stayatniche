@@ -42,7 +42,6 @@ prosAndCons:
     - "Machu Picchu itself now requires timed entry tickets booked months in advance"
 bookingUrl: https://www.booking.com/hotel/pe/inkaterra-machu-picchu-pueblo.html
 rating: 9.3
-reviewCount: 1567
 seasonalInfo:
   bestTime: "April to October"
   peakSeason: "June to August"

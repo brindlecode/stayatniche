@@ -21,7 +21,6 @@ bestFor:
   - "Weddings and events"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Tulloch%20Castle%20Hotel%2C%20Dingwall&adults=2"
 rating: 8.2
-reviewCount: 0
 coordinates:
   lat: 57.6093829
   lng: -4.433434

@@ -20,7 +20,6 @@ bestFor:
   - "Special occasions"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Vuurtoren%20van%20Harlingen%2C%20Harlingen&adults=2"
 rating: 8.8
-reviewCount: 0
 coordinates:
   lat: 53.1738182
   lng: 5.4118292

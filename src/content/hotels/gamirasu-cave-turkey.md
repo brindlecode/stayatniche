@@ -55,7 +55,6 @@ prosAndCons:
     - "Wi-Fi can be patchy in the deeper cave rooms"
 bookingUrl: "https://www.booking.com/hotel/tr/gamirasu-cave.html"
 rating: 9.1
-reviewCount: 743
 checkInOut:
   checkIn: "14:00"
   checkOut: "11:00"

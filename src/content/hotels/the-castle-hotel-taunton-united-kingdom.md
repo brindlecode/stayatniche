@@ -22,7 +22,6 @@ bestFor:
   - "Food lovers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=The%20Castle%20Hotel%2C%20Taunton&adults=2"
 rating: 8
-reviewCount: 0
 coordinates:
   lat: 51.0154912
   lng: -3.1037355

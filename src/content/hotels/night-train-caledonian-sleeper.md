@@ -42,7 +42,6 @@ prosAndCons:
     - "Reclining seats in standard class are not a substitute for a proper bed"
 bookingUrl: https://www.sleeper.scot/
 rating: 8.6
-reviewCount: 3421
 seasonalInfo:
   bestTime: "Year-round"
   peakSeason: "June to August and December"

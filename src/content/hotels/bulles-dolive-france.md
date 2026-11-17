@@ -22,7 +22,6 @@ bestFor:
   - "Romantic getaways"
 bookingUrl: "https://bullesdolive.fr/"
 rating: 8.9
-reviewCount: 0
 checkInOut:
   checkIn: "17:00"
   checkOut: "11:00"

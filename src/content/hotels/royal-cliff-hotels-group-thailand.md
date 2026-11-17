@@ -20,7 +20,6 @@ bestFor:
   - "Beach holidays"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Royal%20Cliff%20Hotels%20Group%2C%20Pattaya&adults=2"
 rating: 8
-reviewCount: 0
 coordinates:
   lat: 12.92341667
   lng: 100.85978611

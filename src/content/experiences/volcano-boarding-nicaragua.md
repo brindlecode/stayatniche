@@ -31,7 +31,6 @@ notIncluded:
   - Gratuities for guides
   - Additional souvenirs
 rating: 9.5
-reviewCount: 4512
 featured: false
 tags:
   - volcano-boarding

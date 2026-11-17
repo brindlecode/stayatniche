@@ -23,7 +23,6 @@ bestFor:
   - "Weddings"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Castello%20di%20Montaldo%2C%20Montaldo%20Torinese&adults=2"
 rating: 8.6
-reviewCount: 0
 coordinates:
   lat: 45.0657576
   lng: 7.8479424

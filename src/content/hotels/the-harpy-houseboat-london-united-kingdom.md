@@ -19,7 +19,6 @@ bestFor:
   - "River views"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=The%20Harpy%20Houseboat%2C%20Tower%20Bridge&adults=2"
 rating: 8.5
-reviewCount: 0
 coordinates:
   lat: 51.5023774
   lng: -0.0703059

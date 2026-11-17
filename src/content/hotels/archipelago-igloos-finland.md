@@ -20,7 +20,6 @@ bestFor:
   - "Adventurous travellers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Archipelago%20Igloos%2C%20Helsinki%20archipelago&adults=2"
 rating: 8.6
-reviewCount: 0
 coordinates:
   lat: 60.1349446
   lng: 25.0118332

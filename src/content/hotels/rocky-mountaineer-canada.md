@@ -44,7 +44,6 @@ prosAndCons:
     - "Wildlife sightings are not guaranteed and can be limited at speed"
 bookingUrl: https://www.rockymountaineer.com/
 rating: 9.4
-reviewCount: 4287
 seasonalInfo:
   bestTime: May and September for smaller crowds; June to August for warmest weather
   peakSeason: July and August

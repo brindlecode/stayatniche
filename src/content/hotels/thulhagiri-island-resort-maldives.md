@@ -18,7 +18,6 @@ bestFor:
   - "Snorkellers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Thulhagiri%20Island%20Resort%20and%20Spa%2C%20North%20Mal%C3%A9%20Atoll&adults=2"
 rating: 8.2
-reviewCount: 0
 coordinates:
   lat: 4.3101876
   lng: 73.4884033

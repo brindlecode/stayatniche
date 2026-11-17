@@ -29,7 +29,6 @@ bestFor:
   - "Unmissable travellers"
 bookingUrl: https://www.booking.com/hotel/no/sorrisniva-igloo-hotel.html
 rating: 9.0
-reviewCount: 847
 coordinates:
   lat: 69.865147
   lng: 23.317615

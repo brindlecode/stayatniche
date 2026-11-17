@@ -42,7 +42,6 @@ prosAndCons:
     - "Rustic cabin accommodation, not a luxury resort"
 bookingUrl: https://www.expedia.com/Homer-Hotels.d6291.Travel-Guide-Hotels
 rating: 9.1
-reviewCount: 312
 seasonalInfo:
   bestTime: "June to September"
   peakSeason: "July to August"

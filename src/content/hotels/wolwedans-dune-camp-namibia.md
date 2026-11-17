@@ -18,7 +18,6 @@ bestFor:
   - "Desert walkers"
 bookingUrl: "https://www.wolwedans.com/"
 rating: 8.7
-reviewCount: 0
 coordinates:
   lat: -25.1401969
   lng: 15.9869737

@@ -21,7 +21,6 @@ bestFor:
   - "Families"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Cuevas%20La%20Granja%2C%20Benal%C3%BAa&adults=2"
 rating: 8.7
-reviewCount: 0
 coordinates:
   lat: 37.3587334
   lng: -3.1673463

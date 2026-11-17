@@ -22,7 +22,6 @@ bestFor:
   - "Glamping fans"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Glenarm%20Castle%20Ocean%20View%20Pods%2C%20Glenarm&adults=2"
 rating: 8
-reviewCount: 0
 coordinates:
   lat: 54.9704989
   lng: -5.9623643

@@ -22,7 +22,6 @@ bestFor:
   - "History lovers"
 bookingUrl: "https://www.svenskaturistforeningen.se/boende/stf-berguddens-fyrvaktarbostader/"
 rating: 8.4
-reviewCount: 0
 checkInOut:
   checkIn: "13:00"
   checkOut: "11:00"

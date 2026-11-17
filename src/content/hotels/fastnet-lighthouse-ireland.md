@@ -43,7 +43,6 @@ prosAndCons:
     - "West Cork weather is highly variable, waterproofs essential"
 bookingUrl: https://www.booking.com/
 rating: 9.1
-reviewCount: 298
 seasonalInfo:
   bestTime: May to September for best sea conditions and landing opportunities
   peakSeason: Fastnet Race years (August, odd years) and summer (July–August)

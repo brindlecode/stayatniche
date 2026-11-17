@@ -21,7 +21,6 @@ bestFor:
   - "Water lovers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Schwimmendes%20Haus%2C%20Partwitzer%20See&adults=2"
 rating: 8.2
-reviewCount: 0
 coordinates:
   lat: 51.5277833
   lng: 14.1646662

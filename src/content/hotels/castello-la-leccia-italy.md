@@ -22,7 +22,6 @@ bestFor:
   - "Wine lovers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Castello%20la%20Leccia%2C%20Castellina%20in%20Chianti&adults=2"
 rating: 8.4
-reviewCount: 0
 coordinates:
   lat: 43.4396042
   lng: 11.2797149

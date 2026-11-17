@@ -1,12 +1,12 @@
 ---
 import StayVisual from './StayVisual.astro';
 import { hotelDealUrl, AFFILIATE_REL, isExpediaSearch, trackAttrs } from '../lib/affiliate';
-import { startPrice } from '../lib/site';
+import { startPrice, placeLabel } from '../lib/site';
 import { getLocale, i18n } from '../i18n';
 
 interface Props {
   name: string; destination: string; country: string; description: string;
-  priceRange: string; priceIndicator?: number; rating: number; reviewCount?: number;
+  priceRange: string; priceIndicator?: number; rating: number;
   highlights: string[]; bookingUrl: string; slug: string; category: string;
   featured?: boolean; coverImage?: string; class?: string;
 }
@@ -32,10 +32,10 @@ const isSearch = !!bookUrl && isExpediaSearch(bookUrl);
         <a href={L.path('hotels', slug)} class="after:absolute after:inset-0 after:z-10 after:content-['']">{name}</a>
       </h3>
       {rating != null && (
-        <span class="flex-shrink-0 rounded-md bg-forest-800 px-1.5 py-0.5 font-body text-[12px] font-semibold tabular-nums text-white" title={t.card.scoreTitle}>{rating.toFixed(1)}</span>
+        <span class="flex-shrink-0 rounded-md bg-forest-800 px-1.5 py-0.5 font-body text-[12px] font-semibold tabular-nums text-white" title={t.card.scoreTitle} aria-label={`${t.hotel.editorScore}: ${rating.toFixed(1)} / 10`}>{rating.toFixed(1)}</span>
       )}
     </div>
-    <p class="mt-0.5 truncate font-body text-sm text-warm-500">{destination}, {place}</p>
+    <p class="mt-0.5 truncate font-body text-sm text-warm-500">{placeLabel(destination, country, place)}</p>
     {highlights?.[0] && <p class="line-clamp-1 font-body text-sm text-warm-500">{highlights[0]}</p>}
     <div class="mt-2 flex items-center justify-between gap-2">
       <p class="font-body text-sm text-warm-700">{from != null ? <>{t.card.from}{' '}<span class="font-semibold text-warm-950">{L.usd(from)}</span> {t.card.perNight}</> : t.card.seeRates}</p>

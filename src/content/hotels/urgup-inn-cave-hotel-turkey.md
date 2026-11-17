@@ -25,7 +25,6 @@ bestFor:
   - "Couples who want a town base"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Urgup%20Inn%20Cave%20Hotel%2C%20%C3%9Crg%C3%BCp&adults=2"
 rating: 7.6
-reviewCount: 0
 coordinates:
   lat: 38.6329054
   lng: 34.9114102

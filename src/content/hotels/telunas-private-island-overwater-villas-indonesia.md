@@ -20,7 +20,6 @@ bestFor:
   - "Couples"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Telunas%20Private%20Island%20Overwater%20Villas%2C%20Riau%20Islands&adults=2"
 rating: 8.6
-reviewCount: 0
 coordinates:
   lat: 0.7847646
   lng: 103.7706986

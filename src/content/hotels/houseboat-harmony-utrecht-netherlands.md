@@ -22,7 +22,6 @@ bestFor:
   - "Peace seekers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Houseboat%20Harmony%2C%20Utrecht&adults=2"
 rating: 8.1
-reviewCount: 0
 coordinates:
   lat: 52.114633
   lng: 5.0969414

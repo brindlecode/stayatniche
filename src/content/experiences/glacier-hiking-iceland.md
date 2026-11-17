@@ -30,7 +30,6 @@ notIncluded:
   - Transport to the glacier from Reykjavik or nearby towns
   - Meals and refreshments
 rating: 9.5
-reviewCount: 2876
 featured: false
 tags:
   - glacier-hiking

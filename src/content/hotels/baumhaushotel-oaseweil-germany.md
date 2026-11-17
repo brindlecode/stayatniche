@@ -26,7 +26,6 @@ bestFor:
   - "Walkers"
 bookingUrl: "https://oaseweil.de/"
 rating: 8.5
-reviewCount: 0
 checkInOut:
   checkIn: "15:00"
   checkOut: "11:00"

@@ -18,7 +18,6 @@ bestFor:
   - "History enthusiasts"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Astley%20Castle%2C%20Astley%2C%20Nuneaton%2C%20England&adults=2"
 rating: 9.2
-reviewCount: 0
 coordinates:
   lat: 52.502349
   lng: -1.542348

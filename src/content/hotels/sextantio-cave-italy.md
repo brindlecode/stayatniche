@@ -55,7 +55,6 @@ prosAndCons:
     - "Limited mobile signal within the deeper cave areas"
 bookingUrl: "https://www.booking.com/hotel/it/sextantio-le-grotte-della-civita.html"
 rating: 9.4
-reviewCount: 892
 checkInOut:
   checkIn: "15:00"
   checkOut: "12:00"

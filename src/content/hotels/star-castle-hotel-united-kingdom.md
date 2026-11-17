@@ -23,7 +23,6 @@ bestFor:
   - "History lovers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Star%20Castle%20Hotel%2C%20St%20Mary's&adults=2"
 rating: 8.8
-reviewCount: 0
 coordinates:
   lat: 49.9154026
   lng: -6.3210235

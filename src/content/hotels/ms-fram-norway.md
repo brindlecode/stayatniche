@@ -29,7 +29,6 @@ bestFor:
   - "Adventurers"
 bookingUrl: https://www.booking.com/
 rating: 9.2
-reviewCount: 1876
 coordinates:
   lat: 78.2200
   lng: 15.6500

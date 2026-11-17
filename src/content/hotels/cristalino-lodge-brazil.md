@@ -30,7 +30,6 @@ bestFor:
   - Amazon explorers
 bookingUrl: https://www.booking.com/hotel/br/cristalino-lodge.html
 rating: 9.2
-reviewCount: 398
 coordinates:
   lat: -9.597495
   lng: -55.932102

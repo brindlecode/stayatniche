@@ -23,7 +23,6 @@ bestFor:
   - "Food lovers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Borgo%20Castello%20Panicaglia%2C%20Panicaglia&adults=2"
 rating: 8.5
-reviewCount: 0
 coordinates:
   lat: 43.1630784
   lng: 12.7496625

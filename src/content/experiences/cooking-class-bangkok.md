@@ -30,7 +30,6 @@ notIncluded:
   - Personal travel insurance
   - Gratuities for instructors
 rating: 9.4
-reviewCount: 3104
 featured: false
 tags:
   - cooking-class

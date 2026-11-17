@@ -23,7 +23,6 @@ bestFor:
   - "Families"
 bookingUrl: "https://www.northernrail.net/"
 rating: 8.5
-reviewCount: 0
 coordinates:
   lat: 47.0574393
   lng: -91.6354023

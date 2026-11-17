@@ -23,7 +23,6 @@ bestFor:
   - "Quiet getaways"
 bookingUrl: "https://www.belletout.co.uk/"
 rating: 9.2
-reviewCount: 0
 coordinates:
   lat: 50.7384191
   lng: 0.2146402

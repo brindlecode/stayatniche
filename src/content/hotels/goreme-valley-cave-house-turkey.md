@@ -20,7 +20,6 @@ bestFor:
   - "Couples"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=G%C3%B6reme%20Valley%20Cave%20House%2C%20G%C3%B6reme&adults=2"
 rating: 8
-reviewCount: 0
 coordinates:
   lat: 38.6457618
   lng: 34.8283703

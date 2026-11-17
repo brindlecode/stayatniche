@@ -24,7 +24,6 @@ bestFor:
   - "Families"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Desert%20Camp%2C%20Sossusvlei&adults=2"
 rating: 7.9
-reviewCount: 0
 coordinates:
   lat: -24.4866918
   lng: 15.8492648

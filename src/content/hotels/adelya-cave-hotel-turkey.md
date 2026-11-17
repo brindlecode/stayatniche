@@ -20,7 +20,6 @@ bestFor:
   - "Design lovers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Adelya%20Cave%20Hotel%2C%20G%C3%B6reme&adults=2"
 rating: 8
-reviewCount: 0
 coordinates:
   lat: 38.6408208
   lng: 34.8285492

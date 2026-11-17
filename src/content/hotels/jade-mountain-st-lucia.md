@@ -42,7 +42,6 @@ prosAndCons:
     - "Premium pricing relative to comparable Caribbean luxury properties"
 bookingUrl: https://www.booking.com/hotel/lc/jade-mountain-resort.html
 rating: 9.5
-reviewCount: 1089
 seasonalInfo:
   bestTime: "December to April"
   peakSeason: "January to March"

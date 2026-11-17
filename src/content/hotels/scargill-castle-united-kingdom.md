@@ -22,7 +22,6 @@ bestFor:
   - "Anniversaries"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Scargill%20Castle%2C%20Teesdale&adults=2"
 rating: 8.6
-reviewCount: 0
 coordinates:
   lat: 54.4918567
   lng: -1.9189431

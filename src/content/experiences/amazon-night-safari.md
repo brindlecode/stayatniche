@@ -30,7 +30,6 @@ notIncluded:
   - Yellow fever vaccination (recommended before travel to Amazon)
   - Gratuities
 rating: 8.8
-reviewCount: 914
 featured: false
 tags:
   - amazon

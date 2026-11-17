@@ -54,7 +54,6 @@ prosAndCons:
     - "No restaurant on-site, self-catering or drive to town"
 bookingUrl: "https://www.freespiritspheres.com"
 rating: 8.8
-reviewCount: 215
 checkInOut:
   checkIn: "15:00"
   checkOut: "11:00"

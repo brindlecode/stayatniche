@@ -23,7 +23,6 @@ bestFor:
   - "City breaks"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Hotel%20Castello%20Miramare%2C%20Pegli&adults=2"
 rating: 7.7
-reviewCount: 0
 coordinates:
   lat: 44.4243368
   lng: 8.8122433

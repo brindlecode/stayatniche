@@ -42,7 +42,6 @@ prosAndCons:
     - "Booking is required well in advance for winter weekends"
 bookingUrl: https://www.booking.com/hotel/ch/whitepod.html
 rating: 9.0
-reviewCount: 678
 seasonalInfo:
   bestTime: "December to March for skiing; June to September for hiking"
   peakSeason: "January to February"

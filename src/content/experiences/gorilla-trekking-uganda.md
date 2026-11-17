@@ -31,7 +31,6 @@ notIncluded:
   - International or domestic flights
   - Visa fees
 rating: 9.9
-reviewCount: 2148
 featured: true
 tags:
   - gorilla-trekking

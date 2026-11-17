@@ -43,7 +43,6 @@ prosAndCons:
     - "Premium pricing for the Norwegian coast"
 bookingUrl: https://www.booking.com/
 rating: 9.3
-reviewCount: 264
 seasonalInfo:
   bestTime: September to March for storms and aurora; June to August for midnight sun
   peakSeason: Summer (June–August) and the winter storm season (November–February)

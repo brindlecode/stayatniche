@@ -25,7 +25,6 @@ bestFor:
   - "Weddings"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Hotel%20Castello%20di%20Santa%20Vittoria%2C%20Santa%20Vittoria%20d'Alba&adults=2"
 rating: 8.3
-reviewCount: 0
 coordinates:
   lat: 44.6960324
   lng: 7.9308359

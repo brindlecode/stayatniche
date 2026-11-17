@@ -26,7 +26,6 @@ bestFor:
   - "Walkers in the Wye Valley"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=YHA%20St%20Briavels%20Castle%2C%20St%20Briavels%2C%20Gloucestershire&adults=2"
 rating: 8.4
-reviewCount: 0
 checkInOut:
   checkIn: "17:00"
   checkOut: "10:00"

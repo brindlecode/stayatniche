@@ -25,7 +25,6 @@ bestFor:
   - "Walkers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Melek%20Cave%20Hotel%2C%20G%C3%B6reme&adults=2"
 rating: 8
-reviewCount: 0
 coordinates:
   lat: 38.6420254
   lng: 34.8325991

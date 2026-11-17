@@ -22,7 +22,6 @@ bestFor:
   - "Small-hotel fans"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Cappadocia%20Inans%20Cave%20Suites%2C%20Nev%C5%9Fehir&adults=2"
 rating: 8.2
-reviewCount: 0
 coordinates:
   lat: 38.6416618
   lng: 34.7158145

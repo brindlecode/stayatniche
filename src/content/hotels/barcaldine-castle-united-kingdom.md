@@ -22,7 +22,6 @@ bestFor:
   - "Small weddings and private gatherings"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Barcaldine%20Castle%2C%20Benderloch%2C%20Oban%2C%20Scotland&adults=2"
 rating: 9
-reviewCount: 0
 coordinates:
   lat: 56.5105277
   lng: -5.4016193

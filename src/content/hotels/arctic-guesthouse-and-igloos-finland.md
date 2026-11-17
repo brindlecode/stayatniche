@@ -21,7 +21,6 @@ bestFor:
   - "Groups"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Arctic%20Guesthouse%20%26%20Igloos%2C%20Ranua&adults=2"
 rating: 8.3
-reviewCount: 0
 coordinates:
   lat: 65.9276653
   lng: 26.5293547

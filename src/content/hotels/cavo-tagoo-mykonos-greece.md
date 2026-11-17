@@ -29,7 +29,6 @@ bestFor:
   - "Celebrity and VIP travellers"
 bookingUrl: https://www.booking.com/hotel/gr/cavo-tagoo.html
 rating: 9.3
-reviewCount: 1876
 coordinates:
   lat: 37.4500
   lng: 25.3290

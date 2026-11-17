@@ -23,7 +23,6 @@ bestFor:
   - "North Coast 500 travellers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Dornoch%20Castle%20Hotel%2C%20Dornoch&adults=2"
 rating: 8.6
-reviewCount: 0
 coordinates:
   lat: 57.8798707
   lng: -4.0298557

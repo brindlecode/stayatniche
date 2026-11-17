@@ -22,7 +22,6 @@ bestFor:
   - "Special occasions"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Fonab%20Castle%20Hotel%2C%20Pitlochry&adults=2"
 rating: 8.4
-reviewCount: 0
 coordinates:
   lat: 56.6984046
   lng: -3.7419482

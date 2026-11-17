@@ -22,7 +22,6 @@ bestFor:
   - "History lovers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Langley%20Castle%20Hotel%2C%20Hexham&adults=2"
 rating: 9
-reviewCount: 0
 coordinates:
   lat: 54.9566234
   lng: -2.2595855

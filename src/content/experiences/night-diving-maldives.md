@@ -31,7 +31,6 @@ notIncluded:
   - Gratuities for dive guides
   - Accommodation (resort or liveaboard)
 rating: 9.6
-reviewCount: 1543
 featured: false
 tags:
   - night-diving

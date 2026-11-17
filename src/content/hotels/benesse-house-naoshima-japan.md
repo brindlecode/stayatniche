@@ -30,7 +30,6 @@ bestFor:
   - Design travellers
 bookingUrl: https://www.booking.com/hotel/jp/benesse-house.html
 rating: 9.3
-reviewCount: 427
 coordinates:
   lat: 34.4452356
   lng: 133.9907302

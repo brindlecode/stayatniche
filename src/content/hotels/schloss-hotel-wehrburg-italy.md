@@ -20,7 +20,6 @@ bestFor:
   - "History lovers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Schloss%20Hotel%20Wehrburg%2C%20Prissian&adults=2"
 rating: 8.8
-reviewCount: 0
 coordinates:
   lat: 46.5489887
   lng: 11.1857913

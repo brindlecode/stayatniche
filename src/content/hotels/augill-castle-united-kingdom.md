@@ -21,7 +21,6 @@ bestFor:
   - "Groups of friends"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Augill%20Castle%2C%20Kirkby%20Stephen&adults=2"
 rating: 8.7
-reviewCount: 0
 coordinates:
   lat: 54.5194351
   lng: -2.3014254

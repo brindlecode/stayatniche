@@ -29,7 +29,6 @@ bestFor:
   - "Luxury wellness seekers"
 bookingUrl: https://www.booking.com/hotel/th/keemala.html
 rating: 9.5
-reviewCount: 1432
 coordinates:
   lat: 7.9508
   lng: 98.2817

@@ -44,7 +44,6 @@ prosAndCons:
     - Weather can be unpredictable; visits may be cancelled in poor conditions
 bookingUrl: https://www.booking.com/hotel/pe/skylodge-adventure-suites.html
 rating: 9.5
-reviewCount: 892
 seasonalInfo:
   bestTime: May to October (dry season) for the clearest skies and safest climbing conditions
   peakSeason: June to August

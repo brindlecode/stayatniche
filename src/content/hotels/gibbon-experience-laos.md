@@ -29,7 +29,6 @@ bestFor:
   - "Intrepid explorers"
 bookingUrl: https://www.booking.com/
 rating: 9.4
-reviewCount: 2341
 coordinates:
   lat: 20.41163
   lng: 100.69757

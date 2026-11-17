@@ -43,7 +43,6 @@ prosAndCons:
     - "Can be very windy, the Bill is fully exposed to prevailing south-westerlies"
 bookingUrl: https://www.booking.com/
 rating: 8.9
-reviewCount: 356
 seasonalInfo:
   bestTime: April to May and September to October for migration birdwatching; June to August for coastal walking
   peakSeason: UK school summer holidays (July–August)

@@ -44,7 +44,6 @@ prosAndCons:
     - "Malaria precautions are essential in this part of Botswana"
 bookingUrl: https://www.booking.com/
 rating: 9.6
-reviewCount: 487
 seasonalInfo:
   bestTime: June to October when the Delta is flooded and dry season concentrates game
   peakSeason: July to September

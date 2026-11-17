@@ -22,7 +22,6 @@ bestFor:
   - "Edinburgh visitors"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Dalhousie%20Castle%2C%20Bonnyrigg&adults=2"
 rating: 8.8
-reviewCount: 0
 coordinates:
   lat: 55.8606793
   lng: -3.0825636

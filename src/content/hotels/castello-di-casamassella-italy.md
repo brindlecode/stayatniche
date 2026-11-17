@@ -21,7 +21,6 @@ bestFor:
   - "Quiet getaways"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Castello%20di%20Casamassella%2C%20Casamassella&adults=2"
 rating: 8.6
-reviewCount: 0
 coordinates:
   lat: 40.1149646
   lng: 18.4516476

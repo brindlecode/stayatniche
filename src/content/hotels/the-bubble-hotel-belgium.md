@@ -29,7 +29,6 @@ bestFor:
   - "Weekend escapers"
 bookingUrl: https://www.booking.com/
 rating: 8.9
-reviewCount: 412
 coordinates:
   lat: 51.2167
   lng: 4.7167

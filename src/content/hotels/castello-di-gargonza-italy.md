@@ -20,7 +20,6 @@ bestFor:
   - "Wine lovers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Castello%20di%20Gargonza%2C%20Monte%20San%20Savino&adults=2"
 rating: 8.8
-reviewCount: 0
 coordinates:
   lat: 43.3400727
   lng: 11.6724726

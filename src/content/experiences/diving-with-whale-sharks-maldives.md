@@ -31,7 +31,6 @@ notIncluded:
   - Gratuities for dive guides
   - Resort or liveaboard accommodation
 rating: 9.8
-reviewCount: 1876
 featured: false
 tags:
   - whale-sharks

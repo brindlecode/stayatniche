@@ -22,7 +22,6 @@ bestFor:
   - "History lovers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Ethie%20Castle%2C%20Inverkeilor&adults=2"
 rating: 8
-reviewCount: 0
 coordinates:
   lat: 56.6125098
   lng: -2.5109031

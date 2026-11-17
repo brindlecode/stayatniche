@@ -1,0 +1,292 @@
+[
+ {
+  "slug": "ethie-castle-united-kingdom",
+  "name": "Ethie Castle",
+  "official_url": "https://www.ethiecastle.com/",
+  "source_url": "https://www.ethiecastle.com/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Whole 14th-century castle (records from early 13th c.; monks' sandstone tower house) offered for guest stays and exclusive use; official site lists fourteen named suites plus an attached two-bedroom apartment; three-night minimum.",
+  "evidence_quote": "A 14th-century castle in Inverkeilor, by Arbroath, on the East coast of Scotland",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Genuine historic castle with guest suites; official site confirms the whole castle is the accommodation.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Scotland",
+   "city": "Arbroath",
+   "locality": "Inverkeilor"
+  },
+  "page_issues": [
+   "'Available for rent since summer 2024' is not supported: official site says the current owner acquired it in 2013, refurnished it room by room and opened it to guests",
+   "Page does not mention the fourteen-suite count, three-night minimum or attached two-bedroom apartment"
+  ]
+ },
+ {
+  "slug": "fonab-castle-hotel-united-kingdom",
+  "name": "Fonab Castle Hotel",
+  "official_url": "https://www.crerarhotels.com/collection/fonab-castle/",
+  "source_url": "https://www.crerarhotels.com/collection/fonab-castle/stay/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Castle suite (castle tower summit) and Castle Room Superior are in the original castle (built 1892 per Wikipedia); other rooms are in contemporary Lochside and Woodland lodge buildings. 42 bedrooms across four locations; castle/lodge split not given.",
+  "evidence_quote": "super-king bed, traditional décor and luxury amenities located in the original castle.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Castle rooms are inside the original castle; the lodge rooms are not, so scope is specific_rooms.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Scotland",
+   "city": "Pitlochry",
+   "locality": null
+  },
+  "page_issues": []
+ },
+ {
+  "slug": "glenarm-castle-ocean-view-pods-united-kingdom",
+  "name": "Glenarm Castle Ocean View Pods",
+  "official_url": "https://glenarmcastle.com/ocean-view-pods/",
+  "source_url": "https://glenarmcastle.com/stay/",
+  "source_type": "official",
+  "niche_scope": "experience_only",
+  "niche_feature": "Glamping pods on the Glenarm Castle estate with Glenarm Bay views, not rooms in the castle. Estate also lists Keeper's Cottage, Mill House and Barbican Gate (19th-century gatehouse above the castle wall) as separate stays.",
+  "evidence_quote": "From luxury glamping pods with sweeping sea views to charming heritage cottages and a 19th-century gate lodge",
+  "operating": "open",
+  "verdict": "draft",
+  "new_category": null,
+  "closest_category": "castle-hotels",
+  "reason": "Pods are modern glamping units, not castle accommodation; they fit none of the 14 categories (not clear-roof bubbles).",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Northern Ireland",
+   "city": "Glenarm",
+   "locality": null
+  },
+  "page_issues": [
+   "Listing is for glamping pods, not a castle stay; category castle-hotels does not apply",
+   "Pods have 'privacy glass frontage', not transparent-bubble domes"
+  ]
+ },
+ {
+  "slug": "hazlewood-castle-and-spa-united-kingdom",
+  "name": "Hazlewood Castle & Spa",
+  "official_url": "https://www.hazlewood-castle.co.uk/",
+  "source_url": "https://www.hazlewood-castle.co.uk/stay",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "32 rooms in three buildings: 9 rooms and suites in the main castle, 12 rooms in St Margaret's (courtyard) and 11 in St Leonard's. Castle itself is Domesday-era (first mentioned 1086; described as an 11th-century castle).",
+  "evidence_quote": "9 Spacious rooms and suites located in the main Castle with views of the gardens and gallops.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Genuine Domesday-era castle; only 9 of 32 rooms are in the castle, the rest in courtyard buildings.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "England",
+   "city": "Tadcaster",
+   "locality": "Hazlewood"
+  },
+  "page_issues": []
+ },
+ {
+  "slug": "hotel-al-castello-italy",
+  "name": "Hotel Al Castello",
+  "official_url": "https://www.hotelalcastello.it/",
+  "source_url": "https://www.hotelalcastello.it/en/homepage/",
+  "source_type": "official",
+  "niche_scope": "experience_only",
+  "niche_feature": "11-room family-run hotel in a 17th-century town palace inside Bassano's old walls, next to (not in) the medieval castle; the 'castle' is only the hotel's name and its neighbour.",
+  "evidence_quote": "The building is a wonderful historical palace of 17th Century!",
+  "operating": "open",
+  "verdict": "draft",
+  "new_category": null,
+  "closest_category": "castle-hotels",
+  "reason": "Guests sleep in a 17th-century town palace beside the castle, not in a castle; fits none of the 14 categories.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Veneto",
+   "city": "Bassano del Grappa",
+   "locality": null
+  },
+  "page_issues": [
+   "Hotel is a town palazzo near the castle, not a castle stay (the page itself says 'a town building rather than a fortress')"
+  ]
+ },
+ {
+  "slug": "hotel-castello-di-santa-vittoria-italy",
+  "name": "Hotel Castello di Santa Vittoria",
+  "official_url": "https://www.hotelsantavittoria.com/",
+  "source_url": "https://www.hotelsantavittoria.com/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "4-star hotel with 38 rooms (Superior, Junior Suite, one Suite) set within the walls of the Santa Vittoria castle complex (castle documented since 1154 per Italian Wikipedia). Source does not split rooms by building.",
+  "evidence_quote": "All’interno delle mura del Castello, sulla sommità del borgo di Santa Vittoria d’Alba, si erge la torre con una vista mozzafiato",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Hotel sits inside the walls of a genuine medieval castle complex with a tower; per-building room split not stated.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Piedmont",
+   "city": "Santa Vittoria d'Alba",
+   "locality": null
+  },
+  "page_issues": [
+   "Source does not state which rooms are in the castle building itself versus other parts of the complex",
+   "Restaurant is described as inside the castle walls 'a pochi passi' from the hotel, so hotel and restaurant are separate buildings"
+  ]
+ },
+ {
+  "slug": "hotel-castello-miramare-italy",
+  "name": "Hotel Castello Miramare",
+  "official_url": "http://castellomiramare.it",
+  "source_url": "http://castellomiramare.it/c-era-una-volta.html",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Beachfront hotel in a castle that stands on the foundations of a medieval fortlet, rebuilt as a neo-Gothic towered villa (Castello Chiozza, c.1880); official site says guests stay in an old castle. Room count not stated.",
+  "evidence_quote": "L’Hotel Castello Miramare sorge sulle fondamenta di un fortilizio medioevale",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site presents a castle (neo-Gothic c.1880 on medieval fortlet foundations); borderline but guests sleep in the castle building.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Liguria",
+   "city": "Genoa",
+   "locality": "Pegli"
+  },
+  "page_issues": [
+   "Page does not say the present building is a c.1880 neo-Gothic villino on medieval foundations",
+   "Official site gives no room count or star rating (page says 3-star)"
+  ]
+ },
+ {
+  "slug": "il-borgo-del-castello-italy",
+  "name": "Il Borgo del Castello",
+  "official_url": "https://www.ilborgodelcastello.it/",
+  "source_url": "https://www.ilborgodelcastello.it/la-dimora.html",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Guest house with three rooms (Rosa, Giglio, Tulipano) in a 14th-century building built into the lower circuit of walls of Cremolino castle, up to the old sentry walkway.",
+  "evidence_quote": "L'edificio è letteralmente incastonato nella cerchia di mura inferiore del castello, risalente al 1300.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Small guest house physically built into the castle's medieval walls; all three rooms are in that building.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Piedmont",
+   "city": "Cremolino",
+   "locality": null
+  },
+  "page_issues": []
+ },
+ {
+  "slug": "inverlochy-castle-hotel-united-kingdom",
+  "name": "Inverlochy Castle Hotel",
+  "official_url": "https://inverlochycastlehotel.com/",
+  "source_url": "https://inverlochycastlehotel.com/stay/walled-garden-rooms",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Castle rooms and suites are in the 19th-century (1863) Scots Baronial castle; Walled Garden rooms are in a converted stable block five minutes away, and the Gate Lodge is a separate Victorian lodge. Official site also calls it a Victorian country house.",
+  "evidence_quote": "Located in our 19th century castle, these decadent rooms and suites offer the full fairytale experience of staying in a Highland Castle.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Victorian baronial castle (Wikipedia lists it among castles); only the castle rooms are in it, walled-garden rooms and lodge are not.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Scotland",
+   "city": "Fort William",
+   "locality": "Torlundy"
+  },
+  "page_issues": [
+   "Official site gives no count of walled-garden rooms; page's 'eight rooms' is unsupported",
+   "Official site stresses a 19th-century Victorian castle/country house, not a medieval fortress; page says 1863 baronial mansion (consistent)"
+  ]
+ },
+ {
+  "slug": "killeavy-castle-estate-united-kingdom",
+  "name": "Killeavy Castle Estate",
+  "official_url": "https://www.killeavycastle.com/",
+  "source_url": "https://www.killeavycastle.com/accommodation_castle-hotel.html",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Four guestrooms (sleeping up to eight) in the Grade A listed 19th-century castle, bookable only by exclusive hire as a whole; the 45-room hotel is in a converted mill and coach house and the self-catering residences are separate.",
+  "evidence_quote": "The four guestrooms in the castle can only be booked as a whole, not individually.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Genuine castle with 4 guestrooms, exclusive hire only; the hotel's 45 rooms are in a separate converted mill and coach house.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Northern Ireland",
+   "city": "Newry",
+   "locality": "Killeavy"
+  },
+  "page_issues": [
+   "Page says four dog-friendly self-catering residences; official site lists a 3-room Gatelodge, 5-room Woodside Residence and a one-bedroom Woodside Cottage",
+   "Dog-friendly status of residences not confirmed on fetched pages"
+  ]
+ },
+ {
+  "slug": "langley-castle-hotel-united-kingdom",
+  "name": "Langley Castle Hotel",
+  "official_url": "https://www.langleycastle.com/",
+  "source_url": "https://langleycastle.com/about-langley-castle/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Nine rooms in the main 14th-century castle (Grade I listed, walls up to seven feet thick); a further 19 rooms are in Castle View, a short walk away, plus the self-catering Toll Bar Luxury Villa.",
+  "evidence_quote": "nine individually styled rooms within the main Castle - featuring four poster beds, window seats set into ancient stone",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Genuine medieval castle hotel; only nine of the guest rooms are in the castle itself.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "England",
+   "city": "Hexham",
+   "locality": "Langley-on-Tyne"
+  },
+  "page_issues": [
+   "Page says built 1364; the hotel's own site says first built in 1350 (sources differ)",
+   "'Three miles south of Haydon Bridge' is not on the official pages"
+  ]
+ },
+ {
+  "slug": "locanda-al-castello-italy",
+  "name": "Locanda al Castello",
+  "official_url": "https://www.alcastello.net/",
+  "source_url": "https://www.alcastello.net/it/camere",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "27 rooms split between the 'antico maniero' (a crenellated castle-style villa/Jesuit monastery 'Villa Betlemme', mid-19th century) and a modern wellness wing; per-wing count not given.",
+  "evidence_quote": "Lo Charme Hotel dispone di 27 camere, (Junior Suite o Doppie Superior), sia nell’antico maniero sia nella moderna ala wellness panoramica",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Crenellated 19th-century castle-style manor with rooms in manor and a modern wing; borderline age but sold as a castle.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Friuli-Venezia Giulia",
+   "city": "Cividale del Friuli",
+   "locality": null
+  },
+  "page_issues": [
+   "Official site says the manor was built in the mid-19th century as Jesuit Villa Betlemme, not an ancient medieval castle",
+   "Page does not give how many of the 27 rooms are in the manor (source does not either)"
+  ]
+ }
+]

@@ -24,7 +24,6 @@ bestFor:
   - "Weddings"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Locanda%20al%20Castello%2C%20Cividale%20del%20Friuli&adults=2"
 rating: 8
-reviewCount: 0
 coordinates:
   lat: 46.1020345
   lng: 13.4240069

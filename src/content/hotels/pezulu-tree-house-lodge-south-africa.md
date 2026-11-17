@@ -21,7 +21,6 @@ bestFor:
   - "Kruger visitors"
 bookingUrl: "https://pezulu.co.za/welcome/"
 rating: 8.5
-reviewCount: 0
 coordinates:
   lat: -24.5239126
   lng: 31.120598

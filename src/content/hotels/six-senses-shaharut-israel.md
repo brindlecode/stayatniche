@@ -31,7 +31,6 @@ bestFor:
   - Luxury couples retreat
 bookingUrl: https://www.booking.com/hotel/il/six-senses-shaharut.html
 rating: 9.2
-reviewCount: 189
 coordinates:
   lat: 29.9167
   lng: 34.9667

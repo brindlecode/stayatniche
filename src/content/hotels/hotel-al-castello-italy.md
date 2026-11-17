@@ -22,7 +22,6 @@ bestFor:
   - "History lovers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Hotel%20Al%20Castello%2C%20Bassano%20del%20Grappa&adults=2"
 rating: 7.6
-reviewCount: 0
 coordinates:
   lat: 45.7687933
   lng: 11.7335699

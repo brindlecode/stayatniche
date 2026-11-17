@@ -31,7 +31,6 @@ notIncluded:
   - Meals
   - Accommodation in San Pedro de Atacama
 rating: 9.7
-reviewCount: 2987
 featured: false
 tags:
   - stargazing

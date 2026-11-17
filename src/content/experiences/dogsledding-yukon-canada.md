@@ -31,7 +31,6 @@ notIncluded:
   - Meals beyond the wilderness lunch
   - Gratuities for mushers
 rating: 9.6
-reviewCount: 1243
 featured: false
 tags:
   - dog-sledding

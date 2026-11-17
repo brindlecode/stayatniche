@@ -30,7 +30,6 @@ bestFor:
   - Eco-travel couples
 bookingUrl: https://www.booking.com/hotel/ec/mashpi-lodge.html
 rating: 9.4
-reviewCount: 512
 coordinates:
   lat: 0.1667
   lng: -78.8667

@@ -30,7 +30,6 @@ notIncluded:
   - Personal travel insurance
   - Accommodation in the Sossusvlei area
 rating: 9.3
-reviewCount: 1567
 featured: false
 tags:
   - sandboarding

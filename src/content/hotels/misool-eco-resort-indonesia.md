@@ -31,7 +31,6 @@ bestFor:
   - Conservation-minded travellers
 bookingUrl: https://www.booking.com/hotel/id/misool-eco-resort.html
 rating: 9.5
-reviewCount: 312
 coordinates:
   lat: -1.8667
   lng: 130.0833

@@ -26,7 +26,6 @@ bestFor:
   - "Desert adventurers"
 bookingUrl: "https://desertluxurycamp.com/"
 rating: 8.8
-reviewCount: 0
 coordinates:
   lat: 30.9936795
   lng: -3.9220951

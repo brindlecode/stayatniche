@@ -29,7 +29,6 @@ bestFor:
   - "Design and architecture enthusiasts"
 bookingUrl: https://www.booking.com/hotel/se/arctic-bath.html
 rating: 9.4
-reviewCount: 892
 coordinates:
   lat: 66.088693
   lng: 20.938161

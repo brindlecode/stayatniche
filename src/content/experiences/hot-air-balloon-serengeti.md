@@ -29,7 +29,6 @@ notIncluded:
   - Personal travel insurance
   - Gratuities for pilot and ground crew
 rating: 9.6
-reviewCount: 1203
 featured: false
 tags:
   - hot-air-balloon

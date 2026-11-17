@@ -44,7 +44,6 @@ prosAndCons:
     - Bush fire smoke can occasionally obscure night skies in summer
 bookingUrl: https://www.booking.com/hotel/au/bubble-tent-australia.html
 rating: 8.9
-reviewCount: 678
 seasonalInfo:
   bestTime: April to September for cooler nights and clearest skies
   peakSeason: October to March (summer) and school holidays

@@ -21,7 +21,6 @@ bestFor:
   - "Nature lovers"
 bookingUrl: "https://puluongtreehouse.com/"
 rating: 8.6
-reviewCount: 0
 coordinates:
   lat: 20.4476278
   lng: 105.157116

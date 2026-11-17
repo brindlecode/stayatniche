@@ -31,7 +31,6 @@ bestFor:
   - Extreme remoteness
 bookingUrl: https://www.booking.com/hotel/no/manshausen.html
 rating: 9.0
-reviewCount: 356
 coordinates:
   lat: 67.835247
   lng: 14.773851

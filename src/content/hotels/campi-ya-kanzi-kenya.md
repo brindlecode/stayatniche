@@ -31,7 +31,6 @@ bestFor:
   - Off-the-beaten-track Africa
 bookingUrl: https://www.booking.com/hotel/ke/campi-ya-kanzi.html
 rating: 9.2
-reviewCount: 223
 coordinates:
   lat: -2.6333
   lng: 37.4333

@@ -22,7 +22,6 @@ bestFor:
   - "Couples"
 bookingUrl: "https://www.saugertieslighthouse.com/"
 rating: 9.2
-reviewCount: 0
 coordinates:
   lat: 42.0720823
   lng: -73.9296787

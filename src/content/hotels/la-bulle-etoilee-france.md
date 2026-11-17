@@ -22,7 +22,6 @@ bestFor:
   - "Romantic breaks"
 bookingUrl: "https://www.labulleetoilee.fr/"
 rating: 8.6
-reviewCount: 0
 coordinates:
   lat: 49.0024437
   lng: -0.5715613

@@ -22,7 +22,6 @@ bestFor:
   - "Quiet getaways"
 bookingUrl: "https://www.fyrgarden.com/"
 rating: 8.8
-reviewCount: 0
 coordinates:
   lat: 56.7360039
   lng: 11.650553

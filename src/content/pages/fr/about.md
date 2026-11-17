@@ -15,9 +15,13 @@ Nous cherchons les lieux qui poussent l’idée même de « séjour » aussi
 
 **Découverte.** Nous épluchons la presse voyage, les données cartographiques ouvertes, les sources touristiques officielles et les sites des établissements eux-mêmes pour dénicher les adresses que la plupart des plateformes de réservation laissent dans l’ombre.
 
-**Vérification.** Chaque établissement est contrôlé à partir de son site officiel et des données cartographiques ouvertes : il doit exister, accueillir des clients et correspondre réellement à sa catégorie. Si nous ne pouvons pas le vérifier, il n’entre pas dans notre sélection.
+**Vérification.** Chaque établissement est contrôlé à partir de son site officiel ou d’une autre source citable. Pour chaque adresse, nous notons ce qui la rend singulière, si cela concerne tout l’établissement ou seulement certaines chambres, la source et la date du contrôle. Quand nous n’avons pas pu le confirmer, la page le dit.
 
 **Sélection.** Seuls les lieux qui se distinguent par leur cadre, leur architecture ou l’expérience qu’ils proposent sont retenus. Nos notes reflètent le jugement de la rédaction, pas des avis clients.
+
+## Comment la note de la rédaction est établie
+
+La note sur 10 est notre propre évaluation éditoriale, pas une moyenne d’avis clients, et nous n’affichons aucun nombre d’avis. La rédaction pèse trois critères : à quel point le cadre est la raison du voyage, ce que la source officielle dit des chambres, de la table et de l’accès, et le côté pratique du séjour (saison, trajet). Le contrôle du caractère singulier fixe un plafond : jusqu’à 10 si tout l’établissement est concerné, 8,8 si seules certaines chambres le sont, 8,5 si nous n’avons pas pu confirmer l’élément, 7,5 s’il ne s’agit pas de l’endroit où l’on dort.
 
 ## Un mot sur la transparence
 

@@ -44,7 +44,6 @@ prosAndCons:
     - "Migration timing is influenced by rainfall and varies year to year"
 bookingUrl: https://www.booking.com/
 rating: 9.2
-reviewCount: 763
 seasonalInfo:
   bestTime: July to October for Great Migration; January to February for calving season in the south
   peakSeason: August to September (peak migration crossing season)

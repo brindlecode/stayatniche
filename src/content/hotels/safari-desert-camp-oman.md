@@ -22,7 +22,6 @@ bestFor:
   - "Desert lovers"
 bookingUrl: "https://www.safaridesert.com/"
 rating: 8.2
-reviewCount: 0
 coordinates:
   lat: 22.2162381
   lng: 58.8295303

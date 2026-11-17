@@ -44,7 +44,6 @@ prosAndCons:
     - "Limited departure schedule, the train runs once weekly each direction"
 bookingUrl: https://www.journeybeyondrail.com.au/
 rating: 9.2
-reviewCount: 3421
 seasonalInfo:
   bestTime: May to August (Australian winter) for comfortable temperatures in the Red Centre
   peakSeason: Winter (June–August) and school holidays

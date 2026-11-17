@@ -24,7 +24,6 @@ bestFor:
   - "Groups"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Killeavy%20Castle%20Estate%2C%20Newry&adults=2"
 rating: 8.4
-reviewCount: 0
 coordinates:
   lat: 54.1226975
   lng: -6.4091926

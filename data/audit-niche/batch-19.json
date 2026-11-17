@@ -1,0 +1,84 @@
+[
+ {
+  "slug": "manta-resort-zanzibar",
+  "name": "The Manta Resort, Underwater Room",
+  "official_url": "https://themantaresort.com/",
+  "source_url": "https://themantaresort.com/underwater-room/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "One Underwater Room: a three-level floating suite anchored about 250 m off Pemba shore, with the double bedroom four metres below the sea surface. The rest of the resort (villas, garden rooms) is ordinary accommodation.",
+  "evidence_quote": "Suspended four meters below the surface of the Indian Ocean, the bedroom is the heart of this unique escape.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official page confirms a bedroom 4 m below the sea surface in a floating structure; it is a single room within a conventional resort.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Zanzibar",
+   "city": null,
+   "locality": "Ras Kigomasha, Pemba Island"
+  },
+  "page_issues": [
+   "Official page does not mention a live-aboard host or private chef; unsupported",
+   "Room is anchored about 250 m off shore, not 'alone in the open ocean'",
+   "Superlatives ('most extraordinary sleeping experience anywhere', 'voted among world's most extraordinary') and 9.6 rating/234 reviews unsupported",
+   "Distances (Chake Chake 25 km, 80 km north of Zanzibar) unverified; resort is at Pemba's northern tip, about 1.5 h by road from the airport",
+   "Resort says a new room replaced the original (secondary source: May 2026); hatch/ladder/circular-chamber details may describe the old room",
+   "Resort has a three-night minimum stay and all-inclusive meals; page does not mention this"
+  ]
+ },
+ {
+  "slug": "pullman-maldives-maamutaa-resort-maldives",
+  "name": "Pullman Maldives Maamutaa Resort",
+  "official_url": "https://www.pullmanmaldivesmaamutaa.com/",
+  "source_url": "https://www.pullmanmaldivesmaamutaa.com/villas-suites/underwater-bedroom-maldives/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Only the Aqua Villas (two, per the resort's claim of 2 underwater bedrooms) have a submerged master bedroom beneath the lagoon plus an overwater bedroom; the other villas of the 122 are beach or overwater villas.",
+  "evidence_quote": "This luxury two-level Aqua Villa has a submerged master bedroom combined with an overwater bedroom",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official Aqua Villa page confirms a submerged bedroom in the lagoon; only 2 villas have it, the rest are ordinary or overwater villas.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Gaafu Alifu Atoll",
+   "city": null,
+   "locality": "Maamutaa Island"
+  },
+  "page_issues": [
+   "Page does not say there are only two Aqua Villas (resort says first in Maldives with 2 underwater bedrooms)"
+  ]
+ },
+ {
+  "slug": "utter-inn-sweden",
+  "name": "Utter Inn",
+  "official_url": null,
+  "source_url": "https://visitvastmanland.com/hotell-utter-inn",
+  "source_type": "other",
+  "niche_scope": "entire_property",
+  "niche_feature": "Single-room floating hotel on Lake Mälaren by artist Mikael Genberg: bedroom three metres below the surface with panoramic windows. Tourist board says it cannot currently be booked; a 2026 guide says it did not operate and is for sale.",
+  "evidence_quote": "När natten faller på är det dags att klättra ner till sovrummet med panoramafönster i alla fyra väderstreck – tre meter under vattenytan.",
+  "operating": "closed",
+  "verdict": "draft",
+  "new_category": null,
+  "closest_category": "underwater-rooms",
+  "reason": "Concept is a genuine underwater room, but Visit Västmanland says it cannot be booked now and a 2026 guide says it did not operate and is for sale.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Västmanland",
+   "city": "Västerås",
+   "locality": "Lake Mälaren"
+  },
+  "page_issues": [
+   "Not bookable: Visit Västmanland says 'Just nu går det inte att boka hotellet'; secondary 2026 guide says it did not operate and is for sale",
+   "No official website found; page implies current availability",
+   "Tourist board says there is no electricity (gas heating, power only for lamps) and a dry toilet; page's kitchenette/compact bathroom wording is unsupported",
+   "Kayak access and life jackets unsupported (source mentions a rubber boat); '3 km by boat' to city centre unverified",
+   "Surface area described as a 25 sqm floating pontoon plus a room above water; 'sitting area' and 'maximum two guests' not confirmed by this source",
+   "'World's first underwater hotel room' and 'one of the most discussed hotel concepts' are unsupported superlatives"
+  ]
+ }
+]

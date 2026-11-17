@@ -29,7 +29,6 @@ notIncluded:
   - Personal travel insurance
   - Northern lights viewing, weather and solar activity dependent
 rating: 9.3
-reviewCount: 1076
 featured: false
 tags:
   - dog-sledding

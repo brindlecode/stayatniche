@@ -23,7 +23,6 @@ bestFor:
   - "Island getaways"
 bookingUrl: "https://www.kylmapihlaja.com/majakkahotelli.php"
 rating: 8.6
-reviewCount: 0
 coordinates:
   lat: 61.1446672
   lng: 21.3028683

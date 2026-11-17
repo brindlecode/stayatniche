@@ -31,7 +31,6 @@ notIncluded:
   - Accommodation and meals beyond lunch
   - Visa fees for entry to Zambia or Zimbabwe
 rating: 9.6
-reviewCount: 3104
 featured: false
 tags:
   - white-water-rafting

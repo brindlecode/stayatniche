@@ -31,7 +31,6 @@ bestFor:
   - Honeymoon
 bookingUrl: https://www.booking.com/hotel/fi/niku-hide.html
 rating: 9.1
-reviewCount: 312
 coordinates:
   lat: 68.4167
   lng: 27.4167

@@ -22,7 +22,6 @@ bestFor:
   - "Stargazers"
 bookingUrl: "https://www.somnenbulle.fr/"
 rating: 8.5
-reviewCount: 0
 coordinates:
   lat: 44.2093068
   lng: 1.9919372

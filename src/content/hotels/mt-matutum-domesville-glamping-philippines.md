@@ -16,7 +16,6 @@ bestFor:
   - "Couples"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Mt.%20Matutum%20DomesVille%20Glamping%2C%20Tupi&adults=2"
 rating: 7.6
-reviewCount: 0
 coordinates:
   lat: 6.3168836
   lng: 125.0283507

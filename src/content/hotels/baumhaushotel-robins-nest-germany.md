@@ -23,7 +23,6 @@ bestFor:
   - "Families"
 bookingUrl: "https://www.robins-nest.de/"
 rating: 8.8
-reviewCount: 0
 coordinates:
   lat: 51.3947516
   lng: 9.8344589

@@ -21,7 +21,6 @@ bestFor:
   - "History lovers"
 bookingUrl: "https://reflectionsholidays.com.au/unique-stays/norah-head-lighthouse/accommodation/?from=2024-06-19&to=2024-06-21&adults=2"
 rating: 8.7
-reviewCount: 0
 coordinates:
   lat: -33.2817745
   lng: 151.5754076

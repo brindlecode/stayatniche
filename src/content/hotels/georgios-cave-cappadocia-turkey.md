@@ -23,7 +23,6 @@ bestFor:
   - "Small groups"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Georgios%20Cave%20Cappadocia%2C%20%C3%9Crg%C3%BCp&adults=2"
 rating: 8.1
-reviewCount: 0
 coordinates:
   lat: 38.6288849
   lng: 34.9044065

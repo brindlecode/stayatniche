@@ -24,7 +24,6 @@ bestFor:
   - "Food lovers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Taru%20Cave%20Suites%2C%20%C3%9Crg%C3%BCp&adults=2"
 rating: 8.1
-reviewCount: 0
 coordinates:
   lat: 38.6342303
   lng: 34.9043692

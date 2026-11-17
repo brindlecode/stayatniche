@@ -24,7 +24,6 @@ bestFor:
   - "Families"
 bookingUrl: "https://saharadunescamp.com/"
 rating: 8.7
-reviewCount: 0
 coordinates:
   lat: 31.2465113
   lng: -3.9653073

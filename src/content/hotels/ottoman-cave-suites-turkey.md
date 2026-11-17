@@ -21,7 +21,6 @@ bestFor:
   - "First-time Cappadocia visitors"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Ottoman%20Cave%20Suites%2C%20G%C3%B6reme&adults=2"
 rating: 8.2
-reviewCount: 0
 coordinates:
   lat: 38.6452456
   lng: 34.8290266

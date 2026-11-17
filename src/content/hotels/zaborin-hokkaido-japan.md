@@ -31,7 +31,6 @@ bestFor:
   - Luxury ryokan experience
 bookingUrl: https://www.booking.com/hotel/jp/zaborin.html
 rating: 9.6
-reviewCount: 284
 coordinates:
   lat: 42.8483
   lng: 140.6739

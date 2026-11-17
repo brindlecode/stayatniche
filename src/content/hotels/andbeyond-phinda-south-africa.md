@@ -44,7 +44,6 @@ prosAndCons:
     - "Premium pricing for the highest-specification camps"
 bookingUrl: https://www.booking.com/
 rating: 9.5
-reviewCount: 874
 seasonalInfo:
   bestTime: May to September for best game viewing in dry season; November to February for birding
   peakSeason: South African school holidays and July–August dry season

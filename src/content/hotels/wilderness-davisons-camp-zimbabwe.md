@@ -44,7 +44,6 @@ prosAndCons:
     - "Fly-in charter from Victoria Falls is an additional cost"
 bookingUrl: https://www.booking.com/
 rating: 9.3
-reviewCount: 398
 seasonalInfo:
   bestTime: September to October, dry season peaks, maximum game concentration at waterholes
   peakSeason: July to October

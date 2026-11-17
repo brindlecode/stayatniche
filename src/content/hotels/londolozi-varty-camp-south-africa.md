@@ -45,7 +45,6 @@ prosAndCons:
     - "Premium pricing reflecting the property's reputation and demand"
 bookingUrl: https://www.booking.com/
 rating: 9.7
-reviewCount: 1243
 seasonalInfo:
   bestTime: May to September for dry season visibility; year-round for leopard sightings
   peakSeason: June to August and South African school holidays

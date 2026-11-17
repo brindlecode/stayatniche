@@ -29,7 +29,6 @@ notIncluded:
   - Personal travel insurance
   - Professional photography package
 rating: 9.2
-reviewCount: 847
 featured: false
 tags:
   - northern-lights

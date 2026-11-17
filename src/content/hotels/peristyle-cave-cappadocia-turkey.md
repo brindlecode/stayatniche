@@ -21,7 +21,6 @@ bestFor:
   - "Balloon watchers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Peristyle%20Cave%20Cappadocia%2C%20U%C3%A7hisar&adults=2"
 rating: 8.4
-reviewCount: 0
 coordinates:
   lat: 38.6285421
   lng: 34.8058174

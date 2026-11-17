@@ -55,7 +55,6 @@ prosAndCons:
     - "Not suitable for light packers, mosquito repellent essential"
 bookingUrl: "https://www.booking.com/searchresults.html?ss=Chole+Mjini+Lodge+Tanzania"
 rating: 9.0
-reviewCount: 178
 checkInOut:
   checkIn: "14:00"
   checkOut: "10:00"

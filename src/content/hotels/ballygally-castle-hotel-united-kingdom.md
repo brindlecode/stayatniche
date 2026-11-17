@@ -26,7 +26,6 @@ bestFor:
   - "Families"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Ballygally%20Castle%20Hotel%2C%20Ballygally%2C%20Northern%20Ireland&adults=2"
 rating: 8.6
-reviewCount: 0
 checkInOut:
   checkIn: "16:00"
   checkOut: "11:00"

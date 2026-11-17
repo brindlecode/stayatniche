@@ -29,7 +29,6 @@ notIncluded:
   - Gratuities for pilot, sommelier, and estate staff
   - Personal travel insurance
 rating: 9.4
-reviewCount: 387
 featured: false
 tags:
   - wine-tasting

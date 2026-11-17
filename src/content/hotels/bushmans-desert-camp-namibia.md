@@ -26,7 +26,6 @@ bestFor:
   - "Groups of friends and family"
 bookingUrl: "https://www.bushmansdesertcamp-sossus.com/"
 rating: 8.3
-reviewCount: 0
 coordinates:
   lat: -23.6253073
   lng: 15.8655432

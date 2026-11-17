@@ -55,7 +55,6 @@ prosAndCons:
     - "Provisions are basic, meals are not cooked on the structure"
 bookingUrl: "https://www.booking.com/searchresults.html?ss=Utter+Inn+Vasteras+Sweden"
 rating: 8.9
-reviewCount: 156
 checkInOut:
   checkIn: "15:00"
   checkOut: "11:00"

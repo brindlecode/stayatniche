@@ -42,7 +42,6 @@ prosAndCons:
     - "Smaller resort, fewer dining options than larger island properties"
 bookingUrl: https://www.booking.com/hotel/kh/song-saa-private-island.html
 rating: 9.2
-reviewCount: 847
 seasonalInfo:
   bestTime: "November to April"
   peakSeason: "December to February"

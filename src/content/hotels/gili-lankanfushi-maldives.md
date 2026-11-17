@@ -29,7 +29,6 @@ bestFor:
   - "Families (larger villas)"
 bookingUrl: https://www.booking.com/hotel/mv/gili-lankanfushi-maldives.html
 rating: 9.5
-reviewCount: 2341
 coordinates:
   lat: 4.2833
   lng: 73.5333

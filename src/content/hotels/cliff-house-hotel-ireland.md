@@ -24,7 +24,6 @@ bestFor:
   - "Food lovers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Cliff%20House%20Hotel%2C%20Ardmore&adults=2"
 rating: 9
-reviewCount: 0
 coordinates:
   lat: 51.94852
   lng: -7.71513

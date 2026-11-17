@@ -1,0 +1,311 @@
+[
+ {
+  "slug": "attrap-reves-france",
+  "name": "Attrap'Rêves",
+  "official_url": "https://www.attrap-reves.com/en/",
+  "source_url": "https://www.attrap-reves.com/en/transparent-bubble-bl/?c1-sleep-in-a-bubble-zen-bubble",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Transparent bubbles (Zen, Jungle, Love Nature, Chic & Design, 1001 and others) at Allauch; the site also sells non-bubble units (Lov'nid, Aqua'Room, Tahitian and squirrel huts) and a separate cabin site, A Fleur de Bois.",
+  "evidence_quote": "Thanks to its total transparency, you will be able to watch the shooting stars from the comfort of your bed.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site confirms transparent bubble accommodation; other unit types also offered.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Provence-Alpes-Côte d'Azur",
+   "city": "Allauch",
+   "locality": null
+  },
+  "page_issues": [
+   "Page says 20 minutes from Marseille Vieux-Port and Marseille 20 km away; official site says 10 km from Marseille St Charles station",
+   "Page implies every unit is a dome; official site also lists Lov'nid, Aqua'Room, huts and a separate cabin site",
+   "Moroccan/baroque themes, spa treatments, outdoor bathtubs and 'outstanding value' claims not found on official pages",
+   "bookingUrl points to Booking.com, not the official booking page"
+  ]
+ },
+ {
+  "slug": "bubbletent-australia",
+  "name": "BubbleTent Australia",
+  "official_url": "https://bubbletentaustralia.com/",
+  "source_url": "https://www.visitnsw.com/destinations/blue-mountains/lithgow-area/lithgow/accommodation/bubbletent-australia",
+  "source_type": "other",
+  "niche_scope": "entire_property",
+  "niche_feature": "Five 'Bubbletents' (Cancer, Leo, Virgo, Ophiuchus, Pisces) on one off-grid property above Capertee Valley; VisitNSW describes a clear bubble with a rotating bed. Official site does not itself say transparent.",
+  "evidence_quote": "Sleep under the stars in a clear bubble with a rotating bed",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Bubble tents confirmed by tourism board and official site, though the property is in Capertee Valley, not Hunter Valley.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "New South Wales",
+   "city": "Lithgow",
+   "locality": "Capertee Valley"
+  },
+  "page_issues": [
+   "Wrong location: property is in Capertee Valley near Lithgow/Mudgee (Capertee NSW 2846), not the Hunter Valley",
+   "'150-plus cellar doors on the doorstep' is wrong for this location; official site says halfway between Mudgee and Lithgow",
+   "Official site says 2.5 hours from Sydney, not two",
+   "Official site lists outdoor shower and wood-fired bath as standard in every tent, not 'selected tents'; complimentary wine and Bluetooth speaker not found",
+   "Adults-only and two-night minimum not mentioned",
+   "bookingUrl points to Booking.com"
+  ]
+ },
+ {
+  "slug": "bulles-dolive-france",
+  "name": "Bulles d'Olive",
+  "official_url": "https://bullesdolive.fr/",
+  "source_url": "https://bullesdolive.fr/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Two transparent bubbles (Olea, Provence) plus a wooden cabin (Zome Céleste) at a guesthouse in Nyons; only the two bubbles are the niche.",
+  "evidence_quote": "Vivez l’expérience de dormir dans une bulle transparente et laissez-vous porter par la magie du lieu.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site confirms transparent bubbles; one of three units is a cabin.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Auvergne-Rhône-Alpes",
+   "city": "Nyons",
+   "locality": null
+  },
+  "page_issues": []
+ },
+ {
+  "slug": "kakslauttanen-finland",
+  "name": "Kakslauttanen Arctic Resort",
+  "official_url": "https://www.kakslauttanen.fi/",
+  "source_url": "https://www.kakslauttanen.fi/accommodation/small-glass-igloo-east-village",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Glass igloos (small, large, Kelo-Glass igloos with log-chalet bedrooms) in East and West villages, alongside ordinary log cabins and chalets, suites, and snow igloos. Glass igloos run late August to April.",
+  "evidence_quote": "From inside one of our Glass Igloos, you can admire the northern lights and the twinkling of the bright, starry sky",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Glass igloos confirmed on official site; resort also has many non-glass cabins and chalets.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Lapland",
+   "city": "Inari",
+   "locality": "Saariselkä"
+  },
+  "page_issues": [
+   "Founder given as Yrjö Rissanen; official site names resort owner Mr. Eiramo",
+   "'More than 65 igloos' and 'world's largest glass igloo village' not found on official pages",
+   "Official small glass igloos have 2 single beds, not a king bed in every igloo",
+   "'35 km inside the Arctic Circle' not supported by official pages (Saariselkä is about 68.4N)",
+   "Page presents resort as only glass igloos; it also sells log cabins and chalets",
+   "bookingUrl points to Booking.com"
+  ]
+ },
+ {
+  "slug": "la-bulle-etoilee-france",
+  "name": "La Bulle Etoilée",
+  "official_url": "https://www.labulleetoilee.fr/",
+  "source_url": "https://www.labulleetoilee.fr/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Five transparent bubbles (Zozo, Capu, Camille, Caramel, Groseille) in the Calvados countryside; no other accommodation listed.",
+  "evidence_quote": "nos bulles transparentes allient charme, confort et intimité pour vous offrir bien plus qu’une nuit",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site confirms transparent bubbles as the accommodation.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Normandy",
+   "city": "Bonnemaison",
+   "locality": null
+  },
+  "page_issues": []
+ },
+ {
+  "slug": "mt-matutum-domesville-glamping-philippines",
+  "name": "Mt. Matutum DomesVille Glamping",
+  "official_url": "https://hotels.cloudbeds.com/reservation/KbrUB1",
+  "source_url": "https://hotels.cloudbeds.com/reservation/KbrUB1",
+  "source_type": "official",
+  "niche_scope": "unverified",
+  "niche_feature": "Geodesic dome glamping units (Deluxe, Family, Superior, Premiere Dome) confirmed, alongside a casita, villa, casa and camping tent. Official text never says the domes are transparent or clear-roofed, so the bubble test is unconfirmed.",
+  "evidence_quote": "Geodesic dome glamping is an ultimate experience",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": "bubble-hotels",
+  "reason": "Domes confirmed, but nothing states they are transparent; other unit types also exist.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "South Cotabato",
+   "city": "Tupi",
+   "locality": "Sitio Lemblisong"
+  },
+  "page_issues": [
+   "Page says only the domes are on offer; official booking page also lists Casita Adrylle, Villa Carliane, Casa del Juancio and a camping tent",
+   "Transparency/clear-roof stargazing not stated by operator; page itself tells readers to ask",
+   "Coordinates (6.317, 125.028) differ from the official page geo (6.334, 124.953)",
+   "bookingUrl points to Expedia search"
+  ]
+ },
+ {
+  "slug": "revembulle-france",
+  "name": "Rêvembulle",
+  "official_url": "https://revembulle.com/",
+  "source_url": "https://revembulle.com/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Transparent bubbles suspended up to 3 m above the ground in the Écrins national park; the site says all its bubbles are identical, differing in height, access and view.",
+  "evidence_quote": "la bulle transparente vous offre la possibilité d’une nuit unique sous les étoiles en harmonie totale avec la nature",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site confirms transparent bubbles as the accommodation (seasonal, 9 May to 5 Oct 2026).",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Provence-Alpes-Côte d'Azur",
+   "city": "La Chapelle-en-Valgaudémar",
+   "locality": "Valgaudémar"
+  },
+  "page_issues": [
+   "Seasonal: official site gives opening 9 May to 5 October 2026"
+  ]
+ },
+ {
+  "slug": "somnen-bulle-france",
+  "name": "Somn'en Bulle",
+  "official_url": "https://www.somnenbulle.fr/",
+  "source_url": "https://www.somnenbulle.fr/votre-bulle/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Translucent inflatable bubbles in a forest at the edge of the Aveyron gorges near Najac; every unit is a bubble, each with its own path and private bathroom sphere.",
+  "evidence_quote": "La transparence de nos bulles vous offre une vue inégalée sur la nature environnante",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site confirms transparent bubble rooms as the accommodation.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Occitanie",
+   "city": "Najac",
+   "locality": "La Vaysserie"
+  },
+  "page_issues": []
+ },
+ {
+  "slug": "the-bubble-hotel-belgium",
+  "name": "The Bubble Hotel Belgium",
+  "official_url": null,
+  "source_url": null,
+  "source_type": "none",
+  "niche_scope": "unverified",
+  "niche_feature": "Could not find an official website or any independent source for a bubble hotel at Pulderbos; searches in English and Dutch returned only generic booking pages for other hotels. Nothing confirms the property exists.",
+  "evidence_quote": null,
+  "operating": "unknown",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": "bubble-hotels",
+  "reason": "No citable source found for this property; cannot confirm bubbles.",
+  "treehouse_structure": null,
+  "location": {
+   "region": null,
+   "city": null,
+   "locality": null
+  },
+  "page_issues": [
+   "No official site or independent source found for this property",
+   "Rating 8.9 and 412 reviews unsupported",
+   "bookingUrl is the generic Booking.com homepage",
+   "Forest-clearing, hot tub and breakfast details unverifiable"
+  ]
+ },
+ {
+  "slug": "wadi-rum-bubble-camp-jordan",
+  "name": "Wadi Rum Bubble Camp",
+  "official_url": null,
+  "source_url": null,
+  "source_type": "none",
+  "niche_scope": "unverified",
+  "niche_feature": "Could not identify an official site for a camp with this exact name. Many different bubble-tent camps exist in Wadi Rum (e.g. Wild Oryx Camp Bubbles); only booking-site listings surfaced, which cannot be used as sources.",
+  "evidence_quote": null,
+  "operating": "unknown",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": "bubble-hotels",
+  "reason": "No citable source for this exact camp; cannot confirm bubble tents.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Aqaba Governorate",
+   "city": null,
+   "locality": null
+  },
+  "page_issues": [
+   "Camp name matches no identifiable official site; may be a generic or composite description",
+   "Rating 9.2 and 634 reviews unsupported",
+   "bookingUrl is the generic Booking.com homepage",
+   "Coordinates are a generic Wadi Rum point"
+  ]
+ },
+ {
+  "slug": "whitepod-switzerland",
+  "name": "Whitepod Eco-Luxury Hotel",
+  "official_url": "https://whitepod.com/en",
+  "source_url": "https://whitepod.com/en/pods",
+  "source_type": "official",
+  "niche_scope": "unverified",
+  "niche_feature": "Geodesic dome pods (Cosy, Family, Zen suite, Timeless, Forest, Swiss pod suite) plus separate wooden chalets. Official pages never say the domes are transparent or clear-roofed, so the bubble test is unconfirmed.",
+  "evidence_quote": "The energy required to heat and cool a dome is about 30% less than that of a conventional building.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": "bubble-hotels",
+  "reason": "Geodesic dome pods confirmed but not described as transparent; chalets also offered.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Valais",
+   "city": "Monthey",
+   "locality": "Les Giettes / Les Cerniers"
+  },
+  "page_issues": [
+   "Page says eighteen pods; official site says only 'a handful of pods' and lists chalets as well",
+   "Pods at 1,430 m on page; official says about 1,400 m",
+   "Private piste, ski-in/ski-out and fabric-over-steel construction not found on official pages (official says pods reachable on skis or on foot, 20-minute walk)",
+   "Pod season June to September and nineteenth-century farmhouse chalet not confirmed",
+   "Cover image is a stock Unsplash URL"
+  ]
+ },
+ {
+  "slug": "aldourie-castle-united-kingdom",
+  "name": "Aldourie Castle",
+  "official_url": "https://wildland.scot/properties/aldourie/",
+  "source_url": "https://wildland.scot/properties/aldourie/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Baronial castle on Loch Ness booked for exclusive use only: the whole castle, sleeping 24 in 12 en-suite bedrooms. Wikipedia lists it as Category A listed, 'only inhabitable castle on Loch Ness'.",
+  "evidence_quote": "A baronial beauty offering exclusive-use stays on the shores of Loch Ness.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Genuine baronial castle (Category A listed), rented whole.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Scotland",
+   "city": "Inverness",
+   "locality": "Aldourie"
+  },
+  "page_issues": [
+   "bookingUrl is an Expedia search although the castle is booked as an exclusive-use rental through WildLand",
+   "Not a hotel: 'Guests must book the entire castle'"
+  ]
+ }
+]

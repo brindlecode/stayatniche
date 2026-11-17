@@ -29,7 +29,6 @@ notIncluded:
   - Personal travel insurance
   - Weather cancellation refund policy varies, check at booking
 rating: 9.5
-reviewCount: 1129
 featured: false
 tags:
   - flightseeing

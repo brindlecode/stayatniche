@@ -44,7 +44,6 @@ prosAndCons:
     - "Some routes take multiple days with limited off-train time"
 bookingUrl: https://www.rovos.com/
 rating: 9.8
-reviewCount: 1876
 seasonalInfo:
   bestTime: Year-round for the Cape Town route; dry season for East African routes
   peakSeason: South African summer (December–January) and winter (June–August) for peak demand

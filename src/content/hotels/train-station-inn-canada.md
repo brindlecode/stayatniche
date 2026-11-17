@@ -23,7 +23,6 @@ bestFor:
   - "Families"
 bookingUrl: "https://www.tatatrainstation.com/"
 rating: 8.5
-reviewCount: 0
 coordinates:
   lat: 45.709154
   lng: -63.2840787

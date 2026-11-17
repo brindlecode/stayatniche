@@ -57,7 +57,6 @@ prosAndCons:
     - "Some rooms in the newer wing lack the historic character of castle rooms"
 bookingUrl: "https://www.booking.com/hotel/ie/dromoland-castle.html"
 rating: 9.3
-reviewCount: 1247
 checkInOut:
   checkIn: "16:00"
   checkOut: "12:00"

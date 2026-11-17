@@ -20,7 +20,6 @@ bestFor:
   - "Small groups"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Corsewall%20Lighthouse%20Hotel%2C%20Kirkcolm&adults=2"
 rating: 8.7
-reviewCount: 0
 coordinates:
   lat: 55.0069692
   lng: -5.1593019

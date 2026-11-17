@@ -21,7 +21,6 @@ bestFor:
   - "Breakfast-and-view lovers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Lucky%20Cave%20Cappadocia%2C%20G%C3%B6reme&adults=2"
 rating: 7.8
-reviewCount: 0
 coordinates:
   lat: 38.6437794
   lng: 34.8268568

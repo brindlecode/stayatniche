@@ -31,7 +31,6 @@ bestFor:
   - Families (large villa options)
 bookingUrl: https://www.booking.com/hotel/th/soneva-kiri.html
 rating: 9.4
-reviewCount: 521
 coordinates:
   lat: 11.6986466
   lng: 102.5311225

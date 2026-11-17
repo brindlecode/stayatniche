@@ -22,7 +22,6 @@ bestFor:
   - "Wildlife watchers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Severin%20Safari%20Camp%2C%20Tsavo%20West%20National%20Park&adults=2"
 rating: 8.4
-reviewCount: 0
 coordinates:
   lat: -2.9982138
   lng: 37.985581

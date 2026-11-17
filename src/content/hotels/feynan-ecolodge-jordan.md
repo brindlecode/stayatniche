@@ -20,7 +20,6 @@ bestFor:
   - "Quiet escapes"
 bookingUrl: "https://ecohotels.me/"
 rating: 8.8
-reviewCount: 0
 coordinates:
   lat: 30.6395644
   lng: 35.5092874

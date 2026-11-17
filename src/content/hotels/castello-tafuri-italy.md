@@ -21,7 +21,6 @@ bestFor:
   - "Sea lovers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Castello%20Tafuri%20Charming%20Suites%2C%20Portopalo%20di%20Capo%20Passero&adults=2"
 rating: 8.9
-reviewCount: 0
 coordinates:
   lat: 36.6896453
   lng: 15.1339444

@@ -22,7 +22,6 @@ bestFor:
   - "Special occasions"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Castello%20di%20Guarene%2C%20Guarene&adults=2"
 rating: 9
-reviewCount: 0
 coordinates:
   lat: 44.7389938
   lng: 8.0331478

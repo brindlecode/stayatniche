@@ -33,7 +33,6 @@ prosAndCons:
     - "Summer season offers spectacular activities but without the Northern Lights that many guests specifically travel for"
 bookingUrl: https://www.booking.com/hotel/is/eleven-experience-deplar-farm.html
 rating: 9.4
-reviewCount: 389
 seasonalInfo:
   bestTime: "January to April for heli-skiing and Northern Lights; June to August for midnight sun"
   peakSeason: "February to March"

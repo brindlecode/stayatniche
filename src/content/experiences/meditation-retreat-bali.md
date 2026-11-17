@@ -32,7 +32,6 @@ notIncluded:
   - Additional treatments (massage, spa add-ons available)
   - Alcohol (not served at retreat centres)
 rating: 9.5
-reviewCount: 2109
 featured: false
 tags:
   - meditation

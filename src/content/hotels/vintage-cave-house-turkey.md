@@ -22,7 +22,6 @@ bestFor:
   - "Balloon watchers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Vintage%20Cave%20House%2C%20G%C3%B6reme&adults=2"
 rating: 8.3
-reviewCount: 0
 coordinates:
   lat: 38.6415121
   lng: 34.8270008

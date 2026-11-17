@@ -38,7 +38,6 @@ prosAndCons:
     - Limited local dining outside the villa
 bookingUrl: https://www.booking.com/hotel/ae/the-floating-seahorse.html
 rating: 9.4
-reviewCount: 87
 seasonalInfo:
   bestTime: October to May
   peakSeason: December to February

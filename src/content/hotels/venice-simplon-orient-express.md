@@ -44,7 +44,6 @@ prosAndCons:
     - "The bar car can be noisy late into the evening for those wanting early sleep"
 bookingUrl: https://www.belmond.com/trains/europe/venice-simplon-orient-express/
 rating: 9.6
-reviewCount: 2341
 seasonalInfo:
   bestTime: Spring (April–May) and autumn (September–October) for the best Alpine and Italian landscape
   peakSeason: Summer (June–August) and the Valentine's Day period

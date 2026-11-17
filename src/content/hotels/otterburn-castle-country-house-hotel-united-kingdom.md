@@ -22,7 +22,6 @@ bestFor:
   - "History lovers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Otterburn%20Castle%20Country%20House%20Hotel%2C%20Otterburn&adults=2"
 rating: 8
-reviewCount: 0
 coordinates:
   lat: 55.2322401
   lng: -2.1779454

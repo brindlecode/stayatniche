@@ -1,0 +1,305 @@
+[
+ {
+  "slug": "feynan-ecolodge-jordan",
+  "name": "Feynan Ecolodge",
+  "official_url": "https://ecohotels.me/feynan",
+  "source_url": "https://ecohotels.me/feynan",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "26-room solar-powered, candle-lit lodge in Wadi Feynan inside the Dana Biosphere Reserve, set in desert landscape at the end of a rugged track; the whole lodge is the desert stay.",
+  "evidence_quote": "set against the glorious desert landscape, guests staying at the 26-room lodge can be found adventuring through the untouched outdoors",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official EcoHotels page confirms a 26-room lodge in a desert wadi; fits desert lodge category.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Tafilah",
+   "city": "Dana",
+   "locality": "Wadi Feynan"
+  },
+  "page_issues": []
+ },
+ {
+  "slug": "longitude-131-australia",
+  "name": "Longitude 131°",
+  "official_url": "https://longitude131.com.au/",
+  "source_url": "https://longitude131.com.au/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Sixteen tented pavilions among red-rust dunes of the Central Desert facing Uluru: fifteen luxury tents plus one premium Dune Pavilion with views to both Uluru and Kata Tjuta. Closed 25 Jan-19 Apr 2027 for refurbishment.",
+  "evidence_quote": "Dotted among the red-rust dunes of the Central Desert are sixteen tented pavilions",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site describes a luxury tented desert camp of 16 pavilions at Uluru; category correct.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Northern Territory",
+   "city": "Yulara",
+   "locality": "Uluru-Kata Tjuta National Park"
+  },
+  "page_issues": [
+   "Unsupported/superlative: 'ultimate Outback luxury', 'unmatched proximity', 'life-changing', 'among the most expensive properties in Australia'",
+   "'private red-sand dune' and 'each oriented so the bed faces Uluru' not stated for all units: official says 15 tents face Uluru, the Dune Pavilion views both Uluru and Kata Tjuta",
+   "Rating 9.7 / 567 reviews not supported by a cited source",
+   "Official site announces closure 25 Jan-19 Apr 2027 (refurbishment)"
+  ]
+ },
+ {
+  "slug": "memories-aicha-luxury-camp-jordan",
+  "name": "Memories Aicha Luxury Camp",
+  "official_url": "http://www.mlc.jo/",
+  "source_url": "http://www.mlc.jo/pages/about-us",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Camp of 55 air-conditioned tents (Junior, Executive, Panoramic, Panoramic Suite) in the heart of Wadi Rum desert; home page also calls the units 'domes' with a transparent roof for stargazing.",
+  "evidence_quote": "The Memories Aicha Luxury Camp consists of 55 tents, nestled in the heart of the Wadi Rum.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site confirms a 55-tent camp in Wadi Rum desert; category correct.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Aqaba",
+   "city": "Wadi Rum",
+   "locality": "Umm Eshrin"
+  },
+  "page_issues": [
+   "Official home page calls units 'domes' with transparent roof; about page describes only the Panoramic tents as stargazing-oriented, so 'transparent roofs' may not apply to every tent"
+  ]
+ },
+ {
+  "slug": "safari-desert-camp-oman",
+  "name": "Safari Desert Camp",
+  "official_url": "https://www.safaridesert.com/",
+  "source_url": "https://www.safaridesert.com/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Permanent Bedouin-style camp (opened Sept 2008) of about forty chalets and tents scattered across the Wahiba Sands dunes, reached with the camp's own 4WD; rooms page says solar power only.",
+  "evidence_quote": "It is located in a remote, quiet desert landscape of the Wahiba Sands, 25km away from Al-Ghabbi, in the city of Bidiyah.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site confirms a tent and chalet camp in the Wahiba Sands desert; category correct.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Ash Sharqiyah North",
+   "city": "Bidiyah",
+   "locality": "Wahiba Sands"
+  },
+  "page_issues": [
+   "Official home page says each tent is attached to an open-top sanitary building, rooms page says each has its own bathroom: bathroom claim inconsistent in source",
+   "'Reached only by 4WD' not stated by the official site (it says the camp uses its own 4WD and camels)",
+   "Official website shows injected casino/betting spam links; consider whether to keep linking it"
+  ]
+ },
+ {
+  "slug": "sahara-dunes-camp-morocco",
+  "name": "Sahara Dunes Camp",
+  "official_url": "https://saharadunescamp.com/",
+  "source_url": "https://saharadunescamp.com/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Small family-run camp of handcrafted Berber tents (26 m2 double, 40 m2 triple, other configurations on request) at the edge of the Erg Chebbi dunes outside Merzouga, with private hot-shower bathrooms.",
+  "evidence_quote": "Sahara Dunes Camp is a small, family-run luxury camp built at the edge of those dunes, outside Merzouga in southern Morocco.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site confirms a tented camp at Erg Chebbi dunes in the Sahara; category correct.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Drâa-Tafilalet",
+   "city": "Merzouga",
+   "locality": "Erg Chebbi"
+  },
+  "page_issues": []
+ },
+ {
+  "slug": "scarabeo-camp-morocco",
+  "name": "Scarabeo Camp",
+  "official_url": "https://www.scarabeo-camp.com/",
+  "source_url": "https://www.scarabeo-camp.com/history-en",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Tented camps (The Stone Camp, historic, with a swimming pool; Les Roches Noires, newer) of suites in white tents on the stony Agafay plateau with Atlas views; La Citadelle is an events venue, not lodging.",
+  "evidence_quote": "Agafay, a mineral land with a lunar landscape, is the setting chosen by Scarabeo Camp to plant its white tents",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site confirms tented camps in the stony Agafay desert; category correct.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Marrakech-Safi",
+   "city": "Marrakech",
+   "locality": "Agafay"
+  },
+  "page_issues": [
+   "Unsupported by official site: 'no electricity grid, solar-powered, generator-free after dark', hammam/argan treatments, '$350/night', tent count",
+   "Official site lists two camps (Stone Camp, Les Roches Noires), page describes one camp; swimming pool at Stone Camp not mentioned",
+   "Official page does not say '40 km' from Marrakech or 'limestone'; 'Agafay' described only as mineral lunar landscape"
+  ]
+ },
+ {
+  "slug": "six-senses-shaharut-israel",
+  "name": "Six Senses Shaharut",
+  "official_url": "https://www.sixsenses.com/en/corporate/news/welcome-six-senses-shaharut",
+  "source_url": "https://theluxuryeditor.com/news/six-senses-shaharut-israel-opens/",
+  "source_type": "other",
+  "niche_scope": "entire_property",
+  "niche_feature": "Desert retreat of 60 suites and villas set into a cliff with Negev Desert views (opened 2021, per Six Senses launch release reprinted by press); official Six Senses site blocked (403), so detail rests on press reprint.",
+  "evidence_quote": "secluded setting lain into a dramatic cliff with panoramic views of the Negev Desert",
+  "operating": "unknown",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Press reprint of Six Senses release confirms a 60-unit desert retreat in the Negev; official site blocked. Fits desert lodges; cliff aspect secondary.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Southern District",
+   "city": "Eilat",
+   "locality": "Shaharut"
+  },
+  "page_issues": [
+   "Page says 'sixty villas'; source says 60 suites and villas",
+   "Unsupported by reachable source: 900 m elevation, 'carved into plateau', local sandstone/Nabataean cliff-dwelling design, pools overhanging canyon, dark sky reserve, 'Nahal Paran canyon', distances to Eilat/Tel Aviv",
+   "Current operating status not confirmed from an official source"
+  ]
+ },
+ {
+  "slug": "the-dune-camp-botswana",
+  "name": "The Dune Camp",
+  "official_url": "https://www.bushways.com/our-lodges/the-dune-camp/",
+  "source_url": "https://www.bushways.com/our-lodges/the-dune-camp/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Eight-suite lodge inside the 43,000 ha Deception Valley Private Reserve on the north-eastern boundary of the Central Kalahari Game Reserve; day and night game drives and San-led walks are the core activity.",
+  "evidence_quote": "Dune Camp, nestled the north-eastern boundary of the Central Kalahari Game Reserve in one of the largest private game reserves in Botswana.",
+  "operating": "open",
+  "verdict": "move",
+  "new_category": "safari-lodges",
+  "closest_category": "safari-lodges",
+  "reason": "Official page frames a game-viewing lodge in a private game reserve; it never calls it a desert camp. Better fit for safari-lodges.",
+  "treehouse_structure": null,
+  "location": {
+   "region": null,
+   "city": null,
+   "locality": "Deception Valley Private Reserve"
+  },
+  "page_issues": [
+   "Page calls it a 'Kalahari desert lodge'/'desert property'; official page describes a safari lodge in a private game reserve and does not use 'desert'",
+   "Official page says eight suites; page says eight rooms",
+   "bookingUrl is an Expedia search link, not the operator"
+  ]
+ },
+ {
+  "slug": "arctic-bath-sweden",
+  "name": "Arctic Bath",
+  "official_url": "https://www.arcticbath.se/",
+  "source_url": "https://arcticbath.se/hotel/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Six of 12 cabins are Floating Cabins on the Lule River reached by a footpath over the water; the other six (three Land Suite, three Land Family) are on land. Hotel is marketed as floating.",
+  "evidence_quote": "Our accommodation is divided between six Floating Cabins on the river, three Land Suite Cabins, and three Land Family Cabins",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official page confirms six floating cabins on the river among 12 total; category correct for those rooms only.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Norrbotten",
+   "city": "Boden",
+   "locality": "Harads"
+  },
+  "page_issues": [
+   "Page says six cabins attached to central ring; official site lists 12 cabins: six floating, six land cabins",
+   "Floating cabins are described as reached by footpath over the water and encircled by a deck, not 'attached to the central ring'",
+   "Unsupported by reachable source: private sauna in each cabin, architect names, nearby Treehotel winter excursions, 'ice bath' claims"
+  ]
+ },
+ {
+  "slug": "floating-seahorse-dubai",
+  "name": "The Floating Seahorse",
+  "official_url": null,
+  "source_url": "https://www.thenationalnews.com/lifestyle/luxury/property-of-the-week-underwater-views-from-dubai-s-dh88-million-floating-seahorse-villas-1.1246700",
+  "source_type": "other",
+  "niche_scope": "entire_property",
+  "niche_feature": "133 three-level villas afloat off The World Islands, each with an underwater level of submerged bedroom/living rooms and coral garden views; sold as villas, hotel operation not confirmed. Also fits underwater-rooms.",
+  "evidence_quote": "The underwater bedroom level is undoubtedly a primary selling point, with submerged rooms that can be used as either bedrooms or extra living spaces.",
+  "operating": "unknown",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "The National confirms floating villas with submerged bedroom level; category plausible but no official booking channel found.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Dubai",
+   "city": "Dubai",
+   "locality": "The World Islands"
+  },
+  "page_issues": [
+   "No official booking/hotel-operator page found; villas were sold as private homes (about 131 of 133 sold in 2021) and the Booking.com link is unverified",
+   "'3 metres below the surface', reef sharks and parrotfish not supported by a reachable source; press shows baby/carpet sharks",
+   "'Reached by private speedboat only' unsupported: The National says most villas connect by walkways to Honeymoon Island",
+   "Official Heart of Europe domain unreachable (parked redirect), so source is press"
+  ]
+ },
+ {
+  "slug": "halong-bay-indochina-sails",
+  "name": "Indochina Sails",
+  "official_url": "https://www.indochinasails.com/en/indochina-sails-ha-long.html",
+  "source_url": "https://www.indochinasails.com/en/indochina-sails-ha-long.html",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Traditional wooden cruise vessel with 23 cabins on two decks (46 guests) offering 2-day/1-night and 3-day/2-night overnight Ha Long Bay cruises; guests sleep aboard on the water.",
+  "evidence_quote": "Indochina Sails features 23 elegantly appointed cabins across two decks, thoughtfully divided into four categories: Superior, Deluxe, Suite, and the exclusive President Suite.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site confirms an overnight wooden cruise vessel with 23 cabins; floating-hotel category correct.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Quảng Ninh",
+   "city": "Ha Long",
+   "locality": "Ha Long Bay"
+  },
+  "page_issues": [
+   "Private balcony cabins not stated by official site",
+   "Official activity list (Tai Chi, fruit carving, squid fishing, cave visit, beach swim) does not mention cooking class/floating-market purchases; kayaking only on 3-day itinerary",
+   "'1,969 karsts' and low-tide cave kayaking not verified on the official page"
+  ]
+ },
+ {
+  "slug": "houseboat-arka-mielno-poland",
+  "name": "Houseboat \"Arka\"",
+  "official_url": "https://domkinawodzie.mielno.pl/",
+  "source_url": "https://domkinawodzie.mielno.pl/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Self-contained Lagobau Elite houseboat (two bedrooms, bathroom, living room with kitchenette) moored on the grounds of the Na Granicy campsite, about 200 m from the Baltic and facing Lake Jamno; rented as a holiday home.",
+  "evidence_quote": "Domki zacumowane są na terenie należącym do campingu",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Operator site confirms moored houseboat rental at a campsite; floating-hotels fits as a self-catering houseboat.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "West Pomerania",
+   "city": "Mielno",
+   "locality": "Lake Jamno"
+  },
+  "page_issues": [
+   "Operator lists two boats (Arka I and Arka II); page describes one",
+   "Source says boats are moored at the camping site; whether the unit floats on open water vs a campsite mooring is only implied by 'houseboat'"
+  ]
+ }
+]

@@ -25,7 +25,6 @@ bestFor:
   - "Couples"
 bookingUrl: "http://www.mlc.jo/"
 rating: 8.6
-reviewCount: 0
 coordinates:
   lat: 29.546697
   lng: 35.435211

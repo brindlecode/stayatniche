@@ -18,7 +18,6 @@ bestFor:
   - "Luxury retreats"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Palafitos%20Overwater%20Bungalows%2C%20Playa%20del%20Carmen&adults=2"
 rating: 8.4
-reviewCount: 0
 coordinates:
   lat: 20.7207332
   lng: -86.978651

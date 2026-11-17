@@ -17,6 +17,8 @@ for (const slug of args) {
   if (!existsSync(file)) { console.error(`no page ${file}`); process.exitCode = 1; continue; }
   let t = readFileSync(file, 'utf8');
   if (!/^status:\s*["']?draft["']?\s*$/m.test(t)) { console.error(`${slug} is not a draft`); process.exitCode = 1; continue; }
+  const missing = ['niche_scope', 'niche_feature', 'niche_verified_at', 'location'].filter(k => !new RegExp(`^${k}:`, 'm').test(t));
+  if (missing.length) { console.error(`${slug}: not published, frontmatter lacks ${missing.join(', ')} (docs/NICHE-AUDIT.md)`); process.exitCode = 1; continue; }
   t = t.replace(/^status:\s*["']?draft["']?\s*$/m, 'status: published');
   t = /^publishedDate:/m.test(t) ? t.replace(/^publishedDate:.*$/m, `publishedDate: ${today()}`) : t.replace(/^status: published$/m, `publishedDate: ${today()}\nstatus: published`);
   writeFileSync(file, t);

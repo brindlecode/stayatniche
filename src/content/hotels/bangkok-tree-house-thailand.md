@@ -22,7 +22,6 @@ bestFor:
   - "Stargazers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Bangkok%20Tree%20House%2C%20Bang%20Kachao&adults=2"
 rating: 8.6
-reviewCount: 0
 coordinates:
   lat: 13.6804213
   lng: 100.5850336

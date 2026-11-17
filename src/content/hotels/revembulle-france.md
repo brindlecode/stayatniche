@@ -18,7 +18,6 @@ bestFor:
   - "Friends"
 bookingUrl: "https://revembulle.com/"
 rating: 8.3
-reviewCount: 0
 coordinates:
   lat: 44.8146918
   lng: 6.1936888

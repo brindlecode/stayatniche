@@ -29,7 +29,6 @@ bestFor:
   - "Desert explorers"
 bookingUrl: https://www.booking.com/
 rating: 9.2
-reviewCount: 634
 coordinates:
   lat: 29.5833
   lng: 35.4167

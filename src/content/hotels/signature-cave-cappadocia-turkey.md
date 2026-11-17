@@ -23,7 +23,6 @@ bestFor:
   - "Design lovers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Signature%20Cave%20Cappadocia%20Trademark%20Collection%20by%20Wyndham%2C%20Nev%C5%9Fehir&adults=2"
 rating: 8.5
-reviewCount: 0
 coordinates:
   lat: 38.5812572
   lng: 34.8960099

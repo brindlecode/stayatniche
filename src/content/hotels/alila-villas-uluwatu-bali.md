@@ -29,7 +29,6 @@ bestFor:
   - "Design enthusiasts"
 bookingUrl: https://www.booking.com/hotel/id/alila-villas-uluwatu.html
 rating: 9.4
-reviewCount: 2341
 coordinates:
   lat: -8.8291
   lng: 115.0853

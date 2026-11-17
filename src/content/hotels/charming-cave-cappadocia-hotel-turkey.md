@@ -22,7 +22,6 @@ bestFor:
   - "Couples"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Charming%20Cave%20Cappadocia%20Hotel%2C%20G%C3%B6reme&adults=2"
 rating: 7.9
-reviewCount: 0
 coordinates:
   lat: 38.6408438
   lng: 34.8265527

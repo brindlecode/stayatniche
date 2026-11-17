@@ -22,7 +22,6 @@ bestFor:
   - "Secluded getaways"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Ty'r%20Graig%20Castle%2C%20Barmouth&adults=2"
 rating: 8.3
-reviewCount: 0
 coordinates:
   lat: 52.7306304
   lng: -4.0639167

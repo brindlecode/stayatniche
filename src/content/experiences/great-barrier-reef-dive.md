@@ -31,7 +31,6 @@ notIncluded:
   - Wetsuit hire (available on board)
   - PADI dive certification course (bookable as add-on)
 rating: 9.7
-reviewCount: 1854
 featured: true
 tags:
   - great-barrier-reef

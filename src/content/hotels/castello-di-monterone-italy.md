@@ -18,7 +18,6 @@ bestFor:
   - "History lovers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Castello%20di%20Monterone%2C%20Perugia&adults=2"
 rating: 8.7
-reviewCount: 0
 coordinates:
   lat: 43.1074415
   lng: 12.4193381

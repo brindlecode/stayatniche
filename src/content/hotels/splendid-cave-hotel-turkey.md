@@ -20,7 +20,6 @@ bestFor:
   - "Budget-minded cave stays"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Splendid%20Cave%20Hotel%2C%20Ortahisar&adults=2"
 rating: 7.8
-reviewCount: 0
 coordinates:
   lat: 38.6193619
   lng: 34.8659257

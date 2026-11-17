@@ -67,9 +67,17 @@ highlights: [ "…", "…", "…" ]   # 3–5, each a fact from evidence/details
 amenities: [ "…" ]              # only amenities stated by the hotel/DirectBooker
 bestFor: [ "Couples", "…" ]
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=<url-encoded name, city>&adults=2"
-rating: 8.6                     # editorial score 7.5–9.5: uniqueness of the stay, setting, evidence quality
-reviewCount: 0
+rating: 8.6                     # EDITORIAL score by docs/EDITORIAL-SCORE.md, at most the ceiling of niche_scope. No reviewCount.
 coordinates: { lat: 0.0, lng: 0.0 }
+location:                       # docs/NICHE-AUDIT.md; ISO 3166-1 alpha-2 code; omit region/city/locality you cannot source
+  country: "United Kingdom"
+  countryCode: "GB"
+  region: "Scotland"
+  city: "Dornoch"           # keys without a sourced value are left out, never null
+niche_scope: entire_property    # entire_property | specific_rooms | experience_only | unverified (decision: whole_property | some_units | unclear)
+niche_feature: "One factual sentence naming what was verified, e.g. which rooms."   # from the decision's niche_feature
+niche_source_url: "https://…"   # the page that supports it (official site); omit only when niche_scope is unverified
+niche_verified_at: YYYY-MM-DD   # today
 officialWebsite: "https://…"
 sourceId: "<candidate id, e.g. osm:way/123>"
 verifiedAt: YYYY-MM-DD

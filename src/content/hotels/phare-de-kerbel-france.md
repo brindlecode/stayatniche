@@ -24,7 +24,6 @@ bestFor:
   - "Quiet getaways"
 bookingUrl: "https://www.pharedekerbel.com/"
 rating: 9.1
-reviewCount: 0
 coordinates:
   lat: 47.7086907
   lng: -3.3374737

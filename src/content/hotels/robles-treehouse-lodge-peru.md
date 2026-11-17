@@ -22,7 +22,6 @@ bestFor:
   - "Small groups"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Robles%20Treehouse%20Lodge%2C%20Manu&adults=2"
 rating: 8.3
-reviewCount: 0
 coordinates:
   lat: -12.6313907
   lng: -71.3668019

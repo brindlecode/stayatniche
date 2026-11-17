@@ -31,7 +31,6 @@ bestFor:
   - Couples
 bookingUrl: https://www.booking.com/hotel/rw/bisate-lodge.html
 rating: 9.5
-reviewCount: 267
 coordinates:
   lat: -1.4833
   lng: 29.5333

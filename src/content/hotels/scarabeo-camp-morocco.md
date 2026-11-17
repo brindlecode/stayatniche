@@ -44,7 +44,6 @@ prosAndCons:
     - Accessibility requires a hired car or resort transfer from Marrakech
 bookingUrl: https://www.booking.com/hotel/ma/scarabeo-camp.html
 rating: 9.2
-reviewCount: 834
 seasonalInfo:
   bestTime: October to April for comfortable temperatures; March-April for spring wildflowers
   peakSeason: December to February

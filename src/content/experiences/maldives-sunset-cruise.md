@@ -29,7 +29,6 @@ notIncluded:
   - Gratuities
   - Personal travel insurance
 rating: 9.0
-reviewCount: 687
 featured: false
 tags:
   - dolphin-watching
