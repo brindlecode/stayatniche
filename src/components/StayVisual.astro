@@ -5,6 +5,7 @@
  * otherwise a typographic "travel label" in the category's tone, unique per stay (place name).
  */
 import CategoryIcon from './CategoryIcon.astro';
+import '../styles/hotel-card.css';
 import { ownPhoto, areaPhoto, CATEGORY_TONE } from '../lib/images';
 import { getLocale, i18n } from '../i18n';
 interface Props { slug: string; name: string; category: string; destination: string; country: string; coverImage?: string; eager?: boolean; size?: 'card' | 'hero'; }
@@ -17,12 +18,12 @@ const place = destination.split(',')[0].trim();
 const hero = size === 'hero';
 ---
 {photo ? (
-  <img src={photo} alt={`${name}, ${destination}`} class="h-full w-full object-cover transition-transform duration-700 ease-out group-hover:scale-[1.04]" loading={eager ? 'eager' : 'lazy'} fetchpriority={eager ? 'high' : undefined} decoding="async" width="1200" height="900" />
+  <img src={photo} alt={`${name}, ${destination}`} class="hc-img" loading={eager ? 'eager' : 'lazy'} fetchpriority={eager ? 'high' : undefined} decoding="async" width="1200" height="900" />
 ) : area ? (
   <div class="relative h-full w-full">
-    <img src={area} alt={L.t.card.around(place)} class="h-full w-full object-cover transition-transform duration-700 ease-out group-hover:scale-[1.04]" loading={eager ? 'eager' : 'lazy'} fetchpriority={eager ? 'high' : undefined} decoding="async" width="1200" height="900" />
-    <span class:list={['pointer-events-none absolute right-2.5 inline-flex items-center gap-1 rounded-full bg-black/55 font-body font-medium text-white backdrop-blur-sm', hero ? 'bottom-4 px-3 py-1.5 text-xs' : 'bottom-2.5 px-2 py-0.5 text-[11px]']}>
-      <svg viewBox="0 0 24 24" class="h-3 w-3" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-6-5.3-6-10a6 6 0 1 1 12 0c0 4.7-6 10-6 10Z"/><circle cx="12" cy="11" r="2"/></svg>
+    <img src={area} alt={L.t.card.around(place)} class="hc-img" loading={eager ? 'eager' : 'lazy'} fetchpriority={eager ? 'high' : undefined} decoding="async" width="1200" height="900" />
+    <span class:list={['hc-area', hero ? 'hc-area-hero' : 'hc-area-card']}>
+      <svg class="hc-pin" fill="none" aria-hidden="true"><use href="#sn-pin" /></svg>
       {L.t.card.around(place)}
     </span>
   </div>
