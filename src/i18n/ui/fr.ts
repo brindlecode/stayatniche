@@ -280,6 +280,7 @@ const fr: typeof en = {
     properties: (n: number) => `${n} ${plural(n, 'établissement', 'établissements')}`,
     about: (title: string) => `À propos des ${noun(title)}`,
     other: 'Autres types d’hébergement',
+    guides: 'Guides sur ce type d’hébergement',
   },
   destinations: {
     metaTitle: 'Destinations : où trouver des hôtels insolites',
@@ -320,6 +321,7 @@ const fr: typeof en = {
     affiliate: 'Liens affiliés : nous percevons une commission, sans surcoût pour vous.',
     relatedA: 'Des adresses',
     relatedB: 'hors du commun à réserver',
+    related: 'Guides à lire aussi',
   },
   countries: {
     metaTitle: 'Hôtels insolites par pays',

@@ -246,6 +246,7 @@ const es: typeof en = {
     properties: (n: number) => `${n} ${plural(n, 'establecimiento', 'establecimientos')}`,
     about: (title: string) => `Todo sobre ${losLas(title)} ${lc(title)}`,
     other: 'Otros tipos de alojamiento',
+    guides: 'Guías sobre este tipo de alojamiento',
   },
   destinations: {
     metaTitle: 'Destinos: dónde encontrar hoteles insólitos en todo el mundo',
@@ -284,6 +285,7 @@ const es: typeof en = {
     affiliate: 'Enlaces de afiliado: recibimos una comisión sin coste para ti.',
     relatedA: 'Alojamientos',
     relatedB: 'extraordinarios para reservar',
+    related: 'Guías relacionadas',
   },
   countries: {
     metaTitle: 'Hoteles únicos por país',

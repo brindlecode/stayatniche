@@ -164,6 +164,10 @@ const blog = defineCollection({
     affiliateDisclosure: z.boolean().default(true),
     sponsored: z.boolean().default(false),
     relatedHotels: z.array(z.string()).default([]),
+    // Where this guide is linked from: category slugs and English country names (hotel `country`).
+    guideFor: z.object({ categories: z.array(z.string()).default([]), countries: z.array(z.string()).default([]) }).optional(),
+    // Slugs of other guides shown under this one (and this guide is shown under them).
+    relatedGuides: z.array(z.string()).default([]),
     status: z.enum(['published', 'draft']).default('published'),
     seo: seoSchema,
   }),

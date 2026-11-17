@@ -224,6 +224,7 @@ const en = {
     properties: (n: number) => `${n} ${plural(n, 'property', 'properties')}`,
     about: (title: string) => `About ${title}`,
     other: 'Other kinds of stay',
+    guides: 'Guides to this kind of stay',
   },
   destinations: {
     metaTitle: "Destinations: Where to Find Unusual Hotels Worldwide",
@@ -262,6 +263,7 @@ const en = {
     affiliate: 'Affiliate links: we earn a commission at no cost to you.',
     relatedA: 'Extraordinary',
     relatedB: 'stays to book',
+    related: 'Related guides',
   },
   countries: {
     metaTitle: 'Unusual Hotels by Country',

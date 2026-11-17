@@ -6,7 +6,7 @@ import CategoryIcon from '../components/CategoryIcon.astro';
 import { resolveImage, sizedImage, imgAttrs, SIZES } from '../lib/images';
 import { SITE } from '../lib/site';
 import { i18n, type Locale } from '../i18n';
-import { localized, entryAlternates, type Localized } from '../i18n/content';
+import { localized, entryAlternates, guidesFor, type Localized } from '../i18n/content';
 import { MIN_INDEXABLE } from '../i18n/roundups';
 
 interface Props { locale: Locale; category: Localized<'categories'> }
@@ -28,6 +28,7 @@ const realStats = {
   top: Object.entries(categoryHotels.reduce((m: Record<string, number>, h) => ((m[h.data.country] = (m[h.data.country] ?? 0) + 1), m), {})).sort((a, b) => b[1] - a[1])[0]?.[0] ?? '',
 };
 
+const guides = await guidesFor(L.locale, { category: category.slug });
 const allCategories = await localized('categories', L.locale);
 const relatedCategories = allCategories
   .filter(c => c.slug !== category.slug)
@@ -209,6 +210,18 @@ const itemListJsonLd = categoryHotels.length > 0 ? {
           <Content />
         </div>
       </div>
+    </section>
+  )}
+
+  <!-- Guides about this kind of stay -->
+  {guides.length > 0 && (
+    <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-16" aria-labelledby="category-guides">
+      <h2 id="category-guides" class="font-display text-2xl font-bold text-warm-950 mb-4">{C.guides}</h2>
+      <ul class="flex flex-wrap gap-2">
+        {guides.map(g => (
+          <li><a href={L.path('blog', g.slug)} class="block rounded-full border border-warm-200 bg-white px-4 py-2 font-body text-sm text-warm-700 hover:border-forest-400 hover:text-forest-700">{g.data.title}</a></li>
+        ))}
+      </ul>
     </section>
   )}
 
