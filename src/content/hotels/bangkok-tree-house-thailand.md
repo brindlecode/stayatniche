@@ -21,7 +21,7 @@ bestFor:
   - "Cyclists"
   - "Stargazers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Bangkok%20Tree%20House%2C%20Bang%20Kachao&adults=2"
-rating: 8.6
+rating: 8.5
 coordinates:
   lat: 13.6804213
   lng: 100.5850336
@@ -29,7 +29,20 @@ officialWebsite: "https://www.bangkoktreehouse.com/"
 sourceId: "osm:way/1353058372"
 verifiedAt: 2026-10-13
 publishedDate: 2026-10-13
-status: published
+status: draft
+location:
+  country: "Thailand"
+  countryCode: "TH"
+  region: "Samut Prakan"
+  city: "Phra Pradaeng"
+  locality: "Bang Nam Phueng (Bang Kachao)"
+  coordinates:
+    lat: 13.6804213
+    lng: 100.5850336
+niche_scope: unverified
+niche_feature: "Official site says tree house accommodation, but room pages describe tall multi-storey buildings with ground-floor bathrooms and outdoor stairs, not free-standing units raised in trees. Only View With A Room has a bamboo balcony about 23 ft up."
+niche_source_url: "https://www.bangkoktreehouse.com/cozy-nest/bee-hive"
+niche_verified_at: 2026-11-17
 ---
 
 Bangkok Tree House is an eco-friendly resort in Bang Kachao, the leafy peninsula in Phra Pradaeng District just across the Chao Phraya River from the city. The accommodation is built in the style of a treehouse, and the property also runs a restaurant and cafe. It is a short distance from Bangkok but feels removed from it.

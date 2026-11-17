@@ -2,7 +2,7 @@
 source: camel-trekking-sahara
 title: "Kameltrekking mit Übernachtung in der Sahara"
 destination: "Merzouga"
-description: "Reiten Sie bei Sonnenuntergang auf dem Kamel in das weite Sandmeer des Erg Chebbi, schlagen Sie Ihr Lager in einem Berberzelt unter einem Sternenhimmel auf, der so dicht ist, dass er fast greifbar wirkt, und erleben Sie am nächsten Morgen einen Sonnenaufgang, der die Dünen in Gold und Rosé taucht – in der wohl filmreifsten Wüstenlandschaft der Welt. Dieses 24-stündige Kameltrekking ab Merzouga ist die klassische Nacht in der Sahara: gemächlich, wirklich abgelegen und überraschend friedlich, sobald die letzte Kamelglocke in der Stille der Wüste verklingt."
+description: "Reiten Sie bei Sonnenuntergang auf dem Kamel in das weite Sandmeer des Erg Chebbi, schlagen Sie Ihr Lager in einem Berberzelt unter einem Sternenhimmel auf, der so dicht ist, dass er fast greifbar wirkt, und erleben Sie am nächsten Morgen einen Sonnenaufgang, der die Dünen in Gold und Rosé taucht – in einer der filmreifsten Wüstenlandschaften der Welt. Dieses 24-stündige Kameltrekking ab Merzouga ist die klassische Nacht in der Sahara: gemächlich, wirklich abgelegen und überraschend friedlich, sobald die letzte Kamelglocke in der Stille der Wüste verklingt."
 booking:
   price: "ab 95 $ pro Person"
   duration: "24 Stunden"

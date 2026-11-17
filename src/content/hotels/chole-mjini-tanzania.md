@@ -54,7 +54,7 @@ prosAndCons:
     - "Outdoor rooms mean insects are part of the experience"
     - "Not suitable for light packers, mosquito repellent essential"
 bookingUrl: "https://www.booking.com/searchresults.html?ss=Chole+Mjini+Lodge+Tanzania"
-rating: 9.0
+rating: 8.8
 checkInOut:
   checkIn: "14:00"
   checkOut: "10:00"
@@ -88,6 +88,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Chole+Island"
     label: "Find Tours on Klook"
+location:
+  country: "Tanzania"
+  countryCode: "TZ"
+  region: "Pwani"
+  city: "Mafia Island"
+  locality: "Chole Island"
+  coordinates:
+    lat: -7.971446
+    lng: 39.7608867
+niche_scope: specific_rooms
+niche_feature: "Six treehouses built by hand around baobabs and Swahili ruins on Chole Island, plus one ground house (Sita). Moja is perched high in a living baobab; others sit among ruins and shoreline."
+niche_source_url: "https://www.cholemjini.com/rooms/moja/"
+niche_verified_at: 2026-11-17
 ---
 
 Chole Island holds its secrets quietly. From the water, it appears as a dense tangle of baobab trees and mangroves rising from the Indian Ocean, one of dozens of small islands scattered within the Mafia Island Marine Park. But step ashore and walk into the forest, and the ruins find you: great coral stone walls, collapsed archways, and roofless rooms smothered in fig trees and dense vegetation. These are the remains of a 19th-century Arab trading post, once one of the most prosperous settlements on Tanzania's Swahili Coast, now slowly being reclaimed by the island's vegetation.

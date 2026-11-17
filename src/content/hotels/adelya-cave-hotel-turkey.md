@@ -28,6 +28,18 @@ sourceId: "osm:node/368296526"
 verifiedAt: 2026-10-09
 publishedDate: 2026-10-09
 status: published
+location:
+  country: "Turkey"
+  countryCode: "TR"
+  region: "Nevşehir"
+  city: "Göreme"
+  coordinates:
+    lat: 38.6408208
+    lng: 34.8285492
+niche_scope: specific_rooms
+niche_feature: "Nine rooms in a restored family house; the Woodshed, Grandpa Mehmet & Grandma Havva's Room, Stable and Hayloft are described as carved into rock, the Wine House as a cave room; Stone Room and Çardak are not described as cave."
+niche_source_url: "https://www.adelyacave.com/room/5"
+niche_verified_at: 2026-11-17
 ---
 
 Adelya Cave Hotel tells the story of a house. According to the hotel, a family lived here from the 1950s to the 1990s: children grew up, meals were shared, and the harvest from vineyards and gardens was prepared for winter. Animals lived in its cave rooms, while grapes became grape juice, molasses, vinegar and wine. That history is reflected in the room names.

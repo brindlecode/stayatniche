@@ -1,6 +1,6 @@
 ---
 name: Juvet Landscape Hotel
-category: cliffside-hotels
+category: treehouse-hotels
 destination: Alnes, Valldal, Møre og Romsdal
 country: Norway
 continent: Europe
@@ -30,7 +30,7 @@ bestFor:
   - Fjord explorers
   - Digital detox
 bookingUrl: https://www.booking.com/hotel/no/juvet-landscape-hotel.html
-rating: 9.2
+rating: 8.8
 coordinates:
   lat: 62.332507
   lng: 7.470861
@@ -45,6 +45,18 @@ affiliateLinks:
 seo:
   metaTitle: "Juvet Landscape Hotel Review: Glass Pavilions in Norwegian Fjords | StayAtNiche"
   metaDescription: "Juvet Landscape Hotel: seven glass pavilions above the Valldal River, Norway. Ex Machina filming location, Geirangerfjord access, designed for uninterrupted landscape views."
+location:
+  country: "Norway"
+  countryCode: "NO"
+  region: "Møre og Romsdal"
+  city: "Valldal"
+  coordinates:
+    lat: 62.332507
+    lng: 7.470861
+niche_scope: specific_rooms
+niche_feature: "Seven glass-walled Landscape rooms raised on stilts in a birch forest by a river (plus two Bird Houses and a Writer's Lodge). No cliff setting is stated; the stilted cubes fit the site's stilts-among-trees treehouse rule only borderline."
+niche_source_url: "https://juvet.com/en/landskapsromma"
+niche_verified_at: 2026-11-17
 ---
 
 The design brief for Juvet Landscape Hotel, as described by architects Jensen & Skodvin, was to build a hotel that disappeared. The result — seven glass-walled pavilions positioned individually on a forested slope above the Valldal River in western Norway — comes as close as built architecture can to achieving that. Each pavilion is oriented on its own axis, aligned to face a specific composition of river, birch forest, and granite hillside. The glass extends from floor to ceiling on the river side; there are no curtains, because the only view from any room is into the forest, and the forest at night is darker than any blackout curtain.

@@ -43,7 +43,7 @@ prosAndCons:
     - "GoldLeaf pricing is premium, the same scenery is visible from SilverLeaf at lower cost"
     - "Wildlife sightings are not guaranteed and can be limited at speed"
 bookingUrl: https://www.rockymountaineer.com/
-rating: 9.4
+rating: 7.5
 seasonalInfo:
   bestTime: May and September for smaller crowds; June to August for warmest weather
   peakSeason: July and August
@@ -61,7 +61,7 @@ coordinates:
   lat: 51.1784
   lng: -115.5708
 featured: false
-status: published
+status: draft
 seo:
   metaTitle: "Rocky Mountaineer Review, Glass-Dome Rail Journey, Vancouver to Banff, Canada"
   metaDescription: "Rocky Mountaineer's glass-dome GoldLeaf carriages through the Canadian Rockies. Fraser Canyon, Rogers Pass, and Banff National Park, North America's greatest rail journey. From $1,600."
@@ -72,6 +72,18 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Vancouver+to+Banff+/+Jasper"
     label: "Find Tours on Klook"
+location:
+  country: "Canada"
+  countryCode: "CA"
+  region: "British Columbia"
+  city: "Vancouver"
+  coordinates:
+    lat: 51.1784
+    lng: -115.5708
+niche_scope: experience_only
+niche_feature: "Daylight-only scenic rail journey; no sleeping on the train. Guests stay overnight in hotels (e.g. Kamloops) between travel days. Official site blocked (HTTP 403); confirmed via Seat61 and Wikipedia."
+niche_source_url: "https://www.seat61.com/rocky-mountaineer-train.htm"
+niche_verified_at: 2026-11-17
 ---
 
 The Canadian Pacific Railway was the project that made Canada a country. Completed in 1885, its transcontinental connection, linking the Atlantic settlements of eastern Canada to the Pacific at Vancouver, was the infrastructure achievement that fulfilled the political promise of Confederation and opened the Rocky Mountain West to settlement and commerce. The railway drove through some of the most challenging terrain on the continent, crossing the Fraser Canyon on ledges blasted from sheer rock and climbing over Rogers Pass through the Selkirk Mountains in conditions that killed dozens of Chinese labourers whose contribution to the nation-building project was long obscured.

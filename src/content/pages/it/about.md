@@ -1,8 +1,8 @@
 ---
 title: Troviamo gli alloggi che agli altri sfuggono
-metaTitle: "Chi siamo | StayAtNiche, gli alloggi più insoliti del mondo"
-metaDescription: "StayAtNiche è una guida indipendente agli hotel più insoliti del mondo: case sugli alberi, grotte, camere subacquee, hotel di ghiaccio e castelli, verificati."
-lead: StayAtNiche è una guida di viaggio indipendente ai posti più straordinari in cui dormire. L’ordinario non fa per noi.
+metaTitle: "Chi siamo | StayAtNiche, alloggi insoliti nel mondo"
+metaDescription: "StayAtNiche è una guida indipendente a hotel insoliti in tutto il mondo: case sugli alberi, grotte, camere subacquee, hotel di ghiaccio e castelli, verificati."
+lead: StayAtNiche è una guida di viaggio indipendente ai posti straordinari in cui dormire. L’ordinario non fa per noi.
 ---
 
 ## Un viaggio dovrebbe essere una storia da raccontare

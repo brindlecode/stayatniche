@@ -30,7 +30,7 @@ bestFor:
   - Honeymooners
   - Complete remote escape
 bookingUrl: https://www.booking.com/hotel/mz/andbeyond-benguerra-island.html
-rating: 9.3
+rating: 8.5
 coordinates:
   lat: -21.8667
   lng: 35.4333
@@ -45,6 +45,18 @@ affiliateLinks:
 seo:
   metaTitle: "andBeyond Benguerra Island Review: Mozambique Island Lodge | StayAtNiche"
   metaDescription: "andBeyond Benguerra Island: remote Indian Ocean lodge in the Bazaruto Archipelago. Dugong, manta rays, pristine reefs, and dhow sailing off Mozambique's coast."
+status: draft
+location:
+  country: "Mozambique"
+  countryCode: "MZ"
+  locality: "Benguerra Island"
+  coordinates:
+    lat: -21.8667
+    lng: 35.4333
+niche_scope: unverified
+niche_feature: "Official page lists 13 beach units (2 Cabanas, 10 Casinhas, 1 Casa Familia) among forest and white sand with beach-facing plunge pools; nothing states they are over water or on stilts."
+niche_source_url: "https://www.andbeyond.com/lodge-editorial/benguerra-island/accommodation/"
+niche_verified_at: 2026-11-17
 ---
 
 The Bazaruto Archipelago is Mozambique's most significant marine conservation zone: a chain of five islands off the central coast where the shallow coastal waters of the Mozambique Channel have been protected since 1971 as one of Africa's oldest marine parks. The result is a functioning marine ecosystem that is rare along the East African coast — abundant fish populations, healthy coral at accessible snorkelling depth, and the largest remaining population of dugong in the Western Indian Ocean. These are shy, slow-moving animals rarely encountered elsewhere; in Bazaruto's shallow seagrass beds, sightings are regular enough to be planned around.

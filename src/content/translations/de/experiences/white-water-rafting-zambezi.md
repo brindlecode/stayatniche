@@ -2,7 +2,7 @@
 source: white-water-rafting-zambezi
 title: "Wildwasser-Rafting auf dem Sambesi"
 destination: "Batoka-Schlucht, Victoriafälle"
-description: "Der Sambesi unterhalb der Victoriafälle gilt weithin als das beste eintägige Wildwasser-Rafting der Welt: 23 Kilometer durchgehender Stromschnellen der Klassen IV und V in einer spektakulären Basaltschlucht, die einen der mächtigsten Flüsse Afrikas in einen tosenden Spießrutenlauf aus Wellen, Walzen und Strudeln zwängt. Das ist keine gemütliche Flussfahrt, sondern eine ganztägige körperliche und mentale Bewährungsprobe, die die meisten Teilnehmenden zu den größten Erlebnissen ihres Reiselebens zählen."
+description: "Der Sambesi unterhalb der Victoriafälle gilt weithin als eines der besten eintägigen Wildwasser-Rafting-Erlebnisse der Welt: 23 Kilometer durchgehender Stromschnellen der Klassen IV und V in einer spektakulären Basaltschlucht, die einen der mächtigsten Flüsse Afrikas in einen tosenden Spießrutenlauf aus Wellen, Walzen und Strudeln zwängt. Das ist keine gemütliche Flussfahrt, sondern eine ganztägige körperliche und mentale Bewährungsprobe, die die meisten Teilnehmenden zu den größten Erlebnissen ihres Reiselebens zählen."
 booking:
   price: "ab 160 $ pro Person"
   duration: "Ganztägig"
@@ -28,7 +28,7 @@ notIncluded:
   - Visagebühren für die Einreise nach Sambia oder Simbabwe
 seo:
   metaTitle: "Rafting auf dem Sambesi, Victoriafälle | StayAtNiche"
-  metaDescription: "23 km Stromschnellen der Klassen IV–V durch die Batoka-Schlucht: die weltweit gefeiertste eintägige Wildwasserstrecke unterhalb der Victoriafälle. Ab 160 $."
+  metaDescription: "23 km Stromschnellen der Klassen IV–V durch die Batoka-Schlucht: eine der bekanntesten eintägigen Wildwasserstrecken unterhalb der Victoriafälle. Ab 160 $."
 ---
 
 Zuerst ist da das Geräusch. Lange bevor das Raft die erste Stromschnelle erreicht, hören Sie den Sambesi: ein tiefes Grollen an der Grenze des Hörbaren, das die Schluchtwände zu etwas beinahe Körperlichem verstärken. Wenn Sie an der Einstiegsstelle unterhalb der Victoriafälle stehen, hinauf zu den Basaltklippen blicken, die zu beiden Seiten 120 Meter aufragen, und hinab auf einen Fluss, der gerade in einem einzigen Wasservorhang 108 Meter in die Tiefe gestürzt ist, wissen Sie sofort: Das wird kein gewöhnlicher Tag.

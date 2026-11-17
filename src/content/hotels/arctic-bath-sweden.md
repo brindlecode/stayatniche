@@ -28,7 +28,7 @@ bestFor:
   - "Aurora hunters"
   - "Design and architecture enthusiasts"
 bookingUrl: https://www.booking.com/hotel/se/arctic-bath.html
-rating: 9.4
+rating: 8.8
 coordinates:
   lat: 66.088693
   lng: 20.938161
@@ -40,6 +40,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Harads,+Swedish+Lapland"
     label: "Find Tours on Klook"
+location:
+  country: "Sweden"
+  countryCode: "SE"
+  region: "Norrbotten"
+  city: "Boden"
+  locality: "Harads"
+  coordinates:
+    lat: 66.088693
+    lng: 20.938161
+niche_scope: specific_rooms
+niche_feature: "Six of 12 cabins are Floating Cabins on the Lule River reached by a footpath over the water; the other six (three Land Suite, three Land Family) are on land. Hotel is marketed as floating."
+niche_source_url: "https://arcticbath.se/hotel/"
+niche_verified_at: 2026-11-17
 ---
 
 Arctic Bath sits on the Lule River at 66 degrees north, and the design is the entire point. Architects Bertil Harström and Johan Kauppi built the hotel as a wooden ring, curved driftwood walls encircling a central pool open to the sky year-round. In winter, when the river freezes and the temperature drops to -25°C, that pool becomes an ice bath. In summer, when the midnight sun circles overhead, it's a wild swimming pool in the middle of a boreal river.

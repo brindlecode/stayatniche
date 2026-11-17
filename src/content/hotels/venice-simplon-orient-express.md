@@ -72,6 +72,17 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=London+to+Venice+(and+beyond)"
     label: "Find Tours on Klook"
+location:
+  country: "United Kingdom"
+  countryCode: "GB"
+  locality: "London to Venice (multi-country rail route)"
+  coordinates:
+    lat: 45.4408
+    lng: 12.3155
+niche_scope: entire_property
+niche_feature: "Belmond's sleeper train with restored 1920s carriages: Grand Suites, L'Observatoire suite, Suites (4 per carriage) and Historic Cabins (8 per carriage, shared restrooms), on routes to over 15 European cities."
+niche_source_url: "https://www.belmond.com/en/trains/europe/venice-simplon-orient-express/"
+niche_verified_at: 2026-11-17
 ---
 
 Somewhere in the Swiss Alps, in the late afternoon, the Venice Simplon-Orient-Express curves around a long bend and the train's full length becomes visible through the window: a procession of cream and navy carriages against mountains and an improbably blue sky. At that point it stops feeling like transport. This is travel as an act in itself, not a means to an end, but the destination.

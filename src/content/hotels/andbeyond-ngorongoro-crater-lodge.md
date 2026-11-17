@@ -72,6 +72,18 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Ngorongoro+Conservation+Area"
     label: "Find Tours on Klook"
+location:
+  country: "Tanzania"
+  countryCode: "TZ"
+  region: "Arusha"
+  locality: "Ngorongoro Crater rim"
+  coordinates:
+    lat: -3.2333
+    lng: 35.5
+niche_scope: entire_property
+niche_feature: "Official page says the lodge is temporarily closed for an extensive rebuild, with a banner 'Reopening December 2027'. Safari lodge on the Ngorongoro Crater rim before closure."
+niche_source_url: "https://www.andbeyond.com/our-lodges/africa/tanzania/ngorongoro-crater/andbeyond-ngorongoro-crater-lodge/"
+niche_verified_at: 2026-11-17
 ---
 
 The Ngorongoro Crater is a 20-kilometre-wide volcanic caldera, 600 metres deep, whose walls have kept 25,000 large mammals in permanent residence for thousands of years. The crater floor supports the highest density of lion in Africa and one of the continent's last viable black rhino populations. Descending the rim road into the mist on a cold highland morning, with the crater floor appearing below through the cloud, is a sight that holds its power no matter how many times you've seen the photographs.

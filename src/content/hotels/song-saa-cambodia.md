@@ -41,7 +41,7 @@ prosAndCons:
     - "Remote location means limited medical facilities nearby"
     - "Smaller resort, fewer dining options than larger island properties"
 bookingUrl: https://www.booking.com/hotel/kh/song-saa-private-island.html
-rating: 9.2
+rating: 8.8
 seasonalInfo:
   bestTime: "November to April"
   peakSeason: "December to February"
@@ -72,6 +72,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Koh+Rong+Archipelago,+Cambodia"
     label: "Find Tours on Klook"
+location:
+  country: "Cambodia"
+  countryCode: "KH"
+  region: "Preah Sihanouk"
+  city: "Sihanoukville"
+  locality: "Koh Ouen and Koh Bong, Koh Rong Archipelago"
+  coordinates:
+    lat: 10.75
+    lng: 103.3
+niche_scope: specific_rooms
+niche_feature: "One- and two-bedroom Overwater Villas on stilts over the Gulf of Thailand; the resort's 24 villas also include jungle villas, ocean view villas and a Royal Villa on land."
+niche_source_url: "https://www.songsaa-privateisland.com/villas/one-bed-overwater-villa"
+niche_verified_at: 2026-11-17
 ---
 
 Cambodia's coastline doesn't get the attention it deserves. The Koh Rong Archipelago, a cluster of undeveloped islands in the Gulf of Thailand roughly 35 kilometres from Sihanoukville, contains some of Southeast Asia's most intact coral reef and forest, and Song Saa Private Island occupies two of its smallest and most protected islands, Koh Ouen and Koh Bong, connected by a wooden footbridge and given over in their entirety to a single resort.

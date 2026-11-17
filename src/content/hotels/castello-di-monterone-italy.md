@@ -26,6 +26,19 @@ sourceId: "osm:way/255060449"
 verifiedAt: 2026-10-12
 publishedDate: 2026-10-12
 status: published
+location:
+  country: "Italy"
+  countryCode: "IT"
+  region: "Umbria"
+  city: "Perugia"
+  locality: "Monterone"
+  coordinates:
+    lat: 43.1074415
+    lng: 12.4193381
+niche_scope: entire_property
+niche_feature: "Eighteen rooms in an old medieval castle converted to a residenza d'epoca; the hotel says it is a real castle. Rooms are named for castle features (drawbridge, arrow slits, keys)."
+niche_source_url: "https://www.castellomonterone.com/it/"
+niche_verified_at: 2026-11-17
 ---
 
 Castello di Monterone is a small restored 13th-century castle on the road that links Perugia to Assisi through Ponte San Giovanni. It was converted into a residenza d'epoca, a historic residence, and now has eighteen rooms furnished in keeping with its history. It stands among greenery about three kilometres from the old centre of Perugia.

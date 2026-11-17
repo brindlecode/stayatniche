@@ -118,9 +118,9 @@
   "niche_feature": "Lakeshore lodge of forty rooms overlooking Lake Sarmiento; one mention of lenga wood curving 'along the bluff' but no clifftop or cliff-face setting is stated.",
   "evidence_quote": "overlooking Lake Sarmiento – its design adorned with local lenga wood gracefully curving along the bluff",
   "operating": "open",
-  "verdict": "draft",
+  "verdict": "keep",
   "new_category": null,
-  "closest_category": "cliffside-hotels",
+  "closest_category": null,
   "reason": "Official site presents a lakeshore national-park lodge, not a cliff property; only a passing 'bluff' mention. Fits no category clearly.",
   "treehouse_structure": null,
   "location": {
@@ -134,7 +134,9 @@
    "Spa is called Uma Spa, not 'Tierra Spa'",
    "'Completed 2011' and '2,800 metres' unsupported by official site",
    "Rating 9.5 / 1,456 reviews unsupported"
-  ]
+  ],
+  "agent_verdict": "draft",
+  "editor_note": "Cliffside setting not stated by the source: kept, scope unverified."
  },
  {
   "slug": "al-maha-dubai",

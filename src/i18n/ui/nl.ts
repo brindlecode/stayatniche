@@ -33,7 +33,7 @@ const NBSP = ' ';
 
 const nl: typeof en = {
   meta: {
-    defaultDescription: 'Ontdek de bijzonderste hotels ter wereld: boomhutten, grothotels, onderwaterkamers, kastelen, ijshotels en meer. Verblijven die je reis maken.',
+    defaultDescription: 'Ontdek bijzondere hotels over de hele wereld: boomhutten, grothotels, onderwaterkamers, kastelen, ijshotels en meer. Verblijven die je reis maken.',
   },
   fmt: {
     usd: (amount: string) => `$${NBSP}${amount}`,
@@ -146,7 +146,7 @@ const nl: typeof en = {
   },
   blog: {
     metaTitle: 'Reisgidsen: bijzondere hotels, bestemmingen en reisplanning',
-    metaDescription: 'Gidsen over de bijzonderste hotels ter wereld: boomhutten, grothotels, ijshotels en safarilodges, plus bestemmingsgidsen en praktische reistips.',
+    metaDescription: 'Gidsen over bijzondere hotels over de hele wereld: boomhutten, grothotels, ijshotels en safarilodges, plus bestemmingsgidsen en praktische reistips.',
     lead: 'Waar je slaapt, wanneer je gaat en hoe je er komt: voor reizen rond een onvergetelijk verblijf.',
     readGuide: 'Lees de gids',
     filter: 'Filter gidsen',
@@ -244,7 +244,7 @@ const nl: typeof en = {
     other: 'Andere soorten verblijven',
   },
   destinations: {
-    metaTitle: 'Bestemmingen: waar vind je de meest bijzondere hotels?',
+    metaTitle: 'Bestemmingen: waar vind je bijzondere hotels?',
     metaDescription: (n: number) => `${n} bestemmingsgidsen rond bijzondere verblijven: wanneer je gaat, wat je moet zien en welke bijzondere hotels de reis waard zijn.`,
     h1a: 'Waar ga je',
     h1b: 'hierna heen?',
@@ -382,7 +382,7 @@ const nl: typeof en = {
   notFound: {
     metaTitle: 'Pagina niet gevonden | StayAtNiche',
     h1: 'Deze gast is al vroeg uitgecheckt',
-    text: 'De pagina die je zoekt bestaat niet of is verhuisd. De bijzonderste verblijven ter wereld zijn nog altijd één klik verwijderd.',
+    text: 'De pagina die je zoekt bestaat niet of is verhuisd. Bijzondere verblijven over de hele wereld zijn nog altijd één klik verwijderd.',
     maybe: 'Zocht je misschien een van deze?',
   },
   photoCredits: {
@@ -417,7 +417,7 @@ const nl: typeof en = {
     stayB: 'slaapt',
   },
   home: {
-    metaTitle: 'StayAtNiche: de bijzonderste verblijven ter wereld',
+    metaTitle: 'StayAtNiche: bijzondere verblijven over de hele wereld',
     metaDescription: 'Vind bijzondere hotels die de reis waard zijn: boomhutten, grothotels, onderwaterkamers, safarilodges, ijshotels en meer. Vergelijk prijzen en boek zorgeloos.',
     heroAlt: 'Een glazen hut op een bergkam boven een wolkenzee bij zonsopkomst',
     eyebrow: (h: number, c: number, k: number) => `${h} ${plural(h, 'verblijf', 'verblijven')} · ${c} ${plural(c, 'land', 'landen')} · ${k} ${plural(k, 'soort', 'soorten')} bijzonder`,

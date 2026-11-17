@@ -28,6 +28,19 @@ sourceId: "osm:node/4387801310"
 verifiedAt: 2026-10-12
 publishedDate: 2026-10-12
 status: published
+location:
+  country: "Ecuador"
+  countryCode: "EC"
+  region: "Sucumbíos"
+  city: "Lago Agrio"
+  locality: "Cuyabeno Reserve"
+  coordinates:
+    lat: -0.0311822
+    lng: -76.1652259
+niche_scope: entire_property
+niche_feature: "Hut-style rooms (Papagayo, Trogon, Tarantula, Eagle, Jaguar etc.) at a lodge in the Cuyabeno Reserve Amazon rainforest, sold as 3-5 day tour packages; balconies over primary forest in some huts."
+niche_source_url: "https://www.guacamayoecolodge.com/"
+niche_verified_at: 2026-11-17
 ---
 
 Guacamayo Ecolodge is a set of wooden huts in the primary rainforest of the Cuyabeno Reserve, in the Ecuadorian Amazon. The lodge describes itself as combining ecological comfort with the nature around it, and it is sold mainly as multi-day packages that include the tours.

@@ -29,6 +29,18 @@ sourceId: "osm:node/11682018921"
 verifiedAt: 2026-10-09
 publishedDate: 2026-10-09
 status: published
+location:
+  country: "Turkey"
+  countryCode: "TR"
+  region: "Nevşehir"
+  city: "Uçhisar"
+  coordinates:
+    lat: 38.6285421
+    lng: 34.8058174
+niche_scope: specific_rooms
+niche_feature: "8 rooms in total: five cave rooms and three stone rooms, each named after a planet."
+niche_source_url: "https://www.peristylecave.com/en"
+niche_verified_at: 2026-11-17
 ---
 
 Peristyle Cave Cappadocia is a small hotel high in Uçhisar, beneath the castle that gives the village its skyline. It has eight rooms in total: five caves and three stone rooms. So this is a stay where most, though not all, of the rooms are carved into the rock.

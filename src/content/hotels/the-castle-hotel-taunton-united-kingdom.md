@@ -29,7 +29,20 @@ officialWebsite: "https://www.the-castle-hotel.com/"
 sourceId: "osm:relation/11068596"
 verifiedAt: 2026-10-10
 publishedDate: 2026-10-10
-status: published
+status: draft
+location:
+  country: "United Kingdom"
+  countryCode: "GB"
+  region: "England"
+  city: "Taunton"
+  locality: "Castle Green"
+  coordinates:
+    lat: 51.0154912
+    lng: -3.1037355
+niche_scope: unverified
+niche_feature: "Not a castle keep: a late-18th-century crenellated hotel (upper floor added in the 20th century) on the castle's outer ward, incorporating Castle Bow, the 13th-century east gate. Guests sleep in the hotel, not the medieval castle."
+niche_source_url: "https://www.the-castle-hotel.com/about-us/"
+niche_verified_at: 2026-11-17
 ---
 
 The Castle Hotel in Taunton occupies a Grade II listed 18th-century reconstruction of the town's former 12th-century Norman fortress. Its wisteria-covered frontage is a well-known landmark in the centre of Taunton, Somerset. This is a castle in the middle of a county town rather than a hilltop retreat, and that is part of its charm.

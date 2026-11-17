@@ -28,7 +28,7 @@ bestFor:
   - "Waterpark lovers"
   - "Couples"
 bookingUrl: https://www.booking.com/hotel/bs/atlantis-paradise-island.html
-rating: 8.8
+rating: 7.5
 coordinates:
   lat: 25.0833
   lng: -77.3167
@@ -40,6 +40,20 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Paradise+Island,+Nassau"
     label: "Find Tours on Klook"
+status: draft
+location:
+  country: "Bahamas"
+  countryCode: "BS"
+  region: "New Providence"
+  city: "Nassau"
+  locality: "Paradise Island"
+  coordinates:
+    lat: 25.0833
+    lng: -77.3167
+niche_scope: experience_only
+niche_feature: "Resort with towers (Cove, Royal, Coral, Reef, Harborside) and marine habitats/The Dig as attractions; no underwater rooms or suites found on official room or FAQ pages."
+niche_source_url: "https://www.atlantisbahamas.com/faq"
+niche_verified_at: 2026-11-17
 ---
 
 Atlantis Paradise Island is not a hotel that happens to have amenities. It's a destination complex that happens to have rooms, 11 hotels, 40+ restaurants, a casino, a waterpark, and the element that genuinely distinguishes it from other Caribbean mega-resorts: The Dig, an 11-million-litre marine habitat system woven through the resort's corridors and suites.

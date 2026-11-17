@@ -72,6 +72,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Hwange+National+Park,+Matabeleland+North"
     label: "Find Tours on Klook"
+location:
+  country: "Zimbabwe"
+  countryCode: "ZW"
+  region: "Matabeleland North"
+  city: "Hwange"
+  locality: "Hwange National Park (Linkwasha)"
+  coordinates:
+    lat: -19.4833
+    lng: 26.4
+niche_scope: entire_property
+niche_feature: "Nine en-suite tents (including one family unit) in Hwange National Park overlooking a waterhole, in the Linkwasha-Makalolo Private Wilderness Area; classic game-viewing camp."
+niche_source_url: "https://www.wildernessdestinations.com/africa/zimbabwe/hwange-national-park/davisons-camp"
+niche_verified_at: 2026-11-17
 ---
 
 Zimbabwe's safari reputation has always rested more on the quality of its guides than the luxury of its lodges, and Davison's Camp exemplifies this priority. The camp itself is intentionally intimate, nine tents positioned around a central pan area, their viewing decks oriented toward the waterhole that is the camp's defining feature, and what it lacks in the architectural drama of newer, more expensive operations it compensates for with something harder to manufacture: the knowledge, skill, and genuine passion of its Zimbabwean guiding team.

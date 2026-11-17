@@ -29,6 +29,18 @@ sourceId: "osm:way/94721437"
 verifiedAt: 2026-10-12
 publishedDate: 2026-10-12
 status: published
+location:
+  country: "Italy"
+  countryCode: "IT"
+  region: "Piedmont"
+  city: "Oviglio"
+  coordinates:
+    lat: 44.8604743
+    lng: 8.4878726
+niche_scope: entire_property
+niche_feature: "Nine rooms (4 suites, 2 junior suites, 3 comfort doubles) in the Castello di Oviglio, on the site of a fortified castrum documented from 1367; also a wedding and conference venue."
+niche_source_url: "https://www.castellodioviglio.it/it/"
+niche_verified_at: 2026-11-17
 ---
 
 Castello di Oviglio stands in the municipality of Oviglio, roughly halfway between the provinces of Asti and Alessandria, among the vineyards of Piedmont, between the Monferrato and the Langhe. The castle was once the property of Queen Maria Cristina of Savoy, born an infanta of the Two Sicilies and wife of King Charles Felix, which is why it is known as a residence of royal rank.

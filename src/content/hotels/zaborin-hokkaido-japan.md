@@ -30,7 +30,7 @@ bestFor:
   - Onsen connoisseurs
   - Luxury ryokan experience
 bookingUrl: https://www.booking.com/hotel/jp/zaborin.html
-rating: 9.6
+rating: 8.5
 coordinates:
   lat: 42.8483
   lng: 140.6739
@@ -45,6 +45,20 @@ affiliateLinks:
 seo:
   metaTitle: "Zaborin Niseko Review: Luxury Private Onsen Villas in Hokkaido | StayAtNiche"
   metaDescription: "Zaborin Niseko: 40 private villas with outdoor onsen in a Hokkaido bamboo forest. Kaiseki dining, ski access, and thermal spring baths. Full review and booking."
+status: draft
+location:
+  country: "Japan"
+  countryCode: "JP"
+  region: "Hokkaido"
+  city: "Kutchan"
+  locality: "Hanazono"
+  coordinates:
+    lat: 42.8483
+    lng: 140.6739
+niche_scope: unverified
+niche_feature: "Luxury ryokan with 15 villa suites, each with a private onsen, in a Hanazono (Hokkaido) wood. A temperate-forest ryokan, not a rainforest/jungle lodge; no other listed niche category applies."
+niche_source_url: "https://zaborin.com/en/"
+niche_verified_at: 2026-11-17
 ---
 
 Niseko's fame rests on powder snow — the statistics are remarkable: 15 metres of annual snowfall, dry champagne consistency, and a powder record that surpasses most of the world's premier ski destinations. But Niseko has a second season that receives less attention internationally: summer and autumn, when the Hokkaido countryside — volcanic mountains, rolling dairy farmland, river valleys — is among Japan's most beautiful rural landscapes. Zaborin was designed for both, and succeeds equally at each.

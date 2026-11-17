@@ -30,6 +30,19 @@ sourceId: "osm:relation/9991140"
 verifiedAt: 2026-10-10
 publishedDate: 2026-10-10
 status: published
+location:
+  country: "United Kingdom"
+  countryCode: "GB"
+  region: "England"
+  city: "Darlington"
+  locality: "Walworth"
+  coordinates:
+    lat: 54.5642451
+    lng: -1.6438409
+niche_scope: specific_rooms
+niche_feature: "Castle rooms, four-poster suites (some in the towers) and the King James I Suite are inside the main castle; annex rooms are in an adjoining modern building, plus a gatehouse Lodge (6 guests) and a holiday cottage."
+niche_source_url: "https://walworthcastle.co.uk/hotels-in-darlington/accommodation-in-darlington/"
+niche_verified_at: 2026-11-17
 ---
 
 Walworth Castle is a Grade I listed building of 12th-century origins near Darlington in County Durham. The present house was completed around 1600, probably by Thomas Holt for Thomas Jenison, on the site of an earlier manor house or castle built by the Hansard family. It later served as a prisoner-of-war camp in the Second World War. Now it operates as a hotel and describes itself as Darlington's only castle.

@@ -27,6 +27,19 @@ sourceId: "osm:node/11207544759"
 verifiedAt: 2026-10-12
 publishedDate: 2026-10-12
 status: published
+location:
+  country: "Germany"
+  countryCode: "DE"
+  region: "Saxony"
+  city: "Kurort Jonsdorf"
+  locality: "Zittauer Gebirge"
+  coordinates:
+    lat: 50.8539902
+    lng: 14.7068719
+niche_scope: entire_property
+niche_feature: "Two passenger carriages converted into holiday apartments for two (kitchen, shower, bedroom, terrace) at Jonsdorf station (Easter to July) and Oybin station (August to October) on the narrow-gauge steam railway."
+niche_source_url: "https://www.zittauer-schmalspurbahn.de/bahn-region/uebernachtung/"
+niche_verified_at: 2026-11-17
 ---
 
 The Ferienwaggons are converted railway carriages that the Zittauer Schmalspurbahn rents out as holiday apartments. They stand at stations of the narrow-gauge steam railway in the Zittau Mountains in Saxony, in the Kurort Jonsdorf and Kurort Oybin stations, so the trains are part of the view.

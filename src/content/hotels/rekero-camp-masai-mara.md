@@ -72,6 +72,18 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Masai+Mara+National+Reserve,+Rift+Valley"
     label: "Find Tours on Klook"
+location:
+  country: "Kenya"
+  countryCode: "KE"
+  region: "Narok"
+  locality: "Masai Mara National Reserve (Talek River)"
+  coordinates:
+    lat: -1.4226194
+    lng: 35.0841206
+niche_scope: entire_property
+niche_feature: "Nine safari tents (two family suites) on the Talek River in the Masai Mara National Reserve; open June to March, closed April and May."
+niche_source_url: "https://www.asiliaafrica.com/camps-lodges/rekero-camp/"
+niche_verified_at: 2026-11-17
 ---
 
 The Masai Mara's open, rolling grassland, extending to every horizon under the East African sky, supports concentrations of large mammals that have no parallel outside the Serengeti ecosystem, of which the Mara is the Kenyan northern extension. A camp positioned correctly within the reserve means the wildlife is immediate and continuous, not something you drive to find.

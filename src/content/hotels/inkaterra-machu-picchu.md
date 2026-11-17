@@ -72,6 +72,18 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Machu+Picchu,+Peru"
     label: "Find Tours on Klook"
+location:
+  country: "Peru"
+  countryCode: "PE"
+  region: "Cusco"
+  city: "Machu Picchu Pueblo (Aguas Calientes)"
+  coordinates:
+    lat: -13.1548
+    lng: -72.5257
+niche_scope: entire_property
+niche_feature: "80 whitewashed adobe casitas set in a private five-hectare cloud-forest reserve by Machu Picchu Pueblo station; forest setting but not remote (walkable from town and train station)."
+niche_source_url: "https://www.inkaterra.com/inkaterra-machu-picchu-pueblo-hotel/"
+niche_verified_at: 2026-11-17
 ---
 
 Aguas Calientes is a town that exists entirely because of what is four kilometres up the road, and the infrastructure reflects this: souvenir shops, tourist restaurants, backpacker hostels, and mid-range hotels lining the main street and the Urubamba River gorge. Inkaterra Machu Picchu Pueblo Hotel is the exception. The property occupies five hectares of cloud forest above the town, with the hotel's eighty-three casitas dispersed through the vegetation on stone-paved paths that follow the natural topography, and the sound of the Urubamba always present somewhere below.

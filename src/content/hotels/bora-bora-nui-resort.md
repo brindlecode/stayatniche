@@ -28,7 +28,7 @@ bestFor:
   - "Snorkellers and divers"
   - "Unmissable South Pacific travellers"
 bookingUrl: https://www.booking.com/hotel/pf/bora-bora-nui-resort-spa.html
-rating: 9.2
+rating: 8.8
 coordinates:
   lat: -16.4833
   lng: -151.7500
@@ -40,6 +40,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Bora+Bora,+Society+Islands"
     label: "Find Tours on Klook"
+location:
+  country: "French Polynesia"
+  countryCode: "PF"
+  region: "Society Islands"
+  city: "Bora Bora"
+  locality: "Motu To'opua"
+  coordinates:
+    lat: -16.4833
+    lng: -151.75
+niche_scope: specific_rooms
+niche_feature: "Resort (now Conrad Bora Bora Nui, 114 villas per Forbes Travel Guide) is mostly overwater bungalows, with some beachfront, garden and hillside villas. Hilton official site returned 403."
+niche_source_url: "https://forbestravelguide.com/hotels/bora-bora-french-polynesia/conrad-bora-bora-nui"
+niche_verified_at: 2026-11-17
 ---
 
 Bora Bora is overwater bungalow ground zero, the format was invented here, and the island remains its most convincing argument. Mount Otemanu's 727-metre basalt peak sits at the centre, ringed by a barrier reef enclosing a lagoon whose turquoise colour has made it one of the most photographed bodies of water on Earth. This is the South Pacific as the photographs suggest it will be, which is rarer than it sounds.

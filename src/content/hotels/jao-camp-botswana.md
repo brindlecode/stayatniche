@@ -72,6 +72,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Jao+Concession,+Okavango+Delta"
     label: "Find Tours on Klook"
+location:
+  country: "Botswana"
+  countryCode: "BW"
+  region: "North-West"
+  city: "Maun"
+  locality: "Jao Reserve, Okavango Delta"
+  coordinates:
+    lat: -19.2833
+    lng: 22.8667
+niche_scope: entire_property
+niche_feature: "Seven units (five suites and two villas) on a private island in the Jao Reserve, Okavango Delta; mokoro, boat and game-drive safaris. Described as architectural, not as treehouses."
+niche_source_url: "https://jaoreserve.com/jao-camp/"
+niche_verified_at: 2026-11-17
 ---
 
 The Okavango Delta is one of the natural world's most singular creations: a river that flows from the mountains of Angola and empties not into the sea but into the flat, sand-filled interior of the Kalahari, spreading across 15,000 square kilometres of Botswana in a system of channels, lagoons, floodplains, and islands that supports some of Africa's most concentrated wildlife. The water that falls as rain in Angola months earlier arrives in the Delta as an annual pulse of life, the flood that fills the channels and transforms the landscape from semi-arid savanna to a glittering inland sea.

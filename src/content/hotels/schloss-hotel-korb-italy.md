@@ -31,6 +31,19 @@ sourceId: "osm:node/2872987315"
 verifiedAt: 2026-10-11
 publishedDate: 2026-10-11
 status: published
+location:
+  country: "Italy"
+  countryCode: "IT"
+  region: "South Tyrol"
+  city: "Eppan"
+  locality: "Missian"
+  coordinates:
+    lat: 46.4818725
+    lng: 11.2490214
+niche_scope: specific_rooms
+niche_feature: "Castle suites (about 40 m2, most in the historic Wohnturm/castle) and some comfort doubles are in the castle; panorama suites, exclusive doubles, South Tyrolean and garden suites are in the newer Residence."
+niche_source_url: "https://www.schloss-hotel-korb.com/de/zimmer-suiten-neu"
+niche_verified_at: 2026-11-17
 ---
 
 Schloss Hotel Korb is a 4-star superior hotel in Missian, in the municipality of Eppan in South Tyrol, with views of Bolzano and the Dolomites. The hotel describes its accommodation as fairy-tale nights in the castle and the residence.

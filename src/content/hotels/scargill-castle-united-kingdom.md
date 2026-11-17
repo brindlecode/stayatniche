@@ -30,6 +30,19 @@ sourceId: "osm:way/543871596"
 verifiedAt: 2026-10-10
 publishedDate: 2026-10-10
 status: published
+location:
+  country: "United Kingdom"
+  countryCode: "GB"
+  region: "England"
+  city: "Barnard Castle"
+  locality: "Scargill"
+  coordinates:
+    lat: 54.4918567
+    lng: -1.9189431
+niche_scope: entire_property
+niche_feature: "One self-catering unit for two inside the restored 1550 Tudor castle (surviving three-storey gatehouse) with its own courtyard garden; the whole bookable property is the castle."
+niche_source_url: "https://www.scargillcastle.com/"
+niche_verified_at: 2026-11-17
 ---
 
 Scargill Castle in Teesdale, County Durham, is a self-catering retreat for two inside a restored Tudor castle. History here starts in the 12th century, when it was built by Warren de Scargill while overseeing work at nearby Bowes Castle. It was rebuilt around 1550 as a Tudor dowager house for Mary Scargill, with a three-storey gatehouse and buildings around a central courtyard.

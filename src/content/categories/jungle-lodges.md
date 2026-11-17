@@ -1,7 +1,7 @@
 ---
 title: Jungle Lodges
 tagline: "Deep in the canopy, far from ordinary"
-description: From Costa Rica's cloud forest canopy lodges to Borneo's orangutan-adjacent river camps and the deep Amazon basin retreats of Peru and Brazil, jungle lodges offer an immersion in biodiversity that no other accommodation category can approach. Extraordinary wildlife, primordial soundscapes, and genuine luxury make these forest stays among the most memorable in the world.
+description: From Costa Rica's cloud forest canopy lodges to Borneo's orangutan-adjacent river camps and the deep Amazon basin retreats of Peru and Brazil, jungle lodges offer an immersion in biodiversity that few other accommodation categories can match. Extraordinary wildlife, primordial soundscapes, and genuine luxury make these forest stays among the most memorable in the world.
 icon: jungle-lodges
 coverImage: /images/categories/jungle-lodges.webp
 stats:
@@ -35,7 +35,7 @@ The best jungle lodges are conservation-integrated, not merely conservation-adja
 Costa Rica's Certification for Sustainable Tourism (CST) and Rainforest Alliance partnership provide independently verified benchmarks. This distinction has practical consequences: lodges that are genuinely conservation-integrated deliver better wildlife encounters, because the animals are healthier, more abundant, and less habituated to disturbance.
 
 
-**Costa Rica** has a highly developed eco-lodge infrastructure. The national park network covers over 25% of the country's territory, and properties in the Osa Peninsula (adjacent to Corcovado, described by National Geographic as the most biodiverse place on earth), Tortuguero, and Monteverde cloud forest represent the top of the category globally.
+**Costa Rica** has a highly developed eco-lodge infrastructure. The national park network covers over 25% of the country's territory, and properties in the Osa Peninsula (adjacent to Corcovado, described by National Geographic as the most biodiverse place on earth), Tortuguero, and Monteverde cloud forest are among the leading examples of the category globally.
 
 **Borneo** offers semi-wild orangutan encounters alongside proboscis monkeys, pygmy elephants, and one of the world's richest bird lists. Riverside lodges in Sabah and Sarawak are the standard format. **Peru's Amazon**, particularly around the Tambopata National Reserve near Puerto Maldonado, is one of the most intact sections of the Amazon basin — the macaw clay licks that attract hundreds of birds simultaneously are unlike anything else in wildlife travel.
 

@@ -30,6 +30,18 @@ sourceId: "osm:node/3189902154"
 verifiedAt: 2026-10-13
 publishedDate: 2026-10-13
 status: published
+location:
+  country: "Netherlands"
+  countryCode: "NL"
+  region: "Utrecht"
+  city: "Utrecht"
+  coordinates:
+    lat: 52.114633
+    lng: 5.0969414
+niche_scope: entire_property
+niche_feature: "Single bed-and-breakfast guest room aboard a houseboat (woonboot) moored on the river Vecht in Utrecht; the only bookable unit is on the boat."
+niche_source_url: "https://www.bed-and-breakfast-utrecht.nl"
+niche_verified_at: 2026-11-17
 ---
 
 Houseboat Harmony is a bed and breakfast on the river Vecht in Utrecht, and the room is on a houseboat. Guests sleep on the water with views along the river, close enough to see grebes at about a metre, along with swans and herons, as boats go by.

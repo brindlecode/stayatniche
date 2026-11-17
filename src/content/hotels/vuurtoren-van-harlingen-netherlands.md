@@ -28,6 +28,18 @@ sourceId: "osm:node/3063353331"
 verifiedAt: 2026-10-13
 publishedDate: 2026-10-13
 status: published
+location:
+  country: "Netherlands"
+  countryCode: "NL"
+  region: "Friesland"
+  city: "Harlingen"
+  coordinates:
+    lat: 53.1738182
+    lng: 5.4118292
+niche_scope: entire_property
+niche_feature: "The whole lighthouse tower is one accommodation unit for two over three floors, with the bed on the middle level; run by Dromen aan Zee. Dedicated site vuurtoren-harlingen.nl had an expired TLS certificate and was not read."
+niche_source_url: "https://www.dromenaanzee.nl/"
+niche_verified_at: 2026-11-17
 ---
 
 In Harlingen, the old lighthouse has stopped guiding ships and now guides guests instead. After three-quarters of a century of service the light went out, and the fully restored tower now serves as a place to look out, to enjoy and to sleep. The overnight stay is run by Dromen aan Zee, which offers unusual places to sleep in Friesland.

@@ -21,7 +21,7 @@ bestFor:
   - "Couples"
   - "Romantic getaways"
 bookingUrl: "https://bullesdolive.fr/"
-rating: 8.9
+rating: 8.8
 checkInOut:
   checkIn: "17:00"
   checkOut: "11:00"
@@ -33,6 +33,18 @@ sourceId: "osm:node/14373673556"
 verifiedAt: 2026-11-15
 publishedDate: 2026-11-15
 status: published
+location:
+  country: "France"
+  countryCode: "FX"
+  region: "Auvergne-Rhône-Alpes"
+  city: "Nyons"
+  coordinates:
+    lat: 44.3539529
+    lng: 5.1437841
+niche_scope: specific_rooms
+niche_feature: "Two transparent bubbles (Olea, Provence) plus a wooden cabin (Zome Céleste) at a guesthouse in Nyons; only the two bubbles are the niche."
+niche_source_url: "https://bullesdolive.fr/"
+niche_verified_at: 2026-11-17
 ---
 
 Bulles d'Olive is a small guesthouse among olive trees at Nyons, in the Drôme provençale. It has just three places to sleep: two transparent bubbles, Olea and Provence, and a wooden cabin called the Zome Céleste. Each is meant for two people, and the whole place is set up for a night together under the stars.

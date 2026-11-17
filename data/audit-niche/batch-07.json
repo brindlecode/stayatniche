@@ -89,9 +89,9 @@
   "niche_feature": "Official room pages (Deluxe, King, Deluxe Suite) describe rooms as built entirely of arched cut stone ('Kemer Taş Yapı'), i.e. masonry stone rooms. No page says any room is rock-carved or in a natural cave.",
   "evidence_quote": "Deluxe odalarımız 25 metrekare olup; Kapadokya’ya yeni bir soluk getiren dekorasyon anlayışı ile tamamı kemer taşlardan oluşmaktadır.",
   "operating": "open",
-  "verdict": "draft",
+  "verdict": "keep",
   "new_category": null,
-  "closest_category": "cave-hotels",
+  "closest_category": null,
   "reason": "Official site describes nine built stone rooms of arched stone; none stated as rock-carved or cave, so it fails the cave test.",
   "treehouse_structure": null,
   "location": {
@@ -102,7 +102,9 @@
   "page_issues": [
    "Category cave-hotels is not supported: official pages call the rooms stone rooms (arched stone construction), not carved cave rooms",
    "Page title/name 'Cave' is a name only; the page itself already concedes rooms may not be carved"
-  ]
+  ],
+  "agent_verdict": "draft",
+  "editor_note": "Absence of rock-carved wording on the site is not proof it is not a cave stay: kept, scope unverified."
  },
  {
   "slug": "melek-cave-hotel-turkey",

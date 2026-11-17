@@ -33,6 +33,18 @@ sourceId: "osm:node/6504119641"
 verifiedAt: 2026-10-11
 publishedDate: 2026-10-11
 status: published
+location:
+  country: "Italy"
+  countryCode: "IT"
+  region: "Trentino"
+  city: "Fai della Paganella"
+  coordinates:
+    lat: 46.1803891
+    lng: 11.0705492
+niche_scope: entire_property
+niche_feature: "Three self-catering apartments (Torre del Baron, Residenza delle Contesse, and Castello Fai, which combines the two) in the same 17th-century hunting-lodge castle (Ciastel) in Fai della Paganella."
+niche_source_url: "https://castellofai.com/en/castello-fai-welcome/castello-fai/"
+niche_verified_at: 2026-11-17
 ---
 
 Castello Fai is a restored castle in the historic centre of Fai della Paganella, high above the Adige valley in Trentino. Locals call it the Ciastel, and it is the 17th-century hunting lodge from which the Counts of Spaur set out to hunt four centuries ago. It is let as holiday accommodation, in the form of apartments rather than hotel rooms.

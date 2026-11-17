@@ -30,6 +30,19 @@ sourceId: "osm:node/5224822746"
 verifiedAt: 2026-10-11
 publishedDate: 2026-10-11
 status: published
+location:
+  country: "Italy"
+  countryCode: "IT"
+  region: "Abruzzo"
+  city: "Mozzagrogna"
+  locality: "Castel di Sette"
+  coordinates:
+    lat: 42.1847445
+    lng: 14.4639569
+niche_scope: entire_property
+niche_feature: "45 rooms in the restored Castello di Septe, an early-medieval (Lombard-era, 6th-8th century) hilltop castle declared a national monument; the hotel offers its rooms inside the castle."
+niche_source_url: "https://castellodisepte.com/hotel-castello-di-septe/"
+niche_verified_at: 2026-11-17
 ---
 
 Castello di Septe stands on a hill that dominates the Sangro valley at Mozzagrogna, between the Adriatic and the Apennines. The castle has been restored and declared a national monument by the Ministry of Cultural Heritage, and it now takes guests in an atmosphere that mixes medieval charm with modern comfort.

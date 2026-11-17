@@ -29,6 +29,19 @@ sourceId: "osm:node/10711598044"
 verifiedAt: 2026-10-13
 publishedDate: 2026-10-13
 status: published
+location:
+  country: "Poland"
+  countryCode: "PL"
+  region: "West Pomerania"
+  city: "Mielno"
+  locality: "Lake Jamno"
+  coordinates:
+    lat: 54.261415
+    lng: 16.0745128
+niche_scope: entire_property
+niche_feature: "Self-contained Lagobau Elite houseboat (two bedrooms, bathroom, living room with kitchenette) moored on the grounds of the Na Granicy campsite, about 200 m from the Baltic and facing Lake Jamno; rented as a holiday home."
+niche_source_url: "https://domkinawodzie.mielno.pl/"
+niche_verified_at: 2026-11-17
 ---
 
 Houseboat "Arka" is a houseboat holiday rental in Mielno, on the Polish Baltic coast, moored between Lake Jamno and the sea. The operator, Domki na Wodzie, offers water houses, which it likens to camper vans on water, with the same advantages and drawbacks.

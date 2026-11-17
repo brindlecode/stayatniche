@@ -72,6 +72,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Pretoria+to+Cape+Town+(and+beyond)"
     label: "Find Tours on Klook"
+location:
+  country: "South Africa"
+  countryCode: "ZA"
+  region: "Gauteng"
+  city: "Pretoria"
+  locality: "Capital Park"
+  coordinates:
+    lat: -25.7479
+    lng: 28.1878
+niche_scope: entire_property
+niche_feature: "Private luxury train based in Pretoria; guests sleep in private en-suite compartments (Pullman, Deluxe, Royal Suite) on multi-night journeys across southern Africa. Official site blocked (HTTP 403); Wikipedia used."
+niche_source_url: "https://en.wikipedia.org/wiki/Rovos_Rail"
+niche_verified_at: 2026-11-17
 ---
 
 Rovos Rail is not a company in the way most luxury travel businesses are companies. It is a passion expressed in rolling stock. Rohan Vos began acquiring and restoring vintage railway carriages in the 1980s as a personal project, a way of preserving the magnificent coaches of southern Africa's golden age of rail, which were being scrapped as the continent's railway networks contracted, and what began as a collector's obsession has become, over forty years, the finest privately operated luxury train in the world.

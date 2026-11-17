@@ -40,6 +40,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=North+Malé+Atoll,+Maldives"
     label: "Find Tours on Klook"
+location:
+  country: "Maldives"
+  countryCode: "MV"
+  region: "North Malé Atoll"
+  city: "Malé"
+  locality: "Gili Lankanfushi"
+  coordinates:
+    lat: 4.2833
+    lng: 73.5333
+niche_scope: entire_property
+niche_feature: "45 villas and residences described as overwater villas, including the Private Reserve and Crusoe Residences reached by short boat ride; villa pages describe overwater sundecks."
+niche_source_url: "https://gili-lankanfushi.com/"
+niche_verified_at: 2026-11-17
 ---
 
 More than a hundred exceptional resorts are strung across a thousand Maldivian islands, and Gili Lankanfushi occupies a clear position at the top of that field — earned through accommodation, service, and a sustainability commitment that runs considerably deeper than the obligatory green credentials most resorts display for marketing purposes.

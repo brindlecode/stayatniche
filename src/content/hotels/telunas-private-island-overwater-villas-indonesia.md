@@ -28,6 +28,19 @@ sourceId: "osm:node/4488597889"
 verifiedAt: 2026-10-13
 publishedDate: 2026-10-13
 status: published
+location:
+  country: "Indonesia"
+  countryCode: "ID"
+  region: "Riau Islands"
+  city: "Batam"
+  locality: "Sugi Island"
+  coordinates:
+    lat: 0.7847646
+    lng: 103.7706986
+niche_scope: specific_rooms
+niche_feature: "15 Overwater Villas (90 sqm; standard and Signature) plus five adults-only Ridge Villas on land. The source says 'overwater' but does not describe stilts."
+niche_source_url: "https://telunasresorts.com/private-island/"
+niche_verified_at: 2026-11-17
 ---
 
 Telunas Private Island is a restorative retreat in the Riau Islands of Indonesia, about 50 km from Singapore. The resort offers a choice between family-friendly Overwater Villas above the sea and adults-only Ridge Villas on the hillside.

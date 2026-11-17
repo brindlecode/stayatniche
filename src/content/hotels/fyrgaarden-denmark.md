@@ -33,6 +33,19 @@ status: published
 seo:
   metaTitle: "Fyrgaarden, Lighthouse Keepers House on Anholt"
   metaDescription: "Stay in the lighthouse keepers house beside the old lighthouse on Anholt, Denmark. Three apartments, oil lamps and no electricity. Guests do not sleep in the lighthouse."
+location:
+  country: "Denmark"
+  countryCode: "DK"
+  region: "Central Denmark Region"
+  city: "Anholt"
+  locality: "Eastern tip of Anholt"
+  coordinates:
+    lat: 56.7360039
+    lng: 11.650553
+niche_scope: entire_property
+niche_feature: "Former lighthouse keeper's house beside the old lighthouse on eastern Anholt, let as three apartments (or the whole house); guests do not sleep in the tower itself."
+niche_source_url: "https://www.fyrgarden.com/"
+niche_verified_at: 2026-11-17
 ---
 
 Fyrgaarden is the old lighthouse keepers' house on the Danish island of Anholt, in the Kattegat Sea. Guests stay in the keeper's house next to the old lighthouse, not inside the lighthouse itself. The house was once home to the keeper and his family, and it stands among turquoise water and sand dunes, with no neighbours ahead of it.

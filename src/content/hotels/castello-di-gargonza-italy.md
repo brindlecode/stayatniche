@@ -28,6 +28,19 @@ sourceId: "osm:node/8526235311"
 verifiedAt: 2026-10-12
 publishedDate: 2026-10-12
 status: published
+location:
+  country: "Italy"
+  countryCode: "IT"
+  region: "Tuscany"
+  city: "Monte San Savino"
+  locality: "Gargonza"
+  coordinates:
+    lat: 43.3400727
+    lng: 11.6724726
+niche_scope: entire_property
+niche_feature: "Fortified medieval village (13th-century tower, first recorded 1150); guests sleep in restored peasant houses inside the walls as rooms, suites and apartments, and in the medieval tower."
+niche_source_url: "https://gargonza.it/dormire-in-un-castello-in-toscana/"
+niche_verified_at: 2026-11-17
 ---
 
 Castello di Gargonza is less a single building than a whole village. The fortified borgo, with its restored tower, is a settlement of medieval origin on a hill in Tuscany, and guests sleep inside its ancient walls in suites and apartments. Staying here means waking up among stone lanes rather than in a conventional hotel corridor.

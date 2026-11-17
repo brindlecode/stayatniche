@@ -32,6 +32,19 @@ sourceId: "osm:node/2517243726"
 verifiedAt: 2026-10-13
 publishedDate: 2026-10-13
 status: published
+location:
+  country: "Namibia"
+  countryCode: "NA"
+  region: "Hardap"
+  city: "Sesriem"
+  locality: "Sossusvlei"
+  coordinates:
+    lat: -24.4866918
+    lng: 15.8492648
+niche_scope: entire_property
+niche_feature: "28 self-catering bungalow-style units in a camp under camel thorn trees, 5 km from the Sossusvlei gate, with desert and mountain views."
+niche_source_url: "https://www.desertcamp.com/"
+niche_verified_at: 2026-11-17
 ---
 
 Desert Camp sits on the edge of the Namib Desert in southern Namibia, only about 5 km from the entrance gate to Sossusvlei and Deadvlei. It is a self-catering camp, so the idea is a base of your own from which to visit the dunes, rather than a lodge that runs the day for you.

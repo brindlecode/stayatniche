@@ -30,7 +30,7 @@ bestFor:
   - Luxury travelers
   - Special occasions
 bookingUrl: https://www.booking.com/hotel/ie/ashford-castle.html
-rating: 9.5
+rating: 8.8
 coordinates:
   lat: 53.5427
   lng: -9.3009
@@ -42,6 +42,18 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Cong,+County+Mayo"
     label: "Find Tours on Klook"
+location:
+  country: "Ireland"
+  countryCode: "IE"
+  region: "County Mayo"
+  city: "Cong"
+  coordinates:
+    lat: 53.5427
+    lng: -9.3009
+niche_scope: specific_rooms
+niche_feature: "Historic castle with origins in the 13th century, run as a hotel; official site lists 83 rooms, suites and the separate lakeside Boathouse. It does not map which rooms are in the castle fabric. The Lodge is a separate hotel."
+niche_source_url: "https://www.ashfordcastle.com/about"
+niche_verified_at: 2026-11-17
 ---
 
 Ashford Castle has been around since 1228, when the Anglo-Norman de Burgo family built the original tower on the shores of Lough Corrib. The Guinness family expanded it significantly in the 19th century, and the result is 350 acres of Irish estate with a castle at its centre that is unambiguously the real thing: not a Victorian folly, not a hotel that happens to have a turret.

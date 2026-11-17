@@ -44,6 +44,19 @@ affiliateLinks:
 seo:
   metaTitle: "Mashpi Lodge Ecuador Review: Cloud Forest Eco Lodge | StayAtNiche"
   metaDescription: "Mashpi Lodge: A glass-walled jungle lodge in Ecuador's Chocó cloud forest, 2 hours from Quito. 400+ bird species, sky bike, expert guides. Full review."
+location:
+  country: "Ecuador"
+  countryCode: "EC"
+  region: "Pichincha"
+  city: "Quito"
+  locality: "Mashpi (Pacto parish)"
+  coordinates:
+    lat: 0.1667
+    lng: -78.8667
+niche_scope: entire_property
+niche_feature: "Glass-fronted lodge for 47 guests inside the private Mashpi biosphere reserve of Chocó cloud forest/rainforest, northwest of Quito; all rooms are in the one lodge building."
+niche_source_url: "https://www.mashpilodge.com/the-lodge/"
+niche_verified_at: 2026-11-17
 ---
 
 The Chocó Andino is one of the world's most biodiverse ecosystems — a strip of cloud forest along Ecuador's western Andean slopes that connects the High Andes with the Pacific lowlands and has evolved in isolation long enough to produce an exceptional concentration of endemic species. It is also one of the most threatened: agricultural expansion and logging have reduced the original forest by over 90% in recent decades. Mashpi Lodge operates within one of the last intact private reserves of this ecosystem, and staying here contributes directly to its protection.

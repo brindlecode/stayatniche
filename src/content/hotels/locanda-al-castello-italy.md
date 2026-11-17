@@ -32,6 +32,18 @@ sourceId: "osm:node/6325051257"
 verifiedAt: 2026-10-11
 publishedDate: 2026-10-11
 status: published
+location:
+  country: "Italy"
+  countryCode: "IT"
+  region: "Friuli-Venezia Giulia"
+  city: "Cividale del Friuli"
+  coordinates:
+    lat: 46.1020345
+    lng: 13.4240069
+niche_scope: specific_rooms
+niche_feature: "27 rooms split between the 'antico maniero' (a crenellated castle-style villa/Jesuit monastery 'Villa Betlemme', mid-19th century) and a modern wellness wing; per-wing count not given."
+niche_source_url: "https://www.alcastello.net/it/camere"
+niche_verified_at: 2026-11-17
 ---
 
 Locanda al Castello combines a hotel, a restaurant and a wellness centre in one property, a few minutes from the centre of Cividale del Friuli. The setting is a castle complex, with crenellations and panoramic terraces that also serve as a backdrop for weddings.

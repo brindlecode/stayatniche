@@ -21,7 +21,7 @@ bestFor:
   - "City breaks"
   - "History lovers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Hotel%20Al%20Castello%2C%20Bassano%20del%20Grappa&adults=2"
-rating: 7.6
+rating: 7.5
 coordinates:
   lat: 45.7687933
   lng: 11.7335699
@@ -29,7 +29,19 @@ officialWebsite: "https://www.hotelalcastello.it/"
 sourceId: "osm:node/2450364158"
 verifiedAt: 2026-10-11
 publishedDate: 2026-10-11
-status: published
+status: draft
+location:
+  country: "Italy"
+  countryCode: "IT"
+  region: "Veneto"
+  city: "Bassano del Grappa"
+  coordinates:
+    lat: 45.7687933
+    lng: 11.7335699
+niche_scope: experience_only
+niche_feature: "11-room family-run hotel in a 17th-century town palace inside Bassano's old walls, next to (not in) the medieval castle; the 'castle' is only the hotel's name and its neighbour."
+niche_source_url: "https://www.hotelalcastello.it/en/homepage/"
+niche_verified_at: 2026-11-17
 ---
 
 Hotel Al Castello is housed in a 17th-century palace in the middle of Bassano del Grappa. This is a town building rather than a fortress, standing close to Bassano's medieval castle and the Palladian bridge. The hotel calls itself the only hotel in the historic centre.

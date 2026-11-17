@@ -2,7 +2,7 @@
 title: "Japan: Getting to the Best Ryokans, Onsen Towns & Niche Stays by Rail"
 author: "StayAtNiche Team"
 category: "guide"
-excerpt: "Japan has the world's finest rail network and some of the world's most extraordinary places to sleep. The Japan Rail Pass is the key that unlocks both. This guide covers the rail routes to the best ryokan destinations — from Hakone to Kyushu's onsen towns — and the unique stays that make each arrival worth the journey."
+excerpt: "Japan has an outstanding rail network and some extraordinary places to sleep. The Japan Rail Pass is the key that unlocks both. This guide covers the rail routes to the best ryokan destinations — from Hakone to Kyushu's onsen towns — and the unique stays that make each arrival worth the journey."
 coverImage: /images/blog/japan-ryokans-rail-pass-getting-around.jpg
 publishedDate: 2025-12-01T00:00:00.000Z
 tags:
@@ -26,7 +26,7 @@ seo:
   metaDescription: "How to use the Japan Rail Pass to reach the country's best ryokan, onsen towns, and niche hotels. Rail routes from Tokyo to Kyoto, Hakone, Naoshima, and Hokkaido explained."
 ---
 
-Japan's Shinkansen is the most efficient way to move between major cities on earth. Tokyo to Kyoto in 2h15m. Kyoto to Hiroshima in 1h25m. Osaka to Hakata (Fukuoka) in 2h15m. The network extends north to Hokkaido and south to Kagoshima; within the cities, subway and local JR lines connect the train terminals to the neighbourhood-level destinations. The entire system — except for a handful of private railways and some express surcharges — is covered by the Japan Rail Pass.
+Japan's Shinkansen is among the most efficient ways to move between major cities anywhere. Tokyo to Kyoto in 2h15m. Kyoto to Hiroshima in 1h25m. Osaka to Hakata (Fukuoka) in 2h15m. The network extends north to Hokkaido and south to Kagoshima; within the cities, subway and local JR lines connect the train terminals to the neighbourhood-level destinations. The entire system — except for a handful of private railways and some express surcharges — is covered by the Japan Rail Pass.
 
 The Japan Rail Pass is the key document for rail-first Japan travel. It is sold only outside Japan (purchased before departure) and covers unlimited travel on almost all JR trains including all Shinkansen except the Nozomi and Mizuho express services. The 7-day pass costs approximately ¥50,000 ($330); the 14-day pass ¥80,000 ($530). Whether it pays for itself depends on your itinerary — but for a Tokyo-to-Kyoto-to-Hiroshima-to-Hakone circuit, it pays for itself by day 4.
 

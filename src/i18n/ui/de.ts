@@ -85,7 +85,7 @@ const catStart = (cat: string) => cap(catMid(cat));
 
 const de: typeof en = {
   meta: {
-    defaultDescription: 'Die außergewöhnlichsten Hotels der Welt: Baumhäuser, Höhlen, Unterwasserzimmer, Schlösser, Eishotels und mehr. Handverlesene Unterkünfte, die die Reise prägen.',
+    defaultDescription: 'Außergewöhnliche Hotels weltweit: Baumhäuser, Höhlen, Unterwasserzimmer, Schlösser, Eishotels und mehr. Handverlesene Unterkünfte, die die Reise prägen.',
   },
   fmt: {
     usd: (amount: string) => `${amount}${NBSP}$`,
@@ -198,7 +198,7 @@ const de: typeof en = {
   },
   blog: {
     metaTitle: 'Reiseratgeber: außergewöhnliche Hotels, Reiseziele & Planung',
-    metaDescription: 'Ratgeber zu den außergewöhnlichsten Hotels der Welt – Baumhäuser, Höhlen, Eishotels, Safari-Lodges – dazu Reiseziele und praktische Tipps für die Planung.',
+    metaDescription: 'Ratgeber zu außergewöhnlichen Hotels weltweit – Baumhäuser, Höhlen, Eishotels, Safari-Lodges – dazu Reiseziele und praktische Tipps für die Planung.',
     lead: 'Wo Sie schlafen, wann Sie reisen und wie Sie hinkommen – für Reisen rund um eine außergewöhnliche Unterkunft.',
     readGuide: 'Zum Ratgeber',
     filter: 'Ratgeber filtern',
@@ -296,7 +296,7 @@ const de: typeof en = {
     other: 'Weitere Unterkunftsarten',
   },
   destinations: {
-    metaTitle: 'Reiseziele: Hier stehen die außergewöhnlichsten Hotels',
+    metaTitle: 'Reiseziele: Außergewöhnliche Hotels weltweit finden',
     metaDescription: (n: number) => `${n} ${plural(n, 'Reiseführer', 'Reiseführer')} rund um außergewöhnliche Unterkünfte: wann Sie reisen, was Sie sehen sollten und welche Hotels die Reise wert sind.`,
     h1a: 'Wohin geht es',
     h1b: 'als Nächstes?',
@@ -434,7 +434,7 @@ const de: typeof en = {
   notFound: {
     metaTitle: 'Seite nicht gefunden | StayAtNiche',
     h1: 'Diese Unterkunft hat offenbar früher ausgecheckt',
-    text: 'Die gesuchte Seite gibt es nicht oder sie ist umgezogen. Die außergewöhnlichsten Unterkünfte der Welt sind trotzdem nur einen Klick entfernt.',
+    text: 'Die gesuchte Seite gibt es nicht oder sie ist umgezogen. Außergewöhnliche Unterkünfte rund um die Welt sind trotzdem nur einen Klick entfernt.',
     maybe: 'Suchen Sie vielleicht eine dieser Seiten?',
   },
   photoCredits: {
@@ -469,7 +469,7 @@ const de: typeof en = {
     stayB: 'übernachten',
   },
   home: {
-    metaTitle: 'StayAtNiche: die außergewöhnlichsten Unterkünfte der Welt',
+    metaTitle: 'StayAtNiche: außergewöhnliche Unterkünfte weltweit',
     metaDescription: 'Außergewöhnliche Hotels, die eine Reise wert sind: Baumhäuser, Höhlenhotels, Unterwasserzimmer, Safari-Lodges, Eishotels und mehr. Preise vergleichen, sicher buchen.',
     heroAlt: 'Eine gläserne Hütte auf einem Bergkamm über einem Wolkenmeer bei Sonnenaufgang',
     eyebrow: (h: number, c: number, k: number) => `${h} ${plural(h, 'Unterkunft', 'Unterkünfte')} · ${c} ${plural(c, 'Land', 'Länder')} · ${k} ${plural(k, 'Spielart', 'Spielarten')} des Außergewöhnlichen`,

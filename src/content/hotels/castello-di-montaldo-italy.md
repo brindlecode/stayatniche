@@ -31,6 +31,18 @@ sourceId: "osm:node/10142163598"
 verifiedAt: 2026-10-11
 publishedDate: 2026-10-11
 status: published
+location:
+  country: "Italy"
+  countryCode: "IT"
+  region: "Piedmont"
+  city: "Montaldo Torinese"
+  coordinates:
+    lat: 45.0657576
+    lng: 7.8479424
+niche_scope: entire_property
+niche_feature: "All 39 rooms and suites are in the medieval castle (founded c. 1011-1038, later a villa and Jesuit college), including suites in its towers and the former chapel."
+niche_source_url: "https://www.castellomontaldotorino.it/en/castle-history.php"
+niche_verified_at: 2026-11-17
 ---
 
 Castello di Montaldo is a 4-star Superior hotel created inside a medieval castle in Montaldo Torinese, on the hills east of Turin. The whole property is the castle, so every room is part of the historic building.

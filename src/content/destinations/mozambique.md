@@ -16,7 +16,7 @@ bestTimeToVisit:
 mustSee:
   - "Bazaruto Archipelago, five islands of dazzling white sand and turquoise water with endemic dugong population"
   - "Quirimbas Archipelago, a remote chain of 32 islands in the far north with pristine reefs and Swahili ruins"
-  - "Tofo Beach, the best spot in Africa for reliable whale shark encounters on snorkel"
+  - "Tofo Beach, a well-known spot in Africa for reliable whale shark encounters on snorkel"
   - "Ibo Island, Quirimbas, a decaying Portuguese colonial island town with a fascinating Arab-African-Portuguese heritage"
   - "Pemba, the gateway city to the north, with a beautiful bay and a Portuguese-influenced old town"
   - "Vilanculos, the southern gateway town with dhow sailing excursions across the Bazaruto Archipelago"

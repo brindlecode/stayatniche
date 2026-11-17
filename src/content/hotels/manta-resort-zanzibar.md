@@ -55,7 +55,7 @@ prosAndCons:
     - "Ocean conditions occasionally affect access and comfort"
     - "Advance booking essential, very limited availability"
 bookingUrl: "https://www.booking.com/searchresults.html?ss=Manta+Resort+Pemba+Island+Tanzania"
-rating: 9.6
+rating: 8.8
 checkInOut:
   checkIn: "15:00"
   checkOut: "11:00"
@@ -89,6 +89,18 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Pemba+Island"
     label: "Find Tours on Klook"
+location:
+  country: "Tanzania"
+  countryCode: "TZ"
+  region: "Zanzibar"
+  locality: "Ras Kigomasha, Pemba Island"
+  coordinates:
+    lat: -5.0667
+    lng: 39.7833
+niche_scope: specific_rooms
+niche_feature: "One Underwater Room: a three-level floating suite anchored about 250 m off Pemba shore, with the double bedroom four metres below the sea surface. The rest of the resort (villas, garden rooms) is ordinary accommodation."
+niche_source_url: "https://themantaresort.com/underwater-room/"
+niche_verified_at: 2026-11-17
 ---
 
 Four metres below the surface of the Indian Ocean, with the reef life of Pemba Channel drifting past the windows in the dark, conventional hotel categories stop being useful. The Manta Resort's Underwater Room is something separate: a submerged bedroom off one of the least-visited islands in the Western Indian Ocean, where the fish are considerably more curious about you than you are about them.

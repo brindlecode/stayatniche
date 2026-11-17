@@ -40,6 +40,18 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Göreme,+Cappadocia"
     label: "Find Tours on Klook"
+location:
+  country: "Turkey"
+  countryCode: "TR"
+  region: "Nevşehir"
+  city: "Göreme"
+  coordinates:
+    lat: 38.6431
+    lng: 34.8289
+niche_scope: entire_property
+niche_feature: "Hotel of cave suites in Göreme; official site says its cave rooms are carved into rock formations. Third-party showcaves.com lists 34 rooms in former Hittite/Roman/Byzantine houses and caves."
+niche_source_url: "https://cappadociacavesuiteshotel.com/"
+niche_verified_at: 2026-11-17
 ---
 
 Cappadocia Cave Suites sits in the heart of Göreme, tunnelling back into the hillside through a series of vaulted rooms and carved corridors. The suites vary in character: some occupy original Byzantine cave spaces with smoothed tufa walls and barrel-vaulted ceilings; others are cut with more angular precision, finished with Anatolian tiles and kilim cushions that bring warmth to the pale stone. The tufa maintains a natural temperature of around 18°C year-round — genuinely cool in summer, and notably warmer than the outside air in winter.

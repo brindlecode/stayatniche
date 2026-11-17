@@ -1,8 +1,8 @@
 ---
 title: Wij vinden de plekken die anderen missen
-metaTitle: "Over StayAtNiche | De bijzonderste verblijven ter wereld"
+metaTitle: "Over StayAtNiche | Bijzondere verblijven wereldwijd"
 metaDescription: "StayAtNiche is een onafhankelijke gids voor bijzondere hotels: boomhutten, grothotels, onderwaterkamers, ijshotels en kastelen, gecheckt en vergeleken."
-lead: StayAtNiche is een onafhankelijke reisgids voor de bijzonderste slaapplekken ter wereld. Gewoon doen we niet.
+lead: StayAtNiche is een onafhankelijke reisgids voor bijzondere slaapplekken over de hele wereld. Gewoon doen we niet.
 ---
 
 ## Een reis moet een verhaal opleveren

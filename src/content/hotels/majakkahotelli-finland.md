@@ -31,6 +31,19 @@ sourceId: "osm:node/3634187416"
 verifiedAt: 2026-11-15
 publishedDate: 2026-11-15
 status: published
+location:
+  country: "Finland"
+  countryCode: "FI"
+  region: "Satakunta"
+  city: "Rauma"
+  locality: "Kylmäpihlaja"
+  coordinates:
+    lat: 61.1446672
+    lng: 21.3028683
+niche_scope: specific_rooms
+niche_feature: "All 15 hotel rooms are in the Kylmapihlaja lighthouse tower on an outer-sea island; the island also has eight separate two-person cottages, which are not in the tower."
+niche_source_url: "https://www.kylmapihlaja.com/majakkahotelli.php"
+niche_verified_at: 2026-11-17
 ---
 
 Majakkahotelli is a lighthouse hotel on an island at the edge of the open sea. Every one of its guest rooms is inside the lighthouse tower, decorated in a simple, comfortable maritime style. Beyond the tower, the island has a restaurant, a guest harbour and eight two-person cottages.

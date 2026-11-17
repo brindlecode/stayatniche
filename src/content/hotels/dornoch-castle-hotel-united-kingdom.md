@@ -31,6 +31,18 @@ sourceId: "osm:node/506830120"
 verifiedAt: 2026-10-10
 publishedDate: 2026-10-10
 status: published
+location:
+  country: "United Kingdom"
+  countryCode: "GB"
+  region: "Scotland"
+  city: "Dornoch"
+  coordinates:
+    lat: 57.8798707
+    lng: -4.0298557
+niche_scope: specific_rooms
+niche_feature: "9 of 21 rooms are inside the 15th-century castle; the other 12 are in a modern extension."
+niche_source_url: "https://dornochcastlehotel.com/"
+niche_verified_at: 2026-11-17
 ---
 
 Dornoch Castle Hotel occupies a 15th-century castle in the middle of the small coastal town of Dornoch, directly opposite the 12th-century Dornoch Cathedral. It is a hotel with 21 rooms, and only part of it is the castle: nine rooms are located within the old building, while the others are in a modern extension. If sleeping behind castle walls is the point of your trip, ask for one of the castle rooms when you book.

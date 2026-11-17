@@ -34,6 +34,19 @@ sourceId: "osm:way/1040773684"
 verifiedAt: 2026-11-15
 publishedDate: 2026-11-15
 status: published
+location:
+  country: "Namibia"
+  countryCode: "NA"
+  region: "Khomas"
+  city: "Solitaire"
+  locality: "Farm Cha-re"
+  coordinates:
+    lat: -23.6253073
+    lng: 15.8655432
+niche_scope: entire_property
+niche_feature: "Campsites plus twelve open-air-concept en-suite self-catering units on Farm Cha-re in the Namib Desert, with guided desert tours."
+niche_source_url: "https://www.bushmansdesertcamp-sossus.com/"
+niche_verified_at: 2026-11-17
 ---
 
 Bushman's Desert Camp sits on Farm Cha-re in the Namib Desert, 33 km north of Solitaire on the C14. The farm was once used for Karakul sheep, but the land proved too harsh for farming. Its owners decided it was a good place to introduce guests to the desert instead, since it holds dunes, plains, mountains, canyons and sandstone mountains within a single property.

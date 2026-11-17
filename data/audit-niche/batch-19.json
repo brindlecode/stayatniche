@@ -62,9 +62,9 @@
   "niche_feature": "Single-room floating hotel on Lake Mälaren by artist Mikael Genberg: bedroom three metres below the surface with panoramic windows. Tourist board says it cannot currently be booked; a 2026 guide says it did not operate and is for sale.",
   "evidence_quote": "När natten faller på är det dags att klättra ner till sovrummet med panoramafönster i alla fyra väderstreck – tre meter under vattenytan.",
   "operating": "closed",
-  "verdict": "draft",
+  "verdict": "keep",
   "new_category": null,
-  "closest_category": "underwater-rooms",
+  "closest_category": null,
   "reason": "Concept is a genuine underwater room, but Visit Västmanland says it cannot be booked now and a 2026 guide says it did not operate and is for sale.",
   "treehouse_structure": null,
   "location": {
@@ -79,6 +79,8 @@
    "Kayak access and life jackets unsupported (source mentions a rubber boat); '3 km by boat' to city centre unverified",
    "Surface area described as a 25 sqm floating pontoon plus a room above water; 'sitting area' and 'maximum two guests' not confirmed by this source",
    "'World's first underwater hotel room' and 'one of the most discussed hotel concepts' are unsupported superlatives"
-  ]
+  ],
+  "agent_verdict": "draft",
+  "editor_note": "Not bookable now; concept still fits its category: kept, owner to decide."
  }
 ]

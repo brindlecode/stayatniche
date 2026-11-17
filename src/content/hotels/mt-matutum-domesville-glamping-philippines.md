@@ -24,6 +24,19 @@ sourceId: "osm:way/1464081212"
 verifiedAt: 2026-10-13
 publishedDate: 2026-10-13
 status: published
+location:
+  country: "Philippines"
+  countryCode: "PH"
+  region: "South Cotabato"
+  city: "Tupi"
+  locality: "Sitio Lemblisong"
+  coordinates:
+    lat: 6.3168836
+    lng: 125.0283507
+niche_scope: unverified
+niche_feature: "Geodesic dome glamping units (Deluxe, Family, Superior, Premiere Dome) confirmed, alongside a casita, villa, casa and camping tent. Official text never says the domes are transparent or clear-roofed, so the bubble test is unconfirmed."
+niche_source_url: "https://hotels.cloudbeds.com/reservation/KbrUB1"
+niche_verified_at: 2026-11-17
 ---
 
 Mt. Matutum DomesVille Glamping is a camping-style stay in Tupi, South Cotabato, in the Philippines, where the accommodation is a set of dome units rather than hotel rooms. The operator calls the domes eccentric and outstanding camping accommodations, designed to offer a high level of comfort in the outdoors.

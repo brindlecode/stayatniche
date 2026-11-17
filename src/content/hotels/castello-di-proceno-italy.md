@@ -30,6 +30,18 @@ sourceId: "osm:node/10844701213"
 verifiedAt: 2026-10-11
 publishedDate: 2026-10-11
 status: published
+location:
+  country: "Italy"
+  countryCode: "IT"
+  region: "Lazio"
+  city: "Proceno"
+  coordinates:
+    lat: 42.75851
+    lng: 11.8272778
+niche_scope: specific_rooms
+niche_feature: "Albergo diffuso in the Proceno castle complex (pentagonal fortress with keep, two turrets, working drawbridge): apartments and suites in the fortino and courtyard, plus four rooms in a former wall tower. Separate farmhouse Il Giulione is outside the castle."
+niche_source_url: "https://www.castellodiproceno.it/accoglienza/appartamenti/"
+niche_verified_at: 2026-11-17
 ---
 
 Castello di Proceno is an albergo diffuso, a hotel spread across the buildings of a historic village rather than under one roof. It occupies a castle and borgo at Proceno, on the Via Francigena at the meeting point of Tuscany, Umbria and Lazio, in the heart of the Tuscia region. The Terme di Fonteverde at San Casciano dei Bagni are a few kilometres away.

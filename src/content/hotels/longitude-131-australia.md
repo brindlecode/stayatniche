@@ -72,6 +72,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Uluru,+Northern+Territory"
     label: "Find Tours on Klook"
+location:
+  country: "Australia"
+  countryCode: "AU"
+  region: "Northern Territory"
+  city: "Yulara"
+  locality: "Uluru-Kata Tjuta National Park"
+  coordinates:
+    lat: -25.250359
+    lng: 131.008058
+niche_scope: entire_property
+niche_feature: "Sixteen tented pavilions among red-rust dunes of the Central Desert facing Uluru: fifteen luxury tents plus one premium Dune Pavilion with views to both Uluru and Kata Tjuta. Closed 25 Jan-19 Apr 2027 for refurbishment."
+niche_source_url: "https://longitude131.com.au/"
+niche_verified_at: 2026-11-17
 ---
 
 Uluru in the minutes after dawn is a reason to plan a journey. The monolith — 348 metres tall, 9.4 kilometres in circumference, arkose sandstone deposited 500 million years ago — absorbs and redirects the early sun in a colour sequence that moves from deep violet through burnt orange to coral pink over roughly twenty minutes. Painters have attempted it. Photographers have built careers around it. At Longitude 131°, guests watch it from bed.

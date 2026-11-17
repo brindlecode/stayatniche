@@ -1,8 +1,8 @@
 ---
 title: Encontramos los alojamientos que otros pasan por alto
-metaTitle: "Sobre StayAtNiche | Los alojamientos más insólitos del mundo"
-metaDescription: "StayAtNiche es una guía independiente de los hoteles más insólitos del mundo: cabañas en los árboles, cuevas, hoteles de hielo, castillos y más, verificados."
-lead: StayAtNiche es una guía de viajes independiente dedicada a los lugares más extraordinarios del mundo para pasar la noche. Lo corriente no va con nosotros.
+metaTitle: "Sobre StayAtNiche | Alojamientos insólitos de todo el mundo"
+metaDescription: "StayAtNiche es una guía independiente de hoteles insólitos de todo el mundo: cabañas en los árboles, cuevas, hoteles de hielo, castillos y más, verificados."
+lead: StayAtNiche es una guía de viajes independiente dedicada a lugares extraordinarios de todo el mundo para pasar la noche. Lo corriente no va con nosotros.
 ---
 
 ## Viajar debería dejarte una historia que contar

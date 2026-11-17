@@ -2,7 +2,7 @@
 source: stargazing-atacama-chile
 title: "Observation des étoiles dans le désert d'Atacama"
 destination: "San Pedro de Atacama"
-description: "Levez les yeux à 2 400 mètres d'altitude, dans le désert le plus aride du monde, et contemplez le ciel nocturne tel que l'humanité le voyait avant l'électricité : une Voie lactée si dense et si tridimensionnelle qu'elle projette une ombre ténue, les Nuages de Magellan visibles à l'œil nu comme les galaxies satellites de la nôtre qu'ils sont, et la Croix du Sud qui tournoie au-dessus de vous dans une profusion cosmique que les astronomes professionnels viennent chercher tout exprès dans l'Atacama. Le plus beau ciel nocturne du monde est ici, et le partager avec un astronome qui le connaît intimement compte parmi les expériences de voyage les plus profondes qui soient."
+description: "Levez les yeux à 2 400 mètres d'altitude, dans le désert le plus aride du monde, et contemplez le ciel nocturne tel que l'humanité le voyait avant l'électricité : une Voie lactée si dense et si tridimensionnelle qu'elle projette une ombre ténue, les Nuages de Magellan visibles à l'œil nu comme les galaxies satellites de la nôtre qu'ils sont, et la Croix du Sud qui tournoie au-dessus de vous dans une profusion cosmique que les astronomes professionnels viennent chercher tout exprès dans l'Atacama. L'un des plus beaux ciels nocturnes du monde est ici, et le partager avec un astronome qui le connaît intimement compte parmi les expériences de voyage les plus profondes qui soient."
 booking:
   price: "À partir de 55 $ par personne"
   duration: "3 à 4 heures (en soirée)"

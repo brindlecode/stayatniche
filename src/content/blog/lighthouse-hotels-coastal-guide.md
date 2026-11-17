@@ -2,7 +2,7 @@
 title: "Lighthouse Hotels, The Complete Guide to Staying in a Working Maritime Icon"
 author: "StayAtNiche Team"
 category: "guide"
-excerpt: "From the rugged coasts of Ireland to the sun-bleached shores of the Mediterranean, discover the world's most extraordinary lighthouse hotels and keeper's cottage stays."
+excerpt: "From the rugged coasts of Ireland to the sun-bleached shores of the Mediterranean, discover extraordinary lighthouse hotels and keeper's cottage stays."
 coverImage: /images/blog/lighthouse-hotels-coastal-guide.jpg
 publishedDate: 2025-02-01T00:00:00.000Z
 tags:
@@ -18,14 +18,14 @@ relatedHotels: []
 status: published
 seo:
   metaTitle: "Best Lighthouse Hotels Worldwide, Complete Guide | StayAtNiche"
-  metaDescription: "Discover the world's finest lighthouse hotels from Ireland to New Zealand. Stay in a converted lighthouse keeper's cottage with spectacular coastal views."
+  metaDescription: "Discover lighthouse hotels from Ireland to New Zealand. Stay in a converted lighthouse keeper's cottage with sweeping coastal views and booking tips."
 ---
 
 There is a reason that lighthouses have captured the human imagination for centuries. Perched at the edges of continents and islands, on headlands battered by Atlantic gales and Mediterranean sciroccos, these structures speak of a particular combination of isolation, duty, and elemental drama that resonates deeply. The lighthouse keeper's life, maintaining the light through storms, solitary in a tower above crashing waves, has generated an entire literature and mythology.
 
 As maritime technology has rendered human lighthouse keepers obsolete, many of the world's most dramatically positioned lighthouse structures have been opened to travellers. The experience of staying in a converted lighthouse or lighthouse keeper's cottage is genuinely unlike any other accommodation category: the sea is omnipresent, the isolation typically profound, and the light, both the lighthouse beam and the quality of coastal daylight, extraordinary.
 
-This guide covers the world's finest lighthouse hotel experiences, from Ireland's wild Atlantic coasts to New Zealand's remote northern tip, with practical advice on what to expect.
+This guide covers lighthouse hotel experiences, from Ireland's wild Atlantic coasts to New Zealand's remote northern tip, with practical advice on what to expect.
 
 ---
 

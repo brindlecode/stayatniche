@@ -43,7 +43,7 @@ prosAndCons:
     - Very remote, requires flights to Kiruna plus transfer
     - The winter hotel melts and is rebuilt each year, art suites are temporary by design
 bookingUrl: https://www.booking.com/hotel/se/icehotel.html
-rating: 9.4
+rating: 8.8
 seasonalInfo:
   bestTime: December to March for the full winter ice hotel; June to August for midnight sun
   peakSeason: December to February (northern lights season) and Midsummer
@@ -72,6 +72,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Jukkasjärvi,+Swedish+Lapland"
     label: "Find Tours on Klook"
+location:
+  country: "Sweden"
+  countryCode: "SE"
+  region: "Norrbotten"
+  city: "Kiruna"
+  locality: "Jukkasjärvi"
+  coordinates:
+    lat: 67.849884
+    lng: 20.597001
+niche_scope: specific_rooms
+niche_feature: "Ice rooms and art suites in ICEHOTEL Winter (Dec-Apr), plus ICEHOTEL 365 year-round art and deluxe suites made of ice and snow (18 suites, -5C); warm rooms and cabins in separate buildings are ordinary."
+niche_source_url: "https://icehotel.com/hotel"
+niche_verified_at: 2026-11-17
 ---
 
 Everything begins with the river. The Torne River, which forms the border between Sweden and Finland as it descends toward the Bothnian Bay, freezes each November to a depth of more than a metre: a mass of exceptionally pure, crystal clear ice that has no equal in the world for architectural purposes. It was from this river that Yngve Bergqvist and a team of Japanese artists harvested the first blocks in 1989, and from those blocks they built, experimentally and with no certainty of success, the world's first hotel made entirely from ice.

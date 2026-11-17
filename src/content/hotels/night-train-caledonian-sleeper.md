@@ -72,6 +72,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Scottish+Highlands"
     label: "Find Tours on Klook"
+location:
+  country: "United Kingdom"
+  countryCode: "GB"
+  region: "England"
+  city: "London"
+  locality: "Euston"
+  coordinates:
+    lat: 57.4778
+    lng: -4.2247
+niche_scope: entire_property
+niche_feature: "Overnight sleeper train between London and Scotland; guests sleep in private rooms (Club En-suite twin-bunk rooms, Double En-suite, Classic) on the train. Seated coaches also exist but are not sleeping rooms."
+niche_source_url: "https://www.sleeper.scot/accommodation/club-en-suite-room"
+niche_verified_at: 2026-11-17
 ---
 
 There are approximately 11 hours between London Euston and Inverness. By air, the same journey takes under 90 minutes. But the Caledonian Sleeper does not compete with the flight on the flight's terms. It competes by doing two things at once: moving you from London to Scotland while you sleep, so that you step off the train in the Highlands at 8am with a full day ahead of you and no hotel bill for the previous night. The efficiency argument alone makes the sleeper a practical option. The route itself makes it something more.

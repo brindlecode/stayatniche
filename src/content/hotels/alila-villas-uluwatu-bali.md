@@ -40,6 +40,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Uluwatu,+Bali"
     label: "Find Tours on Klook"
+location:
+  country: "Indonesia"
+  countryCode: "ID"
+  region: "Bali"
+  city: "Uluwatu"
+  locality: "Bukit Peninsula"
+  coordinates:
+    lat: -8.8291
+    lng: 115.0853
+niche_scope: entire_property
+niche_feature: "Resort (50 suites, about 34 villas) on a large clifftop plot on the Bukit Peninsula; per Rume only cliff-edge villas have uninterrupted sea views."
+niche_source_url: "https://rumemagazine.com/hotels/hotel-reviews/alila-villas-uluwatu/"
+niche_verified_at: 2026-11-17
 ---
 
 Alila Villas Uluwatu sits 100 metres above the Indian Ocean on Bali's Bukit Peninsula, and the site is the whole argument. The peninsula is limestone clifftops above legendary surf, home to one of the island's most significant Hindu temples, and far enough from Seminyak's noise to feel like a different Bali. The hotel sits at the cliff's edge with an uninterrupted ocean horizon.

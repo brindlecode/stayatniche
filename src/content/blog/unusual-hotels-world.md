@@ -2,7 +2,7 @@
 title: "30 Most Unusual Hotels in the World, Extraordinary Stays You Won't Believe Exist"
 author: "StayAtNiche Team"
 category: "listicle"
-excerpt: "From underwater bedrooms in the Maldives to a transparent pod on a Peruvian cliff face, 30 of the world's most extraordinary and unusual hotel experiences, by category."
+excerpt: "From underwater bedrooms in the Maldives to a transparent pod on a Peruvian cliff face, 30 extraordinary and unusual hotel experiences from around the world, by category."
 publishedDate: 2025-01-28
 tags:
   - unusual-hotels
@@ -16,7 +16,7 @@ affiliateDisclosure: true
 status: "published"
 seo:
   metaTitle: "30 Most Unusual Hotels in the World, Extraordinary Stays"
-  metaDescription: "The world's most unusual hotels: underwater bedrooms, ice suites, treehouse pods, cave dwellings, cliffside capsules, and extraordinary stays across every continent."
+  metaDescription: "Unusual hotels around the world: underwater bedrooms, ice suites, treehouse pods, cave dwellings, cliffside capsules, and unique stays across every continent."
 relatedHotels: []
 ---
 
@@ -40,7 +40,7 @@ Conceptual artist Mikael Genberg's submerged room sits 3 metres below the surfac
 
 **Finnish Lapland | From $450/night**
 
-The glass igloo that launched a thousand imitations. Kakslauttanen's thermal-glass bubbles were designed with a heated coating to prevent condensation and snow accumulation, giving you an unobstructed view of the aurora borealis from your bed. The resort sits at 69°N latitude in Finnish Lapland, with some of the darkest, most aurora-rich skies in Europe. The original and still the best of its category.
+The glass igloo that launched a thousand imitations. Kakslauttanen's thermal-glass bubbles were designed with a heated coating to prevent condensation and snow accumulation, giving you an unobstructed view of the aurora borealis from your bed. The resort sits at 69°N latitude in Finnish Lapland, with some of the darkest, most aurora-rich skies in Europe. The original of its category, and still a benchmark.
 
 **Provence, France | From $280/night**
 
@@ -96,7 +96,7 @@ A 13th-century castle on the shores of Lough Corrib in County Mayo, now one of I
 
 **County Clare, Ireland | From $350/night**
 
-The ancestral home of the O'Brien family — descendants of the High King of Ireland, Brian Boru — is now a five star hotel surrounded by 450 acres of woodland and a private lake. Golf, fishing, falconry, and the kind of baronial grandeur that makes Ireland's castle hotel scene the best in the world.
+The ancestral home of the O'Brien family — descendants of the High King of Ireland, Brian Boru — is now a five star hotel surrounded by 450 acres of woodland and a private lake. Golf, fishing, falconry, and the kind of baronial grandeur that makes Ireland's castle hotel scene so distinctive.
 
 **Sutherland, Scotland | From $900/night (member rates vary)**
 
@@ -140,7 +140,7 @@ Not a hotel in the conventional sense, but the original blue-and-gold carriages 
 
 **Scotland | From $2,500/night**
 
-Scotland's most luxurious train journey traverses the Highlands over 2–7 nights, stopping for excursions to distilleries, castles, and coastal villages. The carriages date to the 1960s and have been restored to a level of Edwardian grandeur. Small enough to feel personal — maximum 36 guests — with Scottish produce, single malts, and proper Highland scenery as standard.
+A luxurious Scottish train journey that traverses the Highlands over 2–7 nights, stopping for excursions to distilleries, castles, and coastal villages. The carriages date to the 1960s and have been restored to a level of Edwardian grandeur. Small enough to feel personal — maximum 36 guests — with Scottish produce, single malts, and proper Highland scenery as standard.
 
 
 **Uluru, Australia | From $1,800/night all-inclusive**

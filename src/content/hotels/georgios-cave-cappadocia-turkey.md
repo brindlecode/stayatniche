@@ -31,6 +31,18 @@ sourceId: "osm:node/12953900574"
 verifiedAt: 2026-10-09
 publishedDate: 2026-10-09
 status: published
+location:
+  country: "Turkey"
+  countryCode: "TR"
+  region: "Nevşehir"
+  city: "Ürgüp"
+  coordinates:
+    lat: 38.6288849
+    lng: 34.9044065
+niche_scope: unverified
+niche_feature: "Registered Rum (Greek) mansion in traditional stone architecture with nine 'stone/rock rooms'; only Room 105 is named 'Premium Cave Suit'. Official pages do not say rooms are carved into rock."
+niche_source_url: "https://georgioscavecappadocia.com/about/"
+niche_verified_at: 2026-11-17
 ---
 
 Georgios Cave Cappadocia occupies a registered Greek (Rum) mansion in Ürgüp, and its pitch is traditional stone architecture combined with modern comfort. The "cave" in the name is a regional label rather than a promise that every room is cut into the hillside: the hotel describes its rooms as "stone/rock rooms".

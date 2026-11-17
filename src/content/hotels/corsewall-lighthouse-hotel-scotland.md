@@ -28,6 +28,19 @@ sourceId: "osm:node/469384188"
 verifiedAt: 2026-10-13
 publishedDate: 2026-10-13
 status: published
+location:
+  country: "United Kingdom"
+  countryCode: "GB"
+  region: "Scotland"
+  city: "Stranraer"
+  locality: "Corsewall Point, Kirkcolm"
+  coordinates:
+    lat: 55.0069692
+    lng: -5.1593019
+niche_scope: specific_rooms
+niche_feature: "Six of 11 rooms (Fulmar, Galloway, Ailsa, Dunskirkloch, Mull of Kintyre, Firth of Cromarty) are in the original lighthouse keepers' quarters; two suites and the Stevenson Rooms are separate modern buildings."
+niche_source_url: "https://www.lighthousehotel.co.uk/accommodation"
+niche_verified_at: 2026-11-17
 ---
 
 Corsewall Lighthouse Hotel is a working lighthouse on the coast of Scotland, and only part of it is the lighthouse proper. The hotel has eleven rooms in total, spread across the former keepers' quarters and further buildings within the grounds, so the stay feels intimate rather than grand. The hotel says it has been featured in The Times and The Guardian, and its own tagline calls it Scotland's most remarkable coastal stay.

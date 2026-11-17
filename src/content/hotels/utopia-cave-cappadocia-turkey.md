@@ -30,6 +30,19 @@ sourceId: "osm:node/5395462009"
 verifiedAt: 2026-10-09
 publishedDate: 2026-10-09
 status: published
+location:
+  country: "Turkey"
+  countryCode: "TR"
+  region: "Nevşehir"
+  city: "Ürgüp"
+  locality: "Duayeri"
+  coordinates:
+    lat: 38.6293977
+    lng: 34.9028512
+niche_scope: entire_property
+niche_feature: "Hotel built on carved rock cavities in Ürgüp; official site says its rooms are restored cave rooms preserving Cappadocia's architecture, and the accommodation page calls them 'our cave rooms'. Room count not stated."
+niche_source_url: "https://utopiacave.com/en/our-story"
+niche_verified_at: 2026-11-17
 ---
 
 Utopia Cave Cappadocia is a luxury hotel in Ürgüp that describes its accommodation as cave rooms in Cappadocian stone, each designed with distinctive and original details. It is the whole property, not a section of it, that is built as cave rooms.

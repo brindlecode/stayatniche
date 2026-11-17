@@ -9,9 +9,9 @@
   "niche_feature": "Official site lists only overwater villa types (beach, lagoon, island, Otemanu view, pool villas, Teremoana). But the resort closed 1 June 2026 for full renovation; trade press (not official) says reopening late 2027 as a Regent.",
   "evidence_quote": "closed its doors on June 1, 2026 to focus on a top to bottom renovation to upgrade your experience",
   "operating": "closed",
-  "verdict": "draft",
+  "verdict": "keep",
   "new_category": null,
-  "closest_category": "overwater-bungalows",
+  "closest_category": null,
   "reason": "Overwater villas are real, but the official site says the resort closed on 1 June 2026 for renovation; no reopening date on the official page.",
   "treehouse_structure": null,
   "location": {
@@ -24,7 +24,9 @@
    "Claims 'first' deep-sea air conditioning, ~90% energy saving, 900 m depth/3,000 m pipe not on the official page",
    "Superlative: 'most exposed and dramatic position of any overwater resort'",
    "Price range, rating and review count are stale for a closed property"
-  ]
+  ],
+  "agent_verdict": "draft",
+  "editor_note": "Temporary closure for renovation; the stay still fits its category: kept, owner to decide."
  },
  {
   "slug": "misool-eco-resort-indonesia",
@@ -215,9 +217,9 @@
   "niche_feature": "Official page says the lodge is temporarily closed for an extensive rebuild, with a banner 'Reopening December 2027'. Safari lodge on the Ngorongoro Crater rim before closure.",
   "evidence_quote": "The &Beyond Ngorongoro Crater Lodge is currently closed for an extensive rebuild that will redefine luxury and reopen in 2027.",
   "operating": "closed",
-  "verdict": "draft",
+  "verdict": "keep",
   "new_category": null,
-  "closest_category": "safari-lodges",
+  "closest_category": null,
   "reason": "Official site says the lodge is closed for a rebuild and reopens December 2027, so it should not be listed as bookable now.",
   "treehouse_structure": null,
   "location": {
@@ -228,7 +230,9 @@
   "page_issues": [
    "Lodge is closed for a rebuild until 2027 but the page describes it as open",
    "'25 individual bandas' and the baroque interior details describe the pre-rebuild lodge and will change"
-  ]
+  ],
+  "agent_verdict": "draft",
+  "editor_note": "Temporary closure for a rebuild (reopening 2027); still fits its category: kept, owner to decide."
  },
  {
   "slug": "andbeyond-phinda-south-africa",

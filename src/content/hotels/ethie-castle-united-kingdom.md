@@ -30,6 +30,19 @@ sourceId: "osm:way/364367300"
 verifiedAt: 2026-10-11
 publishedDate: 2026-10-11
 status: published
+location:
+  country: "United Kingdom"
+  countryCode: "GB"
+  region: "Scotland"
+  city: "Arbroath"
+  locality: "Inverkeilor"
+  coordinates:
+    lat: 56.6125098
+    lng: -2.5109031
+niche_scope: entire_property
+niche_feature: "Whole 14th-century castle (records from early 13th c.; monks' sandstone tower house) offered for guest stays and exclusive use; official site lists fourteen named suites plus an attached two-bedroom apartment; three-night minimum."
+niche_source_url: "https://www.ethiecastle.com/"
+niche_verified_at: 2026-11-17
 ---
 
 Ethie Castle stands in Inverkeilor, about five kilometres north of the fishing town of Arbroath on the Angus coast. It is a 14th-century castle of roughly 1,400 square metres, and it has been available for rent since the summer of 2024.

@@ -2,7 +2,7 @@
 name: "Ethiopia"
 type: country
 continent: "Africa"
-description: "Ethiopia is Africa's most historically layered destination, an ancient highland kingdom with its own alphabet, calendar, and Christian Orthodox tradition that predates Europe's by centuries. From the rock-hewn churches of Lalibela to the tribal cultures of the Omo Valley and the surreal landscapes of the Danakil Depression, Ethiopia offers experiences that genuinely exist nowhere else on earth."
+description: "Ethiopia is one of Africa's most historically layered destinations, an ancient highland kingdom with its own alphabet, calendar, and Christian Orthodox tradition that predates Europe's by centuries. From the rock-hewn churches of Lalibela to the tribal cultures of the Omo Valley and the surreal landscapes of the Danakil Depression, Ethiopia offers experiences found in few other places on earth."
 coverImage: /images/destinations/ethiopia.jpg
 essentials:
   currency: "ETB (Ethiopian Birr); USD useful for major hotels and some services"

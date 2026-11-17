@@ -2,7 +2,7 @@
 source: sandboarding-namibia
 title: "Sandboarding auf den Dünen von Sossusvlei"
 destination: "Sossusvlei, Namib-Wüste"
-description: "Stürzen Sie sich auf dem Sandboard die höchsten Sanddünen der Welt hinab und erreichen Sie bis zu 80 km/h auf Sandbergen, die sich 300 Meter über der uralten Lehmpfanne erheben. Die Dünen von Sossusvlei gehören zu den meistfotografierten Naturformationen der Erde – ziegelrot, vom Wind perfekt modelliert und vollkommen still. Wer sich mit Tempo eine davon hinunterstürzt, verwandelt die schönste Wüste der Welt in ihren dramatischsten Spielplatz."
+description: "Stürzen Sie sich auf dem Sandboard einige der höchsten Sanddünen der Welt hinab und erreichen Sie bis zu 80 km/h auf Sandbergen, die sich 300 Meter über der uralten Lehmpfanne erheben. Die Dünen von Sossusvlei gehören zu den meistfotografierten Naturformationen der Erde – ziegelrot, vom Wind perfekt modelliert und vollkommen still. Wer sich mit Tempo eine davon hinunterstürzt, verwandelt die schönste Wüste der Welt in ihren dramatischsten Spielplatz."
 booking:
   price: "ab 80 $ pro Person"
   duration: "Halbtägig"
@@ -27,7 +27,7 @@ notIncluded:
   - Unterkunft in der Region Sossusvlei
 seo:
   metaTitle: "Sandboarding in Sossusvlei, Namibia | StayAtNiche"
-  metaDescription: "Mit bis zu 80 km/h 300 Meter hohe Dünen hinab: Beim Sandboarding in Sossusvlei wird Namibias schönste Wüste zum Abenteuerspielplatz. Ab 80 $ pro Person."
+  metaDescription: "Mit bis zu 80 km/h 300 Meter hohe Dünen hinab: Beim Sandboarding in Sossusvlei wird eine der eindrucksvollsten Wüsten der Welt zum Abenteuerspielplatz. Ab 80 $ pro Person."
 ---
 
 Die Düne Big Daddy erhebt sich 325 Meter über den Boden der Deadvlei-Pfanne. Der Aufstieg dauert etwa 45 Minuten und folgt einem messerscharfen Grat, links und rechts Wüste, während die weiße Lehmpfanne unter Ihnen schrumpft. Oben reißt der Wind den Sand in waagerechten Schleiern vom Kamm. Der Ausblick – die Namib bis an jeden Horizont, abgestorbene Kameldornbäume, die blaue Schatten über den weißen Boden werfen, Dünenkämme, die im Hitzeflimmern verschwimmen – ist etwas, dem Reisefotos nie wirklich gerecht werden.

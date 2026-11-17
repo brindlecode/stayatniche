@@ -69,7 +69,7 @@ The days of roughing it in treehouses are largely over at premium properties. He
 
 
 
-**Treehotel, Harads, Swedish Lapland** — The most architecturally ambitious treehouse hotel on Earth. Seven rooms designed by different architects, each concept more striking than the last: the Mirrored Cube, the UFO, the Bird's Nest, the 7th Room (a rooftop suite accessible by a suspended bridge). In winter, you're positioned under some of Scandinavia's darkest, clearest skies. Prices from around $350–$700/night depending on room. Book 6–12 months ahead for winter dates.
+**Treehotel, Harads, Swedish Lapland** — One of the most architecturally ambitious treehouse hotels anywhere. Seven rooms designed by different architects, each concept more striking than the last: the Mirrored Cube, the UFO, the Bird's Nest, the 7th Room (a rooftop suite accessible by a suspended bridge). In winter, you're positioned under some of Scandinavia's darkest, clearest skies. Prices from around $350–$700/night depending on room. Book 6–12 months ahead for winter dates.
 
 **La Cabane Perchée, France** — A network of luxury treehouses across multiple French forest regions, some in Loire Valley chestnut forests, others in Normandy oak groves. The level of finish — four-poster beds, wood-burning stoves, private terraces — is genuinely outstanding. Prices from €300–€600/night.
 
@@ -78,7 +78,7 @@ The days of roughing it in treehouses are largely over at premium properties. He
 
 **Free Spirit Spheres, Vancouver Island, Canada** — Three suspended spherical pods, Eve, Eryn, and Melody, hang by cable from Douglas firs on Vancouver Island. These are not luxury properties (shared bathrooms below, basic cooking facilities), but they are genuinely among the most original accommodation concepts on the planet. Prices around $200–$280 CAD/night. Book months in advance.
 
-**Costa Rica** — Costa Rica arguably offers the world's best combination of treehouse accommodation and biodiversity. Lapa Rios in the Osa Peninsula has elevated bungalows in the rainforest canopy; smaller owner-operated treehouses in the Monteverde and Arenal regions offer genuine canopy immersion with extraordinary wildlife access. Prices range from $150 to $600+/night depending on property.
+**Costa Rica** — Costa Rica offers an outstanding combination of treehouse accommodation and biodiversity. Lapa Rios in the Osa Peninsula has elevated bungalows in the rainforest canopy; smaller owner-operated treehouses in the Monteverde and Arenal regions offer genuine canopy immersion with extraordinary wildlife access. Prices range from $150 to $600+/night depending on property.
 
 **United States** — Treehouse accommodation is booming stateside. Treehouse Point near Seattle (six treehouses built by Pete Nelson, of TV's Treehouse Masters fame) is the benchmark. Tennessee has dozens of luxury treehouse rentals in the Great Smoky Mountains. The western Cascades and Pacific Northwest offer excellent forest immersion.
 

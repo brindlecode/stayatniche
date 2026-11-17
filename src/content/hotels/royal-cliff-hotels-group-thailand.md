@@ -28,6 +28,19 @@ sourceId: "wd:Q961796"
 verifiedAt: 2026-10-12
 publishedDate: 2026-10-12
 status: published
+location:
+  country: "Thailand"
+  countryCode: "TH"
+  region: "Chonburi"
+  city: "Pattaya"
+  locality: "Phra Tamnak"
+  coordinates:
+    lat: 12.92341667
+    lng: 100.85978611
+niche_scope: specific_rooms
+niche_feature: "Only Royal Cliff Beach Terrace (89 rooms/suites) is built into the cliff face; the group's other three hotels are not described as cliff properties."
+niche_source_url: "https://www.royalcliff.com/royal-cliff-beach-terrace/"
+niche_verified_at: 2026-11-17
 ---
 
 The Royal Cliff Hotels Group occupies 64 acres of parkland between Jomtien and South Pattaya, overlooking the eastern shore of the Gulf of Thailand. It consists of four five-star hotels and a convention centre, the Pattaya Exhibition and Convention Hall. The group was established in 1973.

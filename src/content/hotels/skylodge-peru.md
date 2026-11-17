@@ -72,6 +72,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Sacred+Valley,+Cusco+Region"
     label: "Find Tours on Klook"
+location:
+  country: "Peru"
+  countryCode: "PE"
+  region: "Cusco"
+  city: "Urubamba"
+  locality: "Sacred Valley"
+  coordinates:
+    lat: -13.1676675
+    lng: -72.2836888
+niche_scope: entire_property
+niche_feature: "Three transparent capsule suites hanging on a mountain wall about 400 m above the ground, reached by via ferrata. Word 'cliff' is not used by the source; setting is a vertical mountain face."
+niche_source_url: "https://naturavive.com/web/skylodge-adventure-suites/"
+niche_verified_at: 2026-11-17
 ---
 
 Roughly two-thirds of the way up the via ferrata carved into the red granite face of Pachar mountain, the Sacred Valley of the Incas unfolds in its full width. The Urubamba River is a silver thread far below; the terraced fields of Ollantaytambo glow green against ochre earth; the snowcapped Andes line every horizon. Most climbers pause here — not from exhaustion, but because the view stops them cold.

@@ -72,6 +72,18 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Edinburgh+to+the+Scottish+Highlands"
     label: "Find Tours on Klook"
+location:
+  country: "United Kingdom"
+  countryCode: "GB"
+  region: "Scotland"
+  city: "Edinburgh"
+  coordinates:
+    lat: 55.9533
+    lng: -3.1883
+niche_scope: entire_property
+niche_feature: "Luxury sleeper train with 18 sleeper cabins, two dining cars and an observation car; 2 to 7 night round trips from Edinburgh through the Scottish Highlands."
+niche_source_url: "https://www.belmond.com/en/trains/europe/uk/royal-scotsman"
+niche_verified_at: 2026-11-17
 ---
 
 The West Highland Line is, by the consistent judgement of the railway press and anyone who's done it, the most beautiful railway journey in the world. Glasgow to Fort William to Glenfinnan, where the famous 21-arch viaduct crosses the valley in Victorian engineering that predates its Harry Potter fame by a century, and on to Mallaig on the Sound of Sleat opposite Skye. You can do this on an ordinary ScotRail service. Doing it on the Royal Scotsman, moving at a pace that allows the landscape to be absorbed rather than consumed, is a different proposition entirely.

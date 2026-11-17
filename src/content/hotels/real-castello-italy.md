@@ -30,6 +30,19 @@ sourceId: "osm:node/12345814919"
 verifiedAt: 2026-10-11
 publishedDate: 2026-10-11
 status: published
+location:
+  country: "Italy"
+  countryCode: "IT"
+  region: "Piedmont"
+  city: "Verduno"
+  locality: "Langhe"
+  coordinates:
+    lat: 44.6673261
+    lng: 7.9332395
+niche_scope: specific_rooms
+niche_feature: "Six rooms (2 suites, 3 junior suites, 1 double) on the upper floors of the Verduno castle wing; other rooms are in the adjacent Castalderia and Nando Foresteria annexes."
+niche_source_url: "https://realcastello.com/albergo/"
+niche_verified_at: 2026-11-17
 ---
 
 Real Castello di Verduno is a hotel and restaurant in the Langhe, the wine country of Piedmont. Since 1953 the guest rooms have occupied part of the castle, the adjoining Castalderia and a guest annex called Nando Foresteria.

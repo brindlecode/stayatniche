@@ -72,6 +72,18 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=KwaZulu-Natal"
     label: "Find Tours on Klook"
+location:
+  country: "South Africa"
+  countryCode: "ZA"
+  region: "KwaZulu-Natal"
+  locality: "Phinda Private Game Reserve"
+  coordinates:
+    lat: -27.85
+    lng: 32.3
+niche_scope: entire_property
+niche_feature: "Six lodges (Mountain, Forest, Rock, Vlei, Zuka, Homestead) inside the 29,866-hectare Phinda reserve, with game drives; Forest Lodge suites are on stilts."
+niche_source_url: "https://assets.andbeyond.com/image/upload/v1757070782/Collateral/Destination-Brochure-Phinda-Private-Game-Reserve-South-Africa.pdf"
+niche_verified_at: 2026-11-17
 ---
 
 In the late 1980s, Phinda was exhausted farmland, overgrazed, wildlife-depleted, economically marginal. &Beyond acquired it in 1990 and ran one of Africa's more ambitious private wildlife restoration programmes: fences out, land rested, animals reintroduced in careful sequence. The result is a reserve that now supports all of the Big Five, reliable cheetah sightings, the continent's only sand forest ecosystem, and populations that have recovered beyond what anyone projected in 1990.

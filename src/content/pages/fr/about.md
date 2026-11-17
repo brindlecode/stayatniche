@@ -1,8 +1,8 @@
 ---
 title: "Nous dénichons les adresses que les autres ne voient pas"
 metaTitle: "À propos de StayAtNiche : le guide des nuits insolites"
-metaDescription: "Le guide indépendant des hôtels les plus insolites : cabanes, grottes, chambres sous-marines, hôtels de glace, châteaux… Des adresses vérifiées et comparées."
-lead: "StayAtNiche est un guide de voyage indépendant consacré aux lieux les plus extraordinaires où passer la nuit. L’ordinaire, très peu pour nous."
+metaDescription: "Le guide indépendant des hôtels insolites : cabanes, grottes, chambres sous-marines, hôtels de glace, châteaux… Des adresses vérifiées et comparées."
+lead: "StayAtNiche est un guide de voyage indépendant consacré aux lieux extraordinaires où passer la nuit. L’ordinaire, très peu pour nous."
 ---
 
 ## Un voyage mérite une histoire à raconter

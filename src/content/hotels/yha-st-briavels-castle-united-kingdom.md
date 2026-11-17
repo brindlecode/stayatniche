@@ -37,6 +37,19 @@ sourceId: "osm:relation/18468216"
 verifiedAt: 2026-11-14
 publishedDate: 2026-11-15
 status: published
+location:
+  country: "United Kingdom"
+  countryCode: "GB"
+  region: "England"
+  city: "St Briavels"
+  locality: "Forest of Dean"
+  coordinates:
+    lat: 51.7382129
+    lng: -2.6407346
+niche_scope: entire_property
+niche_feature: "Hostel occupies the whole 800-year-old Norman castle (main building plus East Tower); eight dormitory/family bedrooms. Beds are bunk-style in shared rooms; hostel not hotel."
+niche_source_url: "https://www.yha.org.uk/sites/default/files/media/document/yha-st-briavels-castle-access-statement.pdf"
+niche_verified_at: 2026-11-17
 ---
 
 This is a hostel, not a hotel, and that is the point: St Briavels is a budget way to spend a night inside a real medieval castle. The building stands on a spur above the River Wye on the western edge of the Forest of Dean, behind a large gatehouse and a moat that is now a garden.

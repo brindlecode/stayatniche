@@ -1,6 +1,6 @@
 ---
 name: "The Dune Camp"
-category: desert-camps
+category: safari-lodges
 destination: "Deception Valley Private Reserve, Central Kalahari"
 country: "Botswana"
 description: "A Kalahari desert lodge in a 43,000-hectare private reserve, pairing game drives with walks led by San guides."
@@ -27,6 +27,17 @@ sourceId: "osm:node/12114568301"
 verifiedAt: 2026-10-13
 publishedDate: 2026-10-13
 status: published
+location:
+  country: "Botswana"
+  countryCode: "BW"
+  locality: "Deception Valley Private Reserve"
+  coordinates:
+    lat: -20.9643415
+    lng: 23.4404429
+niche_scope: entire_property
+niche_feature: "Eight-suite lodge inside the 43,000 ha Deception Valley Private Reserve on the north-eastern boundary of the Central Kalahari Game Reserve; day and night game drives and San-led walks are the core activity."
+niche_source_url: "https://www.bushways.com/our-lodges/the-dune-camp/"
+niche_verified_at: 2026-11-17
 ---
 
 The Dune Camp is a Kalahari lodge run by Bush Ways Botswana, set among red dunes on the north-eastern boundary of the Central Kalahari Game Reserve. It lies within the Deception Valley Private Reserve, which spans 43,000 hectares of Kalahari wilderness and is one of the largest private game reserves in Botswana.

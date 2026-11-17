@@ -31,6 +31,19 @@ sourceId: "osm:node/7014050695"
 verifiedAt: 2026-10-10
 publishedDate: 2026-10-10
 status: published
+location:
+  country: "United Kingdom"
+  countryCode: "GB"
+  region: "Scotland"
+  city: "Peebles"
+  locality: "Eddleston"
+  coordinates:
+    lat: 55.7127915
+    lng: -3.2170603
+niche_scope: unverified
+niche_feature: "Historic Scots-baronial house of 1536 on a peel-tower site (Jacobean facade c.1700-15, 19th-century wing, 1983 fire); the rest is 20th-century additions, and the source does not say which of 82 rooms are in the old house."
+niche_source_url: "https://www.baronycastle.com/about-barony-castle/the-history-of-barony-castle/"
+niche_verified_at: 2026-11-17
 ---
 
 Barony Castle is an imposing 16th-century castle that has evolved into a traditional hotel in the Scottish Borders. It stands at Eddleston, about 35 minutes and 17 miles south of Edinburgh, on the edge of the Borders, and the town of Peebles on the River Tweed is only a ten-minute drive away. It is an AA four-star hotel with a Rosette-awarded restaurant.

@@ -58,14 +58,16 @@ for (const file of readdirSync('src/content/hotels').filter(f => f.endsWith('.md
   if (scope !== 'unverified' && !/^https?:\/\//.test(sourceUrl ?? '')) { out.issues.push(`${slug}: verified scope without source url`); continue; }
 
   // location
-  const code = codeOf(d.country);
+  // Multi-country rail journeys: the route's departure country (the page names the route).
+  const multi = d.country === 'Multiple';
+  const code = multi ? 'GB' : codeOf(d.country);
   if (!code) { out.issues.push(`${slug}: no ISO code for country "${d.country}"`); continue; }
   const countryName = NAMES[code] ?? regions.of(code);
   const rl = r.location ?? {};
   let region = strip(rl.region, countryName, d.country);
   if (!region && UK_NATIONS.has(d.country)) region = d.country;
   const city = strip(rl.city, countryName, d.country);
-  const locality = strip(rl.locality, countryName, d.country, city ?? '');
+  const locality = multi ? 'London to Venice (multi-country rail route)' : strip(rl.locality, countryName, d.country, city ?? '');
   const lines = ['location:', `  country: ${q(countryName)}`, `  countryCode: ${q(code)}`];
   if (region) lines.push(`  region: ${q(region)}`);
   if (city) lines.push(`  city: ${q(city)}`);

@@ -29,6 +29,19 @@ sourceId: "osm:node/1993527276"
 verifiedAt: 2026-10-09
 publishedDate: 2026-10-09
 status: published
+location:
+  country: "Turkey"
+  countryCode: "TR"
+  region: "Nevşehir"
+  city: "Göreme"
+  locality: "Avcılar neighbourhood"
+  coordinates:
+    lat: 38.6452456
+    lng: 34.8290266
+niche_scope: specific_rooms
+niche_feature: "13 rooms: 8 rock-carved (kaya oyma) rooms and 5 standard stone rooms; five of the rock-carved suites face Uçhisar Castle."
+niche_source_url: "https://www.ottomancavesuites.com/"
+niche_verified_at: 2026-11-17
 ---
 
 Ottoman Cave Suites is described by its own site as a cosy, comfortable small rock hotel in an area with easy access to Göreme's centre and many of Cappadocia's sights. It has 13 rooms in total: eight carved into rock and five standard stone rooms. So most of the stay is cave accommodation, but a minority of rooms are not.

@@ -40,6 +40,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Mykonos+Town,+Mykonos"
     label: "Find Tours on Klook"
+location:
+  country: "Greece"
+  countryCode: "GR"
+  region: "South Aegean"
+  city: "Mykonos Town"
+  locality: "Tagoo"
+  coordinates:
+    lat: 37.45
+    lng: 25.329
+niche_scope: entire_property
+niche_feature: "Official About page says the hotel is built into a natural cliff-side near Mykonos Town (Chora); room types include Cave Pool Suites and Rock Villas among about 20 room and villa types."
+niche_source_url: "https://booking-mykonos.cavotagoo.com/about"
+niche_verified_at: 2026-11-17
 ---
 
 Mykonos has no shortage of luxury hotels, but Cavo Tagoo occupies a category largely its own. Sitting on a volcanic cliff above the old harbour of Mykonos Town, the Chora's whitewashed maze spreading below and the Aegean pushing to the horizon, it was among the first hotels in Greece to understand that Cycladic architecture — the pure white geometry, the cave-cut rooms, the absence of unnecessary ornament — was not a vernacular limitation to be overcome but a design language of real power.

@@ -27,6 +27,18 @@ sourceId: "osm:way/202433668"
 verifiedAt: 2026-10-13
 publishedDate: 2026-10-13
 status: published
+location:
+  country: "United Kingdom"
+  countryCode: "GB"
+  region: "England"
+  city: "London"
+  coordinates:
+    lat: 51.5023774
+    lng: -0.0703059
+niche_scope: entire_property
+niche_feature: "Moored 1904 houseboat (ex-HMS Harpy) on the Thames, let as a whole four-bedroom floating home sleeping up to 12 in 4 cabins."
+niche_source_url: "https://theharpy.com/"
+niche_verified_at: 2026-11-17
 ---
 
 The Harpy is a houseboat moored just west of Tower Bridge on the Thames, and it has a story of its own. Built in 1904 as HMS Harpy, it was the world's first floating Customs and Excise office and the City of London's royal landing stage. It is now a holiday let.

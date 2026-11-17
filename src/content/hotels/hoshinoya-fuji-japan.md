@@ -29,7 +29,7 @@ bestFor:
   - Mount Fuji views
   - Outdoor adventurers
 bookingUrl: https://www.booking.com/hotel/jp/hoshinoya-fuji.html
-rating: 9.1
+rating: 8.5
 coordinates:
   lat: 35.5128
   lng: 138.7577
@@ -44,6 +44,20 @@ affiliateLinks:
 seo:
   metaTitle: "Hoshinoya Fuji Review: Mount Fuji Glamping Cabins | StayAtNiche"
   metaDescription: "Hoshinoya Fuji: Japan's first glamping resort with log cabins above Lake Kawaguchi and direct Mount Fuji views. Rates, highlights, and booking guide."
+status: draft
+location:
+  country: "Japan"
+  countryCode: "JP"
+  region: "Yamanashi"
+  city: "Fujikawaguchiko"
+  locality: "Oishi"
+  coordinates:
+    lat: 35.5128
+    lng: 138.7577
+niche_scope: unverified
+niche_feature: "Glamping resort with 40 cabins on a forested hillside above Lake Kawaguchi. Official press page describes concrete-walled cabins nestled on a hillside; no raised, in-tree or stilt treehouse structures are stated."
+niche_source_url: "https://hoshinoresorts.com/en/presscenter/08/2023/103688/"
+niche_verified_at: 2026-11-17
 ---
 
 Hoshino Resorts opened Hoshinoya Fuji in 2015 as Japan's first purpose-built glamping property, and the combination of location and concept has made it one of the most sought-after short breaks within striking distance of Tokyo. The resort sits on a wooded slope above Lake Kawaguchi, one of the five Fuji lakes that ring the base of the volcano. From the higher cabins, the lake fills the foreground and Fuji rises behind it — the same compositional relationship that appears in hundreds of ukiyo-e woodblock prints, now available from your morning coffee.

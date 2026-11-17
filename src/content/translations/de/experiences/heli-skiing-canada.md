@@ -2,7 +2,7 @@
 source: heli-skiing-canada
 title: "Heliskiing in den Selkirk Mountains"
 destination: "Selkirk Mountains, British Columbia"
-description: "Stürzen Sie sich in den kanadischen Selkirks in unberührte Pulverschneefelder: Der Hubschrauber setzt Sie auf Gipfeln ab, die kein Liftsystem je erreichen wird – in einer weiten, stillen, makellos weißen Wildnis, in der jede Abfahrt in Höhenkilometern gemessen wird und deren Schneequalität unter den ambitioniertesten Skifahrern der Welt legendär ist. Heliskiing in British Columbia ist die Krönung des alpinen Skifahrens und bietet den besten Skifahrern der Erde ein völlig privates Bergerlebnis in einem der tiefsten Pulverschneegebiete des Planeten."
+description: "Stürzen Sie sich in den kanadischen Selkirks in unberührte Pulverschneefelder: Der Hubschrauber setzt Sie auf Gipfeln ab, die kein Liftsystem je erreichen wird – in einer weiten, stillen, makellos weißen Wildnis, in der jede Abfahrt in Höhenkilometern gemessen wird und deren Schneequalität unter den ambitioniertesten Skifahrern der Welt legendär ist. Heliskiing in British Columbia gilt vielen als die Krönung des alpinen Skifahrens und bietet erfahrenen Skifahrern ein völlig privates Bergerlebnis in einem der tiefsten Pulverschneegebiete des Planeten."
 booking:
   price: "ab 1.200 $ pro Person und Tag"
   duration: "Ganztägig (Pakete über 3–7 Tage verfügbar)"

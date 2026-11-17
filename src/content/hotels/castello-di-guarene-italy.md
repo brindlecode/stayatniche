@@ -30,6 +30,18 @@ sourceId: "osm:node/5732890869"
 verifiedAt: 2026-10-11
 publishedDate: 2026-10-11
 status: published
+location:
+  country: "Italy"
+  countryCode: "IT"
+  region: "Piedmont"
+  city: "Guarene"
+  coordinates:
+    lat: 44.7389938
+    lng: 8.0331478
+niche_scope: entire_property
+niche_feature: "Guests sleep in rooms and suites inside the 18th-century Baroque Castello di Guarene (built from 1726 over a medieval fort); room types are all Castle rooms/suites plus a Classic room, some beside the oldest spaces."
+niche_source_url: "https://castellodiguarene.com/it/camere"
+niche_verified_at: 2026-11-17
 ---
 
 Castello di Guarene is a Baroque castle hotel in the hills of Piedmont's Roero, a landscape recognised by UNESCO. The hotel describes the atmosphere as the sobriety and elegance of Piedmontese Baroque, with contemporary hospitality.

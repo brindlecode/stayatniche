@@ -45,6 +45,19 @@ affiliateLinks:
 seo:
   metaTitle: "Six Senses Shaharut Review: Negev Desert Luxury Retreat | StayAtNiche"
   metaDescription: "Six Senses Shaharut: 60 Nabataean-style villas on a Negev Desert plateau. UNESCO Incense Route, world-class spa, and internationally dark stargazing skies."
+location:
+  country: "Israel"
+  countryCode: "IL"
+  region: "Southern District"
+  city: "Eilat"
+  locality: "Shaharut"
+  coordinates:
+    lat: 29.9167
+    lng: 34.9667
+niche_scope: entire_property
+niche_feature: "Desert retreat of 60 suites and villas set into a cliff with Negev Desert views (opened 2021, per Six Senses launch release reprinted by press); official Six Senses site blocked (403), so detail rests on press reprint."
+niche_source_url: "https://theluxuryeditor.com/news/six-senses-shaharut-israel-opens/"
+niche_verified_at: 2026-11-17
 ---
 
 The Negev Desert covers 60% of Israel's land area but holds less than 10% of its population. At Shaharut, on a plateau above the Nahal Paran canyon, the emptiness is complete: horizon-to-horizon rocky desert, unobstructed sky, and a geological record of 600 million years visible in the exposed cliff faces. The Nabataeans — the ancient Arab civilisation that controlled the regional spice trade from roughly 400 BCE to 100 CE — built settlements and caravanserais throughout this landscape, and the UNESCO-listed Incense Route passes within kilometres of the property.

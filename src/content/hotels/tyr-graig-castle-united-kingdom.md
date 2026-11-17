@@ -30,6 +30,18 @@ sourceId: "osm:way/227065721"
 verifiedAt: 2026-10-10
 publishedDate: 2026-10-10
 status: published
+location:
+  country: "United Kingdom"
+  countryCode: "GB"
+  region: "Wales"
+  city: "Barmouth"
+  coordinates:
+    lat: 52.7306304
+    lng: -4.0639167
+niche_scope: entire_property
+niche_feature: "Whole building is a 1892 Victorian gothic castle-shaped family house (not medieval); 11 en-suite rooms including Premium, Four Poster and Standard Turret rooms plus two hillside rooms."
+niche_source_url: "https://www.tyrgraig-castle.co.uk/history"
+niche_verified_at: 2026-11-17
 ---
 
 Ty'r Graig means House on the Rock, and the name suits the building. It stands about 200 feet above the Welsh seaside town of Barmouth, looking over Cardigan Bay towards the Llyn peninsula and Bardsey Island. Today it takes guests as a castle hotel, and its 11 en-suite rooms have views of the surrounding area.

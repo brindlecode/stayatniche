@@ -28,7 +28,7 @@ bestFor:
   - "Couples"
   - "Desert explorers"
 bookingUrl: https://www.booking.com/
-rating: 9.2
+rating: 8.5
 coordinates:
   lat: 29.5833
   lng: 35.4167
@@ -40,6 +40,16 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Wadi+Rum,+Aqaba+Governorate"
     label: "Find Tours on Klook"
+location:
+  country: "Jordan"
+  countryCode: "JO"
+  region: "Aqaba Governorate"
+  coordinates:
+    lat: 29.5833
+    lng: 35.4167
+niche_scope: unverified
+niche_feature: "Could not identify an official site for a camp with this exact name. Many different bubble-tent camps exist in Wadi Rum (e.g. Wild Oryx Camp Bubbles); only booking-site listings surfaced, which cannot be used as sources."
+niche_verified_at: 2026-11-17
 ---
 
 Wadi Rum is 720 square kilometres of rose-red sandstone massifs, sweeping dune fields, and silence that registers as a physical presence. T. E. Lawrence wrote about it with barely concealed reverence; astronauts have compared its terrain to Mars. The Nabataeans called it the Valley of the Moon. Sleeping here inside a transparent bubble tent — cliffs on every side, sky unobstructed overhead — gives the landscape an intimacy that day visits never achieve.

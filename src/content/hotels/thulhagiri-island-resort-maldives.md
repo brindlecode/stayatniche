@@ -26,6 +26,19 @@ sourceId: "osm:way/96173076"
 verifiedAt: 2026-10-12
 publishedDate: 2026-10-12
 status: published
+location:
+  country: "Maldives"
+  countryCode: "MV"
+  region: "North Male Atoll"
+  city: "Male"
+  locality: "Thulhagiri"
+  coordinates:
+    lat: 4.3101876
+    lng: 73.4884033
+niche_scope: specific_rooms
+niche_feature: "17 Water Bungalows (56 sqm) and 20 Superior Water Bungalows (78 sqm) over the lagoon, alongside 50 Standard Deluxe beach bungalows."
+niche_source_url: "https://www.thulhagiri.com.mv/"
+niche_verified_at: 2026-11-17
 ---
 
 Thulhagiri Island Resort and Spa is a small island resort in North Malé Atoll in the Maldives. Seventeen of its rooms are water bungalows built out over the lagoon, so only part of the resort is overwater; the remaining accommodation includes beach villas, which have outdoor showers.

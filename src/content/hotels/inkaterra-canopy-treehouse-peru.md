@@ -28,7 +28,7 @@ bestFor:
   - "Adventure couples"
   - "Birdwatchers"
 bookingUrl: https://www.booking.com/hotel/pe/inkaterra-reserva-amazonica.html
-rating: 9.3
+rating: 8.8
 coordinates:
   lat: -12.5500
   lng: -69.0500
@@ -40,6 +40,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Puerto+Maldonado,+Madre+de+Dios"
     label: "Find Tours on Klook"
+location:
+  country: "Peru"
+  countryCode: "PE"
+  region: "Madre de Dios"
+  city: "Puerto Maldonado"
+  locality: "Tambopata (Reserva Amazónica, Km 15)"
+  coordinates:
+    lat: -12.55
+    lng: -69.05
+niche_scope: specific_rooms
+niche_feature: "A single two-bed Canopy Tree House on a private platform at the end of the Inkaterra Canopy Walkway, about 28 m up; booked as a supplement night on top of a stay at Reserva Amazónica, whose 35 cabañas are ground-level."
+niche_source_url: "https://www.inkaterra.com/inkaterra/inkaterra-reserva-amazonica/services/additional-services/"
+niche_verified_at: 2026-11-17
 ---
 
 The Peruvian Amazon around Puerto Maldonado, specifically the Tambopata National Reserve and its surrounding protected area, is one of the highest-biodiversity ecosystems ever recorded. A single hectare of forest here may contain more species of ant than the entirety of the British Isles contains of all insects combined; a single day's birding can yield 200 species; a night walk reveals a density of amphibian, reptile, and arthropod life that makes the darkness feel inhabited in ways no temperate landscape can approach. Sleeping in the canopy of this forest, at the level where the light penetrates and the most productive layer of the ecosystem concentrates, is an experience measured in species per hour.

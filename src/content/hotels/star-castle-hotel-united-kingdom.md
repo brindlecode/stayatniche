@@ -31,6 +31,19 @@ sourceId: "osm:way/72499436"
 verifiedAt: 2026-10-11
 publishedDate: 2026-10-11
 status: published
+location:
+  country: "United Kingdom"
+  countryCode: "GB"
+  region: "England"
+  city: "Hugh Town"
+  locality: "St Mary's, Isles of Scilly"
+  coordinates:
+    lat: 49.9154026
+    lng: -6.3210235
+niche_scope: specific_rooms
+niche_feature: "Castle Rooms, Superior Castle Rooms, a single and three Guard Rooms on the ramparts are in the 1593 Grade I fortress; Garden Rooms and Suites are separate newer cottage-style rooms in the grounds."
+niche_source_url: "https://star-castle.co.uk/"
+niche_verified_at: 2026-11-17
 ---
 
 Star Castle was built in 1593, during the reign of Queen Elizabeth I, to defend the Isles of Scilly against the threat of Spanish invasion. It stands on Garrison Hill, west of Hugh Town on St Mary's, and looks out over the sea and the islands in every direction. Today it is a 38-bedroom hotel.

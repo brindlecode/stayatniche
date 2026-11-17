@@ -29,6 +29,18 @@ sourceId: "osm:relation/1356092"
 verifiedAt: 2026-10-10
 publishedDate: 2026-10-10
 status: published
+location:
+  country: "United Kingdom"
+  countryCode: "GB"
+  region: "Scotland"
+  city: "Dingwall"
+  coordinates:
+    lat: 57.6093829
+    lng: -4.433434
+niche_scope: entire_property
+niche_feature: "Hotel operating as Tulloch Castle with 22 en-suite bedrooms; castle with restored original fireplaces, ceilings and panelled Great Hall. Official page does not state which wing each bedroom is in. Site is behind Cloudflare, read via WebFetch."
+niche_source_url: "https://bespokehotels.com/tullochcastlehotel"
+niche_verified_at: 2026-11-17
 ---
 
 Tulloch Castle dates from the 12th century, when the Bains and later the Clan Davidson laid claim to its lands. Its fortunes have changed many times since, and it now stands as a hotel at Dingwall in the Scottish Highlands. In days gone by only the Laird or the Chief of the Clan could enjoy a stay in a Highland castle like this; today anyone can book a room.

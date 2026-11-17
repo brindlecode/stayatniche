@@ -30,7 +30,7 @@ bestFor:
   - Arabian heritage discovery
   - Weekend escape from Dubai/Abu Dhabi
 bookingUrl: https://www.booking.com/hotel/ae/anantara-sir-bani-yas-island-safari.html
-rating: 9.0
+rating: 8.5
 coordinates:
   lat: 24.3167
   lng: 52.5833
@@ -45,6 +45,19 @@ affiliateLinks:
 seo:
   metaTitle: "Anantara Sir Bani Yas Island Review: Arabian Safari Resort | StayAtNiche"
   metaDescription: "Anantara Sir Bani Yas Island: Middle East safari with Arabian oryx, cheetah and giraffe on a private Abu Dhabi island. Game drives, kayaking, and Gulf beaches."
+location:
+  country: "United Arab Emirates"
+  countryCode: "AE"
+  region: "Abu Dhabi"
+  city: "Al Ruwais"
+  locality: "Sir Bani Yas Island"
+  coordinates:
+    lat: 24.3167
+    lng: 52.5833
+niche_scope: unverified
+niche_feature: "Wikipedia confirms the island's Arabian Wildlife Park with game drives and three Anantara hotels (Desert Islands, Al Sahel, Al Yamm). Official Anantara pages returned HTTP 403, so room placement inside the park could not be confirmed."
+niche_source_url: "https://en.wikipedia.org/wiki/Sir_Bani_Yas"
+niche_verified_at: 2026-11-17
 ---
 
 Sir Bani Yas Island is a study in what political will and ecological investment can achieve. In the 1970s, the late Sheikh Zayed bin Sultan Al Nahyan — the founding president of the UAE — began a personal project to reintroduce extinct and endangered Arabian wildlife to a salt flat island in the Gulf. Over fifty years, the project transformed 87 square kilometres of arid coastal land into a functioning wildlife reserve supporting over 10,000 animals, including the first captive-born Arabian cheetah and populations of oryx, addax, and gazelle that have been reintroduced to the wild elsewhere in the region.

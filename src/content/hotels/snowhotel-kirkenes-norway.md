@@ -28,7 +28,7 @@ bestFor:
   - "Foodies"
   - "Dog sled enthusiasts"
 bookingUrl: https://www.booking.com/hotel/no/snowhotel-kirkenes.html
-rating: 9.1
+rating: 8.8
 coordinates:
   lat: 69.676827
   lng: 29.904617
@@ -40,6 +40,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Kirkenes,+Finnmark"
     label: "Find Tours on Klook"
+location:
+  country: "Norway"
+  countryCode: "NO"
+  region: "Finnmark"
+  city: "Kirkenes"
+  locality: "Bjørnevatn"
+  coordinates:
+    lat: 69.676827
+    lng: 29.904617
+niche_scope: specific_rooms
+niche_feature: "Snowhotel 365: snow-and-ice suites, kept frozen year-round, at Snow Resort Kirkenes (Bjørnevatn); resort also has warm Gamme cabins as ordinary accommodation."
+niche_source_url: "https://www.snowresortkirkenes.com/accommodation"
+niche_verified_at: 2026-11-17
 ---
 
 Kirkenes sits at the very edge of Norway, a small port city on the Varangerfjord close to the Russian and Finnish borders, a location that gives it a frontier quality unique in Scandinavia. The light here is extreme in both directions: polar night from late November to late January brings weeks of total darkness, while the midnight sun of June and July never fully sets. It is, in other words, exactly the kind of place where an ice hotel makes complete contextual sense, and the Snowhotel Kirkenes has made the most of its remarkable location since opening in 2006.

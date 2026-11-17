@@ -87,6 +87,18 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Coober+Pedy"
     label: "Find Tours on Klook"
+location:
+  country: "Australia"
+  countryCode: "AU"
+  region: "South Australia"
+  city: "Coober Pedy"
+  coordinates:
+    lat: -29.010602
+    lng: 134.754364
+niche_scope: specific_rooms
+niche_feature: "First underground hotel in Coober Pedy (opened 1988); has dugout underground rooms and also ordinary above-ground rooms. Official site only describes Coober Pedy's underground hotels in general, not which rooms here."
+niche_source_url: "https://showcaves.com/english/au/subterranea/DesertCaveHotel.html"
+niche_verified_at: 2026-11-17
 ---
 
 Driving north through the South Australian outback, Coober Pedy appears on the horizon as a field of mounds, pipes, and rubble with no trees anywhere. The ground is pockmarked with thousands of mine shafts. From a distance it looks like a landscape that has been industrially excavated and then largely abandoned — which is, in a sense, accurate. The town was built on opal mining, and the opal mining shaped everything about it, including the fact that most of the 2,000 residents live underground in homes called dugouts. When surface temperatures regularly exceed 50°C in summer, the logic is hard to argue with. The Aboriginal name for the area is *kupa piti*: white man in a hole.

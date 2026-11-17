@@ -28,6 +28,19 @@ sourceId: "osm:node/1229933076"
 verifiedAt: 2026-11-15
 publishedDate: 2026-11-15
 status: published
+location:
+  country: "Jordan"
+  countryCode: "JO"
+  region: "Tafilah"
+  city: "Dana"
+  locality: "Wadi Feynan"
+  coordinates:
+    lat: 30.6395644
+    lng: 35.5092874
+niche_scope: entire_property
+niche_feature: "26-room solar-powered, candle-lit lodge in Wadi Feynan inside the Dana Biosphere Reserve, set in desert landscape at the end of a rugged track; the whole lodge is the desert stay."
+niche_source_url: "https://ecohotels.me/feynan"
+niche_verified_at: 2026-11-17
 ---
 
 Feynan Ecolodge is a lodge in the true sense: a built complex of 26 rooms, with courtyards and terraces, standing in the desert landscape of Wadi Feynan. It sits deep inside the mountainous Dana Biosphere Reserve in southern Jordan, at the end of a rugged track.

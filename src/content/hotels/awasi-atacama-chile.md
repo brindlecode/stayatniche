@@ -45,6 +45,18 @@ affiliateLinks:
 seo:
   metaTitle: "Awasi Atacama Review: Private Desert Villas with Personal Guide | StayAtNiche"
   metaDescription: "Awasi Atacama: 12 private villas in Chile's Atacama Desert, each with dedicated guide and vehicle. Geysers, flamingo lagoons, and world-class stargazing."
+location:
+  country: "Chile"
+  countryCode: "CL"
+  region: "Antofagasta"
+  city: "San Pedro de Atacama"
+  coordinates:
+    lat: -22.9022
+    lng: -68.1991
+niche_scope: entire_property
+niche_feature: "Adobe, stone and thatch lodge buildings (round rooms) on the edge of San Pedro de Atacama in the Atacama Desert, with a private guide and 4x4 per room. Official site gives no room count."
+niche_source_url: "https://awasi.com/atacama/accommodations/"
+niche_verified_at: 2026-11-17
 ---
 
 The Atacama Desert occupies a closed basin between the Andes and Chile's coastal range, where the combined effect of the cold Humboldt Current offshore and the Andes rain shadow eliminates virtually all precipitation. The result is the world's driest non-polar desert — in parts of the core Atacama, no rainfall has ever been recorded. The landscape this creates is not the monotonous sand dunes of popular imagination but a vast, varied terrain of salt flats encrusted with bizarre mineral formations, volcanic geothermal fields where geysers erupt at sunrise, altiplano lakes where flamingos feed in pink congregations, and a sky so free of moisture and light pollution that several major international observatories have been built within the region.

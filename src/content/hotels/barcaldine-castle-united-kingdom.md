@@ -30,6 +30,19 @@ sourceId: "osm:way/282679643"
 verifiedAt: 2026-11-14
 publishedDate: 2026-11-15
 status: published
+location:
+  country: "United Kingdom"
+  countryCode: "GB"
+  region: "Scotland"
+  city: "Oban"
+  locality: "Benderloch"
+  coordinates:
+    lat: 56.5105277
+    lng: -5.4016193
+niche_scope: entire_property
+niche_feature: "Early 17th-century L-plan tower house with 9-ft walls; all six guest rooms are inside the castle, taken as B&B or whole castle for exclusive use."
+niche_source_url: "https://barcaldinecastle.co.uk/rooms/"
+niche_verified_at: 2026-11-17
 ---
 
 Barcaldine Castle is a small Scottish tower house that you can sleep in. It stands on the south shore of Loch Creran, nine miles north of Oban, and it is run as a bed and breakfast rather than a hotel: a room and breakfast in a building that is four centuries old.

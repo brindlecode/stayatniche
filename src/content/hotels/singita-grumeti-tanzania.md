@@ -73,6 +73,18 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Grumeti+Game+Reserve,+Serengeti"
     label: "Find Tours on Klook"
+location:
+  country: "Tanzania"
+  countryCode: "TZ"
+  region: "Mara"
+  locality: "Grumeti Game Reserve"
+  coordinates:
+    lat: -2.1
+    lng: 34.15
+niche_scope: entire_property
+niche_feature: "Singita's lodges and camps on the 350,000-acre Grumeti Reserve beside Serengeti National Park, managed with the Grumeti Fund; wildlife viewing is the core activity."
+niche_source_url: "https://singita.com/region/grumeti/"
+niche_verified_at: 2026-11-17
 ---
 
 The western corridor of the Serengeti ecosystem has a different quality from the more visited central and northern sections. The landscape here is more densely vegetated, the rivers more persistent, and the sense of African wilderness more immediate: a country of fever trees, rocky kopjes, and the broad loops of the Grumeti River where crocodiles have grown to lengths that represent millions of years of undisturbed evolutionary success. Into this landscape, Singita has embedded one of Africa's most serious safari operations.

@@ -16,7 +16,7 @@ affiliateDisclosure: true
 status: published
 seo:
   metaTitle: "Cave Hotels Around the World, The Ultimate Guide | StayAtNiche"
-  metaDescription: "Discover the world's best cave hotels from Cappadocia to Matera and Coober Pedy. What to expect, where to book, and expert tips for rock-cut stays."
+  metaDescription: "Discover cave hotels from Cappadocia to Matera and Coober Pedy. What to expect, where to book, and practical tips for rock-cut stays in each region."
 relatedHotels:
   - museum-hotel-cappadocia
 ---

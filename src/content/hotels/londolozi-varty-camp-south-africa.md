@@ -73,6 +73,18 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Sabi+Sand+Game+Reserve,+Mpumalanga"
     label: "Find Tours on Klook"
+location:
+  country: "South Africa"
+  countryCode: "ZA"
+  region: "Mpumalanga"
+  locality: "Sabi Sand Game Reserve"
+  coordinates:
+    lat: -24.7833
+    lng: 31.5167
+niche_scope: entire_property
+niche_feature: "Varty Camp, 10 chalets with private plunge pools on raised timber decks under riverine forest, within Londolozi Private Game Reserve in the Sabi Sand Game Reserve (Greater Kruger)."
+niche_source_url: "https://www.londolozi.com/"
+niche_verified_at: 2026-11-17
 ---
 
 Every luxury safari operation in Africa today owes something to Londolozi. When Dave and John Varty began inviting guests to their family's game farm on the Sand River in the 1970s, they were building a template for an industry that didn't yet exist, one that combined genuine wilderness immersion with comfort and service levels previously associated only with city hotels. What they found, almost by accident, was that the two things reinforced each other: better conditions brought guests who could engage more deeply with the land, and the land, particularly its leopards, had more to offer than anyone had imagined.

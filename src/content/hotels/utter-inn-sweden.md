@@ -88,6 +88,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Västerås"
     label: "Find Tours on Klook"
+location:
+  country: "Sweden"
+  countryCode: "SE"
+  region: "Västmanland"
+  city: "Västerås"
+  locality: "Lake Mälaren"
+  coordinates:
+    lat: 59.594608
+    lng: 16.564254
+niche_scope: entire_property
+niche_feature: "Single-room floating hotel on Lake Mälaren by artist Mikael Genberg: bedroom three metres below the surface with panoramic windows. Tourist board says it cannot currently be booked; a 2026 guide says it did not operate and is for sale."
+niche_source_url: "https://visitvastmanland.com/hotell-utter-inn"
+niche_verified_at: 2026-11-17
 ---
 
 In 2000, a Swedish artist named Mikael Genberg moored a red wooden cottage on Lake Mälaren and lowered a bedroom into the water beneath it. It was, at the time, a provocation as much as a project — a challenge to the idea of what a hotel could be, and where human habitation could reasonably extend. Twenty-five years later, the Utter Inn (which translates roughly as "The Otter Inn") remains one of the most discussed hotel concepts ever created.

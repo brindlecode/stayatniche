@@ -2,7 +2,7 @@
 source: heli-skiing-canada
 title: "Héliski dans les monts Selkirk"
 destination: "Monts Selkirk, Colombie-Britannique"
-description: "Plongez dans des champs de poudreuse vierge des Selkirk canadiens, déposé par un hélicoptère au sommet de pentes qu'aucune remontée mécanique n'atteindra jamais : une nature immense, silencieuse, d'un blanc parfait, où chaque descente se mesure en kilomètres de dénivelé et où la qualité de la neige est légendaire parmi les skieurs les plus exigeants de la planète. L'héliski en Colombie-Britannique représente le sommet du ski alpin et offre aux meilleurs skieurs du monde une montagne rien qu'à eux, dans l'une des poudreuses les plus profondes de la Terre."
+description: "Plongez dans des champs de poudreuse vierge des Selkirk canadiens, déposé par un hélicoptère au sommet de pentes qu'aucune remontée mécanique n'atteindra jamais : une nature immense, silencieuse, d'un blanc parfait, où chaque descente se mesure en kilomètres de dénivelé et où la qualité de la neige est légendaire parmi les skieurs les plus exigeants de la planète. L'héliski en Colombie-Britannique représente, pour beaucoup, le sommet du ski alpin et offre aux skieurs expérimentés une montagne rien qu'à eux, dans l'une des poudreuses les plus profondes de la Terre."
 booking:
   price: "À partir de 1 200 $ par personne et par jour"
   duration: "Journée complète (forfaits de 3 à 7 jours disponibles)"

@@ -38,7 +38,7 @@ seo:
   metaDescription: "Costa Rica travel guide, Monteverde cloud forest, Arenal volcano, Corcovado rainforest, and standout eco-lodges. Plan your Central American adventure."
 ---
 
-Costa Rica abolished its military in 1948 and redirected defence spending toward education and healthcare. Today the country runs on 99% renewable energy and has placed a quarter of its territory under national park protection or biological reserve status. These are structural choices, not marketing points — and they have made Costa Rica the most environmentally serious small nation on earth, as well as the most rewarding destination in the Americas for wildlife travel.
+Costa Rica abolished its military in 1948 and redirected defence spending toward education and healthcare. Today the country runs on 99% renewable energy and has placed a quarter of its territory under national park protection or biological reserve status. These are structural choices, not marketing points — and they have made Costa Rica one of the most environmentally committed small nations on earth, as well as a rewarding destination in the Americas for wildlife travel.
 
 The numbers are staggering for a country smaller than West Virginia. Over 900 bird species. 200 mammal species. 35,000 insect species. 1,200 orchid varieties. The explanation is geography: Costa Rica sits at the junction of two tectonic plates and two major ocean currents, where the species lists of North and South America collide. Cloud forests, tropical dry forests, rainforests, mangroves, and coral reefs exist within hours of each other — a biological overlap found nowhere else at this scale.
 

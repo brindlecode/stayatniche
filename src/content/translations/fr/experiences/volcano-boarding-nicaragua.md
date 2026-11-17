@@ -2,7 +2,7 @@
 source: volcano-boarding-nicaragua
 title: "Volcano boarding sur le Cerro Negro"
 destination: "Cerro Negro, León"
-description: "Grimpez au sommet de l'un des volcans les plus jeunes et les plus actifs du monde, puis dévalez sur une planche de contreplaqué une pente de cendres volcaniques meubles inclinée à 40 degrés, à des vitesses atteignant 95 km/h, une descente si raide et si rapide que la cendre gicle autour de vous comme de la neige noire. Le volcano boarding sur le Cerro Negro, près de León, est le sport extrême le plus insolite au monde, et la vue depuis le sommet de ce cône brut et fumant, sur les plaines du Pacifique et la chaîne volcanique du nord-ouest du Nicaragua, rend l'ascension aussi gratifiante que la descente."
+description: "Grimpez au sommet de l'un des volcans les plus jeunes et les plus actifs du monde, puis dévalez sur une planche de contreplaqué une pente de cendres volcaniques meubles inclinée à 40 degrés, à des vitesses atteignant 95 km/h, une descente si raide et si rapide que la cendre gicle autour de vous comme de la neige noire. Le volcano boarding sur le Cerro Negro, près de León, est l'un des sports extrêmes les plus insolites au monde, et la vue depuis le sommet de ce cône brut et fumant, sur les plaines du Pacifique et la chaîne volcanique du nord-ouest du Nicaragua, rend l'ascension aussi gratifiante que la descente."
 booking:
   price: "À partir de 35 $ par personne"
   duration: "Demi-journée"
@@ -28,7 +28,7 @@ notIncluded:
   - "Souvenirs supplémentaires"
 seo:
   metaTitle: "Volcano boarding au Cerro Negro, Nicaragua | StayAtNiche"
-  metaDescription: "Gravissez un volcan actif près de León, au Nicaragua, puis dévalez ses pentes de cendre jusqu'à 95 km/h : le sport extrême le plus insolite au monde. Dès 35 $."
+  metaDescription: "Gravissez un volcan actif près de León, au Nicaragua, puis dévalez ses pentes de cendre jusqu'à 95 km/h : un sport extrême insolite. Dès 35 $."
 ---
 
 La dernière éruption du Cerro Negro remonte à 1999, et il entrera de nouveau en éruption. Plus jeune volcan d'Amérique centrale, apparu en 1850, un clin d'œil à l'échelle géologique, il s'est réveillé 23 fois depuis. Les preuves sont partout à la surface du cône : des matériaux volcaniques frais, noirs et meubles, sans autre végétation qu'une herbe clairsemée à sa base. Des évents de vapeur sifflent près du sommet. L'air sent le soufre. C'est un volcan bien vivant, et l'ascension ne vous laisse aucun doute là-dessus.

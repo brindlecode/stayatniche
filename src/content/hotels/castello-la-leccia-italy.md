@@ -30,6 +30,19 @@ sourceId: "osm:node/13905061328"
 verifiedAt: 2026-10-11
 publishedDate: 2026-10-11
 status: published
+location:
+  country: "Italy"
+  countryCode: "IT"
+  region: "Tuscany"
+  city: "Castellina in Chianti"
+  locality: "La Leccia"
+  coordinates:
+    lat: 43.4396042
+    lng: 11.2797149
+niche_scope: specific_rooms
+niche_feature: "Hotel rooms are in the castle (documented since 1077, made villa-like in the 18th century, restored 2012); the adjacent Casa La Leccia apartment (5 doubles) is a separate building. Site never states exactly which building holds the 12 rooms."
+niche_source_url: "https://www.castellolaleccia.com/"
+niche_verified_at: 2026-11-17
 ---
 
 Castello la Leccia is an organic estate and charming agriturismo in Chianti Classico, near Castellina in Chianti in the province of Siena. The castle is the heart of the property, with rooms, reception halls, a restaurant, a pool, a spa and other services at guests' disposal.

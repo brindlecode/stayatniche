@@ -88,6 +88,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Ayvali,+Cappadocia"
     label: "Find Tours on Klook"
+location:
+  country: "Turkey"
+  countryCode: "TR"
+  region: "Nevşehir"
+  city: "Ürgüp"
+  locality: "Ayvalı"
+  coordinates:
+    lat: 38.545764
+    lng: 34.870935
+niche_scope: entire_property
+niche_feature: "Hotel set within a restored Byzantine monastic retreat in Ayvalı village with 35 individually designed cave rooms and suites; 12th-century Ayvalı Church within the grounds."
+niche_source_url: "https://www.gamirasu.com/"
+niche_verified_at: 2026-11-17
 ---
 
 Cappadocia has become one of Turkey's most visited destinations, and with good reason: the landscape of volcanic tuff formations, fairy chimneys, and rock-cut valleys is among the most visually arresting on earth. But the popularity of Göreme and Üçhisar means that the cave hotel experience can feel, in high season, like sharing something private with a very large crowd. Gamirasu offers an entirely different proposition.

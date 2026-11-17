@@ -16,7 +16,7 @@ mustSee:
   - "Le cap de Bonne-Espérance, pointe sud-ouest de l’Afrique, sur une côte atlantique sauvage"
   - "Boulders Beach, à Simon’s Town, et sa colonie de 3 000 manchots du Cap"
   - "Les vallées viticoles de Stellenbosch et Franschhoek, où des vins d’exception rencontrent des paysages de montagne extraordinaires"
-  - "Hermanus, le meilleur site au monde pour observer les baleines depuis la terre (baleines franches australes, de juillet à novembre)"
+  - "Hermanus, l’un des meilleurs sites au monde pour observer les baleines depuis la terre (baleines franches australes, de juillet à novembre)"
   - "Robben Island, où Nelson Mandela fut emprisonné : un éclairage historique essentiel"
 travelTips:
   - "Le Cap connaît un taux élevé de petits vols et d’effractions de voitures : ne laissez jamais d’objets de valeur visibles dans un véhicule garé, et restez vigilant dans le centre-ville à la nuit tombée."

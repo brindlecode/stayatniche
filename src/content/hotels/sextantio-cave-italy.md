@@ -54,7 +54,7 @@ prosAndCons:
     - "Some rooms have steps and uneven floors from the original cave structure"
     - "Limited mobile signal within the deeper cave areas"
 bookingUrl: "https://www.booking.com/hotel/it/sextantio-le-grotte-della-civita.html"
-rating: 9.4
+rating: 8.8
 checkInOut:
   checkIn: "15:00"
   checkOut: "12:00"
@@ -88,6 +88,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Matera"
     label: "Find Tours on Klook"
+location:
+  country: "Italy"
+  countryCode: "IT"
+  region: "Basilicata"
+  city: "Matera"
+  locality: "Sasso Barisano (Civita)"
+  coordinates:
+    lat: 40.6667
+    lng: 16.6167
+niche_scope: specific_rooms
+niche_feature: "18 rooms are caves in the Sasso Barisano (Civita) (e.g. Cave 17, 18, 20), restored. The same complex also runs a separate Palazzo della Civita with non-cave rooms."
+niche_source_url: "https://www.sextantio.it/en/legrottedellacivita/classic-room/"
+niche_verified_at: 2026-11-17
 ---
 
 In 1952, Italian Prime Minister Alcide De Gasperi stood in Matera and called it *la vergogna d'Italia*: the shame of Italy. The people living in the sassi — the cave dwellings cut into the ravines of this Basilicata hilltown — had no running water, no electricity, and shared their spaces with their animals. The government forcibly relocated them within a decade. The caves sat empty for thirty years.

@@ -28,6 +28,19 @@ sourceId: "osm:node/304739062"
 verifiedAt: 2026-10-11
 publishedDate: 2026-10-11
 status: published
+location:
+  country: "Italy"
+  countryCode: "IT"
+  region: "South Tyrol"
+  city: "Tisens"
+  locality: "Prissian"
+  coordinates:
+    lat: 46.5489887
+    lng: 11.1857913
+niche_scope: entire_property
+niche_feature: "All 20 rooms (3 single, 17 double) are inside the medieval castle, in the two 18 m towers and the palas; seasonal opening, 2026 season ended 25 October, 2027 opens 15 April."
+niche_source_url: "https://www.wehrburg.com/zimmer/"
+niche_verified_at: 2026-11-17
 ---
 
 Schloss Wehrburg is a medieval castle in Prissian, in the South Tyrol municipality of Tisens, run as a 3-star hotel. It sits at 600 metres on the Tisens plateau, and the hotel invites guests to feel like a knight or a lady of the castle among vaulted rooms and handsome façades.

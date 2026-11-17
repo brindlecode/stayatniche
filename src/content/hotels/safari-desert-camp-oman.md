@@ -30,6 +30,19 @@ sourceId: "osm:node/5468179466"
 verifiedAt: 2026-11-15
 publishedDate: 2026-11-15
 status: published
+location:
+  country: "Oman"
+  countryCode: "OM"
+  region: "Ash Sharqiyah North"
+  city: "Bidiyah"
+  locality: "Wahiba Sands"
+  coordinates:
+    lat: 22.2162381
+    lng: 58.8295303
+niche_scope: entire_property
+niche_feature: "Permanent Bedouin-style camp (opened Sept 2008) of about forty chalets and tents scattered across the Wahiba Sands dunes, reached with the camp's own 4WD; rooms page says solar power only."
+niche_source_url: "https://www.safaridesert.com/"
+niche_verified_at: 2026-11-17
 ---
 
 Safari Desert Camp is a permanent Bedouin-style camp that opened in September 2008. It sits in the Wahiba Sands in the Bidiyah area of Oman, in a quiet, remote stretch of desert between two big dunes. About forty chalets are spread widely across the sand.

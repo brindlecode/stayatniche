@@ -35,6 +35,18 @@ checkInOut:
   checkOut: "11:00"
 publishedDate: 2026-11-15
 status: published
+location:
+  country: "United Kingdom"
+  countryCode: "GB"
+  region: "West Sussex"
+  city: "Petworth"
+  coordinates:
+    lat: 50.9637116
+    lng: -0.6202866
+niche_scope: specific_rooms
+niche_feature: "Eight rooms (2 King Pullman, 6 Standard Pullman) are in restored Pullman carriages; two rooms (Station House Lower/Upper) and a self-catering Station Masters Suite are in the old station building."
+niche_source_url: "https://www.old-station.co.uk/"
+niche_verified_at: 2026-11-17
 ---
 
 Eight of the ten guest rooms at The Old Railway Station are in restored Pullman railway carriages, and the other two are in the Station House itself. This bed and breakfast sits in the former Petworth railway station in West Sussex, in the South Downs, and every room is en-suite with breakfast included.

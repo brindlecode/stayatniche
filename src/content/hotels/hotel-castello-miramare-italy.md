@@ -31,6 +31,19 @@ sourceId: "osm:node/1716752252"
 verifiedAt: 2026-10-11
 publishedDate: 2026-10-11
 status: published
+location:
+  country: "Italy"
+  countryCode: "IT"
+  region: "Liguria"
+  city: "Genoa"
+  locality: "Pegli"
+  coordinates:
+    lat: 44.4243368
+    lng: 8.8122433
+niche_scope: entire_property
+niche_feature: "Beachfront hotel in a castle that stands on the foundations of a medieval fortlet, rebuilt as a neo-Gothic towered villa (Castello Chiozza, c.1880); official site says guests stay in an old castle. Room count not stated."
+niche_source_url: "http://castellomiramare.it/c-era-una-volta.html"
+niche_verified_at: 2026-11-17
 ---
 
 Hotel Castello Miramare is a 3-star hotel on the seafront at Pegli, a district a few kilometres from the centre of Genoa. Guests stay in an old castle that has kept its atmosphere and part of its architectural structure, with the beach in front of the door.

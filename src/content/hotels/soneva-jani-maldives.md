@@ -28,7 +28,7 @@ bestFor:
   - "Ultra-luxury travellers"
   - "Families seeking adventure"
 bookingUrl: https://www.booking.com/hotel/mv/soneva-jani.html
-rating: 9.7
+rating: 8.8
 coordinates:
   lat: 5.7137476
   lng: 73.4150087
@@ -40,6 +40,17 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Noonu+Atoll,+Maldives"
     label: "Find Tours on Klook"
+location:
+  country: "Maldives"
+  countryCode: "MV"
+  region: "Noonu Atoll"
+  coordinates:
+    lat: 5.7137476
+    lng: 73.4150087
+niche_scope: specific_rooms
+niche_feature: "Overwater villas (with retractable roofs and slides into the lagoon) sit beside island/beach villas and Signature island villas set among greenery; only the water villas and water reserves are overwater."
+niche_source_url: "https://soneva.com/resorts/soneva-jani/villas/overwater-villas/"
+niche_verified_at: 2026-11-17
 ---
 
 Most ultra-luxury Maldivian resorts compete on the scale of their infinity pools or the refinement of their spa menus. Soneva Jani took a different approach: what would an overwater villa look like if the architecture was built around the specific character of this lagoon and this sky? The answer involves retractable roof panels above the master bedroom, a waterslide connecting the bedroom deck directly to the water, and an outdoor cinema screen suspended over the lagoon. It is, in the most useful sense, a resort that plays.

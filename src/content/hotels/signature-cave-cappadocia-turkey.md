@@ -31,6 +31,19 @@ sourceId: "osm:node/12338806497"
 verifiedAt: 2026-10-09
 publishedDate: 2026-10-09
 status: published
+location:
+  country: "Turkey"
+  countryCode: "TR"
+  region: "Nevşehir"
+  city: "Ürgüp"
+  locality: "Mustafapaşa"
+  coordinates:
+    lat: 38.5812572
+    lng: 34.8960099
+niche_scope: entire_property
+niche_feature: "Boutique hotel whose suites are marketed as cave suites (Premium, Junior, Deluxe Cave Suite) with natural rock walls; the Signature Pool Suite is not itself labelled cave."
+niche_source_url: "https://www.signaturecavecappadocia.com/hakkimizda/"
+niche_verified_at: 2026-11-17
 ---
 
 Signature Cave Cappadocia Trademark Collection by Wyndham is a branded boutique hotel that builds its identity around cave suites. According to the hotel, guests are "immersed" in Cappadocia's tranquillity in luxurious cave suites, where history meets modern comfort. It sits under an international hotel group's banner.

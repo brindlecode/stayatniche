@@ -1,6 +1,6 @@
 ---
 name: "Lapa Rios Lodge"
-category: treehouse-hotels
+category: jungle-lodges
 destination: "Osa Peninsula, Puntarenas"
 country: "Costa Rica"
 description: "Acclaimed eco-lodge in a private 1,000-acre rainforest reserve on Costa Rica's wild Osa Peninsula, one of the world's most biodiverse regions. Bungalows elevated in the rainforest canopy overlook the Pacific while the surrounding jungle teems with scarlet macaws, jaguars, and four species of monkey."
@@ -40,6 +40,18 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Osa+Peninsula,+Puntarenas"
     label: "Find Tours on Klook"
+location:
+  country: "Costa Rica"
+  countryCode: "CR"
+  region: "Puntarenas"
+  locality: "Osa Peninsula"
+  coordinates:
+    lat: 8.4003528
+    lng: -83.2852958
+niche_scope: entire_property
+niche_feature: "Eco-lodge inside a private 1,000-acre rainforest reserve on the Osa Peninsula; stand-alone villas, suites and bungalows are all within the reserve. Rooms are described as perched above the canopy, not as treehouses."
+niche_source_url: "https://www.laparios.com/"
+niche_verified_at: 2026-11-17
 ---
 
 The Osa Peninsula sits at the extreme end of Costa Rica's considerable wilderness spectrum. Jutting into the Pacific from the country's southern coast, covered almost entirely in primary and secondary rainforest, and accessible only by small aircraft or a long road journey involving at minimum one river crossing, it holds more than half of Costa Rica's vertebrate species, in a country that itself contains five percent of the world's total biodiversity. National Geographic has called it the most biologically intense place on Earth, and the description holds up.

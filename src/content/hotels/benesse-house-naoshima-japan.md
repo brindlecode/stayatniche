@@ -29,7 +29,7 @@ bestFor:
   - Couples
   - Design travellers
 bookingUrl: https://www.booking.com/hotel/jp/benesse-house.html
-rating: 9.3
+rating: 7.5
 coordinates:
   lat: 34.4452356
   lng: 133.9907302
@@ -44,6 +44,20 @@ affiliateLinks:
 seo:
   metaTitle: "Benesse House Naoshima Review: Art Hotel by Tadao Ando | StayAtNiche"
   metaDescription: "Benesse House on Naoshima Island: Tadao Ando's hotel-museum hybrid with permanent art installations by Turrell, Nauman, and Sugimoto in the Seto Inland Sea."
+status: draft
+location:
+  country: "Japan"
+  countryCode: "JP"
+  region: "Kagawa"
+  city: "Naoshima"
+  locality: "Naoshima Island"
+  coordinates:
+    lat: 34.4452356
+    lng: 133.9907302
+niche_scope: experience_only
+niche_feature: "Museum-hotel (opened 1992) with guest rooms among contemporary art, in four buildings (Museum, Oval, Park, Beach). Nothing states rooms are cave, rock-cut or underground."
+niche_source_url: "https://benesse-artsite.jp/en/stay/benessehouse/"
+niche_verified_at: 2026-11-17
 ---
 
 Naoshima is a small island in Japan's Seto Inland Sea that began a quiet transformation in the 1990s when the Benesse Corporation began commissioning contemporary art for its rocky southern hills and abandoned fishing villages. The island now holds a density of serious art and architecture that would be notable in any major city, concentrated into a few kilometres of forested coastline. Benesse House is the hotel at the centre of that project: designed by Tadao Ando and opened in 1992, expanded three times since, and now comprising four separate building clusters — Museum, Oval, Park, and Beach — connected by footpaths through the hillside.

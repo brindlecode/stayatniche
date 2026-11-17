@@ -157,7 +157,7 @@ Most ice hotels brief guests on arrival. The standard procedure:
 
 Iceland doesn't have a traditional ice hotel in the Scandinavian sense, but it offers several features that make it a compelling alternative for Northern Lights-focused travel:
 
-**The Retreat at Blue Lagoon** has geothermal pools that can be enjoyed at midnight while watching aurora activity overhead, arguably the world's most spectacular aurora viewing context.
+**The Retreat at Blue Lagoon** has geothermal pools that can be enjoyed at midnight while watching aurora activity overhead, a memorable aurora viewing setting.
 
 **Ion Adventure Hotel** in Nesjavellir was specifically designed for aurora viewing, with panoramic windows and proximity to the Þingvellir National Park dark sky zone.
 

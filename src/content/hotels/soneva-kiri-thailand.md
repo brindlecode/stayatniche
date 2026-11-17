@@ -30,7 +30,7 @@ bestFor:
   - Undeveloped Thai island setting
   - Families (large villa options)
 bookingUrl: https://www.booking.com/hotel/th/soneva-kiri.html
-rating: 9.4
+rating: 7.5
 coordinates:
   lat: 11.6986466
   lng: 102.5311225
@@ -45,6 +45,19 @@ affiliateLinks:
 seo:
   metaTitle: "Soneva Kiri Thailand Review: Treehouse Dining on Koh Kood | StayAtNiche"
   metaDescription: "Soneva Kiri on Koh Kood: Thailand's most theatrical luxury resort with BistrOTeK tree pod dining above the jungle. Private pool villas on an undeveloped island."
+status: draft
+location:
+  country: "Thailand"
+  countryCode: "TH"
+  region: "Trat"
+  city: "Ko Kut"
+  coordinates:
+    lat: 11.6986466
+    lng: 102.5311225
+niche_scope: experience_only
+niche_feature: "Tree pod is a dining experience in the rainforest canopy; guest accommodation is pool villas, not treehouses. Resort was renamed Kiri Private Reserve in 2025 and the old Soneva link now lands on an unrelated site."
+niche_source_url: "https://hospibuz.com/hotel/Hotel-listicles/thailands-soneva-kiri-at-koh-kood-transitions-to-kiri-private-reserve-9367475"
+niche_verified_at: 2026-11-17
 ---
 
 Koh Kood — the island's name means "island of water" in Thai, referencing the rivers and waterfalls that run from its forested interior to the sea — sits in the southernmost corner of the Gulf of Thailand, close enough to the Cambodian coast that its development history has kept it remote. There is no regular ferry from the mainland; access requires a charter boat or a seaplane from Trat, which means Koh Kood has avoided the backpacker infrastructure that has transformed Koh Samui and Koh Phangan. The beach in front of Soneva Kiri — 1.5 kilometres of white sand with no commercial presence whatsoever — is what Thai beaches looked like before the tourist industry arrived.

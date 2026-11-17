@@ -54,7 +54,7 @@ prosAndCons:
     - "The village of Amberley is quiet, limited evening activity beyond the castle"
     - "Older parts of the building involve steps and uneven floors"
 bookingUrl: "https://www.booking.com/hotel/gb/amberley-castle.html"
-rating: 9.1
+rating: 8.8
 checkInOut:
   checkIn: "15:00"
   checkOut: "11:00"
@@ -90,6 +90,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Amberley,+West+Sussex"
     label: "Find Tours on Klook"
+location:
+  country: "United Kingdom"
+  countryCode: "GB"
+  region: "England"
+  city: "Arundel"
+  locality: "Amberley"
+  coordinates:
+    lat: 50.909039
+    lng: -0.540224
+niche_scope: specific_rooms
+niche_feature: "Genuine walled medieval castle; its 19 bedrooms are in different parts of the estate: Manor House, Tower House Mews, and Gatehouse Suites in the 17th-century Bishopric Dairy just beyond the walls."
+niche_source_url: "https://amberleycastle.co.uk/explore/castle-stays-in-west-sussex/"
+niche_verified_at: 2026-11-17
 ---
 
 The portcullis at Amberley Castle comes down behind you with a sound — iron on stone, deliberate and heavy — that settles any question about where you are. You are inside a 12th-century castle. The world outside is on the other side of 60 feet of medieval curtain wall. This is not a metaphor.

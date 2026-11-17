@@ -30,6 +30,18 @@ sourceId: "osm:node/565438625"
 verifiedAt: 2026-10-12
 publishedDate: 2026-10-12
 status: published
+location:
+  country: "Kenya"
+  countryCode: "KE"
+  region: "Taita-Taveta"
+  locality: "Tsavo West National Park"
+  coordinates:
+    lat: -2.9982138
+    lng: 37.985581
+niche_scope: entire_property
+niche_feature: "Open, unfenced tented camp in Tsavo West National Park: luxury tents, junior and executive suites (tent canvas) and self-catering Kitani bandas 1.5 km away."
+niche_source_url: "https://www.severinsafaricamp.com/"
+niche_verified_at: 2026-11-17
 ---
 
 Severin Safari Camp is a tented camp in the middle of Tsavo West National Park in Kenya, in the Kitani Wildlife Area. The camp is open, with no fences, so wildlife can walk through the landscape around the tents, and Kilimanjaro sits on the horizon. The camp is open all year.

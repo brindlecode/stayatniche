@@ -68,7 +68,7 @@ const usd = (amount: string) => `${amount} $`;
 
 const fr: typeof en = {
   meta: {
-    defaultDescription: 'Les hôtels les plus insolites du monde : cabanes dans les arbres, grottes, chambres sous-marines, châteaux, hôtels de glace et bien plus. Des adresses qui font le voyage.',
+    defaultDescription: 'Des hôtels insolites aux quatre coins du monde : cabanes dans les arbres, grottes, chambres sous-marines, châteaux, hôtels de glace et bien plus. Des adresses qui font le voyage.',
   },
   fmt: {
     usd,
@@ -182,7 +182,7 @@ const fr: typeof en = {
   },
   blog: {
     metaTitle: 'Guides de voyage : hôtels insolites et destinations',
-    metaDescription: 'Les hôtels les plus insolites du monde (cabanes, grottes, hôtels de glace, lodges de safari), mais aussi des guides de destination et des conseils pratiques.',
+    metaDescription: 'Des hôtels insolites du monde entier (cabanes, grottes, hôtels de glace, lodges de safari), mais aussi des guides de destination et des conseils pratiques.',
     lead: 'Où dormir, quand partir, comment s’y rendre : pour des voyages pensés autour d’une nuit hors du commun.',
     readGuide: 'Lire le guide',
     filter: 'Filtrer les guides',
@@ -280,7 +280,7 @@ const fr: typeof en = {
     other: 'Autres types d’hébergement',
   },
   destinations: {
-    metaTitle: 'Destinations : où trouver les hôtels les plus insolites',
+    metaTitle: 'Destinations : où trouver des hôtels insolites',
     metaDescription: (n: number) => `${n} ${plural(n, 'guide de destination pensé', 'guides de destination pensés')} autour d’hébergements d’exception : quand partir, que voir, et les hôtels insolites qui valent le voyage.`,
     h1a: 'Et maintenant,',
     h1b: 'où partir ?',
@@ -421,7 +421,7 @@ const fr: typeof en = {
   notFound: {
     metaTitle: 'Page introuvable | StayAtNiche',
     h1: 'Cette page semble avoir libéré la chambre un peu tôt',
-    text: 'La page que vous cherchez n’existe pas ou a été déplacée. Les hébergements les plus extraordinaires du monde ne sont qu’à un clic.',
+    text: 'La page que vous cherchez n’existe pas ou a été déplacée. Des hébergements extraordinaires, partout dans le monde, ne sont qu’à un clic.',
     maybe: 'Vous cherchiez peut-être l’une de ces pages ?',
   },
   photoCredits: {
@@ -456,7 +456,7 @@ const fr: typeof en = {
     stayB: 'dormir',
   },
   home: {
-    metaTitle: 'StayAtNiche : les hébergements les plus insolites du monde',
+    metaTitle: 'StayAtNiche : des hébergements insolites dans le monde entier',
     metaDescription: 'Des hôtels insolites qui valent le voyage : cabanes dans les arbres, hôtels troglodytes, chambres sous-marines, lodges de safari… Comparez et réservez sereinement.',
     heroAlt: 'Une cabane de verre sur une crête, au-dessus d’une mer de nuages au lever du soleil',
     eyebrow: (h: number, c: number, k: number) => `${h} ${plural(h, 'hébergement', 'hébergements')} · ${c} pays · ${k} ${plural(k, 'façon', 'façons')} de sortir de l’ordinaire`,

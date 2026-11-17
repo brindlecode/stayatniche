@@ -1,6 +1,6 @@
 ---
 name: Amangiri
-category: cliffside-hotels
+category: desert-camps
 destination: Canyon Point, Utah
 country: USA
 continent: North America
@@ -72,6 +72,18 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Canyon+Point,+Utah"
     label: "Find Tours on Klook"
+location:
+  country: "United States"
+  countryCode: "US"
+  region: "Utah"
+  city: "Canyon Point"
+  coordinates:
+    lat: 37.014623
+    lng: -111.611121
+niche_scope: entire_property
+niche_feature: "Resort of 34 suites plus Camp Sarika (10 tented pavilions) on 900+ acres of Colorado Plateau desert; the pool is built against a mesa. Official text frames it as desert red-rock country, not a cliff-edge hotel."
+niche_source_url: "https://www.aman.com/resorts/amangiri"
+niche_verified_at: 2026-11-17
 ---
 
 Amangiri is probably the finest desert hotel in North America. The architecture alone justifies the flight to Utah. Architect Marwan Al-Sayed designed the entire resort around an ancient sandstone mesa, an outcropping of Navajo sandstone sitting at the building's core, and the result is a long, low complex of poured concrete and desert stone that doesn't compete with the landscape, it simply becomes part of it.
