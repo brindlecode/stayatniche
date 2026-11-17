@@ -1,0 +1,22 @@
+[
+  { "id": "osm:node/2684661564", "url": null, "title": null, "why": "Only listing and directory sites in the results." },
+  { "id": "osm:node/316644696", "url": null, "title": null, "why": "Only listing sites in the results; the imperialcavehotel.com domain appeared only inside a review's text, not as a result." },
+  { "id": "osm:node/316644697", "url": null, "title": null, "why": "Only listing sites in the results." },
+  { "id": "osm:node/316644698", "url": null, "title": null, "why": "No result names a property called Legend Cave; only the museum and unrelated sites appeared." },
+  { "id": "osm:node/3227913086", "url": null, "title": null, "why": "Only listing sites in the results." },
+  { "id": "osm:node/3448334660", "url": null, "title": null, "why": "Only listing sites in the results." },
+  { "id": "osm:node/3615776525", "url": null, "title": null, "why": "Only listing sites in the results." },
+  { "id": "osm:node/363864179", "url": null, "title": null, "why": "Only listing sites for similarly named properties (Dreams Cave Hotel) in the results." },
+  { "id": "osm:node/364418802", "url": null, "title": null, "why": "No result names a property called Anatolia Cave; only unrelated sites appeared." },
+  { "id": "osm:node/368291608", "url": null, "title": null, "why": "Only listing sites in the results." },
+  { "id": "osm:node/368291890", "url": null, "title": null, "why": "Results describe the Göreme Open Air Museum and UNESCO pages, not a property named Göreme Cave." },
+  { "id": "osm:node/368296486", "url": null, "title": null, "why": "Only listing sites in the results." },
+  { "id": "osm:node/368296492", "url": null, "title": null, "why": "Only listing sites for similarly named properties in the results." },
+  { "id": "osm:node/375977861", "url": null, "title": null, "why": "Only listing sites in the results." },
+  { "id": "osm:node/3764824156", "url": null, "title": null, "why": "The domain sultancavesuites.com appeared only in a third-party text, not as a search result, so it cannot be accepted." },
+  { "id": "osm:node/380698938", "url": null, "title": null, "why": "No result names a property called Gümüş Cave; only museum and unrelated sites appeared." },
+  { "id": "osm:node/4301877891", "url": null, "title": null, "why": "Only listing sites in the results." },
+  { "id": "osm:node/4368574056", "url": null, "title": null, "why": "Only listing sites in the results." },
+  { "id": "osm:node/5218716021", "url": null, "title": null, "why": "Only listing sites in the results." },
+  { "id": "osm:node/5395462003", "url": null, "title": null, "why": "Only listing sites in the results." }
+]
