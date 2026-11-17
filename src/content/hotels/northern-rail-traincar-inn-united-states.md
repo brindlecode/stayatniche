@@ -23,7 +23,6 @@ bestFor:
   - "Families"
 bookingUrl: "https://www.northernrail.net/"
 rating: 8.5
-reviewCount: 0
 coordinates:
   lat: 47.0574393
   lng: -91.6354023
@@ -32,6 +31,18 @@ sourceId: "osm:way/1059741937"
 verifiedAt: 2026-11-15
 publishedDate: 2026-11-15
 status: published
+location:
+  country: "United States"
+  countryCode: "US"
+  region: "Minnesota"
+  city: "Two Harbors"
+  coordinates:
+    lat: 47.0574393
+    lng: -91.6354023
+niche_scope: entire_property
+niche_feature: "All 15 guest rooms are in real renovated train boxcars (Porter rooms and Conductor suites) linked by an enclosed hallway; themed rooms. Depot-style main building is the breakfast/guest area."
+niche_source_url: "https://www.northernrail.net/"
+niche_verified_at: 2026-11-17
 ---
 
 The Northern Rail Traincar Inn is a hotel built from genuine train boxcars. The cars have been renovated with modern amenities and turned into guest rooms and suites, each with its own private bathroom. It stands at 1730 Highway 3 in Two Harbors, Minnesota, and takes guests all year except April.

@@ -3,7 +3,7 @@ title: "Heli-Skiing in the Selkirk Mountains"
 type: adventure
 destination: "Selkirk Mountains, British Columbia"
 country: "Canada"
-description: "Drop into untouched powder fields in the Canadian Selkirks from a helicopter that deposits you at the top of terrain no lift system will ever reach, vast, silent, perfectly white wilderness where each run is measured in vertical kilometres and the snow quality is legendary among the world's most serious skiers. Heli-skiing in British Columbia is the pinnacle of downhill skiing, offering the best skiers on Earth a completely private mountain experience in some of the deepest powder on the planet."
+description: "Drop into untouched powder fields in the Canadian Selkirks from a helicopter that deposits you at the top of terrain no lift system will ever reach, vast, silent, perfectly white wilderness where each run is measured in vertical kilometres and the snow quality is legendary among the world's most serious skiers. Heli-skiing in British Columbia is regarded by many as the pinnacle of downhill skiing, offering experienced skiers a completely private mountain experience in some of the deepest powder on the planet."
 coverImage: /images/experiences/heli-skiing-canada.jpg
 booking:
   provider: direct
@@ -31,7 +31,6 @@ notIncluded:
   - Gratuities for guides and pilots
   - Flights to Revelstoke or Golden, BC
 rating: 9.9
-reviewCount: 892
 featured: false
 tags:
   - heli-skiing

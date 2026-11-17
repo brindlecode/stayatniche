@@ -1,15 +1,15 @@
 ---
 source: cliffside-hotels-world-guide
-title: "Klippenhotels: die spektakulärst gelegenen Unterkünfte der Welt"
-excerpt: "Vom Kraterrand Santorins bis zu den schwindelerregenden Terrassen der Amalfiküste: Entdecken Sie die spektakulärst gelegenen Klippenhotels der Welt, in denen jeder Ausblick ein Schauspiel ist."
+title: "Klippenhotels: spektakulär gelegene Unterkünfte rund um die Welt"
+excerpt: "Vom Kraterrand Santorins bis zu den schwindelerregenden Terrassen der Amalfiküste: Entdecken Sie spektakulär gelegene Klippenhotels, in denen jeder Ausblick ein Schauspiel ist."
 seo:
-  metaTitle: "Klippenhotels: die spektakulärsten der Welt | StayAtNiche"
-  metaDescription: "Die spektakulärsten Klippenhotels der Welt – von Santorin bis zur Amalfiküste. Schwindelerregende Ausblicke, Infinity-Pools und unvergessliche Architektur."
+  metaTitle: "Klippenhotels: spektakuläre Lagen weltweit | StayAtNiche"
+  metaDescription: "Spektakuläre Klippenhotels von Santorin bis zur Amalfiküste. Schwindelerregende Ausblicke, Infinity-Pools, unvergessliche Architektur und Tipps zur Buchung."
 ---
 
-Ein Klippenhotel kann etwas, das keine andere Unterkunftskategorie vermag: Es stellt Sie an den tatsächlichen Rand des Landes, während unter Ihnen alles in die Tiefe stürzt. Meer, Tal oder Wüste darunter, der Himmel darüber, der Horizont ungebrochen. Die besten Häuser haben seit Jahrzehnten verstanden, dass die Aussicht kein Ausstattungsmerkmal ist, sondern das eigentliche Produkt. Alles andere – Küche, Pool, Service – ist zweitrangig.
+Ein Klippenhotel kann etwas, das keine andere Unterkunftskategorie vermag: Es stellt Sie an den tatsächlichen Rand des Landes, während unter Ihnen alles in die Tiefe stürzt. Meer, Tal oder Wüste darunter, der Himmel darüber, der Horizont ungebrochen. Führende Häuser haben seit Jahrzehnten verstanden, dass die Aussicht kein Ausstattungsmerkmal ist, sondern das eigentliche Produkt. Alles andere – Küche, Pool, Service – ist zweitrangig.
 
-Infinity-Pools, die mit dem Meer verschmelzen; Glaswände, die die Grenze zwischen Zimmer und Landschaft aufheben; Terrassenrestaurants an der Klippenkante, wo Sie vor einem Sonnenuntergang speisen, der theatralisch wirkt, weil er es tatsächlich ist: Die besten Klippenhotels der Welt zeichnen sich durch eine Architektur aus, die der Lage dient, statt mit ihr zu konkurrieren.
+Infinity-Pools, die mit dem Meer verschmelzen; Glaswände, die die Grenze zwischen Zimmer und Landschaft aufheben; Terrassenrestaurants an der Klippenkante, wo Sie vor einem Sonnenuntergang speisen, der theatralisch wirkt, weil er es tatsächlich ist: Die besten Klippenhotels zeichnen sich durch eine Architektur aus, die der Lage dient, statt mit ihr zu konkurrieren.
 
 Dieser Ratgeber stellt die berühmtesten Klippenziele vor, empfiehlt konkrete Häuser und liefert Ihnen die praktischen Informationen, die Sie brauchen, um das richtige zu buchen.
 
@@ -33,7 +33,7 @@ Das Grace war eines der ersten Hotels auf Santorin, das mit der Qualität seines
 **Ideal für:** Paare, Fotografen, Reisende, denen Lage und Aussicht wichtiger sind als Zimmergröße
 
 
-Das Katikies, eines der ältesten und berühmtesten Luxushotels Santorins, liegt in bester Calderalage in Oia und besitzt drei an der Klippenwand gelegene Pools, die von unten sichtbar sind – ein architektonisches Markenzeichen, das in unzähligen Reisemagazinen zu sehen war. Die 27 Zimmer und Suiten sind individuell in einer raffinierten Mischung aus kykladischer Tradition und zeitgemäßem Design eingerichtet; die Weinbar Chateau Nico besitzt die umfangreichste Sammlung von Santorin-Weinen der Welt.
+Das Katikies, eines der ältesten und berühmtesten Luxushotels Santorins, liegt in bester Calderalage in Oia und besitzt drei an der Klippenwand gelegene Pools, die von unten sichtbar sind – ein architektonisches Markenzeichen, das in unzähligen Reisemagazinen zu sehen war. Die 27 Zimmer und Suiten sind individuell in einer raffinierten Mischung aus kykladischer Tradition und zeitgemäßem Design eingerichtet; die Weinbar Chateau Nico besitzt eine umfangreiche Sammlung von Santorin-Weinen.
 
 **Preise:** Zimmer ab 500 € pro Nacht
 **Ideal für:** Weinliebhaber, Paare, alle, die Oias berühmteste historische Hoteladresse suchen
@@ -44,7 +44,7 @@ Das Katikies, eines der ältesten und berühmtesten Luxushotels Santorins, liegt
 Italiens Amalfiküste verbindet Klippendramatik mit einer der weltweit größten Konzentrationen an Kultur, Kulinarik und Naturschönheit. Die 50 Kilometer lange Küste zwischen Positano und Salerno, als Kulturlandschaft UNESCO-Welterbe, fällt vom Kamm der Monti Lattari direkt ins Tyrrhenische Meer ab; die alten Fischerorte Positano, Amalfi und Ravello klammern sich auf verschiedenen Höhen an die Felswand.
 
 
-In einer Villa aus dem 12. Jahrhundert auf den Klippen über Ravello gelegen, 350 Meter über dem Meer im höchstgelegenen Ort der Küste, zählt der Palazzo Avino zu den besten Küstenhotels Italiens. Der ehemalige private Palazzo wurde 1997 zum Hotel umgebaut; die 43 Zimmer und Suiten bewahren eine aristokratische Atmosphäre mit Deckenfresken, antiken Möbeln und sorgfältig ausgewählter Kunst. Poolterrasse und Restaurant überblicken die gesamte Küste von Amalfi bis Capri, und das mit einem Michelin-Stern ausgezeichnete Restaurant Pink Sapphire ist die beste Adresse der Küste.
+In einer Villa aus dem 12. Jahrhundert auf den Klippen über Ravello gelegen, 350 Meter über dem Meer im höchstgelegenen Ort der Küste, zählt der Palazzo Avino zu den besten Küstenhotels Italiens. Der ehemalige private Palazzo wurde 1997 zum Hotel umgebaut; die 43 Zimmer und Suiten bewahren eine aristokratische Atmosphäre mit Deckenfresken, antiken Möbeln und sorgfältig ausgewählter Kunst. Poolterrasse und Restaurant überblicken die gesamte Küste von Amalfi bis Capri, und das mit einem Michelin-Stern ausgezeichnete Restaurant Pink Sapphire ist eine herausragende Adresse der Küste.
 
 **Preise:** Deluxe-Zimmer ab 600 € pro Nacht; Suiten an der Klippenwand ab 1.500 € pro Nacht
 **Ideal für:** Feinschmecker, Paare, die ein Jubiläum feiern, alle, die die beste Adresse an der Amalfiküste suchen
@@ -108,7 +108,7 @@ Innerhalb der Altstadtmauern verbindet die Casa San Agustin drei historische Kol
 Die spektakuläre Lage, die Klippenhotels so außergewöhnlich macht, kann für Gäste mit ausgeprägter Höhenangst eine Herausforderung sein. Die meisten Häuser haben Zimmer in unterschiedlichem Abstand zur Klippenkante; um ein weniger exponiertes Zimmer zu bitten, das dennoch von Aussicht und Atmosphäre profitiert, ist ein berechtigter Wunsch, den die meisten Hotels gern erfüllen.
 
 
-Viele der besten Klippenhotels der Welt sind mit zahlreichen Treppen verbunden: Die Lage an der Felswand, die die Aussicht so außergewöhnlich macht, schließt einen ebenerdigen Zugang meist aus. In den Hotels am Calderarand von Santorin können Dutzende Stufen anfallen; an der Amalfiküste sind oft steile Aufstiege nötig. Bedenken Sie dies, wenn Sie in Ihrer Mobilität eingeschränkt sind; viele Häuser haben nur begrenzt Aufzüge, und wo es welche gibt, erreichen sie oft nicht alle Zimmerkategorien.
+Viele Klippenhotels sind mit zahlreichen Treppen verbunden: Die Lage an der Felswand, die die Aussicht so außergewöhnlich macht, schließt einen ebenerdigen Zugang meist aus. In den Hotels am Calderarand von Santorin können Dutzende Stufen anfallen; an der Amalfiküste sind oft steile Aufstiege nötig. Bedenken Sie dies, wenn Sie in Ihrer Mobilität eingeschränkt sind; viele Häuser haben nur begrenzt Aufzüge, und wo es welche gibt, erreichen sie oft nicht alle Zimmerkategorien.
 
 
 Klippenhotels bieten herausragende Fotomotive, stellen aber besondere Anforderungen:

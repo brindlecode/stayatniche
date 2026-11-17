@@ -22,7 +22,6 @@ bestFor:
   - "Wildlife watchers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Torrisdale%20Castle%20Estate%2C%20Kintyre&adults=2"
 rating: 8
-reviewCount: 0
 coordinates:
   lat: 55.5688113
   lng: -5.5012667
@@ -31,6 +30,19 @@ sourceId: "osm:way/256497415"
 verifiedAt: 2026-10-10
 publishedDate: 2026-10-10
 status: published
+location:
+  country: "United Kingdom"
+  countryCode: "GB"
+  region: "Scotland"
+  city: "Carradale"
+  locality: "Torrisdale"
+  coordinates:
+    lat: 55.5688113
+    lng: -5.5012667
+niche_scope: specific_rooms
+niche_feature: "Only The Servants' Quarters (sleeps 6, three bedrooms) is in the Gothic castle of 1815; the two cottages and two eco-bothies elsewhere on the estate are not in the castle."
+niche_source_url: "https://www.torrisdalecastle.com/self-catering/the-servants-quarters/"
+niche_verified_at: 2026-11-17
 ---
 
 Torrisdale Castle Estate is a small, family-owned estate on the Kintyre peninsula in Argyll. The castle was begun in 1815 by General Keith Macalister, who hired James Gillespie Graham, a leading architect of the Scottish Gothic style. It was built of sandstone from Wigtownshire, extended to three storeys, and expanded to the north and south in 1903 and 1908 to form the present building.

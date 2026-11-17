@@ -1,16 +1,16 @@
 ---
 source: icehotel-sweden
 destination: "Jukkasjärvi, Laponie suédoise"
-description: "L'hôtel de glace originel, reconstruit chaque hiver depuis 1990 avec la glace de la rivière Torne. En été, l'ICEHOTEL 365 reste ouvert avec 20 suites maintenues à -5 °C toute l'année, ce qui en fait le seul hôtel de glace permanent au monde et l'hébergement polaire le plus emblématique de la planète."
+description: "L'hôtel de glace originel, reconstruit chaque hiver depuis 1990 avec la glace de la rivière Torne. En été, l'ICEHOTEL 365 reste ouvert avec 20 suites maintenues à -5 °C toute l'année, ce qui en fait un hôtel de glace ouvert toute l'année et l'un des hébergements polaires les plus connus au monde."
 highlights:
-  - "Le premier et le plus célèbre hôtel de glace du monde, ouvert depuis 1990"
+  - "L'hôtel de glace originel, ouvert depuis 1990 et l'un des plus connus au monde"
   - "L'ICEHOTEL 365, ouvert toute l'année, avec 20 suites d'art réfrigérées"
   - "Un hôtel d'hiver reconstruit chaque année en glace et en neige par des artistes internationaux"
   - "Chaque suite d'art est le fruit d'une collaboration unique entre artistes et architecture"
   - "Bar de glace servant des cocktails dans des verres de glace sculptée, à -5 °C"
   - "Aurores boréales en hiver, soleil de minuit en été"
   - "Traîneau à chiens, expéditions en motoneige et ateliers de sculpture sur glace"
-  - "Chapelle sur place, le lieu de mariage le plus froid du monde"
+  - "Chapelle sur place pour des mariages en hiver"
 amenities:
   - "Suite d'art sculptée dans la glace de la rivière Torne (maintenue à -5 °C)"
   - "Sac de couchage sur peau de renne, sur lit de glace (chambre chauffée également disponible)"
@@ -27,7 +27,7 @@ bestFor:
   - "Les passionnés d'expériences arctiques"
 prosAndCons:
   pros:
-    - "L'hôtel de glace originel et le plus emblématique, impossible à reproduire ailleurs"
+    - "L'hôtel de glace originel, impossible à reproduire ailleurs"
     - "Des suites d'art créées par des artistes internationaux, pour une expérience totalement différente chaque année"
     - "Ouvert toute l'année grâce à l'ICEHOTEL 365 : aucune saison n'est une mauvaise saison"
     - "L'expérience arctique complète : traîneau à chiens, aurores, glace, soleil de minuit"
@@ -51,10 +51,10 @@ nearbyAttractions:
     distance: "80 km"
 seo:
   metaTitle: "ICEHOTEL : hôtel de glace en Laponie | StayAtNiche"
-  metaDescription: "Avis sur l'ICEHOTEL, premier hôtel de glace du monde, rebâti chaque hiver depuis 1990 : suites d'art à -5 °C et aurores boréales. Dès 500 $ la nuit."
+  metaDescription: "Avis sur l'ICEHOTEL, l'hôtel de glace originel, rebâti chaque hiver depuis 1990 : suites d'art à -5 °C et aurores boréales. Dès 500 $ la nuit."
 ---
 
-Tout commence avec la rivière. La Torne, qui marque la frontière entre la Suède et la Finlande dans sa descente vers le golfe de Botnie, gèle chaque mois de novembre sur plus d'un mètre d'épaisseur : une masse de glace d'une pureté exceptionnelle, d'une transparence cristalline, sans égale au monde pour un usage architectural. C'est dans cette rivière qu'Yngve Bergqvist et une équipe d'artistes japonais ont extrait les premiers blocs en 1989, et c'est avec eux qu'ils ont bâti, à titre expérimental et sans la moindre certitude de succès, le premier hôtel au monde entièrement fait de glace.
+Tout commence avec la rivière. La Torne, qui marque la frontière entre la Suède et la Finlande dans sa descente vers le golfe de Botnie, gèle chaque mois de novembre sur plus d'un mètre d'épaisseur : une masse de glace d'une pureté exceptionnelle, d'une transparence cristalline, particulièrement adaptée à un usage architectural. C'est dans cette rivière qu'Yngve Bergqvist et une équipe d'artistes japonais ont extrait les premiers blocs en 1989, et c'est avec eux qu'ils ont bâti, à titre expérimental et sans la moindre certitude de succès, le premier hôtel au monde entièrement fait de glace.
 
 Plus de trois décennies plus tard, l'ICEHOTEL est toujours en activité à Jukkasjärvi, un village d'environ 900 habitants situé sur le cercle polaire arctique, en Laponie suédoise, et il n'a jamais été aussi extraordinaire qu'aujourd'hui.
 

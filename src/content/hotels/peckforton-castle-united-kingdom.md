@@ -20,8 +20,7 @@ bestFor:
   - "Families"
   - "Groups and celebrations"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Peckforton%20Castle%2C%20Cheshire&adults=2"
-rating: 8.9
-reviewCount: 0
+rating: 8.8
 coordinates:
   lat: 53.1177986
   lng: -2.6991619
@@ -30,6 +29,19 @@ sourceId: "osm:node/340524418"
 verifiedAt: 2026-10-10
 publishedDate: 2026-10-10
 status: published
+location:
+  country: "United Kingdom"
+  countryCode: "GB"
+  region: "England"
+  city: "Tarporley"
+  locality: "Peckforton"
+  coordinates:
+    lat: 53.1177986
+    lng: -2.6991619
+niche_scope: specific_rooms
+niche_feature: "The 48 bedrooms and suites (including Tower Suites) are in the Grade I Victorian castle of 1851; The Lodge and The Retreat are separate group-accommodation houses on the estate."
+niche_source_url: "https://www.peckfortoncastle.co.uk/hotel"
+niche_verified_at: 2026-11-17
 ---
 
 Peckforton Castle was built in 1851 to recreate a medieval fortress, and it still reads as one: a Grade I listed Victorian Gothic stronghold in the Cheshire countryside, described by its owners as the only intact medieval-style castle in England. Today it works as a hotel, restaurant and events venue, and overnight guests sleep inside the walls rather than in a modern annexe.

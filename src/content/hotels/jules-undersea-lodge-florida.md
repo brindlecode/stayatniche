@@ -29,7 +29,6 @@ bestFor:
   - "Unmissable travellers"
 bookingUrl: https://www.booking.com/
 rating: 9.0
-reviewCount: 892
 coordinates:
   lat: 25.133094
   lng: -80.398618
@@ -41,6 +40,18 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Key+Largo,+Florida"
     label: "Find Tours on Klook"
+location:
+  country: "United States"
+  countryCode: "US"
+  region: "Florida"
+  city: "Key Largo"
+  coordinates:
+    lat: 25.133094
+    lng: -80.398618
+niche_scope: entire_property
+niche_feature: "Historic habitat on the Key Largo lagoon floor (22 ft) now run by nonprofit MarineLab as 'Jules' Undersea Lab'; guests sleep underwater on a 24-hour Aquanaut Mission, no longer a hotel."
+niche_source_url: "https://www.marinelabunderseapark.org/jules"
+niche_verified_at: 2026-11-17
 ---
 
 Jules' Undersea Lodge occupies a category of one. There is no other property in the world that requires guests to put on scuba equipment, descend into a lagoon, and enter their accommodation through a moon pool in the floor — and yet the lodge has been doing exactly this in the mangrove lagoon of Key Largo Undersea Park since 1986, making it the world's first and longest-operating underwater hotel.

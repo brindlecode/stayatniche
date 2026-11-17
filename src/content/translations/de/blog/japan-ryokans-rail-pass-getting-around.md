@@ -1,13 +1,13 @@
 ---
 source: japan-ryokans-rail-pass-getting-around
 title: "Japan mit dem Zug: So erreichen Sie die besten Ryokan, Onsen-Orte und außergewöhnlichen Unterkünfte"
-excerpt: "Japan hat das beste Bahnnetz der Welt und einige der außergewöhnlichsten Orte zum Übernachten. Der Japan Rail Pass ist der Schlüssel zu beidem. Dieser Ratgeber zeigt die Bahnstrecken zu den schönsten Ryokan-Zielen – von Hakone bis zu den Thermalorten Kyushus – und die besonderen Unterkünfte, für die sich jede Anreise lohnt."
+excerpt: "Japan hat ein hervorragendes Bahnnetz und einige außergewöhnliche Orte zum Übernachten. Der Japan Rail Pass ist der Schlüssel zu beidem. Dieser Ratgeber zeigt die Bahnstrecken zu den schönsten Ryokan-Zielen – von Hakone bis zu den Thermalorten Kyushus – und die besonderen Unterkünfte, für die sich jede Anreise lohnt."
 seo:
   metaTitle: "Japan Rail Pass & Ryokan: Mit dem Zug reisen | StayAtNiche"
   metaDescription: "Mit dem Japan Rail Pass zu den besten Ryokan, Onsen-Orten und besonderen Hotels: Bahnstrecken von Tokio nach Kyoto, Hakone, Naoshima und Hokkaido erklärt."
 ---
 
-Der japanische Shinkansen ist die effizienteste Art, auf diesem Planeten zwischen Großstädten zu reisen. Von Tokio nach Kyoto in 2 Stunden 15 Minuten. Von Kyoto nach Hiroshima in 1 Stunde 25 Minuten. Von Osaka nach Hakata (Fukuoka) in 2 Stunden 15 Minuten. Das Netz reicht nach Norden bis Hokkaido und nach Süden bis Kagoshima; in den Städten verbinden U-Bahnen und JR-Nahverkehrslinien die Bahnhöfe mit den einzelnen Vierteln. Das gesamte System – abgesehen von einer Handvoll Privatbahnen und einigen Expresszuschlägen – ist mit dem Japan Rail Pass abgedeckt.
+Der japanische Shinkansen gehört zu den effizientesten Arten, überhaupt zwischen Großstädten zu reisen. Von Tokio nach Kyoto in 2 Stunden 15 Minuten. Von Kyoto nach Hiroshima in 1 Stunde 25 Minuten. Von Osaka nach Hakata (Fukuoka) in 2 Stunden 15 Minuten. Das Netz reicht nach Norden bis Hokkaido und nach Süden bis Kagoshima; in den Städten verbinden U-Bahnen und JR-Nahverkehrslinien die Bahnhöfe mit den einzelnen Vierteln. Das gesamte System – abgesehen von einer Handvoll Privatbahnen und einigen Expresszuschlägen – ist mit dem Japan Rail Pass abgedeckt.
 
 Der Japan Rail Pass ist das zentrale Dokument für alle, die Japan vorwiegend mit der Bahn bereisen. Er wird nur außerhalb Japans verkauft (also vor der Abreise erworben) und gilt für unbegrenzte Fahrten in fast allen JR-Zügen, einschließlich aller Shinkansen mit Ausnahme der Expressverbindungen Nozomi und Mizuho. Der 7-Tage-Pass kostet rund 50.000 Yen (330 $), der 14-Tage-Pass 80.000 Yen (530 $). Ob er sich rechnet, hängt von Ihrer Route ab – bei einer Rundreise Tokio–Kyoto–Hiroshima–Hakone hat er sich am vierten Tag bezahlt gemacht.
 

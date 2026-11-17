@@ -1,0 +1,305 @@
+[
+ {
+  "slug": "splendid-cave-hotel-turkey",
+  "name": "Splendid Cave Hotel",
+  "official_url": "https://www.splendidcavehotel.com/",
+  "source_url": "https://www.splendidcavehotel.com/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Official room list names 10 of 12 rooms as Cave Rooms (Standard, Deluxe, Suit, Superior Suit); rooms 203 and 401 are plain Standard Double Rooms. Site never describes rock carving, only the 'Cave Room' names.",
+  "evidence_quote": "Standard Double Cave Room - 402",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site lists ten cave-named rooms and two standard rooms; category fits for most rooms but carving is not described.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Nevşehir",
+   "city": "Ortahisar",
+   "locality": null
+  },
+  "page_issues": [
+   "Official site only names rooms 'Cave Room'; it does not state they are carved into rock",
+   "Site shows only room names, no room count statement beyond the 12 listed"
+  ]
+ },
+ {
+  "slug": "sultan-cave-suites-turkey",
+  "name": "Sultan Cave Suites",
+  "official_url": "https://www.sultancavesuites.com/",
+  "source_url": "https://www.sultancavesuites.com/en/about",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "35 rooms described as authentic cave accommodations built upon ancient cave dwellings with original cave walls preserved, on Aydınlı Hill above Göreme; home page calls them 'cave and stone' lodgings, no per-room split given.",
+  "evidence_quote": "These rooms are built upon ancient cave dwellings used by locals for centuries, with original cave walls carefully preserved",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official About page says all 35 rooms are cave accommodations built on old cave dwellings; category correct.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Nevşehir",
+   "city": "Göreme",
+   "locality": "Aydınlı Hill"
+  },
+  "page_issues": [
+   "Page says 'not every room is necessarily a cave'; official site does not give a cave/stone split, it calls the rooms cave and stone accommodations",
+   "Michelin Guide 2026 mention is supported by the hotel's own site only"
+  ]
+ },
+ {
+  "slug": "taru-cave-suites-turkey",
+  "name": "Taru Cave Suites",
+  "official_url": "https://tarucavesuites.com/",
+  "source_url": "https://tarucavesuites.com/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Hotel presents itself as a boutique cave hotel in Ürgüp and calls its rooms 'elegantly designed cave rooms'. Site gives no construction detail (carved rock) and no total room count.",
+  "evidence_quote": "Enjoy the warmth of our elegantly designed cave rooms and experience the perfect balance of comfort and tranquility.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site calls itself a cave hotel with cave rooms; category fits though no carving or room-count detail is given.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Nevşehir",
+   "city": "Ürgüp",
+   "locality": "Temenni"
+  },
+  "page_issues": [
+   "Source gives no detail on how the cave rooms are built or how many rooms exist",
+   "'Cave setting applies to the stay as a whole' rests only on the marketing wording"
+  ]
+ },
+ {
+  "slug": "urgup-inn-cave-hotel-turkey",
+  "name": "Urgup Inn Cave Hotel",
+  "official_url": "https://www.urgupinncavehotel.com/",
+  "source_url": "https://urgupinncavehotel.com/odalar/jakuzili-delux-magara-oda-no-105/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Family house converted into a 10-room hotel; only room 105 (Jacuzzi Deluxe Cave Room, 'Mağara Oda', an arched room made of two joined rooms) is named a cave room. The other rooms are standard en-suite rooms.",
+  "evidence_quote": "Jakuzili Delux Mağara Oda no: 105",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site names a single cave room (105) out of ten rooms; marginal cave-hotel fit, retained as specific_rooms.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Nevşehir",
+   "city": "Ürgüp",
+   "locality": "Temenni"
+  },
+  "page_issues": [
+   "Page advises asking for 'a carved room'; official site only calls room 105 a cave room (arched room), not carved",
+   "Only one of ten rooms is a cave room, so the cave-hotel category is weak for this stay"
+  ]
+ },
+ {
+  "slug": "utopia-cave-cappadocia-turkey",
+  "name": "Utopia Cave Cappadocia",
+  "official_url": "https://utopiacave.com/",
+  "source_url": "https://utopiacave.com/en/our-story",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Hotel built on carved rock cavities in Ürgüp; official site says its rooms are restored cave rooms preserving Cappadocia's architecture, and the accommodation page calls them 'our cave rooms'. Room count not stated.",
+  "evidence_quote": "Our restored cave rooms preserve the authentic architectural character of Cappadocia while offering modern comfort",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site describes its accommodation as restored cave rooms on carved rock spaces; category correct.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Nevşehir",
+   "city": "Ürgüp",
+   "locality": "Duayeri"
+  },
+  "page_issues": []
+ },
+ {
+  "slug": "vintage-cave-house-turkey",
+  "name": "Vintage Cave House",
+  "official_url": "https://vintagecavehouse.com/",
+  "source_url": "https://vintagecavehouse.com/about-us/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Five-generation family house in Göreme turned boutique hotel in 2015 with 4 restored cave rooms and 5 stone rooms; home page says the cave rooms are carved into ancient rocks.",
+  "evidence_quote": "4 carefully restored cave rooms and 5 stone rooms",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official About page confirms 4 cave rooms and 5 stone rooms; category fits for those rooms.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Nevşehir",
+   "city": "Göreme",
+   "locality": "Orta Mahalle"
+  },
+  "page_issues": [
+   "Official site does not say which room numbers are the cave rooms",
+   "'About 30 minutes from Nevşehir airport' not confirmed on pages checked"
+  ]
+ },
+ {
+  "slug": "alila-jabal-akhdar-oman",
+  "name": "Alila Jabal Akhdar",
+  "official_url": "https://www.hyatt.com/alila-hotels-and-resorts/en-US/mctal-alila-jabal-akhdar",
+  "source_url": "https://www.mrandmrssmith.com/luxury-hotels/alila-jabal-akhdar",
+  "source_type": "other",
+  "niche_scope": "entire_property",
+  "niche_feature": "Mountain resort of about 86 suites and villas at roughly 2,000 m in the Al Hajar range; Mr & Mrs Smith and Indagare describe it on a clifftop edge above a precipitous canyon. Hyatt page blocked.",
+  "evidence_quote": "pool and stone-clad clusters of luxurious suites are scattered on the edge of a clifftop",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Independent hotel reviewers state the suites sit on a clifftop above a canyon; official site unreachable (403).",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Ad Dakhiliyah",
+   "city": "Jabal Akhdar",
+   "locality": "Al Roose"
+  },
+  "page_issues": [
+   "'Most rooms and suites have private plunge pools at the cliff edge' not supported; sources only mention private pools for the two Jabal Villas",
+   "Wadi Ghul 'kilometre of vertical drop' and 'Grand Canyon of Arabia' not confirmed by checked sources",
+   "Via ferrata, fireplaces and falaj-inspired architecture not confirmed",
+   "Official Hyatt page could not be read"
+  ]
+ },
+ {
+  "slug": "alila-villas-uluwatu-bali",
+  "name": "Alila Villas Uluwatu",
+  "official_url": "https://www.hyatt.com/alila-hotels-and-resorts/en-US/dpsav-alila-villas-uluwatu",
+  "source_url": "https://rumemagazine.com/hotels/hotel-reviews/alila-villas-uluwatu/",
+  "source_type": "other",
+  "niche_scope": "entire_property",
+  "niche_feature": "Resort (50 suites, about 34 villas) on a large clifftop plot on the Bukit Peninsula; per Rume only cliff-edge villas have uninterrupted sea views.",
+  "evidence_quote": "Alila Villas Uluwatu spreads across a large clifftop plot on the Bukit Peninsula",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Rume review (July 2026) and WOHA/ArchDaily place the resort on Bukit clifftop; official Hyatt page blocked.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Bali",
+   "city": "Uluwatu",
+   "locality": "Bukit Peninsula"
+  },
+  "page_issues": [
+   "'100 metres above the Indian Ocean' not confirmed in any source read",
+   "'Private infinity pool in every villa' not confirmed; Rume says villas have a private pool and the infinity pool is a 50 m cliffside pool",
+   "Only cliff-edge villas have uninterrupted sea views; many stepped villas see little sea",
+   "Hotel also has 50 suites besides villas"
+  ]
+ },
+ {
+  "slug": "amangiri-utah",
+  "name": "Amangiri",
+  "official_url": "https://www.aman.com/resorts/amangiri",
+  "source_url": "https://www.aman.com/resorts/amangiri",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Resort of 34 suites plus Camp Sarika (10 tented pavilions) on 900+ acres of Colorado Plateau desert; the pool is built against a mesa. Official text frames it as desert red-rock country, not a cliff-edge hotel.",
+  "evidence_quote": "Blending into untouched red-rock country on over 900 acres of the Colorado Plateau",
+  "operating": "open",
+  "verdict": "move",
+  "new_category": "desert-camps",
+  "closest_category": "desert-camps",
+  "reason": "Official site presents a desert resort and tented camp on a plateau, mesa-side pool, with no cliff-edge setting; desert fits better.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Utah",
+   "city": "Canyon Point",
+   "locality": null
+  },
+  "page_issues": [
+   "'Probably the finest desert hotel in North America' is an unsupported superlative",
+   "Spa 'within the rock', 'floating pool over a crack in the mesa' and 5,000 sq m spa not confirmed by the official page",
+   "Poured-concrete suites and Lake Powell/Antelope Canyon distances not confirmed",
+   "Page omits Camp Sarika's ten tented pavilions"
+  ]
+ },
+ {
+  "slug": "cavo-tagoo-mykonos-greece",
+  "name": "Cavo Tagoo Mykonos",
+  "official_url": "https://www.cavotagoo.com/",
+  "source_url": "https://booking-mykonos.cavotagoo.com/about",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Official About page says the hotel is built into a natural cliff-side near Mykonos Town (Chora); room types include Cave Pool Suites and Rock Villas among about 20 room and villa types.",
+  "evidence_quote": "built into an impressive natural cliff-side",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official About page states the hotel is built into a natural cliff-side near Chora; category fits.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "South Aegean",
+   "city": "Mykonos Town",
+   "locality": "Tagoo"
+  },
+  "page_issues": [
+   "'Volcanic cliff' / 'volcanic rock' unsupported; no source says volcanic",
+   "Opening in 1980 and architect Nikos Daskalantonakis not confirmed by any source read",
+   "'Rooms cut from the cliff' overstated: official page says the hotel is built into the cliff-side, only some suites are cave-style",
+   "'One of Greece's most recognized images' is an unsupported superlative"
+  ]
+ },
+ {
+  "slug": "cliff-house-hotel-ireland",
+  "name": "Cliff House Hotel",
+  "official_url": "https://cliffhousehotel.ie",
+  "source_url": "https://cliffhousehotel.ie",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "39-room five-star hotel perched on the cliffs above Ardmore; official text says all rooms and suites are sea-facing and the design settles into the cliffside.",
+  "evidence_quote": "Perched dramatically on the cliffs above the historic fishing village of Ardmore, our privately owned, 39-room seaside hotel",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site stresses the hotel is perched on the cliffs above Ardmore with 39 sea-facing rooms; category correct.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "County Waterford",
+   "city": "Ardmore",
+   "locality": null
+  },
+  "page_issues": []
+ },
+ {
+  "slug": "jade-mountain-st-lucia",
+  "name": "Jade Mountain Resort",
+  "official_url": "https://jademountain.com/",
+  "source_url": "https://jademountain.com/",
+  "source_type": "official",
+  "niche_scope": "unverified",
+  "niche_feature": "Official site says it is perched above Anse Chastanet's estate; Forbes says it sits atop Morne Chastanet. No source read calls it a cliff or cliff-edge hotel; it reads as a hillside/mountaintop resort.",
+  "evidence_quote": "Perched majestically above Anse Chastanet's 600-acre beachfront estate",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "No source read stresses a cliff setting (sources say hillside/mountaintop); cliffside status could not be confirmed.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Soufrière District",
+   "city": "Soufrière",
+   "locality": "Anse Chastanet"
+  },
+  "page_issues": [
+   "'Built into a cliff' / 'cliff-face sanctuaries' not supported; sources describe a hillside or mountaintop site",
+   "'Twenty-nine sanctuaries' only partly matches: official site lists 24 sanctuaries with infinity pools plus Sky suites without them",
+   "Unsplash cover image URL and 'each missing a fourth wall' (Forbes says each has three walls) not checked on the official page"
+  ]
+ }
+]

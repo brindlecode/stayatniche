@@ -2,12 +2,12 @@
 source: stargazing-atacama-chile
 title: "Osservazione delle stelle nel deserto di Atacama"
 destination: "San Pedro de Atacama"
-description: "Alza lo sguardo a 2.400 metri di quota nel deserto più arido della Terra e vedi il cielo notturno come lo vedevano gli esseri umani prima dell'elettricità: una Via Lattea così fitta e tridimensionale da proiettare una debole ombra, le Nubi di Magellano visibili a occhio nudo come galassie satelliti della nostra e la Croce del Sud che ruota sopra di te in uno spettacolo di densità cosmica che gli astronomi professionisti vengono apposta a cercare nell'Atacama. Il cielo notturno più bello del mondo è qui, e condividerlo con un astronomo che lo conosce a fondo è una delle esperienze di viaggio più intense che ci siano."
+description: "Alza lo sguardo a 2.400 metri di quota nel deserto più arido della Terra e vedi il cielo notturno come lo vedevano gli esseri umani prima dell'elettricità: una Via Lattea così fitta e tridimensionale da proiettare una debole ombra, le Nubi di Magellano visibili a occhio nudo come galassie satelliti della nostra e la Croce del Sud che ruota sopra di te in uno spettacolo di densità cosmica che gli astronomi professionisti vengono apposta a cercare nell'Atacama. Uno dei cieli notturni più belli del mondo è qui, e condividerlo con un astronomo che lo conosce a fondo è una delle esperienze di viaggio più intense che ci siano."
 booking:
   price: "da 55 $ a persona"
   duration: "3-4 ore (in serata)"
 highlights:
-  - "Il cielo notturno più limpido del mondo, a 2.400 m di quota nell'Atacama"
+  - "Uno dei cieli notturni più limpidi del mondo, a 2.400 m di quota nell'Atacama"
   - "Telescopi professionali che svelano gli anelli di Saturno, nebulose e ammassi stellari"
   - "Un astronomo esperto spiega la mitologia e la scienza del cielo australe"
   - "Via Lattea, Grande e Piccola Nube di Magellano e Croce del Sud a occhio nudo"
@@ -28,7 +28,7 @@ notIncluded:
   - "Alloggio a San Pedro de Atacama"
 seo:
   metaTitle: "Stelle nel deserto di Atacama, Cile | StayAtNiche"
-  metaDescription: "Il cielo più limpido del mondo a 2.400 m nel deserto di Atacama: telescopi professionali, astronomi esperti e la Via Lattea in pieno splendore. Da 55 $."
+  metaDescription: "Uno dei cieli più limpidi del mondo a 2.400 m nel deserto di Atacama: telescopi professionali, astronomi esperti e la Via Lattea in pieno splendore. Da 55 $."
 ---
 
 L'Osservatorio europeo australe ha scelto questo luogo per un motivo. Il radiotelescopio ALMA è qui per un motivo. Nelle zone interne l'Atacama riceve meno di un millimetro di pioggia all'anno, si trova sopra i 2.400 metri, ha pochissima polvere e quasi nessun insediamento umano per centinaia di chilometri. L'insieme crea condizioni atmosferiche che gli astronomi professionisti collocano tra le migliori al mondo per l'osservazione. Non serve un dottorato per accorgersi della differenza.

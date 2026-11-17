@@ -1,7 +1,7 @@
 ---
 source: sadie-cove-alaska
 destination: "Kachemak Bay, Homer, Alaska, USA"
-description: "Eine abgelegene Lodge mit Blockhütten am Südufer der Kachemak Bay, nur per Wasserflugzeug oder Wassertaxi von Homer aus erreichbar – mit Braunbären am Strand, Heilbuttangeln in Gewässern von Weltklasse und einer Küste, an die keine Straße heranführt."
+description: "Eine abgelegene Lodge mit Blockhütten am Südufer der Kachemak Bay, nur per Wasserflugzeug oder Wassertaxi von Homer aus erreichbar – mit Braunbären am Strand, Heilbuttangeln in ergiebigen Gewässern und einer Küste, an die keine Straße heranführt."
 highlights:
   - "Wildnis-Lodge ohne Straßenanbindung, erreichbar per Wasserflugzeug oder Wassertaxi"
   - "Braunbären sind häufig am Strand und im umliegenden Wald zu sehen"

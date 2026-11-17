@@ -22,7 +22,6 @@ bestFor:
   - "History lovers"
 bookingUrl: "https://www.svenskaturistforeningen.se/boende/stf-berguddens-fyrvaktarbostader/"
 rating: 8.4
-reviewCount: 0
 checkInOut:
   checkIn: "13:00"
   checkOut: "11:00"
@@ -37,6 +36,19 @@ status: published
 seo:
   metaTitle: "STF Berguddens Fyrvaktarbostäder: Stay in the Lighthouse Keepers' Dwellings on Holmön"
   metaDescription: "Stay in the lighthouse keepers' dwellings beside Bergudden lighthouse on Holmön, Sweden. Five rooms, self-catering, no running water, reached by ferry."
+location:
+  country: "Sweden"
+  countryCode: "SE"
+  region: "Västerbotten"
+  city: "Umeå"
+  locality: "Holmön"
+  coordinates:
+    lat: 63.7909842
+    lng: 20.8370908
+niche_scope: entire_property
+niche_feature: "Five rooms (11-25 beds) in the former lighthouse keepers' dwellings beside Bergudden lighthouse on Holmön; shared self-catering kitchen, no running water, outhouse toilet. Not in the tower."
+niche_source_url: "https://www.svenskaturistforeningen.se/boende/stf-berguddens-fyrvaktarbostader/"
+niche_verified_at: 2026-11-17
 ---
 
 At STF Berguddens Fyrvaktarbostäder, guests stay in the lighthouse keepers' dwellings next to Bergudden lighthouse, not inside the lighthouse itself. The dwellings stand on Holmön, the main island of the Holmöarna archipelago off Umeå, at the end of the road beside the rocks and the sea. The lighthouse has warned and guided ships through the uncertain waters of Norra Kvarken for over 130 years, and keepers lived and worked here with their families. Today you can live the keeper's life on this exposed headland, watching the sun go down over the sea, the fog roll in, or the lighthouse beam move on the water.

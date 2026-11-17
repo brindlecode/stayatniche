@@ -57,7 +57,7 @@ Elk hutje is in feite een kas van gehard glas, met een gebogen glazen dak en gla
 ---
 
 
-The Retreat at Blue Lagoon is niet in de eerste plaats een noorderlichthotel. Het is gewoon het meest geroemde luxehotel van IJsland, punt. Maar door de ligging in de geothermische velden van het schiereiland Reykjanes, gecombineerd met toegang op elk uur tot de buitenbaden van de Blue Lagoon, ontstaat misschien wel de spectaculairste noorderlichtsetting ter wereld: drijven in mineraalrijk geothermisch water van 38 °C terwijl het poollicht boven je beweegt.
+The Retreat at Blue Lagoon is niet in de eerste plaats een noorderlichthotel. Het is gewoon het meest geroemde luxehotel van IJsland, punt. Maar door de ligging in de geothermische velden van het schiereiland Reykjanes, gecombineerd met toegang op elk uur tot de buitenbaden van de Blue Lagoon, ontstaat een indrukwekkende noorderlichtsetting: drijven in mineraalrijk geothermisch water van 38 °C terwijl het poollicht boven je beweegt.
 
 The Retreat ligt in een lavaveld direct naast de Blue Lagoon, met 62 suites en kamers die in en rond het vulkanische landschap zijn gebouwd. Gasten hebben op elk uur exclusief toegang tot de privé-RETREAT Spa van de lagune, inclusief de buitenbaden. Verschijnt het noorderlicht, en op deze breedte gebeurt dat tijdens het huidige zonnemaximum vaak, dan glijd je zo het silicawitte water in om vanaf daar te kijken.
 

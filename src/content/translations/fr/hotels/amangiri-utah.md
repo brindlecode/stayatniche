@@ -21,7 +21,7 @@ amenities:
   - "Majordome et conciergerie 24 h/24"
   - "Transferts privés depuis l'aéroport (Page, Arizona)"
 bestFor:
-  - "Les voyageurs exigeants en quête du meilleur resort des États-Unis"
+  - "Les voyageurs exigeants en quête d'un resort haut de gamme aux États-Unis"
   - "Les passionnés d'architecture et de design"
   - "Les couples qui célèbrent une étape importante"
   - "Les amateurs de grand air qui refusent de transiger sur le confort"
@@ -51,10 +51,10 @@ nearbyAttractions:
     distance: "130 km"
 seo:
   metaTitle: "Amangiri, Utah : le resort du désert d'Aman | StayAtNiche"
-  metaDescription: "Avis sur Amangiri, chef-d'œuvre d'Aman dans les canyons de l'Utah : architecture spectaculaire, service hors pair, suites avec piscine. Dès 2 000 $ la nuit."
+  metaDescription: "Avis sur Amangiri, chef-d'œuvre d'Aman dans les canyons de l'Utah : architecture spectaculaire, service d'exception, suites avec piscine. Dès 2 000 $ la nuit."
 ---
 
-Amangiri est probablement le plus bel hôtel du désert d'Amérique du Nord. L'architecture à elle seule justifie le vol jusqu'en Utah. L'architecte Marwan Al-Sayed a conçu l'ensemble du resort autour d'une mesa ancestrale, un affleurement de grès navajo posé au cœur même du bâtiment. Le résultat : un long complexe bas de béton coulé et de pierre du désert qui ne rivalise pas avec le paysage, mais s'y fond tout simplement.
+Amangiri compte parmi les hôtels du désert les plus réputés d'Amérique du Nord. L'architecture à elle seule justifie le vol jusqu'en Utah. L'architecte Marwan Al-Sayed a conçu l'ensemble du resort autour d'une mesa ancestrale, un affleurement de grès navajo posé au cœur même du bâtiment. Le résultat : un long complexe bas de béton coulé et de pierre du désert qui ne rivalise pas avec le paysage, mais s'y fond tout simplement.
 
 La piscine principale est construite contre la paroi même de la mesa. Les cabines de soins du spa la surplombent. Chaque perspective des espaces communs a été pensée pour ramener votre regard vers la roche. C'est une architecture aux priorités parfaitement claires, et elle les tient sans le moindre détail superflu.
 

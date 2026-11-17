@@ -27,7 +27,7 @@ bestFor:
   - Aficionados a la aventura invernal
 prosAndCons:
   pros:
-    - Condiciones inigualables para ver la aurora boreal
+    - Excelentes condiciones para ver la aurora boreal
     - Su ubicación remota garantiza cielos realmente oscuros
     - La singular tecnología de cristal térmico te mantiene caliente mientras miras el cielo
     - Amplia oferta de actividades árticas en el propio complejo
@@ -62,7 +62,7 @@ Yrjö Rissanen construyó aquí el primer iglú de cristal en 1999, movido por u
 
 Lo que eleva a Kakslauttanen por encima de la simple novedad es la calidad de todo lo que lo rodea. Los días giran en torno a la naturaleza invernal de la Laponia finlandesa: expediciones en moto de nieve por el inmenso Parque Nacional Urho Kekkonen, paseos en trineo tirado por renos a través de bosques primarios, safaris con perros husky siberianos y de Alaska cuyo entusiasmo colectivo es realmente contagioso, y pesca en el hielo sobre lagos helados donde el silencio es tan absoluto que se convierte en un sonido en sí mismo.
 
-La sauna de humo del complejo, una de las mejores saunas tradicionales de Finlandia, es el antídoto perfecto tras una jornada de frío. El ritual de calentar la sauna de humo durante horas, sentarse después en su calor ancestral con aroma a abedul y terminar revolcándose en la nieve fresca es una de esas experiencias que cuesta describir con palabras.
+La sauna de humo del complejo, una sauna tradicional finlandesa, es el antídoto perfecto tras una jornada de frío. El ritual de calentar la sauna de humo durante horas, sentarse después en su calor ancestral con aroma a abedul y terminar revolcándose en la nieve fresca es una de esas experiencias que cuesta describir con palabras.
 
 Por la noche, el restaurante sirve platos que te anclan de lleno en Laponia: carpaccio de reno, salvelino ártico ahumado y postres de mora de los pantanos elaborados con bayas recolectadas en las turberas de los alrededores. Después de cenar, los huéspedes vuelven a sus iglús, programan las alarmas de auroras y escudriñan el cielo con esa esperanza concentrada que solo inspiran las latitudes frías y oscuras.
 

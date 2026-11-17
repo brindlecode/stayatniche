@@ -29,7 +29,6 @@ notIncluded:
   - Personal travel insurance
   - Gratuities
 rating: 9.4
-reviewCount: 312
 featured: false
 tags:
   - bioluminescence

@@ -21,7 +21,6 @@ bestFor:
   - "History lovers"
 bookingUrl: "https://reflectionsholidays.com.au/unique-stays/norah-head-lighthouse/accommodation/?from=2024-06-19&to=2024-06-21&adults=2"
 rating: 8.7
-reviewCount: 0
 coordinates:
   lat: -33.2817745
   lng: 151.5754076
@@ -33,6 +32,18 @@ status: published
 seo:
   metaTitle: "Norah Head Lighthouse Keepers Quarters, NSW"
   metaDescription: "Stay in the heritage-listed keepers quarters beside Norah Head Lighthouse in New South Wales. Guests sleep in the cottages, not in the lighthouse tower."
+location:
+  country: "Australia"
+  countryCode: "AU"
+  region: "New South Wales"
+  city: "Norah Head"
+  coordinates:
+    lat: -33.2817745
+    lng: 151.5754076
+niche_scope: entire_property
+niche_feature: "Both bookable units are the Head and Assistant Lighthouse Keepers' Quarters (3 bedrooms, 9 guests each) beside the 1903 tower on the lighthouse reserve; guests do not sleep in the tower."
+niche_source_url: "https://reflectionsholidays.com.au/unique-stays/norah-head-lighthouse/accommodation/"
+niche_verified_at: 2026-11-17
 ---
 
 At Norah Head Lighthouse you stay in the lighthouse keepers' quarters, the historic cottages beside the tower, rather than inside the lighthouse itself. The quarters are heritage listed and are rented as holiday accommodation by Reflections Holidays, at 40 Bush Street, Norah Head, on the New South Wales coast.

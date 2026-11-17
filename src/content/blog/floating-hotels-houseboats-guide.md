@@ -2,7 +2,7 @@
 title: "Floating Hotels and Houseboat Stays, The Complete Guide to Sleeping on Water"
 author: "StayAtNiche Team"
 category: "guide"
-excerpt: "From Kashmir's ornate wooden houseboats to Norway's arctic fjord hotels, discover the world's most extraordinary floating accommodation experiences."
+excerpt: "From Kashmir's ornate wooden houseboats to Norway's arctic fjord hotels, discover extraordinary floating accommodation experiences."
 coverImage: /images/blog/floating-hotels-houseboats-guide.jpg
 publishedDate: 2025-02-01T00:00:00.000Z
 tags:
@@ -18,7 +18,7 @@ relatedHotels: []
 status: published
 seo:
   metaTitle: "Best Floating Hotels & Houseboats Worldwide, Complete Guide | StayAtNiche"
-  metaDescription: "Discover the world's finest floating hotels and houseboat stays from Kashmir to Norway. Expert guide to overwater accommodation beyond the Maldives."
+  metaDescription: "Discover floating hotels and houseboat stays from Kashmir to Norway. Expert guide to overwater accommodation, prices, and booking tips beyond the Maldives."
 ---
 
 Sleeping on water produces a particular quality of rest that land-based hotels cannot replicate: the faint movement, the sound of water against the hull, the way light behaves differently when it's bouncing off a surface that's alive. Floating hotels and houseboat accommodation occupy a fascinating niche, they are, by definition, in constant dialogue with their environment.

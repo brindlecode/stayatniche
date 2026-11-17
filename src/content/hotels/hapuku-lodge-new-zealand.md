@@ -44,9 +44,9 @@ tags:
 prosAndCons:
   pros:
     - "Spectacular dual views of mountains and ocean from the same balcony"
-    - "Among the best luxury treehouse experiences in the Southern Hemisphere"
+    - "A well-regarded luxury treehouse experience in the Southern Hemisphere"
     - "Outstanding food made from genuinely local ingredients"
-    - "Kaikōura offers some of the world's best accessible marine wildlife"
+    - "Kaikōura offers easily accessible marine wildlife encounters"
     - "Warm, personal service from a family-run operation"
   cons:
     - "Kaikōura is a 2.5-hour drive from Christchurch"
@@ -54,8 +54,7 @@ prosAndCons:
     - "Limited in-room entertainment by design"
     - "Popular, requires advance booking"
 bookingUrl: "https://www.booking.com/hotel/nz/hapuku-lodge-amp-tree-houses.html"
-rating: 9.2
-reviewCount: 412
+rating: 8.8
 checkInOut:
   checkIn: "15:00"
   checkOut: "11:00"
@@ -89,6 +88,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Kaikōura"
     label: "Find Tours on Klook"
+location:
+  country: "New Zealand"
+  countryCode: "NZ"
+  region: "Canterbury"
+  city: "Kaikōura"
+  locality: "Hapuku"
+  coordinates:
+    lat: -42.3667
+    lng: 173.6833
+niche_scope: specific_rooms
+niche_feature: "Tree Houses (one-bedroom and a two-storey family tree house) elevated 10 m in native kanuka and puriri canopy; lodge suites and the Olive House are ordinary rooms. Official site does not say how the tree houses are built."
+niche_source_url: "https://www.hapukulodge.com/stay/tree-houses/"
+niche_verified_at: 2026-11-17
 ---
 
 The view from the deck of a Hapuku tree house is almost unfairly beautiful. To the west, the Kaikōura Ranges rise sharply from the flat coastal plain, their upper ridges carrying snow for much of the year. To the east, the South Pacific stretches uninterrupted to the horizon. Beneath you, eight meters below, native manuka trees sway in the sea breeze, their silver-green leaves catching the afternoon light. It is the kind of view that makes you question why you ever sleep at ground level.

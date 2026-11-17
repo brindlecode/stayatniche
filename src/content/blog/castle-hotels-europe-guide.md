@@ -30,7 +30,7 @@ What distinguishes the best castle hotels from ordinary historic properties is t
 ---
 
 
-Scotland has a legitimate claim to being the world's premier destination for castle hotel stays. The country's turbulent history, centuries of clan warfare, English-Scottish conflict, and the upheavals of the Highland Clearances, produced an extraordinary concentration of fortified residences, many of which have been converted into hotels of varying quality and price point.
+Scotland has a legitimate claim to being one of the world's leading destinations for castle hotel stays. The country's turbulent history, centuries of clan warfare, English-Scottish conflict, and the upheavals of the Highland Clearances, produced an extraordinary concentration of fortified residences, many of which have been converted into hotels of varying quality and price point.
 
 
 Widely regarded as Scotland's finest castle hotel, Inverlochy sits at the foot of Ben Nevis in the Scottish Highlands, surrounded by 500 acres of private estate. Built in 1863 in the Scottish Baronial style for the first Lord Abinger, the castle has operated as a hotel since 1969 and is today one of Scotland's most celebrated addresses. Queen Victoria stayed here in 1873, describing the view in her diary as the finest she had ever seen in the Highlands.

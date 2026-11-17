@@ -1,6 +1,6 @@
 ---
 name: "Anantara Kihavah Maldives Villas"
-category: underwater-rooms
+category: overwater-bungalows
 destination: "Baa Atoll, Maldives"
 country: "Maldives"
 description: "Anantara Kihavah's SEA restaurant sits 5 metres below the ocean surface, its 270-degree glass walls looking directly onto living coral reef — a setting that makes it the most distinctive dinner in the Maldives, backed by overwater villas with glass floors above active reef sections."
@@ -28,8 +28,7 @@ bestFor:
   - "Marine life enthusiasts"
   - "Underwater dining experience seekers"
 bookingUrl: https://www.booking.com/hotel/mv/anantara-kihavah-maldives-villas.html
-rating: 9.5
-reviewCount: 2134
+rating: 8.8
 coordinates:
   lat: 5.0833
   lng: 73.0333
@@ -41,6 +40,18 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Baa+Atoll,+Maldives"
     label: "Find Tours on Klook"
+location:
+  country: "Maldives"
+  countryCode: "MV"
+  region: "Baa Atoll"
+  locality: "Kihavah Huravalhi"
+  coordinates:
+    lat: 5.0833
+    lng: 73.0333
+niche_scope: specific_rooms
+niche_feature: "SEA is an underwater restaurant (experience only). Sleeping is in 80 pool villas, some overwater on stilts reached by jetty, others beach villas. No underwater bedrooms found. Official site blocked (403)."
+niche_source_url: "https://www.thenationalnews.com/travel/2025/10/10/anantara-kihavah-maldives-review/"
+niche_verified_at: 2026-11-17
 ---
 
 Anantara Kihavah organises its signature experiences around four acronyms: FIRE (the grill), SKY (the rooftop observatory), ICE (the wine cellar), and SEA. SEA is the reason most people make the booking.

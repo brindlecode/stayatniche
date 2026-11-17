@@ -38,7 +38,6 @@ prosAndCons:
     - Can feel small for extended stays
 bookingUrl: https://www.booking.com/hotel/vn/indochina-sails-ha-long.html
 rating: 9.0
-reviewCount: 1243
 seasonalInfo:
   bestTime: October to April
   peakSeason: December to February
@@ -64,6 +63,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Ha+Long+Bay,+Quảng+Ninh"
     label: "Find Tours on Klook"
+location:
+  country: "Vietnam"
+  countryCode: "VN"
+  region: "Quảng Ninh"
+  city: "Ha Long"
+  locality: "Ha Long Bay"
+  coordinates:
+    lat: 20.9101
+    lng: 107.1839
+niche_scope: entire_property
+niche_feature: "Traditional wooden cruise vessel with 23 cabins on two decks (46 guests) offering 2-day/1-night and 3-day/2-night overnight Ha Long Bay cruises; guests sleep aboard on the water."
+niche_source_url: "https://www.indochinasails.com/en/indochina-sails-ha-long.html"
+niche_verified_at: 2026-11-17
 ---
 
 Ha Long Bay has a specific effect on first-time visitors: the scale is simply not what they expected. Nearly two thousand limestone karsts erupt from the Gulf of Tonkin across 1,500 square kilometres, and the only way to move among them properly is by boat. A junk cruise is not merely the most convenient way to see the bay — it is the only way to reach the inner lagoons, the tidal caves, and the sections of water where the fishing villages have operated for generations without road access.

@@ -1,16 +1,16 @@
 ---
 source: icehotel-sweden
 destination: "Jukkasjärvi, Laponia sueca"
-description: "El hotel de hielo original, reconstruido por completo cada invierno desde 1990 con hielo del río Torne helado. En verano, ICEHOTEL 365 sigue abierto con 20 suites que se mantienen a -5 °C todo el año, lo que lo convierte en el único hotel de hielo permanente del mundo y en el alojamiento de clima frío más icónico del planeta."
+description: "El hotel de hielo original, reconstruido por completo cada invierno desde 1990 con hielo del río Torne helado. En verano, ICEHOTEL 365 sigue abierto con 20 suites que se mantienen a -5 °C todo el año, lo que lo convierte en un hotel de hielo abierto todo el año y en uno de los alojamientos de clima frío más conocidos del mundo."
 highlights:
-  - "El primer y más famoso hotel de hielo del mundo, en funcionamiento desde 1990"
+  - "El hotel de hielo original, en funcionamiento desde 1990 y uno de los más conocidos del mundo"
   - "ICEHOTEL 365, abierto todo el año con 20 suites artísticas refrigeradas"
   - "Hotel de invierno reconstruido cada año por artistas internacionales con hielo y nieve"
   - "Cada suite artística es una colaboración única entre artistas y arquitectura"
   - "Bar de hielo que sirve cócteles en vasos de hielo tallado a -5 °C"
   - "Aurora boreal en invierno; exploración bajo el sol de medianoche en verano"
   - "Trineos de perros, expediciones en moto de nieve y talleres de escultura en hielo"
-  - "Capilla propia, el escenario de bodas más frío del mundo"
+  - "Capilla propia para bodas de invierno"
 amenities:
   - "Suite artística tallada en hielo del río Torne (mantenida a -5 °C)"
   - "Saco de dormir sobre cama de hielo con piel de reno (también hay habitaciones cálidas)"
@@ -27,7 +27,7 @@ bestFor:
   - "Apasionados de las experiencias árticas"
 prosAndCons:
   pros:
-    - "El hotel de hielo original y más icónico, imposible de reproducir en otro lugar"
+    - "El hotel de hielo original, imposible de reproducir en otro lugar"
     - "Las suites creadas por artistas internacionales hacen que cada año sea completamente distinto"
     - "Gracias a ICEHOTEL 365 abre todo el año, así que no hay mala temporada para ir"
     - "La experiencia ártica completa: trineos de perros, auroras, hielo y sol de medianoche"
@@ -51,10 +51,10 @@ nearbyAttractions:
     distance: "80 km"
 seo:
   metaTitle: "ICEHOTEL 365: el hotel de hielo original de Laponia | StayAtNiche"
-  metaDescription: "El primer hotel de hielo del mundo, reconstruido cada invierno desde 1990 en la Laponia sueca: suites artísticas a -5 °C y auroras. Desde 500 US$ la noche."
+  metaDescription: "El hotel de hielo original, reconstruido cada invierno desde 1990 en la Laponia sueca: suites artísticas a -5 °C y auroras. Desde 500 US$ la noche."
 ---
 
-Todo empieza con el río. El Torne, que marca la frontera entre Suecia y Finlandia en su descenso hacia el golfo de Botnia, se congela cada noviembre hasta más de un metro de profundidad: una masa de hielo excepcionalmente puro y cristalino sin igual en el mundo para fines arquitectónicos. De este río extrajeron en 1989 los primeros bloques Yngve Bergqvist y un equipo de artistas japoneses, y con ellos construyeron, de forma experimental y sin ninguna certeza de éxito, el primer hotel del mundo hecho íntegramente de hielo.
+Todo empieza con el río. El Torne, que marca la frontera entre Suecia y Finlandia en su descenso hacia el golfo de Botnia, se congela cada noviembre hasta más de un metro de profundidad: una masa de hielo excepcionalmente puro y cristalino especialmente adecuado para fines arquitectónicos. De este río extrajeron en 1989 los primeros bloques Yngve Bergqvist y un equipo de artistas japoneses, y con ellos construyeron, de forma experimental y sin ninguna certeza de éxito, el primer hotel del mundo hecho íntegramente de hielo.
 
 Más de tres décadas después, el ICEHOTEL sigue funcionando en Jukkasjärvi, un pueblo de unos 900 habitantes en el círculo polar ártico, en la Laponia sueca, y nunca ha sido tan extraordinario como hoy.
 

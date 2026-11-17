@@ -22,7 +22,6 @@ bestFor:
   - "Weddings"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Banwell%20Castle%2C%20Banwell&adults=2"
 rating: 7.6
-reviewCount: 0
 coordinates:
   lat: 51.3237629
   lng: -2.8602148
@@ -31,6 +30,18 @@ sourceId: "osm:way/531553123"
 verifiedAt: 2026-10-11
 publishedDate: 2026-10-11
 status: published
+location:
+  country: "United Kingdom"
+  countryCode: "GB"
+  region: "England"
+  city: "Banwell"
+  coordinates:
+    lat: 51.3237629
+    lng: -2.8602148
+niche_scope: entire_property
+niche_feature: "Grade II* listed Gothic Revival castle (mansion complete by 1847, Victorian rather than medieval); bed-and-breakfast rooms are in the main mansion house, which is still a family home."
+niche_source_url: "http://www.banwellcastle.co.uk/"
+niche_verified_at: 2026-11-17
 ---
 
 Banwell Castle is a Gothic Revival mansion in the Somerset village of Banwell, and it is still lived in by the family that owns it. The owners put it this way: an Englishman's home is his castle, and this Englishman's castle is his home. Guests are welcome to stay as bed and breakfast visitors in a building that is listed Grade II*.

@@ -2,7 +2,7 @@
 source: volcano-boarding-nicaragua
 title: "Vulkanboarding am Cerro Negro"
 destination: "Cerro Negro, León"
-description: "Wandern Sie auf den Gipfel eines der jüngsten und aktivsten Vulkane der Welt und sausen Sie dann auf einem Sperrholzbrett einen 40 Grad steilen Hang aus loser Vulkanasche hinab – mit bis zu 95 km/h, so steil und schnell, dass die Asche wie schwarzer Schnee um Sie herum aufstiebt. Vulkanboarding am Cerro Negro bei León ist die ungewöhnlichste Extremsportart der Welt, und die Aussicht vom Gipfel dieses rohen, dampfenden Kegels über das pazifische Tiefland und die Vulkankette im Nordwesten Nicaraguas macht den Aufstieg ebenso lohnend wie die Abfahrt."
+description: "Wandern Sie auf den Gipfel eines der jüngsten und aktivsten Vulkane der Welt und sausen Sie dann auf einem Sperrholzbrett einen 40 Grad steilen Hang aus loser Vulkanasche hinab – mit bis zu 95 km/h, so steil und schnell, dass die Asche wie schwarzer Schnee um Sie herum aufstiebt. Vulkanboarding am Cerro Negro bei León ist eine der ungewöhnlicheren Extremsportarten der Welt, und die Aussicht vom Gipfel dieses rohen, dampfenden Kegels über das pazifische Tiefland und die Vulkankette im Nordwesten Nicaraguas macht den Aufstieg ebenso lohnend wie die Abfahrt."
 booking:
   price: "ab 35 $ pro Person"
   duration: "Halbtägig"
@@ -28,7 +28,7 @@ notIncluded:
   - Zusätzliche Souvenirs
 seo:
   metaTitle: "Vulkanboarding am Cerro Negro, Nicaragua | StayAtNiche"
-  metaDescription: "Einen aktiven Vulkan besteigen und mit bis zu 95 km/h über die Asche hinabboarden – bei León in Nicaragua. Der ungewöhnlichste Extremsport der Welt. Ab 35 $."
+  metaDescription: "Einen aktiven Vulkan besteigen und mit bis zu 95 km/h über die Asche hinabboarden – bei León in Nicaragua. Ein ungewöhnlicher Extremsport. Ab 35 $."
 ---
 
 Zuletzt brach der Cerro Negro 1999 aus, und er wird wieder ausbrechen. Der jüngste Vulkan Mittelamerikas entstand 1850 – geologisch ein Wimpernschlag – und war seither 23-mal aktiv. Die Spuren sind überall auf dem Kegel zu sehen: frisches vulkanisches Material, schwarz und locker, ohne jede Vegetation außer spärlichem Gras am Fuß. Nahe dem Gipfel zischen Dampfquellen. Die Luft riecht nach Schwefel. Dies ist ein lebendiger Vulkan, und der Aufstieg fühlt sich auch so an.

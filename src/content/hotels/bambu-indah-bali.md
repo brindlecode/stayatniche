@@ -41,8 +41,7 @@ prosAndCons:
     - "Not a resort for travellers wanting air-conditioned conventional luxury"
     - "Ubud road access can be slow during Bali's peak season"
 bookingUrl: https://www.booking.com/hotel/id/bambu-indah-ubud-bali.html
-rating: 9.0
-reviewCount: 892
+rating: 8.8
 seasonalInfo:
   bestTime: "May to September"
   peakSeason: "July to August"
@@ -73,6 +72,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Ubud,+Bali"
     label: "Find Tours on Klook"
+location:
+  country: "Indonesia"
+  countryCode: "ID"
+  region: "Bali"
+  city: "Ubud"
+  locality: "Sayan Ridge"
+  coordinates:
+    lat: -8.4955
+    lng: 115.235
+niche_scope: specific_rooms
+niche_feature: "One Treehouse (sleeps 3) among 24 houses: a separate bamboo structure set in the branches of two bunut trees. The other houses (joglo bridal homes, bamboo houses, tents) are not treehouses."
+niche_source_url: "https://www.bambuindah.com/houses/treehouse"
+niche_verified_at: 2026-11-17
 ---
 
 Most of Bali's luxury accommodation is built on a familiar template: tiled infinity pool, open-sided pavilion lobby, private villa with a frangipani-scattered plunge pool. Bambu Indah operates from a completely different set of premises. John Hardy — the Canadian jewellery designer who founded both the Green School Bali and a bamboo architecture movement that has influenced tropical building globally — created Bambu Indah as a working demonstration of what sustainable, materially honest, aesthetically rigorous accommodation in Bali could look like.

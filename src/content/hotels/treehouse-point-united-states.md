@@ -22,8 +22,7 @@ bestFor:
   - "Nature lovers"
   - "Adults seeking a quiet retreat"
 bookingUrl: "https://www.treehousepoint.com/"
-rating: 9.2
-reviewCount: 0
+rating: 8.8
 coordinates:
   lat: 47.53792
   lng: -121.9108782
@@ -32,6 +31,19 @@ sourceId: "osm:way/1557218627"
 verifiedAt: 2026-11-15
 publishedDate: 2026-11-15
 status: published
+location:
+  country: "United States"
+  countryCode: "US"
+  region: "Washington"
+  city: "Issaquah"
+  locality: "Snoqualmie Valley"
+  coordinates:
+    lat: 47.53792
+    lng: -121.9108782
+niche_scope: specific_rooms
+niche_feature: "Seven treehouses in or fixed to living trees (e.g. Trillium in a cedar, Ananda supported by two Douglas firs); also a lodge suite, a cabin and a converted army truck that are not treehouses."
+niche_source_url: "https://www.treehousepoint.com/"
+niche_verified_at: 2026-11-17
 ---
 
 Treehouse Point is a bed and breakfast of seven treehouses in an old-growth forest on the banks of a spring-fed river in Washington's Snoqualmie Valley. The treehouses are built in and around living trees, which the owners say shaped each build. The final treehouse, Ananda, was completed in 2021.

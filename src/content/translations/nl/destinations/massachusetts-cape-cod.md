@@ -14,7 +14,7 @@ bestTimeToVisit:
 mustSee:
   - "Cape Cod National Seashore: 40 mijl beschermde stranden, duinen en kliffen aan de Atlantische kant, van Eastham tot Provincetown"
   - "Provincetown, het meest eigenzinnige stadje van de Cape: kunstgaleries, onafhankelijke restaurants en een levendige lhbtq+-gemeenschap, het hele jaar door"
-  - "De oesterbanken van Wellfleet: enkele van de beste oesters ter wereld, rechtstreeks verkrijgbaar bij keetjes aan de haven"
+  - "De oesterbanken van Wellfleet: zeer gewaardeerde oesters, rechtstreeks verkrijgbaar bij keetjes aan de haven"
   - "Race Point Lighthouse, te voet of met een terreinwagen bereikbaar door de duinen van de Province Lands"
   - "Sandwich, het oudste stadje van de Cape, met een historisch glasmuseum en de Heritage Museums & Gardens"
 travelTips:

@@ -6,7 +6,7 @@ highlights:
   - Plateau in de Negevwoestijn op 900 m boven zeeniveau
   - Rotsarchitectuur geïnspireerd op de Nabateeërs
   - Erfgoed van de Wierookroute (UNESCO) in de buurt
-  - Six Senses-spa van wereldklasse
+  - Six Senses-spa
   - Sterrenkijken in een internationaal erkend donkerhemelgebied
 amenities:
   - Six Senses-spa
@@ -22,7 +22,7 @@ bestFor:
   - Luxe retraite voor stellen
 seo:
   metaTitle: "Six Senses Shaharut: luxe in de Negevwoestijn | StayAtNiche"
-  metaDescription: "Six Senses Shaharut in Israël: 60 villa's in Nabateese stijl op een plateau in de Negev, met een spa van wereldklasse, de Wierookroute en een sterrenhemel."
+  metaDescription: "Six Senses Shaharut in Israël: 60 villa's in Nabateese stijl op een plateau in de Negev, met een Six Senses-spa, de Wierookroute en een sterrenhemel."
 ---
 
 De Negevwoestijn beslaat 60% van het grondgebied van Israël, maar er woont minder dan 10% van de bevolking. In Shaharut, op een plateau boven de kloof van de Nahal Paran, is de leegte totaal: rotswoestijn van horizon tot horizon, een onbelemmerde hemel en in de blootliggende rotswanden een geologisch archief van 600 miljoen jaar. De Nabateeërs, de oude Arabische beschaving die de regionale specerijenhandel beheerste van ongeveer 400 v.Chr. tot 100 n.Chr., bouwden overal in dit landschap nederzettingen en karavanserais, en de Wierookroute, die op de Werelderfgoedlijst van UNESCO staat, loopt op enkele kilometers van het resort.

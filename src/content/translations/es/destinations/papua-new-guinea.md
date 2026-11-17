@@ -1,7 +1,7 @@
 ---
 source: papua-new-guinea
 name: "Papúa Nueva Guinea"
-description: "Papúa Nueva Guinea es uno de los últimos destinos verdaderamente de frontera del planeta: una enorme isla de montañas cubiertas de selva, culturas tribales remotas y algunos de los entornos marinos más vírgenes y biodiversos del mundo. Para quien busca lejanía auténtica, encuentros culturales extraordinarios y un buceo excepcional en un escenario completamente intacto, PNG juega en una categoría propia."
+description: "Papúa Nueva Guinea es uno de los últimos destinos verdaderamente de frontera del planeta: una enorme isla de montañas cubiertas de selva, culturas tribales remotas y algunos de los entornos marinos más vírgenes y biodiversos del mundo. Para quien busca lejanía auténtica, encuentros culturales extraordinarios y un buceo excepcional en un escenario completamente intacto, PNG sigue siendo un destino distinto de casi cualquier otro."
 essentials:
   currency: "PGK (kina de Papúa Nueva Guinea); en los grandes hoteles y resorts de buceo se aceptan dólares estadounidenses"
   language: "Tok pisin (criollo), inglés e hiri motu (todos oficiales); más de 800 lenguas indígenas"

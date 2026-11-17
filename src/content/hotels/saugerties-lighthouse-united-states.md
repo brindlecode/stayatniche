@@ -22,7 +22,6 @@ bestFor:
   - "Couples"
 bookingUrl: "https://www.saugertieslighthouse.com/"
 rating: 9.2
-reviewCount: 0
 coordinates:
   lat: 42.0720823
   lng: -73.9296787
@@ -31,6 +30,19 @@ sourceId: "osm:way/264468493"
 verifiedAt: 2026-11-15
 publishedDate: 2026-11-15
 status: published
+location:
+  country: "United States"
+  countryCode: "US"
+  region: "New York"
+  city: "Saugerties"
+  locality: "Hudson River"
+  coordinates:
+    lat: 42.0720823
+    lng: -73.9296787
+niche_scope: entire_property
+niche_feature: "Two second-floor double bedrooms inside the 1869 lighthouse (rented together, shared bathroom with composting toilet), on a river shoal reached by half-mile trail; the tower is open to guests."
+niche_source_url: "https://www.saugertieslighthouse.com/accommodations"
+niche_verified_at: 2026-11-17
 ---
 
 The Saugerties Lighthouse is an 1869 beacon on the Hudson River that doubles as a living museum and a bed and breakfast. Overnight guests sleep in the lighthouse itself, on a remote shoal surrounded by water, in an experience of rustic simplicity and nineteenth-century life.

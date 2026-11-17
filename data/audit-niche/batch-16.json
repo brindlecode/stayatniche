@@ -1,0 +1,290 @@
+[
+ {
+  "slug": "night-train-caledonian-sleeper",
+  "name": "Caledonian Sleeper",
+  "official_url": "https://www.sleeper.scot/",
+  "source_url": "https://www.sleeper.scot/accommodation/club-en-suite-room",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Overnight sleeper train between London and Scotland; guests sleep in private rooms (Club En-suite twin-bunk rooms, Double En-suite, Classic) on the train. Seated coaches also exist but are not sleeping rooms.",
+  "evidence_quote": "Our private Club En-suite rooms feature twin bunk beds with a handcrafted Glencraft mattress and an en-suite shower room.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Operating overnight sleeper train with private sleeping rooms; guests sleep on the train.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "England",
+   "city": "London",
+   "locality": "Euston"
+  },
+  "page_issues": [
+   "Club room described with a fold-down double bed; official Club En-suite room has twin bunk beds (double beds are a separate Double room type)",
+   "Panoramic windows, complimentary morning newspaper and lounge-only Wi-Fi not supported (official lists in-room Wi-Fi)",
+   "Superlative 'most efficient night's accommodation in Britain'",
+   "'Six routes' not confirmed on the official pages checked"
+  ]
+ },
+ {
+  "slug": "northern-rail-traincar-inn-united-states",
+  "name": "Northern Rail Traincar Inn",
+  "official_url": "https://www.northernrail.net/",
+  "source_url": "https://www.northernrail.net/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "All 15 guest rooms are in real renovated train boxcars (Porter rooms and Conductor suites) linked by an enclosed hallway; themed rooms. Depot-style main building is the breakfast/guest area.",
+  "evidence_quote": "Northern Rail features 15 rooms in real train boxcars that have been renovated with modern day amenities.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Every bookable room is a stationary converted boxcar; closes each April per official About page.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Minnesota",
+   "city": "Two Harbors",
+   "locality": null
+  },
+  "page_issues": []
+ },
+ {
+  "slug": "rocky-mountaineer-canada",
+  "name": "Rocky Mountaineer",
+  "official_url": "https://www.rockymountaineer.com/",
+  "source_url": "https://www.seat61.com/rocky-mountaineer-train.htm",
+  "source_type": "other",
+  "niche_scope": "experience_only",
+  "niche_feature": "Daylight-only scenic rail journey; no sleeping on the train. Guests stay overnight in hotels (e.g. Kamloops) between travel days. Official site blocked (HTTP 403); confirmed via Seat61 and Wikipedia.",
+  "evidence_quote": "the journey takes 2 full days with an overnight hotel stop in Kamloops included in the fare.",
+  "operating": "open",
+  "verdict": "draft",
+  "new_category": null,
+  "closest_category": "train-hotels",
+  "reason": "Guests do not sleep on the train; it is a daytime scenic rail tour with hotel nights, so not a train hotel.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "British Columbia",
+   "city": "Vancouver",
+   "locality": null
+  },
+  "page_issues": [
+   "Page itself says daytime-only and hotel stays required, i.e. no sleeping on the train, which contradicts the train-hotels category",
+   "Wikipedia: sleeper services are not offered (that sentence is flagged citation-needed there; Seat61 confirms hotel stop)"
+  ]
+ },
+ {
+  "slug": "rovos-rail-south-africa",
+  "name": "Rovos Rail",
+  "official_url": "https://www.rovos.com/",
+  "source_url": "https://en.wikipedia.org/wiki/Rovos_Rail",
+  "source_type": "other",
+  "niche_scope": "entire_property",
+  "niche_feature": "Private luxury train based in Pretoria; guests sleep in private en-suite compartments (Pullman, Deluxe, Royal Suite) on multi-night journeys across southern Africa. Official site blocked (HTTP 403); Wikipedia used.",
+  "evidence_quote": "Rovos Rail runs its train-hotel to a regular schedule on various routes throughout Southern Africa, from South Africa to Namibia and Tanzania.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Overnight multi-day sleeper train with en-suite sleeping compartments; category confirmed.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Gauteng",
+   "city": "Pretoria",
+   "locality": "Capital Park"
+  },
+  "page_issues": [
+   "'Cape to Cairo' two-week journey not supported; Wikipedia lists Cape Town to Dar es Salaam (15 nights)",
+   "'World's most luxurious train' and 'surpass most five star hotels' are unsupported superlatives",
+   "Royal Suite 'windows on three sides' and 'Union Limited' provenance not confirmed by the source"
+  ]
+ },
+ {
+  "slug": "the-ghan-australia",
+  "name": "The Ghan",
+  "official_url": "https://www.journeybeyondrail.com.au/the-ghan/",
+  "source_url": "https://www.journeybeyondrail.com.au/the-ghan/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Journey Beyond Rail's Adelaide-Darwin train; guests sleep in private cabins (Gold, Gold Premium, Platinum, Aurora/Australis suites) on 2-3 night journeys (3-4 days).",
+  "evidence_quote": "Onboard you will find sumptuous dining, elegant private cabins, attentive service, and the camaraderie of your fellow travellers.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Operating multi-night sleeper train with private cabins; category correct.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "South Australia",
+   "city": "Adelaide",
+   "locality": null
+  },
+  "page_issues": [
+   "Service classes listed are incomplete: official site also has Gold Premium (private en suite) and Aurora/Australis Suites",
+   "Gold 'shares bathroom facilities' not supported by the official Gold description",
+   "'54 hours' fixed duration: official lists 3-4 days / 2-3 nights, with a new four-day itinerary from 2027"
+  ]
+ },
+ {
+  "slug": "the-old-railway-station-united-kingdom",
+  "name": "The Old Railway Station",
+  "official_url": "https://www.old-station.co.uk/",
+  "source_url": "https://www.old-station.co.uk/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Eight rooms (2 King Pullman, 6 Standard Pullman) are in restored Pullman carriages; two rooms (Station House Lower/Upper) and a self-catering Station Masters Suite are in the old station building.",
+  "evidence_quote": "Stay in a Pullman Carriage at The Old Railway Station in Petworth, or in the old Station building itself.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Guests sleep in stationary restored Pullman carriages at a former station; only some rooms are carriages.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "West Sussex",
+   "city": "Petworth",
+   "locality": null
+  },
+  "page_issues": []
+ },
+ {
+  "slug": "train-station-inn-canada",
+  "name": "Train Station Inn",
+  "official_url": "https://www.tatatrainstation.com/",
+  "source_url": "https://www.tatatrainstation.com/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Guest accommodation is vintage Canadian-built cabooses and boxcars converted to private suites beside the original c.1887 station building. Seasonal booking (May 1 to Oct 11 in 2026).",
+  "evidence_quote": "Our unique accommodations are vintage Canadian-built cabooses & boxcars, authentic on the outside, redesigned and developed into private deluxe suites on the inside",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "All bookable suites are converted railway cars on the station grounds; seasonal.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Nova Scotia",
+   "city": "Tatamagouche",
+   "locality": null
+  },
+  "page_issues": []
+ },
+ {
+  "slug": "vagony-na-horach-czechia",
+  "name": "Vagony na horách",
+  "official_url": "https://vagonynahorach.cz/",
+  "source_url": "https://vagonynahorach.cz/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Four retired railway wagons (Alois, Fanynka, Lesní, Přednostův) on the unused fourth track at Kovářská station, fitted as insulated studios. A fifth stay, Vechtrovna, is a former trackman's house, not a wagon.",
+  "evidence_quote": "Odstavili jsme je na nepoužívané 4. koleji nádraží Kovářská v Krušných horách.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Guests sleep in converted stationary railway wagons at Kovářská station; one of five stays is a building.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Ústí nad Labem Region",
+   "city": "Kovářská",
+   "locality": "Kovářská railway station"
+  },
+  "page_issues": []
+ },
+ {
+  "slug": "venice-simplon-orient-express",
+  "name": "Venice Simplon-Orient-Express",
+  "official_url": "https://www.belmond.com/en/trains/europe/venice-simplon-orient-express/",
+  "source_url": "https://www.belmond.com/en/trains/europe/venice-simplon-orient-express/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Belmond's sleeper train with restored 1920s carriages: Grand Suites, L'Observatoire suite, Suites (4 per carriage) and Historic Cabins (8 per carriage, shared restrooms), on routes to over 15 European cities.",
+  "evidence_quote": "Opulent sleeper carriages from the 1920s",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Operating overnight sleeper train with private cabins and suites; category correct.",
+  "treehouse_structure": null,
+  "location": {
+   "region": null,
+   "city": null,
+   "locality": null
+  },
+  "page_issues": [
+   "'Private en-suite cabin suites': only Suites have en-suite bathrooms; Historic Cabins use shared restrooms at carriage end",
+   "'London to Venice' is not among the official signature journeys listed (Paris to Venice, Istanbul to Paris, etc.)",
+   "'Most famous train in the world' and 'irreplaceable' are unsupported superlatives"
+  ]
+ },
+ {
+  "slug": "wolkensteiner-zughotel-germany",
+  "name": "Wolkensteiner Zughotel",
+  "official_url": "https://wolkensteiner-zughotel.de/",
+  "source_url": "https://wolkensteiner-zughotel.de/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Guests sleep in original sleeping-car compartments (10 compartments, 1st/2nd class, government compartment, two suites) and five 'Ferienzug' holiday-apartment wagons; two holiday apartments are in the 1865 station building (ordinary rooms). 54 sleeping places in total.",
+  "evidence_quote": "man übernachtet in Eisenbahnwagen bzw. Abteilen, rustikal und nostalgisch",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Most accommodation is in stationary converted railway carriages; station-building apartments are ordinary.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Saxony",
+   "city": "Wolkenstein",
+   "locality": "Ore Mountains"
+  },
+  "page_issues": []
+ },
+ {
+  "slug": "zughotel-waldkirchen-austria",
+  "name": "ZUGHOTEL Waldkirchen",
+  "official_url": "https://www.zughotel.at/",
+  "source_url": "https://www.zughotel.at/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Two former ÖBB construction-train wagons at the station, converted to sleeping wagons (4 single rooms; 1 double and 2 single rooms), sleeping 8 guests in total. Seasonal; 2026 season ended 21 September.",
+  "evidence_quote": "Das Hotel besteht aus mehreren ehemaligen Bauzug-Waggons der ÖBB.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "All guest rooms are in stationary converted railway wagons; seasonal operation.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Lower Austria",
+   "city": "Waldkirchen an der Thaya",
+   "locality": null
+  },
+  "page_issues": []
+ },
+ {
+  "slug": "bambu-indah-bali",
+  "name": "Bambu Indah",
+  "official_url": "https://www.bambuindah.com/",
+  "source_url": "https://www.bambuindah.com/houses/treehouse",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "One Treehouse (sleeps 3) among 24 houses: a separate bamboo structure set in the branches of two bunut trees. The other houses (joglo bridal homes, bamboo houses, tents) are not treehouses.",
+  "evidence_quote": "Nestled high up in the branches of two bunut trees overlooking the tropical valley, Treehouse is one of Bambu Indah’s signature accommodations",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site shows one free-standing treehouse in trees among 24 houses; remaining houses are ordinary or non-treehouse structures.",
+  "treehouse_structure": "in_or_attached_to_tree",
+  "location": {
+   "region": "Bali",
+   "city": "Ubud",
+   "locality": "Sayan Ridge"
+  },
+  "page_issues": [
+   "Page never mentions the Treehouse, the only unit that fits this category",
+   "'Each structure is reclaimed Indonesian architectural history' overstated: many houses are new bamboo builds",
+   "River pools 'carved from stone' not supported by the official pages checked"
+  ]
+ }
+]

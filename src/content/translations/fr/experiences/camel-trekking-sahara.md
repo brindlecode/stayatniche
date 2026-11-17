@@ -2,7 +2,7 @@
 source: camel-trekking-sahara
 title: "Nuit dans le Sahara, à dos de dromadaire"
 destination: "Merzouga"
-description: "Partez à dos de dromadaire dans l'immense mer de sable de l'Erg Chebbi au coucher du soleil, installez-vous pour la nuit sous une tente berbère, sous un ciel si chargé d'étoiles qu'il en paraît presque solide, et réveillez-vous le lendemain pour un lever de soleil qui teinte les dunes d'or et de rose, dans le plus cinématographique des paysages désertiques. Cette expérience de 24 heures au départ de Merzouga est la grande classique des nuits sahariennes : sans hâte, vraiment isolée, et étonnamment paisible une fois que la dernière clochette de dromadaire s'est tue dans le silence du désert."
+description: "Partez à dos de dromadaire dans l'immense mer de sable de l'Erg Chebbi au coucher du soleil, installez-vous pour la nuit sous une tente berbère, sous un ciel si chargé d'étoiles qu'il en paraît presque solide, et réveillez-vous le lendemain pour un lever de soleil qui teinte les dunes d'or et de rose, dans l'un des paysages désertiques les plus cinématographiques. Cette expérience de 24 heures au départ de Merzouga est la grande classique des nuits sahariennes : sans hâte, vraiment isolée, et étonnamment paisible une fois que la dernière clochette de dromadaire s'est tue dans le silence du désert."
 booking:
   price: "À partir de 95 $ par personne"
   duration: "24 heures"

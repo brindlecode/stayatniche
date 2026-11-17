@@ -54,7 +54,6 @@ prosAndCons:
     - "No restaurant on-site, self-catering or drive to town"
 bookingUrl: "https://www.freespiritspheres.com"
 rating: 8.8
-reviewCount: 215
 checkInOut:
   checkIn: "15:00"
   checkOut: "11:00"
@@ -88,6 +87,18 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Vancouver+Island"
     label: "Find Tours on Klook"
+location:
+  country: "Canada"
+  countryCode: "CA"
+  region: "British Columbia"
+  city: "Qualicum Bay"
+  coordinates:
+    lat: 49.38202
+    lng: -124.614092
+niche_scope: entire_property
+niche_feature: "Three spherical treehouses (Luna, Melody, Eryn), each suspended by ropes from three trees, 5 to 100 ft up, reached by stairway and suspension bridge. Free-standing, among coastal rainforest."
+niche_source_url: "https://freespiritspheres.com/about-the-spheres/"
+niche_verified_at: 2026-11-17
 ---
 
 Somewhere between a boat, a nest, and a planet, the Free Spirit Spheres occupy a category of their own. Suspended from the trunks of ancient Douglas firs and western red cedars by a web of rigging ropes, these three handcrafted wooden orbs — Eve, Eryn, and Melody — sway in the breeze of Vancouver Island's old-growth forest. There is nothing else quite like them.

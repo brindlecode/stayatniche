@@ -2,12 +2,12 @@
 source: jungle-lodges
 title: Lodges en la selva
 tagline: "En lo más profundo del dosel, lejos de lo corriente"
-description: De los lodges en el dosel del bosque nuboso de Costa Rica a los campamentos fluviales de Borneo junto a los orangutanes y los refugios en plena cuenca amazónica de Perú y Brasil, los lodges en la selva te ofrecen una inmersión en la biodiversidad que ningún otro tipo de alojamiento puede igualar. Fauna extraordinaria, paisajes sonoros primigenios y lujo auténtico convierten estas estancias en algunas de las más memorables del mundo.
+description: De los lodges en el dosel del bosque nuboso de Costa Rica a los campamentos fluviales de Borneo junto a los orangutanes y los refugios en plena cuenca amazónica de Perú y Brasil, los lodges en la selva te ofrecen una inmersión en la biodiversidad que pocos otros tipos de alojamiento pueden igualar. Fauna extraordinaria, paisajes sonoros primigenios y lujo auténtico convierten estas estancias en algunas de las más memorables del mundo.
 stats:
   topDestination: "Costa Rica"
 seo:
   metaTitle: "Lodges en la selva: lujo en la selva tropical | StayAtNiche"
-  metaDescription: "Duerme en las selvas más biodiversas del planeta en lodges de lujo en Costa Rica, Borneo, la Amazonía y más. Estancias en la selva con fauna extraordinaria."
+  metaDescription: "Duerme en algunas de las selvas más biodiversas del planeta en lodges de lujo en Costa Rica, Borneo, la Amazonía y más. Estancias en la selva con fauna extraordinaria."
 ---
 
 Te despiertan a las cinco de la mañana los monos aulladores. Las guacamayas rojas cruzan el paisaje que ves desde la mesa del desayuno. Aparecen huellas de jaguar en la orilla del río antes de que los guías hayan terminado su café. No son momentos de un resumen de lo mejor del viaje. En un buen lodge en la selva, rodeado de bosque tropical primario, es un martes cualquiera.
@@ -30,7 +30,7 @@ Los mejores lodges en la selva están integrados en la conservación, no simplem
 El Certificado de Sostenibilidad Turística (CST) de Costa Rica y la colaboración con Rainforest Alliance ofrecen referencias verificadas de forma independiente. Esta distinción tiene consecuencias prácticas: los lodges realmente integrados en la conservación ofrecen mejores encuentros con la fauna, porque los animales están más sanos, son más abundantes y están menos acostumbrados a las molestias.
 
 
-**Costa Rica** tiene la infraestructura de ecolodges más sofisticada del mundo. Su red de parques nacionales cubre más del 25 % del territorio, y los alojamientos de la península de Osa (junto a Corcovado, descrito por National Geographic como el lugar con más biodiversidad del planeta), Tortuguero y el bosque nuboso de Monteverde están en lo más alto de la categoría a escala mundial.
+**Costa Rica** tiene una infraestructura de ecolodges muy desarrollada. Su red de parques nacionales cubre más del 25 % del territorio, y los alojamientos de la península de Osa (junto a Corcovado, descrito por National Geographic como el lugar con más biodiversidad del planeta), Tortuguero y el bosque nuboso de Monteverde están en lo más alto de la categoría a escala mundial.
 
 **Borneo** ofrece encuentros con orangutanes en semilibertad, además de monos narigudos, elefantes pigmeos y una de las listas de aves más ricas del mundo. Los lodges a orillas de los ríos de Sabah y Sarawak son el formato habitual. **La Amazonía peruana**, sobre todo en torno a la Reserva Nacional Tambopata, cerca de Puerto Maldonado, es uno de los tramos mejor conservados de la cuenca amazónica: las colpas de arcilla que atraen a cientos de guacamayos a la vez no tienen parangón en los viajes de naturaleza.
 

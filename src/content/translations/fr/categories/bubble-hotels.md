@@ -7,7 +7,7 @@ stats:
   topDestination: "Finlande"
 seo:
   metaTitle: "Nuit dans une bulle transparente | StayAtNiche"
-  metaDescription: "Les plus belles bulles transparentes et igloos de verre du monde : aurores boréales en Laponie finlandaise, nuits étoilées en Provence. Notre sélection."
+  metaDescription: "Une sélection de bulles transparentes et d’igloos de verre : aurores boréales en Laponie finlandaise, nuits étoilées en Provence. Notre sélection."
 ---
 
 Tout commence au Kakslauttanen Arctic Resort, à Saariselkä, en Finlande. Au début des années 2000, l'établissement fait construire des dômes transparents à isolation thermique, pensés pour que ses hôtes puissent admirer les aurores boréales depuis leur lit. En 2010, l'idée fait le tour du monde et donne naissance à une catégorie à part entière. Kakslauttanen reste aujourd'hui l'un des hôtels les plus recherchés de la planète : il affiche complet des mois à l'avance pendant la saison des aurores, et cet engouement ne s'est jamais vraiment essoufflé.

@@ -19,7 +19,6 @@ bestFor:
   - "History enthusiasts"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Saddell%20Castle%2C%20Saddell%2C%20Kintyre%2C%20Scotland&adults=2"
 rating: 8.8
-reviewCount: 0
 coordinates:
   lat: 55.5274398
   lng: -5.5045251

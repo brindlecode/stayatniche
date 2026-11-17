@@ -1,6 +1,6 @@
 import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
-import { SITE, isLive } from '../lib/site';
+import { SITE, isLive, placeLabel } from '../lib/site';
 
 // Machine-readable full index for LLM crawlers (GEO). Every entity, one line, with facts.
 export const GET: APIRoute = async () => {
@@ -17,7 +17,7 @@ export const GET: APIRoute = async () => {
     ...cats.map(c => `- [${c.data.title}](${SITE}/categories/${c.slug}/): ${c.data.description}`),
     '',
     '## Hotels',
-    ...hotels.map(h => `- [${h.data.name}](${SITE}/hotels/${h.slug}/) (${h.data.destination}, ${h.data.country}; ${h.data.category}; ${/\d/.test(h.data.priceRange) ? `${h.data.priceRange}/night` : h.data.priceRange}): ${h.data.description}`),
+    ...hotels.map(h => `- [${h.data.name}](${SITE}/hotels/${h.slug}/) (${placeLabel(h.data.destination, h.data.country)}; ${h.data.category}; ${/\d/.test(h.data.priceRange) ? `${h.data.priceRange}/night` : h.data.priceRange}): ${h.data.description}`),
     '',
     '## Destinations',
     ...dests.map(d => `- [${d.data.name}](${SITE}/destinations/${d.slug}/): ${d.data.description}`),

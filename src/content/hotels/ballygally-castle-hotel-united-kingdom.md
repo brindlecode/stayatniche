@@ -26,7 +26,6 @@ bestFor:
   - "Families"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Ballygally%20Castle%20Hotel%2C%20Ballygally%2C%20Northern%20Ireland&adults=2"
 rating: 8.6
-reviewCount: 0
 checkInOut:
   checkIn: "16:00"
   checkOut: "11:00"
@@ -38,6 +37,19 @@ sourceId: "osm:way/772977989"
 verifiedAt: 2026-11-14
 publishedDate: 2026-11-15
 status: published
+location:
+  country: "United Kingdom"
+  countryCode: "GB"
+  region: "Northern Ireland"
+  city: "Larne"
+  locality: "Ballygally"
+  coordinates:
+    lat: 54.8993096
+    lng: -5.8616453
+niche_scope: specific_rooms
+niche_feature: "17th-century castle hotel; Tower Bedrooms are in the original castle building, while the hotel has 54 bedrooms in total. Source does not give the count of castle rooms."
+niche_source_url: "https://www.ballygallycastlehotel.com/"
+niche_verified_at: 2026-11-17
 ---
 
 Ballygally Castle stands at the head of Ballygally Bay on the Antrim coast, about three miles north of Larne, with the coast road and the Irish Sea directly in front of it. The castle was built in 1625 by James Shaw, a Scot from Greenock, and it is still in use as a residence. Today it is a four-star hotel run by Hastings Hotels, who bought it in 1966.

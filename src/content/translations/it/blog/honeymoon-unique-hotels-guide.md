@@ -1,10 +1,10 @@
 ---
 source: honeymoon-unique-hotels-guide
-title: "La guida definitiva agli hotel per la luna di miele: soggiorni straordinari per il viaggio più romantico"
-excerpt: "La tua luna di miele merita qualcosa di straordinario. Dalle isole private nascoste nell’Oceano Indiano alle suite in grotta a strapiombo in Cappadocia: ecco gli hotel insoliti più romantici del mondo."
+title: "La guida definitiva agli hotel per la luna di miele: soggiorni straordinari per il tuo viaggio più romantico"
+excerpt: "La tua luna di miele merita qualcosa di straordinario. Dalle isole private nascoste nell’Oceano Indiano alle suite in grotta a strapiombo in Cappadocia: ecco hotel insoliti pensati per il romanticismo."
 seo:
   metaTitle: "Hotel per la luna di miele: i più romantici | StayAtNiche"
-  metaDescription: "Gli hotel più straordinari per la luna di miele: isole private, ville sull’acqua, case sugli alberi nella giungla e suite in grotta per il viaggio della vita."
+  metaDescription: "Gli hotel più straordinari per la luna di miele: isole private, ville sull’acqua, case sugli alberi nella giungla e suite in grotta per un viaggio da ricordare."
 ---
 
 Gli sposi che ricordano il loro viaggio per tutta la vita non sono quelli che hanno prenotato un bel resort e sono rimasti sdraiati in spiaggia per una settimana. Sono quelli che si sono svegliati sopra lagune turchesi, hanno camminato nella foresta nebulosa all’alba, hanno guardato l’aurora boreale dal letto o hanno sorvolato i camini delle fate in mongolfiera al sorgere del sole. Gli alloggi di questa guida hanno un criterio in comune: regalano il tipo di esperienza che entra nella storia condivisa di una coppia, quei punti di riferimento che si richiamano anni dopo, le notti che diventano la risposta a «qual è la cosa più straordinaria che avete mai fatto insieme?».

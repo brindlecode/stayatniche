@@ -26,7 +26,7 @@ travelTips:
   - "Le coco de mer est une espèce protégée : n’achetez que des noix certifiées, avec documents, auprès de vendeurs agréés, sous peine de confiscation en douane."
 seo:
   metaTitle: "Seychelles : îles privées et pilotis | StayAtNiche"
-  metaDescription: "Seychelles : vallée de Mai à Praslin, plages de granit de La Digue, villas sur pilotis, îles-hôtels privées et la plus belle vie marine de l’océan Indien."
+  metaDescription: "Seychelles : vallée de Mai à Praslin, plages de granit de La Digue, villas sur pilotis, îles-hôtels privées et la riche vie marine de l’océan Indien."
 ---
 
 Les Seychelles figurent en bonne place sur la liste des destinations de rêve de la plupart des voyageurs : 115 îles éparpillées dans l’ouest de l’océan Indien, loin des routes maritimes, réputées pour leur sable blanc, leurs eaux turquoise et leur extrême discrétion. La réalité tient toutes ces promesses. Et ceux qui tirent le meilleur d’un voyage aux Seychelles sont ceux qui dépassent les célèbres îles intérieures pour gagner les atolls extérieurs, où les milieux marins comptent parmi les plus préservés et les plus limpides qui subsistent sur terre.

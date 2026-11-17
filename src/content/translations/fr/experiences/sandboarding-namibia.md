@@ -2,7 +2,7 @@
 source: sandboarding-namibia
 title: "Sandboard sur les dunes de Sossusvlei"
 destination: "Sossusvlei, désert du Namib"
-description: "Dévalez sur une planche la face des plus hautes dunes du monde, jusqu'à 80 km/h, sur des montagnes de sable qui s'élèvent à 300 mètres au-dessus de l'antique cuvette d'argile. Les dunes de Sossusvlei comptent parmi les formations naturelles les plus photographiées de la planète, rouge brique, sculptées à la perfection par le vent et d'un silence absolu, et s'y jeter à toute vitesse transforme le plus beau désert du monde en terrain de jeu le plus spectaculaire qui soit."
+description: "Dévalez sur une planche la face de certaines des plus hautes dunes du monde, jusqu'à 80 km/h, sur des montagnes de sable qui s'élèvent à 300 mètres au-dessus de l'antique cuvette d'argile. Les dunes de Sossusvlei comptent parmi les formations naturelles les plus photographiées de la planète, rouge brique, sculptées à la perfection par le vent et d'un silence absolu, et s'y jeter à toute vitesse transforme l'un des plus beaux déserts du monde en terrain de jeu spectaculaire."
 booking:
   price: "À partir de 80 $ par personne"
   duration: "Demi-journée"
@@ -27,7 +27,7 @@ notIncluded:
   - "Hébergement dans la région de Sossusvlei"
 seo:
   metaTitle: "Sandboard à Sossusvlei, Namibie | StayAtNiche"
-  metaDescription: "Dévalez en sandboard des dunes de 300 mètres à 80 km/h à Sossusvlei, en Namibie, au cœur du plus vieux désert du monde. Dès 80 $ par personne, demi-journée."
+  metaDescription: "Dévalez en sandboard des dunes de 300 mètres à 80 km/h à Sossusvlei, en Namibie, au cœur de l'un des plus vieux déserts du monde. Dès 80 $ par personne, demi-journée."
 ---
 
 La dune de Big Daddy s'élève à 325 mètres au-dessus de la cuvette de Deadvlei. L'ascension prend environ 45 minutes, le long d'une crête en lame de couteau, avec le désert de part et d'autre et la cuvette d'argile blanche qui rapetisse en contrebas. Au sommet, le vent arrache le sable de la crête en rideaux horizontaux. La vue (le Namib qui s'étend jusqu'à tous les horizons, les acacias morts projetant des ombres bleues sur le sol blanc, les crêtes de dunes qui se perdent dans les ondulations de chaleur) est de celles auxquelles la photo de voyage ne rend jamais justice.

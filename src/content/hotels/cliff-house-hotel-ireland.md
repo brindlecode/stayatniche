@@ -24,7 +24,6 @@ bestFor:
   - "Food lovers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Cliff%20House%20Hotel%2C%20Ardmore&adults=2"
 rating: 9
-reviewCount: 0
 coordinates:
   lat: 51.94852
   lng: -7.71513
@@ -33,6 +32,18 @@ sourceId: "wd:Q71973594"
 verifiedAt: 2026-10-13
 publishedDate: 2026-10-13
 status: published
+location:
+  country: "Ireland"
+  countryCode: "IE"
+  region: "County Waterford"
+  city: "Ardmore"
+  coordinates:
+    lat: 51.94852
+    lng: -7.71513
+niche_scope: entire_property
+niche_feature: "39-room five-star hotel perched on the cliffs above Ardmore; official text says all rooms and suites are sea-facing and the design settles into the cliffside."
+niche_source_url: "https://cliffhousehotel.ie"
+niche_verified_at: 2026-11-17
 ---
 
 Cliff House Hotel sits on the cliffs above the historic fishing village of Ardmore in County Waterford. It is a privately owned five-star hotel with 39 rooms, and its defining feature is position: the rooms are placed along the cliff edge, so the Atlantic fills the view from each of them.

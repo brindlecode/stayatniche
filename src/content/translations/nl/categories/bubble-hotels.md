@@ -7,7 +7,7 @@ stats:
   topDestination: "Finland"
 seo:
   metaTitle: "Bubbelhotels: slapen onder de sterren | StayAtNiche"
-  metaDescription: "Slapen in een bubbel of glazen iglo? De mooiste bubbelhotels ter wereld, van noorderlicht kijken in Fins Lapland tot sterrenkijken in de Provence en Wadi Rum."
+  metaDescription: "Slapen in een bubbel of glazen iglo? Bijzondere bubbelhotels, van noorderlicht kijken in Fins Lapland tot sterrenkijken in de Provence en Wadi Rum."
 ---
 
 Het hele concept begint bij Kakslauttanen Arctic Resort in Saariselkä, Finland. Begin jaren 2000 bouwde het resort thermisch geïsoleerde, doorzichtige koepels, speciaal zodat gasten vanuit bed naar het noorderlicht konden kijken. In 2010 trok het wereldwijd de aandacht en was er een hele categorie uit ontstaan. Kakslauttanen is nog altijd een van de meest gezochte hotels op aarde. In het noorderlichtseizoen is het maanden vooruit volgeboekt, en die populariteit is eigenlijk nooit bekoeld.

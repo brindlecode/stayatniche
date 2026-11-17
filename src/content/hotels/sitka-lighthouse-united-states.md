@@ -26,7 +26,6 @@ bestFor:
   - "Friends travelling together"
 bookingUrl: "https://www.sitkalighthouse.com/"
 rating: 9.0
-reviewCount: 0
 coordinates:
   lat: 57.0359293
   lng: -135.333655
@@ -35,6 +34,19 @@ sourceId: "osm:node/2461153446"
 verifiedAt: 2026-11-15
 publishedDate: 2026-11-15
 status: published
+location:
+  country: "United States"
+  countryCode: "US"
+  region: "Alaska"
+  city: "Sitka"
+  locality: "Rockwell Island"
+  coordinates:
+    lat: 57.0359293
+    lng: -135.333655
+niche_scope: entire_property
+niche_feature: "The whole lighthouse (built 1983 as Rockwell Lighthouse; two bedrooms, 1.5 baths) is rented as a private-island vacation rental; guests sleep inside it. Water taxi included, five-minute boat ride."
+niche_source_url: "https://www.sitkalighthouse.com/"
+niche_verified_at: 2026-11-17
 ---
 
 Sitka Lighthouse stands on a private one-acre island, a five-minute boat ride from the harbour in Sitka, Alaska. Guests stay inside the lighthouse itself, and the island, with its own boat dock, is theirs for the duration.

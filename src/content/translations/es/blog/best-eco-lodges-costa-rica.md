@@ -1,15 +1,15 @@
 ---
 source: best-eco-lodges-costa-rica
 title: "Los mejores ecolodges de Costa Rica: estancias extraordinarias en la selva, bien hechas"
-excerpt: "Costa Rica fue pionera del concepto de ecolodge y sigue haciéndolo mejor que nadie. Estos alojamientos extraordinarios combinan inmersión en la selva, un acceso excepcional a la fauna y una sostenibilidad real."
+excerpt: "Costa Rica fue pionera del concepto de ecolodge y sigue siendo un referente. Estos alojamientos extraordinarios combinan inmersión en la selva, un acceso excepcional a la fauna y una sostenibilidad real."
 seo:
   metaTitle: "Mejores ecolodges de Costa Rica | StayAtNiche"
   metaDescription: "Los mejores ecolodges de Costa Rica, de la selva de la península de Osa al bosque nuboso de Monteverde, con precios, fauna y certificaciones de sostenibilidad."
 ---
 
-Costa Rica inventó el ecoturismo moderno, y no es una exageración. La decisión que tomó el país en la década de 1980 de proteger el 25 % de su territorio en forma de parques y reservas —unida a la infraestructura turística creada para que los visitantes pudieran conocer de verdad esas áreas protegidas— dio lugar a un modelo estudiado e imitado en todo el mundo. Costa Rica entendió antes que casi nadie que la naturaleza intacta tiene más valor económico que la tierra transformada: un jaguar vivo en una selva sana vale más para la economía nacional que ese mismo terreno desbrozado para el ganado.
+A Costa Rica se le reconoce ampliamente como pionera del ecoturismo moderno. La decisión que tomó el país en la década de 1980 de proteger el 25 % de su territorio en forma de parques y reservas —unida a la infraestructura turística creada para que los visitantes pudieran conocer de verdad esas áreas protegidas— dio lugar a un modelo estudiado e imitado en todo el mundo. Costa Rica entendió antes que casi nadie que la naturaleza intacta tiene más valor económico que la tierra transformada: un jaguar vivo en una selva sana vale más para la economía nacional que ese mismo terreno desbrozado para el ganado.
 
-Los ecolodges que nacieron de esta filosofía son la expresión más auténtica de lo que puede ser el viaje sostenible cuando se persigue con verdadera ambición y no como simple lavado de imagen verde. Los mejores no son hoteles que convierten en compost los restos de la cocina y se dan por satisfechos. Son alojamientos construidos en colaboración con las comunidades locales, alimentados con energías renovables, atendidos casi por completo por guías naturalistas de la zona y situados para ofrecer encuentros con la fauna —perezosos, ranas venenosas, guacamayos rojos, tapires— realmente excepcionales.
+Los ecolodges que nacieron de esta filosofía son una expresión auténtica de lo que puede ser el viaje sostenible cuando se persigue con verdadera ambición y no como simple lavado de imagen verde. Los mejores no son hoteles que convierten en compost los restos de la cocina y se dan por satisfechos. Son alojamientos construidos en colaboración con las comunidades locales, alimentados con energías renovables, atendidos casi por completo por guías naturalistas de la zona y situados para ofrecer encuentros con la fauna —perezosos, ranas venenosas, guacamayos rojos, tapires— realmente excepcionales.
 
 Esta guía reúne los mejores alojamientos, ordenados por región, con una valoración honesta de lo que hace único a cada uno e información práctica para planificar tu visita.
 

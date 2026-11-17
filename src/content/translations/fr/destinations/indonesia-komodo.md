@@ -1,7 +1,7 @@
 ---
 source: indonesia-komodo
 name: "Komodo, Indonésie"
-description: "L'archipel de Komodo, dans la région indonésienne des petites îles de la Sonde (Nusa Tenggara), abrite le plus grand lézard vivant du monde, l'une des biodiversités marines les plus riches de la planète et un paysage volcanique et sauvage de plages de sable rose et de baies émeraude, d'une intensité naturelle presque sans égale. Bateaux de croisière-plongée et écolodges de Florès ouvrent les portes de l'une des dernières vraies terres sauvages d'Asie."
+description: "L'archipel de Komodo, dans la région indonésienne des petites îles de la Sonde (Nusa Tenggara), abrite le plus grand lézard vivant du monde, l'une des biodiversités marines les plus riches de la planète et un paysage volcanique et sauvage de plages de sable rose et de baies émeraude, d'une intensité naturelle remarquable. Bateaux de croisière-plongée et écolodges de Florès ouvrent les portes de l'une des dernières vraies terres sauvages d'Asie."
 essentials:
   currency: "IDR (roupie indonésienne) ; le dollar américain est accepté dans les grands hôtels et chez les opérateurs de plongée"
   language: "Indonésien (bahasa indonesia) ; dialecte manggarai à Florès"
@@ -37,7 +37,7 @@ Les dragons de Komodo sont les plus grands lézards vivants du monde — jusqu'�
 Le parc national protège les îles de Komodo et de Rinca, ainsi qu'une zone marine qui s'étend sur tout le détroit environnant. Rinca offre généralement des observations plus sûres, grâce à une population résidente plus importante et à un terrain plus dégagé ; l'île de Komodo ajoute des marches en forêt plus profonde et des paysages plus spectaculaires.
 
 
-Le détroit de Komodo se situe à la confluence de l'océan Indien et de la mer de Florès, et génère une remontée de nutriments exceptionnelle qui nourrit un écosystème marin d'une richesse stupéfiante. La plongée y figure invariablement parmi les meilleures du monde — non pour la visibilité (parfois moyenne à cause du plancton), mais pour la densité et la diversité de la vie. Batu Bolong, un mont sous-marin, porte tant de corail et tant d'espèces de poissons que les photographes saturent leur carte mémoire avant d'être à court de sujets.
+Le détroit de Komodo se situe à la confluence de l'océan Indien et de la mer de Florès, et génère une remontée de nutriments exceptionnelle qui nourrit un écosystème marin d'une richesse stupéfiante. La plongée y jouit invariablement d'une excellente réputation auprès des plongeurs du monde entier — non pour la visibilité (parfois moyenne à cause du plancton), mais pour la densité et la diversité de la vie. Batu Bolong, un mont sous-marin, porte tant de corail et tant d'espèces de poissons que les photographes saturent leur carte mémoire avant d'être à court de sujets.
 
 Manta Point accueille, tout au long de la saison sèche, des rassemblements réguliers de raies manta de récif et océaniques, dont l'envergure atteint cinq mètres, qui enchaînent les loopings dans le courant à vos côtés. Pour ceux qui ne plongent pas, le snorkeling est exceptionnel sur plusieurs sites, et les excursions en bateau à fond de verre au départ de Labuan Bajo ouvrent une fenêtre sur les récifs moins profonds.
 

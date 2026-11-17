@@ -1,7 +1,7 @@
 ---
 source: arizona-grand-canyon
 name: "Gran Cañón, Arizona"
-description: "El Gran Cañón es el afloramiento geológico más espectacular de la Tierra: un abismo de una milla de profundidad que atraviesa 1800 millones de años de roca, excavado por el río Colorado a lo largo de cinco millones de años. Más allá de la multitud que se asoma al borde, un mundo de caminatas por el interior del cañón, rafting por el Colorado y naturaleza salvaje en el North Rim ofrece alojamientos que convierten uno de los lugares más visitados del planeta en algo verdaderamente íntimo."
+description: "El Gran Cañón es uno de los afloramientos geológicos más espectaculares de la Tierra: un abismo de una milla de profundidad que atraviesa 1800 millones de años de roca, excavado por el río Colorado a lo largo de cinco millones de años. Más allá de la multitud que se asoma al borde, un mundo de caminatas por el interior del cañón, rafting por el Colorado y naturaleza salvaje en el North Rim ofrece alojamientos que convierten uno de los lugares más visitados del planeta en algo verdaderamente íntimo."
 essentials:
   currency: "USD"
   language: "Inglés"

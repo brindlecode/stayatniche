@@ -31,7 +31,6 @@ notIncluded:
   - Gratuities for guides
   - Meals beyond included lunch
 rating: 9.7
-reviewCount: 1654
 featured: false
 tags:
   - kayaking

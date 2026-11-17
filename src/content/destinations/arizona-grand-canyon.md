@@ -3,7 +3,7 @@ name: "Arizona Grand Canyon"
 type: region
 continent: "North America"
 country: USA
-description: "The Grand Canyon is the most dramatic geological exposure on Earth, a mile-deep chasm through 1.8 billion years of rock carved by the Colorado River across five million years. Beyond the rim-view crowd, a world of inner canyon hiking, Colorado River rafting, and North Rim wilderness offers accommodation experiences that transform one of the world's most visited sites into something genuinely intimate."
+description: "The Grand Canyon is one of the most dramatic geological exposures on Earth, a mile-deep chasm through 1.8 billion years of rock carved by the Colorado River across five million years. Beyond the rim-view crowd, a world of inner canyon hiking, Colorado River rafting, and North Rim wilderness offers accommodation experiences that transform one of the world's most visited sites into something genuinely intimate."
 coverImage: /images/destinations/arizona-grand-canyon.jpg
 essentials:
   currency: "USD"

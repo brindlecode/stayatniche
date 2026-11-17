@@ -16,7 +16,7 @@ mustSee:
   - "Kap der Guten Hoffnung – der südwestlichste Punkt Afrikas mit wilder Atlantikküste"
   - "Boulders Beach in Simon’s Town – Kolonie von 3.000 Brillenpinguinen"
   - "Weintäler von Stellenbosch und Franschhoek – herausragender Wein vor außergewöhnlicher Bergkulisse"
-  - "Hermanus – die weltweit beste Walbeobachtung vom Land aus (Südkaper, Juli–November)"
+  - "Hermanus – weithin als eines der besten Gebiete der Welt für Walbeobachtung vom Land aus geschätzt (Südkaper, Juli–November)"
   - "Robben Island – wo Nelson Mandela inhaftiert war; unverzichtbarer historischer Kontext"
 travelTips:
   - "In Kapstadt sind Taschendiebstähle und Autoaufbrüche häufig. Lassen Sie im geparkten Auto nie Wertsachen sichtbar liegen und seien Sie im Stadtzentrum nach Einbruch der Dunkelheit wachsam."

@@ -57,7 +57,7 @@ Die Zeiten spartanischer Baumhausnächte sind in den Spitzenhäusern weitgehend 
 
 
 
-**Treehotel, Harads, Schwedisch-Lappland** – Das architektonisch ehrgeizigste Baumhaushotel der Welt. Sieben Zimmer, von verschiedenen Architekten entworfen, eines aufsehenerregender als das andere: der Mirrored Cube, das UFO, das Bird's Nest, der 7th Room (eine Suite auf dem Dach, die über eine Hängebrücke erreichbar ist). Im Winter liegen Sie unter einem der dunkelsten, klarsten Himmel Skandinaviens. Preise ab rund 350–700 $ pro Nacht je nach Zimmer. Für Wintertermine sollten Sie 6–12 Monate im Voraus buchen.
+**Treehotel, Harads, Schwedisch-Lappland** – Eines der architektonisch ehrgeizigsten Baumhaushotels überhaupt. Sieben Zimmer, von verschiedenen Architekten entworfen, eines aufsehenerregender als das andere: der Mirrored Cube, das UFO, das Bird's Nest, der 7th Room (eine Suite auf dem Dach, die über eine Hängebrücke erreichbar ist). Im Winter liegen Sie unter einem der dunkelsten, klarsten Himmel Skandinaviens. Preise ab rund 350–700 $ pro Nacht je nach Zimmer. Für Wintertermine sollten Sie 6–12 Monate im Voraus buchen.
 
 **La Cabane Perchée, Frankreich** – Ein Netz luxuriöser Baumhäuser in mehreren französischen Waldregionen, manche in den Kastanienwäldern des Loiretals, andere in den Eichenhainen der Normandie. Die Qualität der Ausstattung – Himmelbetten, Holzöfen, private Terrassen – ist wirklich herausragend. Preise ab 300–600 € pro Nacht.
 
@@ -66,7 +66,7 @@ Die Zeiten spartanischer Baumhausnächte sind in den Spitzenhäusern weitgehend 
 
 **Free Spirit Spheres, Vancouver Island, Kanada** – Drei hängende Kugelkapseln namens Eve, Eryn und Melody baumeln an Seilen von Douglasien auf Vancouver Island. Luxuriös sind sie nicht (Gemeinschaftsbäder unten, einfache Kochgelegenheiten), doch sie gehören wirklich zu den originellsten Unterkunftskonzepten der Welt. Preise um 200–280 CAD pro Nacht. Buchen Sie Monate im Voraus.
 
-**Costa Rica** – Costa Rica bietet womöglich die weltweit beste Verbindung aus Baumhausunterkunft und Artenvielfalt. Lapa Rios auf der Osa-Halbinsel hat aufgeständerte Bungalows im Kronendach des Regenwalds; kleinere, von den Eigentümern geführte Baumhäuser in den Regionen Monteverde und Arenal bieten ein echtes Eintauchen in die Baumkronen mit außergewöhnlichen Tierbeobachtungen. Die Preise reichen je nach Haus von 150 bis über 600 $ pro Nacht.
+**Costa Rica** – Costa Rica bietet eine hervorragende Verbindung aus Baumhausunterkunft und Artenvielfalt. Lapa Rios auf der Osa-Halbinsel hat aufgeständerte Bungalows im Kronendach des Regenwalds; kleinere, von den Eigentümern geführte Baumhäuser in den Regionen Monteverde und Arenal bieten ein echtes Eintauchen in die Baumkronen mit außergewöhnlichen Tierbeobachtungen. Die Preise reichen je nach Haus von 150 bis über 600 $ pro Nacht.
 
 **USA** – Baumhausunterkünfte boomen in den Vereinigten Staaten. Treehouse Point bei Seattle (sechs Baumhäuser, gebaut von Pete Nelson, bekannt aus der TV-Serie „Treehouse Masters“) ist der Maßstab. Tennessee bietet Dutzende luxuriöse Baumhäuser zur Miete in den Great Smoky Mountains. Die westlichen Cascades und der pazifische Nordwesten laden zum Eintauchen in den Wald ein.
 

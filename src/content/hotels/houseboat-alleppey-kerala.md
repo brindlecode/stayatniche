@@ -29,7 +29,6 @@ bestFor:
   - "Slow travel enthusiasts"
 bookingUrl: https://www.booking.com/
 rating: 9.1
-reviewCount: 2134
 coordinates:
   lat: 9.4981
   lng: 76.3388

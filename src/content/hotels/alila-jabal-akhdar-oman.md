@@ -44,7 +44,6 @@ prosAndCons:
     - Altitude may cause mild breathlessness for some guests on arrival
 bookingUrl: https://www.booking.com/hotel/om/alila-jabal-akhdar.html
 rating: 9.6
-reviewCount: 1567
 seasonalInfo:
   bestTime: October to April for the most comfortable temperatures at altitude
   peakSeason: December to February and Eid holidays
@@ -73,6 +72,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Al+Dakhiliyah+Governorate"
     label: "Find Tours on Klook"
+location:
+  country: "Oman"
+  countryCode: "OM"
+  region: "Ad Dakhiliyah"
+  city: "Jabal Akhdar"
+  locality: "Al Roose"
+  coordinates:
+    lat: 23.140472
+    lng: 57.540044
+niche_scope: entire_property
+niche_feature: "Mountain resort of about 86 suites and villas at roughly 2,000 m in the Al Hajar range; Mr & Mrs Smith and Indagare describe it on a clifftop edge above a precipitous canyon. Hyatt page blocked."
+niche_source_url: "https://www.mrandmrssmith.com/luxury-hotels/alila-jabal-akhdar"
+niche_verified_at: 2026-11-17
 ---
 
 The drive from Nizwa into the Al Hajar Mountains prepares you for Alila Jabal Akhdar, but not quite enough. The road climbs through date-palm oases that give way to raw limestone, then through hairpin bends that open onto canyon views, old stone villages clinging to ridge lines, Omani goats navigating terrain that seems to rule out navigation. At 2,000 metres the plateau opens and the temperature drops ten degrees. The resort appears: a complex of rose-coloured stone and whitewash that sits on the cliff edge as though it grew from it rather than being placed there by a construction crew.

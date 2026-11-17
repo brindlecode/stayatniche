@@ -2,12 +2,12 @@
 source: jungle-lodges
 title: Dschungel-Lodges
 tagline: "Tief im Blätterdach, fern vom Alltag"
-description: "Von Baumkronen-Lodges im Nebelwald Costa Ricas über Flusscamps in Borneo nahe den Orang-Utans bis zu Refugien tief im Amazonasbecken Perus und Brasiliens: Dschungel-Lodges ermöglichen ein Eintauchen in die Artenvielfalt, an das keine andere Unterkunftsform heranreicht. Außergewöhnliche Tierwelt, urzeitliche Klangkulissen und echter Luxus machen diese Aufenthalte im Wald zu den eindrucksvollsten der Welt."
+description: "Von Baumkronen-Lodges im Nebelwald Costa Ricas über Flusscamps in Borneo nahe den Orang-Utans bis zu Refugien tief im Amazonasbecken Perus und Brasiliens: Dschungel-Lodges ermöglichen ein Eintauchen in die Artenvielfalt, an das nur wenige andere Unterkunftsformen heranreichen. Außergewöhnliche Tierwelt, urzeitliche Klangkulissen und echter Luxus machen diese Aufenthalte im Wald zu den eindrucksvollsten der Welt."
 stats:
   topDestination: "Costa Rica"
 seo:
   metaTitle: "Dschungel-Lodges: Luxus im Regenwald | StayAtNiche"
-  metaDescription: "Schlafen im artenreichsten Dschungel der Welt: Luxus-Lodges in Costa Rica, Borneo, am Amazonas und anderswo – Regenwald-Urlaub mit einzigartiger Tierwelt."
+  metaDescription: "Schlafen in einigen der artenreichsten Dschungel der Welt: Luxus-Lodges in Costa Rica, Borneo, am Amazonas und anderswo – Regenwald-Urlaub mit einzigartiger Tierwelt."
 ---
 
 Um fünf Uhr morgens wecken Sie Brüllaffen. Hellrote Aras ziehen am Frühstückstisch vorbei. Jaguarspuren tauchen am Flussufer auf, bevor die Guides ihren Kaffee ausgetrunken haben. Das sind keine Glanzmomente aus dem Werbefilm. In einer guten Dschungel-Lodge mitten im Primärregenwald ist das ein ganz normaler Dienstag.
@@ -30,7 +30,7 @@ Die besten Dschungel-Lodges sind fest in den Naturschutz eingebunden, statt ihm 
 Costa Ricas Nachhaltigkeitszertifikat CST (Certification for Sustainable Tourism) und die Partnerschaft mit der Rainforest Alliance bieten unabhängig überprüfte Maßstäbe. Dieser Unterschied hat praktische Folgen: Lodges, die wirklich im Naturschutz verankert sind, ermöglichen bessere Tierbegegnungen, weil die Tiere gesünder, zahlreicher und weniger an Störungen gewöhnt sind.
 
 
-**Costa Rica** verfügt über die ausgefeilteste Öko-Lodge-Infrastruktur der Welt. Das Nationalparknetz umfasst über 25 % der Landesfläche, und Häuser auf der Halbinsel Osa (neben dem Corcovado-Nationalpark, den National Geographic als artenreichsten Ort der Erde bezeichnete), in Tortuguero und im Nebelwald von Monteverde gehören weltweit zur Spitze der Kategorie.
+**Costa Rica** verfügt über eine hoch entwickelte Öko-Lodge-Infrastruktur. Das Nationalparknetz umfasst über 25 % der Landesfläche, und Häuser auf der Halbinsel Osa (neben dem Corcovado-Nationalpark, den National Geographic als artenreichsten Ort der Erde bezeichnete), in Tortuguero und im Nebelwald von Monteverde zählen weltweit zu den führenden Beispielen der Kategorie.
 
 **Borneo** bietet Begegnungen mit halbwilden Orang-Utans, dazu Nasenaffen, Zwergelefanten und eine der reichsten Vogellisten der Welt. Lodges am Flussufer in Sabah und Sarawak sind hier das übliche Format. **Der peruanische Amazonas**, besonders rund um das Tambopata-Naturreservat bei Puerto Maldonado, zählt zu den intaktesten Abschnitten des Amazonasbeckens – die Lehmlecken, an denen sich Hunderte Aras gleichzeitig versammeln, sind in der Welt der Tierbeobachtung einzigartig.
 

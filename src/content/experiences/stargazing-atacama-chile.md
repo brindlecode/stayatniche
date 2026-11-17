@@ -3,7 +3,7 @@ title: "Stargazing in the Atacama Desert"
 type: adventure
 destination: "San Pedro de Atacama"
 country: "Chile"
-description: "Look up from 2,400 metres altitude in the driest desert on Earth and see the night sky as humans saw it before electricity existed, a Milky Way so dense and three-dimensional that it casts a faint shadow, the Magellanic Clouds visible to the naked eye as satellite galaxies of our own, and the Southern Cross wheeling overhead in a display of cosmic density that professional astronomers travel to the Atacama specifically to access. The world's best night sky is here, and sharing it with an astronomer who knows it intimately is one of travel's most profound experiences."
+description: "Look up from 2,400 metres altitude in the driest desert on Earth and see the night sky as humans saw it before electricity existed, a Milky Way so dense and three-dimensional that it casts a faint shadow, the Magellanic Clouds visible to the naked eye as satellite galaxies of our own, and the Southern Cross wheeling overhead in a display of cosmic density that professional astronomers travel to the Atacama specifically to access. One of the world's best night skies is here, and sharing it with an astronomer who knows it intimately is one of travel's most profound experiences."
 coverImage: /images/experiences/stargazing-atacama-chile.jpg
 booking:
   provider: direct
@@ -11,7 +11,7 @@ booking:
   price: "From $55 per person"
   duration: "3-4 hours (evening)"
 highlights:
-  - "Access the world's clearest night sky from 2,400m altitude in the Atacama"
+  - "Access one of the world's clearest night skies from 2,400m altitude in the Atacama"
   - "Professional telescopes revealing Saturn's rings, nebulae, and star clusters"
   - "Expert astronomer guide explaining the southern sky's mythology and science"
   - "Naked-eye Milky Way, Large and Small Magellanic Clouds, and Southern Cross"
@@ -31,7 +31,6 @@ notIncluded:
   - Meals
   - Accommodation in San Pedro de Atacama
 rating: 9.7
-reviewCount: 2987
 featured: false
 tags:
   - stargazing
@@ -44,7 +43,7 @@ tags:
   - astrophotography
 seo:
   metaTitle: "Stargazing in the Atacama Desert, Chile | StayAtNiche"
-  metaDescription: "Experience the world's clearest night sky from 2,400m in the Atacama Desert. Professional telescopes, expert astronomers, and the Milky Way in full. From $55."
+  metaDescription: "Experience one of the world's clearest night skies from 2,400m in the Atacama Desert. Telescopes, expert astronomers, and the Milky Way in full. From $55."
 ---
 
 The European Southern Observatory chose this location for a reason. The ALMA radio telescope array is here for a reason. The Atacama receives less than one millimetre of rain per year in its interior zones, sits above 2,400 metres, has minimal dust, and has almost no human settlement for hundreds of kilometres. The combination produces atmospheric conditions that professional astronomers rank among the best on Earth for observation. You don't need a PhD to notice the difference.

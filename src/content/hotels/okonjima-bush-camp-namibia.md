@@ -17,7 +17,6 @@ bestFor:
   - "Families"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Okonjima%20Bush%20Camp%2C%20Okonjima%20Nature%20Reserve&adults=2"
 rating: 8.5
-reviewCount: 0
 coordinates:
   lat: -20.8501581
   lng: 16.6662207
@@ -26,6 +25,19 @@ sourceId: "osm:node/3149259778"
 verifiedAt: 2026-10-12
 publishedDate: 2026-10-12
 status: published
+location:
+  country: "Namibia"
+  countryCode: "NA"
+  region: "Otjozondjupa"
+  city: "Otjiwarongo"
+  locality: "Okonjima Nature Reserve"
+  coordinates:
+    lat: -20.8501581
+    lng: 16.6662207
+niche_scope: entire_property
+niche_feature: "Luxury Bush Camp: eight thatched chalets and a Junior Suite (plus three guide/pilot tents) inside the Okonjima Nature Reserve, home to AfriCat; leopard and pangolin tracking."
+niche_source_url: "https://okonjima.com/luxury-bush-camp/"
+niche_verified_at: 2026-11-17
 ---
 
 Okonjima Bush Camp is the traditional safari camp on the Okonjima Nature Reserve, a 22,000-hectare private reserve in Namibia, set at the base of the Omboroko Mountains between Windhoek and Etosha National Park. Okonjima is family-owned and offers five different accommodation options; the Bush Camp is the one built around the classic safari setting.

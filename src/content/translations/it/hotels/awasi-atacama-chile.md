@@ -1,7 +1,7 @@
 ---
 source: awasi-atacama-chile
 destination: San Pedro de Atacama, Antofagasta
-description: "Dodici ville private nell’alto deserto di Atacama, ciascuna con il proprio veicolo e la propria guida privata: il modo più personale di scoprire il deserto non polare più arido del mondo. Saline, geyser, lagune dei fenicotteri e vulcani di 8.000 metri non si condividono con altri ospiti secondo orari fissi, ma si esplorano al tuo ritmo con un esperto dedicato."
+description: "Dodici ville private nell’alto deserto di Atacama, ciascuna con il proprio veicolo e la propria guida privata: un modo molto personale di scoprire il deserto non polare più arido del mondo. Saline, geyser, lagune dei fenicotteri e vulcani di 8.000 metri non si condividono con altri ospiti secondo orari fissi, ma si esplorano al tuo ritmo con un esperto dedicato."
 highlights:
   - Guida e veicolo privati per ogni villa
   - Esplorazione dell’Atacama su misura, senza tour di gruppo

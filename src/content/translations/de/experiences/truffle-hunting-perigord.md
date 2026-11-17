@@ -2,7 +2,7 @@
 source: truffle-hunting-perigord
 title: "Trüffelsuche im Périgord"
 destination: "Périgord Noir, Dordogne"
-description: "Streifen Sie mit einem ausgebildeten Hund und einem leidenschaftlichen Trüffelbauern durch uralte Eichenwälder in Frankreichs berühmtestem Trüffelland – mit der Chance, den schwarzen Diamanten der französischen Küche zu heben: die Périgord-Trüffel, Tuber melanosporum, nur wenige Zentimeter unter der Oberfläche jahrhundertealter Flaumeichenhaine. Dieses halbtägige Erlebnis verbindet den Nervenkitzel der Suche mit einer persönlichen Einführung in eine der exklusivsten Esskulturen der Welt und einer Verkostung, die Ihr Verhältnis zu dieser außergewöhnlichen Zutat für immer verändern wird."
+description: "Streifen Sie mit einem ausgebildeten Hund und einem leidenschaftlichen Trüffelbauern durch uralte Eichenwälder in einer der bekanntesten Trüffelregionen Frankreichs – mit der Chance, den schwarzen Diamanten der französischen Küche zu heben: die Périgord-Trüffel, Tuber melanosporum, nur wenige Zentimeter unter der Oberfläche jahrhundertealter Flaumeichenhaine. Dieses halbtägige Erlebnis verbindet den Nervenkitzel der Suche mit einer persönlichen Einführung in eine der exklusivsten Esskulturen der Welt und einer Verkostung, die Ihr Verhältnis zu dieser außergewöhnlichen Zutat für immer verändern wird."
 booking:
   price: "ab 120 $ pro Person"
   duration: "Halbtägig (3–4 Stunden)"

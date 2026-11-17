@@ -110,8 +110,8 @@ Kinloch Lodge, at the head of Loch na Dal on Skye's Sleat peninsula, has been ma
 Scotland's whisky culture adds an extraordinary dimension to any Highland itinerary. Speyside, the valley of the River Spey, between Inverness and Aberdeen, contains the highest concentration of whisky distilleries in the world: Glenfiddich, The Macallan, Glenlivet, Glenfarclas, and dozens more are within driving distance of each other.
 
 The best distillery experiences:
-- **The Macallan Estate, Speyside:** The new visitor centre by Rog Partnership is one of the world's most extraordinary distillery buildings, a grass-roofed structure that seems to grow from the hillside above the distillery. Private tasting experiences from £200/person.
-- **Glenfiddich, Dufftown:** Family-owned, the world's most visited single malt distillery. The Pioneering tour gives access to warehouses and experimental cask programs.
+- **The Macallan Estate, Speyside:** The new visitor centre by Rog Partnership is a striking distillery building, a grass-roofed structure that seems to grow from the hillside above the distillery. Private tasting experiences from £200/person.
+- **Glenfiddich, Dufftown:** Family-owned, one of the most visited single malt distilleries. The Pioneering tour gives access to warehouses and experimental cask programs.
 - **Springbank, Campbeltown:** Scotland's most traditional distillery, in the Kintyre peninsula, one of the few remaining floor-maltings and fully vertically integrated operations. Small, expert tours; book in advance.
 
 For dedicated whisky travel, the Spirit of Speyside Whisky Festival (early May) and the Islay Festival of Music and Malt (late May) offer access to distilleries and experiences not available at other times.
@@ -149,7 +149,7 @@ Scotland's Highland landscape supports some of Britain's finest outdoor experien
 
 
 
-For historical authenticity and landscape drama: Inverlochy Castle Hotel at the foot of Ben Nevis is widely considered the finest Highland castle hotel. For cultural richness and contemporary art: The Fife Arms in Braemar is without peer. For grand resort facilities: Gleneagles has no equal in Scotland.
+For historical authenticity and landscape drama: Inverlochy Castle Hotel at the foot of Ben Nevis is one of the most highly regarded Highland castle hotels. For cultural richness and contemporary art: The Fife Arms in Braemar stands out. For grand resort facilities: Gleneagles is Scotland's best-known grand resort.
 
 
 A car is strongly recommended for any Highland or island itinerary. Scotland's public transport is improving (ScotRail serves major towns; the Caledonian Sleeper provides overnight service from London to Fort William, Inverness, and Aberdeen) but the most extraordinary destinations, Torridon, Harris, the Ardnamurchan Peninsula, are inaccessible without a car.

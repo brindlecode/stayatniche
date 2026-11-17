@@ -7,7 +7,7 @@ stats:
   topDestination: "Kappadokien, Türkei"
 seo:
   metaTitle: "Höhlenhotels: Luxus im Fels weltweit | StayAtNiche"
-  metaDescription: "Schlafen im Fels: die schönsten Höhlenhotels der Welt – von Kappadokien über Santorin bis Matera. Natürlich kühle, stimmungsvolle Höhlensuiten entdecken."
+  metaDescription: "Schlafen im Fels: besondere Höhlenhotels – von Kappadokien über Santorin bis Matera. Natürlich kühle, stimmungsvolle Höhlensuiten entdecken."
 ---
 
 Kappadokien ist seit über 2.000 Jahren besiedelt, und archäologische Funde belegen menschliche Spuren in seinen Höhlensystemen, die noch deutlich weiter zurückreichen. Der vulkanische Tuff der Region – von der Erosion zu den berühmten Feenkaminen und dramatischen Tälern geformt – eignete sich ideal zum Wohnen im Fels: weich genug, um ihn mit einfachen Werkzeugen zu bearbeiten, und doch an der Luft zu beständigen, temperaturstabilen Wohnräumen aushärtend. Die Höhlenhotels hier sind also keine Kuriositäten, sondern die jüngste Ausprägung einer sehr langen Tradition.
@@ -22,7 +22,7 @@ Echte Höhlenzimmer sind direkt in natürliche Felsformationen gehauen: Wände, 
 
 Das Licht in Höhlenzimmern ist etwas ganz Eigenes. Tageslicht fällt durch gehauene Türöffnungen und Fensternischen ein, in Winkeln, die die ursprüngliche Felswand bestimmt und nicht der Plan eines Architekten. Zu bestimmten Tageszeiten ist das Ergebnis schlicht wunderschön. Manche Gäste fürchten vor der Anreise Beklemmungen, doch ein gut umgebautes Höhlenzimmer wirkt meist eher großzügig als eng. Die enorme Dicke der Felswände vermittelt ein tiefes Gefühl von Geborgenheit – die meisten Gäste empfinden sie als beruhigend, nicht als bedrückend.
 
-**Kappadokien, Türkei** ist mit großem Abstand die Welthauptstadt der Höhlenhotels. In Göreme, Uçhisar und Ürgüp reicht das Angebot von kleinen Gästehäusern bis zu Fünf-Sterne-Hotels mit Infinity-Pools auf dem Dach, die über die fast außerirdisch wirkende Landschaft blicken. Ballonfahrten bei Sonnenaufgang über den Feenkaminen gehören zu den großen Schauspielen des Reisens – buchen Sie sie getrennt von der Unterkunft, denn die Nachfrage ist enorm und die Plätze sind schnell vergeben.
+**Kappadokien, Türkei** ist das bekannteste Zentrum der Höhlenhotels. In Göreme, Uçhisar und Ürgüp reicht das Angebot von kleinen Gästehäusern bis zu Fünf-Sterne-Hotels mit Infinity-Pools auf dem Dach, die über die fast außerirdisch wirkende Landschaft blicken. Ballonfahrten bei Sonnenaufgang über den Feenkaminen gehören zu den großen Schauspielen des Reisens – buchen Sie sie getrennt von der Unterkunft, denn die Nachfrage ist enorm und die Plätze sind schnell vergeben.
 
 **Santorin, Griechenland** bietet Höhlensuiten, die in den Rand der vulkanischen Caldera gehauen sind, mit Terrassen über einem der spektakulärsten Meeresblicke der Welt. Die Höhlenästhetik verbindet sich mit weiß getünchter kykladischer Architektur – und das Ergebnis ist, ehrlich gesagt, genau so schön wie auf den Fotos.
 

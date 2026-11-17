@@ -22,7 +22,6 @@ bestFor:
   - "Hikers and cross-country skiers"
 bookingUrl: "https://vagonynahorach.cz/"
 rating: 8.6
-reviewCount: 0
 coordinates:
   lat: 50.4301747
   lng: 13.0354842
@@ -31,6 +30,19 @@ sourceId: "osm:node/9549364464"
 verifiedAt: 2026-11-15
 publishedDate: 2026-11-15
 status: published
+location:
+  country: "Czechia"
+  countryCode: "CZ"
+  region: "Ústí nad Labem Region"
+  city: "Kovářská"
+  locality: "Kovářská railway station"
+  coordinates:
+    lat: 50.4301747
+    lng: 13.0354842
+niche_scope: specific_rooms
+niche_feature: "Four retired railway wagons (Alois, Fanynka, Lesní, Přednostův) on the unused fourth track at Kovářská station, fitted as insulated studios. A fifth stay, Vechtrovna, is a former trackman's house, not a wagon."
+niche_source_url: "https://vagonynahorach.cz/"
+niche_verified_at: 2026-11-17
 ---
 
 At Kovářská, a small railway station on the ridge of the Ore Mountains, a few retired railway wagons stand on the unused fourth track and now serve as places to sleep. The station is 850 metres above sea level, surrounded by forest, and the owners describe the stay as a dose of railway-station romance in the mountains.

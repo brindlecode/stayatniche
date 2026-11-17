@@ -1,0 +1,292 @@
+[
+ {
+  "slug": "melville-castle-united-kingdom",
+  "name": "Melville Castle",
+  "official_url": "http://melvillecastle.com/",
+  "source_url": "http://melvillecastle.com/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Guests stay in the 33 bedrooms and suites of the castle itself, a Gothic castle-style mansion of 1786-91 (the medieval tower castle on the site was demolished in 1780), in a 54-acre estate.",
+  "evidence_quote": "Each of the castle's 33 bedrooms and suites are unique – many have four-poster beds and all have been dramatically revamped.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Rooms are in the castle building; it is a late-18th-century Gothic castellated mansion rather than a medieval keep, but is the castle itself.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Scotland",
+   "city": "Lasswade",
+   "locality": "Melville Castle estate"
+  },
+  "page_issues": [
+   "Present castle is an 18th-century Gothic mansion (Wikipedia calls it a mansion), not medieval; page says 'three-storey Gothic castle'",
+   "'Rooms beneath the turrets' not found on the official homepage (unverified)",
+   "Mary Queen of Scots visits are the hotel's own marketing claim"
+  ]
+ },
+ {
+  "slug": "otterburn-castle-country-house-hotel-united-kingdom",
+  "name": "Otterburn Castle Country House Hotel",
+  "official_url": "https://www.otterburncastle.com/",
+  "source_url": "https://keystothepast.info/Site-Details?PRN=N8287",
+  "source_type": "other",
+  "niche_scope": "unverified",
+  "niche_feature": "Could not confirm. Official site returns 'Private Site' (HTTP 401). Heritage record: castellated country house rebuilt in 1830, 'site of 13th century pele tower'; surviving medieval fabric disputed between sources.",
+  "evidence_quote": "Country house, now a hotel, and site of 13th century pele tower.",
+  "operating": "unknown",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": "castle-hotels",
+  "reason": "Official site inaccessible; sources describe a castellated 1830 country house on a pele-tower site with conflicting evidence of surviving castle fabric and a past sale listing.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "England",
+   "city": "Otterburn",
+   "locality": null
+  },
+  "page_issues": [
+   "Present building is an 1830 castellated country house; Northumberland HER says 'No remains of the Peel can be seen' while Wikipedia says part of the old castle walls survive",
+   "'Norman stronghold founded in 1086' refers to the site's earlier castle, not the building guests sleep in",
+   "Official website not accessible and trading status could not be confirmed; hotel was reported marketed for sale (undated)"
+  ]
+ },
+ {
+  "slug": "peckforton-castle-united-kingdom",
+  "name": "Peckforton Castle",
+  "official_url": "https://www.peckfortoncastle.co.uk/",
+  "source_url": "https://www.peckfortoncastle.co.uk/hotel",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "The 48 bedrooms and suites (including Tower Suites) are in the Grade I Victorian castle of 1851; The Lodge and The Retreat are separate group-accommodation houses on the estate.",
+  "evidence_quote": "Peckforton Castle is an authentic Victorian castle built in 1851 to recreate a medieval fortress.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Genuine Victorian castle with towers and battlements; guest bedrooms are in the castle, with separate lodge/retreat houses for groups.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "England",
+   "city": "Tarporley",
+   "locality": "Peckforton"
+  },
+  "page_issues": [
+   "'Only intact medieval-style castle in England' is the owner's own claim (page attributes it)",
+   "Page description says 48 bedrooms 'inside and around' the castle; official site lists 48 bedrooms plus separate Lodge and Retreat group houses"
+  ]
+ },
+ {
+  "slug": "real-castello-italy",
+  "name": "Real Castello",
+  "official_url": "https://realcastello.com/albergo/",
+  "source_url": "https://realcastello.com/albergo/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Six rooms (2 suites, 3 junior suites, 1 double) on the upper floors of the Verduno castle wing; other rooms are in the adjacent Castalderia and Nando Foresteria annexes.",
+  "evidence_quote": "ai piani superiori 6 camere, tra le quali 2 Suite, 3 Junior Suite ed una camera doppia.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Genuine castle wing with six guest rooms; the remaining rooms are in annexes.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Piedmont",
+   "city": "Verduno",
+   "locality": "Langhe"
+  },
+  "page_issues": []
+ },
+ {
+  "slug": "scargill-castle-united-kingdom",
+  "name": "Scargill Castle",
+  "official_url": "https://www.scargillcastle.com/",
+  "source_url": "https://www.scargillcastle.com/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "One self-catering unit for two inside the restored 1550 Tudor castle (surviving three-storey gatehouse) with its own courtyard garden; the whole bookable property is the castle.",
+  "evidence_quote": "Built in 1550 on the site of an earlier medieval castle, it has recently been restored from a crumbling ruin into a delightful retreat for two",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Scheduled-monument castle restored as a single self-catering unit; guests sleep in the castle.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "England",
+   "city": "Barnard Castle",
+   "locality": "Scargill"
+  },
+  "page_issues": [
+   "Self-catering for two, not a hotel; official site header gives 'North Yorkshire' (historic county) while page says County Durham"
+  ]
+ },
+ {
+  "slug": "schloss-hotel-korb-italy",
+  "name": "Schloss Hotel Korb",
+  "official_url": "https://www.schloss-hotel-korb.com/",
+  "source_url": "https://www.schloss-hotel-korb.com/de/zimmer-suiten-neu",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Castle suites (about 40 m2, most in the historic Wohnturm/castle) and some comfort doubles are in the castle; panorama suites, exclusive doubles, South Tyrolean and garden suites are in the newer Residence.",
+  "evidence_quote": "Circa 40 m2 | für bis zu vier Personen | in allen Stockwerken im Schloss und Wohnturm",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Genuine castle with historic castle suites, but several room types are in the modern residence building.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "South Tyrol",
+   "city": "Eppan",
+   "locality": "Missian"
+  },
+  "page_issues": []
+ },
+ {
+  "slug": "schloss-hotel-wehrburg-italy",
+  "name": "Schloss Hotel Wehrburg",
+  "official_url": "https://www.wehrburg.com/",
+  "source_url": "https://www.wehrburg.com/zimmer/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "All 20 rooms (3 single, 17 double) are inside the medieval castle, in the two 18 m towers and the palas; seasonal opening, 2026 season ended 25 October, 2027 opens 15 April.",
+  "evidence_quote": "unsere Einzel- und Doppelzimmer sowohl in den Türmen der Wehrburg,als auch im Palas des Schlosses.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Every guest room is within the genuine medieval castle (towers and palas).",
+  "treehouse_structure": null,
+  "location": {
+   "region": "South Tyrol",
+   "city": "Tisens",
+   "locality": "Prissian"
+  },
+  "page_issues": []
+ },
+ {
+  "slug": "star-castle-hotel-united-kingdom",
+  "name": "Star Castle Hotel",
+  "official_url": "https://star-castle.co.uk/",
+  "source_url": "https://star-castle.co.uk/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Castle Rooms, Superior Castle Rooms, a single and three Guard Rooms on the ramparts are in the 1593 Grade I fortress; Garden Rooms and Suites are separate newer cottage-style rooms in the grounds.",
+  "evidence_quote": "traditional sixteenth century castle accommodation",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Genuine Elizabethan star fort (Grade I) with castle rooms; garden rooms are separate. Official site blocked curl (403), read via WebFetch.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "England",
+   "city": "Hugh Town",
+   "locality": "St Mary's, Isles of Scilly"
+  },
+  "page_issues": [
+   "Room split between castle and garden rooms not given by the official site, so the castle-room count cannot be confirmed"
+  ]
+ },
+ {
+  "slug": "stonefield-castle-united-kingdom",
+  "name": "Stonefield Castle",
+  "official_url": "https://bespokehotels.com/stonefieldcastle/",
+  "source_url": "https://bespokehotels.com/stonefieldcastle/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Hotel in the 1837 Scottish baronial castle-style mansion by Playfair; official page gives 38 en-suite bedrooms but does not itemise which wing each is in.",
+  "evidence_quote": "a fine example of Scottish baronial architecture",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Hotel occupies the baronial 'castle' house itself; Victorian castle-style rather than medieval. Site is behind Cloudflare, read via WebFetch.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Scotland",
+   "city": "Tarbert",
+   "locality": "Stonefield"
+  },
+  "page_issues": [
+   "Official page states 38 bedrooms; the .md page gives no room count",
+   "Not a medieval fortress (page itself says Victorian baronial house)"
+  ]
+ },
+ {
+  "slug": "the-castle-hotel-taunton-united-kingdom",
+  "name": "The Castle Hotel",
+  "official_url": "https://www.the-castle-hotel.com/",
+  "source_url": "https://www.the-castle-hotel.com/about-us/",
+  "source_type": "official",
+  "niche_scope": "unverified",
+  "niche_feature": "Not a castle keep: a late-18th-century crenellated hotel (upper floor added in the 20th century) on the castle's outer ward, incorporating Castle Bow, the 13th-century east gate. Guests sleep in the hotel, not the medieval castle.",
+  "evidence_quote": null,
+  "operating": "open",
+  "verdict": "draft",
+  "new_category": null,
+  "closest_category": "castle-hotels",
+  "reason": "Listing dates the hotel front to late C18 with a crenellated wing; only the Castle Bow gate is medieval. Not a genuine castle stay.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "England",
+   "city": "Taunton",
+   "locality": "Castle Green"
+  },
+  "page_issues": [
+   "'18th-century reconstruction of Taunton's Norman castle' overstates it: the listing says main front is probably late C18 with a crenellated wing",
+   "Hotel's own history page narrates the Norman castle's keep as 'The Castle's' history although the keep is no longer part of the hotel"
+  ]
+ },
+ {
+  "slug": "torrisdale-castle-estate-united-kingdom",
+  "name": "Torrisdale Castle Estate",
+  "official_url": "https://www.torrisdalecastle.com/",
+  "source_url": "https://www.torrisdalecastle.com/self-catering/the-servants-quarters/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Only The Servants' Quarters (sleeps 6, three bedrooms) is in the Gothic castle of 1815; the two cottages and two eco-bothies elsewhere on the estate are not in the castle.",
+  "evidence_quote": "The Servants’ Quarters is located on the ground floor of the Castle",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Castle is genuine (1815 Scottish Gothic) but only one of five self-catering units is inside it.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Scotland",
+   "city": "Carradale",
+   "locality": "Torrisdale"
+  },
+  "page_issues": [
+   "Self-catering units, not a hotel"
+  ]
+ },
+ {
+  "slug": "tulloch-castle-hotel-united-kingdom",
+  "name": "Tulloch Castle Hotel",
+  "official_url": "https://bespokehotels.com/tullochcastlehotel",
+  "source_url": "https://bespokehotels.com/tullochcastlehotel",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Hotel operating as Tulloch Castle with 22 en-suite bedrooms; castle with restored original fireplaces, ceilings and panelled Great Hall. Official page does not state which wing each bedroom is in. Site is behind Cloudflare, read via WebFetch.",
+  "evidence_quote": "Tulloch Castle dates from the 12th century, when the Bains and later the Clan Davidson laid claim to its lands.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "The hotel is the historic castle itself (Wikipedia: Highland castle, late 14th century origin, extended 1891).",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Scotland",
+   "city": "Dingwall",
+   "locality": null
+  },
+  "page_issues": [
+   "12th-century date is the hotel's claim; Wikipedia says the castle 'likely dates to at least the late 14th century'",
+   "Present building was damaged by fire in 1845 and extended in 1891"
+  ]
+ }
+]

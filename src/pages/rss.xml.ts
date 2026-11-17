@@ -20,7 +20,7 @@ export const GET: APIRoute = async () => {
   <channel>
     <title>StayAtNiche Blog</title>
     <link>${SITE}/blog/</link>
-    <description>Guides to the world's most unusual hotels: treehouses, caves, underwater rooms, safari lodges and more.</description>
+    <description>Guides to unusual hotels around the world: treehouses, caves, underwater rooms, safari lodges and more.</description>
     <language>en-us</language>
     <atom:link href="${SITE}/rss.xml" rel="self" type="application/rss+xml" />
 ${items}

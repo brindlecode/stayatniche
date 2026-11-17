@@ -16,7 +16,7 @@ Ce qui distingue les meilleurs châteaux-hôtels des simples demeures historique
 ---
 
 
-L'Écosse peut légitimement prétendre au titre de première destination mondiale pour dormir dans un château. Son histoire tumultueuse (des siècles de guerres de clans, de conflits anglo-écossais et les bouleversements des Highland Clearances) a laissé une concentration extraordinaire de demeures fortifiées, dont beaucoup ont été transformées en hôtels de qualité et de prix très variables.
+L'Écosse peut légitimement prétendre au titre de l'une des premières destinations mondiales pour dormir dans un château. Son histoire tumultueuse (des siècles de guerres de clans, de conflits anglo-écossais et les bouleversements des Highland Clearances) a laissé une concentration extraordinaire de demeures fortifiées, dont beaucoup ont été transformées en hôtels de qualité et de prix très variables.
 
 
 Unanimement considéré comme le plus beau château-hôtel d'Écosse, Inverlochy se dresse au pied du Ben Nevis, dans les Highlands, au milieu d'un domaine privé de 500 acres. Construit en 1863 dans le style baronnial écossais pour le premier Lord Abinger, le château est un hôtel depuis 1969 et compte aujourd'hui parmi les adresses les plus célèbres d'Écosse. La reine Victoria y séjourna en 1873 et décrivit dans son journal la vue comme la plus belle qu'elle ait jamais vue dans les Highlands.

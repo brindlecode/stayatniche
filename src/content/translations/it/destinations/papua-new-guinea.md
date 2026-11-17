@@ -1,7 +1,7 @@
 ---
 source: papua-new-guinea
 name: "Papua Nuova Guinea"
-description: "La Papua Nuova Guinea è una delle ultime vere frontiere di viaggio della Terra: un’isola immensa di montagne coperte di foresta pluviale, culture tribali remote e alcuni degli ambienti marini più incontaminati e ricchi di biodiversità del pianeta. Per chi cerca un isolamento autentico, incontri culturali straordinari e immersioni eccezionali in un contesto del tutto intatto, la PNG resta una categoria a sé."
+description: "La Papua Nuova Guinea è una delle ultime vere frontiere di viaggio della Terra: un’isola immensa di montagne coperte di foresta pluviale, culture tribali remote e alcuni degli ambienti marini più incontaminati e ricchi di biodiversità del pianeta. Per chi cerca un isolamento autentico, incontri culturali straordinari e immersioni eccezionali in un contesto del tutto intatto, la PNG resta una destinazione diversa dalla maggior parte delle altre."
 essentials:
   currency: "PGK (kina papuana); i dollari USA sono accettati nei grandi hotel e nei resort per subacquei"
   language: "Tok pisin (creolo), inglese e hiri motu (tutti ufficiali); oltre 800 lingue indigene"

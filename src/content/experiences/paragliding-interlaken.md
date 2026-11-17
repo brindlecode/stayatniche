@@ -30,7 +30,6 @@ notIncluded:
   - Additional professional photography packages
   - Accommodation
 rating: 9.6
-reviewCount: 3891
 featured: false
 tags:
   - paragliding

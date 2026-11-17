@@ -7,7 +7,7 @@ stats:
   topDestination: "Santorini, Griekenland"
 seo:
   metaTitle: "Klifhotels met adembenemend uitzicht | StayAtNiche"
-  metaDescription: "Slapen aan de rand van een klif: de mooiste klifhotels ter wereld, van Santorini en de Skylodge in Peru tot Alila Jabal Akhdar in Oman. Luxe met weids uitzicht."
+  metaDescription: "Slapen aan de rand van een klif: bijzondere klifhotels, van Santorini en de Skylodge in Peru tot Alila Jabal Akhdar in Oman. Luxe met weids uitzicht."
 ---
 
 Een hotel op een heuvel ligt hoog. Een hotel op een klif heeft iets heel anders: een duizelingwekkende openheid, een loodrechte val die de lucht anders laat aanvoelen, de horizon dichterbij brengt en het uitzicht als verdiend laat voelen. Echte klifhotels worden bepaald door geologische feiten: de klif dicteert de architectuur die nodig is om er te bouwen, de techniek om het gebouw overeind te houden en het specifieke gevoel van leven op de grens tussen vaste grond en open lucht.
@@ -16,7 +16,7 @@ Niet elk hotel 'op de klif' telt mee. Een hotel op een zachte kusthelling met ze
 
 De architectonische gevolgen zijn groot. Bouwen tegen een echte rotswand vraagt om uitkragende constructies die kamers voorbij de rots laten steken, funderingen die in levend gesteente zijn verankerd in plaats van in voorbereide grond, en trapsgewijs aflopende plattegronden waarin elke verdieping een ander uitzichtpunt heeft. Die beperkingen worden het ontwerp. De meest overtuigende klifhotels bestaan alleen in hun specifieke vorm omdat de plek om specifieke architectonische oplossingen vroeg, die geen andere aanpak had opgeleverd.
 
-**Skylodge Adventure Suites in de Heilige Vallei van Peru** is de meest extreme uitvoering in de categorie. Drie doorzichtige capsules zijn vastgeschroefd aan een loodrechte granietwand in de Andes en alleen bereikbaar via een via ferrata – een klimroute met vaste staalkabels – of per tokkelbaan van bovenaf. Gasten slapen op hoogte, hangend boven de vallei, met een panorama van 300 graden door wanden van transparant acryl. Niets voor bangeriken, maar werkelijk met geen enkel ander hotel op aarde te vergelijken.
+**Skylodge Adventure Suites in de Heilige Vallei van Peru** is de meest extreme uitvoering in de categorie. Drie doorzichtige capsules zijn vastgeschroefd aan een loodrechte granietwand in de Andes en alleen bereikbaar via een via ferrata – een klimroute met vaste staalkabels – of per tokkelbaan van bovenaf. Gasten slapen op hoogte, hangend boven de vallei, met een panorama van 300 graden door wanden van transparant acryl. Niets voor bangeriken, maar een werkelijk bijzondere hotelervaring.
 
 **Alila Jabal Akhdar in Oman** ligt op een plateau op 2000 meter hoogte boven de Al Hajar-kloof, een van de spectaculairste berglandschappen van het Arabisch Schiereiland. De infinitypool lijkt direct boven de kloof te zweven, die onder de rand van het zwembad wegvalt. Het uitzicht reikt over wanden van roze en grijze kalksteen van 1500 meter tot diep in het dal. Wind, hoogte en geologische schaal zorgen samen voor een grootsheid die maar weinig hotels ter wereld evenaren.
 

@@ -1,25 +1,25 @@
 ---
 source: luxury-glamping-guide-worldwide
-title: "Luxe glamping: de bijzonderste tentenkampen en safari-achtige retreats ter wereld"
-excerpt: "Luxe glamping is allang meer dan een klokkentent in een weiland. Dit zijn de bijzonderste tentenkampen ter wereld, van koepels in Patagonië tot klassieke kampen in de Serengeti."
+title: "Luxe glamping: bijzondere tentenkampen en safari-achtige retreats wereldwijd"
+excerpt: "Luxe glamping is allang meer dan een klokkentent in een weiland. Dit zijn bijzondere tentenkampen, van koepels in Patagonië tot klassieke kampen in de Serengeti."
 seo:
-  metaTitle: "Luxe glamping: de mooiste tentenkampen | StayAtNiche"
-  metaDescription: "De beste luxe glamping ter wereld: bijzondere tentenkampen van Patagonië tot de Serengeti, van woestijnkampen in Rajasthan tot Uluru, met prijzen en boektips."
+  metaTitle: "Luxe glamping: bijzondere tentenkampen | StayAtNiche"
+  metaDescription: "Luxe glamping met karakter: bijzondere tentenkampen van Patagonië tot de Serengeti, van woestijnkampen in Rajasthan tot Uluru, met prijzen en boektips."
 ---
 
 Het woord 'glamping' is misschien wat al te vaak gebruikt, voor alles van een iets opgeknapt kampeerveld tot een Instagramdecor van Kylie Jenner. Maar het idee waar het oorspronkelijk voor stond, blijft echt bijzonder: een overnachting die je de emotionele waarheid geeft van slapen onder canvas, onder de sterren, op een wilde plek, zonder dat je hoeft in te leveren op comfort, keuken of warmte.
 
 Op zijn best doet luxe glamping iets wat hotels noch gewoon kamperen voor elkaar krijgen. Het zet je precies op het snijvlak van wildernis en beschaving: dicht genoeg bij leeuwen om ze 's nachts te horen, ver genoeg van de bewoonde wereld om de Melkweg in zijn volle boog te zien, maar met een echt bed, een sommelier en een ingelaten bad als je terugkomt van de middagsafari.
 
-Deze gids zet de mooiste voorbeelden ter wereld op een rij, ingedeeld naar regio en type, met een eerlijk oordeel over wat elk adres onderscheidt.
+Deze gids zet voorbeelden van over de hele wereld op een rij, ingedeeld naar regio en type, met een eerlijk oordeel over wat elk adres onderscheidt.
 
 ---
 
 
-Het concept van het luxe tentenkamp is in feite uitgevonden door de Oost-Afrikaanse safari-industrie, en de beste Afrikaanse kampen zijn wereldwijd nog altijd de maatstaf voor deze vorm van overnachten.
+Het concept van het luxe tentenkamp is in feite uitgevonden door de Oost-Afrikaanse safari-industrie, en de beste Afrikaanse kampen zijn nog altijd een maatstaf voor deze vorm van overnachten.
 
 
-Het kamp van Singita Grumeti in de westelijke corridor van de Serengeti is, volgens wie zowel de allerbeste als de gewoon heel goede kampen kent, het mooiste tentenkamp van Afrika en misschien wel het mooiste luxekamp ter wereld.
+Het kamp van Singita Grumeti in de westelijke corridor van de Serengeti hoort bij de hoogst aangeschreven tentenkampen van Afrika.
 
 Het kamp ligt in een privéconcessie van 350.000 acre op de westelijke route van de Grote Migratie, een landschap waar tussen juni en oktober enorme kuddes gnoes en zebra's doorheen trekken, gevolgd door de roofdieren die met ze meetrekken. De 10 tentsuites staan op verhoogde houten platforms boven de rivier de Grumeti, elk met een eigen terras, een eigen dompelbad en vrij uitzicht op de bush. Binnen: echte bedden, echte badkamers, een schrijftafel en een kleedkamer. Een hotelkamer, maar dan met canvas wanden en uitzicht op de Afrikaanse bush.
 
@@ -142,7 +142,7 @@ De beste luxe tentenkampen hebben een paar kenmerken gemeen die ze van hotels on
 
 
 
-In de beste kampen (Singita, Aman-i-Khás, Longitude 131°) is het antwoord volmondig ja. De bedden zijn fantastisch, de badkamers goed uitgerust en het eten is uitstekend. Het verschil met een gewone hotelkamer zit niet in het comfort, maar in de zintuiglijke ervaring van de omgeving: de geluiden, geuren, temperaturen en de aanblik van echte wildernis. Het is een aanvulling op comfort, geen vervanging ervan.
+In kampen van topniveau (Singita, Aman-i-Khás, Longitude 131°) is het antwoord ja. De bedden zijn fantastisch, de badkamers goed uitgerust en het eten is uitstekend. Het verschil met een gewone hotelkamer zit niet in het comfort, maar in de zintuiglijke ervaring van de omgeving: de geluiden, geuren, temperaturen en de aanblik van echte wildernis. Het is een aanvulling op comfort, geen vervanging ervan.
 
 
 In de praktijk zit het verschil vooral in de bouw: een 'lodge' heeft vaste muren (steen, hout, riet), terwijl een glampinglocatie of 'tented camp' voor ten minste een deel van de wanden canvas gebruikt. Luxeniveau, activiteitenprogramma's en prijzen overlappen sterk. Veel van de beste Afrikaanse adressen zijn tentenkampen met een service die gelijk is aan of beter dan die van concurrerende lodges.

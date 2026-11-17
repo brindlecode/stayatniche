@@ -22,7 +22,6 @@ bestFor:
   - "Balloon watchers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Vintage%20Cave%20House%2C%20G%C3%B6reme&adults=2"
 rating: 8.3
-reviewCount: 0
 coordinates:
   lat: 38.6415121
   lng: 34.8270008
@@ -31,6 +30,19 @@ sourceId: "osm:node/13592001101"
 verifiedAt: 2026-10-09
 publishedDate: 2026-10-09
 status: published
+location:
+  country: "Turkey"
+  countryCode: "TR"
+  region: "Nevşehir"
+  city: "Göreme"
+  locality: "Orta Mahalle"
+  coordinates:
+    lat: 38.6415121
+    lng: 34.8270008
+niche_scope: specific_rooms
+niche_feature: "Five-generation family house in Göreme turned boutique hotel in 2015 with 4 restored cave rooms and 5 stone rooms; home page says the cave rooms are carved into ancient rocks."
+niche_source_url: "https://vintagecavehouse.com/about-us/"
+niche_verified_at: 2026-11-17
 ---
 
 Vintage Cave House begins with an old Göreme house that has been the family's home for five generations. It has since become a boutique hotel, and it is open about its mix: four carved cave rooms and five stone rooms. If your goal is a room cut into the rock, ask for one of the cave rooms.

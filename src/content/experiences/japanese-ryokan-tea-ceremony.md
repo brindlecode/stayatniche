@@ -30,7 +30,6 @@ notIncluded:
   - Personal travel insurance
   - Sake or additional drink orders
 rating: 9.6
-reviewCount: 423
 featured: false
 tags:
   - tea-ceremony

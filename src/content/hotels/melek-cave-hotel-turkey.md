@@ -25,7 +25,6 @@ bestFor:
   - "Walkers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Melek%20Cave%20Hotel%2C%20G%C3%B6reme&adults=2"
 rating: 8
-reviewCount: 0
 coordinates:
   lat: 38.6420254
   lng: 34.8325991
@@ -34,6 +33,19 @@ sourceId: "osm:node/368291602"
 verifiedAt: 2026-10-09
 publishedDate: 2026-10-09
 status: published
+location:
+  country: "Turkey"
+  countryCode: "TR"
+  region: "Nevşehir"
+  city: "Göreme"
+  locality: "Gafeli neighbourhood"
+  coordinates:
+    lat: 38.6420254
+    lng: 34.8325991
+niche_scope: entire_property
+niche_feature: "Official site states every room is carved from rock; six cave room types listed (Deluxe Cave, Cave Double, Arch Twin, Double Cave, Cave Triple, Cave Family). Site was unreachable by curl; read via WebFetch."
+niche_source_url: "https://melekcave.com/"
+niche_verified_at: 2026-11-17
 ---
 
 Melek Cave Hotel is in the middle of historic Göreme, surrounded by fairy chimneys. Its website says that every room is carved from the rock and furnished individually, which makes it one of the plainest examples of a whole-property cave hotel in the town.

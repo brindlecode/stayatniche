@@ -15,7 +15,7 @@ mustSee:
   - "Le trek des gorilles des montagnes dans la forêt impénétrable de Bwindi, une heure qui change réellement une vie auprès d'une famille de gorilles"
   - "L'habituation des chimpanzés dans la forêt de Kibale, suivre une famille de chimpanzés sauvages de l'aube au crépuscule avec les chercheurs"
   - "Le parc national Queen Elizabeth, les lions grimpeurs du secteur d'Ishasha et les safaris en bateau sur le canal de Kazinga"
-  - "Les chutes Murchison, la cascade la plus puissante du monde, où le Nil s'engouffre dans une gorge de 7 mètres"
+  - "Les chutes Murchison, l'une des cascades les plus puissantes du monde, où le Nil s'engouffre dans une gorge de 7 mètres"
   - "La source du Nil, à Jinja, le point exact où le Nil quitte le lac Victoria, avec du rafting en eaux vives"
   - "Les monts Rwenzori, les « montagnes de la Lune », avec des treks sur glacier sous l'équateur"
 travelTips:
@@ -39,4 +39,4 @@ L'hébergement autour de Bwindi compte désormais parmi les plus belles adresses
 
 On réduit à tort l'Ouganda à une destination consacrée à une seule espèce. Le parc national de Kibale, à quatre heures au nord de Bwindi, offre le trek des chimpanzés le plus fiable d'Afrique et, chose unique, une journée complète d'habituation où les hôtes suivent une famille, du réveil au nid à l'aube jusqu'au crépuscule, aux côtés de l'équipe de recherche. Le parc national Queen Elizabeth abrite les célèbres lions grimpeurs d'Ishasha et propose des safaris en bateau sur le canal de Kazinga, où hippopotames, buffles et éléphants se rassemblent en grand nombre.
 
-Aux chutes Murchison, le Nil passe de 50 mètres de large à 7 mètres et plonge de 43 mètres dans une démonstration de pure force hydraulique. Depuis le belvédère du bas, les embruns et le vacarme vous prennent aux tripes. C'est la cascade la plus puissante du monde en volume par rapport à sa largeur, et on le ressent physiquement quand on se tient à son pied.
+Aux chutes Murchison, le Nil passe de 50 mètres de large à 7 mètres et plonge de 43 mètres dans une démonstration de pure force hydraulique. Depuis le belvédère du bas, les embruns et le vacarme vous prennent aux tripes. C'est l'une des cascades les plus puissantes du monde en volume par rapport à sa largeur, et on le ressent physiquement quand on se tient à son pied.

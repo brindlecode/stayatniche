@@ -1,15 +1,15 @@
 ---
 source: best-eco-lodges-costa-rica
 title: "Les plus beaux écolodges du Costa Rica : la jungle, version exemplaire"
-excerpt: "Le Costa Rica a inventé l'écolodge et reste le maître du genre. Ces adresses d'exception conjuguent immersion dans la forêt tropicale, faune spectaculaire et engagement durable sincère."
+excerpt: "Le Costa Rica a été un pionnier de l'écolodge et reste une référence du genre. Ces adresses d'exception conjuguent immersion dans la forêt tropicale, faune spectaculaire et engagement durable sincère."
 seo:
   metaTitle: "Écolodges au Costa Rica : jungle et faune | StayAtNiche"
   metaDescription: "Les meilleurs écolodges du Costa Rica, de la péninsule d'Osa à la forêt de nuages de Monteverde : prix, faune à observer et labels de tourisme durable."
 ---
 
-Le Costa Rica a inventé l'écotourisme moderne. Il n'y a là aucune exagération. Dans les années 1980, le pays a choisi de protéger 25 % de son territoire sous forme de parcs et de réserves, puis de bâtir l'infrastructure touristique qui permet aux visiteurs de réellement découvrir ces espaces protégés : un modèle étudié et imité dans le monde entier. Ce que le Costa Rica a compris avant presque tout le monde, c'est qu'une nature intacte vaut davantage, économiquement, qu'une terre défrichée : un jaguar vivant dans une forêt tropicale en bonne santé rapporte plus à l'économie nationale que la même parcelle rasée pour le bétail.
+Le Costa Rica est largement reconnu comme un pionnier de l'écotourisme moderne. Il n'y a là aucune exagération. Dans les années 1980, le pays a choisi de protéger 25 % de son territoire sous forme de parcs et de réserves, puis de bâtir l'infrastructure touristique qui permet aux visiteurs de réellement découvrir ces espaces protégés : un modèle étudié et imité dans le monde entier. Ce que le Costa Rica a compris avant presque tout le monde, c'est qu'une nature intacte vaut davantage, économiquement, qu'une terre défrichée : un jaguar vivant dans une forêt tropicale en bonne santé rapporte plus à l'économie nationale que la même parcelle rasée pour le bétail.
 
-Les écolodges nés de cette philosophie sont l'expression la plus authentique de ce que peut être le voyage durable lorsqu'il est porté par une ambition véritable plutôt que par l'écoblanchiment. Les meilleurs ne se contentent pas de composter leurs déchets de cuisine pour se donner bonne conscience. Ils ont été construits en partenariat avec les communautés locales, fonctionnent aux énergies renouvelables, emploient presque exclusivement des guides naturalistes de la région et sont idéalement placés pour offrir des rencontres animalières (paresseux, dendrobates, aras rouges, tapirs) réellement exceptionnelles.
+Les écolodges nés de cette philosophie sont une expression authentique de ce que peut être le voyage durable lorsqu'il est porté par une ambition véritable plutôt que par l'écoblanchiment. Les meilleurs ne se contentent pas de composter leurs déchets de cuisine pour se donner bonne conscience. Ils ont été construits en partenariat avec les communautés locales, fonctionnent aux énergies renouvelables, emploient presque exclusivement des guides naturalistes de la région et sont idéalement placés pour offrir des rencontres animalières (paresseux, dendrobates, aras rouges, tapirs) réellement exceptionnelles.
 
 Ce guide présente les plus belles adresses, région par région, avec un avis sans détour sur ce qui distingue chacune d'elles et toutes les informations pratiques pour préparer votre séjour.
 

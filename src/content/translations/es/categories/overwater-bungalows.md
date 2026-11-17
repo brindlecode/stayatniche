@@ -2,12 +2,12 @@
 source: overwater-bungalows
 title: Bungalós sobre el agua
 tagline: "Tu propio paraíso privado sobre la laguna"
-description: Pasa directamente del dormitorio a una laguna turquesa de aguas cálidas. Nacidos en la Polinesia Francesa y hoy presentes en todo el mundo tropical, los bungalós sobre el agua son la referencia absoluta del lujo isleño. Suelos de cristal que dejan ver el arrecife, terrazas privadas sobre aguas perfectas y el océano como compañero constante e inmersivo.
+description: Pasa directamente del dormitorio a una laguna turquesa de aguas cálidas. Nacidos en la Polinesia Francesa y hoy presentes en todo el mundo tropical, los bungalós sobre el agua son una referencia del lujo isleño. Suelos de cristal que dejan ver el arrecife, terrazas privadas sobre aguas perfectas y el océano como compañero constante e inmersivo.
 stats:
   topDestination: "Maldivas"
 seo:
   metaTitle: "Bungalós sobre el agua: lujo en el océano | StayAtNiche"
-  metaDescription: "Los mejores bungalós sobre el agua del mundo en Maldivas, Bora Bora y más allá. Duerme justo encima de lagunas tropicales: la experiencia isleña más exclusiva."
+  metaDescription: "Bungalós sobre el agua seleccionados en Maldivas, Bora Bora y más allá. Duerme justo encima de lagunas tropicales: una experiencia isleña exclusiva."
 ---
 
 El concepto es sencillo y funciona: una villa de madera que se adentra sobre aguas tropicales cristalinas, una escalera que baja directamente a la laguna y una terraza privada donde la única decisión es si ver el amanecer desde la tumbona o desde el agua. Desarrollados en la Polinesia Francesa a finales de los años sesenta como respuesta práctica a la escasez de suelo en los atolones de coral, los bungalós sobre el agua se han convertido en la imagen más reconocible de los viajes de ensueño. Y ese estatus se lo han ganado.

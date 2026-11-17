@@ -21,8 +21,7 @@ bestFor:
   - "Families"
   - "Glamping fans"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Glenarm%20Castle%20Ocean%20View%20Pods%2C%20Glenarm&adults=2"
-rating: 8
-reviewCount: 0
+rating: 7.5
 coordinates:
   lat: 54.9704989
   lng: -5.9623643
@@ -30,7 +29,19 @@ officialWebsite: "https://glenarmcastle.com/ocean-view-pods/"
 sourceId: "osm:way/1412584974"
 verifiedAt: 2026-10-10
 publishedDate: 2026-10-10
-status: published
+status: draft
+location:
+  country: "United Kingdom"
+  countryCode: "GB"
+  region: "Northern Ireland"
+  city: "Glenarm"
+  coordinates:
+    lat: 54.9704989
+    lng: -5.9623643
+niche_scope: experience_only
+niche_feature: "Glamping pods on the Glenarm Castle estate with Glenarm Bay views, not rooms in the castle. Estate also lists Keeper's Cottage, Mill House and Barbican Gate (19th-century gatehouse above the castle wall) as separate stays."
+niche_source_url: "https://glenarmcastle.com/stay/"
+niche_verified_at: 2026-11-17
 ---
 
 The Ocean View Pods are a small group of glamping pods on the Glenarm Castle estate in County Antrim, on the coast of Northern Ireland. They are not rooms inside the castle: the stay is in a pod, with the castle estate as the setting. Each pod is individually decorated to reflect the surrounding landscape, with an expansive glazed entrance, a private shower room and a seating area, and every one looks out across Glenarm Bay.

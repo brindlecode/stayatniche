@@ -26,9 +26,9 @@ bestFor:
 prosAndCons:
   pros:
     - "Spektakulärer Doppelblick auf Berge und Meer vom selben Balkon"
-    - "Eines der besten Luxus-Baumhauserlebnisse der Südhalbkugel"
+    - "Ein angesehenes Luxus-Baumhauserlebnis auf der Südhalbkugel"
     - "Hervorragendes Essen aus wirklich regionalen Zutaten"
-    - "Kaikōura bietet einige der am leichtesten zugänglichen Meerestierbegegnungen der Welt"
+    - "Kaikōura bietet leicht zugängliche Begegnungen mit Meerestieren"
     - "Herzlicher, persönlicher Service in einem Familienbetrieb"
   cons:
     - "Kaikōura liegt 2,5 Autostunden von Christchurch entfernt"

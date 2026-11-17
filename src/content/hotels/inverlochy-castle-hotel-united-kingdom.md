@@ -20,8 +20,7 @@ bestFor:
   - "Special occasions"
   - "Food lovers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Inverlochy%20Castle%20Hotel%2C%20Fort%20William&adults=2"
-rating: 9.2
-reviewCount: 0
+rating: 8.8
 coordinates:
   lat: 56.8443661
   lng: -5.0540276
@@ -30,6 +29,19 @@ sourceId: "osm:node/470690310"
 verifiedAt: 2026-10-10
 publishedDate: 2026-10-10
 status: published
+location:
+  country: "United Kingdom"
+  countryCode: "GB"
+  region: "Scotland"
+  city: "Fort William"
+  locality: "Torlundy"
+  coordinates:
+    lat: 56.8443661
+    lng: -5.0540276
+niche_scope: specific_rooms
+niche_feature: "Castle rooms and suites are in the 19th-century (1863) Scots Baronial castle; Walled Garden rooms are in a converted stable block five minutes away, and the Gate Lodge is a separate Victorian lodge. Official site also calls it a Victorian country house."
+niche_source_url: "https://inverlochycastlehotel.com/stay/walled-garden-rooms"
+niche_verified_at: 2026-11-17
 ---
 
 Inverlochy Castle is a 19th-century baronial mansion standing between mountain and loch near Fort William. It was built in 1863 by William Scarlett, 3rd Baron Abinger, and Queen Victoria spent a week here during an 1873 visit to Balmoral. It is named after the much older 13th-century Inverlochy Castle, which lies a couple of miles away. Today it is a five-star hotel.

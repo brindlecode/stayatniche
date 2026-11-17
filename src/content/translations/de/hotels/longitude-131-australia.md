@@ -21,13 +21,13 @@ amenities:
   - Teleskop im Pavillon zur Sternbeobachtung
   - Täglich geführte Kulturerlebnisse
 bestFor:
-  - Anspruchsvolle Reisende, die das ultimative Luxuserlebnis im Outback suchen
+  - Anspruchsvolle Reisende, die ein hochwertiges Luxuserlebnis im Outback suchen
   - Kulturinteressierte mit Blick für das Erbe der Anangu
   - Fotografen, die das außergewöhnliche Licht am Uluru einfangen wollen
   - Paare, die einen besonderen Anlass feiern
 prosAndCons:
   pros:
-    - Unerreichte Nähe zum Uluru – der Blick vom Bett ist wirklich lebensverändernd
+    - Sehr große Nähe zum Uluru – der Blick vom Bett ist wirklich lebensverändernd
     - Das All-inclusive-Konzept nimmt dem Aufenthalt jede Reibung
     - Kulturelle Führungen und indigene Vermittlung von außergewöhnlich hoher Qualität
     - Außergewöhnlich dunkler Himmel zur Sternbeobachtung auf der Südhalbkugel

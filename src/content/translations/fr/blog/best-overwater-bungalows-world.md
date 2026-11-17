@@ -16,7 +16,7 @@ Voici les 15 plus beaux bungalows sur pilotis répartis sur six destinations, av
 ---
 
 
-Les Maldives ont inventé le bungalow sur pilotis moderne, et elles restent la référence absolue. Réparties sur 26 atolls de l'océan Indien, leurs 1 200 îles offrent des conditions difficiles à égaler : une eau chaude et calme toute l'année, une visibilité quasi parfaite et des récifs accessibles directement depuis votre terrasse.
+Les Maldives ont inventé le bungalow sur pilotis moderne, et elles restent une référence. Réparties sur 26 atolls de l'océan Indien, leurs 1 200 îles offrent des conditions difficiles à égaler : une eau chaude et calme toute l'année, une visibilité quasi parfaite et des récifs accessibles directement depuis votre terrasse.
 
 
 C'est ici que se trouve la première suite d'hôtel sous-marine au monde. Le **[Conrad Maldives Muraka](/hotels/conrad-maldives-muraka)** est une villa sur deux niveaux dont la chambre inférieure se trouve à 5 mètres sous la surface de l'océan Indien, avec une vue à 180 degrés sur le récif. Les Water Villas classiques ne sont pas en reste : spacieuses, magnifiquement aménagées et posées au-dessus d'un récif qui compte parmi les plus beaux des Maldives.
@@ -40,9 +40,9 @@ Gili Lankanfushi s'est forgé la réputation de l'un des resorts les plus romant
 **Idéal pour :** les couples, les jeunes mariés, les habitués des Maldives en quête de plus d'intimité
 
 
-Les villas sur pilotis de Soneva Jani comptent parmi les plus grandes du pays. Leur signature : un toit rétractable au-dessus de la chambre principale. Faites-le coulisser et vous dormez directement sous les étoiles. Le toboggan qui plonge de la terrasse supérieure dans le lagon amuse follement petits et grands. Soneva est depuis longtemps la référence du luxe durable aux Maldives, et sa cave à vins est la meilleure de l'archipel.
+Les villas sur pilotis de Soneva Jani comptent parmi les plus grandes du pays. Leur signature : un toit rétractable au-dessus de la chambre principale. Faites-le coulisser et vous dormez directement sous les étoiles. Le toboggan qui plonge de la terrasse supérieure dans le lagon amuse follement petits et grands. Soneva est depuis longtemps la référence du luxe durable aux Maldives, et sa cave à vins est un atout.
 
-**Ce qui le rend unique :** toit rétractable pour observer les étoiles, toboggans, la meilleure cave à vins des Maldives, de solides engagements écologiques.
+**Ce qui le rend unique :** toit rétractable pour observer les étoiles, toboggans, une cave à vins remarquable, de solides engagements écologiques.
 **Prix :** Overwater Villas à partir de 3 200 $ la nuit
 **Idéal pour :** les familles, les amateurs de design, ceux qui veulent tout l'espace que l'argent peut offrir
 
@@ -85,7 +85,7 @@ Pour vivre l'authentique expérience polynésienne sur pilotis sans les tarifs d
 Les bungalows sur pilotis des Fidji s'accompagnent d'un atout qu'aucune autre destination ne peut vraiment reproduire : le légendaire accueil fidjien. Sa chaleur n'a rien de feint. L'intérieur des îles, luxuriant, volcanique et profondément ancré dans la culture locale, offre un décor plus riche que l'expérience maldivienne, davantage centrée sur le resort.
 
 
-Le premier resort de bungalows sur pilotis des Fidji, et toujours le meilleur. Réservé aux adultes et volontairement intime, Likuliku compte 10 bures sur pilotis (des bungalows fidjiens traditionnels) qui marient traditions architecturales locales et luxe contemporain. Le lagon est calme, limpide et riche en vie marine. Le programme culturel est l'un des plus authentiques du Pacifique.
+Le premier resort de bungalows sur pilotis des Fidji, et toujours l'un des plus appréciés. Réservé aux adultes et volontairement intime, Likuliku compte 10 bures sur pilotis (des bungalows fidjiens traditionnels) qui marient traditions architecturales locales et luxe contemporain. Le lagon est calme, limpide et riche en vie marine. Le programme culturel est l'un des plus authentiques du Pacifique.
 
 **Ce qui le rend unique :** les seuls véritables bungalows sur pilotis des îles Mamanuca ; un programme culturel fidjien authentique ; la sérénité d'un lieu réservé aux adultes.
 **Prix :** Overwater Bures à partir de 1 100 $ la nuit (tout compris)

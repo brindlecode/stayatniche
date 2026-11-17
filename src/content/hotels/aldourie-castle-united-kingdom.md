@@ -23,7 +23,6 @@ bestFor:
   - "Private gatherings"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Aldourie%20Castle%2C%20Loch%20Ness&adults=2"
 rating: 9
-reviewCount: 0
 coordinates:
   lat: 57.4036316
   lng: -4.3297997
@@ -32,6 +31,19 @@ sourceId: "osm:node/14005215694"
 verifiedAt: 2026-10-09
 publishedDate: 2026-10-09
 status: published
+location:
+  country: "United Kingdom"
+  countryCode: "GB"
+  region: "Scotland"
+  city: "Inverness"
+  locality: "Aldourie"
+  coordinates:
+    lat: 57.4036316
+    lng: -4.3297997
+niche_scope: entire_property
+niche_feature: "Baronial castle on Loch Ness booked for exclusive use only: the whole castle, sleeping 24 in 12 en-suite bedrooms. Wikipedia lists it as Category A listed, 'only inhabitable castle on Loch Ness'."
+niche_source_url: "https://wildland.scot/properties/aldourie/"
+niche_verified_at: 2026-11-17
 ---
 
 Aldourie Castle is not a hotel in the usual sense. It is a baronial castle on the shores of Loch Ness, run by WildLand, and it is booked for exclusive use: you take the whole house. The castle sleeps 24 guests across 12 en-suite bedrooms, so it suits a group or a family gathering rather than a couple looking for a single room.

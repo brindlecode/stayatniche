@@ -1,10 +1,10 @@
 ---
 source: belmond-royal-scotsman
 destination: "Van Edinburgh naar de Schotse Highlands"
-description: "De enige luxe nachttrein van Groot-Brittannië, met maximaal 36 gasten door de Schotse Highlands in gerestaureerde rijtuigen vol tartan, glanzend hout en messing. Vanuit Edinburgh volgt de trein de West Highland Line langs het Glenfinnan-viaduct naar Mallaig, met optionele routes naar het hoge noorden en uitstapjes naar whiskystokerijen onderweg."
+description: "Een luxe nachttrein met maximaal 36 gasten door de Schotse Highlands in gerestaureerde rijtuigen vol tartan, glanzend hout en messing. Vanuit Edinburgh volgt de trein de West Highland Line langs het Glenfinnan-viaduct naar Mallaig, met optionele routes naar het hoge noorden en uitstapjes naar whiskystokerijen onderweg."
 highlights:
-  - "De enige luxe nachttrein van Groot-Brittannië door de Schotse Highlands"
-  - "De beroemde West Highland Line, uitgeroepen tot mooiste treinreis ter wereld"
+  - "Een luxe nachttrein door de Schotse Highlands"
+  - "De beroemde West Highland Line, algemeen beschouwd als een van de grote treinreizen ter wereld"
   - "Spectaculair Highlandlandschap van lochs, glens, bergen en zee"
   - "Het Glenfinnan-viaduct, een van de meest gefotografeerde spoorbouwwerken ter wereld"
   - "Excursies en proeverijen bij whiskystokerijen op een deel van de reizen"
@@ -48,10 +48,10 @@ nearbyAttractions:
     distance: Langs een deel van de routes
 seo:
   metaTitle: "Belmond Royal Scotsman: luxe trein Schotland | StayAtNiche"
-  metaDescription: "De enige luxe nachttrein van Groot-Brittannië door de Schotse Highlands: het Glenfinnan-viaduct, whiskystokerijen en Schotse keuken. Vanaf $ 2.400 per reis."
+  metaDescription: "Luxe nachttrein door de Schotse Highlands: het Glenfinnan-viaduct, whiskystokerijen en Schotse keuken. Vanaf $ 2.400 per reis."
 ---
 
-De West Highland Line is volgens het eensgezinde oordeel van de spoorwegpers en iedereen die hem heeft gereden de mooiste treinreis ter wereld. Van Glasgow naar Fort William en Glenfinnan, waar het beroemde viaduct met 21 bogen het dal oversteekt – victoriaanse ingenieurskunst die een eeuw ouder is dan zijn Harry Potter-roem – en verder naar Mallaig aan de Sound of Sleat, tegenover Skye. Je kunt dit met een gewone trein van ScotRail doen. Maar het doen met de Royal Scotsman, in een tempo waarin je het landschap in je opneemt in plaats van het te verslinden, is iets heel anders.
+De West Highland Line wordt door de spoorwegpers en veel mensen die hem hebben gereden beschouwd als een van de mooiste treinreizen ter wereld. Van Glasgow naar Fort William en Glenfinnan, waar het beroemde viaduct met 21 bogen het dal oversteekt – victoriaanse ingenieurskunst die een eeuw ouder is dan zijn Harry Potter-roem – en verder naar Mallaig aan de Sound of Sleat, tegenover Skye. Je kunt dit met een gewone trein van ScotRail doen. Maar het doen met de Royal Scotsman, in een tempo waarin je het landschap in je opneemt in plaats van het te verslinden, is iets heel anders.
 
 De trein van Belmond vervoert maximaal 36 gasten in zorgvuldig gerestaureerde rijtuigen: stoffen in Highland-tartan, glanzende houten lambrisering, messing beslag en tafellampjes die een typisch Schotse warmte verspreiden. Op deze schaal lijkt het sociale leven aan boord op een feest in een landhuis. Gesprekken ontstaan vanzelf tussen mensen die door de reis en het gedeelde landschap bij elkaar zijn gebracht. De panoramawagon achteraan komt uit op een balkon waar je in de Highlandlucht staat terwijl het water van de lochs het middaglicht vangt en edelherten je vanaf de hellingen bekijken.
 

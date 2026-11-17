@@ -1,7 +1,7 @@
 ---
 source: best-hotels-iceland-northern-lights
 title: "Les meilleurs hôtels d'Islande pour les aurores boréales : le guide complet du chasseur d'aurores"
-excerpt: "Des lodges aux murs de verre des hautes terres islandaises aux bassins géothermiques sous des aurores dansantes, voici les plus beaux hôtels pour partir à la chasse aux aurores boréales en Islande."
+excerpt: "Des lodges aux murs de verre des hautes terres islandaises aux bassins géothermiques sous des aurores dansantes, voici des hôtels d'exception pour partir à la chasse aux aurores boréales en Islande."
 seo:
   metaTitle: "Aurores boréales en Islande : les hôtels | StayAtNiche"
   metaDescription: "Les meilleurs hôtels d'Islande pour voir les aurores boréales : lodges de verre, retraites géothermiques et séjours pensés pour la nuit, prix et conseils."
@@ -57,7 +57,7 @@ Chaque cabane est en somme une serre de verre trempé, avec un toit vitré incur
 ---
 
 
-The Retreat at Blue Lagoon n'est pas d'abord un hôtel pour les aurores. C'est tout simplement l'adresse de luxe la plus célèbre d'Islande. Mais son emplacement dans les champs géothermiques de la péninsule de Reykjanes, associé à l'accès à toute heure aux bassins extérieurs du Blue Lagoon, offre peut-être le cadre le plus spectaculaire au monde pour observer les aurores boréales : flotter dans une eau géothermique à 38 °C riche en minéraux pendant que l'aurore ondule au-dessus de vous.
+The Retreat at Blue Lagoon n'est pas d'abord un hôtel pour les aurores. C'est l'une des adresses de luxe les plus connues d'Islande. Mais son emplacement dans les champs géothermiques de la péninsule de Reykjanes, associé à l'accès à toute heure aux bassins extérieurs du Blue Lagoon, offre un cadre spectaculaire pour observer les aurores boréales : flotter dans une eau géothermique à 38 °C riche en minéraux pendant que l'aurore ondule au-dessus de vous.
 
 The Retreat occupe un champ de lave directement voisin du Blue Lagoon, avec 62 suites et chambres construites dans et autour du paysage volcanique. Les clients disposent d'un accès exclusif, à toute heure, au RETREAT Spa privé du lagon, bassins extérieurs compris. Lorsque l'aurore se montre (et à cette latitude, elle se montre souvent en ce maximum solaire), il suffit de se glisser dans l'eau d'un blanc laiteux chargée de silice pour la contempler.
 

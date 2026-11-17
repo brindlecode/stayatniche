@@ -2,7 +2,7 @@
 source: white-water-rafting-zambezi
 title: "Wildwaterraften op de Zambezi"
 destination: "Batoka Gorge, Victoriawatervallen"
-description: "De Zambezi onder de Victoriawatervallen geldt algemeen als de beste raftingtocht van één dag ter wereld: 23 kilometer aaneengesloten stroomversnellingen van klasse IV en V door een indrukwekkende basaltkloof, die een van de machtigste rivieren van Afrika in een kolkende vuurproef van golven, gaten en draaikolken perst. Dit is geen rustig tochtje met uitzicht. Het is een fysieke en mentale test van een hele dag die de meeste deelnemers tot de grootste ervaringen van hun reisleven rekenen."
+description: "De Zambezi onder de Victoriawatervallen geldt algemeen als een van de beste raftingtochten van één dag ter wereld: 23 kilometer aaneengesloten stroomversnellingen van klasse IV en V door een indrukwekkende basaltkloof, die een van de machtigste rivieren van Afrika in een kolkende vuurproef van golven, gaten en draaikolken perst. Dit is geen rustig tochtje met uitzicht. Het is een fysieke en mentale test van een hele dag die de meeste deelnemers tot de grootste ervaringen van hun reisleven rekenen."
 booking:
   price: "vanaf $ 160 per persoon"
   duration: "Hele dag"
@@ -28,7 +28,7 @@ notIncluded:
   - Visumkosten voor Zambia of Zimbabwe
 seo:
   metaTitle: "Wildwaterraften op de Zambezi, Batoka Gorge | StayAtNiche"
-  metaDescription: "Raft 23 km stroomversnellingen van klasse IV-V door de Batoka Gorge: de meest geprezen raftingtocht van één dag ter wereld. Vanaf $ 160 per persoon, hele dag."
+  metaDescription: "Raft 23 km stroomversnellingen van klasse IV-V door de Batoka Gorge: een van de bekendste raftingtochten van één dag ter wereld. Vanaf $ 160 per persoon."
 ---
 
 Het geluid komt eerst. Lang voordat de raft de eerste stroomversnelling bereikt, hoor je de Zambezi: een diep, bijna onhoorbaar gebulder dat de kloofwanden versterken tot iets wat je bijna kunt voelen. Als je bij het instappunt onder de Victoriawatervallen staat en omhoogkijkt naar de basaltwanden die aan beide kanten 120 meter oprijzen, en omlaag naar een rivier die net in één gordijn 108 meter naar beneden is gestort, begrijp je meteen dat dit geen gewone dag wordt.

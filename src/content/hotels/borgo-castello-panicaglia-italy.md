@@ -23,7 +23,6 @@ bestFor:
   - "Food lovers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Borgo%20Castello%20Panicaglia%2C%20Panicaglia&adults=2"
 rating: 8.5
-reviewCount: 0
 coordinates:
   lat: 43.1630784
   lng: 12.7496625
@@ -32,6 +31,19 @@ sourceId: "osm:node/8797692654"
 verifiedAt: 2026-10-12
 publishedDate: 2026-10-12
 status: published
+location:
+  country: "Italy"
+  countryCode: "IT"
+  region: "Umbria"
+  city: "Nocera Umbra"
+  locality: "Panicaglia"
+  coordinates:
+    lat: 43.1630784
+    lng: 12.7496625
+niche_scope: specific_rooms
+niche_feature: "Rooms in a castle dating from 1266 within the borgo of Panicaglia; the site lists about 17 named rooms and suites, plus the Michele holiday house, which adjoins the hotel rather than being in the castle."
+niche_source_url: "https://www.borgocastellopanicaglia.com/en/"
+niche_verified_at: 2026-11-17
 ---
 
 Borgo Castello Panicaglia occupies a castle built in 1266 in the small medieval village of Panicaglia, in Umbria. It sits at 800 metres, with views across the Umbrian mountains, and runs as a guesthouse where guests are invited to take part in family life: look into the kitchen, help in the vegetable garden, or settle into one of the many lounge spots.

@@ -2,7 +2,7 @@
 source: floating-hotels
 title: Drijvende hotels
 tagline: "Waar het land ophoudt, begint de luxe"
-description: "Glijd over de mooiste waterwegen ter wereld aan boord van een luxe drijvend hotel, of meer aan bij een historische stadskade in een woonboot van architectenhand. Van bouwwerken op het water op de Malediven tot fjordboten in Noorwegen en jonken in de Ha Long-baai in Vietnam: op het water zie je de wereld zoals dat vanaf het land nooit kan."
+description: "Glijd over enkele van de mooiste waterwegen ter wereld aan boord van een luxe drijvend hotel, of meer aan bij een historische stadskade in een woonboot van architectenhand. Van bouwwerken op het water op de Malediven tot fjordboten in Noorwegen en jonken in de Ha Long-baai in Vietnam: op het water zie je de wereld zoals dat vanaf het land maar zelden kan."
 stats:
   topDestination: "Malediven"
 seo:

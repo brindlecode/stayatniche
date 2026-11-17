@@ -2,12 +2,12 @@
 source: ice-hotels
 title: Hotel di ghiaccio
 tagline: "Scolpiti dall’inverno, sciolti dalla primavera"
-description: "Ricostruiti da zero ogni inverno con migliaia di tonnellate di neve artica e ghiaccio di fiume, gli hotel di ghiaccio sono il lusso più effimero del mondo. Scolpiti da artisti internazionali, mantenuti sotto lo zero e aperti solo pochi mesi prima di tornare, poeticamente, al fiume, questi palazzi congelati non somigliano a nient’altro al mondo."
+description: "Ricostruiti da zero ogni inverno con migliaia di tonnellate di neve artica e ghiaccio di fiume, gli hotel di ghiaccio sono tra i lussi più effimeri. Scolpiti da artisti internazionali, mantenuti sotto lo zero e aperti solo pochi mesi prima di tornare, poeticamente, al fiume, questi palazzi congelati sono un’esperienza a sé."
 stats:
   topDestination: "Jukkasjärvi, Svezia"
 seo:
   metaTitle: "Hotel di ghiaccio: dormire sotto zero | StayAtNiche"
-  metaDescription: "Scopri gli hotel di ghiaccio più straordinari del mondo in Svezia, Finlandia, Norvegia e Canada: suite scolpite, bar di ghiaccio e notti artiche uniche."
+  metaDescription: "Scopri straordinari hotel di ghiaccio in Svezia, Finlandia, Norvegia e Canada: suite scolpite, bar di ghiaccio e notti artiche uniche: prenota la tua avventura."
 ---
 
 Ogni anno, quando nella regione subartica svedese l’autunno cede il passo all’inverno, sul fiume Torne ghiacciato vicino al villaggio di Jukkasjärvi prende il via un cantiere singolare. Squadre di raccoglitori di ghiaccio scendono sul fiume e cominciano a tagliare, estraendo blocchi di ghiaccio cristallino, alcuni spessi fino a 90 centimetri, che diventeranno l’ossatura di un edificio che ancora non esiste. Arrivano artisti da tutto il mondo con schizzi e scalpelli. Gli architetti traducono i progetti in istruzioni di costruzione per un materiale che non somiglia a nessun altro. A dicembre, dove a ottobre c’era la tundra ghiacciata, sorge un palazzo: scolpito, illuminato e aperto agli ospiti, che ci dormono a temperature ben sotto lo zero.

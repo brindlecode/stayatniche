@@ -22,7 +22,6 @@ bestFor:
   - "Quiet getaways"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Castello%20di%20Fagnano%20Albergo%20Diffuso%20%26%20Spa%2C%20Castello%20di%20Fagnano&adults=2"
 rating: 8.1
-reviewCount: 0
 coordinates:
   lat: 42.2516997
   lng: 13.5883159
@@ -31,6 +30,19 @@ sourceId: "osm:relation/11373824"
 verifiedAt: 2026-10-12
 publishedDate: 2026-10-12
 status: published
+location:
+  country: "Italy"
+  countryCode: "IT"
+  region: "Abruzzo"
+  city: "Fagnano Alto"
+  locality: "Castello"
+  coordinates:
+    lat: 42.2516997
+    lng: 13.5883159
+niche_scope: unverified
+niche_feature: "Official site is in maintenance mode with only a room list (Casa Carluccio, Casa Ercolino). Wikipedia describes a fortified medieval Castello hamlet in Fagnano Alto, but no citable source links the hotel's houses to the walled castle."
+niche_source_url: "https://it.wikipedia.org/wiki/Fagnano_Alto"
+niche_verified_at: 2026-11-17
 ---
 
 Castello di Fagnano is an albergo diffuso, a hotel whose rooms are spread through a village instead of stacked in one building. The name comes from the hamlet where it stands: Castello is one of the small clusters that make up the municipality of Fagnano Alto, in Abruzzo, in the province of L'Aquila. Fagnano Alto has 446 inhabitants and lies on a small hill in the Aterno valley, within the Sirente Velino Natural Park.

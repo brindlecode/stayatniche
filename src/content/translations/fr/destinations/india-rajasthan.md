@@ -13,7 +13,7 @@ bestTimeToVisit:
   details: "D'octobre à mars, c'est la période idéale pour voyager confortablement : 20 à 28 °C en journée, peu d'humidité et un ciel dégagé. De novembre à février, c'est la haute saison, avec les prix les plus élevés et la foule sur les grands sites. Avril et mai deviennent torrides (plus de 45 °C à Jaisalmer). La mousson, de juillet à septembre, reverdit les paysages et remplit les lacs, mais les grandes fêtes comme Diwali (octobre/novembre) et la foire aux chameaux de Pushkar (novembre) tombent pendant la saison fraîche."
 mustSee:
   - "Le fort d'Amber, à Jaipur, forteresse perchée du XVIe siècle, accessible à dos d'éléphant ou en jeep, aux extraordinaires salles incrustées de miroirs"
-  - "Le fort de Mehrangarh, à Jodhpur, le plus grand fort rajpoute de l'Inde, qui domine de 120 mètres la « ville bleue »"
+  - "Le fort de Mehrangarh, à Jodhpur, l'un des forts rajpoutes les plus célèbres de l'Inde, qui domine de 120 mètres la « ville bleue »"
   - "Le lac Pichola au coucher du soleil, à Udaipur, où les palais de marbre blanc de la ville des lacs se reflètent dans l'eau immobile"
   - "Le fort de Jaisalmer, forteresse de grès du XIIe siècle toujours vivante, avec maisons habitées, temples et havelis dans ses murs"
   - "Les dunes de Sam, safari à dos de chameau et nuit en camp dans le désert du Thar au coucher du soleil"
@@ -26,7 +26,7 @@ travelTips:
   - "De nombreux temples interdisent aux non-hindous l'accès aux sanctuaires intérieurs : respectez ces restrictions et n'essayez pas d'entrer si un panneau l'interdit."
 seo:
   metaTitle: "Rajasthan : palais-hôtels et forts du désert | StayAtNiche"
-  metaDescription: "Guide du Rajasthan : palais-hôtels, fort d'Amber, lac Pichola à Udaipur, camps du désert à Jaisalmer et les hébergements de patrimoine les plus fous de l'Inde."
+  metaDescription: "Guide du Rajasthan : palais-hôtels, fort d'Amber, lac Pichola à Udaipur, camps du désert à Jaisalmer et des hébergements de patrimoine hors du commun en Inde."
 ---
 
 Face au Rajasthan, les autres destinations paraissent bien sages. L'échelle des forteresses suffit à le dire : les murailles de Mehrangarh qui jaillissent à pic du rocher au-dessus de la vieille ville bleue de Jodhpur, les remparts de grès doré de Jaisalmer qui s'embrasent dans la lumière du soir. Ici, l'histoire est celle d'une ambition et d'une puissance qui exigeaient de s'exprimer physiquement à chaque détour. Ce fut une terre de rois guerriers et de princes marchands qui bâtissaient la pierre, le marbre et les mosaïques de miroirs avec un savoir-faire extraordinaire, et qui ont légué un paysage devenu l'un des grands terrains d'hôtels de patrimoine au monde.

@@ -17,7 +17,7 @@ Esta guía reúne todo lo que necesitas saber sobre los hoteles de hielo y los v
 
 
 
-El original. La referencia absoluta. Todo lo demás es imitación.
+El original. Una referencia del género. Todo lo demás es imitación.
 
 El ICEHOTEL se alza a orillas del río Torne, en Jukkasjärvi, un pueblo de 500 habitantes de la Laponia sueca, 200 km al norte del círculo polar ártico. Cada otoño se extraen y almacenan 5000 toneladas de hielo del río, que a partir de noviembre se utilizan para esculpir desde cero un hotel nuevo. El diseño de cada año es único, fruto de la colaboración entre artistas seleccionados en convocatorias abiertas internacionales, que pasan semanas tallando sus habitaciones hasta convertirlas en esculturas dentro de las que luego duermen los huéspedes.
 
@@ -142,7 +142,7 @@ La mayoría de los hoteles de hielo dan una charla informativa a la llegada. El 
 
 Islandia no tiene un hotel de hielo tradicional al estilo escandinavo, pero ofrece varias propuestas que la convierten en una alternativa muy atractiva para los viajes centrados en las auroras boreales:
 
-**The Retreat at Blue Lagoon** tiene piscinas geotermales de las que puedes disfrutar a medianoche mientras observas la actividad auroral sobre tu cabeza: posiblemente el escenario más espectacular del mundo para ver auroras.
+**The Retreat at Blue Lagoon** tiene piscinas geotermales de las que puedes disfrutar a medianoche mientras observas la actividad auroral sobre tu cabeza: un escenario espectacular para ver auroras.
 
 **Ion Adventure Hotel**, en Nesjavellir, se diseñó específicamente para ver auroras, con ventanales panorámicos y cerca de la zona de cielo oscuro del Parque Nacional de Þingvellir.
 

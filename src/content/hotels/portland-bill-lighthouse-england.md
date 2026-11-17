@@ -43,11 +43,10 @@ prosAndCons:
     - "Can be very windy, the Bill is fully exposed to prevailing south-westerlies"
 bookingUrl: https://www.booking.com/
 rating: 8.9
-reviewCount: 356
 seasonalInfo:
   bestTime: April to May and September to October for migration birdwatching; June to August for coastal walking
   peakSeason: UK school summer holidays (July–August)
-  notes: Portland Bill is exceptional in every season. Spring and autumn migration turns the Bill into one of England's premier birdwatching sites as rarities from across Europe and beyond are blown onto or trapped by the headland. Summer is busy but the coastal walks and fossil hunting on the Jurassic Coast are unmatched. Winter storms are dramatic and the Portland Race becomes even more spectacular.
+  notes: Portland Bill is exceptional in every season. Spring and autumn migration turns the Bill into a notable birdwatching site as rarities from across Europe and beyond are blown onto or trapped by the headland. Summer is busy but the coastal walks and fossil hunting on the Jurassic Coast are a highlight. Winter storms are dramatic and the Portland Race becomes even more spectacular.
 nearbyAttractions:
   - name: Chesil Beach
     distance: 2 km

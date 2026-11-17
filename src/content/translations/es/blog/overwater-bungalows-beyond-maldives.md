@@ -1,10 +1,10 @@
 ---
 source: overwater-bungalows-beyond-maldives
-title: "Bungalós sobre el agua más allá de Maldivas: los mejores alojamientos sobre el mar del mundo"
+title: "Bungalós sobre el agua más allá de Maldivas: una selección de alojamientos sobre el mar en todo el mundo"
 excerpt: "Maldivas hizo famosos los bungalós sobre el agua, pero Bora Bora, Fiyi, el Caribe y otros destinos ofrecen experiencias igual de extraordinarias, a veces por una fracción del precio."
 seo:
   metaTitle: "Bungalós sobre el agua más allá de Maldivas | StayAtNiche"
-  metaDescription: "Los mejores bungalós sobre el agua más allá de Maldivas: Bora Bora, Fiyi, el Caribe, Camboya y Raja Ampat, con precios, esnórquel y comparativas honestas."
+  metaDescription: "Bungalós sobre el agua más allá de Maldivas: Bora Bora, Fiyi, el Caribe, Camboya y Raja Ampat, con precios, esnórquel y comparativas honestas."
 ---
 
 Maldivas hizo famoso el bungaló sobre el agua, y sus mejores alojamientos siguen marcando el estándar de la categoría. Pero una villa sobre el agua premium media en un gran resort de Maldivas cuesta hoy 1.500–4.000 US$ por noche o más, y lo disfrutas en una geografía plana, bastante monótona y limitada a las actividades acuáticas. Para mucha gente, precisamente de eso se trata. Para otros, no basta.
@@ -84,7 +84,7 @@ Las villas sobre el agua son preciosas: piscinas infinitas, altos techos de paja
 ---
 
 
-Raja Ampat, en el Bird's Head Seascape de Papúa Occidental, alberga el 75 % de las especies de coral del mundo. Si lo que mides es la biodiversidad marina, nada en esta lista lo supera. Misool Eco Resort ocupa una concesión privada de 300.000 acres de entorno marino, con bungalós sobre el agua situados sobre sistemas de arrecifes que buceadores experimentados describen como los mejores que han visto en cualquier parte.
+Raja Ampat, en el Bird's Head Seascape de Papúa Occidental, alberga el 75 % de las especies de coral del mundo. Si lo que mides es la biodiversidad marina, nada en esta lista lo supera. Misool Eco Resort ocupa una concesión privada de 300.000 acres de entorno marino, con bungalós sobre el agua situados sobre sistemas de arrecifes que buceadores experimentados valoran mucho.
 
 Misool no es Maldivas. Es un auténtico ecorresort: remoto, aventurero, sin el acabado de lujo impecable. El buceo y el esnórquel lo son todo. Mantas, tiburones ballena, caballitos de mar pigmeos, tiburones alfombra y peces de arrecife en concentraciones que parecen inverosímiles hasta que estás en el agua.
 

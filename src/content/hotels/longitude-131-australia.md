@@ -27,13 +27,13 @@ amenities:
   - In-pavilion telescope for night sky viewing
   - Daily guided cultural experiences
 bestFor:
-  - Discerning travellers seeking the ultimate Outback luxury experience
+  - Discerning travellers seeking a high-end Outback luxury experience
   - Cultural explorers interested in deep Anangu heritage
   - Photographers chasing Uluru's extraordinary light conditions
   - Couples marking a milestone occasion
 prosAndCons:
   pros:
-    - Unmatched proximity to Uluru, the view from your bed is genuinely life-changing
+    - Very close proximity to Uluru, the view from your bed is genuinely life-changing
     - All-inclusive format removes all friction from the experience
     - Exceptionally high quality of cultural guiding and Indigenous interpretation
     - Extraordinarily dark skies for Southern Hemisphere stargazing
@@ -44,7 +44,6 @@ prosAndCons:
     - Flies are a fact of Outback life, this is not a resort failing but worth knowing
 bookingUrl: https://www.booking.com/hotel/au/longitude-131.html
 rating: 9.7
-reviewCount: 567
 seasonalInfo:
   bestTime: April to September for the most comfortable temperatures
   peakSeason: July and August (Australian winter school holidays)
@@ -65,7 +64,7 @@ featured: true
 status: published
 seo:
   metaTitle: "Longitude 131° Review, Luxury Tented Camp with Direct Uluru Views, Australia"
-  metaDescription: "Sixteen luxury pavilions on a private red-sand dune with sunrise views of Uluru. Longitude 131° is the most exclusive address in the Australian Outback. From $1,500/night."
+  metaDescription: "Sixteen luxury pavilions on a private red-sand dune with sunrise views of Uluru. Longitude 131° is an exclusive address in the Australian Outback. From $1,500/night."
 affiliateLinks:
   - partner: "expedia"
     url: "https://www.expedia.com/Hotel-Search?destination=Uluru%2C%20Northern%20Territory%2C%20Australia&adults=2"
@@ -73,6 +72,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Uluru,+Northern+Territory"
     label: "Find Tours on Klook"
+location:
+  country: "Australia"
+  countryCode: "AU"
+  region: "Northern Territory"
+  city: "Yulara"
+  locality: "Uluru-Kata Tjuta National Park"
+  coordinates:
+    lat: -25.250359
+    lng: 131.008058
+niche_scope: entire_property
+niche_feature: "Sixteen tented pavilions among red-rust dunes of the Central Desert facing Uluru: fifteen luxury tents plus one premium Dune Pavilion with views to both Uluru and Kata Tjuta. Closed 25 Jan-19 Apr 2027 for refurbishment."
+niche_source_url: "https://longitude131.com.au/"
+niche_verified_at: 2026-11-17
 ---
 
 Uluru in the minutes after dawn is a reason to plan a journey. The monolith — 348 metres tall, 9.4 kilometres in circumference, arkose sandstone deposited 500 million years ago — absorbs and redirects the early sun in a colour sequence that moves from deep violet through burnt orange to coral pink over roughly twenty minutes. Painters have attempted it. Photographers have built careers around it. At Longitude 131°, guests watch it from bed.

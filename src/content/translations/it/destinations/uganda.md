@@ -15,7 +15,7 @@ mustSee:
   - "Il trekking dei gorilla di montagna nella Bwindi Impenetrable Forest: un’ora con una famiglia di gorilla che ti cambia davvero la vita"
   - "L’abituazione degli scimpanzé nella foresta di Kibale: seguire con i ricercatori una famiglia di scimpanzé selvatici dall’alba al tramonto"
   - "Il Queen Elizabeth National Park: i leoni arboricoli del settore di Ishasha e i safari in barca sul canale Kazinga"
-  - "Le Murchison Falls, la cascata più potente del mondo, dove il Nilo si getta in una gola larga 7 metri"
+  - "Le Murchison Falls, una delle cascate più potenti del mondo, dove il Nilo si getta in una gola larga 7 metri"
   - "La sorgente del Nilo a Jinja, il punto esatto in cui il Nilo lascia il lago Vittoria, con rafting sulle rapide"
   - "I monti Ruwenzori, le «Montagne della Luna», con trekking sui ghiacciai all’equatore"
 travelTips:
@@ -39,4 +39,4 @@ Gli alloggi attorno a Bwindi sono diventati alcune delle strutture nella natura 
 
 L’Uganda viene spesso fraintesa come una meta da una sola specie. Il Kibale National Park, quattro ore a nord di Bwindi, offre il trekking degli scimpanzé più affidabile d’Africa e, caso unico, un’esperienza di abituazione di un’intera giornata in cui gli ospiti seguono una famiglia dal risveglio nei nidi all’alba fino al tramonto, insieme al team di ricerca. Il Queen Elizabeth National Park ha i celebri leoni arboricoli di Ishasha e i safari in barca sul canale Kazinga, dove ippopotami, bufali ed elefanti si radunano in gran numero.
 
-Alle Murchison Falls il Nilo si restringe da 50 a 7 metri di larghezza e precipita per 43 metri in una dimostrazione di pura forza idraulica. Gli spruzzi e il fragore dal belvedere alla base sono viscerali. È la cascata più potente del mondo per volume in rapporto alla larghezza, e lo senti fisicamente quando ci stai sotto.
+Alle Murchison Falls il Nilo si restringe da 50 a 7 metri di larghezza e precipita per 43 metri in una dimostrazione di pura forza idraulica. Gli spruzzi e il fragore dal belvedere alla base sono viscerali. È una delle cascate più potenti del mondo per volume in rapporto alla larghezza, e lo senti fisicamente quando ci stai sotto.

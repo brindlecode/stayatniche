@@ -1,15 +1,15 @@
 ---
 source: train-hotels-rail-journeys-guide
-title: "Treinhotels en luxe treinreizen: de complete gids voor de mooiste nachttreinen ter wereld"
-excerpt: "Van de Orient Express tot Rovos Rail in Zuid-Afrika: ontdek de bijzonderste treinhotels ter wereld, waar de reis zelf de bestemming is en elke kilometer een herinnering."
+title: "Treinhotels en luxe treinreizen: de complete gids voor luxe nachttreinen"
+excerpt: "Van de Orient Express tot Rovos Rail in Zuid-Afrika: ontdek bijzondere treinhotels, waar de reis zelf de bestemming is en elke kilometer een herinnering."
 seo:
   metaTitle: "Treinhotels en luxe treinreizen: de gids | StayAtNiche"
-  metaDescription: "De mooiste treinhotels ter wereld, van de Orient Express tot Rovos Rail en de Rocky Mountaineer. Alles over luxe nachttreinen, iconische routes en boektips."
+  metaDescription: "Treinhotels van de Orient Express tot Rovos Rail en de Rocky Mountaineer. Alles over luxe nachttreinen, iconische routes, prijzen en boektips."
 ---
 
 De locomotief was dé technologie van de 19e eeuw, en de grote slaaprijtuigen uit het Pullman-tijdperk maakten van lange treinreizen iets wat in de buurt kwam van een rijdend hotel: mahoniehouten lambrisering, diners met witte handschoenen, fris gesteven linnen op smalle maar comfortabele kooien en een landschap dat langs het raam trekt zoals geen vliegtuigraampje dat kan. De romantiek van de trein is eigenlijk nooit verdwenen. Ze heeft alleen een nieuwe vorm gevonden in een handvol echt bijzondere luxetreinen die de reis niet als vervoer zien, maar als het middelpunt van de reiservaring.
 
-De beste treinhotels van nu spelen mee in de bovenste regionen van de luxe accommodatiemarkt. De Venice Simplon-Orient-Express vraagt prijzen die vergelijkbaar zijn met die van Europese vijfsterrenhotels; Rovos Rail in Zuid-Afrika is misschien wel de luxueuste trein ter wereld; de Japanse Twilight Express Mizukaze serveert eten dat in de beste restaurants van Tokio serieuze aandacht zou krijgen. Dit zijn niet zomaar comfortabele manieren om te reizen. Het zijn reizen waarin beweging, landschap, eten, service en het bijzondere gezelschap van medereizigers samen een heel eigen reiservaring vormen.
+De beste treinhotels van nu spelen mee in de bovenste regionen van de luxe accommodatiemarkt. De Venice Simplon-Orient-Express vraagt prijzen die vergelijkbaar zijn met die van Europese vijfsterrenhotels; Rovos Rail in Zuid-Afrika behoort tot de luxueuste treinen ter wereld; de Japanse Twilight Express Mizukaze serveert eten dat in de beste restaurants van Tokio serieuze aandacht zou krijgen. Dit zijn niet zomaar comfortabele manieren om te reizen. Het zijn reizen waarin beweging, landschap, eten, service en het bijzondere gezelschap van medereizigers samen een heel eigen reiservaring vormen.
 
 Deze gids zet de grote treinhotelervaringen ter wereld op een rij, per regio en per treinmaatschappij, met praktisch advies over boeken en wat je aan boord kunt verwachten.
 
@@ -47,12 +47,12 @@ De nieuwe Italiaanse luxetrein van Belmond, La Dolce Vita Orient Express, ging i
 
 
 
-Rovos Rail vertrekt vanuit Pretoria en geldt algemeen als de luxueuste trein ter wereld. De persoonlijke passie van eigenaar Rohan Vos voor spoorweggeschiedenis heeft een vloot gerestaureerde vintage rijtuigen opgeleverd, waarvan de oudste uit 1911 stamt, waarin elk detail naar het hoogst mogelijke niveau is getild. De Royal Suite is een privécoupé van (voor een trein) buitengewone ruimte, met een koperen bad op ware grootte, een zithoek en een eigen balkon achter aan het uitkijkrijtuig.
+Rovos Rail vertrekt vanuit Pretoria en geldt als een van de luxueuste treinen ter wereld. De persoonlijke passie van eigenaar Rohan Vos voor spoorweggeschiedenis heeft een vloot gerestaureerde vintage rijtuigen opgeleverd, waarvan de oudste uit 1911 stamt, waarin elk detail naar het hoogst mogelijke niveau is getild. De Royal Suite is een privécoupé van (voor een trein) buitengewone ruimte, met een koperen bad op ware grootte, een zithoek en een eigen balkon achter aan het uitkijkrijtuig.
 
 De vlaggenschipreis loopt in twee nachten van Pretoria naar Kaapstad, dwars door de Karoo-woestijn en de wijnstreken van West-Kaap, langs buitengewone landschappen. Langere reizen gaan van Pretoria naar de Victoriawatervallen (drie nachten), naar Dar es Salaam (vijf nachten) en over de legendarische route van Kaapstad naar Caïro, een reis van 15 nachten over de volle lengte van het continent.
 
 **Prijsindicatie:** Deluxe Suite vanaf $ 2.500 per persoon (Pretoria–Kaapstad); Royal Suite vanaf $ 8.000 per persoon
-**Ideaal voor:** Bijzondere gelegenheden, stellen, reizigers die de mooiste treinervaring ter wereld willen, Afrikaliefhebbers
+**Ideaal voor:** Bijzondere gelegenheden, stellen, reizigers die een klassieke grand-trainervaring willen, Afrikaliefhebbers
 
 **Boektip:** Rovos vertrekt niet vaak; sommige routes rijden maar één keer per maand. Boek zes tot twaalf maanden vooruit, vooral voor de volledige reis van Kaapstad naar Caïro.
 
@@ -80,7 +80,7 @@ Van de openbare treindiensten in Noord-Amerika biedt de Coast Starlight, die tus
 ---
 
 
-De treincultuur van Japan is de meest verfijnde ter wereld, en de luxe slaaptreinen van het land zijn het toppunt van Japans vakmanschap en service, toegepast op het reizen per spoor.
+De treincultuur van Japan behoort tot de meest verfijnde ter wereld, en de luxe slaaptreinen van het land zijn het toppunt van Japans vakmanschap en service, toegepast op het reizen per spoor.
 
 
 De Twilight Express Mizukaze rijdt sinds 2017 rondritten van drie nachten door de regio's San'in en Sanyo in West-Japan (Osaka, Kyoto, Hiroshima, Izumo en terug). De 16 kamers in tien categorieën omvatten suites zonder bedden waar je alleen dineert (de gasten eten aan boord en slapen in hotels bij haltes onderweg) en traditionele suites in ryokanstijl met Japanse badkamers en zithoeken met tatami. Het eten is een serieus culinair programma dat put uit de kaiseki-traditie.

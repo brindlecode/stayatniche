@@ -1,10 +1,10 @@
 ---
 source: londolozi-varty-camp-south-africa
 destination: "Réserve de Sabi Sand, Mpumalanga"
-description: "C'est à Londolozi qu'a été inventé le safari de luxe moderne. Le Varty Camp originel, fondé par la famille Varty dans les années 1970 et peaufiné pendant cinq décennies jusqu'à devenir l'un des lodges les plus célèbres d'Afrique, s'étend au bord de la Sand River, dans la réserve de Sabi Sand. Sans clôture avec le parc national Kruger, il offre certaines des plus belles observations de léopards au monde."
+description: "Londolozi est un pionnier du safari de luxe moderne. Le Varty Camp originel, fondé par la famille Varty dans les années 1970 et peaufiné pendant cinq décennies jusqu'à devenir l'un des lodges les plus célèbres d'Afrique, s'étend au bord de la Sand River, dans la réserve de Sabi Sand. Sans clôture avec le parc national Kruger, il offre des observations de léopards réputées."
 highlights:
-  - "Le berceau du safari de luxe africain tel qu'on le conçoit aujourd'hui"
-  - "Des observations de léopards de renommée mondiale : des individus habitués à l'homme, dont on connaît la lignée"
+  - "Un pionnier du safari de luxe africain tel qu'on le conçoit aujourd'hui"
+  - "Des observations de léopards réputées : des individus habitués à l'homme, dont on connaît la lignée"
   - "Frontière sans clôture avec le parc national Kruger, où la faune circule librement"
   - "Cinq générations de familles de léopards documentées et photographiées ici"
   - "La Sand River, pour des observations exceptionnelles au bord de l'eau"
@@ -25,8 +25,8 @@ bestFor:
   - "Voyageurs attachés à l'histoire et au patrimoine du safari"
 prosAndCons:
   pros:
-    - "Les observations de léopards les plus fiables d'Afrique, fruit de décennies d'accoutumance"
-    - "Des rangers et pisteurs qui connaissent chaque animal comme personne"
+    - "Des observations de léopards fiables, fruit de décennies d'accoutumance"
+    - "Des rangers et pisteurs qui connaissent chaque animal de façon remarquable"
     - "Un véritable sentiment d'histoire et de patrimoine du safari, qu'aucun camp récent ne peut reproduire"
     - "Une excellente option de safari en famille, avec des activités enfants bien pensées"
   cons:
@@ -49,12 +49,12 @@ nearbyAttractions:
     distance: 90 km
 seo:
   metaTitle: "Londolozi : safari léopards, Sabi Sand | StayAtNiche"
-  metaDescription: "Londolozi Varty Camp, en Afrique du Sud : le lodge qui a inventé le safari de luxe, et les meilleures observations de léopards au monde. Dès 1 200 $ la nuit."
+  metaDescription: "Londolozi Varty Camp, en Afrique du Sud : un pionnier du safari de luxe, réputé pour ses observations de léopards. Dès 1 200 $ la nuit."
 ---
 
 Tous les safaris de luxe d'Afrique doivent aujourd'hui quelque chose à Londolozi. Lorsque Dave et John Varty ont commencé, dans les années 1970, à accueillir des visiteurs dans la ferme de gibier familiale au bord de la Sand River, ils posaient les bases d'une industrie qui n'existait pas encore, alliant une immersion authentique dans la nature sauvage à un niveau de confort et de service jusque-là réservé aux hôtels citadins. Ils ont découvert, presque par hasard, que les deux se renforçaient mutuellement : de meilleures conditions attiraient des voyageurs capables de s'investir davantage dans le territoire, et ce territoire — ses léopards en particulier — avait bien plus à offrir que quiconque ne l'avait imaginé.
 
-Les léopards sont l'histoire fondatrice de Londolozi. Depuis plus de cinq décennies, les équipes de rangers et de pisteurs ont noué des liens avec des générations successives d'individus, documentant leurs lignées, leurs territoires et leurs comportements dans un corpus de connaissances sans équivalent dans le monde du safari. Les « léopards de Londolozi », à commencer par la Female of Sparta dans les années 1970, puis ses descendants jusqu'à aujourd'hui, forment une chronique vivante et continue du comportement des léopards sur plusieurs générations. Chaque rencontre avec un individu connu revêt ainsi une profondeur narrative qui la place bien au-delà d'une simple observation : vous faites la connaissance d'une personnalité dont vous connaissez l'histoire.
+Les léopards sont l'histoire fondatrice de Londolozi. Depuis plus de cinq décennies, les équipes de rangers et de pisteurs ont noué des liens avec des générations successives d'individus, documentant leurs lignées, leurs territoires et leurs comportements dans un corpus de connaissances exceptionnellement détaillé. Les « léopards de Londolozi », à commencer par la Female of Sparta dans les années 1970, puis ses descendants jusqu'à aujourd'hui, forment une chronique vivante et continue du comportement des léopards sur plusieurs générations. Chaque rencontre avec un individu connu revêt ainsi une profondeur narrative qui la place bien au-delà d'une simple observation : vous faites la connaissance d'une personnalité dont vous connaissez l'histoire.
 
 Le Varty Camp, lodge d'origine du domaine, se niche dans un bosquet d'ébéniers au-dessus du méandre de la Sand River où la famille Varty a planté sa première tente. Il a considérablement évolué depuis les années 1970 : ses suites conjuguent la chaleur de la propriété familiale — terrasses en bois, matériaux naturels, un sens du lieu que les lodges plus récents peinent à fabriquer — et tous les équipements d'un lodge de luxe contemporain. C'est depuis les piscines privées et les douches extérieures qui dominent le lit de la rivière que l'observation des animaux et le confort se rejoignent le plus agréablement.
 

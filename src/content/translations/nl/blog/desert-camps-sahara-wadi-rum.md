@@ -1,10 +1,10 @@
 ---
 source: desert-camps-sahara-wadi-rum
 title: "Woestijnkampen in de Sahara en Wadi Rum: de ultieme gids voor slapen onder de sterren"
-excerpt: "Van de duinen van Erg Chebbi in Marokko tot de roze-rode dalen van Jordanië: ontdek de meest buitengewone woestijnkampen ter wereld, waar stilte en sterren luxe een nieuwe betekenis geven."
+excerpt: "Van de duinen van Erg Chebbi in Marokko tot de roze-rode dalen van Jordanië: ontdek buitengewone woestijnkampen, waar stilte en sterren luxe een nieuwe betekenis geven."
 seo:
   metaTitle: "Woestijnkampen in de Sahara en Wadi Rum | StayAtNiche"
-  metaDescription: "De mooiste woestijnkampen in de Marokkaanse Sahara en Wadi Rum in Jordanië. Tips voor luxe tentenkampen, sterrenkijken en avonturen in de woestijn."
+  metaDescription: "Woestijnkampen in de Marokkaanse Sahara en Wadi Rum in Jordanië. Tips voor luxe tentenkampen, sterrenkijken, kamelentochten en avonturen in de woestijn."
 ---
 
 De Sahara en Wadi Rum delen één eigenschap die geen enkel resortontwerp kan namaken: absolute stilte. Op een heldere nacht kijk je op beide plekken naar een hemel die de meeste mensen van nu nog nooit echt hebben gezien: zonder lichtvervuiling, met de Melkweg van horizon tot horizon en sterren die fel genoeg zijn om schaduwen te werpen. De zandsteenformaties van Wadi Rum in Jordanië waren al oud voordat Rome bestond. De duinen van Erg Chebbi in Marokko verschuiven al duizenden jaren onder dezelfde winden. Dat is de context die kamperen in de woestijn buitengewoon maakt, en die heeft niets te maken met het aantal draden in je lakens.
@@ -28,7 +28,7 @@ Scarabeo ligt diep in de duinen, ver van de cluster kampen bij Merzouga, en is d
 De ontwerpfilosofie van het kamp is doordacht in plaats van theatraal: geen nepfakkels of piccolo's in karikaturale kostuums, maar een eerlijke vertaling van de traditionele Berberse kampsfeer naar echt comfortabele accommodatie. De maaltijden worden in de kampkeuken bereid en rond een centraal vuur geserveerd; het menu put uit de Marokkaanse keukentraditie en houdt rekening met hedendaagse dieetwensen. De kamelentochten bij zonsopgang en zonsondergang worden met zoveel waardigheid begeleid dat ze aanvoelen als een echte culturele ervaring in plaats van toeristentheater.
 
 **Prijsklasse:** vanaf € 200 p.p. per nacht (volpension)
-**Ideaal voor:** stellen, kleine groepen, reizigers die de beste ervaring in Erg Chebbi willen zonder overdreven zakelijke gladheid
+**Ideaal voor:** stellen, kleine groepen, reizigers die een authentieke ervaring in Erg Chebbi willen zonder overdreven zakelijke gladheid
 
 **Dar Ahlam, Skoura (met woestijnexpedities)**
 

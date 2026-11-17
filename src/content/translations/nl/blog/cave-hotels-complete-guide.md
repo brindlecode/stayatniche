@@ -4,7 +4,7 @@ title: "Grothotels over de hele wereld: de ultieme gids (waar je slaapt en wat j
 excerpt: "Van de rotssuites van Cappadocië tot de ondergrondse opaalmijnstadjes van Australië: de complete gids voor grothotels wereldwijd, met boekingstips van experts."
 seo:
   metaTitle: "Grothotels wereldwijd: de ultieme gids | StayAtNiche"
-  metaDescription: "De beste grothotels ter wereld, van Cappadocië tot Matera en Coober Pedy. Wat je kunt verwachten, waar je boekt en praktische tips voor slapen in de rots."
+  metaDescription: "Grothotels van Cappadocië tot Matera en Coober Pedy. Wat je kunt verwachten, waar je boekt en praktische tips voor slapen in de rots, met prijzen per regio."
 ---
 
 Mensen slapen al zo'n 300.000 jaar in grotten. Het grootste deel van die tijd was dat uit noodzaak. Vandaag zijn enkele van de meest verfijnde hotelkamers ter wereld rechtstreeks in eeuwenoude rots uitgehouwen, met geologische grandeur, een natuurlijke temperatuurregeling en een historische sfeer die gewone bouw simpelweg niet kan evenaren.

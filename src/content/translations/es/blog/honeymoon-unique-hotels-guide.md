@@ -1,7 +1,7 @@
 ---
 source: honeymoon-unique-hotels-guide
-title: "La guía definitiva de hoteles para la luna de miel: alojamientos extraordinarios para el viaje más romántico del mundo"
-excerpt: "Tu luna de miel merece algo extraordinario. De islas privadas escondidas en el océano Índico a suites cueva sobre los acantilados de Capadocia, estos son los hoteles extraordinarios más románticos del mundo."
+title: "La guía definitiva de hoteles para la luna de miel: alojamientos extraordinarios para tu viaje más romántico"
+excerpt: "Tu luna de miel merece algo extraordinario. De islas privadas escondidas en el océano Índico a suites cueva sobre los acantilados de Capadocia, estos son hoteles extraordinarios pensados para el romance."
 seo:
   metaTitle: "Hoteles únicos para tu luna de miel | StayAtNiche"
   metaDescription: "Los hoteles más románticos para tu luna de miel: islas privadas en Seychelles, villas sobre el agua en Maldivas, suites cueva en Capadocia y castillos."

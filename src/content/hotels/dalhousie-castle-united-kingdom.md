@@ -22,7 +22,6 @@ bestFor:
   - "Edinburgh visitors"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Dalhousie%20Castle%2C%20Bonnyrigg&adults=2"
 rating: 8.8
-reviewCount: 0
 coordinates:
   lat: 55.8606793
   lng: -3.0825636
@@ -31,6 +30,18 @@ sourceId: "osm:node/5420205007"
 verifiedAt: 2026-10-10
 publishedDate: 2026-10-10
 status: published
+location:
+  country: "United Kingdom"
+  countryCode: "GB"
+  region: "Scotland"
+  city: "Bonnyrigg"
+  coordinates:
+    lat: 55.8606793
+    lng: -3.0825636
+niche_scope: specific_rooms
+niche_feature: "35 rooms: Castle Classic, Deluxe, Junior Suite, Four Poster, Suite and two Feature Rooms are in the 800-year-old castle; Lodge rooms (Classic, Deluxe, Junior Suite, Suite) are a separate modern building in the grounds. Counts per group not given."
+niche_source_url: "https://www.dalhousiecastle.co.uk/"
+niche_verified_at: 2026-11-17
 ---
 
 Dalhousie Castle has stood for more than 800 years and describes itself as Scotland's oldest inhabited castle. It sits in eleven acres of private parkland and wooded valleys just outside Edinburgh, in Bonnyrigg. Once the seat of the Ramsay clan, it has hosted royalty and poets since the 13th century, and it has recently been through an extensive refurbishment.

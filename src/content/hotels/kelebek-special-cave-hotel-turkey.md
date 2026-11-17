@@ -24,7 +24,6 @@ bestFor:
   - "Balloon watchers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Kelebek%20Special%20Cave%20Hotel%2C%20G%C3%B6reme&adults=2"
 rating: 8.5
-reviewCount: 0
 coordinates:
   lat: 38.6418218
   lng: 34.825703
@@ -33,6 +32,19 @@ sourceId: "osm:node/316644700"
 verifiedAt: 2026-10-09
 publishedDate: 2026-10-09
 status: published
+location:
+  country: "Turkey"
+  countryCode: "TR"
+  region: "Nevşehir"
+  city: "Göreme"
+  locality: "Aydınlı neighbourhood"
+  coordinates:
+    lat: 38.6418218
+    lng: 34.825703
+niche_scope: specific_rooms
+niche_feature: "36 rooms mixing cave, fairy chimney and stone rooms; only some cave rooms are carved directly into natural rock, including historic spaces dating to the 8th century. Others are stone architecture."
+niche_source_url: "https://www.kelebekhotel.com/en/about"
+niche_verified_at: 2026-11-17
 ---
 
 Kelebek Special Cave Hotel sits above the village of Göreme, within the national park, and sells itself on views of the village, the valleys, the hot air balloons and the mountains beyond. Cave rooms are part of the offer, though only some rooms are carved into the rock. Others are described as cave-stone rooms.

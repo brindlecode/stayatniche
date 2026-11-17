@@ -22,7 +22,6 @@ bestFor:
   - "Stargazers"
 bookingUrl: "https://www.somnenbulle.fr/"
 rating: 8.5
-reviewCount: 0
 coordinates:
   lat: 44.2093068
   lng: 1.9919372
@@ -31,6 +30,19 @@ sourceId: "osm:way/1386294879"
 verifiedAt: 2026-11-15
 publishedDate: 2026-11-15
 status: published
+location:
+  country: "France"
+  countryCode: "FX"
+  region: "Occitanie"
+  city: "Najac"
+  locality: "La Vaysserie"
+  coordinates:
+    lat: 44.2093068
+    lng: 1.9919372
+niche_scope: entire_property
+niche_feature: "Translucent inflatable bubbles in a forest at the edge of the Aveyron gorges near Najac; every unit is a bubble, each with its own path and private bathroom sphere."
+niche_source_url: "https://www.somnenbulle.fr/votre-bulle/"
+niche_verified_at: 2026-11-17
 ---
 
 Somn'en Bulle offers nights in translucent inflatable bubbles in a forest on the edge of the Aveyron gorges, in the Occitanie region of southern France. The site is near the village of Najac, one of the villages classed among the most beautiful in France, and the site describes itself as close to Toulouse. Because the bubbles are transparent, they give a view of the surrounding nature and of the night sky.

@@ -44,7 +44,6 @@ prosAndCons:
     - Bush fire smoke can occasionally obscure night skies in summer
 bookingUrl: https://www.booking.com/hotel/au/bubble-tent-australia.html
 rating: 8.9
-reviewCount: 678
 seasonalInfo:
   bestTime: April to September for cooler nights and clearest skies
   peakSeason: October to March (summer) and school holidays
@@ -73,6 +72,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Hunter+Valley,+New+South+Wales"
     label: "Find Tours on Klook"
+location:
+  country: "Australia"
+  countryCode: "AU"
+  region: "New South Wales"
+  city: "Lithgow"
+  locality: "Capertee Valley"
+  coordinates:
+    lat: -33.023568
+    lng: 149.956902
+niche_scope: entire_property
+niche_feature: "Five 'Bubbletents' (Cancer, Leo, Virgo, Ophiuchus, Pisces) on one off-grid property above Capertee Valley; VisitNSW describes a clear bubble with a rotating bed. Official site does not itself say transparent."
+niche_source_url: "https://www.visitnsw.com/destinations/blue-mountains/lithgow-area/lithgow/accommodation/bubbletent-australia"
+niche_verified_at: 2026-11-17
 ---
 
 For visitors from the Northern Hemisphere, the southern sky is a genuine surprise. Familiar constellations sit at wrong angles, new stars appear where none should be, and the Milky Way is dense enough on a clear moonless night to cast a faint shadow. BubbleTent Australia exists for the straightforward purpose of letting you experience that sky from a comfortable bed.

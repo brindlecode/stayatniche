@@ -1,7 +1,7 @@
 ---
 source: ecuador-galapagos
 name: "Équateur et Galápagos"
-description: "Les îles Galápagos sont le plus grand laboratoire de l'évolution de la planète : 127 îles et îlots où les animaux ont évolué sans prédateurs naturels et ne craignent toujours pas les visiteurs humains. L'Équateur continental y ajoute ses réserves de forêt de nuages, le bassin amazonien et l'extraordinaire vieille ville coloniale de Quito, pour composer l'un des itinéraires les plus variés d'Amérique du Sud."
+description: "Les îles Galápagos comptent parmi les laboratoires de l'évolution les plus célèbres de la planète : 127 îles et îlots où les animaux ont évolué sans prédateurs naturels et ne craignent toujours pas les visiteurs humains. L'Équateur continental y ajoute ses réserves de forêt de nuages, le bassin amazonien et l'extraordinaire vieille ville coloniale de Quito, pour composer l'un des itinéraires les plus variés d'Amérique du Sud."
 essentials:
   currency: "USD (l'Équateur utilise le dollar américain)"
   language: "Espagnol (langue officielle) ; le kichwa (quechua) est parlé dans les hauts plateaux et en Amazonie"

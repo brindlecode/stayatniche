@@ -19,7 +19,6 @@ bestFor:
   - "Lighthouse lovers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Quirpon%20Lighthouse%20Inn%2C%20Quirpon%20Island&adults=2"
 rating: 9.2
-reviewCount: 0
 coordinates:
   lat: 51.6399985
   lng: -55.4269653
@@ -28,6 +27,18 @@ sourceId: "osm:node/4192048906"
 verifiedAt: 2026-10-12
 publishedDate: 2026-10-12
 status: published
+location:
+  country: "Canada"
+  countryCode: "CA"
+  region: "Newfoundland and Labrador"
+  locality: "Quirpon Island"
+  coordinates:
+    lat: 51.6399985
+    lng: -55.4269653
+niche_scope: entire_property
+niche_feature: "Ten rooms in a restored 1922 light-keeper's home at the base of a still-operating lighthouse on Quirpon Island; guests do not sleep in the tower. Page fetched via tool because direct curl returned 403."
+niche_source_url: "https://www.linkumtours.com/accommodations/quirpon-lighthouse-inn/"
+niche_verified_at: 2026-11-17
 ---
 
 Quirpon Lighthouse Inn (pronounced "kar-poon") occupies a 1922 light-keeper's home on Quirpon Island, in Newfoundland and Labrador. Restored by Linkum Tours, it has ten rooms at the base of a lighthouse that is still in operation, on the shores of what the region calls Iceberg Alley. The operator offers it as the quintessential experience of lighthouse life on a deserted island.

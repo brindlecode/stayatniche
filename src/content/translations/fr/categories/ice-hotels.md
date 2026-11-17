@@ -2,7 +2,7 @@
 source: ice-hotels
 title: "Hôtels de glace"
 tagline: "Sculptés par l'hiver, fondus au printemps"
-description: "Reconstruits entièrement chaque hiver à partir de milliers de tonnes de neige arctique et de glace de rivière, les hôtels de glace sont le luxe le plus éphémère au monde. Sculptés par des artistes internationaux, maintenus sous zéro et ouverts quelques mois seulement avant de retourner poétiquement à la rivière, ces palais gelés ne ressemblent à rien d'autre."
+description: "Reconstruits entièrement chaque hiver à partir de milliers de tonnes de neige arctique et de glace de rivière, les hôtels de glace comptent parmi les luxes les plus éphémères. Sculptés par des artistes internationaux, maintenus sous zéro et ouverts quelques mois seulement avant de retourner poétiquement à la rivière, ces palais gelés sont une expérience à part."
 stats:
   topDestination: "Jukkasjärvi, Suède"
 seo:

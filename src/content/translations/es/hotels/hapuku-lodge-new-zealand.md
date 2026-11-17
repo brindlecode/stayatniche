@@ -26,9 +26,9 @@ bestFor:
 prosAndCons:
   pros:
     - "Espectaculares vistas dobles, a la montaña y al océano, desde el mismo balcón"
-    - "Una de las mejores experiencias de lujo en los árboles del hemisferio sur"
+    - "Una experiencia de lujo en los árboles muy bien valorada del hemisferio sur"
     - "Una cocina extraordinaria con ingredientes realmente locales"
-    - "Kaikōura ofrece una de las faunas marinas más accesibles del mundo"
+    - "Kaikōura ofrece encuentros con la fauna marina fácilmente accesibles"
     - "Un servicio cálido y personal, propio de un negocio familiar"
   cons:
     - "Kaikōura está a 2,5 horas en coche de Christchurch"

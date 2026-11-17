@@ -22,7 +22,7 @@ mustSee:
 travelTips:
   - "Die Sicherheitskontrollen am Flughafen Ben Gurion sind gründlich – planen Sie für den Abflug 3 Stunden ein, mehr noch mit jordanischen oder ägyptischen Stempeln im Pass."
   - "Am Schabbat (Freitag bei Sonnenuntergang bis Samstagabend) ruht der öffentliche Nahverkehr weitgehend, und viele Geschäfte schließen; planen Sie entsprechend oder nutzen Sie private Taxis."
-  - "Israel gehört zu den weltweit führenden Ländern für nachhaltige Landwirtschaft und Lebensmittelinnovation – die Märkte und die Restaurantszene in Tel Aviv sind wirklich Weltklasse."
+  - "Israel gehört zu den weltweit führenden Ländern für nachhaltige Landwirtschaft und Lebensmittelinnovation – die Märkte und die Restaurantszene in Tel Aviv sind wirklich hervorragend."
   - "Den Negev erkunden Sie am besten mit dem Auto; öffentliche Verkehrsmittel erreichen den Großteil des Landesinneren nicht."
   - "Leitungswasser ist in ganz Israel trinkbar."
 seo:
@@ -32,7 +32,7 @@ seo:
 
 Israels landschaftliche Vielfalt steht in keinem Verhältnis zu seiner Größe. In einem Land von 22.000 Quadratkilometern – etwa der Fläche von Wales – können Sie morgens auf den verschneiten Hängen des Hermon stehen, nachmittags im See Genezareth schwimmen und abends von einem Plateau über dem Jordantal den Sonnenuntergang über der Negev-Wüste beobachten. Die Höhenlagen reichen von −430 Metern (am Toten Meer, dem tiefsten Punkt der Erdoberfläche) bis 2.814 Metern (am Hermon im Norden), und das Klima spannt sich entsprechend innerhalb einer einzigen Tagesfahrt von alpin bis hyperarid.
 
-Die Negev-Wüste – sie bedeckt 60 % der Landesfläche – ist jener Teil Israels, der Reisende immer wieder überrascht, deren Erwartungen von der biblischen und politischen Landschaft geprägt sind. Ihr Herzstück ist der Machtesch Ramon: ein geologisches Gebilde ohne genaue Entsprechung anderswo auf der Erde, entstanden weder durch einen Meteoriteneinschlag noch durch einen Vulkaneinsturz, sondern durch die Erosion einer Bergkuppel über 200 Millionen Jahre. Freigelegt wurde dabei ein vielfarbiger geologischer Querschnitt von 40 Kilometern Länge, 8 Kilometern Breite und 500 Metern Tiefe. Die Wanderungen darin – und auf dem Wegenetz durch das Negev-Hochland – gehören zu den schönsten Wüstentouren im Nahen Osten.
+Die Negev-Wüste – sie bedeckt 60 % der Landesfläche – ist jener Teil Israels, der Reisende immer wieder überrascht, deren Erwartungen von der biblischen und politischen Landschaft geprägt sind. Ihr Herzstück ist der Machtesch Ramon: ein geologisches Gebilde ohne genaue Entsprechung anderswo auf der Erde, entstanden weder durch einen Meteoriteneinschlag noch durch einen Vulkaneinsturz, sondern durch die Erosion einer Bergkuppel über 200 Millionen Jahre. Freigelegt wurde dabei ein vielfarbiger geologischer Querschnitt von 40 Kilometern Länge, 8 Kilometern Breite und 500 Metern Tiefe. Die Wanderungen darin – und auf dem Wegenetz durch das Negev-Hochland – gelten als besonders lohnende Wüstentouren im Nahen Osten.
 
 
 ## Anreise

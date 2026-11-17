@@ -28,8 +28,7 @@ bestFor:
   - "Arctic experience seekers"
   - "Unmissable travellers"
 bookingUrl: https://www.booking.com/hotel/no/sorrisniva-igloo-hotel.html
-rating: 9.0
-reviewCount: 847
+rating: 8.8
 coordinates:
   lat: 69.865147
   lng: 23.317615
@@ -41,6 +40,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Alta,+Finnmark"
     label: "Find Tours on Klook"
+location:
+  country: "Norway"
+  countryCode: "NO"
+  region: "Finnmark"
+  city: "Alta"
+  locality: "Sorrisniva"
+  coordinates:
+    lat: 69.865147
+    lng: 23.317615
+niche_scope: specific_rooms
+niche_feature: "Igloo Hotel of ice and snow rebuilt every winter (Dec 20 to Mar 31) with igloo rooms, family rooms and themed suites; the separate Arctic Wilderness Lodge offers ordinary warm rooms."
+niche_source_url: "https://www.sorrisniva.no/hotels/igloo-hotel"
+niche_verified_at: 2026-11-17
 ---
 
 Sorrisniva Igloo Hotel is built each winter on the frozen banks of the Alta River at 70 degrees north, and the location does serious work. Alta sits deep in the Finnmark plateau, the northernmost city in Norway of any significant size, and its Kp index readings regularly reach the threshold at which northern lights are not merely possible but reliable. This is one of the best aurora positions in Europe, with a proper hotel built around it rather than just a marketing claim attached to it.

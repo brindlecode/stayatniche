@@ -31,7 +31,6 @@ notIncluded:
   - Meals beyond warm drinks
   - Accommodation in the Highlands
 rating: 9.3
-reviewCount: 1432
 featured: false
 tags:
   - wild-swimming

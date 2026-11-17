@@ -24,13 +24,13 @@ bestFor:
   - "Parejas en busca de aislamiento absoluto"
 prosAndCons:
   pros:
-    - "Occy's Left con un máximo de diez surfistas es una propuesta que no existe en ningún otro lugar de Indonesia"
+    - "Occy's Left con un máximo de diez surfistas es una rara oportunidad de surfear sin aglomeraciones en Indonesia"
     - "Sumba es cultural y geográficamente distinta del resto de Indonesia"
     - "La Nihiwatu Foundation da a la estancia un verdadero contenido ético"
     - "Montar a caballo por playas vacías es exactamente lo que parece: excepcional"
   cons:
     - "Para llegar a Sumba hay que volar vía Bali o Lombok, lo que alarga bastante el viaje"
-    - "El alojamiento más caro de Indonesia, con diferencia"
+    - "Uno de los alojamientos más caros de Indonesia"
     - "Por la lejanía de Sumba, hay pocas opciones fuera del resort"
     - "El acceso al surf se paga aparte de una tarifa ya de por sí elevada"
 seasonalInfo:

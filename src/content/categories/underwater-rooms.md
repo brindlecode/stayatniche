@@ -12,7 +12,7 @@ featured: true
 order: 4
 seo:
   metaTitle: "Underwater Hotel Rooms, Sleep Beneath the Ocean | StayAtNiche"
-  metaDescription: "Experience the world's most exclusive underwater hotel rooms in the Maldives and beyond. Sleep surrounded by coral reefs and tropical fish in submerged luxury suites."
+  metaDescription: "Experience exclusive underwater hotel rooms in the Maldives and beyond. Sleep surrounded by coral reefs and tropical fish in submerged luxury suites."
 ---
 
 There are approximately eighteen places in the world where you can fall asleep beneath the surface of the ocean, watching reef fish navigate coral formations while manta rays pass overhead. Fewer than eighteen, depending on the season and which properties are operational. The number hasn't grown quickly because building underwater hotel rooms is genuinely difficult and expensive — which is exactly why they remain the rarest category in travel.

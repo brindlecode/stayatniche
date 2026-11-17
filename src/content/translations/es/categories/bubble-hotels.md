@@ -7,7 +7,7 @@ stats:
   topDestination: "Finlandia"
 seo:
   metaTitle: "Hoteles burbuja: dormir bajo las estrellas | StayAtNiche"
-  metaDescription: "Los mejores hoteles burbuja e iglús de cristal del mundo: de las burbujas para ver auroras boreales en Laponia a las cúpulas estelares de la Provenza."
+  metaDescription: "Hoteles burbuja e iglús de cristal con carácter: de las burbujas para ver auroras boreales en Laponia a las cúpulas estelares de la Provenza."
 ---
 
 Todo empezó en el Kakslauttanen Arctic Resort, en Saariselkä (Finlandia). A comienzos de la década de 2000, el complejo construyó cúpulas transparentes con aislamiento térmico pensadas para que los huéspedes pudieran contemplar la aurora boreal desde la cama. Hacia 2010 ya había llamado la atención del mundo entero y había dado origen a toda una categoría. Kakslauttanen sigue siendo uno de los hoteles más buscados del planeta: en temporada de auroras se llena con meses de antelación, y esa popularidad nunca se ha enfriado del todo.

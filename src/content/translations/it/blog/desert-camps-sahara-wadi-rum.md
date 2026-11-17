@@ -1,10 +1,10 @@
 ---
 source: desert-camps-sahara-wadi-rum
 title: "Campi nel deserto tra Sahara e Wadi Rum: la guida definitiva per dormire sotto le stelle"
-excerpt: "Dalle dune dell’Erg Chebbi in Marocco alle valli rosa della Giordania: scopri i campi nel deserto più straordinari del mondo, dove silenzio e stelle ridefiniscono il lusso."
+excerpt: "Dalle dune dell’Erg Chebbi in Marocco alle valli rosa della Giordania: scopri campi nel deserto straordinari, dove silenzio e stelle ridefiniscono il lusso."
 seo:
   metaTitle: "Campi nel deserto: Sahara e Wadi Rum | StayAtNiche"
-  metaDescription: "I più bei campi nel deserto del Sahara marocchino e del Wadi Rum in Giordania: tende di lusso, bolle sotto le stelle, periodo migliore e consigli pratici."
+  metaDescription: "Campi nel deserto del Sahara marocchino e del Wadi Rum in Giordania: tende di lusso, bolle sotto le stelle, periodo migliore e consigli pratici."
 ---
 
 Il Sahara e il Wadi Rum condividono una qualità che nessun progetto di resort può fabbricare: il silenzio assoluto. In una notte limpida, in entrambi i luoghi, guardi un cielo che la maggior parte delle persone oggi in vita non ha mai visto davvero: senza inquinamento luminoso, con la Via Lattea che corre da un orizzonte all’altro e stelle così luminose da proiettare ombre. Le formazioni di arenaria del Wadi Rum, in Giordania, erano già antiche prima che Roma esistesse. Le dune dell’Erg Chebbi, in Marocco, si spostano sotto gli stessi venti da millenni. È questo il contesto che rende straordinario il campeggio nel deserto, e non ha nulla a che vedere con la qualità delle lenzuola.
@@ -28,7 +28,7 @@ Ben addentro alle dune e lontano dal gruppo di campi vicino a Merzouga, lo Scara
 La filosofia progettuale è ragionata, non teatrale: niente finte torce né facchini in costume da caricatura, solo una ricostruzione onesta dell’estetica tradizionale del campo berbero applicata ad alloggi davvero confortevoli. I pasti si preparano nella cucina del campo e si servono intorno a un fuoco centrale; il menu attinge alla tradizione culinaria marocchina e tiene conto delle esigenze alimentari di oggi. Le escursioni in cammello all’alba e al tramonto sono gestite con una dignità che le fa sembrare vere esperienze culturali, non teatrini per turisti.
 
 **Fascia di prezzo:** da 200 € a persona a notte (pensione completa)
-**Ideale per:** coppie, piccoli gruppi, chi vuole la migliore esperienza dell’Erg Chebbi senza una patina troppo aziendale
+**Ideale per:** coppie, piccoli gruppi, chi vuole un’esperienza autentica dell’Erg Chebbi senza una patina troppo aziendale
 
 **Dar Ahlam, Skoura (con spedizioni nel deserto)**
 

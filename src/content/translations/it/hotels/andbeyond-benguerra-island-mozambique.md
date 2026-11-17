@@ -1,11 +1,11 @@
 ---
 source: andbeyond-benguerra-island-mozambique
 destination: Isola di Benguerra, arcipelago di Bazaruto
-description: "Un lodge isolato nell’arcipelago di Bazaruto, in Mozambico: un’area marina protetta dalla biodiversità straordinaria nell’Oceano Indiano, quattro ore a nord di Maputo. Quattordici casitas e ville si affacciano sulla spiaggia; il vero motivo per venire è il mare, con barriere coralline, branchi di dugonghi, mante, megattere in stagione e uno snorkeling di livello mondiale a portata di kayak dalla riva."
+description: "Un lodge isolato nell’arcipelago di Bazaruto, in Mozambico: un’area marina protetta dalla biodiversità straordinaria nell’Oceano Indiano, quattro ore a nord di Maputo. Quattordici casitas e ville si affacciano sulla spiaggia; il vero motivo per venire è il mare, con barriere coralline, branchi di dugonghi, mante, megattere in stagione e uno snorkeling eccellente a portata di kayak dalla riva."
 highlights:
   - L’area marina protetta dell’arcipelago di Bazaruto
   - Avvistamenti di dugonghi nell’Oceano Indiano occidentale
-  - Snorkeling e immersioni di livello mondiale su barriere intatte
+  - Snorkeling e immersioni eccellenti su barriere intatte
   - Uscite in dhow al tramonto
   - Un’isola remota, lontana da ogni traffico
 amenities:

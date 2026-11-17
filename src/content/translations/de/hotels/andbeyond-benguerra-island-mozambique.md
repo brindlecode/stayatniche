@@ -1,11 +1,11 @@
 ---
 source: andbeyond-benguerra-island-mozambique
 destination: Insel Benguerra, Bazaruto-Archipel
-description: "Eine abgelegene Insel-Lodge im Bazaruto-Archipel Mosambiks – einem Meeresschutzgebiet von außergewöhnlicher Artenvielfalt im Indischen Ozean, vier Stunden nördlich von Maputo. Vierzehn Casitas und Villen blicken auf den Strand; der eigentliche Grund für die Reise liegt jedoch im Meer davor: Korallenriffe, Dugong-Herden, Mantarochen, in der Saison Buckelwale und Schnorcheln der Weltklasse, nur eine Kajakfahrt vom Ufer entfernt."
+description: "Eine abgelegene Insel-Lodge im Bazaruto-Archipel Mosambiks – einem Meeresschutzgebiet von außergewöhnlicher Artenvielfalt im Indischen Ozean, vier Stunden nördlich von Maputo. Vierzehn Casitas und Villen blicken auf den Strand; der eigentliche Grund für die Reise liegt jedoch im Meer davor: Korallenriffe, Dugong-Herden, Mantarochen, in der Saison Buckelwale und hervorragendes Schnorcheln, nur eine Kajakfahrt vom Ufer entfernt."
 highlights:
   - Meeresschutzgebiet Bazaruto-Archipel
   - Dugong-Sichtungen im westlichen Indischen Ozean
-  - Schnorcheln und Tauchen der Weltklasse an unberührten Riffen
+  - Hervorragendes Schnorcheln und Tauchen an unberührten Riffen
   - Segeln in der Dau bei Sonnenuntergang
   - Abgelegene Insel ohne Durchgangsverkehr
 amenities:

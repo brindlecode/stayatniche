@@ -37,7 +37,7 @@ Komodovaranen zijn de grootste levende hagedissen ter wereld: tot drie meter lan
 Het nationaal park beschermt zowel Komodo als Rinca, plus een zeegebied dat zich over de omliggende zeestraat uitstrekt. Op Rinca zie je doorgaans betrouwbaarder varanen, dankzij een grotere populatie en opener terrein; op Komodo komen daar diepere boswandelingen en spectaculairdere landschappen bij.
 
 
-De Straat van Komodo ligt waar de Indische Oceaan en de Floreszee samenkomen, wat zorgt voor een buitengewone opwelling van voedingsstoffen en een zeeleven van duizelingwekkende rijkdom. Het duiken hier wordt steevast tot het beste ter wereld gerekend – niet om het zicht (dat door plankton matig kan zijn), maar om de dichtheid en verscheidenheid aan leven. Batu Bolong, een onderzeese berg, zit zo vol koraal en vissoorten dat fotografen eerder door hun geheugenkaart heen zijn dan door hun onderwerpen.
+De Straat van Komodo ligt waar de Indische Oceaan en de Floreszee samenkomen, wat zorgt voor een buitengewone opwelling van voedingsstoffen en een zeeleven van duizelingwekkende rijkdom. Het duiken hier staat bij duikers wereldwijd steevast in hoog aanzien – niet om het zicht (dat door plankton matig kan zijn), maar om de dichtheid en verscheidenheid aan leven. Batu Bolong, een onderzeese berg, zit zo vol koraal en vissoorten dat fotografen eerder door hun geheugenkaart heen zijn dan door hun onderwerpen.
 
 Bij Manta Point zie je het hele droge seizoen voorspelbaar groepen rifmanta's en reuzenmanta's: dieren met een spanwijdte tot vijf meter die naast je salto's draaien in de stroming. Ook als je niet duikt, is het snorkelen op verschillende plekken uitzonderlijk, en tochten met een glasbodemboot vanuit Labuan Bajo geven je een kijkje in de ondiepere riffen.
 

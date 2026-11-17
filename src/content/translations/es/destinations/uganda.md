@@ -15,7 +15,7 @@ mustSee:
   - "Trekking de gorilas de montaña en el Bosque Impenetrable de Bwindi: una hora con una familia de gorilas que te cambia la vida de verdad"
   - "Habituación de chimpancés en el bosque de Kibale: sigue a una familia de chimpancés salvajes del amanecer al anochecer junto a los investigadores"
   - "Parque Nacional Queen Elizabeth: leones trepadores en el sector de Ishasha y safaris en barco por el canal de Kazinga"
-  - "Cataratas Murchison, la cascada más potente del mundo, donde el Nilo se abre paso por una garganta de 7 metros"
+  - "Cataratas Murchison, una de las cascadas más potentes del mundo, donde el Nilo se abre paso por una garganta de 7 metros"
   - "Nacimiento del Nilo, Jinja: el punto exacto donde el Nilo sale del lago Victoria, con rafting en aguas bravas"
   - "Montes Rwenzori, las «Montañas de la Luna», con trekking por glaciares en pleno ecuador"
 travelTips:
@@ -39,4 +39,4 @@ El alojamiento en torno a Bwindi ha madurado hasta situarse entre los mejores al
 
 Uganda se malinterpreta una y otra vez como un destino de una sola especie. El Parque Nacional de Kibale, cuatro horas al norte de Bwindi, ofrece el trekking de chimpancés más fiable de África y, algo único, una experiencia de habituación de chimpancés de un día entero en la que los visitantes siguen a una familia desde que se despiertan en sus nidos al amanecer hasta el anochecer, junto al equipo de investigación. El Parque Nacional Queen Elizabeth tiene los famosos leones trepadores de Ishasha y safaris en barco por el canal de Kazinga, donde hipopótamos, búfalos y elefantes se concentran en gran número.
 
-Las cataratas Murchison comprimen el Nilo de 50 metros de ancho a 7 y lo precipitan 43 metros en una exhibición de pura fuerza hidráulica. La espuma y el estruendo desde el mirador de la base son sobrecogedores. Es la cascada más potente del mundo en volumen por anchura, y lo sientes físicamente cuando estás debajo.
+Las cataratas Murchison comprimen el Nilo de 50 metros de ancho a 7 y lo precipitan 43 metros en una exhibición de pura fuerza hidráulica. La espuma y el estruendo desde el mirador de la base son sobrecogedores. Es una de las cascadas más potentes del mundo en volumen por anchura, y lo sientes físicamente cuando estás debajo.

@@ -25,7 +25,6 @@ bestFor:
   - "Couples who want a town base"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Urgup%20Inn%20Cave%20Hotel%2C%20%C3%9Crg%C3%BCp&adults=2"
 rating: 7.6
-reviewCount: 0
 coordinates:
   lat: 38.6329054
   lng: 34.9114102
@@ -34,6 +33,19 @@ sourceId: "osm:node/388372093"
 verifiedAt: 2026-10-09
 publishedDate: 2026-10-09
 status: published
+location:
+  country: "Turkey"
+  countryCode: "TR"
+  region: "Nevşehir"
+  city: "Ürgüp"
+  locality: "Temenni"
+  coordinates:
+    lat: 38.6329054
+    lng: 34.9114102
+niche_scope: specific_rooms
+niche_feature: "Family house converted into a 10-room hotel; only room 105 (Jacuzzi Deluxe Cave Room, 'Mağara Oda', an arched room made of two joined rooms) is named a cave room. The other rooms are standard en-suite rooms."
+niche_source_url: "https://urgupinncavehotel.com/odalar/jakuzili-delux-magara-oda-no-105/"
+niche_verified_at: 2026-11-17
 ---
 
 Urgup Inn Cave Hotel is only lightly cave-themed, and its page should be read that way. It is a comfortable family-run hotel in a converted family house in central Ürgüp. Of its ten rooms, only one, room 105 (a Jacuzzi Deluxe Cave Room), is listed as a cave room. The rest are traditionally furnished en-suite rooms.

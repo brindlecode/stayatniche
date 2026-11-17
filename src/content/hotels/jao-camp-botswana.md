@@ -4,7 +4,7 @@ category: safari-lodges
 destination: "Jao Concession, Okavango Delta"
 country: "Botswana"
 continent: "Africa"
-description: "Jao Camp occupies one of the finest concessions in the Okavango Delta, a 60,000-acre private wilderness of permanent and seasonal floodplains, islands, and channels that supports some of Africa's densest wildlife concentrations. The camp's treehouse-style architecture and Wilderness Safaris' service make it one of the continent's most singular safari lodges."
+description: "Jao Camp occupies a private concession in the Okavango Delta, a 60,000-acre private wilderness of permanent and seasonal floodplains, islands, and channels that supports some of Africa's densest wildlife concentrations. The camp's treehouse-style architecture and Wilderness Safaris' service make it one of the continent's most singular safari lodges."
 coverImage: /images/hotels/jao-camp-botswana.jpg
 gallery:
   - /images/hotels/jao-camp-botswana-2.jpg
@@ -14,7 +14,7 @@ priceIndicator: 5
 highlights:
   - "Extraordinary private 60,000-acre concession in the heart of the Okavango Delta"
   - "Multi-activity safaris, game drives, mokoro canoes, motorboat, and walking"
-  - "Some of the finest large mammal concentrations in the Okavango"
+  - "Notable large mammal concentrations in the Okavango"
   - "The Delta flooding cycle creates ever-changing seasonal landscapes"
   - "Rare red lechwe herds and sitatunga in the floodplains"
   - "Exceptional birding, over 400 species in the concession"
@@ -44,7 +44,6 @@ prosAndCons:
     - "Malaria precautions are essential in this part of Botswana"
 bookingUrl: https://www.booking.com/
 rating: 9.6
-reviewCount: 487
 seasonalInfo:
   bestTime: June to October when the Delta is flooded and dry season concentrates game
   peakSeason: July to September
@@ -64,7 +63,7 @@ coordinates:
 featured: false
 status: published
 seo:
-  metaTitle: "Jao Camp Review, Okavango Delta's Finest Private Concession, Botswana"
+  metaTitle: "Jao Camp Review, Private Okavango Concession, Botswana"
   metaDescription: "Wilderness Safaris' Jao Camp in the Okavango Delta. Exceptional water and land safaris, treehouse suites, and one of Africa's most biodiverse private concessions. From $1,500/night."
 affiliateLinks:
   - partner: "expedia"
@@ -73,6 +72,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Jao+Concession,+Okavango+Delta"
     label: "Find Tours on Klook"
+location:
+  country: "Botswana"
+  countryCode: "BW"
+  region: "North-West"
+  city: "Maun"
+  locality: "Jao Reserve, Okavango Delta"
+  coordinates:
+    lat: -19.2833
+    lng: 22.8667
+niche_scope: entire_property
+niche_feature: "Seven units (five suites and two villas) on a private island in the Jao Reserve, Okavango Delta; mokoro, boat and game-drive safaris. Described as architectural, not as treehouses."
+niche_source_url: "https://jaoreserve.com/jao-camp/"
+niche_verified_at: 2026-11-17
 ---
 
 The Okavango Delta is one of the natural world's most singular creations: a river that flows from the mountains of Angola and empties not into the sea but into the flat, sand-filled interior of the Kalahari, spreading across 15,000 square kilometres of Botswana in a system of channels, lagoons, floodplains, and islands that supports some of Africa's most concentrated wildlife. The water that falls as rain in Angola months earlier arrives in the Delta as an annual pulse of life, the flood that fills the channels and transforms the landscape from semi-arid savanna to a glittering inland sea.
@@ -81,6 +93,6 @@ Jao Camp sits within a 60,000-acre private concession that captures the full ran
 
 The architecture responds to the elevated, island setting with suites built on platforms above the ground level, their thatched rooflines blending into the canopy of the trees that surround them. Private plunge pools extend over the floodplain on some suites, and the outdoor spaces are designed for the observation of wildlife that passes beneath and around the structure. Elephant frequently walk within metres of the guest areas, and the birdlife audible from a suite's deck through the early morning is a wildlife experience in itself.
 
-The birding across the Jao concession is among the finest available anywhere in Africa. Over 400 species have been recorded in the area, from the vivid colours of bee-eaters and kingfishers to the massive Pel's fishing owl that hunts the channels at night and the African fish eagle whose cry is the defining sound of African water. Dedicated birding activities can be arranged and specialist guide knowledge is exceptional.
+The birding across the Jao concession is excellent. Over 400 species have been recorded in the area, from the vivid colours of bee-eaters and kingfishers to the massive Pel's fishing owl that hunts the channels at night and the African fish eagle whose cry is the defining sound of African water. Dedicated birding activities can be arranged and specialist guide knowledge is exceptional.
 
 Jao is a fly-in property; charter flights from Maun, itself connected to Johannesburg and other regional hubs, take approximately 45 minutes and provide views across the Delta that rank among the most striking perspectives on this landscape. The all-inclusive cost reflects the operational complexity of running a premium camp in one of the world's most remote and logistically demanding locations, but the result, for those for whom this level of wilderness experience is the point of travel, is without compromise.

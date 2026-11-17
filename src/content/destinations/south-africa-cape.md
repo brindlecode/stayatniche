@@ -18,7 +18,7 @@ mustSee:
   - "Cape of Good Hope, southwesternmost point of Africa, wild Atlantic coastline"
   - "Boulders Beach, Simon's Town, colony of 3,000 African penguins"
   - "Stellenbosch and Franschhoek wine valleys, exceptional wine paired with extraordinary mountain scenery"
-  - "Hermanus, the world's best land-based whale watching (Southern Right Whales, July–November)"
+  - "Hermanus, widely regarded as one of the world's best land-based whale watching sites (Southern Right Whales, July–November)"
   - "Robben Island, where Nelson Mandela was imprisoned; essential historical context"
 travelTips:
   - "Cape Town has high rates of petty theft and car break-ins, never leave valuables visible in a parked car, and be aware in the CBD after dark."

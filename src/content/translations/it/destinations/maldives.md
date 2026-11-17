@@ -28,7 +28,7 @@ travelTips:
   - "Per la maggior parte dei visitatori è indispensabile un’assicurazione di viaggio che copra le immersioni."
 seo:
   metaTitle: "Maldive: ville sull’acqua e atolli | StayAtNiche"
-  metaDescription: "Scopri le Maldive oltre il catalogo: bungalow sull’acqua, atolli privati, spiagge bioluminescenti e i migliori siti d’immersione al mondo. La guida completa."
+  metaDescription: "Scopri le Maldive oltre il catalogo: bungalow sull’acqua, atolli privati, spiagge bioluminescenti e siti d’immersione di fama. La guida completa."
 ---
 
 Le immagini sono tutte vere. Un’acqua turchese così limpida da sembrare finta, ville su palafitte sospese sopra giardini di corallo, una sabbia che scricchiola sotto i piedi. Ma quello che le fotografie non catturano è il silenzio. Qui, 800 chilometri a sud-ovest dell’India, l’oceano Indiano si estende fino a ogni orizzonte e l’unico suono è quello dell’acqua. È un tipo di quiete particolare, che non si dimentica.

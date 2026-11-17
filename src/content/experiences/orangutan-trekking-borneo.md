@@ -31,7 +31,6 @@ notIncluded:
   - Flights to Lahad Datu, Sabah
   - Meals beyond field lunch
 rating: 9.7
-reviewCount: 743
 featured: false
 tags:
   - orangutan

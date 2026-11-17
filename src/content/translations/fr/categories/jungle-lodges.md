@@ -2,7 +2,7 @@
 source: jungle-lodges
 title: "Lodges dans la jungle"
 tagline: "Au cœur de la canopée, loin de l'ordinaire"
-description: "Des lodges perchés dans la forêt de nuages du Costa Rica aux camps fluviaux de Bornéo, voisins des orangs-outans, en passant par les refuges du bassin amazonien au Pérou et au Brésil, les lodges dans la jungle offrent une immersion dans la biodiversité qu'aucun autre type d'hébergement ne peut approcher. Faune extraordinaire, paysages sonores primitifs et vrai luxe font de ces séjours en forêt l'un des souvenirs de voyage les plus marquants qui soient."
+description: "Des lodges perchés dans la forêt de nuages du Costa Rica aux camps fluviaux de Bornéo, voisins des orangs-outans, en passant par les refuges du bassin amazonien au Pérou et au Brésil, les lodges dans la jungle offrent une immersion dans la biodiversité que peu d'autres types d'hébergement peuvent approcher. Faune extraordinaire, paysages sonores primitifs et vrai luxe font de ces séjours en forêt l'un des souvenirs de voyage les plus marquants qui soient."
 stats:
   topDestination: "Costa Rica"
 seo:
@@ -30,7 +30,7 @@ Les meilleurs lodges dans la jungle ne se contentent pas de côtoyer la conserva
 Au Costa Rica, la Certification for Sustainable Tourism (CST) et le partenariat avec la Rainforest Alliance offrent des références vérifiées de façon indépendante. Cette distinction a des conséquences très concrètes : les lodges réellement engagés dans la conservation offrent de plus belles rencontres avec la faune, car les animaux y sont en meilleure santé, plus nombreux et moins habitués aux perturbations.
 
 
-Le **Costa Rica** dispose de l'offre d'écolodges la plus aboutie au monde. Son réseau de parcs nationaux couvre plus de 25 % du territoire, et les établissements de la péninsule d'Osa (voisine du parc de Corcovado, décrit par National Geographic comme l'endroit le plus riche en biodiversité de la planète), de Tortuguero et de la forêt de nuages de Monteverde figurent au sommet de la catégorie à l'échelle mondiale.
+Le **Costa Rica** dispose d'une offre d'écolodges très développée. Son réseau de parcs nationaux couvre plus de 25 % du territoire, et les établissements de la péninsule d'Osa (voisine du parc de Corcovado, décrit par National Geographic comme l'endroit le plus riche en biodiversité de la planète), de Tortuguero et de la forêt de nuages de Monteverde figurent parmi les exemples les plus aboutis de la catégorie.
 
 **Bornéo** offre des rencontres avec des orangs-outans en semi-liberté, mais aussi des nasiques, des éléphants pygmées et l'une des listes d'oiseaux les plus riches du monde. Les lodges au bord des rivières, au Sabah et au Sarawak, y sont la norme. L'**Amazonie péruvienne**, notamment autour de la réserve nationale de Tambopata, près de Puerto Maldonado, compte parmi les parties les mieux préservées du bassin amazonien : les falaises d'argile qui attirent simultanément des centaines d'aras offrent un spectacle sans équivalent dans le voyage animalier.
 

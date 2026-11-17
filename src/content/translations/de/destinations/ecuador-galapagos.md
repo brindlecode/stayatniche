@@ -1,7 +1,7 @@
 ---
 source: ecuador-galapagos
 name: "Ecuador und die Galápagos-Inseln"
-description: "Die Galápagos-Inseln sind das größte Evolutionslabor der Erde: 127 Inseln und Eilande, auf denen sich Tiere ohne natürliche Feinde entwickelten und bis heute keine Scheu vor Menschen zeigen. Das ecuadorianische Festland ergänzt sie um Nebelwaldreservate, das Amazonasbecken und die außergewöhnliche Kolonialaltstadt von Quito – zu einer der vielseitigsten Reiserouten Südamerikas."
+description: "Die Galápagos-Inseln gehören zu den berühmtesten Evolutionslaboren der Erde: 127 Inseln und Eilande, auf denen sich Tiere ohne natürliche Feinde entwickelten und bis heute keine Scheu vor Menschen zeigen. Das ecuadorianische Festland ergänzt sie um Nebelwaldreservate, das Amazonasbecken und die außergewöhnliche Kolonialaltstadt von Quito – zu einer der vielseitigsten Reiserouten Südamerikas."
 essentials:
   currency: "USD (Ecuador nutzt den US-Dollar)"
   language: "Spanisch (Amtssprache); im Hochland und im Amazonasgebiet wird Kichwa (Quechua) gesprochen"
@@ -39,6 +39,6 @@ Die zentrale Entscheidung auf Galápagos lautet: Kreuzfahrtschiff oder Unterkunf
 
 Das ecuadorianische Festland wird routinemäßig als bloße Durchgangsstation nach Galápagos behandelt – ein erheblicher Fehler. Das Centro Histórico von Quito ist die am besten erhaltene koloniale Altstadt Amerikas: ein UNESCO-Welterbe mit außergewöhnlichen Kirchen, Klöstern und Plätzen, kompakt genug, um es zu Fuß zu erkunden. Die Seilbahn Teleférico führt am Vulkan Pichincha über der Stadt auf 4.050 Meter hinauf und eröffnet eine Perspektive, die die Dimension der Anden sofort begreifbar macht.
 
-Der Nebelwald von Mindo, zwei Stunden westlich von Quito, zählt zu den besten Vogelbeobachtungszielen der Welt: Über 500 Arten leben auf kleiner Waldfläche, erschlossen durch hervorragende Lodges. [Dschungel-Lodges](/categories/jungle-lodges) im ecuadorianischen Amazonasgebiet – Napo Wildlife Center, Sacha Lodge – bieten ernsthafte Tiererlebnisse auf einem Kontinent, den Galápagos traditionell in den Schatten stellt. Vor allem das Wildreservat Cuyabeno ermöglicht von Lodges echter Qualität aus Bootsbegegnungen mit Amazonasdelfinen, Riesenottern und Mohrenkaimanen.
+Der Nebelwald von Mindo, zwei Stunden westlich von Quito, ist ein bekanntes Ziel für Vogelbeobachtung: Über 500 Arten leben auf kleiner Waldfläche, erschlossen durch hervorragende Lodges. [Dschungel-Lodges](/categories/jungle-lodges) im ecuadorianischen Amazonasgebiet – Napo Wildlife Center, Sacha Lodge – bieten ernsthafte Tiererlebnisse auf einem Kontinent, den Galápagos traditionell in den Schatten stellt. Vor allem das Wildreservat Cuyabeno ermöglicht von Lodges echter Qualität aus Bootsbegegnungen mit Amazonasdelfinen, Riesenottern und Mohrenkaimanen.
 
 Flüge nach Galápagos starten in Quito (UIO) und Guayaquil (GYE) und landen auf Baltra oder San Cristóbal. Nur LATAM und Avianca Ecuador bedienen die Strecke – buchen Sie über Ihre Kreuzfahrt oder Ihr Hotel als Teil eines Pakets. Die Gebühr für den Galápagos-Nationalpark (200 US-Dollar pro Person, Stand 2024) wird bei Ankunft bezahlt, zusätzlich zur TCC. Die Gesamtkosten sind beträchtlich. Ebenso unbestreitbar ist aber, dass Galápagos zu den ganz wenigen Orten der Erde gehört, die die Erwartungen ihres eigenen legendären Rufs regelmäßig übertreffen.

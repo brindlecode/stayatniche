@@ -19,7 +19,6 @@ bestFor:
   - "Families"
 bookingUrl: "https://www.baumhaushotel-solling.de/"
 rating: 8.4
-reviewCount: 0
 coordinates:
   lat: 51.7076166
   lng: 9.5570866
@@ -28,6 +27,18 @@ sourceId: "osm:node/1768803607"
 verifiedAt: 2026-11-15
 publishedDate: 2026-11-17
 status: published
+location:
+  country: "Germany"
+  countryCode: "DE"
+  region: "Lower Saxony"
+  city: "Uslar"
+  coordinates:
+    lat: 51.7076166
+    lng: 9.5570866
+niche_scope: entire_property
+niche_feature: "Ten heated treehouses for two to five guests, plus tree tents strung between trunks about 1.5 metres above the ground, in the Solling forest (official site, read 2026-11-15 under the treehouse rule)."
+niche_source_url: "https://www.baumhaushotel-solling.de/"
+niche_verified_at: 2026-11-17
 ---
 
 Baumhaushotel Solling is a treehouse hotel in the forest of the Solling, in the Weserbergland of Lower Saxony. It opened in 2008 and was the first treehouse hotel in the state. Its guests come from near and far.

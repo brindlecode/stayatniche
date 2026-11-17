@@ -23,7 +23,6 @@ bestFor:
   - "Families (family suites available)"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Sultan%20Cave%20Suites%2C%20G%C3%B6reme&adults=2"
 rating: 8.7
-reviewCount: 0
 coordinates:
   lat: 38.6414393
   lng: 34.8255848
@@ -32,6 +31,19 @@ sourceId: "osm:node/3764833635"
 verifiedAt: 2026-10-09
 publishedDate: 2026-10-09
 status: published
+location:
+  country: "Turkey"
+  countryCode: "TR"
+  region: "Nevşehir"
+  city: "Göreme"
+  locality: "Aydınlı Hill"
+  coordinates:
+    lat: 38.6414393
+    lng: 34.8255848
+niche_scope: entire_property
+niche_feature: "35 rooms described as authentic cave accommodations built upon ancient cave dwellings with original cave walls preserved, on Aydınlı Hill above Göreme; home page calls them 'cave and stone' lodgings, no per-room split given."
+niche_source_url: "https://www.sultancavesuites.com/en/about"
+niche_verified_at: 2026-11-17
 ---
 
 Sultan Cave Suites stands on Aydınlı Hill, a historic spot above Göreme village. It was built over cave houses that local people used for centuries, and the original cave walls were carefully preserved. The hotel has 35 rooms.

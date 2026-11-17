@@ -30,7 +30,6 @@ notIncluded:
   - Huayna Picchu or Machu Picchu Mountain ticket (separate booking)
   - Personal travel insurance
 rating: 9.5
-reviewCount: 3241
 featured: true
 tags:
   - machu-picchu

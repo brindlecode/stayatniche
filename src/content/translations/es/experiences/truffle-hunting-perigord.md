@@ -2,7 +2,7 @@
 source: truffle-hunting-perigord
 title: "Búsqueda de trufas en el Périgord"
 destination: "Périgord Noir, Dordoña"
-description: "Recorre antiguos robledales en la tierra trufera más célebre de Francia junto a un perro adiestrado, un apasionado trufficulteur y con la posibilidad de desenterrar el diamante negro de la cocina francesa, la trufa del Périgord, Tuber melanosporum, a pocos centímetros bajo la superficie de bosquetes centenarios de roble pubescente. Esta experiencia de medio día combina la emoción de la búsqueda, una formación íntima en una de las culturas gastronómicas más exclusivas del mundo y una degustación que cambiará para siempre tu relación con este ingrediente extraordinario."
+description: "Recorre antiguos robledales en una de las tierras truferas más conocidas de Francia junto a un perro adiestrado, un apasionado trufficulteur y con la posibilidad de desenterrar el diamante negro de la cocina francesa, la trufa del Périgord, Tuber melanosporum, a pocos centímetros bajo la superficie de bosquetes centenarios de roble pubescente. Esta experiencia de medio día combina la emoción de la búsqueda, una formación íntima en una de las culturas gastronómicas más exclusivas del mundo y una degustación que cambiará para siempre tu relación con este ingrediente extraordinario."
 booking:
   price: "Desde 120 US$ por persona"
   duration: "Medio día (3-4 horas)"

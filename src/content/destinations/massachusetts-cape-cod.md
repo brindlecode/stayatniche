@@ -17,7 +17,7 @@ bestTimeToVisit:
 mustSee:
   - "Cape Cod National Seashore, 40 miles of protected Atlantic-facing beaches, dunes, and cliffs from Eastham to Provincetown"
   - "Provincetown, the Cape's most distinctive town: art galleries, independent restaurants, and a vibrant year-round LGBTQ+ community"
-  - "Wellfleet Oyster Beds, some of the finest oysters in the world, available directly from harbor dockside shacks"
+  - "Wellfleet Oyster Beds, well-regarded oysters, available directly from harbor dockside shacks"
   - "Race Point Lighthouse, accessible by foot or off-road vehicle across the Province Lands dunes"
   - "Sandwich, the Cape's oldest town, with a historic glass museum and the Heritage Museums & Gardens"
 travelTips:

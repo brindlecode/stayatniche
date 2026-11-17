@@ -1,17 +1,17 @@
 ---
 source: lighthouse-hotels-coastal-guide
 title: "Vuurtorenhotels: de complete gids voor overnachten in een maritiem icoon"
-excerpt: "Van de ruige kusten van Ierland tot de zongebleekte stranden van de Middellandse Zee: ontdek de bijzonderste vuurtorenhotels en vuurtorenwachterswoningen ter wereld."
+excerpt: "Van de ruige kusten van Ierland tot de zongebleekte stranden van de Middellandse Zee: ontdek bijzondere vuurtorenhotels en vuurtorenwachterswoningen."
 seo:
   metaTitle: "Vuurtorenhotels wereldwijd: de complete gids | StayAtNiche"
-  metaDescription: "De mooiste vuurtorenhotels ter wereld, van Ierland en Schotland tot Noorwegen en Nieuw-Zeeland. Slaap in een oude vuurtorenwachterswoning aan zee."
+  metaDescription: "Vuurtorenhotels van Ierland en Schotland tot Noorwegen en Nieuw-Zeeland. Slaap in een oude vuurtorenwachterswoning aan zee, met prijzen en praktische tips."
 ---
 
 Er is een reden dat vuurtorens al eeuwenlang tot de verbeelding spreken. Ze staan aan de randen van continenten en eilanden, op kapen die worden geteisterd door Atlantische stormen en mediterrane scirocco's, en ze vertellen een verhaal van afzondering, plichtsbesef en natuurgeweld dat diep resoneert. Het leven van de vuurtorenwachter, die het licht door stormen heen brandend hield, alleen in een toren boven beukende golven, heeft een hele literatuur en mythologie voortgebracht.
 
 Nu de techniek vuurtorenwachters overbodig heeft gemaakt, zijn veel van de spectaculairst gelegen vuurtorens ter wereld opengesteld voor reizigers. Slapen in een omgebouwde vuurtoren of vuurtorenwachterswoning is echt met geen enkele andere accommodatievorm te vergelijken. De zee is overal, de afzondering is meestal diep en het licht is buitengewoon: zowel de lichtbundel van de toren als het kustlicht overdag.
 
-Deze gids zet de mooiste vuurtorenhotels ter wereld op een rij, van de wilde Atlantische kust van Ierland tot de afgelegen noordpunt van Nieuw-Zeeland, met praktisch advies over wat je kunt verwachten.
+Deze gids zet vuurtorenhotels op een rij, van de wilde Atlantische kust van Ierland tot de afgelegen noordpunt van Nieuw-Zeeland, met praktisch advies over wat je kunt verwachten.
 
 ---
 
@@ -47,7 +47,7 @@ Ardnamurchan Point is het westelijkste punt van het Britse vasteland: een afgele
 
 **Corsewall Lighthouse Hotel, Dumfries and Galloway**
 
-Anders dan de meeste Schotse vuurtorenaccommodaties is Corsewall verbouwd tot een hotel met volledige service in plaats van een huisje waar je zelf kookt. De zes kamers en suites in de omgebouwde vuurtorengebouwen kijken uit over de Firth of Clyde en de Mull of Kintyre. Het restaurant, met lokale vis en zeevruchten en Schots rundvlees, is de beste plek om te eten in de omgeving. De vuurtoren zelf dateert uit 1815 en is nog altijd in gebruik.
+Anders dan de meeste Schotse vuurtorenaccommodaties is Corsewall verbouwd tot een hotel met volledige service in plaats van een huisje waar je zelf kookt. De zes kamers en suites in de omgebouwde vuurtorengebouwen kijken uit over de Firth of Clyde en de Mull of Kintyre. Het restaurant, met lokale vis en zeevruchten en Schots rundvlees, is een van de populairste plekken om te eten in de omgeving. De vuurtoren zelf dateert uit 1815 en is nog altijd in gebruik.
 
 **Prijsindicatie:** Vanaf £ 120 per nacht (logies en ontbijt)
 **Ideaal voor:** Stellen, reizigers die liever hotelservice hebben dan zelf koken, wie Dumfries and Galloway verkent

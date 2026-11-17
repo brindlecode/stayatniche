@@ -1,7 +1,7 @@
 ---
 source: australia-outback
 name: "Outback australiano"
-description: "El outback australiano es uno de los últimos grandes espacios vacíos del planeta: un paisaje rojo y antiquísimo de llanuras ocres, cielos de un azul imposible y arte rupestre aborigen de decenas de miles de años. Uluru y el desierto que lo rodea ofrecen un encuentro profundamente conmovedor con la geología y la historia humana, sin parangón en ningún otro lugar de la Tierra."
+description: "El outback australiano es uno de los últimos grandes espacios vacíos del planeta: un paisaje rojo y antiquísimo de llanuras ocres, cielos de un azul imposible y arte rupestre aborigen de decenas de miles de años. Uluru y el desierto que lo rodea ofrecen un encuentro profundamente conmovedor con la geología y la historia humana, difícil de encontrar en otros lugares de la Tierra."
 essentials:
   currency: "AUD (dólar australiano)"
   language: "Inglés; en las comunidades de toda la región se hablan decenas de lenguas aborígenes"
@@ -12,7 +12,7 @@ bestTimeToVisit:
   summary: "De mayo a septiembre (estación seca y más fresca)"
   details: "El invierno austral (de mayo a septiembre) es la única época cómoda para visitar el outback: de día las temperaturas oscilan entre 20 y 28 °C y las noches son frescas, pero sin un frío excesivo. El verano (de octubre a abril) trae un calor extremo —en el Centro Rojo son habituales los más de 45 °C— y, de vez en cuando, riadas que pueden cortar las carreteras durante días. Los meses de transición, abril y octubre, ofrecen días cálidos y noches frías, con unas condiciones excelentes para fotografiar Uluru."
 mustSee:
-  - "Uluru (Ayers Rock): los cambios de color al amanecer y al atardecer en el monolito más sagrado del mundo"
+  - "Uluru (Ayers Rock): los cambios de color al amanecer y al atardecer en un monolito de profundo significado sagrado para los anangu"
   - "Kata Tjuta (The Olgas), formación rocosa de 36 cúpulas con la ruta del Valle de los Vientos"
   - "Kings Canyon, en el Parque Nacional Watarrka: paredes de arenisca de 270 m sobre el Jardín del Edén"
   - "Parque Nacional Kakadu: arte rupestre aborigen antiquísimo y enormes humedales en el Top End"
@@ -26,7 +26,7 @@ travelTips:
   - "Hazte con un comunicador por satélite (SPOT o Garmin inReach) para cualquier viaje remoto: en este entorno, es un equipo que de verdad salva vidas."
 seo:
   metaTitle: "Outback australiano: guía de Uluru y desierto | StayAtNiche"
-  metaDescription: "Guía del outback australiano: Uluru, Kata Tjuta, Kakadu y las gargantas del Kimberley, con los lodges y campamentos de desierto más extraordinarios de Australia."
+  metaDescription: "Guía del outback australiano: Uluru, Kata Tjuta, Kakadu y las gargantas del Kimberley, con lodges y campamentos de desierto extraordinarios."
 ---
 
 El outback australiano ocupa aproximadamente el 70 % del continente y alberga a menos del uno por ciento de su población. La roca de Uluru tiene unos 550 millones de años. Las montañas erosionadas de la Pilbara, en Australia Occidental, contienen parte del lecho rocoso expuesto más antiguo del planeta. Los pueblos aborígenes de Australia llevan al menos 65 000 años viviendo en relación ininterrumpida con este paisaje, lo que convierte la suya en la cultura viva más antigua de la Tierra. Vale la pena detenerse a pensar en ello antes de llegar.

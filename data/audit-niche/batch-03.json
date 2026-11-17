@@ -1,0 +1,288 @@
+[
+ {
+  "slug": "castello-di-guarene-italy",
+  "name": "Castello di Guarene",
+  "official_url": "https://castellodiguarene.com/",
+  "source_url": "https://castellodiguarene.com/it/camere",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Guests sleep in rooms and suites inside the 18th-century Baroque Castello di Guarene (built from 1726 over a medieval fort); room types are all Castle rooms/suites plus a Classic room, some beside the oldest spaces.",
+  "evidence_quote": "Camere che accedono al cuore del Castello di Guarene. Sono le stanze adiacenti agli spazi più antichi",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site presents the whole hotel as the historic castle, with period rooms inside the Baroque building.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Piedmont",
+   "city": "Guarene",
+   "locality": null
+  },
+  "page_issues": []
+ },
+ {
+  "slug": "castello-di-montaldo-italy",
+  "name": "Castello di Montaldo",
+  "official_url": "https://www.castellomontaldotorino.it/",
+  "source_url": "https://www.castellomontaldotorino.it/en/castle-history.php",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "All 39 rooms and suites are in the medieval castle (founded c. 1011-1038, later a villa and Jesuit college), including suites in its towers and the former chapel.",
+  "evidence_quote": "The castle, presumably founded between 1011 and 1038 under Landolfo Vescovo of Turin, was completed in approximately 1080",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Hotel occupies the whole medieval castle; rooms/suites described in the towers and old chapel.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Piedmont",
+   "city": "Montaldo Torinese",
+   "locality": null
+  },
+  "page_issues": [
+   "Page says 20 suites and 19 rooms; the official English rooms page lists 20 double rooms and 19 suites (12 Prestige, 4 Romantic, 2 Tower, 1 Diplomatic), while the Italian home page says 20 suites and 19 rooms.",
+   "3,000 m2 spa and Saunatur recognition not found on the pages checked."
+  ]
+ },
+ {
+  "slug": "castello-di-monterone-italy",
+  "name": "Castello di Monterone",
+  "official_url": "https://www.castellomonterone.com/it/",
+  "source_url": "https://www.castellomonterone.com/it/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Eighteen rooms in an old medieval castle converted to a residenza d'epoca; the hotel says it is a real castle. Rooms are named for castle features (drawbridge, arrow slits, keys).",
+  "evidence_quote": "Diciotto camere dotate di tutti i comfort, in un antico castello trasformato in Residenza d’Epoca e arredato nel rispetto della sua storia.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "All 18 rooms are inside the converted medieval castle, per the official site.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Umbria",
+   "city": "Perugia",
+   "locality": "Monterone"
+  },
+  "page_issues": [
+   "Page says 13th-century; official history says the building dates back at least to the 11th century (documented 1200)."
+  ]
+ },
+ {
+  "slug": "castello-di-oviglio-italy",
+  "name": "Castello di Oviglio",
+  "official_url": "https://www.castellodioviglio.it/it",
+  "source_url": "https://www.castellodioviglio.it/it/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Nine rooms (4 suites, 2 junior suites, 3 comfort doubles) in the Castello di Oviglio, on the site of a fortified castrum documented from 1367; also a wedding and conference venue.",
+  "evidence_quote": "Il Castello di Oviglio ospita oggi una realtà ricettiva di grande carattere, preservando gli ambienti e gli spazi originari.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "The nine bookable rooms are inside the historic castle per the official relais page.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Piedmont",
+   "city": "Oviglio",
+   "locality": null
+  },
+  "page_issues": []
+ },
+ {
+  "slug": "castello-di-proceno-italy",
+  "name": "Castello di Proceno",
+  "official_url": "https://www.castellodiproceno.it/",
+  "source_url": "https://www.castellodiproceno.it/accoglienza/appartamenti/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Albergo diffuso in the Proceno castle complex (pentagonal fortress with keep, two turrets, working drawbridge): apartments and suites in the fortino and courtyard, plus four rooms in a former wall tower. Separate farmhouse Il Giulione is outside the castle.",
+  "evidence_quote": "Il Castello di Proceno è una fortezza a base pentagonale che comprende una torre principale e due torrette secondarie",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Apartments, suites and rooms are in the castle complex and its wall tower; the site also lets a separate farmhouse.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Lazio",
+   "city": "Proceno",
+   "locality": null
+  },
+  "page_issues": [
+   "Site also offers Il Giulione, a separate farmhouse 12 km away (6 rooms), not mentioned on the page.",
+   "Page says four rooms; apartments page lists three rooms (Caciaia, Collinella, Poggiolo) plus Belvedere."
+  ]
+ },
+ {
+  "slug": "castello-di-septe-italy",
+  "name": "Castello di Septe",
+  "official_url": "https://castellodisepte.com/",
+  "source_url": "https://castellodisepte.com/hotel-castello-di-septe/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "45 rooms in the restored Castello di Septe, an early-medieval (Lombard-era, 6th-8th century) hilltop castle declared a national monument; the hotel offers its rooms inside the castle.",
+  "evidence_quote": "Restaurato con dedizione e dichiarato Monumento Nazionale dal Ministero dei Beni Culturali, oggi accoglie gli ospiti",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site presents the hotel as the whole restored castle; 45 rooms designed within the historic architecture.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Abruzzo",
+   "city": "Mozzagrogna",
+   "locality": "Castel di Sette"
+  },
+  "page_issues": []
+ },
+ {
+  "slug": "castello-fai-italy",
+  "name": "Castello Fai",
+  "official_url": "https://www.castellofai.com",
+  "source_url": "https://castellofai.com/en/castello-fai-welcome/castello-fai/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Three self-catering apartments (Torre del Baron, Residenza delle Contesse, and Castello Fai, which combines the two) in the same 17th-century hunting-lodge castle (Ciastel) in Fai della Paganella.",
+  "evidence_quote": "The 170m² apartment is located on the ground floor of the castle, which consists of three residential units with separate entrances.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "All bookable units are apartments within the historic castle; it is apartments, not a hotel.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Trentino",
+   "city": "Fai della Paganella",
+   "locality": null
+  },
+  "page_issues": [
+   "The Castello Fai apartment is the Torre del Baron and Residenza delle Contesse units combined, not a separate third home."
+  ]
+ },
+ {
+  "slug": "castello-la-leccia-italy",
+  "name": "Castello la Leccia",
+  "official_url": "https://www.castellolaleccia.com/",
+  "source_url": "https://www.castellolaleccia.com/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Hotel rooms are in the castle (documented since 1077, made villa-like in the 18th century, restored 2012); the adjacent Casa La Leccia apartment (5 doubles) is a separate building. Site never states exactly which building holds the 12 rooms.",
+  "evidence_quote": "Il Castello sarà a vostra disposizione con le sue camere, i saloni, il ristorante, la piscina, la SPA",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Castle history documented and rooms described as the castle's; apartment next door is separate and the 12-room placement is only implied.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Tuscany",
+   "city": "Castellina in Chianti",
+   "locality": "La Leccia"
+  },
+  "page_issues": [
+   "Official site does not explicitly place the 12 rooms inside the castle; Casa La Leccia is a separate adjacent apartment.",
+   "Castle was altered in the 18th century to look more like a villa."
+  ]
+ },
+ {
+  "slug": "castello-tafuri-italy",
+  "name": "Castello Tafuri Charming Suites",
+  "official_url": "https://www.castellotafuri.it/",
+  "source_url": "https://www.castellotafuri.it/castello/il-castello/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Eighteen rooms and suites in Castello Tafuri, a crenellated villa built in castle form (designed 1933, started 1935, hotel from 1964, closed 1998 and reopened after renovation). Borderline: a 20th-century castle-style building, not a medieval fortress.",
+  "evidence_quote": "Il committente Franzo Bruno di Belmonte affida la realizzazione di una villa in forma di castello all’architetto fiorentino",
+  "operating": "unknown",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "All rooms are inside the castle-form villa; borderline because it dates from 1935, not a medieval castle.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Sicily",
+   "city": "Portopalo di Capo Passero",
+   "locality": null
+  },
+  "page_issues": [
+   "Page calls it a historic castle; the official history says it is a villa built in castle form from 1935 (hotel use 1964, closed 1998).",
+   "Site shows online booking under renewal and a 2021 copyright; current operating status could not be confirmed."
+  ]
+ },
+ {
+  "slug": "dalhousie-castle-united-kingdom",
+  "name": "Dalhousie Castle",
+  "official_url": "https://dalhousiecastle.co.uk/",
+  "source_url": "https://www.dalhousiecastle.co.uk/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "35 rooms: Castle Classic, Deluxe, Junior Suite, Four Poster, Suite and two Feature Rooms are in the 800-year-old castle; Lodge rooms (Classic, Deluxe, Junior Suite, Suite) are a separate modern building in the grounds. Counts per group not given.",
+  "evidence_quote": "Set within eleven acres of private parkland just outside Edinburgh, Dalhousie Castle has stood for over 800 years.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Real medieval castle, but only the Castle-category rooms are inside it; Lodge rooms are separate.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Scotland",
+   "city": "Bonnyrigg",
+   "locality": null
+  },
+  "page_issues": [
+   "Page says it describes itself as Scotland's oldest inhabited castle; the current official site says one of Scotland's oldest inhabited castles."
+  ]
+ },
+ {
+  "slug": "dornoch-castle-hotel-united-kingdom",
+  "name": "Dornoch Castle Hotel",
+  "official_url": "https://www.dornochcastlehotel.com/",
+  "source_url": "https://dornochcastlehotel.com/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "9 of 21 rooms are inside the 15th-century castle; the other 12 are in a modern extension.",
+  "evidence_quote": "featuring 21 rooms – nine are located within our 15th-century castle, while the remaining twelve rooms are set within our modern extension",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Genuine 15th-century castle, but only nine of 21 rooms are inside it.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Scotland",
+   "city": "Dornoch",
+   "locality": null
+  },
+  "page_issues": []
+ },
+ {
+  "slug": "dromoland-castle-ireland",
+  "name": "Dromoland Castle",
+  "official_url": "https://www.dromoland.ie/",
+  "source_url": "https://www.dromoland.ie/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Suites are set within the original castle walls; the site does not state where its other castle room categories sit. Castle is the 1835 Gothic Revival rebuild of the O'Brien seat, hotel since 1963. Self-catering lodges are separate.",
+  "evidence_quote": "set within the original Castle Walls, each unique suite is a self-contained slice of heaven.",
+  "operating": "closed",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Genuine castle hotel; only the suites are explicitly in the castle. Castle currently closed for refurbishment, bookings from May 2027 (lodges open).",
+  "treehouse_structure": null,
+  "location": {
+   "region": "County Clare",
+   "city": "Newmarket-on-Fergus",
+   "locality": null
+  },
+  "page_issues": [
+   "Official site says the castle is temporarily closed for refurbishment; castle bookings from May 2027, self-catering lodges still open.",
+   "Page says castle built in the 16th century; the current building dates from 1835 (Gothic Revival, per Wikipedia).",
+   "Claims about old stone-tower rooms vs newer wing, 9.3 rating and 1,247 reviews were not confirmed by the official site."
+  ]
+ }
+]

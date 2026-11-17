@@ -4,7 +4,7 @@ category: jungle-lodges
 destination: "Kachemak Bay, Homer, Alaska, USA"
 country: USA
 continent: North America
-description: "A remote cabin lodge on the south shore of Kachemak Bay, accessible only by floatplane or water taxi from Homer, with brown bears on the beach, halibut fishing in world-class waters, and a coastline that the state highway system cannot reach."
+description: "A remote cabin lodge on the south shore of Kachemak Bay, accessible only by floatplane or water taxi from Homer, with brown bears on the beach, halibut fishing in productive waters, and a coastline that the state highway system cannot reach."
 coverImage: "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=900&q=80&auto=format&fit=crop"
 gallery: []
 priceRange: "$400 - $700"
@@ -41,8 +41,7 @@ prosAndCons:
     - "Alaska's short season (June–September) compresses availability significantly"
     - "Rustic cabin accommodation, not a luxury resort"
 bookingUrl: https://www.expedia.com/Homer-Hotels.d6291.Travel-Guide-Hotels
-rating: 9.1
-reviewCount: 312
+rating: 8.5
 seasonalInfo:
   bestTime: "June to September"
   peakSeason: "July to August"
@@ -62,7 +61,7 @@ coordinates:
 featured: false
 editorsPick: false
 trending: false
-status: published
+status: draft
 seo:
   metaTitle: "Sadie Cove Wilderness Lodge Review — Kachemak Bay, Alaska | StayAtNiche"
   metaDescription: "Remote floatplane-access wilderness lodge on Kachemak Bay, Alaska. Brown bears, halibut fishing, and Kachemak Bay State Park as your back garden. From $400/night."
@@ -73,6 +72,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Homer,+Alaska"
     label: "Find Tours on Klook"
+location:
+  country: "United States"
+  countryCode: "US"
+  region: "Alaska"
+  city: "Homer"
+  locality: "Sadie Cove, Kachemak Bay"
+  coordinates:
+    lat: 59.51096
+    lng: -151.383726
+niche_scope: unverified
+niche_feature: "Official site states the lodge is closed and is turning the grounds into a bee project; no guest accommodation offered. Also an Alaskan coastal wilderness lodge, not rainforest/jungle."
+niche_source_url: "https://www.sadiecove.com/"
+niche_verified_at: 2026-11-17
 ---
 
 Kachemak Bay is one of those places that Alaska keeps for itself. The bay cuts deep into the Kenai Peninsula south of Homer, bordered on one side by the road-accessible small town and fishing port, and on the other by Kachemak Bay State Park — 400,000 acres of coastline, mountains, glaciers, and forest that the Alaska highway system cannot reach. Sadie Cove Wilderness Lodge sits on the park's shore, accessible by floatplane from Homer's small strip or by water taxi across the bay.

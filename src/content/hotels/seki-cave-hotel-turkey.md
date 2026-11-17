@@ -23,7 +23,6 @@ bestFor:
   - "Pet owners"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Seki%20Cave%20Hotel%2C%20%C3%87avu%C5%9Fin&adults=2"
 rating: 8.4
-reviewCount: 0
 coordinates:
   lat: 38.6663118
   lng: 34.8426829
@@ -32,6 +31,18 @@ sourceId: "osm:node/6802840785"
 verifiedAt: 2026-10-09
 publishedDate: 2026-10-09
 status: published
+location:
+  country: "Turkey"
+  countryCode: "TR"
+  region: "Nevşehir"
+  city: "Çavuşin"
+  coordinates:
+    lat: 38.6663118
+    lng: 34.8426829
+niche_scope: entire_property
+niche_feature: "Hotel built in 2015 by the Kelebek Group and described as a cave boutique hotel with cave suites and deluxe cave rooms; some twin/double rooms are not individually labelled cave."
+niche_source_url: "https://www.sekicavehotel.com/en/about-us"
+niche_verified_at: 2026-11-17
 ---
 
 Seki Cave Hotel is in Çavuşin, a village about 3 km from Göreme. The hotel's name comes from the Turkish word for terraced platforms, and the terraces are the point: the hotel says guests can watch sunrise, sunset and the hot air balloons from a private terrace. The site presents the whole property as a cave hotel.

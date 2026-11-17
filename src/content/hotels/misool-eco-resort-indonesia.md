@@ -30,8 +30,7 @@ bestFor:
   - Snorkellers
   - Conservation-minded travellers
 bookingUrl: https://www.booking.com/hotel/id/misool-eco-resort.html
-rating: 9.5
-reviewCount: 312
+rating: 8.8
 coordinates:
   lat: -1.8667
   lng: 130.0833
@@ -46,6 +45,19 @@ affiliateLinks:
 seo:
   metaTitle: "Misool Eco Resort Review: Overwater Bungalows in Raja Ampat | StayAtNiche"
   metaDescription: "Misool Eco Resort: overwater bungalows in the world's most biodiverse marine ecosystem. Raja Ampat diving, private no-take reserve, manta rays and coral triangle."
+location:
+  country: "Indonesia"
+  countryCode: "ID"
+  region: "Southwest Papua"
+  city: "Raja Ampat"
+  locality: "Misool"
+  coordinates:
+    lat: -1.8667
+    lng: 130.0833
+niche_scope: specific_rooms
+niche_feature: "8 Water Cottages built on stilts over the North Lagoon, plus 4 North Lagoon Villas (at least two on stilts); the other villas are on South Beach or a hilltop. 20 units in total."
+niche_source_url: "https://misool.info/accommodation"
+niche_verified_at: 2026-11-17
 ---
 
 Raja Ampat translates as "Four Kings" — a reference to the four main islands of an archipelago in West Papua that sits at the heart of the Coral Triangle, the global centre of marine biodiversity. The numbers are staggering: over 1,500 species of fish, 700 species of molluscs, and 600 species of coral — more than the entire Caribbean — compressed into the waters around this island chain. Marine biologists who have spent careers studying reef systems describe Raja Ampat's dive sites as unlike anything else they have encountered.

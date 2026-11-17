@@ -21,7 +21,6 @@ bestFor:
   - "Slow travel"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Il%20Borgo%20del%20Castello%2C%20Cremolino&adults=2"
 rating: 8.1
-reviewCount: 0
 coordinates:
   lat: 44.6360623
   lng: 8.5856261
@@ -30,6 +29,18 @@ sourceId: "osm:node/7135940646"
 verifiedAt: 2026-10-11
 publishedDate: 2026-10-11
 status: published
+location:
+  country: "Italy"
+  countryCode: "IT"
+  region: "Piedmont"
+  city: "Cremolino"
+  coordinates:
+    lat: 44.6360623
+    lng: 8.5856261
+niche_scope: entire_property
+niche_feature: "Guest house with three rooms (Rosa, Giglio, Tulipano) in a 14th-century building built into the lower circuit of walls of Cremolino castle, up to the old sentry walkway."
+niche_source_url: "https://www.ilborgodelcastello.it/la-dimora.html"
+niche_verified_at: 2026-11-17
 ---
 
 Il Borgo del Castello is a small guest house in Cremolino, in Alto Monferrato in Piedmont. It sits inside the medieval walls of the town's castle, in a building dating to the 1300s, and the owners describe the stay as a journey in time rather than a simple overnight.

@@ -21,7 +21,6 @@ bestFor:
   - "Groups of friends"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Augill%20Castle%2C%20Kirkby%20Stephen&adults=2"
 rating: 8.7
-reviewCount: 0
 coordinates:
   lat: 54.5194351
   lng: -2.3014254
@@ -30,6 +29,19 @@ sourceId: "osm:node/5316410834"
 verifiedAt: 2026-10-10
 publishedDate: 2026-10-10
 status: published
+location:
+  country: "United Kingdom"
+  countryCode: "GB"
+  region: "England"
+  city: "Kirkby Stephen"
+  locality: "Augill"
+  coordinates:
+    lat: 54.5194351
+    lng: -2.3014254
+niche_scope: specific_rooms
+niche_feature: "19th-century castle; castle rooms (most with four-posters) are in the castle itself, but the hotel also lets Garden Suites, Family Estate Houses and a Stable House outside the main building."
+niche_source_url: "https://stayinacastle.com/"
+niche_verified_at: 2026-11-17
 ---
 
 Augill Castle is a 19th-century Gothic Revival castle in the Eden Valley in Cumbria, a country house that was originally a private residence and later converted into a hotel. It sits between the Yorkshire Dales and the Lake District, on what the owners describe as the geographical centre of the British Isles, four miles outside the market town of Kirkby Stephen.

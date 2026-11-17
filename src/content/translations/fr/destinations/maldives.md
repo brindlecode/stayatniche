@@ -28,7 +28,7 @@ travelTips:
   - "Une assurance voyage couvrant la plongée est indispensable pour la plupart des visiteurs."
 seo:
   metaTitle: "Maldives : bungalows sur pilotis et atolls | StayAtNiche"
-  metaDescription: "Les Maldives au-delà de la brochure : bungalows sur pilotis, atolls privés, plages bioluminescentes et certains des plus beaux sites de plongée au monde."
+  metaDescription: "Les Maldives au-delà de la brochure : bungalows sur pilotis, atolls privés, plages bioluminescentes et des sites de plongée réputés. Le guide complet."
 ---
 
 Les images sont toutes vraies. Une eau turquoise si limpide qu'elle paraît artificielle, des villas sur pilotis suspendues au-dessus des jardins de corail, un sable qui crisse sous les pieds. Mais ce que les photos ne saisissent pas, c'est le silence. Ici, à 800 kilomètres au sud-ouest de l'Inde, l'océan Indien s'étend jusqu'à chaque horizon et le seul bruit est celui de l'eau. Un silence d'un genre particulier, qu'on n'oublie pas.

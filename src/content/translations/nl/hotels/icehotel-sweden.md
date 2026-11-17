@@ -1,16 +1,16 @@
 ---
 source: icehotel-sweden
 destination: Jukkasjärvi, Zweeds Lapland
-description: "Het originele ijshotel, sinds 1990 elke winter volledig opnieuw opgebouwd uit bevroren ijs van de Torne. In de zomer blijft ICEHOTEL 365 open met 20 suites die het hele jaar op -5 °C worden gehouden. Dat maakt het het enige permanente ijshotel ter wereld en het meest iconische koude-weerverblijf op aarde."
+description: "Het originele ijshotel, sinds 1990 elke winter volledig opnieuw opgebouwd uit bevroren ijs van de Torne. In de zomer blijft ICEHOTEL 365 open met 20 suites die het hele jaar op -5 °C worden gehouden. Dat maakt het een ijshotel dat het hele jaar open is en een van de bekendste verblijven in de kou ter wereld."
 highlights:
-  - Het eerste en beroemdste ijshotel ter wereld, open sinds 1990
+  - Het originele ijshotel, open sinds 1990 en een van de bekendste ter wereld
   - ICEHOTEL 365 het hele jaar open, met 20 gekoelde kunstsuites
   - Het winterhotel wordt elk jaar opnieuw gebouwd door internationale kunstenaars, in ijs en sneeuw
   - Elke kunstsuite is een unieke samenwerking tussen kunstenaars en architectuur
   - IJsbar met cocktails in glazen van ijs bij -5 °C
   - "'s Winters noorderlicht, 's zomers op ontdekking onder de middernachtszon"
   - Hondensleetochten, sneeuwscooterexpedities en workshops ijsbeeldhouwen
-  - Eigen kapel, de koudste trouwlocatie ter wereld
+  - Eigen kapel voor winterbruiloften
 amenities:
   - Kunstsuite uitgehouwen in ijs van de Torne (gehouden op -5 °C)
   - Slaapzak op rendiervel op een ijsbed (ook warme kamer beschikbaar)
@@ -27,7 +27,7 @@ bestFor:
   - Liefhebbers van het poolgebied
 prosAndCons:
   pros:
-    - Het originele en meest iconische ijshotel, nergens anders na te bootsen
+    - Het originele ijshotel, nergens anders na te bootsen
     - Door de kunstsuites van internationale kunstenaars is elk jaar compleet anders
     - Door ICEHOTEL 365 is het het hele jaar open, dus geen enkel seizoen is een slecht moment
     - De complete arctische ervaring, met hondensleeën, noorderlicht, ijs en middernachtszon
@@ -51,10 +51,10 @@ nearbyAttractions:
     distance: 80 km
 seo:
   metaTitle: "ICEHOTEL Zweden: slapen in het ijshotel | StayAtNiche"
-  metaDescription: "Het eerste ijshotel ter wereld, sinds 1990 elke winter opgebouwd uit ijs van de Torne. Kunstsuites op -5 °C, noorderlicht en middernachtszon, vanaf $ 500."
+  metaDescription: "Het originele ijshotel, sinds 1990 elke winter opgebouwd uit ijs van de Torne. Kunstsuites op -5 °C, noorderlicht en middernachtszon, vanaf $ 500."
 ---
 
-Alles begint bij de rivier. De Torne, die op weg naar de Botnische Golf de grens tussen Zweden en Finland vormt, bevriest elke november tot meer dan een meter diep: een massa uitzonderlijk zuiver, kristalhelder ijs die voor architectonische doeleinden haar gelijke niet kent in de wereld. Uit deze rivier haalden Yngve Bergqvist en een team Japanse kunstenaars in 1989 de eerste blokken, en daarvan bouwden ze – als experiment en zonder enige zekerheid dat het zou lukken – het eerste hotel ter wereld dat volledig van ijs was gemaakt.
+Alles begint bij de rivier. De Torne, die op weg naar de Botnische Golf de grens tussen Zweden en Finland vormt, bevriest elke november tot meer dan een meter diep: een massa uitzonderlijk zuiver, kristalhelder ijs die zich uitstekend leent voor architectonische doeleinden. Uit deze rivier haalden Yngve Bergqvist en een team Japanse kunstenaars in 1989 de eerste blokken, en daarvan bouwden ze – als experiment en zonder enige zekerheid dat het zou lukken – het eerste hotel ter wereld dat volledig van ijs was gemaakt.
 
 Ruim drie decennia later is ICEHOTEL nog altijd in bedrijf in Jukkasjärvi, een dorp van zo'n 900 inwoners op de poolcirkel in Zweeds Lapland, en het is nooit uitzonderlijker geweest dan nu.
 

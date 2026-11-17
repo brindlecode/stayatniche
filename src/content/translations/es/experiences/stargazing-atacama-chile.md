@@ -2,12 +2,12 @@
 source: stargazing-atacama-chile
 title: "Observación de estrellas en el desierto de Atacama"
 destination: "San Pedro de Atacama"
-description: "Levanta la vista a 2400 metros de altitud en el desierto más seco del planeta y contempla el cielo nocturno como lo veían los seres humanos antes de la electricidad: una Vía Láctea tan densa y tridimensional que proyecta una tenue sombra, las Nubes de Magallanes visibles a simple vista como galaxias satélite de la nuestra y la Cruz del Sur girando sobre tu cabeza en un despliegue de densidad cósmica que atrae hasta Atacama a astrónomos profesionales de todo el mundo. Aquí está el mejor cielo nocturno del mundo, y compartirlo con un astrónomo que lo conoce a fondo es una de las experiencias más profundas que puede ofrecer un viaje."
+description: "Levanta la vista a 2400 metros de altitud en el desierto más seco del planeta y contempla el cielo nocturno como lo veían los seres humanos antes de la electricidad: una Vía Láctea tan densa y tridimensional que proyecta una tenue sombra, las Nubes de Magallanes visibles a simple vista como galaxias satélite de la nuestra y la Cruz del Sur girando sobre tu cabeza en un despliegue de densidad cósmica que atrae hasta Atacama a astrónomos profesionales de todo el mundo. Aquí está uno de los mejores cielos nocturnos del mundo, y compartirlo con un astrónomo que lo conoce a fondo es una de las experiencias más profundas que puede ofrecer un viaje."
 booking:
   price: "Desde 55 US$ por persona"
   duration: "3-4 horas (por la noche)"
 highlights:
-  - "Disfruta del cielo nocturno más limpio del mundo a 2400 m de altitud en Atacama"
+  - "Disfruta de uno de los cielos nocturnos más limpios del mundo a 2400 m de altitud en Atacama"
   - "Telescopios profesionales que revelan los anillos de Saturno, nebulosas y cúmulos estelares"
   - "Guía astrónomo experto que explica la mitología y la ciencia del cielo austral"
   - "Vía Láctea, Nube Grande y Nube Pequeña de Magallanes y Cruz del Sur a simple vista"
@@ -28,7 +28,7 @@ notIncluded:
   - "Alojamiento en San Pedro de Atacama"
 seo:
   metaTitle: "Observación de estrellas en Atacama, Chile | StayAtNiche"
-  metaDescription: "Contempla el cielo más limpio del mundo a 2400 m en el desierto de Atacama, con telescopios profesionales y astrónomos expertos. Desde 55 US$ por persona."
+  metaDescription: "Contempla uno de los cielos más limpios del mundo a 2400 m en el desierto de Atacama, con telescopios profesionales y astrónomos expertos. Desde 55 US$."
 ---
 
 El Observatorio Europeo Austral eligió este lugar por algo. La red de radiotelescopios ALMA está aquí por algo. En sus zonas interiores, Atacama recibe menos de un milímetro de lluvia al año, se encuentra por encima de los 2400 metros, apenas tiene polvo y casi no hay asentamientos humanos en cientos de kilómetros a la redonda. Esa combinación crea unas condiciones atmosféricas que los astrónomos profesionales sitúan entre las mejores del planeta para observar. No hace falta un doctorado para notar la diferencia.

@@ -4,12 +4,12 @@ title: "Safari-Lodges in Afrika: Der große Ratgeber zu den schönsten Wildnisun
 excerpt: "Von den Ebenen der Serengeti bis ins Okavango-Delta: Entdecken Sie Afrikas beste Safari-Lodges, in denen außergewöhnliche Tierbegegnungen auf herausragenden Luxus treffen."
 seo:
   metaTitle: "Die besten Safari-Lodges in Afrika: Ratgeber | StayAtNiche"
-  metaDescription: "Afrikas schönste Safari-Lodges von Tansania bis Botswana: Expertentipps zu den besten Häusern, zur richtigen Reisezeit und zur Buchung Ihrer Safari."
+  metaDescription: "Herausragende Safari-Lodges in Afrika von Tansania bis Botswana: Expertentipps zu den besten Häusern, zur richtigen Reisezeit und zur Buchung Ihrer Safari."
 ---
 
 Vor Tagesanbruch in einem afrikanischen Buschcamp aufwachen und den Löwen lauschen, die durch die Dunkelheit rufen – dann in einen offenen Land Cruiser steigen, während das erste Licht über der Savanne anbricht: Diese Sinneseindrücke fügen sich zu etwas zusammen, das keine andere Reise bietet. Safari-Lodges sind um das herum gebaut, was draußen liegt, nicht drinnen. Die Unterkünfte der besten Häuser sind hervorragend – doch sie stehen ganz im Dienst der Begegnung mit den Tieren.
 
-Der Markt der Safari-Lodges ist deutlich gereift. Er reicht heute von ultraminimalistischen Fly Camps in Wildniskonzessionen mit gerade einmal drei Angestellten bis zu privaten Villen mit mehreren Suiten, Infinity-Pools mit Blick auf Wasserstellen und eigenem Butler. Die Spitzenhäuser können bei Service, Küche und Zimmerqualität mit den besten Stadthotels der Welt mithalten – und schlagen sie in Sachen Lage um Längen.
+Der Markt der Safari-Lodges ist deutlich gereift. Er reicht heute von ultraminimalistischen Fly Camps in Wildniskonzessionen mit gerade einmal drei Angestellten bis zu privaten Villen mit mehreren Suiten, Infinity-Pools mit Blick auf Wasserstellen und eigenem Butler. Die Spitzenhäuser können bei Service, Küche und Zimmerqualität mit erstklassigen Stadthotels mithalten – und schlagen sie in Sachen Lage um Längen.
 
 Dieser Ratgeber stellt die wichtigsten Reiseziele vor und empfiehlt konkrete Lodges für unterschiedliche Budgets und Prioritäten.
 
@@ -49,10 +49,10 @@ Die kenianische Masai Mara ist der nördliche Ausläufer desselben Ökosystems. 
 
 **Angama Mara**
 
-Angama liegt am Rand des Oloololo-Steilhangs, 1.800 Fuß über den Ebenen der Mara, mit zwei Camps aus je 15 Zeltsuiten und Blick über das Mara-Dreieck bis zu den Hügeln Tansanias. Die Aussicht ist die beste aller Lodges in der Masai Mara. Das Fotografieprogramm – in Zusammenarbeit mit renommierten Tierfotografen – ist das stärkste Kenias. Wenn Sie es mit der Tierfotografie ernst meinen, ist dies Ihr Ziel.
+Angama liegt am Rand des Oloololo-Steilhangs, 1.800 Fuß über den Ebenen der Mara, mit zwei Camps aus je 15 Zeltsuiten und Blick über das Mara-Dreieck bis zu den Hügeln Tansanias. Die Aussicht ist die beste aller Lodges in der Masai Mara. Das Fotografieprogramm – in Zusammenarbeit mit renommierten Tierfotografen – gehört zu den stärksten Kenias. Wenn Sie es mit der Tierfotografie ernst meinen, ist dies Ihr Ziel.
 
 **Preisspanne:** Ab 1.200 $ pro Person und Nacht
-**Ideal für:** Fotografiebegeisterte, Paare und alle, die die besten Sichtachsen der Mara suchen
+**Ideal für:** Fotografiebegeisterte, Paare und alle, die eindrucksvolle Ausblicke über die Mara suchen
 
 **Mahali Mzuri, das kenianische Safaricamp von Richard Branson**
 

@@ -16,7 +16,7 @@ Was die besten Schlosshotels von gewöhnlichen historischen Häusern unterscheid
 ---
 
 
-Schottland kann mit gutem Grund für sich beanspruchen, das weltweit führende Ziel für Aufenthalte in Schlosshotels zu sein. Die bewegte Geschichte des Landes – jahrhundertelange Clanfehden, Konflikte mit England und die Umwälzungen der Highland Clearances – brachte eine außergewöhnliche Dichte an befestigten Wohnsitzen hervor, von denen viele zu Hotels unterschiedlicher Qualität und Preisklasse umgebaut wurden.
+Schottland kann mit gutem Grund für sich beanspruchen, eines der weltweit führenden Ziele für Aufenthalte in Schlosshotels zu sein. Die bewegte Geschichte des Landes – jahrhundertelange Clanfehden, Konflikte mit England und die Umwälzungen der Highland Clearances – brachte eine außergewöhnliche Dichte an befestigten Wohnsitzen hervor, von denen viele zu Hotels unterschiedlicher Qualität und Preisklasse umgebaut wurden.
 
 
 Das Inverlochy gilt weithin als Schottlands bestes Schlosshotel. Es liegt am Fuß des Ben Nevis in den schottischen Highlands, umgeben von einem 500 Acres großen privaten Anwesen. 1863 im Scottish-Baronial-Stil für den ersten Lord Abinger erbaut, wird das Schloss seit 1969 als Hotel geführt und ist heute eine der gefeiertsten Adressen Schottlands. Königin Victoria wohnte 1873 hier und schrieb in ihr Tagebuch, die Aussicht sei die schönste, die sie je in den Highlands gesehen habe.

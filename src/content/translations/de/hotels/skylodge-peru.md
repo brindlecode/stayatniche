@@ -22,12 +22,12 @@ amenities:
   - Rundumblick auf Berge und Tal
 bestFor:
   - Schwindelfreie Abenteuerreisende
-  - Paare auf der Suche nach dem spektakulärsten romantischen Erlebnis der Welt
+  - Paare auf der Suche nach einem spektakulären romantischen Erlebnis
   - Fotografen, die das Morgen- und Abendlicht der Anden einfangen wollen
   - Alle, die ein Erlebnis suchen, das man nicht verpassen sollte
 prosAndCons:
   pros:
-    - Absolut unvergleichliche Aussicht – wohl der spektakulärste Hotelstandort der Welt
+    - Außergewöhnliche Aussicht von einem der spektakulärsten Hotelstandorte überhaupt
     - Die körperliche Anstrengung des Aufstiegs lässt das Erlebnis zutiefst verdient wirken
     - Wirklich intim – bei nur drei Kapseln gibt es keinen Andrang
     - Das Gourmet-Dinner in der Höhe ist ein außergewöhnliches Erlebnis
@@ -58,10 +58,10 @@ Nach etwa zwei Dritteln des Klettersteigs, der in die rote Granitwand des Berges
 
 Dann blicken sie nach oben und sehen ihr Bett für die Nacht, fünfzig Meter höher an die Felswand geschraubt.
 
-Die Skylodge Adventure Suites, betrieben von Natura Vive im Heiligen Tal Perus, können mit Recht behaupten, der kühnste Schlafplatz der Welt zu sein. Die drei hängenden Kapseln – Rahmen aus Luftfahrt-Aluminium mit transparenten Polycarbonatplatten – sind rund 400 Meter über dem Talgrund direkt im Berg verankert. Jede bietet Platz für bis zu vier Gäste, am besten funktioniert das Erlebnis aber zu zweit. Die besondere Intimität eines durchsichtigen Raums, der in der dünnen Andenluft schwebt, verträgt kaum mehr Gesellschaft als ein Paar.
+Die Skylodge Adventure Suites, betrieben von Natura Vive im Heiligen Tal Perus, gehören zu den kühnsten Schlafplätzen der Welt. Die drei hängenden Kapseln – Rahmen aus Luftfahrt-Aluminium mit transparenten Polycarbonatplatten – sind rund 400 Meter über dem Talgrund direkt im Berg verankert. Jede bietet Platz für bis zu vier Gäste, am besten funktioniert das Erlebnis aber zu zweit. Die besondere Intimität eines durchsichtigen Raums, der in der dünnen Andenluft schwebt, verträgt kaum mehr Gesellschaft als ein Paar.
 
 Schon der Aufstieg macht deutlich, dass dies kein Hotel für jeden ist – und er tut das, ohne sich dafür zu entschuldigen. Die Gäste legen am Talgrund ihre Gurte an und beginnen den Klettersteig – eine mit Eisenbügeln und Stahlseilen gesicherte Route, die für jeden mit ordentlicher Fitness auch ohne Klettererfahrung zu bewältigen ist. Je nach Tempo und je nachdem, wie lange man staunend stehen bleibt, dauert er ein bis zwei Stunden. Alternativ können die Gäste am Ende ihres Aufenthalts per Zipline vom Gipfel hinabsausen: eine absurde, herrlich vergnügte Art, ein Hotel zu verlassen.
 
-In der Kapsel reduziert sich alles aufs Wesentliche. Richtige Matratzen mit Decken aus Andenwolle. Ein kleiner Esstisch. Ein voll funktionsfähiges Bad, in den Fels hinter der Hauptkapsel gebaut. Wenn die Sonne westwärts über das Tal wandert – theatralisches Nachmittagsgold, violette Dämmerung, dann die Sternendichte einer Andennacht in großer Höhe –, wird die Kapsel zu einer privaten Sternwarte ohne vergleichbaren Rivalen.
+In der Kapsel reduziert sich alles aufs Wesentliche. Richtige Matratzen mit Decken aus Andenwolle. Ein kleiner Esstisch. Ein voll funktionsfähiges Bad, in den Fels hinter der Hauptkapsel gebaut. Wenn die Sonne westwärts über das Tal wandert – theatralisches Nachmittagsgold, violette Dämmerung, dann die Sternendichte einer Andennacht in großer Höhe –, wird die Kapsel zu einer privaten Sternwarte.
 
 Das Abendessen kommt auf demselben Weg wie die Gäste: Die Guides tragen die drei Gänge der Novo-Andina-Küche samt peruanischem Wein die Felswand hinauf, und das Ganze wird vor einem Sonnenuntergang verzehrt, den keine Hotelkritik angemessen beschreiben kann. Der Morgen danach – kalt, klar, vollkommen still – bringt einen Sonnenaufgang über den schneebedeckten Gipfeln, den die meisten Gäste zu den schönsten ihres Lebens zählen.

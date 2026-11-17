@@ -31,7 +31,6 @@ bestFor:
   - Couples
 bookingUrl: https://www.booking.com/hotel/rw/bisate-lodge.html
 rating: 9.5
-reviewCount: 267
 coordinates:
   lat: -1.4833
   lng: 29.5333
@@ -46,6 +45,19 @@ affiliateLinks:
 seo:
   metaTitle: "Bisate Lodge Rwanda Review: Gorilla Trekking Safari | StayAtNiche"
   metaDescription: "Bisate Lodge by andBeyond: luxury gorilla trekking base on Rwanda's volcanic slopes. Six forest villas with mountain views in Volcanoes National Park."
+location:
+  country: "Rwanda"
+  countryCode: "RW"
+  region: "Northern Province"
+  city: "Musanze"
+  locality: "Bisate"
+  coordinates:
+    lat: -1.4833
+    lng: 29.5333
+niche_scope: entire_property
+niche_feature: "Lodge of six forest villas (shaped like giant birds' nests) on the edge of Volcanoes National Park, run by Wilderness; base for mountain gorilla and golden monkey trekking."
+niche_source_url: "https://www.wildernessdestinations.com/africa/rwanda/volcanoes-national-park/bisate-lodge"
+niche_verified_at: 2026-11-17
 ---
 
 There are approximately 1,000 mountain gorillas left on earth, and roughly half of them live in the Virunga volcanic chain that straddles the borders of Rwanda, Uganda, and the Democratic Republic of Congo. Rwanda's Volcanoes National Park — a small park by African standards, but an extraordinarily dense one — protects the Rwandan portion of this population and provides the most organised, most accessible, and most controlled gorilla trekking in the region. The trek itself is neither guaranteed nor easy: groups hike through dense bamboo and hagenia forest for anything from 30 minutes to several hours before encountering a habituated family, and then spend one permitted hour in the presence of animals that share 98.3% of human DNA and appear to understand that the strange bipeds surrounding them are harmless.

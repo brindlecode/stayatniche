@@ -137,6 +137,910 @@
   to = "/hotels/sextantio-cave-italy/"
   status = 301
 
+# >>> niche audit drafts (scripts/draft-redirects.mjs) >>>
+# Stays that fit none of the 14 categories (audit 2026-11-17): the page is a draft, visitors go to the closest category.
+
+[[redirects]]
+  from = "/hotels/andbeyond-benguerra-island-mozambique/*"
+  to = "/categories/safari-lodges/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/andbeyond-benguerra-island-mozambique"
+  to = "/categories/safari-lodges/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/andbeyond-benguerra-island-mozambique/*"
+  to = "/de/kategorien/safari-lodges/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/andbeyond-benguerra-island-mozambique"
+  to = "/de/kategorien/safari-lodges/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/andbeyond-benguerra-island-mozambique/*"
+  to = "/fr/categories/lodges-de-safari/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/andbeyond-benguerra-island-mozambique"
+  to = "/fr/categories/lodges-de-safari/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/andbeyond-benguerra-island-mozambique/*"
+  to = "/es/categorias/lodges-de-safari/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/andbeyond-benguerra-island-mozambique"
+  to = "/es/categorias/lodges-de-safari/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/andbeyond-benguerra-island-mozambique/*"
+  to = "/it/categorie/lodge-safari/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/andbeyond-benguerra-island-mozambique"
+  to = "/it/categorie/lodge-safari/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/andbeyond-benguerra-island-mozambique/*"
+  to = "/nl/categorieen/safarilodges/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/andbeyond-benguerra-island-mozambique"
+  to = "/nl/categorieen/safarilodges/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/atlantis-aquaventure-bahamas/*"
+  to = "/categories/underwater-rooms/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/atlantis-aquaventure-bahamas"
+  to = "/categories/underwater-rooms/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/atlantis-aquaventure-bahamas/*"
+  to = "/de/kategorien/unterwasserzimmer/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/atlantis-aquaventure-bahamas"
+  to = "/de/kategorien/unterwasserzimmer/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/atlantis-aquaventure-bahamas/*"
+  to = "/fr/categories/chambres-sous-marines/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/atlantis-aquaventure-bahamas"
+  to = "/fr/categories/chambres-sous-marines/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/atlantis-aquaventure-bahamas/*"
+  to = "/es/categorias/habitaciones-submarinas/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/atlantis-aquaventure-bahamas"
+  to = "/es/categorias/habitaciones-submarinas/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/atlantis-aquaventure-bahamas/*"
+  to = "/it/categorie/camere-subacquee/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/atlantis-aquaventure-bahamas"
+  to = "/it/categorie/camere-subacquee/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/atlantis-aquaventure-bahamas/*"
+  to = "/nl/categorieen/onderwaterkamers/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/atlantis-aquaventure-bahamas"
+  to = "/nl/categorieen/onderwaterkamers/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/bangkok-tree-house-thailand/*"
+  to = "/categories/jungle-lodges/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/bangkok-tree-house-thailand"
+  to = "/categories/jungle-lodges/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/bangkok-tree-house-thailand/*"
+  to = "/de/kategorien/dschungel-lodges/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/bangkok-tree-house-thailand"
+  to = "/de/kategorien/dschungel-lodges/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/bangkok-tree-house-thailand/*"
+  to = "/fr/categories/lodges-dans-la-jungle/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/bangkok-tree-house-thailand"
+  to = "/fr/categories/lodges-dans-la-jungle/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/bangkok-tree-house-thailand/*"
+  to = "/es/categorias/lodges-en-la-selva/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/bangkok-tree-house-thailand"
+  to = "/es/categorias/lodges-en-la-selva/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/bangkok-tree-house-thailand/*"
+  to = "/it/categorie/lodge-nella-giungla/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/bangkok-tree-house-thailand"
+  to = "/it/categorie/lodge-nella-giungla/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/bangkok-tree-house-thailand/*"
+  to = "/nl/categorieen/junglelodges/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/bangkok-tree-house-thailand"
+  to = "/nl/categorieen/junglelodges/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/benesse-house-naoshima-japan/*"
+  to = "/categories/cliffside-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/benesse-house-naoshima-japan"
+  to = "/categories/cliffside-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/benesse-house-naoshima-japan/*"
+  to = "/de/kategorien/klippenhotels/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/benesse-house-naoshima-japan"
+  to = "/de/kategorien/klippenhotels/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/benesse-house-naoshima-japan/*"
+  to = "/fr/categories/hotels-a-flanc-de-falaise/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/benesse-house-naoshima-japan"
+  to = "/fr/categories/hotels-a-flanc-de-falaise/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/benesse-house-naoshima-japan/*"
+  to = "/es/categorias/hoteles-en-acantilados/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/benesse-house-naoshima-japan"
+  to = "/es/categorias/hoteles-en-acantilados/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/benesse-house-naoshima-japan/*"
+  to = "/it/categorie/hotel-a-strapiombo/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/benesse-house-naoshima-japan"
+  to = "/it/categorie/hotel-a-strapiombo/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/benesse-house-naoshima-japan/*"
+  to = "/nl/categorieen/klifhotels/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/benesse-house-naoshima-japan"
+  to = "/nl/categorieen/klifhotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/deplar-farm-iceland/*"
+  to = "/categories/safari-lodges/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/deplar-farm-iceland"
+  to = "/categories/safari-lodges/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/deplar-farm-iceland/*"
+  to = "/de/kategorien/safari-lodges/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/deplar-farm-iceland"
+  to = "/de/kategorien/safari-lodges/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/deplar-farm-iceland/*"
+  to = "/fr/categories/lodges-de-safari/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/deplar-farm-iceland"
+  to = "/fr/categories/lodges-de-safari/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/deplar-farm-iceland/*"
+  to = "/es/categorias/lodges-de-safari/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/deplar-farm-iceland"
+  to = "/es/categorias/lodges-de-safari/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/deplar-farm-iceland/*"
+  to = "/it/categorie/lodge-safari/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/deplar-farm-iceland"
+  to = "/it/categorie/lodge-safari/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/deplar-farm-iceland/*"
+  to = "/nl/categorieen/safarilodges/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/deplar-farm-iceland"
+  to = "/nl/categorieen/safarilodges/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/glenarm-castle-ocean-view-pods-united-kingdom/*"
+  to = "/categories/castle-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/glenarm-castle-ocean-view-pods-united-kingdom"
+  to = "/categories/castle-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/glenarm-castle-ocean-view-pods-united-kingdom/*"
+  to = "/de/kategorien/schlosshotels/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/glenarm-castle-ocean-view-pods-united-kingdom"
+  to = "/de/kategorien/schlosshotels/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/glenarm-castle-ocean-view-pods-united-kingdom/*"
+  to = "/fr/categories/chateaux-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/glenarm-castle-ocean-view-pods-united-kingdom"
+  to = "/fr/categories/chateaux-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/glenarm-castle-ocean-view-pods-united-kingdom/*"
+  to = "/es/categorias/hoteles-castillo/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/glenarm-castle-ocean-view-pods-united-kingdom"
+  to = "/es/categorias/hoteles-castillo/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/glenarm-castle-ocean-view-pods-united-kingdom/*"
+  to = "/it/categorie/hotel-nei-castelli/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/glenarm-castle-ocean-view-pods-united-kingdom"
+  to = "/it/categorie/hotel-nei-castelli/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/glenarm-castle-ocean-view-pods-united-kingdom/*"
+  to = "/nl/categorieen/kasteelhotels/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/glenarm-castle-ocean-view-pods-united-kingdom"
+  to = "/nl/categorieen/kasteelhotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/hoshinoya-fuji-japan/*"
+  to = "/categories/jungle-lodges/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/hoshinoya-fuji-japan"
+  to = "/categories/jungle-lodges/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/hoshinoya-fuji-japan/*"
+  to = "/de/kategorien/dschungel-lodges/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/hoshinoya-fuji-japan"
+  to = "/de/kategorien/dschungel-lodges/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/hoshinoya-fuji-japan/*"
+  to = "/fr/categories/lodges-dans-la-jungle/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/hoshinoya-fuji-japan"
+  to = "/fr/categories/lodges-dans-la-jungle/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/hoshinoya-fuji-japan/*"
+  to = "/es/categorias/lodges-en-la-selva/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/hoshinoya-fuji-japan"
+  to = "/es/categorias/lodges-en-la-selva/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/hoshinoya-fuji-japan/*"
+  to = "/it/categorie/lodge-nella-giungla/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/hoshinoya-fuji-japan"
+  to = "/it/categorie/lodge-nella-giungla/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/hoshinoya-fuji-japan/*"
+  to = "/nl/categorieen/junglelodges/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/hoshinoya-fuji-japan"
+  to = "/nl/categorieen/junglelodges/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/hotel-al-castello-italy/*"
+  to = "/categories/castle-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/hotel-al-castello-italy"
+  to = "/categories/castle-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/hotel-al-castello-italy/*"
+  to = "/de/kategorien/schlosshotels/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/hotel-al-castello-italy"
+  to = "/de/kategorien/schlosshotels/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/hotel-al-castello-italy/*"
+  to = "/fr/categories/chateaux-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/hotel-al-castello-italy"
+  to = "/fr/categories/chateaux-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/hotel-al-castello-italy/*"
+  to = "/es/categorias/hoteles-castillo/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/hotel-al-castello-italy"
+  to = "/es/categorias/hoteles-castillo/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/hotel-al-castello-italy/*"
+  to = "/it/categorie/hotel-nei-castelli/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/hotel-al-castello-italy"
+  to = "/it/categorie/hotel-nei-castelli/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/hotel-al-castello-italy/*"
+  to = "/nl/categorieen/kasteelhotels/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/hotel-al-castello-italy"
+  to = "/nl/categorieen/kasteelhotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/nothofagus-hotel-chile/*"
+  to = "/categories/jungle-lodges/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/nothofagus-hotel-chile"
+  to = "/categories/jungle-lodges/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/nothofagus-hotel-chile/*"
+  to = "/de/kategorien/dschungel-lodges/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/nothofagus-hotel-chile"
+  to = "/de/kategorien/dschungel-lodges/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/nothofagus-hotel-chile/*"
+  to = "/fr/categories/lodges-dans-la-jungle/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/nothofagus-hotel-chile"
+  to = "/fr/categories/lodges-dans-la-jungle/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/nothofagus-hotel-chile/*"
+  to = "/es/categorias/lodges-en-la-selva/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/nothofagus-hotel-chile"
+  to = "/es/categorias/lodges-en-la-selva/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/nothofagus-hotel-chile/*"
+  to = "/it/categorie/lodge-nella-giungla/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/nothofagus-hotel-chile"
+  to = "/it/categorie/lodge-nella-giungla/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/nothofagus-hotel-chile/*"
+  to = "/nl/categorieen/junglelodges/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/nothofagus-hotel-chile"
+  to = "/nl/categorieen/junglelodges/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/rocky-mountaineer-canada/*"
+  to = "/categories/train-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/rocky-mountaineer-canada"
+  to = "/categories/train-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/rocky-mountaineer-canada/*"
+  to = "/de/kategorien/zughotels/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/rocky-mountaineer-canada"
+  to = "/de/kategorien/zughotels/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/rocky-mountaineer-canada/*"
+  to = "/fr/categories/trains-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/rocky-mountaineer-canada"
+  to = "/fr/categories/trains-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/rocky-mountaineer-canada/*"
+  to = "/es/categorias/hoteles-en-trenes/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/rocky-mountaineer-canada"
+  to = "/es/categorias/hoteles-en-trenes/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/rocky-mountaineer-canada/*"
+  to = "/it/categorie/hotel-nei-treni/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/rocky-mountaineer-canada"
+  to = "/it/categorie/hotel-nei-treni/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/rocky-mountaineer-canada/*"
+  to = "/nl/categorieen/treinhotels/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/rocky-mountaineer-canada"
+  to = "/nl/categorieen/treinhotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/sadie-cove-alaska/*"
+  to = "/categories/jungle-lodges/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/sadie-cove-alaska"
+  to = "/categories/jungle-lodges/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/sadie-cove-alaska/*"
+  to = "/de/kategorien/dschungel-lodges/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/sadie-cove-alaska"
+  to = "/de/kategorien/dschungel-lodges/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/sadie-cove-alaska/*"
+  to = "/fr/categories/lodges-dans-la-jungle/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/sadie-cove-alaska"
+  to = "/fr/categories/lodges-dans-la-jungle/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/sadie-cove-alaska/*"
+  to = "/es/categorias/lodges-en-la-selva/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/sadie-cove-alaska"
+  to = "/es/categorias/lodges-en-la-selva/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/sadie-cove-alaska/*"
+  to = "/it/categorie/lodge-nella-giungla/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/sadie-cove-alaska"
+  to = "/it/categorie/lodge-nella-giungla/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/sadie-cove-alaska/*"
+  to = "/nl/categorieen/junglelodges/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/sadie-cove-alaska"
+  to = "/nl/categorieen/junglelodges/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/snowcastle-kemi-finland/*"
+  to = "/categories/ice-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/snowcastle-kemi-finland"
+  to = "/categories/ice-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/snowcastle-kemi-finland/*"
+  to = "/de/kategorien/eishotels/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/snowcastle-kemi-finland"
+  to = "/de/kategorien/eishotels/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/snowcastle-kemi-finland/*"
+  to = "/fr/categories/hotels-de-glace/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/snowcastle-kemi-finland"
+  to = "/fr/categories/hotels-de-glace/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/snowcastle-kemi-finland/*"
+  to = "/es/categorias/hoteles-de-hielo/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/snowcastle-kemi-finland"
+  to = "/es/categorias/hoteles-de-hielo/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/snowcastle-kemi-finland/*"
+  to = "/it/categorie/hotel-di-ghiaccio/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/snowcastle-kemi-finland"
+  to = "/it/categorie/hotel-di-ghiaccio/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/snowcastle-kemi-finland/*"
+  to = "/nl/categorieen/ijshotels/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/snowcastle-kemi-finland"
+  to = "/nl/categorieen/ijshotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/soneva-kiri-thailand/*"
+  to = "/categories/jungle-lodges/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/soneva-kiri-thailand"
+  to = "/categories/jungle-lodges/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/soneva-kiri-thailand/*"
+  to = "/de/kategorien/dschungel-lodges/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/soneva-kiri-thailand"
+  to = "/de/kategorien/dschungel-lodges/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/soneva-kiri-thailand/*"
+  to = "/fr/categories/lodges-dans-la-jungle/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/soneva-kiri-thailand"
+  to = "/fr/categories/lodges-dans-la-jungle/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/soneva-kiri-thailand/*"
+  to = "/es/categorias/lodges-en-la-selva/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/soneva-kiri-thailand"
+  to = "/es/categorias/lodges-en-la-selva/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/soneva-kiri-thailand/*"
+  to = "/it/categorie/lodge-nella-giungla/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/soneva-kiri-thailand"
+  to = "/it/categorie/lodge-nella-giungla/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/soneva-kiri-thailand/*"
+  to = "/nl/categorieen/junglelodges/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/soneva-kiri-thailand"
+  to = "/nl/categorieen/junglelodges/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/the-castle-hotel-taunton-united-kingdom/*"
+  to = "/categories/castle-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/the-castle-hotel-taunton-united-kingdom"
+  to = "/categories/castle-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/the-castle-hotel-taunton-united-kingdom/*"
+  to = "/de/kategorien/schlosshotels/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/the-castle-hotel-taunton-united-kingdom"
+  to = "/de/kategorien/schlosshotels/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/the-castle-hotel-taunton-united-kingdom/*"
+  to = "/fr/categories/chateaux-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/the-castle-hotel-taunton-united-kingdom"
+  to = "/fr/categories/chateaux-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/the-castle-hotel-taunton-united-kingdom/*"
+  to = "/es/categorias/hoteles-castillo/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/the-castle-hotel-taunton-united-kingdom"
+  to = "/es/categorias/hoteles-castillo/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/the-castle-hotel-taunton-united-kingdom/*"
+  to = "/it/categorie/hotel-nei-castelli/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/the-castle-hotel-taunton-united-kingdom"
+  to = "/it/categorie/hotel-nei-castelli/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/the-castle-hotel-taunton-united-kingdom/*"
+  to = "/nl/categorieen/kasteelhotels/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/the-castle-hotel-taunton-united-kingdom"
+  to = "/nl/categorieen/kasteelhotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/zaborin-hokkaido-japan/*"
+  to = "/categories/jungle-lodges/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/zaborin-hokkaido-japan"
+  to = "/categories/jungle-lodges/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/zaborin-hokkaido-japan/*"
+  to = "/de/kategorien/dschungel-lodges/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/zaborin-hokkaido-japan"
+  to = "/de/kategorien/dschungel-lodges/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/zaborin-hokkaido-japan/*"
+  to = "/fr/categories/lodges-dans-la-jungle/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/zaborin-hokkaido-japan"
+  to = "/fr/categories/lodges-dans-la-jungle/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/zaborin-hokkaido-japan/*"
+  to = "/es/categorias/lodges-en-la-selva/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/zaborin-hokkaido-japan"
+  to = "/es/categorias/lodges-en-la-selva/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/zaborin-hokkaido-japan/*"
+  to = "/it/categorie/lodge-nella-giungla/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/zaborin-hokkaido-japan"
+  to = "/it/categorie/lodge-nella-giungla/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/zaborin-hokkaido-japan/*"
+  to = "/nl/categorieen/junglelodges/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/zaborin-hokkaido-japan"
+  to = "/nl/categorieen/junglelodges/"
+  status = 301
+# <<< niche audit drafts <<<
+
 [[redirects]]
   from = "/rss"
   to = "/rss.xml"

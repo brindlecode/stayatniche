@@ -33,10 +33,10 @@ bestFor:
   - "Honeymooners"
 prosAndCons:
   pros:
-    - "The crater floor game viewing is the most reliably exceptional in Africa, all Big Five daily"
+    - "The crater floor game viewing is reliably exceptional, with all Big Five seen daily"
     - "The lodge itself is one of Africa's great theatrical hotel experiences"
     - "The rim position provides permanent panoramic views into the caldera"
-    - "The combination of cultural (Maasai), geological, and wildlife interest is unmatched"
+    - "The combination of cultural (Maasai), geological, and wildlife interest is exceptional"
   cons:
     - "The crater descents are shared with other operators, it is not a private experience"
     - "The lodge's theatrical design is polarising, some find it too elaborate"
@@ -44,7 +44,6 @@ prosAndCons:
     - "Very high prices relative to the game drive experience, which is shared with other vehicles"
 bookingUrl: https://www.booking.com/
 rating: 9.4
-reviewCount: 1087
 seasonalInfo:
   bestTime: Year-round, the crater's resident population doesn't migrate
   peakSeason: June to September and the Christmas/New Year period
@@ -73,6 +72,18 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Ngorongoro+Conservation+Area"
     label: "Find Tours on Klook"
+location:
+  country: "Tanzania"
+  countryCode: "TZ"
+  region: "Arusha"
+  locality: "Ngorongoro Crater rim"
+  coordinates:
+    lat: -3.2333
+    lng: 35.5
+niche_scope: entire_property
+niche_feature: "Official page says the lodge is temporarily closed for an extensive rebuild, with a banner 'Reopening December 2027'. Safari lodge on the Ngorongoro Crater rim before closure."
+niche_source_url: "https://www.andbeyond.com/our-lodges/africa/tanzania/ngorongoro-crater/andbeyond-ngorongoro-crater-lodge/"
+niche_verified_at: 2026-11-17
 ---
 
 The Ngorongoro Crater is a 20-kilometre-wide volcanic caldera, 600 metres deep, whose walls have kept 25,000 large mammals in permanent residence for thousands of years. The crater floor supports the highest density of lion in Africa and one of the continent's last viable black rhino populations. Descending the rim road into the mist on a cold highland morning, with the crater floor appearing below through the cloud, is a sight that holds its power no matter how many times you've seen the photographs.

@@ -1,7 +1,7 @@
 ---
 source: ethiopia
 name: "Ethiopië"
-description: "Ethiopië is de historisch meest gelaagde bestemming van Afrika: een oeroud hooglandkoninkrijk met een eigen schrift, een eigen kalender en een orthodox-christelijke traditie die eeuwen ouder is dan die van Europa. Van de rotskerken van Lalibela tot de stamculturen van de Omovallei en de surrealistische landschappen van de Danakil-depressie: Ethiopië biedt belevenissen die echt nergens anders op aarde bestaan."
+description: "Ethiopië is een van de historisch meest gelaagde bestemmingen van Afrika: een oeroud hooglandkoninkrijk met een eigen schrift, een eigen kalender en een orthodox-christelijke traditie die eeuwen ouder is dan die van Europa. Van de rotskerken van Lalibela tot de stamculturen van de Omovallei en de surrealistische landschappen van de Danakil-depressie: Ethiopië biedt belevenissen die op maar weinig andere plekken op aarde bestaan."
 essentials:
   currency: "ETB (Ethiopische birr); USD is handig in grote hotels en voor sommige diensten"
   language: "Amhaars (officieel); Oromo, Tigrinya en meer dan 80 andere talen"
@@ -26,7 +26,7 @@ travelTips:
   - "De Ethiopische keuken (injera met wats en tibs) is fantastisch. Eet in lokale restaurants in plaats van in hoteleetzalen voor de echte ervaring."
 seo:
   metaTitle: "Ethiopië: Lalibela, Danakil en stamculturen | StayAtNiche"
-  metaDescription: "Reisgids Ethiopië: de rotskerken van Lalibela, de lavameren van de Danakil, het Simiengebergte, de volken van de Omovallei en de oudste beschaving van Afrika."
+  metaDescription: "Reisgids Ethiopië: de rotskerken van Lalibela, de lavameren van de Danakil, het Simiengebergte, de volken van de Omovallei en een van de oudste beschavingen van Afrika."
 ---
 
 Ethiopië staat los van het vertrouwde Afrikaanse reisverhaal. Er zijn hier geen safaricircuits met de Big Five, geen lodgetradities uit de koloniale tijd, geen platgetreden toeristische infrastructuur. Wat er wel is, is iets zeldzamers: een beschaving met 3.000 jaar ononderbroken geschreven geschiedenis, een eigen schrift, kalender en religieuze traditie, landschappen van het hoogste punt van Afrika bezuiden de Sahara tot het laagste punt van het Afrikaanse continent, en culturele ontmoetingen met een diepgang en echtheid die je steeds moeilijker ergens ter wereld vindt.
@@ -37,7 +37,7 @@ Koning Lalibela gaf in de 12e eeuw opdracht tot iets buitengewoons: een reeks ke
 Het Ethiopisch-orthodoxe christendom, dat hier sinds de 4e eeuw wordt beleden, is geen museumstuk. De kerken van Lalibela zijn actieve bedevaartsoorden, vooral tijdens de grote feesten Timkat (Driekoningen) en Meskel (de Vinding van het Ware Kruis), wanneer duizenden pelgrims in witte gewaden het complex vullen in nachtelijke processies met kaarsen en gezang.
 
 
-Ethiopië heeft twee van de meest extreme landschappen ter wereld. Het Simiengebergte, een hoogvlakte op 3.000–4.550 meter die is uitgesleten tot loodrechte kliffen en pieken, is het leefgebied van de Ethiopische wolf (het meest bedreigde roofdier van Afrika), de gelada (de enige grasetende primaat ter wereld) en de waliasteenbok, die nergens anders op aarde voorkomt. Wandelen langs de kliffen, met afgronden van 1.000 meter naar het dal eronder, hoort bij de mooiste trektochten op grote hoogte in Afrika.
+Ethiopië heeft twee bijzonder extreme landschappen. Het Simiengebergte, een hoogvlakte op 3.000–4.550 meter die is uitgesleten tot loodrechte kliffen en pieken, is het leefgebied van de Ethiopische wolf (het meest bedreigde roofdier van Afrika), de gelada (de enige grasetende primaat ter wereld) en de waliasteenbok, die nergens anders op aarde voorkomt. Wandelen langs de kliffen, met afgronden van 1.000 meter naar het dal eronder, hoort bij de mooiste trektochten op grote hoogte in Afrika.
 
 De Danakil-depressie is daarentegen de laagste en heetste plek van Afrika: een geologische breuk waar drie tektonische platen samenkomen, met actieve lavameren (Erta Ale), zwavelhoudende zoutformaties in tinten geel en groen (Dallol) en een zoutvlakte waar al eeuwenlang met de hand zout wordt gewonnen en per kamelenkaravaan wordt afgevoerd. Voor tours heb je gewapende escorte nodig en je reist 's nachts om de ergste hitte te vermijden. De accommodatie is eenvoudig: slapen onder de sterren in de woestijn of in simpele kampen. Comfortabel is het niet. Onvergetelijk wel, in de ware zin van het woord.
 

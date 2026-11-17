@@ -13,7 +13,7 @@ const plural = (n: number, one: string, many: string) => (n === 1 ? one : many);
 
 const en = {
   meta: {
-    defaultDescription: "Find the world's most unusual hotels: treehouses, caves, underwater rooms, castles, ice hotels and more. Curated stays that make the trip.",
+    defaultDescription: "Find unusual hotels around the world: treehouses, caves, underwater rooms, castles, ice hotels and more. Curated stays that make the trip.",
   },
   fmt: {
     usd: (amount: string) => `$${amount}`,
@@ -88,7 +88,7 @@ const en = {
     editorsPick: "Editor's pick",
     around: (place: string) => `Around ${place}`,
     save: (name: string) => `Save ${name}`,
-    scoreTitle: 'Editor score out of 10',
+    scoreTitle: 'Editorial score out of 10 (our own rating, not guest reviews)',
     from: 'From',
     perNight: '/ night',
     seeRates: 'See rates',
@@ -126,7 +126,7 @@ const en = {
   },
   blog: {
     metaTitle: 'Travel Guides: Unusual Hotels, Destinations & Trip Planning',
-    metaDescription: "Guides to the world's most unusual hotels: treehouses, caves, ice hotels, safari lodges, plus destination guides and practical trip planning.",
+    metaDescription: "Guides to unusual hotels around the world: treehouses, caves, ice hotels, safari lodges, plus destination guides and practical trip planning.",
     lead: 'Where to sleep, when to go and how to get there, for trips built around an extraordinary stay.',
     readGuide: 'Read the guide',
     filter: 'Filter guides',
@@ -135,7 +135,14 @@ const en = {
   hotel: {
     metaTitle: (name: string, dest: string) => `${name} — ${dest} | StayAtNiche`,
     categories: 'Categories',
-    editorScore: 'editor score',
+    editorScore: 'editorial score',
+    niche: {
+      specific_rooms: (cat: string) => `Only some rooms here fit our “${cat}” category; the others are standard rooms.`,
+      experience_only: (cat: string) => `The “${cat}” feature here is something you can visit or do, not where you sleep.`,
+      unverified: (cat: string) => `We have not yet been able to confirm this stay’s “${cat}” feature from an official source.`,
+      checked: (date: string) => `Feature checked ${date}`,
+      source: 'Source',
+    },
     save: 'Save',
     share: 'Share',
     linkCopied: 'Link copied',
@@ -144,7 +151,7 @@ const en = {
     photo: 'Photo',
     viaCommons: 'via Wikimedia Commons',
     areaPhoto: 'Photo of the surrounding area',
-    facts: { price: 'Typical price', ratesVary: 'Rates vary: check live prices', level: 'Price level', bestTime: 'Best time to go', checkInOut: 'Check-in / out', bestFor: 'Best for', score: 'Editor score' },
+    facts: { price: 'Typical price', ratesVary: 'Rates vary: check live prices', level: 'Price level', bestTime: 'Best time to go', checkInOut: 'Check-in / out', bestFor: 'Best for', score: 'Editorial score' },
     why: 'Why it’s on the list',
     included: 'What’s included',
     goodToKnow: 'Good to know',
@@ -217,7 +224,7 @@ const en = {
     other: 'Other kinds of stay',
   },
   destinations: {
-    metaTitle: "Destinations: Where to Find the World's Most Unusual Hotels",
+    metaTitle: "Destinations: Where to Find Unusual Hotels Worldwide",
     metaDescription: (n: number) => `${n} destination guides built around extraordinary stays: when to go, what to see and the unusual hotels worth the trip.`,
     h1a: 'Where are you going',
     h1b: 'next?',
@@ -355,7 +362,7 @@ const en = {
   notFound: {
     metaTitle: 'Page Not Found | StayAtNiche',
     h1: 'This stay seems to have checked out early',
-    text: "The page you're looking for doesn't exist or has moved. The world's most extraordinary stays are still just a click away.",
+    text: "The page you're looking for doesn't exist or has moved. Extraordinary stays around the world are still just a click away.",
     maybe: 'Maybe you were looking for one of these?',
   },
   photoCredits: {
@@ -390,7 +397,7 @@ const en = {
     stayB: 'stay',
   },
   home: {
-    metaTitle: "StayAtNiche: The World's Most Extraordinary Stays",
+    metaTitle: "StayAtNiche: Extraordinary Stays Around the World",
     metaDescription: 'Find unusual hotels worth the trip: treehouses, cave hotels, underwater rooms, safari lodges, ice hotels and more. Compare prices and book with confidence.',
     heroAlt: 'A glass cabin on a mountain ridge above a sea of clouds at sunrise',
     eyebrow: (h: number, c: number, k: number) => `${h} stays · ${c} countries · ${k} kinds of unusual`,

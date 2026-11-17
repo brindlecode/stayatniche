@@ -26,7 +26,7 @@ travelTips:
   - "La crème solaire est indispensable à la mer Morte : l'eau salée qui réverbère la lumière et l'intensité du soleil du Moyen-Orient brûlent la peau plus vite que presque partout ailleurs."
 seo:
   metaTitle: "Jordanie : Pétra, Wadi Rum et camps du désert | StayAtNiche"
-  metaDescription: "Guide de la Jordanie : Pétra au lever du soleil, nuits en camp au Wadi Rum, baignade dans la mer Morte et les lodges du désert les plus fous du Moyen-Orient."
+  metaDescription: "Guide de la Jordanie : Pétra au lever du soleil, nuits en camp au Wadi Rum, baignade dans la mer Morte et des lodges du désert hors du commun au Moyen-Orient."
 ---
 
 La Jordanie concentre plus de poids historique au kilomètre carré que presque n'importe quel autre pays au monde. Dans une région souvent définie par sa complexité géopolitique, elle s'est forgé une réputation d'hospitalité sincère et de stabilité politique, ainsi qu'une infrastructure touristique bien supérieure à ce que laisserait attendre la taille du pays. Ses sites antiques, ses paysages désertiques et une scène hôtelière de luxe en plein essor, née directement de la puissance du terrain, en font l'un des voyages les plus gratifiants du Moyen-Orient.

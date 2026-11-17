@@ -16,7 +16,7 @@ mustSee:
   - "Deadvlei, forêt fantôme d’acacias vieux de 900 ans dans une dépression d’argile blanche"
   - "Le parc national d’Etosha, immense désert de sel, avec des éléphants, des lions et des rhinocéros noirs exceptionnels"
   - "Le Fish River Canyon, deuxième plus grand canyon du monde après le Grand Canyon"
-  - "La côte des Squelettes : épaves, colonies d’otaries à fourrure du Cap et le littoral le plus isolé du monde"
+  - "La côte des Squelettes : épaves, colonies d’otaries à fourrure du Cap et l’un des littoraux les plus isolés du monde"
   - "Le Damaraland, ses éléphants du désert et les gravures rupestres san de Twyfelfontein"
 travelTips:
   - "Le road-trip en autonomie est la grande aventure namibienne : routes excellentes, distances immenses, et un 4x4 aménagé vous laisse libre de dormir là où le coucher du soleil vous surprend."
@@ -26,7 +26,7 @@ travelTips:
   - "La Namibie est l’un des pays les plus sûrs d’Afrique pour voyager en indépendant : la criminalité y est faible et les infrastructures touristiques fiables."
 seo:
   metaTitle: "Namibie : Sossusvlei, Etosha et lodges | StayAtNiche"
-  metaDescription: "Guide de la Namibie : dunes de Sossusvlei, safaris à Etosha, côte des Squelettes et les lodges du désert et camps de safari les plus extraordinaires d’Afrique."
+  metaDescription: "Guide de la Namibie : dunes de Sossusvlei, safaris à Etosha, côte des Squelettes et des lodges du désert et camps de safari extraordinaires."
 ---
 
 La Namibie accueille moins de deux millions de touristes par an, un chiffre modeste pour un pays qui a tant à offrir, si bien que le sentiment de nature sauvage y est authentique, et non mis en scène. On peut rouler quatre heures dans le Damaraland sans croiser un seul véhicule. On peut dormir dans un lodge du désert dont le plus proche voisin est à 50 kilomètres. Des espaces intacts à cette échelle se font de plus en plus rares ; la Namibie est l’un des derniers endroits où ils restent la norme.
@@ -37,7 +37,7 @@ Deadvlei est plus saisissant encore. Cette cuvette d’argile blanche, accessibl
 
 Le parc national d’Etosha s’organise autour du pan d’Etosha, un immense lac salé plat d’une blancheur aveuglante, ancienne mer intérieure asséchée par un soulèvement tectonique il y a environ cinq millions d’années. À la saison sèche, les points d’eau de la bordure sud attirent des centaines d’éléphants, des troupes de lions entières, des rhinocéros noirs et blancs, des girafes et des zèbres. Au camp d’Okaukuejo, le point d’eau éclairé permet d’observer les animaux venir boire toute la nuit depuis la clôture : l’un des dispositifs d’observation les plus accessibles et les plus fiables d’Afrique.
 
-Les éléphants du désert du Damaraland et de la vallée de la Hoanib survivent dans des paysages qui reçoivent moins de 25 mm de pluie par an. Ils parcourent d’immenses distances entre les points d’eau, creusent le lit des rivières asséchées avec leurs pattes pour trouver de l’eau et se nourrissent de végétaux que leurs congénères de Chobe ou d’Amboseli dédaigneraient. Voir une famille surgir d’une colline rocheuse et descendre en silence dans le lit d’une rivière à sec, c’est l’une des plus belles rencontres animales d’Afrique.
+Les éléphants du désert du Damaraland et de la vallée de la Hoanib survivent dans des paysages qui reçoivent moins de 25 mm de pluie par an. Ils parcourent d’immenses distances entre les points d’eau, creusent le lit des rivières asséchées avec leurs pattes pour trouver de l’eau et se nourrissent de végétaux que leurs congénères de Chobe ou d’Amboseli dédaigneraient. Voir une famille surgir d’une colline rocheuse et descendre en silence dans le lit d’une rivière à sec, c’est une rencontre animale mémorable.
 
 La côte des Squelettes, qui doit son nom aux ossements de baleines blanchis et aux épaves de navires dont les marins n’avaient aucune chance de survivre dans ce désert sans eau, n’est aujourd’hui accessible que par les [lodges de safari](/categories/safari-lodges) desservis en avion, qui opèrent sous des quotas de concession stricts. Cape Cross, un peu plus accessible par la route, abrite une colonie de plus de 100 000 otaries à fourrure du Cap. Le vacarme, l’odeur et l’ampleur du spectacle n’ont pas d’équivalent sur le continent.
 

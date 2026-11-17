@@ -2,12 +2,12 @@
 source: stargazing-atacama-chile
 title: "Observation des étoiles dans le désert d'Atacama"
 destination: "San Pedro de Atacama"
-description: "Levez les yeux à 2 400 mètres d'altitude, dans le désert le plus aride du monde, et contemplez le ciel nocturne tel que l'humanité le voyait avant l'électricité : une Voie lactée si dense et si tridimensionnelle qu'elle projette une ombre ténue, les Nuages de Magellan visibles à l'œil nu comme les galaxies satellites de la nôtre qu'ils sont, et la Croix du Sud qui tournoie au-dessus de vous dans une profusion cosmique que les astronomes professionnels viennent chercher tout exprès dans l'Atacama. Le plus beau ciel nocturne du monde est ici, et le partager avec un astronome qui le connaît intimement compte parmi les expériences de voyage les plus profondes qui soient."
+description: "Levez les yeux à 2 400 mètres d'altitude, dans le désert le plus aride du monde, et contemplez le ciel nocturne tel que l'humanité le voyait avant l'électricité : une Voie lactée si dense et si tridimensionnelle qu'elle projette une ombre ténue, les Nuages de Magellan visibles à l'œil nu comme les galaxies satellites de la nôtre qu'ils sont, et la Croix du Sud qui tournoie au-dessus de vous dans une profusion cosmique que les astronomes professionnels viennent chercher tout exprès dans l'Atacama. L'un des plus beaux ciels nocturnes du monde est ici, et le partager avec un astronome qui le connaît intimement compte parmi les expériences de voyage les plus profondes qui soient."
 booking:
   price: "À partir de 55 $ par personne"
   duration: "3 à 4 heures (en soirée)"
 highlights:
-  - "Le ciel nocturne le plus pur du monde, à 2 400 m d'altitude dans l'Atacama"
+  - "L'un des ciels nocturnes les plus purs du monde, à 2 400 m d'altitude dans l'Atacama"
   - "Des télescopes professionnels qui révèlent les anneaux de Saturne, des nébuleuses et des amas d'étoiles"
   - "Un astronome expert pour guide, qui explique la mythologie et la science du ciel austral"
   - "La Voie lactée, le Grand et le Petit Nuage de Magellan et la Croix du Sud à l'œil nu"
@@ -28,7 +28,7 @@ notIncluded:
   - "Hébergement à San Pedro de Atacama"
 seo:
   metaTitle: "Observer les étoiles dans l'Atacama, Chili | StayAtNiche"
-  metaDescription: "Le ciel le plus pur du monde à 2 400 m dans le désert d'Atacama : télescopes professionnels, astronome expert et Voie lactée à l'œil nu. Dès 55 $ par personne."
+  metaDescription: "L'un des ciels les plus purs du monde à 2 400 m dans le désert d'Atacama : télescopes professionnels, astronome expert et Voie lactée à l'œil nu. Dès 55 $."
 ---
 
 Ce n'est pas un hasard si l'Observatoire européen austral a choisi ce site. Ni si le réseau de radiotélescopes ALMA s'y trouve. Les zones intérieures de l'Atacama reçoivent moins d'un millimètre de pluie par an, se situent à plus de 2 400 mètres d'altitude, ne comptent que très peu de poussière et presque aucune présence humaine sur des centaines de kilomètres. Cette combinaison produit des conditions atmosphériques que les astronomes professionnels classent parmi les meilleures au monde pour l'observation. Nul besoin d'un doctorat pour percevoir la différence.

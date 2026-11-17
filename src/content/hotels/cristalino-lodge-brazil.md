@@ -30,7 +30,6 @@ bestFor:
   - Amazon explorers
 bookingUrl: https://www.booking.com/hotel/br/cristalino-lodge.html
 rating: 9.2
-reviewCount: 398
 coordinates:
   lat: -9.597495
   lng: -55.932102
@@ -45,6 +44,19 @@ affiliateLinks:
 seo:
   metaTitle: "Cristalino Lodge Brazil Review: Amazon Rainforest Eco Lodge | StayAtNiche"
   metaDescription: "Cristalino Lodge: 600+ bird species in a private Amazon reserve in Brazil's Mato Grosso. Canopy towers, night safaris, and conservation-led rainforest immersion."
+location:
+  country: "Brazil"
+  countryCode: "BR"
+  region: "Mato Grosso"
+  city: "Alta Floresta"
+  locality: "Cristalino RPPN"
+  coordinates:
+    lat: -9.597495
+    lng: -55.932102
+niche_scope: entire_property
+niche_feature: "Lodge of air-conditioned bungalows (Special Bungalow, Bungalow, Junior Bungalow, Superior Suite) inside the Cristalino RPPN private rainforest reserve in the southern Amazon, near Alta Floresta; a separate Wilderness Camp of tents also exists."
+niche_source_url: "https://www.cristalinolodge.com.br/"
+niche_verified_at: 2026-11-17
 ---
 
 The southern Amazon — the arc of forest that curves through Mato Grosso state where the basin's edge meets the Cerrado savanna — has higher species diversity than the central Amazon in several taxonomic groups, because it sits at the interface of two of South America's great biomes. Cristalino Lodge was established here in 1999, before the concept of conservation-based Amazon tourism had proven itself commercially, and has spent twenty-five years demonstrating that a private reserve can protect habitat while generating the income necessary to sustain it.

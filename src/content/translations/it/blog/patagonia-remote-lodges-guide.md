@@ -1,15 +1,15 @@
 ---
 source: patagonia-remote-lodges-guide
 title: "Lodge remoti in Patagonia: la guida completa per dormire alla fine del mondo"
-excerpt: "I lodge remoti della Patagonia offrono gli alloggi più spettacolari della Terra in piena natura selvaggia: ghiacciai a colazione, il puma sulle tracce nel pomeriggio e un silenzio così profondo da cambiarti."
+excerpt: "I lodge remoti della Patagonia offrono alcuni degli alloggi più spettacolari in piena natura selvaggia: ghiacciai a colazione, il puma sulle tracce nel pomeriggio e un silenzio così profondo da cambiarti."
 seo:
   metaTitle: "Lodge in Patagonia: guida ai più remoti | StayAtNiche"
-  metaDescription: "I lodge più remoti e straordinari della Patagonia: Torres del Paine, El Chaltén, Terra del Fuoco e oltre. Prezzi, avvistamenti del puma e come arrivarci."
+  metaDescription: "Lodge remoti e straordinari della Patagonia: Torres del Paine, El Chaltén, Terra del Fuoco e oltre. Prezzi, avvistamenti del puma e come arrivarci."
 ---
 
 La Patagonia occupa la punta meridionale del Sud America, dove la prima terra che si incontra più a sud è l’Antartide. Le torri del Torres del Paine si ergono a picco sulla steppa. Il Campo de Hielo Patagónico Sur, la terza calotta glaciale del mondo dopo Antartide e Groenlandia, riversa ghiacciai direttamente nei fiordi. I condor delle Ande, con un’apertura alare di 3,2 metri, volteggiano sopra catene montuose prive di sentieri.
 
-I lodge che negli ultimi vent’anni si sono affermati in questo paesaggio hanno richiesto una vera ambizione logistica per essere costruiti. Il cibo arriva da comunità lontane centinaia di chilometri. Il personale vive sul posto per settimane di fila. Le esperienze che rendono possibili (seguire le tracce del puma, camminare sui ghiacciai, osservare i condor da una vasca idromassaggio) non esistono a questo livello di qualità in nessun altro luogo della Terra.
+I lodge che negli ultimi vent’anni si sono affermati in questo paesaggio hanno richiesto una vera ambizione logistica per essere costruiti. Il cibo arriva da comunità lontane centinaia di chilometri. Il personale vive sul posto per settimane di fila. Le esperienze che rendono possibili (seguire le tracce del puma, camminare sui ghiacciai, osservare i condor da una vasca idromassaggio) sono difficili da trovare a questo livello di qualità altrove.
 
 Questa guida presenta i migliori lodge della Patagonia cilena e argentina, con informazioni oneste su accesso, stagionalità e su ciò che il viaggio comporta davvero.
 
@@ -18,7 +18,7 @@ Questa guida presenta i migliori lodge della Patagonia cilena e argentina, con i
 
 Con “Patagonia” si indica la porzione meridionale del Sud America, a cavallo tra Cile e Argentina, che si considera in genere iniziare a sud del 40° parallelo e arrivare fino alla Terra del Fuoco e a Capo Horn. Comprende paesaggi straordinariamente diversi:
 
-**Patagonia cilena:** il massiccio del Torres del Paine e il parco nazionale che lo circonda (il principale polo del turismo internazionale), i fiordi delle regioni di Aysén e Magallanes, la remota Carretera Austral (la strada sterrata più spettacolare del mondo) e l’arcipelago della Terra del Fuoco.
+**Patagonia cilena:** il massiccio del Torres del Paine e il parco nazionale che lo circonda (il principale polo del turismo internazionale), i fiordi delle regioni di Aysén e Magallanes, la remota Carretera Austral (una strada sterrata celebre per i suoi paesaggi) e l’arcipelago della Terra del Fuoco.
 
 **Patagonia argentina:** il ghiacciaio Perito Moreno e il Parco Nazionale Los Glaciares (Calafate), il massiccio del Fitz Roy ed El Chaltén (la capitale del trekking), la penisola di Valdés (con l’osservazione delle balene e le colonie di pinguini) e il settore argentino della Terra del Fuoco.
 
@@ -162,7 +162,7 @@ La stagione praticabile in Patagonia va da ottobre ad aprile (dalla primavera al
 Chi visita la Patagonia la descrive immancabilmente come l’esperienza di paesaggio più potente della propria vita. La distanza è reale: Buenos Aires è a oltre 13 ore da Londra e a 9 da Miami, più i collegamenti interni. Ma la combinazione di vastità, fauna e vero isolamento non esiste altrove con questa intensità. Il viaggio fa parte del senso.
 
 
-L’ecosistema del Torres del Paine ospita puma (il predatore simbolo della regione, e uno dei posti migliori al mondo per vedere leoni di montagna in libertà), guanachi (camelidi selvatici, parenti del lama), condor delle Ande (con 3,2 m di apertura alare, tra gli uccelli volanti più grandi del mondo), volpi grigie, armadilli e il cervo huemul, a rischio di estinzione. La fauna marina (pinguini, leoni marini, delfini e a volte orche) si può osservare nei fiordi cileni e nel canale di Beagle a Ushuaia.
+L’ecosistema del Torres del Paine ospita puma (il predatore simbolo della regione, e un luogo rinomato per vedere leoni di montagna in libertà), guanachi (camelidi selvatici, parenti del lama), condor delle Ande (con 3,2 m di apertura alare, tra gli uccelli volanti più grandi del mondo), volpi grigie, armadilli e il cervo huemul, a rischio di estinzione. La fauna marina (pinguini, leoni marini, delfini e a volte orche) si può osservare nei fiordi cileni e nel canale di Beagle a Ushuaia.
 
 
 La Patagonia in lodge (non in campeggio né in dormitorio): **livello base** (Standard Dome di EcoCamp): da 400 $ a persona a notte. **Fascia media** (Tierra Patagonia, camera standard di Explora): 700–1.200 $ a persona a notte. **Ultralusso** (Awasi, Yagan Camp): 1.400–2.500 $ a persona a notte. Un itinerario di 7 notti su due destinazioni in lodge di fascia media (Torres del Paine + Calafate) costa di solito 5.000–9.000 $ a persona, alloggio e pasti inclusi, voli internazionali esclusi.

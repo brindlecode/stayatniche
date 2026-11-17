@@ -7,7 +7,7 @@ stats:
   topDestination: "Finlandia"
 seo:
   metaTitle: "Dormire in una bolla trasparente | StayAtNiche"
-  metaDescription: "Le più belle bolle trasparenti e igloo di vetro del mondo: dalle cupole per l’aurora boreale in Lapponia finlandese alle bolle sotto le stelle in Provenza."
+  metaDescription: "Bolle trasparenti e igloo di vetro selezionati: dalle cupole per l’aurora boreale in Lapponia finlandese alle bolle sotto le stelle in Provenza."
 ---
 
 Tutto comincia al Kakslauttanen Arctic Resort di Saariselkä, in Finlandia. All’inizio degli anni Duemila la struttura costruì cupole trasparenti e termoisolate con un unico scopo: permettere agli ospiti di guardare l’aurora boreale dal letto. Nel 2010 l’idea aveva già conquistato l’attenzione del mondo e dato vita a una categoria tutta nuova. Ancora oggi Kakslauttanen è uno degli hotel più cercati del pianeta: nella stagione dell’aurora è pieno con mesi di anticipo, e l’entusiasmo non si è mai davvero spento.

@@ -24,7 +24,6 @@ bestFor:
   - "Families"
 bookingUrl: "https://saharadunescamp.com/"
 rating: 8.7
-reviewCount: 0
 coordinates:
   lat: 31.2465113
   lng: -3.9653073
@@ -33,6 +32,19 @@ sourceId: "osm:node/13722713351"
 verifiedAt: 2026-11-15
 publishedDate: 2026-11-15
 status: published
+location:
+  country: "Morocco"
+  countryCode: "MA"
+  region: "Drâa-Tafilalet"
+  city: "Merzouga"
+  locality: "Erg Chebbi"
+  coordinates:
+    lat: 31.2465113
+    lng: -3.9653073
+niche_scope: entire_property
+niche_feature: "Small family-run camp of handcrafted Berber tents (26 m2 double, 40 m2 triple, other configurations on request) at the edge of the Erg Chebbi dunes outside Merzouga, with private hot-shower bathrooms."
+niche_source_url: "https://saharadunescamp.com/"
+niche_verified_at: 2026-11-17
 ---
 
 Sahara Dunes Camp is a small, family-run camp built at the edge of the Erg Chebbi dunes, just outside Merzouga in southern Morocco. It offers a handful of handcrafted Berber tents, and it keeps the number deliberately low so that each guest gets real attention. The dunes here rise to over 150 metres and change colour through the day, from pale gold to deep amber.

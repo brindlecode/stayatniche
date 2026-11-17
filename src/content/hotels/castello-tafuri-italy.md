@@ -21,7 +21,6 @@ bestFor:
   - "Sea lovers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Castello%20Tafuri%20Charming%20Suites%2C%20Portopalo%20di%20Capo%20Passero&adults=2"
 rating: 8.9
-reviewCount: 0
 coordinates:
   lat: 36.6896453
   lng: 15.1339444
@@ -30,6 +29,18 @@ sourceId: "osm:way/279054417"
 verifiedAt: 2026-10-12
 publishedDate: 2026-10-12
 status: published
+location:
+  country: "Italy"
+  countryCode: "IT"
+  region: "Sicily"
+  city: "Portopalo di Capo Passero"
+  coordinates:
+    lat: 36.6896453
+    lng: 15.1339444
+niche_scope: entire_property
+niche_feature: "Eighteen rooms and suites in Castello Tafuri, a crenellated villa built in castle form (designed 1933, started 1935, hotel from 1964, closed 1998 and reopened after renovation). Borderline: a 20th-century castle-style building, not a medieval fortress."
+niche_source_url: "https://www.castellotafuri.it/castello/il-castello/"
+niche_verified_at: 2026-11-17
 ---
 
 Castello Tafuri sits in Portopalo di Capo Passero, at the southeastern tip of Sicily, and has been turned into a small hotel of eighteen rooms and suites. The castle is a crenellated, defensive house that dominates the sea below, and it keeps its battlements: some suites have balconies set between the merlons.

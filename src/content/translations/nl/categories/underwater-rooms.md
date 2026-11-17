@@ -2,12 +2,12 @@
 source: underwater-rooms
 title: Onderwaterkamers
 tagline: "Wakker worden op de bodem van de oceaan"
-description: "De zeldzaamste manier van overnachten op aarde: in een onderwaterkamer slaap je te midden van koraalriffen, tropische vissen en stralend blauw water. Met minder dan twintig echte onderwatersuites wereldwijd zijn deze bijzondere kamers op de Malediven en elders de absolute grens van het nichereizen."
+description: "Een zeldzame manier van overnachten: in een onderwaterkamer slaap je te midden van koraalriffen, tropische vissen en stralend blauw water. Met minder dan twintig echte onderwatersuites wereldwijd verleggen deze bijzondere kamers op de Malediven en elders de grens van het nichereizen."
 stats:
   topDestination: "Malediven"
 seo:
   metaTitle: "Onderwaterkamers: slapen onder de zee | StayAtNiche"
-  metaDescription: "Slapen onder water: de meest exclusieve onderwaterkamers ter wereld, op de Malediven en verder. Slaap tussen koraalriffen en tropische vissen in een luxe suite."
+  metaDescription: "Slapen onder water: exclusieve onderwaterkamers, op de Malediven en verder. Slaap tussen koraalriffen en tropische vissen in een luxe suite."
 ---
 
 Er zijn wereldwijd zo'n achttien plekken waar je onder het zeeoppervlak in slaap kunt vallen, kijkend naar rifvissen die tussen koraalformaties door zwemmen terwijl mantaroggen boven je langs glijden. Minder dan achttien zelfs, afhankelijk van het seizoen en welke hotels open zijn. Dat aantal groeit niet snel, want onderwaterkamers bouwen is echt moeilijk en duur – en precies daarom blijven ze de zeldzaamste categorie in de reiswereld.
@@ -28,7 +28,7 @@ Op Pemba in Tanzania levert de ligging in open oceaan van de kamer van The Manta
 
 In Zweden ligt de Utter Inn in het Mälarmeer, in zoet water – baarzen en snoeken vervangen tropische rifvissen, en het ecosysteem van het meer heeft een eigen beeldtaal, vooral in de herfst, als het lage licht het water een tinachtige glans geeft die je in de tropen niet ziet. Bovendien boek je hem voor een fractie van wat de Maldivische opties kosten.
 
-De **Malediven** hebben meer onderwateraccommodatie dan welke bestemming ook. De atollen zorgen voor kalm, helder, warm lagunewater, ideaal voor goed zicht van onderaf. **Zanzibar, Tanzania** biedt de drijvende onderwaterhybride van The Manta Resort in de open Indische Oceaan. De Utter Inn in **Zweden** is de toegankelijkste onderwaterkamer ter wereld – bescheiden van omvang, onvergetelijk van karakter.
+De **Malediven** hebben meer onderwateraccommodatie dan welke bestemming ook. De atollen zorgen voor kalm, helder, warm lagunewater, ideaal voor goed zicht van onderaf. **Zanzibar, Tanzania** biedt de drijvende onderwaterhybride van The Manta Resort in de open Indische Oceaan. De Utter Inn in **Zweden** is een bijzonder toegankelijke onderwaterkamer – bescheiden van omvang, onvergetelijk van karakter.
 
 De prijzen beginnen bij zo'n $ 850 per nacht en lopen op tot enkele duizenden voor de meest exclusieve villa's. Boek voor het hoogseizoen zes maanden of langer vooruit. De Malediven bezoek je het best van november tot en met april, als de kalme zee het zicht maximaliseert en de onderwaterkamer volledig tot haar recht komt.
 

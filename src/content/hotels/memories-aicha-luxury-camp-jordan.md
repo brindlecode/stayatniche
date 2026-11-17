@@ -25,7 +25,6 @@ bestFor:
   - "Couples"
 bookingUrl: "http://www.mlc.jo/"
 rating: 8.6
-reviewCount: 0
 coordinates:
   lat: 29.546697
   lng: 35.435211
@@ -37,6 +36,19 @@ sourceId: "osm:node/7134042039"
 verifiedAt: 2026-11-15
 publishedDate: 2026-11-15
 status: published
+location:
+  country: "Jordan"
+  countryCode: "JO"
+  region: "Aqaba"
+  city: "Wadi Rum"
+  locality: "Umm Eshrin"
+  coordinates:
+    lat: 29.546697
+    lng: 35.435211
+niche_scope: entire_property
+niche_feature: "Camp of 55 air-conditioned tents (Junior, Executive, Panoramic, Panoramic Suite) in the heart of Wadi Rum desert; home page also calls the units 'domes' with a transparent roof for stargazing."
+niche_source_url: "http://www.mlc.jo/pages/about-us"
+niche_verified_at: 2026-11-17
 ---
 
 Memories Aicha Luxury Camp is a camp of 55 tents in the heart of Wadi Rum, tucked into a red valley between rugged mountains and open Arabian desert. The camp's own description is that the site looks more like a Mars colony than a campsite. The idea is to wake up in the wild without giving up hotel-level comfort.

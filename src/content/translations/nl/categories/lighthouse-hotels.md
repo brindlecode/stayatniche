@@ -25,7 +25,7 @@ De dageraad vanaf de lantaarngalerij is de ultieme ervaring: de lucht die vanaf 
 Deze accommodaties zijn klein. Veel hebben maar twee tot zes kamers. Dat betekent echte exclusiviteit, persoonlijke aandacht en gastheren en -vrouwen die hun ongewone plek meestal niet alleen om zakelijke redenen hebben gekozen. Het vogelleven rond vuurtorenkapen is steevast uitzonderlijk: trekvogels komen na hun oversteek over de oceaan precies op deze punten aan land, en zeevogelkolonies nestelen zich op de onbereikbare kliffen ernaast.
 
 
-**Maine, VS** heeft de grootste concentratie vuurtorenverblijven van Noord-Amerika. De combinatie van ruige granieten kapen, eilandengroepen en een diepe maritieme geschiedenis vormt de ideale context. Het aanbod loopt van vuurtorens op eilanden die je alleen per boot bereikt tot torens op kapen op rijafstand van Portland.
+**Maine, VS** heeft een opvallend grote concentratie vuurtorenverblijven. De combinatie van ruige granieten kapen, eilandengroepen en een diepe maritieme geschiedenis vormt de ideale context. Het aanbod loopt van vuurtorens op eilanden die je alleen per boot bereikt tot torens op kapen op rijafstand van Portland.
 
 De vuurtorenhotels in **Noorwegen** liggen spectaculair bij fjordingangen en op onbeschutte eilandjes, met directe toegang tot het Noorse kustecosysteem. **Ierland en Schotland** hebben een aantal kustvuurtorens omgebouwd tot karaktervolle accommodatie, waarbij de vuurtorenbeleving samengaat met de diepe maritieme cultuur van de Keltische Atlantische rand. In **Australië** vind je langs de kusten van Victoria en South Australia vuurtorenhotels boven de Great Ocean Road en op het schiereiland Eyre, met het spektakel van de Zuidelijke Oceaan op een heel andere schaal.
 

@@ -1,10 +1,10 @@
 ---
 source: floating-hotels-houseboats-guide
 title: "Schwimmende Hotels und Hausboote: der große Ratgeber für Nächte auf dem Wasser"
-excerpt: "Von den kunstvollen Holzhausbooten Kaschmirs bis zu den arktischen Fjordhotels Norwegens: Entdecken Sie die außergewöhnlichsten schwimmenden Unterkünfte der Welt."
+excerpt: "Von den kunstvollen Holzhausbooten Kaschmirs bis zu den arktischen Fjordhotels Norwegens: Entdecken Sie außergewöhnliche schwimmende Unterkünfte."
 seo:
   metaTitle: "Schwimmende Hotels & Hausboote weltweit | StayAtNiche"
-  metaDescription: "Die schönsten schwimmenden Hotels und Hausboote der Welt – von Kaschmir bis Norwegen. Unser Ratgeber zu Unterkünften auf dem Wasser jenseits der Malediven."
+  metaDescription: "Schwimmende Hotels und Hausboote – von Kaschmir bis Norwegen. Unser Ratgeber zu Unterkünften auf dem Wasser jenseits der Malediven, mit Preisen und Tipps."
 ---
 
 Auf dem Wasser zu schlafen schenkt eine besondere Art von Ruhe, die kein Hotel an Land nachahmen kann: die sanfte Bewegung, das Plätschern am Rumpf, das andere Spiel des Lichts, das von einer lebendigen Oberfläche zurückgeworfen wird. Schwimmende Hotels und Hausboote besetzen eine faszinierende Nische – sie stehen ihrem Wesen nach in ständigem Zwiegespräch mit ihrer Umgebung.

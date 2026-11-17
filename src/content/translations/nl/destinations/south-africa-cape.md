@@ -16,7 +16,7 @@ mustSee:
   - "Kaap de Goede Hoop, het zuidwestelijkste punt van Afrika, met een wilde Atlantische kust"
   - "Boulders Beach in Simon's Town, met een kolonie van 3.000 Afrikaanse pinguïns"
   - "De wijndalen van Stellenbosch en Franschhoek: uitzonderlijke wijn in een buitengewoon berglandschap"
-  - "Hermanus, de beste plek ter wereld om vanaf het land walvissen te kijken (zuidkapers, juli–november)"
+  - "Hermanus, een van de beste plekken ter wereld om vanaf het land walvissen te kijken (zuidkapers, juli–november)"
   - "Robbeneiland, waar Nelson Mandela gevangenzat; onmisbare historische context"
 travelTips:
   - "Kaapstad kent veel kleine criminaliteit en auto-inbraken. Laat nooit waardevolle spullen zichtbaar in een geparkeerde auto liggen en let op in het centrum na het donker."

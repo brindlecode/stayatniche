@@ -2,12 +2,12 @@
 source: overwater-bungalows
 title: Overwaterbungalows
 tagline: "Je eigen paradijs boven de lagune"
-description: "Stap vanuit je slaapkamer zo een warme turquoise lagune in. Overwaterbungalows, ooit bedacht in Frans-Polynesië en nu in de hele tropische wereld te vinden, zijn de gouden standaard van eilandluxe. Glazen vloeren met zicht op het rif, privézonnedekken boven smetteloos water en de oceaan als je vaste, allesomvattende gezelschap."
+description: "Stap vanuit je slaapkamer zo een warme turquoise lagune in. Overwaterbungalows, ooit bedacht in Frans-Polynesië en nu in de hele tropische wereld te vinden, zijn een maatstaf voor eilandluxe. Glazen vloeren met zicht op het rif, privézonnedekken boven smetteloos water en de oceaan als je vaste, allesomvattende gezelschap."
 stats:
   topDestination: "Malediven"
 seo:
   metaTitle: "Overwaterbungalows: slapen boven de lagune | StayAtNiche"
-  metaDescription: "De mooiste overwaterbungalows op de Malediven, Bora Bora en verder. Slaap direct boven een tropische lagune, met een glazen vloer en je eigen trap de zee in."
+  metaDescription: "Bijzondere overwaterbungalows op de Malediven, Bora Bora en verder. Slaap direct boven een tropische lagune, met een glazen vloer en je eigen trap de zee in."
 ---
 
 Het concept is eenvoudig en het werkt: een houten villa boven helder tropisch water, een trapje dat rechtstreeks de lagune in loopt, een privéterras waar je enige beslissing is of je de zonsopkomst vanaf je ligbed bekijkt of vanuit het water eronder. Overwaterbungalows ontstonden eind jaren zestig in Frans-Polynesië als praktische oplossing voor het gebrek aan land op koraalatollen en zijn sindsdien het meest herkenbare beeld van de droomreis geworden. Die status is verdiend.

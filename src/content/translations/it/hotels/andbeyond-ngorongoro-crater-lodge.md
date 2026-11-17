@@ -24,10 +24,10 @@ bestFor:
   - Viaggi di nozze
 prosAndCons:
   pros:
-    - Sul fondo del cratere gli avvistamenti sono i più costantemente eccezionali d’Africa, con tutti i Big Five ogni giorno
+    - Sul fondo del cratere gli avvistamenti sono costantemente eccezionali, con tutti i Big Five ogni giorno
     - Il lodge in sé è una delle grandi esperienze alberghiere teatrali d’Africa
     - La posizione sul bordo offre viste panoramiche permanenti sulla caldera
-    - L’unione di interesse culturale (masai), geologico e naturalistico non ha eguali
+    - L’unione di interesse culturale (masai), geologico e naturalistico è eccezionale
   cons:
     - Le discese nel cratere sono condivise con altri operatori, non è un’esperienza privata
     - Il design teatrale divide, alcuni lo trovano troppo elaborato

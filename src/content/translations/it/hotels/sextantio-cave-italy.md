@@ -24,11 +24,11 @@ bestFor:
   - "Buongustai alla scoperta della cucina del Sud Italia"
 prosAndCons:
   pros:
-    - "Atmosfera storica senza rivali: dormi in ambienti abitati da millenni"
+    - "Atmosfera storica straordinaria: dormi in ambienti abitati da millenni"
     - "Un restauro guidato dalla conservazione, davvero sensibile e bellissimo"
     - "Matera è una delle città più straordinarie e sottovalutate d'Italia"
     - "Ottimo ristorante con una forte impronta regionale"
-    - "Tra gli interni d'albergo più fotogenici al mondo"
+    - "Interni d'albergo molto fotogenici"
   cons:
     - "Le camere in grotta possono risultare buie, non ideali per chi ha bisogno di luce naturale"
     - "Matera non è facile da raggiungere senza auto o collegamenti mirati"

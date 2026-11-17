@@ -1,15 +1,15 @@
 ---
 source: best-eco-lodges-costa-rica
 title: "De beste ecolodges in Costa Rica: bijzondere junglestays zoals het hoort"
-excerpt: "Costa Rica bedacht het concept ecolodge en doet het nog altijd het best. Deze uitzonderlijke accommodaties combineren onderdompeling in het regenwoud, fantastische wildlife en echte duurzaamheid."
+excerpt: "Costa Rica was een pionier van het concept ecolodge en blijft er een voorbeeld in. Deze uitzonderlijke accommodaties combineren onderdompeling in het regenwoud, fantastische wildlife en echte duurzaamheid."
 seo:
   metaTitle: "Beste ecolodges Costa Rica: jungle & wildlife | StayAtNiche"
   metaDescription: "De beste ecolodges van Costa Rica, van regenwoud op het schiereiland Osa tot nevelwoud in Monteverde. Met prijzen, wildlife en duurzaamheidskeurmerken."
 ---
 
-Costa Rica heeft het moderne ecotoerisme uitgevonden. Dat is geen overdrijving. Het besluit van het land in de jaren tachtig om 25% van zijn grondgebied te beschermen als park of reservaat, gecombineerd met een toeristische infrastructuur waarmee bezoekers die beschermde gebieden ook echt kunnen beleven, leverde een model op dat wereldwijd is bestudeerd en nagevolgd. Wat Costa Rica eerder begreep dan bijna iedereen: ongerepte wildernis is economisch meer waard dan omgevormd land. Een levende jaguar in een gezond regenwoud levert de nationale economie meer op dan hetzelfde land kaalgekapt voor vee.
+Costa Rica wordt algemeen gezien als pionier van het moderne ecotoerisme. Dat is geen overdrijving. Het besluit van het land in de jaren tachtig om 25% van zijn grondgebied te beschermen als park of reservaat, gecombineerd met een toeristische infrastructuur waarmee bezoekers die beschermde gebieden ook echt kunnen beleven, leverde een model op dat wereldwijd is bestudeerd en nagevolgd. Wat Costa Rica eerder begreep dan bijna iedereen: ongerepte wildernis is economisch meer waard dan omgevormd land. Een levende jaguar in een gezond regenwoud levert de nationale economie meer op dan hetzelfde land kaalgekapt voor vee.
 
-De ecolodges die uit deze filosofie voortkwamen, zijn de meest authentieke uitdrukking van hoe duurzaam reizen eruit kan zien als je het met echte ambitie aanpakt in plaats van met greenwashing. De beste zijn geen hotels die hun keukenafval composteren en het daarbij laten. Het zijn accommodaties die samen met lokale gemeenschappen zijn gebouwd, op hernieuwbare energie draaien, bijna volledig met lokale natuurgidsen werken en zo liggen dat ze je echt uitzonderlijke wildlife-ervaringen bieden: luiaards, pijlgifkikkers, geelvleugelara's, tapirs.
+De ecolodges die uit deze filosofie voortkwamen, zijn een authentieke uitdrukking van hoe duurzaam reizen eruit kan zien als je het met echte ambitie aanpakt in plaats van met greenwashing. De beste zijn geen hotels die hun keukenafval composteren en het daarbij laten. Het zijn accommodaties die samen met lokale gemeenschappen zijn gebouwd, op hernieuwbare energie draaien, bijna volledig met lokale natuurgidsen werken en zo liggen dat ze je echt uitzonderlijke wildlife-ervaringen bieden: luiaards, pijlgifkikkers, geelvleugelara's, tapirs.
 
 Deze gids bespreekt de mooiste accommodaties, ingedeeld per regio, met een eerlijk oordeel over wat elk ervan bijzonder maakt en praktische informatie om je reis te plannen.
 

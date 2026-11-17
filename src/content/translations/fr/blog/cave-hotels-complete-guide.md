@@ -4,7 +4,7 @@ title: "Hôtels troglodytes du monde entier : le guide ultime (où dormir et �
 excerpt: "Des suites taillées dans la roche de Cappadoce aux villes souterraines des mineurs d'opale australiens, le guide complet des hôtels troglodytes du monde, avec nos conseils de réservation."
 seo:
   metaTitle: "Hôtels troglodytes du monde : le guide | StayAtNiche"
-  metaDescription: "Les plus beaux hôtels troglodytes du monde, de la Cappadoce à Matera et Coober Pedy : à quoi s'attendre, où réserver et nos conseils pour dormir dans la roche."
+  metaDescription: "Des hôtels troglodytes de la Cappadoce à Matera et Coober Pedy : à quoi s'attendre, où réserver et nos conseils pratiques pour dormir dans la roche."
 ---
 
 L'homme dort dans des grottes depuis quelque 300 000 ans. Pendant l'essentiel de cette période, c'était par nécessité. Aujourd'hui, certaines des chambres d'hôtel les plus raffinées du monde sont creusées directement dans la roche ancienne, avec à la clé une géologie spectaculaire, une régulation naturelle de la température et une atmosphère chargée d'histoire qu'aucune construction classique ne peut reproduire.
@@ -24,7 +24,7 @@ Aucune destination ne maîtrise l'hôtel troglodyte comme la Cappadoce. L'Anatol
 Régulièrement classé parmi les plus beaux boutique-hôtels de Turquie, le **[Museum Hotel Cappadocia](/hotels/museum-hotel-cappadocia)** domine Ürgüp avec 30 chambres et suites toutes différentes, dont beaucoup sont creusées dans le tuf ancien. Son restaurant Lil'a compte parmi les meilleurs de la région, et la collection d'antiquités disséminée dans tout l'établissement (d'authentiques pièces romaines, byzantines et ottomanes) crée une atmosphère qu'aucun hôtel de luxe standard ne peut s'offrir.
 
 **Prix :** suites troglodytes à partir de 350 $ la nuit
-**Idéal pour :** les passionnés d'histoire, les couples, ceux qui veulent la meilleure table de Cappadoce
+**Idéal pour :** les passionnés d'histoire, les couples, ceux qui veulent une excellente table en Cappadoce
 
 
 Pour les voyageurs qui préfèrent une véritable atmosphère historique à un luxe trop lisse, Gamirasu est le bon choix. L'hôtel occupe un monastère byzantin creusé dans la roche il y a plus de 1 000 ans ; on dort dans des cellules qui abritaient autrefois des moines. La piscine est taillée dans la roche naturelle ; le petit-déjeuner est servi dans une salle en pierre sculptée voûtée en berceau qui faisait office de chapelle. Le village d'Ayvali est plus calme que Göreme, et c'est précisément tout l'intérêt.

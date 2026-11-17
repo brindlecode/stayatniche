@@ -6,7 +6,7 @@ highlights:
   - Un plateau du désert du Néguev à 900 m d'altitude
   - Une architecture à flanc de falaise inspirée des Nabatéens
   - La route de l'encens, inscrite à l'UNESCO, toute proche
-  - Un spa Six Senses de classe mondiale
+  - Un spa Six Senses
   - Observation des étoiles dans une réserve de ciel étoilé de renommée internationale
 amenities:
   - Spa Six Senses
@@ -22,7 +22,7 @@ bestFor:
   - Couples en quête d'une retraite de luxe
 seo:
   metaTitle: "Six Senses Shaharut : désert du Néguev | StayAtNiche"
-  metaDescription: "Six Senses Shaharut, en Israël : 60 villas à flanc de falaise dans le désert du Néguev, spa de classe mondiale, ciel étoilé et route de l'encens toute proche."
+  metaDescription: "Six Senses Shaharut, en Israël : 60 villas à flanc de falaise dans le désert du Néguev, spa Six Senses, ciel étoilé et route de l'encens toute proche."
 ---
 
 Le désert du Néguev couvre 60 % du territoire israélien mais abrite moins de 10 % de sa population. À Shaharut, sur un plateau dominant le canyon du Nahal Paran, le vide est total : un désert de roche d'un horizon à l'autre, un ciel sans obstacle et 600 millions d'années d'histoire géologique à lire dans les falaises mises à nu. Les Nabatéens — l'ancienne civilisation arabe qui contrôla le commerce régional des épices d'environ 400 av. J.-C. à 100 apr. J.-C. — ont semé villages et caravansérails dans tout ce paysage, et la route de l'encens, inscrite au patrimoine mondial de l'UNESCO, passe à quelques kilomètres de l'hôtel.

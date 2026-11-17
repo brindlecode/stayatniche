@@ -2,7 +2,7 @@
 source: white-water-rafting-zambezi
 title: "Rafting sulle rapide dello Zambesi"
 destination: "Batoka Gorge, Cascate Vittoria"
-description: "Lo Zambesi a valle delle Cascate Vittoria è considerato da molti la migliore discesa di rafting in giornata al mondo: 23 chilometri di rapide ininterrotte di classe IV e V in una spettacolare gola di basalto che incanala uno dei fiumi più potenti d'Africa in un percorso a ostacoli ribollente di onde, buchi e rulli. Non è una tranquilla discesa panoramica: è una prova fisica e psicologica di un'intera giornata che la maggior parte dei partecipanti annovera tra le esperienze più belle di tutti i propri viaggi."
+description: "Lo Zambesi a valle delle Cascate Vittoria è considerato da molti una delle migliori discese di rafting in giornata al mondo: 23 chilometri di rapide ininterrotte di classe IV e V in una spettacolare gola di basalto che incanala uno dei fiumi più potenti d'Africa in un percorso a ostacoli ribollente di onde, buchi e rulli. Non è una tranquilla discesa panoramica: è una prova fisica e psicologica di un'intera giornata che la maggior parte dei partecipanti annovera tra le esperienze più belle di tutti i propri viaggi."
 booking:
   price: "da 160 $ a persona"
   duration: "Giornata intera"
@@ -28,7 +28,7 @@ notIncluded:
   - "Costi del visto per l'ingresso in Zambia o Zimbabwe"
 seo:
   metaTitle: "Rafting sullo Zambesi, Cascate Vittoria | StayAtNiche"
-  metaDescription: "Affronta 23 km di rapide di classe IV-V nella Batoka Gorge, la discesa di rafting in giornata più celebre al mondo, sotto le Cascate Vittoria. Da 160 $."
+  metaDescription: "Affronta 23 km di rapide di classe IV-V nella Batoka Gorge, una delle discese di rafting in giornata più note al mondo, sotto le Cascate Vittoria. Da 160 $."
 ---
 
 La prima cosa è il suono. Molto prima che il gommone raggiunga la prima rapida, senti lo Zambesi: un boato profondo, quasi al di sotto della soglia dell'udito, che le pareti della gola amplificano fino a renderlo quasi fisico. Dal punto d'imbarco sotto le Cascate Vittoria, alzando lo sguardo verso le pareti di basalto alte 120 metri su entrambi i lati e abbassandolo su un fiume che ha appena fatto un salto di 108 metri in un'unica cortina d'acqua, capisci subito che oggi non sarà una giornata qualunque.

@@ -1,7 +1,7 @@
 ---
 source: treehouse-hotels-guide
 title: "La guía definitiva de cabañas en los árboles: qué esperar, mejores alojamientos y consejos de reserva"
-excerpt: "Todo lo que necesitas saber antes de reservar una cabaña en los árboles, de auténticas estructuras entre las copas a lodges elevados: los mejores alojamientos del mundo y consejos expertos para hacer la maleta."
+excerpt: "Todo lo que necesitas saber antes de reservar una cabaña en los árboles, de auténticas estructuras entre las copas a lodges elevados: los mejores alojamientos de cada continente y consejos expertos para hacer la maleta."
 seo:
   metaTitle: "Cabañas en los árboles: guía y consejos | StayAtNiche"
   metaDescription: "Guía de cabañas en los árboles: qué define una auténtica, los mejores alojamientos por continente, sostenibilidad, qué llevar y consejos para reservar."
@@ -57,7 +57,7 @@ En los alojamientos premium, los tiempos de pasar penurias en una cabaña en los
 
 
 
-**Treehotel, Harads, Laponia sueca**: el hotel de cabañas en los árboles más ambicioso arquitectónicamente de la Tierra. Siete habitaciones diseñadas por distintos arquitectos, cada concepto más llamativo que el anterior: el Mirrored Cube, el UFO, el Bird's Nest, la 7th Room (una suite en lo alto a la que se accede por un puente colgante). En invierno, estás bajo algunos de los cielos más oscuros y despejados de Escandinavia. Precios desde unos 350–700 US$/noche según la habitación. Reserva con 6–12 meses de antelación para fechas de invierno.
+**Treehotel, Harads, Laponia sueca**: uno de los hoteles de cabañas en los árboles más ambiciosos arquitectónicamente. Siete habitaciones diseñadas por distintos arquitectos, cada concepto más llamativo que el anterior: el Mirrored Cube, el UFO, el Bird's Nest, la 7th Room (una suite en lo alto a la que se accede por un puente colgante). En invierno, estás bajo algunos de los cielos más oscuros y despejados de Escandinavia. Precios desde unos 350–700 US$/noche según la habitación. Reserva con 6–12 meses de antelación para fechas de invierno.
 
 **La Cabane Perchée, Francia**: una red de cabañas en los árboles de lujo repartidas por varias regiones forestales francesas, algunas en los castañares del valle del Loira y otras en los robledales de Normandía. El nivel de acabado (camas con dosel, estufas de leña, terrazas privadas) es realmente sobresaliente. Precios desde 300–600 €/noche.
 
@@ -66,7 +66,7 @@ En los alojamientos premium, los tiempos de pasar penurias en una cabaña en los
 
 **Free Spirit Spheres, isla de Vancouver, Canadá**: tres cápsulas esféricas suspendidas, Eve, Eryn y Melody, cuelgan de cables entre abetos de Douglas en la isla de Vancouver. No son alojamientos de lujo (baños compartidos abajo, instalaciones de cocina básicas), pero están de verdad entre los conceptos de alojamiento más originales del planeta. Precios de unos 200–280 CAD/noche. Reserva con meses de antelación.
 
-**Costa Rica**: Costa Rica ofrece posiblemente la mejor combinación del mundo entre cabañas en los árboles y biodiversidad. Lapa Rios, en la península de Osa, tiene bungalós elevados en el dosel de la selva; en las regiones de Monteverde y Arenal, cabañas más pequeñas gestionadas por sus propietarios ofrecen una auténtica inmersión entre las copas con un acceso extraordinario a la fauna. Los precios van de 150 a más de 600 US$/noche según el alojamiento.
+**Costa Rica**: Costa Rica ofrece una excelente combinación entre cabañas en los árboles y biodiversidad. Lapa Rios, en la península de Osa, tiene bungalós elevados en el dosel de la selva; en las regiones de Monteverde y Arenal, cabañas más pequeñas gestionadas por sus propietarios ofrecen una auténtica inmersión entre las copas con un acceso extraordinario a la fauna. Los precios van de 150 a más de 600 US$/noche según el alojamiento.
 
 **Estados Unidos**: las cabañas en los árboles viven un auge en Estados Unidos. Treehouse Point, cerca de Seattle (seis cabañas construidas por Pete Nelson, famoso por el programa de televisión *Treehouse Masters*), es la referencia. Tennessee tiene decenas de cabañas en los árboles de lujo en alquiler en las Great Smoky Mountains. Las Cascadas occidentales y el Pacífico Noroeste ofrecen una inmersión excelente en el bosque.
 

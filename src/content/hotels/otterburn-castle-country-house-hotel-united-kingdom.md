@@ -22,7 +22,6 @@ bestFor:
   - "History lovers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Otterburn%20Castle%20Country%20House%20Hotel%2C%20Otterburn&adults=2"
 rating: 8
-reviewCount: 0
 coordinates:
   lat: 55.2322401
   lng: -2.1779454
@@ -31,6 +30,18 @@ sourceId: "osm:way/723957347"
 verifiedAt: 2026-10-11
 publishedDate: 2026-10-11
 status: published
+location:
+  country: "United Kingdom"
+  countryCode: "GB"
+  region: "England"
+  city: "Otterburn"
+  coordinates:
+    lat: 55.2322401
+    lng: -2.1779454
+niche_scope: unverified
+niche_feature: "Could not confirm. Official site returns 'Private Site' (HTTP 401). Heritage record: castellated country house rebuilt in 1830, 'site of 13th century pele tower'; surviving medieval fabric disputed between sources."
+niche_source_url: "https://keystothepast.info/Site-Details?PRN=N8287"
+niche_verified_at: 2026-11-17
 ---
 
 Otterburn Castle is a Gothic Revival country house in Northumberland National Park, run today as a boutique hotel, event venue and dining destination. It offers 17 en-suite bedrooms inside a Grade II listed building, set in 32 acres of deer park and woodland.

@@ -22,7 +22,6 @@ bestFor:
   - "Special occasions"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Fonab%20Castle%20Hotel%2C%20Pitlochry&adults=2"
 rating: 8.4
-reviewCount: 0
 coordinates:
   lat: 56.6984046
   lng: -3.7419482
@@ -31,6 +30,18 @@ sourceId: "osm:way/622132944"
 verifiedAt: 2026-10-11
 publishedDate: 2026-10-11
 status: published
+location:
+  country: "United Kingdom"
+  countryCode: "GB"
+  region: "Scotland"
+  city: "Pitlochry"
+  coordinates:
+    lat: 56.6984046
+    lng: -3.7419482
+niche_scope: specific_rooms
+niche_feature: "Castle suite (castle tower summit) and Castle Room Superior are in the original castle (built 1892 per Wikipedia); other rooms are in contemporary Lochside and Woodland lodge buildings. 42 bedrooms across four locations; castle/lodge split not given."
+niche_source_url: "https://www.crerarhotels.com/collection/fonab-castle/stay/"
+niche_verified_at: 2026-11-17
 ---
 
 Fonab Castle sits in the heart of Highland Perthshire at Pitlochry, and it presents itself as a five-star castle hotel. The aim is a blend of the historic and the contemporary, with the building's past as a starting point and the odd modern twist added.

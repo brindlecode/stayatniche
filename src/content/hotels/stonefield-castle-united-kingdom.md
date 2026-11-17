@@ -22,7 +22,6 @@ bestFor:
   - "Dog owners"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Stonefield%20Castle%2C%20Tarbert%2C%20Scotland&adults=2"
 rating: 8.3
-reviewCount: 0
 coordinates:
   lat: 55.8912
   lng: -5.41706
@@ -31,6 +30,19 @@ sourceId: "wd:Q7619164"
 verifiedAt: 2026-11-14
 publishedDate: 2026-11-15
 status: published
+location:
+  country: "United Kingdom"
+  countryCode: "GB"
+  region: "Scotland"
+  city: "Tarbert"
+  locality: "Stonefield"
+  coordinates:
+    lat: 55.8912
+    lng: -5.41706
+niche_scope: entire_property
+niche_feature: "Hotel in the 1837 Scottish baronial castle-style mansion by Playfair; official page gives 38 en-suite bedrooms but does not itemise which wing each is in."
+niche_source_url: "https://bespokehotels.com/stonefieldcastle/"
+niche_verified_at: 2026-11-17
 ---
 
 Stonefield Castle is a castle in the Victorian sense: a grand baronial house rather than a fortress. It was completed in 1837 for John Campbell, to a design by the Edinburgh architect William Henry Playfair, on the site of an older house called Barmore. The Campbells sold it in 1948 and it has been a hotel since 1950. It stands just north of Tarbert, on the Kintyre peninsula, with its gardens running down to Loch Fyne.

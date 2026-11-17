@@ -4,7 +4,7 @@ title: "Hotel in grotta nel mondo: la guida definitiva (dove dormire e cosa aspe
 excerpt: "Dalle suite scavate nella roccia della Cappadocia alle città sotterranee dei cercatori di opali in Australia: la guida completa agli hotel in grotta nel mondo, con consigli da esperti per prenotare."
 seo:
   metaTitle: "Hotel in grotta nel mondo: la guida definitiva | StayAtNiche"
-  metaDescription: "I migliori hotel in grotta del mondo, dalla Cappadocia a Matera e Coober Pedy: cosa aspettarsi, dove prenotare e consigli pratici per dormire nella roccia."
+  metaDescription: "Hotel in grotta, dalla Cappadocia a Matera e Coober Pedy: cosa aspettarsi, dove prenotare e consigli pratici per dormire nella roccia, con prezzi e periodi."
 ---
 
 L’uomo dorme nelle grotte da circa 300.000 anni. Per quasi tutto questo tempo lo ha fatto per necessità. Oggi alcune delle camere d’albergo più raffinate del mondo sono scavate direttamente nella roccia antica e offrono spettacolo geologico, una regolazione naturale della temperatura e un’atmosfera carica di storia che l’edilizia tradizionale non può replicare.
@@ -24,7 +24,7 @@ Gli hotel in grotta di Göreme e Ürgüp hanno trasformato questa antica tradizi
 Sempre tra i migliori boutique hotel della Turchia, il **[Museum Hotel Cappadocia](/hotels/museum-hotel-cappadocia)** domina Ürgüp con 30 camere e suite tutte diverse, molte scavate nell’antico tufo. Il ristorante interno Lil’a è tra i migliori della regione, e la collezione di antichità sparsa in tutta la struttura (autentici pezzi romani, bizantini e ottomani) crea un’atmosfera che nessun hotel di lusso standard può comprare.
 
 **Fascia di prezzo:** suite in grotta da 350 $ a notte
-**Ideale per:** appassionati di storia, coppie, chi vuole la migliore cucina della Cappadocia
+**Ideale per:** appassionati di storia, coppie, chi vuole un’ottima cucina in Cappadocia
 
 
 Se preferisci una vera atmosfera storica al lusso patinato, la scelta è Gamirasu. L’hotel occupa un monastero bizantino scavato nella roccia oltre 1.000 anni fa; gli ospiti dormono nelle celle che un tempo ospitavano i monaci. La piscina è ricavata nella roccia naturale; la colazione si serve in una sala scavata nella pietra con volte a botte, che un tempo era una cappella. Il villaggio di Ayvali è più tranquillo di Göreme, ed è proprio questo il punto.

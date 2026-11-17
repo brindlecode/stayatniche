@@ -2,7 +2,7 @@
 name: "Japan, Kyoto & Beyond"
 type: country
 continent: "Asia"
-description: "Kyoto is the spiritual and cultural heart of Japan, a city of 1,600 Buddhist temples, 400 Shinto shrines, and 17 UNESCO World Heritage Sites that somehow functions as a living, working city rather than an outdoor museum. Beyond the imperial capital, Japan's ryokan inns, forest onsen, and mountain village guesthouses offer the world's most refined intimate accommodation tradition."
+description: "Kyoto is the spiritual and cultural heart of Japan, a city of 1,600 Buddhist temples, 400 Shinto shrines, and 17 UNESCO World Heritage Sites that somehow functions as a living, working city rather than an outdoor museum. Beyond the imperial capital, Japan's ryokan inns, forest onsen, and mountain village guesthouses offer a highly refined tradition of intimate accommodation."
 coverImage: /images/destinations/japan-kyoto.jpg
 essentials:
   currency: "JPY (Japanese Yen); Japan is still substantially cash-based, carry yen at all times"
@@ -35,7 +35,7 @@ seo:
   metaDescription: "Kyoto and Japan travel guide, cherry blossom season, ryokan stays, temple gardens, onsen, and Japan's most extraordinary boutique accommodation traditions."
 ---
 
-Kyoto was Japan's imperial capital for over a thousand years, from 794 to 1869, and it shows. The city holds 17 UNESCO World Heritage Sites, 1,600 Buddhist temples, and 400 Shinto shrines — and somehow still functions as a living city rather than a monument. The finest experiences here resist easy summary: watching monks at dawn prayer in Nanzen-ji's garden courtyard; a kaiseki dinner of 12 courses in a machiya (wooden townhouse) where each dish references the season's exact moment; an apprentice geiko glimpsed at dusk on the stone-flagged lanes of Gion's Hanamikoji Street. Arrive before 8am at Fushimi Inari, when the 10,000 vermilion torii gates climbing Mount Inari are still quiet, and you'll understand immediately why this city holds such a grip on people who visit it.
+Kyoto was Japan's imperial capital for over a thousand years, from 794 to 1869, and it shows. The city holds 17 UNESCO World Heritage Sites, 1,600 Buddhist temples, and 400 Shinto shrines — and somehow still functions as a living city rather than a monument. The most memorable experiences here resist easy summary: watching monks at dawn prayer in Nanzen-ji's garden courtyard; a kaiseki dinner of 12 courses in a machiya (wooden townhouse) where each dish references the season's exact moment; an apprentice geiko glimpsed at dusk on the stone-flagged lanes of Gion's Hanamikoji Street. Arrive before 8am at Fushimi Inari, when the 10,000 vermilion torii gates climbing Mount Inari are still quiet, and you'll understand immediately why this city holds such a grip on people who visit it.
 
 Japan's ryokan — the traditional inn, typically family-run and built around the same site for generations — is one of the world's great accommodation formats. The best combine tatami-floored rooms, futon bedding, private or shared outdoor onsen (geothermal hot spring baths), and kaiseki cuisine into a total immersion in Japanese aesthetic values: wabi-sabi (the beauty of imperfection), ichigo ichie (the unrepeatable nature of each moment), omotenashi (hospitality that anticipates needs before they are expressed). There is nothing quite like it anywhere else.
 

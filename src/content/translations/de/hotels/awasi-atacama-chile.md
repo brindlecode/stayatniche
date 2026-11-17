@@ -1,7 +1,7 @@
 ---
 source: awasi-atacama-chile
 destination: San Pedro de Atacama, Antofagasta
-description: "Zwölf private Villen in der Hochwüste Atacama, jede mit eigenem Fahrzeug und eigenem Guide – der persönlichste Zugang zur trockensten nicht polaren Wüste der Welt. Salzseen, Geysire, Flamingolagunen und 8.000 Meter hohe Vulkane der Atacama teilen Sie nicht mit anderen Gästen nach festem Zeitplan; Sie erkunden sie in Ihrem eigenen Tempo, begleitet von einem eigenen Experten."
+description: "Zwölf private Villen in der Hochwüste Atacama, jede mit eigenem Fahrzeug und eigenem Guide – ein sehr persönlicher Zugang zur trockensten nicht polaren Wüste der Welt. Salzseen, Geysire, Flamingolagunen und 8.000 Meter hohe Vulkane der Atacama teilen Sie nicht mit anderen Gästen nach festem Zeitplan; Sie erkunden sie in Ihrem eigenen Tempo, begleitet von einem eigenen Experten."
 highlights:
   - Eigener Guide und eigenes Fahrzeug für jede Villa
   - Individuelle Erkundung der Atacama ohne Gruppentouren

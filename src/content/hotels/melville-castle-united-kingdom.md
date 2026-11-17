@@ -23,7 +23,6 @@ bestFor:
   - "Edinburgh visitors"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Melville%20Castle%2C%20Lasswade&adults=2"
 rating: 8.5
-reviewCount: 0
 coordinates:
   lat: 55.8910128
   lng: -3.1044229
@@ -32,6 +31,19 @@ sourceId: "osm:way/343001044"
 verifiedAt: 2026-10-10
 publishedDate: 2026-10-10
 status: published
+location:
+  country: "United Kingdom"
+  countryCode: "GB"
+  region: "Scotland"
+  city: "Lasswade"
+  locality: "Melville Castle estate"
+  coordinates:
+    lat: 55.8910128
+    lng: -3.1044229
+niche_scope: entire_property
+niche_feature: "Guests stay in the 33 bedrooms and suites of the castle itself, a Gothic castle-style mansion of 1786-91 (the medieval tower castle on the site was demolished in 1780), in a 54-acre estate."
+niche_source_url: "http://melvillecastle.com/"
+niche_verified_at: 2026-11-17
 ---
 
 Melville Castle is a three-storey Gothic mansion in Lasswade, in Midlothian, just under a mile from Dalkeith and near the River North Esk. The castle stands in a private 54-acre estate, reached by a tree-lined drive, and Edinburgh is about a 30-minute drive away. It reopened as a hotel after a restoration and is part of The Original Collection.

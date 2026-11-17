@@ -7,7 +7,7 @@ highlights:
   - "Des baies sous-marines à 360 degrés, avec le récif en direct la nuit"
   - "Une structure flottante avec toit-terrasse, salon au niveau de la mer et chambre sous-marine"
   - "Au large de la lointaine île de Pemba, l'une des destinations les moins fréquentées de l'océan Indien"
-  - "Régulièrement classée parmi les expériences hôtelières les plus extraordinaires au monde"
+  - "Une expérience de nuit sous-marine singulière, régulièrement évoquée dans la presse de voyage"
 amenities:
   - "Chambre sous-marine immergée"
   - "Toit-terrasse avec vue sur le grand large"
@@ -24,7 +24,7 @@ bestFor:
   - "Plongeurs qui rêvent de dormir dans l'océan"
 prosAndCons:
   pros:
-    - "L'expérience de nuit la plus extraordinaire qui soit sur terre"
+    - "Une expérience de nuit extraordinaire, avec le récif visible par les vitres toute la nuit"
     - "La vie nocturne du récif derrière les vitres de la chambre est proprement magique"
     - "Une intimité totale : la structure est seule en pleine mer"
     - "Le Manta Resort principal offre en complément une excellente plongée"
@@ -72,4 +72,4 @@ Un hôte dédié vit à bord de la plateforme pendant toute la durée de chaque 
 
 L'île vaut à elle seule le voyage. Le canal de Pemba plonge à des profondeurs considérables tout près du rivage, provoquant des remontées d'eau qui nourrissent certains des coraux les plus sains de l'océan Indien. Les infrastructures touristiques sont minimales — une poignée de lodges, aucun front de mer bétonné — et les villages de cultivateurs de girofle et de pêcheurs qui jalonnent la côte vivent à un rythme véritablement paisible.
 
-Le lodge du Manta Resort, sur l'île, sert de point d'arrivée, propose une excellente plongée et prend en charge toute la logistique en bateau pour rejoindre l'Underwater Room. Ce n'est pas la nuit la plus luxueuse de l'océan Indien. Mais, de l'avis de presque tous ceux qui y ont dormi, c'est la plus singulière qui soit.
+Le lodge du Manta Resort, sur l'île, sert de point d'arrivée, propose une excellente plongée et prend en charge toute la logistique en bateau pour rejoindre l'Underwater Room. Ce n'est pas la nuit la plus luxueuse de l'océan Indien. Mais, de l'avis de presque tous ceux qui y ont dormi, c'est l'une des plus singulières qui soient.

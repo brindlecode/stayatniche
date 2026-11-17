@@ -29,7 +29,6 @@ bestFor:
   - "Adventurers"
 bookingUrl: https://www.booking.com/
 rating: 9.2
-reviewCount: 1876
 coordinates:
   lat: 78.2200
   lng: 15.6500
@@ -41,6 +40,16 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Svalbard+&+Norwegian+Arctic"
     label: "Find Tours on Klook"
+location:
+  country: "Norway"
+  countryCode: "NO"
+  coordinates:
+    lat: 78.22
+    lng: 15.65
+niche_scope: entire_property
+niche_feature: "Purpose-built polar expedition cruise ship (HX Expeditions) for 200 guests; all cabins and suites are aboard the vessel. A sailing voyage, not a moored stay."
+niche_source_url: "https://travelhx.com/en/ships/fram"
+niche_verified_at: 2026-11-17
 ---
 
 The original Fram — Fridtjof Nansen's vessel, later used by Roald Amundsen on his Antarctic expedition — went further north than any ship in recorded history and further south than any wooden vessel before or since. It now sits in its own museum in Oslo, preserved as a national monument. Hurtigruten's MS Fram, the contemporary expedition ship that carries its name, takes travellers into the same Arctic and Antarctic waters with a level of commitment to actual exploration that most cruise operators cannot approach.

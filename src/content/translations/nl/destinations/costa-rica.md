@@ -1,7 +1,7 @@
 ---
 source: costa-rica
 name: Costa Rica
-description: "Een smalle strook Midden-Amerika met 5% van de biodiversiteit ter wereld: Costa Rica deed al aan ecotoerisme voordat iemand het woord had bedacht. Van wandelingen door het bladerdak van het nevelwoud boven Monteverde tot de lavavelden van de vulkaan Arenal en het vrijwel onaangeroerde regenwoud van het schiereiland Osa: dit is het succesvolste model ter wereld voor reizen waarbij de natuur voorop staat."
+description: "Een smalle strook Midden-Amerika met 5% van de biodiversiteit ter wereld: Costa Rica deed al aan ecotoerisme voordat iemand het woord had bedacht. Van wandelingen door het bladerdak van het nevelwoud boven Monteverde tot de lavavelden van de vulkaan Arenal en het vrijwel onaangeroerde regenwoud van het schiereiland Osa: dit is een vaak genoemd model voor reizen waarbij de natuur voorop staat."
 essentials:
   currency: "CRC (Costa Ricaanse colón); USD wordt in toeristische gebieden vrijwel overal geaccepteerd"
   language: "Spaans; in toeristische gebieden wordt veel Engels gesproken"
@@ -28,10 +28,10 @@ travelTips:
   - "Costa Rica draait op groene keurmerken. Let op accommodaties met het CST-certificaat (Certificado para la Sostenibilidad Turística)."
 seo:
   metaTitle: "Costa Rica: regenwoud, wildlife en ecolodges | StayAtNiche"
-  metaDescription: "Reisgids Costa Rica: het nevelwoud van Monteverde, de vulkaan Arenal, het regenwoud van Corcovado en de beste ecolodges ter wereld. Plan je avontuur."
+  metaDescription: "Reisgids Costa Rica: het nevelwoud van Monteverde, de vulkaan Arenal, het regenwoud van Corcovado en bijzondere ecolodges. Plan je avontuur."
 ---
 
-Costa Rica schafte in 1948 zijn leger af en stak het defensiebudget voortaan in onderwijs en zorg. Nu draait het land op 99% hernieuwbare energie en heeft het een kwart van zijn grondgebied beschermd als nationaal park of biologisch reservaat. Dat zijn structurele keuzes, geen marketingpraatjes, en ze hebben van Costa Rica het kleine land gemaakt dat het milieu het serieust neemt ter wereld, en de lonendste bestemming van Amerika voor natuurreizen.
+Costa Rica schafte in 1948 zijn leger af en stak het defensiebudget voortaan in onderwijs en zorg. Nu draait het land op 99% hernieuwbare energie en heeft het een kwart van zijn grondgebied beschermd als nationaal park of biologisch reservaat. Dat zijn structurele keuzes, geen marketingpraatjes, en ze hebben van Costa Rica een van de kleine landen gemaakt die het milieu het serieust nemen, en een lonende bestemming in Amerika voor natuurreizen.
 
 De cijfers zijn duizelingwekkend voor een land dat kleiner is dan West Virginia. Meer dan 900 vogelsoorten. 200 soorten zoogdieren. 35.000 insectensoorten. 1.200 orchideeënsoorten. De verklaring is geografisch: Costa Rica ligt op de grens van twee tektonische platen en twee grote zeestromingen, waar de soortenlijsten van Noord- en Zuid-Amerika botsen. Nevelwoud, tropisch droogbos, regenwoud, mangroven en koraalriffen liggen binnen een paar uur van elkaar, een biologische overlap die je nergens anders op deze schaal vindt.
 

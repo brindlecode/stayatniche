@@ -26,9 +26,9 @@ bestFor:
 prosAndCons:
   pros:
     - Una doppia vista spettacolare su montagne e oceano dallo stesso balcone
-    - Tra le migliori case sugli alberi di lusso dell’emisfero australe
+    - Una casa sull’albero di lusso molto apprezzata nell’emisfero australe
     - Una cucina eccellente con ingredienti davvero locali
-    - Kaikōura offre alcuni degli incontri con la fauna marina più accessibili al mondo
+    - Kaikōura offre incontri con la fauna marina facilmente accessibili
     - Un servizio caloroso e personale da parte di una gestione familiare
   cons:
     - Kaikōura è a 2 ore e mezza d’auto da Christchurch

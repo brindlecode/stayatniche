@@ -21,13 +21,13 @@ amenities:
   - Telescoop in het paviljoen om naar de sterren te kijken
   - Dagelijkse culturele excursies met gids
 bestFor:
-  - Veeleisende reizigers die de ultieme luxe in de Outback zoeken
+  - Veeleisende reizigers die luxe op hoog niveau in de Outback zoeken
   - Cultuurliefhebbers met interesse in het rijke erfgoed van de Anangu
   - Fotografen die op het bijzondere licht van Uluru jagen
   - Stellen die een mijlpaal vieren
 prosAndCons:
   pros:
-    - Nergens kom je zo dicht bij Uluru, en het uitzicht vanuit je bed is echt onvergetelijk
+    - Je zit heel dicht bij Uluru, en het uitzicht vanuit je bed is echt onvergetelijk
     - Door de all-inclusive opzet hoef je nergens meer over na te denken
     - Uitzonderlijk goede culturele gidsen en uitleg vanuit Aboriginal perspectief
     - Buitengewoon donkere hemel om naar de sterren van het zuidelijk halfrond te kijken
@@ -51,7 +51,7 @@ nearbyAttractions:
     distance: 8 km
 seo:
   metaTitle: "Longitude 131°: luxe tentenkamp bij Uluru | StayAtNiche"
-  metaDescription: "Zestien luxe tentpaviljoens op een rode zandduin met uitzicht op Uluru vanuit bed. Longitude 131° is het meest exclusieve adres in de Outback. Vanaf $ 1.500."
+  metaDescription: "Zestien luxe tentpaviljoens op een rode zandduin met uitzicht op Uluru vanuit bed. Longitude 131° is een exclusief adres in de Outback. Vanaf $ 1.500."
 ---
 
 Uluru in de minuten na zonsopgang is een reden om een reis te plannen. De monoliet, 348 meter hoog, 9,4 kilometer in omtrek en opgebouwd uit arkosezandsteen die 500 miljoen jaar geleden werd afgezet, vangt de vroege zon op en kaatst die terug in een kleurenreeks die in zo'n twintig minuten verloopt van diepviolet via gebrand oranje naar koraalroze. Schilders hebben het geprobeerd. Fotografen hebben er hun carrière op gebouwd. Bij Longitude 131° kijk je ernaar vanuit bed.

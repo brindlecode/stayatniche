@@ -1,15 +1,15 @@
 ---
 source: cliffside-hotels-world-guide
 title: "Hôtels à flanc de falaise : les adresses les plus vertigineuses du monde"
-excerpt: "Du bord de la caldeira de Santorin aux terrasses vertigineuses de la côte amalfitaine, découvrez les hôtels à flanc de falaise les plus spectaculaires du monde, où chaque vue est un spectacle."
+excerpt: "Du bord de la caldeira de Santorin aux terrasses vertigineuses de la côte amalfitaine, découvrez des hôtels à flanc de falaise spectaculaires, où chaque vue est un spectacle."
 seo:
   metaTitle: "Hôtels à flanc de falaise : le guide | StayAtNiche"
-  metaDescription: "Les hôtels à flanc de falaise les plus saisissants du monde, de Santorin à la côte amalfitaine : vues vertigineuses, piscines à débordement, design."
+  metaDescription: "Des hôtels à flanc de falaise saisissants, de Santorin à la côte amalfitaine : vues vertigineuses, piscines à débordement, design et conseils de réservation."
 ---
 
 Un hôtel à flanc de falaise offre ce qu'aucune autre catégorie d'hébergement ne peut offrir : il vous place au bord même de la terre, avec le vide qui s'ouvre sous vos pieds. La mer, la vallée ou le désert en contrebas ; le ciel au-dessus ; un horizon ininterrompu. Les plus belles adresses ont compris depuis des décennies que la vue n'est pas un simple atout : c'est le produit lui-même. Tout le reste (la table, la piscine, le service) passe au second plan.
 
-Piscines à débordement qui se fondent dans la mer, baies vitrées qui effacent la frontière entre la chambre et le paysage, terrasses de restaurant au bord du vide où l'on dîne face à un coucher de soleil théâtral parce qu'il l'est réellement : les plus beaux hôtels à flanc de falaise du monde se définissent par une architecture qui sert le site au lieu de rivaliser avec lui.
+Piscines à débordement qui se fondent dans la mer, baies vitrées qui effacent la frontière entre la chambre et le paysage, terrasses de restaurant au bord du vide où l'on dîne face à un coucher de soleil théâtral parce qu'il l'est réellement : les meilleurs hôtels à flanc de falaise se définissent par une architecture qui sert le site au lieu de rivaliser avec lui.
 
 Ce guide présente les destinations les plus célèbres pour dormir à flanc de falaise, recommande des adresses précises et vous donne toutes les informations pratiques pour réserver la bonne.
 
@@ -33,7 +33,7 @@ Grace a été l'un des premiers hôtels de Santorin à attirer l'attention des m
 **Idéal pour :** les couples, les photographes, les voyageurs qui privilégient l'emplacement et la vue à la taille de la chambre
 
 
-L'un des hôtels de luxe les plus anciens et les plus célèbres de Santorin, Katikies occupe un emplacement de choix sur la caldeira à Oia et compte trois piscines accrochées à la falaise, visibles d'en bas : une signature architecturale apparue dans d'innombrables reportages de magazines de voyage. Les 27 chambres et suites sont décorées individuellement dans un subtil mélange de tradition cycladique et de design contemporain ; le bar à vins Chateau Nico détient la plus vaste collection de vins de Santorin au monde.
+L'un des hôtels de luxe les plus anciens et les plus célèbres de Santorin, Katikies occupe un emplacement de choix sur la caldeira à Oia et compte trois piscines accrochées à la falaise, visibles d'en bas : une signature architecturale apparue dans d'innombrables reportages de magazines de voyage. Les 27 chambres et suites sont décorées individuellement dans un subtil mélange de tradition cycladique et de design contemporain ; le bar à vins Chateau Nico propose une vaste collection de vins de Santorin.
 
 **Prix :** chambres à partir de 500 € la nuit
 **Idéal pour :** les amateurs de vin, les couples, ceux qui veulent l'adresse historique la plus célèbre d'Oia
@@ -44,7 +44,7 @@ L'un des hôtels de luxe les plus anciens et les plus célèbres de Santorin, Ka
 La côte amalfitaine allie le spectacle des falaises à l'une des plus grandes concentrations au monde de culture, de gastronomie et de beauté naturelle. Les 50 kilomètres de littoral entre Positano et Salerne, inscrits au patrimoine mondial de l'UNESCO en tant que paysage culturel, plongent de la crête des monts Lattari directement dans la mer Tyrrhénienne, et les anciens villages de pêcheurs de Positano, d'Amalfi et de Ravello s'accrochent à la falaise à différentes hauteurs.
 
 
-Installé dans une villa du XIIe siècle sur les falaises de Ravello, perchée à 350 mètres au-dessus de la mer, la ville la plus haute de la côte, le Palazzo Avino compte parmi les plus beaux hôtels côtiers d'Italie. L'ancien palais privé a été transformé en hôtel en 1997 ; ses 43 chambres et suites conservent une atmosphère aristocratique de plafonds peints, de meubles anciens et d'œuvres d'art choisies avec soin. La terrasse de la piscine et le restaurant dominent tout le littoral, d'Amalfi à Capri, et le Pink Sapphire, étoilé au Michelin, est la meilleure table de la côte.
+Installé dans une villa du XIIe siècle sur les falaises de Ravello, perchée à 350 mètres au-dessus de la mer, la ville la plus haute de la côte, le Palazzo Avino compte parmi les plus beaux hôtels côtiers d'Italie. L'ancien palais privé a été transformé en hôtel en 1997 ; ses 43 chambres et suites conservent une atmosphère aristocratique de plafonds peints, de meubles anciens et d'œuvres d'art choisies avec soin. La terrasse de la piscine et le restaurant dominent tout le littoral, d'Amalfi à Capri, et le Pink Sapphire, étoilé au Michelin, est une table de choix sur la côte.
 
 **Prix :** chambres Deluxe à partir de 600 € la nuit ; suites à flanc de falaise à partir de 1 500 € la nuit
 **Idéal pour :** les gourmets, les couples qui célèbrent une étape importante, ceux qui veulent la plus belle adresse de la côte amalfitaine
@@ -108,7 +108,7 @@ Au cœur de la ville fortifiée de Carthagène, Casa San Agustin relie trois dem
 L'emplacement spectaculaire qui rend les hôtels à flanc de falaise extraordinaires peut être éprouvant pour les personnes sujettes au vertige. La plupart des établissements proposent des chambres plus ou moins éloignées du bord ; demander une chambre moins exposée tout en profitant des vues et de l'atmosphère est une requête raisonnable que la plupart des hôtels satisferont.
 
 
-Beaucoup des plus beaux hôtels à flanc de falaise impliquent de nombreuses marches : l'implantation dans la falaise qui rend les vues si extraordinaires rend généralement tout accès de plain-pied impossible. Les hôtels du rebord de la caldeira de Santorin peuvent compter des dizaines de marches ; sur la côte amalfitaine, il faut souvent gravir des pentes raides. Tenez-en compte si vous avez des difficultés à vous déplacer : de nombreux établissements ont peu d'ascenseurs, et ceux qui en ont ne desservent souvent pas toutes les catégories de chambres.
+Beaucoup d'hôtels à flanc de falaise impliquent de nombreuses marches : l'implantation dans la falaise qui rend les vues si extraordinaires rend généralement tout accès de plain-pied impossible. Les hôtels du rebord de la caldeira de Santorin peuvent compter des dizaines de marches ; sur la côte amalfitaine, il faut souvent gravir des pentes raides. Tenez-en compte si vous avez des difficultés à vous déplacer : de nombreux établissements ont peu d'ascenseurs, et ceux qui en ont ne desservent souvent pas toutes les catégories de chambres.
 
 
 Les hôtels à flanc de falaise offrent des occasions photographiques remarquables, mais posent quelques défis particuliers :

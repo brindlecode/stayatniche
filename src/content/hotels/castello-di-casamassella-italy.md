@@ -21,7 +21,6 @@ bestFor:
   - "Quiet getaways"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Castello%20di%20Casamassella%2C%20Casamassella&adults=2"
 rating: 8.6
-reviewCount: 0
 coordinates:
   lat: 40.1149646
   lng: 18.4516476
@@ -30,6 +29,19 @@ sourceId: "osm:way/838781542"
 verifiedAt: 2026-10-12
 publishedDate: 2026-10-12
 status: published
+location:
+  country: "Italy"
+  countryCode: "IT"
+  region: "Apulia"
+  city: "Uggiano la Chiesa"
+  locality: "Casamassella"
+  coordinates:
+    lat: 40.1149646
+    lng: 18.4516476
+niche_scope: entire_property
+niche_feature: "Authentic medieval castle (fortified residence under Charles of Anjou); five suites and one double room on different floors of the castle itself, also offered for exclusive-use self-catering."
+niche_source_url: "https://www.castellodicasamassella.com/le-suite.html"
+niche_verified_at: 2026-11-17
 ---
 
 Castello di Casamassella is a historic castle in Casamassella, a village in Apulia's Salento peninsula, not far from Otranto. Rather than a large hotel, it offers six rooms: five exclusive suites and one double room, spread across the different floors of the castle.

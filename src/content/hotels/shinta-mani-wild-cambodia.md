@@ -31,7 +31,6 @@ bestFor:
   - Architecture and design lovers
 bookingUrl: https://www.booking.com/hotel/kh/shinta-mani-wild.html
 rating: 9.5
-reviewCount: 234
 coordinates:
   lat: 11.4167
   lng: 103.1667
@@ -46,6 +45,19 @@ affiliateLinks:
 seo:
   metaTitle: "Shinta Mani Wild Review: Cardamom Mountains Jungle Camp | StayAtNiche"
   metaDescription: "Shinta Mani Wild: zipline arrival into Cambodia's Cardamom Mountains rainforest. Bill Bensley's conservation lodge funds anti-poaching and protects SE Asia's largest jungle."
+location:
+  country: "Cambodia"
+  countryCode: "KH"
+  region: "Koh Kong Province"
+  city: "Koh Kong"
+  locality: "Cardamom Mountains"
+  coordinates:
+    lat: 11.4167
+    lng: 103.1667
+niche_scope: entire_property
+niche_feature: "15 Bensley-designed river tents, all-inclusive, in Cambodia's Cardamom rainforest, with zipline arrival; the whole camp is the remote jungle setting."
+niche_source_url: "https://www.shintamani.com/wild/"
+niche_verified_at: 2026-11-17
 ---
 
 Cambodia's Cardamom Mountains stretch across the country's southwest, a 4.4-million-hectare rainforest that represents the largest remaining intact forest in mainland Southeast Asia. It is home to populations of Indochinese tiger, Asian elephant, clouded leopard, and sun bear — species that have been hunted to extinction or functional invisibility in most of the region. The forest is not an attraction in the conventional sense; it is a functioning ecosystem whose persistence depends on the decision that it is worth more intact than logged.

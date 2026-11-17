@@ -1,6 +1,6 @@
 ---
 source: overwater-bungalows-beyond-maldives
-title: "Bungalows sur pilotis au-delà des Maldives : les plus belles adresses sur l'eau du monde"
+title: "Bungalows sur pilotis au-delà des Maldives : une sélection d'adresses sur l'eau à travers le monde"
 excerpt: "Les Maldives ont rendu célèbres les bungalows sur pilotis, mais Bora Bora, les Fidji, les Caraïbes et bien d'autres offrent des expériences tout aussi extraordinaires, parfois pour une fraction du prix."
 seo:
   metaTitle: "Bungalows sur pilotis hors Maldives | StayAtNiche"
@@ -84,7 +84,7 @@ Les villas sur pilotis sont superbes : piscines à débordement, hauts toits de
 ---
 
 
-Raja Ampat, dans le Bird's Head Seascape de Papouasie occidentale, abrite 75 % des espèces de coraux du monde. Si c'est la biodiversité marine qui vous importe, rien dans cette liste ne la surpasse. Le Misool Eco Resort dispose d'une concession privée de 300 000 acres de milieu marin, avec des bungalows sur pilotis installés au-dessus de récifs que des plongeurs chevronnés décrivent comme les plus beaux qu'ils aient jamais vus.
+Raja Ampat, dans le Bird's Head Seascape de Papouasie occidentale, abrite 75 % des espèces de coraux du monde. Si c'est la biodiversité marine qui vous importe, rien dans cette liste ne la surpasse. Le Misool Eco Resort dispose d'une concession privée de 300 000 acres de milieu marin, avec des bungalows sur pilotis installés au-dessus de récifs que des plongeurs chevronnés placent très haut.
 
 Misool n'est pas les Maldives. C'est un véritable écolodge, isolé, aventureux, sans la finition impeccable du grand luxe. La plongée et le snorkeling sont tout. Raies manta, requins-baleines, hippocampes pygmées, requins-tapis wobbegong et poissons de récif dans des concentrations qui semblent invraisemblables tant qu'on n'est pas dans l'eau.
 

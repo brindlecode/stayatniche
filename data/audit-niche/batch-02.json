@@ -1,0 +1,303 @@
+[
+ {
+  "slug": "amberley-castle-england",
+  "name": "Amberley Castle",
+  "official_url": "https://amberleycastle.co.uk/",
+  "source_url": "https://amberleycastle.co.uk/explore/castle-stays-in-west-sussex/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Genuine walled medieval castle; its 19 bedrooms are in different parts of the estate: Manor House, Tower House Mews, and Gatehouse Suites in the 17th-century Bishopric Dairy just beyond the walls.",
+  "evidence_quote": "rooms occupy different parts of the estate, from the Manor House and Tower House Mews to the Bishopric Dairy beyond the walls.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site confirms a 900-year-old walled castle with guest rooms in castle buildings; some suites sit outside the walls in a dairy.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "England",
+   "city": "Arundel",
+   "locality": "Amberley"
+  },
+  "page_issues": [
+   "Says curtain walls stand at original height; official history says 20-30 ft was lost after 1643 Civil War slighting",
+   "Says rooms are set inside the original towers and gatehouse; official site lists Manor House, Tower House Mews and Bishopric Dairy, no tower/gatehouse rooms",
+   "Queen's Room in gatehouse, daily portcullis raising, 'one of the most perfectly preserved' are not supported by the official pages"
+  ]
+ },
+ {
+  "slug": "ashford-castle-ireland",
+  "name": "Ashford Castle",
+  "official_url": "https://www.ashfordcastle.com/",
+  "source_url": "https://www.ashfordcastle.com/about",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Historic castle with origins in the 13th century, run as a hotel; official site lists 83 rooms, suites and the separate lakeside Boathouse. It does not map which rooms are in the castle fabric. The Lodge is a separate hotel.",
+  "evidence_quote": "With origins dating back to the 13th century, magnificent Ashford Castle has witnessed a rich and storied history",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site confirms a genuine medieval-origin castle hotel; Boathouse is a separate unit and the room-by-building split is not stated.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "County Mayo",
+   "city": "Cong",
+   "locality": null
+  },
+  "page_issues": [
+   "'Built in 1228' not stated by official site (says origins in the 13th century)",
+   "'83 individually designed rooms': official figure is 83 rooms, suites and the Boathouse",
+   "'Ireland's best falconry school' / 'rated among the best in the world' and 'Michelin recognition' are unsupported superlatives on the official pages I checked"
+  ]
+ },
+ {
+  "slug": "augill-castle-united-kingdom",
+  "name": "Augill Castle",
+  "official_url": "https://stayinacastle.com/",
+  "source_url": "https://stayinacastle.com/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "19th-century castle; castle rooms (most with four-posters) are in the castle itself, but the hotel also lets Garden Suites, Family Estate Houses and a Stable House outside the main building.",
+  "evidence_quote": "Augill Castle is a 19th century castle nestled between the Yorkshire Dales and Cumbria’s Lake District.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Real castellated 19th-century castle where guests sleep; rooms are split between castle and separate garden/estate/stable units.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "England",
+   "city": "Kirkby Stephen",
+   "locality": "Augill"
+  },
+  "page_issues": [
+   "Page does not mention the Garden Suites, Family Estate Houses and Stable House listed on the official stay page",
+   "'Gothic Revival' and 'originally a private residence' not stated on the official pages I read (castle is 19th century)"
+  ]
+ },
+ {
+  "slug": "ballygally-castle-hotel-united-kingdom",
+  "name": "Ballygally Castle Hotel",
+  "official_url": "https://www.ballygallycastlehotel.com/",
+  "source_url": "https://www.ballygallycastlehotel.com/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "17th-century castle hotel; Tower Bedrooms are in the original castle building, while the hotel has 54 bedrooms in total. Source does not give the count of castle rooms.",
+  "evidence_quote": "These individually appointed bedrooms are located in the 17th Century Castle building and ooze with character and charm.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site confirms a 17th-century castle with Tower Bedrooms inside it; most of the 54 rooms are not specified as castle rooms.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Northern Ireland",
+   "city": "Larne",
+   "locality": "Ballygally"
+  },
+  "page_issues": [
+   "Official homepage was behind a Cloudflare block for curl; text obtained via fetch tool, not directly verified line by line",
+   "Page says most rooms are in later extensions; official text I obtained does not state the split"
+  ]
+ },
+ {
+  "slug": "banwell-castle-united-kingdom",
+  "name": "Banwell Castle",
+  "official_url": "http://www.banwellcastle.co.uk/",
+  "source_url": "http://www.banwellcastle.co.uk/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Grade II* listed Gothic Revival castle (mansion complete by 1847, Victorian rather than medieval); bed-and-breakfast rooms are in the main mansion house, which is still a family home.",
+  "evidence_quote": "Banwell Castle remains very much the Parsons family home but guests are welcome to stay in this landmark building, which is listed grade 2 star.",
+  "operating": "unknown",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Castle-style Gothic Revival building where guests sleep; it is Victorian and the official site looks dated (c.2009), so current availability is unconfirmed.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "England",
+   "city": "Banwell",
+   "locality": null
+  },
+  "page_issues": [
+   "Official site is stale (copyright 2009, Flash notice); current B&B operation and rates could not be confirmed",
+   "Castle is a Victorian Gothic Revival mansion, not medieval; page does say Victorian",
+   "Rating 7.6 is unsourced"
+  ]
+ },
+ {
+  "slug": "barcaldine-castle-united-kingdom",
+  "name": "Barcaldine Castle",
+  "official_url": "https://barcaldinecastle.co.uk/",
+  "source_url": "https://barcaldinecastle.co.uk/rooms/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Early 17th-century L-plan tower house with 9-ft walls; all six guest rooms are inside the castle, taken as B&B or whole castle for exclusive use.",
+  "evidence_quote": "all six unique guest rooms feature rich and luxurious fabrics to create an elegant, traditional look and a relaxing, romantic ambience.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site confirms a 1601-1609 tower house where all six rooms are in the castle.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Scotland",
+   "city": "Oban",
+   "locality": "Benderloch"
+  },
+  "page_issues": [
+   "Official homepage says built 1590-1609 while the history page says 1601-1609; page follows the history page"
+  ]
+ },
+ {
+  "slug": "barony-castle-hotel-united-kingdom",
+  "name": "Barony Castle Hotel",
+  "official_url": "https://www.baronycastle.com/",
+  "source_url": "https://www.baronycastle.com/about-barony-castle/the-history-of-barony-castle/",
+  "source_type": "official",
+  "niche_scope": "unverified",
+  "niche_feature": "Historic Scots-baronial house of 1536 on a peel-tower site (Jacobean facade c.1700-15, 19th-century wing, 1983 fire); the rest is 20th-century additions, and the source does not say which of 82 rooms are in the old house.",
+  "evidence_quote": "In 1536 a Scots’ baronial style building was erected on the site of the old peel tower which retained the name of Darnhall.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Genuine historic castle-house core confirmed, but the official site does not say how many of the 82 bedrooms lie in historic fabric versus modern additions.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Scotland",
+   "city": "Peebles",
+   "locality": "Eddleston"
+  },
+  "page_issues": [
+   "Page calls it a 16th-century castle; history page shows 1536 house rebuilt c.1700-15, extended in the 19th century and gutted by fire in 1983, with 'the remainder' 20th-century additions",
+   "'82 bedrooms' are not stated to be in the castle itself; page admits it is a larger hotel than most castle stays"
+  ]
+ },
+ {
+  "slug": "borgo-castello-panicaglia-italy",
+  "name": "Borgo Castello Panicaglia",
+  "official_url": "https://www.borgocastellopanicaglia.com",
+  "source_url": "https://www.borgocastellopanicaglia.com/en/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Rooms in a castle dating from 1266 within the borgo of Panicaglia; the site lists about 17 named rooms and suites, plus the Michele holiday house, which adjoins the hotel rather than being in the castle.",
+  "evidence_quote": "The Medieval village Panicaglia houses a unique castle from 1266.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site confirms a 13th-century castle guesthouse; it does not map each room to the castle, and one unit is an adjoining house.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Umbria",
+   "city": "Nocera Umbra",
+   "locality": "Panicaglia"
+  },
+  "page_issues": [
+   "Page says all rooms have private bathrooms and tea/coffee; not checked on room pages",
+   "Official room list also includes Michele holiday house (adjoining the hotel) and several rooms the page does not name"
+  ]
+ },
+ {
+  "slug": "castello-della-pieve-italy",
+  "name": "Castello della Pieve",
+  "official_url": "https://castellodellapieve.it",
+  "source_url": "https://castellodellapieve.it/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Former medieval fortified castle, now a restored stone hamlet of seven houses, a surviving tower and a consecrated chapel; rooms are in the restored hamlet houses and the Torre delle Muse suite.",
+  "evidence_quote": "Le sette case in pietra, l’antica torre e la chiesetta, ancora consacrata, dominano con il loro antico fascino le suggestive macchie boschive dell’Alpe della Luna.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official history says a fortified 12th-century castle that became a borgo; rooms are in its restored houses and tower. Castle is partly ruined into a hamlet.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Marche",
+   "city": "Mercatello sul Metauro",
+   "locality": null
+  },
+  "page_issues": [
+   "Dante's exile claim is the property's own tradition (page attributes it correctly)",
+   "Official homepage says 'eight romantic rooms' while room list shows about 10 units"
+  ]
+ },
+ {
+  "slug": "castello-di-casamassella-italy",
+  "name": "Castello di Casamassella",
+  "official_url": "https://www.castellodicasamassella.com/",
+  "source_url": "https://www.castellodicasamassella.com/le-suite.html",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Authentic medieval castle (fortified residence under Charles of Anjou); five suites and one double room on different floors of the castle itself, also offered for exclusive-use self-catering.",
+  "evidence_quote": "Cinque suite esclusive e una camera matrimoniale arredate con cura ed eleganza vi accoglieranno nei diversi piani del Castello.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site confirms a medieval castle where all six rooms are inside it.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Apulia",
+   "city": "Uggiano la Chiesa",
+   "locality": "Casamassella"
+  },
+  "page_issues": [
+   "Site (copyright 2021) also markets self-catering exclusive-use castle rental; page presents only B&B-style rooms"
+  ]
+ },
+ {
+  "slug": "castello-di-fagnano-albergo-diffuso-italy",
+  "name": "Castello di Fagnano Albergo Diffuso & Spa",
+  "official_url": "https://www.castellodifagnano.org",
+  "source_url": "https://it.wikipedia.org/wiki/Fagnano_Alto",
+  "source_type": "other",
+  "niche_scope": "unverified",
+  "niche_feature": "Official site is in maintenance mode with only a room list (Casa Carluccio, Casa Ercolino). Wikipedia describes a fortified medieval Castello hamlet in Fagnano Alto, but no citable source links the hotel's houses to the walled castle.",
+  "evidence_quote": null,
+  "operating": "unknown",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Could not confirm guests sleep inside a castle or castle-built buildings; official site is under maintenance and stale.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Abruzzo",
+   "city": "Fagnano Alto",
+   "locality": "Castello"
+  },
+  "page_issues": [
+   "Official site is in maintenance mode, so room counts, spa and pool claims could not be checked against it",
+   "Page itself says the feel is 'a quiet hamlet rather than a fortress'; castle link to the hotel unsupported",
+   "Hamlet 'Castello' is a fortified medieval borgo per Wikipedia, but the page does not show the houses are within it"
+  ]
+ },
+ {
+  "slug": "castello-di-gargonza-italy",
+  "name": "Castello di Gargonza",
+  "official_url": "https://www.gargonza.it",
+  "source_url": "https://gargonza.it/dormire-in-un-castello-in-toscana/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Fortified medieval village (13th-century tower, first recorded 1150); guests sleep in restored peasant houses inside the walls as rooms, suites and apartments, and in the medieval tower.",
+  "evidence_quote": "Oggi abbiamo restaurato tutte le case dei contadini, che sono diventate splendide camere, suite e appartamenti, e la torre medievale.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site confirms a fortified medieval castle-village where all accommodation is in restored houses and tower within the walls.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Tuscany",
+   "city": "Monte San Savino",
+   "locality": "Gargonza"
+  },
+  "page_issues": [
+   "Page's 'bar in the village shop' and restaurant-outside-walls details not re-verified"
+  ]
+ }
+]

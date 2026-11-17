@@ -1,10 +1,10 @@
 ---
 source: floating-hotels-houseboats-guide
 title: "Drijvende hotels en woonboten: de complete gids voor slapen op het water"
-excerpt: "Van de sierlijke houten woonboten van Kasjmir tot de arctische fjordhotels van Noorwegen: ontdek de meest buitengewone drijvende accommodaties ter wereld."
+excerpt: "Van de sierlijke houten woonboten van Kasjmir tot de arctische fjordhotels van Noorwegen: ontdek buitengewone drijvende accommodaties."
 seo:
   metaTitle: "Drijvende hotels en woonboten wereldwijd | StayAtNiche"
-  metaDescription: "De mooiste drijvende hotels en woonboten ter wereld, van Kasjmir tot Noorwegen. Een deskundige gids voor overnachten op het water, verder dan de Malediven."
+  metaDescription: "Drijvende hotels en woonboten van Kasjmir tot Noorwegen. Een deskundige gids voor overnachten op het water, verder dan de Malediven, met prijzen en boektips."
 ---
 
 Slapen op het water geeft een bijzondere kwaliteit van rust die hotels op het land niet kunnen evenaren: de lichte beweging, het geklots van water tegen de romp, de manier waarop licht zich anders gedraagt als het weerkaatst op een oppervlak dat leeft. Drijvende hotels en woonboten vormen een fascinerende niche: ze staan per definitie voortdurend in dialoog met hun omgeving.

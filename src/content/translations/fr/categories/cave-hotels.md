@@ -2,12 +2,12 @@
 source: cave-hotels
 title: "Hôtels troglodytes"
 tagline: "Creusés dans la roche, sculptés pour le luxe"
-description: "Taillés dans le tuf volcanique, le grès tendre ou le calcaire millénaire, les hôtels troglodytes vous installent au cœur même de la terre. La Cappadoce, en Turquie, reste la référence mondiale, mais des refuges creusés dans la roche tout aussi extraordinaires vous attendent en Grèce, en Espagne, en Tunisie et dans le Sud-Ouest américain."
+description: "Taillés dans le tuf volcanique, le grès tendre ou le calcaire millénaire, les hôtels troglodytes vous installent au cœur même de la terre. La Cappadoce, en Turquie, reste une référence du genre, mais des refuges creusés dans la roche tout aussi extraordinaires vous attendent en Grèce, en Espagne, en Tunisie et dans le Sud-Ouest américain."
 stats:
   topDestination: "Cappadoce, Turquie"
 seo:
   metaTitle: "Hôtels troglodytes : dormir dans une grotte | StayAtNiche"
-  metaDescription: "Dormir dans la roche : notre sélection des plus beaux hôtels troglodytes du monde, de la Cappadoce à Santorin, avec des suites naturellement fraîches."
+  metaDescription: "Dormir dans la roche : notre sélection d'hôtels troglodytes remarquables, de la Cappadoce à Santorin, avec des suites naturellement fraîches."
 ---
 
 La Cappadoce est habitée depuis plus de 2 000 ans, et les vestiges archéologiques attestent d'une présence humaine dans ses grottes bien plus ancienne encore. Le tuf volcanique de la région, sculpté par l'érosion en célèbres cheminées de fée et en vallées spectaculaires, se prêtait idéalement à l'habitat troglodytique : assez tendre pour être creusé avec des outils rudimentaires, il durcit au contact de l'air pour former des pièces solides et thermiquement stables. Les hôtels troglodytes d'ici n'ont rien d'un gadget. Ils sont le dernier chapitre d'une très longue tradition.
@@ -22,7 +22,7 @@ Les chambres troglodytes authentiques sont directement creusées dans la roche 
 
 La lumière, dans une chambre troglodyte, est d'une nature à part. Elle entre par des portes et des embrasures taillées dans la roche, sous des angles dictés par la paroi d'origine et non par un plan d'architecte. À certaines heures, le résultat est d'une grande beauté. Certains voyageurs redoutent la claustrophobie avant d'arriver, mais une grotte bien aménagée est en général spacieuse plutôt qu'oppressante. L'épaisseur même des parois procure un profond sentiment de protection, et la plupart des hôtes la trouvent apaisante plutôt qu'étouffante.
 
-La **Cappadoce, en Turquie**, est de loin la capitale mondiale de l'hôtellerie troglodyte. À Göreme, Uçhisar et Ürgüp, les adresses vont de la maison d'hôtes de charme au cinq-étoiles doté d'une piscine à débordement sur le toit, face à un paysage d'un autre monde. Le survol en montgolfière des cheminées de fée au lever du soleil compte parmi les grands spectacles du voyage : réservez-le séparément de votre hébergement, car la demande est forte et les places partent vite.
+La **Cappadoce, en Turquie**, est le centre le plus connu de l'hôtellerie troglodyte. À Göreme, Uçhisar et Ürgüp, les adresses vont de la maison d'hôtes de charme au cinq-étoiles doté d'une piscine à débordement sur le toit, face à un paysage d'un autre monde. Le survol en montgolfière des cheminées de fée au lever du soleil compte parmi les grands spectacles du voyage : réservez-le séparément de votre hébergement, car la demande est forte et les places partent vite.
 
 **Santorin, en Grèce**, propose des suites troglodytes creusées dans la falaise, au bord de la caldeira volcanique, avec des terrasses surplombant l'une des vues marines les plus spectaculaires au monde. L'esthétique de la grotte s'y marie à l'architecture cycladique blanchie à la chaux, pour un résultat qui, avouons-le, est à la hauteur des photos.
 

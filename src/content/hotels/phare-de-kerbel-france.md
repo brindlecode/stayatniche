@@ -24,7 +24,6 @@ bestFor:
   - "Quiet getaways"
 bookingUrl: "https://www.pharedekerbel.com/"
 rating: 9.1
-reviewCount: 0
 coordinates:
   lat: 47.7086907
   lng: -3.3374737
@@ -33,6 +32,19 @@ sourceId: "osm:node/14103222231"
 verifiedAt: 2026-11-15
 publishedDate: 2026-11-15
 status: published
+location:
+  country: "France"
+  countryCode: "FX"
+  region: "Brittany"
+  city: "Riantec"
+  locality: "Kerbel"
+  coordinates:
+    lat: 47.7086907
+    lng: -3.3374737
+niche_scope: entire_property
+niche_feature: "Studio in place of the lantern room 25 m up the tower, plus a former oil room outbuilding and the attached keeper's house, all on the lighthouse property."
+niche_source_url: "https://www.pharedekerbel.com/"
+niche_verified_at: 2026-11-17
 ---
 
 The Phare de Kerbel in Riantec, Brittany, was built in 1913 to guide ships into the harbour of Lorient. It stopped working as a light in August 1989. Today, according to its owners, it is the only lighthouse in France that can be lived in at its summit, where a studio now stands in place of the lantern, 25 metres up.

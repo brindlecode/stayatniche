@@ -44,7 +44,6 @@ prosAndCons:
     - "Limited departure schedule, the train runs once weekly each direction"
 bookingUrl: https://www.journeybeyondrail.com.au/
 rating: 9.2
-reviewCount: 3421
 seasonalInfo:
   bestTime: May to August (Australian winter) for comfortable temperatures in the Red Centre
   peakSeason: Winter (June–August) and school holidays
@@ -73,6 +72,18 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Adelaide+to+Darwin+(and+return)"
     label: "Find Tours on Klook"
+location:
+  country: "Australia"
+  countryCode: "AU"
+  region: "South Australia"
+  city: "Adelaide"
+  coordinates:
+    lat: -23.698
+    lng: 133.8807
+niche_scope: entire_property
+niche_feature: "Journey Beyond Rail's Adelaide-Darwin train; guests sleep in private cabins (Gold, Gold Premium, Platinum, Aurora/Australis suites) on 2-3 night journeys (3-4 days)."
+niche_source_url: "https://www.journeybeyondrail.com.au/the-ghan/"
+niche_verified_at: 2026-11-17
 ---
 
 The Ghan crosses Australia from south to north: 2,979 kilometres in 54 hours, from Adelaide on the Southern Ocean to Darwin on the Timor Sea, through landscapes of the Red Centre that were ancient when humans first arrived on this continent 50,000 years ago. No other journey makes the scale of the Australian interior as viscerally clear.

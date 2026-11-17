@@ -7,7 +7,7 @@ highlights:
   - Coober Pedy produce il 70% degli opali del mondo
   - La temperatura naturale sotterranea resta costante a 23 °C tutto l’anno
   - Servizi sotterranei unici, tra cui bar, ristorante e piscina
-  - La città dell’outback più autenticamente surreale d’Australia
+  - Una città dell’outback autenticamente surreale, nell’Australia Meridionale
 amenities:
   - Camere sotterranee con pareti di arenaria naturale
   - Piscina coperta sotterranea
@@ -48,7 +48,7 @@ nearbyAttractions:
     distance: 150 km
 seo:
   metaTitle: "Desert Cave Hotel, dormire sottoterra | StayAtNiche"
-  metaDescription: "Dormi sottoterra nell’arenaria ricca di opali al Desert Cave Hotel di Coober Pedy, la città più surreale dell’outback: 23 °C naturali tutto l’anno."
+  metaDescription: "Dormi sottoterra nell’arenaria ricca di opali al Desert Cave Hotel di Coober Pedy, una città surreale dell’outback: 23 °C naturali tutto l’anno."
 ---
 
 Guidando verso nord nell’outback dell’Australia Meridionale, Coober Pedy compare all’orizzonte come una distesa di cumuli, tubi e detriti, senza un albero in vista. Il terreno è butterato da migliaia di pozzi minerari. Da lontano sembra un paesaggio scavato industrialmente e poi in gran parte abbandonato, il che, in un certo senso, è esatto. La città è nata sull’estrazione degli opali, e le miniere hanno plasmato tutto qui, compreso il fatto che la maggior parte dei 2.000 abitanti vive sottoterra, in case chiamate *dugout*. Quando d’estate in superficie si superano regolarmente i 50 °C, la logica è difficile da contestare. Il nome aborigeno della zona è *kupa piti*: l’uomo bianco nel buco.

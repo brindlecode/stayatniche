@@ -27,7 +27,7 @@ bestFor:
   - Liefhebbers van winteravontuur
 prosAndCons:
   pros:
-    - Ongeëvenaarde omstandigheden om het noorderlicht te zien
+    - Uitstekende omstandigheden om het noorderlicht te zien
     - Door de afgelegen ligging een echt donkere hemel
     - Uniek thermisch glas houdt je warm terwijl je naar de sterren kijkt
     - Ruim aanbod aan Arctische activiteiten ter plekke
@@ -62,7 +62,7 @@ Yrjö Rissanen bouwde hier in 1999 de eerste glazen iglo, gedreven door een eenv
 
 Wat Kakslauttanen meer maakt dan een leuke gimmick, is de kwaliteit van alles eromheen. De dagen draaien om de winterse wildernis van Fins Lapland: sneeuwscootertochten door het uitgestrekte Nationaal Park Urho Kekkonen, arrenslee achter rendieren door oerbos, huskysafari's met teams van Siberische en Alaskaanse husky's wier gezamenlijke enthousiasme echt aanstekelijk is, en ijsvissen op bevroren meren waar de stilte zo volkomen is dat ze bijna een geluid op zich wordt.
 
-De rooksauna van het resort, een van de mooiste traditionele sauna's van Finland, is het perfecte tegengif na een dag in de kou. Het ritueel, urenlang de rooksauna opstoken, dan in de eeuwenoude warmte met berkengeur zitten en je daarna in de verse sneeuw laten rollen, is een van die ervaringen die zich nauwelijks laten beschrijven.
+De rooksauna van het resort, een traditionele Finse sauna, is het perfecte tegengif na een dag in de kou. Het ritueel, urenlang de rooksauna opstoken, dan in de eeuwenoude warmte met berkengeur zitten en je daarna in de verse sneeuw laten rollen, is een van die ervaringen die zich nauwelijks laten beschrijven.
 
 'S Avonds serveert het restaurant gerechten die je stevig in Lapland verankeren: carpaccio van rendier, gerookte Arctische zalmforel, desserts met honingbessen die in de omliggende venen zijn geplukt. Na het diner trekken de gasten weer naar hun iglo's, zetten een noorderlichtalarm en speuren de hemel af met die bijzondere, gerichte hoop die alleen koude, donkere breedtegraden oproepen.
 

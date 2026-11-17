@@ -29,7 +29,6 @@ bestFor:
   - "Intrepid explorers"
 bookingUrl: https://www.booking.com/
 rating: 9.4
-reviewCount: 2341
 coordinates:
   lat: 20.41163
   lng: 100.69757
@@ -41,6 +40,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Bokeo+Nature+Reserve,+Houaphan"
     label: "Find Tours on Klook"
+location:
+  country: "Laos"
+  countryCode: "LA"
+  region: "Bokeo"
+  city: "Huay Xai"
+  locality: "Nam Kan National Park"
+  coordinates:
+    lat: 20.41163
+    lng: 100.69757
+niche_scope: entire_property
+niche_feature: "Guided 2- or 3-day tours sleeping in treehouses scattered in Nam Kan National Park, built on rope wires, wooden consoles or a geodesic core in giant tree forks; reached by trek and ziplines."
+niche_source_url: "https://www.gibbonexperience.org/classic-tour/"
+niche_verified_at: 2026-11-17
 ---
 
 No comparable experience exists anywhere else in Southeast Asia. Forty metres above the floor of Laos's Bokeo Nature Reserve, on platforms of timber and cable suspended in the primary rainforest canopy, the Gibbon Experience is simultaneously the most physically demanding and the most ecologically purposeful treehouse stay in the region.

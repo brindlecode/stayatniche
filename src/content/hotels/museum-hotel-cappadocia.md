@@ -29,8 +29,7 @@ bestFor:
   - Foodies
   - Honeymooners
 bookingUrl: https://www.booking.com/hotel/tr/museum-hotel-cappadocia.html
-rating: 9.6
-reviewCount: 1243
+rating: 8.8
 coordinates:
   lat: 38.633375
   lng: 34.8069
@@ -42,6 +41,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Uçhisar,+Cappadocia"
     label: "Find Tours on Klook"
+location:
+  country: "Turkey"
+  countryCode: "TR"
+  region: "Nevşehir"
+  city: "Uçhisar"
+  locality: "Tekelli neighbourhood"
+  coordinates:
+    lat: 38.633375
+    lng: 34.8069
+niche_scope: specific_rooms
+niche_feature: "Deluxe Rooms are restored ancient caves; superior, prime, imperial and pool suites are described as cave and stone architecture, with many named Cave Suites. Some units are stone, e.g. The Konak Pool Suite is a detached stone house."
+niche_source_url: "https://www.museumhotel.com.tr/en/rooms-suites/deluxe-rooms"
+niche_verified_at: 2026-11-17
 ---
 
 Museum Hotel sits at the top of the Uçhisar rock formation, the highest point in Cappadocia, which means its views across the fairy chimney landscape are wider than anything else in the region. That alone would make it worth knowing about. The antique collection that fills every room places it in a different category altogether.

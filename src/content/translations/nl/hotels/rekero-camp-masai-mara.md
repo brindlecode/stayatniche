@@ -1,7 +1,7 @@
 ---
 source: rekero-camp-masai-mara
 destination: "Masai Mara National Reserve, Rift Valley"
-description: "Rekero is een klassiek tentenkamp in een bosje vijgenbomen aan de oever van de Talek-rivier, midden in de Masai Mara. Het wordt uitgebaat door de Governors' Camp-groep, met de nadruk op een authentieke bushbeleving, deskundige Maasai-gidsen en het vaste wild van het grootste wildreservaat van Kenia. Door de ligging in het reservaat zit je dicht bij de beste plekken om de Grote Trek te zien."
+description: "Rekero is een klassiek tentenkamp in een bosje vijgenbomen aan de oever van de Talek-rivier, midden in de Masai Mara. Het wordt uitgebaat door de Governors' Camp-groep, met de nadruk op een authentieke bushbeleving, deskundige Maasai-gidsen en het vaste wild van een van de bekendste wildreservaten van Kenia. Door de ligging in het reservaat zit je dicht bij de beste plekken om de Grote Trek te zien."
 highlights:
   - "Uitzonderlijke rivieroversteken van de Grote Trek bij de Mara-rivier (juli–oktober)"
   - "Vaste leeuwentroepen, cheetafamilies en luipaarden op de vlaktes van de Mara"
@@ -24,7 +24,7 @@ bestFor:
   - "Wie een klassieke safarisfeer zoekt"
 prosAndCons:
   pros:
-    - "De Masai Mara tijdens de Grote Trek is het hoogtepunt van het Afrikaanse safarispektakel"
+    - "De Masai Mara tijdens de Grote Trek is een van de grote safarispektakels van Afrika"
     - "Klassiek tentenkamp met een echte Oost-Afrikaanse sfeer"
     - "Game drives van een hele dag, zodat je zonder tijdslimiet van dierenontmoetingen geniet"
     - "Deskundige Maasai-gidsen zorgen voor culturele diepgang en een uitzonderlijke spoorkennis"
@@ -51,7 +51,7 @@ seo:
   metaDescription: "Klassiek tentenkamp midden in de Masai Mara voor de Grote Trek: Maasai-gidsen, game drives van een hele dag en veel grote katten. Vanaf $ 600 per nacht."
 ---
 
-De open, glooiende graslanden van de Masai Mara, die onder de Oost-Afrikaanse hemel tot aan elke horizon reiken, herbergen concentraties grote zoogdieren die buiten het Serengeti-ecosysteem hun gelijke niet kennen. De Mara is daar de Keniaanse, noordelijke uitloper van. Een kamp dat op de juiste plek in het reservaat ligt, betekent dat de dieren direct en voortdurend om je heen zijn, niet iets waar je naartoe moet rijden.
+De open, glooiende graslanden van de Masai Mara, die onder de Oost-Afrikaanse hemel tot aan elke horizon reiken, herbergen uitzonderlijke concentraties grote zoogdieren binnen het bredere Serengeti-ecosysteem. De Mara is daar de Keniaanse, noordelijke uitloper van. Een kamp dat op de juiste plek in het reservaat ligt, betekent dat de dieren direct en voortdurend om je heen zijn, niet iets waar je naartoe moet rijden.
 
 Rekero ligt tussen torenhoge vijgenbomen aan de Talek-rivier. De tien klassieke canvastenten staan langs de oever in de stijl van de grote Oost-Afrikaanse kampen uit het koloniale jachttijdperk, nu volledig in dienst van fotosafari's en natuurobservatie. Door de canvaswanden en het houten frame hoor je de bush om je heen van dichtbij: de territoriale hoest van een luipaard ergens in het donker, de verre contactroepen van een leeuwentroep, de nijlpaarden in de rivier beneden. En door de veranda's boven de rivieroever wordt elke ochtend iets om naar uit te kijken.
 

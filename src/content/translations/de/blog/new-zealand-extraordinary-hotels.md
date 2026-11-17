@@ -87,7 +87,7 @@ Zwanzig Minuten nördlich von Queenstown am Lake Wakatipu liegt Blanket Bay dort
 
 
 
-Neuseeland ist eines der besten Ziele der Welt für Reisen mit dem eigenen Wagen. Die Entfernungen sind überschaubar, die asphaltierten Straßen gut in Schuss, und besonders auf der Südinsel lohnt es sich, anzuhalten, wo immer eine Aussicht es verlangt. Eine Selbstfahrerroute, die ein oder zwei Lodge-Aufenthalte mit einfacheren Unterkünften kombiniert, gehört zu den erfüllendsten Roadtrips überhaupt.
+Neuseeland ist ein hoch geschätztes Ziel für Reisen mit dem eigenen Wagen. Die Entfernungen sind überschaubar, die asphaltierten Straßen gut in Schuss, und besonders auf der Südinsel lohnt es sich, anzuhalten, wo immer eine Aussicht es verlangt. Eine Selbstfahrerroute, die ein oder zwei Lodge-Aufenthalte mit einfacheren Unterkünften kombiniert, gehört zu den erfüllendsten Roadtrips überhaupt.
 
 Für Häuser, die nur per Hubschrauber erreichbar sind, wie die Minaret Station, oder für Gäste, die mehrere Lodges kombinieren, lohnt sich ein auf Neuseeland spezialisierter Reiseveranstalter – World Journeys, Mitgliedshäuser der Luxury Lodges of New Zealand oder die Neuseeland-Reisen von Virgin Limited Edition. Sie verfügen über Kontingente und Ortskenntnis, die gewöhnliche Buchungsportale nicht haben.
 

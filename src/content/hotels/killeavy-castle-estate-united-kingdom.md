@@ -24,7 +24,6 @@ bestFor:
   - "Groups"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Killeavy%20Castle%20Estate%2C%20Newry&adults=2"
 rating: 8.4
-reviewCount: 0
 coordinates:
   lat: 54.1226975
   lng: -6.4091926
@@ -33,6 +32,19 @@ sourceId: "osm:node/8314596612"
 verifiedAt: 2026-10-10
 publishedDate: 2026-10-10
 status: published
+location:
+  country: "United Kingdom"
+  countryCode: "GB"
+  region: "Northern Ireland"
+  city: "Newry"
+  locality: "Killeavy"
+  coordinates:
+    lat: 54.1226975
+    lng: -6.4091926
+niche_scope: specific_rooms
+niche_feature: "Four guestrooms (sleeping up to eight) in the Grade A listed 19th-century castle, bookable only by exclusive hire as a whole; the 45-room hotel is in a converted mill and coach house and the self-catering residences are separate."
+niche_source_url: "https://www.killeavycastle.com/accommodation_castle-hotel.html"
+niche_verified_at: 2026-11-17
 ---
 
 Killeavy Castle Estate lies in the Ring of Gullion in County Armagh, set within 365 acres of mixed farm and woodland at the foot of Slieve Gullion. It is about ten minutes from Newry and an hour from Belfast and Dublin airports. The estate offers three kinds of stay, and only one of them is the castle, so it helps to know which you are booking.

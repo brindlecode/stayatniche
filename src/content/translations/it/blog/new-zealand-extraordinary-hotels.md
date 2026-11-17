@@ -87,7 +87,7 @@ A venti minuti a nord di Queenstown lungo il lago Wakatipu, il Blanket Bay sorge
 
 
 
-La Nuova Zelanda è una delle migliori destinazioni al mondo da girare in auto. Le distanze sono gestibili, le strade asfaltate sono ben tenute e l’Isola del Sud, in particolare, ripaga chi si ferma ovunque un panorama lo richieda. Un itinerario on the road che combini uno o due soggiorni in lodge con sistemazioni più semplici è uno dei viaggi in auto più appaganti che si possano fare.
+La Nuova Zelanda è una destinazione molto apprezzata da girare in auto. Le distanze sono gestibili, le strade asfaltate sono ben tenute e l’Isola del Sud, in particolare, ripaga chi si ferma ovunque un panorama lo richieda. Un itinerario on the road che combini uno o due soggiorni in lodge con sistemazioni più semplici è uno dei viaggi in auto più appaganti che si possano fare.
 
 Per le strutture raggiungibili in elicottero come Minaret Station, o per chi costruisce itinerari con più lodge, vale la pena rivolgersi a un’agenzia specializzata nella Nuova Zelanda: World Journeys, le strutture associate a Luxury Lodges of New Zealand o gli itinerari Virgin Limited Edition NZ. Hanno disponibilità riservate e conoscenze locali che le normali agenzie online non hanno.
 

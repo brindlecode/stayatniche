@@ -29,7 +29,6 @@ bestFor:
   - "Stargazers"
 bookingUrl: https://www.booking.com/
 rating: 8.7
-reviewCount: 287
 coordinates:
   lat: 49.1833
   lng: 0.3500

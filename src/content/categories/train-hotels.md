@@ -28,7 +28,7 @@ Aboard a luxury sleeper train, the rhythm of travel structures the day in a way 
 The view changes continuously and the entire structure is in gentle, constant motion. No hotel room, however well appointed, can do that.
 
 
-**Europe** hosts the world's most celebrated luxury rail route. The Venice Simplon-Orient-Express, restored to its 1920s glory, running between London and Venice with extensions to Istanbul, is the reference point: art deco marquetry, white-glove service, the Alps framed in the dining car window. Belmond, which operates it, also runs the British Pullman for day excursions from London, and the Royal Scotsman through the Scottish Highlands, arguably the most scenically dramatic route in Europe.
+**Europe** hosts one of the world's best-known luxury rail routes. The Venice Simplon-Orient-Express, restored to its 1920s glory, running between London and Venice with extensions to Istanbul, is the reference point: art deco marquetry, white-glove service, the Alps framed in the dining car window. Belmond, which operates it, also runs the British Pullman for day excursions from London, and the Royal Scotsman through the Scottish Highlands, among the most scenically dramatic routes in Europe.
 
 **India's** maharaja trains, the Maharajas' Express and the Palace on Wheels, bring Rajasthan's cultural landscape to a distinctly Indian interpretation of luxury rail hospitality. **South Africa's** Rovos Rail, operating between Cape Town, Pretoria, and Victoria Falls, runs observation cars and private suites of considerable elegance. **Japan's** Seven Stars in Kyushu and the Twilight Express Mizukaze apply Japanese precision and design sensitivity to the luxury rail format with characteristic results.
 

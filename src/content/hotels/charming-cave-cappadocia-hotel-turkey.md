@@ -22,7 +22,6 @@ bestFor:
   - "Couples"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Charming%20Cave%20Cappadocia%20Hotel%2C%20G%C3%B6reme&adults=2"
 rating: 7.9
-reviewCount: 0
 coordinates:
   lat: 38.6408438
   lng: 34.8265527
@@ -31,6 +30,18 @@ sourceId: "osm:node/8420901081"
 verifiedAt: 2026-10-09
 publishedDate: 2026-10-09
 status: published
+location:
+  country: "Turkey"
+  countryCode: "TR"
+  region: "Nevşehir"
+  city: "Göreme"
+  coordinates:
+    lat: 38.6408438
+    lng: 34.8265527
+niche_scope: specific_rooms
+niche_feature: "Fifteen rooms: five Standard Cave Rooms (301-305) in the courtyard plus a Cave Suite (103) are cave rooms; Standard and Deluxe Stone Rooms, Junior Suites and others are built-stone or other rooms."
+niche_source_url: "https://www.thecharmingcavehotel.com/"
+niche_verified_at: 2026-11-17
 ---
 
 Charming Cave Cappadocia Hotel is a guesthouse in Göreme that says its rooms are carved from natural rock. It has been in service for over ten years, and describes fifteen styled rooms offering comfortable and relaxed accommodation. The site mixes cave rooms with stone rooms, so a request for a cave room is worth making when you book.

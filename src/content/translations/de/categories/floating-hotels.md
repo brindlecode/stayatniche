@@ -2,7 +2,7 @@
 source: floating-hotels
 title: Schwimmende Hotels
 tagline: "Wo das Land endet, beginnt der Luxus"
-description: "Gleiten Sie an Bord luxuriöser schwimmender Hotels über die schönsten Gewässer der Welt, oder legen Sie in Hausbooten von Architektenhand an historischen Uferpromenaden an. Von Wasserbauten auf den Malediven über Fjordschiffe in Norwegen bis zu Dschunken in der Halong-Bucht: Refugien auf dem Wasser eröffnen einen Blick auf das Reisen, den festes Land nie bieten kann."
+description: "Gleiten Sie an Bord luxuriöser schwimmender Hotels über einige der schönsten Gewässer der Welt, oder legen Sie in Hausbooten von Architektenhand an historischen Uferpromenaden an. Von Wasserbauten auf den Malediven über Fjordschiffe in Norwegen bis zu Dschunken in der Halong-Bucht: Refugien auf dem Wasser eröffnen einen Blick auf das Reisen, den festes Land nie bieten kann."
 stats:
   topDestination: "Malediven"
 seo:

@@ -1,17 +1,17 @@
 ---
 source: lighthouse-hotels-coastal-guide
 title: "Hoteles en faros: guía completa para dormir en un icono marítimo en funcionamiento"
-excerpt: "De las costas escarpadas de Irlanda a las orillas blanqueadas por el sol del Mediterráneo, descubre los hoteles en faros y las casas de fareros más extraordinarios del mundo."
+excerpt: "De las costas escarpadas de Irlanda a las orillas blanqueadas por el sol del Mediterráneo, descubre hoteles en faros y casas de fareros extraordinarios."
 seo:
   metaTitle: "Hoteles en faros: guía de estancias costeras | StayAtNiche"
-  metaDescription: "Los hoteles en faros más espectaculares del mundo, de Irlanda a Nueva Zelanda: casas de fareros restauradas, vistas al mar y consejos para tu estancia."
+  metaDescription: "Hoteles en faros espectaculares, de Irlanda a Nueva Zelanda: casas de fareros restauradas, vistas al mar, precios y consejos prácticos para tu estancia."
 ---
 
 Hay un motivo por el que los faros llevan siglos cautivando la imaginación humana. Encaramados en los confines de continentes e islas, sobre cabos azotados por los temporales del Atlántico y el siroco del Mediterráneo, estas construcciones transmiten una mezcla muy particular de aislamiento, deber y dramatismo elemental que cala hondo. La vida del farero, que mantenía la luz encendida entre tormentas, solo en una torre sobre olas que rompían sin descanso, ha dado lugar a toda una literatura y una mitología propias.
 
 A medida que la tecnología marítima ha dejado obsoletos a los fareros, muchos de los faros con emplazamientos más espectaculares del mundo se han abierto a los viajeros. Dormir en un faro reconvertido o en la antigua casa del farero no se parece a ninguna otra categoría de alojamiento: el mar está siempre presente, el aislamiento suele ser profundo y la luz, tanto el haz del faro como la calidad de la luz diurna en la costa, es extraordinaria.
 
-Esta guía recorre las mejores experiencias en hoteles en faros del mundo, desde las costas atlánticas salvajes de Irlanda hasta el remoto extremo norte de Nueva Zelanda, con consejos prácticos sobre qué puedes esperar.
+Esta guía recorre experiencias en hoteles en faros, desde las costas atlánticas salvajes de Irlanda hasta el remoto extremo norte de Nueva Zelanda, con consejos prácticos sobre qué puedes esperar.
 
 ---
 

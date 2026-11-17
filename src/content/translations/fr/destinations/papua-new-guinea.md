@@ -1,7 +1,7 @@
 ---
 source: papua-new-guinea
 name: "Papouasie-Nouvelle-Guinée"
-description: "La Papouasie-Nouvelle-Guinée est l’une des dernières destinations véritablement pionnières de la planète : une île immense de montagnes couvertes de forêt pluviale, de cultures tribales isolées et de fonds marins parmi les plus préservés et les plus riches en biodiversité au monde. Pour les voyageurs en quête d’un véritable bout du monde, de rencontres culturelles extraordinaires et de plongées exceptionnelles dans un cadre absolument intact, la PNG reste dans une catégorie à part."
+description: "La Papouasie-Nouvelle-Guinée est l’une des dernières destinations véritablement pionnières de la planète : une île immense de montagnes couvertes de forêt pluviale, de cultures tribales isolées et de fonds marins parmi les plus préservés et les plus riches en biodiversité au monde. Pour les voyageurs en quête d’un véritable bout du monde, de rencontres culturelles extraordinaires et de plongées exceptionnelles dans un cadre absolument intact, la PNG reste une destination qui ne ressemble à presque aucune autre."
 essentials:
   currency: "PGK (kina papou-néo-guinéen) ; dollar américain accepté dans les grands hôtels et les centres de plongée"
   language: "Tok pisin (créole), anglais et hiri motu (tous officiels) ; plus de 800 langues autochtones"

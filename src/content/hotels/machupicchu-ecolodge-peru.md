@@ -21,7 +21,6 @@ bestFor:
   - "Digital detox"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Machupicchu%20Ecolodge%2C%20Santa%20Teresa&adults=2"
 rating: 8.2
-reviewCount: 0
 coordinates:
   lat: -13.185491
   lng: -72.5881678
@@ -30,6 +29,15 @@ sourceId: "osm:node/9133818528"
 verifiedAt: 2026-10-12
 publishedDate: 2026-10-12
 status: published
+location:
+  country: "Peru"
+  countryCode: "PE"
+  coordinates:
+    lat: -13.185491
+    lng: -72.5881678
+niche_scope: unverified
+niche_feature: "Could not confirm the rainforest/off-grid claims: the official site returned HTTP 500 (WordPress/PHP error) on every page tried, and no other citable page was reachable."
+niche_verified_at: 2026-11-17
 ---
 
 Machupicchu Ecolodge sits in the rainforest of the Cusco region near Santa Teresa and faces Machu Picchu across the valley. Every room has a panoramic view of Machu Picchu, the green valley below and the surrounding peaks, which is the main reason to stay. The lodge is a stop on the Salkantay trek and is also used by travellers heading to Machu Picchu itself.

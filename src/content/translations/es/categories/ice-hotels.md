@@ -2,12 +2,12 @@
 source: ice-hotels
 title: Hoteles de hielo
 tagline: "Esculpidos por el invierno, deshechos por la primavera"
-description: Reconstruidos desde cero cada invierno con miles de toneladas de nieve ártica y hielo de río, los hoteles de hielo son el lujo más efímero del mundo. Esculpidos por artistas internacionales, mantenidos a temperaturas bajo cero y abiertos solo unos pocos meses antes de volver, con toda su poesía, al río, estos palacios helados no se parecen a nada que exista.
+description: Reconstruidos desde cero cada invierno con miles de toneladas de nieve ártica y hielo de río, los hoteles de hielo están entre los lujos más efímeros. Esculpidos por artistas internacionales, mantenidos a temperaturas bajo cero y abiertos solo unos pocos meses antes de volver, con toda su poesía, al río, estos palacios helados son una experiencia aparte.
 stats:
   topDestination: "Jukkasjärvi, Suecia"
 seo:
   metaTitle: "Hoteles de hielo: dormir en un palacio helado | StayAtNiche"
-  metaDescription: "Vive los hoteles de temporada más extraordinarios del mundo, tallados en hielo. Descubre hoteles de hielo en Suecia, Finlandia, Noruega y Canadá y reserva."
+  metaDescription: "Vive hoteles de temporada extraordinarios, tallados en hielo. Descubre hoteles de hielo en Suecia, Finlandia, Noruega y Canadá y reserva."
 ---
 
 Cada año, cuando el otoño da paso al invierno en la región subártica sueca, arranca una obra muy peculiar sobre el río Torne helado, junto al pueblo de Jukkasjärvi. Equipos de recolectores de hielo se adentran en el río y empiezan a cortar y extraer bloques de hielo cristalino —algunos de hasta 90 centímetros de grosor— que formarán el esqueleto de un edificio que todavía no existe. Llegan artistas internacionales con bocetos y cinceles. Los arquitectos traducen los planos en pautas de construcción para un material distinto a cualquier otro. En diciembre, donde en octubre solo había tundra helada, se alza un palacio: esculpido, iluminado y listo para que los huéspedes duerman en él a temperaturas muy por debajo de cero.

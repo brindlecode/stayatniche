@@ -17,7 +17,7 @@ Ce guide couvre tout ce qu'il faut savoir sur les hôtels de glace et les voyage
 
 
 
-L'original. La référence absolue. Tout le reste n'est qu'imitation.
+L'original. Une référence du genre. Tout le reste n'est qu'imitation.
 
 L'ICEHOTEL se dresse sur les rives de la rivière Torne à Jukkasjärvi, un village de 500 habitants de la Laponie suédoise, à 200 km au nord du cercle polaire arctique. Chaque automne, 5 000 tonnes de glace de rivière sont récoltées et stockées, puis utilisées à partir de novembre pour sculpter un tout nouvel hôtel. Le design change chaque année, fruit d'une collaboration entre des artistes sélectionnés par appel à candidatures international, qui passent des semaines à transformer chacun leur chambre en sculpture dans laquelle les hôtes dormiront ensuite.
 
@@ -142,7 +142,7 @@ La plupart des hôtels de glace font un briefing à l'arrivée. La procédure ty
 
 L'Islande n'a pas d'hôtel de glace traditionnel au sens scandinave, mais elle offre plusieurs atouts qui en font une alternative séduisante pour un voyage centré sur les aurores boréales :
 
-**The Retreat at Blue Lagoon** possède des bassins géothermiques où l'on peut se baigner à minuit en regardant l'activité aurorale au-dessus de soi : sans doute le cadre le plus spectaculaire au monde pour observer les aurores.
+**The Retreat at Blue Lagoon** possède des bassins géothermiques où l'on peut se baigner à minuit en regardant l'activité aurorale au-dessus de soi : un cadre spectaculaire pour observer les aurores.
 
 L'**Ion Adventure Hotel**, à Nesjavellir, a été conçu spécialement pour l'observation des aurores, avec des fenêtres panoramiques et la proximité de la zone de ciel noir du parc national de Þingvellir.
 

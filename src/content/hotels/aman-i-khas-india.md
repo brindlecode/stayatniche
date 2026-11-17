@@ -1,6 +1,6 @@
 ---
 name: Aman-i-Khás
-category: desert-camps
+category: safari-lodges
 destination: Ranthambore, Rajasthan
 country: India
 continent: Asia
@@ -44,7 +44,6 @@ prosAndCons:
     - Premium pricing is among the highest in India
 bookingUrl: https://www.booking.com/hotel/in/aman-i-khas.html
 rating: 9.6
-reviewCount: 423
 seasonalInfo:
   bestTime: October to March for the finest wildlife activity and comfortable temperatures
   peakSeason: November to February
@@ -73,6 +72,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Ranthambore,+Rajasthan"
     label: "Find Tours on Klook"
+location:
+  country: "India"
+  countryCode: "IN"
+  region: "Rajasthan"
+  city: "Sawai Madhopur"
+  locality: "Sherpur-Khiljipur"
+  coordinates:
+    lat: 26.063655
+    lng: 76.441221
+niche_scope: entire_property
+niche_feature: "Fourteen tented pavilions (some with plunge pools) on the outskirts of Ranthambore National Park; twice-daily tiger safaris are the core activity. Rajasthan scrub landscape, not a desert."
+niche_source_url: "https://www.aman.com/resorts/aman-i-khas"
+niche_verified_at: 2026-11-17
 ---
 
 Ranthambore is not India's most famous tiger reserve. Corbett attracts more visitors, Kanha more column inches. But the sighting statistics at Ranthambore are the most consistent in the country. The 1,334 square kilometres of dry deciduous forest, grassland, and ancient lake sit in the shadow of a 12th-century Rajput fort, and the tigers here move through the landscape with the confidence of animals that have been protected and studied long enough to stop hiding. On a good morning — and Ranthambore produces more good mornings than anywhere else in India — a tigress crosses a dry riverbed without slowing her pace.

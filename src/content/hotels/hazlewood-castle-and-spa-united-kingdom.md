@@ -21,7 +21,6 @@ bestFor:
   - "Weddings"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Hazlewood%20Castle%20%26%20Spa%2C%20Tadcaster&adults=2"
 rating: 8.5
-reviewCount: 0
 coordinates:
   lat: 53.8523722
   lng: -1.3192468
@@ -30,6 +29,19 @@ sourceId: "osm:way/329021982"
 verifiedAt: 2026-10-10
 publishedDate: 2026-10-10
 status: published
+location:
+  country: "United Kingdom"
+  countryCode: "GB"
+  region: "England"
+  city: "Tadcaster"
+  locality: "Hazlewood"
+  coordinates:
+    lat: 53.8523722
+    lng: -1.3192468
+niche_scope: specific_rooms
+niche_feature: "32 rooms in three buildings: 9 rooms and suites in the main castle, 12 rooms in St Margaret's (courtyard) and 11 in St Leonard's. Castle itself is Domesday-era (first mentioned 1086; described as an 11th-century castle)."
+niche_source_url: "https://www.hazlewood-castle.co.uk/stay"
+niche_verified_at: 2026-11-17
 ---
 
 Hazlewood Castle is a Grade I listed country residence, now a hotel, in North Yorkshire. It sits between York and Leeds, near Tadcaster, and is one of the oldest fortified houses to survive in Yorkshire. The castle dates back to the Domesday Book, and it stands in 77 acres of woodland.

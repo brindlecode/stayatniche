@@ -1,15 +1,15 @@
 ---
 source: train-hotels-rail-journeys-guide
-title: "Hotel nei treni e viaggi ferroviari di lusso: la guida completa ai più grandi treni notturni del mondo"
-excerpt: "Dall’Orient Express al Rovos Rail sudafricano, alla scoperta dei treni-hotel più straordinari del mondo, dove il viaggio è la meta e ogni chilometro diventa un ricordo."
+title: "Hotel nei treni e viaggi ferroviari di lusso: la guida completa ai treni notturni di lusso"
+excerpt: "Dall’Orient Express al Rovos Rail sudafricano, alla scoperta di treni-hotel straordinari, dove il viaggio è la meta e ogni chilometro diventa un ricordo."
 seo:
   metaTitle: "Hotel nei treni e treni di lusso nel mondo | StayAtNiche"
-  metaDescription: "I migliori hotel nei treni del mondo, dall’Orient Express al Rocky Mountaineer: guida esperta ai treni notturni di lusso, come prenotare e rotte iconiche."
+  metaDescription: "Hotel nei treni, dall’Orient Express al Rocky Mountaineer: guida esperta ai treni notturni di lusso, come prenotare, prezzi e rotte iconiche."
 ---
 
 La locomotiva è stata la tecnologia simbolo dell’Ottocento, e le grandi carrozze letto dell’epoca Pullman trasformarono i lunghi viaggi in treno in qualcosa di molto simile a un hotel in movimento: pannelli di mogano, servizio al tavolo in guanti bianchi, lenzuola fresche su cuccette strette ma comode e un paesaggio che scorre dietro il finestrino come nessun oblò d’aereo moderno potrà mai offrire. Il fascino del viaggio in treno non è mai davvero svanito: ha semplicemente trovato nuova espressione in un piccolo numero di treni di lusso davvero straordinari, che considerano il viaggio non un trasferimento ma il cuore dell’esperienza.
 
-Oggi i migliori hotel nei treni si collocano nella fascia più alta del mercato del lusso. Il Venice Simplon-Orient-Express applica tariffe paragonabili a quelle degli hotel a cinque stelle europei; il Rovos Rail sudafricano è probabilmente il treno più lussuoso del mondo; il Twilight Express Mizukaze giapponese offre una cucina che attirerebbe l’attenzione nei migliori ristoranti di Tokyo. Non sono solo modi comodi di spostarsi: sono viaggi da vivere in prima persona, in cui movimento, paesaggio, cucina, servizio e la straordinaria comunità degli altri ospiti si fondono in un’esperienza davvero unica.
+Oggi i migliori hotel nei treni si collocano nella fascia più alta del mercato del lusso. Il Venice Simplon-Orient-Express applica tariffe paragonabili a quelle degli hotel a cinque stelle europei; il Rovos Rail sudafricano è tra i treni più lussuosi del mondo; il Twilight Express Mizukaze giapponese offre una cucina che attirerebbe l’attenzione nei migliori ristoranti di Tokyo. Non sono solo modi comodi di spostarsi: sono viaggi da vivere in prima persona, in cui movimento, paesaggio, cucina, servizio e la straordinaria comunità degli altri ospiti si fondono in un’esperienza davvero unica.
 
 Questa guida presenta le grandi esperienze di hotel nei treni del mondo, organizzate per regione e per operatore, con consigli pratici su come prenotare e cosa aspettarsi a bordo.
 
@@ -47,12 +47,12 @@ Il nuovo treno di lusso italiano di Belmond, La Dolce Vita Orient Express, ha in
 
 
 
-Il Rovos Rail parte da Pretoria ed è considerato da molti il treno più lussuoso del mondo. La passione personale del proprietario Rohan Vos per la storia ferroviaria ha dato vita a una flotta di carrozze d’epoca restaurate, la più antica del 1911, in cui ogni elemento è stato portato al più alto livello possibile. La Royal Suite è uno scompartimento privato straordinariamente spazioso (per gli standard di un treno) con una vasca in ottone a grandezza naturale, un salottino e una terrazza privata in coda alla carrozza panoramica.
+Il Rovos Rail parte da Pretoria ed è considerato uno dei treni più lussuosi del mondo. La passione personale del proprietario Rohan Vos per la storia ferroviaria ha dato vita a una flotta di carrozze d’epoca restaurate, la più antica del 1911, in cui ogni elemento è stato portato al più alto livello possibile. La Royal Suite è uno scompartimento privato straordinariamente spazioso (per gli standard di un treno) con una vasca in ottone a grandezza naturale, un salottino e una terrazza privata in coda alla carrozza panoramica.
 
 Il viaggio di punta va da Pretoria a Città del Capo in due notti, attraversando il deserto del Karoo e le regioni vinicole del Capo Occidentale lungo un percorso di paesaggi straordinari. Viaggi più lunghi collegano Pretoria alle Cascate Vittoria (tre notti), a Dar es Salaam (cinque notti) e, sulla leggendaria rotta Città del Capo–Il Cairo, attraversano l’intero continente in 15 notti.
 
 **Fascia di prezzo:** Deluxe Suite da 2.500 $ a persona (Pretoria–Città del Capo); Royal Suite da 8.000 $ a persona
-**Ideale per:** occasioni speciali, coppie, chi vuole la migliore esperienza in treno del mondo, appassionati d’Africa
+**Ideale per:** occasioni speciali, coppie, chi vuole un’esperienza ferroviaria di prim’ordine, appassionati d’Africa
 
 **Consiglio per prenotare:** Rovos ha partenze poco frequenti, alcune tratte solo una volta al mese. Prenota con sei-dodici mesi di anticipo, soprattutto per il viaggio completo da Città del Capo al Cairo.
 
@@ -80,7 +80,7 @@ Tra i servizi ferroviari pubblici nordamericani, il Coast Starlight, tra Los Ang
 ---
 
 
-La cultura ferroviaria giapponese è la più raffinata del mondo, e i treni notturni di lusso del Paese rappresentano l’apice dell’artigianato e del servizio giapponesi applicati al viaggio su rotaia.
+La cultura ferroviaria giapponese è tra le più raffinate del mondo, e i treni notturni di lusso del Paese rappresentano l’apice dell’artigianato e del servizio giapponesi applicati al viaggio su rotaia.
 
 
 Inaugurato nel 2017, il Twilight Express Mizukaze percorre itinerari circolari di tre notti nelle regioni di San’in e Sanyo, nel Giappone occidentale (Osaka, Kyoto, Hiroshima, Izumo e ritorno). Le 16 camere, suddivise in dieci categorie, comprendono suite per i soli pasti senza letti (gli ospiti mangiano a bordo e dormono in hotel nelle tappe del percorso) e suite in stile ryokan tradizionale con bagni giapponesi e salottini con pavimento in tatami. La cucina è un vero progetto gastronomico ispirato alla tradizione kaiseki.

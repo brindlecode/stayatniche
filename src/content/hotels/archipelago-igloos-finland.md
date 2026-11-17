@@ -1,6 +1,6 @@
 ---
 name: "Archipelago Igloos"
-category: ice-hotels
+category: bubble-hotels
 destination: "Helsinki archipelago, Uusimaa"
 country: "Finland"
 description: "A single floating glass igloo suite for two, anchored near Vallisaari off Helsinki in summer and moved to the Sipoo archipelago ice in winter."
@@ -20,7 +20,6 @@ bestFor:
   - "Adventurous travellers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Archipelago%20Igloos%2C%20Helsinki%20archipelago&adults=2"
 rating: 8.6
-reviewCount: 0
 coordinates:
   lat: 60.1349446
   lng: 25.0118332
@@ -29,6 +28,19 @@ sourceId: "osm:node/12142374323"
 verifiedAt: 2026-10-12
 publishedDate: 2026-10-12
 status: published
+location:
+  country: "Finland"
+  countryCode: "FI"
+  region: "Uusimaa"
+  city: "Helsinki"
+  locality: "Vallisaari"
+  coordinates:
+    lat: 60.1349446
+    lng: 25.0118332
+niche_scope: entire_property
+niche_feature: "Glass igloo accommodation unit(s): floating in summer, anchored between Vallisaari and Kuninkaansaari; in winter the glass igloos are in the Sipoo archipelago. Number of units and ice setting not confirmed (official site bot-walled)."
+niche_source_url: "https://www.visitfinland.com/en/product/c8951ee0-6e0d-4b1b-b3eb-5ecd37eee1f7/archipelago-igloos-accomodation-experience-in-glass-igloo/"
+niche_verified_at: 2026-11-17
 ---
 
 Archipelago Igloos is one glass igloo, built as a floating suite for two in the waters around Helsinki. Its biggest feature is a floor-to-ceiling view of the sky and the sea around it. Inside are a double bed, a kitchen, a foldable dining table, food storage and a toilet; outside, a terrace has a gas grill, a swimming ladder and a rowing boat for guests to use.

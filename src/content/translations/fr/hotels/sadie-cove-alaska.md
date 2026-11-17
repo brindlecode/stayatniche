@@ -1,7 +1,7 @@
 ---
 source: sadie-cove-alaska
 destination: "Baie de Kachemak, Homer, Alaska, États-Unis"
-description: "Un lodge de cabanes isolé sur la rive sud de la baie de Kachemak, accessible uniquement en hydravion ou en bateau-taxi depuis Homer, avec des ours bruns sur la plage, une pêche au flétan dans des eaux d'exception et un littoral que le réseau routier de l'État n'atteint pas."
+description: "Un lodge de cabanes isolé sur la rive sud de la baie de Kachemak, accessible uniquement en hydravion ou en bateau-taxi depuis Homer, avec des ours bruns sur la plage, une pêche au flétan dans des eaux giboyeuses et un littoral que le réseau routier de l'État n'atteint pas."
 highlights:
   - "Un lodge au cœur de la nature, inaccessible par la route, que l'on rejoint en hydravion ou en bateau-taxi"
   - "Des ours bruns souvent visibles sur la plage et dans la forêt alentour"

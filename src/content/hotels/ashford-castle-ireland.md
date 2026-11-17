@@ -3,7 +3,7 @@ name: Ashford Castle
 category: castle-hotels
 destination: Cong, County Mayo
 country: Ireland
-description: Built in 1228 on the shores of Lough Corrib in County Mayo, Ashford Castle is the real thing — not a Victorian hotel with a turret, but 800 years of Irish history spread across 350 acres with 83 individually designed rooms, Ireland's best falconry school, and a dining room that takes the surrounding land seriously.
+description: Built in 1228 on the shores of Lough Corrib in County Mayo, Ashford Castle is the real thing — not a Victorian hotel with a turret, but 800 years of Irish history spread across 350 acres with 83 individually designed rooms, a renowned falconry school, and a dining room that takes the surrounding land seriously.
 coverImage: /images/hotels/ashford-castle-ireland.jpg
 gallery:
   - /images/hotels/ashford-castle-ireland-2.jpg
@@ -30,8 +30,7 @@ bestFor:
   - Luxury travelers
   - Special occasions
 bookingUrl: https://www.booking.com/hotel/ie/ashford-castle.html
-rating: 9.5
-reviewCount: 2156
+rating: 8.8
 coordinates:
   lat: 53.5427
   lng: -9.3009
@@ -43,12 +42,24 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Cong,+County+Mayo"
     label: "Find Tours on Klook"
+location:
+  country: "Ireland"
+  countryCode: "IE"
+  region: "County Mayo"
+  city: "Cong"
+  coordinates:
+    lat: 53.5427
+    lng: -9.3009
+niche_scope: specific_rooms
+niche_feature: "Historic castle with origins in the 13th century, run as a hotel; official site lists 83 rooms, suites and the separate lakeside Boathouse. It does not map which rooms are in the castle fabric. The Lodge is a separate hotel."
+niche_source_url: "https://www.ashfordcastle.com/about"
+niche_verified_at: 2026-11-17
 ---
 
 Ashford Castle has been around since 1228, when the Anglo-Norman de Burgo family built the original tower on the shores of Lough Corrib. The Guinness family expanded it significantly in the 19th century, and the result is 350 acres of Irish estate with a castle at its centre that is unambiguously the real thing: not a Victorian folly, not a hotel that happens to have a turret.
 
 The 83 rooms are individually designed around the castle's medieval bones. Many look out over Lough Corrib, which at 68 square kilometres is Ireland's second-largest lake, stretching to the horizon in a view that makes sitting in a window seat with a whiskey feel like a moral obligation.
 
-The Ireland School of Falconry on the estate is consistently rated among the best in the world. Beyond that, the activity list runs to sea trout and salmon fishing on Lough Corrib, clay pigeon shooting, archery, horse riding, and boat trips on the lake. The George V Dining Room takes the setting seriously, with a kitchen focused on the exceptional produce of the surrounding region.
+The Ireland School of Falconry on the estate is a highly regarded falconry school. Beyond that, the activity list runs to sea trout and salmon fishing on Lough Corrib, clay pigeon shooting, archery, horse riding, and boat trips on the lake. The George V Dining Room takes the setting seriously, with a kitchen focused on the exceptional produce of the surrounding region.
 
 County Mayo is one of the more dramatically beautiful parts of Ireland. Connemara is on the doorstep, the islands of Clew Bay are within reach, and the village of Cong, where John Ford filmed most of The Quiet Man on the castle estate in 1951, is worth an hour of wandering. Ashford is one of the few castle hotels that would justify Ireland as a destination on its own.

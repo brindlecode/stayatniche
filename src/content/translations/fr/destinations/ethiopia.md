@@ -1,7 +1,7 @@
 ---
 source: ethiopia
 name: "Éthiopie"
-description: "L'Éthiopie est la destination d'Afrique la plus riche en strates historiques, un ancien royaume des hauts plateaux doté de son propre alphabet, de son propre calendrier et d'une tradition chrétienne orthodoxe antérieure de plusieurs siècles à celle de l'Europe. Des églises rupestres de Lalibela aux cultures tribales de la vallée de l'Omo et aux paysages surréalistes de la dépression du Danakil, l'Éthiopie offre des expériences qui n'existent réellement nulle part ailleurs sur Terre."
+description: "L'Éthiopie est l'une des destinations d'Afrique les plus riches en strates historiques, un ancien royaume des hauts plateaux doté de son propre alphabet, de son propre calendrier et d'une tradition chrétienne orthodoxe antérieure de plusieurs siècles à celle de l'Europe. Des églises rupestres de Lalibela aux cultures tribales de la vallée de l'Omo et aux paysages surréalistes de la dépression du Danakil, l'Éthiopie offre des expériences qui n'existent qu'en très peu d'endroits sur Terre."
 essentials:
   currency: "ETB (birr éthiopien) ; le dollar américain est utile dans les grands hôtels et pour certains services"
   language: "Amharique (langue officielle) ; oromo, tigrigna et plus de 80 autres langues"
@@ -26,7 +26,7 @@ travelTips:
   - "La cuisine éthiopienne (injera accompagnée de wats et de tibs) est extraordinaire : mangez dans les restaurants locaux plutôt que dans les salles à manger des hôtels pour une expérience authentique."
 seo:
   metaTitle: "Éthiopie : Lalibela, Danakil et cultures | StayAtNiche"
-  metaDescription: "Éthiopie : églises rupestres de Lalibela, lacs de lave du Danakil, monts Simien, peuples de la vallée de l'Omo et la plus ancienne civilisation d'Afrique."
+  metaDescription: "Éthiopie : églises rupestres de Lalibela, lacs de lave du Danakil, monts Simien, peuples de la vallée de l'Omo et l'une des plus anciennes civilisations d'Afrique."
 ---
 
 L'Éthiopie se tient à l'écart du récit habituel du voyage en Afrique. Pas de circuits de safari à la recherche des Big Five, pas de tradition de lodges de l'époque coloniale, pas d'infrastructure touristique bien rodée. Il y a à la place quelque chose de plus rare : une civilisation riche de 3 000 ans d'histoire écrite ininterrompue, dotée de sa propre écriture, de son propre calendrier et de sa propre tradition religieuse, des paysages qui vont du point culminant de l'Afrique subsaharienne au point le plus bas du continent, et des rencontres culturelles d'une profondeur et d'une authenticité de plus en plus difficiles à trouver ailleurs dans le monde.
@@ -37,7 +37,7 @@ Au XIIe siècle, le roi Lalibela commanda une œuvre extraordinaire : une sér
 Le christianisme orthodoxe éthiopien, pratiqué ici depuis le IVe siècle, n'est pas une pièce de musée. Les églises de Lalibela sont des lieux de pèlerinage bien vivants, notamment lors des grandes fêtes du Timkat (l'Épiphanie) et du Meskel (l'Invention de la Vraie Croix), quand des milliers de pèlerins vêtus de blanc emplissent l'enceinte pour des processions nocturnes aux chandelles, au son des chants.
 
 
-L'Éthiopie abrite deux des paysages les plus extrêmes du monde. Les monts Simien, un haut plateau de 3 000 à 4 550 mètres érodé en escarpements verticaux et en aiguilles, sont l'habitat du loup d'Éthiopie (le carnivore le plus menacé d'Afrique), du gélada (le seul primate au monde à se nourrir d'herbe) et du bouquetin d'Abyssinie, qu'on ne trouve nulle part ailleurs sur Terre. La marche y longe des bords de falaises surplombant la vallée de 1 000 mètres, l'un des plus beaux treks d'altitude d'Afrique.
+L'Éthiopie abrite deux paysages particulièrement extrêmes. Les monts Simien, un haut plateau de 3 000 à 4 550 mètres érodé en escarpements verticaux et en aiguilles, sont l'habitat du loup d'Éthiopie (le carnivore le plus menacé d'Afrique), du gélada (le seul primate au monde à se nourrir d'herbe) et du bouquetin d'Abyssinie, qu'on ne trouve nulle part ailleurs sur Terre. La marche y longe des bords de falaises surplombant la vallée de 1 000 mètres, un trek d'altitude très réputé en Afrique.
 
 La dépression du Danakil est au contraire le point le plus bas et le plus chaud d'Afrique, une faille géologique où se rejoignent trois plaques tectoniques, avec des lacs de lave actifs (Erta Ale), des formations salines soufrées aux teintes jaunes et vertes (Dallol) et un désert de sel exploité à la main depuis des siècles, avec des caravanes de dromadaires. Les excursions exigent une escorte armée et des trajets de nuit pour éviter le pire de la chaleur, et l'hébergement est rudimentaire : nuits à la belle étoile dans le désert ou dans des camps sommaires. L'expérience n'a rien de confortable. Elle est, au sens le plus fort du terme, inoubliable.
 

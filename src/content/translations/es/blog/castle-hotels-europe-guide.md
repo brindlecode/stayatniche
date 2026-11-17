@@ -16,7 +16,7 @@ Lo que distingue a los mejores hoteles castillo de los simples edificios histór
 ---
 
 
-Escocia puede presumir con razón de ser el mejor destino del mundo para alojarse en un castillo. Su turbulenta historia —siglos de guerras entre clanes, conflictos entre ingleses y escoceses y las convulsiones de las Highland Clearances— dejó una concentración extraordinaria de residencias fortificadas, muchas de ellas convertidas en hoteles de calidad y precio muy variados.
+Escocia puede presumir con razón de ser uno de los mejores destinos del mundo para alojarse en un castillo. Su turbulenta historia —siglos de guerras entre clanes, conflictos entre ingleses y escoceses y las convulsiones de las Highland Clearances— dejó una concentración extraordinaria de residencias fortificadas, muchas de ellas convertidas en hoteles de calidad y precio muy variados.
 
 
 Considerado por muchos el mejor hotel castillo de Escocia, Inverlochy se alza al pie del Ben Nevis, en las Highlands escocesas, rodeado por una finca privada de 500 acres. Construido en 1863 en estilo señorial escocés para el primer lord Abinger, el castillo funciona como hotel desde 1969 y hoy es una de las direcciones más célebres de Escocia. La reina Victoria se alojó aquí en 1873 y escribió en su diario que era la vista más bella que había contemplado en las Highlands.

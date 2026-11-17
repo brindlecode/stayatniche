@@ -19,18 +19,18 @@ amenities:
   - "Hochseeangeln und Schnorchelausflüge"
   - "Besuche bei Projekten der Nihiwatu Foundation"
 bestFor:
-  - "Ambitionierte Surfer, die eine private, leere Welle von Weltklasse suchen"
+  - "Ambitionierte Surfer, die eine private, leere Welle suchen"
   - "Reisende, die zu ihrem Luxusaufenthalt echte gemeinnützige Wirkung wollen"
   - "Paare, die völlige Abgeschiedenheit suchen"
 prosAndCons:
   pros:
-    - "Occy's Left mit höchstens zehn Surfern im Wasser – das gibt es nirgendwo sonst in Indonesien"
+    - "Occy's Left mit höchstens zehn Surfern im Wasser – eine seltene Chance auf leere Wellen in Indonesien"
     - "Sumba unterscheidet sich kulturell und landschaftlich deutlich vom Rest Indonesiens"
     - "Die Nihiwatu Foundation verleiht dem Aufenthalt echte ethische Substanz"
     - "Ausritte an leeren Stränden sind genau das, wonach sie klingen – außergewöhnlich"
   cons:
     - "Die Anreise nach Sumba erfordert einen Flug über Bali oder Lombok und kostet viel Zeit"
-    - "Mit deutlichem Abstand die teuerste Unterkunft Indonesiens"
+    - "Eine der teuersten Unterkünfte Indonesiens"
     - "Wegen der Abgeschiedenheit Sumbas gibt es außerhalb des Resorts nur wenige Angebote"
     - "Der Surfzugang kostet zusätzlich zum ohnehin hohen Zimmerpreis"
 seasonalInfo:

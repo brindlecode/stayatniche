@@ -1,7 +1,7 @@
 ---
 source: papua-new-guinea
 name: "Papua-Neuguinea"
-description: "Papua-Neuguinea ist eines der letzten echten Grenzland-Reiseziele der Erde: eine riesige Insel mit regenwaldbedeckten Bergen, abgelegenen Stammeskulturen und einigen der unberührtesten und artenreichsten Meereswelten der Welt. Für Reisende, die echte Abgeschiedenheit, außergewöhnliche kulturelle Begegnungen und herausragendes Tauchen in völlig unberührter Umgebung suchen, bleibt PNG eine Klasse für sich."
+description: "Papua-Neuguinea ist eines der letzten echten Grenzland-Reiseziele der Erde: eine riesige Insel mit regenwaldbedeckten Bergen, abgelegenen Stammeskulturen und einigen der unberührtesten und artenreichsten Meereswelten der Welt. Für Reisende, die echte Abgeschiedenheit, außergewöhnliche kulturelle Begegnungen und herausragendes Tauchen in völlig unberührter Umgebung suchen, bleibt PNG ein Reiseziel, das sich von den meisten anderen deutlich unterscheidet."
 essentials:
   currency: "PGK (Papua-neuguineischer Kina); US-Dollar werden in großen Hotels und Tauchresorts akzeptiert"
   language: "Tok Pisin (Kreolsprache), Englisch und Hiri Motu (alle Amtssprachen); über 800 indigene Sprachen"

@@ -2,7 +2,7 @@
 source: truffle-hunting-perigord
 title: "Cavage de la truffe en Périgord"
 destination: "Périgord noir, Dordogne"
-description: "Parcourez de vieux bois de chênes au cœur du pays truffier le plus célèbre de France, en compagnie d'un chien dressé, d'un trufficulteur passionné et avec l'espoir de déterrer le diamant noir de la gastronomie française, la truffe du Périgord, Tuber melanosporum, à quelques centimètres sous la surface de truffières de chênes pubescents plusieurs fois centenaires. Cette demi-journée allie le frisson de la quête, une initiation intime à l'une des cultures gastronomiques les plus raffinées au monde et une dégustation qui changera à jamais votre rapport à ce produit d'exception."
+description: "Parcourez de vieux bois de chênes au cœur de l'une des régions truffières les plus connues de France, en compagnie d'un chien dressé, d'un trufficulteur passionné et avec l'espoir de déterrer le diamant noir de la gastronomie française, la truffe du Périgord, Tuber melanosporum, à quelques centimètres sous la surface de truffières de chênes pubescents plusieurs fois centenaires. Cette demi-journée allie le frisson de la quête, une initiation intime à l'une des cultures gastronomiques les plus raffinées au monde et une dégustation qui changera à jamais votre rapport à ce produit d'exception."
 booking:
   price: "À partir de 120 $ par personne"
   duration: "Demi-journée (3 à 4 heures)"

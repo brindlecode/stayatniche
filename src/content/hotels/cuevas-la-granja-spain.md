@@ -21,7 +21,6 @@ bestFor:
   - "Families"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Cuevas%20La%20Granja%2C%20Benal%C3%BAa&adults=2"
 rating: 8.7
-reviewCount: 0
 coordinates:
   lat: 37.3587334
   lng: -3.1673463
@@ -30,6 +29,19 @@ sourceId: "osm:node/1005465160"
 verifiedAt: 2026-10-12
 publishedDate: 2026-10-12
 status: published
+location:
+  country: "Spain"
+  countryCode: "ES"
+  region: "Andalusia"
+  city: "Guadix"
+  locality: "Benalúa"
+  coordinates:
+    lat: 37.3587334
+    lng: -3.1673463
+niche_scope: entire_property
+niche_feature: "Complex of 18 cave houses (studios, 1-3 bedroom units) in Benalúa, Guadix region, on a 25,000 m2 estate with pool open June-September."
+niche_source_url: "https://www.cuevas.org/"
+niche_verified_at: 2026-11-17
 ---
 
 Cuevas La Granja is a rural tourism complex of 18 cave houses in Benalúa, in the Guadix region of the province of Granada, an area known for people who live in caves dug into the hillside. Sierra Nevada forms the backdrop, and the complex sits within the Granada Geopark. The hotel describes the clay of the walls as warm and the surroundings as calm.

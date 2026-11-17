@@ -35,7 +35,7 @@ const sinDesde = (r: string) => r.replace(/^\s*desde\s+/i, '');
 
 const es: typeof en = {
   meta: {
-    defaultDescription: 'Descubre los hoteles más insólitos del mundo: cabañas en los árboles, cuevas, habitaciones submarinas, castillos, hoteles de hielo y mucho más. Alojamientos únicos que valen el viaje.',
+    defaultDescription: 'Descubre hoteles insólitos de todo el mundo: cabañas en los árboles, cuevas, habitaciones submarinas, castillos, hoteles de hielo y mucho más. Alojamientos únicos que valen el viaje.',
   },
   fmt: {
     usd: (amount: string) => `${amount} US$`,
@@ -110,7 +110,7 @@ const es: typeof en = {
     editorsPick: 'Elección del editor',
     around: (place: string) => `Alrededores de ${place}`,
     save: (name: string) => `Guardar ${name}`,
-    scoreTitle: 'Puntuación editorial sobre 10',
+    scoreTitle: 'Puntuación editorial sobre 10 (nuestra valoración, no opiniones de huéspedes)',
     from: 'Desde',
     perNight: '/ noche',
     seeRates: 'Ver tarifas',
@@ -148,7 +148,7 @@ const es: typeof en = {
   },
   blog: {
     metaTitle: 'Guías de viaje: hoteles únicos, destinos y planificación',
-    metaDescription: 'Guías de los hoteles más insólitos del mundo: cabañas en los árboles, cuevas, hoteles de hielo, lodges de safari, además de guías de destino y consejos prácticos.',
+    metaDescription: 'Guías de hoteles insólitos de todo el mundo: cabañas en los árboles, cuevas, hoteles de hielo, lodges de safari, además de guías de destino y consejos prácticos.',
     lead: 'Dónde dormir, cuándo ir y cómo llegar, para viajes que giran en torno a un alojamiento extraordinario.',
     readGuide: 'Leer la guía',
     filter: 'Filtrar guías',
@@ -158,6 +158,13 @@ const es: typeof en = {
     metaTitle: (name: string, dest: string) => `${name} — ${dest} | StayAtNiche`,
     categories: 'Categorías',
     editorScore: 'puntuación editorial',
+    niche: {
+      specific_rooms: (cat: string) => `Solo algunas habitaciones encajan en nuestra categoría «${cat}»; el resto son habitaciones estándar.`,
+      experience_only: (cat: string) => `El rasgo «${cat}» es aquí algo que se visita o se hace, no el lugar donde se duerme.`,
+      unverified: (cat: string) => `Todavía no hemos podido confirmar el rasgo «${cat}» de este alojamiento en una fuente oficial.`,
+      checked: (date: string) => `Rasgo comprobado el ${date}`,
+      source: 'Fuente',
+    },
     save: 'Guardar',
     share: 'Compartir',
     linkCopied: 'Enlace copiado',
@@ -239,7 +246,7 @@ const es: typeof en = {
     other: 'Otros tipos de alojamiento',
   },
   destinations: {
-    metaTitle: 'Destinos: dónde están los hoteles más insólitos del mundo',
+    metaTitle: 'Destinos: dónde encontrar hoteles insólitos en todo el mundo',
     metaDescription: (n: number) => `${n} ${plural(n, 'guía de destino pensada', 'guías de destino pensadas')} en torno a alojamientos extraordinarios: cuándo ir, qué ver y los hoteles únicos que valen el viaje.`,
     h1a: '¿Cuál será tu',
     h1b: 'próximo destino?',
@@ -377,7 +384,7 @@ const es: typeof en = {
   notFound: {
     metaTitle: 'Página no encontrada | StayAtNiche',
     h1: 'Parece que este alojamiento ya hizo el check-out',
-    text: 'La página que buscas no existe o ha cambiado de dirección. Los alojamientos más extraordinarios del mundo siguen a un clic.',
+    text: 'La página que buscas no existe o ha cambiado de dirección. Alojamientos extraordinarios de todo el mundo siguen a un clic.',
     maybe: '¿Quizá buscabas alguno de estos?',
   },
   photoCredits: {
@@ -412,7 +419,7 @@ const es: typeof en = {
     stayB: 'dormir',
   },
   home: {
-    metaTitle: 'StayAtNiche: los alojamientos más extraordinarios del mundo',
+    metaTitle: 'StayAtNiche: alojamientos extraordinarios de todo el mundo',
     metaDescription: 'Encuentra hoteles únicos que valen el viaje: cabañas en los árboles, hoteles cueva, habitaciones submarinas, lodges de safari, hoteles de hielo y más. Compara precios y reserva con confianza.',
     heroAlt: 'Una cabaña de cristal en una cresta de montaña sobre un mar de nubes al amanecer',
     eyebrow: (h: number, c: number, k: number) => `${h} ${plural(h, 'alojamiento', 'alojamientos')} · ${c} ${plural(c, 'país', 'países')} · ${k} ${plural(k, 'forma', 'formas')} de dormir distinto`,

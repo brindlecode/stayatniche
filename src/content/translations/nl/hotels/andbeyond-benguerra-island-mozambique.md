@@ -1,11 +1,11 @@
 ---
 source: andbeyond-benguerra-island-mozambique
 destination: Benguerra Island, Bazaruto-archipel
-description: "Een afgelegen eilandlodge in de Bazaruto-archipel in Mozambique – een beschermd zeegebied met uitzonderlijke biodiversiteit in de Indische Oceaan, vier uur ten noorden van Maputo. Veertien casita's en villa's kijken uit op het strand; de zee erachter is de reden om te komen: koraalriffen, groepen doejongs, mantaroggen, in het seizoen bultruggen en snorkelen van wereldklasse op kajakafstand van de kust."
+description: "Een afgelegen eilandlodge in de Bazaruto-archipel in Mozambique – een beschermd zeegebied met uitzonderlijke biodiversiteit in de Indische Oceaan, vier uur ten noorden van Maputo. Veertien casita's en villa's kijken uit op het strand; de zee erachter is de reden om te komen: koraalriffen, groepen doejongs, mantaroggen, in het seizoen bultruggen en uitstekend snorkelen op kajakafstand van de kust."
 highlights:
   - Beschermd zeegebied van de Bazaruto-archipel
   - Doejongs spotten in het westen van de Indische Oceaan
-  - Snorkelen en duiken van wereldklasse op ongerepte riffen
+  - Uitstekend snorkelen en duiken op ongerepte riffen
   - Zeilen op een dhow bij zonsondergang
   - Afgelegen eiland zonder doorgaand verkeer
 amenities:

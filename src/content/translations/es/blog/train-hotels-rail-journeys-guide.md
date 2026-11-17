@@ -1,15 +1,15 @@
 ---
 source: train-hotels-rail-journeys-guide
-title: "Hoteles en trenes y viajes en tren de lujo: guía completa de los mejores trenes nocturnos del mundo"
-excerpt: "Del Orient Express al Rovos Rail de Sudáfrica, descubre los hoteles en trenes más extraordinarios del mundo, donde el viaje es el destino y cada kilómetro se convierte en un recuerdo."
+title: "Hoteles en trenes y viajes en tren de lujo: guía completa de trenes nocturnos de lujo"
+excerpt: "Del Orient Express al Rovos Rail de Sudáfrica, descubre hoteles en trenes extraordinarios, donde el viaje es el destino y cada kilómetro se convierte en un recuerdo."
 seo:
   metaTitle: "Hoteles en trenes y trenes de lujo: guía | StayAtNiche"
-  metaDescription: "Los mejores hoteles en trenes, del Orient Express al Rocky Mountaineer: trenes nocturnos de lujo, consejos de reserva y rutas ferroviarias icónicas."
+  metaDescription: "Hoteles en trenes, del Orient Express al Rocky Mountaineer: trenes nocturnos de lujo, precios, consejos de reserva y rutas ferroviarias icónicas."
 ---
 
 La locomotora fue la tecnología que definió el siglo XIX, y los grandes coches cama de la era Pullman transformaron el tren de largo recorrido en algo parecido a un hotel en movimiento: paneles de caoba, servicio de comedor con guantes blancos, sábanas impecables en literas estrechas pero cómodas y un paisaje desfilando tras la ventanilla que ninguna ventanilla de avión moderna puede igualar. El romanticismo del tren nunca se fue del todo; simplemente ha encontrado una nueva expresión en un pequeño número de operaciones ferroviarias de lujo verdaderamente extraordinarias que tratan el viaje no como un transporte, sino como el eje central de la experiencia.
 
-Los mejores hoteles en trenes de hoy se mueven en lo más alto del mercado del alojamiento de lujo. El Venice Simplon-Orient-Express cobra tarifas comparables a las de los hoteles de cinco estrellas europeos; el Rovos Rail de Sudáfrica es posiblemente el tren más lujoso del mundo; el Twilight Express Mizukaze de Japón ofrece un nivel gastronómico que llamaría la atención en los mejores restaurantes de Tokio. No son simplemente formas cómodas de viajar: son viajes vividos en primera persona en los que el movimiento, el paisaje, la comida, el servicio y la extraordinaria comunidad de pasajeros se combinan en una experiencia de viaje realmente singular.
+Los mejores hoteles en trenes de hoy se mueven en lo más alto del mercado del alojamiento de lujo. El Venice Simplon-Orient-Express cobra tarifas comparables a las de los hoteles de cinco estrellas europeos; el Rovos Rail de Sudáfrica figura entre los trenes más lujosos del mundo; el Twilight Express Mizukaze de Japón ofrece un nivel gastronómico que llamaría la atención en los mejores restaurantes de Tokio. No son simplemente formas cómodas de viajar: son viajes vividos en primera persona en los que el movimiento, el paisaje, la comida, el servicio y la extraordinaria comunidad de pasajeros se combinan en una experiencia de viaje realmente singular.
 
 Esta guía recorre las grandes experiencias de hoteles en trenes del mundo, organizadas por región y operador, con consejos prácticos sobre la reserva y qué esperar a bordo.
 
@@ -47,12 +47,12 @@ El nuevo tren de lujo italiano de Belmond, La Dolce Vita Orient Express, empezó
 
 
 
-Rovos Rail opera desde Pretoria y está considerado por muchos el tren más lujoso del mundo. La pasión personal de su propietario, Rohan Vos, por la historia del ferrocarril ha dado lugar a una flota de vagones de época restaurados, el más antiguo de 1911, en la que cada elemento se ha llevado al máximo nivel posible. La Royal Suite es un compartimento privado extraordinariamente espacioso (para lo que es un tren), con bañera de latón de tamaño completo, zona de estar y terraza privada en la parte trasera del vagón mirador.
+Rovos Rail opera desde Pretoria y está considerado uno de los trenes más lujosos del mundo. La pasión personal de su propietario, Rohan Vos, por la historia del ferrocarril ha dado lugar a una flota de vagones de época restaurados, el más antiguo de 1911, en la que cada elemento se ha llevado al máximo nivel posible. La Royal Suite es un compartimento privado extraordinariamente espacioso (para lo que es un tren), con bañera de latón de tamaño completo, zona de estar y terraza privada en la parte trasera del vagón mirador.
 
 El viaje estrella va de Pretoria a Ciudad del Cabo en dos noches, atravesando el desierto del Karoo y las regiones vinícolas del Cabo Occidental por una ruta de paisajes extraordinarios. Los viajes más largos unen Pretoria con las cataratas Victoria (tres noches) y Dar es-Salam (cinco noches), además de la legendaria ruta de Ciudad del Cabo a El Cairo, un viaje de 15 noches que recorre el continente de punta a punta.
 
 **Rango de precios:** Deluxe Suite desde 2.500 US$/persona (Pretoria–Ciudad del Cabo); Royal Suite desde 8.000 US$/persona
-**Ideal para:** ocasiones especiales, parejas, viajeros que quieren la mejor experiencia en tren del mundo y enamorados de África
+**Ideal para:** ocasiones especiales, parejas, viajeros que quieren una experiencia ferroviaria de primer nivel y enamorados de África
 
 **Consejo de reserva:** Rovos tiene salidas poco frecuentes, y algunas rutas solo operan una vez al mes. Reserva con seis a doce meses de antelación, sobre todo para el viaje completo de Ciudad del Cabo a El Cairo.
 
@@ -80,7 +80,7 @@ Entre los servicios ferroviarios públicos de Norteamérica, el Coast Starlight,
 ---
 
 
-La cultura ferroviaria de Japón es la más sofisticada del mundo, y sus trenes nocturnos de lujo representan la cima de la artesanía y el servicio japoneses aplicados al tren.
+La cultura ferroviaria de Japón es una de las más sofisticadas del mundo, y sus trenes nocturnos de lujo representan la cima de la artesanía y el servicio japoneses aplicados al tren.
 
 
 Inaugurado en 2017, el Twilight Express Mizukaze realiza rutas circulares de tres noches por las regiones de San'in y San'yō, en el oeste de Japón (Osaka, Kioto, Hiroshima, Izumo y regreso). Sus 16 habitaciones repartidas en diez categorías incluyen suites solo para comer, sin camas (los pasajeros comen a bordo y duermen en hoteles en las paradas de la ruta), y suites de estilo ryokan tradicional con baños japoneses y zonas de estar con suelo de tatami. La comida es una propuesta culinaria seria inspirada en la tradición kaiseki.

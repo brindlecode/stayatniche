@@ -1,7 +1,7 @@
 ---
 source: ashford-castle-ireland
 destination: Cong, County Mayo
-description: "1228 am Ufer des Lough Corrib im County Mayo erbaut, ist Ashford Castle das Original – kein viktorianisches Hotel mit Türmchen, sondern 800 Jahre irische Geschichte auf 350 Acres, mit 83 individuell gestalteten Zimmern, Irlands bester Falknerschule und einem Speisesaal, der das umliegende Land ernst nimmt."
+description: "1228 am Ufer des Lough Corrib im County Mayo erbaut, ist Ashford Castle das Original – kein viktorianisches Hotel mit Türmchen, sondern 800 Jahre irische Geschichte auf 350 Acres, mit 83 individuell gestalteten Zimmern, einer renommierten Falknerschule und einem Speisesaal, der das umliegende Land ernst nimmt."
 highlights:
   - 800 Jahre alte, echte irische Burg
   - Ireland School of Falconry auf dem Anwesen
@@ -30,6 +30,6 @@ Ashford Castle gibt es seit 1228, als die anglonormannische Familie de Burgo den
 
 Die 83 Zimmer sind individuell um das mittelalterliche Gerüst der Burg herum gestaltet. Viele blicken auf den Lough Corrib, mit 68 Quadratkilometern der zweitgrößte See Irlands, der sich bis zum Horizont erstreckt – ein Anblick, bei dem es fast zur moralischen Pflicht wird, mit einem Whiskey in der Fensternische zu sitzen.
 
-Die Ireland School of Falconry auf dem Anwesen gilt regelmäßig als eine der besten der Welt. Darüber hinaus reicht das Angebot vom Angeln auf Meerforelle und Lachs im Lough Corrib über Tontaubenschießen, Bogenschießen und Reiten bis zu Bootsausflügen auf dem See. Der George V Dining Room wird der Umgebung gerecht, mit einer Küche, die sich auf die herausragenden Erzeugnisse der Region konzentriert.
+Die Ireland School of Falconry auf dem Anwesen gilt als besonders renommierte Falknerschule. Darüber hinaus reicht das Angebot vom Angeln auf Meerforelle und Lachs im Lough Corrib über Tontaubenschießen, Bogenschießen und Reiten bis zu Bootsausflügen auf dem See. Der George V Dining Room wird der Umgebung gerecht, mit einer Küche, die sich auf die herausragenden Erzeugnisse der Region konzentriert.
 
 Das County Mayo gehört zu den dramatisch schönsten Gegenden Irlands. Connemara liegt vor der Tür, die Inseln der Clew Bay sind in Reichweite, und das Dorf Cong, wo John Ford 1951 den Großteil von „Der Sieger“ (The Quiet Man) auf dem Burggelände drehte, lohnt einen einstündigen Bummel. Ashford ist eines der wenigen Schlosshotels, die allein schon eine Reise nach Irland rechtfertigen würden.

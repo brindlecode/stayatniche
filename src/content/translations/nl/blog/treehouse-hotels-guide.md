@@ -57,7 +57,7 @@ De tijd dat je in een boomhut moest afzien, is bij de betere adressen grotendeel
 
 
 
-**Treehotel, Harads, Zweeds Lapland**: Het architectonisch ambitieuste boomhuthotel op aarde. Zeven kamers, ontworpen door verschillende architecten, elk concept nog opvallender dan het vorige: de Mirrored Cube, de UFO, de Bird's Nest en de 7th Room (een suite op het dak, bereikbaar via een hangbrug). In de winter lig je onder een paar van de donkerste, helderste luchten van Scandinavië. Prijzen vanaf zo'n $ 350–700 per nacht, afhankelijk van de kamer. Boek voor winterdata 6 tot 12 maanden vooruit.
+**Treehotel, Harads, Zweeds Lapland**: Een van de architectonisch ambitieuste boomhuthotels. Zeven kamers, ontworpen door verschillende architecten, elk concept nog opvallender dan het vorige: de Mirrored Cube, de UFO, de Bird's Nest en de 7th Room (een suite op het dak, bereikbaar via een hangbrug). In de winter lig je onder een paar van de donkerste, helderste luchten van Scandinavië. Prijzen vanaf zo'n $ 350–700 per nacht, afhankelijk van de kamer. Boek voor winterdata 6 tot 12 maanden vooruit.
 
 **La Cabane Perchée, Frankrijk**: Een netwerk van luxe boomhutten in verschillende Franse bosgebieden, sommige in de kastanjebossen van de Loirevallei, andere tussen de eiken van Normandië. Het afwerkingsniveau, met hemelbedden, houtkachels en eigen terrassen, is echt voortreffelijk. Prijzen vanaf € 300–600 per nacht.
 
@@ -66,7 +66,7 @@ De tijd dat je in een boomhut moest afzien, is bij de betere adressen grotendeel
 
 **Free Spirit Spheres, Vancouver Island, Canada**: Drie bolvormige capsules, Eve, Eryn en Melody, hangen aan kabels in douglassparren op Vancouver Island. Luxe is het niet (gedeelde badkamers beneden, eenvoudige kookvoorzieningen), maar het zijn echt een van de origineelste accommodatieconcepten ter wereld. Prijzen rond CAD $ 200–280 per nacht. Boek maanden vooruit.
 
-**Costa Rica**: Costa Rica biedt misschien wel de beste combinatie ter wereld van boomhutaccommodatie en biodiversiteit. Lapa Rios op het schiereiland Osa heeft verhoogde bungalows in het bladerdak van het regenwoud; kleinere boomhutten van eigenaar-uitbaters in de regio's Monteverde en Arenal bieden echte onderdompeling in de boomkruinen met buitengewone kansen om dieren te zien. Prijzen van $ 150 tot $ 600+ per nacht, afhankelijk van het adres.
+**Costa Rica**: Costa Rica biedt een uitstekende combinatie van boomhutaccommodatie en biodiversiteit. Lapa Rios op het schiereiland Osa heeft verhoogde bungalows in het bladerdak van het regenwoud; kleinere boomhutten van eigenaar-uitbaters in de regio's Monteverde en Arenal bieden echte onderdompeling in de boomkruinen met buitengewone kansen om dieren te zien. Prijzen van $ 150 tot $ 600+ per nacht, afhankelijk van het adres.
 
 **Verenigde Staten**: Boomhutten zijn booming in de VS. Treehouse Point bij Seattle (zes boomhutten gebouwd door Pete Nelson, bekend van het tv-programma Treehouse Masters) is de maatstaf. In Tennessee zijn tientallen luxe boomhutten te huur in de Great Smoky Mountains. De westelijke Cascades en de Pacific Northwest bieden uitstekende bosonderdompeling.
 

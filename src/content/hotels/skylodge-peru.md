@@ -28,12 +28,12 @@ amenities:
   - 360-degree mountain and valley views
 bestFor:
   - Adventure travellers with a head for heights
-  - Couples seeking the world's most dramatic romantic experience
+  - Couples seeking a dramatic romantic experience
   - Photographers chasing Andean dawn and dusk light
   - Unmissable experience seekers
 prosAndCons:
   pros:
-    - Absolutely unrivalled views, arguably the most dramatic hotel vantage point on Earth
+    - Exceptional views from one of the most dramatic hotel vantage points anywhere
     - The physical effort of reaching the pods makes the experience feel deeply earned
     - Genuinely intimate, only three pods mean no crowds
     - The gourmet dinner at altitude is an extraordinary experience
@@ -44,7 +44,6 @@ prosAndCons:
     - Weather can be unpredictable; visits may be cancelled in poor conditions
 bookingUrl: https://www.booking.com/hotel/pe/skylodge-adventure-suites.html
 rating: 9.5
-reviewCount: 892
 seasonalInfo:
   bestTime: May to October (dry season) for the clearest skies and safest climbing conditions
   peakSeason: June to August
@@ -65,7 +64,7 @@ featured: true
 status: published
 seo:
   metaTitle: "Skylodge Peru Review, Sleep 400m Above the Sacred Valley in a Hanging Pod"
-  metaDescription: "The world's most daring hotel: transparent pods suspended 400 metres above the Sacred Valley. Reach them by via ferrata or zip line. Skylodge Adventure Suites from $450/night."
+  metaDescription: "A daring hotel of transparent pods suspended 400 metres above the Sacred Valley. Reach them by via ferrata or zip line. Skylodge Adventure Suites from $450/night."
 affiliateLinks:
   - partner: "expedia"
     url: "https://www.expedia.com/Hotel-Search?destination=Sacred%20Valley%2C%20Cusco%20Region%2C%20Peru&adults=2"
@@ -73,16 +72,29 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Sacred+Valley,+Cusco+Region"
     label: "Find Tours on Klook"
+location:
+  country: "Peru"
+  countryCode: "PE"
+  region: "Cusco"
+  city: "Urubamba"
+  locality: "Sacred Valley"
+  coordinates:
+    lat: -13.1676675
+    lng: -72.2836888
+niche_scope: entire_property
+niche_feature: "Three transparent capsule suites hanging on a mountain wall about 400 m above the ground, reached by via ferrata. Word 'cliff' is not used by the source; setting is a vertical mountain face."
+niche_source_url: "https://naturavive.com/web/skylodge-adventure-suites/"
+niche_verified_at: 2026-11-17
 ---
 
 Roughly two-thirds of the way up the via ferrata carved into the red granite face of Pachar mountain, the Sacred Valley of the Incas unfolds in its full width. The Urubamba River is a silver thread far below; the terraced fields of Ollantaytambo glow green against ochre earth; the snowcapped Andes line every horizon. Most climbers pause here — not from exhaustion, but because the view stops them cold.
 
 Then they look up, and see their bed for the night bolted to the cliff face fifty metres above.
 
-Skylodge Adventure Suites, operated by Natura Vive in Peru's Sacred Valley, has a legitimate claim to being the most audacious place to sleep on earth. The three hanging pods — aerospace-grade aluminium frames with transparent polycarbonate panels — are anchored directly into the mountainside at approximately 400 metres above the valley floor. Each sleeps up to four guests, though the experience works best for two. The specific intimacy of a transparent room suspended in thin Andean air resists company beyond a pair.
+Skylodge Adventure Suites, operated by Natura Vive in Peru's Sacred Valley, is one of the most audacious places to sleep on earth. The three hanging pods — aerospace-grade aluminium frames with transparent polycarbonate panels — are anchored directly into the mountainside at approximately 400 metres above the valley floor. Each sleeps up to four guests, though the experience works best for two. The specific intimacy of a transparent room suspended in thin Andean air resists company beyond a pair.
 
 The ascent makes clear this is not a hotel for everyone, and does so without apology. Guests clip into harnesses at the valley floor and start the via ferrata — a fixed-rope climbing route fitted with iron rungs and steel cables, manageable for anyone with reasonable fitness and no prior climbing experience. The route takes one to two hours depending on pace and how long you stop to stare. Alternatively, guests can opt for a zip-line descent from the mountain summit at the end of their stay: an absurd, joy-filled way to leave a hotel.
 
-Inside the pod, the aesthetic strips back to essentials. Proper mattresses dressed in Andean wool blankets. A small dining table. A fully functional bathroom tucked into the cliff behind the main pod. As the sun tracks west across the valley — theatrical afternoon gold, violet dusk transition, then the star density of a high-altitude Andean night — the pod becomes a private observatory with no comparable rival.
+Inside the pod, the aesthetic strips back to essentials. Proper mattresses dressed in Andean wool blankets. A small dining table. A fully functional bathroom tucked into the cliff behind the main pod. As the sun tracks west across the valley — theatrical afternoon gold, violet dusk transition, then the star density of a high-altitude Andean night — the pod becomes a private observatory.
 
 Dinner arrives the same way the guests did: guides carry the three courses of Novo-Andean cuisine up the cliff face, accompanied by Peruvian wine, and the whole thing is consumed against a sunset that no hotel review can adequately describe. The morning that follows — cold, clear, utterly silent — brings a sunrise over the snowcapped peaks that most guests count among the finest of their lives.

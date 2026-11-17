@@ -26,7 +26,7 @@ travelTips:
   - "Il coco de mer è una specie protetta: acquista solo noci certificate e documentate da venditori autorizzati, per evitare il sequestro alla dogana."
 seo:
   metaTitle: "Seychelles: guida tra isole private e ville | StayAtNiche"
-  metaDescription: "Seychelles: la Vallée de Mai a Praslin, le spiagge di granito di La Digue, ville sull’acqua, resort su isole private e la vita marina più ricca dell’Oceano Indiano."
+  metaDescription: "Seychelles: la Vallée de Mai a Praslin, le spiagge di granito di La Digue, ville sull’acqua, resort su isole private e la ricca vita marina dell’Oceano Indiano."
 ---
 
 Le Seychelles sono in cima alla lista dei sogni di quasi ogni viaggiatore: 115 isole sparse nell’Oceano Indiano occidentale, lontane dalle rotte marittime, celebri per la sabbia bianca, l’acqua turchese e una discrezione assoluta. E la realtà mantiene ogni promessa. Chi trae il massimo da un viaggio alle Seychelles è chi si spinge oltre le famose isole interne, fino agli atolli esterni, dove gli ambienti marini sono tra i più intatti e limpidi rimasti sulla Terra.

@@ -23,7 +23,6 @@ bestFor:
   - "Families"
 bookingUrl: "https://www.robins-nest.de/"
 rating: 8.8
-reviewCount: 0
 coordinates:
   lat: 51.3947516
   lng: 9.8344589
@@ -35,6 +34,19 @@ checkInOut:
   checkOut: "11:00"
 publishedDate: 2026-11-15
 status: published
+location:
+  country: "Germany"
+  countryCode: "DE"
+  region: "Hesse"
+  city: "Witzenhausen"
+  locality: "Berlepsch"
+  coordinates:
+    lat: 51.3947516
+    lng: 9.8344589
+niche_scope: specific_rooms
+niche_feature: "Treehouses (Birkenhaus ~5 m, Stammhaus ~7 m, cork house, ball hung on cables between trees) reached by stairs and bridges, plus a stilt house. Glamping lodge, block hut, domes are not treehouses; tree tents hang ~130 cm up."
+niche_source_url: "https://www.robins-nest.de/de/stammhaus"
+niche_verified_at: 2026-11-17
 ---
 
 Robins Nest is a treehouse hotel near Witzenhausen in northern Hesse, close to Schloss Berlepsch. Its founder, Peter Becker, started with a tipi, and the first treehouses opened in the summer of 2015. He builds with high-quality wood and recycled materials, and the site's own plan is for a small village of tree nests joined by bridges and tunnels.

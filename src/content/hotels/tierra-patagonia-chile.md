@@ -28,8 +28,7 @@ bestFor:
   - "Adventure travellers"
   - "Photographers"
 bookingUrl: https://www.booking.com/hotel/cl/tierra-patagonia.html
-rating: 9.5
-reviewCount: 1456
+rating: 8.5
 coordinates:
   lat: -51.034981
   lng: -72.583405
@@ -41,6 +40,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Torres+del+Paine,+Magallanes+Region"
     label: "Find Tours on Klook"
+location:
+  country: "Chile"
+  countryCode: "CL"
+  region: "Magallanes"
+  city: "Torres del Paine"
+  locality: "Lake Sarmiento"
+  coordinates:
+    lat: -51.034981
+    lng: -72.583405
+niche_scope: unverified
+niche_feature: "Lakeshore lodge of forty rooms overlooking Lake Sarmiento; one mention of lenga wood curving 'along the bluff' but no clifftop or cliff-face setting is stated."
+niche_source_url: "https://tierrapatagonia.com/"
+niche_verified_at: 2026-11-17
 ---
 
 Few buildings in the world command a more dramatic natural setting than Tierra Patagonia. The lodge sits on the shore of Lake Sarmiento in the pre-Andean steppe, at the precise point where the pampas, flat, golden, wind-flattened to the horizon, gives way to the towers and glaciers of Torres del Paine National Park. The granite towers themselves are visible from the lodge, rising 2,800 metres above the plain in a geological formation so vertical, so improbable, that they retain an air of unreality even after days of direct acquaintance.

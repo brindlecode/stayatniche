@@ -1,7 +1,7 @@
 ---
 source: morocco-atlas
 name: "Marokko und der Atlas"
-description: "Marokko vereint uralte Medinas, die Sanddünen der Sahara und den schneebedeckten Hohen Atlas zu einem Land außergewöhnlicher Gegensätze. Von den labyrinthischen Souks von Fès bis zur Stille der Dünen des Erg Chebbi im Morgengrauen bietet es eines der sinnlichsten Reiseerlebnisse der Welt – und eine Unterkunftskultur von unerreichter Handwerkskunst und Schönheit."
+description: "Marokko vereint uralte Medinas, die Sanddünen der Sahara und den schneebedeckten Hohen Atlas zu einem Land außergewöhnlicher Gegensätze. Von den labyrinthischen Souks von Fès bis zur Stille der Dünen des Erg Chebbi im Morgengrauen bietet es eines der sinnlichsten Reiseerlebnisse der Welt – und eine Unterkunftskultur von bemerkenswerter Handwerkskunst und Schönheit."
 essentials:
   currency: "MAD (Marokkanischer Dirham); außerhalb der großen Städte ist Bargeld unverzichtbar"
   language: "Arabisch und Tamazight (Berbersprache; beide Amtssprachen); Französisch ist weit verbreitet, im Alltag spricht man Darija (marokkanisches Arabisch)"
@@ -23,7 +23,7 @@ travelTips:
   - "In den Souks wird Handeln erwartet: Beginnen Sie bei etwa 40 % des ersten Preises und arbeiten Sie sich von dort vor; wer weggeht, bekommt oft ein besseres Angebot."
   - "Kleiden Sie sich in Medinas und auf dem Land zurückhaltend – bedeckte Schultern und Knie sind das Mindeste. Frauen können in manchen Vierteln trotzdem unerwünschte Aufmerksamkeit erfahren."
   - "Vorsicht vor Provisionsschleppern, die Sie zum Teppichladen „ihres Cousins“ führen wollen – lehnen Sie höflich ab und bewegen Sie sich auf eigene Faust oder mit einem lizenzierten Führer."
-  - "Die besten Riads müssen weit im Voraus gebucht werden – Marokkos schönste Boutique-Unterkünfte sind für Frühling und Herbst oft Monate vorher ausgebucht."
+  - "Die besten Riads müssen weit im Voraus gebucht werden – Marokkos gefragteste Boutique-Unterkünfte sind für Frühling und Herbst oft Monate vorher ausgebucht."
 seo:
   metaTitle: "Marokko Reiseführer: Sahara, Atlas & Riads | StayAtNiche"
   metaDescription: "Marokko-Ratgeber: die Medina von Fès, Dünen der Sahara, Trekking im Atlas und die außergewöhnlichsten Riads und Wüstencamps des Landes – mit Reisetipps."
@@ -35,7 +35,7 @@ Marokkos vier Königsstädte waren jeweils zu unterschiedlichen Zeiten Hauptstad
 
 Marrakesch tickt schneller. Der Platz Djemaa el-Fna in der Abenddämmerung – Schlangenbeschwörer, Geschichtenerzähler, mobile Garküchen, das ganze Theater – ist eines der großen urbanen Schauspiele der Welt. Die Riads hinter den fensterlosen Außenmauern der Medina bieten das Gegenteil: private Innenhöfe mit Brunnen in der Mitte, Orangenbäumen und der Stille dicker Lehmmauern. Dieser Kontrast zwischen der Gasse draußen und dem Inneren ist das eigentliche Marrakesch-Erlebnis.
 
-Das Riad – das Innenhofhaus als Boutiquehotel – ist eine der großartigsten Unterkunftsformen der Welt. Die schönsten Riads in Fès und Marrakesch sind ebenso Werke des Handwerks wie der Gastfreundschaft: handgeschnitzter Stuck, Zellige-Fliesenböden, Muqarnas-Decken, Maschrabiyya-Gitter aus Zedernholz. Das Prinzip des nach innen gewandten Hauses – schlichte Fassade, prachtvolles Inneres – schafft eine Privatsphäre und Ruhe, die heute wirklich selten geworden ist. Buchen Sie die besten für Frühling und Herbst Monate im Voraus. Sie sind früh ausgebucht und gewähren keine Rabatte.
+Das Riad – das Innenhofhaus als Boutiquehotel – ist eine der großartigsten Unterkunftsformen der Welt. Die am sorgfältigsten gestalteten Riads in Fès und Marrakesch sind ebenso Werke des Handwerks wie der Gastfreundschaft: handgeschnitzter Stuck, Zellige-Fliesenböden, Muqarnas-Decken, Maschrabiyya-Gitter aus Zedernholz. Das Prinzip des nach innen gewandten Hauses – schlichte Fassade, prachtvolles Inneres – schafft eine Privatsphäre und Ruhe, die heute wirklich selten geworden ist. Buchen Sie die besten für Frühling und Herbst Monate im Voraus. Sie sind früh ausgebucht und gewähren keine Rabatte.
 
 Die Dünen des Erg Chebbi bei Merzouga steigen bis zu 150 Meter hoch auf und erstrecken sich über 22 Kilometer. Das klassische Programm – Kamelritt zum Wüstencamp in der Abenddämmerung, richtige Betten in Zelten im Berberstil, Sterne vom Dünenkamm, Morgenlicht über dem Sand – ist bewusst inszeniert. Und doch ist es wirklich schön. Die Inszenierung schmälert es nicht.
 

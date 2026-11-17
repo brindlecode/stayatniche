@@ -2,12 +2,12 @@
 source: treehouse-hotels
 title: Baumhaushotels
 tagline: "Schlafen im Blätterdach, hoch über allem"
-description: "Hoch über dem Waldboden schwebend, verwandeln Baumhaushotels einen Kindheitstraum in anspruchsvollen Luxus für Erwachsene. Von minimalistischen Refugien aus Glas und Holz in Skandinavien bis zu tropischen Dschungelplattformen in Costa Rica und auf Bali: Diese Rückzugsorte in den Baumkronen verbinden unvergleichliche Naturnähe mit echtem Komfort."
+description: "Hoch über dem Waldboden schwebend, verwandeln Baumhaushotels einen Kindheitstraum in anspruchsvollen Luxus für Erwachsene. Von minimalistischen Refugien aus Glas und Holz in Skandinavien bis zu tropischen Dschungelplattformen in Costa Rica und auf Bali: Diese Rückzugsorte in den Baumkronen verbinden enge Naturnähe mit echtem Komfort."
 stats:
   topDestination: "Schweden"
 seo:
   metaTitle: "Baumhaushotels: Luxus in den Baumkronen | StayAtNiche"
-  metaDescription: "Die schönsten Baumhaushotels der Welt: Übernachten Sie im Baumhaus in Schweden, Costa Rica, auf Bali und darüber hinaus – Luxus hoch in den Baumwipfeln."
+  metaDescription: "Besondere Baumhaushotels: Übernachten Sie im Baumhaus in Schweden, Costa Rica, auf Bali und darüber hinaus – Luxus hoch in den Baumwipfeln."
 ---
 
 Das Treehotel im schwedischen Harads hat einen verspiegelten Würfel, der den umgebenden borealen Wald so vollständig reflektiert, dass er vom Boden aus verschwindet. Das ist der Maßstab – nicht nur für Baumhaushotels, sondern für alles, was außergewöhnliche Unterkünfte leisten können, wenn Architekten ihre Aufgabe ernst nehmen.

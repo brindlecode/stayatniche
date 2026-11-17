@@ -31,7 +31,6 @@ bestFor:
   - Off-the-beaten-track Africa
 bookingUrl: https://www.booking.com/hotel/ke/campi-ya-kanzi.html
 rating: 9.2
-reviewCount: 223
 coordinates:
   lat: -2.6333
   lng: 37.4333
@@ -46,6 +45,18 @@ affiliateLinks:
 seo:
   metaTitle: "Campi ya Kanzi Review: Kilimanjaro View Safari Camp | StayAtNiche"
   metaDescription: "Campi ya Kanzi: Maasai community safari camp with Kilimanjaro views in Kenya's Chyulu Hills. Walking safaris, night drives on 283,000-acre private conservancy."
+location:
+  country: "Kenya"
+  countryCode: "KE"
+  region: "Kajiado"
+  locality: "Chyulu Hills"
+  coordinates:
+    lat: -2.6333
+    lng: 37.4333
+niche_scope: entire_property
+niche_feature: "Tented-cottage safari camp (two king doubles, four twins, plus two tented suites) on Maasai-owned land in the Chyulu Hills, with walking safaris; owned by Maasai Wilderness Conservation Trust."
+niche_source_url: "https://maasai.com/resorts/campi-ya-kanzi/"
+niche_verified_at: 2026-11-17
 ---
 
 The Chyulu Hills are a young volcanic range — geologically speaking, still being formed — that rise between Amboseli and Tsavo in southern Kenya. The hills themselves are forested and dramatic; the plains below them are classic East African savanna dotted with acacia and whistling thorn, inhabited by elephant, lion, buffalo, wild dog, and lesser kudu in populations that have recovered dramatically since the Maasai community established its conservancy here in 1996.

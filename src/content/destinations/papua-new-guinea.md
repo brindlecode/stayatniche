@@ -2,7 +2,7 @@
 name: "Papua New Guinea"
 type: country
 continent: "Oceania"
-description: "Papua New Guinea is one of the last truly frontier destinations on earth, a vast island of rainforest-covered mountains, remote tribal cultures, and some of the world's most pristine and biodiverse marine environments. For travelers seeking genuine remoteness, extraordinary cultural encounters, and exceptional diving in an utterly untouched setting, PNG remains in a category entirely its own."
+description: "Papua New Guinea is one of the last truly frontier destinations on earth, a vast island of rainforest-covered mountains, remote tribal cultures, and some of the world's most pristine and biodiverse marine environments. For travelers seeking genuine remoteness, extraordinary cultural encounters, and exceptional diving in an utterly untouched setting, PNG remains a destination unlike most others."
 coverImage: /images/destinations/papua-new-guinea.jpg
 essentials:
   currency: "PGK (Papua New Guinean Kina); USD accepted at major hotels and dive resorts"
@@ -31,7 +31,7 @@ coordinates:
   lng: 143.9555
 featured: false
 seo:
-  metaTitle: "Papua New Guinea Travel Guide, Tribal Culture & World-Class Diving | StayAtNiche"
+  metaTitle: "Papua New Guinea Travel Guide, Tribal Culture & Remote Diving | StayAtNiche"
   metaDescription: "Papua New Guinea travel guide, remote tribal cultures, pristine Milne Bay diving, Sepik River, highlands sing-sing festivals, and frontier lodge stays."
 ---
 

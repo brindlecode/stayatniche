@@ -7,7 +7,7 @@ stats:
   topDestination: "Santorini, Grecia"
 seo:
   metaTitle: "Hoteles en acantilados con vistas de vértigo | StayAtNiche"
-  metaDescription: "Alójate al borde del mundo en hoteles en acantilados: Santorini, el Skylodge de Perú o Alila Jabal Akhdar en Omán. Lujo vertiginoso con vistas inigualables."
+  metaDescription: "Alójate al borde del mundo en hoteles en acantilados: Santorini, el Skylodge de Perú o Alila Jabal Akhdar en Omán. Lujo vertiginoso con vistas espectaculares."
 ---
 
 Un hotel en una colina tiene altura. Un hotel en un acantilado tiene algo muy distinto: una exposición vertiginosa, una caída en vertical que hace que el aire se sienta diferente, el horizonte más cercano y las vistas, merecidas. Lo que define a un verdadero hotel en acantilado es un hecho geológico: el acantilado condiciona la arquitectura necesaria para construir allí, la ingeniería necesaria para mantenerlo en pie y esa sensación tan particular de vivir en la frontera entre la tierra firme y el vacío.
@@ -16,7 +16,7 @@ No todo alojamiento «en lo alto de un acantilado» cumple los requisitos. Un ho
 
 Las implicaciones arquitectónicas son considerables. Construir en una auténtica pared de roca exige voladizos que proyectan las habitaciones más allá de la piedra, cimientos anclados en la roca viva en lugar de en terreno preparado y distribuciones escalonadas en descenso, en las que cada nivel domina un ángulo de visión distinto. Estas limitaciones se convierten en el propio diseño. Los hoteles en acantilados más fascinantes tienen la forma que tienen solo porque el lugar exigió respuestas arquitectónicas concretas que ningún otro planteamiento habría generado.
 
-**Skylodge Adventure Suites, en el Valle Sagrado de Perú,** es la interpretación más extrema de la categoría. Tres cápsulas transparentes están atornilladas a una pared de granito vertical en los Andes, y solo se puede llegar a ellas escalando una vía ferrata —una ruta de escalada equipada con cables fijos— o descendiendo en tirolesa desde arriba. Los huéspedes duermen a gran altura, suspendidos sobre el fondo del valle, con vistas panorámicas de 300 grados a través de paredes de acrílico transparente. No es apto para pusilánimes, pero no se parece a ninguna otra experiencia hotelera del mundo.
+**Skylodge Adventure Suites, en el Valle Sagrado de Perú,** es la interpretación más extrema de la categoría. Tres cápsulas transparentes están atornilladas a una pared de granito vertical en los Andes, y solo se puede llegar a ellas escalando una vía ferrata —una ruta de escalada equipada con cables fijos— o descendiendo en tirolesa desde arriba. Los huéspedes duermen a gran altura, suspendidos sobre el fondo del valle, con vistas panorámicas de 300 grados a través de paredes de acrílico transparente. No es apto para pusilánimes, pero es una experiencia hotelera muy singular.
 
 **Alila Jabal Akhdar, en Omán,** se asienta en una meseta a 2000 metros sobre el desfiladero de Al Hajar, uno de los paisajes de montaña más espectaculares de la península arábiga. La piscina infinita del hotel parece flotar directamente sobre el desfiladero, que se desploma bajo el borde del agua. Las vistas abarcan paredes de caliza rosa y gris de 1500 metros que descienden hasta el valle, muy abajo. El viento, la altitud y la escala geológica se combinan para crear una sensación de grandeza que pocos alojamientos del mundo igualan.
 

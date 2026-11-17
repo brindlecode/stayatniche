@@ -1,9 +1,9 @@
 ---
 source: rovos-rail-south-africa
 destination: "Von Pretoria nach Kapstadt (und weiter)"
-description: "Rovos Rail gilt weithin als luxuriösester Zug der Welt: Privat betriebene historische Wagen, jeder originalgetreu restauriert, rollen über die spektakulärsten Strecken des südlichen Afrikas. Die Fahrt von Pretoria nach Kapstadt durchquert die Karoo, das Epos vom Kap nach Kairo dauert zwei Wochen. Service und Komfort übertreffen die meisten Fünfsternehotels."
+description: "Rovos Rail ist ein privater Luxuszug: Privat betriebene historische Wagen, jeder originalgetreu restauriert, rollen über die spektakulärsten Strecken des südlichen Afrikas. Die Fahrt von Pretoria nach Kapstadt durchquert die Karoo, das Epos vom Kap nach Kairo dauert zwei Wochen. Service und Komfort stehen vielen Fünfsternehotels in nichts nach."
 highlights:
-  - "Weithin als luxuriösester Zug der Welt gefeiert"
+  - "Weithin als einer der großen Luxuszüge der Welt gefeiert"
   - "Vom Eigentümer selbst geführt – kein Konzernprodukt, sondern ein persönliches Herzensprojekt"
   - "Von Pretoria nach Kapstadt durch die Karoo, eine der großen Landschaften Afrikas"
   - "Aussichtswagen am Zugende für den Panoramablick unter freiem Himmel"
@@ -20,11 +20,11 @@ amenities:
 bestFor:
   - "Liebhaber luxuriöser Bahnreisen"
   - "Fans südafrikanischer Geschichte und Landschaften"
-  - "Paare auf der Suche nach der ultimativen romantischen Zugreise"
+  - "Paare auf der Suche nach einer romantischen Zugreise"
   - "Reisende, die Afrika in beschaulichem Tempo erleben möchten"
 prosAndCons:
   pros:
-    - "Der persönliche Service ist außergewöhnlich und wird oft als der beste auf Schienen bezeichnet"
+    - "Der persönliche Service ist außergewöhnlich und wird oft besonders gelobt"
     - "Der Aussichtswagen ist eines der großen Vergnügen des Reisens – Afrika von einer offenen Plattform aus"
     - "Die persönliche Eigentümerschaft sorgt für eine Wärme und einen Charakter, die kein Konzernzug bieten kann"
     - "Die Karoo und die Hex River Mountains gehören zu den schönsten Landschaften Südafrikas"
@@ -48,14 +48,14 @@ nearbyAttractions:
     distance: 50 km von Kapstadt
 seo:
   metaTitle: "Rovos Rail: Luxuszug Pretoria–Kapstadt | StayAtNiche"
-  metaDescription: "Rovos Rail: der luxuriöseste Zug der Welt, mit historischen Wagen von Pretoria durch die Karoo nach Kapstadt – offener Aussichtswagen, feine Küche, ab 2.800 $."
+  metaDescription: "Rovos Rail: ein Luxuszug mit historischen Wagen von Pretoria durch die Karoo nach Kapstadt – offener Aussichtswagen, feine Küche, ab 2.800 $."
 ---
 
-Rovos Rail ist kein Unternehmen im Sinne der meisten Luxusreiseanbieter. Es ist eine Leidenschaft, die auf Schienen rollt. Rohan Vos begann in den 1980er-Jahren als persönliches Projekt, historische Eisenbahnwagen zu erwerben und zu restaurieren – um die prächtigen Waggons aus dem goldenen Zeitalter der Eisenbahn im südlichen Afrika zu bewahren, die verschrottet wurden, als die Bahnnetze des Kontinents schrumpften. Was als Sammlerleidenschaft begann, ist in vierzig Jahren zum besten privat betriebenen Luxuszug der Welt geworden.
+Rovos Rail ist kein Unternehmen im Sinne der meisten Luxusreiseanbieter. Es ist eine Leidenschaft, die auf Schienen rollt. Rohan Vos begann in den 1980er-Jahren als persönliches Projekt, historische Eisenbahnwagen zu erwerben und zu restaurieren – um die prächtigen Waggons aus dem goldenen Zeitalter der Eisenbahn im südlichen Afrika zu bewahren, die verschrottet wurden, als die Bahnnetze des Kontinents schrumpften. Was als Sammlerleidenschaft begann, ist in vierzig Jahren zu einem der bekanntesten privat betriebenen Luxuszüge der Welt geworden.
 
 Die Wagen sind authentisch: viktorianische Waggons, die aus ihrem ursprünglichen Zweck umgebaut wurden, oder Schlafwagen aus dem frühen 20. Jahrhundert, gebaut für den Union Limited und andere prestigeträchtige Verbindungen aus der Eisenbahnzeit des Britischen Empire – jeder mit außergewöhnlicher Treue zu seinem historischen Charakter restauriert. Teakvertäfelung, Messingbeschläge, Originalfenster, die für Klimaanlage und Sicherheit angepasst wurden, und eigene Bäder dort, wo einst die Waschbecken der Wagons-Lits standen. Die Royal Suites – 16 Quadratmeter privates Abteil mit großem Bett, Sofa, Bad und Fenstern auf drei Seiten – bieten ein Maß an Raum und Privatsphäre, das kein vergleichbarer Zug erreicht.
 
-Der Aussichtswagen am Ende des Zuges ist das Element, das die Fahrgäste am zuverlässigsten innehalten lässt: eine offene Plattform am Zugende, auf der man steht und zusieht, wie die afrikanische Landschaft hinter einem zurückweicht – ohne Glas dazwischen, nah genug am Gleis, um die Hitze zu spüren und den Klang der Karoo zu hören, nichts zwischen sich und dem Kontinent. Am frühen Morgen, wenn die Luft kalt ist und die Tafelberge der Karoo das erste flache Licht einfangen, ist das ein Aussichtspunkt, wie ihn kein anderer Zug der Welt bietet.
+Der Aussichtswagen am Ende des Zuges ist das Element, das die Fahrgäste am zuverlässigsten innehalten lässt: eine offene Plattform am Zugende, auf der man steht und zusieht, wie die afrikanische Landschaft hinter einem zurückweicht – ohne Glas dazwischen, nah genug am Gleis, um die Hitze zu spüren und den Klang der Karoo zu hören, nichts zwischen sich und dem Kontinent. Am frühen Morgen, wenn die Luft kalt ist und die Tafelberge der Karoo das erste flache Licht einfangen, ist das ein Aussichtspunkt, wie ihn nur eine offene Aussichtsplattform bieten kann.
 
 Im Speisewagen wird formell eingedeckt, ganz im Sinne der viktorianischen Eisenbahntradition, aus der er stammt. Drei Gänge zum Abendessen, begleitet von einer Auswahl aus Südafrikas besten Weinregionen, an Tischen für Gruppen, die sich im Laufe der zweitägigen Reise immer wieder neu zusammensetzen. Die Gespräche, die sich im Rovos Rail entspinnen, haben eine Qualität, die dieser Art des Reisens eigen ist: Die unvermeidliche Nähe einer kleinen, fahrenden Welt ohne Telefon und Internet schafft eine gesellige Atmosphäre, die die meisten Reisenden zu den unerwarteten Freuden der Fahrt zählen.
 

@@ -1,7 +1,7 @@
 ---
 source: ethiopia
 name: "Etiopia"
-description: "L’Etiopia è la meta africana più ricca di stratificazioni storiche: un antico regno degli altipiani con un alfabeto, un calendario e una tradizione cristiana ortodossa propri, più antichi di secoli di quelli europei. Dalle chiese rupestri di Lalibela alle culture tribali della valle dell’Omo fino ai paesaggi surreali della depressione della Dancalia, l’Etiopia offre esperienze che davvero non esistono in nessun altro luogo della Terra."
+description: "L’Etiopia è una delle mete africane più ricche di stratificazioni storiche: un antico regno degli altipiani con un alfabeto, un calendario e una tradizione cristiana ortodossa propri, più antichi di secoli di quelli europei. Dalle chiese rupestri di Lalibela alle culture tribali della valle dell’Omo fino ai paesaggi surreali della depressione della Dancalia, l’Etiopia offre esperienze che si trovano in pochissimi altri luoghi della Terra."
 essentials:
   currency: "ETB (birr etiope); i dollari USA sono utili nei grandi hotel e per alcuni servizi"
   language: "Amarico (ufficiale); oromo, tigrino e oltre 80 altre lingue"
@@ -26,7 +26,7 @@ travelTips:
   - "La cucina etiope (injera con wat e tibs) è straordinaria: mangia nei ristoranti locali piuttosto che nelle sale da pranzo degli hotel, per un’esperienza autentica."
 seo:
   metaTitle: "Etiopia: guida a Lalibela, Dancalia e culture | StayAtNiche"
-  metaDescription: "Guida all’Etiopia: le chiese rupestri di Lalibela, i laghi di lava della Dancalia, i monti Simien, le tribù della valle dell’Omo e l’antica civiltà africana."
+  metaDescription: "Guida all’Etiopia: le chiese rupestri di Lalibela, i laghi di lava della Dancalia, i monti Simien, le tribù della valle dell’Omo e una delle più antiche civiltà africane."
 ---
 
 L’Etiopia vive a distanza dal racconto abituale del viaggio in Africa. Qui non ci sono circuiti di safari dei Big Five, né tradizioni di lodge d’epoca coloniale, né infrastrutture turistiche collaudate. C’è invece qualcosa di più raro: una civiltà con 3.000 anni di storia documentata ininterrotta, una scrittura, un calendario e una tradizione religiosa propri, paesaggi che vanno dal punto più alto dell’Africa subsahariana al punto più basso del continente africano, e incontri culturali di una profondità e di un’autenticità sempre più difficili da trovare al mondo.
@@ -37,7 +37,7 @@ Nel XII secolo il re Lalibela commissionò qualcosa di straordinario: una serie 
 Il cristianesimo ortodosso etiope, praticato qui dal IV secolo, non è un reperto da museo. Le chiese di Lalibela sono mete di pellegrinaggio attive, soprattutto durante le grandi feste del Timkat (l’Epifania) e del Meskel (il ritrovamento della Vera Croce), quando migliaia di pellegrini vestiti di bianco riempiono il complesso in processioni notturne tra candele e canti.
 
 
-L’Etiopia racchiude due dei paesaggi più estremi del mondo. I monti Simien, un altopiano tra i 3.000 e i 4.550 metri eroso in scarpate verticali e pinnacoli, sono l’habitat del lupo etiope (il carnivoro più minacciato d’Africa), del gelada (l’unico primate al mondo che si nutre d’erba) e dello stambecco walia, che non vive in nessun altro luogo della Terra. Camminare qui, lungo bordi di scogliere con salti di 1.000 metri sulla valle sottostante, è tra i più bei trekking d’alta quota d’Africa.
+L’Etiopia racchiude due paesaggi particolarmente estremi. I monti Simien, un altopiano tra i 3.000 e i 4.550 metri eroso in scarpate verticali e pinnacoli, sono l’habitat del lupo etiope (il carnivoro più minacciato d’Africa), del gelada (l’unico primate al mondo che si nutre d’erba) e dello stambecco walia, che non vive in nessun altro luogo della Terra. Camminare qui, lungo bordi di scogliere con salti di 1.000 metri sulla valle sottostante, è un trekking d’alta quota molto apprezzato in Africa.
 
 La depressione della Dancalia, al contrario, è il luogo più basso e più caldo d’Africa: una faglia geologica dove si incontrano tre placche tettoniche, che dà vita a laghi di lava attivi (Erta Ale), formazioni saline sulfuree nelle sfumature del giallo e del verde (Dallol) e una distesa di sale estratta a mano da secoli e trasportata dalle carovane di cammelli. I tour richiedono una scorta armata e spostamenti notturni per evitare il caldo peggiore, e gli alloggi sono essenziali: si dorme sotto le stelle nel deserto o in campi spartani. L’esperienza non è comoda. È, nel senso più vero della parola, indimenticabile.
 

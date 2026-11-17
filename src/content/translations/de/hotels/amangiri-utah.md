@@ -21,7 +21,7 @@ amenities:
   - Butler- und Conciergeservice rund um die Uhr
   - Private Flughafentransfers (Page, Arizona)
 bestFor:
-  - Anspruchsvolle Luxusreisende, die das beste Resorterlebnis der USA suchen
+  - Anspruchsvolle Luxusreisende, die ein erstklassiges Resorterlebnis in den USA suchen
   - Architektur- und Designliebhaber
   - Paare, die einen besonderen Meilenstein feiern
   - Outdoor-Abenteurer, die beim Komfort keine Kompromisse eingehen
@@ -51,10 +51,10 @@ nearbyAttractions:
     distance: 130 km
 seo:
   metaTitle: "Amangiri Utah: Wüstenresort der Extraklasse | StayAtNiche"
-  metaDescription: "Amans Meisterwerk in der Canyonlandschaft Utahs: außergewöhnliche Architektur, unerreichter Service und der Südwesten der USA vor der Tür. Ab 2.000 $ pro Nacht."
+  metaDescription: "Amans Meisterwerk in der Canyonlandschaft Utahs: außergewöhnliche Architektur, herausragender Service und der Südwesten der USA vor der Tür. Ab 2.000 $ pro Nacht."
 ---
 
-Das Amangiri ist wohl das beste Wüstenhotel Nordamerikas. Allein die Architektur rechtfertigt den Flug nach Utah. Der Architekt Marwan Al-Sayed hat das gesamte Resort um einen uralten Tafelberg herum entworfen – einen Felsvorsprung aus Navajo-Sandstein, der im Kern des Gebäudes liegt. Das Ergebnis ist ein langer, flacher Komplex aus Sichtbeton und Wüstenstein, der nicht mit der Landschaft konkurriert, sondern schlicht ein Teil von ihr wird.
+Das Amangiri gilt als eines der renommiertesten Wüstenhotels Nordamerikas. Allein die Architektur rechtfertigt den Flug nach Utah. Der Architekt Marwan Al-Sayed hat das gesamte Resort um einen uralten Tafelberg herum entworfen – einen Felsvorsprung aus Navajo-Sandstein, der im Kern des Gebäudes liegt. Das Ergebnis ist ein langer, flacher Komplex aus Sichtbeton und Wüstenstein, der nicht mit der Landschaft konkurriert, sondern schlicht ein Teil von ihr wird.
 
 Der Hauptpool ist direkt an die Felswand gebaut. Die Behandlungsräume des Spas schweben darüber. Jede Sichtachse in den öffentlichen Bereichen ist so angelegt, dass sie Ihren Blick zurück auf den Fels lenkt. Das ist Architektur mit sehr klaren Prioritäten, und sie setzt sie ohne ein überflüssiges Detail um.
 

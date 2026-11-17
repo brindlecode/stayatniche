@@ -1,0 +1,314 @@
+[
+ {
+  "slug": "houseboat-harmony-utrecht-netherlands",
+  "name": "Houseboat Harmony",
+  "official_url": "https://www.bed-and-breakfast-utrecht.nl",
+  "source_url": "https://www.bed-and-breakfast-utrecht.nl",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Single bed-and-breakfast guest room aboard a houseboat (woonboot) moored on the river Vecht in Utrecht; the only bookable unit is on the boat.",
+  "evidence_quote": "Slapen in een Bed and Breakfast kamer in Utrecht op een woonboot met prachtig uitzicht op de Vecht",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site confirms the one guest room is on a houseboat on the Vecht; category correct.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Utrecht",
+   "city": "Utrecht",
+   "locality": null
+  },
+  "page_issues": []
+ },
+ {
+  "slug": "ms-fram-norway",
+  "name": "MS Fram Expedition Ship",
+  "official_url": "https://travelhx.com/en/ships/fram",
+  "source_url": "https://travelhx.com/en/ships/fram",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Purpose-built polar expedition cruise ship (HX Expeditions) for 200 guests; all cabins and suites are aboard the vessel. A sailing voyage, not a moored stay.",
+  "evidence_quote": "Purpose-built as an expedition cruise ship, MS Fram is an exceptional base camp for explorers.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Guests sleep aboard a ship afloat; closest of the 14 categories is floating-hotels, though it is an expedition cruise rather than a moored stay.",
+  "treehouse_structure": null,
+  "location": {
+   "region": null,
+   "city": null,
+   "locality": null
+  },
+  "page_issues": [
+   "Operator is now HX Expeditions (page says Hurtigruten's)",
+   "Official capacity is 200 guests; '16 specialist guides', 3,000 polar bears and polar bear encounter claims are not supported by the source",
+   "Rating 9.2 / 1,876 reviews and 'polar hot tub' not confirmed by the source (official mentions hot tub and Science Centre)",
+   "It is a cruise voyage, not a fixed-location hotel; Svalbard is one itinerary among several"
+  ]
+ },
+ {
+  "slug": "off-paris-seine-france",
+  "name": "OFF Paris Seine",
+  "official_url": "https://en.offparisseine.com/",
+  "source_url": "https://www.sortiraparis.com/hotel-restaurant/hotel/articles/288034-off-paris-seine-l-incroyable-hotel-flottant-sur-la-seine",
+  "source_type": "other",
+  "niche_scope": "entire_property",
+  "niche_feature": "Floating hotel moored at the foot of Gare d'Austerlitz: 54 ship-cabin-style rooms plus 4 suites, rooms on the Seine; lowest-level rooms sit at water level.",
+  "evidence_quote": "le OFF Paris Seine, le premier hôtel flottant sur la Seine",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Press source and official site describe a moored floating hotel with all rooms aboard; official site itself never says 'floating' or 'barge'.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Île-de-France",
+   "city": "Paris",
+   "locality": "13th arrondissement"
+  },
+  "page_issues": [
+   "'Paris's only floating hotel' unsupported; sources say 'first' floating hotel",
+   "Inaugurated '2017' conflicts with press saying it opened in 2016",
+   "Rooftop deck, weathered steel and timber exterior, Parisian architects and Notre-Dame view upstream are not confirmed by the sources",
+   "Official describes rooms, dining bar and pool; official site says Gare d'Austerlitz/Gare de Lyon location (13th arrondissement), not 5th"
+  ]
+ },
+ {
+  "slug": "schwimmendes-haus-partwitzer-see-germany",
+  "name": "Schwimmendes Haus",
+  "official_url": "http://partwitzer-hof.de/schwimmendes-haus/",
+  "source_url": "http://partwitzer-hof.de/schwimmendes-haus/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Self-catering two-storey floating house on the Partwitzer See for 2 to 3 guests, available all year; described as the first floating house on the lake.",
+  "evidence_quote": "Das erste „Schwimmende Haus“ auf dem Partwitzer See lädt ganzjährig zum Urlaub auf dem Wasser ein.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official page confirms a house that floats on the lake and is rented for overnight stays.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Saxony",
+   "city": "Elsterheide",
+   "locality": "Partwitzer See"
+  },
+  "page_issues": [
+   "Official page says one extra bed can be added for 20 EUR per night; capacity 2 to 3 confirmed"
+  ]
+ },
+ {
+  "slug": "the-harpy-houseboat-london-united-kingdom",
+  "name": "The Harpy Houseboat",
+  "official_url": "https://theharpy.com/",
+  "source_url": "https://theharpy.com/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Moored 1904 houseboat (ex-HMS Harpy) on the Thames, let as a whole four-bedroom floating home sleeping up to 12 in 4 cabins.",
+  "evidence_quote": "transformed into a spectacular 1,850 sq ft (172 sq m) four-bedroom floating home",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site confirms a moored houseboat holiday let; category correct.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "England",
+   "city": "London",
+   "locality": null
+  },
+  "page_issues": [
+   "Official site says both 'moored just west of Tower Bridge' and 'relocated to the South Bank, 400m east of Tower Bridge' (address China Wharf, Mill Street SE1 2BB); page repeats only 'west'",
+   "Page says 'four rooms'; official says four-bedroom, 4 cabins, sleeps up to 12",
+   "'London's number one Airbnb' is the operator quoting Time Out Jan 2025, presented as the site's own claim"
+  ]
+ },
+ {
+  "slug": "archipelago-igloos-finland",
+  "name": "Archipelago Igloos",
+  "official_url": "https://archipelagoigloos.com/",
+  "source_url": "https://www.visitfinland.com/en/product/c8951ee0-6e0d-4b1b-b3eb-5ecd37eee1f7/archipelago-igloos-accomodation-experience-in-glass-igloo/",
+  "source_type": "other",
+  "niche_scope": "entire_property",
+  "niche_feature": "Glass igloo accommodation unit(s): floating in summer, anchored between Vallisaari and Kuninkaansaari; in winter the glass igloos are in the Sipoo archipelago. Number of units and ice setting not confirmed (official site bot-walled).",
+  "evidence_quote": "Summer season our floating accommodation units are anchored at the bay between Vallisaari and Kuninkaansaari.",
+  "operating": "open",
+  "verdict": "move",
+  "new_category": "bubble-hotels",
+  "closest_category": null,
+  "reason": "Not an ice hotel: glass igloos, floating in summer. Best fit is bubble-hotels (glass igloos); floating-hotels is the alternative.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Uusimaa",
+   "city": "Helsinki",
+   "locality": "Vallisaari"
+  },
+  "page_issues": [
+   "Filed under ice-hotels but nothing says it is made of ice or snow",
+   "Official site blocked by bot challenge; one unit, 4 May to 30 October season, floor-to-ceiling glass and kitchen/toilet details not verified from a citable source",
+   "Winter 'on the ice' location is Sipoo archipelago per Visit Finland"
+  ]
+ },
+ {
+  "slug": "arctic-guesthouse-and-igloos-finland",
+  "name": "Arctic Guesthouse & Igloos",
+  "official_url": "https://arcticguesthouseandigloos.com/",
+  "source_url": "https://arcticguesthouseandigloos.com/igloos/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Glass igloos (AuroraHut, ideally for 2 people) on the shore of Lake Ranua, some able to float and move under electric engine in summer; the property also has ordinary guesthouse rooms and Aurora Lake Lodges.",
+  "evidence_quote": "Arctic glass igloo resort in Finland: Our compact igloos offer immersive experience ideally for 2 people.",
+  "operating": "open",
+  "verdict": "move",
+  "new_category": "bubble-hotels",
+  "closest_category": null,
+  "reason": "Glass igloos, not ice rooms; ice-hotels is wrong. Only the igloos fit; guesthouse rooms and lodges are ordinary.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Lapland",
+   "city": "Ranua",
+   "locality": null
+  },
+  "page_issues": [
+   "Filed under ice-hotels but nothing is made of ice or snow; these are glass igloos",
+   "'Ten movable glass igloos' count and 'Wi-Fi in every igloo' not stated on the official igloos page",
+   "Official page says the AuroraHut igloos float and move on the lake in summer, not merely 'movable'"
+  ]
+ },
+ {
+  "slug": "icehotel-sweden",
+  "name": "ICEHOTEL 365",
+  "official_url": "https://www.icehotel.com/",
+  "source_url": "https://icehotel.com/hotel",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Ice rooms and art suites in ICEHOTEL Winter (Dec-Apr), plus ICEHOTEL 365 year-round art and deluxe suites made of ice and snow (18 suites, -5C); warm rooms and cabins in separate buildings are ordinary.",
+  "evidence_quote": "All suites in ICEHOTEL 365 are exclusively designed, and made entirely from ice and snow.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Ice rooms and suites confirmed; but only the ice suites are niche, warm rooms and cabins are also offered.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Norrbotten",
+   "city": "Kiruna",
+   "locality": "Jukkasjärvi"
+  },
+  "page_issues": [
+   "Official says 'open every year since 1989' (page: since 1990)",
+   "Official says 18 art and deluxe suites in ICEHOTEL 365 (page: 20)",
+   "'World's only permanent ice hotel' contradicted: official says 'world's first year-round ice hotel' and Snow Resort Kirkenes claims a 365 hotel too",
+   "'Most iconic cold-weather accommodation on Earth' superlative unsupported"
+  ]
+ },
+ {
+  "slug": "snowcastle-kemi-finland",
+  "name": "SnowCastle of Kemi",
+  "official_url": "https://experience365.fi/",
+  "source_url": "https://experience365.fi/frequently-asked-questions/",
+  "source_type": "official",
+  "niche_scope": "experience_only",
+  "niche_feature": "Snow hotel is no longer built; the area offers a SnowExperience exhibition room, SnowCastle Winter Park (Jan-early April), icebreaker cruises, and year-round Seaside Glass Villas as accommodation.",
+  "evidence_quote": "No we do not have the Snow Hotel at the moment. We have the all-year-round accommodation in the Seaside Glass Villas.",
+  "operating": "open",
+  "verdict": "draft",
+  "new_category": null,
+  "closest_category": "ice-hotels",
+  "reason": "Official FAQ says there is no snow hotel at the moment; the traditional snow castle was replaced by year-round services and ordinary glass villas.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Lapland",
+   "city": "Kemi",
+   "locality": null
+  },
+  "page_issues": [
+   "Describes snow hotel rooms and a rebuilt-every-winter castle; official FAQ says 'The traditional castle built from snow has been replaced by year-round services' and no snow hotel exists now",
+   "Hotel rooms, snow restaurant and chapel inside the castle not offered per official FAQ",
+   "Accommodation is now the Seaside Glass Villas, not 'warm hotel accommodation adjacent'",
+   "'Largest snow castle', 13-14 m height superlatives unsupported"
+  ]
+ },
+ {
+  "slug": "snowhotel-kirkenes-norway",
+  "name": "Snowhotel Kirkenes",
+  "official_url": "https://www.snowresortkirkenes.com/",
+  "source_url": "https://www.snowresortkirkenes.com/accommodation",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Snowhotel 365: snow-and-ice suites, kept frozen year-round, at Snow Resort Kirkenes (Bjørnevatn); resort also has warm Gamme cabins as ordinary accommodation.",
+  "evidence_quote": "Welcome to the world's only hotel made entirely of snow and ice that’s open year-round for overnight stays.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Snow-and-ice hotel confirmed by official site; only the snow suites are niche, cabins are ordinary.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Finnmark",
+   "city": "Kirkenes",
+   "locality": "Bjørnevatn"
+  },
+  "page_issues": [
+   "Page says carved anew each winter; official says Snowhotel 365 is cooled and open year-round",
+   "Now trades as Snow Resort Kirkenes / Snowhotel 365",
+   "Site 'in the birch woodland outside the city', annual commissioned artist murals and ice bar not confirmed by the source",
+   "Official says original hotel had eight rooms in 2006, none of the page's room details verified"
+  ]
+ },
+ {
+  "slug": "sorrisniva-igloo-hotel-norway",
+  "name": "Sorrisniva Igloo Hotel",
+  "official_url": "https://www.sorrisniva.no/",
+  "source_url": "https://www.sorrisniva.no/hotels/igloo-hotel",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Igloo Hotel of ice and snow rebuilt every winter (Dec 20 to Mar 31) with igloo rooms, family rooms and themed suites; the separate Arctic Wilderness Lodge offers ordinary warm rooms.",
+  "evidence_quote": "The Igloo Hotel is rebuilt every winter, featuring a blend of unique igloo rooms and themed suites.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Seasonal ice hotel confirmed; ice rooms are the niche, lodge accommodation is separate and ordinary. Open Dec 20 to Mar 31 each winter.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Finnmark",
+   "city": "Alta",
+   "locality": "Sorrisniva"
+  },
+  "page_issues": [
+   "Official says 'second of its kind'; page says 'Norway's original' / first, built since 2000 not confirmed",
+   "Page says built each November and December; official says open Dec 20 to Mar 31",
+   "Adjacent Alta Museum claim unsupported",
+   "Official gives 2,500 m2, 250 tonnes of ice; page's room temperatures and sleeping-bag ratings not confirmed"
+  ]
+ },
+ {
+  "slug": "cristalino-lodge-brazil",
+  "name": "Cristalino Lodge",
+  "official_url": "https://www.cristalinolodge.com.br/",
+  "source_url": "https://www.cristalinolodge.com.br/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Lodge of air-conditioned bungalows (Special Bungalow, Bungalow, Junior Bungalow, Superior Suite) inside the Cristalino RPPN private rainforest reserve in the southern Amazon, near Alta Floresta; a separate Wilderness Camp of tents also exists.",
+  "evidence_quote": "Situated close to the River Cristalino, within a huge forest reserve covering an area of 11,399 hectares",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site confirms a lodge within a large Amazon rainforest reserve; jungle-lodges category correct.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Mato Grosso",
+   "city": "Alta Floresta",
+   "locality": "Cristalino RPPN"
+  },
+  "page_issues": [
+   "Reserve is 11,399 hectares per official site, page says 1,100",
+   "Page says 'simple wooden rooms with mosquito nets... nothing remotely luxurious'; official lists air-conditioned bungalows of 53-79 m2 with private gardens and outdoor baths",
+   "Pioneer since 1999, 600+ birds, 50 m tower and night boat safaris not confirmed on pages read"
+  ]
+ }
+]

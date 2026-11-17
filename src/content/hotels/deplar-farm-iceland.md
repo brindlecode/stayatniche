@@ -32,8 +32,7 @@ prosAndCons:
     - "Getting to the Troll Peninsula requires a domestic flight to Akureyri and ground transfer"
     - "Summer season offers spectacular activities but without the Northern Lights that many guests specifically travel for"
 bookingUrl: https://www.booking.com/hotel/is/eleven-experience-deplar-farm.html
-rating: 9.4
-reviewCount: 389
+rating: 8.5
 seasonalInfo:
   bestTime: "January to April for heli-skiing and Northern Lights; June to August for midnight sun"
   peakSeason: "February to March"
@@ -53,7 +52,7 @@ coordinates:
 featured: false
 editorsPick: false
 trending: false
-status: published
+status: draft
 seo:
   metaTitle: "Deplar Farm Review — Heli-Skiing & Northern Lights, Troll Peninsula, Iceland | StayAtNiche"
   metaDescription: "Thirteen suites in a converted Icelandic sheep farm with heli-ski access to untracked Troll Peninsula mountains and Northern Lights from a geothermal infinity pool. From $2,000/night."
@@ -64,6 +63,17 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=North+Iceland"
     label: "Find Tours on Klook"
+location:
+  country: "Iceland"
+  countryCode: "IS"
+  locality: "Fljót Valley"
+  coordinates:
+    lat: 65.944371
+    lng: -18.939747
+niche_scope: unverified
+niche_feature: "Converted 15th-century sheep farm adventure lodge in Iceland's Fljót Valley with 13 rooms, heli-skiing and a geothermal pool. Subarctic mountain lodge, not a desert camp; no matching category."
+niche_source_url: "https://elevenexperience.com/lodge-destinations/iceland/eleven-deplar-farm"
+niche_verified_at: 2026-11-17
 ---
 
 The Troll Peninsula is the section of North Iceland that most visitors driving the Ring Road never reach. It juts north from the main road toward the Arctic Circle between Akureyri and Varmahlíð, a peninsula of fjords, fishing villages, and mountains that rise from sea level to over 1,000 metres in distances short enough to produce genuinely extreme vertical relief. The sheep farm that became Deplar Farm sat at the head of the Fljót Valley here for generations before Eleven Experience acquired and renovated it, transforming the agricultural buildings into thirteen suites while preserving the structural character of the original construction.

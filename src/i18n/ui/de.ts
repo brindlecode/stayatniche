@@ -85,7 +85,7 @@ const catStart = (cat: string) => cap(catMid(cat));
 
 const de: typeof en = {
   meta: {
-    defaultDescription: 'Die außergewöhnlichsten Hotels der Welt: Baumhäuser, Höhlen, Unterwasserzimmer, Schlösser, Eishotels und mehr. Handverlesene Unterkünfte, die die Reise prägen.',
+    defaultDescription: 'Außergewöhnliche Hotels weltweit: Baumhäuser, Höhlen, Unterwasserzimmer, Schlösser, Eishotels und mehr. Handverlesene Unterkünfte, die die Reise prägen.',
   },
   fmt: {
     usd: (amount: string) => `${amount}${NBSP}$`,
@@ -160,7 +160,7 @@ const de: typeof en = {
     editorsPick: 'Tipp der Redaktion',
     around: (place: string) => `Rund um ${place}`,
     save: (name: string) => `${name} merken`,
-    scoreTitle: 'Redaktionswertung von 10',
+    scoreTitle: 'Redaktionswertung von 10 (eigene Bewertung, keine Gästebewertungen)',
     from: 'Ab',
     perNight: '/ Nacht',
     seeRates: 'Preise ansehen',
@@ -198,7 +198,7 @@ const de: typeof en = {
   },
   blog: {
     metaTitle: 'Reiseratgeber: außergewöhnliche Hotels, Reiseziele & Planung',
-    metaDescription: 'Ratgeber zu den außergewöhnlichsten Hotels der Welt – Baumhäuser, Höhlen, Eishotels, Safari-Lodges – dazu Reiseziele und praktische Tipps für die Planung.',
+    metaDescription: 'Ratgeber zu außergewöhnlichen Hotels weltweit – Baumhäuser, Höhlen, Eishotels, Safari-Lodges – dazu Reiseziele und praktische Tipps für die Planung.',
     lead: 'Wo Sie schlafen, wann Sie reisen und wie Sie hinkommen – für Reisen rund um eine außergewöhnliche Unterkunft.',
     readGuide: 'Zum Ratgeber',
     filter: 'Ratgeber filtern',
@@ -208,6 +208,13 @@ const de: typeof en = {
     metaTitle: (name: string, dest: string) => `${name} – ${dest} | StayAtNiche`,
     categories: 'Kategorien',
     editorScore: 'Redaktionswertung',
+    niche: {
+      specific_rooms: (cat: string) => `Nur einige Zimmer hier passen zur Kategorie „${cat}“; die übrigen sind normale Zimmer.`,
+      experience_only: (cat: string) => `Das Merkmal „${cat}“ gehört hier zum Besuchs- oder Erlebnisangebot, nicht zur Unterkunft selbst.`,
+      unverified: (cat: string) => `Das Merkmal „${cat}“ dieser Unterkunft konnten wir bisher nicht anhand einer offiziellen Quelle bestätigen.`,
+      checked: (date: string) => `Merkmal geprüft am ${date}`,
+      source: 'Quelle',
+    },
     save: 'Merken',
     share: 'Teilen',
     linkCopied: 'Link kopiert',
@@ -289,7 +296,7 @@ const de: typeof en = {
     other: 'Weitere Unterkunftsarten',
   },
   destinations: {
-    metaTitle: 'Reiseziele: Hier stehen die außergewöhnlichsten Hotels',
+    metaTitle: 'Reiseziele: Außergewöhnliche Hotels weltweit finden',
     metaDescription: (n: number) => `${n} ${plural(n, 'Reiseführer', 'Reiseführer')} rund um außergewöhnliche Unterkünfte: wann Sie reisen, was Sie sehen sollten und welche Hotels die Reise wert sind.`,
     h1a: 'Wohin geht es',
     h1b: 'als Nächstes?',
@@ -427,7 +434,7 @@ const de: typeof en = {
   notFound: {
     metaTitle: 'Seite nicht gefunden | StayAtNiche',
     h1: 'Diese Unterkunft hat offenbar früher ausgecheckt',
-    text: 'Die gesuchte Seite gibt es nicht oder sie ist umgezogen. Die außergewöhnlichsten Unterkünfte der Welt sind trotzdem nur einen Klick entfernt.',
+    text: 'Die gesuchte Seite gibt es nicht oder sie ist umgezogen. Außergewöhnliche Unterkünfte rund um die Welt sind trotzdem nur einen Klick entfernt.',
     maybe: 'Suchen Sie vielleicht eine dieser Seiten?',
   },
   photoCredits: {
@@ -462,7 +469,7 @@ const de: typeof en = {
     stayB: 'übernachten',
   },
   home: {
-    metaTitle: 'StayAtNiche: die außergewöhnlichsten Unterkünfte der Welt',
+    metaTitle: 'StayAtNiche: außergewöhnliche Unterkünfte weltweit',
     metaDescription: 'Außergewöhnliche Hotels, die eine Reise wert sind: Baumhäuser, Höhlenhotels, Unterwasserzimmer, Safari-Lodges, Eishotels und mehr. Preise vergleichen, sicher buchen.',
     heroAlt: 'Eine gläserne Hütte auf einem Bergkamm über einem Wolkenmeer bei Sonnenaufgang',
     eyebrow: (h: number, c: number, k: number) => `${h} ${plural(h, 'Unterkunft', 'Unterkünfte')} · ${c} ${plural(c, 'Land', 'Länder')} · ${k} ${plural(k, 'Spielart', 'Spielarten')} des Außergewöhnlichen`,

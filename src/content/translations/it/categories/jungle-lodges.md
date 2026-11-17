@@ -2,12 +2,12 @@
 source: jungle-lodges
 title: Lodge nella giungla
 tagline: "Nel cuore della foresta, lontano dall’ordinario"
-description: "Dai lodge tra le chiome della foresta nebulosa del Costa Rica ai campi fluviali del Borneo a due passi dagli oranghi, fino ai rifugi nel profondo bacino amazzonico di Perù e Brasile, i lodge nella giungla offrono un’immersione nella biodiversità che nessun’altra categoria di alloggio può avvicinare. Fauna straordinaria, paesaggi sonori primordiali e vero lusso ne fanno alcuni dei soggiorni nella foresta più memorabili al mondo."
+description: "Dai lodge tra le chiome della foresta nebulosa del Costa Rica ai campi fluviali del Borneo a due passi dagli oranghi, fino ai rifugi nel profondo bacino amazzonico di Perù e Brasile, i lodge nella giungla offrono un’immersione nella biodiversità che poche altre categorie di alloggio possono avvicinare. Fauna straordinaria, paesaggi sonori primordiali e vero lusso ne fanno alcuni dei soggiorni nella foresta più memorabili al mondo."
 stats:
   topDestination: "Costa Rica"
 seo:
   metaTitle: "Lodge nella giungla e nella foresta pluviale | StayAtNiche"
-  metaDescription: "Dormi nelle giungle più ricche di biodiversità: lodge di lusso in Costa Rica, Borneo, Amazzonia e oltre, con incontri straordinari con la fauna selvatica."
+  metaDescription: "Dormi in alcune delle giungle più ricche di biodiversità: lodge di lusso in Costa Rica, Borneo, Amazzonia e oltre, con incontri straordinari con la fauna selvatica."
 ---
 
 Ti svegli alle 5 con le urla delle scimmie urlatrici. Le are scarlatte attraversano la vista dal tavolo della colazione. Le impronte del giaguaro compaiono sulla riva del fiume prima ancora che le guide abbiano finito il caffè. Non sono momenti da album dei ricordi: in un buon lodge nella giungla, immerso nella foresta pluviale primaria, è un martedì qualunque.
@@ -30,7 +30,7 @@ I migliori lodge nella giungla non si limitano a stare vicino ai progetti di con
 La Certificazione per il Turismo Sostenibile (CST) del Costa Rica e la collaborazione con Rainforest Alliance forniscono parametri verificati in modo indipendente. La distinzione ha conseguenze pratiche: i lodge davvero integrati nella conservazione regalano incontri migliori con la fauna, perché gli animali sono più sani, più numerosi e meno abituati al disturbo.
 
 
-Il **Costa Rica** ha la rete di eco-lodge più evoluta del mondo. I parchi nazionali coprono oltre il 25% del territorio, e le strutture della penisola di Osa (accanto al Corcovado, che National Geographic ha definito il luogo più ricco di biodiversità della Terra), di Tortuguero e della foresta nebulosa di Monteverde rappresentano il vertice mondiale della categoria.
+Il **Costa Rica** ha una rete di eco-lodge molto evoluta. I parchi nazionali coprono oltre il 25% del territorio, e le strutture della penisola di Osa (accanto al Corcovado, che National Geographic ha definito il luogo più ricco di biodiversità della Terra), di Tortuguero e della foresta nebulosa di Monteverde sono tra gli esempi più riusciti della categoria a livello mondiale.
 
 Il **Borneo** offre incontri con oranghi in semilibertà, oltre a nasiche, elefanti pigmei e una delle liste di uccelli più ricche del mondo. Il formato tipico sono i lodge sulle rive dei fiumi in Sabah e Sarawak. L’**Amazzonia peruviana**, in particolare intorno alla Riserva nazionale di Tambopata vicino a Puerto Maldonado, è uno dei tratti più intatti del bacino amazzonico: le pareti d’argilla dove centinaia di are si radunano contemporaneamente sono uno spettacolo senza pari nei viaggi naturalistici.
 

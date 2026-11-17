@@ -3,7 +3,7 @@ title: "White Water Rafting the Zambezi River"
 type: adventure
 destination: "Batoka Gorge, Victoria Falls"
 country: "Zambia / Zimbabwe"
-description: "The Zambezi below Victoria Falls is widely regarded as the world's best single-day white water rafting experience, offering 23 kilometres of continuous Grade IV and V rapids through a dramatic basalt gorge that channels one of Africa's mightiest rivers into a churning gauntlet of waves, holes, and hydraulics. This is not a scenic float, it is a full day physical and psychological test that most participants rank among the greatest experiences of their travelling lives."
+description: "The Zambezi below Victoria Falls is widely regarded as one of the world's best single-day white water rafting experiences, offering 23 kilometres of continuous Grade IV and V rapids through a dramatic basalt gorge that channels one of Africa's mightiest rivers into a churning gauntlet of waves, holes, and hydraulics. This is not a scenic float, it is a full day physical and psychological test that most participants rank among the greatest experiences of their travelling lives."
 coverImage: /images/experiences/white-water-rafting-zambezi.jpg
 booking:
   provider: direct
@@ -31,7 +31,6 @@ notIncluded:
   - Accommodation and meals beyond lunch
   - Visa fees for entry to Zambia or Zimbabwe
 rating: 9.6
-reviewCount: 3104
 featured: false
 tags:
   - white-water-rafting
@@ -44,7 +43,7 @@ tags:
   - rapids
 seo:
   metaTitle: "White Water Rafting the Zambezi River, Victoria Falls | StayAtNiche"
-  metaDescription: "Raft 23km of Grade IV-V rapids through Batoka Gorge on the world's most acclaimed single-day white water run. From $160 per person."
+  metaDescription: "Raft 23km of Grade IV-V rapids through Batoka Gorge on one of the world's best-known single-day white water runs. From $160 per person."
 ---
 
 The sound is the first thing. Long before the raft reaches the first rapid, you can hear the Zambezi: a deep, subsonic roar that the gorge walls amplify into something almost physical. Standing at the put-in below Victoria Falls, looking up at the basalt cliffs rising 120 metres on both sides and down at a river that has just dropped 108 metres in a single curtain of water, you understand immediately that today is not going to be an ordinary day.

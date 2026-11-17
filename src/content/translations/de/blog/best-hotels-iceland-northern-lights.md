@@ -57,7 +57,7 @@ Jede Hütte ist im Grunde ein Gewächshaus aus gehärtetem Glas, mit gewölbtem 
 ---
 
 
-The Retreat at Blue Lagoon ist nicht in erster Linie ein Polarlichthotel. Es ist schlicht das gefeiertste Luxushaus Islands. Doch seine Lage in den Geothermalfeldern der Halbinsel Reykjanes, verbunden mit dem Zugang zu den Außenbecken der Blauen Lagune zu jeder Stunde, schafft womöglich die spektakulärste Nordlicht-Kulisse der Welt: Sie treiben im 38 °C warmen, mineralreichen Thermalwasser, während über Ihnen die Aurora tanzt.
+The Retreat at Blue Lagoon ist nicht in erster Linie ein Polarlichthotel. Es ist eines der bekanntesten Luxushäuser Islands. Doch seine Lage in den Geothermalfeldern der Halbinsel Reykjanes, verbunden mit dem Zugang zu den Außenbecken der Blauen Lagune zu jeder Stunde, schafft eine eindrucksvolle Kulisse für die Nordlichter: Sie treiben im 38 °C warmen, mineralreichen Thermalwasser, während über Ihnen die Aurora tanzt.
 
 The Retreat liegt in einem Lavafeld direkt neben der Blauen Lagune; die 62 Suiten und Zimmer sind in die Vulkanlandschaft hinein- und um sie herumgebaut. Gäste haben rund um die Uhr exklusiven Zugang zum privaten RETREAT Spa der Lagune, einschließlich der Außenbecken. Wenn die Aurora erscheint – und auf dieser Breite geschieht das im aktuellen Sonnenmaximum häufig –, gleiten die Gäste ins silikatweiße Wasser und schauen von dort aus zu.
 

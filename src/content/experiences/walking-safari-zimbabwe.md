@@ -31,7 +31,6 @@ notIncluded:
   - Personal travel insurance
   - Gratuities for guides and scouts
 rating: 9.8
-reviewCount: 1087
 featured: false
 tags:
   - walking-safari

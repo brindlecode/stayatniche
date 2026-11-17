@@ -1,8 +1,8 @@
 ---
 title: Troviamo gli alloggi che agli altri sfuggono
-metaTitle: "Chi siamo | StayAtNiche, gli alloggi più insoliti del mondo"
-metaDescription: "StayAtNiche è una guida indipendente agli hotel più insoliti del mondo: case sugli alberi, grotte, camere subacquee, hotel di ghiaccio e castelli, verificati."
-lead: StayAtNiche è una guida di viaggio indipendente ai posti più straordinari in cui dormire. L’ordinario non fa per noi.
+metaTitle: "Chi siamo | StayAtNiche, alloggi insoliti nel mondo"
+metaDescription: "StayAtNiche è una guida indipendente a hotel insoliti in tutto il mondo: case sugli alberi, grotte, camere subacquee, hotel di ghiaccio e castelli, verificati."
+lead: StayAtNiche è una guida di viaggio indipendente ai posti straordinari in cui dormire. L’ordinario non fa per noi.
 ---
 
 ## Un viaggio dovrebbe essere una storia da raccontare
@@ -15,9 +15,13 @@ Cerchiamo posti che spingono l’idea di «soggiorno» fin dove può arrivare: u
 
 **Scoperta.** Setacciamo la stampa di viaggio, i dati cartografici aperti, le fonti turistiche ufficiali e i siti delle strutture per scovare gli alloggi che la maggior parte delle piattaforme di prenotazione lascia in fondo alla lista.
 
-**Verifica.** Ogni struttura viene controllata sul suo sito ufficiale e sui dati cartografici aperti: deve esistere, accogliere ospiti ed essere davvero ciò che la sua categoria promette. Se non riusciamo a verificarla, non entra in elenco.
+**Verifica.** Ogni struttura viene controllata sul suo sito ufficiale o su un’altra fonte citabile. Per ciascuna annotiamo che cosa la rende speciale, se vale per tutta la struttura o solo per alcune camere, la fonte e il giorno del controllo. Dove non siamo riusciti a confermarlo, la pagina lo dice.
 
 **Selezione.** Passano solo i posti che si distinguono per contesto, architettura o esperienza. I nostri voti sono giudizi editoriali, non recensioni degli ospiti.
+
+## Come nasce il voto della redazione
+
+Il voto su 10 è una nostra valutazione editoriale, non la media delle recensioni degli ospiti, e non mostriamo numeri di recensioni. La redazione pesa tre cose: quanto il contesto è il motivo del viaggio, che cosa dice la fonte ufficiale su camere, cucina e accesso, e quanto il soggiorno è pratico (stagione, arrivo). La verifica della caratteristica fissa un tetto: fino a 10 se lo è tutta la struttura, 8,8 se solo alcune camere, 8,5 se non siamo riusciti a confermarla, 7,5 se non è il luogo in cui si dorme.
 
 ## Una nota sulla trasparenza
 

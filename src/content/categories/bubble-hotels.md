@@ -12,7 +12,7 @@ featured: true
 order: 6
 seo:
   metaTitle: "Bubble Hotels, Sleep Under the Stars in a Transparent Dome | StayAtNiche"
-  metaDescription: "Discover the world's best bubble hotels and glass igloo stays. From Finnish Lapland aurora bubbles to Provençal stargazing domes, sleep under a million stars."
+  metaDescription: "Discover standout bubble hotels and glass igloo stays. From Finnish Lapland aurora bubbles to Provençal stargazing domes, sleep under a million stars."
 ---
 
 The entire concept starts with Kakslauttanen Arctic Resort in Saariselka, Finland. In the early 2000s, the property built thermally insulated transparent domes specifically so guests could watch the northern lights from bed. By 2010 it had attracted global attention and spawned a category. Kakslauttanen remains one of the most searched hotel properties on earth. It books out months in advance during aurora season, and that popularity has never really cooled.

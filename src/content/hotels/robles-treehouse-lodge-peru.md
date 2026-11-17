@@ -22,7 +22,6 @@ bestFor:
   - "Small groups"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Robles%20Treehouse%20Lodge%2C%20Manu&adults=2"
 rating: 8.3
-reviewCount: 0
 coordinates:
   lat: -12.6313907
   lng: -71.3668019
@@ -31,6 +30,19 @@ sourceId: "osm:node/12202938902"
 verifiedAt: 2026-10-13
 publishedDate: 2026-10-13
 status: published
+location:
+  country: "Peru"
+  countryCode: "PE"
+  region: "Madre de Dios"
+  city: "Manu"
+  locality: "Palotoa River"
+  coordinates:
+    lat: -12.6313907
+    lng: -71.3668019
+niche_scope: unverified
+niche_feature: "Official site says 10 private bungalows described as 'elevated treehouse-style'; it does not say they stand among trees, in trees or on stilts, so the treehouse rule cannot be confirmed."
+niche_source_url: "https://www.manurainforestperu.com/robles-tree-house.php"
+niche_verified_at: 2026-11-17
 ---
 
 Robles Treehouse Lodge is an eco-lodge at the edge of Manu National Park in Peru, set within the Manu Biosphere Reserve and surrounded by rainforest and the Palotoa River. It is run by Manu Rainforest Peru, a local family business that has organised tours in the park since 2006.

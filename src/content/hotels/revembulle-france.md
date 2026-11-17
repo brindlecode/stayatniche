@@ -18,7 +18,6 @@ bestFor:
   - "Friends"
 bookingUrl: "https://revembulle.com/"
 rating: 8.3
-reviewCount: 0
 coordinates:
   lat: 44.8146918
   lng: 6.1936888
@@ -27,6 +26,19 @@ sourceId: "osm:node/13031691491"
 verifiedAt: 2026-11-15
 publishedDate: 2026-11-15
 status: published
+location:
+  country: "France"
+  countryCode: "FX"
+  region: "Provence-Alpes-Côte d'Azur"
+  city: "La Chapelle-en-Valgaudémar"
+  locality: "Valgaudémar"
+  coordinates:
+    lat: 44.8146918
+    lng: 6.1936888
+niche_scope: entire_property
+niche_feature: "Transparent bubbles suspended up to 3 m above the ground in the Écrins national park; the site says all its bubbles are identical, differing in height, access and view."
+niche_source_url: "https://revembulle.com/"
+niche_verified_at: 2026-11-17
 ---
 
 Rêvembulle offers a night in a transparent bubble suspended up to 3 m above the ground, in the heart of the Massif des Écrins. The stay is at La Fôret, 05800 La Chapelle-en-Valgaudémar.

@@ -30,8 +30,7 @@ bestFor:
   - Marine life enthusiasts
   - Once in a lifetime experiences
 bookingUrl: https://www.booking.com/hotel/mv/conrad-maldives-rangali-island.html
-rating: 9.8
-reviewCount: 89
+rating: 8.8
 coordinates:
   lat: 3.6282
   lng: 72.7847
@@ -43,6 +42,18 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Rangali+Island"
     label: "Find Tours on Klook"
+location:
+  country: "Maldives"
+  countryCode: "MV"
+  region: "South Ari Atoll"
+  locality: "Rangali Island"
+  coordinates:
+    lat: 3.6282
+    lng: 72.7847
+niche_scope: specific_rooms
+niche_feature: "The Muraka is a single two-level residence with 3 bedrooms (2 above water, 1 underwater master suite with 180-degree acrylic dome); the rest of the resort is ordinary beach and overwater villas."
+niche_source_url: "https://www.conradmaldives.com/villa/the-muraka/"
+niche_verified_at: 2026-11-17
 ---
 
 Muraka, meaning "coral" in Dhivehi, is the singular most extraordinary hotel room on the planet. Launched in 2019 after five years of development, it required engineering solutions that had never been attempted in hospitality before.

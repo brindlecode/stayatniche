@@ -16,7 +16,7 @@ mustSee:
   - "Cabo de Buena Esperanza, el extremo suroccidental de África, con su costa atlántica salvaje"
   - "Boulders Beach, en Simon's Town, con una colonia de 3.000 pingüinos africanos"
   - "Los valles vinícolas de Stellenbosch y Franschhoek: vinos excepcionales entre extraordinarios paisajes de montaña"
-  - "Hermanus, el mejor lugar del mundo para ver ballenas desde tierra (ballenas francas australes, de julio a noviembre)"
+  - "Hermanus, uno de los mejores lugares del mundo para ver ballenas desde tierra (ballenas francas australes, de julio a noviembre)"
   - "Robben Island, donde estuvo encarcelado Nelson Mandela: un contexto histórico imprescindible"
 travelTips:
   - "Ciudad del Cabo tiene altos índices de hurtos y robos en coches: nunca dejes objetos de valor a la vista en un coche aparcado y ten cuidado en el centro al anochecer."

@@ -56,7 +56,6 @@ prosAndCons:
     - "Some treehouses are closer to other units than the photos suggest"
 bookingUrl: "https://www.booking.com/searchresults.html?ss=La+Cabane+Perchee+Dordogne"
 rating: 9.3
-reviewCount: 567
 checkInOut:
   checkIn: "16:00"
   checkOut: "11:00"

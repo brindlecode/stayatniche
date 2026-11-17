@@ -16,7 +16,7 @@ bestTimeToVisit:
 mustSee:
   - "Bazaruto Archipelago, five islands of dazzling white sand and turquoise water with endemic dugong population"
   - "Quirimbas Archipelago, a remote chain of 32 islands in the far north with pristine reefs and Swahili ruins"
-  - "Tofo Beach, the best spot in Africa for reliable whale shark encounters on snorkel"
+  - "Tofo Beach, a well-known spot in Africa for reliable whale shark encounters on snorkel"
   - "Ibo Island, Quirimbas, a decaying Portuguese colonial island town with a fascinating Arab-African-Portuguese heritage"
   - "Pemba, the gateway city to the north, with a beautiful bay and a Portuguese-influenced old town"
   - "Vilanculos, the southern gateway town with dhow sailing excursions across the Bazaruto Archipelago"
@@ -32,7 +32,7 @@ coordinates:
 featured: false
 seo:
   metaTitle: "Mozambique Travel Guide, Island Lodges, Whale Sharks & Pristine Reefs | StayAtNiche"
-  metaDescription: "Mozambique travel guide, Bazaruto Archipelago, Quirimbas island lodges, whale sharks at Tofo, dugong, and Africa's finest Indian Ocean beach destination."
+  metaDescription: "Mozambique travel guide, Bazaruto Archipelago, Quirimbas island lodges, whale sharks at Tofo, dugong, and a leading Indian Ocean beach destination in Africa."
 ---
 
 Mozambique has 2,500 kilometres of Indian Ocean coastline, most of it still undeveloped. Beaches run uninterrupted for kilometres. Dhows sit on the horizon. No tower blocks break the tree line. The marine environment — coral reefs, whale sharks, humpback whales, manta rays, dugongs, sea turtle nesting beaches — is served by a handful of lodges so carefully limited in capacity that the sense of having found something untouched is not entirely marketing.

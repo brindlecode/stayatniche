@@ -29,7 +29,6 @@ bestFor:
   - "Paris first-time and repeat visitors"
 bookingUrl: https://www.booking.com/hotel/fr/off-paris-seine.html
 rating: 8.8
-reviewCount: 1456
 coordinates:
   lat: 48.842733
   lng: 2.368117
@@ -41,6 +40,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Paris,+Île-de-France"
     label: "Find Tours on Klook"
+location:
+  country: "France"
+  countryCode: "FX"
+  region: "Île-de-France"
+  city: "Paris"
+  locality: "13th arrondissement"
+  coordinates:
+    lat: 48.842733
+    lng: 2.368117
+niche_scope: entire_property
+niche_feature: "Floating hotel moored at the foot of Gare d'Austerlitz: 54 ship-cabin-style rooms plus 4 suites, rooms on the Seine; lowest-level rooms sit at water level."
+niche_source_url: "https://www.sortiraparis.com/hotel-restaurant/hotel/articles/288034-off-paris-seine-l-incroyable-hotel-flottant-sur-la-seine"
+niche_verified_at: 2026-11-17
 ---
 
 OFF Paris Seine is moored on the quay between the fifth and thirteenth arrondissements, with the buttresses of Notre-Dame visible upstream and the towers of the Bibliothèque Nationale downstream. The view it offers — Paris from river level, looking outward at the city's stone banks — is genuinely unlike what the grand addresses of the Right Bank or the boutique hotels of Saint-Germain can provide. It is the perspective most Parisians only encounter from a moving bateau-mouche, and here it is stationary, available from the bed.

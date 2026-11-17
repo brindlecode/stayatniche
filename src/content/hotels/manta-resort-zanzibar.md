@@ -17,7 +17,7 @@ highlights:
   - "360-degree underwater windows with live reef views at night"
   - "Floating structure includes rooftop deck, sea level lounge, and underwater bedroom"
   - "Located off remote Pemba Island, one of the Indian Ocean's least-visited destinations"
-  - "Voted among the world's most extraordinary hotel experiences repeatedly"
+  - "A distinctive underwater sleeping experience that features regularly in travel coverage"
 amenities:
   - "Submerged underwater bedroom"
   - "Rooftop deck with open ocean views"
@@ -43,7 +43,7 @@ tags:
   - "marine"
 prosAndCons:
   pros:
-    - "The most extraordinary sleeping experience available anywhere on earth"
+    - "An extraordinary sleeping experience, with the reef visible through the windows all night"
     - "Nocturnal reef life through the bedroom windows is genuinely magical"
     - "Total privacy, the structure sits alone in the open ocean"
     - "The main Manta Resort offers excellent diving as a complement"
@@ -55,8 +55,7 @@ prosAndCons:
     - "Ocean conditions occasionally affect access and comfort"
     - "Advance booking essential, very limited availability"
 bookingUrl: "https://www.booking.com/searchresults.html?ss=Manta+Resort+Pemba+Island+Tanzania"
-rating: 9.6
-reviewCount: 234
+rating: 8.8
 checkInOut:
   checkIn: "15:00"
   checkOut: "11:00"
@@ -82,7 +81,7 @@ status: "published"
 publishedDate: 2025-01-10
 seo:
   metaTitle: "The Manta Resort Underwater Room Review, Sleep Under the Indian Ocean, Pemba Island"
-  metaDescription: "The world's most extraordinary sleep: a submerged underwater bedroom 4 meters below the Indian Ocean off remote Pemba Island, Tanzania. Watch reef fish through floor-to-ceiling windows all night."
+  metaDescription: "A rare underwater sleep: a submerged underwater bedroom 4 meters below the Indian Ocean off remote Pemba Island, Tanzania. Watch reef fish through floor-to-ceiling windows all night."
 affiliateLinks:
   - partner: "expedia"
     url: "https://www.expedia.com/Hotel-Search?destination=Pemba%20Island%2C%20Tanzania&adults=2"
@@ -90,6 +89,18 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Pemba+Island"
     label: "Find Tours on Klook"
+location:
+  country: "Tanzania"
+  countryCode: "TZ"
+  region: "Zanzibar"
+  locality: "Ras Kigomasha, Pemba Island"
+  coordinates:
+    lat: -5.0667
+    lng: 39.7833
+niche_scope: specific_rooms
+niche_feature: "One Underwater Room: a three-level floating suite anchored about 250 m off Pemba shore, with the double bedroom four metres below the sea surface. The rest of the resort (villas, garden rooms) is ordinary accommodation."
+niche_source_url: "https://themantaresort.com/underwater-room/"
+niche_verified_at: 2026-11-17
 ---
 
 Four metres below the surface of the Indian Ocean, with the reef life of Pemba Channel drifting past the windows in the dark, conventional hotel categories stop being useful. The Manta Resort's Underwater Room is something separate: a submerged bedroom off one of the least-visited islands in the Western Indian Ocean, where the fish are considerably more curious about you than you are about them.
@@ -112,4 +123,4 @@ A dedicated host lives aboard the platform for the duration of each stay, provid
 
 The island itself is worth the journey on its own terms. The Pemba Channel drops to considerable depth just offshore, generating upwellings that sustain some of the healthiest coral in the Indian Ocean. Tourist infrastructure is minimal — a handful of lodges, no resort strip — and the villages of clove farmers and fishermen along the coast operate at a pace that feels genuinely unhurried.
 
-The Manta Resort's mainland lodge serves as the arrival point, provides excellent diving, and handles all the boat logistics for reaching the Underwater Room. The room is not the most luxurious sleep in the Indian Ocean. By the account of nearly everyone who has spent a night in it, it is the most singular one available anywhere.
+The Manta Resort's mainland lodge serves as the arrival point, provides excellent diving, and handles all the boat logistics for reaching the Underwater Room. The room is not the most luxurious sleep in the Indian Ocean. By the account of nearly everyone who has spent a night in it, it is among the most singular available anywhere.

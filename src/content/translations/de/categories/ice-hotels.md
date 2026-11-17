@@ -2,12 +2,12 @@
 source: ice-hotels
 title: Eishotels
 tagline: "Vom Winter geformt, vom Frühling geschmolzen"
-description: "Jeden Winter von Grund auf neu errichtet, aus Tausenden Tonnen arktischen Schnees und Flusseises, sind Eishotels der vergänglichste Luxus der Welt. Von internationalen Künstlern gestaltet, bei Minusgraden erhalten und nur wenige Monate geöffnet, bevor sie poetisch in den Fluss zurückkehren, sind diese gefrorenen Paläste mit nichts anderem auf der Welt vergleichbar."
+description: "Jeden Winter von Grund auf neu errichtet, aus Tausenden Tonnen arktischen Schnees und Flusseises, sind Eishotels ein besonders vergänglicher Luxus. Von internationalen Künstlern gestaltet, bei Minusgraden erhalten und nur wenige Monate geöffnet, bevor sie poetisch in den Fluss zurückkehren, sind diese gefrorenen Paläste mit kaum etwas anderem vergleichbar."
 stats:
   topDestination: "Jukkasjärvi, Schweden"
 seo:
   metaTitle: "Eishotels: Übernachten im Palast aus Eis | StayAtNiche"
-  metaDescription: "Schlafen bei −5 °C in Kunstwerken aus Eis: die schönsten Eishotels in Schweden, Finnland, Norwegen und Kanada – für Ihr ganz besonderes Arktis-Abenteuer."
+  metaDescription: "Schlafen bei −5 °C in Kunstwerken aus Eis: Eishotels in Schweden, Finnland, Norwegen und Kanada – für Ihr ganz besonderes Arktis-Abenteuer."
 ---
 
 Jedes Jahr, wenn im schwedischen Subarktis der Herbst in den Winter übergeht, beginnt auf dem zugefrorenen Fluss Torne bei dem Dorf Jukkasjärvi ein eigentümliches Bauvorhaben. Eisernter-Trupps ziehen aufs Eis hinaus und schneiden Blöcke aus kristallklarem Flusseis heraus – manche bis zu 90 Zentimeter dick –, die das Tragwerk eines Gebäudes bilden werden, das es noch gar nicht gibt. Internationale Künstler reisen mit Skizzen und Meißeln an. Architekten übertragen Baupläne in Bauanleitungen für ein Material wie kein anderes. Wo im Oktober noch gefrorene Tundra lag, steht im Dezember ein Palast: gestaltet, beleuchtet und bereit für Gäste, die bei Temperaturen weit unter dem Gefrierpunkt darin schlafen.

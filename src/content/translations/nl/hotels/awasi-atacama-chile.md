@@ -1,7 +1,7 @@
 ---
 source: awasi-atacama-chile
 destination: San Pedro de Atacama, Antofagasta
-description: "Twaalf privévilla's hoog in de Atacamawoestijn, elk met een eigen auto en een eigen gids: de meest persoonlijke manier om de droogste niet-polaire woestijn ter wereld te ontdekken. De zoutvlakten, geisers, flamingolagunes en vulkanen van 8000 meter van de Atacama deel je niet volgens een schema met andere gasten; je verkent ze in je eigen tempo met een vaste expert."
+description: "Twaalf privévilla's hoog in de Atacamawoestijn, elk met een eigen auto en een eigen gids: een zeer persoonlijke manier om de droogste niet-polaire woestijn ter wereld te ontdekken. De zoutvlakten, geisers, flamingolagunes en vulkanen van 8000 meter van de Atacama deel je niet volgens een schema met andere gasten; je verkent ze in je eigen tempo met een vaste expert."
 highlights:
   - Eigen gids en auto voor elke villa
   - De Atacama op maat verkennen, zonder groepstours
@@ -22,7 +22,7 @@ bestFor:
   - Huwelijksreizigers
 seo:
   metaTitle: "Awasi Atacama: woestijnvilla's in Chili | StayAtNiche"
-  metaDescription: "Awasi Atacama: 12 privévilla's in de Atacamawoestijn in Chili, elk met eigen gids en auto. Geisers, flamingolagunes en sterrenkijken van wereldklasse."
+  metaDescription: "Awasi Atacama: 12 privévilla's in de Atacamawoestijn in Chili, elk met eigen gids en auto. Geisers, flamingolagunes en uitstekend sterrenkijken."
 ---
 
 De Atacamawoestijn ligt in een gesloten bekken tussen de Andes en de kustcordillera van Chili, waar de koude Humboldtstroom voor de kust en de regenschaduw van de Andes samen vrijwel alle neerslag tegenhouden. Het resultaat is de droogste niet-polaire woestijn ter wereld – in delen van de kern van de Atacama is nog nooit regen gemeten. Het landschap dat daardoor ontstaat, is niet de eentonige zandvlakte uit de verbeelding, maar een enorm, gevarieerd terrein van zoutvlakten vol bizarre mineraalformaties, vulkanische geothermische velden waar geisers bij zonsopkomst uitbarsten, meren op de altiplano waar flamingo's in roze groepen foerageren, en een hemel die zo vrij is van vocht en lichtvervuiling dat er in de regio meerdere grote internationale sterrenwachten zijn gebouwd.

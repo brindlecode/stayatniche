@@ -41,8 +41,7 @@ prosAndCons:
     - "Soufrière's roads are notoriously steep and narrow — the drive from the airport is demanding"
     - "Premium pricing relative to comparable Caribbean luxury properties"
 bookingUrl: https://www.booking.com/hotel/lc/jade-mountain-resort.html
-rating: 9.5
-reviewCount: 1089
+rating: 8.5
 seasonalInfo:
   bestTime: "December to April"
   peakSeason: "January to March"
@@ -73,6 +72,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=St.+Lucia+Caribbean"
     label: "Find Tours on Klook"
+location:
+  country: "Saint Lucia"
+  countryCode: "LC"
+  region: "Soufrière District"
+  city: "Soufrière"
+  locality: "Anse Chastanet"
+  coordinates:
+    lat: 13.85
+    lng: -61.06
+niche_scope: unverified
+niche_feature: "Official site says it is perched above Anse Chastanet's estate; Forbes says it sits atop Morne Chastanet. No source read calls it a cliff or cliff-edge hotel; it reads as a hillside/mountaintop resort."
+niche_source_url: "https://jademountain.com/"
+niche_verified_at: 2026-11-17
 ---
 
 The Pitons are the defining image of St. Lucia: two volcanic plugs rising sheer from the Caribbean Sea south of Soufrière, Gros Piton at 770 metres and Petit Piton at 743 metres, designated a UNESCO World Heritage Site in 2004. Every resort on St. Lucia's south coast is aware of the Pitons. Jade Mountain has built its entire architectural proposition around them, positioning twenty-nine cliff-face sanctuaries so that the fourth wall — the one that would normally enclose the room and separate it from the environment — is entirely absent. The Pitons are in the room.

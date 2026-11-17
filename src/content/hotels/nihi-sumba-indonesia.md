@@ -1,6 +1,6 @@
 ---
 name: "Nihi Sumba"
-category: jungle-lodges
+category: treehouse-hotels
 destination: "Sumba Island, East Nusa Tenggara, Indonesia"
 country: Indonesia
 continent: Asia
@@ -26,23 +26,22 @@ amenities:
   - "Deep-sea fishing and snorkelling excursions"
   - "Nihiwatu Foundation project visits"
 bestFor:
-  - "Serious surfers seeking a private and uncrowded world-class break"
+  - "Serious surfers seeking a private and uncrowded break"
   - "Travellers wanting genuine philanthropic impact alongside luxury accommodation"
   - "Couples seeking complete seclusion"
 prosAndCons:
   pros:
-    - "Occy's Left with a ten-surfer maximum is a proposition unavailable anywhere else in Indonesia"
+    - "Occy's Left with a ten-surfer maximum is a rare chance at uncrowded surf in Indonesia"
     - "Sumba is culturally and geographically distinct from the rest of Indonesia"
     - "The Nihiwatu Foundation gives the stay genuine ethical substance"
     - "Horse riding on empty beaches is exactly what it sounds like — exceptional"
   cons:
     - "Getting to Sumba requires a flight via Bali or Lombok, adding significant journey time"
-    - "The most expensive accommodation in Indonesia by a considerable margin"
+    - "One of the most expensive places to stay in Indonesia"
     - "Sumba's remoteness means limited options outside the resort"
     - "Surf access costs are additional to the already high room rate"
 bookingUrl: https://www.booking.com/hotel/id/nihi-sumba.html
-rating: 9.7
-reviewCount: 743
+rating: 8.8
 seasonalInfo:
   bestTime: "May to October for surf; year-round for non-surfers"
   peakSeason: "June to September"
@@ -73,6 +72,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Sumba+Island,+Indonesia"
     label: "Find Tours on Klook"
+location:
+  country: "Indonesia"
+  countryCode: "ID"
+  region: "East Nusa Tenggara"
+  city: "West Sumba Regency"
+  locality: "Hoba Wawi, Wanokaka"
+  coordinates:
+    lat: -9.75
+    lng: 119.35
+niche_scope: specific_rooms
+niche_feature: "Only one villa, the three-bedroom Treehouse (3 of 31 villas/estates), is built within the trees: circular glass bedrooms elevated above ground, linked by raised walkways. Rest are beachfront or hillside villas on dry-coast Sumba, not jungle lodge."
+niche_source_url: "https://nihi.com/sumba/villa/treehouse/"
+niche_verified_at: 2026-11-17
 ---
 
 Sumba is not Bali. The island sits 350 kilometres to the east in the Lesser Sunda chain, and almost nothing about it resembles the version of Indonesian tourism that has made Bali internationally recognisable. The landscape here is dry savannah, ikat-weaving villages, and megalithic stone tombs, with a coastline on the southwest that the Indian Ocean has shaped without obstruction since long before anyone was measuring waves. Nihi Sumba occupies 567 acres of this coastline, and the fact that it was consistently voted the world's best hotel by Travel + Leisure readers for several consecutive years says something specific about what a certain category of traveller values most.

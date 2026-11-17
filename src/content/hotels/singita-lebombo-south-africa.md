@@ -42,7 +42,6 @@ prosAndCons:
     - "Only fifteen suites means availability is tightly constrained, plan well ahead"
 bookingUrl: https://www.booking.com/hotel/za/singita-lebombo-lodge.html
 rating: 9.6
-reviewCount: 1243
 seasonalInfo:
   bestTime: "May to September"
   peakSeason: "July to August"
@@ -73,6 +72,17 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Kruger+National+Park,+South+Africa"
     label: "Find Tours on Klook"
+location:
+  country: "South Africa"
+  countryCode: "ZA"
+  locality: "Kruger National Park"
+  coordinates:
+    lat: -24.42
+    lng: 31.98
+niche_scope: entire_property
+niche_feature: "13 glass-walled suites on a cliffside above the N'wanetsi River in a Singita concession in Kruger National Park; also an exclusive-use villa."
+niche_source_url: "https://singita.com/lodge/singita-lebombo-lodge/"
+niche_verified_at: 2026-11-17
 ---
 
 Singita's position in South African safari is earned rather than marketed. The company has been operating in the Sabi Sand and more recently in private Kruger concessions for over three decades, and the accumulation of that experience shows in every detail at Lebombo: the guide who identifies a leopard from tyre tracks that crossed a vehicle path four hours earlier, the sommelier who knows the wine programme the way a ranger knows the bush, the kitchen that produces food of genuine quality from an environment that makes serious cooking logistically difficult.

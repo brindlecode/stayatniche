@@ -1,10 +1,10 @@
 ---
 source: desert-camps-sahara-wadi-rum
 title: "Wüstencamps in der Sahara und im Wadi Rum: der große Ratgeber für Nächte unter Sternen"
-excerpt: "Von den Dünen des Erg Chebbi in Marokko bis zu Jordaniens rosaroten Tälern: Entdecken Sie die außergewöhnlichsten Wüstencamps der Welt, in denen Stille und Sterne Luxus neu definieren."
+excerpt: "Von den Dünen des Erg Chebbi in Marokko bis zu Jordaniens rosaroten Tälern: Entdecken Sie außergewöhnliche Wüstencamps, in denen Stille und Sterne Luxus neu definieren."
 seo:
   metaTitle: "Wüstencamps in Sahara & Wadi Rum | StayAtNiche"
-  metaDescription: "Die schönsten Wüstencamps in der marokkanischen Sahara und im jordanischen Wadi Rum – mit Tipps zu Luxuszelten, Sternbeobachtung und Wüstentouren."
+  metaDescription: "Wüstencamps in der marokkanischen Sahara und im jordanischen Wadi Rum – mit Tipps zu Luxuszelten, Sternbeobachtung, Wüstentouren und der besten Reisezeit."
 ---
 
 Die Sahara und das Wadi Rum teilen eine Eigenschaft, die kein noch so ausgefeiltes Resortdesign herstellen kann: absolute Stille. In einer klaren Nacht blicken Sie an beiden Orten in einen Himmel, den die meisten heute lebenden Menschen nie wirklich gesehen haben – frei von Lichtverschmutzung, die Milchstraße von Horizont zu Horizont, Sterne so hell, dass sie Schatten werfen. Die Sandsteinformationen im jordanischen Wadi Rum waren schon alt, bevor es Rom gab. Die Dünen des Erg Chebbi in Marokko wandern seit Jahrtausenden unter denselben Winden. Das ist der Rahmen, der Wüstencamping außergewöhnlich macht – und mit der Fadendichte der Bettwäsche hat er nichts zu tun.
@@ -28,7 +28,7 @@ Tief in den Dünen gelegen, abseits der Ansammlung von Camps bei Merzouga, ist d
 Die Gestaltung des Camps ist durchdacht statt theatralisch: keine falschen Fackeln, keine Pagen in Karikaturkostümen, sondern eine ehrliche Neuinterpretation der traditionellen Berberästhetik, übertragen auf wirklich komfortable Unterkünfte. Die Mahlzeiten werden in der Campküche zubereitet und rund um ein zentrales Feuer serviert; die Speisekarte schöpft aus der marokkanischen Küchentradition und berücksichtigt zugleich heutige Ernährungswünsche. Die Kamelausritte bei Sonnenauf- und -untergang werden mit einer Würde begleitet, die sie zu echten Kulturerlebnissen statt zu Touristentheater macht.
 
 **Preise:** Ab 200 € pro Person und Nacht (Vollpension)
-**Ideal für:** Paare, kleine Gruppen, Reisende, die das beste Erlebnis am Erg Chebbi ohne übertriebenen Konzernschliff suchen
+**Ideal für:** Paare, kleine Gruppen, Reisende, die ein authentisches Erlebnis am Erg Chebbi ohne übertriebenen Konzernschliff suchen
 
 **Dar Ahlam, Skoura (mit Wüstenexpeditionen)**
 

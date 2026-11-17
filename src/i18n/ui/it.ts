@@ -50,7 +50,7 @@ const sulPl = (cat: string) => ({ le: 'sulle', gli: 'sugli', i: 'sui' } as Recor
 
 const it: typeof en = {
   meta: {
-    defaultDescription: 'Scopri gli hotel più insoliti del mondo: case sugli alberi, grotte, camere subacquee, castelli, hotel di ghiaccio e altro. Alloggi scelti che valgono il viaggio.',
+    defaultDescription: 'Scopri hotel insoliti in tutto il mondo: case sugli alberi, grotte, camere subacquee, castelli, hotel di ghiaccio e altro. Alloggi scelti che valgono il viaggio.',
   },
   fmt: {
     usd: (amount: string) => `${amount} $`,
@@ -125,7 +125,7 @@ const it: typeof en = {
     editorsPick: 'Scelta della redazione',
     around: (place: string) => `Dintorni di ${place}`,
     save: (name: string) => `Salva ${name}`,
-    scoreTitle: 'Voto della redazione su 10',
+    scoreTitle: 'Voto della redazione su 10 (nostra valutazione, non recensioni degli ospiti)',
     from: 'Da',
     perNight: '/ notte',
     seeRates: 'Vedi le tariffe',
@@ -163,7 +163,7 @@ const it: typeof en = {
   },
   blog: {
     metaTitle: 'Guide di viaggio: hotel insoliti, destinazioni e consigli',
-    metaDescription: 'Guide agli hotel più insoliti del mondo, dalle case sugli alberi alle grotte, dagli hotel di ghiaccio ai lodge per safari, più destinazioni e consigli pratici.',
+    metaDescription: 'Guide a hotel insoliti in tutto il mondo, dalle case sugli alberi alle grotte, dagli hotel di ghiaccio ai lodge per safari, più destinazioni e consigli pratici.',
     lead: 'Dove dormire, quando partire e come arrivare: viaggi costruiti attorno a un alloggio straordinario.',
     readGuide: 'Leggi la guida',
     filter: 'Filtra le guide',
@@ -173,6 +173,13 @@ const it: typeof en = {
     metaTitle: (name: string, dest: string) => `${name} — ${dest} | StayAtNiche`,
     categories: 'Categorie',
     editorScore: 'voto della redazione',
+    niche: {
+      specific_rooms: (cat: string) => `Solo alcune camere rientrano nella nostra categoria «${cat}»; le altre sono camere standard.`,
+      experience_only: (cat: string) => `L’elemento «${cat}» qui è qualcosa da visitare o fare, non il luogo in cui si dorme.`,
+      unverified: (cat: string) => `Non abbiamo ancora potuto confermare la caratteristica «${cat}» di questa struttura da una fonte ufficiale.`,
+      checked: (date: string) => `Caratteristica verificata il ${date}`,
+      source: 'Fonte',
+    },
     save: 'Salva',
     share: 'Condividi',
     linkCopied: 'Link copiato',
@@ -254,7 +261,7 @@ const it: typeof en = {
     other: 'Altri tipi di alloggio',
   },
   destinations: {
-    metaTitle: 'Destinazioni: dove trovare gli hotel più insoliti al mondo',
+    metaTitle: 'Destinazioni: dove trovare hotel insoliti nel mondo',
     metaDescription: (n: number) => `${n} ${plural(n, 'guida', 'guide')} alle destinazioni costruite attorno ad alloggi straordinari: quando andare, cosa vedere e gli hotel insoliti che valgono il viaggio.`,
     h1a: 'Dove andrai',
     h1b: 'la prossima volta?',
@@ -392,7 +399,7 @@ const it: typeof en = {
   notFound: {
     metaTitle: 'Pagina non trovata | StayAtNiche',
     h1: 'Sembra che questo alloggio abbia fatto il check-out in anticipo',
-    text: 'La pagina che cerchi non esiste o è stata spostata. Gli alloggi più straordinari del mondo sono comunque a un clic di distanza.',
+    text: 'La pagina che cerchi non esiste o è stata spostata. Alloggi straordinari in tutto il mondo sono comunque a un clic di distanza.',
     maybe: 'Forse cercavi uno di questi?',
   },
   photoCredits: {
@@ -427,7 +434,7 @@ const it: typeof en = {
     stayB: 'dormire',
   },
   home: {
-    metaTitle: 'StayAtNiche: gli alloggi più straordinari del mondo',
+    metaTitle: 'StayAtNiche: alloggi straordinari in tutto il mondo',
     metaDescription: 'Trova hotel insoliti che valgono il viaggio: case sugli alberi, grotte, camere subacquee, lodge per safari, hotel di ghiaccio e altro. Confronta i prezzi e prenota.',
     heroAlt: 'Una cabina di vetro su un crinale di montagna, sopra un mare di nuvole all’alba',
     eyebrow: (h: number, c: number, k: number) => `${h} ${plural(h, 'alloggio', 'alloggi')} · ${c} ${plural(c, 'paese', 'paesi')} · ${k} ${plural(k, 'modo', 'modi')} di dormire fuori dal comune`,

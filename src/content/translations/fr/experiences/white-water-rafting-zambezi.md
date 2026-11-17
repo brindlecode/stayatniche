@@ -2,7 +2,7 @@
 source: white-water-rafting-zambezi
 title: "Rafting sur le Zambèze"
 destination: "Gorges de Batoka, chutes Victoria"
-description: "Le Zambèze, en aval des chutes Victoria, est largement considéré comme le meilleur parcours de rafting à la journée au monde : 23 kilomètres de rapides continus de classe IV et V dans une spectaculaire gorge de basalte qui canalise l'un des plus puissants fleuves d'Afrique en un couloir bouillonnant de vagues, de trous et de rouleaux. Rien d'une paisible descente contemplative : c'est une journée entière d'épreuve physique et psychologique que la plupart des participants placent parmi les plus grandes expériences de leur vie de voyageur."
+description: "Le Zambèze, en aval des chutes Victoria, est largement considéré comme l'un des meilleurs parcours de rafting à la journée au monde : 23 kilomètres de rapides continus de classe IV et V dans une spectaculaire gorge de basalte qui canalise l'un des plus puissants fleuves d'Afrique en un couloir bouillonnant de vagues, de trous et de rouleaux. Rien d'une paisible descente contemplative : c'est une journée entière d'épreuve physique et psychologique que la plupart des participants placent parmi les plus grandes expériences de leur vie de voyageur."
 booking:
   price: "À partir de 160 $ par personne"
   duration: "Journée complète"
@@ -28,7 +28,7 @@ notIncluded:
   - "Frais de visa pour entrer en Zambie ou au Zimbabwe"
 seo:
   metaTitle: "Rafting sur le Zambèze, chutes Victoria | StayAtNiche"
-  metaDescription: "23 km de rapides de classe IV-V dans les gorges de Batoka, sous les chutes Victoria : le parcours de rafting à la journée le plus réputé au monde. Dès 160 $."
+  metaDescription: "23 km de rapides de classe IV-V dans les gorges de Batoka, sous les chutes Victoria : l'un des parcours de rafting à la journée les plus réputés au monde. Dès 160 $."
 ---
 
 C'est d'abord le son. Bien avant que le raft n'atteigne le premier rapide, on entend le Zambèze : un grondement profond, presque infrasonore, que les parois de la gorge amplifient jusqu'à le rendre presque physique. Debout au point de mise à l'eau en contrebas des chutes Victoria, les yeux levés vers les falaises de basalte qui s'élèvent à 120 mètres de chaque côté, puis baissés vers un fleuve qui vient de chuter de 108 mètres en un unique rideau d'eau, vous comprenez aussitôt que la journée ne sera pas ordinaire.

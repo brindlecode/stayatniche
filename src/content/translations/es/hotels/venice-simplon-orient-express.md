@@ -1,7 +1,7 @@
 ---
 source: venice-simplon-orient-express
 destination: "De Londres a Venecia (y más allá)"
-description: "El tren más famoso del mundo, el Venice Simplon-Orient-Express, es un museo rodante del esplendor art déco de los años veinte que recorre con sus vagones originales restaurados las grandes rutas ferroviarias de Europa. De Londres a Venecia, de París a Estambul o de los Alpes suizos al Adriático, es viajar como se viajaba en la edad de oro del ferrocarril: sin prisas, con belleza y de una forma irrepetible."
+description: "Uno de los trenes más famosos del mundo, el Venice Simplon-Orient-Express, es un museo rodante del esplendor art déco de los años veinte que recorre con sus vagones originales restaurados las grandes rutas ferroviarias de Europa. De Londres a Venecia, de París a Estambul o de los Alpes suizos al Adriático, es viajar como se viajaba en la edad de oro del ferrocarril: sin prisas, con belleza y de una forma irrepetible."
 highlights:
   - "Vagones Pullman y coches cama originales de los años veinte y treinta, restaurados con mimo"
   - "Ruta de Londres a Venecia por los Alpes suizos y los lagos italianos"
@@ -24,7 +24,7 @@ bestFor:
   - "Cualquiera que quiera celebrar un gran acontecimiento con un estilo excepcional"
 prosAndCons:
   pros:
-    - "Un ambiente histórico incomparable en vagones auténticamente originales"
+    - "Un ambiente histórico extraordinario en vagones auténticamente originales"
     - "El viaje de Londres a Venecia por los Alpes es una de las grandes experiencias viajeras de Europa"
     - "Comer a bordo es un acontecimiento en sí mismo: una cocina excepcional en un entorno extraordinario"
     - "La sensación de ocasión especial de la salida a la llegada no tiene igual en ninguna otra forma de viajar"

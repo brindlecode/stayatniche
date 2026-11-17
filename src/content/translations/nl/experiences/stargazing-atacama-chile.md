@@ -2,12 +2,12 @@
 source: stargazing-atacama-chile
 title: "Sterrenkijken in de Atacamawoestijn"
 destination: "San Pedro de Atacama"
-description: "Kijk vanaf 2.400 meter hoogte in de droogste woestijn op aarde omhoog en zie de nachthemel zoals mensen die zagen voordat er elektriciteit bestond: een Melkweg zo dicht en driedimensionaal dat hij een vage schaduw werpt, de Magelhaense Wolken met het blote oog zichtbaar als satellietsterrenstelsels van ons eigen stelsel, en het Zuiderkruis dat boven je draait in een kosmische dichtheid waarvoor beroepsastronomen speciaal naar de Atacama reizen. De beste nachthemel ter wereld vind je hier, en hem delen met een astronoom die hem door en door kent, is een van de meest indrukwekkende ervaringen die reizen te bieden heeft."
+description: "Kijk vanaf 2.400 meter hoogte in de droogste woestijn op aarde omhoog en zie de nachthemel zoals mensen die zagen voordat er elektriciteit bestond: een Melkweg zo dicht en driedimensionaal dat hij een vage schaduw werpt, de Magelhaense Wolken met het blote oog zichtbaar als satellietsterrenstelsels van ons eigen stelsel, en het Zuiderkruis dat boven je draait in een kosmische dichtheid waarvoor beroepsastronomen speciaal naar de Atacama reizen. Een van de beste nachthemels ter wereld vind je hier, en hem delen met een astronoom die hem door en door kent, is een van de meest indrukwekkende ervaringen die reizen te bieden heeft."
 booking:
   price: "vanaf $ 55 per persoon"
   duration: "3-4 uur ('s avonds)"
 highlights:
-  - "De helderste nachthemel ter wereld, vanaf 2.400 m hoogte in de Atacama"
+  - "Een van de helderste nachthemels ter wereld, vanaf 2.400 m hoogte in de Atacama"
   - "Professionele telescopen tonen de ringen van Saturnus, nevels en sterrenhopen"
   - "Een ervaren astronoom vertelt over de mythologie en wetenschap van de zuidelijke hemel"
   - "Met het blote oog: de Melkweg, de Grote en Kleine Magelhaense Wolk en het Zuiderkruis"
@@ -28,7 +28,7 @@ notIncluded:
   - Overnachting in San Pedro de Atacama
 seo:
   metaTitle: "Sterrenkijken in de Atacamawoestijn, Chili | StayAtNiche"
-  metaDescription: "Beleef de helderste nachthemel ter wereld op 2.400 m in de Atacamawoestijn. Professionele telescopen, ervaren astronomen en de volle Melkweg. Vanaf $ 55 p.p."
+  metaDescription: "Beleef een van de helderste nachthemels ter wereld op 2.400 m in de Atacamawoestijn. Telescopen, ervaren astronomen en de volle Melkweg. Vanaf $ 55 p.p."
 ---
 
 De Europese Zuidelijke Sterrenwacht koos niet voor niets voor deze plek. De ALMA-radiotelescoop staat hier niet voor niets. In de binnenlanden van de Atacama valt minder dan een millimeter regen per jaar, je zit boven de 2.400 meter, er is nauwelijks stof en honderden kilometers lang is er bijna geen menselijke bewoning. Die combinatie levert atmosferische omstandigheden op die beroepsastronomen tot de beste ter wereld rekenen om waar te nemen. Je hebt geen doctorstitel nodig om het verschil te zien.

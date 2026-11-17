@@ -1,0 +1,317 @@
+[
+ {
+  "slug": "goreme-valley-cave-house-turkey",
+  "name": "Göreme Valley Cave House",
+  "official_url": "https://www.goremevalleycavehouse.com/",
+  "source_url": "https://www.goremevalleycavehouse.com/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Only 3 of the guesthouse's rooms are underground cave rooms carved into real rock; the other rooms (3 standard, 5 family, 6 suites) are not described as cave rooms.",
+  "evidence_quote": "Our accommodation includes 3 standard rooms, 3 underground cave rooms, 5 family & friends rooms (for 4-7 people) and 6 suite rooms.",
+  "operating": "unknown",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site confirms real rock-carved cave rooms, but only 3 of 17 rooms; category fits as a partial cave stay.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Nevşehir",
+   "city": "Göreme",
+   "locality": null
+  },
+  "page_issues": [
+   "Rating of 8 is not supported by any cited source",
+   "Page does not state the full room count (17 rooms: 3 standard, 3 cave, 5 family, 6 suites) or that the guesthouse houses up to 60 guests"
+  ]
+ },
+ {
+  "slug": "kelebek-special-cave-hotel-turkey",
+  "name": "Kelebek Special Cave Hotel",
+  "official_url": "https://www.kelebekhotel.com/",
+  "source_url": "https://www.kelebekhotel.com/en/about",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "36 rooms mixing cave, fairy chimney and stone rooms; only some cave rooms are carved directly into natural rock, including historic spaces dating to the 8th century. Others are stone architecture.",
+  "evidence_quote": "Some of our cave rooms are carved directly into the natural rock, including historic spaces dating back to the 8th century",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official About page confirms some rock-carved cave rooms among 36 mixed cave/stone rooms; partial cave stay fits category.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Nevşehir",
+   "city": "Göreme",
+   "locality": "Aydınlı neighbourhood"
+  },
+  "page_issues": [
+   "Official site now names the hotel 'Kelebek Cave Hotel' (page uses 'Special Cave Hotel')",
+   "Page says fairy chimney rooms are 'thousands of years old'; official site says historic spaces date back to the 8th century",
+   "Claim that the hotel bills its views as the best among Cappadocia's cave hotels is not supported by the pages checked",
+   "Page does not give the 36-room total or which rooms are cave versus stone"
+  ]
+ },
+ {
+  "slug": "kokopelli-cave-usa",
+  "name": "Kokopelli's Cave Bed & Breakfast",
+  "official_url": "https://kokos-cave.com/",
+  "source_url": "https://kokos-cave.com/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Single bookable unit: an approx. 1,700 sq ft man-made cave blasted into a vertical sandstone cliff, entrance in the cliff face and the cave 70 feet below the surface; one party at a time.",
+  "evidence_quote": "When you reserve Kokopelli’s cave, you will be staying in a cave of approximately 1700 sq. feet.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site confirms the whole unit is a cave built into a sandstone cliff; fits cave-hotels (artificial cave in rock).",
+  "treehouse_structure": null,
+  "location": {
+   "region": "New Mexico",
+   "city": "Farmington",
+   "locality": null
+  },
+  "page_issues": [
+   "Page says views are from 200 feet above the canyon floor; official site says the La Plata valley is some 300 feet below",
+   "Price range $280-$380, rating 8.7 and 445 reviews are not supported by the official site; a third-party listing gives $220",
+   "'There is nothing else quite like it in the United States' is an unsupported superlative",
+   "Described as 'carved' in places; KOB and showcaves describe it as blasted out of the sandstone",
+   "TV/DVD library and gas fireplace amenities not confirmed by the sources checked"
+  ]
+ },
+ {
+  "slug": "lucky-cave-cappadocia-turkey",
+  "name": "Lucky Cave Cappadocia",
+  "official_url": "https://www.luckycavehotel.com/",
+  "source_url": "https://www.luckycavehotel.com/deluxe-oda.html",
+  "source_type": "official",
+  "niche_scope": "unverified",
+  "niche_feature": "Official room pages (Deluxe, King, Deluxe Suite) describe rooms as built entirely of arched cut stone ('Kemer Taş Yapı'), i.e. masonry stone rooms. No page says any room is rock-carved or in a natural cave.",
+  "evidence_quote": "Deluxe odalarımız 25 metrekare olup; Kapadokya’ya yeni bir soluk getiren dekorasyon anlayışı ile tamamı kemer taşlardan oluşmaktadır.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site describes nine built stone rooms of arched stone; none stated as rock-carved or cave, so it fails the cave test.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Nevşehir",
+   "city": "Göreme",
+   "locality": null
+  },
+  "page_issues": [
+   "Category cave-hotels is not supported: official pages call the rooms stone rooms (arched stone construction), not carved cave rooms",
+   "Page title/name 'Cave' is a name only; the page itself already concedes rooms may not be carved"
+  ],
+  "agent_verdict": "draft",
+  "editor_note": "Absence of rock-carved wording on the site is not proof it is not a cave stay: kept, scope unverified."
+ },
+ {
+  "slug": "melek-cave-hotel-turkey",
+  "name": "Melek Cave Hotel",
+  "official_url": "https://melekcave.com/",
+  "source_url": "https://melekcave.com/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Official site states every room is carved from rock; six cave room types listed (Deluxe Cave, Cave Double, Arch Twin, Double Cave, Cave Triple, Cave Family). Site was unreachable by curl; read via WebFetch.",
+  "evidence_quote": "Melek Cave'deki her oda kayalardan oyulmuştur ve bireysel bir şekilde döşenmiştir.",
+  "operating": "unknown",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site says every room is rock-carved; fits cave-hotels as an entire-property cave hotel.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Nevşehir",
+   "city": "Göreme",
+   "locality": "Gafeli neighbourhood"
+  },
+  "page_issues": [
+   "Page names only two room types; official site lists six cave room types",
+   "Room service (24-hour), laundry and car/bike rental amenities not confirmed in the text retrieved",
+   "Official site content retrieved only via a fetch tool summary (direct connection failed); quote should be re-checked on the live page"
+  ]
+ },
+ {
+  "slug": "museum-hotel-cappadocia",
+  "name": "Museum Hotel",
+  "official_url": "https://www.museumhotel.com.tr/",
+  "source_url": "https://www.museumhotel.com.tr/en/rooms-suites/deluxe-rooms",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Deluxe Rooms are restored ancient caves; superior, prime, imperial and pool suites are described as cave and stone architecture, with many named Cave Suites. Some units are stone, e.g. The Konak Pool Suite is a detached stone house.",
+  "evidence_quote": "Our Deluxe Rooms, all of which have been implemented by a meticulous restoration of thousands of years old caves",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site confirms cave rooms and named cave suites, mixed with stone-built units; category fits.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Nevşehir",
+   "city": "Uçhisar",
+   "locality": "Tekelli neighbourhood"
+  },
+  "page_issues": [
+   "'30 unique antique-furnished cave suites' room count not stated on the official pages checked",
+   "Official pages mix cave and stone units (e.g. The Konak is a detached stone house), so 'all cave suites' overstates it",
+   "'Highest point in Cappadocia' is unsupported",
+   "Lil'a Restaurant 'consistently cited among Turkey's best' is an unsupported superlative",
+   "Infinity pool 'carved into the rock' and spa 'carved into tufa' not confirmed",
+   "Rating 9.6 and 1,243 reviews unsourced; founder's private collection claim not confirmed"
+  ]
+ },
+ {
+  "slug": "ottoman-cave-suites-turkey",
+  "name": "Ottoman Cave Suites",
+  "official_url": "https://www.ottomancavesuites.com/",
+  "source_url": "https://www.ottomancavesuites.com/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "13 rooms: 8 rock-carved (kaya oyma) rooms and 5 standard stone rooms; five of the rock-carved suites face Uçhisar Castle.",
+  "evidence_quote": "Otelimiz; 8 kaya oyma ve 5 standart taş oda olmak üzere toplam 13 odaya sahiptir.",
+  "operating": "unknown",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site confirms 8 of 13 rooms are rock-carved; partial cave stay fits the category.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Nevşehir",
+   "city": "Göreme",
+   "locality": "Avcılar neighbourhood"
+  },
+  "page_issues": [
+   "Page says the hotel is 'brand new'; the site's copyright is 2021, so the opening claim is dated"
+  ]
+ },
+ {
+  "slug": "peristyle-cave-cappadocia-turkey",
+  "name": "Peristyle Cave Cappadocia",
+  "official_url": "https://www.peristylecave.com",
+  "source_url": "https://www.peristylecave.com/en",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "8 rooms in total: five cave rooms and three stone rooms, each named after a planet.",
+  "evidence_quote": "Peristyle Cave Cappadocia has a total of 8 rooms, including five caves and three stone rooms.",
+  "operating": "unknown",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site states five of eight rooms are caves; partial cave stay fits the category.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Nevşehir",
+   "city": "Uçhisar",
+   "locality": null
+  },
+  "page_issues": [
+   "Official site does not say the five cave rooms are rock-carved, only that they are 'caves'",
+   "Official site does not say which planet-named rooms are cave versus stone"
+  ]
+ },
+ {
+  "slug": "romantic-cave-hotel-turkey",
+  "name": "Romantic Cave Hotel",
+  "official_url": "https://www.romanticcavehotel.com/",
+  "source_url": "https://romanticcavehotel.com/index.php/hakkimizda/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Seven rooms, all described by the hotel as historic cave rooms (mağara odaları); the hotel says it opened in 1970 with cave rooms and later renovated them.",
+  "evidence_quote": "Tarihi mağara odalarımız, misafirlerine hem ruhsal dinginlik hem de benzersiz bir deneyim sunar.",
+  "operating": "unknown",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official About page says all seven rooms are historic cave rooms; fits cave-hotels as entire-property.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Nevşehir",
+   "city": "Ürgüp",
+   "locality": "Duayeri"
+  },
+  "page_issues": [
+   "Room sizes stated as 30 to 40 sq m; official site also lists Eros and Agape at 50 sq m",
+   "Rooms are called cave rooms without stating they are rock-carved",
+   "'Fifty years of experience' is the hotel's own claim, history page dates opening to 1970"
+  ]
+ },
+ {
+  "slug": "seki-cave-hotel-turkey",
+  "name": "Seki Cave Hotel",
+  "official_url": "https://www.sekicavehotel.com/",
+  "source_url": "https://www.sekicavehotel.com/en/about-us",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Hotel built in 2015 by the Kelebek Group and described as a cave boutique hotel with cave suites and deluxe cave rooms; some twin/double rooms are not individually labelled cave.",
+  "evidence_quote": "Experience authentic cave rooms, a homemade Turkish breakfast, and genuine hospitality for a truly unforgettable stay.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site presents the hotel as authentic cave rooms and suites; fits cave-hotels, though room-by-room carving is not specified.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Nevşehir",
+   "city": "Çavuşin",
+   "locality": null
+  },
+  "page_issues": [
+   "Official site does not state that rooms are rock-carved, only 'authentic cave rooms'; some Twin/Double rooms are not labelled cave",
+   "'Hamam and Turkish bath' and 'pet-friendly' not confirmed in pages checked"
+  ]
+ },
+ {
+  "slug": "sextantio-cave-italy",
+  "name": "Sextantio Le Grotte della Civita",
+  "official_url": "https://www.sextantio.it/en/legrottedellacivita/matera/",
+  "source_url": "https://www.sextantio.it/en/legrottedellacivita/classic-room/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "18 rooms are caves in the Sasso Barisano (Civita) (e.g. Cave 17, 18, 20), restored. The same complex also runs a separate Palazzo della Civita with non-cave rooms.",
+  "evidence_quote": "This cosy 35 m2 cave with a bathtub in the night area ensures a pleasant and genuinely romantic experience.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site lists numbered cave rooms in Matera's Sassi; category fits, with a separate non-cave palazzo wing.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Basilicata",
+   "city": "Matera",
+   "locality": "Sasso Barisano (Civita)"
+  },
+  "page_issues": [
+   "Page does not mention the separate Palazzo della Civita rooms offered by the same property",
+   "'Eighteen interconnected cave chambers' and 'light shaft' details not confirmed; official says 18 rooms plus an ancient church",
+   "'One of the world's most extraordinary boutique hotels' and '9,000-year-old city' are unsupported superlatives",
+   "Awards, filming-location and 892-review/9.4 rating claims unsourced"
+  ]
+ },
+ {
+  "slug": "signature-cave-cappadocia-turkey",
+  "name": "Signature Cave Cappadocia Trademark Collection by Wyndham",
+  "official_url": "https://www.signaturecavecappadocia.com/",
+  "source_url": "https://www.signaturecavecappadocia.com/hakkimizda/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Boutique hotel whose suites are marketed as cave suites (Premium, Junior, Deluxe Cave Suite) with natural rock walls; the Signature Pool Suite is not itself labelled cave.",
+  "evidence_quote": "Kapadokya’nın yüzyıllık mağara mimarisini çağdaş tasarımla birleştirme vizyonundan doğdu.",
+  "operating": "unknown",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site markets all suites as cave suites with natural rock walls; fits cave-hotels, carving details thin.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Nevşehir",
+   "city": "Ürgüp",
+   "locality": "Mustafapaşa"
+  },
+  "page_issues": [
+   "Location is the historic village of Mustafapaşa near Ürgüp, not Nevşehir town as page's destination implies",
+   "Pool suite is not described as a cave suite on the pages checked",
+   "Official domain is signaturecavecappadocia.com (signaturecave.com redirects)"
+  ]
+ }
+]

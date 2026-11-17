@@ -20,7 +20,6 @@ bestFor:
   - "Budget-minded cave stays"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Splendid%20Cave%20Hotel%2C%20Ortahisar&adults=2"
 rating: 7.8
-reviewCount: 0
 coordinates:
   lat: 38.6193619
   lng: 34.8659257
@@ -29,6 +28,18 @@ sourceId: "osm:node/11416685769"
 verifiedAt: 2026-10-09
 publishedDate: 2026-10-09
 status: published
+location:
+  country: "Turkey"
+  countryCode: "TR"
+  region: "Nevşehir"
+  city: "Ortahisar"
+  coordinates:
+    lat: 38.6193619
+    lng: 34.8659257
+niche_scope: specific_rooms
+niche_feature: "Official room list names 10 of 12 rooms as Cave Rooms (Standard, Deluxe, Suit, Superior Suit); rooms 203 and 401 are plain Standard Double Rooms. Site never describes rock carving, only the 'Cave Room' names."
+niche_source_url: "https://www.splendidcavehotel.com/"
+niche_verified_at: 2026-11-17
 ---
 
 Splendid Cave Hotel in Ortahisar is a mixed property, and it is worth being clear about that from the start. The hotel's website lists twelve rooms. Ten of them carry the words "cave room" in their names, and two, rooms 203 and 401, are listed as plain Standard Double Rooms. So the cave experience applies to most, but not all, of the rooms.

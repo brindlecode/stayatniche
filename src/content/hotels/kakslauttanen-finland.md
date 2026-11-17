@@ -33,7 +33,7 @@ bestFor:
   - Winter adventure enthusiasts
 prosAndCons:
   pros:
-    - Unmatched northern lights viewing conditions
+    - Excellent northern lights viewing conditions
     - Remote location means genuinely dark skies
     - Unique thermal glass technology keeps you warm while sky-gazing
     - Extensive range of Arctic activities on-site
@@ -43,8 +43,7 @@ prosAndCons:
     - Glass igloos are intimate but compact, not suitable for those who need space
     - Northern lights sightings depend on solar and weather conditions
 bookingUrl: https://www.booking.com/hotel/fi/kakslauttanen-arctic-resort.html
-rating: 9.3
-reviewCount: 2847
+rating: 8.8
 seasonalInfo:
   bestTime: November to March for northern lights; June to August for midnight sun
   peakSeason: December to February
@@ -73,6 +72,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Saariselkä,+Finnish+Lapland"
     label: "Find Tours on Klook"
+location:
+  country: "Finland"
+  countryCode: "FI"
+  region: "Lapland"
+  city: "Inari"
+  locality: "Saariselkä"
+  coordinates:
+    lat: 68.334611
+    lng: 27.334289
+niche_scope: specific_rooms
+niche_feature: "Glass igloos (small, large, Kelo-Glass igloos with log-chalet bedrooms) in East and West villages, alongside ordinary log cabins and chalets, suites, and snow igloos. Glass igloos run late August to April."
+niche_source_url: "https://www.kakslauttanen.fi/accommodation/small-glass-igloo-east-village"
+niche_verified_at: 2026-11-17
 ---
 
 There are places that exist in the collective imagination of travellers long before they are visited, and Kakslauttanen Arctic Resort is emphatically one of them. Sitting at 68 degrees north in the wilderness of Finnish Lapland, this collection of thermal glass igloos has become the definitive answer to the question that haunts every aurora hunter: where is the very best place on Earth to sleep beneath the northern lights?
@@ -83,7 +95,7 @@ Yrjö Rissanen built the first glass igloo here in 1999, driven by a simple but 
 
 What lifts Kakslauttanen beyond a simple novelty is the sheer quality of the surrounding experience. Days are structured around Finnish Lapland's winter wilderness: snowmobile expeditions into the vast Urho Kekkonen National Park, reindeer-drawn sleigh rides through old-growth forest, husky safaris with teams of Siberian and Alaskan huskies whose collective enthusiasm is genuinely infectious, and ice fishing on frozen lakes where the silence is so complete it becomes a sound in itself.
 
-The resort's smoke sauna, one of the finest traditional saunas in Finland, is the ideal antidote to a day in the cold. The ritual of heating the smoke sauna for hours, then sitting in its ancient birch-scented warmth before rolling in fresh snow, is one of those experiences that defies easy description.
+The resort's smoke sauna, a traditional Finnish sauna, is the ideal antidote to a day in the cold. The ritual of heating the smoke sauna for hours, then sitting in its ancient birch-scented warmth before rolling in fresh snow, is one of those experiences that defies easy description.
 
 In the evening, the restaurant serves dishes that root you firmly in Lapland: reindeer carpaccio, smoked Arctic char, cloudberry desserts made with berries foraged from the surrounding bogs. After dinner, guests gravitate back toward their igloos, setting aurora alarms and scanning the sky with the particular focused hope that only cold, dark latitudes inspire.
 

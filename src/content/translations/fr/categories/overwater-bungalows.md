@@ -2,12 +2,12 @@
 source: overwater-bungalows
 title: "Bungalows sur pilotis"
 tagline: "Votre paradis privé au-dessus du lagon"
-description: "Passez directement de votre chambre à un lagon turquoise et tiède. Nés en Polynésie française et désormais présents dans tous les tropiques, les bungalows sur pilotis sont la référence absolue du luxe insulaire. Planchers de verre dévoilant le récif, terrasses privées au-dessus d'une eau immaculée, et l'océan pour compagnon de chaque instant."
+description: "Passez directement de votre chambre à un lagon turquoise et tiède. Nés en Polynésie française et désormais présents dans tous les tropiques, les bungalows sur pilotis sont une référence du luxe insulaire. Planchers de verre dévoilant le récif, terrasses privées au-dessus d'une eau immaculée, et l'océan pour compagnon de chaque instant."
 stats:
   topDestination: "Maldives"
 seo:
   metaTitle: "Bungalows sur pilotis : luxe sur le lagon | StayAtNiche"
-  metaDescription: "Les plus beaux bungalows sur pilotis du monde, aux Maldives, à Bora Bora et ailleurs : dormir au-dessus d'un lagon tropical, le luxe insulaire par excellence."
+  metaDescription: "Une sélection de bungalows sur pilotis, aux Maldives, à Bora Bora et ailleurs : dormir au-dessus d'un lagon tropical, une expérience de luxe insulaire."
 ---
 
 Le concept est simple, et il fonctionne : une villa en bois avancée au-dessus d'une eau tropicale limpide, un escalier qui descend directement dans le lagon, une terrasse privée où la seule décision à prendre est de savoir si vous admirerez le lever du soleil depuis le transat ou depuis l'eau, en contrebas. Imaginés en Polynésie française à la fin des années 1960 pour pallier le manque de terre sur les atolls coralliens, les bungalows sur pilotis sont depuis devenus l'image la plus emblématique du voyage de rêve. Une réputation méritée.

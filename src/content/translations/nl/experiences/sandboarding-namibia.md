@@ -2,7 +2,7 @@
 source: sandboarding-namibia
 title: "Sandboarden op de duinen van Sossusvlei"
 destination: "Sossusvlei, Namibwoestijn"
-description: "Suis op een sandboard van de hoogste zandduinen ter wereld naar beneden, met snelheden tot 80 km/u op zandbergen die 300 meter boven de eeuwenoude kleipan uitrijzen. De duinen van Sossusvlei horen bij de meest gefotografeerde natuurlijke formaties op aarde: steenrood, perfect door de wind gebeeldhouwd en volkomen stil. Door je er op volle snelheid vanaf te storten, verandert de mooiste woestijn ter wereld in de spectaculairste speeltuin ter wereld."
+description: "Suis op een sandboard van enkele van de hoogste zandduinen ter wereld naar beneden, met snelheden tot 80 km/u op zandbergen die 300 meter boven de eeuwenoude kleipan uitrijzen. De duinen van Sossusvlei horen bij de meest gefotografeerde natuurlijke formaties op aarde: steenrood, perfect door de wind gebeeldhouwd en volkomen stil. Door je er op volle snelheid vanaf te storten, verandert een van de mooiste woestijnen ter wereld in een spectaculaire speeltuin."
 booking:
   price: "vanaf $ 80 per persoon"
   duration: "Halve dag"
@@ -27,7 +27,7 @@ notIncluded:
   - Overnachting in de omgeving van Sossusvlei
 seo:
   metaTitle: "Sandboarden bij Sossusvlei, Namibië | StayAtNiche"
-  metaDescription: "Board met 80 km/u van duinen van 300 meter hoog in Sossusvlei, Namibië. De mooiste woestijn ter wereld wordt een speeltuin vol adrenaline. Vanaf $ 80 p.p."
+  metaDescription: "Board met 80 km/u van duinen van 300 meter hoog in Sossusvlei, Namibië. Een van de mooiste woestijnen ter wereld wordt een adrenalinespeeltuin. Vanaf $ 80 p.p."
 ---
 
 Het duin Big Daddy rijst 325 meter op vanaf de bodem van de Deadvlei-pan. De klim duurt ongeveer 45 minuten, over de messcherpe kam met aan beide kanten woestijn en onder je de steeds kleiner wordende witte kleipan. Boven blaast de wind het zand in horizontale gordijnen van de kam. Het uitzicht (de Namib die tot aan elke horizon reikt, dode kameeldoornbomen die blauwe schaduwen over de witte grond werpen, duinkammen die in de hittetrillingen verdwijnen) is iets waar reisfotografie steevast tekortschiet.

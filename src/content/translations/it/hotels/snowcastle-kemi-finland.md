@@ -1,7 +1,7 @@
 ---
 source: snowcastle-kemi-finland
 destination: "Kemi, Lapponia"
-description: "Il castello di neve più grande del mondo, ricostruito da zero ogni inverno nella città costiera finlandese di Kemi: una fortezza di neve e ghiaccio con camere d'albergo, ristoranti e una cappella, affacciata sul Golfo di Botnia ghiacciato. La costruzione di neve più ambiziosa dal punto di vista architettonico di tutta la Terra."
+description: "Il castello di neve più grande del mondo, ricostruito da zero ogni inverno nella città costiera finlandese di Kemi: una fortezza di neve e ghiaccio con camere d'albergo, ristoranti e una cappella, affacciata sul Golfo di Botnia ghiacciato. Una costruzione di neve architettonicamente ambiziosa, ricostruita ogni inverno."
 highlights:
   - "Il castello di neve più grande del mondo, ricostruito ogni inverno con un progetto sempre nuovo"
   - "Camere d'albergo, ristorante, cappella e galleria d'arte all'interno del castello"

@@ -2,7 +2,7 @@
 title: "Best Hotels in Iceland for Northern Lights: The Complete Aurora Chaser's Guide"
 author: "StayAtNiche Team"
 category: "guide"
-excerpt: "From glass walled lodges in the Icelandic highlands to geothermal pools under dancing auroras, these are the finest hotels for chasing the Northern Lights in Iceland."
+excerpt: "From glass walled lodges in the Icelandic highlands to geothermal pools under dancing auroras, these are standout hotels for chasing the Northern Lights in Iceland."
 coverImage: /images/blog/best-hotels-iceland-northern-lights.jpg
 publishedDate: 2025-02-15T00:00:00.000Z
 tags:
@@ -71,7 +71,7 @@ Each cabin is essentially a greenhouse of tempered glass, with a curved glass ro
 ---
 
 
-The Retreat at Blue Lagoon is not primarily an aurora hotel. It is Iceland's most celebrated luxury property, full stop. But its location in the Reykjanes Peninsula's geothermal fields, combined with access to the Blue Lagoon's outdoor pools at any hour, creates what may be the world's most spectacular northern lights viewing context: floating in 38°C mineral-rich geothermal water while the aurora moves overhead.
+The Retreat at Blue Lagoon is not primarily an aurora hotel. It is one of Iceland's most celebrated luxury properties. But its location in the Reykjanes Peninsula's geothermal fields, combined with access to the Blue Lagoon's outdoor pools at any hour, creates a memorable northern lights viewing setting: floating in 38°C mineral-rich geothermal water while the aurora moves overhead.
 
 The Retreat occupies a lava field directly adjacent to the Blue Lagoon, with 62 suites and rooms built into and around the volcanic landscape. Guests have exclusive access to the lagoon's private RETREAT Spa, including outdoor pools, at all hours. When the aurora appears — and at this latitude appearances are frequent during the current solar maximum — guests can slip into the silica-white water and watch from there.
 

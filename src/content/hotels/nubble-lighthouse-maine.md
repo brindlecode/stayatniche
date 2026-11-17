@@ -43,7 +43,6 @@ prosAndCons:
     - "Peak summer prices are significantly higher than shoulder season"
 bookingUrl: https://www.booking.com/
 rating: 8.7
-reviewCount: 521
 seasonalInfo:
   bestTime: September to October for fall foliage and quiet beaches; June to August for full summer experience
   peakSeason: July and August

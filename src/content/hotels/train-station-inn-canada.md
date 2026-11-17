@@ -23,7 +23,6 @@ bestFor:
   - "Families"
 bookingUrl: "https://www.tatatrainstation.com/"
 rating: 8.5
-reviewCount: 0
 coordinates:
   lat: 45.709154
   lng: -63.2840787
@@ -32,6 +31,18 @@ sourceId: "osm:node/1838341167"
 verifiedAt: 2026-11-15
 publishedDate: 2026-11-15
 status: published
+location:
+  country: "Canada"
+  countryCode: "CA"
+  region: "Nova Scotia"
+  city: "Tatamagouche"
+  coordinates:
+    lat: 45.709154
+    lng: -63.2840787
+niche_scope: entire_property
+niche_feature: "Guest accommodation is vintage Canadian-built cabooses and boxcars converted to private suites beside the original c.1887 station building. Seasonal booking (May 1 to Oct 11 in 2026)."
+niche_source_url: "https://www.tatatrainstation.com/"
+niche_verified_at: 2026-11-17
 ---
 
 The Train Station Inn sits in the village of Tatamagouche, Nova Scotia, where a 600-foot, 400-ton train remains a dominant sight. The guest rooms are vintage Canadian-built cabooses and boxcars, authentic on the outside and redesigned inside as private suites that echo their railway past. The original station building, which dates from around 1887, is part of the property.

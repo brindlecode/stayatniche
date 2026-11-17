@@ -24,7 +24,6 @@ bestFor:
   - "Couples"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Transfagarasan%20Treehouse%20Village%2C%20Arefu&adults=2"
 rating: 8.2
-reviewCount: 0
 coordinates:
   lat: 45.4065627
   lng: 24.6365594
@@ -33,6 +32,19 @@ sourceId: "osm:node/12118525397"
 verifiedAt: 2026-10-13
 publishedDate: 2026-10-13
 status: published
+location:
+  country: "Romania"
+  countryCode: "RO"
+  region: "Argeș"
+  city: "Curtea de Argeș"
+  locality: "Transfăgărășan road, DN7C km 75"
+  coordinates:
+    lat: 45.4065627
+    lng: 24.6365594
+niche_scope: entire_property
+niche_feature: "Village of small separate cabins (Double, Triple, Twin, each about 25 sq m) described as houses suspended in trees; the site gives no further structural detail."
+niche_source_url: "https://transfagarasantreehousevillage.com/en/"
+niche_verified_at: 2026-11-17
 ---
 
 Transfagarasan Treehouse Village is a small settlement of houses suspended in the trees near Arefu, on the Transfăgărășan side of the Făgăraș mountains in Romania. The owners have been working on the project since 2016, and it draws on the Japanese idea of shinrin-yoku, or forest bathing, to offer a refuge in nature in harmony with its surroundings.

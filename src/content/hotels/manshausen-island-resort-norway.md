@@ -1,6 +1,6 @@
 ---
 name: Manshausen Island Resort
-category: cliffside-hotels
+category: overwater-bungalows
 destination: Steigen Archipelago, Nordland
 country: Norway
 continent: Europe
@@ -30,8 +30,7 @@ bestFor:
   - Midnight sun seekers
   - Extreme remoteness
 bookingUrl: https://www.booking.com/hotel/no/manshausen.html
-rating: 9.0
-reviewCount: 356
+rating: 8.8
 coordinates:
   lat: 67.835247
   lng: 14.773851
@@ -46,6 +45,19 @@ affiliateLinks:
 seo:
   metaTitle: "Manshausen Island Resort Review: Sea Cabins in Arctic Norway | StayAtNiche"
   metaDescription: "Manshausen Island Resort: Arctic sea cabins above the Norwegian Sea, north of the Arctic Circle. Northern lights, midnight sun, kayaking from your stilted cabin."
+location:
+  country: "Norway"
+  countryCode: "NO"
+  region: "Nordland"
+  city: "Steigen"
+  locality: "Manshausen Island"
+  coordinates:
+    lat: 67.835247
+    lng: 14.773851
+niche_scope: specific_rooms
+niche_feature: "Sea cabins on a private island: the original cabins rest on old stone quays, the newer ones sit out over the sea; two Towers on the pier edge. Stilts/piles not stated. No cliff setting."
+niche_source_url: "https://bystinessen.com/architecture/manshausen2/"
+niche_verified_at: 2026-11-17
 ---
 
 The Steigen Archipelago is what Norway looks like when the mountains have been pushed directly into the sea: a chain of steep, rocky islands above the Arctic Circle where the Lofoten wall continues northward and the Nordland fjords open into the Norwegian Sea. At 68°N, this is proper Arctic Norway — not the tourist Arctic of Tromsø, but the working fishing-village Norway where the infrastructure is minimal and the landscape has the unsocialised quality of a coast that has never been fashionable.

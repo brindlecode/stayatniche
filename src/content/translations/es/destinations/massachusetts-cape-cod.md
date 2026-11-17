@@ -14,7 +14,7 @@ bestTimeToVisit:
 mustSee:
   - "Cape Cod National Seashore: 40 millas de playas, dunas y acantilados protegidos frente al Atlántico, de Eastham a Provincetown"
   - "Provincetown, el pueblo con más personalidad del cabo: galerías de arte, restaurantes independientes y una vibrante comunidad LGBTQ+ durante todo el año"
-  - "Criaderos de ostras de Wellfleet: algunas de las mejores ostras del mundo, directamente de las casetas del muelle"
+  - "Criaderos de ostras de Wellfleet: ostras muy apreciadas, directamente de las casetas del muelle"
   - "Faro de Race Point, al que se llega a pie o en vehículo todoterreno atravesando las dunas de Province Lands"
   - "Sandwich, el pueblo más antiguo del cabo, con un museo histórico del vidrio y los Heritage Museums & Gardens"
 travelTips:

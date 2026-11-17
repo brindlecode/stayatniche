@@ -3,7 +3,7 @@ name: "SnowCastle of Kemi"
 category: ice-hotels
 destination: "Kemi, Lapland"
 country: "Finland"
-description: "The world's largest snow castle, rebuilt from scratch every winter in the Finnish coastal city of Kemi, a fortress of snow and ice with hotel rooms, restaurants, and a chapel, standing on the frozen Gulf of Bothnia. The most architecturally ambitious snow construction anywhere on Earth."
+description: "The world's largest snow castle, rebuilt from scratch every winter in the Finnish coastal city of Kemi, a fortress of snow and ice with hotel rooms, restaurants, and a chapel, standing on the frozen Gulf of Bothnia. An architecturally ambitious snow construction that is built anew each winter."
 coverImage: /images/hotels/snowcastle-kemi-finland.jpg
 gallery:
   - /images/hotels/snowcastle-kemi-finland-2.jpg
@@ -28,8 +28,7 @@ bestFor:
   - "Architecture enthusiasts"
   - "Winter adventure seekers"
 bookingUrl: https://www.booking.com/hotel/fi/snowcastle-of-kemi.html
-rating: 8.9
-reviewCount: 1023
+rating: 7.5
 coordinates:
   lat: 65.7333
   lng: 24.5667
@@ -41,6 +40,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Kemi,+Lapland"
     label: "Find Tours on Klook"
+status: draft
+location:
+  country: "Finland"
+  countryCode: "FI"
+  region: "Lapland"
+  city: "Kemi"
+  coordinates:
+    lat: 65.7333
+    lng: 24.5667
+niche_scope: experience_only
+niche_feature: "Snow hotel is no longer built; the area offers a SnowExperience exhibition room, SnowCastle Winter Park (Jan-early April), icebreaker cruises, and year-round Seaside Glass Villas as accommodation."
+niche_source_url: "https://experience365.fi/frequently-asked-questions/"
+niche_verified_at: 2026-11-17
 ---
 
 Every winter in the Finnish coastal city of Kemi, an act of seasonal architecture takes place. Beginning in January, teams of builders and artists construct the SnowCastle of Kemi from the ground up, using snow harvested from the surrounding Gulf of Bothnia. The castle is never the same from one year to the next; its designers create a fresh architectural vision each season, testing the structural and artistic possibilities of the medium, and the result is consistently one of the most singular temporary buildings in the world.

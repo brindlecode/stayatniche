@@ -1,10 +1,10 @@
 ---
 source: romantic-unique-hotels-couples
-title: "Romantische Hotels für Paare: Die außergewöhnlichsten Unterkünfte der Welt für zwei"
-excerpt: "Von privaten Wasservillen auf den Malediven bis zu Bubble-Domes unter dem arktischen Sternenhimmel: Entdecken Sie die romantischsten und außergewöhnlichsten Hotels der Welt – für Erinnerungen, die ein Leben lang bleiben."
+title: "Romantische Hotels für Paare: Außergewöhnliche Unterkünfte für zwei"
+excerpt: "Von privaten Wasservillen auf den Malediven bis zu Bubble-Domes unter dem arktischen Sternenhimmel: Entdecken Sie romantische und außergewöhnliche Hotels – für Erinnerungen, die ein Leben lang bleiben."
 seo:
-  metaTitle: "Die romantischsten Hotels für Paare weltweit | StayAtNiche"
-  metaDescription: "Die romantischsten außergewöhnlichen Hotels für Paare: von Wasservillen auf den Malediven über Glasiglus in Lappland bis zu Schlosshotels und Safari-Lodges."
+  metaTitle: "Romantische Hotels für Paare weltweit | StayAtNiche"
+  metaDescription: "Romantische, außergewöhnliche Hotels für Paare: von Wasservillen auf den Malediven über Glasiglus in Lappland bis zu Schlosshotels und Safari-Lodges."
 ---
 
 Rosenblätter beim abendlichen Turndown schaden nicht, doch sie machen kein Hotel romantisch. Was wirklich wirkt, ist einfacher: eine Unterkunft, die den Alltag ausblendet und zwei Menschen gemeinsam an einen außergewöhnlichen Ort versetzt. Die besten romantischen Hotels erreichen das durch Lage und vollkommenes Eintauchen – eine Wasservilla, von der aus kein anderes Bauwerk zu sehen ist, ein Glasiglu mit Polarlichtern am Himmel, ein Schloss, in dessen Mauern tausend Jahre Wetter stecken.
@@ -97,7 +97,7 @@ Necker Island auf den Britischen Jungferninseln – die Privatinsel von Richard 
 Die Unterwasservilla The Muraka im Conrad Maldives liegt 5 Meter unter der Oberfläche des Indischen Ozeans. Ein Antrag in einem verglasten Raum inmitten eines Korallenriffs, während draußen Riffhaie und Napoleon-Lippfische vorbeiziehen, ist per Definition mit keinem anderen Rahmen zu vergleichen.
 
 **Preisspanne:** Ab 50.000 $ pro Nacht
-**Ideal für:** Alle, die sich die ungewöhnlichste Kulisse für einen Heiratsantrag auf dem ganzen Planeten wünschen
+**Ideal für:** Alle, die sich eine ungewöhnliche Kulisse für einen Heiratsantrag wünschen
 
 
 Das Wadi Rum in Jordanien kostet nur einen Bruchteil davon und bietet etwas ganz anderes. Rosarote Berge, die Stille der Wüste, die Milchstraße über Ihnen ohne jede Lichtverschmutzung und – in einem guten Camp – eine wahrhaft dramatische Landschaft bei Sonnenaufgang. Jordaniens [Wüstencamps](/categories/desert-camps) reichen von einfach bis ausgesprochen luxuriös.

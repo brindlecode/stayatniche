@@ -1,7 +1,7 @@
 ---
 source: unusual-hotels-world
 title: "Les 30 hôtels les plus insolites du monde : des séjours extraordinaires dont vous ne soupçonniez pas l'existence"
-excerpt: "Des chambres sous-marines aux Maldives à une capsule transparente accrochée à une falaise péruvienne, 30 des expériences hôtelières les plus extraordinaires et insolites du monde, classées par catégorie."
+excerpt: "Des chambres sous-marines aux Maldives à une capsule transparente accrochée à une falaise péruvienne, 30 expériences hôtelières extraordinaires et insolites à travers le monde, classées par catégorie."
 seo:
   metaTitle: "Les 30 hôtels les plus insolites du monde | StayAtNiche"
   metaDescription: "Les hôtels les plus insolites du monde : chambres sous-marines, suites de glace, bulles perchées, grottes et capsules à flanc de falaise sur chaque continent."
@@ -27,7 +27,7 @@ La chambre immergée de l'artiste conceptuel Mikael Genberg se trouve à 3 mètr
 
 **Laponie finlandaise | À partir de 450 $/nuit**
 
-L'igloo de verre qui a inspiré mille imitations. Les bulles en verre thermique de Kakslauttanen ont été conçues avec un revêtement chauffant qui empêche la condensation et l'accumulation de neige, pour une vue dégagée sur les aurores boréales depuis votre lit. Le resort se trouve par 69° de latitude nord, en Laponie finlandaise, sous certains des ciels les plus sombres et les plus riches en aurores d'Europe. L'original, et toujours le meilleur de sa catégorie.
+L'igloo de verre qui a inspiré mille imitations. Les bulles en verre thermique de Kakslauttanen ont été conçues avec un revêtement chauffant qui empêche la condensation et l'accumulation de neige, pour une vue dégagée sur les aurores boréales depuis votre lit. Le resort se trouve par 69° de latitude nord, en Laponie finlandaise, sous certains des ciels les plus sombres et les plus riches en aurores d'Europe. L'original de sa catégorie, et toujours une référence.
 
 **Provence, France | À partir de 280 $/nuit**
 
@@ -83,7 +83,7 @@ Un château du XIIIe siècle au bord du Lough Corrib, dans le comté de Mayo, de
 
 **Comté de Clare, Irlande | À partir de 350 $/nuit**
 
-La demeure ancestrale de la famille O'Brien, descendante du haut roi d'Irlande Brian Boru, est aujourd'hui un hôtel cinq étoiles entouré de 450 acres de bois et d'un lac privé. Golf, pêche, fauconnerie et ce faste seigneurial qui fait des châteaux-hôtels irlandais les meilleurs du monde.
+La demeure ancestrale de la famille O'Brien, descendante du haut roi d'Irlande Brian Boru, est aujourd'hui un hôtel cinq étoiles entouré de 450 acres de bois et d'un lac privé. Golf, pêche, fauconnerie et ce faste seigneurial qui rend les châteaux-hôtels irlandais si singuliers.
 
 **Sutherland, Écosse | À partir de 900 $/nuit (tarifs membres variables)**
 
@@ -127,12 +127,12 @@ Ce n'est pas un hôtel au sens classique, mais les voitures bleu et or d'origine
 
 **Écosse | À partir de 2 500 $/nuit**
 
-Le voyage en train le plus luxueux d'Écosse traverse les Highlands en 2 à 7 nuits, avec des excursions vers des distilleries, des châteaux et des villages côtiers. Les voitures datent des années 1960 et ont été restaurées avec une grandeur tout édouardienne. Assez petit pour rester intime (36 passagers au maximum), avec produits écossais, single malts et vrais paysages des Highlands en standard.
+Un voyage en train luxueux à travers l'Écosse traverse les Highlands en 2 à 7 nuits, avec des excursions vers des distilleries, des châteaux et des villages côtiers. Les voitures datent des années 1960 et ont été restaurées avec une grandeur tout édouardienne. Assez petit pour rester intime (36 passagers au maximum), avec produits écossais, single malts et vrais paysages des Highlands en standard.
 
 
 **Uluru, Australie | À partir de 1 800 $/nuit tout compris**
 
-L'expérience d'Uluru par excellence. Quinze pavillons sous toile font directement face au rocher, orientés pour que vous voyiez Uluru changer de couleur au lever et au coucher du soleil depuis votre terrasse privée. La tente-restaurant sert une cuisine et des vins australiens exceptionnels. Le programme de guidage (culturel, géologique, astronomique) est le plus instructif proposé à Uluru. C'est ainsi qu'il faut découvrir l'un des grands monuments naturels de la planète.
+L'expérience d'Uluru par excellence. Quinze pavillons sous toile font directement face au rocher, orientés pour que vous voyiez Uluru changer de couleur au lever et au coucher du soleil depuis votre terrasse privée. La tente-restaurant sert une cuisine et des vins australiens exceptionnels. Le programme de guidage (culturel, géologique, astronomique) est l'un des plus instructifs proposés à Uluru. C'est ainsi qu'il faut découvrir l'un des grands monuments naturels de la planète.
 
 **Désert d'Agafay, Maroc | À partir de 300 $/nuit**
 

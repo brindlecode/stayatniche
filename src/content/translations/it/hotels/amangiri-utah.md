@@ -21,7 +21,7 @@ amenities:
   - Maggiordomo e concierge 24 ore su 24
   - Trasferimenti privati dall’aeroporto (Page, Arizona)
 bestFor:
-  - Viaggiatori esigenti in cerca del miglior resort degli Stati Uniti
+  - Viaggiatori esigenti in cerca di un resort di alto livello negli Stati Uniti
   - Appassionati di architettura e design
   - Coppie che festeggiano un traguardo importante
   - Amanti dell’avventura all’aria aperta che non rinunciano al comfort
@@ -51,10 +51,10 @@ nearbyAttractions:
     distance: 130 km
 seo:
   metaTitle: "Amangiri, resort nel deserto dello Utah | StayAtNiche"
-  metaDescription: "Il capolavoro di Aman tra i canyon dello Utah: architettura straordinaria, servizio impareggiabile e accesso diretto al Sud-Ovest. Da 2.000 $ a notte."
+  metaDescription: "Il capolavoro di Aman tra i canyon dello Utah: architettura straordinaria, servizio eccezionale e accesso diretto al Sud-Ovest. Da 2.000 $ a notte."
 ---
 
-L’Amangiri è probabilmente il miglior hotel nel deserto del Nord America. Già l’architettura giustifica il volo fino allo Utah. L’architetto Marwan Al-Sayed ha progettato l’intero resort intorno a un’antica mesa di arenaria, uno sperone di arenaria Navajo che si trova al centro dell’edificio, e il risultato è un complesso lungo e basso in cemento gettato e pietra del deserto che non compete con il paesaggio: semplicemente ne entra a far parte.
+L’Amangiri è uno dei più apprezzati hotel nel deserto del Nord America. Già l’architettura giustifica il volo fino allo Utah. L’architetto Marwan Al-Sayed ha progettato l’intero resort intorno a un’antica mesa di arenaria, uno sperone di arenaria Navajo che si trova al centro dell’edificio, e il risultato è un complesso lungo e basso in cemento gettato e pietra del deserto che non compete con il paesaggio: semplicemente ne entra a far parte.
 
 La piscina principale è costruita direttamente contro la parete della mesa. Le sale della spa vi sono sospese sopra. Ogni prospettiva negli spazi comuni è calibrata per riportare la tua attenzione sulla roccia. È un’architettura con priorità chiarissime, e le esegue senza un solo dettaglio sprecato.
 

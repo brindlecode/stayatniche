@@ -44,7 +44,6 @@ prosAndCons:
     - Accessibility requires a hired car or resort transfer from Marrakech
 bookingUrl: https://www.booking.com/hotel/ma/scarabeo-camp.html
 rating: 9.2
-reviewCount: 834
 seasonalInfo:
   bestTime: October to April for comfortable temperatures; March-April for spring wildflowers
   peakSeason: December to February
@@ -73,6 +72,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Agafay+Desert,+Marrakech"
     label: "Find Tours on Klook"
+location:
+  country: "Morocco"
+  countryCode: "MA"
+  region: "Marrakech-Safi"
+  city: "Marrakech"
+  locality: "Agafay"
+  coordinates:
+    lat: 31.4337752
+    lng: -8.2013628
+niche_scope: entire_property
+niche_feature: "Tented camps (The Stone Camp, historic, with a swimming pool; Les Roches Noires, newer) of suites in white tents on the stony Agafay plateau with Atlas views; La Citadelle is an events venue, not lodging."
+niche_source_url: "https://www.scarabeo-camp.com/history-en"
+niche_verified_at: 2026-11-17
 ---
 
 Morocco has two deserts. Most visitors know only one: the Saharan erg of Merzouga, with its cinematic orange dunes, camel silhouettes, and two-day drive from Marrakech. The Agafay is the other one — a mineral limestone plateau in the Atlas foothills, forty kilometres south of the city, rawer and considerably more accessible.

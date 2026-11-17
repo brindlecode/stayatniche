@@ -7,7 +7,7 @@ highlights:
   - "Ventanales submarinos de 360 grados con el arrecife en directo por la noche"
   - "La estructura flotante incluye terraza en la azotea, salón a nivel del mar y dormitorio submarino"
   - "Frente a la remota isla de Pemba, uno de los destinos menos visitados del océano Índico"
-  - "Elegida una y otra vez entre las experiencias hoteleras más extraordinarias del mundo"
+  - "Una experiencia submarina singular que aparece con frecuencia en la prensa de viajes"
 amenities:
   - "Dormitorio submarino"
   - "Terraza en la azotea con vistas a mar abierto"
@@ -24,7 +24,7 @@ bestFor:
   - "Buceadores que quieren dormir dentro del océano"
 prosAndCons:
   pros:
-    - "La experiencia de dormir más extraordinaria que existe en el planeta"
+    - "Una experiencia de dormir extraordinaria, con el arrecife a la vista por las ventanas toda la noche"
     - "La vida nocturna del arrecife a través de los cristales del dormitorio es pura magia"
     - "Privacidad total: la estructura está sola en mar abierto"
     - "El resort principal de The Manta Resort ofrece además un buceo excelente"
@@ -72,4 +72,4 @@ Un anfitrión dedicado vive en la plataforma durante cada estancia y se encarga 
 
 La isla en sí merece el viaje por méritos propios. El canal de Pemba alcanza grandes profundidades muy cerca de la costa, lo que genera afloramientos de agua que mantienen algunos de los corales más sanos del océano Índico. La infraestructura turística es mínima (un puñado de lodges, ninguna franja de resorts) y los pueblos de cultivadores de clavo y pescadores de la costa viven a un ritmo que se siente de verdad sin prisas.
 
-El lodge de The Manta Resort en tierra firme sirve de punto de llegada, ofrece un buceo excelente y se ocupa de toda la logística en barco para llegar a la Underwater Room. No es la noche más lujosa del océano Índico. Según casi todos los que han dormido en ella, es la más singular que existe en cualquier parte.
+El lodge de The Manta Resort en tierra firme sirve de punto de llegada, ofrece un buceo excelente y se ocupa de toda la logística en barco para llegar a la Underwater Room. No es la noche más lujosa del océano Índico. Según casi todos los que han dormido en ella, es una de las más singulares que existen.

@@ -13,7 +13,7 @@ bestTimeToVisit:
   details: "Van oktober tot maart reis je hier het prettigst: overdag 20–28 °C, lage luchtvochtigheid en heldere luchten. November tot februari is hoogseizoen, met de hoogste prijzen en drukte bij de grote bezienswaardigheden. April en mei worden extreem heet (45 °C+ in Jaisalmer). De moesson van juli tot september maakt het landschap groen en vult de meren, maar grote feesten als Diwali (oktober/november) en de kamelenmarkt van Pushkar (november) vallen in het koele seizoen."
 mustSee:
   - "Amber Fort in Jaipur: een 16e-eeuws fort op een heuvel, bereikbaar per olifant of jeep, met buitengewone zalen vol spiegelmozaïek"
-  - "Mehrangarh Fort in Jodhpur: het grootste Rajput-fort van India, dat 120 meter boven de 'Blauwe Stad' uittorent"
+  - "Mehrangarh Fort in Jodhpur: een van de bekendste Rajput-forten van India, dat 120 meter boven de 'Blauwe Stad' uittorent"
   - "Het Pichola-meer bij zonsondergang in Udaipur: de witmarmeren paleizen van de merenstad weerspiegeld in stil water"
   - "Het fort van Jaisalmer: een levend zandstenen fort uit de 12e eeuw, met bewoonde huizen, tempels en havelis binnen de muren"
   - "De duinen van Sam: kamelensafari en een nacht in een kamp in de Tharwoestijn bij zonsondergang"
@@ -26,7 +26,7 @@ travelTips:
   - "Veel tempels verbieden niet-hindoes de toegang tot het binnenste heiligdom. Respecteer dat en probeer niet naar binnen te gaan als bordjes het verbieden."
 seo:
   metaTitle: "Rajasthan reisgids: paleishotels en forten | StayAtNiche"
-  metaDescription: "Reisgids Rajasthan: paleishotels, Amber Fort, het Pichola-meer van Udaipur, woestijnkampen bij Jaisalmer en de bijzonderste erfgoedhotels van India."
+  metaDescription: "Reisgids Rajasthan: paleishotels, Amber Fort, het Pichola-meer van Udaipur, woestijnkampen bij Jaisalmer en bijzondere erfgoedhotels in India."
 ---
 
 Naast Rajasthan lijken andere bestemmingen ingetogen. Alleen al de schaal van de forten – de muren van Mehrangarh die loodrecht uit de rots oprijzen boven de blauwgekalkte oude stad van Jodhpur, de gouden zandstenen wallen van Jaisalmer die gloeien in het avondlicht – vertelt over een geschiedenis van ambitie en macht die zich overal fysiek wilde uiten. Dit was een land van krijgerkoningen en koopmansvorsten die met buitengewoon vakmanschap bouwden in steen, marmer en spiegeltegels, en die een landschap achterlieten dat nu een van de grote erfgoedhotelbestemmingen ter wereld is.

@@ -32,7 +32,7 @@ coordinates:
 featured: false
 seo:
   metaTitle: "Seychelles Travel Guide, Private Islands, Overwater Villas & Marine Life | StayAtNiche"
-  metaDescription: "Seychelles travel guide, Praslin's Vallée de Mai, La Digue's granite beaches, overwater villas, private island resorts, and the Indian Ocean's finest marine life."
+  metaDescription: "Seychelles travel guide, Praslin's Vallée de Mai, La Digue's granite beaches, overwater villas, private island resorts, and the Indian Ocean's rich marine life."
 ---
 
 The Seychelles sits near the top of most travellers' fantasy destination lists: 115 islands scattered across the western Indian Ocean, far from shipping lanes, known for white sand, turquoise water, and extreme discretion. The reality delivers on all of it. The travellers who get the most out of a Seychelles trip are those who push beyond the well-known inner islands to the outer atolls, where the marine environments are among the most pristine and clear remaining on earth.

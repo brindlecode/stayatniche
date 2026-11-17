@@ -25,7 +25,6 @@ bestFor:
   - "Weddings"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Hotel%20Castello%20di%20Santa%20Vittoria%2C%20Santa%20Vittoria%20d'Alba&adults=2"
 rating: 8.3
-reviewCount: 0
 coordinates:
   lat: 44.6960324
   lng: 7.9308359
@@ -34,6 +33,18 @@ sourceId: "osm:node/12726825679"
 verifiedAt: 2026-10-11
 publishedDate: 2026-10-11
 status: published
+location:
+  country: "Italy"
+  countryCode: "IT"
+  region: "Piedmont"
+  city: "Santa Vittoria d'Alba"
+  coordinates:
+    lat: 44.6960324
+    lng: 7.9308359
+niche_scope: entire_property
+niche_feature: "4-star hotel with 38 rooms (Superior, Junior Suite, one Suite) set within the walls of the Santa Vittoria castle complex (castle documented since 1154 per Italian Wikipedia). Source does not split rooms by building."
+niche_source_url: "https://www.hotelsantavittoria.com/"
+niche_verified_at: 2026-11-17
 ---
 
 Hotel Castello di Santa Vittoria stands at the top of the village of Santa Vittoria d'Alba, inside the walls of the castle. Its tower looks out over the hills of the Langhe and the Roero, and the walls date back more than eight hundred years. The hotel presents the stay as a pause from everyday life, a chance to reconnect with nature, tradition and the food of the area.

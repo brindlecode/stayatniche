@@ -29,7 +29,6 @@ bestFor:
   - "Rural escape seekers"
 bookingUrl: https://www.booking.com/
 rating: 9.0
-reviewCount: 478
 coordinates:
   lat: 36.6333
   lng: -5.2500

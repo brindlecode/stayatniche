@@ -1,0 +1,310 @@
+[
+ {
+  "slug": "intercontinental-thalasso-bora-bora",
+  "name": "InterContinental Bora Bora Resort & Thalasso Spa",
+  "official_url": "https://thalasso.intercontinental.com/",
+  "source_url": "https://thalasso.intercontinental.com/?p=77",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Official site lists only overwater villa types (beach, lagoon, island, Otemanu view, pool villas, Teremoana). But the resort closed 1 June 2026 for full renovation; trade press (not official) says reopening late 2027 as a Regent.",
+  "evidence_quote": "closed its doors on June 1, 2026 to focus on a top to bottom renovation to upgrade your experience",
+  "operating": "closed",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Overwater villas are real, but the official site says the resort closed on 1 June 2026 for renovation; no reopening date on the official page.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Leeward Islands",
+   "city": "Bora Bora",
+   "locality": "Motu Piti Aau"
+  },
+  "page_issues": [
+   "Resort is closed (since 1 June 2026) but page reads as open",
+   "Claims 'first' deep-sea air conditioning, ~90% energy saving, 900 m depth/3,000 m pipe not on the official page",
+   "Superlative: 'most exposed and dramatic position of any overwater resort'",
+   "Price range, rating and review count are stale for a closed property"
+  ],
+  "agent_verdict": "draft",
+  "editor_note": "Temporary closure for renovation; the stay still fits its category: kept, owner to decide."
+ },
+ {
+  "slug": "misool-eco-resort-indonesia",
+  "name": "Misool Eco Resort",
+  "official_url": "https://misoolresort.com/",
+  "source_url": "https://misool.info/accommodation",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "8 Water Cottages built on stilts over the North Lagoon, plus 4 North Lagoon Villas (at least two on stilts); the other villas are on South Beach or a hilltop. 20 units in total.",
+  "evidence_quote": "Our eight Water Cottages are built on stilts over the North Lagoon.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Category correct, but only the 8 water cottages (and some North Lagoon villas) are overwater; the rest are land villas.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Southwest Papua",
+   "city": "Raja Ampat",
+   "locality": "Misool"
+  },
+  "page_issues": [
+   "States 18 overwater bungalows; official lists 8 Water Cottages (stilts) plus 12 villas, 20 units total, only some overwater",
+   "'Most biodiverse marine ecosystem ever recorded' / 'more than anywhere on earth' is unsupported superlative",
+   "1,220 km2 reserve size, '8 metres' clarity and '4 hours south of Sorong' not confirmed by the official pages read",
+   "Destination says West Papua; Raja Ampat is now in Southwest Papua province"
+  ]
+ },
+ {
+  "slug": "palafitos-overwater-bungalows-mexico",
+  "name": "Palafitos Overwater Bungalows",
+  "official_url": "https://www.lomashospitality.com/en/hotel-palafitos-in-playa-del-carmen/",
+  "source_url": "https://www.lomashospitality.com/en/hotel-palafitos-in-playa-del-carmen/rooms/overwater-bungalows",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "All three room types on the official site are overwater bungalows (Overwater Bungalow, Elite, Two Bedroom Presidential), with glass floors, over the Caribbean. The site does not describe stilt construction.",
+  "evidence_quote": "Wake each morning floating over the infinite blue of the Caribbean in our Overwater Bungalows.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official room list contains only overwater bungalows, so category fits and the whole property qualifies.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Quintana Roo",
+   "city": "Playa del Carmen",
+   "locality": null
+  },
+  "page_issues": [
+   "'On stilts' is inferred from the name 'palafitos'; official pages do not state construction",
+   "Official address is KM 45, Carretera Cancun-Tulum (Riviera Maya), not a Playa del Carmen street address",
+   "Amenities list only the restaurant; official page also lists spa and other facilities"
+  ]
+ },
+ {
+  "slug": "soneva-jani-maldives",
+  "name": "Soneva Jani",
+  "official_url": "https://soneva.com/soneva-jani/",
+  "source_url": "https://soneva.com/resorts/soneva-jani/villas/overwater-villas/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Overwater villas (with retractable roofs and slides into the lagoon) sit beside island/beach villas and Signature island villas set among greenery; only the water villas and water reserves are overwater.",
+  "evidence_quote": "Suspended above crystal-clear waters, the overwater villas are designed around openness, light and the rhythm of the sea.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Overwater villas are confirmed, but the resort also offers beach and island villas, so scope is specific rooms.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Noonu Atoll",
+   "city": null,
+   "locality": null
+  },
+  "page_issues": [
+   "Implies all villas are overwater; official also lists Beach Villas and island Signature Villas",
+   "Superlative: 'most architecturally playful overwater resort in the Indian Ocean'",
+   "Observatory/largest telescopes, reef wine cave and two-hour seaplane not checked on the pages read"
+  ]
+ },
+ {
+  "slug": "song-saa-cambodia",
+  "name": "Song Saa Private Island",
+  "official_url": "https://www.songsaa-privateisland.com/",
+  "source_url": "https://www.songsaa-privateisland.com/villas/one-bed-overwater-villa",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "One- and two-bedroom Overwater Villas on stilts over the Gulf of Thailand; the resort's 24 villas also include jungle villas, ocean view villas and a Royal Villa on land.",
+  "evidence_quote": "Intimate, open-plan villas perching on stilts above the crystalline Gulf of Thailand.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Overwater villas on stilts are confirmed, but they are only part of the 24 villas (jungle, ocean-view and royal villas are on land).",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Preah Sihanouk",
+   "city": "Sihanoukville",
+   "locality": "Koh Ouen and Koh Bong, Koh Rong Archipelago"
+  },
+  "page_issues": [
+   "Does not give the number of overwater villas; official total is 24 villas across several types",
+   "Founders securing reef protection, 35 km distance and primary-forest claims not confirmed on pages read"
+  ]
+ },
+ {
+  "slug": "telunas-private-island-overwater-villas-indonesia",
+  "name": "Telunas Private Island Overwater Villas",
+  "official_url": "https://telunasresorts.com/private-island/",
+  "source_url": "https://telunasresorts.com/private-island/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "15 Overwater Villas (90 sqm; standard and Signature) plus five adults-only Ridge Villas on land. The source says 'overwater' but does not describe stilts.",
+  "evidence_quote": "Our island resort offers 15 well-appointed Overwater Villas with spectacular wide-angle views of the azure sea and the rugged terrain of Sugi Island",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Confirmed 15 overwater villas; the five ridge villas are on land, so only part of the resort is overwater.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Riau Islands",
+   "city": "Batam",
+   "locality": "Sugi Island"
+  },
+  "page_issues": [
+   "Official source does not state stilt construction, only 'Overwater Villas'"
+  ]
+ },
+ {
+  "slug": "thulhagiri-island-resort-maldives",
+  "name": "Thulhagiri Island Resort and Spa",
+  "official_url": "https://www.thulhagiri.com.mv/",
+  "source_url": "https://www.thulhagiri.com.mv/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "17 Water Bungalows (56 sqm) and 20 Superior Water Bungalows (78 sqm) over the lagoon, alongside 50 Standard Deluxe beach bungalows.",
+  "evidence_quote": "17 Water bungalows (56 sqm) on the outskirt over the lagoon offers a king size bed",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Water bungalows confirmed, but the 50 beach bungalows are ordinary land rooms, so only some rooms are overwater.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "North Male Atoll",
+   "city": "Male",
+   "locality": "Thulhagiri"
+  },
+  "page_issues": [
+   "Says 17 water bungalows; official lists 17 Water Bungalows plus 20 Superior Water Bungalows (37 overwater) and 50 beach bungalows"
+  ]
+ },
+ {
+  "slug": "anantara-sir-bani-yas-uae",
+  "name": "Anantara Sir Bani Yas Island Safari Resort",
+  "official_url": "https://www.anantara.com/en/desert-islands-sir-bani-yas",
+  "source_url": "https://en.wikipedia.org/wiki/Sir_Bani_Yas",
+  "source_type": "other",
+  "niche_scope": "unverified",
+  "niche_feature": "Wikipedia confirms the island's Arabian Wildlife Park with game drives and three Anantara hotels (Desert Islands, Al Sahel, Al Yamm). Official Anantara pages returned HTTP 403, so room placement inside the park could not be confirmed.",
+  "evidence_quote": "The island hosts three luxury hotels, all operated by Thai hospitality company Minor Hotels",
+  "operating": "unknown",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Wildlife park and Anantara hotels exist, but official pages were blocked, so whether guest rooms sit within the wildlife viewing area is unconfirmed.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Abu Dhabi",
+   "city": "Al Ruwais",
+   "locality": "Sir Bani Yas Island"
+  },
+  "page_issues": [
+   "Treats three separate resorts (Desert Islands, Al Sahel, Al Yamm) as one 'Safari Resort'; no such official name",
+   "'Three options: beach villas, desert lodges, palace-style' does not match the official three-resort structure",
+   "'250 km west of Abu Dhabi', '10,000 animals', 'first captive-born Arabian cheetah' and 'most unusual safari in the Middle East' are unsupported",
+   "Al Sahel and Al Yamm were reported as under refurbishment in 2025; current status unconfirmed"
+  ]
+ },
+ {
+  "slug": "andbeyond-ngorongoro-crater-lodge",
+  "name": "&Beyond Ngorongoro Crater Lodge",
+  "official_url": "https://www.andbeyond.com/our-lodges/africa/tanzania/ngorongoro-crater/andbeyond-ngorongoro-crater-lodge/",
+  "source_url": "https://www.andbeyond.com/our-lodges/africa/tanzania/ngorongoro-crater/andbeyond-ngorongoro-crater-lodge/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Official page says the lodge is temporarily closed for an extensive rebuild, with a banner 'Reopening December 2027'. Safari lodge on the Ngorongoro Crater rim before closure.",
+  "evidence_quote": "The &Beyond Ngorongoro Crater Lodge is currently closed for an extensive rebuild that will redefine luxury and reopen in 2027.",
+  "operating": "closed",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site says the lodge is closed for a rebuild and reopens December 2027, so it should not be listed as bookable now.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Arusha",
+   "city": null,
+   "locality": "Ngorongoro Crater rim"
+  },
+  "page_issues": [
+   "Lodge is closed for a rebuild until 2027 but the page describes it as open",
+   "'25 individual bandas' and the baroque interior details describe the pre-rebuild lodge and will change"
+  ],
+  "agent_verdict": "draft",
+  "editor_note": "Temporary closure for a rebuild (reopening 2027); still fits its category: kept, owner to decide."
+ },
+ {
+  "slug": "andbeyond-phinda-south-africa",
+  "name": "&Beyond Phinda Private Game Reserve",
+  "official_url": "https://www.andbeyond.com/our-lodges/africa/south-africa/kwazulu-natal/phinda-private-game-reserve/andbeyond-phinda-forest-lodge/",
+  "source_url": "https://assets.andbeyond.com/image/upload/v1757070782/Collateral/Destination-Brochure-Phinda-Private-Game-Reserve-South-Africa.pdf",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Six lodges (Mountain, Forest, Rock, Vlei, Zuka, Homestead) inside the 29,866-hectare Phinda reserve, with game drives; Forest Lodge suites are on stilts.",
+  "evidence_quote": "encompasses an impressive 29 866 hectares (73 800 acres) of protected wildlife land in KwaZulu-Natal, South Africa.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official brochure confirms lodges inside a Big Five private game reserve where game viewing is the core activity.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "KwaZulu-Natal",
+   "city": null,
+   "locality": "Phinda Private Game Reserve"
+  },
+  "page_issues": [
+   "Names an 'Ocean Lodge' as one of six camps; official lists Mountain, Forest, Rock, Vlei, Zuka and Homestead and no Ocean Lodge",
+   "Describes Rock Lodge as on a bouldered hillside; official calls it a cliffside location",
+   "1990 acquisition and 'only sand forest in Africa' claims not checked against official pages"
+  ]
+ },
+ {
+  "slug": "barahi-jungle-lodge-nepal",
+  "name": "Barahi Jungle Lodge",
+  "official_url": "http://www.barahijunglelodge.com/",
+  "source_url": "https://barahi.com/chitwan-suites-rooms/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Thatched huts along the Rapti river (one suite, 34 Deluxe rooms) in Meghauli; park safaris cross the river into Chitwan National Park, so the lodge adjoins rather than sits inside the park.",
+  "evidence_quote": "Accommodation throughout our resort comprises of thatched huts dotted along the banks of the Rapti river and a few nestled in the jungle",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Riverside jungle lodge on the edge of Chitwan National Park with jeep safaris as the core activity; it fits safari lodges.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Bagmati",
+   "city": "Meghauli",
+   "locality": null
+  },
+  "page_issues": [
+   "'All rooms have private balconies' not confirmed on the official pages read",
+   "Lodge is outside the park boundary (safari starts across the river); page says 'near' correctly"
+  ]
+ },
+ {
+  "slug": "bayala-private-safari-lodges-south-africa",
+  "name": "Bayala Private Safari Lodges",
+  "official_url": "https://bayala.co.za/",
+  "source_url": "https://bayala.co.za/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Two lodges (Safari Lodge, 24 Classic Rooms; Founders Lodge, 24 Superior Rooms) inside Zuka Private Game Reserve, with twice-daily game drives.",
+  "evidence_quote": "Bayala Private Safari Lodges are situated within Zuka Private Game Reserve, a big 5 Game Reserve in South Africa",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site confirms both lodges sit inside Zuka Private Game Reserve with game drives; room counts match the page.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "KwaZulu-Natal",
+   "city": null,
+   "locality": "Zuka Private Game Reserve"
+  },
+  "page_issues": []
+ }
+]

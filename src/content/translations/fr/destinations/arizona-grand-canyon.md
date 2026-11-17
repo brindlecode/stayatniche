@@ -1,7 +1,7 @@
 ---
 source: arizona-grand-canyon
 name: "Grand Canyon, Arizona"
-description: "Le Grand Canyon est l'affleurement géologique le plus spectaculaire de la planète, un gouffre profond d'un mille creusé par le Colorado en cinq millions d'années à travers 1,8 milliard d'années de roche. Loin de la foule massée aux belvédères, un monde de randonnées au fond du canyon, de descentes du Colorado en raft et de solitudes sauvages sur la rive nord offre des hébergements qui rendent véritablement intime l'un des sites les plus visités au monde."
+description: "Le Grand Canyon est l'un des affleurements géologiques les plus spectaculaires de la planète, un gouffre profond d'un mille creusé par le Colorado en cinq millions d'années à travers 1,8 milliard d'années de roche. Loin de la foule massée aux belvédères, un monde de randonnées au fond du canyon, de descentes du Colorado en raft et de solitudes sauvages sur la rive nord offre des hébergements qui rendent véritablement intime l'un des sites les plus visités au monde."
 essentials:
   currency: "USD"
   language: "Anglais"

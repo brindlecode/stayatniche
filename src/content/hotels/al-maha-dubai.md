@@ -44,7 +44,6 @@ prosAndCons:
     - Some guests find the desert setting isolating without the city connection
 bookingUrl: https://www.booking.com/hotel/ae/al-maha-a-luxury-collection-desert-resort-and-spa.html
 rating: 9.5
-reviewCount: 1123
 seasonalInfo:
   bestTime: October to April for outdoor activity and comfortable temperatures
   peakSeason: December to February and New Year
@@ -73,6 +72,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Dubai+Desert+Conservation+Reserve"
     label: "Find Tours on Klook"
+location:
+  country: "United Arab Emirates"
+  countryCode: "AE"
+  region: "Dubai"
+  city: "Dubai"
+  locality: "Dubai Desert Conservation Reserve"
+  coordinates:
+    lat: 24.8229989
+    lng: 55.6624743
+niche_scope: entire_property
+niche_feature: "Tented Bedouin-style encampment of suites inside the Dubai Desert Conservation Reserve; Marriott lists Bedouin, Royal and Presidential suites with private pools. Marriott pages gave no suite count (403 on main page)."
+niche_source_url: "https://guide.michelin.com/en/hotels-stays/dubai/al-maha-a-luxury-collection-desert-resort-spa-9474"
+niche_verified_at: 2026-11-17
 ---
 
 The Arabian oryx was declared extinct in the wild in 1972. The Dubai Desert Conservation Reserve, the 225-square-kilometre protected area that surrounds Al Maha, is one of the places that brought it back. There are now over 500 animals roaming the reserve, and on any given morning, several of them will be grazing within clear sight of your private infinity pool. That is not a staged encounter. It is simply what happens when you build a hotel inside a functioning wildlife sanctuary and then protect it properly.

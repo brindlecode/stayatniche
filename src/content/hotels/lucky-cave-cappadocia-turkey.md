@@ -21,7 +21,6 @@ bestFor:
   - "Breakfast-and-view lovers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Lucky%20Cave%20Cappadocia%2C%20G%C3%B6reme&adults=2"
 rating: 7.8
-reviewCount: 0
 coordinates:
   lat: 38.6437794
   lng: 34.8268568
@@ -30,6 +29,18 @@ sourceId: "osm:node/6264295571"
 verifiedAt: 2026-10-09
 publishedDate: 2026-10-09
 status: published
+location:
+  country: "Turkey"
+  countryCode: "TR"
+  region: "Nevşehir"
+  city: "Göreme"
+  coordinates:
+    lat: 38.6437794
+    lng: 34.8268568
+niche_scope: unverified
+niche_feature: "Official room pages (Deluxe, King, Deluxe Suite) describe rooms as built entirely of arched cut stone ('Kemer Taş Yapı'), i.e. masonry stone rooms. No page says any room is rock-carved or in a natural cave."
+niche_source_url: "https://www.luckycavehotel.com/deluxe-oda.html"
+niche_verified_at: 2026-11-17
 ---
 
 Lucky Cave Cappadocia is in Göreme, and its name promises a cave. The hotel describes nine "taş oda ve suit", stone rooms and suites in Cappadocian architecture. Think of it as a stone boutique hotel in cave country, and ask whether any room is rock-cut.

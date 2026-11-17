@@ -3,7 +3,7 @@ title: "Volcano Boarding on Cerro Negro"
 type: adventure
 destination: "Cerro Negro, Leon"
 country: "Nicaragua"
-description: "Hike to the summit of one of the world's youngest and most active volcanoes, then ride a plywood board down a 40-degree slope of loose volcanic ash at speeds reaching 95km/h, a descent so steep and fast that the ash sprays up around you like black snow. Volcano boarding on Cerro Negro near Leon is the world's most unusual extreme sport, and the views from the summit of this raw, smoking cone across the Pacific lowlands and volcanic chain of northwestern Nicaragua make the hike as rewarding as the descent."
+description: "Hike to the summit of one of the world's youngest and most active volcanoes, then ride a plywood board down a 40-degree slope of loose volcanic ash at speeds reaching 95km/h, a descent so steep and fast that the ash sprays up around you like black snow. Volcano boarding on Cerro Negro near Leon is one of the world's more unusual extreme sports, and the views from the summit of this raw, smoking cone across the Pacific lowlands and volcanic chain of northwestern Nicaragua make the hike as rewarding as the descent."
 coverImage: /images/experiences/volcano-boarding-nicaragua.jpg
 booking:
   provider: direct
@@ -31,7 +31,6 @@ notIncluded:
   - Gratuities for guides
   - Additional souvenirs
 rating: 9.5
-reviewCount: 4512
 featured: false
 tags:
   - volcano-boarding
@@ -43,7 +42,7 @@ tags:
   - leon
 seo:
   metaTitle: "Volcano Boarding on Cerro Negro, Nicaragua | StayAtNiche"
-  metaDescription: "Hike an active volcano then board down volcanic ash at 95km/h near Leon, Nicaragua. The world's most unusual extreme sport. From $35 per person."
+  metaDescription: "Hike an active volcano then board down volcanic ash at 95km/h near Leon, Nicaragua. An unusual extreme sport. From $35 per person."
 ---
 
 Cerro Negro erupted most recently in 1999 and will erupt again. The youngest volcano in Central America, formed in 1850, a geological eyeblink, it has been active 23 times since then. The evidence is everywhere on the surface of the cone: fresh volcanic material, black and loose, with no vegetation except sparse grass at the base. Steam vents hiss near the summit. The air smells of sulphur. This is a live volcano and hiking it feels like it.

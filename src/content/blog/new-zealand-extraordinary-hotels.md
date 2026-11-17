@@ -101,7 +101,7 @@ Twenty minutes north of Queenstown along Lake Wakatipu, Blanket Bay sits where t
 
 
 
-New Zealand is one of the world's best self-drive destinations. Distances are manageable, roads are well maintained on sealed routes, and the South Island in particular rewards stopping wherever a view demands it. A self-drive itinerary combining one or two lodge stays with simpler accommodation is one of the more satisfying road trips available anywhere.
+New Zealand is a highly regarded self-drive destination. Distances are manageable, roads are well maintained on sealed routes, and the South Island in particular rewards stopping wherever a view demands it. A self-drive itinerary combining one or two lodge stays with simpler accommodation is one of the more satisfying road trips available anywhere.
 
 For helicopter-access properties like Minaret Station, or for guests building multi-lodge itineraries, a specialist New Zealand travel agency, World Journeys, Luxury Lodges of New Zealand member properties, or Virgin Limited Edition NZ itineraries, is worth using. They have allocations and local knowledge that general OTAs don't.
 

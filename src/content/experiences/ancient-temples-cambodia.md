@@ -30,7 +30,6 @@ notIncluded:
   - Personal travel insurance
   - Gratuities for guide and tuk-tuk driver
 rating: 9.4
-reviewCount: 3876
 featured: false
 tags:
   - angkor-wat

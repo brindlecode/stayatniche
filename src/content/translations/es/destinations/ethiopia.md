@@ -1,7 +1,7 @@
 ---
 source: ethiopia
 name: "Etiopía"
-description: "Etiopía es el destino con más capas históricas de África: un antiguo reino de las tierras altas con alfabeto, calendario y tradición cristiana ortodoxa propios, anteriores en siglos a los de Europa. De las iglesias excavadas en la roca de Lalibela a las culturas tribales del valle del Omo y los paisajes surrealistas de la depresión de Danakil, Etiopía ofrece experiencias que, de verdad, no existen en ningún otro lugar de la Tierra."
+description: "Etiopía es uno de los destinos con más capas históricas de África: un antiguo reino de las tierras altas con alfabeto, calendario y tradición cristiana ortodoxa propios, anteriores en siglos a los de Europa. De las iglesias excavadas en la roca de Lalibela a las culturas tribales del valle del Omo y los paisajes surrealistas de la depresión de Danakil, Etiopía ofrece experiencias que, de verdad, no existen en ningún otro lugar de la Tierra."
 essentials:
   currency: "ETB (birr etíope); los dólares estadounidenses son útiles en los grandes hoteles y algunos servicios"
   language: "Amárico (oficial); oromo, tigriña y más de 80 lenguas más"
@@ -26,7 +26,7 @@ travelTips:
   - "La comida etíope (injera con wats y tibs) es extraordinaria: come en restaurantes locales en lugar de en los comedores de los hoteles para vivir la experiencia auténtica."
 seo:
   metaTitle: "Etiopía: guía de Lalibela, Danakil y el Omo | StayAtNiche"
-  metaDescription: "Guía de Etiopía: las iglesias rupestres de Lalibela, los lagos de lava del Danakil, las montañas Simien, los pueblos del valle del Omo y la civilización más antigua de África."
+  metaDescription: "Guía de Etiopía: las iglesias rupestres de Lalibela, los lagos de lava del Danakil, las montañas Simien, los pueblos del valle del Omo y una de las civilizaciones más antiguas de África."
 ---
 
 Etiopía se sitúa al margen del relato habitual de los viajes a África. Aquí no hay circuitos de safari de los Cinco Grandes, ni tradición de lodges de la época colonial, ni una infraestructura turística trillada. Lo que hay es algo más raro: una civilización con 3000 años de historia escrita ininterrumpida, con su propia escritura, su propio calendario y su propia tradición religiosa, paisajes que van del punto más alto del África subsahariana al punto más bajo del continente y encuentros culturales de una profundidad y una autenticidad cada vez más difíciles de encontrar en cualquier parte del mundo.
@@ -37,7 +37,7 @@ En el siglo XII, el rey Lalibela encargó algo extraordinario: una serie de igle
 El cristianismo ortodoxo etíope, que se practica aquí desde el siglo IV, no es una pieza de museo. Las iglesias de Lalibela son lugares de peregrinación activos, sobre todo durante las grandes fiestas de Timkat (Epifanía) y Meskel (Hallazgo de la Vera Cruz), cuando miles de peregrinos vestidos de blanco llenan el recinto en procesiones nocturnas con velas y cánticos.
 
 
-Etiopía alberga dos de los paisajes más extremos del mundo. Las montañas Simien, una alta meseta de entre 3000 y 4550 metros erosionada en escarpes verticales y pináculos, son el hábitat del lobo etíope (el carnívoro más amenazado de África), el gelada (el único primate del mundo que se alimenta de hierba) y el íbice de Walia, que no existe en ningún otro lugar de la Tierra. Caminar aquí, por el borde de acantilados con caídas de 1000 metros hasta el valle, es uno de los mejores trekkings de alta montaña de África.
+Etiopía alberga dos paisajes especialmente extremos. Las montañas Simien, una alta meseta de entre 3000 y 4550 metros erosionada en escarpes verticales y pináculos, son el hábitat del lobo etíope (el carnívoro más amenazado de África), el gelada (el único primate del mundo que se alimenta de hierba) y el íbice de Walia, que no existe en ningún otro lugar de la Tierra. Caminar aquí, por el borde de acantilados con caídas de 1000 metros hasta el valle, es un trekking de alta montaña muy valorado en África.
 
 La depresión de Danakil, en cambio, es el lugar más bajo y más caluroso de África, una falla geológica donde se encuentran tres placas tectónicas y que da lugar a lagos de lava activos (Erta Ale), formaciones salinas sulfurosas en tonos amarillos y verdes (Dallol) y un salar que se explota a mano desde hace siglos con caravanas de camellos. Las excursiones requieren escolta armada y viajar de noche para evitar lo peor del calor, y el alojamiento es básico: se duerme bajo las estrellas en el desierto o en campamentos sencillos. La experiencia no es cómoda. Es, en el sentido más auténtico de la palabra, memorable.
 

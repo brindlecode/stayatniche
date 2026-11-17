@@ -7,7 +7,7 @@ highlights:
   - "Unterwasserfenster rundum mit Blick auf das nächtliche Riffleben"
   - "Schwimmende Konstruktion mit Dachdeck, Lounge auf Meereshöhe und Unterwasserschlafzimmer"
   - "Vor der abgelegenen Insel Pemba, einem der am wenigsten besuchten Ziele im Indischen Ozean"
-  - "Immer wieder unter die außergewöhnlichsten Hotelerlebnisse der Welt gewählt"
+  - "Ein besonderes Schlaferlebnis unter Wasser, über das in Reisemedien regelmäßig berichtet wird"
 amenities:
   - "Schlafzimmer unter Wasser"
   - "Dachdeck mit Blick aufs offene Meer"
@@ -24,7 +24,7 @@ bestFor:
   - "Taucher, die im Ozean schlafen wollen"
 prosAndCons:
   pros:
-    - "Das außergewöhnlichste Schlaferlebnis, das es auf der Welt gibt"
+    - "Ein außergewöhnliches Schlaferlebnis, bei dem das Riff die ganze Nacht durch die Fenster zu sehen ist"
     - "Das nächtliche Riffleben vor den Schlafzimmerfenstern ist wirklich magisch"
     - "Absolute Privatsphäre – die Plattform liegt ganz allein im offenen Meer"
     - "Das Manta Resort an Land ergänzt das Erlebnis mit exzellentem Tauchen"
@@ -72,4 +72,4 @@ Während jedes Aufenthalts lebt ein eigener Gastgeber auf der Plattform, der Mah
 
 Die Insel selbst lohnt die Reise auch für sich genommen. Direkt vor der Küste fällt der Pemba-Kanal in beträchtliche Tiefen ab, und die aufsteigenden Strömungen nähren einige der gesündesten Korallen im Indischen Ozean. Touristische Infrastruktur gibt es kaum – eine Handvoll Lodges, keine Hotelmeile –, und die Dörfer der Nelkenbauern und Fischer entlang der Küste leben in einem Tempo, das wirklich gemächlich wirkt.
 
-Die Lodge des Manta Resort an Land dient als Ankunftsort, bietet exzellentes Tauchen und übernimmt die gesamte Bootslogistik für die Fahrt zum Underwater Room. Das Zimmer ist nicht die luxuriöseste Übernachtung im Indischen Ozean. Nach dem Urteil fast aller, die dort eine Nacht verbracht haben, ist es aber die einzigartigste, die es irgendwo gibt.
+Die Lodge des Manta Resort an Land dient als Ankunftsort, bietet exzellentes Tauchen und übernimmt die gesamte Bootslogistik für die Fahrt zum Underwater Room. Das Zimmer ist nicht die luxuriöseste Übernachtung im Indischen Ozean. Nach dem Urteil fast aller, die dort eine Nacht verbracht haben, ist es aber eine der einzigartigsten, die es gibt.

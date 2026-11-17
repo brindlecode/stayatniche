@@ -87,7 +87,7 @@ Twintig minuten ten noorden van Queenstown langs Lake Wakatipu ligt Blanket Bay,
 
 
 
-Nieuw-Zeeland is een van de beste bestemmingen ter wereld voor een autorondreis. De afstanden zijn te overzien, de verharde wegen zijn goed onderhouden en vooral op het Zuidereiland word je beloond als je stopt waar een uitzicht erom vraagt. Een rondreis waarin je een of twee lodgeverblijven combineert met eenvoudigere accommodatie is een van de mooiste roadtrips die je ergens kunt maken.
+Nieuw-Zeeland is een gewaardeerde bestemming voor een autorondreis. De afstanden zijn te overzien, de verharde wegen zijn goed onderhouden en vooral op het Zuidereiland word je beloond als je stopt waar een uitzicht erom vraagt. Een rondreis waarin je een of twee lodgeverblijven combineert met eenvoudigere accommodatie is een van de mooiste roadtrips die je ergens kunt maken.
 
 Voor lodges die je per helikopter bereikt, zoals Minaret Station, of als je een route langs meerdere lodges plant, loont het om een reisbureau te gebruiken dat in Nieuw-Zeeland is gespecialiseerd, zoals World Journeys, de leden van Luxury Lodges of New Zealand of de reisroutes van Virgin Limited Edition NZ. Zij hebben kamercontingenten en lokale kennis die gewone boekingssites niet hebben.
 

@@ -21,8 +21,7 @@ bestFor:
   - "Hadrian's Wall visitors"
   - "History lovers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Langley%20Castle%20Hotel%2C%20Hexham&adults=2"
-rating: 9
-reviewCount: 0
+rating: 8.8
 coordinates:
   lat: 54.9566234
   lng: -2.2595855
@@ -31,6 +30,19 @@ sourceId: "osm:way/123915173"
 verifiedAt: 2026-10-10
 publishedDate: 2026-10-10
 status: published
+location:
+  country: "United Kingdom"
+  countryCode: "GB"
+  region: "England"
+  city: "Hexham"
+  locality: "Langley-on-Tyne"
+  coordinates:
+    lat: 54.9566234
+    lng: -2.2595855
+niche_scope: specific_rooms
+niche_feature: "Nine rooms in the main 14th-century castle (Grade I listed, walls up to seven feet thick); a further 19 rooms are in Castle View, a short walk away, plus the self-catering Toll Bar Luxury Villa."
+niche_source_url: "https://langleycastle.com/about-langley-castle/"
+niche_verified_at: 2026-11-17
 ---
 
 Langley Castle is a restored medieval tower house in the valley of the River South Tyne in Northumberland, three miles south of Haydon Bridge. It was built in 1364 in an H shape with four floors and a tower at each corner, and it is a Grade I listed building. Its walls are up to seven feet thick, which gives the interior a very particular stillness.

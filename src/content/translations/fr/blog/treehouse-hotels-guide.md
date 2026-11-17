@@ -57,7 +57,7 @@ Dans les adresses haut de gamme, l'époque de la cabane à la dure est largement
 
 
 
-**Treehotel, Harads, Laponie suédoise** : la cabane perchée la plus ambitieuse de la planète sur le plan architectural. Sept chambres conçues par différents architectes, chaque concept plus saisissant que le précédent : le Mirrored Cube, l'UFO, le Bird's Nest, la 7th Room (une suite sur le toit accessible par un pont suspendu). En hiver, vous dormez sous certains des ciels les plus noirs et les plus purs de Scandinavie. Comptez environ 350 à 700 $/nuit selon la chambre. Réservez 6 à 12 mois à l'avance pour les dates d'hiver.
+**Treehotel, Harads, Laponie suédoise** : l'une des cabanes perchées les plus ambitieuses sur le plan architectural. Sept chambres conçues par différents architectes, chaque concept plus saisissant que le précédent : le Mirrored Cube, l'UFO, le Bird's Nest, la 7th Room (une suite sur le toit accessible par un pont suspendu). En hiver, vous dormez sous certains des ciels les plus noirs et les plus purs de Scandinavie. Comptez environ 350 à 700 $/nuit selon la chambre. Réservez 6 à 12 mois à l'avance pour les dates d'hiver.
 
 **La Cabane Perchée, France** : un réseau de cabanes de luxe réparties dans plusieurs régions forestières françaises, certaines dans les châtaigneraies de la vallée de la Loire, d'autres dans les chênaies normandes. Le niveau de finition (lits à baldaquin, poêles à bois, terrasses privées) est réellement remarquable. De 300 à 600 €/nuit.
 
@@ -66,7 +66,7 @@ Dans les adresses haut de gamme, l'époque de la cabane à la dure est largement
 
 **Free Spirit Spheres, île de Vancouver, Canada** : trois capsules sphériques, Eve, Eryn et Melody, suspendues par des câbles à des douglas sur l'île de Vancouver. Ce ne sont pas des adresses de luxe (sanitaires partagés en contrebas, équipements de cuisine sommaires), mais elles comptent réellement parmi les concepts d'hébergement les plus originaux de la planète. Environ 200 à 280 CAD/nuit. Réservez des mois à l'avance.
 
-**Costa Rica** : le Costa Rica offre sans doute la meilleure combinaison au monde entre cabanes perchées et biodiversité. Lapa Rios, sur la péninsule d'Osa, propose des bungalows surélevés dans la canopée de la forêt tropicale ; de plus petites cabanes tenues par leurs propriétaires dans les régions de Monteverde et d'Arenal offrent une véritable immersion dans la canopée et un accès extraordinaire à la faune. Les prix vont de 150 à plus de 600 $/nuit selon l'adresse.
+**Costa Rica** : le Costa Rica offre une excellente combinaison entre cabanes perchées et biodiversité. Lapa Rios, sur la péninsule d'Osa, propose des bungalows surélevés dans la canopée de la forêt tropicale ; de plus petites cabanes tenues par leurs propriétaires dans les régions de Monteverde et d'Arenal offrent une véritable immersion dans la canopée et un accès extraordinaire à la faune. Les prix vont de 150 à plus de 600 $/nuit selon l'adresse.
 
 **États-Unis** : les cabanes perchées connaissent un véritable essor outre-Atlantique. Treehouse Point, près de Seattle (six cabanes construites par Pete Nelson, rendu célèbre par l'émission Treehouse Masters), fait figure de référence. Le Tennessee compte des dizaines de cabanes de luxe à louer dans les Great Smoky Mountains. L'ouest des Cascades et le Nord-Ouest Pacifique offrent une excellente immersion en forêt.
 

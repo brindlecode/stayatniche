@@ -43,7 +43,6 @@ prosAndCons:
     - "Premium pricing for the Norwegian coast"
 bookingUrl: https://www.booking.com/
 rating: 9.3
-reviewCount: 264
 seasonalInfo:
   bestTime: September to March for storms and aurora; June to August for midnight sun
   peakSeason: Summer (June–August) and the winter storm season (November–February)
@@ -72,6 +71,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Lindesnes,+Vest-Agder"
     label: "Find Tours on Klook"
+location:
+  country: "Norway"
+  countryCode: "NO"
+  region: "Agder"
+  city: "Lindesnes"
+  locality: "Lindesnes Fyr"
+  coordinates:
+    lat: 57.9833
+    lng: 7.0485
+niche_scope: entire_property
+niche_feature: "No hotel exists: the only accommodation is one holiday apartment (sleeps 6) in half of the former assistant keeper's house at Lindesnes lighthouse; the other half houses the duty keeper. Booking site confirms single apartment."
+niche_source_url: "https://no.wikipedia.org/wiki/Lindesnes_fyr"
+niche_verified_at: 2026-11-17
 ---
 
 Lindesnes has marked the southernmost point of the Norwegian mainland since 1656, when the country's first lighthouse was lit on this exposed rocky promontory at the confluence of the Skagerrak and the North Sea. Nearly four centuries of maritime history are embedded in the stone here — in the weathered keeper's buildings, in the powerful character of a headland that has endured everything from summer calms to the ferocious winter storms that made this cape one of the most feared passages for sailing vessels on the Norwegian coast.

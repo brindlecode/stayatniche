@@ -38,7 +38,6 @@ prosAndCons:
     - Limited local dining outside the villa
 bookingUrl: https://www.booking.com/hotel/ae/the-floating-seahorse.html
 rating: 9.4
-reviewCount: 87
 seasonalInfo:
   bestTime: October to May
   peakSeason: December to February
@@ -64,6 +63,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=The+World+Islands,+Dubai"
     label: "Find Tours on Klook"
+location:
+  country: "United Arab Emirates"
+  countryCode: "AE"
+  region: "Dubai"
+  city: "Dubai"
+  locality: "The World Islands"
+  coordinates:
+    lat: 25.1849
+    lng: 55.1671
+niche_scope: entire_property
+niche_feature: "133 three-level villas afloat off The World Islands, each with an underwater level of submerged bedroom/living rooms and coral garden views; sold as villas, hotel operation not confirmed. Also fits underwater-rooms."
+niche_source_url: "https://www.thenationalnews.com/lifestyle/luxury/property-of-the-week-underwater-views-from-dubai-s-dh88-million-floating-seahorse-villas-1.1246700"
+niche_verified_at: 2026-11-17
 ---
 
 Dubai has never done restraint particularly well, and The Floating Seahorse is entirely in keeping with that tradition. These semi-submerged villas sit on The World Islands — an artificial archipelago in the shape of a world map — and descend three metres below the surface of the Arabian Gulf.

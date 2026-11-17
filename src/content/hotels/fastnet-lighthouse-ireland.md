@@ -12,7 +12,7 @@ gallery:
 priceRange: "$180 - $380"
 priceIndicator: 3
 highlights:
-  - "The most famous lighthouse in Ireland, known as Ireland's Teardrop"
+  - "A famous Irish lighthouse, known as Ireland's Teardrop"
   - "Built from Cornish granite between 1897 and 1904 on a bare Atlantic rock"
   - "World-famous Fastnet Race turning mark, one of offshore sailing's greatest challenges"
   - "Unique boat excursions landing on the rock in suitable conditions"
@@ -43,7 +43,6 @@ prosAndCons:
     - "West Cork weather is highly variable, waterproofs essential"
 bookingUrl: https://www.booking.com/
 rating: 9.1
-reviewCount: 298
 seasonalInfo:
   bestTime: May to September for best sea conditions and landing opportunities
   peakSeason: Fastnet Race years (August, odd years) and summer (July–August)
@@ -64,7 +63,7 @@ featured: false
 status: draft
 seo:
   metaTitle: "Fastnet Rock Lighthouse Experience Review, Ireland's Teardrop, County Cork"
-  metaDescription: "Visit Ireland's most famous lighthouse, 14 km off the Cork coast. Boat excursions to Fastnet Rock with Atlantic wildlife, maritime history, and the world's most iconic offshore sailing mark. From $180."
+  metaDescription: "Visit the famous Fastnet Lighthouse, 14 km off the Cork coast. Boat excursions to Fastnet Rock with Atlantic wildlife, maritime history, and a landmark offshore sailing mark. From $180."
 affiliateLinks:
   - partner: "expedia"
     url: "https://www.expedia.com/Hotel-Search?destination=Schull%2C%20County%20Cork%2C%20Ireland&adults=2"

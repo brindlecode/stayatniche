@@ -2,7 +2,7 @@
 source: sandboarding-namibia
 title: "Sandboard en las dunas de Sossusvlei"
 destination: "Sossusvlei, desierto del Namib"
-description: "Lánzate en tabla por la ladera de las dunas de arena más altas del mundo y alcanza velocidades de 80 km/h sobre montañas de arena que se elevan 300 metros por encima de la antigua depresión de arcilla. Las dunas de Sossusvlei figuran entre las formaciones naturales más fotografiadas del planeta, de un rojo ladrillo, perfectamente esculpidas por el viento y en completo silencio, y bajar por una de ellas a toda velocidad convierte el desierto más bello del mundo en el parque de juegos más espectacular."
+description: "Lánzate en tabla por la ladera de algunas de las dunas de arena más altas del mundo y alcanza velocidades de 80 km/h sobre montañas de arena que se elevan 300 metros por encima de la antigua depresión de arcilla. Las dunas de Sossusvlei figuran entre las formaciones naturales más fotografiadas del planeta, de un rojo ladrillo, perfectamente esculpidas por el viento y en completo silencio, y bajar por una de ellas a toda velocidad convierte uno de los desiertos más bellos del mundo en un espectacular parque de juegos."
 booking:
   price: "Desde 80 US$ por persona"
   duration: "Medio día"
@@ -27,7 +27,7 @@ notIncluded:
   - "Alojamiento en la zona de Sossusvlei"
 seo:
   metaTitle: "Sandboard en las dunas de Sossusvlei, Namibia | StayAtNiche"
-  metaDescription: "Baja en tabla por dunas de 300 metros a 80 km/h en Sossusvlei, Namibia, y convierte el desierto más bello del mundo en tu pista. Desde 80 US$ por persona."
+  metaDescription: "Baja en tabla por dunas de 300 metros a 80 km/h en Sossusvlei, Namibia, y convierte uno de los desiertos más bellos del mundo en tu pista. Desde 80 US$."
 ---
 
 La duna Big Daddy se eleva 325 metros sobre el fondo de la depresión de Deadvlei. La subida lleva unos 45 minutos siguiendo una cresta afilada como un cuchillo, con desierto a ambos lados y la depresión de arcilla blanca empequeñeciéndose abajo. En la cima, el viento arranca la arena de la cresta en cortinas horizontales. La vista (el Namib extendiéndose hasta todos los horizontes, acacias muertas proyectando sombras azules sobre el suelo blanco, crestas de dunas que se pierden en la calima) es algo a lo que la fotografía de viajes nunca consigue hacer justicia.

@@ -15,7 +15,7 @@ bestTimeToVisit:
   details: "October to March is the window for comfortable travel, daytime temperatures of 20–28°C, low humidity, and clear skies. November to February is peak season with the highest prices and crowds at major sites. April and May become extremely hot (45°C+ in Jaisalmer). The monsoon from July to September greens the landscape and fills the lakes, but major festivals like Diwali (October/November) and Pushkar Camel Fair (November) fall in the cool season."
 mustSee:
   - "Amber Fort, Jaipur, a 16th-century hilltop fortress approached by elephant or jeep with extraordinary mirror-inlaid chambers"
-  - "Mehrangarh Fort, Jodhpur, the greatest Rajput fort in India, rising 120 meters above the 'Blue City'"
+  - "Mehrangarh Fort, Jodhpur, one of the best-known Rajput forts in India, rising 120 meters above the 'Blue City'"
   - "Lake Pichola at sunset, Udaipur, the lake city's white marble palaces reflected in still water"
   - "Jaisalmer Fort, a living 12th-century sandstone fort with inhabited houses, temples, and havelis inside its walls"
   - "Sam Sand Dunes, camel safari and overnight camp in the Thar Desert at sunset"

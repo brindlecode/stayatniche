@@ -1,10 +1,10 @@
 ---
 source: jungle-lodges-rainforest-guide
 title: "Junglelodges en regenwoudhotels: de complete gids voor slapen in de wildste plekken ter wereld"
-excerpt: "Van het Amazonebekken tot de oeroude bossen van Borneo: ontdek de mooiste junglelodges ter wereld, waar een ongekende biodiversiteit samengaat met doordachte accommodatie waarin je helemaal opgaat in de natuur."
+excerpt: "Van het Amazonebekken tot de oeroude bossen van Borneo: ontdek bijzondere junglelodges, waar een ongekende biodiversiteit samengaat met doordachte accommodatie waarin je helemaal opgaat in de natuur."
 seo:
   metaTitle: "Junglelodges en regenwoudhotels: complete gids | StayAtNiche"
-  metaDescription: "De mooiste junglelodges ter wereld, van de Amazone en Borneo tot Costa Rica en Sri Lanka. Met tips over wilde dieren spotten, gezondheid en je paklijst."
+  metaDescription: "Bijzondere junglelodges, van de Amazone en Borneo tot Costa Rica en Sri Lanka. Met tips over wilde dieren spotten, gezondheid en je paklijst."
 ---
 
 De grote regenwouden van de wereld behoren tot de biologisch meest complexe en visueel indrukwekkendste omgevingen op aarde. Alleen al in het Amazonebekken leeft naar schatting 10% van alle soorten op aarde. In de oeroude bossen van Borneo leven orang-oetans, dwergolifanten en neusapen in leefgebieden die al miljoenen jaren grotendeels onveranderd zijn. En in de nevelwouden van Costa Rica huist de quetzal in boomkruinen die altijd in mist gehuld zijn.
@@ -21,7 +21,7 @@ Het Amazoneregenwoud beslaat 5,5 miljoen vierkante kilometer verspreid over nege
 
 **Cristalino Lodge: Alta Floresta, Mato Grosso**
 
-Cristalino wordt steevast genoemd bij de beste natuurlodges ter wereld, in welke categorie dan ook. Het is een particulier natuurreservaat van 11.000 hectare aan de oevers van de kristalheldere Cristalino-rivier in het zuiden van Amazonië. De 30 meter hoge kruintoren, waar je het bladerdak op ooghoogte bekijkt, is een van de beroemdste uitkijkposten voor wilde dieren in Zuid-Amerika. Er zijn in het reservaat meer dan 600 vogelsoorten waargenomen; reuzenotters, tapirs, jaguars en 12 primatensoorten worden er regelmatig gezien.
+Cristalino staat hoog aangeschreven onder de natuurlodges. Het is een particulier natuurreservaat van 11.000 hectare aan de oevers van de kristalheldere Cristalino-rivier in het zuiden van Amazonië. De 30 meter hoge kruintoren, waar je het bladerdak op ooghoogte bekijkt, is een van de beroemdste uitkijkposten voor wilde dieren in Zuid-Amerika. Er zijn in het reservaat meer dan 600 vogelsoorten waargenomen; reuzenotters, tapirs, jaguars en 12 primatensoorten worden er regelmatig gezien.
 
 De lodge zelf is prachtig ontworpen: verhoogde houten gebouwen met horren voor de ramen en eigen veranda's, verbonden door loopbruggen door het bos. De begeleiding is uitzonderlijk, met een team van hooggekwalificeerde natuurgidsen die zowel vogeltochten als algemene natuurwandelingen leiden. Cristalino heeft talloze prijzen gewonnen voor duurzame bedrijfsvoering.
 
@@ -68,7 +68,7 @@ Het Danum Valley Conservation Area beschermt 438 vierkante kilometer ongerept la
 ---
 
 
-Costa Rica heeft op basis van zijn uitzonderlijke natuurlijke rijkdom de meest geavanceerde ecotoerisme-infrastructuur ter wereld opgebouwd. 25% van het landoppervlak is beschermd en door de ligging op de smalle landbrug tussen Noord- en Zuid-Amerika is het land een van de grote biologische kruispunten van de planeet.
+Costa Rica heeft op basis van zijn uitzonderlijke natuurlijke rijkdom een van de meest ontwikkelde ecotoerisme-infrastructuren ter wereld opgebouwd. 25% van het landoppervlak is beschermd en door de ligging op de smalle landbrug tussen Noord- en Zuid-Amerika is het land een van de grote biologische kruispunten van de planeet.
 
 **Lapa Rios Ecolodge, schiereiland Osa**
 
@@ -79,7 +79,7 @@ Lapa Rios ligt in een particulier regenwoudreservaat van 1.000 acre op het schie
 
 **Nayara Springs, vulkaan Arenal**
 
-Aan de andere kant van het Costa Ricaanse junglelodgespectrum biedt Nayara Springs een meer resortachtige ervaring in een regenwoudomgeving. Elk van de 35 villasuites heeft een eigen dompelbad met heet bronwater van de vulkaan Arenal en glazen wanden van vloer tot plafond die het bos naar binnen halen. De luxe afwerking maakt dit de beste accommodatie in de omgeving van Arenal. Meerdere restaurants met Michelin-erkenning en een uitzonderlijke spa maken het plaatje compleet.
+Aan de andere kant van het Costa Ricaanse junglelodgespectrum biedt Nayara Springs een meer resortachtige ervaring in een regenwoudomgeving. Elk van de 35 villasuites heeft een eigen dompelbad met heet bronwater van de vulkaan Arenal en glazen wanden van vloer tot plafond die het bos naar binnen halen. De luxe afwerking maakt dit een uitzonderlijke accommodatie in de omgeving van Arenal. Meerdere restaurants met Michelin-erkenning en een uitzonderlijke spa maken het plaatje compleet.
 
 **Prijsindicatie:** Vanaf $ 700 per persoon per nacht
 **Ideaal voor:** Stellen, huwelijksreizigers, reizigers voor wie luxe op één staat en wilde dieren op twee
@@ -124,7 +124,7 @@ Het regenwoud is een lastige omgeving om te fotograferen: het dichte bladerdak h
 Deze drie bestemmingen bieden elk een eigen versie van de junglelodge-ervaring:
 
 - **Amazone:** Het grootst, meest afgelegen en het rijkst aan soorten. Ideaal voor serieuze natuurliefhebbers die ook in de beste lodges eenvoudige omstandigheden voor lief nemen.
-- **Borneo:** De beste plek ter wereld om primaten te zien, vooral orang-oetans. Makkelijkere logistiek dan de Amazone en uitstekende voorzieningen in de beste lodges.
+- **Borneo:** Een uitstekende plek om primaten te zien, vooral orang-oetans. Makkelijkere logistiek dan de Amazone en uitstekende voorzieningen in de beste lodges.
 - **Costa Rica:** De eenvoudigste logistiek, de beste infrastructuur en vanuit Noord-Amerika het best bereikbaar. Iets minder dieren per vierkante kilometer dan de Amazone of Borneo, maar een enorme biodiversiteit op een relatief klein oppervlak.
 
 Bekijk onze complete collectie [junglelodges](/categories/jungle-lodges) en vind de regenwoudervaring die bij jouw reisstijl en budget past. En voor andere bijzondere overnachtingen in de natuur: lees ook onze gidsen over [safarilodges](/categories/safari-lodges), [boomhutten](/categories/treehouse-hotels) en [woestijnkampen](/categories/desert-camps).

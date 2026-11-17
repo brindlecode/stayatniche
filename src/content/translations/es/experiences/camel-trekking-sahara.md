@@ -2,7 +2,7 @@
 source: camel-trekking-sahara
 title: "Travesía en camello con noche en el Sáhara"
 destination: "Merzouga"
-description: "Adéntrate en camello en el inmenso mar de arena de Erg Chebbi al atardecer, acampa en una jaima bereber bajo un cielo tan cuajado de estrellas que parece sólido y despierta a la mañana siguiente con un amanecer que tiñe las dunas de oro y rosa en el paisaje desértico más cinematográfico del mundo. Esta travesía en camello de 24 horas desde Merzouga es la clásica noche en el Sáhara: sin prisas, verdaderamente remota e inesperadamente serena cuando la última campanilla de los camellos se pierde en el silencio del desierto."
+description: "Adéntrate en camello en el inmenso mar de arena de Erg Chebbi al atardecer, acampa en una jaima bereber bajo un cielo tan cuajado de estrellas que parece sólido y despierta a la mañana siguiente con un amanecer que tiñe las dunas de oro y rosa en uno de los paisajes desérticos más cinematográficos del mundo. Esta travesía en camello de 24 horas desde Merzouga es la clásica noche en el Sáhara: sin prisas, verdaderamente remota e inesperadamente serena cuando la última campanilla de los camellos se pierde en el silencio del desierto."
 booking:
   price: "Desde 95 US$ por persona"
   duration: "24 horas"

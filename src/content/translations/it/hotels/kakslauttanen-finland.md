@@ -27,7 +27,7 @@ bestFor:
   - Appassionati di avventure invernali
 prosAndCons:
   pros:
-    - Condizioni impareggiabili per osservare l'aurora boreale
+    - Condizioni eccellenti per osservare l'aurora boreale
     - La posizione isolata garantisce cieli davvero bui
     - L'esclusiva tecnologia del vetro termico ti tiene al caldo mentre guardi il cielo
     - Ampia scelta di attività artiche in loco
@@ -62,7 +62,7 @@ Yrjö Rissanen costruì qui il primo igloo di vetro nel 1999, spinto da un'idea 
 
 Ciò che eleva Kakslauttanen al di sopra della semplice curiosità è la qualità di tutto ciò che lo circonda. Le giornate ruotano attorno alla natura invernale della Lapponia finlandese: spedizioni in motoslitta nel vasto Parco nazionale Urho Kekkonen, gite in slitta trainata dalle renne attraverso foreste secolari, safari con mute di husky siberiani e dell'Alaska il cui entusiasmo collettivo è davvero contagioso, e pesca nel ghiaccio su laghi gelati dove il silenzio è così totale da diventare esso stesso un suono.
 
-La sauna a fumo del resort, una delle più belle saune tradizionali della Finlandia, è l'antidoto perfetto a una giornata al freddo. Il rituale — scaldare la sauna a fumo per ore, poi sedersi nel suo tepore antico profumato di betulla prima di rotolarsi nella neve fresca — è una di quelle esperienze che sfuggono a qualsiasi descrizione.
+La sauna a fumo del resort, una sauna tradizionale finlandese, è l'antidoto perfetto a una giornata al freddo. Il rituale — scaldare la sauna a fumo per ore, poi sedersi nel suo tepore antico profumato di betulla prima di rotolarsi nella neve fresca — è una di quelle esperienze che sfuggono a qualsiasi descrizione.
 
 La sera il ristorante propone piatti che ti ancorano saldamente alla Lapponia: carpaccio di renna, salmerino artico affumicato, dessert ai lamponi artici raccolti nelle torbiere circostanti. Dopo cena gli ospiti tornano verso i loro igloo, impostano la sveglia per l'aurora e scrutano il cielo con quella speranza concentrata che solo le latitudini fredde e buie sanno ispirare.
 

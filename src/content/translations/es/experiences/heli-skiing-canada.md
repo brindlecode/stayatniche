@@ -2,7 +2,7 @@
 source: heli-skiing-canada
 title: "Heliesquí en los montes Selkirk"
 destination: "Montes Selkirk, Columbia Británica"
-description: "Lánzate a campos de nieve polvo intacta en los Selkirk canadienses desde un helicóptero que te deja en lo alto de un terreno al que ningún remonte llegará jamás: una naturaleza inmensa, silenciosa y de un blanco perfecto, donde cada descenso se mide en kilómetros de desnivel y la calidad de la nieve es legendaria entre los esquiadores más exigentes del mundo. El heliesquí en la Columbia Británica es la cumbre del esquí alpino y ofrece a los mejores esquiadores del planeta una montaña completamente privada con parte de la nieve polvo más profunda del mundo."
+description: "Lánzate a campos de nieve polvo intacta en los Selkirk canadienses desde un helicóptero que te deja en lo alto de un terreno al que ningún remonte llegará jamás: una naturaleza inmensa, silenciosa y de un blanco perfecto, donde cada descenso se mide en kilómetros de desnivel y la calidad de la nieve es legendaria entre los esquiadores más exigentes del mundo. El heliesquí en la Columbia Británica es para muchos la cumbre del esquí alpino y ofrece a esquiadores con experiencia una montaña completamente privada con parte de la nieve polvo más profunda del mundo."
 booking:
   price: "Desde 1200 US$ por persona y día"
   duration: "Día completo (paquetes de 3 a 7 días disponibles)"

@@ -1,15 +1,15 @@
 ---
 source: safari-lodges-africa-complete-guide
 title: "Lodge per safari in Africa: la guida completa ai soggiorni più belli del continente tra gli animali"
-excerpt: "Dalle pianure del Serengeti al Delta dell’Okavango, alla scoperta dei migliori lodge per safari dell’Africa, dove incontri straordinari con la fauna si uniscono a un’ospitalità di lusso eccezionale."
+excerpt: "Dalle pianure del Serengeti al Delta dell’Okavango, alla scoperta di lodge per safari di spicco in Africa, dove incontri straordinari con la fauna si uniscono a un’ospitalità di lusso eccezionale."
 seo:
   metaTitle: "Lodge per safari in Africa: guida completa | StayAtNiche"
-  metaDescription: "I migliori lodge per safari dell’Africa, dalla Tanzania al Botswana: consigli esperti sulle strutture, sulle stagioni e su come prenotare il tuo safari."
+  metaDescription: "Lodge per safari di spicco in Africa, dalla Tanzania al Botswana: consigli esperti sulle strutture, sulle stagioni e su come prenotare il tuo safari."
 ---
 
 Svegliarsi prima dell’alba in un campo nel bush africano, ascoltare i leoni che si chiamano nel buio, poi salire su un Land Cruiser scoperto mentre la prima luce si apre sulla savana: sono sensazioni che si sommano come nessun altro viaggio sa fare. I lodge per safari sono costruiti attorno a ciò che c’è fuori, non dentro. Nei migliori, l’alloggio è eccellente, ma esiste al servizio dell’incontro con gli animali.
 
-Il mercato dei lodge per safari è molto maturato. Oggi si va dai fly camp ultraminimalisti nelle concessioni selvagge, con uno staff di tre persone, alle ville private con più suite, piscine a sfioro affacciate sulle pozze d’acqua e maggiordomi personali. Le strutture di punta competono con i migliori hotel urbani del mondo per servizio, cucina e qualità delle camere, e li battono nettamente per lo scenario.
+Il mercato dei lodge per safari è molto maturato. Oggi si va dai fly camp ultraminimalisti nelle concessioni selvagge, con uno staff di tre persone, alle ville private con più suite, piscine a sfioro affacciate sulle pozze d’acqua e maggiordomi personali. Le strutture di punta competono con i grandi hotel urbani per servizio, cucina e qualità delle camere, e li battono nettamente per lo scenario.
 
 Questa guida passa in rassegna le destinazioni chiave e consiglia lodge precisi per budget e priorità diverse.
 
@@ -49,10 +49,10 @@ Il Masai Mara, in Kenya, è il prolungamento settentrionale dello stesso ecosist
 
 **Angama Mara**
 
-L’Angama sorge sul bordo della scarpata di Oloololo, 1.800 piedi sopra le pianure del Mara, con due campi da 15 suite tendate che guardano sul Mara Triangle fino alle colline della Tanzania. Le viste sono le migliori di tutti i lodge del Masai Mara. Il programma di fotografia, gestito in collaborazione con celebri fotografi naturalisti, è il più solido del Kenya. Se prendi sul serio la fotografia naturalistica, è qui che devi andare.
+L’Angama sorge sul bordo della scarpata di Oloololo, 1.800 piedi sopra le pianure del Mara, con due campi da 15 suite tendate che guardano sul Mara Triangle fino alle colline della Tanzania. Le viste sono le migliori di tutti i lodge del Masai Mara. Il programma di fotografia, gestito in collaborazione con celebri fotografi naturalisti, è tra i più solidi del Kenya. Se prendi sul serio la fotografia naturalistica, è qui che devi andare.
 
 **Fascia di prezzo:** da 1.200 $ a persona a notte
-**Ideale per:** appassionati di fotografia, coppie, chi vuole le visuali migliori sul Mara
+**Ideale per:** appassionati di fotografia, coppie, chi vuole visuali privilegiate sul Mara
 
 **Mahali Mzuri, il campo safari keniota di Richard Branson**
 
@@ -74,7 +74,7 @@ Il Botswana si è posizionato di proposito come meta da safari a bassi volumi e 
 Stabilmente tra i migliori campi safari d’Africa, il Mombo di Wilderness Safaris si trova sulla Chief’s Island, nel cuore del Delta dell’Okavango. La posizione in un’area ricchissima di predatori garantisce avvistamenti straordinari (leopardi, leoni, licaoni e ghepardi si vedono regolarmente) e la collocazione sull’isola permette attività sia in acqua sia a terra. Il Mombo è stato rinnovato più volte e la versione attuale offre suite in tela e legno splendidamente progettate, con terrazze private affacciate sulle piane alluvionali.
 
 **Fascia di prezzo:** da 2.200 $ a persona a notte
-**Ideale per:** appassionati di fauna esigenti, fotografi, chi cerca il miglior campo del Delta
+**Ideale per:** appassionati di fauna esigenti, fotografi, chi cerca un campo di primo piano nel Delta
 
 **andBeyond Sandibe Okavango Safari Lodge**
 

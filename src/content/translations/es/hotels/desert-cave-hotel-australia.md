@@ -7,7 +7,7 @@ highlights:
   - "Coober Pedy produce el 70 % de los ópalos del mundo"
   - "La temperatura natural bajo tierra se mantiene a 23 °C constantes todo el año"
   - "Instalaciones subterráneas únicas, con bar, restaurante y piscina"
-  - "El pueblo del outback más genuinamente surrealista de Australia"
+  - "Un pueblo del outback genuinamente surrealista en el sur de Australia"
 amenities:
   - "Habitaciones subterráneas con paredes de arenisca natural"
   - "Piscina cubierta subterránea"
@@ -48,7 +48,7 @@ nearbyAttractions:
     distance: "150 km"
 seo:
   metaTitle: "Desert Cave Hotel: hotel subterráneo en Coober Pedy | StayAtNiche"
-  metaDescription: "Duerme bajo tierra en arenisca con vetas de ópalo en Coober Pedy, el pueblo más surrealista del outback australiano, a 23 °C constantes durante todo el año."
+  metaDescription: "Duerme bajo tierra en arenisca con vetas de ópalo en Coober Pedy, un pueblo surrealista del outback australiano, a 23 °C constantes durante todo el año."
 ---
 
 Si conduces hacia el norte por el outback de Australia Meridional, Coober Pedy aparece en el horizonte como un campo de montículos, tuberías y escombros sin un solo árbol. El suelo está salpicado de miles de pozos mineros. De lejos parece un paisaje excavado industrialmente y luego casi abandonado, lo cual, en cierto modo, es exacto. El pueblo se construyó sobre la minería del ópalo, y el ópalo lo moldeó todo, incluido el hecho de que la mayoría de sus 2000 habitantes viva bajo tierra, en casas llamadas *dugouts*. Cuando en verano la temperatura en superficie supera a menudo los 50 °C, la lógica es difícil de rebatir. El nombre aborigen de la zona es *kupa piti*: el hombre blanco en un agujero.

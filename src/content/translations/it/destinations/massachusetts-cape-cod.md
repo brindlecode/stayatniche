@@ -14,7 +14,7 @@ bestTimeToVisit:
 mustSee:
   - "La Cape Cod National Seashore: 40 miglia di spiagge, dune e falesie protette affacciate sull’Atlantico, da Eastham a Provincetown"
   - "Provincetown, la cittadina più originale del Cape: gallerie d’arte, ristoranti indipendenti e una vivace comunità LGBTQ+ presente tutto l’anno"
-  - "I banchi di ostriche di Wellfleet, tra le migliori ostriche del mondo, da gustare direttamente nei chioschi sui moli del porto"
+  - "I banchi di ostriche di Wellfleet, ostriche molto apprezzate, da gustare direttamente nei chioschi sui moli del porto"
   - "Il faro di Race Point, raggiungibile a piedi o in fuoristrada attraverso le dune delle Province Lands"
   - "Sandwich, la cittadina più antica del Cape, con uno storico museo del vetro e gli Heritage Museums & Gardens"
 travelTips:

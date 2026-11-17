@@ -7,7 +7,7 @@ stats:
   topDestination: "Maine, Stati Uniti"
 seo:
   metaTitle: "Dormire in un faro: hotel nei fari | StayAtNiche"
-  metaDescription: "Scopri gli hotel nei fari più insoliti del mondo: dormi in veri fari riconvertiti, con viste panoramiche sull’oceano, coste spettacolari e storia marittima."
+  metaDescription: "Scopri hotel nei fari insoliti: dormi in veri fari riconvertiti, con viste panoramiche sull’oceano, coste spettacolari e storia marittima."
 ---
 
 I fari sono stati costruiti proprio sui tratti di costa più pericolosi del mondo, promontori, scogli, banchi di sabbia, ed è esattamente lì che ti porta un soggiorno in uno di loro. Isolotti rocciosi raggiungibili solo con una barca privata. Promontori esposti, con il mare visibile in ogni direzione. L’unione di un isolamento radicale e di un’autentica storia marittima rende gli hotel nei fari diversi da qualsiasi forma di ospitalità tradizionale.
@@ -25,7 +25,7 @@ L’alba vista dalla galleria della lanterna è l’esperienza che definisce tut
 Sono strutture piccole: molte hanno solo da due a sei camere. Questo significa vera esclusività, attenzioni personalizzate e padroni di casa che di solito hanno scelto la loro insolita dimora per ragioni che vanno oltre la logica commerciale. Intorno ai promontori dei fari l’avifauna è sempre eccezionale: le specie migratrici toccano terra proprio in questi punti dopo le traversate oceaniche, e le colonie di uccelli marini si insediano sulle scogliere inaccessibili vicine.
 
 
-Il **Maine, negli Stati Uniti**, vanta la più bella concentrazione di fari-alloggio del Nord America. L’unione di aspri promontori di granito, arcipelaghi e una profonda storia marittima crea il contesto ideale. Si va dai fari su isole raggiungibili solo in barca alle torri sui promontori a breve distanza in auto da Portland.
+Il **Maine, negli Stati Uniti**, vanta una notevole concentrazione di fari-alloggio. L’unione di aspri promontori di granito, arcipelaghi e una profonda storia marittima crea il contesto ideale. Si va dai fari su isole raggiungibili solo in barca alle torri sui promontori a breve distanza in auto da Portland.
 
 Gli hotel nei fari della **Norvegia** occupano posizioni spettacolari all’imbocco dei fiordi e su scogli esposti, con accesso diretto all’ecosistema costiero norvegese. **Irlanda e Scozia** hanno trasformato diversi fari costieri in alloggi di carattere, unendo l’esperienza del faro alla profonda cultura marinara della frangia celtica dell’Atlantico. In **Australia**, lungo le coste del Victoria e dell’Australia Meridionale, ci sono hotel nei fari sopra la Great Ocean Road e lungo la penisola di Eyre, con la potenza dell’Oceano Australe su tutt’altra scala.
 

@@ -18,7 +18,6 @@ bestFor:
   - "Luxury retreats"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Palafitos%20Overwater%20Bungalows%2C%20Playa%20del%20Carmen&adults=2"
 rating: 8.4
-reviewCount: 0
 coordinates:
   lat: 20.7207332
   lng: -86.978651
@@ -27,6 +26,18 @@ sourceId: "osm:way/1388542320"
 verifiedAt: 2026-10-13
 publishedDate: 2026-10-13
 status: published
+location:
+  country: "Mexico"
+  countryCode: "MX"
+  region: "Quintana Roo"
+  city: "Playa del Carmen"
+  coordinates:
+    lat: 20.7207332
+    lng: -86.978651
+niche_scope: entire_property
+niche_feature: "All three room types on the official site are overwater bungalows (Overwater Bungalow, Elite, Two Bedroom Presidential), with glass floors, over the Caribbean. The site does not describe stilt construction."
+niche_source_url: "https://www.lomashospitality.com/en/hotel-palafitos-in-playa-del-carmen/rooms/overwater-bungalows"
+niche_verified_at: 2026-11-17
 ---
 
 Palafitos Overwater Bungalows is a hotel in Playa del Carmen, in Mexico's Riviera Maya, and it is run by Lomas Hospitality. The name refers to the stilt houses that give the place its look: each room is an overwater bungalow, so the whole property sits above the sea rather than beside it.

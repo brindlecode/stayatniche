@@ -53,8 +53,7 @@ prosAndCons:
     - "Premium pricing for the region"
     - "Weather can be unpredictable in Patagonia"
 bookingUrl: "https://www.booking.com/searchresults.html?ss=Nothofagus+Hotel+Huilo+Huilo"
-rating: 9.1
-reviewCount: 320
+rating: 8.5
 checkInOut:
   checkIn: "15:00"
   checkOut: "11:00"
@@ -76,7 +75,7 @@ coordinates:
 featured: true
 editorsPick: true
 trending: false
-status: "published"
+status: draft
 publishedDate: 2025-02-10
 seo:
   metaTitle: "Nothofagus Hotel & Spa Review, Treehouse Hotel in Patagonian Rainforest, Chile"
@@ -88,6 +87,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Huilo-Huilo+Biological+Reserve"
     label: "Find Tours on Klook"
+location:
+  country: "Chile"
+  countryCode: "CL"
+  region: "Los Ríos"
+  city: "Neltume"
+  locality: "Huilo-Huilo Biological Reserve"
+  coordinates:
+    lat: -39.8833
+    lng: -71.9167
+niche_scope: unverified
+niche_feature: "Official page describes a 55-room hotel building of 'mountain architecture' with four room categories; no separate treehouse units, no rooms built in or among trees. Treehouse feature not confirmed."
+niche_source_url: "https://www.huilohuilo.com/en/where-to-stay/hotel-nothofagus"
+niche_verified_at: 2026-11-17
 ---
 
 There are treehouse hotels, and then there is Nothofagus. Buried deep inside the Huilo-Huilo Biological Reserve — a privately owned, 100,000-hectare sanctuary in Chile's Los Ríos region — this hotel does not merely perch among the trees. It is woven into them. The ancient Nothofagus (southern beech) trees that give the hotel its name are not backdrop; they are structural partners, their massive trunks rising through floors and ceilings of the rooms themselves.

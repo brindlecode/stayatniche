@@ -28,8 +28,7 @@ bestFor:
   - Aurora hunters
   - Design enthusiasts
 bookingUrl: https://www.booking.com/hotel/se/treehotel.html
-rating: 9.4
-reviewCount: 847
+rating: 8.8
 coordinates:
   lat: 66.072856
   lng: 20.981835
@@ -41,6 +40,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Harads,+Swedish+Lapland"
     label: "Find Tours on Klook"
+location:
+  country: "Sweden"
+  countryCode: "SE"
+  region: "Norrbotten"
+  city: "Boden"
+  locality: "Harads"
+  coordinates:
+    lat: 66.072856
+    lng: 20.981835
+niche_scope: specific_rooms
+niche_feature: "Nine separate designer treerooms (Mirrorcube, UFO, Bird's Nest, Cabin, 7th Room, etc.) in the pines; the separate Guesthouse (six heritage rooms) is not a treehouse."
+niche_source_url: "https://treehotel.se/treerooms/"
+niche_verified_at: 2026-11-17
 ---
 
 Seven architects were each given a pine tree and asked to build a room in it. The results, standing in the Lule River valley forest outside the village of Harads, 60 kilometres south of the Arctic Circle, are some of the most photographed hotel rooms in the world, and they earn the attention.

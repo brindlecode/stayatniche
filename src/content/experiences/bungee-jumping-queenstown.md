@@ -30,7 +30,6 @@ notIncluded:
   - Meals and refreshments
   - Accommodation
 rating: 9.7
-reviewCount: 4821
 featured: false
 tags:
   - bungee-jumping

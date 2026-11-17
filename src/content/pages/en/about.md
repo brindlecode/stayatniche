@@ -1,8 +1,8 @@
 ---
 title: We find the stays others miss
-metaTitle: "About StayAtNiche | Curating the World's Most Extraordinary Stays"
-metaDescription: "StayAtNiche is an independent guide to the world's most unusual hotels: treehouses, caves, underwater rooms, ice hotels, castles and more, verified and compared."
-lead: StayAtNiche is an independent travel guide to the world's most extraordinary places to sleep. We don't do ordinary.
+metaTitle: "About StayAtNiche | Curating Extraordinary Stays"
+metaDescription: "StayAtNiche is an independent guide to unusual hotels around the world: treehouses, caves, underwater rooms, ice hotels, castles and more, verified and compared."
+lead: StayAtNiche is an independent travel guide to extraordinary places to sleep around the world. We don't do ordinary.
 ---
 
 ## Travel should be a story worth telling
@@ -15,9 +15,13 @@ We look for places that push the idea of a "stay" as far as it goes: a transpare
 
 **Discovery.** We search travel press, open map data, official tourism sources and the properties' own websites to find stays that most booking platforms bury.
 
-**Verification.** Every property is checked against its official website and open map data: it has to exist, take guests and genuinely be what its category says. If we can't verify it, it doesn't go on the list.
+**Verification.** Every property is checked against its official website or another citable source. For each stay we record what the special feature is, whether it applies to the whole property or only to some rooms, the source and the day we checked. Where we could not confirm it, the page says so.
 
 **Curation.** Only places that stand out for their setting, architecture or experience make the cut. Our scores are editorial judgements, not guest reviews.
+
+## How the editorial score works
+
+The score out of 10 is our own editorial rating, not an average of guest reviews, and we show no review counts. Editors weigh three things: how much the setting itself is the reason for the trip, what the official source says about rooms, food and access, and how practical the stay is (season, getting there). The niche check sets a ceiling: a stay that is the niche throughout can score up to 10, one where only some rooms qualify up to 8.8, one whose feature we could not confirm up to 8.5, and one where the feature is not where you sleep up to 7.5.
 
 ## A note on transparency
 

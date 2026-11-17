@@ -2,12 +2,12 @@
 source: cave-hotels
 title: Hoteles cueva
 tagline: "Excavados en la tierra, pensados para el lujo"
-description: Excavados en toba volcánica, arenisca blanda o caliza milenaria, los hoteles cueva te alojan en las entrañas de la tierra. La legendaria Capadocia turca es la referencia mundial, pero también te esperan refugios extraordinarios tallados en la roca en Grecia, España, Túnez y el suroeste de Estados Unidos.
+description: Excavados en toba volcánica, arenisca blanda o caliza milenaria, los hoteles cueva te alojan en las entrañas de la tierra. La legendaria Capadocia turca es una referencia del género, pero también te esperan refugios extraordinarios tallados en la roca en Grecia, España, Túnez y el suroeste de Estados Unidos.
 stats:
   topDestination: "Capadocia, Turquía"
 seo:
   metaTitle: "Hoteles cueva: alojamientos tallados en roca | StayAtNiche"
-  metaDescription: "Duerme dentro de formaciones rocosas milenarias en los mejores hoteles cueva del mundo: Capadocia, Santorini y más, con suites frescas y llenas de encanto."
+  metaDescription: "Duerme dentro de formaciones rocosas milenarias en hoteles cueva con carácter: Capadocia, Santorini y más, con suites frescas y llenas de encanto."
 ---
 
 Capadocia lleva más de 2000 años habitada, y los indicios arqueológicos de presencia humana en sus cuevas se remontan bastante más atrás. La toba volcánica de la región —modelada por la erosión en las famosas chimeneas de hadas y en valles espectaculares— era perfecta para vivir en cuevas: lo bastante blanda para excavarla con herramientas sencillas, pero capaz de endurecerse al contacto con el aire y formar espacios habitables duraderos y térmicamente estables. Los hoteles cueva de aquí no son una ocurrencia reciente. Son la última versión de una tradición larguísima.
@@ -22,7 +22,7 @@ Las habitaciones de un auténtico hotel cueva están talladas directamente en fo
 
 La luz de una habitación en cueva tiene un carácter propio. Entra por puertas y vanos tallados en la roca y cae en ángulos que dicta la pared rocosa original, no el plano de un arquitecto. A ciertas horas del día el resultado es de una belleza real. Hay quien teme sentir claustrofobia antes de llegar, pero una cueva bien rehabilitada suele resultar amplia, no agobiante. El enorme grosor de los muros de roca transmite una profunda sensación de refugio, y la mayoría de los huéspedes la encuentran relajante más que opresiva.
 
-**Capadocia, en Turquía,** es la capital mundial de los hoteles cueva, con mucha diferencia. En Göreme, Uçhisar y Ürgüp hay hoteles cueva que van desde pequeñas casas de huéspedes con encanto hasta hoteles de cinco estrellas con piscinas infinitas en la azotea, asomadas a un paisaje de otro planeta. Los vuelos en globo al amanecer sobre las chimeneas de hadas son uno de los grandes espectáculos del mundo viajero: resérvalos aparte del alojamiento, porque la demanda es enorme y las plazas vuelan.
+**Capadocia, en Turquía,** es el centro más conocido de los hoteles cueva. En Göreme, Uçhisar y Ürgüp hay hoteles cueva que van desde pequeñas casas de huéspedes con encanto hasta hoteles de cinco estrellas con piscinas infinitas en la azotea, asomadas a un paisaje de otro planeta. Los vuelos en globo al amanecer sobre las chimeneas de hadas son uno de los grandes espectáculos del mundo viajero: resérvalos aparte del alojamiento, porque la demanda es enorme y las plazas vuelan.
 
 **Santorini, en Grecia,** ofrece suites cueva excavadas en el borde de la caldera volcánica, con terrazas sobre una de las vistas al mar más espectaculares del mundo. La estética de cueva se funde con la arquitectura cicládica encalada, y el resultado, sinceramente, está a la altura de las fotos.
 

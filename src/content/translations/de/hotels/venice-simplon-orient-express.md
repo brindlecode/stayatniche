@@ -1,7 +1,7 @@
 ---
 source: venice-simplon-orient-express
 destination: "Von London nach Venedig (und weiter)"
-description: "Der berühmteste Zug der Welt: Der Venice Simplon-Orient-Express ist ein rollendes Museum der Art-déco-Pracht der 1920er-Jahre und fährt mit seinen originalen, restaurierten Wagen über die großen Bahnstrecken Europas. Ob von London nach Venedig, von Paris nach Istanbul oder von den Schweizer Alpen an die Adria – so wurde im goldenen Zeitalter der Eisenbahn gereist: gemächlich, schön und unersetzlich."
+description: "Einer der bekanntesten Züge der Welt: Der Venice Simplon-Orient-Express ist ein rollendes Museum der Art-déco-Pracht der 1920er-Jahre und fährt mit seinen originalen, restaurierten Wagen über die großen Bahnstrecken Europas. Ob von London nach Venedig, von Paris nach Istanbul oder von den Schweizer Alpen an die Adria – so wurde im goldenen Zeitalter der Eisenbahn gereist: gemächlich, schön und unersetzlich."
 highlights:
   - "Originale Pullman- und Schlafwagen aus den 1920er- und 1930er-Jahren, liebevoll restauriert"
   - "Die Strecke London–Venedig durch die Schweizer Alpen und vorbei an den oberitalienischen Seen"
@@ -24,7 +24,7 @@ bestFor:
   - "Alle, die einen großen Anlass mit außergewöhnlichem Stil feiern"
 prosAndCons:
   pros:
-    - "Unvergleichliche historische Atmosphäre in wirklich originalen Wagen"
+    - "Beeindruckende historische Atmosphäre in wirklich originalen Wagen"
     - "Die Fahrt von London nach Venedig durch die Alpen gehört zu den großen Reiseerlebnissen Europas"
     - "Das Dinner an Bord ist ein Ereignis für sich – exzellente Küche in außergewöhnlichem Rahmen"
     - "Das Gefühl eines besonderen Anlasses von der Abfahrt bis zur Ankunft ist mit keiner anderen Reiseform vergleichbar"

@@ -27,7 +27,7 @@ bestFor:
   - Amateurs d'aventure hivernale
 prosAndCons:
   pros:
-    - Des conditions d'observation des aurores boréales inégalées
+    - D'excellentes conditions d'observation des aurores boréales
     - Un isolement qui garantit un ciel vraiment noir
     - Une technologie de verre thermique unique qui vous garde au chaud pendant que vous scrutez le ciel
     - Un large éventail d'activités arctiques sur place
@@ -62,7 +62,7 @@ Yrjö Rissanen a construit ici le premier igloo de verre en 1999, porté par une
 
 Ce qui élève Kakslauttanen au-delà de la simple curiosité, c'est la qualité de tout ce qui l'entoure. Les journées s'organisent autour de la nature hivernale de la Laponie finlandaise : expéditions en motoneige dans l'immense parc national d'Urho Kekkonen, promenades en traîneau tiré par des rennes à travers la forêt primaire, safaris avec des attelages de huskies sibériens et d'Alaska dont l'enthousiasme collectif est franchement contagieux, pêche blanche sur des lacs gelés où le silence est si total qu'il en devient un son à part entière.
 
-Le sauna à fumée du resort, l'un des plus beaux saunas traditionnels de Finlande, est l'antidote idéal à une journée passée dans le froid. Le rituel — chauffer le sauna pendant des heures, s'asseoir dans sa chaleur ancestrale parfumée au bouleau, puis se rouler dans la neige fraîche — fait partie de ces expériences qui se racontent mal.
+Le sauna à fumée du resort, un sauna traditionnel finlandais, est l'antidote idéal à une journée passée dans le froid. Le rituel — chauffer le sauna pendant des heures, s'asseoir dans sa chaleur ancestrale parfumée au bouleau, puis se rouler dans la neige fraîche — fait partie de ces expériences qui se racontent mal.
 
 Le soir, le restaurant sert une cuisine solidement ancrée en Laponie : carpaccio de renne, omble chevalier fumé, desserts aux baies arctiques cueillies dans les tourbières alentour. Après le dîner, les clients regagnent leurs igloos, règlent leurs alertes aurores et scrutent le ciel avec cet espoir concentré que seules les latitudes froides et obscures savent inspirer.
 

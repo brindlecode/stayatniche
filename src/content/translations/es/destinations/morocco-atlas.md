@@ -1,7 +1,7 @@
 ---
 source: morocco-atlas
 name: "Marruecos y el Atlas"
-description: "Marruecos superpone medinas milenarias, dunas del Sáhara y las cumbres nevadas del Alto Atlas en un único país de contrastes extraordinarios. De los laberínticos zocos de Fez al silencio de las dunas de Erg Chebbi al amanecer, ofrece una de las experiencias de viaje más sensoriales del mundo y una cultura del alojamiento de una artesanía y una belleza sin igual."
+description: "Marruecos superpone medinas milenarias, dunas del Sáhara y las cumbres nevadas del Alto Atlas en un único país de contrastes extraordinarios. De los laberínticos zocos de Fez al silencio de las dunas de Erg Chebbi al amanecer, ofrece una de las experiencias de viaje más sensoriales del mundo y una cultura del alojamiento de una artesanía y una belleza extraordinarias."
 essentials:
   currency: "MAD (dírham marroquí); el efectivo es imprescindible fuera de las grandes ciudades"
   language: "Árabe y tamazight (bereber), ambos oficiales; el francés está muy extendido y el dariya (árabe marroquí) es la lengua de uso diario"
@@ -23,10 +23,10 @@ travelTips:
   - "En los zocos se regatea: empieza ofreciendo alrededor del 40 % del primer precio y ve negociando; alejarte suele traer una oferta mejor."
   - "Viste con recato en las medinas y en las zonas rurales: hombros y rodillas cubiertos como mínimo; aun así, las mujeres pueden recibir atenciones no deseadas en algunos barrios."
   - "Cuidado con los ganchos que se ofrecen a llevarte a la tienda de alfombras 'de su primo': declina con educación y muévete por tu cuenta o con un guía acreditado."
-  - "Los mejores riads deben reservarse con mucha antelación: el alojamiento boutique más selecto de Marruecos se llena con meses de antelación en primavera y otoño."
+  - "Los mejores riads deben reservarse con mucha antelación: el alojamiento boutique más buscado de Marruecos se llena con meses de antelación en primavera y otoño."
 seo:
   metaTitle: "Marruecos: guía, Sáhara, Atlas y riads | StayAtNiche"
-  metaDescription: "Guía de Marruecos: la medina de Fez, las dunas del Sáhara, trekking por el Atlas y los riads y campamentos en el desierto más extraordinarios del país."
+  metaDescription: "Guía de Marruecos: la medina de Fez, las dunas del Sáhara, trekking por el Atlas y riads y campamentos en el desierto extraordinarios. Todo para tu viaje."
 ---
 
 Marruecos lleva siglos atrayendo a viajeros al otro lado del estrecho de Gibraltar, y cada viaje merece la pena. Costa mediterránea al norte, Atlántico al oeste, Sáhara al sur y el Alto Atlas atravesando el centro en diagonal a casi 4.200 metros. Cada zona se rige por un clima, una cultura y una lógica distintos. Pocos países concentran tanto contraste en un solo itinerario.
@@ -35,7 +35,7 @@ Las cuatro ciudades imperiales de Marruecos fueron capital en distintas épocas 
 
 Marrakech va más deprisa. La plaza Yemaa el Fna al atardecer (encantadores de serpientes, cuentacuentos, puestos de comida ambulantes, toda la función teatral) es uno de los grandes espectáculos urbanos del mundo. Los riads ocultos tras los muros ciegos de la medina ofrecen justo lo contrario: patios privados con fuente central, naranjos y el silencio de gruesos muros de tierra. Ese contraste entre la calle y el interior es la esencia de Marrakech.
 
-El riad, la casa con patio convertida en hotel boutique, es uno de los grandes formatos de alojamiento del mundo. Los mejores riads de Fez y Marrakech son tanto obras de artesanía como de hospitalidad: yeserías talladas a mano, suelos de zellige, techos de mocárabes, celosías de madera de cedro. La idea de la casa volcada hacia dentro, con fachada desnuda e interior exuberante, crea una intimidad y una calma que hoy resultan realmente raras. Reserva los mejores con meses de antelación si viajas en primavera u otoño: se llenan pronto y no hacen descuentos.
+El riad, la casa con patio convertida en hotel boutique, es uno de los grandes formatos de alojamiento del mundo. Los riads más cuidados de Fez y Marrakech son tanto obras de artesanía como de hospitalidad: yeserías talladas a mano, suelos de zellige, techos de mocárabes, celosías de madera de cedro. La idea de la casa volcada hacia dentro, con fachada desnuda e interior exuberante, crea una intimidad y una calma que hoy resultan realmente raras. Reserva los mejores con meses de antelación si viajas en primavera u otoño: se llenan pronto y no hacen descuentos.
 
 Las dunas de Erg Chebbi, cerca de Merzouga, alcanzan los 150 metros de altura y se extienden a lo largo de 22 kilómetros. La experiencia clásica (ruta en camello hasta un campamento al atardecer, camas de verdad en jaimas de estilo bereber, estrellas desde la cresta de la duna y la luz del amanecer sobre la arena) es teatral y deliberada. Y también es de una belleza genuina. Lo teatral no le resta nada.
 

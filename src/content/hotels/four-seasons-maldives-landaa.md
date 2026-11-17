@@ -28,8 +28,7 @@ bestFor:
   - "Divers and snorkellers"
   - "Marine wildlife enthusiasts"
 bookingUrl: https://www.booking.com/hotel/mv/four-seasons-resort-maldives-at-landaa-giraavaru.html
-rating: 9.6
-reviewCount: 2876
+rating: 8.8
 coordinates:
   lat: 5.2863632
   lng: 73.1120772
@@ -41,6 +40,18 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Baa+Atoll,+Maldives"
     label: "Find Tours on Klook"
+location:
+  country: "Maldives"
+  countryCode: "MV"
+  region: "Baa Atoll"
+  locality: "Landaa Giraavaru"
+  coordinates:
+    lat: 5.2863632
+    lng: 73.1120772
+niche_scope: specific_rooms
+niche_feature: "Official fact sheet lists 103 villas including Water villas and Beach villas; fourseasons.com accommodation pages returned 403 and Forbes Travel Guide describes overwater villas alongside beach villas. Overwater count not given."
+niche_source_url: "https://press.fourseasons.com/maldiveslg/hotel-facts/"
+niche_verified_at: 2026-11-17
 ---
 
 What separates Landaa Giraavaru from the rest of the Maldives' overwater villa field is not the quality of its accommodation, considerable as that is, but where it sits and what it takes seriously. Baa Atoll holds UNESCO Biosphere Reserve status and contains some of the richest marine environments in the Indian Ocean. Hanifaru Bay, a short boat ride from the resort, is the site of the world's largest known manta ray feeding aggregations: hundreds of reef mantas arrive between June and November to feed in circular formations that have no equivalent anywhere else on the planet. Watching it from a snorkel mask is among the more disorienting wildlife experiences available.

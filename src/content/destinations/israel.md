@@ -24,7 +24,7 @@ mustSee:
 travelTips:
   - "Security at Ben Gurion Airport is thorough — allow 3 hours for departure, more if you have Jordan/Egypt stamps in your passport."
   - "Shabbat (Friday sunset to Saturday night) means most public transport stops and many businesses close; plan accordingly or use private taxis."
-  - "Israel is among the world's leading destinations for sustainable agriculture and food innovation — the farmers' market and restaurant scene in Tel Aviv is genuinely world-class."
+  - "Israel is among the world's leading destinations for sustainable agriculture and food innovation — the farmers' market and restaurant scene in Tel Aviv is genuinely excellent."
   - "The Negev desert is best explored with a car; public transport doesn't reach most of the interior."
   - "Water from taps is safe to drink throughout Israel."
 coordinates:
@@ -39,7 +39,7 @@ seo:
 
 Israel's geographical variety is disproportionate to its size. In a country of 22,000 square kilometres — roughly the area of Wales — you can stand on the snowy slopes of Mount Hermon in the morning, swim in the Sea of Galilee by afternoon, and watch the Negev Desert sunset from a plateau above the Jordan Valley in the evening. The elevation range spans from -430 metres (the Dead Sea, the lowest point on earth's surface) to 2,814 metres (Mount Hermon in the north), and the climatic range that results spans from alpine to hyper-arid within the length of a single day's drive.
 
-The Negev Desert — which covers 60% of the country's land area — is the aspect of Israel that consistently surprises travellers whose expectations are shaped by the biblical and political landscape. The Makhtesh Ramon is its centrepiece: a geological structure that has no precise equivalent elsewhere on earth, formed not by meteor impact or volcanic collapse but by the erosion of a mountain dome over 200 million years to expose a multicoloured geological cross-section 40 kilometres long, 8 kilometres wide, and 500 metres deep. The hiking within it — and on the network of trails across the Negev Highlands — is among the finest desert walking in the Middle East.
+The Negev Desert — which covers 60% of the country's land area — is the aspect of Israel that consistently surprises travellers whose expectations are shaped by the biblical and political landscape. The Makhtesh Ramon is its centrepiece: a geological structure that has no precise equivalent elsewhere on earth, formed not by meteor impact or volcanic collapse but by the erosion of a mountain dome over 200 million years to expose a multicoloured geological cross-section 40 kilometres long, 8 kilometres wide, and 500 metres deep. The hiking within it — and on the network of trails across the Negev Highlands — is highly regarded desert walking in the Middle East.
 
 
 ## Getting There

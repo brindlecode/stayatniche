@@ -1,10 +1,10 @@
 ---
 source: unusual-hotels-world
 title: "De 30 ongewoonste hotels ter wereld: bijzondere overnachtingen waarvan je niet gelooft dat ze bestaan"
-excerpt: "Van onderwaterslaapkamers op de Malediven tot een doorzichtige capsule aan een Peruaanse rotswand: 30 van de bijzonderste en ongewoonste hotelervaringen ter wereld, per categorie."
+excerpt: "Van onderwaterslaapkamers op de Malediven tot een doorzichtige capsule aan een Peruaanse rotswand: 30 bijzondere en ongewone hotelervaringen van over de hele wereld, per categorie."
 seo:
   metaTitle: "De 30 ongewoonste hotels ter wereld | StayAtNiche"
-  metaDescription: "De ongewoonste hotels ter wereld: onderwaterslaapkamers, ijssuites, boomhutcapsules, grotwoningen, capsules aan kliffen en meer bijzondere overnachtingen."
+  metaDescription: "Ongewone hotels van over de hele wereld: onderwaterslaapkamers, ijssuites, boomhutcapsules, grotwoningen, kliffcapsules en meer bijzondere overnachtingen."
 ---
 
 De wereld heeft te veel beige hotelkamers. Als je dit leest, weet je al dat het ook anders kan: accommodatie die zo origineel is dat het verblijf zelf het middelpunt van de reis wordt. Wij zetten de bijzonderste voorbeelden op een rij, in elke denkbare categorie.
@@ -27,7 +27,7 @@ De onderwaterkamer van conceptueel kunstenaar Mikael Genberg ligt 3 meter onder 
 
 **Fins Lapland | Vanaf $ 450 per nacht**
 
-De glazen iglo die duizend navolgers inspireerde. De thermische glazen koepels van Kakslauttanen hebben een verwarmde coating die condens en sneeuw tegengaat, zodat je vanuit bed onbelemmerd zicht hebt op het noorderlicht. Het resort ligt op 69° noorderbreedte in Fins Lapland, onder een paar van de donkerste luchten met het meeste noorderlicht van Europa. Het origineel en nog altijd de beste in zijn categorie.
+De glazen iglo die duizend navolgers inspireerde. De thermische glazen koepels van Kakslauttanen hebben een verwarmde coating die condens en sneeuw tegengaat, zodat je vanuit bed onbelemmerd zicht hebt op het noorderlicht. Het resort ligt op 69° noorderbreedte in Fins Lapland, onder een paar van de donkerste luchten met het meeste noorderlicht van Europa. Het origineel in zijn categorie en nog altijd een maatstaf.
 
 **Provence, Frankrijk | Vanaf $ 280 per nacht**
 
@@ -83,7 +83,7 @@ Een 13e-eeuws kasteel aan de oever van Lough Corrib in County Mayo, nu een van d
 
 **County Clare, Ierland | Vanaf $ 350 per nacht**
 
-Het voorvaderlijk huis van de familie O'Brien, afstammelingen van de Ierse hoge koning Brian Boru, is nu een vijfsterrenhotel met 450 acre bos en een eigen meer. Golf, vissen, valkerij en het soort baronale grandeur dat de Ierse kasteelhotelscene de beste ter wereld maakt.
+Het voorvaderlijk huis van de familie O'Brien, afstammelingen van de Ierse hoge koning Brian Boru, is nu een vijfsterrenhotel met 450 acre bos en een eigen meer. Golf, vissen, valkerij en het soort baronale grandeur dat de Ierse kasteelhotelscene zo onderscheidend maakt.
 
 **Sutherland, Schotland | Vanaf $ 900 per nacht (tarieven voor leden verschillen)**
 
@@ -127,12 +127,12 @@ Geen hotel in de gewone zin, maar de originele blauw-gouden rijtuigen van de Ven
 
 **Schotland | Vanaf $ 2.500 per nacht**
 
-De luxueuste treinreis van Schotland gaat in 2 tot 7 nachten door de Highlands, met uitstapjes naar distilleerderijen, kastelen en kustdorpen. De rijtuigen stammen uit de jaren zestig en zijn gerestaureerd tot edwardiaanse grandeur. Klein genoeg om persoonlijk te voelen (maximaal 36 gasten), met Schotse producten, single malts en echte Highland-landschappen als standaard.
+Een luxe treinreis door Schotland gaat in 2 tot 7 nachten door de Highlands, met uitstapjes naar distilleerderijen, kastelen en kustdorpen. De rijtuigen stammen uit de jaren zestig en zijn gerestaureerd tot edwardiaanse grandeur. Klein genoeg om persoonlijk te voelen (maximaal 36 gasten), met Schotse producten, single malts en echte Highland-landschappen als standaard.
 
 
 **Uluru, Australië | Vanaf $ 1.800 per nacht, all-inclusive**
 
-Dé Uluru-ervaring. Vijftien tentpaviljoens kijken recht uit op de rots, zo geplaatst dat je vanaf je eigen terras ziet hoe Uluru bij zonsopkomst en zonsondergang van kleur verandert. De eettent serveert uitzonderlijk Australisch eten en wijn. Het gidsprogramma (cultureel, geologisch, astronomisch) is het meest informatieve bij Uluru. Zo zie je een van de grote natuurmonumenten op aarde zoals het hoort.
+Dé Uluru-ervaring. Vijftien tentpaviljoens kijken recht uit op de rots, zo geplaatst dat je vanaf je eigen terras ziet hoe Uluru bij zonsopkomst en zonsondergang van kleur verandert. De eettent serveert uitzonderlijk Australisch eten en wijn. Het gidsprogramma (cultureel, geologisch, astronomisch) is een van de meest informatieve bij Uluru. Zo zie je een van de grote natuurmonumenten op aarde zoals het hoort.
 
 **Agafay-woestijn, Marokko | Vanaf $ 300 per nacht**
 

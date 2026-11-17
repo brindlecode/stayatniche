@@ -1,10 +1,10 @@
 ---
 source: lighthouse-hotels-coastal-guide
 title: "Hotel nei fari: la guida completa per dormire in un’icona del mare ancora in funzione"
-excerpt: "Dalle coste selvagge dell’Irlanda alle rive assolate del Mediterraneo, alla scoperta degli hotel nei fari più straordinari del mondo e delle case dei guardiani trasformate in alloggi."
+excerpt: "Dalle coste selvagge dell’Irlanda alle rive assolate del Mediterraneo, alla scoperta di hotel nei fari straordinari e delle case dei guardiani trasformate in alloggi."
 seo:
   metaTitle: "Hotel nei fari nel mondo: guida completa | StayAtNiche"
-  metaDescription: "I più bei hotel nei fari del mondo, dall’Irlanda alla Nuova Zelanda: dormi nell’ex casa di un guardiano del faro, con viste spettacolari sul mare."
+  metaDescription: "Hotel nei fari, dall’Irlanda alla Nuova Zelanda: dormi nell’ex casa di un guardiano del faro, con viste spettacolari sul mare, prezzi e consigli pratici."
 ---
 
 C’è un motivo se i fari accendono da secoli l’immaginazione umana. Arroccati ai margini di continenti e isole, su promontori sferzati dalle burrasche atlantiche e dallo scirocco mediterraneo, raccontano un intreccio di isolamento, dovere e forza degli elementi che tocca corde profonde. La vita del guardiano del faro, che tiene accesa la luce durante le tempeste, solo in una torre sopra le onde che si infrangono, ha generato un’intera letteratura e una mitologia.
@@ -47,7 +47,7 @@ Ardnamurchan Point è il punto più occidentale della Gran Bretagna continentale
 
 **Corsewall Lighthouse Hotel, Dumfries and Galloway**
 
-A differenza della maggior parte dei fari scozzesi, il Corsewall è stato trasformato in un hotel con servizio completo anziché in un alloggio self-catering. Le sei camere e suite ricavate negli edifici del faro si affacciano sul Firth of Clyde e sul Mull of Kintyre, e il ristorante, con pesce locale e manzo scozzese, è il migliore della zona. Il faro, datato 1815, è ancora in funzione.
+A differenza della maggior parte dei fari scozzesi, il Corsewall è stato trasformato in un hotel con servizio completo anziché in un alloggio self-catering. Le sei camere e suite ricavate negli edifici del faro si affacciano sul Firth of Clyde e sul Mull of Kintyre, e il ristorante, con pesce locale e manzo scozzese, è tra i più apprezzati della zona. Il faro, datato 1815, è ancora in funzione.
 
 **Fascia di prezzo:** da 120 £ a notte (pernottamento e colazione)
 **Ideale per:** coppie, chi preferisce il servizio alberghiero al self-catering, chi esplora il Dumfries and Galloway

@@ -2,12 +2,12 @@
 source: underwater-rooms
 title: Habitaciones submarinas
 tagline: "Despierta en el fondo del océano"
-description: "La experiencia de alojamiento más escasa del planeta: las habitaciones de hotel submarinas te sumergen en un mundo de arrecifes de coral, peces tropicales y agua de un azul luminoso. Con menos de veinte suites submarinas auténticas en todo el mundo, estas habitaciones extraordinarias en Maldivas y otros destinos son la frontera absoluta de los alojamientos únicos."
+description: "Una experiencia de alojamiento muy escasa: las habitaciones de hotel submarinas te sumergen en un mundo de arrecifes de coral, peces tropicales y agua de un azul luminoso. Con menos de veinte suites submarinas auténticas en todo el mundo, estas habitaciones extraordinarias en Maldivas y otros destinos llevan los alojamientos únicos hasta la frontera."
 stats:
   topDestination: "Maldivas"
 seo:
   metaTitle: "Habitaciones submarinas: dormir bajo el mar | StayAtNiche"
-  metaDescription: "Las habitaciones de hotel submarinas más exclusivas del mundo, en Maldivas y otros destinos: duerme rodeado de arrecifes y peces tropicales en suites sumergidas."
+  metaDescription: "Habitaciones de hotel submarinas exclusivas, en Maldivas y otros destinos: duerme rodeado de arrecifes y peces tropicales en suites sumergidas."
 ---
 
 Hay aproximadamente dieciocho lugares en el mundo donde puedes dormirte bajo la superficie del océano, viendo a los peces de arrecife moverse entre las formaciones de coral mientras las mantarrayas pasan por encima. Incluso menos de dieciocho, según la temporada y qué alojamientos estén operativos. La cifra no ha crecido deprisa porque construir habitaciones de hotel bajo el agua es realmente difícil y caro, y precisamente por eso siguen siendo la categoría más escasa del mundo viajero.

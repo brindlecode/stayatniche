@@ -1,7 +1,7 @@
 ---
 source: mozambique
 name: "Mozambique"
-description: "Mozambique is de meest onderschatte strand- en onderwaterbestemming van Afrika: 2.500 kilometer kust aan de Indische Oceaan, met poederwitte stranden, archipels waar je met de dhow langs vaart en koraalriffen die in helderheid en rijkdom niet onderdoen voor de Malediven. Afgelegen eilandlodges en barefoot-luxury-strandkampen bieden een intimiteit en ongereptheid die beroemdere bestemmingen aan de Indische Oceaan allang kwijt zijn."
+description: "Mozambique is een van de meest onderschatte strand- en onderwaterbestemmingen van Afrika: 2.500 kilometer kust aan de Indische Oceaan, met poederwitte stranden, archipels waar je met de dhow langs vaart en koraalriffen die in helderheid en rijkdom niet onderdoen voor de Malediven. Afgelegen eilandlodges en barefoot-luxury-strandkampen bieden een intimiteit en ongereptheid die beroemdere bestemmingen aan de Indische Oceaan allang kwijt zijn."
 essentials:
   currency: "MZN (Mozambikaanse metical); bij de meeste lodges en toeristische bedrijven kun je ook in USD betalen"
   language: "Portugees (officieel); Emakhuwa, Xichangana en andere Bantoetalen"
@@ -14,7 +14,7 @@ bestTimeToVisit:
 mustSee:
   - "Bazaruto-archipel: vijf eilanden met verblindend wit zand en turquoise water, en een eigen doejongpopulatie"
   - "Quirimbas-archipel: een afgelegen keten van 32 eilanden in het uiterste noorden, met ongerepte riffen en Swahiliruïnes"
-  - "Tofo Beach, de beste plek in Afrika om met zekerheid walvishaaien te zien tijdens het snorkelen"
+  - "Tofo Beach, een bekende plek in Afrika om met zekerheid walvishaaien te zien tijdens het snorkelen"
   - "Ibo (Quirimbas), een vervallen Portugees koloniaal eilandstadje met een fascinerend Arabisch-Afrikaans-Portugees erfgoed"
   - "Pemba, de toegangspoort tot het noorden, met een prachtige baai en een oude stad met Portugese invloeden"
   - "Vilanculos, de toegangspoort in het zuiden, vanwaar je met de dhow door de Bazaruto-archipel zeilt"
@@ -26,7 +26,7 @@ travelTips:
   - "Doejongs zijn extreem gevoelig voor verstoring door boten. Snorkel en zwem alleen met ze en benader ze nooit gemotoriseerd. De gidsen van je lodge kennen de ethische regels."
 seo:
   metaTitle: "Mozambique reisgids: eilandlodges en riffen | StayAtNiche"
-  metaDescription: "Reisgids Mozambique: de Bazaruto-archipel, eilandlodges op de Quirimbas, walvishaaien bij Tofo, doejongs en de mooiste stranden van Afrika aan de Indische Oceaan."
+  metaDescription: "Reisgids Mozambique: de Bazaruto-archipel, eilandlodges op de Quirimbas, walvishaaien bij Tofo, doejongs en stranden van Afrika aan de Indische Oceaan."
 ---
 
 Mozambique heeft 2.500 kilometer kust aan de Indische Oceaan, en het grootste deel daarvan is nog onbebouwd. Stranden lopen kilometers lang ononderbroken door. Aan de horizon liggen dhows. Geen enkele hoogbouw steekt boven de bomen uit. De onderwaterwereld – koraalriffen, walvishaaien, bultruggen, manta's, doejongs, stranden waar zeeschildpadden nestelen – wordt bediend door een handvol lodges waarvan de capaciteit zo zorgvuldig is beperkt dat het gevoel iets ongerepts te hebben gevonden niet alleen marketing is.

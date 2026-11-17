@@ -7,7 +7,7 @@ highlights:
   - "Onderwaterramen rondom, met 's nachts live zicht op het rif"
   - "Drijvend bouwwerk met dakterras, lounge op zeeniveau en onderwaterslaapkamer"
   - "Voor de kust van het afgelegen Pemba, een van de minst bezochte bestemmingen in de Indische Oceaan"
-  - "Keer op keer uitgeroepen tot een van de bijzonderste hotelervaringen ter wereld"
+  - "Een bijzondere slaapervaring onder water die regelmatig in reismedia wordt genoemd"
 amenities:
   - "Slaapkamer onder water"
   - "Dakterras met uitzicht over de open oceaan"
@@ -24,7 +24,7 @@ bestFor:
   - "Duikers die midden in de oceaan willen slapen"
 prosAndCons:
   pros:
-    - "De meest bijzondere manier om te slapen die er op aarde te vinden is"
+    - "Een bijzondere slaapervaring, waarbij je 's nachts het rif door de ramen ziet"
     - "Het nachtelijke rifleven voor de slaapkamerramen is werkelijk magisch"
     - "Totale privacy, het platform ligt helemaal alleen in open zee"
     - "Het hoofdresort van Manta biedt als aanvulling uitstekende duikmogelijkheden"
@@ -72,4 +72,4 @@ Tijdens elk verblijf woont een vaste gastheer op het platform, die zorgt voor ma
 
 Het eiland zelf is de reis al waard. Het Pemba Channel wordt vlak voor de kust al snel erg diep, en het opwellende water houdt een van de gezondste koraalriffen van de Indische Oceaan in stand. Toeristische voorzieningen zijn er nauwelijks, een handvol lodges en geen strook met resorts, en de dorpen van kruidnagelboeren en vissers langs de kust leven in een tempo dat echt onthaast aanvoelt.
 
-De lodge van The Manta Resort op het eiland is het aankomstpunt, biedt uitstekende duikmogelijkheden en regelt alle bootvervoer naar de Underwater Room. De kamer is niet de luxueuste slaapplek van de Indische Oceaan. Maar volgens bijna iedereen die er een nacht heeft doorgebracht, is het wel de meest unieke die er waar dan ook te vinden is.
+De lodge van The Manta Resort op het eiland is het aankomstpunt, biedt uitstekende duikmogelijkheden en regelt alle bootvervoer naar de Underwater Room. De kamer is niet de luxueuste slaapplek van de Indische Oceaan. Maar volgens bijna iedereen die er een nacht heeft doorgebracht, is het wel een van de meest unieke die er te vinden zijn.

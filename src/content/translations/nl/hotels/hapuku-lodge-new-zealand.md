@@ -26,9 +26,9 @@ bestFor:
 prosAndCons:
   pros:
     - "Spectaculair dubbel uitzicht op bergen en oceaan vanaf hetzelfde balkon"
-    - "Een van de beste luxe boomhutverblijven van het zuidelijk halfrond"
+    - "Een gewaardeerd luxe boomhutverblijf op het zuidelijk halfrond"
     - "Uitstekend eten van echt lokale ingrediënten"
-    - "Kaikōura biedt enkele van de best bereikbare ontmoetingen met zeedieren ter wereld"
+    - "Kaikōura biedt goed bereikbare ontmoetingen met zeedieren"
     - "Warme, persoonlijke service van een familiebedrijf"
   cons:
     - "Kaikōura ligt 2,5 uur rijden van Christchurch"

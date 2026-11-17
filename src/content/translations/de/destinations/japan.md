@@ -1,7 +1,7 @@
 ---
 source: japan
 name: "Japan"
-description: "Ein Archipel aus vier Hauptinseln und fast 7.000 kleineren Inseln, auf dem uralte Wälder auf neonbeleuchtete Städte treffen, Hochgeschwindigkeitszüge gegenüberliegende Küsten in wenigen Stunden verbinden und die raffinierteste Gastlichkeit der Welt – das Ryokan – neben Kapselhotels existiert. Japan belohnt jede Form der Annäherung, von der zweiwöchigen ersten Reise bis zu einem Leben voller Wiederkehr."
+description: "Ein Archipel aus vier Hauptinseln und fast 7.000 kleineren Inseln, auf dem uralte Wälder auf neonbeleuchtete Städte treffen, Hochgeschwindigkeitszüge gegenüberliegende Küsten in wenigen Stunden verbinden und eine äußerst raffinierte Gastlichkeit – das Ryokan – neben Kapselhotels existiert. Japan belohnt jede Form der Annäherung, von der zweiwöchigen ersten Reise bis zu einem Leben voller Wiederkehr."
 essentials:
   currency: "JPY (Japanischer Yen); Bargeld ist nach wie vor verbreitet, vor allem in kleineren Betrieben und ländlichen Ryokan"
   language: "Japanisch; an großen Bahnhöfen und in Touristengebieten englische Beschilderung, auf dem Land seltener"
@@ -10,7 +10,7 @@ essentials:
   plugType: "Typ A/B (100 V) – niedrigere Spannung als in den meisten Ländern; prüfen Sie die Kompatibilität Ihrer Geräte"
 bestTimeToVisit:
   summary: "März bis April zur Kirschblüte, Oktober bis November zum Herbstlaub, Dezember bis Februar für Pulverschnee"
-  details: "Die Kirschblüte (je nach Breitengrad Ende März bis Mitte April) ist das spektakulärste Naturereignis des Jahres – und zugleich die Zeit des größten Andrangs. Das Herbstlaub im Oktober und November ist ebenso schön, bei weniger Besuchern. Der Winter bringt erstklassiges Skifahren auf Hokkaido und in Nagano. Der Sommer (Juli bis August) ist heiß und schwül; regionale Feste machen ihn trotz der Hitze lohnend."
+  details: "Die Kirschblüte (je nach Breitengrad Ende März bis Mitte April) ist das spektakulärste Naturereignis des Jahres – und zugleich die Zeit des größten Andrangs. Das Herbstlaub im Oktober und November ist ebenso schön, bei weniger Besuchern. Der Winter bringt renommiertes Skifahren auf Hokkaido und in Nagano. Der Sommer (Juli bis August) ist heiß und schwül; regionale Feste machen ihn trotz der Hitze lohnend."
 mustSee:
   - "Fushimi Inari Taisha in Kyoto – Tausende zinnoberrote Torii, die sich den Berg hinaufziehen"
   - "Shirakawa-go in Gifu – UNESCO-geschütztes Dorf mit strohgedeckten Bauernhäusern in einem Bergtal"

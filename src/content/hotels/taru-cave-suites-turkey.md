@@ -24,7 +24,6 @@ bestFor:
   - "Food lovers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Taru%20Cave%20Suites%2C%20%C3%9Crg%C3%BCp&adults=2"
 rating: 8.1
-reviewCount: 0
 coordinates:
   lat: 38.6342303
   lng: 34.9043692
@@ -33,6 +32,19 @@ sourceId: "osm:node/8641687607"
 verifiedAt: 2026-10-09
 publishedDate: 2026-10-09
 status: published
+location:
+  country: "Turkey"
+  countryCode: "TR"
+  region: "Nevşehir"
+  city: "Ürgüp"
+  locality: "Temenni"
+  coordinates:
+    lat: 38.6342303
+    lng: 34.9043692
+niche_scope: entire_property
+niche_feature: "Hotel presents itself as a boutique cave hotel in Ürgüp and calls its rooms 'elegantly designed cave rooms'. Site gives no construction detail (carved rock) and no total room count."
+niche_source_url: "https://tarucavesuites.com/"
+niche_verified_at: 2026-11-17
 ---
 
 Taru Cave Suites is a boutique cave hotel in Ürgüp that combines, according to the hotel, elegance, authenticity and modern amenities. Its rooms are described as "elegantly designed cave rooms", so the cave setting applies to the stay as a whole.

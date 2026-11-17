@@ -43,8 +43,7 @@ prosAndCons:
     - No on-site restaurant; dinner must be arranged separately or in nearby Allauch
     - Not suitable for guests with limited mobility
 bookingUrl: https://www.booking.com/hotel/fr/attrap-reves.html
-rating: 9.1
-reviewCount: 1234
+rating: 8.8
 seasonalInfo:
   bestTime: April to June and September to October for ideal temperatures and clear skies
   peakSeason: July and August
@@ -73,6 +72,18 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Allauch,+Provence"
     label: "Find Tours on Klook"
+location:
+  country: "France"
+  countryCode: "FX"
+  region: "Provence-Alpes-Côte d'Azur"
+  city: "Allauch"
+  coordinates:
+    lat: 43.325512
+    lng: 5.464278
+niche_scope: specific_rooms
+niche_feature: "Transparent bubbles (Zen, Jungle, Love Nature, Chic & Design, 1001 and others) at Allauch; the site also sells non-bubble units (Lov'nid, Aqua'Room, Tahitian and squirrel huts) and a separate cabin site, A Fleur de Bois."
+niche_source_url: "https://www.attrap-reves.com/en/transparent-bubble-bl/?c1-sleep-in-a-bubble-zen-bubble"
+niche_verified_at: 2026-11-17
 ---
 
 Twenty minutes from Marseille's Vieux-Port and a complete removal from it, Attrap'Rêves sits in the garrigue hills above Allauch — rosemary, native oak, Mediterranean light. Each transparent PVC dome occupies its own patch of Provençal scrubland, screened from its neighbours. You don't see other bubbles. You see the countryside, and at night, the sky.

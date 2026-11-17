@@ -43,7 +43,6 @@ prosAndCons:
     - "Limited availability; books out quickly during whale season"
 bookingUrl: https://www.booking.com/
 rating: 9.0
-reviewCount: 187
 seasonalInfo:
   bestTime: June to September for whale watching; October to April for calmer weather
   peakSeason: Australian school holidays and winter whale season (July–August)

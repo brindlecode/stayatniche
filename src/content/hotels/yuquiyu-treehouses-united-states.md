@@ -25,7 +25,6 @@ bestFor:
   - "Adults-only retreats"
 bookingUrl: "https://yuquiyufarm.com/treehouses/"
 rating: 8.7
-reviewCount: 0
 coordinates:
   lat: 18.3518832
   lng: -65.8098365
@@ -34,6 +33,19 @@ sourceId: "osm:node/11540673453"
 verifiedAt: 2026-11-15
 publishedDate: 2026-11-15
 status: published
+location:
+  country: "United States"
+  countryCode: "US"
+  region: "Puerto Rico"
+  city: "Río Grande"
+  locality: "El Yunque rainforest foothills"
+  coordinates:
+    lat: 18.3518832
+    lng: -65.8098365
+niche_scope: entire_property
+niche_feature: "Three separate treehouses (El Mirador, La Cara de Indio, La Cascada) raised on pillars among the trees on a canyon side; each for two adults."
+niche_source_url: "https://yuquiyufarm.com/treehouses/"
+niche_verified_at: 2026-11-17
 ---
 
 Yuquiyú is a rustic retreat in the foothills of El Yunque, Puerto Rico's rainforest, and its accommodation is a set of three artisan-built treehouses. Each one stands on pillars among the trees, on the side of a canyon, in an outcropping of massive boulders. Terraces with an organic garden, fruit trees and free parking sit above; a cascading river runs below, with the rainforest beyond.

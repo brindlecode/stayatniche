@@ -31,7 +31,6 @@ notIncluded:
   - Camera or dry bag for personal electronics
   - Gratuities for guides
 rating: 9.2
-reviewCount: 2341
 featured: false
 tags:
   - cave-tubing

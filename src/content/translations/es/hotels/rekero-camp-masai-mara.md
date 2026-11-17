@@ -1,7 +1,7 @@
 ---
 source: rekero-camp-masai-mara
 destination: "Reserva Nacional de Masái Mara, valle del Rift"
-description: "Rekero es un campamento de tiendas clásico instalado en una arboleda de higueras a orillas del río Talek, en el corazón del Masái Mara, gestionado por el grupo Governors' Camp con el acento puesto en la experiencia auténtica del bush, los guías masáis expertos y la fauna residente de la mayor reserva de Kenia. Su ubicación dentro de la reserva pone a los huéspedes al alcance de avistamientos extraordinarios de la Gran Migración."
+description: "Rekero es un campamento de tiendas clásico instalado en una arboleda de higueras a orillas del río Talek, en el corazón del Masái Mara, gestionado por el grupo Governors' Camp con el acento puesto en la experiencia auténtica del bush, los guías masáis expertos y la fauna residente de una de las reservas más conocidas de Kenia. Su ubicación dentro de la reserva pone a los huéspedes al alcance de avistamientos extraordinarios de la Gran Migración."
 highlights:
   - "Excepcionales cruces de la Gran Migración en el río Mara (julio-octubre)"
   - "Manadas de leones residentes, familias de guepardos y leopardos en las llanuras del Mara"
@@ -24,7 +24,7 @@ bestFor:
   - "Quienes buscan el ambiente del safari clásico"
 prosAndCons:
   pros:
-    - "El Masái Mara durante la migración es la cumbre del espectáculo del safari africano"
+    - "El Masái Mara durante la migración es uno de los grandes espectáculos del safari africano"
     - "Campamento de tiendas clásico con auténtico ambiente de África oriental"
     - "Excelente política de safaris de día completo, sin límite de tiempo para los encuentros con la fauna"
     - "Los guías masáis aportan profundidad cultural y un conocimiento extraordinario del rastreo"
@@ -51,7 +51,7 @@ seo:
   metaDescription: "Campamento de tiendas clásico en el corazón del Masái Mara para ver la Gran Migración, con guías masáis expertos y safaris de día completo. Desde 600 US$."
 ---
 
-Las praderas abiertas y onduladas del Masái Mara, que se extienden hasta el horizonte bajo el cielo de África oriental, sostienen unas concentraciones de grandes mamíferos sin parangón fuera del ecosistema del Serengeti, del que el Mara es la prolongación septentrional en Kenia. Un campamento bien situado dentro de la reserva significa que la fauna está ahí, inmediata y constante, no es algo que tengas que salir a buscar en vehículo.
+Las praderas abiertas y onduladas del Masái Mara, que se extienden hasta el horizonte bajo el cielo de África oriental, sostienen unas concentraciones excepcionales de grandes mamíferos dentro del ecosistema ampliado del Serengeti, del que el Mara es la prolongación septentrional en Kenia. Un campamento bien situado dentro de la reserva significa que la fauna está ahí, inmediata y constante, no es algo que tengas que salir a buscar en vehículo.
 
 Rekero se asienta en un bosquecillo de altísimas higueras junto al río Talek, con sus diez tiendas de lona clásicas dispuestas a lo largo de la orilla al estilo de los grandes campamentos de África oriental de la época de las cacerías coloniales, hoy dedicados por completo al safari fotográfico y la observación de fauna. Las paredes de lona y la estructura de madera hacen que los sonidos del bush lleguen sin filtro (la tos territorial de un leopardo en algún lugar de la oscuridad, las llamadas lejanas de una manada de leones, los hipopótamos en el río), y la posición de los porches sobre la orilla convierte cada mañana en algo que esperar con ganas.
 

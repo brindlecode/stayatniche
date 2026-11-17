@@ -26,7 +26,7 @@ travelTips:
   - "Neem kleine biljetten in soles mee: taxi's, markten en dorpen op het platteland hebben zelden wisselgeld voor grote coupures."
 seo:
   metaTitle: "Peru reisgids: Machu Picchu en Amazonelodges | StayAtNiche"
-  metaDescription: "Reisgids Peru: Machu Picchu, Cusco, de Inca Trail, junglelodges in de Amazone en het Titicacameer. Plan je ultieme avontuur en cultuurreis in Zuid-Amerika."
+  metaDescription: "Reisgids Peru: Machu Picchu, Cusco, de Inca Trail, junglelodges in de Amazone en het Titicacameer. Plan je avontuur en cultuurreis in Zuid-Amerika."
 ---
 
 Peru propt meer uiteenlopende reiservaringen in één land dan bijna waar ook op het halfrond: het architectonische genie van de Inca's, Spaans-koloniale pracht, de cultuur van het Andeshoogland, de keuken van de Pacifische kust en het regenwoud van de westelijke Amazone bestaan allemaal binnen zijn grenzen naast elkaar. De geschiedenis, van Chavín via Tiwanaku en de Inca's tot het onderkoninkrijk, is een van de rijkste van het Amerikaanse continent, en de 16e-eeuwse botsing tussen de Spaanse conquistadores en de grootste politieke organisatie van het precolumbiaanse Amerika liet een architectonisch en cultureel erfgoed na dat serieus ontdekken beloont.
@@ -44,7 +44,7 @@ De Heilige Vallei tussen Cusco en Machu Picchu ligt lager, is warmer en heeft me
 
 Het stroomgebied van de Madre de Dios in het zuidoosten van Peru beschermt een van de soortenrijkste regenwoudgebieden op aarde. Nationaal Park Manu en het aangrenzende Tambopata-onderzoeksreservaat beschermen samen een landschap waar op één hectare meer boomsoorten kunnen groeien dan in het hele Verenigd Koninkrijk, en waar kleiwanden 's ochtends honderden ara's trekken in een eetfestijn dat tot de spectaculairste natuurtaferelen van het Amerikaanse continent behoort.
 
-De [junglelodges](/categories/jungle-lodges) hier zijn de gouden standaard voor accommodatie in de Amazone: verhoogde platforms boven de bosbodem, wandelingen met natuurgidsen die elke vogelroep kunnen thuisbrengen en elk zoogdierspoor kunnen volgen, en boomkruintorens die gasten op het niveau van het bladerdak brengen – een parallelle wereld van apen, toekans en harpijen die van beneden onzichtbaar is. De beste lodges in Manu en Tambopata combineren riviertochten met nachten diep in een junglekamp, in gebieden waar je regelmatig jaguars, reuzenotters en tapirs tegenkomt.
+De [junglelodges](/categories/jungle-lodges) hier behoren tot de maatstaven voor accommodatie in de Amazone: verhoogde platforms boven de bosbodem, wandelingen met natuurgidsen die elke vogelroep kunnen thuisbrengen en elk zoogdierspoor kunnen volgen, en boomkruintorens die gasten op het niveau van het bladerdak brengen – een parallelle wereld van apen, toekans en harpijen die van beneden onzichtbaar is. De beste lodges in Manu en Tambopata combineren riviertochten met nachten diep in een junglekamp, in gebieden waar je regelmatig jaguars, reuzenotters en tapirs tegenkomt.
 
 
 Op 3.812 meter is het Titicacameer het hoogste bevaarbare water ter wereld, een immense blauwe binnenzee op de hoogvlakte tussen de Peruaanse en de Boliviaanse Andes. De Uros wonen op drijvende eilanden die volledig van totorariet zijn gemaakt, hetzelfde materiaal waarvan ze hun boten, huizen en kookvuren maken. Logeren op een rieteiland dat door de gemeenschap wordt beheerd, slapen in een totorahuisje en de zon zien opkomen boven het meer, is een van de meest onderscheidende overnachtingen van Zuid-Amerika.

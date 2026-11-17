@@ -1,15 +1,15 @@
 ---
 source: best-eco-lodges-costa-rica
 title: "I migliori eco-lodge in Costa Rica: soggiorni straordinari nella giungla, fatti come si deve"
-excerpt: "La Costa Rica ha inventato l’eco-lodge e resta la numero uno. Queste strutture straordinarie uniscono immersione nella foresta pluviale, incontri eccezionali con la fauna e sostenibilità autentica."
+excerpt: "La Costa Rica è stata pioniera dell’eco-lodge e resta un riferimento. Queste strutture straordinarie uniscono immersione nella foresta pluviale, incontri eccezionali con la fauna e sostenibilità autentica."
 seo:
   metaTitle: "Migliori eco-lodge in Costa Rica: guida 2025 | StayAtNiche"
   metaDescription: "Gli eco-lodge più belli della Costa Rica, dalla penisola di Osa alla foresta nebulosa di Monteverde: prezzi, fauna, certificazioni green e come arrivare."
 ---
 
-La Costa Rica ha inventato l’ecoturismo moderno. E non è un’esagerazione. Negli anni Ottanta il Paese decise di tutelare il 25% del proprio territorio con parchi e riserve e, insieme, di costruire le infrastrutture turistiche necessarie perché i visitatori potessero davvero vivere quelle aree protette: ne è nato un modello studiato e imitato in tutto il mondo. Ciò che la Costa Rica ha capito prima di quasi chiunque altro è che la natura intatta vale economicamente più della terra trasformata: un giaguaro vivo in una foresta pluviale sana vale per l’economia nazionale più dello stesso terreno disboscato per il bestiame.
+La Costa Rica è ampiamente considerata una pioniera dell’ecoturismo moderno. E non è un’esagerazione. Negli anni Ottanta il Paese decise di tutelare il 25% del proprio territorio con parchi e riserve e, insieme, di costruire le infrastrutture turistiche necessarie perché i visitatori potessero davvero vivere quelle aree protette: ne è nato un modello studiato e imitato in tutto il mondo. Ciò che la Costa Rica ha capito prima di quasi chiunque altro è che la natura intatta vale economicamente più della terra trasformata: un giaguaro vivo in una foresta pluviale sana vale per l’economia nazionale più dello stesso terreno disboscato per il bestiame.
 
-Gli eco-lodge nati da questa filosofia sono l’espressione più autentica di ciò che il viaggio sostenibile può diventare quando lo si persegue con ambizione vera e non come operazione di greenwashing. I migliori non sono hotel che fanno il compost degli scarti di cucina e si fermano lì. Sono strutture costruite insieme alle comunità locali, alimentate da energie rinnovabili, con un personale composto quasi solo da guide naturalistiche del posto, e posizionate per regalare incontri con la fauna (bradipi, rane freccia, are scarlatte, tapiri) davvero eccezionali.
+Gli eco-lodge nati da questa filosofia sono un’espressione autentica di ciò che il viaggio sostenibile può diventare quando lo si persegue con ambizione vera e non come operazione di greenwashing. I migliori non sono hotel che fanno il compost degli scarti di cucina e si fermano lì. Sono strutture costruite insieme alle comunità locali, alimentate da energie rinnovabili, con un personale composto quasi solo da guide naturalistiche del posto, e posizionate per regalare incontri con la fauna (bradipi, rane freccia, are scarlatte, tapiri) davvero eccezionali.
 
 Questa guida raccoglie le strutture migliori, organizzate per regione, con valutazioni oneste su ciò che rende unica ciascuna e informazioni pratiche per pianificare il viaggio.
 

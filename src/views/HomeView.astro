@@ -10,7 +10,7 @@ import { i18n, type Locale } from '../i18n';
 import { localized, allAlternates } from '../i18n/content';
 import { ownPhoto } from '../lib/images';
 import { AFFILIATE_REL, withTracking, trackAttrs } from '../lib/affiliate';
-import { isLive, startPrice, slugify } from '../lib/site';
+import { isLive, startPrice, slugify, placeLabel } from '../lib/site';
 
 interface Props { locale: Locale }
 const L = i18n(Astro.props.locale);
@@ -150,7 +150,7 @@ const fmt = (d: Date | string) => L.date(d);
                   <span class="font-display text-2xl tabular-nums text-warm-400">{k + 1}</span>
                   <span class="flex-1">
                     <span class="block font-body text-[15px] font-semibold text-warm-950 group-hover:underline group-hover:underline-offset-4">{h.data.name}</span>
-                    <span class="block font-body text-sm text-warm-500">{h.data.destination}, {L.country(h.data.country)}</span>
+                    <span class="block font-body text-sm text-warm-500">{placeLabel(h.data.destination, h.data.country, L.country(h.data.country))}</span>
                   </span>
                   <span class="font-body text-sm tabular-nums text-warm-700">{(p => p != null ? H.from(L.usd(p)) : t.card.checkRates)(startPrice(h.data.priceRange))}</span>
                 </a>

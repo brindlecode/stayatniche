@@ -1,7 +1,7 @@
 ---
 source: japan-kyoto
 name: "Japón, Kioto y más allá"
-description: "Kioto es el corazón espiritual y cultural de Japón: una ciudad con 1600 templos budistas, 400 santuarios sintoístas y 17 lugares declarados Patrimonio de la Humanidad por la UNESCO que, pese a todo, funciona como una ciudad viva y activa y no como un museo al aire libre. Más allá de la antigua capital imperial, los ryokan, los onsen en el bosque y las casas de huéspedes de los pueblos de montaña de Japón representan la tradición de alojamiento íntimo más refinada del mundo."
+description: "Kioto es el corazón espiritual y cultural de Japón: una ciudad con 1600 templos budistas, 400 santuarios sintoístas y 17 lugares declarados Patrimonio de la Humanidad por la UNESCO que, pese a todo, funciona como una ciudad viva y activa y no como un museo al aire libre. Más allá de la antigua capital imperial, los ryokan, los onsen en el bosque y las casas de huéspedes de los pueblos de montaña de Japón representan una tradición de alojamiento íntimo de gran refinamiento."
 essentials:
   currency: "JPY (yen japonés); Japón sigue funcionando en gran medida con efectivo, así que lleva siempre yenes encima"
   language: "Japonés; hay señalización en inglés en las principales zonas turísticas, pero el nivel de inglés varía mucho"
@@ -10,7 +10,7 @@ essentials:
   plugType: "Tipo A (100 V), el mismo que en Norteamérica pero a 100 V; la mayoría de los aparatos modernos admiten ese voltaje"
 bestTimeToVisit:
   summary: "De marzo a abril (cerezos en flor) y de octubre a noviembre (colores de otoño)"
-  details: "La temporada de los cerezos en flor (sakura), normalmente de finales de marzo a mediados de abril, convierte los templos y las orillas del río de Kioto en uno de los espectáculos más bellos del mundo, pero las multitudes son extremas y el alojamiento se agota con un año de antelación. Los colores del otoño (koyo), por lo general de finales de octubre a finales de noviembre, son igual de espectaculares y atraen algo menos de gente. El verano (de junio a agosto) trae calor, humedad y el Festival de Gion en julio. El invierno (de diciembre a febrero) ofrece jardines de templos espolvoreados de nieve, la mejor temporada de onsen y el menor número de turistas."
+  details: "La temporada de los cerezos en flor (sakura), normalmente de finales de marzo a mediados de abril, convierte los templos y las orillas del río de Kioto en uno de los espectáculos más bellos del mundo, pero las multitudes son extremas y el alojamiento se agota con un año de antelación. Los colores del otoño (koyo), por lo general de finales de octubre a finales de noviembre, son igual de espectaculares y atraen algo menos de gente. El verano (de junio a agosto) trae calor, humedad y el Festival de Gion en julio. El invierno (de diciembre a febrero) ofrece jardines de templos espolvoreados de nieve, la gran temporada de onsen y el menor número de turistas."
 mustSee:
   - "Fushimi Inari-taisha: 10 000 torii bermellones que suben por el monte Inari al amanecer"
   - "Bosque de bambú de Arashiyama y jardín del Tenryu-ji"
@@ -26,7 +26,7 @@ travelTips:
   - "Los lugares más famosos de Kioto tienen menos gente antes de las 8:00 y después de las 17:00: organiza tu día en función de eso."
 seo:
   metaTitle: "Kioto y Japón: ryokan, templos y cerezos | StayAtNiche"
-  metaDescription: "Guía de Kioto y Japón: temporada de cerezos en flor, estancias en ryokan, jardines de templos, onsen y las tradiciones de alojamiento boutique más especiales."
+  metaDescription: "Guía de Kioto y Japón: temporada de cerezos en flor, estancias en ryokan, jardines de templos, onsen y tradiciones de alojamiento boutique muy especiales."
 ---
 
 Kioto fue la capital imperial de Japón durante más de mil años, de 794 a 1869, y se nota. La ciudad reúne 17 lugares declarados Patrimonio de la Humanidad por la UNESCO, 1600 templos budistas y 400 santuarios sintoístas, y aun así sigue funcionando como una ciudad viva y no como un monumento. Sus mejores experiencias se resisten a los resúmenes fáciles: ver a los monjes en la oración del alba en el patio ajardinado del Nanzen-ji; una cena kaiseki de 12 platos en una machiya (casa tradicional de madera) donde cada plato alude al momento exacto de la estación; una geiko aprendiz entrevista al anochecer en las callejuelas empedradas de Hanamikoji, en Gion. Llega a Fushimi Inari antes de las 8:00, cuando los 10 000 torii bermellones que trepan por el monte Inari aún están en silencio, y entenderás enseguida por qué esta ciudad atrapa de ese modo a quienes la visitan.

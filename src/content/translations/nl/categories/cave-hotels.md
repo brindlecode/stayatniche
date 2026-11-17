@@ -2,12 +2,12 @@
 source: cave-hotels
 title: Grothotels
 tagline: "Uitgehouwen in de aarde, ingericht voor luxe"
-description: "Uitgehouwen in vulkanisch tufsteen, zacht zandsteen en eeuwenoude kalksteen: in een grothotel slaap je letterlijk in de aarde. Het legendarische Cappadocië in Turkije is wereldwijd de nummer één, maar ook in Griekenland, Spanje, Tunesië en het zuidwesten van de Verenigde Staten wachten bijzondere rotsverblijven."
+description: "Uitgehouwen in vulkanisch tufsteen, zacht zandsteen en eeuwenoude kalksteen: in een grothotel slaap je letterlijk in de aarde. Het legendarische Cappadocië in Turkije is een van de bekendste bestemmingen voor grothotels, maar ook in Griekenland, Spanje, Tunesië en het zuidwesten van de Verenigde Staten wachten bijzondere rotsverblijven."
 stats:
   topDestination: "Cappadocië, Turkije"
 seo:
   metaTitle: "Grothotels: slapen in een grot of rotswoning | StayAtNiche"
-  metaDescription: "Slapen in een grot in Cappadocië, Santorini of Matera? Ontdek de mooiste grothotels ter wereld: natuurlijk koele, sfeervolle grotsuites in eeuwenoud gesteente."
+  metaDescription: "Slapen in een grot in Cappadocië, Santorini of Matera? Ontdek bijzondere grothotels: natuurlijk koele, sfeervolle grotsuites in eeuwenoud gesteente."
 ---
 
 Cappadocië wordt al meer dan 2000 jaar bewoond, en archeologische vondsten wijzen erop dat mensen de grotten er al veel eerder gebruikten. Het vulkanische tufsteen van de streek – door erosie gebeeldhouwd tot de beroemde feeënschoorstenen en dramatische dalen – was ideaal om in te wonen: zacht genoeg om met eenvoudig gereedschap uit te hakken, maar aan de lucht hard wordend tot duurzame ruimtes met een stabiele temperatuur. De grothotels hier zijn dus geen gimmick. Ze zijn de nieuwste versie van een extreem lange traditie.
@@ -22,7 +22,7 @@ Echte grothotelkamers zijn rechtstreeks in de natuurlijke rots uitgehakt: muren,
 
 Het licht in een grotkamer is iets heel eigens. Daglicht valt binnen door uitgehakte deuropeningen en vensternissen, onder hoeken die bepaald zijn door de oorspronkelijke rotswand en niet door de plannen van een architect. Op bepaalde momenten van de dag is het resultaat werkelijk prachtig. Sommige gasten zijn vooraf bang voor claustrofobie, maar een goed verbouwde grotkamer is doorgaans eerder ruim dan benauwd. Door de enorme dikte van de rotsmuren voel je je juist diep beschut – de meeste gasten vinden het rustgevend in plaats van beklemmend.
 
-**Cappadocië, Turkije** is met afstand de wereldhoofdstad van de grothotels. In Göreme, Uçhisar en Ürgüp vind je grothotels van kleinschalige pensions tot vijfsterrenadressen met infinitypools op het dak en uitzicht over het buitenaardse landschap. Een ballonvaart bij zonsopkomst boven de feeënschoorstenen is een van de grote spektakels van het reizen – boek die los van je hotel, want de vraag is enorm en plekken zijn snel weg.
+**Cappadocië, Turkije** is het bekendste centrum van grothotels. In Göreme, Uçhisar en Ürgüp vind je grothotels van kleinschalige pensions tot vijfsterrenadressen met infinitypools op het dak en uitzicht over het buitenaardse landschap. Een ballonvaart bij zonsopkomst boven de feeënschoorstenen is een van de grote spektakels van het reizen – boek die los van je hotel, want de vraag is enorm en plekken zijn snel weg.
 
 **Santorini, Griekenland** heeft grotsuites die in de rand van de vulkanische caldera zijn uitgehakt, met terrassen boven een van de spectaculairste zeezichten ter wereld. De grotsfeer gaat samen met witgekalkte Cycladische architectuur, en het resultaat is eerlijk gezegd net zo mooi als op de foto's.
 

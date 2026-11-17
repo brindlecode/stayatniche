@@ -22,7 +22,6 @@ bestFor:
   - "Honeymooners"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Romantic%20Cave%20Hotel%2C%20%C3%9Crg%C3%BCp&adults=2"
 rating: 8.2
-reviewCount: 0
 coordinates:
   lat: 38.6276659
   lng: 34.9095128
@@ -31,6 +30,19 @@ sourceId: "osm:node/7983040279"
 verifiedAt: 2026-10-09
 publishedDate: 2026-10-09
 status: published
+location:
+  country: "Turkey"
+  countryCode: "TR"
+  region: "Nevşehir"
+  city: "Ürgüp"
+  locality: "Duayeri"
+  coordinates:
+    lat: 38.6276659
+    lng: 34.9095128
+niche_scope: entire_property
+niche_feature: "Seven rooms, all described by the hotel as historic cave rooms (mağara odaları); the hotel says it opened in 1970 with cave rooms and later renovated them."
+niche_source_url: "https://romanticcavehotel.com/index.php/hakkimizda/"
+niche_verified_at: 2026-11-17
 ---
 
 Romantic Cave Hotel is a seven-room hotel in Ürgüp in which every room is described as a historic cave room. The hotel says each of the seven rooms is part of the magic of the building and is "equipped with mystical energies", wording that is more poetic than practical, but it makes clear that the cave setting applies to the whole property.

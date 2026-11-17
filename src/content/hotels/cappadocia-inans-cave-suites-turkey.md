@@ -22,7 +22,6 @@ bestFor:
   - "Small-hotel fans"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Cappadocia%20Inans%20Cave%20Suites%2C%20Nev%C5%9Fehir&adults=2"
 rating: 8.2
-reviewCount: 0
 coordinates:
   lat: 38.6416618
   lng: 34.7158145
@@ -31,6 +30,19 @@ sourceId: "osm:node/11275731132"
 verifiedAt: 2026-10-09
 publishedDate: 2026-10-09
 status: published
+location:
+  country: "Turkey"
+  countryCode: "TR"
+  region: "Nevşehir"
+  city: "Nevşehir"
+  locality: "Nar"
+  coordinates:
+    lat: 38.6416618
+    lng: 34.7158145
+niche_scope: entire_property
+niche_feature: "Ten rooms (101-104, 201-203, 302, 401, 402), each labelled a 'Special Cave Room' / cave suite, plus a heated cave pool; the site does not describe carving in detail."
+niche_source_url: "https://www.cappadociainanscave.com/room-101/"
+niche_verified_at: 2026-11-17
 ---
 
 Cappadocia Inans Cave Suites is a small hotel in Nevşehir where the accommodation is built around cave rooms. The hotel has ten rooms, each carefully decorated, and its website lists them by number: rooms 101 to 104, 201 to 203, 302, 401 and 402. The hotel presents the whole property as cave accommodation rather than a hotel with one or two themed rooms.

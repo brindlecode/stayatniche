@@ -43,7 +43,6 @@ prosAndCons:
     - "Basic amenities; bring your own supplies from Point Reyes Station"
 bookingUrl: https://www.booking.com/
 rating: 8.8
-reviewCount: 412
 seasonalInfo:
   bestTime: January to March for whale watching; April to May for wildflowers
   peakSeason: Summer weekends and whale watching season (January–March)

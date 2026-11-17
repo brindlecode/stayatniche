@@ -24,10 +24,10 @@ bestFor:
   - "Lunas de miel"
 prosAndCons:
   pros:
-    - "La observación de fauna en el fondo del cráter es la más fiable y excepcional de África, con los Cinco Grandes a diario"
+    - "La observación de fauna en el fondo del cráter es fiablemente excepcional, con los Cinco Grandes a diario"
     - "El lodge en sí es una de las grandes experiencias hoteleras teatrales de África"
     - "La posición en el borde ofrece vistas panorámicas permanentes sobre la caldera"
-    - "La combinación de interés cultural (masái), geológico y faunístico no tiene rival"
+    - "La combinación de interés cultural (masái), geológico y faunístico es excepcional"
   cons:
     - "Las bajadas al cráter se comparten con otros operadores: no es una experiencia privada"
     - "El diseño teatral del lodge divide opiniones y a algunos les parece demasiado recargado"

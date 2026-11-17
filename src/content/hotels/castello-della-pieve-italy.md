@@ -23,7 +23,6 @@ bestFor:
   - "Dog owners"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Castello%20della%20Pieve%2C%20Mercatello%20sul%20Metauro&adults=2"
 rating: 8.2
-reviewCount: 0
 coordinates:
   lat: 43.6619238
   lng: 12.3120346
@@ -32,6 +31,18 @@ sourceId: "osm:node/10671281872"
 verifiedAt: 2026-10-11
 publishedDate: 2026-10-11
 status: published
+location:
+  country: "Italy"
+  countryCode: "IT"
+  region: "Marche"
+  city: "Mercatello sul Metauro"
+  coordinates:
+    lat: 43.6619238
+    lng: 12.3120346
+niche_scope: entire_property
+niche_feature: "Former medieval fortified castle, now a restored stone hamlet of seven houses, a surviving tower and a consecrated chapel; rooms are in the restored hamlet houses and the Torre delle Muse suite."
+niche_source_url: "https://castellodellapieve.it/"
+niche_verified_at: 2026-11-17
 ---
 
 Castello della Pieve is an organic agriturismo set in a restored stone hamlet in the woods of the Alpe della Luna, three kilometres from Mercatello sul Metauro. The perched village of seven stone houses, an old tower and a small chapel that is still consecrated sits on the border of Marche, Tuscany and Umbria.

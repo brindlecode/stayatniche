@@ -30,7 +30,7 @@ Dawn from the lantern gallery is the defining experience: the sky lightening fro
 These properties are small. Many offer only two to six rooms. That means genuine exclusivity, personalised attention, and hosts who typically chose their unusual property with more than commercial logic. Birdlife around lighthouse headlands is consistently exceptional: migrating species make landfall at precisely these points after ocean crossings, and seabird colonies establish themselves on the inaccessible adjacent cliffs.
 
 
-**Maine, USA** has North America's finest concentration of lighthouse accommodation. The coast's combination of rugged granite headlands, island archipelagos, and deep maritime history creates the ideal context. Properties range from island lighthouses accessible only by boat to headland towers within driving distance of Portland.
+**Maine, USA** has a notable concentration of lighthouse accommodation. The coast's combination of rugged granite headlands, island archipelagos, and deep maritime history creates the ideal context. Properties range from island lighthouses accessible only by boat to headland towers within driving distance of Portland.
 
 **Norway's** lighthouse hotels occupy dramatic positions on fjord entrances and exposed island outcrops, with direct access to the Norwegian coastal ecosystem. **Ireland and Scotland** have converted a number of coastal lighthouses into distinctive accommodation, pairing the lighthouse experience with the deep maritime culture of the Celtic Atlantic fringe. **Australia's** Victorian and South Australian coasts host lighthouse hotels above the Great Ocean Road and along the Eyre Peninsula, with Southern Ocean drama on a different scale.
 

@@ -1,15 +1,15 @@
 ---
 source: patagonia-remote-lodges-guide
 title: "Abgelegene Lodges in Patagonien: Der große Ratgeber für Nächte am Ende der Welt"
-excerpt: "Die abgelegenen Lodges Patagoniens bieten die dramatischsten Wildnisunterkünfte der Erde: Gletscherblick zum Frühstück, Pumasuche am Nachmittag und eine Stille, so tief, dass sie Sie verändert."
+excerpt: "Die abgelegenen Lodges Patagoniens bieten einige der dramatischsten Wildnisunterkünfte überhaupt: Gletscherblick zum Frühstück, Pumasuche am Nachmittag und eine Stille, so tief, dass sie Sie verändert."
 seo:
   metaTitle: "Patagonien: Abgelegene Lodges & Wildnis | StayAtNiche"
-  metaDescription: "Die abgelegensten Lodges Patagoniens: Torres del Paine, El Chaltén, Feuerland und Aysén – mit Preisen, Pumasuche, bester Reisezeit und Tipps zur Anreise."
+  metaDescription: "Abgelegene Lodges in Patagonien: Torres del Paine, El Chaltén, Feuerland und Aysén – mit Preisen, Pumasuche, bester Reisezeit und Tipps zur Anreise."
 ---
 
 Patagonien liegt an der Südspitze Südamerikas, dort, wo die nächste Landmasse im Süden die Antarktis ist. Die Türme des Torres del Paine ragen steil aus der Steppe empor. Das Südliche Patagonische Eisfeld – nach der Antarktis und Grönland das drittgrößte der Welt – lässt seine Gletscher direkt in die Fjorde kalben. Andenkondore mit 3,2 Metern Flügelspannweite kreisen über Bergketten, durch die kein Pfad führt.
 
-Die Lodges, die sich in den vergangenen zwei Jahrzehnten in dieser Landschaft etabliert haben, zu bauen, verlangte echten logistischen Ehrgeiz. Lebensmittel kommen aus Orten, die Hunderte Kilometer entfernt liegen. Das Personal lebt wochenlang vor Ort. Die Erlebnisse, die diese Häuser möglich machen – Pumasuche, Gletschertrekking, Kondorbeobachtung aus dem Whirlpool –, gibt es in dieser Qualität nirgendwo sonst auf der Erde.
+Die Lodges, die sich in den vergangenen zwei Jahrzehnten in dieser Landschaft etabliert haben, zu bauen, verlangte echten logistischen Ehrgeiz. Lebensmittel kommen aus Orten, die Hunderte Kilometer entfernt liegen. Das Personal lebt wochenlang vor Ort. Die Erlebnisse, die diese Häuser möglich machen – Pumasuche, Gletschertrekking, Kondorbeobachtung aus dem Whirlpool –, findet man in dieser Qualität nur selten.
 
 Dieser Ratgeber stellt die besten Lodges im chilenischen und argentinischen Patagonien vor, mit ehrlichen Informationen zu Anreise, Jahreszeiten und dem, was die Reise tatsächlich mit sich bringt.
 
@@ -18,7 +18,7 @@ Dieser Ratgeber stellt die besten Lodges im chilenischen und argentinischen Pata
 
 Mit „Patagonien“ ist der südliche Teil Südamerikas gemeint, der sich über Chile und Argentinien erstreckt. Er beginnt nach allgemeinem Verständnis südlich des 40. Breitengrads und reicht bis Feuerland und Kap Hoorn. Dazu gehören ganz unterschiedliche Landschaften:
 
-**Chilenisch-Patagonien:** Das Torres-del-Paine-Massiv und der umliegende Nationalpark (der Hauptanziehungspunkt für internationale Besucher), die Fjorde der Regionen Aysén und Magallanes, die abgelegene Carretera Austral (die spektakulärste unbefestigte Fernstraße der Welt) und der Archipel Feuerland.
+**Chilenisch-Patagonien:** Das Torres-del-Paine-Massiv und der umliegende Nationalpark (der Hauptanziehungspunkt für internationale Besucher), die Fjorde der Regionen Aysén und Magallanes, die abgelegene Carretera Austral (eine berühmte, landschaftlich spektakuläre unbefestigte Fernstraße) und der Archipel Feuerland.
 
 **Argentinisch-Patagonien:** Der Perito-Moreno-Gletscher und der Nationalpark Los Glaciares (Calafate), das Fitz-Roy-Massiv und El Chaltén (die Hauptstadt des Trekkings), die Halbinsel Valdés (Heimat von Walbeobachtung und Pinguinkolonien) und der argentinische Teil Feuerlands.
 
@@ -162,7 +162,7 @@ Die Reisesaison in Patagonien dauert von Oktober bis April (Frühling bis Herbst
 Wer Patagonien besucht hat, beschreibt es fast immer als das eindrucksvollste Landschaftserlebnis seines Lebens. Die Entfernung ist real – Buenos Aires liegt mehr als 13 Stunden von London und 9 Stunden von Miami entfernt, dazu kommen Inlandsanschlüsse. Doch diese Verbindung aus Weite, Tierwelt und echter Abgeschiedenheit gibt es in dieser Intensität nirgendwo sonst. Die Reise selbst ist Teil des Erlebnisses.
 
 
-Das Ökosystem des Torres del Paine beherbergt Pumas (das Wahrzeichen unter den Raubtieren der Region; einer der besten Orte der Welt, um wilde Berglöwen zu sehen), Guanakos (wilde Kamelartige, Verwandte des Lamas), Andenkondore (mit 3,2 m Spannweite einer der größten flugfähigen Vögel der Welt), Graufüchse, Gürteltiere und den gefährdeten Andenhirsch (Huemul). Das Meeresleben – Pinguine, Seelöwen, Delfine und gelegentlich Orcas – erleben Sie in den chilenischen Fjorden und im Beagle-Kanal bei Ushuaia.
+Das Ökosystem des Torres del Paine beherbergt Pumas (das Wahrzeichen unter den Raubtieren der Region; ein bekannter Ort, um wilde Berglöwen zu sehen), Guanakos (wilde Kamelartige, Verwandte des Lamas), Andenkondore (mit 3,2 m Spannweite einer der größten flugfähigen Vögel der Welt), Graufüchse, Gürteltiere und den gefährdeten Andenhirsch (Huemul). Das Meeresleben – Pinguine, Seelöwen, Delfine und gelegentlich Orcas – erleben Sie in den chilenischen Fjorden und im Beagle-Kanal bei Ushuaia.
 
 
 Patagonien mit Lodge-Übernachtungen (ohne Camping oder Schlafsäle): **Einstiegsniveau** (EcoCamp Standard Dome): ab 400 $ pro Person und Nacht. **Mittelklasse** (Tierra Patagonia, Explora Standardzimmer): 700–1.200 $ pro Person und Nacht. **Ultraluxus** (Awasi, Yagan Camp): 1.400–2.500 $ pro Person und Nacht. Eine 7-tägige Reise zu zwei Zielen mit Lodges der Mittelklasse (Torres del Paine + Calafate) kostet in der Regel 5.000–9.000 $ pro Person inklusive Unterkunft und Mahlzeiten, ohne internationale Flüge.

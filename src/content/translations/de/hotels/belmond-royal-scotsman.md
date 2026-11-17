@@ -1,10 +1,10 @@
 ---
 source: belmond-royal-scotsman
 destination: "Von Edinburgh in die schottischen Highlands"
-description: "Großbritanniens einziger Luxus-Schlafwagenzug bringt höchstens 36 Gäste in restaurierten Waggons voller Tartan, poliertem Holz und Messing durch die schottischen Highlands. Ab Edinburgh folgt der Zug der West Highland Line über das Glenfinnan-Viadukt bis nach Mallaig, mit optionalen Routen in den hohen Norden und Abstechern zu Whiskybrennereien unterwegs."
+description: "Ein Luxus-Schlafwagenzug bringt höchstens 36 Gäste in restaurierten Waggons voller Tartan, poliertem Holz und Messing durch die schottischen Highlands. Ab Edinburgh folgt der Zug der West Highland Line über das Glenfinnan-Viadukt bis nach Mallaig, mit optionalen Routen in den hohen Norden und Abstechern zu Whiskybrennereien unterwegs."
 highlights:
-  - "Großbritanniens einziger Luxus-Schlafwagenzug durch die schottischen Highlands"
-  - "Die berühmte West Highland Line, zur schönsten Bahnstrecke der Welt gewählt"
+  - "Ein Luxus-Schlafwagenzug durch die schottischen Highlands"
+  - "Die berühmte West Highland Line, weithin als eine der großen Bahnstrecken der Welt geschätzt"
   - "Spektakuläre Highland-Landschaft aus Lochs, Glens, Bergen und Meer"
   - "Das Glenfinnan-Viadukt, eines der meistfotografierten Eisenbahnbauwerke der Welt"
   - "Besuche und Verkostungen in Whiskybrennereien auf ausgewählten Reisen"
@@ -48,10 +48,10 @@ nearbyAttractions:
     distance: Auf ausgewählten Routen
 seo:
   metaTitle: "Belmond Royal Scotsman: Luxuszug Schottland | StayAtNiche"
-  metaDescription: "Großbritanniens einziger Luxus-Schlafwagenzug auf der schönsten Bahnstrecke der Welt: Glenfinnan-Viadukt, Whiskybrennereien und Highland-Küche. Ab 2.400 $."
+  metaDescription: "Luxus-Schlafwagenzug auf der West Highland Line durch Schottland: Glenfinnan-Viadukt, Whiskybrennereien und Highland-Küche. Ab 2.400 $."
 ---
 
-Die West Highland Line ist nach dem einhelligen Urteil der Eisenbahnpresse und aller, die sie gefahren sind, die schönste Bahnstrecke der Welt. Von Glasgow nach Fort William und weiter nach Glenfinnan, wo das berühmte Viadukt mit seinen 21 Bögen das Tal überspannt – viktorianische Ingenieurskunst, ein Jahrhundert älter als sein Harry-Potter-Ruhm –, und schließlich nach Mallaig am Sound of Sleat gegenüber von Skye. Das geht auch mit einem gewöhnlichen ScotRail-Zug. Es an Bord des Royal Scotsman zu erleben, in einem Tempo, das die Landschaft aufnehmen statt verbrauchen lässt, ist jedoch etwas völlig anderes.
+Die West Highland Line gilt bei der Eisenbahnpresse und vielen, die sie gefahren sind, als eine der schönsten Bahnstrecken der Welt. Von Glasgow nach Fort William und weiter nach Glenfinnan, wo das berühmte Viadukt mit seinen 21 Bögen das Tal überspannt – viktorianische Ingenieurskunst, ein Jahrhundert älter als sein Harry-Potter-Ruhm –, und schließlich nach Mallaig am Sound of Sleat gegenüber von Skye. Das geht auch mit einem gewöhnlichen ScotRail-Zug. Es an Bord des Royal Scotsman zu erleben, in einem Tempo, das die Landschaft aufnehmen statt verbrauchen lässt, ist jedoch etwas völlig anderes.
 
 Der Zug von Belmond befördert höchstens 36 Gäste in Waggons von sorgfältig restauriertem Charakter: Highland-Tartan, polierte Holzvertäfelung, Messingbeschläge und Tischlampen, die eine ganz und gar schottische Wärme verbreiten. Bei dieser Größe gleicht das gesellige Leben an Bord einer Gesellschaft auf einem Landsitz. Gespräche entwickeln sich ganz natürlich zwischen Menschen, die Bewegung und gemeinsame Landschaft zusammenführen. Der Aussichtswagen am Zugende öffnet sich zu einer Plattform, auf der Sie in der Highland-Luft stehen, während die Oberflächen der Lochs das Nachmittagslicht einfangen und Rothirsche von den Hängen herüberschauen.
 

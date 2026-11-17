@@ -21,7 +21,6 @@ bestFor:
   - "Water lovers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Schwimmendes%20Haus%2C%20Partwitzer%20See&adults=2"
 rating: 8.2
-reviewCount: 0
 coordinates:
   lat: 51.5277833
   lng: 14.1646662
@@ -30,6 +29,19 @@ sourceId: "osm:way/707988423"
 verifiedAt: 2026-10-13
 publishedDate: 2026-10-13
 status: published
+location:
+  country: "Germany"
+  countryCode: "DE"
+  region: "Saxony"
+  city: "Elsterheide"
+  locality: "Partwitzer See"
+  coordinates:
+    lat: 51.5277833
+    lng: 14.1646662
+niche_scope: entire_property
+niche_feature: "Self-catering two-storey floating house on the Partwitzer See for 2 to 3 guests, available all year; described as the first floating house on the lake."
+niche_source_url: "http://partwitzer-hof.de/schwimmendes-haus/"
+niche_verified_at: 2026-11-17
 ---
 
 The Schwimmendes Haus, or floating house, was built as the reference home for the settlement of floating houses on the Partwitzer See in Saxony. It is the smallest of the two-storey types and works as a self-catering holiday rental that you can book by the night.

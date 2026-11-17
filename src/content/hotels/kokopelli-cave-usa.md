@@ -42,7 +42,6 @@ prosAndCons:
     - "Self-catering format requires guests to bring or source their own supplies"
 bookingUrl: https://www.expedia.com/Farmington-Hotels.d6194.Travel-Guide-Hotels
 rating: 8.7
-reviewCount: 445
 seasonalInfo:
   bestTime: "April to June and September to November"
   peakSeason: "October (fall colours and archaeological site season)"
@@ -73,6 +72,18 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Four+Corners,+New+Mexico"
     label: "Find Tours on Klook"
+location:
+  country: "United States"
+  countryCode: "US"
+  region: "New Mexico"
+  city: "Farmington"
+  coordinates:
+    lat: 36.789505
+    lng: -108.209289
+niche_scope: entire_property
+niche_feature: "Single bookable unit: an approx. 1,700 sq ft man-made cave blasted into a vertical sandstone cliff, entrance in the cliff face and the cave 70 feet below the surface; one party at a time."
+niche_source_url: "https://kokos-cave.com/"
+niche_verified_at: 2026-11-17
 ---
 
 The Four Corners plateau of the American Southwest is already a landscape built for people who want something different. Mesa Verde, Chaco Canyon, Aztec Ruins — this is the geographic core of Ancestral Puebloan civilisation, a region where people spent centuries engineering dwellings into cliff faces with a precision that modern tourists stand below and photograph from a respectful distance. Kokopelli's Cave is a contemporary variation on the same geological logic: a cave unit blasted and carved into the Fruitland sandstone of a mesa edge outside Farmington, New Mexico, 70 feet below the surface and 200 feet above the canyon floor.

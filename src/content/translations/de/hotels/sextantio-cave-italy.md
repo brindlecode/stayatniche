@@ -24,11 +24,11 @@ bestFor:
   - "Feinschmecker auf Entdeckungsreise durch die süditalienische Küche"
 prosAndCons:
   pros:
-    - "Unvergleichliche historische Atmosphäre – man schläft in Räumen, die seit Jahrtausenden genutzt werden"
+    - "Beeindruckende historische Atmosphäre – man schläft in Räumen, die seit Jahrtausenden genutzt werden"
     - "Behutsame, denkmalgerechte Restaurierung, die wirklich feinfühlig und schön ist"
     - "Matera selbst gehört zu den außergewöhnlichsten und meistunterschätzten Städten Italiens"
     - "Ausgezeichnetes Restaurant mit klarem regionalem Schwerpunkt"
-    - "Eines der fotogensten Hotelinterieurs der Welt"
+    - "Sehr fotogene Hotelinterieurs"
   cons:
     - "Die Höhlenzimmer können dunkel wirken – nichts für alle, die Tageslicht im Zimmer brauchen"
     - "Matera ist ohne Auto oder passende Verbindungen nicht leicht zu erreichen"

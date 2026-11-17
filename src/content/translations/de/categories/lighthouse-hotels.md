@@ -7,7 +7,7 @@ stats:
   topDestination: "Maine, USA"
 seo:
   metaTitle: "Leuchtturmhotels: Übernachten im Leuchtturm | StayAtNiche"
-  metaDescription: "Die außergewöhnlichsten Leuchtturmhotels der Welt: Übernachten Sie in umgebauten Leuchttürmen mit Meerblick, wilden Küsten und maritimer Geschichte."
+  metaDescription: "Außergewöhnliche Leuchtturmhotels: Übernachten Sie in umgebauten Leuchttürmen mit Meerblick, wilden Küsten und maritimer Geschichte rund um die Welt."
 ---
 
 Leuchttürme wurden gezielt an den gefährlichsten Küstenabschnitten der Welt errichtet – auf Landzungen, Felsriffen und Sandbänken –, und genau dorthin führt Sie ein Aufenthalt in einem von ihnen. Felsige Inselchen, nur per Privatboot erreichbar. Ausgesetzte Kaps mit Meer in jeder Richtung. Diese Verbindung aus radikaler Abgeschiedenheit und echter Seefahrtsgeschichte macht umgebaute Leuchttürme zu etwas, das es in der herkömmlichen Hotellerie nicht gibt.
@@ -25,7 +25,7 @@ Das prägende Erlebnis ist der Morgen auf der Laternengalerie: Der Himmel wird v
 Diese Häuser sind klein. Viele bieten nur zwei bis sechs Zimmer. Das bedeutet echte Exklusivität, persönliche Betreuung und Gastgeber, die ihr ungewöhnliches Haus meist nicht nur aus wirtschaftlichen Gründen gewählt haben. Die Vogelwelt rund um Leuchtturm-Landzungen ist durchweg herausragend: Zugvögel landen nach Meeresüberquerungen genau an diesen Punkten, und Seevogelkolonien siedeln sich an den unzugänglichen Klippen nebenan an.
 
 
-**Maine, USA** hat die schönste Konzentration von Leuchtturmunterkünften in Nordamerika. Die Mischung aus schroffen Granitkaps, Inselarchipelen und tiefer maritimer Geschichte bildet den idealen Rahmen. Das Angebot reicht von Inselleuchttürmen, die nur per Boot erreichbar sind, bis zu Türmen auf Landzungen in Fahrdistanz von Portland.
+**Maine, USA** hat eine bemerkenswerte Konzentration von Leuchtturmunterkünften. Die Mischung aus schroffen Granitkaps, Inselarchipelen und tiefer maritimer Geschichte bildet den idealen Rahmen. Das Angebot reicht von Inselleuchttürmen, die nur per Boot erreichbar sind, bis zu Türmen auf Landzungen in Fahrdistanz von Portland.
 
 Die Leuchtturmhotels **Norwegens** liegen spektakulär an Fjordeinfahrten und auf ausgesetzten Inselfelsen, mit direktem Zugang zum norwegischen Küstenökosystem. **Irland und Schottland** haben eine Reihe von Küstenleuchttürmen zu besonderen Unterkünften umgebaut und verbinden das Leuchtturmerlebnis mit der tiefen maritimen Kultur am keltischen Atlantiksaum. An den Küsten von **Victoria und South Australia** stehen Leuchtturmhotels oberhalb der Great Ocean Road und entlang der Eyre-Halbinsel, mit der Dramatik des Südpolarmeers in ganz anderem Maßstab.
 

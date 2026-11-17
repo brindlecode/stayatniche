@@ -1,7 +1,7 @@
 ---
 source: japan-kyoto
 name: "Giappone, Kyoto e dintorni"
-description: "Kyoto è il cuore spirituale e culturale del Giappone: una città di 1.600 templi buddhisti, 400 santuari shintoisti e 17 siti patrimonio mondiale UNESCO che, chissà come, resta una città viva e operosa anziché un museo a cielo aperto. Oltre l’antica capitale imperiale, i ryokan, gli onsen nella foresta e le locande dei villaggi di montagna incarnano la tradizione di ospitalità intima più raffinata del mondo."
+description: "Kyoto è il cuore spirituale e culturale del Giappone: una città di 1.600 templi buddhisti, 400 santuari shintoisti e 17 siti patrimonio mondiale UNESCO che, chissà come, resta una città viva e operosa anziché un museo a cielo aperto. Oltre l’antica capitale imperiale, i ryokan, gli onsen nella foresta e le locande dei villaggi di montagna incarnano una tradizione di ospitalità intima di grande raffinatezza."
 essentials:
   currency: "JPY (yen giapponese); il Giappone usa ancora molto il contante, tieni sempre con te degli yen"
   language: "Giapponese; cartelli in inglese nelle principali zone turistiche; la conoscenza dell’inglese varia molto"
@@ -26,10 +26,10 @@ travelTips:
   - "I luoghi più celebri di Kyoto sono meno affollati prima delle 8 e dopo le 17: organizza la giornata di conseguenza."
 seo:
   metaTitle: "Kyoto e Giappone: ryokan, templi e ciliegi | StayAtNiche"
-  metaDescription: "Guida a Kyoto e al Giappone: la fioritura dei ciliegi, soggiorni in ryokan, giardini dei templi, onsen e le tradizioni di ospitalità più raffinate del Paese."
+  metaDescription: "Guida a Kyoto e al Giappone: la fioritura dei ciliegi, soggiorni in ryokan, giardini dei templi, onsen e tradizioni di ospitalità molto raffinate."
 ---
 
-Kyoto è stata la capitale imperiale del Giappone per più di mille anni, dal 794 al 1869, e si vede. La città custodisce 17 siti patrimonio mondiale UNESCO, 1.600 templi buddhisti e 400 santuari shintoisti, eppure riesce ancora a essere una città viva e non un monumento. Le esperienze più belle sfuggono a ogni sintesi: i monaci in preghiera all’alba nel cortile-giardino del Nanzen-ji; una cena kaiseki di 12 portate in una machiya (casa di città in legno) dove ogni piatto rimanda al momento esatto della stagione; un’apprendista geiko intravista al crepuscolo sui vicoli lastricati di Hanamikoji, a Gion. Arriva a Fushimi Inari prima delle 8, quando i 10.000 torii vermiglio che risalgono il monte Inari sono ancora silenziosi, e capirai subito perché questa città conquista chi la visita.
+Kyoto è stata la capitale imperiale del Giappone per più di mille anni, dal 794 al 1869, e si vede. La città custodisce 17 siti patrimonio mondiale UNESCO, 1.600 templi buddhisti e 400 santuari shintoisti, eppure riesce ancora a essere una città viva e non un monumento. Le esperienze più memorabili sfuggono a ogni sintesi: i monaci in preghiera all’alba nel cortile-giardino del Nanzen-ji; una cena kaiseki di 12 portate in una machiya (casa di città in legno) dove ogni piatto rimanda al momento esatto della stagione; un’apprendista geiko intravista al crepuscolo sui vicoli lastricati di Hanamikoji, a Gion. Arriva a Fushimi Inari prima delle 8, quando i 10.000 torii vermiglio che risalgono il monte Inari sono ancora silenziosi, e capirai subito perché questa città conquista chi la visita.
 
 Il ryokan giapponese, la locanda tradizionale, di solito a gestione familiare e costruita da generazioni sullo stesso luogo, è una delle grandi forme di ospitalità del mondo. I migliori uniscono camere con pavimento in tatami, futon, onsen all’aperto privati o condivisi (bagni termali geotermici) e cucina kaiseki in un’immersione totale nei valori estetici giapponesi: wabi-sabi (la bellezza dell’imperfezione), ichigo ichie (l’irripetibilità di ogni momento), omotenashi (un’ospitalità che anticipa i bisogni prima che vengano espressi). Non esiste nulla di simile altrove.
 

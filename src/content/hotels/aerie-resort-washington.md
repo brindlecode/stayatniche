@@ -29,7 +29,6 @@ bestFor:
   - "Pacific Northwest explorers"
 bookingUrl: https://www.booking.com/
 rating: 9.0
-reviewCount: 567
 coordinates:
   lat: 47.8500
   lng: -120.0167

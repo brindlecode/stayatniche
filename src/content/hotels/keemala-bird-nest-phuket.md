@@ -28,8 +28,7 @@ bestFor:
   - "Design enthusiasts"
   - "Luxury wellness seekers"
 bookingUrl: https://www.booking.com/hotel/th/keemala.html
-rating: 9.5
-reviewCount: 1432
+rating: 8.5
 coordinates:
   lat: 7.9508
   lng: 98.2817
@@ -41,6 +40,18 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Kamala,+Phuket"
     label: "Find Tours on Klook"
+location:
+  country: "Thailand"
+  countryCode: "TH"
+  region: "Phuket"
+  city: "Kamala"
+  coordinates:
+    lat: 7.9508
+    lng: 98.2817
+niche_scope: unverified
+niche_feature: "Official page describes Bird's Nest Pool Villas as private pool villas with a woven bird's nest exterior; it does not say they stand on poles or among trees. The separate Tree Pool Houses are two-floor villas, excluded by the rule."
+niche_source_url: "https://www.keemala.com/villa/birds-nest-pool-villas/"
+niche_verified_at: 2026-11-17
 ---
 
 Keemala occupies a hillside above the relatively quiet Kamala Beach on Phuket's west coast, and from arrival it is clear that the resort operates with a fully developed conceptual identity. The property is built around the mythology of four ancient Thai forest clans, each with a distinct relationship to the natural world, each represented by a different category of villa. The Bird's Nest Pool Villas, the most architecturally distinctive of the four, draw on the Pa-Hin clan's relationship with flight and nesting. The result is spherical and ovoid structures perched on angled timber poles above a jungle ravine, their rounded forms suggesting an enormous nest seen from below.

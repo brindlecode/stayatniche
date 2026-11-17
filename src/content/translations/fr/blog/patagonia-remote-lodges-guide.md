@@ -4,12 +4,12 @@ title: "Lodges isolés de Patagonie : le guide complet pour séjourner au bout 
 excerpt: "Les lodges isolés de Patagonie offrent les hébergements les plus spectaculaires de la planète : glaciers au petit-déjeuner, pistage du puma l'après-midi et un silence si profond qu'il vous transforme."
 seo:
   metaTitle: "Patagonie : les lodges les plus isolés | StayAtNiche"
-  metaDescription: "Les lodges les plus isolés de Patagonie, de Torres del Paine à la Terre de Feu et à El Chaltén : prix, pistage du puma, meilleure saison et comment s'y rendre."
+  metaDescription: "Des lodges isolés de Patagonie, de Torres del Paine à la Terre de Feu et à El Chaltén : prix, pistage du puma, meilleure saison et comment s'y rendre."
 ---
 
 La Patagonie occupe l'extrémité sud de l'Amérique du Sud, là où la prochaine terre vers le sud s'appelle l'Antarctique. Les tours de Torres del Paine jaillissent à pic de la steppe. Le champ de glace Sud de Patagonie, le troisième du monde après ceux de l'Antarctique et du Groenland, déverse ses glaciers directement dans les fjords. Des condors des Andes de 3,2 mètres d'envergure tournoient au-dessus de chaînes de montagnes dépourvues de tout sentier.
 
-Les lodges qui se sont installés dans ce paysage au cours des vingt dernières années ont exigé une réelle ambition logistique. La nourriture arrive de communautés situées à des centaines de kilomètres. Le personnel vit sur place pendant des semaines d'affilée. Les expériences qu'ils rendent possibles (pistage du puma, randonnée sur glacier, observation des condors depuis un bain chaud) n'existent nulle part ailleurs sur Terre à ce niveau de qualité.
+Les lodges qui se sont installés dans ce paysage au cours des vingt dernières années ont exigé une réelle ambition logistique. La nourriture arrive de communautés situées à des centaines de kilomètres. Le personnel vit sur place pendant des semaines d'affilée. Les expériences qu'ils rendent possibles (pistage du puma, randonnée sur glacier, observation des condors depuis un bain chaud) sont rares à ce niveau de qualité ailleurs.
 
 Ce guide présente les meilleurs lodges de la Patagonie chilienne et argentine, avec des informations honnêtes sur l'accès, les saisons et ce que le voyage implique réellement.
 
@@ -18,7 +18,7 @@ Ce guide présente les meilleurs lodges de la Patagonie chilienne et argentine, 
 
 Le terme « Patagonie » désigne la partie australe de l'Amérique du Sud, à cheval sur le Chili et l'Argentine ; on considère généralement qu'elle commence au sud du 40e parallèle et s'étend jusqu'à la Terre de Feu et au cap Horn. Elle englobe des paysages d'une diversité spectaculaire :
 
-**Patagonie chilienne :** le massif du Paine et le parc national de Torres del Paine qui l'entoure (principal pôle du tourisme international), les fjords des régions d'Aysén et de Magallanes, la lointaine Carretera Austral (la route non goudronnée la plus spectaculaire du monde) et l'archipel de la Terre de Feu.
+**Patagonie chilienne :** le massif du Paine et le parc national de Torres del Paine qui l'entoure (principal pôle du tourisme international), les fjords des régions d'Aysén et de Magallanes, la lointaine Carretera Austral (une route non goudronnée célèbre pour ses paysages) et l'archipel de la Terre de Feu.
 
 **Patagonie argentine :** le glacier Perito Moreno et le parc national Los Glaciares (El Calafate), le massif du Fitz Roy et El Chaltén (la capitale du trekking), la péninsule Valdés (observation des baleines et colonies de manchots) et la partie argentine de la Terre de Feu.
 
@@ -162,7 +162,7 @@ La saison accessible en Patagonie s'étend d'octobre à avril (du printemps à l
 Les voyageurs qui découvrent la Patagonie la décrivent immanquablement comme l'expérience de paysage la plus forte de leur vie. La distance est bien réelle : Buenos Aires est à plus de 13 heures de Londres, à 9 heures de Miami, sans compter les correspondances intérieures. Mais cette combinaison d'échelle, de faune et d'isolement véritable n'existe nulle part ailleurs avec une telle intensité. Le voyage fait partie de l'expérience.
 
 
-L'écosystème de Torres del Paine abrite des pumas (le prédateur emblématique de la région, et l'un des meilleurs endroits au monde pour voir des pumas sauvages), des guanacos (camélidés sauvages, cousins du lama), des condors des Andes (3,2 m d'envergure, l'un des plus grands oiseaux volants du monde), des renards gris, des tatous et le huemul, un cerf menacé. La faune marine (manchots, lions de mer, dauphins et parfois orques) s'observe dans les fjords chiliens et sur le canal Beagle à Ushuaïa.
+L'écosystème de Torres del Paine abrite des pumas (le prédateur emblématique de la région, et un lieu réputé pour voir des pumas sauvages), des guanacos (camélidés sauvages, cousins du lama), des condors des Andes (3,2 m d'envergure, l'un des plus grands oiseaux volants du monde), des renards gris, des tatous et le huemul, un cerf menacé. La faune marine (manchots, lions de mer, dauphins et parfois orques) s'observe dans les fjords chiliens et sur le canal Beagle à Ushuaïa.
 
 
 La Patagonie en lodge (hors camping et dortoirs) : **entrée de gamme** (dôme Standard d'EcoCamp) à partir de 400 $/personne/nuit. **Milieu de gamme** (Tierra Patagonia, chambre standard d'Explora) : 700 à 1 200 $/personne/nuit. **Ultra-luxe** (Awasi, Yagan Camp) : 1 400 à 2 500 $/personne/nuit. Un itinéraire de 7 nuits sur deux destinations dans des lodges de milieu de gamme (Torres del Paine + El Calafate) coûte généralement 5 000 à 9 000 $ par personne, hébergement et repas compris, hors vols internationaux.

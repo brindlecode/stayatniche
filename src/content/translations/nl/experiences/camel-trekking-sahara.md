@@ -2,7 +2,7 @@
 source: camel-trekking-sahara
 title: "Kameeltocht met overnachting in de Sahara"
 destination: "Merzouga"
-description: "Rijd bij zonsondergang op een kameel de uitgestrekte zandzee van Erg Chebbi in. Je slaapt in een Berbertent onder een sterrenhemel die zo vol is dat hij bijna tastbaar lijkt, en wordt de volgende ochtend wakker voor een zonsopkomst die de duinen goud en roze kleurt, in het meest filmische woestijnlandschap ter wereld. Deze kameeltocht van 24 uur vanuit Merzouga is de klassieke Sahara-overnachting: zonder haast, echt afgelegen en verrassend vredig zodra de laatste kamelenbel in de stilte van de woestijn wegsterft."
+description: "Rijd bij zonsondergang op een kameel de uitgestrekte zandzee van Erg Chebbi in. Je slaapt in een Berbertent onder een sterrenhemel die zo vol is dat hij bijna tastbaar lijkt, en wordt de volgende ochtend wakker voor een zonsopkomst die de duinen goud en roze kleurt, in een van de meest filmische woestijnlandschappen ter wereld. Deze kameeltocht van 24 uur vanuit Merzouga is de klassieke Sahara-overnachting: zonder haast, echt afgelegen en verrassend vredig zodra de laatste kamelenbel in de stilte van de woestijn wegsterft."
 booking:
   price: "vanaf $ 95 per persoon"
   duration: "24 uur"

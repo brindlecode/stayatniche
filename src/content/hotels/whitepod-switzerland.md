@@ -41,8 +41,7 @@ prosAndCons:
     - "Les Cerniers village is very small, limited options beyond what the lodge provides"
     - "Booking is required well in advance for winter weekends"
 bookingUrl: https://www.booking.com/hotel/ch/whitepod.html
-rating: 9.0
-reviewCount: 678
+rating: 8.5
 seasonalInfo:
   bestTime: "December to March for skiing; June to September for hiking"
   peakSeason: "January to February"
@@ -73,6 +72,19 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Valais,+Switzerland"
     label: "Find Tours on Klook"
+location:
+  country: "Switzerland"
+  countryCode: "CH"
+  region: "Valais"
+  city: "Monthey"
+  locality: "Les Giettes / Les Cerniers"
+  coordinates:
+    lat: 46.222973
+    lng: 6.958349
+niche_scope: unverified
+niche_feature: "Geodesic dome pods (Cosy, Family, Zen suite, Timeless, Forest, Swiss pod suite) plus separate wooden chalets. Official pages never say the domes are transparent or clear-roofed, so the bubble test is unconfirmed."
+niche_source_url: "https://whitepod.com/en/pods"
+niche_verified_at: 2026-11-17
 ---
 
 Whitepod sits on a private slope above the village of Les Cerniers at 1,430 metres in the Valais Alps, and the founding premise — that an architecturally inventive small-footprint accommodation could offer a more genuine Alpine experience than a conventional ski hotel — has held up over two decades of operation. The eighteen geodesic domes are white tensioned fabric over steel frames, each anchored to the slope on a small timber platform, with a glazed end section that frames a specific piece of mountain panorama and a wood-burning stove that heats the interior within twenty minutes of lighting.

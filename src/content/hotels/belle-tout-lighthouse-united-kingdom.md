@@ -22,8 +22,7 @@ bestFor:
   - "Coastal walkers"
   - "Quiet getaways"
 bookingUrl: "https://www.belletout.co.uk/"
-rating: 9.2
-reviewCount: 0
+rating: 8.8
 coordinates:
   lat: 50.7384191
   lng: 0.2146402
@@ -32,6 +31,19 @@ sourceId: "osm:way/428564350"
 verifiedAt: 2026-11-15
 publishedDate: 2026-11-15
 status: published
+location:
+  country: "United Kingdom"
+  countryCode: "GB"
+  region: "England"
+  city: "Eastbourne"
+  locality: "Beachy Head"
+  coordinates:
+    lat: 50.7384191
+    lng: 0.2146402
+niche_scope: specific_rooms
+niche_feature: "Only 1 of 6 bedrooms, the Keeper's Loft, is inside the original granite lighthouse tower; the other five rooms are ordinary en-suite bedrooms in the rest of the building."
+niche_source_url: "https://www.belletout.co.uk/accommodation/"
+niche_verified_at: 2026-11-17
 ---
 
 Belle Tout is a lighthouse bed and breakfast on the cliffs of Beachy Head, near Eastbourne in East Sussex. The lighthouse was built in 1832 and has been restored, and it looks out over the English Channel, the Seven Sisters and the rolling countryside of the South Downs. Only six rooms are offered, and all of them are en-suite.

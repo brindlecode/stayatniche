@@ -17,7 +17,7 @@ highlights:
   - "Coober Pedy produces 70% of the world's opals"
   - "Natural underground temperature stays at a constant 23°C year-round"
   - "Unique underground facilities including bar, restaurant, and pool"
-  - "The most genuinely surreal outback town in Australia"
+  - "A genuinely surreal outback town in South Australia"
 amenities:
   - "Underground guest rooms with natural sandstone walls"
   - "Indoor underground swimming pool"
@@ -54,7 +54,6 @@ prosAndCons:
     - "Limited dining options in town beyond the hotel restaurant"
 bookingUrl: "https://www.booking.com/hotel/au/desert-cave.html"
 rating: 8.2
-reviewCount: 634
 checkInOut:
   checkIn: "14:00"
   checkOut: "10:00"
@@ -80,7 +79,7 @@ status: "published"
 publishedDate: 2025-02-18
 seo:
   metaTitle: "Desert Cave Hotel Review, Underground Hotel in Coober Pedy, South Australia"
-  metaDescription: "Sleep underground in opal-bearing sandstone at the Desert Cave Hotel in Coober Pedy, Australia's most surreal outback town. Natural 23°C temperature year-round."
+  metaDescription: "Sleep underground in opal-bearing sandstone at the Desert Cave Hotel in Coober Pedy, a surreal outback town in South Australia. Natural 23°C temperature year-round."
 affiliateLinks:
   - partner: "expedia"
     url: "https://www.expedia.com/Hotel-Search?destination=Coober%20Pedy%2C%20Australia&adults=2"
@@ -88,6 +87,18 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Coober+Pedy"
     label: "Find Tours on Klook"
+location:
+  country: "Australia"
+  countryCode: "AU"
+  region: "South Australia"
+  city: "Coober Pedy"
+  coordinates:
+    lat: -29.010602
+    lng: 134.754364
+niche_scope: specific_rooms
+niche_feature: "First underground hotel in Coober Pedy (opened 1988); has dugout underground rooms and also ordinary above-ground rooms. Official site only describes Coober Pedy's underground hotels in general, not which rooms here."
+niche_source_url: "https://showcaves.com/english/au/subterranea/DesertCaveHotel.html"
+niche_verified_at: 2026-11-17
 ---
 
 Driving north through the South Australian outback, Coober Pedy appears on the horizon as a field of mounds, pipes, and rubble with no trees anywhere. The ground is pockmarked with thousands of mine shafts. From a distance it looks like a landscape that has been industrially excavated and then largely abandoned — which is, in a sense, accurate. The town was built on opal mining, and the opal mining shaped everything about it, including the fact that most of the 2,000 residents live underground in homes called dugouts. When surface temperatures regularly exceed 50°C in summer, the logic is hard to argue with. The Aboriginal name for the area is *kupa piti*: white man in a hole.

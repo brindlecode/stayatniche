@@ -13,7 +13,7 @@ bestTimeToVisit:
   details: "De octubre a marzo es la época para viajar con comodidad: máximas diurnas de 20-28 °C, poca humedad y cielos despejados. De noviembre a febrero es temporada alta, con los precios más elevados y multitudes en los grandes monumentos. Abril y mayo se vuelven extremadamente calurosos (más de 45 °C en Jaisalmer). El monzón, de julio a septiembre, reverdece el paisaje y llena los lagos, pero grandes fiestas como Diwali (octubre/noviembre) y la Feria de Camellos de Pushkar (noviembre) caen en la estación fresca."
 mustSee:
   - "Fuerte Amber, en Jaipur, una fortaleza del siglo XVI en lo alto de una colina a la que se sube en elefante o en jeep, con extraordinarias salas decoradas con espejos"
-  - "Fuerte Mehrangarh, en Jodhpur, el mayor fuerte rajput de la India, alzado 120 metros sobre la «Ciudad Azul»"
+  - "Fuerte Mehrangarh, en Jodhpur, uno de los fuertes rajput más conocidos de la India, alzado 120 metros sobre la «Ciudad Azul»"
   - "El lago Pichola al atardecer, en Udaipur, con los palacios de mármol blanco de la ciudad de los lagos reflejados en el agua quieta"
   - "Fuerte de Jaisalmer, una fortaleza viva de arenisca del siglo XII con casas habitadas, templos y havelis dentro de sus murallas"
   - "Dunas de Sam: safari en camello y noche en campamento en el desierto del Thar al atardecer"
@@ -26,7 +26,7 @@ travelTips:
   - "Muchos templos prohíben a los no hindúes el acceso a los santuarios interiores: respeta estas restricciones y no intentes entrar si hay carteles que lo prohíben."
 seo:
   metaTitle: "Rajastán, India: guía de hoteles palacio | StayAtNiche"
-  metaDescription: "Guía de Rajastán: hoteles palacio, el Fuerte Amber, el lago Pichola de Udaipur, campamentos en el desierto de Jaisalmer y los alojamientos históricos más increíbles."
+  metaDescription: "Guía de Rajastán: hoteles palacio, el Fuerte Amber, el lago Pichola de Udaipur, campamentos en el desierto de Jaisalmer y alojamientos históricos extraordinarios."
 ---
 
 Rajastán hace que cualquier otro destino parezca comedido. Solo la escala de sus fortalezas —las murallas de Mehrangarh alzándose a pico desde la roca sobre la ciudad vieja azulada de Jodhpur, los baluartes de arenisca dorada de Jaisalmer encendidos con la luz de la tarde— habla de una historia de ambición y poder que exigía expresarse físicamente a cada paso. Esta fue una tierra de reyes guerreros y príncipes mercaderes que construyeron en piedra, mármol y azulejo de espejo con una destreza extraordinaria, y que dejaron un paisaje que hoy es uno de los grandes escenarios de hoteles históricos del mundo.

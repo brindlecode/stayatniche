@@ -21,13 +21,13 @@ amenities:
   - Telescopio nel padiglione per osservare il cielo notturno
   - Esperienze culturali guidate ogni giorno
 bestFor:
-  - Viaggiatori esigenti in cerca del massimo del lusso nell'Outback
+  - Viaggiatori esigenti in cerca di un lusso di alto livello nell'Outback
   - Esploratori culturali interessati al patrimonio anangu
   - Fotografi a caccia della luce straordinaria di Uluru
   - Coppie che celebrano un'occasione speciale
 prosAndCons:
   pros:
-    - Vicinanza a Uluru senza eguali, la vista dal letto ti cambia davvero
+    - Grande vicinanza a Uluru, la vista dal letto ti cambia davvero
     - La formula all-inclusive elimina ogni pensiero dall'esperienza
     - Guide culturali e interpretazione aborigena di qualità eccezionale
     - Cieli straordinariamente bui per osservare le stelle dell'emisfero australe
@@ -51,7 +51,7 @@ nearbyAttractions:
     distance: 8 km
 seo:
   metaTitle: "Longitude 131°: glamping di lusso a Uluru | StayAtNiche"
-  metaDescription: "Longitude 131°, Australia: sedici padiglioni di lusso su una duna di sabbia rossa, con Uluru all'alba visto dal letto. Il top dell'Outback. Da 1.500 $."
+  metaDescription: "Longitude 131°, Australia: sedici padiglioni di lusso su una duna di sabbia rossa, con Uluru all'alba visto dal letto. Un indirizzo esclusivo nell'Outback. Da 1.500 $."
 ---
 
 Uluru nei minuti dopo l'alba è da solo un motivo per mettersi in viaggio. Il monolite — alto 348 metri, 9,4 chilometri di circonferenza, arenaria arkosica depositata 500 milioni di anni fa — assorbe e rifrange il primo sole in una sequenza di colori che in una ventina di minuti passa dal viola profondo all'arancio bruciato fino al rosa corallo. I pittori ci hanno provato. I fotografi ci hanno costruito carriere. A Longitude 131° gli ospiti lo guardano dal letto.

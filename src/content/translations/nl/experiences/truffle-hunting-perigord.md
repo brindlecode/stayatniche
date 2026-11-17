@@ -2,7 +2,7 @@
 source: truffle-hunting-perigord
 title: "Truffels zoeken in de Périgord"
 destination: "Périgord Noir, Dordogne"
-description: "Wandel door eeuwenoude eikenbossen in de beroemdste truffelstreek van Frankrijk, met een getrainde hond, een gepassioneerde trufficulteur en de kans om de zwarte diamant van de Franse keuken op te graven: de Périgordtruffel, Tuber melanosporum, slechts centimeters onder het oppervlak van eeuwenoude bosjes donzige eik. Deze ervaring van een halve dag combineert de spanning van de jacht, een persoonlijke kennismaking met een van de meest verfijnde eetculturen ter wereld en een proeverij die je kijk op dit bijzondere ingrediënt voorgoed verandert."
+description: "Wandel door eeuwenoude eikenbossen in een van de bekendste truffelstreken van Frankrijk, met een getrainde hond, een gepassioneerde trufficulteur en de kans om de zwarte diamant van de Franse keuken op te graven: de Périgordtruffel, Tuber melanosporum, slechts centimeters onder het oppervlak van eeuwenoude bosjes donzige eik. Deze ervaring van een halve dag combineert de spanning van de jacht, een persoonlijke kennismaking met een van de meest verfijnde eetculturen ter wereld en een proeverij die je kijk op dit bijzondere ingrediënt voorgoed verandert."
 booking:
   price: "vanaf $ 120 per persoon"
   duration: "Halve dag (3-4 uur)"

@@ -1,7 +1,7 @@
 ---
 source: sadie-cove-alaska
 destination: "Bahía de Kachemak, Homer, Alaska, EE. UU."
-description: "Un remoto lodge de cabañas en la orilla sur de la bahía de Kachemak, al que solo se llega en hidroavión o taxi acuático desde Homer, con osos pardos en la playa, pesca de fletán en aguas de primer nivel mundial y una costa a la que no llega la red de carreteras del estado."
+description: "Un remoto lodge de cabañas en la orilla sur de la bahía de Kachemak, al que solo se llega en hidroavión o taxi acuático desde Homer, con osos pardos en la playa, pesca de fletán en aguas muy productivas y una costa a la que no llega la red de carreteras del estado."
 highlights:
   - "Lodge en plena naturaleza sin acceso por carretera, al que se llega en hidroavión o taxi acuático"
   - "Osos pardos a menudo visibles en la playa y en el bosque circundante"

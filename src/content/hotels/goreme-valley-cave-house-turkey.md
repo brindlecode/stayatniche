@@ -20,7 +20,6 @@ bestFor:
   - "Couples"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=G%C3%B6reme%20Valley%20Cave%20House%2C%20G%C3%B6reme&adults=2"
 rating: 8
-reviewCount: 0
 coordinates:
   lat: 38.6457618
   lng: 34.8283703
@@ -29,6 +28,18 @@ sourceId: "osm:node/4870524621"
 verifiedAt: 2026-10-09
 publishedDate: 2026-10-09
 status: published
+location:
+  country: "Turkey"
+  countryCode: "TR"
+  region: "Nevşehir"
+  city: "Göreme"
+  coordinates:
+    lat: 38.6457618
+    lng: 34.8283703
+niche_scope: specific_rooms
+niche_feature: "Only 3 of the guesthouse's rooms are underground cave rooms carved into real rock; the other rooms (3 standard, 5 family, 6 suites) are not described as cave rooms."
+niche_source_url: "https://www.goremevalleycavehouse.com/"
+niche_verified_at: 2026-11-17
 ---
 
 Göreme Valley Cave House calls itself "your home away from home" and is a guesthouse rather than a large hotel. The cave element is only partial: the official site lists three underground cave rooms among its standard, family and suite rooms, so the majority of rooms are conventional.

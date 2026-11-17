@@ -1,7 +1,7 @@
 ---
 source: japan
 name: Giappone
-description: "Un arcipelago di quattro isole principali e quasi 7.000 isole minori dove foreste antiche incontrano città illuminate al neon, i treni ad alta velocità uniscono coste opposte in poche ore e la tradizione di ospitalità più raffinata del mondo, il ryokan, convive con gli hotel capsula. Il Giappone ripaga ogni grado di coinvolgimento, da una prima visita di due settimane a una vita intera di ritorni."
+description: "Un arcipelago di quattro isole principali e quasi 7.000 isole minori dove foreste antiche incontrano città illuminate al neon, i treni ad alta velocità uniscono coste opposte in poche ore e una tradizione di ospitalità molto raffinata, il ryokan, convive con gli hotel capsula. Il Giappone ripaga ogni grado di coinvolgimento, da una prima visita di due settimane a una vita intera di ritorni."
 essentials:
   currency: "JPY (yen giapponese); il contante è ancora molto usato, soprattutto nei piccoli esercizi e nei ryokan di campagna"
   language: "Giapponese; cartelli in inglese nelle stazioni principali e nelle zone turistiche, meno frequenti nelle regioni rurali"
@@ -10,7 +10,7 @@ essentials:
   plugType: "Tipo A/B (100 V), un voltaggio più basso rispetto alla maggior parte dei Paesi; verifica la compatibilità dei dispositivi"
 bestTimeToVisit:
   summary: "Marzo–aprile per i ciliegi in fiore; ottobre–novembre per il foliage; dicembre–febbraio per la neve farinosa"
-  details: "La stagione dei ciliegi in fiore (da fine marzo a metà aprile, a seconda della latitudine) è lo spettacolo annuale più straordinario del Paese, ma anche il più affollato. Il foliage di ottobre e novembre è altrettanto bello, con meno folla. L’inverno porta uno sci di livello mondiale in Hokkaido e a Nagano. L’estate (luglio–agosto) è calda e umida, ma le feste regionali la rendono comunque interessante."
+  details: "La stagione dei ciliegi in fiore (da fine marzo a metà aprile, a seconda della latitudine) è lo spettacolo annuale più straordinario del Paese, ma anche il più affollato. Il foliage di ottobre e novembre è altrettanto bello, con meno folla. L’inverno porta uno sci di grande reputazione in Hokkaido e a Nagano. L’estate (luglio–agosto) è calda e umida, ma le feste regionali la rendono comunque interessante."
 mustSee:
   - "Fushimi Inari Taisha, Kyoto: migliaia di torii vermiglio che risalgono la montagna"
   - "Shirakawa-go, Gifu: villaggio patrimonio UNESCO di fattorie con i tetti di paglia in una valle di montagna"

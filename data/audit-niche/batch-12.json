@@ -1,0 +1,310 @@
+[
+ {
+  "new_category": null,
+  "closest_category": null,
+  "treehouse_structure": null,
+  "page_issues": [
+   "Official rooms page does not say the huts are wooden; 'wooden' is unsupported",
+   "Rating 8.3 and 'primary rainforest' wording not stated as such by the lodge beyond 'primary forest' views"
+  ],
+  "slug": "guacamayo-ecolodge-ecuador",
+  "name": "Guacamayo Ecolodge",
+  "official_url": "https://www.guacamayoecolodge.com/",
+  "source_url": "https://www.guacamayoecolodge.com/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Hut-style rooms (Papagayo, Trogon, Tarantula, Eagle, Jaguar etc.) at a lodge in the Cuyabeno Reserve Amazon rainforest, sold as 3-5 day tour packages; balconies over primary forest in some huts.",
+  "evidence_quote": "offering eco-friendly accommodations amidst lush rainforest adventures",
+  "operating": "open",
+  "verdict": "keep",
+  "reason": "Official site shows a rainforest lodge inside the Cuyabeno Reserve with hut rooms and tour packages; fits jungle-lodges.",
+  "location": {
+   "region": "Sucumbíos",
+   "city": "Lago Agrio",
+   "locality": "Cuyabeno Reserve"
+  }
+ },
+ {
+  "new_category": null,
+  "closest_category": null,
+  "treehouse_structure": null,
+  "page_issues": [
+   "Page says 83 casitas; official site says 80",
+   "Page says 'closest accommodation to Machu Picchu' and 'only property inside genuine cloud forest' - unsupported superlatives",
+   "Andean bear conservation programme on the grounds not confirmed on the fetched official page",
+   "Page says '370 species' of orchid; official says 372 (minor), and 'largest in Peru' vs official 'world's largest native orchid collection'"
+  ],
+  "slug": "inkaterra-machu-picchu",
+  "name": "Inkaterra Machu Picchu Pueblo Hotel",
+  "official_url": "https://www.inkaterra.com/inkaterra-machu-picchu-pueblo-hotel/",
+  "source_url": "https://www.inkaterra.com/inkaterra-machu-picchu-pueblo-hotel/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "80 whitewashed adobe casitas set in a private five-hectare cloud-forest reserve by Machu Picchu Pueblo station; forest setting but not remote (walkable from town and train station).",
+  "evidence_quote": "an intimate Andean village with terraced hills, waterfalls, stone pathways and 80 whitewashed adobe casitas tucked away in the cloud forest",
+  "operating": "open",
+  "verdict": "keep",
+  "reason": "Casitas sit in a private cloud-forest reserve per official site; weak on 'remote' but no better category fits.",
+  "location": {
+   "region": "Cusco",
+   "city": "Machu Picchu Pueblo (Aguas Calientes)",
+   "locality": null
+  }
+ },
+ {
+  "new_category": null,
+  "closest_category": null,
+  "treehouse_structure": null,
+  "page_issues": [
+   "Entire page unsupported: official site unreachable (HTTP 500) so room views, solar power, family-run and Salkantay-stop claims could not be checked"
+  ],
+  "slug": "machupicchu-ecolodge-peru",
+  "name": "Machupicchu Ecolodge",
+  "official_url": "https://www.machupicchuecolodge.com",
+  "source_url": null,
+  "source_type": "none",
+  "niche_scope": "unverified",
+  "niche_feature": "Could not confirm the rainforest/off-grid claims: the official site returned HTTP 500 (WordPress/PHP error) on every page tried, and no other citable page was reachable.",
+  "evidence_quote": null,
+  "operating": "unknown",
+  "verdict": "keep",
+  "reason": "Official site down (HTTP 500) at all URLs; no citable source reachable, so the jungle-lodge feature is unconfirmed.",
+  "location": {
+   "region": null,
+   "city": null,
+   "locality": null
+  }
+ },
+ {
+  "new_category": null,
+  "closest_category": null,
+  "treehouse_structure": null,
+  "page_issues": [
+   "Page says 1,200-hectare reserve; official reserves page says 3,200-hectare Mashpi Reserve",
+   "Page says 'over 400' bird species; official says 'some 400'",
+   "45 mammal species and 'three-storey' building not confirmed on official pages fetched",
+   "'Two hours from Quito' vs official 'about 3-hour drive' from the Equator monument (different reference point; transfer time not verified)"
+  ],
+  "slug": "mashpi-lodge-ecuador",
+  "name": "Mashpi Lodge",
+  "official_url": "https://www.mashpilodge.com/",
+  "source_url": "https://www.mashpilodge.com/the-lodge/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Glass-fronted lodge for 47 guests inside the private Mashpi biosphere reserve of Chocó cloud forest/rainforest, northwest of Quito; all rooms are in the one lodge building.",
+  "evidence_quote": "Located on a scenic plateau in the heart of a biosphere reserve, our Lodge features breathtaking views of the surrounding rainforest",
+  "operating": "open",
+  "verdict": "keep",
+  "reason": "Official site confirms a remote rainforest lodge inside a private reserve; fits jungle-lodges.",
+  "location": {
+   "region": "Pichincha",
+   "city": "Quito",
+   "locality": "Mashpi (Pacto parish)"
+  }
+ },
+ {
+  "new_category": "treehouse-hotels",
+  "closest_category": null,
+  "treehouse_structure": "in_or_attached_to_tree",
+  "page_issues": [
+   "Page says 28 villas; official villas page says 31 villas and estates",
+   "Page says surf break limited to ten surfers at once; official says 15 registered surfers per day",
+   "567-acre estate size not found on official pages",
+   "'Most expensive accommodation in Indonesia by a considerable margin' is an unsupported superlative",
+   "Jungle-lodge framing unsupported: official describes beachfront villas along Nihiwatu Beach"
+  ],
+  "slug": "nihi-sumba-indonesia",
+  "name": "Nihi Sumba",
+  "official_url": "https://nihi.com/sumba/",
+  "source_url": "https://nihi.com/sumba/villa/treehouse/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Only one villa, the three-bedroom Treehouse (3 of 31 villas/estates), is built within the trees: circular glass bedrooms elevated above ground, linked by raised walkways. Rest are beachfront or hillside villas on dry-coast Sumba, not jungle lodge.",
+  "evidence_quote": "The Treehouse is built within the trees on the edge of an ancient forest.",
+  "operating": "open",
+  "verdict": "move",
+  "reason": "Beachfront surf resort, not a jungle lodge; only the Treehouse villa (built in the trees, raised walkways) fits a niche category.",
+  "location": {
+   "region": "East Nusa Tenggara",
+   "city": "West Sumba Regency",
+   "locality": "Hoba Wawi, Wanokaka"
+  }
+ },
+ {
+  "new_category": null,
+  "closest_category": "jungle-lodges",
+  "treehouse_structure": null,
+  "page_issues": [
+   "Lodge is closed per official site, but page sells it as bookable with rates and seasons",
+   "Whole page describes services (fishing, floatplane transfers, meals) that are no longer offered",
+   "Not a jungle/rainforest setting"
+  ],
+  "slug": "sadie-cove-alaska",
+  "name": "Sadie Cove Wilderness Lodge",
+  "official_url": "https://www.sadiecove.com/",
+  "source_url": "https://www.sadiecove.com/",
+  "source_type": "official",
+  "niche_scope": "unverified",
+  "niche_feature": "Official site states the lodge is closed and is turning the grounds into a bee project; no guest accommodation offered. Also an Alaskan coastal wilderness lodge, not rainforest/jungle.",
+  "evidence_quote": "Sadie Cove Wilderness Lodge is closed.",
+  "operating": "closed",
+  "verdict": "draft",
+  "reason": "Official homepage says the lodge is closed and not taking guests; Alaskan wilderness lodge never fit jungle-lodges.",
+  "location": {
+   "region": "Alaska",
+   "city": "Homer",
+   "locality": "Sadie Cove, Kachemak Bay"
+  }
+ },
+ {
+  "new_category": null,
+  "closest_category": null,
+  "treehouse_structure": null,
+  "page_issues": [
+   "Page says nine tented suites; official says 15 tents",
+   "Page says 45,000-hectare concession and 70+ rangers; official says 350-hectare (865-acre) property and funds Wildlife Alliance rangers",
+   "Page says resort funds and staffs its own anti-poaching team; official says it funds Wildlife Alliance rangers",
+   "'Most dramatic arrival of any lodge in Southeast Asia' is an unsupported superlative"
+  ],
+  "slug": "shinta-mani-wild-cambodia",
+  "name": "Shinta Mani Wild",
+  "official_url": "https://www.shintamani.com/wild/",
+  "source_url": "https://www.shintamani.com/wild/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "15 Bensley-designed river tents, all-inclusive, in Cambodia's Cardamom rainforest, with zipline arrival; the whole camp is the remote jungle setting.",
+  "evidence_quote": "Dotted along the river, our 15 tents were designed by acclaimed architect Bill Bensley to be completely private and utterly luxurious.",
+  "operating": "open",
+  "verdict": "keep",
+  "reason": "Official site confirms a remote tented camp in the Cardamom rainforest; fits jungle-lodges.",
+  "location": {
+   "region": "Koh Kong Province",
+   "city": "Koh Kong",
+   "locality": "Cardamom Mountains"
+  }
+ },
+ {
+  "new_category": null,
+  "closest_category": "jungle-lodges",
+  "treehouse_structure": null,
+  "page_issues": [
+   "Page says forty villas; official says 15 villas",
+   "Page places it in Niseko; official address is Hanazono, Kutchan-cho",
+   "Page says skiable from the hotel grounds; official says Hanazono ski area is about 7 minutes by car with shuttle",
+   "Not a jungle lodge: temperate Hokkaido forest ryokan"
+  ],
+  "slug": "zaborin-hokkaido-japan",
+  "name": "Zaborin",
+  "official_url": "https://zaborin.com/en/",
+  "source_url": "https://zaborin.com/en/",
+  "source_type": "official",
+  "niche_scope": "unverified",
+  "niche_feature": "Luxury ryokan with 15 villa suites, each with a private onsen, in a Hanazono (Hokkaido) wood. A temperate-forest ryokan, not a rainforest/jungle lodge; no other listed niche category applies.",
+  "evidence_quote": "Each of the 15 villas are suites furnished with its own private indoor and outdoor onsen surrounded by nature.",
+  "operating": "open",
+  "verdict": "draft",
+  "reason": "Hokkaido ryokan with onsen villas in a temperate wood; fits none of the 14 categories, certainly not jungle-lodges.",
+  "location": {
+   "region": "Hokkaido",
+   "city": "Kutchan",
+   "locality": "Hanazono"
+  }
+ },
+ {
+  "new_category": null,
+  "closest_category": null,
+  "treehouse_structure": null,
+  "page_issues": [],
+  "slug": "belle-tout-lighthouse-united-kingdom",
+  "name": "Belle Tout Lighthouse B&B",
+  "official_url": "https://www.belletout.co.uk/",
+  "source_url": "https://www.belletout.co.uk/accommodation/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Only 1 of 6 bedrooms, the Keeper's Loft, is inside the original granite lighthouse tower; the other five rooms are ordinary en-suite bedrooms in the rest of the building.",
+  "evidence_quote": "The Keeper's Loft bedroom is the only room situated in the original granite Lighthouse, and is very popular.",
+  "operating": "open",
+  "verdict": "keep",
+  "reason": "Official site confirms a lighthouse B&B where one room (Keeper's Loft) is in the tower.",
+  "location": {
+   "region": "England",
+   "city": "Eastbourne",
+   "locality": "Beachy Head"
+  }
+ },
+ {
+  "new_category": null,
+  "closest_category": null,
+  "treehouse_structure": null,
+  "page_issues": [
+   "'Working lighthouse' not stated on the official pages fetched",
+   "Page says 'Rhins of Galloway' coast; official pages only say south-west Scotland / Corsewall Point, Kirkcolm"
+  ],
+  "slug": "corsewall-lighthouse-hotel-scotland",
+  "name": "Corsewall Lighthouse Hotel",
+  "official_url": "https://www.lighthousehotel.co.uk/",
+  "source_url": "https://www.lighthousehotel.co.uk/accommodation",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Six of 11 rooms (Fulmar, Galloway, Ailsa, Dunskirkloch, Mull of Kintyre, Firth of Cromarty) are in the original lighthouse keepers' quarters; two suites and the Stevenson Rooms are separate modern buildings.",
+  "evidence_quote": "Historic, cosy rooms in the original lighthouse keepers’ quarters, including Fulmar, Galloway, Ailsa, Dunskirkloch, Mull of Kintyre and Firth of Cromarty.",
+  "operating": "open",
+  "verdict": "keep",
+  "reason": "Official site confirms keepers' quarters rooms at the lighthouse; remaining rooms are in other buildings in the grounds.",
+  "location": {
+   "region": "Scotland",
+   "city": "Stranraer",
+   "locality": "Corsewall Point, Kirkcolm"
+  }
+ },
+ {
+  "new_category": null,
+  "closest_category": null,
+  "treehouse_structure": null,
+  "page_issues": [],
+  "slug": "fyrgaarden-denmark",
+  "name": "Fyrgaarden",
+  "official_url": "https://www.fyrgarden.com/",
+  "source_url": "https://www.fyrgarden.com/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Former lighthouse keeper's house beside the old lighthouse on eastern Anholt, let as three apartments (or the whole house); guests do not sleep in the tower itself.",
+  "evidence_quote": "Built in 1826 as the home of the lighthouse keeper and his family.",
+  "operating": "open",
+  "verdict": "keep",
+  "reason": "Official site confirms guests stay in the former lighthouse keeper's house next to the lighthouse.",
+  "location": {
+   "region": "Central Denmark Region",
+   "city": "Anholt",
+   "locality": "Eastern tip of Anholt"
+  }
+ },
+ {
+  "new_category": null,
+  "closest_category": null,
+  "treehouse_structure": null,
+  "page_issues": [
+   "No hotel: official booking site offers a single holiday apartment sleeping 6 (4 beds plus sofa bed)",
+   "Rock-carved rooms, spa, sauna, hot tubs, restaurant and storm-watching lounge are not supported by any source",
+   "Prices of $350-650 unsupported: official apartment rate is NOK 950-1,200 per night",
+   "County given as Vest-Agder; now Agder",
+   "Current tower is a 1915 steel structure; 1656 is the date of the first light"
+  ],
+  "slug": "lindesnes-lighthouse-norway",
+  "name": "Lindesnes Lighthouse Hotel",
+  "official_url": "https://lindesnesfyr.no/",
+  "source_url": "https://no.wikipedia.org/wiki/Lindesnes_fyr",
+  "source_type": "other",
+  "niche_scope": "entire_property",
+  "niche_feature": "No hotel exists: the only accommodation is one holiday apartment (sleeps 6) in half of the former assistant keeper's house at Lindesnes lighthouse; the other half houses the duty keeper. Booking site confirms single apartment.",
+  "evidence_quote": "Halve assistentboligen er i dag brukt som ferieleilighet, i den andre halvdelen bor vakthavende fyrvokter.",
+  "operating": "open",
+  "verdict": "keep",
+  "reason": "Lighthouse station keeper's-house apartment fits lighthouse-hotels, but it is a single 6-bed flat, not a boutique hotel.",
+  "location": {
+   "region": "Agder",
+   "city": "Lindesnes",
+   "locality": "Lindesnes Fyr"
+  }
+ }
+]

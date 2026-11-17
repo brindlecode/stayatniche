@@ -7,7 +7,7 @@ stats:
   topDestination: "Malediven"
 seo:
   metaTitle: "Wasserbungalows: Tropischer Luxus überm Meer | StayAtNiche"
-  metaDescription: "Die schönsten Wasserbungalows auf den Malediven, in Bora Bora und darüber hinaus: Schlafen Sie direkt über tropischen Lagunen – Insel-Luxus pur."
+  metaDescription: "Ausgewählte Wasserbungalows auf den Malediven, in Bora Bora und darüber hinaus: Schlafen Sie direkt über tropischen Lagunen – Insel-Luxus pur."
 ---
 
 Das Konzept ist einfach, und es funktioniert: eine Holzvilla über klarem tropischem Wasser, eine Treppe, die direkt in die Lagune führt, ein privates Deck, auf dem die einzige Entscheidung lautet, ob Sie den Sonnenaufgang von der Sonnenliege oder vom Wasser aus betrachten. Ende der 1960er-Jahre in Französisch-Polynesien als praktische Antwort auf den knappen Platz auf Korallenatollen entwickelt, sind Wasserbungalows inzwischen das bekannteste Sehnsuchtsbild des Reisens. Und diesen Status haben sie sich verdient.

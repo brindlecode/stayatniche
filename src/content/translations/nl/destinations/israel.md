@@ -22,7 +22,7 @@ mustSee:
 travelTips:
   - "De beveiliging op Ben Gurion Airport is grondig. Reken op 3 uur bij vertrek, meer als je stempels van Jordanië of Egypte in je paspoort hebt."
   - "Tijdens sjabbat (vrijdag zonsondergang tot zaterdagavond) rijdt het meeste openbaar vervoer niet en zijn veel zaken dicht. Plan daarop of neem een privétaxi."
-  - "Israël hoort bij de wereldtop in duurzame landbouw en voedselinnovatie: de boerenmarkten en restaurants van Tel Aviv zijn echt van wereldklasse."
+  - "Israël hoort bij de wereldtop in duurzame landbouw en voedselinnovatie: de boerenmarkten en restaurants van Tel Aviv zijn echt voortreffelijk."
   - "De Negevwoestijn verken je het best met de auto; het openbaar vervoer komt niet in het grootste deel van het binnenland."
   - "Kraanwater is in heel Israël veilig om te drinken."
 seo:

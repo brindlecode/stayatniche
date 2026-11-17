@@ -15,7 +15,7 @@ mustSee:
   - "Berggorilla-Trekking im Bwindi Impenetrable Forest – eine Stunde bei einer Gorillafamilie, die das Leben verändert"
   - "Schimpansen-Habituierung im Kibale-Wald: mit Forschern eine wilde Schimpansenfamilie von der Morgen- bis zur Abenddämmerung begleiten"
   - "Queen-Elizabeth-Nationalpark mit den baumkletternden Löwen im Ishasha-Sektor und Bootssafaris auf dem Kazinga-Kanal"
-  - "Murchison Falls, der kraftvollste Wasserfall der Welt, wo sich der Nil durch eine 7 Meter breite Schlucht zwängt"
+  - "Murchison Falls, einer der kraftvollsten Wasserfälle der Welt, wo sich der Nil durch eine 7 Meter breite Schlucht zwängt"
   - "Nilquelle bei Jinja, der genaue Punkt, an dem der Nil den Victoriasee verlässt, mit Wildwasser-Rafting"
   - "Ruwenzori-Gebirge, die „Mondberge“, mit Gletschertrekking am Äquator"
 travelTips:
@@ -39,4 +39,4 @@ Die Unterkünfte rund um Bwindi haben sich zu einigen der besten Wildnis-Lodges 
 
 Uganda wird immer wieder fälschlich als Reiseziel für eine einzige Art wahrgenommen. Der Kibale-Nationalpark, vier Stunden nördlich von Bwindi, bietet das verlässlichste Schimpansen-Trekking Afrikas und – einzigartig – eine ganztägige Schimpansen-Habituierung, bei der Gäste gemeinsam mit dem Forschungsteam eine Familie vom Verlassen der Schlafnester im Morgengrauen bis zur Abenddämmerung begleiten. Der Queen-Elizabeth-Nationalpark hat die berühmten baumkletternden Löwen von Ishasha und Bootssafaris auf dem Kazinga-Kanal, an dem sich Flusspferde, Büffel und Elefanten in großer Zahl versammeln.
 
-An den Murchison Falls wird der Nil von 50 auf 7 Meter Breite zusammengepresst und stürzt 43 Meter in die Tiefe – ein Schauspiel reiner hydraulischer Kraft. Gischt und Getöse am unteren Aussichtspunkt gehen unter die Haut. Gemessen an der Wassermenge pro Breite ist es der kraftvollste Wasserfall der Welt, und wer darunter steht, spürt das am eigenen Leib.
+An den Murchison Falls wird der Nil von 50 auf 7 Meter Breite zusammengepresst und stürzt 43 Meter in die Tiefe – ein Schauspiel reiner hydraulischer Kraft. Gischt und Getöse am unteren Aussichtspunkt gehen unter die Haut. Gemessen an der Wassermenge pro Breite zählt er zu den kraftvollsten Wasserfällen der Welt, und wer darunter steht, spürt das am eigenen Leib.

@@ -12,7 +12,7 @@ featured: true
 order: 12
 seo:
   metaTitle: Overwater Bungalows, Tropical Luxury Above the Ocean | StayAtNiche
-  metaDescription: Discover the world's finest overwater bungalows in the Maldives, Bora Bora, and beyond. Sleep directly above tropical lagoons in the ultimate island luxury experience.
+  metaDescription: Discover standout overwater bungalows in the Maldives, Bora Bora, and beyond. Sleep directly above tropical lagoons in a signature island luxury experience.
 ---
 
 The concept is simple and it works: a wooden villa extending over clear tropical water, a staircase descending directly into the lagoon, a private deck where the only decision is whether to watch the sunrise from the sunlounger or from the water below. First developed in French Polynesia in the late 1960s as a practical response to limited land on coral atolls, overwater bungalows have since become the most recognisable image in aspirational travel. The status is earned.
