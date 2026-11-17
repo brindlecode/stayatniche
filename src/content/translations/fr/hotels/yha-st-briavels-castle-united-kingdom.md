@@ -6,7 +6,7 @@ highlights:
   - "Château normand commencé entre 1075 et 1129, classé Grade I"
   - "Ancien pavillon de chasse du roi Jean"
   - "Auberge de jeunesse depuis 1948, dans un bâtiment appartenant à English Heritage"
-  - "Huit chambres pouvant accueillir jusqu'à 50 personnes, dont deux dans la tour est"
+  - "Huit chambres pour environ 64 personnes au total, dont trois dans la tour est"
   - "Lits en dortoir, chambres privées ou château entier"
 amenities:
   - "Cuisine en libre-service"
@@ -34,7 +34,7 @@ St Briavels fut bâti entre 1075 et 1129 comme centre administratif royal de la 
 
 ## Où dormir
 
-Il y a huit chambres pouvant accueillir jusqu'à 50 personnes au total, principalement en lits superposés, avec quelques lits simples et lits doubles sous des lits hauts (high sleepers). Les chambres accueillent de trois à douze personnes. Deux se trouvent dans la tour est. Vous pouvez réserver un lit en dortoir, une chambre privée, ou l'auberge entière pour un groupe. Le linge de lit est fourni ; les serviettes ne le sont pas, mais peuvent être louées.
+Il y a huit chambres pouvant accueillir environ 64 personnes au total, principalement en lits superposés, avec quelques lits simples et lits doubles sous des lits hauts (high sleepers). Les chambres accueillent de 5 à 14 personnes. Trois se trouvent dans la tour est, pour 6, 8 et 10 personnes. Vous pouvez réserver un lit en dortoir, une chambre privée, ou l'auberge entière pour un groupe. Le linge de lit est fourni ; les serviettes ne le sont pas, mais peuvent être louées.
 
 ## Espaces communs
 

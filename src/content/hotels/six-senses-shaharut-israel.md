@@ -4,7 +4,7 @@ category: desert-camps
 destination: Shaharut, Negev Desert
 country: Israel
 continent: Asia
-description: Sixty villas carved into a Negev Desert plateau at 900 metres elevation, above the confluence of three ancient desert trade routes — the Incense Route, Spice Route, and the King's Highway. The architecture is modelled on the Nabataean cliff-dwellings that once lined these routes; the spa treatments and wellness programmes are what bring contemporary guests to this otherwise minimally inhabited corner of southern Israel.
+description: "A desert retreat of 60 suites and villas set into a dramatic cliff with panoramic views of the Negev Desert, with a Six Senses spa of six treatment rooms and a freshwater infinity pool."
 coverImage: /images/hotels/six-senses-shaharut-israel.jpg
 gallery:
   - /images/hotels/six-senses-shaharut-israel-2.jpg
@@ -12,16 +12,16 @@ gallery:
 priceRange: "$800 - $1800"
 priceIndicator: 5
 highlights:
-  - Negev Desert plateau at 900m above sea level
-  - Nabataean-inspired cliff architecture
-  - UNESCO Incense Route heritage nearby
-  - Six Senses spa
-  - Stargazing in internationally dark skies reserve
+  - "60 suites and villas set into a cliff with panoramic Negev Desert views"
+  - "Design reminiscent of the Nabataean community that lived here over 2,000 years ago"
+  - "Interiors inspired by the ancient Incense Route"
+  - "Six Senses spa"
+  - "Stargazing sessions in the Negev"
 amenities:
   - Six Senses spa
-  - Infinity pool overlooking desert canyon
+  - "Freshwater infinity pool with desert views"
   - All-day dining with desert view
-  - Guided Negev hikes
+  - "Hiking, camel treks and jeep excursions"
   - Stargazing programme
 bestFor:
   - Wellness travellers
@@ -44,7 +44,7 @@ affiliateLinks:
     label: "Negev Tours on Klook"
 seo:
   metaTitle: "Six Senses Shaharut Review: Negev Desert Luxury Retreat | StayAtNiche"
-  metaDescription: "Six Senses Shaharut: 60 Nabataean-style villas on a Negev Desert plateau. UNESCO Incense Route, Six Senses spa, and internationally dark stargazing skies."
+  metaDescription: "Six Senses Shaharut: 60 suites and villas set into a cliff with Negev Desert views, a Six Senses spa with six treatment rooms and stargazing sessions."
 location:
   country: "Israel"
   countryCode: "IL"
@@ -60,10 +60,10 @@ niche_source_url: "https://theluxuryeditor.com/news/six-senses-shaharut-israel-o
 niche_verified_at: 2026-11-17
 ---
 
-The Negev Desert covers 60% of Israel's land area but holds less than 10% of its population. At Shaharut, on a plateau above the Nahal Paran canyon, the emptiness is complete: horizon-to-horizon rocky desert, unobstructed sky, and a geological record of 600 million years visible in the exposed cliff faces. The Nabataeans — the ancient Arab civilisation that controlled the regional spice trade from roughly 400 BCE to 100 CE — built settlements and caravanserais throughout this landscape, and the UNESCO-listed Incense Route passes within kilometres of the property.
+The Negev Desert covers 60% of Israel's land area but holds less than 10% of its population. At Shaharut the emptiness is complete: horizon-to-horizon rocky desert and unobstructed sky. The Nabataeans — the ancient Arab civilisation that controlled the regional spice trade from roughly 400 BCE to 100 CE — built settlements and caravanserais throughout this landscape.
 
-Six Senses interpreted the Nabataean heritage architecturally: the sixty villas are constructed from local sandstone in cliff-integrated configurations that reference the ancient structures, with private pools that appear to overhang the canyon. The aesthetic is simultaneously ancient and precise — the spa pavilions use traditional building materials in forms that are unmistakably contemporary. The signature Six Senses health programming (biohacking, sleep analysis, personalised detox) is available throughout.
+According to Six Senses, the look and feel of the resort is inspired by the nomadic structures of the Negev and is reminiscent of the Nabataean community that occupied the area over 2,000 years ago. The 60 suites and villas are nestled into the ground and designed to blend in with the desert landscape. The interiors draw on patterns and textures of the ancient Incense Route, with furniture and fittings sourced from local artisans in natural stone, wood and copper, and interior doors made from reclaimed teak. The Six Senses Spa has six treatment rooms, a variety of wellness programmes, an Alchemy Bar for mixing botanicals and visiting practitioners in Chinese medicine, osteopathy and energy healing.
 
-The Negev is one of Israel's designated dark sky reserves: on new moon nights, the Milky Way is visible from horizon to horizon, and the absence of any significant light source within 50 kilometres makes this genuinely extraordinary. The hotel's astronomy programme includes guided stargazing with professional telescopes.
+Stargazing sessions are part of the programme. The resort also has an open-air amphitheatre shaped from the natural contours of the terrain and used as a Six Senses "Cinema Paradiso" beneath the stars, and two pools, including a freshwater infinity pool with desert views.
 
-Hiking the Negev Highlands — the Israel National Trail, the Incense Route sections, and the nearby crater of Makhtesh Ramon (a geological feature unique to this region) — is the outdoor activity core. Eilat is 50 kilometres south, with international connections; Tel Aviv is 3.5 hours by road or 1 hour by domestic flight to Eilat then transfer.
+Activities include camel treks and overnight camping, hiking, e-mountain bike tours, jeep excursions and a Shabbat dinner in a nearby community, with the Dead Sea, Masada and Petra further afield. Flights from Tel Aviv to Eilat take 50 minutes, followed by a 45-minute transfer from Ramon airport; driving from Tel Aviv or Jerusalem takes around three and a half hours, or three hours from Petra in Jordan.

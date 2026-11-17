@@ -21,6 +21,7 @@ bestFor:
 seo:
   metaTitle: "Majakkahotelli: hotel nel faro in Finlandia | StayAtNiche"
   metaDescription: "Majakkahotelli, su un'isola vicino a Rauma: 15 camere nella torre di un faro, la maggior parte con vista mare, e saune e vasche idromassaggio sulla riva."
+niche_feature: "Tutte le 15 camere dell'hotel si trovano nella torre del faro di Kylmapihlaja, su un'isola del mare aperto; l'isola ha anche otto cottage separati per due persone, che non sono nella torre."
 ---
 
 Majakkahotelli è un hotel-faro su un'isola al limitare del mare aperto. Tutte le camere si trovano nella torre del faro, arredate in uno stile marinaro semplice e confortevole. Oltre la torre, l'isola offre un ristorante, un porto per gli ospiti e otto cottage per due persone.

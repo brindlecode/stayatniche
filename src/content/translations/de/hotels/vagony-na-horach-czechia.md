@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Zughotel Vagony na horách, Tschechien | StayAtNiche"
   metaDescription: "Umgebaute Eisenbahnwaggons am Bahnhof Kovářská im Erzgebirge: isolierte Studios auf 850 Metern Höhe mit Küche, Bad und großen Panoramafenstern."
+niche_feature: "Vier ausgediente Eisenbahnwaggons (Alois, Fanynka, Lesní, Přednostův) auf dem stillgelegten vierten Gleis am Bahnhof Kovářská, als isolierte Studios eingerichtet. Eine fünfte Unterkunft, Vechtrovna, ist das ehemalige Haus eines Streckenwärters und kein Waggon."
 ---
 
 In Kovářská, einem kleinen Bahnhof auf dem Kamm des Erzgebirges, stehen einige ausgediente Eisenbahnwaggons auf dem ungenutzten vierten Gleis und dienen heute als Schlafplätze. Der Bahnhof liegt 850 Meter über dem Meeresspiegel, umgeben von Wald, und die Betreiber beschreiben den Aufenthalt als ein Stück Bahnhofsromantik in den Bergen.

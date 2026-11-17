@@ -50,11 +50,11 @@ Signature Cave Cappadocia Trademark Collection by Wyndham is a branded boutique 
 
 ## The suites
 
-The site's room pages show the style. The Signature Pool Suite, with one double bed, has direct access to the pool area and a private outdoor sitting area. The in-room features it lists are a laptop-sized safe, a desk, prayer mats, a clothes hamper, a sitting area and air conditioning.
+The site's room pages list Premium, Junior and Deluxe Cave Suites; the Signature Pool Suite, by contrast, is not labelled a cave suite. The Signature Pool Suite, with one double bed, has direct access to the pool area and a private outdoor sitting area. The in-room features it lists are a laptop-sized safe, a desk, prayer mats, a clothes hamper, a sitting area and air conditioning.
 
 ## The setting
 
-The hotel is set among Cappadocia's fairy chimneys and ancient rock formations, with suites that each offer panoramic views of the landscape. The promise is a mix of cultural heritage and luxurious comfort. The site is available in Turkish and English and has an area-guide section.
+The hotel is in the historic village of Mustafapaşa, a few minutes from Ürgüp (not in Nevşehir town), set among Cappadocia's fairy chimneys and ancient rock formations, with suites that each offer panoramic views of the landscape. The promise is a mix of cultural heritage and luxurious comfort. The site is available in Turkish and English and has an area-guide section.
 
 ## Practical notes
 

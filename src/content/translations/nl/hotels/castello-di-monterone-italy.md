@@ -1,7 +1,7 @@
 ---
 source: castello-di-monterone-italy
 destination: "Perugia, Umbrië"
-description: "Een gerestaureerd kasteel uit de 13e eeuw, drie kilometer van Perugia, omgebouwd tot historische residentie met achttien kamers, waarvan sommige met originele fresco's."
+description: "Een gerestaureerd middeleeuws kasteel, drie kilometer van Perugia, omgebouwd tot historische residentie met achttien kamers, waarvan sommige met originele fresco's."
 highlights:
   - "Middeleeuws kasteel omgebouwd tot historische residentie (residenza d’epoca)"
   - "Achttien kamers, elk met een eigen verhaal"
@@ -15,10 +15,10 @@ bestFor:
   - "Liefhebbers van geschiedenis"
 seo:
   metaTitle: "Castello di Monterone: kasteelhotel Perugia | StayAtNiche"
-  metaDescription: "Castello di Monterone bij Perugia: historische residentie in een gerestaureerd kasteel uit de 13e eeuw, met achttien kamers en originele fresco's."
+  metaDescription: "Castello di Monterone bij Perugia: historische residentie in een gerestaureerd middeleeuws kasteel, met achttien kamers en originele fresco's."
 ---
 
-Castello di Monterone is een klein, gerestaureerd kasteel uit de 13e eeuw, aan de weg die Perugia via Ponte San Giovanni met Assisi verbindt. Het is omgebouwd tot residenza d'epoca, een historische residentie, en telt nu achttien kamers die passen bij de geschiedenis van het gebouw. Het ligt in het groen, zo'n drie kilometer van het oude centrum van Perugia.
+Castello di Monterone is een klein, gerestaureerd middeleeuws kasteel, aan de weg die Perugia via Ponte San Giovanni met Assisi verbindt. Het is omgebouwd tot residenza d'epoca, een historische residentie, en telt nu achttien kamers die passen bij de geschiedenis van het gebouw. Het ligt in het groen, zo'n drie kilometer van het oude centrum van Perugia. Volgens de geschiedenispagina van het kasteel gaat het gebouw minstens terug tot de 11e eeuw, want een gebouw in Monterone staat al in een document van 18 januari 1200 in het Staatsarchief van Perugia.
 
 ## De kamers
 

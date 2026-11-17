@@ -1,19 +1,19 @@
 ---
 source: ms-fram-norway
 destination: "Spitsbergen en het Noorse Noordpoolgebied"
-description: "Het ijsversterkte expeditieschip van Hurtigruten, vernoemd naar het poolschip van Nansen en Amundsen, zet Zodiacs in bij gletsjerfronten en walrusstranden op 78° noorderbreedte. Aan boord zijn 16 gespecialiseerde gidsen, en een ontmoeting met ijsberen is een reële kans, geen marketingbelofte."
+description: "Het speciaal voor poolreizen gebouwde expeditieschip van HX Expeditions voor 200 gasten, vernoemd naar het Noorse ontdekkingsschip dat onder Fridtjof Nansen door het Arctische ijs dreef, met een Science Centre, twee restaurants en hottubs buiten."
 highlights:
-  - "Vernoemd naar het legendarische poolschip van Nansen en Amundsen"
-  - "Deskundig team van natuurkenners, historici en poolgidsen op elke reis"
+  - "Vernoemd naar het legendarische Noorse ontdekkingsschip dat onder Nansen door het Arctische ijs dreef"
+  - "Expeditieteam en een Science Centre aan boord met lezingen en microscopen"
   - "Zodiacs en kajaks om ijs en dieren van dichtbij te verkennen"
-  - "Noorderlicht, ijsberen en kalvende gletsjers vanaf het dek"
+  - "Twee hottubs buiten, een sauna en een fitnessruimte aan boord"
 amenities:
   - "Expeditiehut of suite met uitzicht op het poolgebied"
-  - "Verschillende restaurants en bars"
-  - "Wetenschapscentrum en collegezaal"
-  - "Expeditieteam van meer dan 16 specialisten"
+  - "Twee restaurants (Aune en Lindstrøm) en de Explorer Lounge & Bar"
+  - "Science Centre met lezingen en microscopen"
+  - "Expeditieteam dat lezingen geeft aan boord"
   - "Zodiacs om aan land te gaan"
-  - "Observatiedek en hottub in het poolgebied"
+  - "Twee hottubs buiten, een sauna en een fitnessruimte"
 bestFor:
   - "Expeditiereizigers"
   - "Natuurliefhebbers"
@@ -21,15 +21,15 @@ bestFor:
   - "Avonturiers"
 seo:
   metaTitle: "MS Fram: expeditiecruise naar Spitsbergen | StayAtNiche"
-  metaDescription: "Met de MS Fram van Hurtigruten naar Spitsbergen: ijsberen, walrussen en gletsjers van dichtbij met Zodiacs en 16 poolexperts aan boord. Vanaf $ 1.500."
+  metaDescription: "MS Fram van HX Expeditions: expeditieschip gebouwd voor poolreizen, voor 200 gasten, met Science Centre, twee restaurants, buitenhottubs en een sauna."
 ---
 
-De oorspronkelijke Fram, het schip van Fridtjof Nansen dat later door Roald Amundsen werd gebruikt voor zijn Antarctische expeditie, voer verder naar het noorden dan enig schip in de vastgelegde geschiedenis en verder naar het zuiden dan enig houten schip ervoor of erna. Het ligt nu in een eigen museum in Oslo, bewaard als nationaal monument. De MS Fram van Hurtigruten, het hedendaagse expeditieschip dat de naam draagt, neemt reizigers mee naar dezelfde Arctische en Antarctische wateren, met een toewijding aan echte ontdekkingsreizen waar de meeste cruisemaatschappijen niet aan kunnen tippen.
+De oorspronkelijke Fram, het schip van Fridtjof Nansen dat later door Roald Amundsen werd gebruikt voor zijn Antarctische expeditie, voer verder naar het noorden dan enig schip in de vastgelegde geschiedenis en verder naar het zuiden dan enig houten schip ervoor of erna. Het ligt nu in een eigen museum in Oslo, bewaard als nationaal monument. De MS Fram van HX Expeditions, het hedendaagse expeditieschip dat de naam draagt, is speciaal gebouwd voor poolreizen.
 
-Het schip is van de kiel tot het dek ontworpen voor poolomstandigheden. De romp is versterkt om door ijs te varen, de vloot van Zodiacs brengt je naar kusten die grotere schepen niet kunnen bereiken, en het team van zestien specialisten, mariene biologen, glaciologen, ornithologen, historici en fotografen, zorgt voor een intellectuele diepgang die de reis veel meer tot een veldcursus maakt dan tot een gewone cruise. Lezingen in het theater van het schip wisselen af met Zodiac-tochten naar gletsjerfronten, leefgebieden van ijsberen, walrusstranden en vogelkliffen waar duizenden kleine alken en papegaaiduikers een oorverdovend lawaai maken.
+Met plaats voor 200 gasten zet de MS Fram de geest voort van het legendarische Noorse ontdekkingsschip dat ooit onder Nansen door het Arctische ijs dreef. In het hart van het schip ligt het Science Centre, waar gasten lezingen volgen, preparaten onder krachtige microscopen bekijken en luisteren naar praatjes van het expeditieteam.
 
-Spitsbergen, de Noorse archipel op 78 graden noorderbreedte, is de belangrijkste zomerbestemming. De archipel telt zo'n 3.000 ijsberen, meer beren dan Longyearbyen inwoners heeft, en een ontmoeting is een reële kans die in de expeditieroute is ingebouwd, geen marketingbelofte met een sterretje. Poolvossen, spitsbergenrendieren, beloega's en de kolonies Atlantische walrussen die zich laat in de zomer op afgelegen stranden verzamelen, horen bij de vaste waarnemingen waar de natuurkenners elke reis naar op zoek gaan.
+Spitsbergen, de Noorse archipel op 78 graden noorderbreedte, is een van de routes die HX Expeditions aanbiedt, en het schip vaart ook naar andere bestemmingen; controleer dus de route van de reis die je boekt.
 
-Op de boeg van de MS Fram staan terwijl ze onder de middernachtzon door het pakijs vaart, met het licht laag en goudkleurig en ijsbergen in tinten van bleek turquoise tot diep kobaltblauw: de meeste reizigers beschrijven het als met niets te vergelijken wat ze ooit hebben gedaan. De afgelegenheid is hier echt. Dit is geen pretparkversie van de wildernis met een vangnet net buiten beeld.
+De MS Fram is een zeereis en geen verblijf op één plek: alle hutten en suites bevinden zich aan boord, en de route bepaalt waar je elke ochtend wakker wordt.
 
-De hutten variëren van praktische tweepersoonshutten tot panoramasuites, allemaal ingericht op de eisen van een poolreis: stevige opbergruimte, warme materialen en ramen die groot genoeg zijn om echt van het Arctische licht te genieten. In het restaurant eet je Noorse gerechten op basis van Arctische ingrediënten: koningskrab, rendier, Arctische zalmforel en desserts met honingbessen die tot het puurste genot horen dat het Noorse landschap voortbrengt.
+De accommodatie loopt van Polar Inside- en Polar Outside-hutten en Arctic Superior-hutten tot Expedition Suites, sommige met eigen balkon. Restaurant Aune is de hoofdeetzaal, waar alle maaltijden inbegrepen zijn; Restaurant Lindstrøm is een specialiteitenrestaurant, inbegrepen voor suitegasten en tegen betaling voor de anderen. Verder zijn er twee hottubs buiten, een sauna op het bovenste dek, een fitnessruimte op dek 7 en de naar voren gerichte Explorer Lounge & Bar.

@@ -21,7 +21,7 @@ seo:
   metaDescription: "Houseboat Arka in Mielno: zelfvoorzienende vakantiewoonboot met twee slaapkamers, dakterras met uitzicht op het Jamno-meer en 200 m naar het strand."
 ---
 
-Houseboat "Arka" is een vakantiewoonboot te huur in Mielno, aan de Poolse Oostzeekust, afgemeerd tussen het Jamno-meer en de zee. De exploitant, Domki na Wodzie, biedt waterhuizen aan, die hij vergelijkt met campers op het water, met dezelfde voor- en nadelen.
+Houseboat "Arka" is een vakantiewoonboot te huur in Mielno, aan de Poolse Oostzeekust, afgemeerd op het terrein van een camping tussen het Jamno-meer en de zee. De exploitant, Domki na Wodzie, biedt waterhuizen aan, die hij vergelijkt met campers op het water, met dezelfde voor- en nadelen.
 
 ## De boot
 
@@ -33,6 +33,6 @@ Het perceel ligt op slechts ongeveer 200 m van de Oostzee en het strand, en de w
 
 ## Praktische info
 
-De woonboot staat op een camping, wat een ontspannen vakantieparksfeer betekent en geen rustige privéligplaats.
+De woonboot staat op een camping, wat een ontspannen vakantieparksfeer betekent en geen rustige privéligplaats. Op de website van de exploitant staan twee boten, Arka I en Arka II; controleer dus welke eenheid je boekt. De boten liggen op het campingterrein, dus het is een vakantiewoning op een campingligplaats en geen tocht op open water.
 
 De Arka is geschikt voor gezinnen en stellen die een andere kustvakantie zoeken, met een meer aan de ene kant en de zee aan de andere. Vraag de exploitant vóór het reserveren naar het seizoen, de boekingsvoorwaarden en wat er is inbegrepen. De pantry maakt zelfcatering mogelijk, en de twee slaapkamers bieden een gezin of twee stellen ruimte.

@@ -3,7 +3,7 @@ name: "Ballygally Castle Hotel"
 category: castle-hotels
 destination: "Ballygally, County Antrim, Northern Ireland"
 country: "United Kingdom"
-description: "A four-star hotel built around a castle of 1625 on the Antrim coast, with 54 bedrooms, a handful of them in the original tower above Ballygally Bay."
+description: "A four-star hotel built around a castle of 1625 on the Antrim coast, with 54 bedrooms, some of them in the original castle building above Ballygally Bay."
 priceRange: "Rates vary"
 highlights:
   - "Castle built in 1625, facing Ballygally Bay and the Irish Sea"
@@ -60,7 +60,7 @@ The old part is a rectangular tower in the Scottish baronial style: four storeys
 
 ## Rooms
 
-The hotel has 54 bedrooms. Most are in later extensions, including the Coastal Deluxe rooms added in 2014, which look straight over the bay; Superior rooms face the walled gardens. If you came for the castle itself, book one of the small number of Tower Bedrooms, which are in the original 17th-century building. At the top, in one of the turrets, is the "ghost room", said to be the bedroom of Lady Isabella Shaw, whose ghost is part of the castle's story. There are also Junior Suites, family and interconnecting rooms, and two fully accessible bedrooms with wet rooms.
+The hotel has 54 bedrooms. The Coastal Deluxe rooms have panoramic views of the bay, and Superior rooms face the walled gardens. If you came for the castle itself, book one of the Tower Bedrooms, which are in the original 17th-century castle building. At the top, in one of the turrets, is the "ghost room", said to be the bedroom of Lady Isabella Shaw, whose ghost is part of the castle's story. There are also Junior Suites, family and interconnecting rooms, and two fully accessible bedrooms with wet rooms.
 
 ## Setting
 
@@ -68,4 +68,4 @@ Ballygally sits on the Causeway Coastal Route, so the hotel works as a base for 
 
 ## Practical notes
 
-Check-in is from 4pm and check-out is by 11am. Only a few rooms are in the old tower, so ask for a Tower Bedroom by name when you book.
+Check-in is from 4pm and check-out is by 11am. Tower Bedrooms are in the old castle building, so ask for one by name when you book.

@@ -6,7 +6,7 @@ highlights:
   - "Normandisch kasteel begonnen tussen 1075 en 1129, Grade I-monument"
   - "Ooit jachthuis van koning Jan"
   - "Jeugdherberg sinds 1948, in een gebouw dat eigendom is van English Heritage"
-  - "Acht slaapkamers voor maximaal 50 personen, waarvan twee in de oostelijke toren"
+  - "Acht slaapkamers voor in totaal ongeveer 64 personen, waarvan drie in de oostelijke toren"
   - "Bedden in gedeelde kamers, privékamers of het hele kasteel"
 amenities:
   - "Zelfverzorgingskeuken"
@@ -34,7 +34,7 @@ St Briavels werd tussen 1075 en 1129 gebouwd als koninklijk bestuurscentrum voor
 
 ## Waar je slaapt
 
-Er zijn acht slaapkamers voor in totaal maximaal 50 mensen, meestal met stapelbedden, plus een paar eenpersoonsbedden en tweepersoonsbedden onder hoge slaapplateaus (high sleepers). De kamers bieden plaats aan drie tot twaalf personen. Twee daarvan liggen in de oostelijke toren. Je kunt een bed boeken in een gedeelde kamer, een privékamer of de hele herberg voor een groep. Beddengoed wordt verstrekt; handdoeken niet, maar die zijn te huur.
+Er zijn acht slaapkamers voor in totaal ongeveer 64 mensen, meestal met stapelbedden, plus een paar eenpersoonsbedden en tweepersoonsbedden onder hoge slaapplateaus (high sleepers). De kamers bieden plaats aan 5 tot 14 personen. Drie daarvan liggen in de oostelijke toren, voor 6, 8 en 10 personen. Je kunt een bed boeken in een gedeelde kamer, een privékamer of de hele herberg voor een groep. Beddengoed wordt verstrekt; handdoeken niet, maar die zijn te huur.
 
 ## Gedeelde ruimtes
 

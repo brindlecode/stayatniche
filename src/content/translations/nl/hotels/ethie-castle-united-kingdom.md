@@ -1,10 +1,10 @@
 ---
 source: ethie-castle-united-kingdom
 destination: "Inverkeilor, bij Arbroath, Angus"
-description: "Een kasteel uit de 14e eeuw van zo'n 1.400 vierkante meter aan de kust van Angus bij Arbroath, sinds de zomer van 2024 te huur, met een reeks suites die elk een eigen naam hebben."
+description: "Een kasteel uit de 14e eeuw van zo'n 1.400 vierkante meter aan de kust van Angus bij Arbroath, aangeboden voor verblijven en exclusief gebruik, met veertien suites die elk een eigen naam hebben."
 highlights:
   - "Kasteel uit de 14e eeuw van ongeveer 1.400 m² bij Arbroath"
-  - "Sinds de zomer van 2024 te huur"
+  - "Veertien benoemde suites, minimaal drie nachten verblijf"
   - "Suites genoemd naar admiraals, schepen en historische figuren"
   - "Kleine kapel en de Cardinal's Sitting Room met een geheime trap"
   - "Landelijke sporten en tijdverdrijf, van valkenierij tot zalmvissen"
@@ -22,7 +22,7 @@ seo:
   metaDescription: "Ethie Castle in Inverkeilor bij Arbroath: een kasteel uit de 14e eeuw aan de kust van Angus, met suites met namen van admiraals en historische figuren."
 ---
 
-Ethie Castle ligt in Inverkeilor, ongeveer vijf kilometer ten noorden van het vissersstadje Arbroath aan de kust van Angus. Het is een kasteel uit de 14e eeuw van zo'n 1.400 vierkante meter, en sinds de zomer van 2024 is het te huur.
+Ethie Castle ligt in Inverkeilor, ongeveer vijf kilometer ten noorden van het vissersstadje Arbroath aan de kust van Angus. Het is een kasteel uit de 14e eeuw van zo'n 1.400 vierkante meter, en het wordt aangeboden voor verblijven, van semi-verzorgd tot volledig exclusief gebruik, met een minimumverblijf van drie nachten. De huidige eigenaar kocht het in november 2013, richtte het kamer voor kamer opnieuw in en opende het voor gasten.
 
 ## Het kasteel
 
@@ -32,7 +32,7 @@ Bij de restauratie is het karakter van het gebouw behouden. Vleugels, torens, to
 
 ## De suites
 
-Gasten slapen in een reeks suites met elk een eigen naam. De namen verwijzen naar de marine en de geschiedenis: Admiral Nelson, Trafalgar, Napoleon, HMS Victory, HMS Britannia, Admiral Collingwood, Sir Walter Scott en onder meer de Antiquary Suite. Vraag het kasteel welke suite het beste bij jouw gezelschap past, want de kamers verschillen sterk van karakter.
+Gasten slapen in een van de veertien suites die elk een eigen naam hebben. De namen verwijzen naar de marine en de geschiedenis: Admiral Nelson, Trafalgar, Napoleon, HMS Victory, HMS Britannia, Admiral Collingwood, Sir Walter Scott en onder meer de Antiquary Suite. Vraag het kasteel welke suite het beste bij jouw gezelschap past, want de kamers verschillen sterk van karakter. Een aangebouwd appartement met twee slaapkamers heeft een eigen badkamer, keuken, woonkamer en aparte ingang.
 
 ## Activiteiten
 

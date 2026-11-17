@@ -1,9 +1,9 @@
 ---
 source: thulhagiri-island-resort-maldives
 destination: "Noord-Malé-atol"
-description: "Een eilandresort in het Noord-Malé-atol, ongeveer 20 minuten per speedboot van het vliegveld, waar 17 kamers overwaterbungalows zijn die boven de lagune zijn gebouwd."
+description: "Een eilandresort in het Noord-Malé-atol, ongeveer 20 minuten per speedboot van het vliegveld, met 37 overwaterbungalows (17 Water Bungalows en 20 Superior Water Bungalows) boven de lagune en 50 strandbungalows."
 highlights:
-  - "17 overwaterbungalows boven de lagune"
+  - "37 overwaterbungalows boven de lagune (17 standaard, 20 superior)"
   - "Uitzicht op de oceaan vanuit de superior bungalows"
   - "Eigen rif om te snorkelen"
   - "Ongeveer 20 minuten per speedboot van het vliegveld van Malé"
@@ -15,10 +15,11 @@ bestFor:
   - "Snorkelaars"
 seo:
   metaTitle: "Thulhagiri: overwaterbungalows op de Malediven | StayAtNiche"
-  metaDescription: "Thulhagiri Island Resort and Spa in het Noord-Malé-atol: 17 overwaterbungalows boven de lagune, een eigen rif om te snorkelen en 20 minuten per speedboot."
+  metaDescription: "Thulhagiri Island Resort and Spa in het Noord-Malé-atol: 37 overwaterbungalows boven de lagune, een eigen rif om te snorkelen en 20 minuten per speedboot."
+niche_feature: "17 Water Bungalows (56 m²) en 20 Superior Water Bungalows (78 m²) boven de lagune, naast 50 Standard Deluxe-strandbungalows."
 ---
 
-Thulhagiri Island Resort and Spa is een klein eilandresort in het Noord-Malé-atol op de Malediven. Zeventien van de kamers zijn overwaterbungalows, die boven de lagune zijn gebouwd. Slechts een deel van het resort staat dus op het water. De overige accommodatie bestaat uit strandvilla's met buitendouches.
+Thulhagiri Island Resort and Spa is een klein eilandresort in het Noord-Malé-atol op de Malediven. Zevenendertig van de kamers zijn overwaterbungalows boven de lagune (17 Water Bungalows en 20 Superior Water Bungalows). Slechts een deel van het resort staat dus op het water. De overige accommodatie bestaat uit 50 Standard Deluxe strandbungalows (strandvilla's) met buitendouches.
 
 ## Boven de lagune
 

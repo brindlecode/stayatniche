@@ -102,6 +102,20 @@ If a fact is unknown, leave the topic out. Prices live only in `priceRange` ("Ra
 body. One closing line that tells readers what to ask the hotel is fine when it helps them choose
 (e.g. "ask for room 105, the carved cave room").
 
+## 3-gate. Gate before anything is committed (required)
+After the English page and its translations are written, and **before `git add`**:
+```
+node pipeline/gate-publish.mjs <slug> [<slug> ...]      # every page written in this run
+```
+It checks each page against the publication rules (niche fields, `location`, `niche_source_url`,
+no `reviewCount` without source, score under the ceiling of its `niche_scope`), then runs `npm test`,
+`npm run build` and `node scripts/check-build.mjs`. A page that fails a rule, or any page when a step
+fails, is set to `status: draft` by the script (exit code 1). For every slug it lists:
+`node pipeline/writer-result.mjs blocked "<id>" "<neden, Türkçe, tek cümle>"` and commit the page as draft.
+Never push a page the gate set to draft as published, and never change a page back to `published` to
+get past the gate. If the gate keeps failing for a reason outside the pages (a broken test on the
+branch), say so in the final message; nothing is published that day.
+
 ## 3a. Expedia hotel page (affiliate link)
 Expedia is the approved hotel partner (the full list of approved programs is `APPROVED` in
 `src/lib/tp-programs.mjs`; link only to those). The "Check rates" buttons go to the stay's own

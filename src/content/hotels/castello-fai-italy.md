@@ -53,7 +53,7 @@ Castello Fai is a restored castle in the historic centre of Fai della Paganella,
 
 The idea is to enjoy the flair of a historic property without giving up modern comfort. The listed features include historical ambience, thermal insulation, a kitchen unit, 1 Gbit/s internet, floor heating, LED lighting, digital TV and a multiroom sound system. The kitchen is equipped with crockery and appliances, and the apartment has a private garden and home automation. For Castello Fai and Residenza delle Contesse, an extra cot for children up to three years and a high chair are provided.
 
-The day starts with the shutters opening onto a view across battlements and meadows to the silhouette of the Paganella. The operator also lists further holiday homes, Residenza delle Contesse and Torre del Baron.
+The day starts with the shutters opening onto a view across battlements and meadows to the silhouette of the Paganella. The Castello Fai apartment, which sleeps up to eight, is made up of the Torre del Baron and Residenza delle Contesse apartments, which the operator also lists on their own.
 
 ## The setting
 

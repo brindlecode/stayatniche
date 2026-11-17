@@ -1,16 +1,16 @@
 ---
 source: venice-simplon-orient-express
 destination: "Von London nach Venedig (und weiter)"
-description: "Einer der bekanntesten Züge der Welt: Der Venice Simplon-Orient-Express ist ein rollendes Museum der Art-déco-Pracht der 1920er-Jahre und fährt mit seinen originalen, restaurierten Wagen über die großen Bahnstrecken Europas. Ob von London nach Venedig, von Paris nach Istanbul oder von den Schweizer Alpen an die Adria – so wurde im goldenen Zeitalter der Eisenbahn gereist: gemächlich, schön und unersetzlich."
+description: "Der Venice Simplon-Orient-Express ist ein rollendes Museum der Art-déco-Pracht der 1920er-Jahre und fährt mit seinen originalen, restaurierten Wagen zu über 15 europäischen Städten. Ob von Paris nach Venedig oder von Istanbul nach Paris – so wurde im goldenen Zeitalter der Eisenbahn gereist: gemächlich und schön."
 highlights:
   - "Originale Pullman- und Schlafwagen aus den 1920er- und 1930er-Jahren, liebevoll restauriert"
-  - "Die Strecke London–Venedig durch die Schweizer Alpen und vorbei an den oberitalienischen Seen"
+  - "Paris–Venedig, eine der Signature-Reisen des Zuges"
   - "Die Strecke Paris–Istanbul, die ursprüngliche Route des Orient-Express"
   - "Dreigängiges Abendessen im Speisewagen, serviert mit weißen Handschuhen"
   - "Neue italienische Routen mit dem La Dolce Vita Orient Express"
-  - "Private Kabinensuiten mit Art-déco-Intarsien und historischer Ausstattung"
+  - "Suiten und Historic Cabins in restaurierten Wagen der 1920er-Jahre mit handgefertigten Möbeln"
 amenities:
-  - "Private Kabinensuiten mit eigenem Bad (Grand Suites auf ausgewählten Strecken)"
+  - "Suiten und Grand Suites mit eigenem Bad; die Historic Cabins nutzen Gemeinschaftstoiletten am Ende jedes Wagens"
   - "Dreigängiges Abendessen im Speisewagen"
   - "Barwagen mit Livemusik am Klavier"
   - "Vollpension auf Nachtstrecken"
@@ -25,30 +25,28 @@ bestFor:
 prosAndCons:
   pros:
     - "Beeindruckende historische Atmosphäre in wirklich originalen Wagen"
-    - "Die Fahrt von London nach Venedig durch die Alpen gehört zu den großen Reiseerlebnissen Europas"
+    - "Paris–Venedig ist eine der Signature-Reisen des Zuges"
     - "Das Dinner an Bord ist ein Ereignis für sich – exzellente Küche in außergewöhnlichem Rahmen"
     - "Das Gefühl eines besonderen Anlasses von der Abfahrt bis zur Ankunft ist mit keiner anderen Reiseform vergleichbar"
   cons:
     - "Die Kabinen sind nach heutigen Maßstäben klein – die Romantik stammt aus einer Zeit, die Nähe über Platz stellte"
-    - "Für die Reisedauer extrem teuer, London–Venedig dauert rund 31 Stunden"
+    - "Für die Reisedauer teuer, Paris–Venedig ist eine Reise über eine Nacht"
     - "Nicht alle Strecken werden ganzjährig befahren, die Planung erfordert Vorlauf"
     - "Im Barwagen kann es bis spät abends laut sein, wenn man früh schlafen möchte"
 seasonalInfo:
   bestTime: Frühling (April–Mai) und Herbst (September–Oktober) für die schönsten Landschaften in den Alpen und Italien
   peakSeason: Sommer (Juni–August) und die Zeit um den Valentinstag
-  notes: Der VSOE fährt auf seiner Paradestrecke London–Venedig das ganze Jahr, auf anderen europäischen Routen saisonal. Der Frühling bietet die frischeste Alpenlandschaft und eine Ankunft im warmen italienischen Frühling. Der Herbst bringt die außergewöhnlichen Farben der Schweizer Wälder und das goldene Licht der italienischen Nachsaison. Eine Winterfahrt kann magisch sein, bei schlechter Sicht kommt die Alpenkulisse aber weniger zur Geltung.
+  notes: Der VSOE fährt zu über 15 europäischen Städten, die Routen wechseln je nach Saison. Der Frühling bietet die frischeste Alpenlandschaft und eine Ankunft im warmen italienischen Frühling. Der Herbst bringt die außergewöhnlichen Farben der Schweizer Wälder und das goldene Licht der italienischen Nachsaison. Eine Winterfahrt kann magisch sein, bei schlechter Sicht kommt die Alpenkulisse aber weniger zur Geltung.
 nearbyAttractions:
   - name: Bahnhof Venezia Santa Lucia
     distance: Endstation
-  - name: Bahnhof London Victoria
-    distance: Ausgangspunkt
   - name: Paris Gare de l'Est
     distance: An der Strecke
   - name: Innsbruck und die österreichischen Alpen
     distance: An der Strecke
 seo:
-  metaTitle: "Venice Simplon-Orient-Express: London–Venedig | StayAtNiche"
-  metaDescription: "Im legendären Venice Simplon-Orient-Express mit originalen Wagen der 1920er-Jahre von London durch die Schweizer Alpen nach Venedig – Luxuszug ab 3.000 $."
+  metaTitle: "Venice Simplon-Orient-Express: Paris–Venedig | StayAtNiche"
+  metaDescription: "Im Venice Simplon-Orient-Express mit originalen Wagen der 1920er-Jahre von Paris nach Venedig, von Istanbul nach Paris und mehr – Luxuszug ab 3.000 $."
 ---
 
 Irgendwo in den Schweizer Alpen, am späten Nachmittag, legt sich der Venice Simplon-Orient-Express in eine lange Kurve, und durch das Fenster wird der Zug in seiner ganzen Länge sichtbar: eine Prozession creme- und marineblauer Wagen vor Bergen und einem unwahrscheinlich blauen Himmel. In diesem Moment fühlt er sich nicht mehr wie ein Verkehrsmittel an. Hier ist das Reisen ein Akt für sich, kein Mittel zum Zweck – es ist selbst das Ziel.
@@ -59,6 +57,6 @@ Die Kabinen sind nach den Maßstäben heutiger Hotelzimmer klein, und das gehör
 
 Der Speisewagen ist der gesellige Mittelpunkt des Zuges und Schauplatz einiger seiner schönsten Freuden. Drei Gänge werden an weiß gedeckten Tischen mit Kristallgläsern und Silberservice serviert, während draußen die Landschaft vorüberzieht: die oberitalienischen Seen in der Abenddämmerung, das französische Land im goldenen Nachmittagslicht. Das Essen ist wirklich gut, greift regionale Traditionen entlang der Strecke auf und wird mit dem Sinn für Inszenierung präsentiert, den der Rahmen verlangt. Der Barwagen mit seinen Lalique-Glasscheiben und dem hauseigenen Pianisten wird zu dem Ort, an dem Gespräche mit Fremden jene Offenheit gewinnen, die nur Bewegung und Distanz hervorbringen.
 
-Die Strecke von London nach Venedig – Abfahrt morgens in London Victoria, über oder unter dem Ärmelkanal per Fähre oder Tunnel, Zustieg in Calais oder Paris, über den Brennerpass durch die Alpen und Ankunft in Venedig am folgenden Nachmittag – führt in einer einzigen durchgehenden Reise durch einige der schönsten Landschaften Europas. Die Route nach Istanbul, die saisonal verkehrt, folgt der ursprünglichen Strecke durch den Balkan und über den Bosporus bis an das asiatische Ufer.
+Die Strecke von Paris nach Venedig gehört zu den Signature-Reisen des Zuges, eine Reise über eine Nacht zwischen den beiden Städten. Die Reise von Istanbul nach Paris dauert fünf Nächte, mit Stationen in Bukarest, Sinaia und Budapest auf dem Weg nach Paris.
 
-Buchen Sie weit im Voraus. Der VSOE gehört zu den begehrtesten Reiseerlebnissen der Welt, und die beliebtesten Strecken und Termine sind viele Monate vorher ausverkauft.
+Buchen Sie weit im Voraus. Die beliebtesten Strecken und Termine sind viele Monate vorher ausverkauft.

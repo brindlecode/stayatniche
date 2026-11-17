@@ -1,9 +1,9 @@
 ---
 source: castello-tafuri-italy
 destination: "Portopalo di Capo Passero, Sicilië"
-description: "Een kasteel aan de zuidpunt van Sicilië, omgebouwd tot achttien kamers en suites, waarvan sommige uitkijken over een oude tonnara en de zee, met een panoramazwembad."
+description: "Een villa in de vorm van een kasteel, begonnen in 1935, aan de zuidpunt van Sicilië, met achttien kamers en suites, waarvan sommige uitkijken over een oude tonnara en de zee, met een panoramazwembad."
 highlights:
-  - "Historisch kasteel in Portopalo di Capo Passero, omgebouwd tot achttien kamers en suites"
+  - "Villa in kasteelstijl (begonnen in 1935) in Portopalo di Capo Passero, met achttien kamers en suites"
   - "Suites met uitzicht op een tonnara en de zee"
   - "Suitebalkons tussen de kantelen van het kasteel"
   - "Panoramazwembad met zonneterras"
@@ -19,9 +19,10 @@ bestFor:
 seo:
   metaTitle: "Castello Tafuri: kasteelhotel Sicilië | StayAtNiche"
   metaDescription: "Castello Tafuri in Portopalo di Capo Passero: kasteel met achttien kamers en suites, panoramazwembad en uitzicht op een oude tonnara en de zee."
+niche_note: "Castello Tafuri is geen middeleeuws kasteel, maar een villa in de vorm van een kasteel, ontworpen in 1933, vanaf 1935 gebouwd en sinds 1964 een hotel."
 ---
 
-Castello Tafuri ligt in Portopalo di Capo Passero, aan de zuidoostpunt van Sicilië, en is omgebouwd tot een klein hotel met achttien kamers en suites. Het kasteel is een versterkt huis met kantelen dat boven de zee uittorent, en de kantelen zijn bewaard gebleven: sommige suites hebben een balkon tussen de kantelen.
+Castello Tafuri ligt in Portopalo di Capo Passero, aan de zuidoostpunt van Sicilië, en is een klein hotel met achttien kamers en suites. Het gebouw is een villa in de vorm van een kasteel, begonnen in 1935 en sinds 1964 in gebruik als hotel. Het heeft kantelen, torent boven de zee uit en heeft die kantelen behouden: sommige suites hebben een balkon tussen de kantelen.
 
 ## De suites
 

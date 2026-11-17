@@ -1,23 +1,21 @@
 ---
 source: night-train-caledonian-sleeper
 destination: "De Londres Euston aux Highlands écossaises"
-description: "Le train de nuit entre Londres et les Highlands écossaises dessert six itinéraires vers Inverness, Aberdeen, Édimbourg, Glasgow, Fort William et au-delà. Ses chambres Club privatives avec salle de bains font de ce trajet de onze heures la nuit d'hébergement la plus efficace de Grande-Bretagne."
+description: "Le train de nuit entre Londres et les Highlands écossaises dessert Inverness, Aberdeen, Édimbourg, Glasgow et Fort William. Ses chambres Club privatives avec salle de bains font de ce trajet de onze heures votre nuit d'hébergement."
 highlights:
-  - "Six itinéraires de nuit qui couvrent tout le réseau ferroviaire écossais"
-  - "Chambres Club privatives avec salle de bains, lits rabattables et fenêtres panoramiques"
+  - "Des itinéraires de nuit vers Inverness, Aberdeen, Édimbourg, Glasgow et Fort William"
+  - "Chambres Club privatives avec salle de bains et lits superposés"
   - "Un trajet de nuit de onze heures qui remplace à la fois un vol et une nuit d'hôtel"
   - "Voiture-salon avec whisky écossais, bières artisanales et repas chauds"
   - "Arrivée au cœur de l'Écosse avant 8 heures, prêt pour une journée complète"
   - "La ligne de Fort William traverse Rannoch Moor : franchir la lande à l'aube en train de nuit est une expérience typiquement britannique"
 amenities:
-  - "Chambre Club privative avec lit double rabattable"
+  - "Chambre Club privative avec lits superposés"
   - "Salle de douche privative (chambres Club)"
-  - "Fenêtres panoramiques pour admirer les paysages à l'aube"
   - "Dîner et petit-déjeuner servis dans la voiture-salon"
   - "Sélection de whiskies écossais dans la voiture-salon"
-  - "Journal du matin offert"
   - "Rangement pour vélos et bagages"
-  - "Wi-Fi dans les espaces communs"
+  - "Wi-Fi gratuit dans les chambres Club"
 bestFor:
   - "Voyageurs qui veulent combiner transport et hébergement en toute efficacité"
   - "Ceux qui souhaitent réduire l'impact environnemental d'un trajet Londres-Écosse"
@@ -53,8 +51,8 @@ seo:
 
 Il faut environ 11 heures pour relier Londres Euston à Inverness. En avion, le même trajet prend moins de 90 minutes. Mais le Caledonian Sleeper ne cherche pas à rivaliser avec l'avion sur son propre terrain. Il fait deux choses à la fois : il vous transporte de Londres jusqu'en Écosse pendant votre sommeil, si bien que vous descendez du train dans les Highlands à 8 heures, une journée entière devant vous et sans note d'hôtel pour la nuit précédente. L'argument de l'efficacité suffit à faire du train de nuit une option pratique. Le trajet lui-même en fait bien davantage.
 
-L'itinéraire de la West Highland Line vers Fort William est l'un des parcours ferroviaires les plus commentés d'Europe. Au nord de Glasgow, la ligne traverse Rannoch Moor — 50 miles de tourbières, de petits lochs et de montagnes au cœur des Highlands écossaises, pratiquement inchangés depuis l'ère glaciaire — avant de descendre vers le loch Treig et de poursuivre jusqu'à la côte ouest. À l'aube, en été, la traversée dure environ 45 minutes, et la lumière qui se lève sur la lande dans l'heure qui précède Fort William a cette nuance si particulière du petit matin écossais que les peintres tentent de restituer depuis le XIXe siècle. Depuis la fenêtre d'une chambre Club, allongé dans un lit rabattable, rideau ouvert, vous la regardez glisser sur la lande au pas.
+L'itinéraire de la West Highland Line vers Fort William est l'un des parcours ferroviaires les plus commentés d'Europe. Au nord de Glasgow, la ligne traverse Rannoch Moor — 50 miles de tourbières, de petits lochs et de montagnes au cœur des Highlands écossaises, pratiquement inchangés depuis l'ère glaciaire — avant de descendre vers le loch Treig et de poursuivre jusqu'à la côte ouest. À l'aube, en été, la traversée dure environ 45 minutes, et la lumière qui se lève sur la lande dans l'heure qui précède Fort William a cette nuance si particulière du petit matin écossais que les peintres tentent de restituer depuis le XIXe siècle. Depuis la fenêtre d'une chambre Club, vous la regardez glisser sur la lande au pas.
 
-Les chambres Club sont privatives, avec salle de bains, lit double rabattable, petit bureau et douche. Elles sont compactes comme l'est tout bon hébergement ferroviaire — non par défaut de conception, mais parce que la physique d'un véhicule sur rails l'impose —, et la qualité du nouveau matériel roulant mis en service par le Caledonian Sleeper à partir de 2019 les rend vraiment confortables pour une nuit à bord. La voiture-salon sert un dîner dont la carte comprend des produits de la mer écossais, et une sélection de whiskies d'une belle ampleur, du Speyside à Islay. Elle se remplit en début de soirée d'un mélange de Highlanders qui rentrent chez eux, de visiteurs qui découvrent le Nord pour la première fois et d'un nombre prévisible de voyageurs pour qui le trajet est en soi la destination.
+Les chambres Club sont privatives, avec salle de bains, douche et lits superposés. Elles sont compactes comme l'est tout bon hébergement ferroviaire — non par défaut de conception, mais parce que la physique d'un véhicule sur rails l'impose —, et la qualité du nouveau matériel roulant mis en service par le Caledonian Sleeper à partir de 2019 les rend vraiment confortables pour une nuit à bord. La voiture-salon sert un dîner dont la carte comprend des produits de la mer écossais, et une sélection de whiskies d'une belle ampleur, du Speyside à Islay. Elle se remplit en début de soirée d'un mélange de Highlanders qui rentrent chez eux, de visiteurs qui découvrent le Nord pour la première fois et d'un nombre prévisible de voyageurs pour qui le trajet est en soi la destination.
 
 Le calcul environnemental est simple : un aller-retour en train entre Londres et Inverness produit environ 50 kg de CO2. Les vols équivalents en produisent quelque 380 kg. Pour qui a l'Écosse à son programme et part de Londres, le Caledonian Sleeper est de loin l'option la plus efficace en temps, la plus avantageuse et la plus sobre — et l'un des rares trajets au Royaume-Uni qui, dans le bon compartiment et à la bonne heure, ait encore des airs de véritable aventure.

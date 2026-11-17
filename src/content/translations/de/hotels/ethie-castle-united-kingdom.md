@@ -1,10 +1,10 @@
 ---
 source: ethie-castle-united-kingdom
 destination: "Inverkeilor bei Arbroath, Angus"
-description: "Ein Schloss aus dem 14. Jahrhundert mit rund 1.400 Quadratmetern an der Küste von Angus bei Arbroath, seit dem Sommer 2024 zur Miete angeboten, mit einer Reihe individuell benannter Suiten."
+description: "Ein Schloss aus dem 14. Jahrhundert mit rund 1.400 Quadratmetern an der Küste von Angus bei Arbroath, für Gästeaufenthalte und zur exklusiven Nutzung angeboten, mit vierzehn individuell benannten Suiten."
 highlights:
   - "Schloss aus dem 14. Jahrhundert, rund 1.400 m², bei Arbroath"
-  - "Seit dem Sommer 2024 zu mieten"
+  - "Vierzehn benannte Suiten, Mindestaufenthalt drei Nächte"
   - "Suiten benannt nach Admiralen, Schiffen und historischen Persönlichkeiten"
   - "Kleine Kapelle und das Cardinal's Sitting Room mit Geheimtreppe"
   - "Landsport und Naturerlebnisse, von der Falknerei bis zum Lachsfischen"
@@ -22,7 +22,7 @@ seo:
   metaDescription: "Ethie Castle in Inverkeilor bei Arbroath: ein Schloss aus dem 14. Jahrhundert mit benannten Suiten, Kapelle und Geheimtreppe an der Küste von Angus."
 ---
 
-Ethie Castle liegt in Inverkeilor, rund fünf Kilometer nördlich der Fischerstadt Arbroath an der Küste von Angus. Das Schloss aus dem 14. Jahrhundert umfasst rund 1.400 Quadratmeter und ist seit dem Sommer 2024 zur Miete verfügbar.
+Ethie Castle liegt in Inverkeilor, rund fünf Kilometer nördlich der Fischerstadt Arbroath an der Küste von Angus. Das Schloss aus dem 14. Jahrhundert umfasst rund 1.400 Quadratmeter und wird für Gästeaufenthalte angeboten, von teilverpflegten Aufenthalten bis zur vollständig exklusiven Nutzung, bei einem Mindestaufenthalt von drei Nächten. Der heutige Eigentümer erwarb es im November 2013, richtete es Zimmer für Zimmer neu ein und öffnete es für Gäste.
 
 ## Das Schloss
 
@@ -32,7 +32,7 @@ Die Restaurierung hat den Charakter des Gebäudes bewahrt. Flügel, Türme, Tür
 
 ## Die Suiten
 
-Die Gäste wohnen in einer Reihe benannter Suiten. Die Namen erzählen von Seefahrt und Geschichte: Admiral Nelson, Trafalgar, Napoleon, HMS Victory, HMS Britannia, Admiral Collingwood, Sir Walter Scott und unter anderem die Antiquary Suite. Fragen Sie das Schloss, welche Suite zu Ihrer Gruppe passt, denn die Zimmer haben jeweils einen eigenen Charakter.
+Die Gäste wohnen in einer von vierzehn benannten Suiten. Die Namen erzählen von Seefahrt und Geschichte: Admiral Nelson, Trafalgar, Napoleon, HMS Victory, HMS Britannia, Admiral Collingwood, Sir Walter Scott und unter anderem die Antiquary Suite. Fragen Sie das Schloss, welche Suite zu Ihrer Gruppe passt, denn die Zimmer haben jeweils einen eigenen Charakter. Ein angeschlossenes Apartment mit zwei Schlafzimmern hat ein eigenes Bad, eine Küche, ein Wohnzimmer und einen separaten Eingang.
 
 ## Aktivitäten
 

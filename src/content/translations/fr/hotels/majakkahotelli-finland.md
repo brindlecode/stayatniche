@@ -21,6 +21,7 @@ bestFor:
 seo:
   metaTitle: "Majakkahotelli : dormir dans un phare | StayAtNiche"
   metaDescription: "Majakkahotelli, sur une île près de Rauma : 15 chambres dans un phare, la plupart avec vue sur la mer, saunas et bains à remous au bord de l'eau."
+niche_feature: "Les 15 chambres de l'hôtel se trouvent toutes dans la tour du phare de Kylmapihlaja, sur une île en pleine mer ; l'île compte aussi huit cottages distincts pour deux personnes, qui ne sont pas dans la tour."
 ---
 
 Majakkahotelli est un hôtel-phare sur une île, à la lisière de la mer ouverte. Toutes ses chambres se trouvent dans la tour du phare, décorées dans un style maritime sobre et confortable. Au-delà de la tour, l'île propose un restaurant, un port de plaisance réservé aux hôtes et huit cottages pour deux personnes.

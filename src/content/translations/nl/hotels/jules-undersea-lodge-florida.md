@@ -1,19 +1,19 @@
 ---
 source: jules-undersea-lodge-florida
 destination: "Key Largo, Florida"
-description: "Jules' Undersea Lodge ligt sinds 1986 op de bodem van een lagune in Key Largo en je komt binnen via een moonpool in de vloer: gasten duiken 6 meter diep om hun kamer te bereiken. Het is daarmee het enige hotel op aarde waar je voor het inchecken een wetsuit nodig hebt."
+description: "Jules' Undersea Lodge, nu beheerd door de non-profitorganisatie MarineLab als Jules' Undersea Lab, ligt op de bodem van een lagune in Key Largo, 22 voet (ongeveer 6,7 meter) onder het oppervlak. Je komt binnen via een moonpool in de vloer, en gebrevetteerde duikers kunnen er slapen tijdens een Aquanaut-missie van 24 uur."
 highlights:
-  - "Het enige echte onderwaterhotel ter wereld, bereikbaar door 6 meter diep te duiken"
-  - "Gasten moeten een duikbrevet hebben of een minicursus duiken van 3 uur volgen"
+  - "Onderwaterhabitat, bereikbaar door 22 voet (ongeveer 6,7 meter) diep te duiken via een moonpool"
+  - "Minstens een Open Water-brevet vereist (leerlingen alleen met hun instructeur)"
   - "Uitzicht op vissen en zeeleven door grote patrijspoorten onder water"
-  - "De lodge deed eerder dienst als onderwateronderzoeksstation"
+  - "Voorheen onderwateronderzoeksstation en exclusief hotel, nu een educatieve attractie"
 amenities:
   - "Slaapkamer onder water met uitzicht door patrijspoorten"
   - "Gedeelde leefruimte en keuken"
-  - "Volledige duikuitrusting aanwezig"
-  - "Pizza en maaltijden onder water bezorgd"
+  - "Flessen, gewichten en drie maaltijden inbegrepen (duikuitrusting te huur)"
+  - "Pizzalunch bezorgd door de Mission Director"
   - "Warme douches en eigen slaapcabines"
-  - "Onbeperkt duiken tijdens je verblijf"
+  - "Begeleide excursieduiken tijdens de missie"
 bestFor:
   - "Gebrevetteerde duikers"
   - "Avonturiers"
@@ -21,13 +21,13 @@ bestFor:
   - "Reizigers die iets onvergetelijks zoeken"
 seo:
   metaTitle: "Jules' Undersea Lodge, Florida | StayAtNiche"
-  metaDescription: "Slapen onder water in Key Largo: bij Jules' Undersea Lodge duik je 6 meter diep en kom je binnen via een moonpool in de vloer. Inchecken doe je in wetsuit."
+  metaDescription: "Jules' Undersea Lab (voorheen Lodge) in Key Largo: 24 uur leven en slapen als aquanaut in een historisch onderwaterhabitat, op 22 voet diepte in Florida."
 ---
 
-Jules' Undersea Lodge is een categorie op zich. Nergens anders ter wereld moeten gasten duikuitrusting aantrekken, afdalen in een lagune en hun verblijf binnengaan via een moonpool in de vloer – en toch doet de lodge precies dat al sinds 1986 in de mangrovelagune van Key Largo Undersea Park. Daarmee is het het eerste en langst draaiende onderwaterhotel ter wereld.
+Jules' Undersea Lodge, tegenwoordig Jules' Undersea Lab genoemd, is een categorie op zich. Deelnemers trekken duikuitrusting aan, duiken af naar de Jules'-lagune van het MarineLab Undersea Park in Key Largo en gaan het habitat binnen via een moonpool in de vloer. De exploitanten noemen het het enige onderwaterhabitat ter wereld waar elke recreatieve duiker onder water kan leven, leren en slapen. Het was een onderwateronderzoeksstation en een exclusief hotel en is nu een educatieve attractie van de non-profitorganisatie MarineLab. Het verblijf is een Aquanaut-missie van 24 uur.
 
-Het bouwwerk begon als onderzoekslaboratorium La Chalupa, een wetenschappelijk habitat dat in de jaren zeventig werd gebruikt door onderzoekers die het mariene milieu van de Florida Keys bestudeerden. In 1986 werd het omgebouwd tot wat het nu is. Het ligt op de bodem van de lagune op ongeveer zes meter diepte, verankerd aan een verzwaarde basis en voorzien van ademlucht die continu vanaf het oppervlak wordt ingepompt. Het interieur – onder druk gezet zodat er geen water binnenkomt via de aan de onderkant open moonpool – bestaat uit een woonruimte met keuken, eettafel en de patrijspoorten, plus twee aparte slaapcabines. De patrijspoorten zijn rond, zo'n 45 centimeter in doorsnee, en zitten zittend op ooghoogte. Erdoorheen zie je voortdurend de bewoners van de lagune: sergeant-majoorvissen, juffertjes, af en toe een barracuda, tandbaarzen die langzaam door de schaduw van het bouwwerk drijven, en de verschillende soorten die de buitenkant in de decennia dat de lodge op de bodem ligt hebben gekoloniseerd.
+Het bouwwerk begon als onderzoekslaboratorium La Chalupa, een wetenschappelijk habitat dat in de jaren zeventig werd gebruikt door onderzoekers die het mariene milieu van de Florida Keys bestudeerden. Het ligt op de bodem van de lagune op 22 voet (ongeveer 6,7 meter) diepte, verankerd aan een verzwaarde basis en voorzien van ademlucht die continu vanaf het oppervlak wordt ingepompt. Het interieur – onder druk gezet zodat er geen water binnenkomt via de aan de onderkant open moonpool – bestaat uit een woonruimte met keuken, eettafel en de patrijspoorten, plus twee aparte slaapcabines. De patrijspoorten zijn rond, zo'n 45 centimeter in doorsnee, en zitten zittend op ooghoogte. Erdoorheen zie je voortdurend de bewoners van de lagune: sergeant-majoorvissen, juffertjes, af en toe een barracuda, tandbaarzen die langzaam door de schaduw van het bouwwerk drijven, en de verschillende soorten die de buitenkant in de decennia dat de lodge op de bodem ligt hebben gekoloniseerd.
 
-De duikvereiste is de kern van de ervaring, en van het soort gast dat erop afkomt. Wie geen brevet heeft, volgt voor de afdaling een introductie van drie uur, en het steeds opnieuw in- en uitgaan van de lodge is zelf een wezenlijk deel van het verblijf. Om 3 uur 's nachts wakker worden in een kamer onder water, een wetsuit aantrekken en door de moonpool een lagune in glijden die alleen verlicht wordt door bioluminescent plankton en het verre licht van het oppervlak: heel weinig mensen op aarde hebben dat gedaan. Het blijft een van de werkelijk extreemste overnachtingen die er zijn.
+De duikvereiste is de kern van de ervaring, en van het soort gast dat erop afkomt. Deelnemers hebben minstens een Open Water-brevet nodig (leerlingen alleen onder begeleiding van hun instructeur) en nemen deel met een duikbuddy, dus alleen boeken kan niet. Het steeds opnieuw in- en uitgaan van de lodge is zelf een wezenlijk deel van het verblijf. Om 3 uur 's nachts wakker worden in een kamer onder water, een wetsuit aantrekken en door de moonpool een lagune in glijden die alleen verlicht wordt door bioluminescent plankton en het verre licht van het oppervlak: heel weinig mensen op aarde hebben dat gedaan. Het blijft een van de werkelijk extreemste overnachtingen die er zijn.
 
-De praktische kant wordt met humor aangepakt. Maaltijden worden door duikende koeriers bezorgd vanuit de keuken aan het oppervlak – de onderwaterpizzabezorging is een van de beroemdste kenmerken van de lodge. De slaapcabines zijn knus maar functioneel, de douches zijn warm, en het geluid van visjes die het glas van de patrijspoort komen inspecteren, is een ongewoon maar volkomen effectief slaapmiddel.
+De praktische kant wordt met humor aangepakt. Drie maaltijden zijn bij de missie inbegrepen, en de pizzalunch die de Mission Director bezorgt, noemen de exploitanten wereldberoemd. De slaapcabines zijn knus maar functioneel, de douches zijn warm, en het geluid van visjes die het glas van de patrijspoort komen inspecteren, is een ongewoon maar volkomen effectief slaapmiddel.

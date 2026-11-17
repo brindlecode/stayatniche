@@ -211,7 +211,7 @@
   "niche_feature": "Could not find an official website or any independent source for a bubble hotel at Pulderbos; searches in English and Dutch returned only generic booking pages for other hotels. Nothing confirms the property exists.",
   "evidence_quote": null,
   "operating": "unknown",
-  "verdict": "keep",
+  "verdict": "draft",
   "new_category": null,
   "closest_category": "bubble-hotels",
   "reason": "No citable source found for this property; cannot confirm bubbles.",
@@ -226,7 +226,9 @@
    "Rating 8.9 and 412 reviews unsupported",
    "bookingUrl is the generic Booking.com homepage",
    "Forest-clearing, hot tub and breakfast details unverifiable"
-  ]
+  ],
+  "agent_verdict": "keep",
+  "editor_note": "Owner decision 2026-11-17: no official source reachable / does not meet the category rule; set to draft with a redirect to the closest category."
  },
  {
   "slug": "wadi-rum-bubble-camp-jordan",
@@ -238,7 +240,7 @@
   "niche_feature": "Could not identify an official site for a camp with this exact name. Many different bubble-tent camps exist in Wadi Rum (e.g. Wild Oryx Camp Bubbles); only booking-site listings surfaced, which cannot be used as sources.",
   "evidence_quote": null,
   "operating": "unknown",
-  "verdict": "keep",
+  "verdict": "draft",
   "new_category": null,
   "closest_category": "bubble-hotels",
   "reason": "No citable source for this exact camp; cannot confirm bubble tents.",
@@ -253,7 +255,9 @@
    "Rating 9.2 and 634 reviews unsupported",
    "bookingUrl is the generic Booking.com homepage",
    "Coordinates are a generic Wadi Rum point"
-  ]
+  ],
+  "agent_verdict": "keep",
+  "editor_note": "Owner decision 2026-11-17: no official source reachable / does not meet the category rule; set to draft with a redirect to the closest category."
  },
  {
   "slug": "whitepod-switzerland",

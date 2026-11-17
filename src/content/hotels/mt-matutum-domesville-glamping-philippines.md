@@ -3,7 +3,7 @@ name: "Mt. Matutum DomesVille Glamping"
 category: bubble-hotels
 destination: "Tupi, South Cotabato"
 country: "Philippines"
-description: "A glamping site of geodesic dome units in South Cotabato, secluded from the activity area, with views of a pineapple plantation and stargazing from the domes."
+description: "A glamping site of geodesic dome units, with a casita, villa, casa and camping tent as well, in South Cotabato, secluded from the activity area, with views of a pineapple plantation and stargazing from the domes."
 priceRange: "Rates vary"
 highlights:
   - "Geodesic dome glamping accommodation in Tupi, South Cotabato"
@@ -39,11 +39,11 @@ niche_source_url: "https://hotels.cloudbeds.com/reservation/KbrUB1"
 niche_verified_at: 2026-11-17
 ---
 
-Mt. Matutum DomesVille Glamping is a camping-style stay in Tupi, South Cotabato, in the Philippines, where the accommodation is a set of dome units rather than hotel rooms. The operator calls the domes eccentric and outstanding camping accommodations, designed to offer a high level of comfort in the outdoors.
+Mt. Matutum DomesVille Glamping is a camping-style stay in Tupi, South Cotabato, in the Philippines, where the accommodation is mainly a set of dome units rather than hotel rooms. The operator calls the domes eccentric and outstanding camping accommodations, designed to offer a high level of comfort in the outdoors.
 
 ## The domes
 
-The units are geodesic domes, and they are set apart from the activity area. That separation is the selling point for couples who want peace and quiet, since the domes are secluded from the rest of the site. The site speaks of unlimited stargazing for you and your partner. The domes are the main attraction, and only the domes are the niche here: this is a glamping site, not a hotel with a single bubble room.
+The units are geodesic domes, and they are set apart from the activity area. That separation is the selling point for couples who want peace and quiet, since the domes are secluded from the rest of the site. The site speaks of unlimited stargazing for you and your partner. The domes are the main attraction, but they are not the only option: the booking page also lists Casita Adrylle, Villa Carliane, Casa del Juancio and a camping tent. This is a glamping site, not a hotel with a single bubble room.
 
 ## The setting
 

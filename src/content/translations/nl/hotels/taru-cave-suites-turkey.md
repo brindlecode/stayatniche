@@ -24,7 +24,7 @@ seo:
   metaDescription: "Taru Cave Suites in Ürgüp: elegante grotkamers, restaurant en bar, gratis parkeren, ballonvaarten, gratis ontbijt en 24-uurs receptie in Cappadocië."
 ---
 
-Taru Cave Suites is een boetiekgrothotel in Ürgüp dat volgens het hotel elegantie, authenticiteit en moderne voorzieningen combineert. De kamers worden beschreven als “elegant ontworpen grotkamers”, dus de grotsfeer geldt voor het hele verblijf.
+Taru Cave Suites is een boetiekgrothotel in Ürgüp dat volgens het hotel elegantie, authenticiteit en moderne voorzieningen combineert. De kamers worden beschreven als “elegant ontworpen grotkamers”, maar de site zegt niet hoe ze gebouwd zijn of hoeveel kamers er zijn.
 
 ## De kamers
 

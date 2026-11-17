@@ -109,6 +109,7 @@ const nl: typeof en = {
     around: (place: string) => `Rond ${place}`,
     save: (name: string) => `${name} bewaren`,
     scoreTitle: 'Redactiescore op 10 (onze eigen beoordeling, geen gastbeoordelingen)',
+    onlySome: 'Slechts een deel van de kamers',
     from: 'Vanaf',
     perNight: '/ nacht',
     seeRates: 'Bekijk prijzen',
@@ -156,6 +157,7 @@ const nl: typeof en = {
     metaTitle: (name: string, dest: string) => `${name} — ${dest} | StayAtNiche`,
     categories: 'Categorieën',
     editorScore: 'redactiescore',
+    closure: { title: 'Tijdelijk gesloten', checked: (date: string) => `Gecontroleerd op ${date}` },
     niche: {
       specific_rooms: (cat: string) => `Slechts een deel van de kamers hoort bij onze categorie “${cat}”; de andere zijn gewone kamers.`,
       experience_only: (cat: string) => `Het kenmerk “${cat}” is hier iets om te bezoeken of te doen, niet de plek waar je slaapt.`,

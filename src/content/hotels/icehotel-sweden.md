@@ -4,13 +4,13 @@ category: ice-hotels
 destination: Jukkasjärvi, Swedish Lapland
 country: Sweden
 continent: Europe
-description: The original ice hotel, rebuilt entirely from frozen Torne River ice every winter since 1990. In summer, ICEHOTEL 365 stays open with 20 suites kept at -5°C year-round, making it a year-round ice hotel and one of the best-known cold-weather stays in the world.
+description: "The original ice hotel, rebuilt entirely from frozen Torne River ice every winter, open every year since 1989. In summer, ICEHOTEL 365 stays open with 18 art and deluxe suites kept at around -5°C year-round, which the hotel calls the world's first year-round ice hotel."
 coverImage: /images/hotels/icehotel-sweden.jpg
 priceRange: "$500 - $1,800"
 priceIndicator: 4
 highlights:
-  - The original ice hotel, in operation since 1990 and among the best known in the world
-  - ICEHOTEL 365 open year-round with 20 refrigerated art suites
+  - "The original ice hotel, open every year since 1989"
+  - "ICEHOTEL 365 open year-round with 18 art and deluxe suites, cooled by solar energy"
   - Winter hotel rebuilt annually by international artists in ice and snow
   - Each art suite is a unique collaboration between artists and architecture
   - Ice bar serving cocktails in carved ice glasses at -5°C
@@ -64,7 +64,7 @@ featured: true
 status: published
 seo:
   metaTitle: "ICEHOTEL 365 Review, The Original Ice Hotel in Swedish Lapland"
-  metaDescription: "The original ice hotel, rebuilt from Torne River ice every winter since 1990. Art suites at -5°C, northern lights, and midnight sun. ICEHOTEL 365 from $500/night."
+  metaDescription: "The original ice hotel, rebuilt from Torne River ice every winter, open since 1989. Art suites at -5°C, northern lights and midnight sun. From $500/night."
 affiliateLinks:
   - partner: "expedia"
     url: "https://www.expedia.com/Hotel-Search?destination=Jukkasj%C3%A4rvi%2C%20Swedish%20Lapland%2C%20Sweden&adults=2"
@@ -89,10 +89,10 @@ niche_verified_at: 2026-11-17
 
 Everything begins with the river. The Torne River, which forms the border between Sweden and Finland as it descends toward the Bothnian Bay, freezes each November to a depth of more than a metre: a mass of exceptionally pure, crystal clear ice that is exceptionally well suited to architectural purposes. It was from this river that Yngve Bergqvist and a team of Japanese artists harvested the first blocks in 1989, and from those blocks they built, experimentally and with no certainty of success, the world's first hotel made entirely from ice.
 
-More than three decades later, ICEHOTEL remains in operation in Jukkasjärvi, a village of some 900 people on the Arctic Circle in Swedish Lapland, and it has never been more extraordinary than it is today.
+More than three decades later, ICEHOTEL remains in operation in Jukkasjärvi, a village of some 900 people on the Arctic Circle in Swedish Lapland.
 
 The winter hotel, rebuilt entirely each year between November and December, is a collaboration between ICEHOTEL's team and a rotating international roster of artists, sculptors, and designers who compete for the right to create a suite. Each successful artist receives a room-sized block of ice and snow and the freedom to do with it what they will. The results, which visitors walk through in the Arctic cold wearing borrowed parkas and thermal boots, constitute one of the world's most unusual annual art exhibitions: rooms carved with motifs drawn from Sámi mythology, from deep-sea biology, from architecture, from film, and from the pure formal vocabulary of negative space and light passing through translucent ice.
 
-ICEHOTEL 365, the year-round refrigerated annex, keeps twenty of the best-loved suites maintained at a constant -5°C throughout the summer months, powered by locally produced solar energy in an operation that is genuinely carbon-neutral by design. This means that the experience is available even when the Torne is a rushing summer river and the midnight sun circles the sky for twenty-two hours, a peculiarly magical counterpoint to the ice within.
+ICEHOTEL 365, the year-round annex, has 18 art and deluxe suites, an ice bar and an experience room, all made from Torne River ice and kept at around -5°C, even in summer, with the help of solar panels. The hotel calls it the world's first year-round ice hotel; it was first launched in November 2016. This means that the experience is available even when the Torne is a rushing summer river and the midnight sun circles the sky, a peculiarly magical counterpoint to the ice within.
 
 Sleeping in the ice rooms is a genuine experience of cold: not dangerous, but present. Guests are briefed thoroughly, issued with high-specification sleeping bags that maintain core temperature to -25°C, and guided to sleep on reindeer-hide-covered ice beds in rooms that hold steady at -5°C throughout the night. The quietness of an ice room at 3am in January, when the northern lights are painting the sky above and the river below is frozen solid to the riverbed, is unlike any other silence. It is the silence of deep winter, of a landscape genuinely at peace with its own nature, and it is the reason people return here, year after year, to sleep in a building that will melt in spring.

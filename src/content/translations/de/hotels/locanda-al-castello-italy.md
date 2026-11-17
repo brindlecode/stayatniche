@@ -1,9 +1,9 @@
 ---
 source: locanda-al-castello-italy
 destination: "Cividale del Friuli, Friaul-Julisch Venetien"
-description: "Charmehotel, Restaurant und Wellnesszentrum wenige Minuten vom Zentrum von Cividale del Friuli entfernt, mit 27 Zimmern, verteilt auf ein altes Herrenhaus des Burgkomplexes und einen modernen Wellnessflügel."
+description: "Charmehotel, Restaurant und Wellnesszentrum wenige Minuten vom Zentrum von Cividale del Friuli entfernt, mit 27 Zimmern, verteilt auf das Herrenhaus, ein ehemaliges Jesuitenkloster aus der Mitte des 19. Jahrhunderts, und einen modernen Wellnessflügel."
 highlights:
-  - "27 Zimmer im alten Herrenhaus und in einem modernen Wellnessflügel"
+  - "27 Zimmer im Herrenhaus aus dem 19. Jahrhundert und in einem modernen Wellnessflügel"
   - "Blick von der Altstadt von Cividale bis zu den Karnischen Alpen"
   - "Wellnesszentrum mit Hallenbad, Kneipp-Anlage und Whirlpool"
   - "Restaurant mit Panoramablick"
@@ -22,13 +22,15 @@ bestFor:
 seo:
   metaTitle: "Charmehotel Locanda al Castello in Cividale | StayAtNiche"
   metaDescription: "Locanda al Castello in Cividale del Friuli: Charmehotel mit Restaurant, Wellnesszentrum mit Hallenbad und Panoramablick auf die Karnischen Alpen."
+niche_note: "Das „Schloss“ ist keine mittelalterliche Festung: Das Herrenhaus ist eine Villa im Burgenstil mit Zinnen aus der Mitte des 19. Jahrhunderts, erbaut als Jesuitenvilla Betlemme. Die Zimmer verteilen sich auf das Herrenhaus und einen modernen Wellnessflügel."
+niche_feature: "27 Zimmer, aufgeteilt auf den „antico maniero“ (eine Villa im Burgenstil mit Zinnen bzw. das Jesuitenkloster „Villa Betlemme“, Mitte des 19. Jahrhunderts) und einen modernen Wellnessflügel; die Zahl je Flügel ist nicht angegeben."
 ---
 
-Die Locanda al Castello vereint Hotel, Restaurant und Wellnesszentrum an einem Ort, wenige Minuten vom Zentrum von Cividale del Friuli entfernt. Die Anlage ist ein Burgkomplex mit Zinnen und Panoramaterrassen, die auch als Kulisse für Hochzeiten dienen.
+Die Locanda al Castello vereint Hotel, Restaurant und Wellnesszentrum an einem Ort, wenige Minuten vom Zentrum von Cividale del Friuli entfernt. Die Anlage ist ein Komplex im Burgstil mit Zinnen, das ehemalige Jesuitenkloster Villa Betlemme aus der Mitte des 19. Jahrhunderts, mit Panoramaterrassen, die auch als Kulisse für Hochzeiten dienen.
 
 ## Herrenhaus oder Wellnessflügel
 
-Das Charmehotel verfügt über 27 Zimmer, entweder Junior Suiten oder Superior Doppelzimmer. Sie verteilen sich auf zwei Gebäudeteile: das alte Herrenhaus und einen modernen Panoramaflügel, der direkt mit dem Wellnesszentrum und seinem Hallenbad und Spa verbunden ist. Nur die Zimmer im Herrenhaus befinden sich im alten Schlossgebäude. Wenn Sie vor allem das historische Ambiente suchen, fragen Sie ausdrücklich eines davon an.
+Das Charmehotel verfügt über 27 Zimmer, entweder Junior Suiten oder Superior Doppelzimmer. Sie verteilen sich auf zwei Gebäudeteile: das Herrenhaus und einen modernen Panoramaflügel, der direkt mit dem Wellnesszentrum und seinem Hallenbad und Spa verbunden ist. Nur die Zimmer im Herrenhaus befinden sich im ursprünglichen Gebäude. Wenn Sie vor allem das historische Ambiente suchen, fragen Sie ausdrücklich eines davon an. Das Hotel nennt nicht, wie viele der 27 Zimmer im Herrenhaus liegen.
 
 Alle Zimmer verfügen über WLAN, Minibar, Klimaanlage, Satellitenfernsehen, Safe und Telefon. Der Blick reicht vom historischen Zentrum von Cividale über die grünen Hügel im Osten bis zum alten Kloster Castelmonte und zum Kamm der Karnischen Alpen, deren Gipfel Monte Canin und Matajur im Winter schneebedeckt sind. Das Frühstück ist im Zimmerpreis enthalten.
 

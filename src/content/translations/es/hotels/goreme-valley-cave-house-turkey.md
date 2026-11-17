@@ -18,9 +18,10 @@ bestFor:
 seo:
   metaTitle: "Göreme Valley Cave House: casa cueva en Göreme | StayAtNiche"
   metaDescription: "Göreme Valley Cave House en Göreme: casa de huéspedes con tres habitaciones cueva, habitaciones familiares para hasta siete personas y Wi-Fi en todas."
+niche_feature: "Solo 3 de las habitaciones de la casa de huéspedes son habitaciones cueva subterráneas excavadas en roca auténtica; las demás (3 estándar, 5 familiares y 6 suites) no se describen como habitaciones cueva."
 ---
 
-Göreme Valley Cave House se define como «tu hogar lejos de casa» y es más una casa de huéspedes que un gran hotel. La parte de cueva es solo parcial: la web oficial recoge tres habitaciones cueva subterráneas entre sus habitaciones estándar, familiares y suites, así que la mayoría son convencionales.
+Göreme Valley Cave House se define como «tu hogar lejos de casa» y es más una casa de huéspedes que un gran hotel. La parte de cueva es solo parcial: la web oficial recoge tres habitaciones cueva subterráneas entre sus habitaciones estándar, familiares y suites, así que la mayoría son convencionales. La web indica un total de 17 habitaciones (3 estándar, 3 cueva, 5 familiares y 6 suites) y precisa que la casa de huéspedes solo aloja a 60 personas a la vez.
 
 ## Las habitaciones
 

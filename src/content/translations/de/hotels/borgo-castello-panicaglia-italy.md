@@ -21,13 +21,14 @@ bestFor:
 seo:
   metaTitle: "Borgo Castello Panicaglia: Schloss in Umbrien | StayAtNiche"
   metaDescription: "Borgo Castello Panicaglia in Umbrien: Gästehaus im Schloss von 1266, mit Pool, Restaurant, Kochkursen und Zimmern mit eigenen Namen, 800 Meter hoch gelegen."
+niche_feature: "Zimmer in einem Schloss aus dem Jahr 1266 im Borgo von Panicaglia; die Website listet rund 17 benannte Zimmer und Suiten sowie das Ferienhaus Michele, das an das Hotel angrenzt und nicht im Schloss liegt."
 ---
 
 Borgo Castello Panicaglia befindet sich in einem Schloss aus dem Jahr 1266 im kleinen mittelalterlichen Dorf Panicaglia in Umbrien. Es liegt auf 800 Metern Höhe mit Blick über die umbrischen Berge und wird als Gästehaus geführt, in dem Sie am Familienleben teilhaben können: einen Blick in die Küche werfen, im Gemüsegarten mithelfen oder sich in eine der vielen Lounge-Ecken zurückziehen.
 
 ## Die Zimmer
 
-Das Schloss hat ungewöhnlich viele Zimmer, und jedes trägt einen eigenen Namen. Das Spektrum reicht von Doppel- und Dreibettzimmern bis zu Luxussuiten und Familiensuiten. Das Zimmer Raffaele ist ein 35 m² großes Doppelzimmer mit Luxusbad und einer kleinen privaten Terrasse im ersten Stock des Haupthauses. Angelo ist eine 45 m² große Luxussuite mit eigenem Eingang, Mariastella eine 55 m² große Familiensuite für fünf Personen und Cardinale Pietro Marini eine 60 m² große Deluxe-Suite für zwei bis vier Personen. Giovanni ist ein 35 m² großes Doppelzimmer, das für Gäste mit eingeschränkter Mobilität geeignet ist. Einige benachbarte Zimmer, etwa Raffaele und Caterina, lassen sich zu einer Suite für vier Personen verbinden.
+Das Gästehaus hat ungewöhnlich viele Zimmer, und jedes trägt einen eigenen Namen. Das Spektrum reicht von Doppel- und Dreibettzimmern bis zu Luxussuiten und Familiensuiten. Das Zimmer Raffaele ist ein 35 m² großes Doppelzimmer mit Luxusbad und einer kleinen privaten Terrasse im ersten Stock des Haupthauses. Angelo ist eine 45 m² große Luxussuite mit eigenem Eingang, Mariastella eine 55 m² große Familiensuite für fünf Personen und Cardinale Pietro Marini eine 60 m² große Deluxe-Suite für zwei bis vier Personen. Giovanni ist ein 35 m² großes Doppelzimmer, das für Gäste mit eingeschränkter Mobilität geeignet ist. Einige benachbarte Zimmer, etwa Raffaele und Caterina, lassen sich zu einer Suite für vier Personen verbinden. Zur vollständigen Liste gehören außerdem Rosa, Olimpia, Tobia, Assunta, Sabatina, Luigi, Gaspera, Geltrude, Daniele und Sante sowie das Ferienhaus Michele, das ans Hotel angeschlossen ist und nicht im Schloss liegt. Nicht jedes Zimmer befindet sich im Haupthaus: Daniele und Geltrude liegen zum Beispiel in einem Nebengebäude.
 
 Jedes Zimmer verfügt über ein eigenes Bad sowie Tee- und Kaffeemöglichkeiten, und im Preis ist das Frühstück enthalten. Dicke Mauern und Balkendecken gehören zum Charakter des Hauses, ebenso der Blick über die umbrischen Hügel.
 

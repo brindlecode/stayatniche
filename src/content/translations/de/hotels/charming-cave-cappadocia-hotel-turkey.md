@@ -1,9 +1,9 @@
 ---
 source: charming-cave-cappadocia-hotel-turkey
 destination: "Göreme, Nevşehir"
-description: "Ein Gästehaus in Göreme mit in den natürlichen Fels gehauenen Zimmern, einer Terrasse mit Blick auf Heißluftballons und Flughafentransfers ab Nevşehir und Kayseri."
+description: "Ein Gästehaus in Göreme, das nach eigener Aussage aus dem natürlichen Fels gehauen ist, mit fünf Standard-Höhlenzimmern und einer Höhlensuite unter fünfzehn Zimmern, einer Terrasse mit Blick auf Heißluftballons und Flughafentransfers ab Nevşehir und Kayseri."
 highlights:
-  - "In den natürlichen Fels gehauene Zimmer"
+  - "Nach eigener Aussage aus dem Fels gehauen; fünf Standard-Höhlenzimmer und eine Höhlensuite unter fünfzehn Zimmern"
   - "Zimmerarten: Höhlenzimmer, Steinzimmer, Dreibett-Suite und Junior Suiten"
   - "Blick auf Heißluftballons von der Terrasse"
   - "Flughafentransfers von den Flughäfen Nevşehir und Kayseri"
@@ -19,10 +19,11 @@ bestFor:
   - "Paare"
 seo:
   metaTitle: "Charming Cave Cappadocia Hotel: Höhlenhotel | StayAtNiche"
-  metaDescription: "Charming Cave Cappadocia Hotel in Göreme: Gästehaus mit Höhlenzimmern im Fels, Ballonblick von der Terrasse und Flughafentransfers ab Nevşehir und Kayseri."
+  metaDescription: "Charming Cave Cappadocia Hotel in Göreme: Gästehaus mit fünf Standard-Höhlenzimmern, Ballonblick von der Terrasse und Transfers ab Nevşehir und Kayseri."
+niche_feature: "Fünfzehn Zimmer: Fünf Standard Cave Rooms (301-305) im Innenhof sowie eine Cave Suite (103) sind Höhlenzimmer; die Standard und Deluxe Stone Rooms, Junior Suiten und weitere sind aus Stein gebaut oder anderer Art."
 ---
 
-Das Charming Cave Cappadocia Hotel ist ein Gästehaus in Göreme, dessen Zimmer, so die Eigenaussage, aus dem natürlichen Fels gehauen sind. Es ist seit über zehn Jahren in Betrieb und beschreibt fünfzehn stilvoll gestaltete Zimmer für einen komfortablen, entspannten Aufenthalt. Die Website kombiniert Höhlenzimmer mit Steinzimmern, daher lohnt es sich, bei der Buchung ausdrücklich ein Höhlenzimmer anzufragen.
+Das Charming Cave Cappadocia Hotel ist ein Gästehaus in Göreme, das nach eigener Aussage aus dem natürlichen Fels gehauen ist. Es ist seit über zehn Jahren in Betrieb und beschreibt fünfzehn stilvoll gestaltete Zimmer für einen komfortablen, entspannten Aufenthalt. Die Website kombiniert Höhlenzimmer mit Steinzimmern, daher lohnt es sich, bei der Buchung ausdrücklich ein Höhlenzimmer anzufragen. Nur die fünf Standard-Höhlenzimmer und die Höhlensuite werden als Höhlenzimmer beschrieben; die Aussagen der Website zum Felsausbau sind allgemein gehalten und nicht zimmerweise angegeben.
 
 ## Die Zimmer
 

@@ -23,7 +23,7 @@ seo:
   metaDescription: "Seki Cave Hotel en Çavuşin, cerca de Göreme: terrazas privadas para ver los globos, jacuzzi en la azotea, hamam y recepción 24 horas en Capadocia."
 ---
 
-El Seki Cave Hotel está en Çavuşin, un pueblo a unos 3 km de Göreme. Su nombre procede de la palabra turca para designar las plataformas en terraza, y las terrazas son el gran atractivo: según el hotel, desde una terraza privada se pueden ver el amanecer, el atardecer y los globos aerostáticos. La web presenta todo el establecimiento como un hotel cueva.
+El Seki Cave Hotel está en Çavuşin, un pueblo a unos 3 km de Göreme. Su nombre procede de la palabra turca para designar las plataformas en terraza, y las terrazas son el gran atractivo: según el hotel, desde una terraza privada se pueden ver el amanecer, el atardecer y los globos aerostáticos. La web promete «auténticas habitaciones cueva», aunque algunas habitaciones twin y dobles de su lista no se describen como cueva, así que pregunta al reservar.
 
 ## Qué ofrece
 

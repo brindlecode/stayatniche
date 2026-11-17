@@ -21,10 +21,10 @@ bestFor:
   - "Couples"
 seo:
   metaTitle: "Transfagarasan Treehouse Village : cabanes | StayAtNiche"
-  metaDescription: "Transfagarasan Treehouse Village, cabanes suspendues près d'Arefu en Roumanie : un village perché dans les monts Făgăraș, inspiré du shinrin-yoku."
+  metaDescription: "Transfagarasan Treehouse Village, cabanes suspendues sur la Transfăgărășan en Roumanie : un village perché dans les monts Făgăraș, inspiré du shinrin-yoku."
 ---
 
-Transfagarasan Treehouse Village est un petit ensemble de maisons suspendues dans les arbres, près d'Arefu, du côté de la Transfăgărășan dans les monts Făgăraș, en Roumanie. Les propriétaires travaillent sur le projet depuis 2016. Inspiré du shinrin-yoku, le bain de forêt japonais, il offre un refuge en pleine nature, en harmonie avec son environnement.
+Transfagarasan Treehouse Village est un petit ensemble de maisons suspendues dans les arbres, sur la route Transfăgărășan (DN7C, km 75), dans les monts Făgăraș, en Roumanie. Les propriétaires travaillent sur le projet depuis 2016. Inspiré du shinrin-yoku, le bain de forêt japonais, il offre un refuge en pleine nature, en harmonie avec son environnement.
 
 ## Les cabanes
 
@@ -36,6 +36,6 @@ Il y a un sauna, et le restaurant est construit autour d'un fumoir de style texa
 
 ## Le cadre
 
-La forêt est au cœur du séjour. On se réveille dans la canopée, entouré de paysages de montagne, et le village est assez petit pour offrir une vraie impression d'intimité.
+La forêt est au cœur du séjour. On se réveille au milieu de la forêt, au cœur des monts Făgăraș, et le village est assez petit pour offrir une vraie impression d'intimité.
 
 Le village convient aux familles et à ceux qui prévoient de rouler sur la route Transfăgărășan et souhaitent passer une nuit dans les arbres. Renseignez-vous sur le type de cabane adapté à votre groupe avant de réserver, car les capacités varient.

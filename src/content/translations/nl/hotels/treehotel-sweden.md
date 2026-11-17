@@ -1,9 +1,9 @@
 ---
 source: treehotel-sweden
 destination: Harads, Zweeds Lapland
-description: Zeven door architecten ontworpen kamers tussen de dennen van Zweeds Lapland, elk een compleet eigen concept, van een volmaakt spiegelende kubus die in het bos verdwijnt tot een zilveren schijf aan een touwbrug. Zestig kilometer ten zuiden van de poolcirkel is dit een van de meest vindingrijke slaapplekken van Europa.
+description: Negen aparte, door architecten ontworpen kamers tussen de dennen van Zweeds Lapland, elk een compleet eigen concept, van een volmaakt spiegelende kubus die in het bos verdwijnt tot een zilveren schijf aan een touwbrug.
 highlights:
-  - Zeven unieke kamers, ontworpen door architecten
+  - Negen unieke kamers, ontworpen door architecten
   - De Mirrored Cube, die het bos weerspiegelt
   - Noorderlicht in de winter
   - "Wildernisactiviteiten: hondensleeën, sneeuwschoenwandelen"
@@ -21,10 +21,11 @@ bestFor:
   - Designliefhebbers
 seo:
   metaTitle: "Treehotel: slapen in een boomhut in Zweden | StayAtNiche"
-  metaDescription: "Slapen in een boomhut in Zweeds Lapland: Treehotel in Harads heeft zeven designkamers tussen de dennen, zoals de Mirrored Cube, met kans op noorderlicht."
+  metaDescription: "Slapen in een boomhut in Zweeds Lapland: Treehotel in Harads heeft negen designkamers tussen de dennen, zoals de Mirrored Cube, met kans op noorderlicht."
+niche_feature: "Negen aparte designboomkamers (Mirrorcube, UFO, Bird's Nest, Cabin, 7th Room en andere) tussen de dennen; het aparte Guesthouse (zes kamers met historisch karakter) is geen boomhut."
 ---
 
-Zeven architecten kregen elk een den en de vraag er een kamer in te bouwen. Het resultaat, in het bos van het Lule-dal bij het dorp Harads, 60 kilometer ten zuiden van de poolcirkel, zijn enkele van de meest gefotografeerde hotelkamers ter wereld, en die aandacht is terecht.
+De kamers van Treehotel zijn elk een unieke creatie van verschillende architecten en ontwerpteams. Ze staan in het bos van het Lule-dal bij het dorp Harads, dat ongeveer 50 kilometer ten zuiden van de poolcirkel ligt.
 
 Elke kamer van Treehotel is een eigen architectonisch statement:
 
@@ -34,6 +35,6 @@ Elke kamer van Treehotel is een eigen architectonisch statement:
 
 **The UFO** is een zilveren schijf aan een touwbrug, die je bereikt via een wiebelende loopbrug en binnengaat door een luik. Klein, maar de sfeer van iets uit een ander tijdperk dat tussen de dennen zweeft, is een beloning op zich.
 
-De overige kamers, de 7th Room, de Cabin en de Dragon Fly, maken de collectie compleet, elk ontworpen door andere ontwerpers.
+De overige kamers, de 7th Room, de Cabin, de Dragonfly, de Biosphere, de Blue Cone en de Oasis, maken de negen kamers van de officiële website compleet. Het aparte Guesthouse is geen boomhut.
 
 Het landschap van Zweeds Lapland verandert sterk per seizoen. De zomer brengt de middernachtzon en lange, gouden avonden op het terras in de boomtoppen. De winter brengt de kans op noorderlicht vanuit je bed, en een besneeuwd bos dat je met de hondenslee of op sneeuwschoenen verkent. Activiteiten, van ijsvissen op de rivier tot elandsafari's en wandelingen om in het wild te plukken, worden geregeld via de hoofdlodge. De maaltijden worden geserveerd in het gebouw Granön aan de rivieroever beneden, met een keuken die draait om lokale ingrediënten uit Lapland.

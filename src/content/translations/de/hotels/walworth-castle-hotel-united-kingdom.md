@@ -20,13 +20,14 @@ bestFor:
 seo:
   metaTitle: "Walworth Castle: Schlosshotel bei Darlington | StayAtNiche"
   metaDescription: "Walworth Castle bei Darlington: Burg aus dem 12. Jahrhundert mit Burgzimmern, Himmelbett-Suiten in den Türmen und der King James Suite, auf 18 Acres Grün."
+niche_feature: "Die Schlosszimmer, Himmelbett-Suiten (einige in den Türmen) und die King James I Suite liegen im Hauptschloss; die Zimmer im Anbau befinden sich in einem angrenzenden modernen Gebäude, dazu kommen eine Lodge im Torhaus (6 Gäste) und ein Ferienhäuschen."
 ---
 
 Walworth Castle ist ein unter Denkmalschutz stehendes Gebäude (Grade I) mit Ursprüngen im 12. Jahrhundert, nahe Darlington in County Durham. Der heutige Bau wurde um 1600 fertiggestellt, vermutlich von Thomas Holt für Thomas Jenison, an der Stelle eines älteren Herrenhauses oder einer Burg der Familie Hansard. Im Zweiten Weltkrieg diente es als Kriegsgefangenenlager. Heute wird hier ein Hotel betrieben, das sich als einzige Burg Darlingtons bezeichnet.
 
 ## Die Zimmer
 
-Das Hotel bietet eine Reihe unterschiedlicher Zimmer, sowohl in der Burg selbst als auch an anderer Stelle auf dem Gelände. Die Burgzimmer haben Zweibett- oder Doppelbetten und liegen im Hauptgebäude. Die größten sind die Himmelbett-Suiten, die besonders geräumig sind; einige davon befinden sich in den Burgtürmen. Am bekanntesten ist die King James Suite. Belegt ist, dass König Jakob VI. von Schottland am 14. April 1603 in den Räumen übernachtete, in denen heute die Suite liegt. Derzeit werden die Zimmer renoviert, sodass manche frisch wirken, ohne ihren individuellen Charakter zu verlieren.
+Nicht jedes Zimmer liegt im Hauptgebäude der Burg. Die Annex-Zimmer mit Doppel- oder Zweibettbetten befinden sich in einem angrenzenden Gebäude neben der Burg, das Walworth Castle Lodge am Eingang des Hotels bietet Platz für sechs Gäste, und außerdem gibt es ein separates Holiday Cottage mit zwei Schlafzimmern. Die Burgzimmer haben Zweibett- oder Doppelbetten und liegen im Hauptgebäude. Die größten sind die Himmelbett-Suiten, die besonders geräumig sind; einige davon befinden sich in den Burgtürmen. Am bekanntesten ist die King James Suite. Belegt ist, dass König Jakob VI. von Schottland am 14. April 1603 in den Räumen übernachtete, in denen heute die Suite liegt. Derzeit werden die Zimmer renoviert, sodass manche frisch wirken, ohne ihren individuellen Charakter zu verlieren.
 
 ## Essen und Trinken
 

@@ -1,11 +1,11 @@
 ---
 source: sultan-cave-suites-turkey
 destination: "Göreme, Nevşehir"
-description: "Een hotel met 35 kamers op de Aydınlı-heuvel boven Göreme, gebouwd op oude grotwoningen waarvan de originele grotwanden bewaard zijn gebleven, met het restaurant Seten, opgenomen in de Michelin Guide 2026."
+description: "Een hotel met 35 kamers op de Aydınlı-heuvel boven Göreme, gebouwd op oude grotwoningen waarvan de originele grotwanden bewaard zijn gebleven, met het restaurant Seten, dat volgens het hotel is opgenomen in de Michelin Guide 2026."
 highlights:
   - "35 kamers, van Classic Rooms tot Sultan Suites, in grot- en steenstijl"
   - "Gebouwd op oude grotwoningen, met de originele grotwanden bewaard"
-  - "Restaurant Seten op het terrein staat in de Michelin Guide 2026"
+  - "Restaurant Seten op het terrein staat volgens het hotel in de Michelin Guide 2026"
   - "Uitzicht op ballonnen vanuit veel kamers en terrassen"
   - "Op de Aydınlı-heuvel boven het dorp Göreme"
 amenities:

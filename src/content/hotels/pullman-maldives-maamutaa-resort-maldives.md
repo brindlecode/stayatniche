@@ -3,10 +3,10 @@ name: "Pullman Maldives Maamutaa Resort"
 category: underwater-rooms
 destination: "Maamutaa Island, Gaafu Alifu Atoll"
 country: "Maldives"
-description: "Only the Aqua Villas at this island resort have an underwater bedroom; the rest of the resort is ordinary beach and overwater villas. Each Aqua Villa pairs a submerged bedroom with an overwater bedroom upstairs."
+description: "Only the resort's two Aqua Villas have an underwater bedroom; the rest of the resort is ordinary beach and overwater villas. Each Aqua Villa pairs a submerged bedroom with an overwater bedroom upstairs."
 priceRange: "Rates vary"
 highlights:
-  - "Aqua Villas have a submerged bedroom beneath the lagoon, with a view of marine life"
+  - "The two Aqua Villas have a submerged bedroom beneath the lagoon, with a view of marine life"
   - "Two-level Aqua Villa of 209 square metres with an overwater bedroom and a large swimming pool with a private deck"
   - "All other accommodation is beach or overwater villas without an underwater room"
   - "Private island of 18 hectares of vegetation with 122 villas"
@@ -45,7 +45,7 @@ niche_source_url: "https://www.pullmanmaldivesmaamutaa.com/villas-suites/underwa
 niche_verified_at: 2026-11-17
 ---
 
-Only the Aqua Villas at Pullman Maldives Maamutaa have an underwater bedroom. The rest of the resort is ordinary beach and overwater villas, which have no submerged room. Anyone booking for the underwater night should choose the Aqua Villa specifically.
+Only the two Aqua Villas at Pullman Maldives Maamutaa have an underwater bedroom. The rest of the resort is ordinary beach and overwater villas, which have no submerged room. Anyone booking for the underwater night should choose the Aqua Villa specifically.
 
 ## The Aqua Villa
 

@@ -31,7 +31,7 @@ Castello Fai es un castillo restaurado en el centro histórico de Fai della Paga
 
 La idea es disfrutar del encanto de un edificio histórico sin renunciar a la comodidad moderna. Entre las características anunciadas figuran el ambiente histórico, el aislamiento térmico, una zona de cocina, internet de 1 Gbit/s, calefacción de suelo radiante, iluminación LED, televisión digital y un sistema de sonido multiroom. La cocina está equipada con vajilla y electrodomésticos, y el apartamento cuenta con jardín privado y domótica. En Castello Fai y en la Residenza delle Contesse se ofrece una cuna extra para niños de hasta tres años y una trona.
 
-El día empieza al abrir las contraventanas, con vistas sobre las almenas y los prados hasta la silueta de la Paganella. El operador también ofrece otras casas vacacionales: la Residenza delle Contesse y la Torre del Baron.
+El día empieza al abrir las contraventanas, con vistas sobre las almenas y los prados hasta la silueta de la Paganella. El apartamento Castello Fai, con capacidad para hasta ocho personas, se compone de los apartamentos Torre del Baron y Residenza delle Contesse, que el operador también ofrece por separado.
 
 ## El entorno
 

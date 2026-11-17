@@ -1,11 +1,11 @@
 ---
 source: sultan-cave-suites-turkey
 destination: "Göreme, Nevşehir"
-description: "Un hôtel de 35 chambres sur la colline d’Aydınlı, au-dessus de Göreme, bâti sur d’anciennes maisons troglodytes dont les parois d’origine ont été conservées, et abritant le restaurant Seten, cité dans le Guide Michelin 2026."
+description: "Un hôtel de 35 chambres sur la colline d’Aydınlı, au-dessus de Göreme, bâti sur d’anciennes maisons troglodytes dont les parois d’origine ont été conservées, et abritant le restaurant Seten, qui, selon l’hôtel, est cité dans le Guide Michelin 2026."
 highlights:
   - "35 chambres, des Classic Rooms aux Sultan Suites, dans un style troglodyte et pierre"
   - "Bâti sur d’anciennes maisons troglodytes aux parois d’origine préservées"
-  - "Le restaurant Seten, sur place, figure dans le Guide Michelin 2026"
+  - "Le restaurant Seten, sur place, figure dans le Guide Michelin 2026, selon l’hôtel"
   - "Vue sur les montgolfières depuis de nombreuses chambres et terrasses"
   - "Sur la colline d’Aydınlı, au-dessus du village de Göreme"
 amenities:

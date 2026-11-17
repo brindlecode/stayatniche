@@ -21,6 +21,7 @@ bestFor:
 seo:
   metaTitle: "Majakkahotelli: Leuchtturmhotel in Finnland | StayAtNiche"
   metaDescription: "Majakkahotelli auf einer Insel vor Rauma: 15 Zimmer im Leuchtturm, meist mit Meerblick, dazu Saunen und Whirlpools am Ufer und Ferienhäuschen."
+niche_feature: "Alle 15 Hotelzimmer liegen im Leuchtturm Kylmapihlaja auf einer Insel in der offenen See; auf der Insel gibt es außerdem acht separate Cottages für je zwei Personen, die nicht im Turm liegen."
 ---
 
 Majakkahotelli ist ein Leuchtturmhotel auf einer Insel am Rand des offenen Meeres. Jedes Gästezimmer liegt im Leuchtturmturm und ist in einem schlichten, gemütlichen maritimen Stil eingerichtet. Außerhalb des Turms bietet die Insel ein Restaurant, einen Gästehafen und acht Ferienhäuschen für zwei Personen.

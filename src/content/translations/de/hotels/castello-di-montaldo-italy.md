@@ -1,10 +1,10 @@
 ---
 source: castello-di-montaldo-italy
 destination: "Montaldo Torinese, Piemont"
-description: "Ein Hotel und Spa der Kategorie 4 Sterne Superior in einer mittelalterlichen Burg, 20 Minuten von Turin, mit 20 Suiten und 19 Zimmern."
+description: "Ein Hotel und Spa der Kategorie 4 Sterne Superior in einer mittelalterlichen Burg, 20 Minuten von Turin, mit 20 Doppelzimmern und 19 Suiten."
 highlights:
   - "4-Sterne-Superior-Hotel in einer mittelalterlichen Burg"
-  - "20 Suiten und 19 Zimmer"
+  - "20 Doppelzimmer und 19 Suiten"
   - "3.000 m² Spa mit Saunaritualen, geleitet von Saunameistern"
   - "Rund 20 Minuten von Turin entfernt"
   - "Restaurant Du Château und die Enoteca Crotin"
@@ -20,14 +20,14 @@ bestFor:
   - "Hochzeiten"
 seo:
   metaTitle: "Castello di Montaldo: Schlosshotel bei Turin | StayAtNiche"
-  metaDescription: "Castello di Montaldo: 4-Sterne-Superior-Hotel und Spa in einer mittelalterlichen Burg bei Turin, mit 20 Suiten, 19 Zimmern und 3.000 m² Wellnessbereich."
+  metaDescription: "Castello di Montaldo: 4-Sterne-Superior-Hotel und Spa in einer mittelalterlichen Burg bei Turin, mit 20 Doppelzimmern, 19 Suiten und 3.000 m² Wellnessbereich."
 ---
 
 Das Castello di Montaldo ist ein Hotel der Kategorie 4 Sterne Superior, das in einer mittelalterlichen Burg in Montaldo Torinese eingerichtet wurde, auf den Hügeln östlich von Turin. Das gesamte Anwesen ist die Burg selbst, sodass jedes Zimmer Teil des historischen Gebäudes ist.
 
 ## Die Zimmer
 
-Das Hotel verfügt über 20 Suiten und 19 geräumige, helle Zimmer, insgesamt also 39. Den Reiz macht das Ambiente aus, und von den Zimmern führt ein direkter Weg hinunter zum Spa. Im Bademantel können Sie vom Zimmer aus direkt ins Spa gehen.
+Das Hotel verfügt über 20 Doppelzimmer und 19 Suiten, insgesamt also 39. Den Reiz macht das Ambiente aus, und von den Zimmern führt ein direkter Weg hinunter zum Spa. Im Bademantel können Sie vom Zimmer aus direkt ins Spa gehen.
 
 ## Das Spa
 

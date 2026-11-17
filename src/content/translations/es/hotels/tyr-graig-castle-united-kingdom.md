@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Ty’r Graig: hotel castillo en Barmouth | StayAtNiche"
   metaDescription: "Ty’r Graig en Barmouth: casa gótica victoriana de 1892 con 11 habitaciones con baño, vistas a la bahía de Cardigan y ambiente romántico y apartado."
+niche_note: "Ty’r Graig no es un castillo medieval: es una casa victoriana de estilo gótico construida en 1892 con forma de castillo, con habitaciones en las torres."
 ---
 
 Ty'r Graig significa «Casa sobre la roca», y el nombre le va al edificio. Se alza unos 200 pies sobre la localidad costera galesa de Barmouth y domina la bahía de Cardigan, con vistas hacia la península de Llŷn y la isla de Bardsey. Hoy recibe huéspedes como hotel-castillo, y sus 11 habitaciones con baño ofrecen vistas a los alrededores.
@@ -30,7 +31,7 @@ El edificio se terminó en 1892 como residencia familiar de WW Greener, el céle
 
 ## Los interiores
 
-Construido a finales de los años 1890, conserva la elegancia de la era victoriana, con vidrieras, paneles de madera y suelos y techos muy decorados. Las chimeneas arden con leña recién cortada, y el edificio añade comodidades modernas. Cada una de las 11 habitaciones está decorada de forma individual e incluye facilidades para té y café, secador de pelo, televisor LCD con Freeview y reproductor de DVD.
+Conserva la elegancia de la era victoriana, con vidrieras, paneles de madera y suelos y techos muy decorados. Las chimeneas arden con leña recién cortada, y el edificio añade comodidades modernas. Cada una de las 11 habitaciones está decorada de forma individual e incluye facilidades para té y café, secador de pelo, televisor LCD con Freeview y reproductor de DVD. Los tipos de habitación incluyen Premium Turret, Four Poster Turret y Standard Turret, además de dos habitaciones dobles grandes en la ladera (Hillside).
 
 ## Entorno
 

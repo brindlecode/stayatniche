@@ -13,7 +13,7 @@ amenities:
   - "Airconditioning in de slaapkamers"
   - "Kitchenette en barbecue bij elke unit"
   - "Privéparkeerplaats"
-  - "Wifi bij de bar en het zwembad"
+  - "Gratis wifi in het hoofdgebouw"
 bestFor:
   - "Groepen die zelf koken"
   - "Dagtochten naar Sossusvlei"
@@ -32,7 +32,7 @@ Er zijn 28 afzonderlijke zelfvoorzienende units, ontworpen om op te gaan in het 
 
 ## De omgeving
 
-Het camp ligt onder kameeldoornbomen die volgens het camp eeuwenoud zijn, met uitzicht over het woestijnlandschap en de omringende bergen. In het hoofdgebouw is een goed gevulde bar met een groot televisiescherm en een zwembad; twee gemeenschappelijke bomas bieden groepen 's avonds een plek om samen te komen. Wifi is er bij de bar en het zwembad, maar niet in de units.
+Het camp ligt onder kameeldoornbomen die volgens het camp eeuwenoud zijn, met uitzicht over het woestijnlandschap en de omringende bergen. In het hoofdgebouw is een goed gevulde bar met een groot televisiescherm en een zwembad; twee gemeenschappelijke bomas bieden groepen 's avonds een plek om samen te komen. Gratis wifi is beschikbaar in het hoofdgebouw.
 
 ## Praktische tips
 

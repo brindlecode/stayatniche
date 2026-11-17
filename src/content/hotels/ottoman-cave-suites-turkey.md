@@ -56,6 +56,6 @@ The hotel advertises panoramic views over the valleys, the mountains and the Erc
 
 ## Practical notes
 
-The listed address is Avcılar Mahallesi, Okul Sokak No: 6, 50180 Göreme. The hotel is brand new, so it is a recent opening rather than a long-established house.
+The listed address is Avcılar Mahallesi, Okul Sokak No: 6, 50180 Göreme.
 
 This is a decent choice if you want a cave room in Göreme at a hotel small enough to feel personal. Request a rock-carved room explicitly when booking.

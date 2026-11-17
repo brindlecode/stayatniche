@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Real Castello: Schlosshotel in Verduno | StayAtNiche"
   metaDescription: "Real Castello in Verduno im Piemont: Hotel und Restaurant im Schloss seit 1953, mit Zimmern im historischen Flügel und Aussicht auf die Weinhügel der Langhe."
+niche_feature: "Sechs Zimmer (2 Suiten, 3 Junior Suiten, 1 Doppelzimmer) in den oberen Stockwerken des Schlossflügels von Verduno; die übrigen Zimmer befinden sich in den angrenzenden Nebengebäuden Castalderia und Nando Foresteria."
 ---
 
 Das Real Castello di Verduno ist ein Hotel mit Restaurant in den Langhe, dem Weinland des Piemont. Seit 1953 nehmen die Gästezimmer einen Teil des Schlosses ein, dazu kommen die angrenzende Castalderia und ein Gästehaus namens Nando Foresteria.

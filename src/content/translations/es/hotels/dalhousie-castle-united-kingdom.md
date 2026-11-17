@@ -20,9 +20,10 @@ bestFor:
 seo:
   metaTitle: "Dalhousie Castle: hotel castillo, Edimburgo | StayAtNiche"
   metaDescription: "Dalhousie Castle, Bonnyrigg: castillo de más de 800 años con 35 habitaciones, Castle Dungeon Restaurant, Ramsay Restaurant y once acres cerca de Edimburgo."
+niche_feature: "35 habitaciones: Castle Classic, Deluxe, Junior Suite, Four Poster, Suite y dos Feature Rooms están en el castillo de 800 años; las habitaciones del Lodge (Classic, Deluxe, Junior Suite, Suite) están en un edificio moderno independiente dentro de los terrenos. No se indica el número de habitaciones de cada grupo."
 ---
 
-Dalhousie Castle lleva más de 800 años en pie y se presenta como el castillo habitado más antiguo de Escocia. Se alza en once acres de parque privado y valles arbolados a las afueras de Edimburgo, en Bonnyrigg. Fue en su día sede del clan Ramsay, ha recibido a miembros de la realeza y a poetas desde el siglo XIII, y recientemente ha pasado por una amplia renovación.
+Dalhousie Castle lleva más de 800 años en pie y se presenta como uno de los castillos habitados más antiguos de Escocia. Se alza en once acres de parque privado y valles arbolados a las afueras de Edimburgo, en Bonnyrigg. Fue en su día sede del clan Ramsay, ha recibido a miembros de la realeza y a poetas desde el siglo XIII, y recientemente ha pasado por una amplia renovación.
 
 ## Habitaciones del castillo y del lodge
 

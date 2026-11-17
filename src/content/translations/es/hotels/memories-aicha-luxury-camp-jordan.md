@@ -1,10 +1,10 @@
 ---
 source: memories-aicha-luxury-camp-jordan
 destination: "Wadi Rum, Aqaba"
-description: "Campamento de lujo con 55 tiendas en Wadi Rum, climatizadas, con terrazas privadas y techos transparentes para contemplar las estrellas desde la cama."
+description: "Campamento de lujo con 55 tiendas en Wadi Rum, climatizadas, con terrazas privadas y tiendas Panoramic pensadas para contemplar las estrellas."
 highlights:
   - "55 tiendas en el corazón de Wadi Rum"
-  - "Techos transparentes para contemplar miles de estrellas desde la cama"
+  - "Tiendas Panoramic pensadas para contemplar las estrellas, con techo transparente en las cúpulas del campamento"
   - "Tiendas climatizadas con ducha propia"
   - "Cuatro categorías de tiendas, de 340 a 540 pies cuadrados"
   - "A cinco minutos en coche del centro de visitantes de Wadi Rum"
@@ -22,14 +22,14 @@ bestFor:
   - "Parejas"
 seo:
   metaTitle: "Memories Aicha Luxury Camp: glamping Wadi Rum | StayAtNiche"
-  metaDescription: "Memories Aicha Luxury Camp en Wadi Rum: 55 tiendas con aire acondicionado, terrazas privadas y techos transparentes para ver las estrellas desde la cama."
+  metaDescription: "Memories Aicha Luxury Camp en Wadi Rum: 55 tiendas con aire acondicionado, terrazas privadas y tiendas Panoramic ideales para ver las estrellas, en Jordania."
 ---
 
 Memories Aicha Luxury Camp es un campamento de 55 tiendas en el corazón de Wadi Rum, escondido en un valle rojo entre montañas escarpadas y el desierto arábigo abierto. Según el propio campamento, el lugar parece más una colonia en Marte que un camping. La idea es despertarse en plena naturaleza sin renunciar a la comodidad de un hotel.
 
 ## Las tiendas
 
-Cada tienda está decorada en amarillos, naranjas y rojos inspirados en los colores de las arenas del desierto, y cuenta con aire acondicionado, duchas y agua corriente. Los techos transparentes permiten contemplar miles de estrellas desde la cama por la noche, y de día una terraza privada, decorada al estilo oriental, ofrece vistas del paisaje rojizo.
+Cada tienda está decorada en amarillos, naranjas y rojos inspirados en los colores de las arenas del desierto, y cuenta con aire acondicionado, duchas y agua corriente. Según la página de inicio del campamento, sus cúpulas tienen un techo transparente para contemplar miles de estrellas desde la cama por la noche, y de día una terraza privada, decorada al estilo oriental, ofrece vistas del paisaje rojizo. El campamento describe las tiendas Panoramic como ideales para contemplar las estrellas.
 
 Hay cuatro categorías:
 

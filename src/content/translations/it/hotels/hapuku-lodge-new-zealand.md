@@ -1,9 +1,9 @@
 ---
 source: hapuku-lodge-new-zealand
 destination: Kaikōura
-description: "Cinque suite sugli alberi sospese a 8 metri sopra un boschetto di manuka autoctoni, in un allevamento di cervi in attività, con le Kaikōura Ranges spolverate di neve a ovest e il Pacifico del Sud a est. Una delle poche strutture in Nuova Zelanda dove puoi osservare i capodogli dalla barca al mattino e cenare con la carne di cervo della fattoria la sera."
+description: "Case sugli alberi a 10 metri d’altezza nella chioma di alberi autoctoni kānuka e pūriri, in un allevamento di cervi in attività, con le Kaikōura Ranges spolverate di neve a ovest e il Pacifico del Sud a est. Una delle poche strutture in Nuova Zelanda dove puoi osservare i capodogli dalla barca al mattino e cenare con la carne di cervo della fattoria la sera."
 highlights:
-  - Case sugli alberi a 8 metri d’altezza sopra un boschetto di manuka autoctoni
+  - Case sugli alberi a 10 m d’altezza nella chioma di alberi autoctoni kānuka e pūriri
   - Vista panoramica sulle Kaikōura Ranges e sul Pacifico
   - Allevamento di cervi e orto biologico nella proprietà
   - Whale watching, nuotate con i delfini e colonie di foche nei dintorni
@@ -49,18 +49,19 @@ nearbyAttractions:
     distance: 25 km
 seo:
   metaTitle: "Hapuku Lodge, case sugli alberi a Kaikōura | StayAtNiche"
-  metaDescription: "A 8 metri d’altezza tra i manuka, con vista sulle Kaikōura Ranges e sul Pacifico: Hapuku Lodge offre le case sugli alberi più spettacolari della Nuova Zelanda."
+  metaDescription: "A 10 metri d’altezza tra i kānuka e i pūriri, con vista sulle Kaikōura Ranges e sul Pacifico: le case sugli alberi di Hapuku Lodge, a Kaikōura."
+niche_feature: "Tree Houses (con una camera da letto e una casa familiare sull'albero su due piani) sollevate di 10 m nella chioma di kanuka e puriri autoctoni; le suite del lodge e la Olive House sono camere normali. Il sito ufficiale non dice come siano costruite le case sugli alberi."
 ---
 
-La vista dalla terrazza di una casa sugli alberi di Hapuku è di una bellezza quasi ingiusta. A ovest, le Kaikōura Ranges si alzano bruscamente dalla pianura costiera, con le creste più alte coperte di neve per buona parte dell’anno. A est, il Pacifico del Sud si stende senza interruzioni fino all’orizzonte. Sotto di te, otto metri più in basso, i manuka autoctoni ondeggiano nella brezza marina, con le foglie verde argento che catturano la luce del pomeriggio. È il tipo di vista che ti fa chiedere perché tu abbia mai dormito a livello del suolo.
+La vista dalla terrazza di una casa sugli alberi di Hapuku è di una bellezza quasi ingiusta. A ovest, le Kaikōura Ranges si alzano bruscamente dalla pianura costiera, con le creste più alte coperte di neve per buona parte dell’anno. A est, il Pacifico del Sud si stende senza interruzioni fino all’orizzonte. Intorno a te la chioma dei kānuka e dei pūriri autoctoni ondeggia nella brezza marina, con le foglie che catturano la luce del pomeriggio. È il tipo di vista che ti fa chiedere perché tu abbia mai dormito a livello del suolo.
 
-Hapuku Lodge è un progetto di famiglia fin dalla sua apertura nel 2003, costruito in un allevamento di cervi in attività che appartiene alla stessa famiglia da generazioni. Le cinque case sugli alberi sono arrivate dopo, diventando il cuore di quella che oggi è una delle strutture boutique più ammirate della Nuova Zelanda. La conduzione familiare si vede in ogni dettaglio, dagli arredi scelti a mano all’orto dove ogni mattina lo chef raccoglie l’insalata.
+Hapuku Lodge è un progetto di famiglia fin dalla sua apertura nel 2003, costruito in un allevamento di cervi in attività che appartiene alla stessa famiglia da generazioni. Le case sugli alberi sono arrivate dopo, diventando il cuore di quella che oggi è una delle strutture boutique più ammirate della Nuova Zelanda. La conduzione familiare si vede in ogni dettaglio, dagli arredi scelti a mano all’orto dove ogni mattina lo chef raccoglie l’insalata.
 
 **Le case sugli alberi**
 
-Ognuna delle cinque case sugli alberi è una suite ampia e arredata con cura. L’architettura è contemporanea e dalle linee pulite, tanto vetro, legno naturale e lenzuola bianche e fresche, ma la vera dichiarazione di stile è sempre la vista. Le vetrate a tutta altezza incorniciano in egual misura montagne e oceano, e il balcone privato è posizionato con precisione per godere di entrambi. Il riscaldamento a pavimento tiene calde le stanze anche quando il vento sferza dal Pacifico, e i bagni sono all’altezza di un vero hotel, non il ripiego che a volte si trova negli alloggi alternativi.
+Le case sugli alberi sono suite ampie e arredate con cura, proposte come One-Bedroom Tree House, a 10 metri d’altezza nella chioma, e come Two Storey Family Tree House. L’architettura è contemporanea e dalle linee pulite, tanto vetro, legno naturale e lenzuola bianche e fresche, ma la vera dichiarazione di stile è sempre la vista. Le vetrate a tutta altezza incorniciano in egual misura montagne e oceano, e il balcone privato è posizionato con precisione per godere di entrambi. Il riscaldamento a pavimento tiene calde le stanze anche quando il vento sferza dal Pacifico, e i bagni sono all’altezza di un vero hotel, non il ripiego che a volte si trova negli alloggi alternativi.
 
-Le case sugli alberi ospitano due persone e sono quindi ideali per le coppie, ma le famiglie possono prenotarle insieme alle camere adiacenti del lodge principale.
+Il One-Bedroom Tree House è adatto alle coppie, con letto king o letti singoli, mentre il Two Storey Family Tree House ha due camere con bagno privato, l’Upper e il Lower Branch, collegate da una scala interna. Le camere del lodge sono separate dalle case sugli alberi.
 
 **La fauna di Kaikōura**
 

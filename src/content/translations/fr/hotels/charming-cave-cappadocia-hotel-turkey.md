@@ -1,9 +1,9 @@
 ---
 source: charming-cave-cappadocia-hotel-turkey
 destination: "Göreme, Nevşehir"
-description: "Maison d'hôtes à Göreme dont les chambres sont taillées dans la roche naturelle, avec une terrasse offrant une vue sur les montgolfières et des transferts depuis les aéroports de Nevşehir et Kayseri."
+description: "Maison d'hôtes à Göreme qui se dit taillée dans la roche naturelle, avec cinq chambres troglodytes standard et une suite troglodyte parmi ses quinze chambres, une terrasse offrant une vue sur les montgolfières et des transferts depuis les aéroports de Nevşehir et Kayseri."
 highlights:
-  - "Chambres creusées dans la roche naturelle"
+  - "Se dit taillé dans la roche naturelle ; cinq chambres troglodytes standard et une suite troglodyte parmi quinze chambres"
   - "Types de chambres : troglodytes, en pierre, suite triple et junior suites"
   - "Vue sur les montgolfières depuis la terrasse"
   - "Transferts depuis les aéroports de Nevşehir et Kayseri"
@@ -19,10 +19,11 @@ bestFor:
   - "Couples"
 seo:
   metaTitle: "Hôtel troglodyte à Göreme, Cappadoce | StayAtNiche"
-  metaDescription: "Charming Cave Cappadocia Hotel à Göreme : chambres taillées dans la roche, vue sur les montgolfières et navettes aéroport depuis Nevşehir et Kayseri."
+  metaDescription: "Charming Cave Cappadocia Hotel à Göreme : cinq chambres troglodytes, vue sur les montgolfières et navettes aéroport depuis Nevşehir et Kayseri."
+niche_feature: "Quinze chambres : cinq Standard Cave Rooms (301 à 305) dans la cour et une Cave Suite (103) sont des chambres troglodytes ; les Standard et Deluxe Stone Rooms, les Junior Suites et les autres sont en pierre de taille ou d'un autre type."
 ---
 
-Le Charming Cave Cappadocia Hotel est une maison d'hôtes de Göreme dont les chambres, selon ses dires, sont taillées dans la roche naturelle. Il est en activité depuis plus de dix ans et décrit quinze chambres soignées, pensées pour un séjour confortable et détendu. Le site associe chambres troglodytes et chambres en pierre ; il est donc conseillé de demander expressément une chambre troglodyte au moment de la réservation.
+Le Charming Cave Cappadocia Hotel est une maison d'hôtes de Göreme qui, selon ses dires, est taillée dans la roche naturelle. Il est en activité depuis plus de dix ans et décrit quinze chambres soignées, pensées pour un séjour confortable et détendu. Le site associe chambres troglodytes et chambres en pierre ; il est donc conseillé de demander expressément une chambre troglodyte au moment de la réservation. Seules les cinq chambres troglodytes standard et la suite troglodyte sont décrites comme troglodytes, et les termes du site sur le creusement de la roche sont généraux, non détaillés chambre par chambre.
 
 ## Les chambres
 

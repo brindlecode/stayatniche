@@ -35,7 +35,7 @@ prosAndCons:
     - "Des tarifs élevés, l'une des expériences hôtelières les plus chères d'Irlande"
     - "Très prisé des grands groupes d'entreprise et des mariages en haute saison"
     - "Les environs, dans le Clare, sont plus calmes que le Kerry ou le Connemara"
-    - "Certaines chambres de l'aile récente n'ont pas le caractère historique de celles du château"
+    - "L'hôtel ne précise pas où se situe chaque catégorie de chambre ; renseignez-vous sur l'emplacement de la vôtre"
 seasonalInfo:
   bestTime: "De mai à septembre"
   notes: "L'été irlandais apporte les journées les plus longues et les meilleures conditions de golf. Le château est superbe en toute saison : les couleurs d'automne sur le domaine sont spectaculaires en octobre, et Noël à Dromoland est un moment réputé pour son faste. Le golf dépend de la météo, mais les Irlandais jouent toute l'année."
@@ -51,9 +51,12 @@ nearbyAttractions:
 seo:
   metaTitle: "Dromoland Castle : château-hôtel en Irlande | StayAtNiche"
   metaDescription: "Avis sur Dromoland Castle, demeure ancestrale des O'Brien dans le comté de Clare : golf de championnat, fauconnerie et restaurant recommandé par le Michelin."
+closure:
+  note: "Le château est temporairement fermé pour rénovation ; les réservations pour le château sont ouvertes pour des séjours à partir de mai 2027. Les lodges en location meublée restent ouverts."
+niche_feature: "Les suites sont aménagées entre les murs d'origine du château ; le site n'indique pas où se trouvent les autres catégories de chambres du château. Le château est la reconstruction néogothique de 1835 de la demeure des O'Brien, devenue hôtel en 1963. Les lodges en location meublée sont distincts."
 ---
 
-La lignée des O'Brien n'a nul besoin d'être embellie. Le clan qui bâtit un château sur les rives du lac de Dromoland, dans le comté de Clare, au XVIe siècle, descendait directement de Brian Boru, le haut roi qui unifia les royaumes d'Irlande et mourut à la bataille de Clontarf en 1014. Ce n'est pas un argument publicitaire : c'est une généalogie documentée sur plus de mille ans, et cela se ressent dans l'allure même du château. Nul besoin ici de forcer l'importance du lieu. Les tours de pierre, le lac, les jardins à la française et les 182 hectares de parc ont l'autorité tranquille d'un endroit qui n'a jamais eu à annoncer ce qu'il est.
+La lignée des O'Brien n'a nul besoin d'être embellie. Le clan dont le fief se dresse sur les rives du lac de Dromoland, dans le comté de Clare, descendait directement de Brian Boru, le haut roi qui unifia les royaumes d'Irlande et mourut à la bataille de Clontarf en 1014. Ce n'est pas un argument publicitaire : c'est une généalogie documentée sur plus de mille ans, et cela se ressent dans l'allure même du château. Nul besoin ici de forcer l'importance du lieu. Les tours de pierre, le lac, les jardins à la française et les 182 hectares de parc ont l'autorité tranquille d'un endroit qui n'a jamais eu à annoncer ce qu'il est. Le château actuel est une reconstruction néogothique datant de 1835.
 
 **Le domaine**
 
@@ -65,7 +68,7 @@ Au-delà du golf, le domaine propose la pêche à la truite fario sur le lac, le
 
 Le grand hall est la pièce maîtresse des espaces communs : une cheminée en pierre sculptée, les portraits des ancêtres de la dynastie O'Brien, et des proportions qui remettent l'être humain à sa juste place face à plusieurs siècles d'histoire. Les salons et la bibliothèque, où l'on prend le thé de l'après-midi et où l'on se retrouve avant le dîner, ont cette aisance un peu patinée des pièces qui ont toujours été habitées plutôt que figées pour l'exposition.
 
-Les chambres varient considérablement selon leur emplacement dans le château. Ce sont celles des tours de pierre d'origine qu'il faut demander : hauts plafonds, profondes banquettes de fenêtre donnant sur le parc et le lac, et ce silence si particulier que produisent les épais murs de pierre la nuit. Les chambres de l'aile récente sont plus confortables au sens conventionnel, mais n'ont pas l'atmosphère que la plupart des hôtes viennent chercher.
+Le site de l'hôtel indique que ses suites se trouvent dans les murs d'origine du château ; il ne précise pas où se situent ses autres catégories de chambres. Demandez donc avant de réserver dans quelle aile et dans quelle catégorie se trouve la chambre qui vous est proposée.
 
 **La table**
 

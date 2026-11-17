@@ -1,9 +1,9 @@
 ---
 source: hapuku-lodge-new-zealand
 destination: "Kaikōura"
-description: "Cinco suites en los árboles, encaramadas a 8 metros sobre un bosquecillo de manuka autóctono en una granja de ciervos en activo, con la cordillera de Kaikōura espolvoreada de nieve al oeste y el Pacífico Sur al este. Uno de los pocos lugares de Nueva Zelanda donde puedes ver cachalotes desde un barco por la mañana y cenar venado de la granja por la noche."
+description: "Cabañas en los árboles a 10 metros de altura, en el dosel de árboles autóctonos kānuka y pūriri, en una granja de ciervos en activo, con la cordillera de Kaikōura espolvoreada de nieve al oeste y el Pacífico Sur al este. Uno de los pocos lugares de Nueva Zelanda donde puedes ver cachalotes desde un barco por la mañana y cenar venado de la granja por la noche."
 highlights:
-  - "Cabañas encaramadas a 8 metros sobre un bosquecillo de manuka autóctono"
+  - "Cabañas a 10 m de altura en el dosel de árboles autóctonos kānuka y pūriri"
   - "Vistas panorámicas a la cordillera de Kaikōura y al Pacífico"
   - "Granja de ciervos y huerto ecológico propios"
   - "Avistamiento de ballenas, nado con delfines y colonias de focas en los alrededores"
@@ -49,18 +49,19 @@ nearbyAttractions:
     distance: "25 km"
 seo:
   metaTitle: "Hapuku Lodge: cabañas en los árboles en Nueva Zelanda | StayAtNiche"
-  metaDescription: "Cabañas de lujo a 8 metros sobre un bosque de manuka, con vistas a la cordillera de Kaikōura y al Pacífico, ballenas cerca y cocina con productos de la granja."
+  metaDescription: "Cabañas a 10 metros de altura en el dosel de kānukas y pūriris, con vistas a la cordillera de Kaikōura y al Pacífico y cocina con productos de la granja."
+niche_feature: "Tree Houses (de un dormitorio, y una cabaña familiar de dos plantas) elevadas 10 m entre el dosel de kanuka y puriri autóctonos; las suites del lodge y la Olive House son habitaciones convencionales. El sitio oficial no explica cómo están construidas las cabañas en los árboles."
 ---
 
-La vista desde la terraza de una cabaña de Hapuku es de una belleza casi injusta. Al oeste, la cordillera de Kaikōura se alza bruscamente sobre la llanura costera, con las crestas nevadas buena parte del año. Al este, el Pacífico Sur se extiende sin interrupción hasta el horizonte. Bajo tus pies, ocho metros más abajo, los manukas autóctonos se mecen con la brisa marina y sus hojas verde plateado atrapan la luz de la tarde. Es de esas vistas que te hacen preguntarte por qué duermes a ras de suelo.
+La vista desde la terraza de una cabaña de Hapuku es de una belleza casi injusta. Al oeste, la cordillera de Kaikōura se alza bruscamente sobre la llanura costera, con las crestas nevadas buena parte del año. Al este, el Pacífico Sur se extiende sin interrupción hasta el horizonte. A tu alrededor, el dosel de kānukas y pūriris autóctonos se mece con la brisa marina y sus hojas atrapan la luz de la tarde. Es de esas vistas que te hacen preguntarte por qué duermes a ras de suelo.
 
-Hapuku Lodge es un proyecto familiar desde su apertura en 2003, levantado en una granja de ciervos en activo que lleva generaciones en manos de la misma familia. Las cinco cabañas en los árboles llegaron después y se convirtieron en el centro de lo que hoy es uno de los alojamientos boutique más admirados de Nueva Zelanda. Esa propiedad familiar se nota en cada detalle, desde el mobiliario escogido a mano hasta el huerto donde el chef recoge cada mañana las hojas para la ensalada.
+Hapuku Lodge es un proyecto familiar desde su apertura en 2003, levantado en una granja de ciervos en activo que lleva generaciones en manos de la misma familia. Las cabañas en los árboles llegaron después y se convirtieron en el centro de lo que hoy es uno de los alojamientos boutique más admirados de Nueva Zelanda. Esa propiedad familiar se nota en cada detalle, desde el mobiliario escogido a mano hasta el huerto donde el chef recoge cada mañana las hojas para la ensalada.
 
 **Las cabañas en los árboles**
 
-Cada una de las cinco cabañas es una suite amplia y equipada con esmero. La arquitectura es contemporánea y de líneas limpias —mucho cristal, madera natural y ropa de cama de un blanco impecable—, pero la verdadera declaración de diseño es siempre la vista. Los ventanales de suelo a techo enmarcan por igual la montaña y el océano, y el balcón privado está situado con precisión para aprovechar ambos. El suelo radiante mantiene las habitaciones calientes incluso cuando el viento azota desde el Pacífico, y los baños son de auténtico nivel hotelero, no el añadido de última hora que a veces encuentras en los alojamientos alternativos.
+Las cabañas son suites amplias y equipadas con esmero, y se ofrecen como One-Bedroom Tree House, a 10 metros de altura en el dosel, y como Two Storey Family Tree House. La arquitectura es contemporánea y de líneas limpias —mucho cristal, madera natural y ropa de cama de un blanco impecable—, pero la verdadera declaración de diseño es siempre la vista. Los ventanales de suelo a techo enmarcan por igual la montaña y el océano, y el balcón privado está situado con precisión para aprovechar ambos. El suelo radiante mantiene las habitaciones calientes incluso cuando el viento azota desde el Pacífico, y los baños son de auténtico nivel hotelero, no el añadido de última hora que a veces encuentras en los alojamientos alternativos.
 
-Las cabañas son para dos personas, ideales para parejas, aunque las familias pueden reservarlas junto con las habitaciones contiguas del lodge principal.
+El One-Bedroom Tree House es ideal para parejas, con cama king o dos camas individuales, mientras que el Two Storey Family Tree House tiene dos dormitorios con baño privado, el Upper y el Lower Branch, unidos por una escalera interior. Las habitaciones del lodge están aparte de las cabañas.
 
 **La fauna de Kaikōura**
 

@@ -38,6 +38,14 @@ const stages = [
 
 const log = runLog();
 const warnings = [];
+// Did the last change to the site really go live? (pipeline/deploy-check.mjs, run just before this)
+const dep = log.deploy;
+const deployLine = !dep ? '⚪ **Canlı yayın:** kontrol edilmedi (bu çalışmada deploy-check çalışmadı).'
+  : dep.state === 'live' ? `✅ **Canlı yayın:** son site değişikliği canlıda (${dep.expected}).`
+  : dep.state === 'pending' ? `🟡 **Canlı yayın:** ${dep.why}.`
+  : dep.state === 'failed' ? `❌ **Canlı yayın BAŞARISIZ:** ${dep.why}. Netlify'daki yayın kaydına bakın.`
+  : `⚪ **Canlı yayın:** ${dep.why}.`;
+if (dep?.state === 'failed') warnings.unshift(`Canlı yayın: ${dep.why}.`);
 for (const [stage, r] of Object.entries(log)) if (r.ok === false) warnings.push(`"${stage}" aşaması son çalışmasında hata verdi: ${r.error ?? JSON.stringify(r.brokenFiles ?? r)}`);
 for (const [stage, max] of [['apply', 2], ['evidence', 2], ['reviews', 3], ['batches', 3]]) {
   const d = days(log[stage]?.at);
@@ -55,6 +63,7 @@ const rows = Object.keys(CATEGORIES).map(cat => {
 const fmt = (r) => Object.entries(r).filter(([k]) => k !== 'at' && k !== 'ok').map(([k, v]) => `${k}: ${typeof v === 'object' ? JSON.stringify(v) : v}`).join(', ');
 
 writeFileSync('data/pipeline/STATUS.md', [
+  deployLine, '',
   '# Otel hattı durumu', '',
   `Güncelleme: ${new Date().toISOString()}. Kuyrukta ${q.length} aday. Sitede yayında ${pub.length} otel, ${drafts.length} taslak (${all.length} dosya).`, '',
   '## Dikkat', '', ...(warnings.length ? warnings.map(w => `- ⚠️ ${w}`) : ['- Sorun görünmüyor.']), '',

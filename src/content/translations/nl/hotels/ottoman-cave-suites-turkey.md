@@ -19,6 +19,7 @@ bestFor:
 seo:
   metaTitle: "Ottoman Cave Suites: grothotel in Göreme | StayAtNiche"
   metaDescription: "Ottoman Cave Suites in Göreme: klein hotel met 13 kamers, waarvan acht in de rots gehakt, met terrasontbijt en uitzicht op feeënschoorstenen."
+niche_feature: "13 kamers: 8 in de rots uitgehouwen kamers (kaya oyma) en 5 standaard stenen kamers; vijf van de in rots uitgehouwen suites kijken uit op het kasteel van Uçhisar."
 ---
 
 Ottoman Cave Suites noemt zichzelf een klein, gezellig en comfortabel rotshotel, in een buurt die goed bereikbaar is vanuit het centrum van Göreme en veel bezienswaardigheden van Cappadocië. Het hotel heeft 13 kamers in totaal: acht uit de rots gehakt en vijf standaard stenen kamers. Je verblijft dus grotendeels in grotkamers, maar niet allemaal.
@@ -33,6 +34,6 @@ Het hotel adverteert met panoramisch uitzicht over de valleien, de bergen en de 
 
 ## Praktische info
 
-Het vermelde adres is Avcılar Mahallesi, Okul Sokak No: 6, 50180 Göreme. Het hotel is gloednieuw, dus het is een recente opening en geen oud huis met een lange geschiedenis.
+Het vermelde adres is Avcılar Mahallesi, Okul Sokak No: 6, 50180 Göreme.
 
 Een prima keuze als je een grotkamer in Göreme wilt, in een hotel dat klein genoeg is om persoonlijk aan te voelen. Vraag bij het boeken expliciet om een uit de rots gehakte kamer.

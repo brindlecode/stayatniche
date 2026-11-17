@@ -5,7 +5,7 @@ description: "Ein Fünf-Sterne-Baronialschloss aus dem 19. Jahrhundert am Fuß d
 highlights:
   - "Baronialschloss aus dem 19. Jahrhundert, erbaut 1863"
   - "Zimmer und Suiten im Schloss mit Blick auf das Gelände und den Loch"
-  - "Acht Walled Garden Rooms im umgebauten Stallgebäude, jeweils mit Balkon oder Terrasse"
+  - "Walled-Garden-Zimmer und -Suiten im umgebauten Stallgebäude, jeweils mit Balkon oder Terrasse"
   - "Gate Lodge mit einem Doppel- und einem Einzelzimmer"
   - "Speiseerlebnis Seasgair von Michel Roux"
 amenities:
@@ -19,6 +19,7 @@ bestFor:
 seo:
   metaTitle: "Inverlochy Castle: Schlosshotel in Schottland | StayAtNiche"
   metaDescription: "Inverlochy Castle bei Fort William: Baronialschloss von 1863 am Ben Nevis mit Zimmern im Schloss, Walled Garden Rooms, Seasgair-Restaurant und Gate Lodge."
+niche_feature: "Die Schlosszimmer und Suiten liegen im Schloss im Scottish-Baronial-Stil aus dem 19. Jahrhundert (1863); die Walled-Garden-Zimmer befinden sich in einem umgebauten Stallgebäude fünf Minuten entfernt, und die Gate Lodge ist ein separates viktorianisches Torhaus. Die offizielle Website bezeichnet das Haus auch als viktorianisches Landhaus."
 ---
 
 Inverlochy Castle ist ein Herrenhaus im Baronialstil aus dem 19. Jahrhundert, das zwischen Bergen und Loch unweit von Fort William liegt. Es wurde 1863 von William Scarlett, 3. Baron Abinger, erbaut, und Königin Victoria verbrachte 1873 auf der Reise nach Balmoral eine Woche hier. Benannt ist es nach dem viel älteren Inverlochy Castle aus dem 13. Jahrhundert, das gut zwei Meilen entfernt liegt. Heute ist es ein Fünf-Sterne-Hotel.
@@ -28,7 +29,7 @@ Inverlochy Castle ist ein Herrenhaus im Baronialstil aus dem 19. Jahrhundert, da
 Die Zimmer verteilen sich auf das Hauptgebäude des Schlosses und das Gartengelände, und es gibt drei verschiedene Optionen:
 
 - **Zimmer und Suiten im Schloss** sind einzeln mit antiken Möbeln gestaltet und bieten Blick über das Gelände und den Loch.
-- **Walled Garden Rooms** sind acht Zimmer in einem umgebauten Stallgebäude mit Blick auf den ruhigen, ummauerten Garten, jeweils mit Balkon oder Terrasse.
+- **Walled Garden Rooms** sind Zimmer und Suiten in einem umgebauten Stallgebäude, fünf Gehminuten vom Schloss entfernt, mit Blick auf den ruhigen, ummauerten Garten, jeweils mit Balkon oder Terrasse.
 - **The Gate Lodge** ist ein intimes Torhaus auf dem Gelände, ein kurzer Fußweg vom Schloss entfernt am Haupteingang, mit einem Doppel- und einem Einzelzimmer.
 
 ## Essen und Erkunden

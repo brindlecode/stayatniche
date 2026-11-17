@@ -1,15 +1,15 @@
 ---
 source: ashford-castle-ireland
 destination: "Cong, comté de Mayo"
-description: "Bâti en 1228 sur les rives du Lough Corrib, dans le comté de Mayo, Ashford Castle est un château authentique, pas un hôtel victorien flanqué d'une tourelle : 800 ans d'histoire irlandaise sur un domaine de 140 hectares, 83 chambres toutes différentes, une école de fauconnerie réputée et une salle à manger qui prend au sérieux les produits de sa région."
+description: "Aux origines remontant au XIIIe siècle, sur les rives du Lough Corrib, dans le comté de Mayo, Ashford Castle est un château authentique, pas un hôtel victorien flanqué d'une tourelle : une forteresse médiévale devenue grande demeure d'accueil sur un domaine de 140 hectares, avec 83 chambres et suites toutes différentes, la fauconnerie parmi ses activités et la George V Dining Room."
 highlights:
-  - "Un authentique château irlandais vieux de 800 ans"
-  - "Ireland School of Falconry sur le domaine"
-  - "83 chambres, toutes décorées différemment"
-  - "George V Dining Room, distinguée par le guide Michelin"
+  - "Un château aux origines remontant au XIIIe siècle"
+  - "Fauconnerie sur le domaine, sans expérience préalable nécessaire"
+  - "83 chambres et suites, toutes décorées différemment, dont un boathouse au bord du lac"
+  - "George V Dining Room, construite en l'honneur d'une visite royale en 1905"
   - "Un vaste domaine sportif : pêche, tir, tir à l'arc"
 amenities:
-  - "Chambres de château à la décoration unique"
+  - "Chambres et suites à la décoration unique"
   - "Spa réputé"
   - "Plusieurs restaurants"
   - "Piscine intérieure chauffée"
@@ -23,13 +23,14 @@ bestFor:
   - "Grandes occasions"
 seo:
   metaTitle: "Ashford Castle : château-hôtel en Irlande | StayAtNiche"
-  metaDescription: "Ashford Castle, château de 1228 au bord du Lough Corrib en Irlande : 83 chambres uniques, école de fauconnerie, table étoilée et domaine de 140 hectares."
+  metaDescription: "Ashford Castle, au bord du Lough Corrib en Irlande : château aux origines du XIIIe siècle, 83 chambres et suites uniques, fauconnerie et George V Dining Room."
+niche_feature: "Château historique aux origines remontant au XIIIe siècle, exploité comme hôtel ; le site officiel recense 83 chambres, suites, ainsi que le Boathouse, distinct et situé au bord du lac. Il n'indique pas quelles chambres se trouvent dans le bâti du château. The Lodge est un hôtel à part."
 ---
 
-Ashford Castle existe depuis 1228, date à laquelle la famille anglo-normande de Burgo érigea la tour d'origine sur les rives du Lough Corrib. La famille Guinness l'agrandit considérablement au XIXe siècle, et il en résulte un domaine irlandais de 140 hectares avec, en son centre, un château sans la moindre ambiguïté : ni folie victorienne, ni hôtel qui se trouverait simplement doté d'une tourelle.
+Ashford Castle a des origines qui remontent au XIIIe siècle et est passé du statut de forteresse médiévale à celui de grande demeure d'accueil. Il fut un temps la demeure de la famille Guinness, et il en résulte un domaine irlandais de 140 hectares avec, en son centre, un château sans la moindre ambiguïté : ni folie victorienne, ni hôtel qui se trouverait simplement doté d'une tourelle.
 
-Les 83 chambres ont chacune été conçues autour de l'ossature médiévale du château. Beaucoup donnent sur le Lough Corrib qui, avec ses 68 kilomètres carrés, est le deuxième plus grand lac d'Irlande et s'étire jusqu'à l'horizon : une vue qui fait d'un whiskey savouré dans l'embrasure d'une fenêtre un véritable devoir moral.
+Les 83 chambres et suites, dont un boathouse historique posé au-dessus du lac, sont toutes conçues individuellement. Beaucoup donnent sur le Lough Corrib qui, avec ses 68 kilomètres carrés, est le deuxième plus grand lac d'Irlande et s'étire jusqu'à l'horizon : une vue qui fait d'un whiskey savouré dans l'embrasure d'une fenêtre un véritable devoir moral.
 
-L'Ireland School of Falconry, installée sur le domaine, est une école de fauconnerie très réputée. Au-delà, la liste des activités comprend la pêche à la truite de mer et au saumon sur le Lough Corrib, le ball-trap, le tir à l'arc, l'équitation et les promenades en bateau sur le lac. La George V Dining Room se montre à la hauteur du cadre, avec une cuisine centrée sur les produits exceptionnels de la région.
+La fauconnerie fait partie des expériences proposées sur le domaine, avec des spécialistes pour vous guider et sans expérience préalable nécessaire. Au-delà, la liste des activités comprend la pêche à la truite de mer et au saumon sur le Lough Corrib, le ball-trap, le tir à l'arc, l'équitation et les promenades en bateau sur le lac. La George V Dining Room a été construite par la famille Guinness en l'honneur de la visite, en 1905, du prince de Galles, devenu George V.
 
 Le comté de Mayo compte parmi les coins les plus spectaculairement beaux d'Irlande. Le Connemara est à deux pas, les îles de Clew Bay sont à portée, et le village de Cong, où John Ford a tourné l'essentiel de L'Homme tranquille sur le domaine du château en 1951, mérite qu'on y flâne une heure. Ashford fait partie des rares châteaux-hôtels qui justifieraient à eux seuls un voyage en Irlande.

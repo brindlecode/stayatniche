@@ -4,7 +4,7 @@ category: overwater-bungalows
 destination: Steigen Archipelago, Nordland
 country: Norway
 continent: Europe
-description: A cluster of sea cabins on a tiny island in the Steigen Archipelago above the Arctic Circle, where the mountains plunge directly into the Norwegian Sea and the northern lights reflect in the water. The original fishermen's warehouse has been converted into a common area; four seacabins extend over the sea on stilts, with glass walls and private sea-access for kayaking, diving, and midnight sun swims.
+description: "Sea cabins and towers on a small island in the Steigen Archipelago above the Arctic Circle, where the mountains plunge directly into the Norwegian Sea and the northern lights reflect in the water. The original cabins rest on the island's old stone quays and the newer ones sit out over the sea; an 18th-century farmhouse has been converted into a restaurant with a library upstairs."
 coverImage: /images/hotels/manshausen-island-resort-norway.jpg
 gallery:
   - /images/hotels/manshausen-island-resort-norway-2.jpg
@@ -12,7 +12,7 @@ gallery:
 priceRange: "$350 - $700"
 priceIndicator: 4
 highlights:
-  - Sea cabins on stilts above the Norwegian Sea
+  - Sea cabins resting on old stone quays and out over the sea
   - Northern lights reflecting in the water
   - Above the Arctic Circle at 68°N
   - Midnight sun swims from private sea access
@@ -22,7 +22,7 @@ amenities:
   - Kayaks provided
   - Norwegian breakfast included
   - Wood-burning stove
-  - Indoor sauna
+  - Sauna and hot tub by a seawater pond
 bestFor:
   - Adventure couples
   - Aurora hunters
@@ -44,7 +44,7 @@ affiliateLinks:
     label: "Arctic Norway Tours on Klook"
 seo:
   metaTitle: "Manshausen Island Resort Review: Sea Cabins in Arctic Norway | StayAtNiche"
-  metaDescription: "Manshausen Island Resort: Arctic sea cabins above the Norwegian Sea, north of the Arctic Circle. Northern lights, midnight sun, kayaking from your stilted cabin."
+  metaDescription: "Manshausen Island Resort: Arctic sea cabins on a small island in the Norwegian Sea, north of the Arctic Circle. Northern lights, midnight sun and sea swimming."
 location:
   country: "Norway"
   countryCode: "NO"
@@ -62,7 +62,7 @@ niche_verified_at: 2026-11-17
 
 The Steigen Archipelago is what Norway looks like when the mountains have been pushed directly into the sea: a chain of steep, rocky islands above the Arctic Circle where the Lofoten wall continues northward and the Nordland fjords open into the Norwegian Sea. At 68°N, this is proper Arctic Norway — not the tourist Arctic of Tromsø, but the working fishing-village Norway where the infrastructure is minimal and the landscape has the unsocialised quality of a coast that has never been fashionable.
 
-Manshausen sits on one of these islands — a tiny, irregular mass of rock and heather about 300 metres at its longest dimension. The original property was a fishermen's rorbu (a traditional timber warehouse cum living quarters), now converted to a common dining and social space. Extending from the island's rocky shoreline on wooden piers, four seacabins sit directly over the water: timber structures with large sea-facing windows, wood-burning stoves, and open-plan interiors where the bed, sitting area, and kitchen share a single sea-view room. The private deck at sea level — a platform you descend to from inside the cabin — provides direct access to the Norwegian Sea for swimming, kayaking, and diving.
+Manshausen sits on one of these islands — a tiny, irregular mass of rock and heather. The island was historically a trading post for the fishing industry, which survives today in the massive stone quays, and an 18th-century farmhouse has been converted into a restaurant with a library upstairs. The original sea cabins rest on those stone quays, while the newer ones are positioned at the tip of the rocky formations at the island's northern end and out over the sea. Access to the cabins is via the rocky formations.
 
 In winter, the northern lights are the primary attraction. Because the island is surrounded by water and has no artificial light source, the reflection of the aurora in the sea around the cabin creates an immersive experience that land-based properties cannot replicate. The phenomenon of seeing the same aurora above and below the horizon simultaneously — the real sky and its reflection — is consistently reported by guests as the defining memory of the stay.
 

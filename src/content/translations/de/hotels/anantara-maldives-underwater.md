@@ -1,14 +1,14 @@
 ---
 source: anantara-maldives-underwater
 destination: "Baa-Atoll, Malediven"
-description: "Das Restaurant SEA im Anantara Kihavah liegt fünf Meter unter der Meeresoberfläche, seine Glaswände geben auf 270 Grad den Blick direkt auf ein lebendiges Korallenriff frei – die wohl ungewöhnlichste Dinner-Kulisse der Malediven, ergänzt durch Wasservillen mit Glasböden über aktiven Riffabschnitten."
+description: "Das Restaurant SEA im Anantara Kihavah liegt etwa sechs Meter unter der Meeresoberfläche, seine Glasfenster geben den Blick auf das Riff frei – eingebettet in ein Resort mit Wasser- und Strandvillen mit eigenem Pool."
 highlights:
-  - "SEA, das gefeierte Unterwasserrestaurant fünf Meter unter dem Meer"
-  - "Wasservillen mit Glasböden über lebendigem Riff"
+  - "SEA, Unterwasserrestaurant etwa sechs Meter unter dem Meer"
+  - "Wasser- und Strandvillen, jeweils mit eigenem Pool"
   - "Lage im UNESCO-Biosphärenreservat Baa-Atoll"
   - "Private Strand- und Wasservillen mit Butlerservice"
 amenities:
-  - "Wasservilla mit Glasbodenelementen"
+  - "Wasser- und Strandvillen mit eigenem Pool"
   - "Unterwasserrestaurant SEA"
   - "Spa über dem Wasser"
   - "Hauseigene Meeresbiologin und Riffaktivitäten"
@@ -21,13 +21,14 @@ bestFor:
   - "Alle, die einmal unter Wasser dinieren möchten"
 seo:
   metaTitle: "Anantara Kihavah: Unterwasserrestaurant | StayAtNiche"
-  metaDescription: "Dinner fünf Meter unter dem Meer im Restaurant SEA, Wasservillen mit Glasböden über dem Riff: Anantara Kihavah im UNESCO-Biosphärenreservat Baa-Atoll."
+  metaDescription: "Dinner sechs Meter unter dem Meer im Restaurant SEA, dazu Villen mit eigenem Pool: Anantara Kihavah im UNESCO-Biosphärenreservat Baa-Atoll auf den Malediven."
+niche_feature: "SEA ist ein Unterwasserrestaurant (nur zum Essen, nicht zum Übernachten). Geschlafen wird in 80 Poolvillen, einige davon auf Stelzen über dem Wasser und über einen Steg erreichbar, andere Strandvillen. Keine Schlafzimmer unter Wasser gefunden. Die offizielle Website war gesperrt (403)."
 ---
 
 Das Anantara Kihavah ordnet seine besonderen Erlebnisse vier Akronymen zu: FIRE (der Grill), SKY (das Observatorium auf dem Dach), ICE (der Weinkeller) und SEA. SEA ist der Grund, warum die meisten Gäste buchen.
 
-Das Restaurant liegt fünf Meter unter der Meeresoberfläche, kreisrund angelegt, mit Glaspaneelen, die auf 270 Grad direkt auf einen Abschnitt lebendigen Riffs blicken. Rifffische ziehen in stetem Wechsel vorbei, Meeresschildkröten gleiten mit jener besonderen Gleichgültigkeit vorüber, die nur Geschöpfe haben, die sich noch nie um irgendetwas Sorgen gemacht haben, und nachts wird das Riff von verborgenen Lichtern beleuchtet, während die Wassersäule darüber dunkel bleibt. Die Küche bietet zeitgenössische maledivische Gerichte und Küche des Indischen Ozeans und bemüht sich, einem Raum gerecht zu werden, in dem mittelmäßiges Essen geradezu beleidigend wirken würde. Das gelingt ihr weitgehend.
+Das Restaurant liegt etwa sechs Meter unter der Meeresoberfläche, mit Glasfenstern, die direkt auf das Riff blicken. Rifffische ziehen in stetem Wechsel vorbei, Meeresschildkröten gleiten mit jener besonderen Gleichgültigkeit vorüber, die nur Geschöpfe haben, die sich noch nie um irgendetwas Sorgen gemacht haben, und nachts wird das Riff von verborgenen Lichtern beleuchtet, während die Wassersäule darüber dunkel bleibt. Die Küche bietet zeitgenössische maledivische Gerichte und Küche des Indischen Ozeans und bemüht sich, einem Raum gerecht zu werden, in dem mittelmäßiges Essen geradezu beleidigend wirken würde. Das gelingt ihr weitgehend.
 
-Die Wasservillen tragen das Thema in den Wohnbereich. Glaspaneele in den Böden liegen über aktiven Riffabschnitten, sodass die Gäste Rifffische, Wirbellose und gelegentlich einen vorbeiziehenden Rochen beobachten können, ohne das Zimmer zu verlassen. Das ist nicht dasselbe wie völliges Eintauchen, doch in der Badewanne über einem Glaspaneel zu liegen, während zwei Meter tiefer eine Echte Karettschildkröte an Korallen frisst, ist ein ganz eigenes und absolut echtes Erlebnis.
+Die Wasservillen stehen über der Lagune, jede mit eigenem Pool. Das Hausriff liegt nur wenige Schritte von den Villen entfernt, und beim Schnorcheln lassen sich Echte Karettschildkröten, Ammenhaie, Riffhaie und Rochen entdecken.
 
 Das Baa-Atoll teilt sich das UNESCO-Biosphärenreservat mit dem Four Seasons Landaa Giraavaru ein paar Inseln weiter, was während des Südwestmonsuns den Zugang zu den Mantaansammlungen der Hanifaru Bay ermöglicht. Die hauseigene Meeresbiologin leitet Tauchgänge zur Riffbeobachtung, Mantabestimmungen und Nachtschnorcheln in der Lagune. Butlerservice, das Spa über dem Wasser und ein ernsthaftes Wassersportprogramm runden ein Angebot ab, das zu den umfassendsten im Archipel gehört.

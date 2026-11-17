@@ -1,15 +1,15 @@
 ---
 source: conrad-maldives-muraka
 destination: Rangali Island
-description: "De enige hotelsuite ter wereld met twee verdiepingen onder water: The Muraka van Conrad Maldives Rangali Island heeft slaapkamer en badkamer 5 meter onder de Indische Oceaan. Gebogen acrylpanelen aan alle kanten geven vanuit bed een uitzicht van 180 graden op levend koraalrif – rifhaaien, roggen en vissen drijven voorbij terwijl je in slaap valt."
+description: "The Muraka van Conrad Maldives Rangali Island is een residentie met twee verdiepingen waarvan de hoofdslaapkamer onder water ligt, op meer dan 16 voet (ongeveer 5 meter) onder zeeniveau in de Indische Oceaan. Een gebogen acrylkoepel van 180 graden geeft vanuit bed uitzicht op levend koraalrif – rifhaaien, roggen en vissen drijven voorbij terwijl je in slaap valt."
 highlights:
-  - De enige onderwatersuite met twee verdiepingen ter wereld
-  - Slaapkamer omringd door het koraalrif van de Indische Oceaan
+  - Volgens het resort de eerste onderwaterresidentie ter wereld
+  - Hoofdslaapkamer onder water, onder een acrylkoepel van 180 graden
   - Eigen butler en eigen kok
   - Eigen zwembad, fitnessruimte en buitenterras
   - Directe toegang tot de oceaan om te duiken en snorkelen
 amenities:
-  - Gebogen panoramische onderwaterramen
+  - Gebogen acrylkoepel van 180 graden met uitzicht op het rif
   - Eigen infinitypool
   - Eigen persoonlijke kok
   - Butlerservice, 24 uur per dag
@@ -23,12 +23,13 @@ bestFor:
   - Belevenissen die je maar één keer in je leven hebt
 seo:
   metaTitle: "Conrad Maldives Muraka: slapen onder water | StayAtNiche"
-  metaDescription: "Slapen 5 meter onder de zee in The Muraka van Conrad Maldives: de enige onderwatersuite met twee verdiepingen ter wereld, met eigen butler, kok en rifzicht."
+  metaDescription: "The Muraka van Conrad Maldives: volgens het resort de eerste onderwaterresidentie ter wereld, met de hoofdslaapkamer onder zeeniveau, butler en eigen zwembad."
+niche_feature: "The Muraka is één residentie met twee verdiepingen en 3 slaapkamers (2 boven water, 1 onderwater-hoofdslaapkamer met een acrylkoepel van 180 graden); de rest van het resort bestaat uit gewone strand- en overwatervilla's."
 ---
 
-Muraka, 'koraal' in het Dhivehi, is de meest uitzonderlijke hotelkamer op aarde. De suite werd in 2019 gelanceerd na vijf jaar ontwikkeling en vroeg om technische oplossingen die in de hotellerie nog nooit waren geprobeerd.
+Muraka, 'koraal' in het Dhivehi, is volgens het resort de eerste onderwaterresidentie ter wereld, met vier jaar technische innovatie erachter.
 
-De suite beslaat twee verdiepingen. Op de bovenste verdieping liggen een hoofdslaapkamer, een woonkamer en een buitenterras op waterniveau, met weids uitzicht over de Indische Oceaan. Een wenteltrap leidt naar de onderste verdieping: een gebogen slaapkamer en badkamer 5 meter onder het zeeoppervlak, volledig omsloten door gebogen acrylpanelen die een uitzicht van 180 graden op het levende rif geven.
+De suite beslaat twee verdiepingen. Op de bovenste verdieping liggen twee slaapkamers met eigen badkamer, woonruimtes en een buitenterras op waterniveau, met weids uitzicht over de Indische Oceaan. Een wenteltrap leidt naar de onderste verdieping: een hoofdslaapkamer onder water met badkamer, op meer dan 16 voet (ongeveer 5 meter) onder zeeniveau, omsloten door een gebogen acrylkoepel van 180 graden die uitzicht geeft op het levende rif.
 
 Gasten vallen in slaap terwijl rifhaaien, roggen en duizenden tropische vissen voorbij zwemmen. De verlichting is zorgvuldig afgesteld om het mariene ecosysteem niet te verstoren en toch genoeg licht te geven om helder het water in te kijken.
 

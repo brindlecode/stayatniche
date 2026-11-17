@@ -3,11 +3,11 @@ name: "Memories Aicha Luxury Camp"
 category: desert-camps
 destination: "Wadi Rum, Aqaba"
 country: "Jordan"
-description: "A 55-tent luxury camp in Wadi Rum with air-conditioned tents, private decks and transparent roofs for watching the stars from bed."
+description: "A 55-tent luxury camp in Wadi Rum with air-conditioned tents, private decks and Panoramic tents built for stargazing."
 priceRange: "Rates vary"
 highlights:
   - "55 tents set in the heart of Wadi Rum"
-  - "Transparent roofs for watching thousands of stars from bed"
+  - "Panoramic tents built for stargazing, with a transparent roof on the camp's domes"
   - "Air-conditioned tents with en-suite showers"
   - "Four tent categories, from 340 to 540 square feet"
   - "Five-minute drive from the Wadi Rum visitors centre"
@@ -55,7 +55,7 @@ Memories Aicha Luxury Camp is a camp of 55 tents in the heart of Wadi Rum, tucke
 
 ## The tents
 
-Each tent is furnished in yellows, oranges and reds inspired by the colours of the desert sands, and the tents have air conditioning, showers and running water. The transparent roofs let guests watch thousands of stars from bed at night, and by day a private deck looks out over the red landscape, furnished in an oriental style.
+Each tent is furnished in yellows, oranges and reds inspired by the colours of the desert sands, and the tents have air conditioning, showers and running water. The camp's home page says its domes have a transparent roof for watching thousands of stars from bed at night, and by day a private deck looks out over the red landscape, furnished in an oriental style. The Panoramic tents are the ones the camp describes as ideal for stargazing.
 
 There are four categories:
 

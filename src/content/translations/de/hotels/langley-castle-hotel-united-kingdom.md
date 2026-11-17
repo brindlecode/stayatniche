@@ -3,7 +3,7 @@ source: langley-castle-hotel-united-kingdom
 destination: "Hexham, Northumberland"
 description: "Restaurierte mittelalterliche Burg aus dem 14. Jahrhundert nahe dem Hadrianswall, mit neun Zimmern in der Hauptburg und weiteren 19 Zimmern im Gebäude Castle View, nur einen kurzen Fußweg entfernt."
 highlights:
-  - "Burg aus dem 14. Jahrhundert, 1364 erbaut, mit Mauern bis zu sieben Fuß dick"
+  - "Burg aus dem 14. Jahrhundert, erstmals 1350 erbaut, mit Mauern bis zu sieben Fuß dick"
   - "Neun individuell gestaltete Zimmer in der Hauptburg, mit Himmelbetten, in einigen mit Spa-Badewannen oder Saunen"
   - "19 hundefreundliche Zimmer im Castle View, einen kurzen Fußweg entfernt"
   - "Tägliche Führung über die Zinnen um 10:15 Uhr"
@@ -20,9 +20,10 @@ bestFor:
 seo:
   metaTitle: "Langley Castle Hotel: Burghotel bei Hexham | StayAtNiche"
   metaDescription: "Langley Castle bei Hexham: restaurierte Burg aus dem 14. Jahrhundert nahe Hadrianswall, mit neun Zimmern im Hauptgebäude und 19 hundefreundlichen Zimmern."
+niche_feature: "Neun Zimmer im Hauptschloss aus dem 14. Jahrhundert (Grade I denkmalgeschützt, Mauern bis zu sieben Fuß dick); weitere 19 Zimmer liegen in Castle View, nur einen kurzen Fußweg entfernt, dazu kommt die Villa Toll Bar Luxury Villa mit Selbstversorgung."
 ---
 
-Langley Castle ist ein restaurierter mittelalterlicher Turm im Tal des River South Tyne in Northumberland, drei Meilen südlich von Haydon Bridge. Er wurde 1364 in H-Form mit vier Geschossen und je einem Turm an jeder Ecke errichtet und ist als Grade-I-Denkmal eingestuft. Seine Mauern sind bis zu sieben Fuß dick, was dem Innenraum eine ganz besondere Ruhe verleiht.
+Langley Castle ist ein restaurierter mittelalterlicher Turm im Tal des River South Tyne in Northumberland, drei Meilen südlich von Haydon Bridge. Er wurde erstmals 1350 in H-Form mit vier Geschossen und je einem Turm an jeder Ecke errichtet und ist als Grade-I-Denkmal eingestuft. Seine Mauern sind bis zu sieben Fuß dick, was dem Innenraum eine ganz besondere Ruhe verleiht.
 
 ## Wo man schläft
 

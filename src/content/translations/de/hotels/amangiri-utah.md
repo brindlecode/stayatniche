@@ -1,20 +1,20 @@
 ---
 source: amangiri-utah
 destination: Canyon Point, Utah
-description: "Rund um einen uralten Tafelberg aus Navajo-Sandstein im Canyonland des südlichen Utah erbaut, besitzen die Suiten des Amangiri aus Sichtbeton private Tauchbecken, die so ausgerichtet sind, dass sie das leuchtende Blau und Karminrot des Wüstenhimmels einfangen. Der Hauptpool schmiegt sich an die Felswand des Tafelbergs, die Behandlungsräume des Spas schweben über dem Fels selbst."
+description: "Auf mehr als 900 Acres des Colorado-Plateaus im Canyonland des südlichen Utah gelegen, hat das Amangiri 34 moderne Suiten, ein Aman Spa und einen Pool, der an den Tafelberg gebaut ist; Camp Sarika mit seinen zehn Zeltpavillons ist das Satellitencamp."
 highlights:
-  - Resort rund um einen uralten Tafelberg gestaltet
-  - Suiten mit privatem Pool und direktem Blick auf Canyon und Tafelberg
-  - Der Mesa-Pool im Herzen des Resorts kragt über die Felsformation aus
-  - Aman Spa mit schwebenden Behandlungsräumen über dem Fels
+  - Resort um einen Tafelberg gebaut, auf mehr als 900 Acres des Colorado-Plateaus
+  - 34 Suiten plus die zehn Zeltpavillons von Camp Sarika, jeweils mit privatem Tauchbecken
+  - Pool am Tafelberg, in den eine Sandsteinfelswand hineinragt
+  - Weitläufiges Aman Spa
   - Privater Zugang zum Lake Powell und zum umliegenden Canyonland
   - Heißluftballonfahrten über die Grand Staircase bei Sonnenaufgang
   - Geführtes Canyoning, Klettern und kulturelle Wanderungen
   - Helikopterausflüge zu abgelegenen Canyonformationen
 amenities:
-  - Privates Tauchbecken (in allen Suiten)
+  - Privates Tauchbecken (in den Camp-Sarika-Pavillons)
   - Aman Spa mit umfangreichem Behandlungsangebot
-  - Beheizter Hauptpool, um eine natürliche Felsformation gebaut
+  - Hauptpool am Tafelberg gebaut
   - Mehrere Restaurants mit Blick auf Wüste und Canyon
   - Yoga- und Fitnessstudio
   - Kuratiertes Abenteuerprogramm
@@ -27,10 +27,10 @@ bestFor:
   - Outdoor-Abenteurer, die beim Komfort keine Kompromisse eingehen
 prosAndCons:
   pros:
-    - Wohl das architektonisch eindrucksvollste Resort Nordamerikas
+    - Markante minimalistische Architektur im Wüstenland aus rotem Fels
     - Amans legendär hohe Servicestandards, in der Wüste perfekt umgesetzt
     - Außergewöhnlicher Zugang zu einigen der abgelegensten Landschaften im Südwesten der USA
-    - Das Spa gehört zu den besten des Landes
+    - Ein großes Aman Spa vor Ort
   cons:
     - Eines der teuersten Hotels der Vereinigten Staaten
     - Die abgelegene Lage erfordert privaten Transport oder einen Anschlussflug nach Page, Arizona
@@ -40,26 +40,17 @@ seasonalInfo:
   bestTime: März bis Mai und September bis November für ideale Temperaturen
   peakSeason: Oktober sowie die Frühjahrsferien (März bis April)
   notes: Frühling und Herbst sind die besten Reisezeiten – warme Tage für Wanderungen und Aktivitäten im Freien, kühle Abende und das außergewöhnliche Farbenspiel der Canyonlandschaft. Der Sommer ist möglich, aber sehr heiß; im Winter fällt gelegentlich Schnee, der die Tafelberge spektakulär verwandelt.
-nearbyAttractions:
-  - name: Lake Powell und Glen Canyon National Recreation Area
-    distance: 10 km
-  - name: Grand Staircase-Escalante National Monument
-    distance: 40 km
-  - name: Antelope Canyon
-    distance: 50 km
-  - name: Bryce-Canyon-Nationalpark
-    distance: 130 km
 seo:
   metaTitle: "Amangiri Utah: Wüstenresort der Extraklasse | StayAtNiche"
-  metaDescription: "Amans Meisterwerk in der Canyonlandschaft Utahs: außergewöhnliche Architektur, herausragender Service und der Südwesten der USA vor der Tür. Ab 2.000 $ pro Nacht."
+  metaDescription: "Amans Wüstenresort im Canyonland von Süd-Utah: 34 moderne Suiten, Camp Sarikas Zeltpavillons, Pool am Tafelberg und Spa. Ab 2.000 $ pro Nacht."
 ---
 
-Das Amangiri gilt als eines der renommiertesten Wüstenhotels Nordamerikas. Allein die Architektur rechtfertigt den Flug nach Utah. Der Architekt Marwan Al-Sayed hat das gesamte Resort um einen uralten Tafelberg herum entworfen – einen Felsvorsprung aus Navajo-Sandstein, der im Kern des Gebäudes liegt. Das Ergebnis ist ein langer, flacher Komplex aus Sichtbeton und Wüstenstein, der nicht mit der Landschaft konkurriert, sondern schlicht ein Teil von ihr wird.
+Das Amangiri ist ein Wüstenresort auf mehr als 900 Acres des Colorado-Plateaus im Süden Utahs, und die Architektur ist der Hauptgrund für einen Besuch. Marwan Al-Sayed, Rick Joy und Wendell Burnett haben es entworfen, und ein Sandsteinfelsen ragt in den Hauptpool hinein. Das Ergebnis ist ein minimalistischer Komplex aus großen Betonplatten, der nicht mit der Landschaft konkurriert, sondern schlicht ein Teil von ihr wird.
 
-Der Hauptpool ist direkt an die Felswand gebaut. Die Behandlungsräume des Spas schweben darüber. Jede Sichtachse in den öffentlichen Bereichen ist so angelegt, dass sie Ihren Blick zurück auf den Fels lenkt. Das ist Architektur mit sehr klaren Prioritäten, und sie setzt sie ohne ein überflüssiges Detail um.
+Der Hauptpool ist direkt an die Felswand gebaut. Jede Sichtachse in den öffentlichen Bereichen ist so angelegt, dass sie Ihren Blick zurück auf den Fels lenkt. Das ist Architektur mit sehr klaren Prioritäten, und sie setzt sie ohne ein überflüssiges Detail um.
 
-Die Zimmer sind Übungen in Zurückhaltung: rohe Betonwände, sandfarbene Stoffe, Betten vor raumhohen Fenstern, die bestimmte Ausschnitte des Canyonpanoramas rahmen. Die privaten Tauchbecken sind so ausgerichtet, dass sie die wechselnden Farben des Himmels über Utah einfangen: leuchtendes Blau am Wüstenmorgen, Safrangelb und Karminrot bei Sonnenuntergang. Im Canyonland des südlichen Utah gehören diese Farben zu den intensivsten, die es irgendwo auf der Erde gibt.
+Die 34 Suiten sind modernistisch gestaltet und nehmen, so das Resort selbst, die raue Ästhetik der Wüste auf; jedes Zimmer hat freien Blick auf die umgebende Wüstenlandschaft. Camp Sarika, das Satellitencamp des Resorts, ergänzt zehn Zeltpavillons, jeweils mit eigenem privatem Tauchbecken.
 
-Das Aman Spa erstreckt sich über 5.000 Quadratmeter im Fels. Der schwebende Pool, über einer Spalte im Tafelberg gebaut, lässt Sie in warmem Wasser liegen, umgeben von uralter Wüste und mit nichts als Fels unter sich. Eines der eindrucksvolleren Raumerlebnisse, die ein Hotel irgendwo bieten kann.
+Das Aman Spa umfasst 25.000 Quadratfuß (rund 2.300 Quadratmeter), und der Pool ist an den Tafelberg gebaut, wobei ein Sandsteinfelsen ins Wasser hineinragt.
 
-Der Lake Powell ist 10 Kilometer entfernt, der Antelope Canyon 50, der Bryce Canyon 130. Guides bieten Helikopterausflüge zu Canyonformationen an, die auf keinem anderen Weg erreichbar sind, Kajaktouren auf der spiegelglatten Oberfläche des Sees und geführte Wanderungen in Slot Canyons, in denen der Himmel zwischen gewellten Sandsteinwänden zu einem schmalen blauen Streifen schrumpft. Buchen Sie 6 bis 12 Monate im Voraus. Dieses Hotel steht nicht leer.
+Zu den Aktivitäten zählen Helikopterflüge über aufragende Felsformationen und geführte Wanderungen in Slot Canyons, in denen der Himmel zwischen gewellten Sandsteinwänden zu einem schmalen blauen Streifen schrumpft. Buchen Sie 6 bis 12 Monate im Voraus. Dieses Hotel steht nicht leer.

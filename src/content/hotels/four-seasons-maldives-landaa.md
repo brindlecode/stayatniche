@@ -3,7 +3,7 @@ name: "Four Seasons Resort Maldives at Landaa Giraavaru"
 category: overwater-bungalows
 destination: "Baa Atoll, Maldives"
 country: "Maldives"
-description: "Positioned in Baa Atoll's UNESCO Biosphere Reserve, this Four Seasons resort sits minutes from Hanifaru Bay — where hundreds of reef mantas feed in formation between June and November — with a resident team of marine biologists running the research and guest programmes."
+description: "Positioned in Baa Atoll's UNESCO Biosphere Reserve, this Four Seasons resort sits near Hanifaru Bay, which regularly sees some of the largest gatherings of manta rays worldwide, with a resident team of marine biologists running education and environmental programmes."
 coverImage: /images/hotels/four-seasons-maldives-landaa.jpg
 gallery:
   - /images/hotels/four-seasons-maldives-landaa-2.jpg
@@ -12,14 +12,14 @@ priceRange: "$1,500 - $8,000"
 priceIndicator: 5
 highlights:
   - "UNESCO Biosphere Reserve location in Baa Atoll"
-  - "World-renowned manta ray and whale shark aggregations"
+  - "Hanifaru Bay nearby, known for large gatherings of manta rays"
   - "Resident Marine Discovery Centre with biologist team"
-  - "Overwater villas with glass floor panels and direct lagoon access"
+  - "103 villas, including water villas and beach villas"
 amenities:
-  - "Overwater villa with private plunge pool"
-  - "Glass floor panels for fish viewing"
-  - "Direct lagoon access from villa deck"
-  - "Four Seasons Spa"
+  - "Water villas and beach villas (103 villas in total)"
+  - "Water villas with mezzanine-level lofts reached by a spiral staircase"
+  - "Poolside Bar and Five Degrees North lounge"
+  - "AyurMa wellness spa"
   - "Multiple restaurants and bars"
   - "Marine Discovery Centre activities"
 bestFor:
@@ -54,10 +54,10 @@ niche_source_url: "https://press.fourseasons.com/maldiveslg/hotel-facts/"
 niche_verified_at: 2026-11-17
 ---
 
-What separates Landaa Giraavaru from the rest of the Maldives' overwater villa field is not the quality of its accommodation, considerable as that is, but where it sits and what it takes seriously. Baa Atoll holds UNESCO Biosphere Reserve status and contains some of the richest marine environments in the Indian Ocean. Hanifaru Bay, a short boat ride from the resort, is the site of the world's largest known manta ray feeding aggregations: hundreds of reef mantas arrive between June and November to feed in circular formations that have no equivalent anywhere else on the planet. Watching it from a snorkel mask is among the more disorienting wildlife experiences available.
+What separates Landaa Giraavaru from the rest of the Maldives' overwater villa field is not the quality of its accommodation, considerable as that is, but where it sits and what it takes seriously. Baa Atoll holds UNESCO Biosphere Reserve status and contains some of the richest marine environments in the Indian Ocean. Hanifaru Bay, near the resort, regularly sees some of the largest gatherings of manta rays worldwide, with up to a hundred individuals in the small inlet when the tide pushes plankton into the bay. Watching it from a snorkel mask is among the more disorienting wildlife experiences available.
 
-The overwater villas extend along wooden walkways above a lagoon of the particular electric blue that Baa Atoll does better than almost anywhere else in the archipelago. Each has a private plunge pool on the deck, direct lagoon access by steps, and glass floor panels through which reef fish, rays, and the occasional small reef shark are visible below your feet. The architecture is tropical contemporary in the classic Four Seasons mode — thatched ceilings, bleached timber, stone, and glass — but the rooms are genuinely generous in scale, built for people who intend to spend serious time in them.
+The resort has 103 villas, including water villas and beach villas. The water villas have mezzanine-level lofts reached by a spiral staircase for ocean views, and look out over a lagoon of the particular electric blue that Baa Atoll does better than almost anywhere else in the archipelago. The architecture is tropical contemporary in the classic Four Seasons mode — thatched ceilings, bleached timber, stone, and glass — but the rooms are genuinely generous in scale, built for people who intend to spend serious time in them.
 
 The Marine Discovery Centre is the intellectual core of the resort. The resident biologists run ongoing research on the Baa Atoll ecosystem alongside a full programme of guest activities: guided snorkelling to Hanifaru Bay during manta season, reef restoration dives, coral propagation workshops, and evening lectures on Indian Ocean ecology that give context to what guests are seeing. It is the kind of programme that transforms a beach holiday into something that leaves guests genuinely better informed about the environment than they were before they arrived. In the Maldives, that is a rare and valuable thing.
 
-The restaurants cover contemporary Maldivian, Japanese, Mediterranean, and casual Indian Ocean cooking, with a wine programme that could hold its own in any European capital. The overwater spa draws on traditional Maldivian healing practices alongside contemporary therapy. The resort understands, correctly, that substance and beauty are not in competition with each other.
+The restaurants and lounges include Blu (Italian), Al Barakat (Arabian), Café Landaa and Fuego Grill, plus the Five Degrees North and Poolside Bar lounges. The AyurMa wellness spa offers Ayurvedic programmes, yoga therapy and wellness treatments. The resort understands, correctly, that substance and beauty are not in competition with each other.

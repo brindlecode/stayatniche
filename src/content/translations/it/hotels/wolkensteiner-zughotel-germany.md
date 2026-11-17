@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Wolkensteiner Zughotel: hotel nei treni | StayAtNiche"
   metaDescription: "Wolkensteiner Zughotel a Wolkenstein, in Sassonia: scompartimenti da vagone letto, appartamenti in vagoni ristrutturati e ristorante in un vagone salone."
+niche_feature: "Gli ospiti dormono negli scompartimenti originali delle carrozze letto (10 scompartimenti, 1ª/2ª classe, scompartimento governativo, due suite) e in cinque vagoni «Ferienzug» con appartamenti vacanze; due appartamenti vacanze si trovano nell'edificio della stazione del 1865 (camere normali). 54 posti letto in totale."
 ---
 
 Il Wolkensteiner Zughotel è un hotel ricavato da carrozze ferroviarie nella piccola cittadina di Wolkenstein, sui Monti Metalliferi in Sassonia, tra Marienberg e Annaberg-Buchholz. Si trova in Am Bahnsteig 10, direttamente sulla B101, sotto il castello di Wolkenstein, nella valle dello Zschopau. Si presenta come l'unico hotel-treno della Germania in cui si può dormire e mangiare la cucina tradizionale dei Monti Metalliferi.

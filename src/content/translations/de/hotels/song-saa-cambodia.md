@@ -1,7 +1,7 @@
 ---
 source: song-saa-cambodia
 destination: "Inseln Koh Ouen und Koh Bong, Koh-Rong-Archipel, Kambodscha"
-description: "Zwei unbebaute Inseln im kambodschanischen Koh-Rong-Archipel, verbunden durch eine Fußgängerbrücke und ganz einem einzigen Resort vorbehalten. Wasservillen stehen über einem Meeresschutzgebiet, Dschungelvillen im tropischen Primärwald."
+description: "Zwei unbebaute Inseln im kambodschanischen Koh-Rong-Archipel, verbunden durch eine Fußgängerbrücke und ganz einem einzigen Resort vorbehalten. Wasservillen stehen über einem Meeresschutzgebiet, Dschungelvillen in einheimischer Vegetation entlang der Küste."
 highlights:
   - "Ein Resort auf zwei ganzen Inseln, Tagesbesucher nicht zugelassen"
   - "Wasservillen über einem Meeresschutzgebiet"
@@ -44,18 +44,17 @@ nearbyAttractions:
     distance: 20 km
   - name: Ream-Nationalpark
     distance: 45 km
-  - name: Sihanoukville
-    distance: 35 km per Boot
 seo:
   metaTitle: "Song Saa: Privatinsel in Kambodscha | StayAtNiche"
   metaDescription: "Song Saa Private Island im Koh-Rong-Archipel: zwei Privatinseln in Kambodscha mit Wasservillen über einem Meeresschutzgebiet und intaktem Riff – ab 1.500 $."
+niche_feature: "Overwater Villas mit einem und zwei Schlafzimmern auf Stelzen über dem Golf von Thailand; zu den 24 Villen des Resorts gehören außerdem Dschungelvillen, Villen mit Meerblick und eine Royal Villa an Land."
 ---
 
-Kambodschas Küste bekommt nicht die Aufmerksamkeit, die sie verdient. Der Koh-Rong-Archipel, eine Gruppe unbebauter Inseln im Golf von Thailand rund 35 Kilometer vor Sihanoukville, birgt einige der intaktesten Korallenriffe und Wälder Südostasiens. Song Saa Private Island nimmt zwei seiner kleinsten und am besten geschützten Inseln ein, Koh Ouen und Koh Bong, verbunden durch eine hölzerne Fußgängerbrücke und vollständig einem einzigen Resort vorbehalten.
+Kambodschas Küste bekommt nicht die Aufmerksamkeit, die sie verdient. Der Koh-Rong-Archipel, eine Gruppe unbebauter Inseln im Golf von Thailand vor der Küste Kambodschas, birgt einige der intaktesten Korallenriffe und Wälder Südostasiens. Song Saa Private Island nimmt zwei seiner kleinsten und am besten geschützten Inseln ein, Koh Ouen und Koh Bong, verbunden durch eine hölzerne Fußgängerbrücke und vollständig einem einzigen Resort vorbehalten.
 
-Die Wasservillen stehen auf Stelzen über einem Meeresschutzgebiet – die Gründer des Resorts ließen das umliegende Riff schon vor der Eröffnung unter Schutz stellen, eine Entscheidung, die das gesamte Gästeerlebnis prägt. Wer morgens direkt vom Deck schnorchelt, schwebt in klarem, warmem Wasser über lebenden Korallen. Am Hausriff leben Seepferdchen und unzählige Rifffische, und die Sicht ist von einer Klarheit, nach der Fotografen an überlaufeneren Inselzielen ihr ganzes Berufsleben suchen. Ein geführtes Tauchprogramm erweitert den Zugang noch, doch die unmittelbare, ungefilterte Verbindung zum Riff von der eigenen Villa aus ist es, die Song Saa wirklich besonders macht.
+Die Wasservillen stehen auf Stelzen über einem Meeresschutzgebiet – die Gründerin des Resorts arbeitete mit lokalen Gemeinden an der Einrichtung des ersten Meeresschutzgebiets Kambodschas, ein Engagement, das das gesamte Gästeerlebnis prägt. Wer morgens direkt vom Deck schnorchelt, schwebt in klarem, warmem Wasser über lebenden Korallen. Am Hausriff leben Seepferdchen und unzählige Rifffische, und die Sicht ist von einer Klarheit, nach der Fotografen an überlaufeneren Inselzielen ihr ganzes Berufsleben suchen. Ein geführtes Tauchprogramm erweitert den Zugang noch, doch die unmittelbare, ungefilterte Verbindung zum Riff von der eigenen Villa aus ist es, die Song Saa wirklich besonders macht.
 
-Die Dschungelvillen auf der Waldseite der Inseln liegen in tropischer Primärvegetation, wo die Rufe der Inselvögel die übliche Resort-Geräuschkulisse ersetzen. Die Architektur verwendet durchgehend wiederverwertetes Holz und Materialien aus Kambodscha, und die Ästhetik ist von bewusster Zurückhaltung geprägt: Die Inseln leisten die Arbeit, die Gebäude versuchen nicht, mit ihnen zu konkurrieren. Die Verpflegung ist all-inclusive und greift auf kambodschanische Techniken und lokale Zutaten zurück: frisch gefangener Fisch und Meeresfrüchte, schlicht zubereitet, Khmer-Currys aus hausgemachter Paste, frisches tropisches Obst zu jeder Mahlzeit.
+Song Saa hat insgesamt 24 Villen in mehreren Kategorien, darunter Dschungel-, Meerblick- und Wasservillen. Die Dschungelvillen liegen im einheimischen Buschwerk entlang der Küste, wo die Rufe der Inselvögel die übliche Resort-Geräuschkulisse ersetzen. Die Architektur verwendet durchgehend wiederverwertetes Holz und Materialien aus Kambodscha, und die Ästhetik ist von bewusster Zurückhaltung geprägt: Die Inseln leisten die Arbeit, die Gebäude versuchen nicht, mit ihnen zu konkurrieren. Die Verpflegung ist all-inclusive und greift auf kambodschanische Techniken und lokale Zutaten zurück: frisch gefangener Fisch und Meeresfrüchte, schlicht zubereitet, Khmer-Currys aus hausgemachter Paste, frisches tropisches Obst zu jeder Mahlzeit.
 
 Das Naturschutzprogramm ist hier aktiv, nicht dekorativ. Die Korallenrenaturierung läuft kontinuierlich, das Management von Plastikmüll reicht bis in die umliegenden Gewässer, und das Resort beschäftigt kambodschanische Mitarbeiter aus Gemeinden auf dem Festland, mit einem Ausbildungsprogramm, das die Haushaltseinkommen in der Region messbar verbessert. Für eine bestimmte Art von Reisenden – für jene, denen der Strandtourismus in Südostasien ästhetisch zu verbaut und ethisch zu unreflektiert ist – bietet Song Saa etwas anderes. Die Inseln sind geschützt, das Riff ist intakt, und wer hier übernachtet, trägt direkt zu beidem bei.
 ---

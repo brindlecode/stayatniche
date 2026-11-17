@@ -14,10 +14,8 @@ highlights:
 amenities:
   - "Free breakfast"
   - "Free Wi-Fi"
-  - "Laundry"
   - "Restaurant"
-  - "Car and bike rental"
-  - "24-hour room service"
+  - "Car rental through the hotel"
   - "Free bus-station transfer"
 bestFor:
   - "Independent travellers"
@@ -52,11 +50,11 @@ Melek Cave Hotel is in the middle of historic Göreme, surrounded by fairy chimn
 
 ## The rooms
 
-The site lists a Deluxe Cave Room of 35 square metres with garden, mountain and courtyard views and a double bed, and a Cave Double Room of 25 square metres with a park view. Rooms have clean, modern bathrooms and a TV.
+The site lists six cave room types: a Deluxe Cave Room (35 sq m, garden, mountain and courtyard views, double bed), a Cave Double Room (25 sq m, park view), an Arch Twin Room (25 sq m, mountain view, two single beds), a Double Cave Room (25 sq m, courtyard view, one double and one single bed), a Cave Triple Room (25 sq m, courtyard view, three single beds) and a Cave Family Room (35 sq m, town view, one double and two single beds). Rooms have clean, modern bathrooms and a TV.
 
 ## Food and facilities
 
-Breakfast is served free each morning on the terrace. There is a shared lounge for relaxing and meeting other guests, and a garden where you can sit with a drink after a day out. Other listed services include free fast Wi-Fi, a laundry, a restaurant, bike and car rental, and 24-hour room service.
+Breakfast is served free each morning on the terrace. There is a shared lounge for relaxing and meeting other guests, and a garden where you can sit with a drink after a day out. Other listed services include free fast Wi-Fi, a restaurant and car rental through the hotel.
 
 ## Getting around
 

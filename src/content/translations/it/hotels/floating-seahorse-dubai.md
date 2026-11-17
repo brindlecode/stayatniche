@@ -1,12 +1,12 @@
 ---
 source: floating-seahorse-dubai
 destination: The World Islands, Dubai
-description: "Ville galleggianti semisommerse nell’arcipelago di The World Islands, ciascuna con la camera da letto 3 metri sotto la superficie del Golfo Persico e una barriera corallina privata installata durante la costruzione, con lo skyline di Dubai visibile di notte dalla terrazza sul tetto."
+description: "Ville galleggianti al largo di The World Islands, a Dubai, distribuite su livelli subacqueo, marino e celeste, con un giardino di corallo fissato all’esterno e vista sullo skyline di Dubai."
 highlights:
   - Camera da letto semisommersa sott’acqua
   - Terrazza privata sul tetto con vista a 360° sul mare
   - Barriera corallina installata sotto ogni villa
-  - Servizio maggiordomo con motoscafo personale
+  - "La maggior parte delle ville è collegata da passerelle alla Honeymoon Island, a forma di cuore"
   - Amaca privata sull’acqua e scivolo
   - Accesso diretto alla barriera artificiale per lo snorkeling
 amenities:
@@ -22,13 +22,13 @@ bestFor:
   - Viaggi di nozze
 prosAndCons:
   pros:
-    - La camera da letto sott’acqua è assolutamente unica
-    - Privacy totale sulla propria isola
+    - "Livello subacqueo con pareti di vetro dal pavimento al soffitto affacciate su un giardino di corallo"
+    - "Vita insulare appartata con spirito di comunità"
     - Vista notturna sullo skyline di Dubai
     - La barriera corallina artificiale crea un habitat per la vita marina
   cons:
     - Molto costoso
-    - La posizione isolata richiede un trasferimento in barca
+    - "Vendute perlopiù come case private e seconde case; prenotazione in stile hotel non confermata"
     - Poche possibilità di mangiare fuori dalla villa
 seasonalInfo:
   bestTime: Da ottobre a maggio
@@ -41,15 +41,15 @@ nearbyAttractions:
     distance: 20 min in auto dal porto turistico
 seo:
   metaTitle: "Floating Seahorse, villa sott’acqua a Dubai | StayAtNiche"
-  metaDescription: "Dormi 3 metri sotto il Golfo Persico nelle ville Floating Seahorse di Dubai: lusso semisommerso su isole artificiali private, con terrazza sul tetto."
+  metaDescription: "Ville Floating Seahorse al largo di The World Islands, a Dubai: tre livelli con piano subacqueo, giardino di corallo, idromassaggio e vista sullo skyline."
 ---
 
-Dubai non ha mai brillato per sobrietà, e The Floating Seahorse è perfettamente in linea con questa tradizione. Queste ville semisommerse si trovano su The World Islands, un arcipelago artificiale a forma di mappamondo, e scendono tre metri sotto la superficie del Golfo Persico.
+Dubai non ha mai brillato per sobrietà, e The Floating Seahorse è perfettamente in linea con questa tradizione. Queste ville galleggiano al largo di The World Islands, un arcipelago artificiale a forma di mappamondo, e si sviluppano su tre livelli: subacqueo, marino e celeste.
 
-I livelli superiori sono un lusso familiare: terrazza sul tetto, amaca sospesa sull’acqua, un soggiorno con vista mare su ogni lato. Scendi la scala a chiocciola e il registro cambia. La camera da letto è completamente sommersa, circondata da vetrate panoramiche attraverso le quali si vedono di continuo gli abitanti della tua barriera corallina privata.
+I livelli superiori sono un lusso familiare: una terrazza a livello del mare con amaca sull’acqua, una cucina completamente attrezzata e, al livello celeste, un soffitto con lucernario, idromassaggio, zona pranzo e spazio per prendere il sole. Il livello più basso cambia registro: pareti di vetro dal pavimento al soffitto si affacciano sul giardino di corallo della villa e le stanze sommerse possono essere usate come camere da letto o come spazio living aggiuntivo.
 
-Al momento della costruzione, ogni villa è stata dotata di un giardino di corallo sul fondale. Da allora le barriere sono maturate fino a diventare ecosistemi funzionanti. Di giorno pesci angelo e pesci pappagallo lavorano il corallo; ogni tanto uno squalo di barriera passa a distanza di cortesia. La fauna non è densa come in una laguna delle Maldive, ma il fatto stesso che esista, coltivata sotto una villa galleggiante al largo di un’isola artificiale al largo di una città nel deserto, dice qualcosa di preciso su quanto possano spingersi l’ambizione umana e le giuste condizioni marine.
+Ogni villa ha un giardino di corallo fissato all’esterno, creato da biologi marini e acquariofili del Marine Life Sciences Centre per favorire la crescita del corallo e attirare la vita marina, con una luce notturna sopra i giardini per osservare la barriera anche dopo il tramonto. La galleria di The National mostra pesci pagliaccio, squali neonati e uno squalo tappeto visti dalle ville.
 
-Di notte la terrazza sul tetto diventa uno degli spazi all’aperto più scenografici dell’emirato. All’orizzonte si vede lo spettacolo di luci del Burj Khalifa, con il resto del profilo illuminato di Dubai disteso sull’acqua in entrambe le direzioni. Qui fuori, l’unico suono è l’acqua del Golfo contro lo scafo. L’energia della città arriva solo come un ronzio lontanissimo.
+Dalle ville si vede lo skyline di Dubai, con scorci sul Burj Khalifa.
 
-The Floating Seahorse si raggiunge solo in motoscafo privato. Il Kleindienst Group fornisce i trasferimenti e un concierge dedicato; uno chef privato si può prenotare prima dell’arrivo.
+Secondo The National, la maggior parte delle ville è collegata da passerelle alla Honeymoon Island, l’isola a forma di cuore, dove è previsto un hotel di ispirazione Portofino. Le consegne sono iniziate a fine 2020 e le ville sono state vendute come case private e seconde case (131 su 133 a giugno 2021): verifica quindi come viene organizzato un soggiorno prima di pianificare.

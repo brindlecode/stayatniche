@@ -1,7 +1,7 @@
 ---
 source: rekero-camp-masai-mara
 destination: "Masai Mara National Reserve, Rift Valley"
-description: "Rekero ist ein klassisches Zeltcamp in einem Hain aus Feigenbäumen am Ufer des Talek River im Herzen der Masai Mara. Betrieben wird es von der Governors'-Camp-Gruppe, mit Schwerpunkt auf echtem Buscherlebnis, erfahrenen Massai-Guides und der ansässigen Tierwelt eines der bekanntesten Wildreservate Kenias. Die Lage im Reservat bringt die Gäste in Reichweite herausragender Sichtungen der Großen Tierwanderung."
+description: "Rekero ist ein klassisches Zeltcamp zwischen Bäumen am Ufer des Talek River im Herzen der Masai Mara. Betrieben wird es von Asilia Africa, mit Schwerpunkt auf echtem Buscherlebnis, erfahrenen Massai-Guides und der ansässigen Tierwelt eines der bekanntesten Wildreservate Kenias. Die Lage im Reservat bringt die Gäste in Reichweite herausragender Sichtungen der Großen Tierwanderung."
 highlights:
   - "Spektakuläre Flussüberquerungen der Großen Tierwanderung am Mara River (Juli–Oktober)"
   - "Ansässige Löwenrudel, Gepardenfamilien und Leoparden in den Ebenen der Mara"
@@ -36,7 +36,7 @@ prosAndCons:
 seasonalInfo:
   bestTime: Juli bis Oktober für die Große Tierwanderung, Januar bis Februar für die Kalbungszeit im Süden
   peakSeason: August bis September (Hochphase der Flussüberquerungen)
-  notes: Die Masai Mara ist das ganze Jahr über großartig, denn die ansässigen Tiere – Löwe, Leopard, Gepard, Elefant, Büffel – sind zu jeder Jahreszeit da. Die Große Tierwanderung aus der Serengeti trifft ab Juli ein, wenn Gnus und Zebras auf der Suche nach Gras nach Norden ziehen; die dramatischen Überquerungen des Mara River konzentrieren sich auf August und September. Die grüne Saison (April–Juni) bietet eine herausragende Vogelwelt und nahezu leere Ebenen, oft zu deutlich niedrigeren Preisen.
+  notes: Die Masai Mara ist das ganze Jahr über großartig, denn die ansässigen Tiere – Löwe, Leopard, Gepard, Elefant, Büffel – sind zu jeder Jahreszeit da. Die Große Tierwanderung aus der Serengeti trifft ab Juli ein, wenn Gnus und Zebras auf der Suche nach Gras nach Norden ziehen; die dramatischen Überquerungen des Mara River konzentrieren sich auf August und September. Die grüne Saison (April–Juni) bietet eine herausragende Vogelwelt und nahezu leere Ebenen, oft zu deutlich niedrigeren Preisen. Das Rekero Camp selbst ist von April bis Mai geschlossen und von Juni bis März geöffnet.
 nearbyAttractions:
   - name: Überquerungsstellen am Mara River
     distance: 10 km
@@ -53,9 +53,9 @@ seo:
 
 Das offene, sanft gewellte Grasland der Masai Mara, das sich unter dem ostafrikanischen Himmel bis zu jedem Horizont erstreckt, beherbergt eine außergewöhnliche Dichte an großen Säugetieren im weiteren Serengeti-Ökosystem – die Mara ist dessen nördliche Fortsetzung auf kenianischem Boden. Liegt ein Camp an der richtigen Stelle im Reservat, sind die Tiere unmittelbar und ständig präsent, statt etwas, zu dem man erst fahren muss.
 
-Rekero liegt in einem Hain hoch aufragender Feigenbäume am Talek River. Seine zehn klassischen Leinwandzelte reihen sich am Flussufer auf, im Stil der großen ostafrikanischen Camps aus der Zeit der kolonialen Jagdsafaris, heute aber ganz der Fotosafari und Tierbeobachtung gewidmet. Leinwandwände und Holzrahmen lassen die Geräusche des Buschs unmittelbar herein – das Revierhusten eines Leoparden irgendwo in der Dunkelheit, die fernen Kontaktrufe eines Löwenrudels, die Flusspferde im Fluss unterhalb –, und die Veranden hoch über dem Ufer machen jeden Morgen zu etwas, worauf man sich freut.
+Rekero liegt zwischen Bäumen am Talek River. Seine neun klassischen Safarizelte reihen sich am Flussufer auf, im Stil der großen ostafrikanischen Camps aus der Zeit der kolonialen Jagdsafaris, heute aber ganz der Fotosafari und Tierbeobachtung gewidmet. Leinwandwände und Holzrahmen lassen die Geräusche des Buschs unmittelbar herein – das Revierhusten eines Leoparden irgendwo in der Dunkelheit, die fernen Kontaktrufe eines Löwenrudels, die Flusspferde im Fluss unterhalb –, und die Veranden hoch über dem Ufer machen jeden Morgen zu etwas, worauf man sich freut.
 
-Der Uferkorridor des Talek River gehört das ganze Jahr über zu den tierreichsten Gebieten der Mara, und der Feigenhain, der das Camp beschirmt, ist ein verlässlicher Lebensraum für Leoparden, die regelmäßig vom Camp selbst aus gesichtet werden. Auf den offenen Ebenen rund um das Camp, die in das weitere Reservat übergehen, leben Gepardenfamilien, deren tägliche Jagdzüge man stundenlang verfolgen kann, wenn das Fahrzeug bereit ist, Schritt zu halten, und Löwenrudel, deren Reviere das Campgelände überschneiden, werden vom Guide-Team zuverlässig aufgespürt.
+Der Uferkorridor des Talek River gehört das ganze Jahr über zu den tierreichsten Gebieten der Mara, und die Bäume, die das Camp beschirmen, sind Lebensraum für Leoparden, die regelmäßig vom Camp selbst aus gesichtet werden. Auf den offenen Ebenen rund um das Camp, die in das weitere Reservat übergehen, leben Gepardenfamilien, deren tägliche Jagdzüge man stundenlang verfolgen kann, wenn das Fahrzeug bereit ist, Schritt zu halten, und Löwenrudel, deren Reviere das Campgelände überschneiden, werden vom Guide-Team zuverlässig aufgespürt.
 
 Wenn zwischen Juli und Oktober die Große Tierwanderung aus Tansania eintrifft, durchqueren Hunderttausende Gnus und Zebras den Mara River an traditionellen Übergangsstellen – jeder einzelne Sprung ins von Krokodilen bewachte Wasser eine eigene, chaotische Kalkulation. Dank der Lage im Reservat und der Kenntnis der Guides über die Übergangsstellen am Fluss ist dieses Schauspiel von Rekero aus zuverlässig erreichbar und keine Frage von Glück und Timing.
 

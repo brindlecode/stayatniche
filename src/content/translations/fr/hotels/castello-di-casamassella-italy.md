@@ -33,7 +33,7 @@ La journée commence par un petit-déjeuner généreux, dont le château est fie
 
 ## Autour du château
 
-Le château se dresse au cœur de Casamassella, sur la Piazza Vittorio Emanuele II, et accueille également des événements et des mariages. La côte du Salento autour d'Otrante est tout proche, ce qui permet d'alterner entre la quiétude du château et les plages et vieilles villes du talon de la botte italienne.
+Le château se dresse au cœur de Casamassella, sur la Piazza Vittorio Emanuele II, et accueille également des événements et des mariages. Son site propose aussi le château en usage exclusif, en location autonome (« Rent a castle »), il vaut donc la peine de demander si l'on peut réserver tout le bâtiment plutôt qu'une seule chambre. La côte du Salento autour d'Otrante est tout proche, ce qui permet d'alterner entre la quiétude du château et les plages et vieilles villes du talon de la botte italienne.
 
 ## Avant de partir
 

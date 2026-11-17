@@ -1,9 +1,9 @@
 ---
 source: the-dune-camp-botswana
 destination: "Deception Valley Private Reserve, Kalahari centrale"
-description: "Un lodge nel deserto del Kalahari, in una riserva privata di 43.000 ettari, che unisce safari in jeep e passeggiate guidate dalle guide San."
+description: "Un lodge safari nel Kalahari, in una riserva privata di 43.000 ettari, che unisce safari in jeep e passeggiate guidate dalle guide San."
 highlights:
-  - "Lodge di otto camere nella Deception Valley Private Reserve, di 43.000 ettari"
+  - "Lodge di otto suite nella Deception Valley Private Reserve, di 43.000 ettari"
   - "Sul confine nord-orientale della Central Kalahari Game Reserve"
   - "Safari in jeep di giorno e di notte"
   - "Passeggiata culturale guidata con guide San di lingua naro"
@@ -15,15 +15,15 @@ bestFor:
   - "Viaggiatori interessati alla cultura"
   - "Coppie"
 seo:
-  metaTitle: "The Dune Camp: campo nel deserto in Botswana | StayAtNiche"
-  metaDescription: "The Dune Camp nella Deception Valley del Kalahari: otto camere, safari di giorno e di notte e passeggiate culturali con guide San in Botswana."
+  metaTitle: "The Dune Camp: lodge safari in Botswana | StayAtNiche"
+  metaDescription: "The Dune Camp nella Deception Valley del Kalahari: otto suite, safari di giorno e di notte e passeggiate culturali con guide San in Botswana."
 ---
 
 The Dune Camp è un lodge nel Kalahari gestito da Bush Ways Botswana, immerso tra dune rosse sul confine nord-orientale della Central Kalahari Game Reserve. Si trova all’interno della Deception Valley Private Reserve, che si estende per 43.000 ettari di natura selvaggia del Kalahari ed è una delle riserve private di fauna più grandi del Botswana.
 
 ## Il lodge
 
-Il lodge ha otto camere. Bush Ways descrive la sua offerta come un ventaglio che va dai campi tendati più intimi ai lodge tradizionali per safari, e The Dune Camp rientra in questa collezione come struttura nel deserto. L’alloggio è la base per ciò che la riserva offre, più che il motivo principale del viaggio.
+Il lodge ha otto suite. Bush Ways gestisce una serie di campi e lodge in tutto il Botswana, e The Dune Camp è il suo lodge safari nella Deception Valley Private Reserve. L’alloggio è la base per ciò che la riserva offre, più che il motivo principale del viaggio.
 
 ## Il paesaggio
 

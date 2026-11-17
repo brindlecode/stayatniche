@@ -21,13 +21,14 @@ bestFor:
 seo:
   metaTitle: "Borgo Castello Panicaglia: kasteel Umbrië | StayAtNiche"
   metaDescription: "Borgo Castello Panicaglia in Umbrië: gastenverblijf in een kasteel uit 1266, met zwembad, restaurant, kookles en kamers met een eigen naam, op 800 meter."
+niche_feature: "Kamers in een kasteel uit 1266 in het borgo van Panicaglia; op de site staan ongeveer 17 kamers en suites met een naam, plus het vakantiehuis Michele, dat tegen het hotel aan ligt en dus niet in het kasteel zit."
 ---
 
 Borgo Castello Panicaglia is gevestigd in een kasteel uit 1266 in het kleine middeleeuwse dorp Panicaglia, in Umbrië. Het ligt op 800 meter hoogte, met uitzicht over de Umbrische bergen, en werkt als gastenverblijf waar je wordt uitgenodigd om deel te nemen aan het familieleven: even in de keuken kijken, meehelpen in de moestuin of neerstrijken in een van de vele loungehoekjes.
 
 ## De kamers
 
-Het kasteel heeft een opvallend lange lijst kamers, elk met een eigen naam. Ze variëren van tweepersoons- en driepersoonskamers tot luxe suites en familiesuites. De kamer Raffaele is een tweepersoonskamer van 35 m² met een luxe badkamer en een klein privéterras op de eerste verdieping van het hoofdgebouw. Angelo is een luxe suite van 45 m² met een eigen ingang, Mariastella een familiesuite van 55 m² voor vijf personen en Cardinale Pietro Marini een deluxe suite van 60 m² voor twee tot vier personen. Giovanni is een tweepersoonskamer van 35 m², geschikt voor gasten met een beperkte mobiliteit. Sommige naastgelegen kamers, zoals Raffaele en Caterina, kunnen worden samengevoegd tot een suite voor vier personen.
+Het gastenverblijf heeft een opvallend lange lijst kamers, elk met een eigen naam. Ze variëren van tweepersoons- en driepersoonskamers tot luxe suites en familiesuites. De kamer Raffaele is een tweepersoonskamer van 35 m² met een luxe badkamer en een klein privéterras op de eerste verdieping van het hoofdgebouw. Angelo is een luxe suite van 45 m² met een eigen ingang, Mariastella een familiesuite van 55 m² voor vijf personen en Cardinale Pietro Marini een deluxe suite van 60 m² voor twee tot vier personen. Giovanni is een tweepersoonskamer van 35 m², geschikt voor gasten met een beperkte mobiliteit. Sommige naastgelegen kamers, zoals Raffaele en Caterina, kunnen worden samengevoegd tot een suite voor vier personen. De volledige lijst omvat ook Rosa, Olimpia, Tobia, Assunta, Sabatina, Luigi, Gaspera, Geltrude, Daniele en Sante, plus het vakantiehuis Michele, dat aan het hotel vastzit en niet in het kasteel ligt. Niet elke kamer ligt in het hoofdgebouw: Daniele en Geltrude zitten bijvoorbeeld in een bijgebouw.
 
 Elke kamer heeft een eigen badkamer en thee- en koffiefaciliteiten, en het ontbijt is in de prijs inbegrepen. Dikke muren en houten balkenplafonds horen bij het karakter, net als het uitzicht over de Umbrische heuvels.
 

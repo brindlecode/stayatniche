@@ -199,7 +199,7 @@ const metaDesc = seo.metaDescription || experience.data.description;
             highlights={hotel.data.highlights}
             bookingUrl={hotel.data.bookingUrl}
             slug={hotel.slug}
-            category={hotel.data.category}
+            category={hotel.data.category} nicheScope={hotel.data.niche_scope} nicheBadge={hotel.data.niche_badge} closed={!!hotel.data.closure}
             featured={hotel.data.featured}
           />
         ))}

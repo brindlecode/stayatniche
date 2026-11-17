@@ -4,7 +4,7 @@ category: train-hotels
 destination: "Pretoria to Cape Town (and beyond)"
 country: "South Africa"
 continent: "Africa"
-description: "A luxury private train, Rovos Rail runs privately owned vintage carriages, each restored to period specification, across southern Africa's most dramatic routes. The Pretoria to Cape Town journey crosses the Karoo; the Cape to Cairo epic takes two weeks. Service and comfort rival those of many five star hotels."
+description: "A luxury private train, Rovos Rail runs privately owned vintage carriages, each restored to period specification, on routes across southern Africa. The Pretoria to Cape Town journey crosses the Karoo; the Cape Town to Dar es Salaam journey takes 15 nights."
 coverImage: /images/hotels/rovos-rail-south-africa.jpg
 gallery:
   - /images/hotels/rovos-rail-south-africa-2.jpg
@@ -12,14 +12,14 @@ gallery:
 priceRange: "$2,800 - $18,000"
 priceIndicator: 5
 highlights:
-  - "Widely acclaimed as one of the world's great luxury trains"
+  - "Private luxury train based in Pretoria, running multi-night journeys across southern Africa"
   - "Private owner-operated, not a corporate product but a personal passion project"
   - "Pretoria to Cape Town journey through the Karoo, one of Africa's great landscapes"
   - "Observation car at the rear of the train for panoramic outdoor viewing"
   - "Exceptional multi-course dining with South African wines"
-  - "Epic multi-week journeys including Pretoria to Dar es Salaam"
+  - "Long journeys including Cape Town to Dar es Salaam (15 nights)"
 amenities:
-  - "Royal, Deluxe, and Pullman suites, some with private en-suite bathrooms and lounge areas"
+  - "Royal, Deluxe, and Pullman suites, all with private en-suite facilities"
   - "Outdoor observation car"
   - "Full dining car with multi-course meals and South African wines"
   - "Lounge car for socialising"
@@ -47,7 +47,7 @@ rating: 9.8
 seasonalInfo:
   bestTime: Year-round for the Cape Town route; dry season for East African routes
   peakSeason: South African summer (December–January) and winter (June–August) for peak demand
-  notes: The flagship Pretoria–Cape Town route operates year-round and is spectacular in every season. The Karoo landscape is dramatic in winter frost and summer heat alike, and the Cape winelands arrival is always a pleasure. East African routes are best timed to avoid heavy rains. The legendary Cape to Cairo route is a once in a lifetime multi-week journey.
+  notes: The flagship Pretoria–Cape Town route operates year-round and is spectacular in every season. The Karoo landscape is dramatic in winter frost and summer heat alike, and the Cape winelands arrival is always a pleasure. East African routes are best timed to avoid heavy rains. The Cape Town to Dar es Salaam route is a 15-night journey.
 nearbyAttractions:
   - name: Pretoria (departure)
     distance: Departure point
@@ -87,9 +87,9 @@ niche_source_url: "https://en.wikipedia.org/wiki/Rovos_Rail"
 niche_verified_at: 2026-11-17
 ---
 
-Rovos Rail is not a company in the way most luxury travel businesses are companies. It is a passion expressed in rolling stock. Rohan Vos began acquiring and restoring vintage railway carriages in the 1980s as a personal project, a way of preserving the magnificent coaches of southern Africa's golden age of rail, which were being scrapped as the continent's railway networks contracted, and what began as a collector's obsession has become, over forty years, one of the best-known privately operated luxury trains in the world.
+Rovos Rail is not a company in the way most luxury travel businesses are companies. It is a passion expressed in rolling stock. Rohan Vos began acquiring and restoring vintage railway carriages in the 1980s as a personal project, a way of preserving the magnificent coaches of southern Africa's golden age of rail, which were being scrapped as the continent's railway networks contracted, and what began as a collector's obsession has become, over forty years, a privately operated luxury train running to a regular schedule across southern Africa.
 
-The carriages are authentic: Victorian-era coaches converted from their original purposes, or early twentieth-century sleeping cars built for the Union Limited and other prestigious services of the British Empire railway era, each restored with extraordinary fidelity to its period character. Teak panelling, brass fittings, original windows modified for air conditioning and safety, and private en-suite bathrooms where the original wagon-lits washbasins once stood. The Royal Suites, 16 square metres of private compartment with a full-sized bed, couch, bathroom, and windows on three sides, represent a standard of space and privacy that no comparable train can match.
+The carriages are restored vintage coaches: the train consists of restored National Railways of Zimbabwe (NRZ) coaches with two lounges, two restaurant cars and private sleeping compartments, each with private en-suite facilities. There are three types of accommodation: the smallest is the Pullman, at 76 square feet, and the largest is the Royal Suite, half a train car at 172 square feet (about 16 square metres). All have an en-suite shower, sink and toilet, and the Royal Suite also has a Victorian-style bathtub.
 
 The observation car, attached to the rear of the train, is the feature that most consistently stops passengers in their tracks: an outdoor platform at the tail where guests stand and watch the African landscape recede behind them, unobstructed by glass, close enough to the track to feel the heat and hear the sound of the Karoo, with nothing between them and the continent. In the early morning, when the air is cold and the flat topped hills of the Karoo catch the first horizontal light, it is the kind of vantage point that only an open observation platform can provide.
 
@@ -97,4 +97,4 @@ The dining car operates on a formal table setting basis that is entirely appropr
 
 Off-train excursions are included at selected stops: Kimberley's diamond mines, Matjiesfontein's extraordinary time-capsule of Victorian colonial culture, the Cape Winelands at the end of the journey. But the train itself is the destination: the sound of the steam engine (on heritage sections), the rhythm of the tracks, the slow revelation of a continent through plate glass and open air.
 
-The Cape to Cairo route (15 days through Zimbabwe, Zambia, Tanzania, and Kenya) is the journey to plan toward. It has very few rivals in any form of travel.
+The Cape Town to Dar es Salaam route (15 nights) is the journey to plan toward.

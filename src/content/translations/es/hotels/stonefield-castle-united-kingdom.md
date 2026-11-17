@@ -26,7 +26,7 @@ Stonefield Castle es un castillo en el sentido victoriano: una gran casa señori
 
 ## La casa
 
-Gran parte del interior original sigue en su sitio: paneles de madera, techos ornamentados y chimeneas de mármol. El edificio está catalogado en categoría B. Las habitaciones, todas decoradas de forma individual y con baño propio, tienen vistas a los jardines y al lago.
+Gran parte del interior original sigue en su sitio: paneles de madera, techos ornamentados y chimeneas de mármol. El edificio está catalogado en categoría B. El hotel tiene 38 habitaciones decoradas de forma individual y con baño propio, con vistas a los jardines y al lago.
 
 ## Los jardines
 

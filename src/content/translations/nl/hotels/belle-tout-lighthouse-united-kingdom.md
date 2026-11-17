@@ -21,6 +21,7 @@ bestFor:
 seo:
   metaTitle: "Vuurtorenhotel Belle Tout bij Beachy Head | StayAtNiche"
   metaDescription: "B&B in de vuurtoren Belle Tout uit 1832 op de kliffen van Beachy Head: zes kamers, waarvan er maar één in de toren ligt, voor gasten vanaf 16 jaar."
+niche_feature: "Slechts 1 van de 6 slaapkamers, de Keeper's Loft, ligt in de oorspronkelijke granieten vuurtoren; de andere vijf kamers zijn gewone slaapkamers met eigen badkamer in de rest van het gebouw."
 ---
 
 Belle Tout is een vuurtoren-B&B op de kliffen van Beachy Head, bij Eastbourne in East Sussex. De vuurtoren is in 1832 gebouwd en gerestaureerd, en kijkt uit over het Kanaal, de Seven Sisters en het glooiende landschap van de South Downs. Er worden maar zes kamers aangeboden, en alle hebben een eigen badkamer.

@@ -1,11 +1,11 @@
 ---
 source: amberley-castle-england
 destination: "Amberley, Sussex de l'Ouest"
-description: "Un château du XIIe siècle dans le Sussex de l'Ouest, avec ses courtines de 18 mètres toujours intactes, une herse levée et abaissée chaque jour et 19 chambres, toutes différentes, aménagées dans les tours et le châtelet d'entrée d'origine."
+description: "Un château du Sussex de l'Ouest dont les origines remontent à 1103, toujours ceint d'une courtine de 18 mètres et dont l'entrée est gardée par une ancienne herse, avec 19 chambres, toutes différentes, réparties dans plusieurs parties du domaine."
 highlights:
-  - "Herse du XIIe siècle en état de marche, toujours levée et abaissée chaque jour"
-  - "Courtines de 18 mètres et créneaux d'origine dans un état exceptionnel"
-  - "Chambres dans les tours, dont la spectaculaire Queen's Room dans le châtelet d'entrée"
+  - "Une ancienne herse à l'entrée du château"
+  - "Une courtine de 18 mètres qui entoure toujours le château, avec un châtelet à deux tours"
+  - "19 chambres réparties dans le domaine, du Manor House et des Tower House Mews à la Bishopric Dairy"
   - "Un parc de 900 ans avec des ifs historiques et une pelouse de croquet"
   - "Au cœur des South Downs, le plus jeune parc national d'Angleterre"
 amenities:
@@ -24,9 +24,9 @@ bestFor:
   - "Les gourmets curieux de bonne cuisine britannique"
 prosAndCons:
   pros:
-    - "L'un des châteaux les mieux conservés d'Angleterre parmi ceux transformés en hôtel"
+    - "Un authentique château médiéval riche d'environ 900 ans d'histoire, transformé en hôtel"
     - "L'arrivée sous la herse est un moment réellement théâtral et grisant"
-    - "Des chambres dans les tours, aux véritables proportions médiévales"
+    - "Des chambres au caractère et à l'emplacement variés : aucune ne ressemble à une autre"
     - "Le petit nombre de chambres garantit un service attentif et personnalisé"
     - "Facile d'accès depuis Londres (90 minutes en train)"
   cons:
@@ -50,16 +50,17 @@ nearbyAttractions:
     distance: "22 km"
 seo:
   metaTitle: "Amberley Castle : château-hôtel en Angleterre | StayAtNiche"
-  metaDescription: "Amberley Castle, château du XIIe siècle dans les South Downs : herse en état de marche, créneaux d'origine, chambres dans les tours, à 90 min de Londres."
+  metaDescription: "Amberley Castle, dans le Sussex de l'Ouest : château médiéval devenu hôtel, avec ancienne herse, courtine de 18 m et 19 chambres, près d'Arundel."
+niche_feature: "Véritable château médiéval ceint de remparts ; ses 19 chambres sont réparties dans différentes parties du domaine : Manor House, Tower House Mews et Gatehouse Suites, ces dernières dans la Bishopric Dairy du XVIIe siècle, juste au-delà des murs."
 ---
 
-La herse d'Amberley Castle retombe derrière vous dans un bruit de fer contre la pierre, lent et lourd, qui dissipe tout doute sur l'endroit où vous vous trouvez. Vous êtes à l'intérieur d'un château du XIIe siècle. Le monde extérieur est de l'autre côté de 18 mètres de courtine médiévale. Ce n'est pas une image.
+On entre à Amberley Castle en passant sous une ancienne herse, et cela dissipe tout doute sur l'endroit où l'on se trouve. Vous êtes à l'intérieur d'un château dont les origines remontent à 1103. Le monde extérieur est de l'autre côté d'une courtine de 18 mètres. Ce n'est pas une image.
 
-Construit comme résidence de campagne fortifiée pour les évêques de Chichester, Amberley est occupé depuis 1100 environ et nous est parvenu presque intact. Les courtines se dressent à leur hauteur d'origine. Le châtelet contrôle toujours l'unique entrée. Le parc, enclos dans l'enceinte ancienne, possède cette qualité ramassée et comme suspendue que seuls les véritables jardins médiévaux atteignent : des ifs plus vieux que n'importe quel hôte encore en vie, une pelouse de croquet au sein d'un édifice bâti pour la défense et, le soir, un silence que la campagne des South Downs, au-dehors, vient renforcer.
+Construit comme résidence de campagne fortifiée pour les évêques de Chichester, Amberley est occupé depuis le début du XIIe siècle. La courtine de 18 mètres ceint toujours le château, même si 6 à 9 mètres en ont été perdus quand les défenses ont été détruites en 1643, pendant la guerre civile. Un châtelet à deux tours se dresse au sud. Le parc, enclos dans l'enceinte ancienne, possède cette qualité ramassée et comme suspendue que seuls les véritables jardins médiévaux atteignent : des ifs plus vieux que n'importe quel hôte encore en vie, une pelouse de croquet au sein d'un édifice bâti pour la défense et, le soir, un silence que la campagne des South Downs, au-dehors, vient renforcer.
 
 **Les chambres**
 
-Chacune des 19 chambres et suites a été conçue en fonction du caractère physique de la partie du château qu'elle occupe : aucune ne ressemble à une autre. Les chambres des tours ont la verticalité ramassée de la construction médiévale : des murs d'un mètre d'épaisseur, des fenêtres profondément enfoncées dans la pierre qui laissent filtrer une lumière parcimonieuse, et un calme acoustique que les techniques modernes sont incapables de reproduire. La Queen's Room, dans le châtelet d'origine, est celle à réserver si elle est libre : une chambre assez haute pour accueillir un véritable lit à baldaquin, avec vue directe sur l'accès au pont-levis, et la conscience que chaque personnage important entré dans ce château en neuf siècles est passé juste sous son plancher.
+Chacune des 19 chambres et suites est conçue individuellement et occupe une partie différente du domaine, du Manor House et des Tower House Mews à la Bishopric Dairy, au-delà des murs : aucune ne ressemble à une autre.
 
 Les salles de bains ont été intégrées avec soin dans des espaces qui n'avaient jamais été conçus pour la plomberie, et la literie comme le linge sont d'excellente qualité. L'alliance fonctionne : pierre ancienne et confort moderne cohabitent sans la maladresse habituelle.
 

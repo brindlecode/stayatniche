@@ -5,7 +5,7 @@ description: "Un château baronnial cinq étoiles du XIXe siècle au pied du Ben
 highlights:
   - "Château baronnial du XIXe siècle, bâti en 1863"
   - "Chambres et suites dans le château, avec vue sur le domaine et le loch"
-  - "Huit Walled Garden Rooms dans l'ancienne écurie, chacune avec balcon ou terrasse"
+  - "Chambres et suites Walled Garden dans l'ancienne écurie, chacune avec balcon ou terrasse"
   - "Gate Lodge avec une chambre double et une chambre simple"
   - "Expérience gastronomique Seasgair signée Michel Roux"
 amenities:
@@ -19,6 +19,7 @@ bestFor:
 seo:
   metaTitle: "Inverlochy Castle : château-hôtel en Écosse | StayAtNiche"
   metaDescription: "Inverlochy Castle près de Fort William : château baronnial de 1863 au pied du Ben Nevis, avec chambres dans le château, Walled Garden Rooms et Gate Lodge."
+niche_feature: "Les chambres et suites du château se trouvent dans le château de style baronnial écossais du XIXe siècle (1863) ; les chambres du Walled Garden occupent une ancienne écurie transformée, à cinq minutes, et le Gate Lodge est un pavillon d'entrée victorien distinct. Le site officiel le présente aussi comme une demeure de campagne victorienne."
 ---
 
 Inverlochy Castle est un manoir baronnial du XIXe siècle, posé entre montagne et loch près de Fort William. Il a été construit en 1863 par William Scarlett, 3e baron Abinger, et la reine Victoria y a passé une semaine lors d'une visite à Balmoral en 1873. Il tire son nom du château d'Inverlochy, bien plus ancien, datant du XIIIe siècle, qui se trouve à environ deux miles. Aujourd'hui, c'est un hôtel cinq étoiles.
@@ -28,7 +29,7 @@ Inverlochy Castle est un manoir baronnial du XIXe siècle, posé entre montagne 
 Les chambres se répartissent entre le bâtiment principal du château et les jardins, avec trois types d'hébergement :
 
 - **Chambres et suites du château** sont décorées individuellement avec des meubles anciens et offrent une vue sur le domaine et le loch.
-- **Walled Garden Rooms** : huit chambres aménagées dans une ancienne écurie, donnant sur le jardin clos de murs, chacune avec balcon ou terrasse.
+- **Walled Garden Rooms** : des chambres et suites aménagées dans une ancienne écurie, à cinq minutes à pied du château, donnant sur le jardin clos de murs, chacune avec balcon ou terrasse.
 - **The Gate Lodge** est une maisonnette intime sur le domaine, à quelques pas du château, près de l'entrée principale, avec une chambre double et une chambre simple.
 
 ## Table et découvertes

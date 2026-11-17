@@ -1,9 +1,9 @@
 ---
 source: kakslauttanen-finland
 destination: Saariselkä, Finnisch-Lappland
-description: "Mehr als sechzig beheizte Glasiglus, verstreut in einem Kiefernwald auf 68 Grad nördlicher Breite – jedes eine private Sternwarte mit einem Kingsize-Bett, das direkt in den finnischen Himmel zeigt. Yrjö Rissanen baute das erste Iglu 1999 aus einer einfachen Überlegung heraus: Warum die Polarlichter an einem kalten Fenster beobachten, wenn man es auch aus einem warmen Bett tun kann?"
+description: "Beheizte Glasiglus, verstreut in einem Kiefernwald auf 68 Grad nördlicher Breite – jedes eine private Sternwarte mit Betten unter einem Glasdach, die in den finnischen Himmel blicken. Der Gedanke ist einfach: Warum die Polarlichter an einem kalten Fenster beobachten, wenn man es auch aus einem warmen Bett tun kann?"
 highlights:
-  - Das größte Glasiglu-Dorf der Welt mit über 65 einzelnen Iglus
+  - Kleine, große und Kelo-Glasiglus im Ost- und im Westdorf des Resorts
   - Thermoglas bleibt selbst bei bis zu -30 °C klar
   - Rentiersafaris und Huskyschlittenfahrten direkt vor der Tür
   - Traditionelle finnische Rauchsauna auf dem Gelände
@@ -14,7 +14,7 @@ highlights:
 amenities:
   - Beheiztes Glasiglu aus Thermoglas
   - Eigenes Bad
-  - Doppelbett mit Blick in den Himmel
+  - Betten unter einem Glasdach (in den kleinen Iglus zwei Einzelbetten)
   - Finnisches Frühstück inklusive
   - WLAN im Zimmer
   - Täglicher Saunazugang
@@ -51,14 +51,15 @@ nearbyAttractions:
     distance: 40 km
 seo:
   metaTitle: "Kakslauttanen: Glasiglu in Finnisch-Lappland | StayAtNiche"
-  metaDescription: "Schlafen unter Nordlichtern: Das Kakslauttanen Arctic Resort in Lappland ist das größte Glasiglu-Dorf der Welt – mit beheizten Iglus ab 400 $ pro Nacht."
+  metaDescription: "Schlafen unter Nordlichtern: Das Kakslauttanen Arctic Resort in Finnisch-Lappland bietet beheizte Glasiglus im Ost- und Westdorf, ab 400 $ pro Nacht."
+niche_feature: "Glasiglus (kleine, große sowie Kelo-Glasiglus mit Schlafzimmern im Blockhaus-Stil) im Ost- und im Westdorf, daneben gewöhnliche Blockhütten und Chalets, Suiten und Schneeiglus. Die Glasiglus sind von Ende August bis April in Betrieb."
 ---
 
 Manche Orte existieren in der kollektiven Vorstellung von Reisenden lange bevor sie sie je besuchen, und das Kakslauttanen Arctic Resort gehört unbedingt dazu. Auf 68 Grad nördlicher Breite in der Wildnis Finnisch-Lapplands gelegen, ist diese Ansammlung von Thermoglas-Iglus zur maßgeblichen Antwort auf die Frage geworden, die jeden Polarlichtjäger umtreibt: Wo auf der Welt schläft man am allerbesten unter den Nordlichtern?
 
-Die Antwort lautet, wie sich zeigt: in einer beheizten Glaskuppel in einem verschneiten Kiefernwald, 35 Kilometer nördlich des Polarkreises.
+Die Antwort lautet, wie sich zeigt: in einer beheizten Glaskuppel in einem verschneiten Kiefernwald, nördlich des Polarkreises.
 
-Yrjö Rissanen baute hier 1999 das erste Glasiglu, angetrieben von einer einfachen, aber radikalen Idee: Warum sollten Gäste drinnen schlafen und nur hoffen, die Aurora durch ein kaltes Fenster zu erhaschen? Heute sind mehr als 65 Glasiglus über das von Kiefern bewachsene Gelände des Resorts verteilt, jedes eine private Sternwarte mit einem Kingsize-Bett, das perfekt auf den finnischen Himmel ausgerichtet ist. Das Thermoglas ist so konstruiert, dass es selbst bei -30 °C kristallklar bleibt: kein Kondenswasser, keine Eisblumen, nur ein ungestörtes Sternenzelt – und in den richtigen Nächten die grünen und violetten Vorhänge der Aurora borealis, die direkt über einem hinwegziehen.
+Die Idee ist einfach, aber radikal: Warum sollten Gäste drinnen schlafen und nur hoffen, die Aurora durch ein kaltes Fenster zu erhaschen? Die Glasiglus des Resorts – von kleinen Iglus mit zwei Einzelbetten bis zu Kelo-Glasiglus mit Schlafzimmern im Blockhausstil – verteilen sich über das von Kiefern bewachsene Gelände, jedes eine private Sternwarte unter einem Glasdach. Das Thermoglas ist so konstruiert, dass es selbst bei -30 °C kristallklar bleibt: kein Kondenswasser, keine Eisblumen, nur ein ungestörtes Sternenzelt – und in den richtigen Nächten die grünen und violetten Vorhänge der Aurora borealis, die direkt über einem hinwegziehen.
 
 Was Kakslauttanen über eine bloße Kuriosität hinaushebt, ist die schiere Qualität des Drumherum. Die Tage folgen dem Rhythmus der winterlichen Wildnis Lapplands: Schneemobil-Expeditionen in den weitläufigen Urho-Kekkonen-Nationalpark, Rentierschlittenfahrten durch alten Urwald, Huskysafaris mit Gespannen aus Sibirischen und Alaskan Huskys, deren geballte Begeisterung wirklich ansteckend ist, und Eisfischen auf zugefrorenen Seen, wo die Stille so vollkommen ist, dass sie selbst zum Geräusch wird.
 

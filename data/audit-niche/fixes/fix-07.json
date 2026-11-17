@@ -1,0 +1,366 @@
+[
+ {
+  "slug": "snowhotel-kirkenes-norway",
+  "issue": "Page says carved anew each winter; official says Snowhotel 365 is cooled and open year-round",
+  "action": "corrected",
+  "detail": "Description, highlight and body now say the Snowhotel 365 is cooled and kept frozen all year (not rebuilt each winter), rooms hand-carved by international ice sculptors; removed 'commissioned artists / new brief each season / photographed before spring melt'. Mirrored in de/fr/es/it/nl.",
+  "source_url": "https://www.snowresortkirkenes.com/snow-hotel"
+ },
+ {
+  "slug": "snowhotel-kirkenes-norway",
+  "issue": "Now trades as Snow Resort Kirkenes / Snowhotel 365",
+  "action": "corrected",
+  "detail": "Body now states hotel stands at Snow Resort Kirkenes (Bjørnevatn) and trades as Snowhotel 365; founded 2006. Name field untouched.",
+  "source_url": "https://www.snowresortkirkenes.com/about-us"
+ },
+ {
+  "slug": "snowhotel-kirkenes-norway",
+  "issue": "Site 'in the birch woodland outside the city', annual commissioned artist murals and ice bar not confirmed by the source",
+  "action": "corrected",
+  "detail": "Removed birch woodland, below-freezing-Nov-Mar claim, annual commissioned-artist murals/reliefs/bas-reliefs. Replaced with Bjørnevatn location (Sandnesdalen 14, 9910 Bjørnevatn per official site). Ice bar is confirmed on official snow-hotel page so kept.",
+  "source_url": "https://www.snowresortkirkenes.com/snow-hotel"
+ },
+ {
+  "slug": "snowhotel-kirkenes-norway",
+  "issue": "Official says original hotel had eight rooms in 2006, none of the page's room details verified",
+  "action": "corrected",
+  "detail": "Added the original 2006 hotel had eight rooms and an ice bar. Removed '-40C sleeping bag rating', 'standard ice hotel protocol' and 'widely adopted'; kept -4C, thermal sleeping bags, reindeer hide, heated lounge/sauna/showers, warm Gamme cabins, all stated on official pages. 'Adjacent' cabins reworded to 'at the resort'.",
+  "source_url": "https://www.snowresortkirkenes.com/snow-hotel"
+ },
+ {
+  "slug": "sorrisniva-igloo-hotel-norway",
+  "issue": "Official says 'second of its kind'; page says 'Norway's original' / first, built since 2000 not confirmed",
+  "action": "corrected",
+  "detail": "Replaced 'Norway's original/first ... since 2000' with 'second ice hotel of its kind in the world' and 'pioneered in Norway in 1999' (official history: second of its kind; 1999 decision to pioneer an ice hotel in Norway). 'World's northernmost' kept but attributed to the hotel. Meta description updated in all translations.",
+  "source_url": "https://www.sorrisniva.no/igloo-hotel-history"
+ },
+ {
+  "slug": "sorrisniva-igloo-hotel-norway",
+  "issue": "Page says built each November and December; official says open Dec 20 to Mar 31",
+  "action": "corrected",
+  "detail": "Now says rebuilt every winter, open 20 Dec to 31 Mar; construction about five weeks, ice cut from a nearby mountain lake (not the frozen Alta River), snow made from river water.",
+  "source_url": "https://www.sorrisniva.no/hotels/igloo-hotel"
+ },
+ {
+  "slug": "sorrisniva-igloo-hotel-norway",
+  "issue": "Adjacent Alta Museum claim unsupported",
+  "action": "corrected",
+  "detail": "Removed 'adjacent'/'ten minutes away' and the 'world's largest collection' superlative and unsourced dating. Now only states the Alta Museum / Rock Art of Alta is a UNESCO site listed 1985 with 6,000+ carvings found, per Wikipedia. Highlight replaced by supported fact (20+ rooms and suites, ice chapel).",
+  "source_url": "https://en.wikipedia.org/wiki/Rock_Art_of_Alta"
+ },
+ {
+  "slug": "sorrisniva-igloo-hotel-norway",
+  "issue": "Official gives 2,500 m2, 250 tonnes of ice; page's room temperatures and sleeping-bag ratings not confirmed",
+  "action": "corrected",
+  "detail": "Added 2,500 m2, 250 t ice, 7,000 m3 snow. Room temperature corrected to a steady -4 to -7C (was -4 to -6), sleeping bags: two per person each rated to -30C, on reindeer skins (official 'How to sleep in the Igloo Hotel' leaflet). Removed unsupported ice bar 'lined with reindeer skins/reindeer skin seating', 'most memorable night' and 'faint blue light' claims.",
+  "source_url": "https://www.sorrisniva.no/igloo-hotel-history"
+ },
+ {
+  "slug": "cristalino-lodge-brazil",
+  "issue": "Reserve is 11,399 hectares per official site, page says 1,100",
+  "action": "corrected",
+  "detail": "1,100 -> 11,399 hectares (RPPN) in description, highlight, body and all translations.",
+  "source_url": "https://cristalinolodge.com.br/conservation/rainforest-reserve"
+ },
+ {
+  "slug": "cristalino-lodge-brazil",
+  "issue": "Page says 'simple wooden rooms with mosquito nets... nothing remotely luxurious'; official lists air-conditioned bungalows of 53-79 m2 with private gardens and outdoor baths",
+  "action": "corrected",
+  "detail": "Removed 'simple wooden rooms with mosquito nets / hammocks on private verandas / nothing remotely luxurious'. Now describes air-conditioned bungalows and suites of 53 to 79 m2 with private garden and outdoor shower, Special Bungalow with secluded outdoor bath and veranda with hammock, plus a smaller standard room.",
+  "source_url": "https://cristalinolodge.com.br/the-lodge/accommodations"
+ },
+ {
+  "slug": "cristalino-lodge-brazil",
+  "issue": "Pioneer since 1999, 600+ birds, 50 m tower and night boat safaris not confirmed on pages read",
+  "action": "corrected",
+  "detail": "Official backstory: lodge founded 1990 as first of its kind in Mato Grosso Amazon (1999 was the Foundation) -> '1999' replaced by 1990 everywhere, 'twenty-five years' -> 'decades'. '600+ birds' replaced with official 595 species registered in the Cristalino and Alta Floresta area (not within the reserve alone). Towers: two, each 50 m (official), not 'one 50 m'. Night boat safaris not on official site -> removed and replaced by canoeing/boat trips that the site does list. 'Research library' -> 'Reading room' (official social areas). Meta descriptions updated.",
+  "source_url": "https://cristalinolodge.com.br/southern-amazon/avifauna"
+ },
+ {
+  "slug": "guacamayo-ecolodge-ecuador",
+  "issue": "Official rooms page does not say the huts are wooden; 'wooden' is unsupported",
+  "action": "deleted",
+  "detail": "Removed 'wooden' (huts / Holzhütten etc.) from description, highlights, meta and body in all six languages; official rooms page only calls them huts/rooms.",
+  "source_url": "https://www.guacamayoecolodge.com/rooms/"
+ },
+ {
+  "slug": "guacamayo-ecolodge-ecuador",
+  "issue": "Rating 8.3 and 'primary rainforest' wording not stated as such by the lodge beyond 'primary forest' views",
+  "action": "corrected",
+  "detail": "Lodge-level 'primary rainforest' reworded to 'rainforest' (description, highlight, meta, body, translations); 'primary forest' kept only where the official rooms page says the rooms/balconies overlook the primary forest. Rating field is off-limits and left unchanged (not a text claim on the page).",
+  "source_url": "https://www.guacamayoecolodge.com/rooms/"
+ },
+ {
+  "slug": "inkaterra-machu-picchu",
+  "issue": "Page says 83 casitas; official site says 80",
+  "action": "corrected",
+  "detail": "83 -> 80 casitas in description, highlight, meta, body and all translations.",
+  "source_url": "https://www.inkaterra.com/inkaterra/inkaterra-machu-picchu-pueblo-hotel/the-experience/"
+ },
+ {
+  "slug": "inkaterra-machu-picchu",
+  "issue": "Page says 'closest accommodation to Machu Picchu' and 'only property inside genuine cloud forest' - unsupported superlatives",
+  "action": "deleted",
+  "detail": "Removed 'closest accommodation to Machu Picchu' (highlight) and 'the only property inside genuine cloud forest' (pro); also removed 'only private orchid reserve in Peru'. Replaced with the official 'just across from the Machu Picchu Pueblo train station' and 'private five-hectare mountainside reserve'. Altitude corrected 2,040 -> about 2,020 m per official site.",
+  "source_url": "https://www.inkaterra.com/inkaterra/inkaterra-machu-picchu-pueblo-hotel/the-experience/"
+ },
+ {
+  "slug": "inkaterra-machu-picchu",
+  "issue": "Andean bear conservation programme on the grounds not confirmed on the fetched official page",
+  "action": "deleted",
+  "detail": "Searched official experience, rooms, services, excursions and dining pages: no mention of Andean/spectacled bear or a conservation programme. Removed from highlights and body; replaced by official fact of 317 registered bird species.",
+  "source_url": "https://www.inkaterra.com/inkaterra/inkaterra-machu-picchu-pueblo-hotel/the-experience/"
+ },
+ {
+  "slug": "inkaterra-machu-picchu",
+  "issue": "Page says '370 species' of orchid; official says 372 (minor), and 'largest in Peru' vs official 'world's largest native orchid collection'",
+  "action": "corrected",
+  "detail": "Now 372 registered species, described as 'what the hotel describes as the world's largest native orchid collection' (attributed to the hotel) instead of 'largest private collection in Peru'; meta description updated; removed unsupported 'resident botanical team'.",
+  "source_url": "https://www.inkaterra.com/inkaterra/inkaterra-machu-picchu-pueblo-hotel/the-experience/"
+ },
+ {
+  "slug": "mashpi-lodge-ecuador",
+  "issue": "Page says 1,200-hectare reserve; official reserves page says 3,200-hectare Mashpi Reserve",
+  "action": "corrected",
+  "detail": "1,200 -> 3,200 hectares in description and highlight (also in translations). Official reserve and biology pages and why-mashpi say 3,200 ha; note the lodge's birdwatching page says 5,000 ha, an internal inconsistency on the official site, so the figure from the reserve page was used.",
+  "source_url": "https://www.mashpilodge.com/the-reserve/"
+ },
+ {
+  "slug": "mashpi-lodge-ecuador",
+  "issue": "Page says 'over 400' bird species; official says 'some 400'",
+  "action": "corrected",
+  "detail": "'Over 400 / 400+' -> 'some 400' (official reserve page: 'some 400 species of birds spotted to date, 36 endemic') in description, highlight, meta, body and translations.",
+  "source_url": "https://www.mashpilodge.com/the-reserve/"
+ },
+ {
+  "slug": "mashpi-lodge-ecuador",
+  "issue": "45 mammal species and 'three-storey' building not confirmed on official pages fetched",
+  "action": "deleted",
+  "detail": "Removed the '45 mammal species' figure (official biology page lists 98 mammal species incl. 42 non-flying, so 45 is not supported; none used instead), the unsupported 'hundreds of endemic orchids and frogs catalogued' (replaced by the official 36 endemic birds and 28 new species described) and 'three-storey'. Added 47 guests from official site.",
+  "source_url": "https://www.mashpilodge.com/biology/"
+ },
+ {
+  "slug": "mashpi-lodge-ecuador",
+  "issue": "'Two hours from Quito' vs official 'about 3-hour drive' from the Equator monument (different reference point; transfer time not verified)",
+  "action": "corrected",
+  "detail": "'Two hours from Quito' replaced: description now says northwest of Quito; body/meta no longer give two hours. Transfer time now stated as the lodge's own FAQ figure of 3.5 to 4.5 hours from Quito (why-mashpi page also says about three hours from Quito's Financial District).",
+  "source_url": "https://www.mashpilodge.com/faq/"
+ },
+ {
+  "slug": "shinta-mani-wild-cambodia",
+  "issue": "Page says nine tented suites; official says 15 tents",
+  "action": "corrected",
+  "detail": "Nine tented suites -> 15 tents (Bensley-designed, dotted along the river) in description, highlight, meta, body, all translations. Removed 'king beds / elevated platforms with rain-jungle views' detail not on the official page.",
+  "source_url": "https://www.shintamani.com/wild/"
+ },
+ {
+  "slug": "shinta-mani-wild-cambodia",
+  "issue": "Page says 45,000-hectare concession and 70+ rangers; official says 350-hectare (865-acre) property and funds Wildlife Alliance rangers",
+  "action": "corrected",
+  "detail": "Removed '45,000-hectare concession' and '70-plus rangers'; now states the 350-hectare (865-acre) property per the official impact page. Also removed the unsupported tiger claim and used the official list (50+ endangered species incl. elephants, sun bears, pangolins, clouded leopards, pileated gibbons).",
+  "source_url": "https://shintamani.com/wild/impact/"
+ },
+ {
+  "slug": "shinta-mani-wild-cambodia",
+  "issue": "Page says resort funds and staffs its own anti-poaching team; official says it funds Wildlife Alliance rangers",
+  "action": "corrected",
+  "detail": "Reworded everywhere to: resort helps fund Wildlife Alliance (Cambodian NGO), built an on-site ranger station for them, says it pays the rangers' expenses and equipment; guests can join rangers on motorbike patrols of 2-6 hours (official wording; removed 'early morning' and the 'learn to identify traps' details).",
+  "source_url": "https://shintamani.com/wild/impact/"
+ },
+ {
+  "slug": "shinta-mani-wild-cambodia",
+  "issue": "'Most dramatic arrival of any lodge in Southeast Asia' is an unsupported superlative",
+  "action": "deleted",
+  "detail": "Replaced with 'an exhilarating flight over the treetops' (official wording 'exhilarating, 400-meter flight over the treetops'); removed 'Bangkok-based architect who defined the visual language of luxury eco lodges' superlative. 'Accessible only by zipline' changed to 'reached by zipline' because the same paragraph says there is also a longer forest walk.",
+  "source_url": "https://www.shintamani.com/wild/"
+ },
+ {
+  "slug": "corsewall-lighthouse-hotel-scotland",
+  "issue": "'Working lighthouse' not stated on the official pages fetched",
+  "action": "corrected",
+  "detail": "Official pages only say 'former lighthouse keepers' accommodation'. Wikipedia (Corsewall Lighthouse) states the light was automated in 1994 and is monitored/operated by the Northern Lighthouse Board. Reworded description, highlight, meta and body from 'is a working lighthouse' to a hotel at a lighthouse that has been automated and monitored by the NLB since 1994 (hotel occupies only part of the original buildings); mirrored in all translations.",
+  "source_url": "https://en.wikipedia.org/wiki/Corsewall_Lighthouse"
+ },
+ {
+  "slug": "corsewall-lighthouse-hotel-scotland",
+  "issue": "Page says 'Rhins of Galloway' coast; official pages only say south-west Scotland / Corsewall Point, Kirkcolm",
+  "action": "not_an_issue",
+  "detail": "Wikipedia's Corsewall Lighthouse article is categorised under 'Rhins of Galloway' (Corsewall Point/Kirkcolm is on that peninsula), so the geographic reference is citable; left as is. Body text now also says south-west Scotland, which the official site uses.",
+  "source_url": "https://en.wikipedia.org/wiki/Corsewall_Lighthouse"
+ },
+ {
+  "slug": "lindesnes-lighthouse-norway",
+  "issue": "No hotel: official booking site offers a single holiday apartment sleeping 6 (4 beds plus sofa bed)",
+  "action": "corrected",
+  "detail": "Page rewritten in all six languages to say it is not a hotel: the only accommodation is a single holiday apartment in half of the former assistant keeper's house (other half lives the duty keeper), per Norwegian Wikipedia. The sleeps-6 detail could not be re-checked (lindesnesfyr.no is behind a Cloudflare challenge) so capacity is not stated. Category/name framing (page title 'Hotel', category lighthouse-hotels) left as is: not a text fix.",
+  "source_url": "https://no.wikipedia.org/wiki/Lindesnes_fyr"
+ },
+ {
+  "slug": "lindesnes-lighthouse-norway",
+  "issue": "Rock-carved rooms, spa, sauna, hot tubs, restaurant and storm-watching lounge are not supported by any source",
+  "action": "deleted",
+  "detail": "Removed rock-carved rooms, restaurant/seafood and wine list, spa, sauna, outdoor hot tubs, storm-watching lounge, guided tours, northern lights, midnight-sun and architecture claims from description, highlights, amenities, bestFor, prosAndCons, seasonalInfo, body, meta; replaced with facts from Norwegian/English Wikipedia (1656 first light, 1915 cast-iron tower, 1920 station layout, museum opened 2004 in visitor centre in the rock, keepers on duty 24 h, ~80,000 visitors per year, diaphone foghorn).",
+  "source_url": "https://no.wikipedia.org/wiki/Lindesnes_fyr"
+ },
+ {
+  "slug": "lindesnes-lighthouse-norway",
+  "issue": "Prices of $350-650 unsupported: official apartment rate is NOK 950-1,200 per night",
+  "action": "not_fixed",
+  "detail": "Removed '$350/night' from the meta description and all price/'premium pricing' text in prosAndCons. The priceRange/priceIndicator frontmatter fields are off-limits under the brief and still read '$350 - $650'; no apartment rate is stated on the page because the official booking site could not be fetched (Cloudflare) to confirm NOK 950-1,200.",
+  "source_url": null
+ },
+ {
+  "slug": "lindesnes-lighthouse-norway",
+  "issue": "County given as Vest-Agder; now Agder",
+  "action": "not_fixed",
+  "detail": "Body now says Agder county (formerly Vest-Agder) and meta title no longer mentions Vest-Agder (en.wikipedia/no.wikipedia: Agder county). The frontmatter field destination: \"Lindesnes, Vest-Agder\" is off-limits under the brief and still reads Vest-Agder in all six files (location.region is already Agder).",
+  "source_url": "https://no.wikipedia.org/wiki/Lindesnes_fyr"
+ },
+ {
+  "slug": "lindesnes-lighthouse-norway",
+  "issue": "Current tower is a 1915 steel structure; 1656 is the date of the first light",
+  "action": "corrected",
+  "detail": "Description/highlights no longer say 'operational since 1656'; body now says the first light was lit on 27 Feb 1656 (put out the same autumn, station counted as founded 1656) and that the present 16.1 m cast-iron tower dates from 1915 (no.wikipedia says cast iron, en.wikipedia says cast iron; 'steel' in the audit note not used).",
+  "source_url": "https://no.wikipedia.org/wiki/Lindesnes_fyr"
+ },
+ {
+  "slug": "quirpon-lighthouse-inn-canada",
+  "issue": "Booking widget on official page references 2021 dates, so current season/opening not confirmed",
+  "action": "not_an_issue",
+  "detail": "The page makes no claim about opening dates or a current season (it only says iceberg season is long and runs into the fall, which matches the official page). Official page (fetched via WebFetch; curl is Cloudflare-blocked) does not state open months. Nothing to change.",
+  "source_url": "https://www.linkumtours.com/accommodations/quirpon-lighthouse-inn/"
+ },
+ {
+  "slug": "quirpon-lighthouse-inn-canada",
+  "issue": "Iceberg Alley and 'quintessential lighthouse life' wording not checked against the page",
+  "action": "not_an_issue",
+  "detail": "Checked against the official page: it says the inn is on the 'Iceberg Alley' shoreline, 'A deserted island offers the quintessential experience of lighthouse life', ten rooms at the base of a still-operating lighthouse, 1922 light-keeper's home, all meals included, 5.5 km walk from Grandmother's Cove, longest iceberg-viewing season in Newfoundland, Zodiac tours. All match the page; no edit.",
+  "source_url": "https://www.linkumtours.com/accommodations/quirpon-lighthouse-inn/"
+ },
+ {
+  "slug": "vuurtoren-van-harlingen-netherlands",
+  "issue": "Dedicated site vuurtoren-harlingen.nl has an expired SSL certificate (could not be read safely)",
+  "action": "skipped_not_text",
+  "detail": "Not a claim in the page text; officialWebsite is an off-limits field. All page claims (three floors, bathroom level with round and rain shower, floating bed, table for two in the lantern room, gallery walk, 360-degree view with Vlieland/Terschelling, four other lighthouses at night, keeper bringing breakfast with fresh rolls, three-quarters of a century of service) were re-checked against the operator's own page at dromenaanzee.nl/vuurtoren and match; no edit.",
+  "source_url": "https://www.dromenaanzee.nl/vuurtoren"
+ },
+ {
+  "slug": "bora-bora-nui-resort",
+  "issue": "Resort now operates as Conrad Bora Bora Nui; page uses old name",
+  "action": "corrected",
+  "detail": "Body and description now state it operates as Conrad Bora Bora Nui (Forbes Travel Guide), on the islet of Motu To'opua with 114 villas. The name field is off-limits and unchanged.",
+  "source_url": "https://forbestravelguide.com/hotels/bora-bora-french-polynesia/conrad-bora-bora-nui"
+ },
+ {
+  "slug": "bora-bora-nui-resort",
+  "issue": "Closed for renovation early 2026 per press, reopened 1 May 2026",
+  "action": "not_found",
+  "detail": "The page makes no claim about being open/closed or about renovation, and no citable source for the closure/reopening could be fetched (Hilton site 403; Forbes page gives no dates). No edit.",
+  "source_url": null
+ },
+ {
+  "slug": "bora-bora-nui-resort",
+  "issue": "Not every villa is overwater (beach, garden and hillside villas exist)",
+  "action": "corrected",
+  "detail": "Description, highlight and body now say most of the 114 villas are overwater bungalows alongside beachfront, garden and hillside villas (Forbes Travel Guide); bungalow statements (glass floors, deck steps, spaciousness) are now attributed to the overwater bungalows. Removed the unsupported 'unobstructed views of Otemanu from every bungalow deck' and 'outer reef' site claim (Forbes only says Motu To'opua).",
+  "source_url": "https://forbestravelguide.com/hotels/bora-bora-french-polynesia/conrad-bora-bora-nui"
+ },
+ {
+  "slug": "bora-bora-nui-resort",
+  "issue": "Unsupported claims: 'format was invented here', views of Otemanu from every deck, 'among the best' snorkelling",
+  "action": "deleted",
+  "detail": "Deleted 'the format was invented here' / 'ground zero', 'unobstructed views of Mount Otemanu from every bungalow deck' (and the walkway-orientation sentence), and 'among the best snorkelling in French Polynesia'; 'excellent' snorkelling softened to 'rewarding'; highlight 'Exceptional snorkelling' neutralised. Mirrored in de/fr/es/it/nl including meta descriptions.",
+  "source_url": "https://forbestravelguide.com/hotels/bora-bora-french-polynesia/conrad-bora-bora-nui"
+ },
+ {
+  "slug": "four-seasons-maldives-landaa",
+  "issue": "Not all 103 villas are overwater; beach villas exist",
+  "action": "corrected",
+  "detail": "Highlights, amenities and body now say 103 villas including water villas and beach villas (official fact sheet lists both types, gives no overwater count); 'overwater villas' statements removed from description/body; 'overwater spa' replaced by the fact sheet's AyurMa wellness spa and the restaurant list corrected to the fact sheet (Blu, Al Barakat, Cafe Landaa, Fuego Grill, Five Degrees North, Poolside Bar). Mirrored in all translations.",
+  "source_url": "https://press.fourseasons.com/maldiveslg/hotel-facts/"
+ },
+ {
+  "slug": "four-seasons-maldives-landaa",
+  "issue": "Superlatives: world's largest known manta aggregations",
+  "action": "corrected",
+  "detail": "'World's largest known manta ray feeding aggregations ... hundreds ... June to November' replaced by Wikipedia's 'regularly sees some of the largest gatherings of manta rays worldwide with up to one hundred individuals'; the season months and 'a short boat ride / minutes' (not on official sheet) removed; 'world-renowned manta and whale shark aggregations' highlight neutralised.",
+  "source_url": "https://en.wikipedia.org/wiki/Baa_Atoll"
+ },
+ {
+  "slug": "four-seasons-maldives-landaa",
+  "issue": "Plunge pool and glass floor panels in each villa not confirmed",
+  "action": "deleted",
+  "detail": "Removed 'each has a private plunge pool, glass floor panels, direct lagoon access by steps', the amenity entries for plunge pool/glass floors/direct lagoon access and the 'glass floors' meta mention. Official fact sheet only gives water villas with mezzanine-level lofts via spiral staircase.",
+  "source_url": "https://press.fourseasons.com/maldiveslg/hotel-facts/"
+ },
+ {
+  "slug": "gili-lankanfushi-maldives",
+  "issue": "Private Reserve is 1,700 sqm on the official page, not 1,600 sqm",
+  "action": "corrected",
+  "detail": "1,600 -> 1,700 sqm everywhere (description, highlight, body, meta, translations); private compound details aligned with the official villa page (infinity pool, private cinema, semi open-air bathroom, two en suite guest rooms instead of 'separate guest house').",
+  "source_url": "https://gili-lankanfushi.com/maldives-luxury-resort/the-private-reserve"
+ },
+ {
+  "slug": "gili-lankanfushi-maldives",
+  "issue": "'World's largest overwater villa' is the resort's own claim ('largest stand-alone overwater villa')",
+  "action": "corrected",
+  "detail": "Now attributed to the resort: 'which the resort describes as / calls the largest stand-alone overwater villa in the world' (official: 'The largest standalone overwater villa in the world'); removed 'by measure / nachweislich'.",
+  "source_url": "https://gili-lankanfushi.com/maldives-luxury-resort/the-private-reserve"
+ },
+ {
+  "slug": "gili-lankanfushi-maldives",
+  "issue": "'Twenty minutes by speedboat' and sustainability-ranking claims not confirmed",
+  "action": "deleted",
+  "detail": "Removed 'twenty minutes by speedboat' (official site only says speed boat transfers, no duration) from description, body, meta; removed 'top of the field', 'well ahead of the Maldivian pack', 'multiple acclaimed', coral restoration with measurable targets, desalination, plastics elimination and annual-report claims. Replaced with what the official site states: Gili Veshi environmental arm, pioneering coral lines project 'first of its kind in the Maldives', EarthCheck Gold 2025 award image, reef-cleaning activities and eco-tours, 45 villas and residences.",
+  "source_url": "https://gili-lankanfushi.com/"
+ },
+ {
+  "slug": "misool-eco-resort-indonesia",
+  "issue": "States 18 overwater bungalows; official lists 8 Water Cottages (stilts) plus 12 villas, 20 units total, only some overwater",
+  "action": "corrected",
+  "detail": "Replaced '18 overwater bungalows / Eighteen bungalows over the water' with the official unit list: eight Water Cottages on stilts over the North Lagoon, four North Lagoon Villas, seven South Beach Villas and the secluded Villa Rajawali (no total stated by the site, so none given); removed the invented bungalow design details (dark timber, mosquito nets). Description, highlight, meta, body and all translations.",
+  "source_url": "https://misool.info/accommodation"
+ },
+ {
+  "slug": "misool-eco-resort-indonesia",
+  "issue": "'Most biodiverse marine ecosystem ever recorded' / 'more than anywhere on earth' is unsupported superlative",
+  "action": "corrected",
+  "detail": "Replaced with 'regarded as the global epicentre of tropical marine biodiversity' (Wikipedia, Raja Ampat Islands) in description, highlights, meta and translations; removed 'more species of fish and coral than anywhere else on earth'.",
+  "source_url": "https://en.wikipedia.org/wiki/Raja_Ampat_Islands"
+ },
+ {
+  "slug": "misool-eco-resort-indonesia",
+  "issue": "1,220 km2 reserve size, '8 metres' clarity and '4 hours south of Sorong' not confirmed by the official pages read",
+  "action": "deleted",
+  "detail": "Official misool.info pages read give no reserve size, water-clarity depth or transfer time; removed 1,220 km2 (highlight and body), the 8-metre visibility claim and '4 hours south of Sorong' in all six languages.",
+  "source_url": "https://misool.info/accommodation"
+ },
+ {
+  "slug": "misool-eco-resort-indonesia",
+  "issue": "Destination says West Papua; Raja Ampat is now in Southwest Papua province",
+  "action": "not_fixed",
+  "detail": "Body now says Southwest Papua (Wikipedia: Raja Ampat Islands, Southwest Papua province). The frontmatter field destination: 'Raja Ampat, West Papua' is off-limits under the brief and was left unchanged in all six files (location.region already says Southwest Papua).",
+  "source_url": "https://en.wikipedia.org/wiki/Raja_Ampat_Islands"
+ },
+ {
+  "slug": "palafitos-overwater-bungalows-mexico",
+  "issue": "'On stilts' is inferred from the name 'palafitos'; official pages do not state construction",
+  "action": "deleted",
+  "detail": "Removed 'on stilts' / pilotes / palafitte / Pfählen / palen from description, highlight, meta and body and the sentence about the name referring to stilt houses; rooms are now simply overwater bungalows (official: Overwater Bungalows, 'floating over the water'). All six languages.",
+  "source_url": "https://www.lomashospitality.com/en/hotel-palafitos-in-playa-del-carmen/"
+ },
+ {
+  "slug": "palafitos-overwater-bungalows-mexico",
+  "issue": "Official address is KM 45, Carretera Cancun-Tulum (Riviera Maya), not a Playa del Carmen street address",
+  "action": "corrected",
+  "detail": "Body now states the official address KM 45, Carretera Cancún-Tulum, Riviera Maya, Quintana Roo, and says the hotel is listed under Playa del Carmen rather than in the town itself. destination/location fields are off-limits and unchanged; no frontmatter address field exists on the page.",
+  "source_url": "https://www.lomashospitality.com/en/hotel-palafitos-in-playa-del-carmen/"
+ },
+ {
+  "slug": "palafitos-overwater-bungalows-mexico",
+  "issue": "Amenities list only the restaurant; official page also lists spa and other facilities",
+  "action": "corrected",
+  "detail": "Amenities now: Overwater Grill & Bar, spa (listed on the official site's menu, no details), glass floor in the bedroom, premium whirlpool tub in the Elite bungalows; body mentions the spa and whirlpool tub. The official page mentions no pool or gym, so none added. Mirrored in all translations (4 amenity items each).",
+  "source_url": "https://www.lomashospitality.com/en/hotel-palafitos-in-playa-del-carmen/"
+ }
+]

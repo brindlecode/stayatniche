@@ -1,9 +1,9 @@
 ---
 source: tulloch-castle-hotel-united-kingdom
 destination: "Dingwall, Highland, Escocia"
-description: "Hotel-castillo del siglo XII en Dingwall, con 22 habitaciones con baño privado, un gran salón con paneles de madera de 250 años y chimeneas y techos originales restaurados."
+description: "Hotel-castillo en Dingwall, que el hotel data del siglo XII, con 22 habitaciones con baño privado, un gran salón con paneles de madera de 250 años y chimeneas y techos originales restaurados."
 highlights:
-  - "Castillo del siglo XII"
+  - "Castillo que el hotel data del siglo XII"
   - "22 habitaciones con baño privado, cada una con carácter propio"
   - "Gran salón con paneles de madera de 250 años"
   - "Chimeneas y techos originales restaurados"
@@ -18,10 +18,10 @@ bestFor:
   - "Bodas y eventos"
 seo:
   metaTitle: "Tulloch Castle Hotel: castillo en Dingwall | StayAtNiche"
-  metaDescription: "Tulloch Castle Hotel en Dingwall: castillo del siglo XII con 22 habitaciones, salón de paneles de madera y perros bienvenidos en Escocia."
+  metaDescription: "Tulloch Castle Hotel en Dingwall: hotel-castillo con 22 habitaciones, salón de paneles de madera y perros bienvenidos en las Highlands escocesas."
 ---
 
-Tulloch Castle se remonta al siglo XII, cuando los Bain y, más tarde, el clan Davidson reclamaron sus tierras. Desde entonces su historia ha dado muchos giros, y hoy es un hotel en Dingwall, en las Highlands escocesas. Antaño, solo el laird o el jefe del clan podía alojarse en un castillo de las Highlands como este; hoy cualquiera puede reservar una habitación.
+El hotel data Tulloch Castle en el siglo XII, cuando los Bain y, más tarde, el clan Davidson reclamaron sus tierras; según Wikipedia, el castillo probablemente data como mínimo de finales del siglo XIV. Sufrió daños por un incendio en 1845 y se amplió en 1891. Desde entonces su historia ha dado muchos giros, y hoy es un hotel en Dingwall, en las Highlands escocesas. Antaño, solo el laird o el jefe del clan podía alojarse en un castillo de las Highlands como este; hoy cualquiera puede reservar una habitación.
 
 ## El castillo
 

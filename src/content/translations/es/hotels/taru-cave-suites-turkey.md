@@ -24,7 +24,7 @@ seo:
   metaDescription: "Taru Cave Suites en Ürgüp: habitaciones cueva de diseño, restaurante y bar, aparcamiento gratuito, desayuno incluido y recepción 24 horas en Capadocia."
 ---
 
-Taru Cave Suites es un hotel cueva boutique en Ürgüp que combina, según el hotel, elegancia, autenticidad y comodidades modernas. Sus habitaciones se describen como «habitaciones cueva de diseño elegante», así que el ambiente de cueva se aplica a toda la estancia.
+Taru Cave Suites es un hotel cueva boutique en Ürgüp que combina, según el hotel, elegancia, autenticidad y comodidades modernas. Sus habitaciones se describen como «habitaciones cueva de diseño elegante», pero la web no indica cómo están construidas ni cuántas habitaciones hay.
 
 ## Las habitaciones
 

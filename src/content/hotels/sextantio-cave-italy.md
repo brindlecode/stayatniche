@@ -4,7 +4,7 @@ category: "cave-hotels"
 destination: "Matera"
 country: "Italy"
 continent: "Europe"
-description: "Eighteen cave chambers in Matera's ancient sassi district, restored to expose their original tuff-stone walls and vaulted ceilings rather than conceal them — a city once called 'the shame of Italy' now home to one of its most sought-after hotels."
+description: "Eighteen cave rooms in the Civita, the oldest part of Matera's Sassi, renovated to retain their original features, plus an ancient church used as a common area, in a city once called 'the shame of Italy'. The same property also runs separate non-cave rooms at Palazzo della Civita."
 coverImage: "/images/hotels/sextantio-cave-italy.jpg"
 gallery:
   - "/images/hotels/sextantio-cave-italy-1.jpg"
@@ -13,11 +13,9 @@ gallery:
 priceRange: "$300 - $600"
 priceIndicator: 4
 highlights:
-  - "Rooms carved into sassi caves inhabited since the Paleolithic era"
-  - "UNESCO World Heritage Site, one of the oldest continuously inhabited settlements on earth"
+  - "Rooms in sassi caves in the Civita, the oldest part of the Sassi"
+  - "UNESCO World Heritage Site since 1993"
   - "Each cave suite preserves original materials: stone, terracotta, and tuff"
-  - "Winner of numerous international design and conservation awards"
-  - "Served as a filming location for films including The Passion of the Christ and No Time to Die"
 amenities:
   - "Cave suite with original rock walls and vaulted tuff ceilings"
   - "Luxury bedding and modern bathroom discreetly integrated"
@@ -45,7 +43,7 @@ prosAndCons:
   pros:
     - "Remarkable historic atmosphere, sleeping in rooms used for millennia"
     - "Conservation-led restoration that is genuinely sensitive and beautiful"
-    - "Matera itself is one of Italy's most extraordinary and underrated cities"
+    - "Matera itself is a UNESCO World Heritage city, with the Sassi on the doorstep"
     - "Excellent restaurant with strong regional focus"
     - "Highly photogenic hotel interiors"
   cons:
@@ -80,7 +78,7 @@ status: "published"
 publishedDate: 2025-01-22
 seo:
   metaTitle: "Sextantio Le Grotte della Civita Review, Cave Hotel in Matera, Italy"
-  metaDescription: "Sleep in ancient sassi cave dwellings in Matera, Italy's 9,000-year-old UNESCO city. Sextantio Le Grotte della Civita is a distinctive boutique cave hotel."
+  metaDescription: "Sleep in restored cave rooms in the Civita, the oldest part of Matera's UNESCO-listed Sassi, at Sextantio Le Grotte della Civita, a boutique cave hotel."
 affiliateLinks:
   - partner: "expedia"
     url: "https://www.expedia.com/Hotel-Search?destination=Matera%2C%20Italy&adults=2"
@@ -105,13 +103,13 @@ niche_verified_at: 2026-11-17
 
 In 1952, Italian Prime Minister Alcide De Gasperi stood in Matera and called it *la vergogna d'Italia*: the shame of Italy. The people living in the sassi — the cave dwellings cut into the ravines of this Basilicata hilltown — had no running water, no electricity, and shared their spaces with their animals. The government forcibly relocated them within a decade. The caves sat empty for thirty years.
 
-Seventy years later, those same caves hold some of the most sought-after hotel rooms in Italy.
+Seventy years later, some of those same caves hold hotel rooms.
 
-Sextantio Le Grotte della Civita is the work of architect and entrepreneur Daniele Kihlgren, who came to Matera in the early 2000s and developed a philosophy he calls "conservative restoration": recover what exists, expose what the original material looks like, add only what the body genuinely requires. Eighteen interconnected cave chambers have been treated accordingly. The pale tuff-stone walls stay rough. The vaulted ceilings show every natural irregularity of the rock. The floors are original stone. What Kihlgren placed inside is held to an exacting standard: quality beds, bathrooms integrated so carefully that the fittings read as discreet insertions rather than renovations, and lighting that is soft, low, and largely candlelit. The result is not a hotel that imitates a cave. It is a cave that has been made comfortable.
+Sextantio Le Grotte della Civita is the work of architect and entrepreneur Daniele Kihlgren, who came to Matera in the early 2000s and developed a philosophy he calls "conservative restoration": recover what exists, expose what the original material looks like, add only what the body genuinely requires. The hotel's 18 rooms, in caves of the Civita, and an ancient church now used as a common area have been treated accordingly. The pale tuff-stone walls stay rough. The vaulted ceilings show every natural irregularity of the rock. The floors are original stone. What Kihlgren placed inside is held to an exacting standard: quality beds, bathrooms integrated so carefully that the fittings read as discreet insertions rather than renovations, and lighting that is soft, low, and largely candlelit. The result is not a hotel that imitates a cave. It is a cave that has been made comfortable.
 
 **The Rooms**
 
-No two cave suites are the same, because no two chambers in a hillside occupied for nine millennia are the same. Some have barrel-vaulted ceilings at low, intimate height. Others open into tall irregular spaces where natural light falls from a shaft cut through the rock overhead. Terracotta and stone dominate throughout. Beds are positioned against ancient walls. The caves stay naturally cool in summer, which in Matera's southern Italian heat is a real and daily advantage.
+No two caves are the same: the official room list gives each its own size and layout, including a 30 m² classic room and a 160 m² executive suite with 7 m high walls. Some have barrel-vaulted ceilings at low, intimate height. Terracotta and stone dominate throughout. Beds are positioned against ancient walls. The caves stay naturally cool in summer, which in Matera's southern Italian heat is a real and daily advantage. The same property also runs a separate Palazzo della Civita, whose rooms are not caves; this page covers the cave rooms.
 
 **Matera Itself**
 

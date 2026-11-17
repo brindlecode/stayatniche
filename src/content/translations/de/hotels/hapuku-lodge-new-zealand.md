@@ -1,9 +1,9 @@
 ---
 source: hapuku-lodge-new-zealand
 destination: "Kaikōura"
-description: "Fünf Baumhaus-Suiten, acht Meter über einem Hain aus einheimischem Manuka auf einer aktiven Hirschfarm, mit den schneebestäubten Kaikōura Ranges im Westen und dem Südpazifik im Osten. Eines der wenigen Häuser in Neuseeland, in denen Sie morgens vom Boot aus Pottwale beobachten und abends Hirsch von der eigenen Farm essen können."
+description: "Baumhäuser in 10 Metern Höhe im Blätterdach einheimischer Kānuka- und Pūriri-Bäume auf einer aktiven Hirschfarm, mit den schneebestäubten Kaikōura Ranges im Westen und dem Südpazifik im Osten. Eines der wenigen Häuser in Neuseeland, in denen Sie morgens vom Boot aus Pottwale beobachten und abends Hirsch von der eigenen Farm essen können."
 highlights:
-  - "Baumhäuser acht Meter über einem Hain aus einheimischem Manuka"
+  - "Baumhäuser in 10 m Höhe im Blätterdach einheimischer Kānuka- und Pūriri-Bäume"
   - "Panoramablick auf die Kaikōura Ranges und den Pazifik"
   - "Hirschfarm und Bio-Küchengarten auf dem Gelände"
   - "Walbeobachtung, Schwimmen mit Delfinen und Robbenkolonien ganz in der Nähe"
@@ -49,18 +49,19 @@ nearbyAttractions:
     distance: "25 km"
 seo:
   metaTitle: "Hapuku Lodge: Baumhaus-Suiten in Neuseeland | StayAtNiche"
-  metaDescription: "Acht Meter über Manuka-Bäumen mit Blick auf die Kaikōura Ranges und den Pazifik: Hapuku Lodge bietet Neuseelands spektakulärste Luxus-Baumhäuser."
+  metaDescription: "10 m hoch im Blätterdach einheimischer Kānuka- und Pūriri-Bäume, mit Blick auf Kaikōura Ranges und Pazifik: die Baumhäuser der Hapuku Lodge in Kaikōura."
+niche_feature: "Tree Houses (mit einem Schlafzimmer sowie ein zweistöckiges Familien-Baumhaus), 10 m hoch im Blätterdach aus einheimischem Kanuka und Puriri; die Lodge-Suiten und das Olive House sind gewöhnliche Zimmer. Die offizielle Website sagt nicht, wie die Baumhäuser gebaut sind."
 ---
 
-Der Blick vom Deck eines Hapuku-Baumhauses ist fast unverschämt schön. Im Westen erheben sich die Kaikōura Ranges steil aus der flachen Küstenebene, ihre oberen Grate tragen einen Großteil des Jahres Schnee. Im Osten erstreckt sich der Südpazifik ohne Unterbrechung bis zum Horizont. Acht Meter unter Ihnen wiegen sich einheimische Manuka-Bäume in der Meeresbrise, ihre silbergrünen Blätter fangen das Nachmittagslicht ein. Es ist einer jener Ausblicke, bei denen man sich fragt, warum man überhaupt je ebenerdig schläft.
+Der Blick vom Deck eines Hapuku-Baumhauses ist fast unverschämt schön. Im Westen erheben sich die Kaikōura Ranges steil aus der flachen Küstenebene, ihre oberen Grate tragen einen Großteil des Jahres Schnee. Im Osten erstreckt sich der Südpazifik ohne Unterbrechung bis zum Horizont. Um Sie herum wiegt sich das Blätterdach einheimischer Kānuka- und Pūriri-Bäume in der Meeresbrise, die Blätter fangen das Nachmittagslicht ein. Es ist einer jener Ausblicke, bei denen man sich fragt, warum man überhaupt je ebenerdig schläft.
 
-Die Hapuku Lodge ist seit ihrer Eröffnung 2003 ein Familienprojekt, gebaut auf einer aktiven Hirschfarm, die seit Generationen im Besitz derselben Familie ist. Die fünf Baumhäuser kamen später hinzu und wurden zum Herzstück eines der heute meistbewunderten Boutiquehäuser Neuseelands. Der Familienbesitz zeigt sich in jedem Detail, von der handverlesenen Einrichtung bis zum Küchengarten, in dem der Koch jeden Morgen Salat erntet.
+Die Hapuku Lodge ist seit ihrer Eröffnung 2003 ein Familienprojekt, gebaut auf einer aktiven Hirschfarm, die seit Generationen im Besitz derselben Familie ist. Die Baumhäuser kamen später hinzu und wurden zum Herzstück eines der heute meistbewunderten Boutiquehäuser Neuseelands. Der Familienbesitz zeigt sich in jedem Detail, von der handverlesenen Einrichtung bis zum Küchengarten, in dem der Koch jeden Morgen Salat erntet.
 
 **Die Baumhäuser**
 
-Jedes der fünf Baumhäuser ist eine großzügige, durchdacht ausgestattete Suite. Die Architektur ist klar und zeitgemäß – viel Glas, natürliches Holz und frische weiße Bettwäsche –, doch das eigentliche Gestaltungselement ist immer die Aussicht. Raumhohe Fenster rahmen Berge und Meer zu gleichen Teilen, und der private Balkon ist genau so ausgerichtet, dass er beides optimal nutzt. Die Fußbodenheizung hält die Räume warm, selbst wenn der Wind vom Pazifik heranpeitscht, und die Bäder haben echtes Hotelniveau – nicht der Nachgedanke, den man in alternativen Unterkünften manchmal vorfindet.
+Die Baumhäuser sind großzügige, durchdacht ausgestattete Suiten, angeboten als One-Bedroom Tree House in 10 Metern Höhe im Blätterdach und als zweistöckiges Family Tree House. Die Architektur ist klar und zeitgemäß – viel Glas, natürliches Holz und frische weiße Bettwäsche –, doch das eigentliche Gestaltungselement ist immer die Aussicht. Raumhohe Fenster rahmen Berge und Meer zu gleichen Teilen, und der private Balkon ist genau so ausgerichtet, dass er beides optimal nutzt. Die Fußbodenheizung hält die Räume warm, selbst wenn der Wind vom Pazifik heranpeitscht, und die Bäder haben echtes Hotelniveau – nicht der Nachgedanke, den man in alternativen Unterkünften manchmal vorfindet.
 
-Die Baumhäuser sind für zwei Personen ausgelegt und damit ideal für Paare; Familien können sie aber mit den Zimmern der benachbarten Hauptlodge kombinieren.
+Das One-Bedroom Tree House eignet sich für Paare, mit Kingsize-Bett oder zwei Einzelbetten, während das zweistöckige Family Tree House zwei Schlafzimmer mit eigenem Bad hat, einen Upper und einen Lower Branch, verbunden durch eine Innentreppe. Die Zimmer der Lodge selbst sind von den Baumhäusern getrennt.
 
 **Kaikōuras Tierwelt**
 

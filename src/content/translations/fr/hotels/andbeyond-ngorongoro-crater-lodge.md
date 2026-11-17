@@ -1,18 +1,17 @@
 ---
 source: andbeyond-ngorongoro-crater-lodge
 destination: "Aire de conservation du Ngorongoro"
-description: "Perché sur le rebord de la plus grande caldeira volcanique intacte du monde, le Ngorongoro Crater Lodge d'&Beyond est l'une des expériences hôtelières les plus extraordinaires et les plus théâtrales d'Afrique : une fantaisie baroque mêlant architecture massaï, opulence européenne et grandeur naturelle, à 2 200 mètres d'altitude, au-dessus d'un cratère qui abrite la plus forte densité de grands mammifères de la planète."
+description: "Perché sur le rebord de la plus grande caldeira volcanique intacte du monde, le Ngorongoro Crater Lodge d'&Beyond est l'une des expériences hôtelières les plus extraordinaires et les plus théâtrales d'Afrique, à 2 200 mètres d'altitude, au-dessus d'un cratère qui abrite la plus forte densité de grands mammifères de la planète."
 highlights:
   - "Situé au bord même du cratère, juste au-dessus de la plus grande caldeira volcanique du monde"
   - "Le cratère du Ngorongoro abrite la plus forte densité de grands mammifères de la planète"
   - "Les Big Five y sont présents toute l'année, dont l'une des dernières populations de rhinocéros noirs d'Afrique"
-  - "Un design théâtral et extraordinaire : rideaux de perles, miroirs dorés et service de majordome"
+  - "Un design théâtral et extraordinaire et un service de majordome"
   - "Descentes quotidiennes dans le cratère pour des safaris parmi plus de 25 000 animaux résidents"
   - "La vue depuis les suites en bord de cratère compte parmi les plus spectaculaires du continent"
 amenities:
-  - "25 bandas individuels perchés sur le rebord du cratère"
+  - "Suites individuelles perchées sur le rebord du cratère"
   - "Majordome personnel pour chaque suite"
-  - "Cheminée en chambre pour les soirées fraîches des hauts plateaux"
   - "Safaris sur mesure au fond du cratère"
   - "Pension complète et service des vins exceptionnel"
   - "Balades en forêt sur le rebord du cratère"
@@ -49,11 +48,13 @@ nearbyAttractions:
 seo:
   metaTitle: "Ngorongoro Crater Lodge : safari de luxe | StayAtNiche"
   metaDescription: "Avis sur le Ngorongoro Crater Lodge d'&Beyond, en Tanzanie : suites théâtrales perchées au bord du cratère, Big Five chaque jour et vue spectaculaire."
+closure:
+  note: "Le lodge est fermé pour une reconstruction complète. Son site annonce la réouverture en décembre 2027."
 ---
 
 Le cratère du Ngorongoro est une caldeira volcanique de 20 kilomètres de large et de 600 mètres de profondeur, dont les parois retiennent en résidence permanente 25 000 grands mammifères depuis des milliers d'années. Son fond abrite la plus forte densité de lions d'Afrique et l'une des dernières populations viables de rhinocéros noirs du continent. Descendre la piste du rebord dans la brume, par un matin frais des hauts plateaux, tandis que le fond du cratère apparaît en contrebas à travers les nuages, est un spectacle qui garde toute sa force, même après en avoir vu mille photos.
 
-Le lodge d'&Beyond, sur le rebord sud, ne cherche pas la discrétion. Le Ngorongoro Crater Lodge est un acte d'extravagance assumée : 25 bandas individuels accrochés à la paroi de la caldeira, dont le design puise dans les traditions architecturales massaï tout en y ajoutant rideaux de perles, miroirs dorés, parquets sculptés et cheminées contre le froid des hauts plateaux. Il divise. Certains le trouvent excessif ; d'autres estiment que rien de moins ne serait à la hauteur de la vue qu'offrent ses grandes baies. Se tenir dans sa suite à l'aube, tandis que la brume matinale se lève du fond du cratère pour révéler le paysage et ses animaux 600 mètres plus bas, ne ressemble réellement à rien de ce que l'on peut voir depuis une autre chambre d'hôtel.
+Le lodge d'&Beyond, sur le rebord sud, ne cherche pas la discrétion. Le Ngorongoro Crater Lodge est un acte d'extravagance assumée : des suites individuelles accrochées à la paroi de la caldeira, dont le design puise dans les traditions architecturales massaï. Il divise. Certains le trouvent excessif ; d'autres estiment que rien de moins ne serait à la hauteur de la vue qu'offrent ses grandes baies. Se tenir dans sa suite à l'aube, tandis que la brume matinale se lève du fond du cratère pour révéler le paysage et ses animaux 600 mètres plus bas, ne ressemble réellement à rien de ce que l'on peut voir depuis une autre chambre d'hôtel.
 
 L'observation de la faune est l'argument principal du cratère, et il est de taille. Les Big Five sont présents chaque jour au fond du cratère. La liste des Big Five qui, ailleurs en Afrique, demande des jours de recherche et une bonne dose de chance peut ici être bouclée en une seule matinée. Les observations de rhinocéros noirs, longues et paisibles, face à l'un des animaux les plus menacés d'Afrique, sont monnaie courante. Les troupes de lions des plaines d'herbe rase sont étudiées sans interruption depuis des décennies et se laissent très facilement observer.
 

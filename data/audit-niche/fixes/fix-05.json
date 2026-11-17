@@ -1,0 +1,429 @@
+[
+ {
+  "slug": "vintage-cave-house-turkey",
+  "issue": "Official site does not say which room numbers are the cave rooms",
+  "action": "not_an_issue",
+  "detail": "Page already says 'Ask which room numbers are the cave rooms' and lists the nine room numbers that the official Rooms carousel shows (102-304); it makes no claim about which are cave rooms. Official home page says the cave rooms are 'carved into ancient rocks'.",
+  "source_url": "https://vintagecavehouse.com/"
+ },
+ {
+  "slug": "vintage-cave-house-turkey",
+  "issue": "'About 30 minutes from Nevşehir airport' not confirmed on pages checked",
+  "action": "not_an_issue",
+  "detail": "Confirmed on the official home page FAQ: 'Nevsehir is a little closer only 30 minutes to our hotel'. Page wording 'According to the hotel, about 30 minutes' is supported; no change.",
+  "source_url": "https://vintagecavehouse.com/"
+ },
+ {
+  "slug": "alila-jabal-akhdar-oman",
+  "issue": "'Most rooms and suites have private plunge pools at the cliff edge' not supported",
+  "action": "corrected",
+  "detail": "Replaced with 'the two Jabal Villas each have their own private pool' (Mr & Mrs Smith: Jabal Villas each have steam room, private pool and Jacuzzi; 86 rooms incl. two villas). Changed description, amenities line (now 'Private pool in the two Jabal Villas'), body, meta description, and the five translations.",
+  "source_url": "https://www.mrandmrssmith.com/luxury-hotels/alila-jabal-akhdar"
+ },
+ {
+  "slug": "alila-jabal-akhdar-oman",
+  "issue": "Wadi Ghul 'kilometre of vertical drop' and 'Grand Canyon of Arabia' not confirmed",
+  "action": "corrected",
+  "detail": "Deleted the 'kilometre of vertical drop' claim everywhere (description, body, meta description, translations). 'Grand Canyon of Arabia' / 'tourism materials' replaced with what Mr & Mrs Smith says: Wadi Ghul is the Omani 'Grand Canyon'. Pools described as an infinity pool with canyon views (Smith: heated infinity pool with canyon views).",
+  "source_url": "https://www.mrandmrssmith.com/luxury-hotels/alila-jabal-akhdar"
+ },
+ {
+  "slug": "alila-jabal-akhdar-oman",
+  "issue": "Via ferrata, fireplaces and falaj-inspired architecture not confirmed",
+  "action": "deleted",
+  "detail": "Removed all via ferrata mentions (highlight, amenity, bestFor, body) and the falaj-inspired/rose-coloured-quarried-stone architecture sentences; replaced with Smith's wording (hotel clad in jagged stone blending into wilderness). Fireplace claim for 'interiors' replaced by Smith's 'gargantuan fireplace' greeting guests on entering. Mirrored in de/fr/es/it/nl.",
+  "source_url": "https://www.mrandmrssmith.com/luxury-hotels/alila-jabal-akhdar"
+ },
+ {
+  "slug": "alila-jabal-akhdar-oman",
+  "issue": "Official Hyatt page could not be read",
+  "action": "not_an_issue",
+  "detail": "Hyatt page returns an error/bot wall (also /overview and alilahotels.com); not a page error. Corrections rely on Mr & Mrs Smith, which is the cited niche source; claims it could not confirm were removed.",
+  "source_url": "https://www.hyatt.com/alila-hotels-and-resorts/en-US/mctal-alila-jabal-akhdar"
+ },
+ {
+  "slug": "alila-villas-uluwatu-bali",
+  "issue": "'100 metres above the Indian Ocean' not confirmed",
+  "action": "deleted",
+  "detail": "Removed the 100 m height everywhere (description, highlight, body x2, translations); now 'large clifftop plot on the Bukit Peninsula' (Rume) and the 50-metre cliffside infinity pool (Rume, Smith). Note: sources name the restaurants The Warung / CIRE, not AWOL; AWOL left untouched as it was not in the issue list.",
+  "source_url": "https://rumemagazine.com/hotels/hotel-reviews/alila-villas-uluwatu/"
+ },
+ {
+  "slug": "alila-villas-uluwatu-bali",
+  "issue": "'Private infinity pool in every villa' not confirmed",
+  "action": "corrected",
+  "detail": "Changed to a private pool in every villa (Rume: villas have private pool; Smith: pool villas with private pools) and the separate 50-metre cliffside infinity pool as the main pool. Updated description, highlights, amenities, body, meta description and translations.",
+  "source_url": "https://rumemagazine.com/hotels/hotel-reviews/alila-villas-uluwatu/"
+ },
+ {
+  "slug": "alila-villas-uluwatu-bali",
+  "issue": "Only cliff-edge villas have uninterrupted sea views; many stepped villas see little sea",
+  "action": "corrected",
+  "detail": "Replaced the blanket 'uninterrupted ocean horizon' with: cliff-edge villas have uninterrupted views, hillside villas climb the slope in tiers and many see little of the sea (Rume). Also reworded 'Panoramic Indian Ocean views' amenity. Mirrored in all translations.",
+  "source_url": "https://rumemagazine.com/hotels/hotel-reviews/alila-villas-uluwatu/"
+ },
+ {
+  "slug": "alila-villas-uluwatu-bali",
+  "issue": "Hotel also has 50 suites besides villas",
+  "action": "not_an_issue",
+  "detail": "The page makes no claim about the number or type of units, so nothing to correct; the 50-suite figure is not stated in the sources I could read (Rume gives no counts; Mr & Mrs Smith lists 61 pool villas; Hyatt page blocked). Not added from memory.",
+  "source_url": "https://www.mrandmrssmith.com/luxury-hotels/alila-villas-uluwatu"
+ },
+ {
+  "slug": "amangiri-utah",
+  "issue": "'Probably the finest desert hotel in North America' is an unsupported superlative",
+  "action": "deleted",
+  "detail": "The exact phrase is not on the page, but its equivalents were: removed 'one of the most acclaimed desert hotels in North America' (body), 'Arguably the most architecturally stunning resort in North America' and 'spa is among the finest in the country' (pros). Replaced with factual wording from the official page (900+ acres of the Colorado Plateau, red-rock country). Mirrored in de/fr/es/it/nl.",
+  "source_url": "https://www.aman.com/resorts/amangiri"
+ },
+ {
+  "slug": "amangiri-utah",
+  "issue": "Spa 'within the rock', 'floating pool over a crack in the mesa' and 5,000 sq m spa not confirmed",
+  "action": "corrected",
+  "detail": "Deleted spa 'within the rock', 'floating treatment rooms/hover over rock', 'floating pool over a crack', 'cantilevered' pool and 'heated'. Official: 'expansive Aman Spa and mesa-ensconced pool'; Wikipedia: 25,000 sq ft spa and a sandstone escarpment protruding into the main pool, so spa size now 25,000 sq ft (about 2,300 sq m) instead of 5,000 sq m. Mirrored in all translations.",
+  "source_url": "https://en.wikipedia.org/wiki/Amangiri"
+ },
+ {
+  "slug": "amangiri-utah",
+  "issue": "Poured-concrete suites and Lake Powell/Antelope Canyon distances not confirmed",
+  "action": "corrected",
+  "detail": "'Poured concrete' removed (Wikipedia: minimalist, heavy use of large concrete slabs; official: 34 modernist suites). Also replaced unverified 'raw concrete walls/colour-catching plunge pools in suites' and 'Navajo sandstone mesa' text with official/Wikipedia facts; architects now named as Marwan Al-Sayed, Rick Joy and Wendell Burnett (Wikipedia). Removed all four nearbyAttractions entries with km distances (Lake Powell 10, Grand Staircase 40, Antelope 50, Bryce 130) and the body distance sentence, plus unverified kayak/inaccessible-formation claims; no source gives these distances. Private plunge pool 'all suites' changed to Camp Sarika pavilions (official). Mirrored in all translations.",
+  "source_url": "https://www.aman.com/resorts/amangiri"
+ },
+ {
+  "slug": "amangiri-utah",
+  "issue": "Page omits Camp Sarika's ten tented pavilions",
+  "action": "corrected",
+  "detail": "Added Camp Sarika's ten tented pavilions, each with a private plunge pool (official: 'just ten spacious, tented pavilions, each with a private plunge pool') to description, highlights, amenities, body and meta description in all six languages.",
+  "source_url": "https://www.aman.com/resorts/amangiri"
+ },
+ {
+  "slug": "cavo-tagoo-mykonos-greece",
+  "issue": "'Volcanic cliff' / 'volcanic rock' unsupported",
+  "action": "deleted",
+  "detail": "Removed 'volcanic' everywhere (description, body, meta description, translations). Official About page (fetched via WebFetch) says 'built into an impressive natural cliff-side' and does not mention volcanic rock.",
+  "source_url": "https://booking-mykonos.cavotagoo.com/about"
+ },
+ {
+  "slug": "cavo-tagoo-mykonos-greece",
+  "issue": "Opening in 1980 and architect Nikos Daskalantonakis not confirmed",
+  "action": "deleted",
+  "detail": "Deleted the 'opened in 1980', architect name and 'first hotels in Greece to understand' sentences; replaced the paragraph with the official room types (Cave Pool Suite, Orlinski Cave pool Villa, Rock Villa). Mirrored in all translations.",
+  "source_url": "https://booking-mykonos.cavotagoo.com/about"
+ },
+ {
+  "slug": "cavo-tagoo-mykonos-greece",
+  "issue": "'Rooms cut from the cliff' overstated",
+  "action": "corrected",
+  "detail": "Reworded to 'built into a natural cliff-side near Mykonos Town' with cave-style suites among the room types and a note that not every room is cave-style (description, highlights, body, translations).",
+  "source_url": "https://booking-mykonos.cavotagoo.com/about"
+ },
+ {
+  "slug": "cavo-tagoo-mykonos-greece",
+  "issue": "'One of Greece's most recognized images' unsupported superlative",
+  "action": "deleted",
+  "detail": "Removed it from description and body and removed 'Famous'/'Iconic' from highlights, 'among the most photographed pools in the Mediterranean'; mirrored in all translations.",
+  "source_url": "https://booking-mykonos.cavotagoo.com/about"
+ },
+ {
+  "slug": "jade-mountain-st-lucia",
+  "issue": "'Built into a cliff' / 'cliff-face sanctuaries' not supported",
+  "action": "corrected",
+  "detail": "Official home page: 'Perched majestically above Anse Chastanet's 600-acre beachfront estate' (no cliff). Replaced 'built into a cliff', 'cliff-face' and 'cliff position' with 'perched above Anse Chastanet's beachfront estate' / 'elevated position' in description, highlights, meta description, body and seasonal notes, in all six languages. (Category 'cliffside-hotels' and the nl meta title word 'klifresort' not touched.)",
+  "source_url": "https://jademountain.com/"
+ },
+ {
+  "slug": "jade-mountain-st-lucia",
+  "issue": "'Twenty-nine sanctuaries' only partly matches: 24 with infinity pools plus Sky suites without",
+  "action": "corrected",
+  "detail": "Official accommodations page: 'just 29 spacious, individually designed sanctuaries'; 'Twenty-four of the sanctuaries feature private infinity pools'; five Sky sanctuaries have a whirlpool bath for two instead. Count of 29 kept; 'private infinity pool in every sanctuary' changed to 24 of 29 (highlights, amenities, description, meta description, body) in all languages.",
+  "source_url": "https://jademountain.com/accommodations/"
+ },
+ {
+  "slug": "jade-mountain-st-lucia",
+  "issue": "Unsplash cover image URL not checked",
+  "action": "not_fixed",
+  "detail": "coverImage is outside the fields this task may edit; left unchanged. Needs a human decision on replacing the stock Unsplash image.",
+  "source_url": null
+ },
+ {
+  "slug": "jade-mountain-st-lucia",
+  "issue": "'each missing a fourth wall' (Forbes says each has three walls) not checked on the official page",
+  "action": "not_an_issue",
+  "detail": "Official accommodations page checked: 'the fourth wall is deliberately absent' in every sanctuary (Sky ones too: '4th wall open to the views'), so the page wording is supported; no change.",
+  "source_url": "https://jademountain.com/accommodations/"
+ },
+ {
+  "slug": "manshausen-island-resort-norway",
+  "issue": "Page says four sea cabins; official site lists seven Sea Cabins and two Towers",
+  "action": "corrected",
+  "detail": "Deleted the count 'four' (description, body, translations). I could not confirm 'seven Sea Cabins and two Towers' in any page I could read (manshausen.no home page lists 'Sea Cabins', 'Towers' and a restaurant but no numbers; architect's pages give no count), so no replacement count was added; text now says 'sea cabins and towers'.",
+  "source_url": "https://www.manshausen.no/"
+ },
+ {
+  "slug": "manshausen-island-resort-norway",
+  "issue": "'All four extend over the sea on stilts' not supported",
+  "action": "corrected",
+  "detail": "Removed 'stilts/piers/pilotis' wording everywhere (description, highlight, meta description, body, translations). Now: original cabins rest on the old stone quays, newer ones sit at the tip of the rocky formations and out over the sea (architect Stinessen).",
+  "source_url": "https://bystinessen.com/architecture/manshausen2/"
+ },
+ {
+  "slug": "manshausen-island-resort-norway",
+  "issue": "Not a cliffside hotel",
+  "action": "skipped_not_text",
+  "detail": "Category framing (page is in category overwater-bungalows; no cliff claims in the text) - not a text fix.",
+  "source_url": null
+ },
+ {
+  "slug": "manshausen-island-resort-norway",
+  "issue": "Rating and review counts unsupported",
+  "action": "not_fixed",
+  "detail": "The rating field (8.8) is a protected frontmatter field I may not edit; no review counts appear in the page text.",
+  "source_url": null
+ },
+ {
+  "slug": "manshausen-island-resort-norway",
+  "issue": "Original building described as fishermen's warehouse; official site lists Main House with restaurant and library",
+  "action": "corrected",
+  "detail": "Replaced the 'fishermen's rorbu/warehouse converted to common area' with the architect's description: island was historically a fishing trading post (stone quays survive) and an 18th-century farmhouse was converted into a restaurant with a library upstairs. Also changed 'Indoor sauna' to 'Sauna and hot tub by a seawater pond' (official home page) and removed unverified 300 m island length, glass walls and sea-level private deck claims. Mirrored in all translations.",
+  "source_url": "https://bystinessen.com/architecture/manshausen/"
+ },
+ {
+  "slug": "royal-cliff-hotels-group-thailand",
+  "issue": "Only one of four hotels (Beach Terrace) is cliff-built",
+  "action": "not_an_issue",
+  "detail": "Page already says 'Not every hotel in the group is a cliff property' and singles out the Beach Terrace (official: 'built directly into the cliff face'; 89 suites). Only the description wording 'cliff-top estate' was neutralised (see next entry).",
+  "source_url": "https://www.royalcliff.com/royal-cliff-beach-terrace/"
+ },
+ {
+  "slug": "royal-cliff-hotels-group-thailand",
+  "issue": "Page says '64 acres' and 'infinity pool' not checked against official pages",
+  "action": "corrected",
+  "detail": "'64 acres' is confirmed by Wikipedia ('occupying 64 acres of parkland overlooking the eastern shore of the Gulf of Thailand'); official pages do not give the size. Reworded 'cliff-top estate'/'above the Gulf' to 'estate overlooking the Gulf of Thailand' in description and highlight, all languages. 'Infinity pool' is confirmed on the official home page ('our infinity pool with unrivaled ocean views'); no change.",
+  "source_url": "https://en.wikipedia.org/wiki/Royal_Cliff_Hotels_Group"
+ },
+ {
+  "slug": "skylodge-peru",
+  "issue": "Official: three suites with total capacity 8 people, four beds each; page's 'up to 4 guests each' conflicts with capacity of 8",
+  "action": "corrected",
+  "detail": "Replaced 'each sleeps up to 4 guests' with the operator's 'three capsule suites with a total capacity of 8 people' (official page also says four beds per suite, so the per-suite figure was dropped). Highlights, body and translations updated.",
+  "source_url": "https://naturavive.com/web/skylodge-adventure-suites/"
+ },
+ {
+  "slug": "skylodge-peru",
+  "issue": "'Pachar mountain' not stated by official site",
+  "action": "deleted",
+  "detail": "Removed 'Pachar mountain' and 'red granite' wording from description and body; now 'the mountain wall'. Mirrored in all translations.",
+  "source_url": "https://naturavive.com/web/skylodge-adventure-suites/"
+ },
+ {
+  "slug": "skylodge-peru",
+  "issue": "Superlatives ('world's most dramatic', 'unrivalled') unsupported",
+  "action": "deleted",
+  "detail": "The exact words are not in the English page, but equivalents were: removed 'one of the most audacious places to sleep on earth', 'one of the most dramatic hotel vantage points anywhere', 'extraordinary experience', 'finest sunrise of their lives', 'unmissable'. Replaced with neutral wording in all six languages; also removed the unverified 'guides carry dinner up the cliff' (official: gourmet dinner with wine).",
+  "source_url": "https://naturavive.com/web/skylodge-adventure-suites/"
+ },
+ {
+  "slug": "skylodge-peru",
+  "issue": "Rating 9.5 / 892 reviews unsupported",
+  "action": "not_fixed",
+  "detail": "The rating field (9.5) is a protected frontmatter field I may not edit; no '892 reviews' text exists in the page body.",
+  "source_url": null
+ },
+ {
+  "slug": "skylodge-peru",
+  "issue": "'Via ferrata 1-2 hours' not stated; official says 400 m via ferrata or 40-minute hike to first zipline",
+  "action": "corrected",
+  "detail": "Replaced '1-2 hours' with the official 400 m via ferrata and the operator's day-one itinerary (16:00-17:30, about 1.5 hours) in description, highlight, body, translations. Also corrected the bathroom to 'private bathroom with a dry ecological toilet and sink' per the official page.",
+  "source_url": "https://naturavive.com/web/skylodge-adventure-suites/"
+ },
+ {
+  "slug": "tierra-patagonia-chile",
+  "issue": "Not a cliffside hotel per official site (lodge 'on the shores of Lake Sarmiento')",
+  "action": "skipped_not_text",
+  "detail": "Category framing (page is listed under cliffside-hotels); page text itself already describes a lakeshore lodge. Official site wording 'overlooking Lake Sarmiento' now used in the description.",
+  "source_url": "https://tierrapatagonia.com/"
+ },
+ {
+  "slug": "tierra-patagonia-chile",
+  "issue": "Official lists forty rooms; page does not state count",
+  "action": "corrected",
+  "detail": "Added 'forty rooms' to the description in all six languages (official: 'forty elegant and understated rooms').",
+  "source_url": "https://tierrapatagonia.com/"
+ },
+ {
+  "slug": "tierra-patagonia-chile",
+  "issue": "Spa is called Uma Spa, not 'Tierra Spa'",
+  "action": "corrected",
+  "detail": "Renamed to Uma Spa (highlight, amenity, body) and replaced unsupported 'hot tubs/treatment rooms overlooking pampas, flamingos' with official features: heated indoor infinity pool with hydro-massage, steam room, relaxation spaces, open-air whirlpool tub. All languages.",
+  "source_url": "https://tierrapatagonia.com/"
+ },
+ {
+  "slug": "tierra-patagonia-chile",
+  "issue": "'Completed 2011' and '2,800 metres' unsupported by official site",
+  "action": "deleted",
+  "detail": "Removed 'completed in 2011' and the '2,800 metres' height from body and description in all six languages; the official page gives neither.",
+  "source_url": "https://tierrapatagonia.com/"
+ },
+ {
+  "slug": "tierra-patagonia-chile",
+  "issue": "Rating 9.5 / 1,456 reviews unsupported",
+  "action": "not_fixed",
+  "detail": "Rating is a protected frontmatter field; no review count appears in the page text.",
+  "source_url": null
+ },
+ {
+  "slug": "al-maha-dubai",
+  "issue": "42 suites and 225 sq km reserve size not confirmed by fetched sources",
+  "action": "deleted",
+  "detail": "Removed '42 suites' (description, body, cons) and '225 square kilometres' / 'only protected nature reserve' / 'over 500 animals' everywhere; text now says 'inside the Dubai Desert Conservation Reserve'. Marriott suite pages (the only readable source) give neither figure. Mirrored in all translations.",
+  "source_url": "https://www.marriott.com/luxury/explore-luxury-suites/al-maha-dubai"
+ },
+ {
+  "slug": "al-maha-dubai",
+  "issue": "Private pool described as infinity pool; Marriott says 'temperature-controlled swimming pool'",
+  "action": "corrected",
+  "detail": "Replaced 'private infinity pool in every suite' with private (temperature-controlled) pools in the Bedouin Suites, and private pools in the Royal and Presidential suites, per Marriott ('temperature-controlled swimming pool' for Bedouin Suite; 'private pool' for Royal Suite). Updated description, highlight, amenity, pros, body, meta description, translations.",
+  "source_url": "https://www.marriott.com/luxury/explore-luxury-suites/al-maha-dubai"
+ },
+ {
+  "slug": "al-maha-dubai",
+  "issue": "Children age limit (under 12) unconfirmed",
+  "action": "deleted",
+  "detail": "Removed the 'children under 12 not permitted' highlight and all 'adults only, strictly held / absence of children' claims (pros, bestFor, body) in all languages; no readable source confirms a child policy.",
+  "source_url": "https://www.marriott.com/luxury/explore-luxury-suites/al-maha-dubai"
+ },
+ {
+  "slug": "al-maha-dubai",
+  "issue": "Rating and review counts unsupported",
+  "action": "not_fixed",
+  "detail": "Rating (9.5) is a protected frontmatter field; no review count in page text.",
+  "source_url": null
+ },
+ {
+  "slug": "aman-i-khas-india",
+  "issue": "Page says ten pavilions; official site says fourteen tented accommodations",
+  "action": "corrected",
+  "detail": "Changed ten to fourteen tented pavilions (official: 'the camp's fourteen expansive tented accommodation') in description, highlights, pros, body, meta description, all six languages.",
+  "source_url": "https://www.aman.com/resorts/aman-i-khas"
+ },
+ {
+  "slug": "aman-i-khas-india",
+  "issue": "'Highest tiger sighting rate of any Indian reserve' superlative unsupported",
+  "action": "deleted",
+  "detail": "Removed the highest-sighting-rate highlight/pro and the body claims ('sighting statistics the most consistent in the country', 'more good mornings than anywhere else', 'not India's most famous reserve / Corbett / Kanha' comparison), 'India's finest/most productive ground', 'India's finest safari' in description, bestFor, meta description; replaced with neutral wording (official: domain of the Bengal tiger, safaris depart twice daily). All languages.",
+  "source_url": "https://www.aman.com/resorts/aman-i-khas"
+ },
+ {
+  "slug": "aman-i-khas-india",
+  "issue": "Monsoon closure dates unconfirmed",
+  "action": "deleted",
+  "detail": "Removed the 'camp closes late June to early September' con and 'reserve closes entirely June to September' note; now says the monsoon affects viewing and opening dates and to check with the camp. Official page gives no closure dates. All languages.",
+  "source_url": "https://www.aman.com/resorts/aman-i-khas"
+ },
+ {
+  "slug": "aman-i-khas-india",
+  "issue": "Not a desert camp",
+  "action": "skipped_not_text",
+  "detail": "Category framing (desert-camps/safari-lodges); page text already describes forest/grassland and tiger reserve, not a desert.",
+  "source_url": null
+ },
+ {
+  "slug": "aman-i-khas-india",
+  "issue": "Rating and review counts unsupported",
+  "action": "not_fixed",
+  "detail": "Rating (9.6) is a protected frontmatter field; no review count in page text.",
+  "source_url": null
+ },
+ {
+  "slug": "awasi-atacama-chile",
+  "issue": "'Twelve villas' not confirmed by official site",
+  "action": "deleted",
+  "detail": "Removed 'twelve' and 'villas' count wording (description, highlight, meta description, body, all languages). Official site gives no room count; it says 'several adobe buildings ... wood, thatch and stone' with Round Rooms/Round Suites and 'each room is assigned a private guide and a 4x4'. Text now says 'rooms'/'buildings'.",
+  "source_url": "https://awasi.com/atacama/accommodations/"
+ },
+ {
+  "slug": "awasi-atacama-chile",
+  "issue": "'8,000-metre volcanoes' claim unsupported by official site",
+  "action": "deleted",
+  "detail": "Removed the '8,000-metre' height in description of all six languages (official only mentions the Licancabur volcano, no height).",
+  "source_url": "https://awasi.com/atacama/accommodations/"
+ },
+ {
+  "slug": "awasi-atacama-chile",
+  "issue": "Rating 9.5 / 341 reviews unsupported",
+  "action": "not_fixed",
+  "detail": "Rating (9.5) is a protected frontmatter field; no review count in page text.",
+  "source_url": null
+ },
+ {
+  "slug": "awasi-atacama-chile",
+  "issue": "'Open-air observatory terrace' unconfirmed",
+  "action": "deleted",
+  "detail": "Removed the observatory terrace, 'guides qualified to operate the property's telescopes' and 'more telescope infrastructure than any other region' claims; replaced with official: Astronomical Observation tour 'through a powerful telescope' and with the naked eye. Elevation corrected from 2,400 m to 'over 2,500 metres' (official). All languages.",
+  "source_url": "https://awasi.com/atacama/"
+ },
+ {
+  "slug": "desert-luxury-camp-morocco",
+  "issue": "Official site unreachable (HTTP 520); second camp at Erg Chigaga unconfirmed",
+  "action": "not_an_issue",
+  "detail": "Official site now loads: 'luxurious accommodations at Erg Chebbi and Erg Chigaga' and two camp pages, so the two-camp claim is confirmed; no change.",
+  "source_url": "https://desertluxurycamp.com/"
+ },
+ {
+  "slug": "desert-luxury-camp-morocco",
+  "issue": "Air conditioning at night not confirmed by fetched source",
+  "action": "not_an_issue",
+  "detail": "Official home page: 'En suite bathrooms, air conditioning at night, guided camel rides, sand boarding'. Confirmed; no change.",
+  "source_url": "https://desertluxurycamp.com/"
+ },
+ {
+  "slug": "desert-luxury-camp-morocco",
+  "issue": "Operator page says five tents in main camp; page gives no count",
+  "action": "corrected",
+  "detail": "Added one sentence (all six languages) that tour operator Scott Dunn describes the main Erg Chebbi camp as having five en-suite sleeping tents.",
+  "source_url": "https://scottdunn.com/morocco/hotels/desert-luxury-camp"
+ },
+ {
+  "slug": "longitude-131-australia",
+  "issue": "Unsupported/superlative: 'ultimate Outback luxury', 'unmatched proximity', 'life-changing', 'among the most expensive properties in Australia'",
+  "action": "deleted",
+  "detail": "The exact phrases 'ultimate Outback luxury'/'unmatched proximity' are not on the page, but equivalents were removed: 'view from your bed is genuinely life-changing', 'very close proximity', 'exceptionally high quality', 'extraordinarily dark skies', 'some of the darkest skies in Australia', 'among the most expensive properties in Australia', 'exclusive address', 'discerning', 'extraordinary light'. Replaced with neutral wording; all six languages.",
+  "source_url": "https://longitude131.com.au/"
+ },
+ {
+  "slug": "longitude-131-australia",
+  "issue": "'private red-sand dune' and 'each oriented so the bed faces Uluru' not stated for all units",
+  "action": "corrected",
+  "detail": "Official: 'fifteen luxury tents' each offer 'views to Uluru - from the end of the bed', and the premium Dune Pavilion is 'the only accommodation with views to both Uluru and Kata Tjuta'; 'private' dune not stated. Rewrote description, highlights, amenity, body and meta description accordingly ('among red-sand dunes'). All languages.",
+  "source_url": "https://longitude131.com.au/"
+ },
+ {
+  "slug": "longitude-131-australia",
+  "issue": "Rating 9.7 / 567 reviews not supported by a cited source",
+  "action": "not_fixed",
+  "detail": "Rating (9.7) is a protected frontmatter field; no review count in page text.",
+  "source_url": null
+ },
+ {
+  "slug": "longitude-131-australia",
+  "issue": "Official site announces closure 25 Jan-19 Apr 2027 (refurbishment)",
+  "action": "skipped_not_text",
+  "detail": "Closure/availability framing is handled via the protected closure/status fields, not a text fix (official: 'will close from 25 January to 19 April 2027 for a soft refurbishment').",
+  "source_url": "https://longitude131.com.au/"
+ },
+ {
+  "slug": "desert-camp-namibia",
+  "issue": "Official site says free Wi-Fi at bar area; units not mentioned (page says not in units, plausible)",
+  "action": "corrected",
+  "detail": "Official: 'Facilities at the main building include ... large bar area with television and wi-fi access' and 'Free Wi-Fi'. Changed the amenity and body to 'free Wi-Fi at the main building' and deleted the unsupported 'not in the units' remark, in all six languages.",
+  "source_url": "https://www.desertcamp.com/"
+ },
+ {
+  "slug": "desert-camp-namibia",
+  "issue": "Official says 'Namib Naukluft Park', page region 'Hardap' not stated on official page",
+  "action": "not_an_issue",
+  "detail": "Region 'Hardap' appears only in the protected destination/location fields (Sesriem/Sossusvlei is in the Hardap Region); the page body makes no region claim, so nothing to change.",
+  "source_url": "https://www.desertcamp.com/"
+ }
+]

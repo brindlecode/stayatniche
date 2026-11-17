@@ -5,7 +5,7 @@ description: "Een hotel met zeven historische grotkamers in Ürgüp, met terrass
 highlights:
   - "Zeven kamers, allemaal beschreven als historische grotkamers"
   - "Terrassen en jacuzzi-suites"
-  - "Kamers van 30 tot 40 vierkante meter bij de vermelde kamers"
+  - "Kamers van 30 tot 50 vierkante meter bij de vermelde kamers"
   - "Gratis wifi, ontbijt en 24-uurs receptie"
   - "Rustige sfeer die het hotel spiritueel noemt"
 amenities:
@@ -26,7 +26,7 @@ Het Romantic Cave Hotel is een hotel met zeven kamers in Ürgüp, waarvan elke k
 
 ## De kamers
 
-Op de website staan onder meer Oublite en Osiana, elk 30 vierkante meter, en Katbatuka en Helen, elk 40 vierkante meter. Daarnaast is er een Master Room. Alle kamers worden aangeboden met uitzicht op Cappadocië. Het hotel zet in op jacuzzi-suites en terrassen. Thee, koffie, wifi en een speciaal ontbijt worden genoemd als voorziening op de kamer of als inbegrepen.
+Op de website staan onder meer Oublite en Osiana, elk 30 vierkante meter, Katbatuka en Helen, elk 40 vierkante meter, en Eros en Agape, elk 50 vierkante meter. Daarnaast is er een Master Room. Alle kamers worden aangeboden met uitzicht op Cappadocië. Het hotel zet in op jacuzzi-suites en terrassen. Thee, koffie, wifi en een speciaal ontbijt worden genoemd als voorziening op de kamer of als inbegrepen.
 
 ## Service
 

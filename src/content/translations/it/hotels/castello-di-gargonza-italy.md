@@ -8,8 +8,6 @@ highlights:
   - "Tenuta boscosa di circa 500 ettari con sentieri tracciati via GPS"
   - "Tra Arezzo e Siena, con vista sulla Val di Chiana"
 amenities:
-  - "Bar nel negozio del borgo"
-  - "Ristorante fuori dalle mura"
   - "Opzioni di menu senza glutine"
 bestFor:
   - "Coppie"
@@ -28,7 +26,7 @@ Gargonza sorge a circa 540 metri sul livello del mare e domina la Val di Chiana,
 
 ## Dove dormire e mangiare
 
-Le sistemazioni sono suite e appartamenti all'interno delle mura del borgo. Il villaggio ha un bar all'interno del suo negozio, la Bottega di Gargonza, mentre il ristorante si trova appena fuori dalle mura. Il ristorante è attrezzato per menu senza glutine, e a Natale e Capodanno vengono proposti menu stagionali.
+Le sistemazioni sono suite e appartamenti all'interno delle mura del borgo. Il villaggio ha un negozio, la Bottega di Gargonza, dove si tengono anche degustazioni, e un ristorante. Il ristorante è attrezzato per menu senza glutine, e a Natale e Capodanno vengono proposti menu stagionali.
 
 ## Dintorni della tenuta
 

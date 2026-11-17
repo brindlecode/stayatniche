@@ -1,12 +1,12 @@
 ---
 source: gamirasu-cave-turkey
 destination: Ayvali, Cappadocia
-description: "Il Gamirasu occupa un autentico monastero bizantino rupestre del VI secolo nella tranquilla valle di Ayvali, a trenta minuti da Göreme, dove le camere conservano ancora le nicchie scolpite e le proporzioni a volta del progetto originale. Mongolfiere che decollano dai campi proprio sotto l’hotel, una cantina fornita di bottiglie della Cappadocia nate da suoli vulcanici e una colazione turca servita in terrazza mentre la luce del mattino scorre sui camini delle fate completano un soggiorno che sembra una scoperta, non un pacchetto."
+description: "Il Gamirasu si trova in un ritiro monastico bizantino restaurato nel villaggio di Ayvalı, vicino a Ürgüp, con 35 camere e suite in grotta dal design individuale che seguono la forma delle grotte o strutture in pietra originali. Una cantina fornita di bottiglie della Cappadocia nate da suoli vulcanici e una colazione turca servita in terrazza mentre la luce del mattino scorre sui camini delle fate completano un soggiorno che sembra una scoperta, non un pacchetto."
 highlights:
-  - Camere in un autentico monastero rupestre di epoca bizantina (VI secolo d.C.)
+  - Camere e suite in grotta in un ritiro monastico bizantino restaurato
   - La tranquilla valle di Ayvali, con molti meno visitatori di Göreme o Uçhisar
-  - Affreschi bizantini originali visibili nelle nicchie di alcune camere
-  - Mongolfiere che decollano proprio fuori dalla struttura
+  - Chiesa ortodossa dell’XI secolo conservata nella proprietà, secondo l’hotel
+  - Voli in mongolfiera tra le escursioni proposte con l’hotel
   - Cantina fornita degli ottimi vini della Cappadocia, nati da suoli vulcanici
 amenities:
   - Camere in grotta con pareti originali in tufo scolpito
@@ -24,9 +24,8 @@ bestFor:
   - Viaggiatori che vogliono la Turchia autentica, lontano dai gruppi organizzati
 prosAndCons:
   pros:
-    - Un’autenticità storica eccezionale, monastero attivo per oltre 1.000 anni
+    - Un’autenticità storica eccezionale, in un ritiro monastico bizantino restaurato
     - Molto più tranquillo dei più famosi gruppi di hotel in grotta della Cappadocia
-    - Le mongolfiere che decollano dalla struttura regalano mattine magiche
     - La colazione turca è tra le migliori della regione
     - Un servizio davvero personale, dalla famiglia che lo gestisce da decenni
   cons:
@@ -48,22 +47,22 @@ nearbyAttractions:
     distance: 22 km
 seo:
   metaTitle: "Gamirasu, monastero bizantino in Cappadocia | StayAtNiche"
-  metaDescription: "Dormi in un monastero bizantino del VI secolo nella quieta valle di Ayvali, in Cappadocia: mongolfiere all’alba, affreschi originali e ospitalità autentica."
+  metaDescription: "Dormi in un ritiro monastico bizantino restaurato ad Ayvalı, vicino a Ürgüp: il Gamirasu ha 35 camere e suite in grotta dal design individuale."
 ---
 
 La Cappadocia è diventata una delle mete più visitate della Turchia, e a ragione: il paesaggio di formazioni di tufo vulcanico, camini delle fate e valli scavate nella roccia è tra i più sorprendenti della Terra. Ma la popolarità di Göreme e Uçhisar fa sì che, in alta stagione, l’esperienza dell’hotel in grotta possa sembrare qualcosa di intimo condiviso con una folla molto numerosa. Il Gamirasu offre una proposta completamente diversa.
 
-Nella valle di Ayvali, una piega più tranquilla del paesaggio della Cappadocia a una trentina di minuti da Göreme, il Gamirasu occupa un autentico complesso monastico bizantino scavato nella roccia. I monaci che ricavarono queste stanze nel tenero tufo vulcanico cominciarono il loro lavoro nel VI secolo d.C., e il luogo rimase una comunità religiosa attiva per oltre mille anni. Le nicchie scolpite, i soffitti a volta, le proporzioni delle stanze: tutto è frutto della sensibilità progettuale bizantina, non dell’interpretazione di un architetto moderno.
+Nel villaggio di Ayvalı, vicino a Ürgüp, una piega più tranquilla del paesaggio della Cappadocia, il Gamirasu occupa un ritiro monastico bizantino restaurato. Secondo il sito dell’hotel, la proprietà fu parte di una vita monastica plasmata dall’epoca bizantina e conserva una chiesa ortodossa dell’XI secolo e l’antica cucina del monastero. Ogni camera segue la forma naturale della grotta o della struttura in pietra originale.
 
 **Le camere**
 
-Entrare in una camera del Gamirasu significa entrare in qualcosa di davvero antico. Le pareti sono di tufo chiaro, fresco e leggermente ruvido al tatto. Le nicchie, un tempo usate per lampade a olio e icone sacre, punteggiano i muri, e alcune conservano ancora deboli tracce degli affreschi che un tempo ricoprivano l’intero monastero. La sensazione di tempo stratificato è palpabile: muratura bizantina, modifiche ottomane visibili in certi archi, e impianti idraulici ed elettrici moderni fatti passare con discrezione attraverso tutto questo.
+Entrare in una camera del Gamirasu significa entrare in qualcosa di davvero antico. Le pareti sono di tufo chiaro, fresco e leggermente ruvido al tatto. La sensazione di tempo stratificato è palpabile: muratura bizantina, modifiche ottomane visibili in certi archi, e impianti idraulici ed elettrici moderni fatti passare con discrezione attraverso tutto questo.
 
 I letti sono comodi e vestiti con buona biancheria. I bagni incorporano elementi del tradizionale hammam turco: superfici di pietra calda, un’ottima pressione dell’acqua e la soddisfazione tutta particolare di una doccia di vapore dopo un volo in mongolfiera all’alba. Le camere variano molto per dimensioni e carattere, quindi vale la pena scrivere all’hotel prima di prenotare per capire quale fa al caso tuo.
 
 **Le mongolfiere**
 
-La posizione del Gamirasu nella valle di Ayvali mette gli ospiti proprio dentro la zona dei voli. Quasi ogni mattina tra aprile e novembre, all’alba, decine di mongolfiere si alzano dal paesaggio circostante e si vedono dalla terrazza dell’hotel in tutta la loro flottiglia multicolore. L’hotel può organizzare i voli con operatori locali, e il decollo dai campi proprio sotto la struttura è il modo più cinematografico che la Cappadocia offra per cominciare una giornata.
+Il sito dell’hotel elenca i voli in mongolfiera tra le escursioni proposte con il Gamirasu, insieme a passeggiate a cavallo, in quad e trekking. Al momento della prenotazione chiedi all’hotel dei voli e del luogo di decollo.
 
 **Cucina e vini**
 

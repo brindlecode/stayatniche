@@ -1,13 +1,11 @@
 ---
 source: sextantio-cave-italy
 destination: "Matera"
-description: "Diciotto grotte nei Sassi di Matera, restaurate per mettere in luce, anziché nascondere, le pareti originali in tufo e le volte scavate nella roccia: la città un tempo definita «la vergogna d'Italia» oggi ospita uno degli hotel più ambiti del Paese."
+description: "Diciotto camere in grotta nella Civita, la parte più antica dei Sassi di Matera, rinnovate per conservarne i tratti originali, più un'antica chiesa usata come area comune, in una città un tempo definita «la vergogna d'Italia». La stessa struttura gestisce anche camere non in grotta nel Palazzo della Civita."
 highlights:
-  - "Camere scavate nelle grotte dei Sassi, abitate fin dal Paleolitico"
-  - "Patrimonio mondiale UNESCO, uno degli insediamenti abitati ininterrottamente più antichi del mondo"
+  - "Camere nelle grotte dei Sassi, nella Civita, la parte più antica dei Sassi"
+  - "Patrimonio mondiale UNESCO dal 1993"
   - "Ogni suite in grotta conserva i materiali originali: pietra, cotto e tufo"
-  - "Vincitore di numerosi premi internazionali di design e conservazione"
-  - "Set di film come La passione di Cristo e No Time to Die"
 amenities:
   - "Suite in grotta con pareti di roccia originali e volte in tufo"
   - "Biancheria di lusso e bagno moderno integrato con discrezione"
@@ -26,7 +24,7 @@ prosAndCons:
   pros:
     - "Atmosfera storica straordinaria: dormi in ambienti abitati da millenni"
     - "Un restauro guidato dalla conservazione, davvero sensibile e bellissimo"
-    - "Matera è una delle città più straordinarie e sottovalutate d'Italia"
+    - "Matera è una città patrimonio mondiale UNESCO, con i Sassi a due passi"
     - "Ottimo ristorante con una forte impronta regionale"
     - "Interni d'albergo molto fotogenici"
   cons:
@@ -48,18 +46,19 @@ nearbyAttractions:
     distance: "3 km"
 seo:
   metaTitle: "Sextantio Matera: dormire nei Sassi in grotta | StayAtNiche"
-  metaDescription: "Sextantio Le Grotte della Civita: dormi nelle antiche grotte dei Sassi di Matera, città UNESCO abitata da 9.000 anni: un boutique hotel straordinario."
+  metaDescription: "Sextantio Le Grotte della Civita: dormi in camere in grotta restaurate nella Civita, la parte più antica dei Sassi di Matera, patrimonio UNESCO."
+niche_feature: "18 camere sono grotte restaurate nel Sasso Barisano (Civita) (per esempio Grotta 17, 18, 20). Lo stesso complesso gestisce anche un Palazzo della Civita separato, con camere che non sono grotte."
 ---
 
 Nel 1952 il presidente del Consiglio Alcide De Gasperi venne a Matera e la definì *la vergogna d'Italia*. Chi abitava nei Sassi — le case-grotta scavate nelle gravine di questa cittadina lucana arroccata su un'altura — viveva senza acqua corrente né elettricità e divideva gli spazi con i propri animali. Nel giro di un decennio il governo trasferì gli abitanti con la forza. Per trent'anni le grotte rimasero vuote.
 
-Settant'anni dopo, quelle stesse grotte ospitano alcune delle camere d'albergo più ambite d'Italia.
+Settant'anni dopo, alcune di quelle stesse grotte ospitano camere d'albergo.
 
-Sextantio Le Grotte della Civita è l'opera dell'architetto e imprenditore Daniele Kihlgren, arrivato a Matera all'inizio degli anni Duemila, che ha sviluppato una filosofia da lui chiamata «restauro conservativo»: recuperare ciò che esiste, mostrare com'è davvero il materiale originale, aggiungere solo ciò di cui il corpo ha realmente bisogno. Diciotto grotte comunicanti sono state trattate secondo questo principio. Le pareti di tufo chiaro restano grezze. Le volte mostrano ogni irregolarità naturale della roccia. I pavimenti sono in pietra originale. Ciò che Kihlgren ha collocato all'interno risponde a standard rigorosissimi: letti di qualità, bagni integrati con tale cura che gli arredi appaiono come inserimenti discreti piuttosto che ristrutturazioni, e un'illuminazione morbida, bassa e affidata in gran parte alle candele. Il risultato non è un hotel che imita una grotta. È una grotta resa confortevole.
+Sextantio Le Grotte della Civita è l'opera dell'architetto e imprenditore Daniele Kihlgren, arrivato a Matera all'inizio degli anni Duemila, che ha sviluppato una filosofia da lui chiamata «restauro conservativo»: recuperare ciò che esiste, mostrare com'è davvero il materiale originale, aggiungere solo ciò di cui il corpo ha realmente bisogno. Le 18 camere, ricavate nelle grotte della Civita, e un'antica chiesa oggi area comune sono state trattate secondo questo principio. Le pareti di tufo chiaro restano grezze. Le volte mostrano ogni irregolarità naturale della roccia. I pavimenti sono in pietra originale. Ciò che Kihlgren ha collocato all'interno risponde a standard rigorosissimi: letti di qualità, bagni integrati con tale cura che gli arredi appaiono come inserimenti discreti piuttosto che ristrutturazioni, e un'illuminazione morbida, bassa e affidata in gran parte alle candele. Il risultato non è un hotel che imita una grotta. È una grotta resa confortevole.
 
 **Le camere**
 
-Nessuna suite in grotta è uguale a un'altra, perché non esistono due ambienti uguali in un versante abitato da nove millenni. Alcune hanno volte a botte basse e raccolte. Altre si aprono in spazi alti e irregolari dove la luce naturale scende da un pozzo scavato nella roccia sovrastante. Cotto e pietra dominano ovunque. I letti poggiano contro pareti antichissime. D'estate le grotte restano naturalmente fresche, un vantaggio reale e quotidiano nel caldo del Sud Italia.
+Nessuna grotta è uguale a un'altra: l'elenco ufficiale delle camere assegna a ciascuna una propria superficie e una propria disposizione, tra cui una camera classic di 30 m² e una executive suite di 160 m² con pareti alte 7 m. Alcune hanno volte a botte basse e raccolte. Cotto e pietra dominano ovunque. I letti poggiano contro pareti antichissime. D'estate le grotte restano naturalmente fresche, un vantaggio reale e quotidiano nel caldo del Sud Italia. La stessa struttura gestisce anche un Palazzo della Civita separato, le cui camere non sono grotte; questa pagina riguarda le camere in grotta.
 
 **Matera**
 

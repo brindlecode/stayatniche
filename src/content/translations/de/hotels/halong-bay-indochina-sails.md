@@ -1,14 +1,14 @@
 ---
 source: halong-bay-indochina-sails
 destination: Halong-Bucht, Quảng Ninh
-description: "Eine Boutique-Kreuzfahrt in der Dschunke durch die 1.969 Kalksteinfelsen der Halong-Bucht, mit Kabinen mit privatem Balkon, Kajaktouren durch Meereshöhlen, die nur bei Ebbe zugänglich sind, und Kochkursen mit Meeresfrüchten, die man an vorbeiziehenden schwimmenden Märkten kauft."
+description: "Ein traditionelles Holzkreuzfahrtschiff mit 23 Kabinen auf zwei Decks, das Übernachtungsfahrten von 2 Tagen/1 Nacht und 3 Tagen/2 Nächten in der Halong-Bucht anbietet, mit Kajakfahrten durch Höhlen auf der 3-Tage-Route."
 highlights:
-  - Privater Balkon über der Bucht
-  - Kajaktouren durch versteckte Meereshöhlen
-  - Tai-Chi bei Sonnenaufgang auf dem Sonnendeck
-  - Kochkurs mit regionalen Meeresfrüchten
-  - Mit dem Kajak zu einsamen Stränden
-  - Cocktails bei Sonnenuntergang auf dem Oberdeck
+  - "23 Kabinen auf zwei Decks, mit Doppel- oder Zweibettbetten"
+  - "Kajakfahrten durch Höhlen auf der 3-Tage-Route"
+  - "Tai-Chi, Obstschnitz-Vorführung und Tintenfischangeln an Bord"
+  - "Besuch der größten Höhle der Halong-Bucht und Baden an einem Strand der Lonely-Planet-Top-100"
+  - "Versteckte Strände auf der 3-Tage-Route"
+  - "Sonnenbaden und Sonnenuntergänge über der Bucht"
 amenities:
   - Eigenes Bad
   - Klimaanlage
@@ -24,7 +24,7 @@ prosAndCons:
   pros:
     - Einzigartiges Erlebnis auf dem Wasser in einer UNESCO-Welterbestätte
     - Mahlzeiten und Aktivitäten im Preis inbegriffen
-    - Kajaktouren zu Höhlen, die nur per Dschunke erreichbar sind
+    - "Kajakfahrten durch Höhlen auf der 3-Tage-Route"
     - Spektakuläre Sonnenauf- und -untergänge
   cons:
     - Wenig Zeit an Land
@@ -41,15 +41,15 @@ nearbyAttractions:
     distance: "45 Min. per Boot"
 seo:
   metaTitle: "Indochina Sails: Dschunke in der Halong-Bucht | StayAtNiche"
-  metaDescription: "Schlafen zwischen den Kalksteinfelsen der Halong-Bucht an Bord der Indochina Sails: Dschunke mit Balkonkabinen, Kajaktouren und Kochkurs im UNESCO-Welterbe."
+  metaDescription: "Übernachtungsfahrten in der Halong-Bucht auf der Indochina Sails, einem traditionellen Holzschiff mit 23 klimatisierten Kabinen, Routen über 2 oder 3 Tage."
 ---
 
-Die Halong-Bucht hat auf Erstbesucher eine ganz bestimmte Wirkung: Die Dimensionen sind schlicht nicht das, was sie erwartet haben. Fast zweitausend Kalksteinfelsen ragen auf 1.500 Quadratkilometern aus dem Golf von Tonkin, und die einzige Möglichkeit, sich richtig zwischen ihnen zu bewegen, ist das Boot. Eine Dschunkenkreuzfahrt ist nicht bloß der bequemste Weg, die Bucht zu sehen – sie ist der einzige Weg zu den inneren Lagunen, den Gezeitenhöhlen und den Wasserflächen, auf denen Fischerdörfer seit Generationen ohne Straßenanbindung leben.
+Die Halong-Bucht hat auf Erstbesucher eine ganz bestimmte Wirkung: Die Dimensionen sind schlicht nicht das, was sie erwartet haben. Kalksteinfelsen ragen aus dem Golf von Tonkin, und die einzige Möglichkeit, sich richtig zwischen ihnen zu bewegen, ist das Boot. Eine Kreuzfahrt ist nicht bloß der bequemste Weg, die Bucht zu sehen; man schläft dabei auf dem Wasser zwischen den Felsen.
 
-Ihre private Kabine öffnet sich auf einen schmalen Balkon knapp über der Wasserlinie. Der Morgen beginnt mit Nebel, der zwischen den Felstürmen hindurchzieht – ihren stimmungsvollen Ruf verdient sich die Halong-Bucht am gründlichsten im Morgengrauen, wenn das Licht noch tief steht, die Fischerboote schon unterwegs sind und die Kalksteinwände grau und nah wirken. Die Bucht scheint sich langsam zu offenbaren, während das Licht stärker wird – und genau das ist das richtige Tempo für sie.
+Die Indochina Sails hat 23 Kabinen auf zwei Decks, alle klimatisiert, mit eigenem Bad und wahlweise Doppelbett oder zwei Einzelbetten. Der Morgen beginnt mit Nebel, der zwischen den Felstürmen hindurchzieht – ihren stimmungsvollen Ruf verdient sich die Halong-Bucht am gründlichsten im Morgengrauen, wenn das Licht noch tief steht, die Fischerboote schon unterwegs sind und die Kalksteinwände grau und nah wirken. Die Bucht scheint sich langsam zu offenbaren, während das Licht stärker wird – und genau das ist das richtige Tempo für sie.
 
-Das tägliche Programm ist es, womit sich die Indochina Sails auszeichnet. Mit dem Kajak in die versteckten Lagunen zu paddeln – abgeschlossene Wasserflächen, die nur durch niedrige Höhlendurchgänge erreichbar sind, durch die man bei Ebbe flach auf dem Kajak liegend hindurchgleiten muss –, gehört zu den unvergesslicheren kleinen Abenteuern Südostasiens. Der Kochkurs in der Bordküche verwendet Zutaten, die man morgens bei den Händlern der schwimmenden Märkte kauft, die längsseits heranpaddeln; der Guide bringt die Zubereitung vietnamesischer Frühlingsrollen und Pho mit der Geduld von jemandem bei, der schon viele Menschen am Rollen von Reispapier hat verzweifeln sehen.
+Zum Bordprogramm gehören Tai-Chi, eine Vorführung im Obstschnitzen, Sonnenbaden, Sightseeing, Tintenfischangeln und Brettspiele. Die Ausflüge führen zur größten Höhle der Halong-Bucht und zum Baden an einem der Top-100-Strände von Lonely Planet; die 3-Tage-Route ergänzt versteckte Strände und Kajakfahrten durch Höhlen.
 
-Zur goldenen Stunde wird das Sonnendeck zum geselligen Mittelpunkt des Schiffs. Die Gäste versammeln sich mit Saigon-Bier, um zuzusehen, wie das Licht über die Felsen wandert – zuerst Bernstein, dann Rosé, dann ein tiefes Blaugrau, während die Türme zu Silhouetten werden –, ein Naturschauspiel, das in jeder Hinsicht außergewöhnlich ist.
+Zur goldenen Stunde wandert das Licht über die Felsen – zuerst Bernstein, dann Rosé, dann ein tiefes Blaugrau, während die Türme zu Silhouetten werden –, ein Naturschauspiel, das in jeder Hinsicht außergewöhnlich ist.
 
 Die Indochina Sails legt im Hafen Tuan Chau ab, 20 Kilometer von Ha Long City entfernt. Die meisten Gäste reisen aus Hanoi mit einem abgestimmten Transfer an, der auf der Straße etwa 3,5 Stunden dauert.

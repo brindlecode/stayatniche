@@ -51,6 +51,7 @@ jobs:
       EVIDENCE_COUNT: ${{ github.event.inputs.evidence_count || '150' }}
     steps:
       - uses: actions/checkout@v7
+        with: { fetch-depth: 200 }   # deploy-check needs the history to compare commits
       - uses: actions/setup-node@v7
         with: { node-version: '20' }
       - name: Load evidence packs from pipeline-data
@@ -86,6 +87,10 @@ jobs:
         id: evidence
         continue-on-error: true
         run: node pipeline/evidence.mjs --next "$EVIDENCE_COUNT" $EVIDENCE_IDS
+      - name: Check that the last site change went live
+        id: deploy
+        continue-on-error: true
+        run: node pipeline/deploy-check.mjs
       - name: Commit queue
         id: commit
         run: |
@@ -107,7 +112,7 @@ jobs:
             git reset -q --hard "origin/$B"
             node pipeline/merge-queue.mjs "$RUNNER_TEMP/queue-base.json" "$RUNNER_TEMP/queue-ours.json" data/pipeline/candidates.json
             cp data/pipeline/candidates.json "$RUNNER_TEMP/queue-ours.json"
-            cp "$RUNNER_TEMP"/runs-ours/{apply,discover,verify,evidence}.json data/pipeline/runs/ 2>/dev/null || true
+            cp "$RUNNER_TEMP"/runs-ours/{apply,discover,verify,evidence,deploy}.json data/pipeline/runs/ 2>/dev/null || true
             cp data/pipeline/runs/merge.json "$RUNNER_TEMP/" 2>/dev/null || true
             sleep $((attempt * 5))
           done
@@ -140,6 +145,7 @@ jobs:
           [ "${{ steps.discover.outcome }}" = "failure" ] && failed="$failed discover"
           [ "${{ steps.verify.outcome }}" = "failure" ] && failed="$failed verify"
           [ "${{ steps.evidence.outcome }}" = "failure" ] && failed="$failed evidence"
+          [ "${{ steps.deploy.outcome }}" = "failure" ] && failed="$failed live-deploy"
           [ "${{ steps.commit.outcome }}" = "failure" ] && failed="$failed commit"
           [ "${{ steps.publish.outcome }}" = "failure" ] && failed="$failed publish-packs"
           if [ -n "$failed" ]; then

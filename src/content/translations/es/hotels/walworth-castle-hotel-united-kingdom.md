@@ -20,13 +20,14 @@ bestFor:
 seo:
   metaTitle: "Walworth Castle: hotel castillo en Darlington | StayAtNiche"
   metaDescription: "Walworth Castle, cerca de Darlington: castillo del siglo XII con habitaciones en el edificio principal, suites con dosel en las torres y la King James Suite."
+niche_feature: "Las habitaciones del castillo, las suites con cama con dosel (algunas en las torres) y la King James I Suite están dentro del castillo principal; las habitaciones del anexo están en un edificio moderno contiguo, además de un Lodge en la casa del guarda (6 huéspedes) y una casa de vacaciones."
 ---
 
 Walworth Castle es un edificio catalogado Grade I con origen en el siglo XII, cerca de Darlington, en el condado de Durham. La casa actual se terminó hacia 1600, probablemente por Thomas Holt para Thomas Jenison, en el lugar de una antigua casona o castillo levantado por la familia Hansard. Durante la Segunda Guerra Mundial sirvió como campo para prisioneros de guerra. Hoy funciona como hotel y se presenta como el único castillo de Darlington.
 
 ## Las habitaciones
 
-El castillo ofrece una variedad de habitaciones, tanto dentro del castillo como en otras zonas de la propiedad. Las habitaciones del castillo tienen camas dobles o individuales y están en el edificio principal. Las más amplias son las suites con dosel, de gran tamaño, y algunas se encuentran en las torres del castillo. La más conocida es la King James Suite: se sabe que el rey Jacobo VI de Escocia se alojó en lo que hoy es la suite el 14 de abril de 1603. Se está llevando a cabo un programa de renovación de las habitaciones, así que algunas lucen un aspecto renovado sin perder su carácter propio.
+No todas las habitaciones están en el castillo principal. Las habitaciones del anexo, con camas dobles o individuales, están en un edificio contiguo al castillo; el Walworth Castle Lodge, a la entrada del hotel, aloja a seis huéspedes; y hay además una casa de vacaciones (Holiday Cottage) independiente de dos dormitorios. Las habitaciones del castillo tienen camas dobles o individuales y están en el edificio principal. Las más amplias son las suites con dosel, de gran tamaño, y algunas se encuentran en las torres del castillo. La más conocida es la King James Suite: se sabe que el rey Jacobo VI de Escocia se alojó en lo que hoy es la suite el 14 de abril de 1603. Se está llevando a cabo un programa de renovación de las habitaciones, así que algunas lucen un aspecto renovado sin perder su carácter propio.
 
 ## Comer y beber
 

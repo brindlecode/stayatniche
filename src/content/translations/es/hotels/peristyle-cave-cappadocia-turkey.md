@@ -19,13 +19,14 @@ bestFor:
 seo:
   metaTitle: "Peristyle Cave Cappadocia: hotel cueva | StayAtNiche"
   metaDescription: "Peristyle Cave Cappadocia en Uçhisar: ocho habitaciones, cinco en cueva, con terraza sobre los globos de la mañana, desayuno y excursiones en Capadocia."
+niche_feature: "8 habitaciones en total: cinco habitaciones cueva y tres de piedra, cada una con el nombre de un planeta."
 ---
 
-Peristyle Cave Cappadocia es un pequeño hotel en lo alto de Uçhisar, bajo el castillo que da al pueblo su silueta. Tiene ocho habitaciones en total: cinco en cueva y tres de piedra. Es, pues, una estancia en la que la mayoría de las habitaciones, aunque no todas, están excavadas en la roca.
+Peristyle Cave Cappadocia es un pequeño hotel en lo alto de Uçhisar, bajo el castillo que da al pueblo su silueta. Tiene ocho habitaciones en total: cinco en cueva y tres de piedra. Es, pues, una estancia en la que la mayoría de las habitaciones, aunque no todas, son cuevas.
 
 ## Las habitaciones
 
-Las habitaciones llevan nombres de planetas: Uranus, Mars, Jupiter, Saturn, Neptune, Mercury, Earth y Venus. Pregunta al reservar si quieres una habitación en cueva en concreto.
+Las habitaciones llevan nombres de planetas: Uranus, Mars, Jupiter, Saturn, Neptune, Mercury, Earth y Venus. La web no indica cuáles son las habitaciones en cueva y cuáles las de piedra, así que pregunta al reservar si quieres una habitación en cueva en concreto.
 
 ## El entorno
 

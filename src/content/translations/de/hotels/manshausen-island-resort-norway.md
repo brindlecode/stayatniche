@@ -1,9 +1,9 @@
 ---
 source: manshausen-island-resort-norway
 destination: Steigen-Archipel, Nordland
-description: Eine kleine Gruppe von Seehütten auf einer winzigen Insel im Steigen-Archipel nördlich des Polarkreises, wo die Berge direkt ins Europäische Nordmeer stürzen und sich die Polarlichter im Wasser spiegeln. Das ursprüngliche Lagerhaus der Fischer wurde zum Gemeinschaftsbereich umgebaut; vier Seehütten ragen auf Stelzen über das Meer, mit Glaswänden und eigenem Zugang zum Wasser für Kajaktouren, Tauchgänge und Bäder in der Mitternachtssonne.
+description: "Seehütten und Türme auf einer kleinen Insel im Steigen-Archipel nördlich des Polarkreises, wo die Berge direkt ins Europäische Nordmeer stürzen und sich die Polarlichter im Wasser spiegeln. Die ursprünglichen Hütten ruhen auf den alten Steinkais der Insel, die neueren ragen aufs Meer hinaus; ein Bauernhaus aus dem 18. Jahrhundert wurde zu einem Restaurant mit Bibliothek im Obergeschoss umgebaut."
 highlights:
-  - Seehütten auf Stelzen über dem Europäischen Nordmeer
+  - Seehütten auf alten Steinkais und über dem Meer
   - Polarlichter, die sich im Wasser spiegeln
   - Nördlich des Polarkreises auf 68° N
   - Baden in der Mitternachtssonne vom eigenen Meerzugang
@@ -13,7 +13,7 @@ amenities:
   - Kajaks werden gestellt
   - Norwegisches Frühstück inklusive
   - Holzofen
-  - Sauna
+  - Sauna und Hot Tub an einem Meerwasserteich
 bestFor:
   - Abenteuerlustige Paare
   - Polarlichtjäger
@@ -22,12 +22,13 @@ bestFor:
   - Absolute Abgeschiedenheit
 seo:
   metaTitle: "Manshausen: Seehütten im arktischen Norwegen | StayAtNiche"
-  metaDescription: "Manshausen Island Resort in Nordland: gläserne Seehütten auf Stelzen nördlich des Polarkreises, mit Polarlichtern, Mitternachtssonne und Kajak vor der Tür."
+  metaDescription: "Manshausen Island Resort in Nordland: Seehütten auf einer kleinen Insel nördlich des Polarkreises, mit Polarlichtern, Mitternachtssonne und Baden im Meer."
+niche_feature: "Seehütten auf einer Privatinsel: Die ursprünglichen Hütten ruhen auf alten Steinkais, die neueren ragen über das Meer hinaus; dazu zwei Türme am Rand des Stegs. Stelzen oder Pfähle werden nicht erwähnt. Keine Lage an einer Klippe."
 ---
 
 Der Steigen-Archipel zeigt, wie Norwegen aussieht, wenn die Berge direkt ins Meer geschoben wurden: eine Kette steiler, felsiger Inseln nördlich des Polarkreises, wo sich die Wand der Lofoten nach Norden fortsetzt und die Fjorde Nordlands sich zum Europäischen Nordmeer öffnen. Auf 68° N ist dies die echte norwegische Arktis – nicht die touristische Arktis von Tromsø, sondern das Norwegen der arbeitenden Fischerdörfer, wo die Infrastruktur minimal ist und die Landschaft den ungezähmten Charakter einer Küste hat, die nie in Mode war.
 
-Manshausen liegt auf einer dieser Inseln – einem winzigen, unregelmäßigen Klotz aus Fels und Heidekraut, an seiner längsten Stelle rund 300 Meter lang. Kern des Anwesens war einst eine Rorbu der Fischer (ein traditionelles hölzernes Lagerhaus, das zugleich als Unterkunft diente), heute ein gemeinsamer Speise- und Aufenthaltsraum. Vom felsigen Ufer der Insel ragen auf Holzstegen vier Seehütten direkt über das Wasser: Holzbauten mit großen Fenstern zum Meer, Holzöfen und offenen Grundrissen, in denen sich Bett, Sitzecke und Küche einen einzigen Raum mit Meerblick teilen. Die private Plattform auf Meereshöhe, zu der man aus der Hütte hinabsteigt, bietet direkten Zugang zum Europäischen Nordmeer zum Schwimmen, Kajakfahren und Tauchen.
+Manshausen liegt auf einer dieser Inseln – einem winzigen, unregelmäßigen Klotz aus Fels und Heidekraut. Die Insel war einst ein Handelsposten der Fischerei, woran heute nur noch die massiven Steinkais erinnern; ein Bauernhaus aus dem 18. Jahrhundert wurde zu einem Restaurant mit Bibliothek im Obergeschoss umgebaut. Die ursprünglichen Seehütten ruhen auf diesen Steinkais, die neueren stehen an der Spitze der Felsformationen am Nordende der Insel und ragen aufs Meer hinaus. Der Zugang zu den Hütten führt über die Felsformationen.
 
 Im Winter sind die Polarlichter die Hauptattraktion. Weil die Insel von Wasser umgeben ist und keine künstlichen Lichtquellen hat, spiegelt sich die Aurora im Meer rund um die Hütte – ein Erlebnis, das kein Haus an Land bieten kann. Dieselben Polarlichter gleichzeitig über und unter dem Horizont zu sehen, den echten Himmel und sein Spiegelbild, nennen die Gäste immer wieder die prägende Erinnerung ihres Aufenthalts.
 

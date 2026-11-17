@@ -33,7 +33,7 @@ De dag begint met een royaal ontbijt waar het kasteel trots op is, met huisgemaa
 
 ## Voorbij de muren
 
-Het kasteel staat midden in Casamassella, aan de Piazza Vittorio Emanuele II, en organiseert ook evenementen en bruiloften. De kust van Salento bij Otranto ligt dichtbij, dus je wisselt makkelijk af tussen het rustige kasteel en de stranden en oude stadjes van de hak van de Italiaanse laars.
+Het kasteel staat midden in Casamassella, aan de Piazza Vittorio Emanuele II, en organiseert ook evenementen en bruiloften. Op de website wordt het kasteel ook aangeboden voor exclusief gebruik, als zelfvoorzienende kasteelvakantie ("Rent a castle"), dus het loont de moeite te vragen of je het hele gebouw kunt huren in plaats van één kamer. De kust van Salento bij Otranto ligt dichtbij, dus je wisselt makkelijk af tussen het rustige kasteel en de stranden en oude stadjes van de hak van de Italiaanse laars.
 
 ## Voor je vertrekt
 

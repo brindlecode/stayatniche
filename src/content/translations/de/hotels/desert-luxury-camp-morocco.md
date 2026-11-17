@@ -30,7 +30,7 @@ Desert Luxury Camp betreibt zwei Zeltcamps in der marokkanischen Sahara. Das Cam
 
 ## Die Zelte
 
-Die Gäste schlafen in Zelten mit eigenem Bad, Warmwasserdusche, Spültoilette und bequemen Betten, nachts mit Klimaanlage. Im Winter sind die Nächte kalt. Die Camps heizen die Zelte deshalb mit elektrischen oder Gasheizungen, auf den Betten liegen Wärmflaschen oder Heizdecken. Ende März bis Anfang April brauchen die Zelte in der Regel keine Heizung mehr. Das Camp nutzt Solarstrom, und die Zelte sind so gebaut, dass sie starken Winden standhalten. Eines der Restaurants ist aus Lehmziegeln errichtet und dient bei schlechtem Wetter als Zufluchtsort.
+Die Gäste schlafen in Zelten mit eigenem Bad, Warmwasserdusche, Spültoilette und bequemen Betten, nachts mit Klimaanlage. Der Reiseveranstalter Scott Dunn beschreibt das Hauptcamp am Erg Chebbi mit fünf Schlafzelten mit eigenem Bad. Im Winter sind die Nächte kalt. Die Camps heizen die Zelte deshalb mit elektrischen oder Gasheizungen, auf den Betten liegen Wärmflaschen oder Heizdecken. Ende März bis Anfang April brauchen die Zelte in der Regel keine Heizung mehr. Das Camp nutzt Solarstrom, und die Zelte sind so gebaut, dass sie starken Winden standhalten. Eines der Restaurants ist aus Lehmziegeln errichtet und dient bei schlechtem Wetter als Zufluchtsort.
 
 ## Essen und Aktivitäten
 

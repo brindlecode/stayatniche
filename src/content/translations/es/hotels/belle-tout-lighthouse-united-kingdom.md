@@ -21,6 +21,7 @@ bestFor:
 seo:
   metaTitle: "Alojamiento en faro Belle Tout | StayAtNiche"
   metaDescription: "B&B en el faro Belle Tout, de 1832, en los acantilados de Beachy Head: seis habitaciones, solo una dentro de la torre, y vistas al mar o a los South Downs."
+niche_feature: "Solo 1 de los 6 dormitorios, el Keeper's Loft, está dentro de la torre original de granito del faro; las otras cinco habitaciones son dormitorios convencionales con baño privado en el resto del edificio."
 ---
 
 Belle Tout es un B&B en un faro sobre los acantilados de Beachy Head, cerca de Eastbourne, en East Sussex. El faro se construyó en 1832 y ha sido restaurado, y tiene vistas al Canal de la Mancha, a los Seven Sisters y a las suaves colinas de los South Downs. Solo se ofrecen seis habitaciones, todas con baño privado.

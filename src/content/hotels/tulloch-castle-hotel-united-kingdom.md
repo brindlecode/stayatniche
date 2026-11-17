@@ -3,10 +3,10 @@ name: "Tulloch Castle Hotel"
 category: castle-hotels
 destination: "Dingwall, Highland, Scotland"
 country: "United Kingdom"
-description: "A castle hotel dating from the 12th century in Dingwall, with 22 en-suite bedrooms, a 250-year-old panelled Great Hall and restored original fireplaces and ceilings."
+description: "A castle hotel in Dingwall, dated by the hotel to the 12th century, with 22 en-suite bedrooms, a 250-year-old panelled Great Hall and restored original fireplaces and ceilings."
 priceRange: "Rates vary"
 highlights:
-  - "Castle dating from the 12th century"
+  - "Castle the hotel dates to the 12th century"
   - "22 en-suite bedrooms, each with its own character"
   - "250-year-old panelled Great Hall"
   - "Restored original fireplaces and ceilings"
@@ -43,7 +43,7 @@ niche_source_url: "https://bespokehotels.com/tullochcastlehotel"
 niche_verified_at: 2026-11-17
 ---
 
-Tulloch Castle dates from the 12th century, when the Bains and later the Clan Davidson laid claim to its lands. Its fortunes have changed many times since, and it now stands as a hotel at Dingwall in the Scottish Highlands. In days gone by only the Laird or the Chief of the Clan could enjoy a stay in a Highland castle like this; today anyone can book a room.
+The hotel dates Tulloch Castle to the 12th century, when the Bains and later the Clan Davidson laid claim to its lands, although Wikipedia says the castle likely dates to at least the late 14th century. It was damaged by fire in 1845 and extended in 1891. Its fortunes have changed many times since, and it now stands as a hotel at Dingwall in the Scottish Highlands. In days gone by only the Laird or the Chief of the Clan could enjoy a stay in a Highland castle like this; today anyone can book a room.
 
 ## The castle
 

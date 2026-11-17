@@ -1,20 +1,20 @@
 ---
 source: amangiri-utah
 destination: Canyon Point, Utah
-description: "Amangiri is gebouwd rond een eeuwenoude mesa van Navajo-zandsteen in het canyonland van Zuid-Utah. De suites van gestort beton hebben eigen plonsbaden die precies zo liggen dat ze het elektrische blauw en karmozijnrood van de woestijnhemel vangen. Het grote zwembad ligt tegen de wand van de mesa; de behandelkamers van de spa zweven boven de rots zelf."
+description: "Op ruim 900 acre van het Colorado Plateau in het canyonland van Zuid-Utah heeft Amangiri 34 moderne suites, een Aman Spa en een zwembad dat tegen de mesa is gebouwd, met de tien tentpaviljoens van Camp Sarika als satellietkamp."
 highlights:
-  - Resort ontworpen rond een eeuwenoude geologische mesa
-  - Suites met eigen zwembad en direct uitzicht op canyons en mesa's
-  - Mesazwembad dat in het hart van het resort boven de rotsformatie uitsteekt
-  - Aman Spa met zwevende behandelkamers boven de rots
+  - Resort gebouwd rond een mesa, op ruim 900 acre van het Colorado Plateau
+  - 34 suites plus de tien tentpaviljoens van Camp Sarika, elk met een eigen plonsbad
+  - Zwembad tegen de mesa, waar een zandsteenrots in het water uitsteekt
+  - Ruime Aman Spa
   - Privétoegang tot Lake Powell en het omringende canyonland
   - Ballonvaarten boven de Grand Staircase bij zonsopkomst
   - Begeleide canyoning, rotsklimmen en culturele wandelingen
   - Helikoptertochten naar afgelegen canyonformaties
 amenities:
-  - Eigen plonsbad (alle suites)
+  - Eigen plonsbad (in de paviljoens van Camp Sarika)
   - Aman Spa met uitgebreid behandelmenu
-  - Verwarmd hoofdzwembad rond een natuurlijke rotsformatie
+  - Hoofdzwembad tegen de mesa gebouwd
   - Meerdere restaurants met uitzicht op woestijn en canyons
   - Yoga- en fitnessstudio
   - Zorgvuldig samengesteld programma met avontuurlijke activiteiten
@@ -27,10 +27,10 @@ bestFor:
   - Buitenmensen die niet willen inleveren op comfort
 prosAndCons:
   pros:
-    - Misschien wel het architectonisch mooiste resort van Noord-Amerika
+    - Opvallende minimalistische architectuur in woestijnlandschap van rode rots
     - De legendarisch hoge servicestandaard van Aman, perfect uitgevoerd in de woestijn
     - Uitzonderlijke toegang tot enkele van de meest afgelegen landschappen van het Amerikaanse zuidwesten
-    - De spa hoort bij de beste van het land
+    - Een ruime Aman Spa ter plaatse
   cons:
     - Een van de duurste hotels van de Verenigde Staten
     - Door de afgelegen ligging heb je eigen vervoer of een aansluitende vlucht naar Page, Arizona nodig
@@ -40,26 +40,17 @@ seasonalInfo:
   bestTime: Maart tot mei en september tot november, voor ideale temperaturen
   peakSeason: Oktober en de voorjaarsvakantie (maart-april)
   notes: Voorjaar en najaar zijn de topseizoenen, met warme dagen om te wandelen en buiten actief te zijn, koele avonden en de bijzondere kleurwisselingen van het canyonlandschap. De zomer kan ook, maar is erg heet; in de winter valt er af en toe sneeuw, wat de mesa's spectaculair verandert.
-nearbyAttractions:
-  - name: Lake Powell en Glen Canyon National Recreation Area
-    distance: 10 km
-  - name: Grand Staircase-Escalante National Monument
-    distance: 40 km
-  - name: Antelope Canyon
-    distance: 50 km
-  - name: Bryce Canyon National Park
-    distance: 130 km
 seo:
   metaTitle: "Amangiri Utah: luxe woestijnresort | StayAtNiche"
-  metaDescription: "Het meesterwerk van Aman in het canyonland van Zuid-Utah: bijzondere architectuur, topservice en Lake Powell om de hoek. Amangiri vanaf $ 2.000 per nacht."
+  metaDescription: "Aman-resort in Zuid-Utah: 34 moderne suites, de tentpaviljoens van Camp Sarika, een zwembad tegen de mesa en een spa. Vanaf $ 2.000 per nacht."
 ---
 
-Amangiri geldt als een van de meest gewaardeerde woestijnhotels van Noord-Amerika. Alleen de architectuur al rechtvaardigt de vlucht naar Utah. Architect Marwan Al-Sayed ontwierp het hele resort rond een eeuwenoude mesa, een uitstulping van Navajo-zandsteen die in de kern van het gebouw ligt, en het resultaat is een lang, laag complex van gestort beton en woestijnsteen dat niet met het landschap concurreert, maar er gewoon deel van wordt.
+Amangiri is een woestijnresort op ruim 900 acre van het Colorado Plateau in het zuiden van Utah, en de architectuur is de grote trekpleister. Marwan Al-Sayed, Rick Joy en Wendell Burnett ontwierpen het, en een zandsteenrots steekt het hoofdzwembad in. Het resultaat is een minimalistisch complex van grote betonplaten dat niet met het landschap concurreert, maar er gewoon deel van wordt.
 
-Het grote zwembad is direct tegen de wand van de mesa gebouwd. De behandelkamers van de spa zweven erboven. Elke zichtlijn in de openbare ruimtes is zo afgesteld dat je blik steeds terugkeert naar de rots. Dit is architectuur met heel duidelijke prioriteiten, en die worden uitgevoerd zonder één overbodig detail.
+Het grote zwembad is direct tegen de wand van de mesa gebouwd. Elke zichtlijn in de openbare ruimtes is zo afgesteld dat je blik steeds terugkeert naar de rots. Dit is architectuur met heel duidelijke prioriteiten, en die worden uitgevoerd zonder één overbodig detail.
 
-De kamers zijn oefeningen in ingetogenheid: ruwe betonnen muren, zandkleurig textiel, bedden gericht op ramen van vloer tot plafond die specifieke stukken van het canyonpanorama inlijsten. De eigen plonsbaden liggen zo dat ze de wisselende kleuren van de hemel boven Utah vangen: elektrisch blauw in de woestijnochtend, saffraan en karmozijn bij zonsondergang. In het canyonland van Zuid-Utah behoren die kleuren tot de meest extreme op aarde.
+De 34 suites zijn modernistisch ontworpen en omarmen, in de woorden van het resort zelf, de rauwe esthetiek van de woestijn; elke kamer heeft open uitzicht op het omringende woestijnlandschap. Camp Sarika, het satellietkamp van het resort, voegt tien tentpaviljoens toe, elk met een eigen plonsbad.
 
-De Aman Spa beslaat 5000 vierkante meter in de rots. Het zwevende zwembad, gebouwd boven een spleet in de mesa, laat je in warm water liggen met eeuwenoude woestijn om je heen en niets dan rots onder je. Het is een van de mooiste ruimtelijke ervaringen die een hotel waar ook ter wereld te bieden heeft.
+De Aman Spa beslaat 25.000 vierkante voet (ongeveer 2300 vierkante meter), en het zwembad is tegen de mesa gebouwd, waarbij een zandsteenrots in het water uitsteekt.
 
-Lake Powell ligt op 10 kilometer. Antelope Canyon op 50 kilometer. Bryce Canyon op 130. Gidsen verzorgen helikoptertochten naar canyonformaties die op geen andere manier bereikbaar zijn, kajaktochten over het spiegelgladde meer en begeleide wandelingen door slotcanyons, waar de hemel zich versmalt tot een reepje blauw tussen golvende zandstenen wanden. Boek 6–12 maanden vooruit. Dit is geen hotel dat leegstaat.
+Tot de activiteiten horen helikoptervluchten over torenhoge rotsformaties en begeleide wandelingen door slotcanyons, waar de hemel zich versmalt tot een reepje blauw tussen golvende zandstenen wanden. Boek 6–12 maanden vooruit. Dit is geen hotel dat leegstaat.

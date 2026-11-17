@@ -1,10 +1,10 @@
 ---
 source: memories-aicha-luxury-camp-jordan
 destination: "Wadi Rum, Akaba"
-description: "Luxuscamp mit 55 Zelten in Wadi Rum, mit klimatisierten Zelten, privaten Decks und durchsichtigen Dächern, um die Sterne vom Bett aus zu beobachten."
+description: "Luxuscamp mit 55 Zelten in Wadi Rum, mit klimatisierten Zelten, privaten Decks und Panorama-Zelten zum Sternegucken."
 highlights:
   - "55 Zelte im Herzen von Wadi Rum"
-  - "Durchsichtige Dächer, von denen aus man im Bett Tausende Sterne beobachten kann"
+  - "Panorama-Zelte zum Sternegucken, mit transparentem Dach in den Kuppeln des Camps"
   - "Klimatisierte Zelte mit eigener Dusche"
   - "Vier Zeltkategorien, von 340 bis 540 Quadratfuß"
   - "Fünf Autominuten vom Besucherzentrum von Wadi Rum entfernt"
@@ -22,14 +22,14 @@ bestFor:
   - "Paare"
 seo:
   metaTitle: "Memories Aicha Luxury Camp: Luxuscamp Wadi Rum | StayAtNiche"
-  metaDescription: "Memories Aicha Luxury Camp in Wadi Rum: 55 Zelte mit Klimaanlage, privaten Decks und transparenten Dächern für Sternenbeobachtung vom Bett aus."
+  metaDescription: "Memories Aicha Luxury Camp in Wadi Rum: 55 Zelte mit Klimaanlage, privaten Decks und Panoramic-Zelten zum Sternegucken in der Wüste Jordaniens."
 ---
 
 Das Memories Aicha Luxury Camp ist ein Camp mit 55 Zelten im Herzen von Wadi Rum, eingebettet in ein rotes Tal zwischen schroffen Bergen und offener arabischer Wüste. Laut Eigenbeschreibung wirkt das Gelände eher wie eine Marskolonie als wie ein Campingplatz. Die Idee: in der Wildnis aufwachen, ohne auf Hotelkomfort zu verzichten.
 
 ## Die Zelte
 
-Jedes Zelt ist in Gelb-, Orange- und Rottönen eingerichtet, die den Farben des Wüstensands nachempfunden sind. Die Zelte verfügen über Klimaanlage, Duschen und fließendes Wasser. Die transparenten Dächer lassen die Gäste nachts Tausende Sterne vom Bett aus betrachten, und tagsüber blickt man von einem privaten Deck, im orientalischen Stil eingerichtet, über die rote Landschaft.
+Jedes Zelt ist in Gelb-, Orange- und Rottönen eingerichtet, die den Farben des Wüstensands nachempfunden sind. Die Zelte verfügen über Klimaanlage, Duschen und fließendes Wasser. Laut Startseite des Camps haben die Kuppeln ein transparentes Dach, durch das man nachts Tausende Sterne vom Bett aus betrachten kann; tagsüber blickt man von einem privaten Deck, im orientalischen Stil eingerichtet, über die rote Landschaft. Als ideal zum Sternegucken beschreibt das Camp die Panoramic-Zelte.
 
 Es gibt vier Kategorien:
 

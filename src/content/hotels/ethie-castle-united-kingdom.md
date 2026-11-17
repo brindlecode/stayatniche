@@ -3,11 +3,11 @@ name: "Ethie Castle"
 category: castle-hotels
 destination: "Inverkeilor, near Arbroath, Angus"
 country: "United Kingdom"
-description: "A 14th-century castle of about 1,400 square metres on the Angus coast near Arbroath, offered for rent since summer 2024 with a series of individually named suites."
+description: "A 14th-century castle of about 1,400 square metres on the Angus coast near Arbroath, offered for guest stays and exclusive use, with fourteen individually named suites."
 priceRange: "Rates vary"
 highlights:
   - "14th-century castle of about 1,400 m² near Arbroath"
-  - "Available for rent since summer 2024"
+  - "Fourteen named suites, with a three-night minimum stay"
   - "Suites named after admirals, ships and historical figures"
   - "Small chapel and the Cardinal's Sitting Room with a secret staircase"
   - "Country and sporting pursuits from falconry to salmon fishing"
@@ -45,7 +45,7 @@ niche_source_url: "https://www.ethiecastle.com/"
 niche_verified_at: 2026-11-17
 ---
 
-Ethie Castle stands in Inverkeilor, about five kilometres north of the fishing town of Arbroath on the Angus coast. It is a 14th-century castle of roughly 1,400 square metres, and it has been available for rent since the summer of 2024.
+Ethie Castle stands in Inverkeilor, about five kilometres north of the fishing town of Arbroath on the Angus coast. It is a 14th-century castle of roughly 1,400 square metres, and it is offered for guest stays, from semi-catered stays to full exclusive use, with a minimum stay of three nights. The current owner acquired it in November 2013, refurnished it room by room and opened it to guests.
 
 ## The castle
 
@@ -55,7 +55,7 @@ Restoration has kept the character of the building. Wings, towers, turrets and c
 
 ## The suites
 
-Guests sleep in a set of named suites. The names draw on naval and historical history: Admiral Nelson, Trafalgar, Napoleon, HMS Victory, HMS Britannia, Admiral Collingwood, Sir Walter Scott and the Antiquary Suite among them. Ask the castle which suite suits your party, since the rooms differ in character.
+Guests sleep in one of fourteen named suites. The names draw on naval and historical history: Admiral Nelson, Trafalgar, Napoleon, HMS Victory, HMS Britannia, Admiral Collingwood, Sir Walter Scott and the Antiquary Suite among them. Ask the castle which suite suits your party, since the rooms differ in character. An attached apartment with two bedrooms has its own bathroom, kitchen, living room and a separate entrance.
 
 ## Things to do
 

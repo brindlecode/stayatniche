@@ -5,7 +5,7 @@ description: "Een vijfsterrenhotel in een baronieel kasteel uit de 19e eeuw aan 
 highlights:
   - "Baronieel kasteel uit de 19e eeuw, gebouwd in 1863"
   - "Kamers en suites in het kasteel met uitzicht op het terrein en de loch"
-  - "Acht Walled Garden Rooms in de verbouwde stal, elk met balkon of terras"
+  - "Walled Garden-kamers en -suites in de verbouwde stal, elk met balkon of terras"
   - "Gate Lodge met één tweepersoonskamer en één eenpersoonskamer"
   - "Seasgair-dineerervaring van Michel Roux"
 amenities:
@@ -19,6 +19,7 @@ bestFor:
 seo:
   metaTitle: "Inverlochy Castle: kasteelhotel in Schotland | StayAtNiche"
   metaDescription: "Inverlochy Castle bij Fort William: baronieel kasteel uit 1863 aan de voet van de Ben Nevis, met kamers in het kasteel, Walled Garden Rooms en Gate Lodge."
+niche_feature: "De kasteelkamers en suites liggen in het kasteel uit 1863 in Schotse baronstijl (19e eeuw); de Walled Garden-kamers zitten in een verbouwde stal op vijf minuten afstand en de Gate Lodge is een apart victoriaans poortgebouw. De officiële site noemt het ook een victoriaans landhuis."
 ---
 
 Inverlochy Castle is een baronieel landhuis uit de 19e eeuw, gelegen tussen berg en loch bij Fort William. Het werd in 1863 gebouwd door William Scarlett, 3e Baron Abinger, en koningin Victoria verbleef er een week tijdens een bezoek aan Balmoral in 1873. De naam komt van het veel oudere Inverlochy Castle uit de 13e eeuw, op een paar mijl afstand. Vandaag is het een vijfsterrenhotel.
@@ -28,7 +29,7 @@ Inverlochy Castle is een baronieel landhuis uit de 19e eeuw, gelegen tussen berg
 De kamers zijn verdeeld over het hoofdgebouw van het kasteel en de tuinen, en je kunt uit drie opties kiezen:
 
 - **Kamers en suites in het kasteel** zijn individueel ingericht met antieke meubels en bieden uitzicht over het terrein en de loch.
-- **Walled Garden Rooms** zijn acht kamers in een verbouwde stal, met uitzicht op de rustige ommuurde tuin, elk met balkon of terras.
+- **Walled Garden Rooms** zijn kamers en suites in een verbouwde stal, vijf minuten lopen van het kasteel, met uitzicht op de rustige ommuurde tuin, elk met balkon of terras.
 - **The Gate Lodge** is een intiem poortgebouw op het terrein, op korte afstand lopen van het kasteel bij de hoofdingang, met één tweepersoonskamer en één eenpersoonskamer.
 
 ## Eten en ontdekken

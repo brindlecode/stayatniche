@@ -35,7 +35,7 @@ prosAndCons:
     - Prezzi alti, una delle esperienze alberghiere più care d’Irlanda
     - In alta stagione è molto richiesto da grandi gruppi aziendali e matrimoni
     - I dintorni nella contea di Clare sono più tranquilli del Kerry o del Connemara
-    - Alcune camere dell’ala più recente non hanno il carattere storico di quelle del castello
+    - L’hotel non indica dove si trovi ciascuna categoria di camere; chiedete dove si trova la vostra
 seasonalInfo:
   bestTime: Da maggio a settembre
   notes: "L’estate irlandese porta le giornate più lunghe e le condizioni migliori per il golf. Il castello è bello in ogni stagione: a ottobre i colori autunnali della tenuta sono spettacolari, e il Natale a Dromoland è un evento notoriamente sfarzoso. Il golf dipende dal meteo, ma gli irlandesi giocano tutto l’anno."
@@ -51,9 +51,12 @@ nearbyAttractions:
 seo:
   metaTitle: "Dromoland Castle, castello-hotel in Irlanda | StayAtNiche"
   metaDescription: "La dimora ancestrale degli O’Brien, oggi castello-hotel di lusso nella contea di Clare: golf da campionato, falconeria e ristorante Michelin su 450 acri."
+closure:
+  note: "Il castello è temporaneamente chiuso per lavori di ristrutturazione; le prenotazioni del castello sono aperte per soggiorni da maggio 2027. I lodge in self-catering restano aperti."
+niche_feature: "Le suite si trovano entro le mura originali del castello; il sito non dice dove siano le altre categorie di camere del castello. Il castello è la ricostruzione neogotica del 1835 della residenza degli O'Brien, hotel dal 1963. I lodge in self-catering sono separati."
 ---
 
-La discendenza della famiglia O’Brien non ha bisogno di essere inventata. Il clan che nel XVI secolo costruì un castello sulle rive del lago di Dromoland, nella contea di Clare, discendeva direttamente da Brian Boru, il grande re che unificò i regni d’Irlanda e morì nella battaglia di Clontarf nel 1014. Non è una trovata pubblicitaria: è una genealogia documentata che attraversa più di mille anni, e si vede dal modo in cui il castello si presenta. Qui non c’è alcuno sforzo di sembrare importanti. Le torri di pietra, il lago, i giardini all’italiana e i 450 acri di parco hanno tutti l’autorevolezza serena di un luogo che non ha mai avuto bisogno di annunciare cosa sia.
+La discendenza della famiglia O’Brien non ha bisogno di essere inventata. Il clan la cui sede sorge sulle rive del lago di Dromoland, nella contea di Clare, discendeva direttamente da Brian Boru, il grande re che unificò i regni d’Irlanda e morì nella battaglia di Clontarf nel 1014. Non è una trovata pubblicitaria: è una genealogia documentata che attraversa più di mille anni, e si vede dal modo in cui il castello si presenta. Qui non c’è alcuno sforzo di sembrare importanti. Le torri di pietra, il lago, i giardini all’italiana e i 450 acri di parco hanno tutti l’autorevolezza serena di un luogo che non ha mai avuto bisogno di annunciare cosa sia. L’attuale castello è una ricostruzione neogotica del 1835.
 
 **La tenuta**
 
@@ -65,7 +68,7 @@ Oltre al campo, la tenuta offre la pesca della trota fario sul lago, il tiro al 
 
 La Great Hall è il cuore degli spazi comuni: un camino in pietra scolpita, i ritratti degli antenati della dinastia O’Brien e proporzioni che mettono l’essere umano nel giusto rapporto con diversi secoli di storia. I salotti e la biblioteca, usati per il tè del pomeriggio e come luoghi d’incontro prima di cena, hanno l’agio leggermente vissuto di stanze che sono sempre state abitate da persone, anziché conservate per essere esposte.
 
-Le camere variano molto a seconda della posizione nel castello. Quelle da chiedere sono nelle torri di pietra originali: soffitti alti, profonde sedute alla finestra con vista sul parco e sul lago, e quel silenzio particolarissimo che di notte producono i muri di pietra spessi. Le camere dell’ala più recente sono più comode in senso convenzionale, ma non hanno l’atmosfera per cui la maggior parte degli ospiti viene.
+Il sito dell’hotel indica che le suite si trovano entro le mura originali del castello; non dice dove si trovino le altre categorie di camere. Prima di prenotare, chiedete in quale ala e in quale categoria si trova la camera che vi viene proposta.
 
 **La cucina**
 

@@ -1,9 +1,9 @@
 ---
 source: castello-tafuri-italy
 destination: "Portopalo di Capo Passero, Sicilia"
-description: "Un castillo en el extremo sur de Sicilia, convertido en dieciocho habitaciones y suites, algunas con vistas a una antigua tonnara y al mar, con una piscina panorámica."
+description: "Una villa con forma de castillo, iniciada en 1935, en el extremo sur de Sicilia, con dieciocho habitaciones y suites, algunas con vistas a una antigua tonnara y al mar, con una piscina panorámica."
 highlights:
-  - "Castillo histórico en Portopalo di Capo Passero convertido en dieciocho habitaciones y suites"
+  - "Villa con forma de castillo (iniciada en 1935) en Portopalo di Capo Passero, con dieciocho habitaciones y suites"
   - "Suites con vistas a una tonnara y al mar"
   - "Balcones de las suites entre las almenas del castillo"
   - "Piscina panorámica con terraza de sol"
@@ -19,9 +19,10 @@ bestFor:
 seo:
   metaTitle: "Castello Tafuri: hotel castillo Sicilia | StayAtNiche"
   metaDescription: "Castello Tafuri en Portopalo di Capo Passero: castillo con dieciocho habitaciones y suites, piscina panorámica y vistas a una antigua tonnara y al mar."
+niche_note: "Castello Tafuri no es un castillo medieval: es una villa con forma de castillo, proyectada en 1933, iniciada en 1935 y hotel desde 1964."
 ---
 
-Castello Tafuri se encuentra en Portopalo di Capo Passero, en el extremo sureste de Sicilia, y se ha convertido en un pequeño hotel de dieciocho habitaciones y suites. Es una construcción fortificada, con almenas, que domina el mar, y ha conservado sus merlones: algunas suites tienen balcones situados entre ellos.
+Castello Tafuri se encuentra en Portopalo di Capo Passero, en el extremo sureste de Sicilia, y es un pequeño hotel de dieciocho habitaciones y suites. El edificio es una villa con forma de castillo, iniciada en 1935 y usada como hotel desde 1964. Tiene almenas, domina el mar y ha conservado sus merlones: algunas suites tienen balcones situados entre ellos.
 
 ## Las suites
 

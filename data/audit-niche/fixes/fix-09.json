@@ -1,0 +1,415 @@
+[
+ {
+  "slug": "wilderness-davisons-camp-zimbabwe",
+  "issue": "'Ngweshla Pan' name not found on the official page (waterhole only mentioned)",
+  "action": "deleted",
+  "detail": "Re-fetched official page: it mentions only 'the waterhole' (and Ngamo Plains near camp), never Ngweshla Pan. Replaced the name with 'a waterhole'/'the waterhole beside the camp' in highlights, seasonalInfo notes, meta description and body in EN+5 translations.",
+  "source_url": "https://www.wildernessdestinations.com/africa/zimbabwe/hwange-national-park/davisons-camp"
+ },
+ {
+  "slug": "wilderness-davisons-camp-zimbabwe",
+  "issue": "Page cites a 'Linkwasha Concession'; official calls it the Linkwasha-Makalolo Private Wilderness Area",
+  "action": "corrected",
+  "detail": "Official: 'within the Linkwasha-Makalolo Private Wilderness Area'. Highlight now names that area; 'Wilderness Concession' wording removed from the predator highlight and the body paragraph (EN+5). Left the 'national park concession' night-drive highlight unchanged (not flagged).",
+  "source_url": "https://www.wildernessdestinations.com/africa/zimbabwe/hwange-national-park/davisons-camp"
+ },
+ {
+  "slug": "wilderness-davisons-camp-zimbabwe",
+  "issue": "Big Five and wild-dog claims not confirmed on the official page",
+  "action": "deleted",
+  "detail": "Official lists buffalo, lion, leopards, cheetahs, elephants only; no rhino/Big Five, no wild dog. Removed 'Big Five' from description, removed wild dog from highlight, bestFor item (deleted in all languages), meta description and body paragraph; predator sentence reduced to lion, leopard, cheetah (EN+5).",
+  "source_url": "https://www.wildernessdestinations.com/africa/zimbabwe/hwange-national-park/davisons-camp"
+ },
+ {
+  "slug": "belmond-royal-scotsman",
+  "issue": "'Britain's only luxury sleeper train' contradicted: Belmond also runs the Britannic Explorer sleeper train",
+  "action": "not_found",
+  "detail": "Searched EN and all five translations for 'only/unique/Britain' type claims; the phrase does not occur on the page, so nothing to change. (Official site confirms Britannic Explorer exists.)",
+  "source_url": "https://www.belmond.com/en/trains/europe/uk/royal-scotsman"
+ },
+ {
+  "slug": "belmond-royal-scotsman",
+  "issue": "Cabin types outdated: official lists Grand Suites, Suites, Double and Twin Cabins (18 cabins), not single 'State Cabins'",
+  "action": "corrected",
+  "detail": "Replaced 'State Cabins and Cabin Suites' (amenity + body) with 18 cabins: Grand Suites, Suites (new from April 2027), Double and Twin Cabins; en-suite stated only for Grand Suites, Double and Twin Cabins per the accommodation page. Removed unsupported blanket/lighting details. EN+5.",
+  "source_url": "https://www.belmond.com/en/trains/europe/uk/royal-scotsman/accommodation"
+ },
+ {
+  "slug": "belmond-royal-scotsman",
+  "issue": "Brand is now 'Royal Scotsman, A Belmond Train'; journey lengths 2 to 7 nights, 'four-night Grand Tour' is stale (Grand Tour is 7 nights)",
+  "action": "corrected",
+  "detail": "Changed 'four-night Grand Tour' to 'seven-night Grand Tour of Scotland' (official journey list: Grand Tour of Scotland, 7 nights) in EN+5. Brand rename not applied: the 'name' field is protected and body copy only says 'Belmond's train'.",
+  "source_url": "https://www.belmond.com/en/trains/europe/uk/royal-scotsman"
+ },
+ {
+  "slug": "ferienwaggons-zittauer-schmalspurbahn-germany",
+  "issue": "Official page lists carriages at Jonsdorf (bookable Easter to July) and Oybin (August to October); availability is seasonal per station",
+  "action": "corrected",
+  "detail": "Official: carriages stand at Jonsdorf station Easter to July and at Oybin station August to October. Page only gave the Jonsdorf season; added the Oybin season to highlight, intro, season paragraph and practical notes in EN+5.",
+  "source_url": "https://www.zittauer-schmalspurbahn.de/bahn-region/uebernachtung/"
+ },
+ {
+  "slug": "ferienwaggons-zittauer-schmalspurbahn-germany",
+  "issue": "Railway also lets a pension and an apartment in station buildings (not carriages)",
+  "action": "not_an_issue",
+  "detail": "Page already has an 'Other rooms at the railway' section stating that the Pension Zum Bahnel and the Am Wasserhäuschen apartment are separate from the carriages; consistent with the official page.",
+  "source_url": "https://www.zittauer-schmalspurbahn.de/bahn-region/uebernachtung/"
+ },
+ {
+  "slug": "night-train-caledonian-sleeper",
+  "issue": "Club room described with a fold-down double bed; official Club En-suite room has twin bunk beds (double beds are a separate Double room type)",
+  "action": "corrected",
+  "detail": "Official: 'private Club En-suite rooms feature twin bunk beds ... en-suite shower room'. Replaced fold-down double bed with twin bunk beds in highlight, amenity, body and removed small-desk detail (EN+5).",
+  "source_url": "https://www.sleeper.scot/accommodation/club-en-suite-room"
+ },
+ {
+  "slug": "night-train-caledonian-sleeper",
+  "issue": "Panoramic windows, complimentary morning newspaper and lounge-only Wi-Fi not supported (official lists in-room Wi-Fi)",
+  "action": "corrected",
+  "detail": "Deleted the panoramic-window highlight text and amenity and the complimentary newspaper amenity (not on official room page); Wi-Fi amenity changed to 'complimentary Wi-Fi in Club En-suite rooms' per the room features list (EN+5).",
+  "source_url": "https://www.sleeper.scot/accommodation/club-en-suite-room"
+ },
+ {
+  "slug": "night-train-caledonian-sleeper",
+  "issue": "Superlative 'most efficient night's accommodation in Britain'",
+  "action": "deleted",
+  "detail": "Removed from the description; sentence now says the journey becomes your night's accommodation (EN+5).",
+  "source_url": "https://www.sleeper.scot/accommodation/club-en-suite-room"
+ },
+ {
+  "slug": "night-train-caledonian-sleeper",
+  "issue": "'Six routes' not confirmed on the official pages checked",
+  "action": "deleted",
+  "detail": "Official home page timetables list five destinations (Glasgow, Edinburgh, Aberdeen, Inverness, Fort William), no count of six. Removed 'six routes'/'beyond' and named the five destinations in description and first highlight (EN+5).",
+  "source_url": "https://www.sleeper.scot/"
+ },
+ {
+  "slug": "rovos-rail-south-africa",
+  "issue": "'Cape to Cairo' two-week journey not supported; Wikipedia lists Cape Town to Dar es Salaam (15 nights)",
+  "action": "corrected",
+  "detail": "Wikipedia route list: 'Dar es Salaam Journey (15 Nights * 5530km) - Cape Town to Dar es Salaam'. Replaced 'Cape to Cairo / two weeks' (description, seasonalInfo notes, closing paragraph; countries list dropped) with the Cape Town to Dar es Salaam 15-night journey; highlight 'Pretoria to Dar es Salaam' corrected to Cape Town to Dar es Salaam (EN+5).",
+  "source_url": "https://en.wikipedia.org/wiki/Rovos_Rail"
+ },
+ {
+  "slug": "rovos-rail-south-africa",
+  "issue": "'World's most luxurious train' and 'surpass most five star hotels' are unsupported superlatives",
+  "action": "deleted",
+  "detail": "Exact phrases not on the page; the equivalent claims were removed: 'service and comfort rival many five star hotels' (description), 'widely acclaimed as one of the world's great luxury trains' (highlight, replaced by a factual line), 'one of the best-known ... luxury trains in the world' (intro), 'no comparable train can match' and 'very few rivals' (EN+5).",
+  "source_url": "https://en.wikipedia.org/wiki/Rovos_Rail"
+ },
+ {
+  "slug": "rovos-rail-south-africa",
+  "issue": "Royal Suite 'windows on three sides' and 'Union Limited' provenance not confirmed by the source",
+  "action": "deleted",
+  "detail": "Wikipedia says only: restored NRZ coaches; three accommodation types (Pullman 76 sq ft, Royal Suite half a car, 172 sq ft); all with en-suite shower, sink, toilet; Royal Suite has a Victorian-style bathtub. Rewrote the carriage paragraph on those facts only and removed windows-on-three-sides, Union Limited, teak/brass/full-sized bed/couch details; amenity line now says all suites have en-suite facilities (EN+5).",
+  "source_url": "https://en.wikipedia.org/wiki/Rovos_Rail"
+ },
+ {
+  "slug": "the-ghan-australia",
+  "issue": "Service classes listed are incomplete: official site also has Gold Premium (private en suite) and Aurora/Australis Suites",
+  "action": "corrected",
+  "detail": "Main Ghan URL is Cloudflare-blocked for curl, so fetched official sub-pages via WebFetch: /your-train-experience/ lists Gold, Gold Premium, Platinum and Aurora/Australis (Australis and Aurora Suites, 'large ensuite'). Highlight and amenity now name all four classes; body adds Gold Premium and Aurora/Australis (EN+5).",
+  "source_url": "https://www.journeybeyondrail.com.au/your-train-experience/"
+ },
+ {
+  "slug": "the-ghan-australia",
+  "issue": "Gold 'shares bathroom facilities' not supported by the official Gold description",
+  "action": "corrected",
+  "detail": "Official Gold Service page: Gold Twin has 'a private en suite with upper and lower berths'; Gold Single has 'shared shower/toilet facilities located at the end of the carriage'. Body now says Twin private, Single shared; highlight no longer claims all cabins are en-suite (EN+5).",
+  "source_url": "https://www.journeybeyondrail.com.au/onboard-experience/gold-service/"
+ },
+ {
+  "slug": "the-ghan-australia",
+  "issue": "'54 hours' fixed duration: official lists 3-4 days / 2-3 nights, with a new four-day itinerary from 2027",
+  "action": "corrected",
+  "detail": "Official journeys page: The Legendary Ghan (Adelaide to Darwin) '3-4 Days', '2-3 Nights'. Replaced '54 hours' in description, intro and the cons item with two to three nights (three to four days) (EN+5). The 2027 four-day itinerary could not be confirmed (page lists The Ghan Expedition as 4 days / 3 nights, Darwin to Adelaide) so nothing added; existing Expedition text left.",
+  "source_url": "https://www.journeybeyondrail.com.au/journeys/the-ghan/"
+ },
+ {
+  "slug": "venice-simplon-orient-express",
+  "issue": "'Private en-suite cabin suites': only Suites have en-suite bathrooms; Historic Cabins use shared restrooms at carriage end",
+  "action": "corrected",
+  "detail": "Official accommodation page: Grand Suites and Suites have en-suite bathrooms; Historic Cabins have shared restrooms at the end of each sleeper carriage. Amenity and highlight lines reworded accordingly (EN+5).",
+  "source_url": "https://www.belmond.com/en/trains/europe/venice-simplon-orient-express/accommodation"
+ },
+ {
+  "slug": "venice-simplon-orient-express",
+  "issue": "'London to Venice' is not among the official signature journeys listed (Paris to Venice, Istanbul to Paris, etc.)",
+  "action": "corrected",
+  "detail": "Official signature journeys: Paris to Venice (1 night), Istanbul to Paris (5 nights via Bucharest, Sinaia, Budapest), etc. Replaced London-to-Venice claims (description, highlight, pro, con incl. '31 hours', seasonal notes, meta, body route paragraph, London Victoria nearby attraction) with the official journeys (EN+5). The 'destination' field ('London to Venice (and beyond)') is protected and was left unchanged, as were location.locality and affiliate URLs: not_fixed for those fields.",
+  "source_url": "https://www.belmond.com/en/trains/europe/venice-simplon-orient-express/"
+ },
+ {
+  "slug": "venice-simplon-orient-express",
+  "issue": "'Most famous train in the world' and 'irreplaceable' are unsupported superlatives",
+  "action": "deleted",
+  "detail": "Removed 'one of the best-known trains in the world', 'irreplaceable', 'one of the world's most sought after travel experiences', 'legendary' in meta descriptions and 'Il treno di lusso d'Europa' (EN+5).",
+  "source_url": "https://www.belmond.com/en/trains/europe/venice-simplon-orient-express/"
+ },
+ {
+  "slug": "venice-simplon-orient-express",
+  "issue": "'London to Venice' in protected fields (destination, location.locality, affiliate URL query strings)",
+  "action": "not_fixed",
+  "detail": "destination: 'London to Venice (and beyond)' and location.locality are protected fields; left unchanged and flagged for the coordinator.",
+  "source_url": null
+ },
+ {
+  "slug": "bambu-indah-bali",
+  "issue": "Page never mentions the Treehouse, the only unit that fits this category",
+  "action": "corrected",
+  "detail": "Official Treehouse page: bamboo structure with curved copper roof 'nestled high up in the branches of two bunut trees', sleeps 3, 2 queen beds (one in a loft), narrow spiral staircase; homepage: '24 houses'. Added to description, a new highlight (appended, EN+5), a body paragraph and the meta description.",
+  "source_url": "https://www.bambuindah.com/houses/treehouse"
+ },
+ {
+  "slug": "bambu-indah-bali",
+  "issue": "'Each structure is reclaimed Indonesian architectural history' overstated: many houses are new bamboo builds",
+  "action": "corrected",
+  "detail": "Removed the 'each structure is reclaimed history' clause from the description (EN+5); it now names the 24 houses including antique bridal homes, bamboo structures and the Treehouse. Official homepage: 'A teak bridal home brought over from Java' alongside bamboo-and-copper and tree structures. Also removed the 'most architecturally serious address' superlative from meta descriptions.",
+  "source_url": "https://www.bambuindah.com/"
+ },
+ {
+  "slug": "bambu-indah-bali",
+  "issue": "River pools 'carved from stone' not supported by the official pages checked",
+  "action": "corrected",
+  "detail": "Official homepage: 'Soak in a spring-fed pool next to a rushing river. Follow a hand-laid stone footpath'. Replaced 'pools carved from stone' with a spring-fed pool next to the river (description, highlight, amenity, body, meta; EN+5).",
+  "source_url": "https://www.bambuindah.com/"
+ },
+ {
+  "slug": "baumhaushotel-otterndorf-germany",
+  "issue": "Earth houses (Erdhäuser) are announced only from 2027 and are not part of the current stay",
+  "action": "not_found",
+  "detail": "Searched EN and all five translations for earth houses / Erdhäuser / 2027: the page never mentions them (it describes only the ten stilt houses and the free tree house), so nothing to remove. Official home page checked.",
+  "source_url": "https://www.mein-baumhaus.de/"
+ },
+ {
+  "slug": "baumhaushotel-robins-nest-germany",
+  "issue": "Treehouse heights vary (Birkenhaus about 5 m, Stammhaus about 7 m), not all 'about seven metres'",
+  "action": "corrected",
+  "detail": "Official pages: Birkenhaus 'ca. 5 Meter Höhe' (/de/birkenhaus), Stammhaus 'ca. 7 Metern Höhe', Korkhaus 'ca. 7 Metern, das höchste der drei Nester' (/de/korkhaus). Description, first highlight and body now give 5 to 7 m per house (EN+5).",
+  "source_url": "https://www.robins-nest.de/de/stammhaus"
+ },
+ {
+  "slug": "baumhaushotel-robins-nest-germany",
+  "issue": "Tree tents (hung ~130 cm above ground), glamping lodge, block hut and domes are not treehouses; page lumps them in",
+  "action": "corrected",
+  "detail": "Official /de/baumzelte: tents tensioned between trees 'ca. 130cm über dem Boden'. Highlight and body now state tree tents and domes are not treehouses (tents hang ~130 cm up); ball house described as hung on cables (official /de/baumhauskugel). Glamping lodge and block hut were never mentioned on the page. EN+5.",
+  "source_url": "https://www.robins-nest.de/de/baumzelte"
+ },
+ {
+  "slug": "baumhaushotel-robins-nest-germany",
+  "issue": "Official site counts three treehouses, one stilt house, one ball treehouse and five tree tents on the home page",
+  "action": "corrected",
+  "detail": "Official home page: 'drei Baumhäuser, ein Stelzenbaumhaus, eine Baumhauskugel und fünf Baumzelte'. Added this count to the body (EN+5).",
+  "source_url": "https://www.robins-nest.de/"
+ },
+ {
+  "slug": "chole-mjini-tanzania",
+  "issue": "'No electricity, lit by lanterns' contradicted: official site says 'You'll have electricity, ensuite bathrooms'",
+  "action": "corrected",
+  "detail": "Official home page: 'You'll have electricity, ensuite bathrooms, attentive hospitality, and privacy'. Removed the no-electricity highlight, con and off-grid wording (bestFor, body closing) and replaced with open-air treehouses with electricity and en-suite bathrooms, no air-conditioning by design (EN+5). The frontmatter 'tags' (off grid, community-owned) are outside the editable list and were left.",
+  "source_url": "https://www.cholemjini.com/"
+ },
+ {
+  "slug": "chole-mjini-tanzania",
+  "issue": "'Community-owned and operated' unsupported: lodge founded by Anne and Jean with the Chole Mjini Trust alongside it",
+  "action": "corrected",
+  "detail": "Official: 'regenerative lodge, part of Chole village since 1994'; 'at least 90% of our team come from Chole'; 'Chole Mjini Trust has supported the education of more than 1,500 children'. Replaced community-owned claims (highlight, pro, meta, community section and heading) with those sourced facts; founders' names not on the pages read so not added (EN+5).",
+  "source_url": "https://www.cholemjini.com/"
+ },
+ {
+  "slug": "chole-mjini-tanzania",
+  "issue": "'19th-century Arab trading post' ruins not stated by official site (it says ruins of the old town)",
+  "action": "corrected",
+  "detail": "Official: 'built by hand ... among the ruins of the old town'. Replaced 'ruins of a 19th-century Arab trading post' with 'ruins of the old town' in description, highlight, meta and body (EN+5).",
+  "source_url": "https://www.cholemjini.com/"
+ },
+ {
+  "slug": "chole-mjini-tanzania",
+  "issue": "Superlatives ('one of Africa's most remote and authentic eco-lodges') unsupported",
+  "action": "deleted",
+  "detail": "Replaced the highlight and the matching pro ('among the most authentic and remote eco-lodges in Africa') with sourced facts (EN+5).",
+  "source_url": "https://www.cholemjini.com/"
+ },
+ {
+  "slug": "chole-mjini-tanzania",
+  "issue": "One of seven units (Sita) is a ground house, not a treehouse",
+  "action": "corrected",
+  "detail": "Official: 'six treehouses and one ground house' (Sita, the ground house). Description and body now say six treehouses plus the ground house Sita instead of 'seven treehouse rooms' (EN+5).",
+  "source_url": "https://www.cholemjini.com/"
+ },
+ {
+  "slug": "free-spirit-spheres-canada",
+  "issue": "Current spheres are Luna, Melody and Eryn; page names Eve (the first sphere, not listed for booking) instead of Luna",
+  "action": "corrected",
+  "detail": "Official sphere pages list Luna, Melody and Eryn (about-the-spheres: first two spheres were Eve and Eryn). Replaced Eve with Luna in description and body; also dropped 'wooden' (Melody is fibreglass, official /melody-sphere) and the unsupported Douglas fir / old-growth wording, and the 'Melody is the largest' claim (Luna, Eryn, Melody all 3200 mm) (EN+5).",
+  "source_url": "https://freespiritspheres.com/luna-sphere/"
+ },
+ {
+  "slug": "free-spirit-spheres-canada",
+  "issue": "Page says Qualicum Beach 12 km; official says Qualicum Beach about 14 km and the site is near Qualicum Bay (420 Horne Lake Rd)",
+  "action": "corrected",
+  "detail": "Official directions page: address 420 Horne Lake Rd, turn-off '15 km north of Qualicum Beach' (the directions page gives 15 km, not 14; Qualicum Bay not stated there). Nearby attraction distance changed 12 to 15 km; description, highlight and body now give Horne Lake Road, about 15 km north of Qualicum Beach, between Nanaimo and Courtenay; removed 'between Qualicum Beach and Port Alberni' (EN+5).",
+  "source_url": "https://freespiritspheres.com/directions/"
+ },
+ {
+  "slug": "free-spirit-spheres-canada",
+  "issue": "Propane heater claim contradicted: Eryn is electrically heated",
+  "action": "corrected",
+  "detail": "Official: Eryn 'electrically heated with a thermostat', Melody 'electrically heated', Luna 'electric heat'. Amenity changed from propane heater to electric heating (EN+5).",
+  "source_url": "https://freespiritspheres.com/eryn-sphere/"
+ },
+ {
+  "slug": "free-spirit-spheres-canada",
+  "issue": "Superlatives ('genuinely one of a kind in the world') unsupported",
+  "action": "deleted",
+  "detail": "Replaced the pro with a neutral 'distinctive concept' line; removed 'There is nothing else quite like them', 'one of the most sought after overnight stays in North America', 'books out months ahead' and 'unlike any other' from meta descriptions (EN+5).",
+  "source_url": "https://freespiritspheres.com/about-the-spheres/"
+ },
+ {
+  "slug": "free-spirit-spheres-canada",
+  "issue": "Eryn page notes bookings only 'at our current location' through May, hinting at a possible move",
+  "action": "not_an_issue",
+  "detail": "Official Eryn page says 'At this time we are taking bookings through to the end of May, at our current location. Stay tuned for more details.' It is a hint, not a stated move; nothing on the page claims permanence of the location, so no text change. Flag for a later re-check of whether the site relocates.",
+  "source_url": "https://freespiritspheres.com/eryn-sphere/"
+ },
+ {
+  "slug": "gibbon-experience-laos",
+  "issue": "Destination 'Bokeo Nature Reserve, Houaphan' wrong: official says Nam Kan National Park, Bokeo Province",
+  "action": "not_fixed",
+  "detail": "The 'destination' frontmatter field is protected, so 'Bokeo Nature Reserve, Houaphan' (and the Expedia/Klook affiliate query strings) were left unchanged. All body/description/highlight/meta mentions of 'Bokeo Nature Reserve' were corrected to Nam Kan National Park, Bokeo Province (official: Nam Kan National Park, P.O. box Ban Houayxay, Bokeo Province) in EN+5. The nl translation's own 'destination' line still says Bokeo Nature Reserve, Houaphan.",
+  "source_url": "https://www.gibbonexperience.org/the-nam-kan-national-park/"
+ },
+ {
+  "slug": "gibbon-experience-laos",
+  "issue": "Page says primary rainforest; official describes mixed deciduous forest",
+  "action": "corrected",
+  "detail": "Official: 'Nam Kan National Park covers 136.000 ha of mixed deciduous forest'. Replaced 'primary rainforest' with forest / mixed deciduous forest in description, highlight, amenity, meta and body (EN+5).",
+  "source_url": "https://www.gibbonexperience.org/the-nam-kan-national-park/"
+ },
+ {
+  "slug": "gibbon-experience-laos",
+  "issue": "'40 metres' height not stated by official site (it claims the world's highest treehouses)",
+  "action": "deleted",
+  "detail": "Official home page: 'we built the world's highest treehouses' (no figure). Removed all '40 metres' statements (description, highlight, body x3, translated meta descriptions); highlight now says the operator bills them as the world's highest (EN+5).",
+  "source_url": "https://www.gibbonexperience.org/"
+ },
+ {
+  "slug": "gibbon-experience-laos",
+  "issue": "'No comparable experience anywhere else in Southeast Asia' and similar superlatives unsupported",
+  "action": "deleted",
+  "detail": "Removed the opening superlative paragraph ('no comparable experience', 'most physically demanding and most ecologically purposeful') and replaced with a factual intro from the official pages (EN+5).",
+  "source_url": "https://www.gibbonexperience.org/the-nam-kan-national-park/"
+ },
+ {
+  "slug": "gibbon-experience-laos",
+  "issue": "'Community-owned' not stated; official calls it a tourism-based conservation program",
+  "action": "corrected",
+  "detail": "Official home page: 'The Gibbon Experience is a tourism-based conservation program'. Replaced 'community-owned' wording in description, highlight and meta (EN+5); body patrol paragraph now states the patrols are run jointly with the Lao government (official /national-park-patrols/).",
+  "source_url": "https://www.gibbonexperience.org/"
+ },
+ {
+  "slug": "gibbon-experience-laos",
+  "issue": "Rating 9.4 and 2,341 reviews unsupported",
+  "action": "not_fixed",
+  "detail": "The rating field is protected (9.4 left as is). '2,341 reviews' does not occur anywhere in the page files or translations (searched), so no review-count text exists to remove.",
+  "source_url": null
+ },
+ {
+  "slug": "hapuku-lodge-new-zealand",
+  "issue": "Height: official says elevated 10 m, page says 8 m",
+  "action": "corrected",
+  "detail": "Official: 'Elevated 10m up in the canopy'. 8 m replaced with 10 m in description, highlight, meta and body (EN+5).",
+  "source_url": "https://www.hapukulodge.com/stay/tree-houses/"
+ },
+ {
+  "slug": "hapuku-lodge-new-zealand",
+  "issue": "Trees: official says kanuka and puriri, page says manuka",
+  "action": "corrected",
+  "detail": "Official: 'Perched in the canopy of native trees, including kānuka and pūriri'. Replaced manuka with kānuka and pūriri everywhere (EN+5).",
+  "source_url": "https://www.hapukulodge.com/stay/tree-houses/"
+ },
+ {
+  "slug": "hapuku-lodge-new-zealand",
+  "issue": "Official page does not state 'five' tree houses; count unconfirmed",
+  "action": "deleted",
+  "detail": "Official lists a One-Bedroom Tree House and a Two Storey Family Tree House with no count. Removed 'five' from description, body paragraphs (EN+5).",
+  "source_url": "https://www.hapukulodge.com/stay/tree-houses/"
+ },
+ {
+  "slug": "hapuku-lodge-new-zealand",
+  "issue": "Lodge suites and the Olive House are not tree houses (specific rooms only)",
+  "action": "corrected",
+  "detail": "Body no longer says tree houses sleep two or can be combined with the adjacent lodge rooms; it now describes the two official tree house types (One-Bedroom for couples, Two Storey Family with Upper and Lower Branch) and states the lodge's own rooms are separate. The Olive House is not mentioned on the page (EN+5).",
+  "source_url": "https://www.hapukulodge.com/stay/tree-houses/"
+ },
+ {
+  "slug": "hapuku-lodge-new-zealand",
+  "issue": "Booking link points to Booking.com instead of the official site",
+  "action": "not_fixed",
+  "detail": "bookingUrl is a protected field, so the Booking.com URL (and the nl/de etc. copies) was left unchanged; recommend the coordinator switch it to https://www.hapukulodge.com/.",
+  "source_url": null
+ },
+ {
+  "slug": "inkaterra-canopy-treehouse-peru",
+  "issue": "Treehouse is an add-on night at Reserva Amazónica, not a standalone property; lodge has 35 wooden cabañas",
+  "action": "corrected",
+  "detail": "Official additional-services page: supplement applied 'when you stay one of the nights at the Inkaterra Canopy Tree House' as part of a regular Reserva Amazónica stay; main page: '35 wooden cabanas'. Description and body now say the Canopy Tree House is a supplement night on top of a stay at Reserva Amazónica (EN+5).",
+  "source_url": "https://www.inkaterra.com/inkaterra/inkaterra-reserva-amazonica/services/additional-services/"
+ },
+ {
+  "slug": "inkaterra-canopy-treehouse-peru",
+  "issue": "Height: official gives about 28 m (older sheets 22 to 27 m), page says 30 m",
+  "action": "corrected",
+  "detail": "Official page and CTH fact sheet PDF: 'some 92-ft. (28-mt.)'. Replaced 30 m with about 28 m (description, highlight, body, translated meta descriptions; EN+5).",
+  "source_url": "https://www.inkaterra.com/MEDIA/fact_sheets/CanopyTreeHouse/CTH_Fact_Sheet.pdf"
+ },
+ {
+  "slug": "inkaterra-canopy-treehouse-peru",
+  "issue": "Page says reached by suspension bridge from main lodge; official says a motorized canoe cruise to the Canopy Walkway, then walkway",
+  "action": "corrected",
+  "detail": "Official fact sheet: after dinner at the main lodge guests 'embark on a short boat ride to the Inkaterra Canopy Walkway', the tree house is on the most remote platform of the walkway, linked by hanging bridge to another tower. The 'motorized canoe' wording was not found, so the text says 'short boat ride'. 'Reached by suspension bridge from the main lodge' removed (EN+5).",
+  "source_url": "https://www.inkaterra.com/MEDIA/fact_sheets/CanopyTreeHouse/CTH_1night_Fact_Sheet.pdf"
+ },
+ {
+  "slug": "inkaterra-canopy-treehouse-peru",
+  "issue": "Basic room (2 beds, portable toilet, limited electricity) vs page's 'comfortable beds'",
+  "action": "corrected",
+  "detail": "Fact sheet: 'two beds, a lavatory, a portable toilet, and windows with removable mosquito netting', drop-leaf table, folding chairs. Replaced 'comfortable beds ... railing' and the 'private bathroom and shower' amenity with those facts; 'limited electricity' is not stated in the fact sheet so was not added (EN+5).",
+  "source_url": "https://www.inkaterra.com/MEDIA/fact_sheets/CanopyTreeHouse/CTH_Fact_Sheet.pdf"
+ },
+ {
+  "slug": "inkaterra-canopy-treehouse-peru",
+  "issue": "Excursion list (clay licks, oxbow lakes, caiman watches) not confirmed on pages read",
+  "action": "deleted",
+  "detail": "Official excursions page lists a twilight river boat ride searching for nightjars, owls, capybaras and caimans, a rainforest night walk, rainforest garden and palmetum; clay licks and oxbow lakes appear nowhere (0 hits). Removed clay lick/oxbow lake claims and the naturalist-qualification and superlative sentences; caiman spotting kept as sourced (EN+5).",
+  "source_url": "https://www.inkaterra.com/inkaterra/inkaterra-reserva-amazonica/excursions-itra/"
+ },
+ {
+  "slug": "keemala-bird-nest-phuket",
+  "issue": "'Perched on angled timber poles above a jungle ravine' not stated on the official Bird's Nest page",
+  "action": "deleted",
+  "detail": "Official page: 'signature woven bird's nest exterior', sea/rainforest/resort views; no poles, ravine or elevated structure. Removed 'perched on angled timber poles above a jungle ravine' and 'spherical' wording from description, highlight, amenity ('elevated structure'), body and translated metas, plus the 'floating deck / suspended over the forest floor' passage and the 'infinity pool' claim (official says private pool) (EN+5). Frontmatter niche_scope/niche_note untouched.",
+  "source_url": "https://www.keemala.com/villa/birds-nest-pool-villas/"
+ },
+ {
+  "slug": "keemala-bird-nest-phuket",
+  "issue": "Official page gives villa size 185 m2 including pool; no height or pole structure given",
+  "action": "corrected",
+  "detail": "Official: 'The villa size is 185m² including the pool and sun deck', oversized king bed, max 3 guests. Added the size, sleeping capacity and bathroom (monsoon shower, stand-alone bathtub) to description, amenity and body (EN+5).",
+  "source_url": "https://www.keemala.com/villa/birds-nest-pool-villas/"
+ },
+ {
+  "slug": "keemala-bird-nest-phuket",
+  "issue": "Tree Pool Houses (seven, two floors) are the official 'treehouse' units and do not match the page's villa",
+  "action": "corrected",
+  "detail": "Official Tree Pool Houses page: 'seven Tree Pool Houses ... two floors'. The body now states the Bird's Nest Pool Villas are private pool villas and that the separate Tree Pool Houses are the two-floor treehouse villas. The category/niche fields were left untouched (protected), so the category-level mismatch itself remains a coordinator decision.",
+  "source_url": "https://www.keemala.com/villa/tree-pool-houses/"
+ },
+ {
+  "slug": "keemala-bird-nest-phuket",
+  "issue": "'Fully habitable suites of genuine quality' and similar claims are opinion",
+  "action": "deleted",
+  "detail": "Removed 'fully habitable suites of genuine quality', 'most architecturally distinctive', 'among the stronger hotel spas in Thailand', 'one of the more complete resort experiences' and 'Exceptional' spa wording; unsupported spa treatment details (herbal compress, four-hand massage, outdoor pavilions above the ravine) were dropped. Also corrected the spa name from Marbas Spa to Mala Spa per the official navigation (EN+5).",
+  "source_url": "https://www.keemala.com/villa/birds-nest-pool-villas/"
+ }
+]

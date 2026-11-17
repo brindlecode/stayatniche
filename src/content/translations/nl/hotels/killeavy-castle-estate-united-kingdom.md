@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Killeavy Castle Estate: kasteel Noord-Ierland | StayAtNiche"
   metaDescription: "Killeavy Castle Estate in de Ring of Gullion: hotel in een oude molen, gotisch kasteel te huur, Elemis Spa en hondvriendelijke residenties in Noord-Ierland."
+niche_feature: "Vier gastenkamers (voor maximaal acht personen) in het beschermde kasteel uit de 19e eeuw (Grade A), alleen te boeken als geheel via exclusieve verhuur; het hotel met 45 kamers zit in een verbouwde molen en koetshuis en de zelfvoorzienende residenties zijn apart."
 ---
 
 Killeavy Castle Estate ligt in de Ring of Gullion in het graafschap Armagh, op een landgoed van 365 acres aan landbouwgrond en bos aan de voet van de Slieve Gullion. Newry ligt ongeveer tien minuten rijden verderop, en de luchthavens van Belfast en Dublin liggen op een uur. Het landgoed biedt drie soorten verblijf, en het kasteel is er maar één van, dus het is handig om te weten wat je boekt.

@@ -8,7 +8,7 @@ priceRange: "Rates vary"
 highlights:
   - "Albergo diffuso (scattered hotel) in a medieval castle and village"
   - "Home of the Cecchini family since 1644"
-  - "Rooms set in a tower of the old city walls"
+  - "Three rooms in a former tower of the old city walls"
   - "Pool and summer restaurant reached by a passage cut in volcanic rock"
   - "Close to the Fonteverde thermal baths"
 amenities:
@@ -52,7 +52,7 @@ The castle has belonged to the Cecchini family, today Bisoni Cecchini, since 164
 
 ## The accommodation
 
-Most of the stay is in apartments and suites, each named: Primavera, Estate, Autunno, Corsetto, Chiostrino, Loggia, Bicocca and Innominato. There are also four rooms called Caciaia, Collinella, Poggiolo and Belvedere. The last two face each other, and all four are entered from a door on the old inner courtyard.
+Most of the stay is in apartments and suites, each named: Primavera, Estate, Autunno, Corsetto, Chiostrino, Loggia, Bicocca and Innominato. There are also four rooms called Caciaia, Collinella, Poggiolo and Belvedere. The last two face each other, and all four are entered from a door on the old inner courtyard. According to the castle's apartments page, Caciaia, Collinella and Poggiolo are the rooms that were once part of a tower of the village's old wall.
 
 An internal staircase links three floors that were once part of one of the towers of the ancient walls. The staircase is steep and not suitable for children. Each of the four rooms has a small fridge, microwave, electric kettle, toaster and sink, and the bathrooms have a shower and hairdryer. Bed and breakfast service is available on request.
 
@@ -63,3 +63,5 @@ A small garden gives access to the suites, and a lemon house leads to a passage 
 ## Practical notes
 
 Check-in is between 4pm and 7pm and check-out is by 10am, though times can be adjusted if you let the castle know. A meeting room seats up to 30 people. Concerts and events are held in the castle through the year.
+
+The castle's website also offers Il Giulione, a separate farmhouse (agriturismo) 12 km from the castle, with six bedrooms, six bathrooms and its own pool. It is not part of the castle complex.

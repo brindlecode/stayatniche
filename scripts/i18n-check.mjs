@@ -10,7 +10,7 @@ import { readFileSync, readdirSync, existsSync } from 'node:fs';
 import { TRANSLATED, CATEGORY_I18N } from '../src/i18n/locales.mjs';
 
 const ALLOWED = {
-  hotels: ['destination', 'description', 'highlights', 'amenities', 'bestFor', 'prosAndCons', 'seasonalInfo', 'nearbyAttractions', 'seo'],
+  hotels: ['destination', 'niche_feature', 'niche_note', 'niche_badge', 'closure', 'description', 'highlights', 'amenities', 'bestFor', 'prosAndCons', 'seasonalInfo', 'nearbyAttractions', 'seo'],
   categories: ['title', 'tagline', 'description', 'stats', 'seo'],
   destinations: ['name', 'description', 'essentials', 'bestTimeToVisit', 'mustSee', 'travelTips', 'seo'],
   blog: ['title', 'excerpt', 'seo'],

@@ -21,6 +21,7 @@ bestFor:
 seo:
   metaTitle: "Schloss Hotel Korb: kasteelhotel bij Bozen | StayAtNiche"
   metaDescription: "Schloss Hotel Korb in Missian: 4-sterren superior kasteelhotel met suites, residentie, overdekt en openluchtzwembad en uitzicht op Bozen en de Dolomieten."
+niche_feature: "De kasteelsuites (circa 40 m², de meeste in de historische Wohnturm, het kasteel) en enkele comfort-tweepersoonskamers liggen in het kasteel; de panoramasuites, exclusieve tweepersoonskamers, Zuid-Tiroolse suites en tuinsuites zitten in de nieuwere Residence."
 ---
 
 Schloss Hotel Korb is een 4-sterren superior hotel in Missian, in de gemeente Eppan in Zuid-Tirol, met uitzicht op Bozen en de Dolomieten. Het hotel omschrijft zijn accommodatie als sprookjesachtige nachten in het kasteel en de residentie.

@@ -20,9 +20,10 @@ bestFor:
 seo:
   metaTitle: "Dalhousie Castle: kasteelhotel bij Edinburgh | StayAtNiche"
   metaDescription: "Dalhousie Castle in Bonnyrigg: kasteel van meer dan 800 jaar met 35 kamers, Castle Dungeon Restaurant, Ramsay Restaurant en elf acres bij Edinburgh."
+niche_feature: "35 kamers: de Castle Classic, Deluxe, Junior Suite, Four Poster, Suite en twee Feature Rooms liggen in het 800 jaar oude kasteel; de Lodge-kamers (Classic, Deluxe, Junior Suite, Suite) zitten in een apart, modern gebouw op het terrein. Aantallen per groep worden niet genoemd."
 ---
 
-Dalhousie Castle staat al meer dan 800 jaar en noemt zichzelf het oudste bewoonde kasteel van Schotland. Het ligt in elf acres privé-parkland en beboste dalen net buiten Edinburgh, in Bonnyrigg. Ooit was het de zetel van het Ramsay-clan. Sinds de 13e eeuw ontving het koninklijke gasten en dichters, en het onderging recent een grootscheepse renovatie.
+Dalhousie Castle staat al meer dan 800 jaar en noemt zichzelf een van de oudste bewoonde kastelen van Schotland. Het ligt in elf acres privé-parkland en beboste dalen net buiten Edinburgh, in Bonnyrigg. Ooit was het de zetel van het Ramsay-clan. Sinds de 13e eeuw ontving het koninklijke gasten en dichters, en het onderging recent een grootscheepse renovatie.
 
 ## Kasteel- en lodgekamers
 

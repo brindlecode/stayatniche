@@ -49,7 +49,7 @@ Stonefield Castle is a castle in the Victorian sense: a grand baronial house rat
 
 ## The house
 
-Much of the original interior is still in place: wood panelling, ornate ceilings and marble fireplaces. The building is category B listed. Bedrooms are individually decorated and en suite, with views over the gardens and the loch.
+Much of the original interior is still in place: wood panelling, ornate ceilings and marble fireplaces. The building is category B listed. The hotel has 38 individually decorated en-suite bedrooms, with views over the gardens and the loch.
 
 ## The gardens
 

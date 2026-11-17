@@ -4,7 +4,7 @@ category: floating-hotels
 destination: The World Islands, Dubai
 country: UAE
 continent: Asia
-description: "Semi-submerged floating villas on The World Islands archipelago, each with a bedroom 3 metres below the Arabian Gulf surface and a personal coral reef installed at construction — with Dubai's skyline visible from the rooftop deck at night."
+description: "Floating villas off The World Islands in Dubai, set across underwater, sea and sky levels, with a coral garden fixed to the outside and views of the Dubai skyline."
 coverImage: /images/hotels/floating-seahorse-dubai.jpg
 priceRange: "$2,000 - $5,000"
 priceIndicator: 5
@@ -12,7 +12,7 @@ highlights:
   - Semi-submerged underwater bedroom
   - Private rooftop sundeck with 360° ocean views
   - Coral reef installed beneath each villa
-  - Butler service on personal speedboat
+  - "Most villas linked by walkways to the heart-shaped Honeymoon Island"
   - Private overwater hammock and slide
   - Direct access to artificial reef for snorkelling
 amenities:
@@ -28,13 +28,13 @@ bestFor:
   - Honeymooners
 prosAndCons:
   pros:
-    - Underwater bedroom is completely unique
-    - Total privacy on own island
+    - "Underwater level with floor-to-ceiling glass looking onto a coral garden"
+    - "Secluded island living with a connected community feel"
     - Dubai skyline views at night
     - Artificial coral reef creates marine life habitat
   cons:
     - Very expensive
-    - Remote location requires boat transfer
+    - "Mostly sold as private homes and second homes; hotel-style booking not confirmed"
     - Limited local dining outside the villa
 bookingUrl: https://www.booking.com/hotel/ae/the-floating-seahorse.html
 rating: 9.4
@@ -55,7 +55,7 @@ status: published
 publishedDate: 2025-01-22
 seo:
   metaTitle: "Floating Seahorse Dubai, Underwater Villa on The World Islands | StayAtNiche"
-  metaDescription: "Sleep 3 metres below the Arabian Gulf in Dubai's extraordinary Floating Seahorse villas, semi-submerged luxury on private artificial islands with rooftop sundeck."
+  metaDescription: "Floating Seahorse villas off The World Islands in Dubai: three-level villas with an underwater level, a coral garden, a sky-level Jacuzzi and skyline views."
 affiliateLinks:
   - partner: "expedia"
     url: "https://www.expedia.com/Hotel-Search?destination=The%20World%20Islands%2C%20Dubai%2C%20UAE&adults=2"
@@ -78,12 +78,12 @@ niche_source_url: "https://www.thenationalnews.com/lifestyle/luxury/property-of-
 niche_verified_at: 2026-11-17
 ---
 
-Dubai has never done restraint particularly well, and The Floating Seahorse is entirely in keeping with that tradition. These semi-submerged villas sit on The World Islands — an artificial archipelago in the shape of a world map — and descend three metres below the surface of the Arabian Gulf.
+Dubai has never done restraint particularly well, and The Floating Seahorse is entirely in keeping with that tradition. These villas sit afloat off The World Islands — an artificial archipelago in the shape of a world map — and are set across three levels: underwater, sea and sky.
 
-The upper levels are familiar luxury: rooftop sundeck, overwater hammock, a living room with sea views on all sides. Descend the spiral staircase and the register changes. The bedroom sits fully submerged, ringed by panoramic windows through which the residents of your own coral reef are continuously visible.
+The upper levels are familiar luxury: a sea-level terrace with an overwater hammock, a fully equipped kitchen, and a sky level with a skylit ceiling, Jacuzzi, dining area and sun lounging space. The lowest level changes the register: floor-to-ceiling glass walls look onto the villa's coral garden, and the submerged rooms can be used as bedrooms or extra living space.
 
-Each villa was fitted with a coral garden at the seabed level at the time of construction. The reefs have since matured into functioning ecosystems. Angelfish and parrotfish work the coral during the day; the occasional reef shark passes at a polite distance. The fauna is not as dense as a Maldivian lagoon, but the fact that it exists at all — cultivated beneath a floating villa off an artificial island off a desert city — says something specific about how far human ambition and the right marine conditions can stretch.
+Each villa has a coral garden fixed to its outside, created by marine biologists and aquarists at the Marine Life Sciences Centre to encourage coral growth and attract marine life, with a night light above the gardens so the reef can be watched after dark. The National's gallery shows clown fish, baby sharks and a carpet shark seen from the villas' windows.
 
-At night the rooftop deck becomes one of the more theatrical outdoor spaces in the emirate. The Burj Khalifa's light show is visible on the horizon, the rest of Dubai's illuminated outline spread across the water in both directions. Out here, the only sound is the Gulf water against the hull. The city's energy registers only as a very distant hum.
+From the villas guests have views of the Dubai skyline, including glimpses of the Burj Khalifa.
 
-The Floating Seahorse is reached by private speedboat only. Kleindienst Group provides transfers and a dedicated concierge; a private chef can be arranged ahead of arrival.
+According to The National, most of the villas are connected by walkways to the heart-shaped Honeymoon Island, which is due to have a Portofino-inspired hotel. Handover began at the end of 2020, and the villas have been sold as private homes and second homes (131 of 133 sold as of June 2021), so check how any stay is arranged before you plan around it.

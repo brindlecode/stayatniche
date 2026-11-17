@@ -1,15 +1,15 @@
 ---
 source: skylodge-peru
 destination: Heiliges Tal, Region Cusco
-description: Drei transparente Kapseln aus Luft- und Raumfahrtmaterialien, verschraubt in der roten Granitwand des Berges Pachar, 400 Meter über dem Grund des Heiligen Tals – erreichbar nur über einen ein- bis zweistündigen Klettersteig oder per Zipline von oben. Gourmet-Abendessen der Novo-Andina-Küche tragen die Guides die Felswand hinauf; den Sonnenaufgang über schneebedeckten Gipfeln durch die Wände aus Polycarbonat gibt es ohne Aufpreis dazu.
+description: "Drei transparente Kapsel-Suiten an einer Bergwand, 400 Meter über dem Boden im Heiligen Tal Perus, erreichbar über 400 Meter Klettersteig oder eine Wanderung mit Ziplines. Ein Gourmet-Abendessen mit Wein ist inklusive, den Sonnenaufgang über schneebedeckten Gipfeln durch die transparenten Wände gibt es ohne Aufpreis dazu."
 highlights:
-  - Kapseln, 400 Meter über dem Grund des Heiligen Tals aufgehängt
-  - Nur über Klettersteig oder Zipline erreichbar
+  - Kapsel-Suiten, 400 Meter über dem Boden aufgehängt
+  - Erreichbar über 400 Meter Klettersteig oder eine Wanderung mit Ziplines
   - 300-Grad-Panorama über die Anden und das Heilige Tal
   - Privates Gourmet-Abendessen in der eigenen hängenden Kapsel
   - Sonnenaufgang über den schneebedeckten Andengipfeln vom Bett aus
-  - Vollständiges Bad, in die Felswand gebaut
-  - Drei Kapseln für jeweils bis zu 4 Gäste
+  - Privates Bad mit Trockentoilette und Waschbecken
+  - Drei Kapsel-Suiten mit insgesamt 8 Plätzen
   - Geführter Aufstieg über den Klettersteig in jeder Buchung inklusive
 amenities:
   - Transparente Kapsel aus Luftfahrt-Aluminium und Polycarbonat
@@ -24,13 +24,13 @@ bestFor:
   - Schwindelfreie Abenteuerreisende
   - Paare auf der Suche nach einem spektakulären romantischen Erlebnis
   - Fotografen, die das Morgen- und Abendlicht der Anden einfangen wollen
-  - Alle, die ein Erlebnis suchen, das man nicht verpassen sollte
+  - Alle, die ein besonderes Erlebnis suchen
 prosAndCons:
   pros:
-    - Außergewöhnliche Aussicht von einem der spektakulärsten Hotelstandorte überhaupt
+    - Aussicht über das Heilige Tal von einer Bergwand in großer Höhe
     - Die körperliche Anstrengung des Aufstiegs lässt das Erlebnis zutiefst verdient wirken
     - Wirklich intim – bei nur drei Kapseln gibt es keinen Andrang
-    - Das Gourmet-Dinner in der Höhe ist ein außergewöhnliches Erlebnis
+    - Ein Gourmet-Abendessen mit Wein in der Höhe ist inklusive
   cons:
     - Ungeeignet bei Höhenangst oder eingeschränkter körperlicher Fitness
     - Höhenkrankheit ist ein echtes Thema, die Kapseln liegen auf etwa 3.600 Metern
@@ -51,17 +51,17 @@ nearbyAttractions:
     distance: 40 km
 seo:
   metaTitle: "Skylodge Peru: Schlafen in der Felswand | StayAtNiche"
-  metaDescription: "Skylodge Adventure Suites in Peru: transparente Kapseln 400 Meter über dem Heiligen Tal, erreichbar per Klettersteig oder Zipline – ab 450 $ pro Nacht."
+  metaDescription: "Skylodge Adventure Suites in Peru: drei transparente Kapsel-Suiten 400 Meter über dem Boden im Heiligen Tal, erreichbar per Klettersteig – ab 450 $ pro Nacht."
 ---
 
-Nach etwa zwei Dritteln des Klettersteigs, der in die rote Granitwand des Berges Pachar geschlagen ist, öffnet sich das Heilige Tal der Inka in seiner ganzen Breite. Der Urubamba ist tief unten ein silberner Faden, die Terrassenfelder von Ollantaytambo leuchten grün vor ockerfarbener Erde, die schneebedeckten Anden säumen jeden Horizont. Die meisten Kletterer halten hier inne – nicht aus Erschöpfung, sondern weil der Anblick sie einfach anhält.
+Nach etwa zwei Dritteln des Klettersteigs, der in die Bergwand geschlagen ist, öffnet sich das Heilige Tal der Inka in seiner ganzen Breite. Der Urubamba ist tief unten ein silberner Faden, die Terrassenfelder von Ollantaytambo leuchten grün vor ockerfarbener Erde, die schneebedeckten Anden säumen jeden Horizont. Die meisten Kletterer halten hier inne – nicht aus Erschöpfung, sondern weil der Anblick sie einfach anhält.
 
 Dann blicken sie nach oben und sehen ihr Bett für die Nacht, fünfzig Meter höher an die Felswand geschraubt.
 
-Die Skylodge Adventure Suites, betrieben von Natura Vive im Heiligen Tal Perus, gehören zu den kühnsten Schlafplätzen der Welt. Die drei hängenden Kapseln – Rahmen aus Luftfahrt-Aluminium mit transparenten Polycarbonatplatten – sind rund 400 Meter über dem Talgrund direkt im Berg verankert. Jede bietet Platz für bis zu vier Gäste, am besten funktioniert das Erlebnis aber zu zweit. Die besondere Intimität eines durchsichtigen Raums, der in der dünnen Andenluft schwebt, verträgt kaum mehr Gesellschaft als ein Paar.
+Die Skylodge Adventure Suites, betrieben von Natura Vive im Heiligen Tal Perus, sind ein ungewöhnlicher Schlafplatz. Die drei hängenden Kapseln – Rahmen aus Luftfahrt-Aluminium mit transparenten Polycarbonatplatten – sind rund 400 Meter über dem Boden direkt im Berg verankert. Der Betreiber gibt die Gesamtkapazität der drei Suiten mit acht Personen an, am besten funktioniert das Erlebnis aber zu zweit. Die besondere Intimität eines durchsichtigen Raums, der in der dünnen Andenluft schwebt, verträgt kaum mehr Gesellschaft als ein Paar.
 
-Schon der Aufstieg macht deutlich, dass dies kein Hotel für jeden ist – und er tut das, ohne sich dafür zu entschuldigen. Die Gäste legen am Talgrund ihre Gurte an und beginnen den Klettersteig – eine mit Eisenbügeln und Stahlseilen gesicherte Route, die für jeden mit ordentlicher Fitness auch ohne Klettererfahrung zu bewältigen ist. Je nach Tempo und je nachdem, wie lange man staunend stehen bleibt, dauert er ein bis zwei Stunden. Alternativ können die Gäste am Ende ihres Aufenthalts per Zipline vom Gipfel hinabsausen: eine absurde, herrlich vergnügte Art, ein Hotel zu verlassen.
+Schon der Aufstieg macht deutlich, dass dies kein Hotel für jeden ist – und er tut das, ohne sich dafür zu entschuldigen. Die Gäste legen am Talgrund ihre Gurte an und beginnen den Klettersteig – eine mit Eisenbügeln und Stahlseilen gesicherte Route, die für jeden mit ordentlicher Fitness auch ohne Klettererfahrung zu bewältigen ist. Der Klettersteig ist 400 Meter lang, und der Tagesplan des Betreibers sieht für den Aufstieg etwa anderthalb Stunden vor. Alternativ können die Gäste am Ende ihres Aufenthalts per Zipline vom Gipfel hinabsausen: eine absurde, herrlich vergnügte Art, ein Hotel zu verlassen.
 
-In der Kapsel reduziert sich alles aufs Wesentliche. Richtige Matratzen mit Decken aus Andenwolle. Ein kleiner Esstisch. Ein voll funktionsfähiges Bad, in den Fels hinter der Hauptkapsel gebaut. Wenn die Sonne westwärts über das Tal wandert – theatralisches Nachmittagsgold, violette Dämmerung, dann die Sternendichte einer Andennacht in großer Höhe –, wird die Kapsel zu einer privaten Sternwarte.
+In der Kapsel reduziert sich alles aufs Wesentliche. Richtige Matratzen mit Decken aus Andenwolle. Ein kleiner Esstisch. Ein eigenes Bad mit ökologischer Trockentoilette und Waschbecken. Wenn die Sonne westwärts über das Tal wandert – theatralisches Nachmittagsgold, violette Dämmerung, dann die Sternendichte einer Andennacht in großer Höhe –, wird die Kapsel zu einer privaten Sternwarte.
 
-Das Abendessen kommt auf demselben Weg wie die Gäste: Die Guides tragen die drei Gänge der Novo-Andina-Küche samt peruanischem Wein die Felswand hinauf, und das Ganze wird vor einem Sonnenuntergang verzehrt, den keine Hotelkritik angemessen beschreiben kann. Der Morgen danach – kalt, klar, vollkommen still – bringt einen Sonnenaufgang über den schneebedeckten Gipfeln, den die meisten Gäste zu den schönsten ihres Lebens zählen.
+Das Abendessen ist ein Gourmetmenü mit Wein, das in der Höhe serviert wird, und das Ganze wird vor einem Sonnenuntergang verzehrt, den keine Hotelkritik angemessen beschreiben kann. Der Morgen danach – kalt, klar, vollkommen still – bringt einen Sonnenaufgang über den schneebedeckten Gipfeln.

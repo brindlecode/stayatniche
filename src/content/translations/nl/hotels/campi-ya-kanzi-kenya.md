@@ -1,10 +1,10 @@
 ---
 source: campi-ya-kanzi-kenya
 destination: Chyulu Hills, Kajiado County
-description: "Een bushkamp in familiebezit op 283.000 acre gemeenschapsgrond van de Masai, in de schaduw van de Kilimanjaro, met op heldere ochtenden de besneeuwde top van de Kibo in zicht vanuit de eettent. Acht tentkamers kijken uit over de Afrikaanse vlakte; het kamp is in handen van een partnerschap met de Masai-gemeenschap, die het grootste deel van de inkomsten naar natuurbehoud en onderwijs laat gaan. Zo is het Amboseli-ecosysteem bedoeld om gezien te worden."
+description: "Een bushkamp in familiebezit op 400.000 acre grond in bezit van de Masai, in de schaduw van de Kilimanjaro, met op heldere ochtenden de besneeuwde top van de Kibo in zicht vanuit het kamp. Acht tentkamers kijken uit over de Afrikaanse vlakte; het kamp is in handen van een partnerschap met de Masai-gemeenschap, die het grootste deel van de inkomsten naar natuurbehoud en onderwijs laat gaan."
 highlights:
   - Uitzicht op de Kilimanjaro vanuit het kamp
-  - Natuurreservaat van de Masai-gemeenschap van 283.000 acre
+  - 400.000 acre grond in bezit van de Masai
   - Wandelsafari's met Masai-gidsen
   - Nachtsafari's op privéterrein
   - Eigendom van en natuurbeschermingsmodel met de Masai-gemeenschap

@@ -45,6 +45,7 @@ affiliateLinks:
 seo:
   metaTitle: "Juvet Landscape Hotel Review: Glass Pavilions in Norwegian Fjords | StayAtNiche"
   metaDescription: "Juvet Landscape Hotel: seven glass pavilions above the Valldal River, Norway. Ex Machina filming location, Geirangerfjord access, designed for uninterrupted landscape views."
+status: draft
 location:
   country: "Norway"
   countryCode: "NO"
@@ -54,7 +55,7 @@ location:
     lat: 62.332507
     lng: 7.470861
 niche_scope: specific_rooms
-niche_feature: "Seven glass-walled Landscape rooms raised on stilts in a birch forest by a river (plus two Bird Houses and a Writer's Lodge). No cliff setting is stated; the stilted cubes fit the site's stilts-among-trees treehouse rule only borderline."
+niche_feature: "The seven Landscape rooms are glass-walled cubes on stilts; the official page does not say they stand among trees. The hotel also has two Bird Houses and a Writer's Lodge. It does not meet the treehouse rule and no cliff setting is described."
 niche_source_url: "https://juvet.com/en/landskapsromma"
 niche_verified_at: 2026-11-17
 ---

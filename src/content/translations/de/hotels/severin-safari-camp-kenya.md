@@ -26,7 +26,7 @@ Das Severin Safari Camp ist ein Zeltcamp mitten im Tsavo-West-Nationalpark in Ke
 
 ## Die Zelte
 
-Das Luxury Tent umfasst 34 Quadratmeter und bietet Platz für bis zu drei Erwachsene. Jedes Zelt ist mit handgefertigten Holzmöbeln im traditionellen afrikanischen Stil eingerichtet und hat ein Kingsize-Bett mit Moskitonetz, ein eigenes Bad mit fließend warmem und kaltem Wasser sowie eine private Veranda mit Blick auf die Savanne. Zum Angebot des Camps gehören außerdem Suiten.
+Das Luxury Tent umfasst 34 Quadratmeter und bietet Platz für bis zu drei Erwachsene. Jedes Zelt ist mit handgefertigten Holzmöbeln im traditionellen afrikanischen Stil eingerichtet und hat ein Kingsize-Bett mit Moskitonetz, ein eigenes Bad mit fließend warmem und kaltem Wasser sowie eine private Veranda mit Blick auf die Savanne. Zum Angebot des Camps gehören außerdem Suiten sowie Kitani Bandas zur Selbstverpflegung, rund 1,5 km vom Hauptcamp entfernt; für den Weg dorthin wird ein Fahrzeug benötigt.
 
 ## Im Camp
 

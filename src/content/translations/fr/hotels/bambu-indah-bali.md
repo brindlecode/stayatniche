@@ -1,17 +1,18 @@
 ---
 source: bambu-indah-bali
 destination: "Ubud, Bali, Indonésie"
-description: "Une adresse au bord de la rivière, dans la jungle d'Ubud, bâtie à partir d'anciennes maisons nuptiales javanaises et de structures en bambou, où les bassins de baignade naturels sont taillés dans la pierre sous la canopée et où chaque construction est un fragment sauvegardé de l'histoire architecturale indonésienne."
+description: "Une adresse de 24 maisons au bord de la rivière, dans la jungle d'Ubud, avec d'anciennes maisons nuptiales javanaises, des structures en bambou et une Treehouse dans les branches de deux arbres bunut, ainsi qu'un bassin alimenté par une source, au bord de la rivière."
 highlights:
   - "D'anciennes maisons nuptiales javanaises déplacées et reconstruites dans la jungle d'Ubud"
-  - "Baignade naturelle en rivière dans des bassins taillés dans la pierre, sous la canopée"
+  - "Bassin alimenté par une source, au bord d'une rivière tumultueuse"
   - "Structures en bambou conçues par John Hardy, fondateur de la Green School de Bali"
   - "Ferme bio et jardins en permaculture qui approvisionnent la cuisine"
   - "Sur la crête de Sayan, au-dessus d'un affluent de la rivière Ayung"
   - "Une cuisine de la ferme à l'assiette, issue des jardins du domaine"
+  - "Treehouse dans les branches de deux arbres bunut (3 personnes), l'une des 24 maisons"
 amenities:
   - "Hébergement en villa individuelle ou en structure de bambou"
-  - "Bassins de baignade naturels en rivière"
+  - "Bassin alimenté par une source, au bord de la rivière"
   - "Ferme et jardins bio sur place"
   - "Petit-déjeuner inclus, à base de produits de la ferme"
   - "Soins de spa dans des pavillons en plein air"
@@ -49,12 +50,15 @@ nearbyAttractions:
 seo:
   metaTitle: "Bambu Indah : villas dans la jungle à Ubud | StayAtNiche"
   metaDescription: "Avis sur Bambu Indah à Ubud, Bali : maisons nuptiales javanaises anciennes et structures en bambou au bord d'une rivière, dans la jungle. Dès 250 $ la nuit."
+niche_feature: "Une seule Treehouse (3 couchages) parmi 24 maisons : une structure en bambou indépendante, installée dans les branches de deux bunut. Les autres maisons (maisons joglo pour jeunes mariés, maisons en bambou, tentes) ne sont pas des cabanes dans les arbres."
 ---
 
 À Bali, la plupart des hébergements de luxe suivent un modèle bien connu : piscine à débordement carrelée, lobby en pavillon ouvert, villa privée avec bassin parsemé de fleurs de frangipanier. Bambu Indah part de prémisses totalement différentes. John Hardy, créateur de bijoux canadien, fondateur de la Green School de Bali et d'un mouvement d'architecture en bambou qui a influencé la construction tropicale dans le monde entier, a imaginé Bambu Indah comme la démonstration concrète de ce que pourrait être, à Bali, un hébergement durable, honnête dans ses matériaux et rigoureux sur le plan esthétique.
 
 Les plus anciennes constructions du domaine sont d'anciennes maisons nuptiales javanaises : des pavillons à ossature de bois que les familles offraient traditionnellement à leur fille lors de son mariage, rassemblés à travers Java au fil des décennies et patiemment reconstruits sur la crête de Sayan, au-dessus d'un affluent de l'Ayung. Chacune se distingue par sa structure et son allure, avec ses panneaux de bois sculptés, ses hauts toits pointus et des proportions héritées des traditions domestiques indonésiennes dont elle est issue. À leurs côtés, Hardy a bâti de nouvelles structures en bambou qui montrent ce dont ce matériau est capable entre les mains d'artisans balinais chevronnés : plafonds incurvés, plateformes en porte-à-faux au-dessus de la jungle, espaces qui ploient légèrement par grand vent, ce que la construction traditionnelle ne fait jamais.
 
-La baignade en rivière est ce qui distingue le plus nettement Bambu Indah de ses concurrents d'Ubud. Des bassins naturels taillés dans la pierre sous la canopée, alimentés par la rivière et ombragés par la végétation, attendent au bout d'un sentier qui descend depuis les hébergements. Par un après-midi chaud de saison sèche, ils sont exactement tout ce qu'une piscine de resort chlorée n'est pas : frais, vivants, reliés au paysage, et parfaitement fidèles à l'idée centrale du lieu sur ce que devrait être le luxe dans un tel environnement.
+L'une des 24 maisons est une Treehouse : une structure en bambou au toit de cuivre incurvé, nichée dans les branches de deux arbres bunut au-dessus de la vallée. Elle accueille trois personnes, avec un lit queen size dans l'espace principal et un second dans une mezzanine, et l'on y accède par un étroit escalier en colimaçon.
+
+La baignade en rivière est ce qui distingue le plus nettement Bambu Indah de ses concurrents d'Ubud. Le domaine compte un bassin alimenté par une source, au bord d'une rivière tumultueuse, et un sentier de pierres posées à la main le parcourt. Par un après-midi chaud de saison sèche, ils sont exactement tout ce qu'une piscine de resort chlorée n'est pas : frais, vivants, reliés au paysage, et parfaitement fidèles à l'idée centrale du lieu sur ce que devrait être le luxe dans un tel environnement.
 
 La ferme bio, située derrière les bâtiments principaux, fournit à la cuisine légumes, herbes aromatiques, œufs et fruits. Le petit-déjeuner à Bambu Indah est l'expression directe de ce que le jardin a donné le matin même. Cette philosophie s'étend jusqu'à l'eau : le domaine dispose de son propre système de purification, et le plastique à usage unique qui remplit les poubelles de la plupart des resorts balinais en est absent. Pour les voyageurs déjà venus à Bali et lassés, sur le plan esthétique, des grands resorts, Bambu Indah est l'antidote.

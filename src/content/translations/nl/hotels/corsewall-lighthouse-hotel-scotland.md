@@ -1,11 +1,11 @@
 ---
 source: corsewall-lighthouse-hotel-scotland
 destination: "Kirkcolm, Dumfries and Galloway"
-description: "Een actieve vuurtoren aan de kust van Rhins of Galloway in Schotland, met elf kamers, waarvan zes in de oorspronkelijke wachterswoningen."
+description: "Een hotel met elf kamers bij een geautomatiseerde vuurtoren aan de kust van Rhins of Galloway in Schotland, waarvan zes in de oorspronkelijke wachterswoningen."
 highlights:
   - "Elf kamers verspreid over de voormalige wachterswoningen en andere gebouwen op het terrein"
   - "Zes kamers in de oorspronkelijke wachterswoningen, genoemd naar Fulmar, Galloway, Ailsa, Dunskirkloch, Mull of Kintyre en Firth of Cromarty"
-  - "Actieve vuurtoren aan de Schotse kust met zeezicht"
+  - "Kamers bij een geautomatiseerde vuurtoren aan de Schotse kust met zeezicht"
   - "Eigen restaurant in het hotel"
 amenities:
   - "Restaurant"
@@ -17,10 +17,11 @@ bestFor:
   - "Kleine groepen"
 seo:
   metaTitle: "Vuurtorenhotel Corsewall in Schotland | StayAtNiche"
-  metaDescription: "Corsewall Lighthouse Hotel: elf kamers, zes ervan in de oorspronkelijke wachterswoningen van een actieve vuurtoren aan de Schotse kust, met zeezicht."
+  metaDescription: "Corsewall Lighthouse Hotel: elf kamers, zes ervan in de oorspronkelijke wachterswoningen van een geautomatiseerde vuurtoren aan de Schotse kust, met zeezicht."
+niche_feature: "Zes van de 11 kamers (Fulmar, Galloway, Ailsa, Dunskirkloch, Mull of Kintyre, Firth of Cromarty) liggen in de oorspronkelijke vuurtorenwachterswoning; twee suites en de Stevenson Rooms zitten in aparte moderne gebouwen."
 ---
 
-Corsewall Lighthouse Hotel is een actieve vuurtoren aan de Schotse kust, en slechts een deel daarvan is de vuurtoren zelf. Het hotel heeft in totaal elf kamers, verspreid over de voormalige wachterswoningen en andere gebouwen op het terrein. Daardoor voelt het verblijf intiem in plaats van statig. Het hotel meldt dat het in The Times en The Guardian is verschenen, en noemt zichzelf in de slogan het meest bijzondere kustverblijf van Schotland.
+Corsewall Lighthouse Hotel staat bij een vuurtoren aan de kust van Zuidwest-Schotland, die sinds 1994 geautomatiseerd is en wordt bewaakt door de Northern Lighthouse Board, en slechts een deel van het hotel zit in de oorspronkelijke vuurtorengebouwen. Het hotel heeft in totaal elf kamers, verspreid over de voormalige wachterswoningen en andere gebouwen op het terrein. Daardoor voelt het verblijf intiem in plaats van statig. Het hotel meldt dat het in The Times en The Guardian is verschenen, en noemt zichzelf in de slogan het meest bijzondere kustverblijf van Schotland.
 
 ## De kamers
 

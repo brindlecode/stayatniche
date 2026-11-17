@@ -5,7 +5,7 @@ description: "Albergo diffuso in un castello medievale e in un borgo sulla Via F
 highlights:
   - "Albergo diffuso in un castello medievale e in un borgo"
   - "Dimora della famiglia Cecchini dal 1644"
-  - "Camere ricavate in una torre delle antiche mura"
+  - "Tre camere in un'ex torre delle antiche mura"
   - "Piscina e ristorante estivo raggiunti da un passaggio scavato nella roccia vulcanica"
   - "Vicino alle Terme di Fonteverde"
 amenities:
@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Castello di Proceno: albergo diffuso Lazio | StayAtNiche"
   metaDescription: "Castello di Proceno: albergo diffuso in un castello medievale sulla Via Francigena, con appartamenti, quattro camere, piscina e ristorante estivo."
+niche_feature: "Albergo diffuso nel complesso del castello di Proceno (fortezza pentagonale con mastio, due torrette e ponte levatoio funzionante): appartamenti e suite nel fortino e nel cortile, più quattro camere in un'ex torre delle mura. La casa colonica separata Il Giulione si trova fuori dal castello."
 ---
 
 Il Castello di Proceno è un albergo diffuso, un hotel distribuito tra gli edifici di un borgo storico anziché sotto un unico tetto. Occupa un castello e un borgo a Proceno, sulla Via Francigena, nel punto d'incontro tra Toscana, Umbria e Lazio, nel cuore della Tuscia. Le Terme di Fonteverde, a San Casciano dei Bagni, distano pochi chilometri.
@@ -30,7 +31,7 @@ Il castello appartiene alla famiglia Cecchini, oggi Bisoni Cecchini, dal 1644. C
 
 ## Le camere
 
-La maggior parte del soggiorno si svolge in appartamenti e suite, tutti con un nome: Primavera, Estate, Autunno, Corsetto, Chiostrino, Loggia, Bicocca e Innominato. Ci sono poi quattro camere chiamate Caciaia, Collinella, Poggiolo e Belvedere. Le ultime due si affacciano l'una di fronte all'altra, e tutte e quattro si raggiungono da una porta sull'antico cortile interno.
+La maggior parte del soggiorno si svolge in appartamenti e suite, tutti con un nome: Primavera, Estate, Autunno, Corsetto, Chiostrino, Loggia, Bicocca e Innominato. Ci sono poi quattro camere chiamate Caciaia, Collinella, Poggiolo e Belvedere. Le ultime due si affacciano l'una di fronte all'altra, e tutte e quattro si raggiungono da una porta sull'antico cortile interno. Secondo la pagina degli appartamenti del castello, Caciaia, Collinella e Poggiolo sono le camere che un tempo facevano parte di una torre dell'antica cinta muraria del borgo.
 
 Una scala interna collega tre piani che un tempo facevano parte di una delle torri delle antiche mura. La scala è ripida e non adatta ai bambini. Ognuna delle quattro camere ha un piccolo frigorifero, un microonde, un bollitore elettrico, un tostapane e un lavabo, e i bagni hanno doccia e asciugacapelli. Il pernottamento con colazione è disponibile su richiesta.
 
@@ -41,3 +42,5 @@ Un piccolo giardino dà accesso alle suite, e una limonaia conduce a un passaggi
 ## Informazioni pratiche
 
 Il check-in è tra le 16 e le 19 e il check-out entro le 10, anche se gli orari possono essere modificati se avvisi il castello. Una sala riunioni accoglie fino a 30 persone. Durante l'anno il castello ospita concerti ed eventi.
+
+Il sito del castello propone anche Il Giulione, un agriturismo separato a 12 km dal castello, con sei camere, sei bagni e una piscina propria. Non fa parte del complesso del castello.

@@ -3,12 +3,12 @@ name: "Baumhaushotel Robins Nest"
 category: treehouse-hotels
 destination: "Witzenhausen, Hesse"
 country: "Germany"
-description: "A treehouse hotel beside Schloss Berlepsch where the wooden nests sit about seven metres up in the canopy and are reached by stairs and suspension bridges, alongside a stilt house for up to eight."
+description: "A treehouse hotel beside Schloss Berlepsch where the treehouses sit about 5 to 7 metres up and are reached by stairs and suspension bridges, alongside a stilt house for up to eight."
 priceRange: "Rates vary"
 highlights:
-  - "Treehouses reached by stairs and suspension bridges, about 7 metres up in the forest canopy"
+  - "Treehouses reached by stairs and suspension bridges, about 5 to 7 metres up (birch house about 5 m, cork and trunk houses about 7 m)"
   - "A stilt house that sleeps up to 8 people, with its own bathroom"
-  - "A ball-shaped treehouse and tree tents among the accommodation types"
+  - "A ball-shaped treehouse hung on cables between trees; tree tents (not treehouses) hang about 130 cm above the ground"
   - "Breakfast buffet included, with a restaurant on site and sauna use all year"
   - "Not far from Schloss Berlepsch, which has stood for more than 650 years"
 amenities:
@@ -53,11 +53,11 @@ Robins Nest is a treehouse hotel near Witzenhausen in northern Hesse, close to S
 
 ## The treehouses
 
-The nests sit in the treetops at around seven metres. Each one is reached by stairs and suspension bridges. The range includes a birch treehouse, a cork treehouse, a trunk house and a ball-shaped treehouse, each sleeping two to four people or, in the ball's case, two. There is also a Wald Loft and a pair of domes, both for two to four guests.
+The official site counts three treehouses, one stilt house, one ball treehouse and five tree tents. The treehouses sit at different heights: the birch treehouse about 5 metres up, the cork and trunk houses about 7 metres. They are reached by stairs and suspension bridges. The birch, cork and trunk houses each sleep up to four people, and the ball-shaped treehouse, which hangs on cables between the trees, sleeps two. There is also a Wald Loft and a pair of domes, both for two to four guests; the domes are not treehouses.
 
 The stilt house is raised on stilts, and it sleeps two to eight people. It has its own bathroom with shower and toilet, as does the Wald Loft. In the treehouses, washing is done with a basin and a water container, and the four-person treehouses have dry composting toilets. Each dome has an outdoor bathing hut with a toilet and shower, usable from April to October. A washroom with a shower near the restaurant toilets is open round the clock.
 
-Tree tents are also on offer. They can be booked by adults only, and dogs are not allowed in them or in the domes. Dogs can stay elsewhere on the site, but two wobbly bridges lead to the trunk house, which some dogs dislike.
+Tree tents are also on offer; they are not treehouses but tents hung between trees about 130 cm above the ground. They can be booked by adults only, and dogs are not allowed in them or in the domes. Dogs can stay elsewhere on the site, but two wobbly bridges lead to the trunk house, which some dogs dislike.
 
 ## Food, sauna and practicalities
 

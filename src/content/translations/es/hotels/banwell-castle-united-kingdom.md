@@ -40,4 +40,4 @@ El castillo se asienta sobre 25 acres de jardines y terrenos, que comparte con B
 
 ## Información práctica
 
-La dirección es Banwell, Somerset, BS29 6NX. Como se trata de una casa familiar, lo mejor es contactar directamente con el castillo sobre habitaciones y disponibilidad, y preguntar qué habitación se adapta a tu grupo antes de reservar.
+La dirección es Banwell, Somerset, BS29 6NX. Como se trata de una casa familiar, lo mejor es contactar directamente con el castillo sobre habitaciones y disponibilidad, y preguntar qué habitación se adapta a tu grupo antes de reservar. La web del castillo lleva un copyright de 2009 y no parece haberse actualizado desde entonces, así que confirma que se sigue ofreciendo alojamiento con desayuno, y las tarifas, antes de planificar la estancia.

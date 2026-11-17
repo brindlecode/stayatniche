@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Bulles d'Olive: hotel burbuja en Francia | StayAtNiche"
   metaDescription: "Bulles d'Olive en Nyons: dos burbujas transparentes y una cabaña de madera entre olivos, piscina calentada por el sol y desayuno casero en la Drôme."
+niche_feature: "Dos burbujas transparentes (Olea, Provence) y una cabaña de madera (Zome Céleste) en una casa de huéspedes de Nyons; solo las dos burbujas pertenecen a la categoría."
 ---
 
 Bulles d'Olive es una pequeña casa de huéspedes entre olivos, en Nyons, en la Drôme provenzal. Solo tiene tres alojamientos: dos burbujas transparentes, Olea y Provence, y una cabaña de madera llamada Zome Céleste. Cada uno está pensado para dos personas, y todo el lugar está preparado para pasar una noche juntos bajo las estrellas.

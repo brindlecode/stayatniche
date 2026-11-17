@@ -1,11 +1,11 @@
 ---
 source: corsewall-lighthouse-hotel-scotland
 destination: "Kirkcolm, Dumfries and Galloway"
-description: "Ein aktiver Leuchtturm an der Küste der Rhins of Galloway in Schottland mit elf Zimmern, sechs davon in den ursprünglichen Wärterhäusern."
+description: "Ein Hotel mit elf Zimmern an einem automatisierten Leuchtturm an der Küste der Rhins of Galloway in Schottland, sechs davon in den ursprünglichen Wärterhäusern."
 highlights:
   - "Elf Zimmer in den ehemaligen Wärterunterkünften und weiteren Gebäuden auf dem Gelände"
   - "Sechs Zimmer in den originalen Wärterunterkünften, benannt nach Fulmar, Galloway, Ailsa, Dunskirkloch, Mull of Kintyre und Firth of Cromarty"
-  - "Aktiver Leuchtturm an Schottlands Küste mit Meerblick"
+  - "Zimmer an einem automatisierten Leuchtturm an Schottlands Küste mit Meerblick"
   - "Hauseigenes Restaurant"
 amenities:
   - "Restaurant"
@@ -17,10 +17,11 @@ bestFor:
   - "Kleine Gruppen"
 seo:
   metaTitle: "Leuchtturmhotel Corsewall in Schottland | StayAtNiche"
-  metaDescription: "Corsewall Lighthouse Hotel in Kirkcolm: elf Zimmer, sechs davon in den originalen Wärterunterkünften eines aktiven Leuchtturms an der schottischen Küste."
+  metaDescription: "Corsewall Lighthouse Hotel in Kirkcolm: elf Zimmer, sechs davon in den originalen Wärterunterkünften eines automatisierten Leuchtturms an der Küste Schottlands."
+niche_feature: "Sechs von 11 Zimmern (Fulmar, Galloway, Ailsa, Dunskirkloch, Mull of Kintyre, Firth of Cromarty) befinden sich in den ursprünglichen Wohnräumen der Leuchtturmwärter; zwei Suiten und die Stevenson Rooms liegen in separaten modernen Gebäuden."
 ---
 
-Corsewall Lighthouse Hotel ist ein aktiver Leuchtturm an der schottischen Küste, und nur ein Teil davon ist der Leuchtturm selbst. Insgesamt hat das Hotel elf Zimmer, verteilt auf die ehemaligen Wärterunterkünfte und weitere Gebäude auf dem Gelände. Der Aufenthalt wirkt dadurch eher intim als großzügig. Das Hotel verweist darauf, in The Times und im Guardian erwähnt worden zu sein, und wirbt selbst mit dem Titel Schottlands bemerkenswertester Küstenaufenthalt.
+Corsewall Lighthouse Hotel steht an einem Leuchtturm an der Küste im Südwesten Schottlands, der seit 1994 automatisiert ist und vom Northern Lighthouse Board überwacht wird, und nur ein Teil des Hotels befindet sich in den ursprünglichen Leuchtturmgebäuden. Insgesamt hat das Hotel elf Zimmer, verteilt auf die ehemaligen Wärterunterkünfte und weitere Gebäude auf dem Gelände. Der Aufenthalt wirkt dadurch eher intim als großzügig. Das Hotel verweist darauf, in The Times und im Guardian erwähnt worden zu sein, und wirbt selbst mit dem Titel Schottlands bemerkenswertester Küstenaufenthalt.
 
 ## Die Zimmer
 

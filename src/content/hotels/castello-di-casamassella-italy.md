@@ -56,7 +56,7 @@ Days begin with a generous breakfast that the castle is proud of, including home
 
 ## Beyond the walls
 
-The castle stands in the middle of Casamassella, on Piazza Vittorio Emanuele II, and it also hosts events and weddings. The Salento coast around Otranto is close, which makes it easy to alternate between a quiet castle and the beaches and old towns of the heel of Italy.
+The castle stands in the middle of Casamassella, on Piazza Vittorio Emanuele II, and it also hosts events and weddings. Its website also markets the castle for exclusive use, as self-catering castle holidays ("Rent a castle"), so it is worth asking whether you can take the whole building rather than a single room. The Salento coast around Otranto is close, which makes it easy to alternate between a quiet castle and the beaches and old towns of the heel of Italy.
 
 ## Before you go
 

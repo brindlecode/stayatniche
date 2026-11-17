@@ -1,9 +1,9 @@
 ---
 source: kelebek-special-cave-hotel-turkey
 destination: "Göreme, Nevşehir"
-description: "Hotel de larga trayectoria sobre el pueblo de Göreme, con algunas habitaciones excavadas en la roca, incluidas las que el hotel dice que tienen miles de años, además de baño turco y piscina exterior."
+description: "Hotel de larga trayectoria sobre el pueblo de Göreme, con algunas habitaciones excavadas en la roca, incluidos espacios históricos que el hotel data en el siglo VIII, además de baño turco y piscina exterior."
 highlights:
-  - "Algunas habitaciones son cuevas; el hotel asegura que las chimeneas de hadas del recinto albergan habitaciones de miles de años de antigüedad"
+  - "Algunas habitaciones son cuevas; según el hotel, algunas están excavadas en la roca natural, incluidos espacios históricos del siglo VIII"
   - "Vistas del pueblo, los valles y los globos"
   - "Baño turco tradicional y piscina exterior"
   - "Admite mascotas"
@@ -22,13 +22,14 @@ bestFor:
 seo:
   metaTitle: "Kelebek Special Cave Hotel: cuevas en Göreme | StayAtNiche"
   metaDescription: "Kelebek Special Cave Hotel en Göreme: hotel de larga trayectoria con habitaciones cueva, baño turco, piscina y vistas a los globos y a los valles."
+niche_feature: "36 habitaciones que combinan cuevas, chimeneas de hadas y habitaciones de piedra; solo algunas habitaciones cueva están excavadas directamente en la roca natural, entre ellas espacios históricos que se remontan al siglo VIII. Las demás son de arquitectura de piedra."
 ---
 
-Kelebek Special Cave Hotel se alza sobre el pueblo de Göreme, dentro del parque nacional, y se vende por sus vistas al pueblo, los valles, los globos aerostáticos y las montañas del fondo. Las habitaciones cueva forman parte de la oferta, aunque solo algunas están excavadas en la roca. Otras se describen como habitaciones mixtas de cueva y piedra.
+Kelebek Special Cave Hotel se alza sobre el pueblo de Göreme, dentro del parque nacional, y se vende por sus vistas al pueblo, los valles, los globos aerostáticos y las montañas del fondo. Las habitaciones cueva forman parte de la oferta, aunque solo algunas están excavadas en la roca. Otras se describen como habitaciones mixtas de cueva y piedra. El hotel indica que tiene 36 habitaciones en total, entre cueva, chimenea de hadas y piedra, y su propia web ya lo llama Kelebek Cave Hotel.
 
 ## Las habitaciones
 
-El hotel describe sus habitaciones como «especialmente diseñadas», con experiencia de cueva o de cueva y piedra. Según el hotel, las chimeneas de hadas del recinto contienen habitaciones cueva de miles de años de antigüedad. Pregunta al reservar si tu habitación es una auténtica habitación cueva.
+El hotel describe sus habitaciones como «especialmente diseñadas», con experiencia de cueva o de cueva y piedra. Según el hotel, algunas de sus habitaciones cueva están excavadas directamente en la roca natural, incluidos espacios históricos que se remontan al siglo VIII. Pregunta al reservar si tu habitación es una auténtica habitación cueva.
 
 ## Instalaciones
 
@@ -36,7 +37,7 @@ El hotel ofrece un baño turco tradicional y una piscina exterior. Admite mascot
 
 ## El entorno
 
-La mayoría de las habitaciones y terrazas dan a los globos, y el hotel presenta sus vistas como las mejores entre los hoteles cueva de Capadocia.
+La mayoría de las habitaciones y terrazas dan a los globos.
 
 ## Notas prácticas
 

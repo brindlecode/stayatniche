@@ -21,6 +21,7 @@ bestFor:
 seo:
   metaTitle: "Schloss Hotel Korb en Missiano, Tirol del Sur | StayAtNiche"
   metaDescription: "Schloss Hotel Korb en Missiano: hotel superior de 4 estrellas con suites en un castillo, piscinas cubierta y al aire libre y vistas a Bolzano y los Dolomitas."
+niche_feature: "Las suites del castillo (de unos 40 m², la mayoría en la histórica Wohnturm o torre residencial del castillo) y algunas habitaciones dobles confort están en el castillo; las suites panorámicas, las dobles exclusivas y las suites tirolesas del Sur y de jardín están en la Residence, más reciente."
 ---
 
 Schloss Hotel Korb es un hotel superior de 4 estrellas en Missiano, en el municipio de Appiano, en el Tirol del Sur, con vistas a Bolzano y a los Dolomitas. El hotel describe su alojamiento como noches de cuento en el castillo y la residencia.

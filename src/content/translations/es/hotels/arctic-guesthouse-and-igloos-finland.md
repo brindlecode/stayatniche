@@ -1,9 +1,9 @@
 ---
 source: arctic-guesthouse-and-igloos-finland
 destination: "Ranua, Laponia"
-description: "Casa de huéspedes en Ranua, Laponia, con diez iglús de cristal desplazables para ver auroras boreales, además de habitaciones y lodges junto al lago."
+description: "Casa de huéspedes en Ranua, Laponia, con diez iglús de cristal compactos para ver auroras boreales, que flotan y se desplazan por el lago Ranua en verano, además de habitaciones y lodges junto al lago."
 highlights:
-  - "Diez iglús de cristal desplazables"
+  - "Diez iglús de cristal compactos que flotan y se desplazan por el lago Ranua en verano"
   - "Los iglús están junto a las habitaciones de la casa de huéspedes y los Aurora Lake Lodges"
   - "Wi-Fi en cada iglú"
   - "Sauna eléctrica gratuita para los huéspedes"
@@ -18,10 +18,11 @@ bestFor:
   - "Grupos"
 seo:
   metaTitle: "Iglús de cristal en Ranua, Laponia | StayAtNiche"
-  metaDescription: "Arctic Guesthouse & Igloos en Ranua, Laponia: diez iglús de cristal desplazables para ver auroras boreales, con habitaciones y lodges a orillas del lago."
+  metaDescription: "Arctic Guesthouse & Igloos en Ranua, Laponia: diez iglús de cristal compactos que flotan en verano, con habitaciones y lodges a orillas del lago Ranua."
+niche_feature: "Iglús de cristal (AuroraHut, ideales para 2 personas) a orillas del lago Ranua, algunos capaces de flotar y desplazarse con motor eléctrico en verano; el alojamiento también tiene habitaciones de casa de huéspedes convencionales y Aurora Lake Lodges."
 ---
 
-No todo el complejo es el reclamo: diez iglús de cristal desplazables comparten espacio con habitaciones económicas y varios lodges más recientes, así que puedes elegir cuánto de la experiencia ártica quieres. Arctic Guesthouse & Igloos está en Ranua, una localidad del sur de Laponia, a una hora aproximadamente de Rovaniemi y algo más de dos horas de Oulu.
+No todo el complejo es el reclamo: diez iglús de cristal compactos (AuroraHut), que en verano flotan y se desplazan por el lago Ranua con su propio motor eléctrico, comparten espacio con habitaciones económicas y varios lodges más recientes, así que puedes elegir cuánto de la experiencia ártica quieres. Arctic Guesthouse & Igloos está en Ranua, una localidad del sur de Laponia, a una hora aproximadamente de Rovaniemi y algo más de dos horas de Oulu.
 
 ## Iglús, habitaciones y lodges
 

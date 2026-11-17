@@ -21,6 +21,7 @@ bestFor:
 seo:
   metaTitle: "Dornoch Castle: hotel castillo, Escocia | StayAtNiche"
   metaDescription: "Dornoch Castle Hotel: castillo del siglo XV con nueve habitaciones, bar de whisky premiado y jardín amurallado frente a la catedral del siglo XII."
+niche_feature: "9 de las 21 habitaciones están dentro del castillo del siglo XV; las otras 12 están en una ampliación moderna."
 ---
 
 Dornoch Castle Hotel ocupa un castillo del siglo XV en el centro de la pequeña localidad costera de Dornoch, justo enfrente de la catedral de Dornoch, del siglo XII. Es un hotel con 21 habitaciones, pero solo una parte es castillo: nueve habitaciones están en el edificio antiguo y el resto, en una ampliación moderna. Si lo que quieres es dormir tras muros de castillo, pide una de las habitaciones del castillo al reservar.

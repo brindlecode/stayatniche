@@ -10,7 +10,7 @@ highlights:
   - "Excursies en proeverijen bij whiskystokerijen op een deel van de reizen"
   - "Voortreffelijk dineren met Schots wild, zeevruchten en streekproducten"
 amenities:
-  - "State Cabins en Cabin Suites met eigen badkamer in een deel van de rijtuigen"
+  - "18 slaaphutten (Grand Suites, Suites, tweepersoons- en twin-hutten); Grand Suites, tweepersoons- en twin-hutten hebben een eigen badkamer"
   - "Panoramawagon met open achterbalkon"
   - "Meergangendiners met verfijnde Schotse en Franse keuken"
   - "Volpension met Schotse single malts en goede wijnen"
@@ -55,8 +55,8 @@ De West Highland Line wordt door de spoorwegpers en veel mensen die hem hebben g
 
 De trein van Belmond vervoert maximaal 36 gasten in zorgvuldig gerestaureerde rijtuigen: stoffen in Highland-tartan, glanzende houten lambrisering, messing beslag en tafellampjes die een typisch Schotse warmte verspreiden. Op deze schaal lijkt het sociale leven aan boord op een feest in een landhuis. Gesprekken ontstaan vanzelf tussen mensen die door de reis en het gedeelde landschap bij elkaar zijn gebracht. De panoramawagon achteraan komt uit op een balkon waar je in de Highlandlucht staat terwijl het water van de lochs het middaglicht vangt en edelherten je vanaf de hellingen bekijken.
 
-State Cabins hebben een eenpersoonsbed of twee aparte bedden en een eigen badkamer: dikke dekens, leeslampjes op de juiste plek en opbergruimte die werkt als je onderweg bent. Klein, maar precies goed voor wat ze zijn.
+Er zijn 18 hutten, elk voor twee gasten: Grand Suites, Suites (nieuw vanaf april 2027), tweepersoonshutten en twin-hutten. De Grand Suites, tweepersoons- en twin-hutten hebben een eigen badkamer. Klein, maar precies goed voor wat ze zijn.
 
 Het diner is formeel maar ontspannen, zoals alleen Schotland dat kan: witte tafelkleden en kristal, ramen met bij het ontbijt een glen in de ochtendmist en bij het diner een loch die in de lange noordelijke schemering paars kleurt. De keuken werkt met hert, korhoen, lam uit de Highlands en kreeft en zalm van de westkust: de uitzonderlijke Schotse voorraadkast, eerlijk bereid. De whiskyservice, in een trein die langs enkele van de meest vooraanstaande stokerijen ter wereld rijdt, wordt met oprecht enthousiasme verzorgd.
 
-Buiten de trein staan onder meer bezoeken aan stokerijen, wandelingen over landgoederen in de Highlands, kastelen en boottochtjes op lochs op het programma. De Grand Tour van vier nachten is de versie die alle mogelijkheden van de trein het best laat zien. Boek voor vertrekken in het hoogseizoen in de zomer twaalf maanden vooruit.
+Buiten de trein staan onder meer bezoeken aan stokerijen, wandelingen over landgoederen in de Highlands, kastelen en boottochtjes op lochs op het programma. De Grand Tour of Scotland van zeven nachten is de versie die alle mogelijkheden van de trein het best laat zien. Boek voor vertrekken in het hoogseizoen in de zomer twaalf maanden vooruit.

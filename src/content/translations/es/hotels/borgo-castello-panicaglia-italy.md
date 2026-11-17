@@ -21,13 +21,14 @@ bestFor:
 seo:
   metaTitle: "Borgo Castello Panicaglia: castillo en Umbría | StayAtNiche"
   metaDescription: "Borgo Castello Panicaglia, en Umbría: casa de huéspedes en un castillo de 1266, con piscina, restaurante, clases de cocina y habitaciones con nombre propio."
+niche_feature: "Habitaciones en un castillo que data de 1266 dentro del borgo de Panicaglia; el sitio enumera unas 17 habitaciones y suites con nombre, además de la casa vacacional Michele, que linda con el hotel en lugar de estar en el castillo."
 ---
 
 Borgo Castello Panicaglia ocupa un castillo construido en 1266 en el pequeño pueblo medieval de Panicaglia, en Umbría. Se encuentra a 800 metros de altitud, con vistas a las montañas de Umbría, y funciona como casa de huéspedes en la que se invita a participar en la vida familiar: asomarse a la cocina, echar una mano en el huerto o instalarse en uno de los muchos rincones de estar.
 
 ## Las habitaciones
 
-El castillo tiene una lista inusualmente larga de habitaciones, cada una con su propio nombre. Van desde dobles y triples hasta suites de lujo y suites familiares. La habitación Raffaele es una doble de 35 m² con baño de lujo y una pequeña terraza privada en la primera planta del edificio principal. Angelo es una suite de lujo de 45 m² con entrada propia, Mariastella es una suite familiar de 55 m² para cinco personas y Cardinale Pietro Marini es una suite deluxe de 60 m² para dos a cuatro personas. Giovanni es una doble de 35 m² apta para huéspedes con movilidad reducida. Algunas habitaciones contiguas, como Raffaele y Caterina, pueden unirse para formar una suite de cuatro personas.
+La casa de huéspedes tiene una lista inusualmente larga de habitaciones, cada una con su propio nombre. Van desde dobles y triples hasta suites de lujo y suites familiares. La habitación Raffaele es una doble de 35 m² con baño de lujo y una pequeña terraza privada en la primera planta del edificio principal. Angelo es una suite de lujo de 45 m² con entrada propia, Mariastella es una suite familiar de 55 m² para cinco personas y Cardinale Pietro Marini es una suite deluxe de 60 m² para dos a cuatro personas. Giovanni es una doble de 35 m² apta para huéspedes con movilidad reducida. Algunas habitaciones contiguas, como Raffaele y Caterina, pueden unirse para formar una suite de cuatro personas. La lista completa incluye además Rosa, Olimpia, Tobia, Assunta, Sabatina, Luigi, Gaspera, Geltrude, Daniele y Sante, así como la casa de vacaciones Michele, que está unida al hotel y no se encuentra en el castillo. No todas las habitaciones están en el edificio principal: Daniele y Geltrude, por ejemplo, están en un anexo.
 
 Cada habitación tiene baño privado y café y té, y las tarifas incluyen el desayuno. Los muros gruesos y los techos de vigas de madera son parte del carácter del lugar, junto con las vistas a las colinas de Umbría.
 

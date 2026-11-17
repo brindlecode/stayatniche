@@ -1,9 +1,9 @@
 ---
 source: treehotel-sweden
 destination: Harads, Laponie suédoise
-description: "Sept chambres dessinées par des architectes, suspendues dans les pins de la Laponie suédoise, chacune radicalement différente des autres : d'un cube parfaitement recouvert de miroirs qui se fond dans la forêt à un disque argenté au bout d'un pont de corde. À soixante kilomètres au sud du cercle polaire, l'un des lieux les plus inventifs où dormir en Europe."
+description: "Neuf cabanes distinctes dessinées par des architectes, suspendues dans les pins de la Laponie suédoise, chacune radicalement différente des autres : d'un cube parfaitement recouvert de miroirs qui se fond dans la forêt à un disque argenté au bout d'un pont de corde."
 highlights:
-  - Sept chambres uniques signées par des architectes
+  - Neuf chambres uniques signées par des architectes
   - Le Mirrored Cube, qui reflète la forêt
   - Aurores boréales en hiver
   - "Activités en pleine nature : chiens de traîneau, raquettes"
@@ -21,10 +21,11 @@ bestFor:
   - Passionnés de design
 seo:
   metaTitle: "Treehotel : cabanes d'architectes en Laponie | StayAtNiche"
-  metaDescription: "Treehotel, à Harads en Laponie suédoise : sept cabanes dans les arbres signées par des architectes, dont le célèbre cube miroir, et aurores boréales en hiver."
+  metaDescription: "Treehotel, à Harads en Laponie suédoise : neuf cabanes dans les arbres signées par des architectes, dont le célèbre cube miroir, et aurores boréales en hiver."
+niche_feature: "Neuf chambres dans les arbres, conçues par des designers et indépendantes (Mirrorcube, UFO, Bird's Nest, Cabin, 7th Room, etc.), au milieu des pins ; la Guesthouse, distincte (six chambres patrimoniales), n'est pas une cabane dans les arbres."
 ---
 
-On a confié à sept architectes un pin chacun, en leur demandant d'y construire une chambre. Le résultat, dressé dans la forêt de la vallée de la Lule, aux abords du village de Harads, à 60 kilomètres au sud du cercle polaire, compte parmi les chambres d'hôtel les plus photographiées au monde, et elles méritent cette attention.
+Les chambres du Treehotel sont chacune une création unique d'architectes ou d'équipes de designers différents. Elles se dressent dans la forêt de la vallée de la Lule, aux abords du village de Harads, situé à environ 50 kilomètres au sud du cercle polaire.
 
 Chaque chambre du Treehotel est une proposition architecturale à part entière :
 
@@ -34,6 +35,6 @@ Chaque chambre du Treehotel est une proposition architecturale à part entière�
 
 **L'UFO** est un disque argenté au bout d'un pont de corde : on l'atteint par une passerelle qui tangue et l'on y entre par une trappe. Il est petit, mais l'atmosphère de cet objet venu d'une autre époque, flottant dans les pins, est une récompense en soi.
 
-D'autres chambres — le 7th Room, la Cabin et le Dragon Fly — complètent la collection, chacune commandée à des designers différents.
+D'autres chambres — le 7th Room, la Cabin, la Dragonfly, la Biosphere, la Blue Cone et l'Oasis — complètent les neuf chambres du site officiel. La Guesthouse, bâtiment séparé, n'est pas une cabane dans les arbres.
 
 Le paysage de Laponie suédoise qui entoure l'hôtel change du tout au tout selon les saisons. L'été apporte le soleil de minuit et de longues soirées dorées sur la terrasse perchée. L'hiver offre la perspective d'aurores boréales visibles depuis le lit, et une forêt ensevelie sous la neige, que l'on parcourt en traîneau à chiens ou en raquettes. Les activités — de la pêche blanche sur la rivière aux safaris élans en passant par les balades cueillette — s'organisent depuis le bâtiment principal. Les repas sont servis dans le bâtiment Granön, au bord de la rivière en contrebas, dont la cuisine met à l'honneur les produits de Laponie.

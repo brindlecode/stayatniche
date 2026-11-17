@@ -1,19 +1,19 @@
 ---
 source: ms-fram-norway
 destination: "Svalbard e Artico norvegese"
-description: "La nave da spedizione rinforzata per i ghiacci di Hurtigruten, battezzata come la leggendaria nave polare di Nansen e Amundsen, porta gli Zodiac fino ai fronti dei ghiacciai e alle spiagge dei trichechi a 78° nord, con 16 guide specializzate a bordo e incontri con gli orsi polari che sono una probabilità concreta, non una promessa pubblicitaria."
+description: "La nave da spedizione polare di HX Expeditions, costruita appositamente per 200 ospiti e battezzata come la nave da esplorazione norvegese che andò alla deriva tra i ghiacci artici con Fridtjof Nansen, con Science Centre, due ristoranti e vasche idromassaggio all’aperto."
 highlights:
-  - "Porta il nome della leggendaria nave da esplorazione polare di Nansen e Amundsen"
-  - "Team di naturalisti, storici e guide polari esperte a ogni viaggio"
+  - "Porta il nome della leggendaria nave da esplorazione norvegese che andò alla deriva tra i ghiacci artici con Nansen"
+  - "Team di spedizione e un Science Centre a bordo con conferenze e microscopi"
   - "Zodiac e kayak per esplorare da vicino ghiacci e fauna"
-  - "Aurora boreale, orsi polari e ghiacciai che si sgretolano, visti dal ponte"
+  - "Due vasche idromassaggio all’aperto, sauna e palestra a bordo"
 amenities:
   - "Cabina o suite da spedizione con vista polare"
-  - "Diversi ristoranti e bar"
-  - "Centro scientifico e sala conferenze"
-  - "Team di spedizione con oltre 16 specialisti"
+  - "Due ristoranti (Aune e Lindstrøm) e l’Explorer Lounge & Bar"
+  - "Science Centre con conferenze e microscopi"
+  - "Team di spedizione che tiene conferenze a bordo"
   - "Gommoni Zodiac per gli sbarchi"
-  - "Ponte d'osservazione e vasca idromassaggio polare"
+  - "Due vasche idromassaggio all’aperto, sauna e palestra"
 bestFor:
   - "Viaggiatori da spedizione"
   - "Appassionati di fauna selvatica"
@@ -21,15 +21,15 @@ bestFor:
   - "Avventurieri"
 seo:
   metaTitle: "MS Fram: crociera di spedizione alle Svalbard | StayAtNiche"
-  metaDescription: "MS Fram di Hurtigruten: nave da spedizione rinforzata per i ghiacci alle Svalbard, con 16 esperti a bordo, Zodiac, trichechi e orsi polari a 78° nord."
+  metaDescription: "MS Fram di HX Expeditions: nave da spedizione costruita per i viaggi polari, 200 ospiti, Science Centre, due ristoranti, idromassaggi all’aperto e sauna."
 ---
 
-La Fram originale — la nave di Fridtjof Nansen, poi utilizzata da Roald Amundsen per la sua spedizione in Antartide — si spinse più a nord di qualsiasi nave nella storia documentata e più a sud di qualunque imbarcazione in legno prima e dopo di lei. Oggi riposa in un museo tutto suo a Oslo, conservata come monumento nazionale. La MS Fram di Hurtigruten, la moderna nave da spedizione che ne porta il nome, accompagna i viaggiatori nelle stesse acque artiche e antartiche con un impegno verso l'esplorazione vera che la maggior parte delle compagnie di crociera non può nemmeno avvicinare.
+La Fram originale — la nave di Fridtjof Nansen, poi utilizzata da Roald Amundsen per la sua spedizione in Antartide — si spinse più a nord di qualsiasi nave nella storia documentata e più a sud di qualunque imbarcazione in legno prima e dopo di lei. Oggi riposa in un museo tutto suo a Oslo, conservata come monumento nazionale. La MS Fram di HX Expeditions, la moderna nave da spedizione che ne porta il nome, è costruita appositamente per i viaggi polari.
 
-La nave è stata progettata per le condizioni polari a partire dalla chiglia. Lo scafo è rinforzato per la navigazione tra i ghiacci; la flotta di Zodiac raggiunge coste inaccessibili alle navi più grandi; il suo gruppo di sedici specialisti — biologi marini, glaciologi, ornitologi, storici, fotografi — porta una profondità intellettuale che trasforma il viaggio in qualcosa di molto più simile a un corso sul campo che a una crociera tradizionale. Le conferenze nella sala della nave si alternano alle uscite in Zodiac verso i fronti dei ghiacciai, gli habitat degli orsi polari, le spiagge dei trichechi e le scogliere assordanti di migliaia di gazze marine minori e pulcinelle di mare.
+Con spazio per 200 ospiti, la MS Fram prosegue lo spirito della leggendaria nave da esplorazione norvegese che un tempo andò alla deriva tra i ghiacci artici con Nansen. Al centro della nave c’è lo Science Centre, dove gli ospiti seguono conferenze, esaminano campioni con potenti microscopi e ascoltano gli interventi del team di spedizione.
 
-Le Svalbard, l'arcipelago norvegese a 78 gradi nord, sono la meta principale dell'estate. L'arcipelago ospita circa 3.000 orsi polari — più della popolazione umana di Longyearbyen — e gli incontri sono una probabilità reale inserita nell'itinerario della spedizione, non una promessa pubblicitaria con l'asterisco. Volpi artiche, renne delle Svalbard, beluga e le colonie di trichechi atlantici che a fine estate si radunano sulle spiagge più remote sono tra gli avvistamenti abituali che i naturalisti inseguono a ogni viaggio.
+Le Svalbard, l’arcipelago norvegese a 78 gradi nord, sono uno degli itinerari proposti da HX Expeditions, e la nave naviga anche verso altre destinazioni: verifica quindi l’itinerario del viaggio che prenoti.
 
-Stare a prua della MS Fram mentre avanza nel pack sotto il sole di mezzanotte — la luce radente e dorata, gli iceberg che sfumano dal turchese pallido al cobalto profondo — è un'esperienza precisa che la maggior parte dei viaggiatori descrive come diversa da qualsiasi altra abbiano mai vissuto. Qui l'isolamento è autentico. Non è la versione da parco a tema della natura selvaggia, con una rete di sicurezza appena dietro le quinte.
+La MS Fram è un viaggio in nave e non un soggiorno in un luogo fisso: tutte le cabine e le suite sono a bordo, ed è l’itinerario a stabilire dove ti svegli ogni mattina.
 
-Le cabine vanno dalle pratiche doppie da esploratore alle suite panoramiche, tutte pensate per le esigenze del viaggio polare: armadi solidi, materiali caldi e finestre abbastanza grandi da sfruttare davvero la luce artica. La sala da pranzo serve cucina norvegese a base di ingredienti artici — granchio reale, renna, salmerino alpino e dessert ai lamponi artici, tra le cose più puramente piacevoli che il paesaggio norvegese sappia offrire.
+Le sistemazioni vanno dalle cabine Polar Inside, Polar Outside e Arctic Superior alle Expedition Suite, alcune con balcone privato. Il ristorante Aune è la sala da pranzo principale, dove tutti i pasti sono inclusi; il ristorante Lindstrøm è un ristorante di specialità, incluso per gli ospiti delle suite e a pagamento per gli altri. A bordo ci sono inoltre due vasche idromassaggio all’aperto, una sauna sul ponte superiore, una palestra al ponte 7 e l’Explorer Lounge & Bar rivolto verso prua.

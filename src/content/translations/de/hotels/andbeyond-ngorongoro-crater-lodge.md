@@ -1,18 +1,17 @@
 ---
 source: andbeyond-ngorongoro-crater-lodge
 destination: "Ngorongoro-Schutzgebiet"
-description: "Am Rand der größten intakten Vulkancaldera der Welt thronend, ist die Ngorongoro Crater Lodge von &Beyond eines der außergewöhnlichsten und theatralischsten Hotelerlebnisse Afrikas – eine barocke Fantasie aus Massai-Architektur, europäischer Opulenz und grandioser Natur, 2.200 Meter hoch über einem Kraterboden mit der höchsten Dichte an Großsäugern der Erde."
+description: "Am Rand der größten intakten Vulkancaldera der Welt thronend, ist die Ngorongoro Crater Lodge von &Beyond eines der außergewöhnlichsten und theatralischsten Hotelerlebnisse Afrikas, 2.200 Meter hoch über einem Kraterboden mit der höchsten Dichte an Großsäugern der Erde."
 highlights:
   - "Lage direkt am Kraterrand über der größten Vulkancaldera der Welt"
   - "Der Ngorongoro-Krater hat die höchste Dichte an Großsäugern der Erde"
   - "Alle Big Five leben das ganze Jahr über im Krater, darunter eine der letzten Spitzmaulnashorn-Populationen Afrikas"
-  - "Theatralisches, außergewöhnliches Lodge-Design mit Perlenvorhängen, vergoldeten Spiegeln und Butlerservice"
+  - "Theatralisches, außergewöhnliches Lodge-Design und Butlerservice"
   - "Täglich Fahrten hinab zum Kraterboden, zu über 25.000 dort lebenden Tieren"
   - "Der Blick aus den Suiten am Kraterrand gehört zu den dramatischsten des Kontinents"
 amenities:
-  - "25 einzelne Bandas am Kraterrand"
+  - "Einzelne Suiten am Kraterrand"
   - "Persönlicher Butler für jede Suite"
-  - "Kamin im Zimmer für kalte Hochlandabende"
   - "Individuelle Pirschfahrten auf dem Kraterboden"
   - "Vollpension mit hervorragendem Weinservice"
   - "Waldspaziergänge am Kraterrand"
@@ -49,11 +48,13 @@ nearbyAttractions:
 seo:
   metaTitle: "Ngorongoro Crater Lodge: Safari in Tansania | StayAtNiche"
   metaDescription: "&Beyonds theatralische Lodge am Rand der größten Vulkancaldera der Welt: Big Five ganzjährig, Butlerservice und Panoramablick. Ab 1.400 $ pro Nacht."
+closure:
+  note: "Die Lodge ist wegen eines umfassenden Neubaus geschlossen. Laut ihrer Website soll sie im Dezember 2027 wieder öffnen."
 ---
 
 Der Ngorongoro-Krater ist eine 20 Kilometer breite und 600 Meter tiefe Vulkancaldera, deren Wände seit Jahrtausenden 25.000 Großsäuger dauerhaft beherbergen. Auf dem Kraterboden lebt die höchste Löwendichte Afrikas und eine der letzten überlebensfähigen Spitzmaulnashorn-Populationen des Kontinents. An einem kalten Hochlandmorgen über die Kraterrandstraße in den Nebel hinabzufahren, während der Kraterboden unter Ihnen durch die Wolken auftaucht, ist ein Anblick, der nichts von seiner Kraft verliert, egal wie oft Sie die Fotos schon gesehen haben.
 
-Die Lodge von &Beyond am Südrand versucht gar nicht erst, zurückhaltend zu sein. Die Ngorongoro Crater Lodge ist bewusste Extravaganz: 25 einzelne Bandas an der Calderawand, deren Design auf Bautraditionen der Massai zurückgreift und zugleich Perlenvorhänge, vergoldete Spiegel, geschnitzte Holzböden und Kamine gegen die Kälte des Hochlands vereint. Das polarisiert. Manche Gäste finden es übertrieben; andere finden, dass nichts Geringeres der Dramatik des Blicks aus den großen Panoramafenstern gerecht würde. Im Morgengrauen in Ihrer Suite zu stehen, während sich der Nebel vom Kraterboden hebt und die Landschaft mit ihren Tieren 600 Meter tiefer freigibt, ist wirklich mit nichts zu vergleichen, was man aus einem anderen Hotelzimmer irgendwo sehen kann.
+Die Lodge von &Beyond am Südrand versucht gar nicht erst, zurückhaltend zu sein. Die Ngorongoro Crater Lodge ist bewusste Extravaganz: einzelne Suiten an der Calderawand, deren Design auf Bautraditionen der Massai zurückgreift. Das polarisiert. Manche Gäste finden es übertrieben; andere finden, dass nichts Geringeres der Dramatik des Blicks aus den großen Panoramafenstern gerecht würde. Im Morgengrauen in Ihrer Suite zu stehen, während sich der Nebel vom Kraterboden hebt und die Landschaft mit ihren Tieren 600 Meter tiefer freigibt, ist wirklich mit nichts zu vergleichen, was man aus einem anderen Hotelzimmer irgendwo sehen kann.
 
 Die Tierbeobachtung ist das Hauptargument des Kraters, und zwar ein starkes. Alle Big Five sind jeden Tag auf dem Kraterboden anzutreffen. Die Liste der Big Five, für die man anderswo in Afrika tagelang suchen und viel Glück haben muss, lässt sich hier an einem einzigen Vormittag abhaken. Sichtungen von Spitzmaulnashörnern – ausgiebige, ruhige Blicke auf eines der am stärksten bedrohten Tiere Afrikas – sind Routine. Die Löwenrudel auf den offenen Kurzgrasebenen werden seit Jahrzehnten ununterbrochen erforscht und sind gut zu sehen.
 

@@ -1,12 +1,12 @@
 ---
 source: gamirasu-cave-turkey
 destination: "Ayvalı, Kappadokien"
-description: "Das Gamirasu belegt ein echtes byzantinisches Felsenkloster aus dem 6. Jahrhundert im ruhigeren Tal von Ayvalı, dreißig Minuten von Göreme entfernt; die Zimmer tragen noch die gehauenen Nischen und gewölbten Proportionen ihrer ursprünglichen Gestaltung. Ballonstarts auf den Feldern direkt unterhalb des Hotels, ein Weinkeller voller kappadokischer Flaschen von vulkanischen Böden und ein türkisches Frühstück auf der Terrasse, während das Morgenlicht über die Feenkamine wandert, runden einen Aufenthalt ab, der sich wie eine Entdeckung anfühlt statt wie eine Pauschalreise."
+description: "Das Gamirasu liegt in einem restaurierten byzantinischen Klosterrefugium im Dorf Ayvalı bei Ürgüp, mit 35 individuell gestalteten Höhlenzimmern und Suiten, die der Form der ursprünglichen Höhlen oder Steinbauten folgen. Ein Weinkeller voller kappadokischer Flaschen von vulkanischen Böden und ein türkisches Frühstück auf der Terrasse, während das Morgenlicht über die Feenkamine wandert, runden einen Aufenthalt ab, der sich wie eine Entdeckung anfühlt statt wie eine Pauschalreise."
 highlights:
-  - "Zimmer in einem echten byzantinischen Felsenkloster (6. Jahrhundert n. Chr.)"
+  - "Höhlenzimmer und Suiten in einem restaurierten byzantinischen Klosterrefugium"
   - "Ruhigeres Tal von Ayvalı mit weit weniger Besuchern als Göreme oder Uçhisar"
-  - "In einigen Zimmernischen sind originale byzantinische Fresken zu sehen"
-  - "Heißluftballons starten direkt vor dem Haus"
+  - "Erhaltene orthodoxe Kirche aus dem 11. Jahrhundert auf dem Gelände, laut Hotel"
+  - "Ballonfahrten gehören zu den Ausflügen, die das Hotel anbietet"
   - "Weinkeller mit den hervorragenden Weinen Kappadokiens von vulkanischen Böden"
 amenities:
   - "Höhlenzimmer mit originalen, aus dem Tuff gehauenen Wänden"
@@ -24,9 +24,8 @@ bestFor:
   - "Reisende, die die echte Türkei abseits von Reisegruppen suchen"
 prosAndCons:
   pros:
-    - "Außergewöhnliche historische Authentizität – über 1.000 Jahre lang ein aktives Kloster"
+    - "Außergewöhnliche historische Authentizität in einem restaurierten byzantinischen Klosterrefugium"
     - "Deutlich ruhiger als die berühmteren Höhlenhotel-Hochburgen Kappadokiens"
-    - "Die Ballonstarts direkt am Haus sorgen für magische Morgen"
     - "Das türkische Frühstück gehört zu den besten der Region"
     - "Wirklich persönlicher Service durch die Familie, die das Haus seit Jahrzehnten führt"
   cons:
@@ -48,22 +47,22 @@ nearbyAttractions:
     distance: "22 km"
 seo:
   metaTitle: "Gamirasu: Höhlenhotel in Kappadokien | StayAtNiche"
-  metaDescription: "Übernachten im byzantinischen Kloster aus dem 6. Jahrhundert im stillen Tal von Ayvalı: Gamirasu bietet Ballonblick, Fresken und türkische Gastfreundschaft."
+  metaDescription: "Übernachten in einem restaurierten byzantinischen Klosterrefugium im Dorf Ayvalı bei Ürgüp: Das Gamirasu hat 35 individuell gestaltete Höhlenzimmer und Suiten."
 ---
 
 Kappadokien ist zu einem der meistbesuchten Reiseziele der Türkei geworden, und das zu Recht: Die Landschaft aus vulkanischem Tuff, Feenkaminen und in den Fels gehauenen Tälern gehört zu den eindrucksvollsten der Erde. Doch die Beliebtheit von Göreme und Uçhisar führt dazu, dass sich das Höhlenhotel-Erlebnis in der Hochsaison anfühlen kann, als teile man etwas Privates mit einer sehr großen Menge. Das Gamirasu bietet etwas völlig anderes.
 
-Im Tal von Ayvalı gelegen – einer ruhigeren Falte der kappadokischen Landschaft, etwa dreißig Minuten von Göreme entfernt –, belegt das Gamirasu einen echten byzantinischen Felsenklosterkomplex. Die Mönche, die diese Räume aus dem weichen Vulkantuff schlugen, begannen ihre Arbeit im 6. Jahrhundert n. Chr., und der Ort blieb über tausend Jahre lang eine lebendige religiöse Gemeinschaft. Die gehauenen Nischen, die Gewölbedecken, die Proportionen der Räume – all das ist das Werk byzantinischen Gestaltungssinns und nicht die Interpretation eines modernen Architekten.
+Im Dorf Ayvalı bei Ürgüp gelegen – einer ruhigeren Falte der kappadokischen Landschaft – belegt das Gamirasu ein restauriertes byzantinisches Klosterrefugium. Laut der Website des Hotels war das Anwesen einst Teil eines vom byzantinischen Zeitalter geprägten Klosterlebens und bewahrt eine orthodoxe Kirche aus dem 11. Jahrhundert sowie die ehemalige Klosterküche. Jedes Zimmer folgt der natürlichen Form der ursprünglichen Höhle oder des Steinbaus.
 
 **Die Zimmer**
 
-Wer ein Zimmer im Gamirasu betritt, betritt etwas wirklich Altes. Die Wände bestehen aus hellem Tuffstein, kühl und leicht rau unter der Hand. Nischen – ursprünglich für Öllampen und Ikonen gedacht – gliedern die Wände, manche tragen noch schwache Spuren der Fresken, die einst das gesamte Kloster bedeckten. Die Schichten der Zeit sind greifbar: byzantinisches Mauerwerk, osmanische Umbauten, die an manchen Bögen sichtbar sind, und dazwischen, behutsam eingefädelt, die diskreten modernen Wasser- und Stromleitungen.
+Wer ein Zimmer im Gamirasu betritt, betritt etwas wirklich Altes. Die Wände bestehen aus hellem Tuffstein, kühl und leicht rau unter der Hand. Die Schichten der Zeit sind greifbar: byzantinisches Mauerwerk, osmanische Umbauten, die an manchen Bögen sichtbar sind, und dazwischen, behutsam eingefädelt, die diskreten modernen Wasser- und Stromleitungen.
 
 Die Betten sind bequem und mit guter Wäsche bezogen. Die Bäder greifen Elemente des traditionellen türkischen Hamams auf: warme Steinflächen, guter Wasserdruck und das besondere Wohlgefühl einer Dampfdusche nach einer morgendlichen Ballonfahrt. Die Zimmer unterscheiden sich in Größe und Charakter erheblich, daher lohnt es sich, vor der Buchung mit dem Hotel abzustimmen, welches Ihren Vorlieben entspricht.
 
 **Heißluftballons**
 
-Durch seine Lage im Tal von Ayvalı befinden sich die Gäste des Gamirasu mitten im Fahrgebiet der Ballons. An den meisten Morgen zwischen April und November steigen bei Tagesanbruch Dutzende Ballons aus der umliegenden Landschaft auf, von der Hotelterrasse aus als ganze bunte Flotte zu sehen. Das Hotel vermittelt Fahrten bei örtlichen Anbietern, und der Start auf den Feldern direkt unterhalb des Hauses ist der filmreifste Beginn eines Morgens, den Kappadokien zu bieten hat.
+Die Website des Hotels führt Ballonfahrten unter den Ausflügen auf, die mit dem Gamirasu angeboten werden, neben Reit-, Quad- und Wandertouren. Fragen Sie bei der Buchung nach Fahrten und nach dem Startort.
 
 **Essen und Trinken**
 

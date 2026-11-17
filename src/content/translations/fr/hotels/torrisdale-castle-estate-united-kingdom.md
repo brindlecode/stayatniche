@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Torrisdale Castle : château en Écosse | StayAtNiche"
   metaDescription: "Torrisdale Castle à Kintyre : appartement en location dans le château de 1815, deux cottages, deux éco-bothies et distillerie près de la baie de Torrisdale."
+niche_feature: "Seul The Servants' Quarters (6 couchages, trois chambres) se trouve dans le château néogothique de 1815 ; les deux cottages et les deux éco-bothies, ailleurs sur le domaine, ne sont pas dans le château."
 ---
 
 Torrisdale Castle Estate est un petit domaine familial de la péninsule de Kintyre, dans l'Argyll. Le château a été commencé en 1815 par le général Keith Macalister, qui fit appel à James Gillespie Graham, l'un des grands architectes du style gothique écossais. Il fut bâti en grès de Wigtownshire, porté à trois niveaux, puis agrandi au nord et au sud en 1903 et 1908 pour prendre sa forme actuelle.

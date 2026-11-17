@@ -16,7 +16,7 @@ amenities:
   - "Air-conditioned bedrooms"
   - "Kitchenette and barbecue at each unit"
   - "Private parking"
-  - "Wi-Fi at the bar and pool area"
+  - "Free Wi-Fi at the main building"
 bestFor:
   - "Self-catering groups"
   - "Sossusvlei day trips"
@@ -55,7 +55,7 @@ There are 28 individual self-catering units, designed to blend in with the lands
 
 ## The setting
 
-The camp is nestled under camel thorn trees that the camp describes as centuries old, with views over the desert landscape and the surrounding mountains. The main building has a fully stocked bar with a big-screen television and a swimming pool, and two communal bomas give groups a place to gather in the evening. Wi-Fi is available at the bar and pool area, but not in the units.
+The camp is nestled under camel thorn trees that the camp describes as centuries old, with views over the desert landscape and the surrounding mountains. The main building has a fully stocked bar with a big-screen television and a swimming pool, and two communal bomas give groups a place to gather in the evening. Free Wi-Fi is available at the main building.
 
 ## Practical notes
 

@@ -10,6 +10,7 @@ import { parse } from 'yaml';
 import { NICHE_SCOPES, SCORE_CAP } from '../src/lib/niche.mjs';
 
 const DRY = process.argv.includes('--dry');
+const ONLY = (process.argv.find(a => a.startsWith('--only=')) ?? '').slice(7).split(',').filter(Boolean);
 const AUDIT_DAY = '2026-11-17';
 const CATEGORIES = readdirSync('src/content/categories').map(f => f.replace(/\.md$/, ''));
 
@@ -37,6 +38,7 @@ for (const f of readdirSync('data/audit-niche').filter(f => /^batch-\d+\.json$/.
 const out = { applied: 0, moved: [], drafted: [], capped: [], noRecord: [], issues: [] };
 for (const file of readdirSync('src/content/hotels').filter(f => f.endsWith('.md'))) {
   const slug = file.replace(/\.md$/, '');
+  if (ONLY.length && !ONLY.includes(slug)) continue;
   const path = `src/content/hotels/${file}`;
   let t = readFileSync(path, 'utf8');
   const d = fm(t);

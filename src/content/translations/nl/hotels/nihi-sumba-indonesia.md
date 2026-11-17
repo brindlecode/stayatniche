@@ -1,12 +1,12 @@
 ---
 source: nihi-sumba-indonesia
 destination: "Sumba, Oost-Nusa Tenggara, Indonesië"
-description: "Landgoed met achtentwintig villa's aan de wilde zuidwestkust van Sumba, met een eigen surfspot, paardrijden op verlaten stranden en een liefdadigheidsstichting die van natuurbescherming en gemeenschapswerk een voorwaarde maakt om het eiland te leren kennen."
+description: "Landgoed met 31 villa's en landgoederen aan de wilde zuidwestkust van Sumba, met een eigen surfspot, paardrijden op verlaten stranden en een liefdadigheidsstichting die van natuurbescherming en gemeenschapswerk een voorwaarde maakt om het eiland te leren kennen."
 highlights:
-  - "Eigen toegang tot Occy's Left, een wereldberoemde surfspot, voor maximaal tien surfers tegelijk"
+  - "Eigen toegang tot Occy's Left, een wereldberoemde surfspot, beperkt tot 15 geregistreerde surfers per dag"
   - "Paardrijden op lege stranden langs de zuidwestkust van Sumba"
   - "De Nihiwatu Foundation financiert malariabestrijding en de bouw van scholen op heel Sumba"
-  - "Achtentwintig villa's op een eigen kustlandgoed van 567 acres"
+  - "31 villa's en landgoederen aan de zuidwestkust van Sumba"
   - "Afgelegen eiland, Sumba kent geen massatoerisme"
   - "Spa Safari-wellnessprogramma met meerdaagse behandelingen"
 amenities:
@@ -24,13 +24,13 @@ bestFor:
   - "Stellen die volledige afzondering zoeken"
 prosAndCons:
   pros:
-    - "Occy's Left met maximaal tien surfers is een zeldzame kans op surfen zonder drukte in Indonesië"
+    - "Occy's Left, beperkt tot 15 geregistreerde surfers per dag, is een zeldzame kans op surfen zonder drukte in Indonesië"
     - "Sumba is cultureel en landschappelijk totaal anders dan de rest van Indonesië"
     - "De Nihiwatu Foundation geeft het verblijf echte ethische inhoud"
     - "Paardrijden op lege stranden is precies wat het belooft: uitzonderlijk"
   cons:
     - "Naar Sumba vlieg je via Bali of Lombok, wat de reistijd flink verlengt"
-    - "Een van de duurste accommodaties van Indonesië"
+    - "Hoge prijzen per nacht"
     - "Door de afgelegen ligging is er buiten het resort weinig te doen"
     - "Surftoegang komt bovenop het toch al hoge kamertarief"
 seasonalInfo:
@@ -48,12 +48,14 @@ nearbyAttractions:
     distance: 45 km
 seo:
   metaTitle: "Nihi Sumba: luxeresort en surfen op Sumba | StayAtNiche"
-  metaDescription: "Nihi Sumba in Indonesië: 28 villa's op een eigen landgoed aan zee, exclusief surfen op Occy's Left en paardrijden op lege stranden. Vanaf $ 1.200 per nacht."
+  metaDescription: "Nihi Sumba in Indonesië: 31 villa's en landgoederen, surfen op Occy's Left beperkt tot 15 surfers per dag en paardrijden op het strand. Vanaf $ 1.200."
+niche_badge: "Slechts één villa"
+niche_feature: "Slechts één van de 31 villa's en estates komt in aanmerking: de Treehouse met drie slaapkamers, gebouwd tussen de bomen aan de rand van een oud bos, met ronde glazen slaapkamers boven de grond die door verhoogde loopbruggen met elkaar verbonden zijn. De andere villa's liggen aan het strand of op een helling en zijn geen boomhutten."
 ---
 
-Sumba is Bali niet. Het eiland ligt 350 kilometer naar het oosten in de keten van de Kleine Soenda-eilanden, en bijna niets eraan lijkt op de vorm van Indonesisch toerisme die Bali wereldwijd bekend heeft gemaakt. Het landschap bestaat hier uit droge savanne, dorpen waar ikat wordt geweven en megalithische stenen graven, met een zuidwestkust die de Indische Oceaan ongehinderd heeft gevormd, al lang voordat iemand golven begon te meten. Nihi Sumba beslaat 567 acres van die kust, en dat de lezers van Travel + Leisure het meerdere jaren op rij tot beste hotel ter wereld kozen, zegt iets over wat een bepaald soort reiziger het meest waardeert.
+Sumba is Bali niet. Het eiland ligt 350 kilometer naar het oosten in de keten van de Kleine Soenda-eilanden, en bijna niets eraan lijkt op de vorm van Indonesisch toerisme die Bali wereldwijd bekend heeft gemaakt. Het landschap bestaat hier uit droge savanne, dorpen waar ikat wordt geweven en megalithische stenen graven, met een zuidwestkust die de Indische Oceaan ongehinderd heeft gevormd, al lang voordat iemand golven begon te meten. Nihi Sumba ligt aan die kust, in Wanokaka in het regentschap West-Sumba.
 
-De surfspot Occy's Left, genoemd naar de Australische wereldkampioen Mark Occhilupo die hier in de jaren tachtig surfte, breekt recht voor het resort. Een linkse barrel over een rifpas, op zijn best bij vier tot zes voet in het droge seizoen, als de deiningstreinen van de Indische Oceaan uit het verre zuiden binnenrollen. Nihi beheert de toegang tot de golf als faciliteit van het resort: maximaal tien surfers tegelijk in het water, met voorrang voor gasten en plekken die je per dag bijboekt. Voor een golf van deze kwaliteit, in een tijd waarin elke bekende surfspot in Indonesië ongeacht de omstandigheden vol ligt, rechtvaardigt die toegang alleen al flink wat planning.
+De surfspot Occy's Left, genoemd naar de Australische wereldkampioen Mark Occhilupo die hier in de jaren tachtig surfte, breekt recht voor het resort. Een linkse barrel over een rifpas, op zijn best bij vier tot zes voet in het droge seizoen, als de deiningstreinen van de Indische Oceaan uit het verre zuiden binnenrollen. Nihi beheert de toegang tot de golf als faciliteit van het resort: de golf is beperkt tot 15 geregistreerde surfers per dag, met voorrang voor gasten en plekken die je per dag bijboekt. Voor een golf van deze kwaliteit, in een tijd waarin elke bekende surfspot in Indonesië ongeacht de omstandigheden vol ligt, rechtvaardigt die toegang alleen al flink wat planning.
 
 Naast het surfen is Sumba zelf de trekpleister. De inheemse cultuur van het eiland, met animistische tradities, ikatstoffen die maandenlang met de hand worden geweven en dorpen rond gemeenschappelijke megalithische graven, is grotendeels intact gebleven op een manier die op Bali allang door het toerisme is gekleurd. De Nihiwatu Foundation, opgericht door James en Petra McBride, heeft in het omliggende district malariabestrijding, de bouw van scholen en schoonwatervoorzieningen gefinancierd. Gasten kunnen de stichting bezoeken, waar deze projecten te zien zijn en worden toegelicht: niet als marketingoefening, maar als lopende programma's met meetbare resultaten op het gebied van gezondheid en onderwijs.
 

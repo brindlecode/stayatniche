@@ -1,9 +1,9 @@
 ---
 source: barcaldine-castle-united-kingdom
 destination: "Benderloch, vicino a Oban, Argyll and Bute, Scozia"
-description: "Una torre residenziale costruita tra il 1601 e il 1609 sulla riva del Loch Creran, a nord di Oban, oggi una bed and breakfast che può essere affittata anche in esclusiva."
+description: "Una torre residenziale dell'inizio del Seicento, completata nel 1609, sulla riva del Loch Creran, a nord di Oban, oggi una bed and breakfast che può essere affittata anche in esclusiva."
 highlights:
-  - "Il «Castello Nero», costruito tra il 1601 e il 1609 da Sir Duncan Campbell of Glenorchy"
+  - "Il «Castello Nero», costruito da Sir Duncan Campbell of Glenorchy e completato nel 1609"
   - "Mura spesse circa nove piedi, due scale segrete e una prigione sotterranea"
   - "La yett originale in ferro, una grata di protezione, custodisce ancora l'ingresso"
   - "Sulla sponda meridionale del Loch Creran, con vista sulle montagne di Glencoe"
@@ -19,14 +19,14 @@ bestFor:
   - "Piccoli matrimoni e riunioni private"
 seo:
   metaTitle: "Barcaldine Castle: dormire in un castello | StayAtNiche"
-  metaDescription: "Barcaldine Castle a Benderloch, vicino a Oban: bed and breakfast o l'intero castello in affitto esclusivo. Torre costruita tra il 1601 e il 1609."
+  metaDescription: "Barcaldine Castle a Benderloch, vicino a Oban: bed and breakfast o l'intero castello in affitto esclusivo. Torre completata nel 1609, con matrimoni nel salone."
 ---
 
 Barcaldine Castle è una piccola torre scozzese dove si può dormire. Sorge sulla sponda meridionale del Loch Creran, a nove miglia a nord di Oban, e funziona come bed and breakfast anziché come hotel: una camera e la colazione in un edificio di quattro secoli.
 
 ## Il castello
 
-Sir Duncan Campbell of Glenorchy, noto come Black Duncan, fece costruire il castello tra il 1601 e il 1609 come avamposto militare, e ancora oggi è chiamato il Castello Nero. Segue la pianta a L tipica delle torri dell'epoca. I muri sono spessi circa nove piedi e costruiti in pietra locale. Il castello conserva due scale segrete, una prigione sotterranea e la yett originale, il cancello di ferro che proteggeva la porta.
+Sir Duncan Campbell of Glenorchy, noto come Black Duncan, fece costruire il castello come avamposto militare e lo completò nel 1609 (le pagine del castello indicano come inizio dei lavori il 1590 in una e il 1601 in un'altra), e ancora oggi è chiamato il Castello Nero. Segue la pianta a L tipica delle torri dell'epoca. I muri sono spessi circa nove piedi e costruiti in pietra locale. Il castello conserva due scale segrete, una prigione sotterranea e la yett originale, il cancello di ferro che proteggeva la porta.
 
 I Campbell di Barcaldine lasciarono il castello nel 1735 per una nuova residenza nel villaggio, e la struttura cadde in rovina finché Sir Duncan Campbell non la restaurò tra il 1897 e il 1906. La muratura esterna è originale; le torrette e gli interni, dalla grande sala in su, risalgono al restauro. La famiglia vendette il castello nel 2009 all'attuale proprietario.
 

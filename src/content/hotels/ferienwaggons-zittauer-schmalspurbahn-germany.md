@@ -9,7 +9,7 @@ highlights:
   - "Converted railway carriages let as holiday apartments"
   - "Located at stations of the Zittau narrow-gauge steam railway"
   - "Terrace in a prime spot to watch the trains"
-  - "Carriages at Kurort Jonsdorf and Kurort Oybin"
+  - "Carriages at Kurort Jonsdorf (Easter to July) and Kurort Oybin (August to October)"
 amenities:
   - "Kitchen with cooker, fridge, coffee machine and microwave"
   - "Private bathroom with WC and shower"
@@ -42,7 +42,7 @@ niche_source_url: "https://www.zittauer-schmalspurbahn.de/bahn-region/uebernacht
 niche_verified_at: 2026-11-17
 ---
 
-The Ferienwaggons are converted railway carriages that the Zittauer Schmalspurbahn rents out as holiday apartments. They stand at stations of the narrow-gauge steam railway in the Zittau Mountains in Saxony, in the Kurort Jonsdorf and Kurort Oybin stations, so the trains are part of the view.
+The Ferienwaggons are converted railway carriages that the Zittauer Schmalspurbahn rents out as holiday apartments. They stand at stations of the narrow-gauge steam railway in the Zittau Mountains in Saxony, at Kurort Jonsdorf station (Easter to July) and Kurort Oybin station (August to October), so the trains are part of the view.
 
 ## The carriages
 
@@ -54,8 +54,8 @@ The railway also lets a guesthouse, Pension Zum Bahnel, in the station building 
 
 ## Season and perks
 
-The Jonsdorf carriage is listed from Easter to July. A booking of five nights includes a free weekly ticket for the Zittauer Schmalspurbahn for one person per stay.
+The carriages stand at Jonsdorf station from Easter to July and at Oybin station from August to October. A booking of five nights includes a free weekly ticket for the Zittauer Schmalspurbahn for one person per stay.
 
 ## Practical notes
 
-The stay suits anyone who wants to watch steam trains from the doorstep. Ask the railway which carriage is available on your dates and which station it stands at, since Jonsdorf and Oybin both have carriages. The railway runs steam trains through the Zittau Mountains, so a stay can be paired with a ride on the line.
+The stay suits anyone who wants to watch steam trains from the doorstep. Ask the railway which carriage is available on your dates, as the station depends on the season. The railway runs steam trains through the Zittau Mountains, so a stay can be paired with a ride on the line.

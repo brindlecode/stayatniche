@@ -6,7 +6,7 @@ highlights:
   - "Normannische Burg, begonnen zwischen 1075 und 1129, als Grade I denkmalgeschützt"
   - "Einst Jagdhaus von König Johann"
   - "Seit 1948 Jugendherberge, in einem Gebäude im Besitz von English Heritage"
-  - "Acht Schlafräume für bis zu 50 Personen, zwei davon im Ostturm"
+  - "Acht Schlafräume für insgesamt etwa 64 Personen, drei davon im Ostturm"
   - "Betten in Gemeinschaftsräumen, Privatzimmern oder die ganze Burg"
 amenities:
   - "Selbstversorgerküche"
@@ -34,7 +34,7 @@ St Briavels entstand zwischen 1075 und 1129 als königlicher Verwaltungssitz fü
 
 ## Wo man schläft
 
-Es gibt acht Schlafräume für insgesamt bis zu 50 Personen, meist mit Etagenbetten, dazu einige Einzelbetten und Doppelbetten unter hochgelegten Schlafbetten (high sleepers). Die Räume bieten Platz für drei bis zwölf Personen. Zwei davon liegen im Ostturm. Man kann ein Bett in einem Gemeinschaftsraum buchen, ein Privatzimmer oder die ganze Herberge für eine Gruppe. Bettwäsche wird gestellt; Handtücher nicht, können aber gemietet werden.
+Es gibt acht Schlafräume für insgesamt etwa 64 Personen, meist mit Etagenbetten, dazu einige Einzelbetten und Doppelbetten unter hochgelegten Schlafbetten (high sleepers). Die Räume bieten Platz für 5 bis 14 Personen. Drei davon liegen im Ostturm und bieten Platz für 6, 8 und 10 Personen. Man kann ein Bett in einem Gemeinschaftsraum buchen, ein Privatzimmer oder die ganze Herberge für eine Gruppe. Bettwäsche wird gestellt; Handtücher nicht, können aber gemietet werden.
 
 ## Gemeinschaftsräume
 

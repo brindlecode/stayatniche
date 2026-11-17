@@ -10,7 +10,7 @@ highlights:
   - "Visites et dégustations dans des distilleries de whisky sur certains itinéraires"
   - "Une table des Highlands somptueuse : gibier, fruits de mer et garde-manger écossais"
 amenities:
-  - "State Cabins et Cabin Suites avec salle de bains privative dans certaines voitures"
+  - "18 cabines-couchettes (Grand Suites, Suites, cabines doubles et cabines twin) ; Grand Suites, cabines doubles et twin avec salle de bains privative"
   - "Voiture panoramique avec plateforme arrière ouverte"
   - "Dîners de plusieurs plats, entre haute cuisine écossaise et française"
   - "Pension complète avec single malts écossais et grands vins"
@@ -55,8 +55,8 @@ La West Highland Line est considérée, par la presse ferroviaire et par beaucou
 
 Le train de Belmond accueille au maximum 36 passagers dans des voitures au caractère soigneusement restauré : tissus en tartan des Highlands, boiseries vernies, ferrures en laiton et lampes de table diffusant une chaleur typiquement écossaise. À cette échelle, la vie à bord ressemble à une réception dans une maison de campagne. Les conversations naissent naturellement entre des inconnus réunis par le mouvement et les paysages partagés. À l'arrière, la voiture panoramique s'ouvre sur une plateforme où l'on se tient dans l'air des Highlands, tandis que la surface des lochs capte la lumière de l'après-midi et que les cerfs élaphes observent depuis les collines.
 
-Les State Cabins, à un lit ou à lits jumeaux, disposent d'une salle de bains privative : épaisses couvertures, liseuses bien placées, rangements pensés pour le voyage. C'est petit, mais parfaitement adapté.
+Il y a 18 cabines, chacune pour deux voyageurs : Grand Suites, Suites (introduites à partir d'avril 2027), cabines doubles et cabines twin. Les Grand Suites, les cabines doubles et les cabines twin disposent d'une salle de bains privative. C'est petit, mais parfaitement adapté.
 
 Les repas sont formels mais détendus, comme seule l'Écosse sait l'être : nappes blanches et cristal, fenêtres ouvrant sur un glen des Highlands noyé dans la brume matinale au petit-déjeuner et sur un loch virant au violet dans le long crépuscule nordique au dîner. La cuisine fait appel au cerf, au grouse, à l'agneau des Highlands, au homard et au saumon de la côte ouest : l'exceptionnel garde-manger écossais, travaillé en toute simplicité. Et sur un train qui passe à proximité de certaines des distilleries les plus prestigieuses du monde, le whisky est servi avec un réel enthousiasme.
 
-Les excursions hors du train comprennent des visites de distilleries, des balades sur des domaines des Highlands, des visites de châteaux et des sorties en bateau sur les lochs. Le Grand Tour de quatre nuits est la version qui déploie pleinement tout le potentiel du train. Réservez douze mois à l'avance pour les départs au cœur de l'été.
+Les excursions hors du train comprennent des visites de distilleries, des balades sur des domaines des Highlands, des visites de châteaux et des sorties en bateau sur les lochs. Le Grand Tour of Scotland de sept nuits est la version qui déploie pleinement tout le potentiel du train. Réservez douze mois à l'avance pour les départs au cœur de l'été.

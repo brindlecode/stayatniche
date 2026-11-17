@@ -42,6 +42,7 @@ niche_scope: entire_property
 niche_feature: "Whole building is a 1892 Victorian gothic castle-shaped family house (not medieval); 11 en-suite rooms including Premium, Four Poster and Standard Turret rooms plus two hillside rooms."
 niche_source_url: "https://www.tyrgraig-castle.co.uk/history"
 niche_verified_at: 2026-11-17
+niche_note: "Ty’r Graig is not a medieval castle: it is a Victorian Gothic house built in 1892 in the shape of a castle, with turret rooms."
 ---
 
 Ty'r Graig means House on the Rock, and the name suits the building. It stands about 200 feet above the Welsh seaside town of Barmouth, looking over Cardigan Bay towards the Llyn peninsula and Bardsey Island. Today it takes guests as a castle hotel, and its 11 en-suite rooms have views of the surrounding area.
@@ -52,7 +53,7 @@ The building was completed in 1892 as a family home for WW Greener, the famous B
 
 ## The interiors
 
-Built in the late 1890s, it still keeps the elegance of the Victorian era, with stained glass windows, wood panelling and highly decorated floors and ceilings. Hearths burn freshly felled timber, and the building adds modern comforts. Each of the 11 rooms is individually decorated and comes with tea and coffee facilities, a hairdryer, an LCD TV with Freeview and a DVD player.
+It still keeps the elegance of the Victorian era, with stained glass windows, wood panelling and highly decorated floors and ceilings. Hearths burn freshly felled timber, and the building adds modern comforts. Each of the 11 rooms is individually decorated and comes with tea and coffee facilities, a hairdryer, an LCD TV with Freeview and a DVD player. The room types include Premium Turret, Four Poster Turret and Standard Turret rooms, plus two Large Double hillside rooms.
 
 ## Setting
 

@@ -1,15 +1,15 @@
 ---
 source: conrad-maldives-muraka
 destination: "Isla de Rangali"
-description: "La única suite de hotel submarina de dos plantas del mundo: The Muraka, en el Conrad Maldives Rangali Island, sitúa su dormitorio y su baño a 5 metros bajo el océano Índico. Paneles de acrílico curvo por todos lados ofrecen desde la cama vistas de 180 grados a un arrecife de coral vivo, con tiburones de arrecife, rayas y peces pasando mientras te duermes."
+description: "The Muraka, en el Conrad Maldives Rangali Island, es una residencia de dos plantas cuyo dormitorio principal es submarino, a más de 16 pies (unos 5 metros) bajo el nivel del mar en el océano Índico. Una cúpula de acrílico curvo de 180 grados ofrece desde la cama vistas a un arrecife de coral vivo, con tiburones de arrecife, rayas y peces pasando mientras te duermes."
 highlights:
-  - "La única suite submarina de dos plantas del mundo"
-  - "Dormitorio rodeado por el arrecife de coral del océano Índico"
+  - "Presentada por el resort como la primera residencia submarina del mundo"
+  - "Dormitorio principal submarino bajo una cúpula de acrílico de 180 grados"
   - "Mayordomo privado y chef exclusivo"
   - "Piscina privada, gimnasio y terraza exterior"
   - "Acceso directo al océano para bucear y hacer snorkel"
 amenities:
-  - "Ventanales submarinos panorámicos curvos"
+  - "Cúpula de observación de acrílico curvo de 180 grados"
   - "Piscina infinita privada"
   - "Chef personal exclusivo"
   - "Servicio de mayordomo las 24 horas"
@@ -23,12 +23,13 @@ bestFor:
   - "Experiencias de las que se viven una vez en la vida"
 seo:
   metaTitle: "The Muraka, Conrad Maldives: suite submarina | StayAtNiche"
-  metaDescription: "La única suite submarina de dos plantas del mundo, en Maldivas: duerme a 5 metros bajo el océano Índico rodeado de arrecife, con mayordomo y chef privados."
+  metaDescription: "The Muraka, en Maldivas: según el resort, la primera residencia submarina del mundo, con dormitorio principal bajo el océano Índico, mayordomo y piscina."
+niche_feature: "The Muraka es una única residencia de dos niveles con 3 dormitorios (2 sobre el agua y 1 suite principal submarina con una cúpula acrílica de 180 grados); el resto del resort son villas de playa y sobre el agua convencionales."
 ---
 
-Muraka, que significa «coral» en dhivehi, es sin duda la habitación de hotel más extraordinaria del planeta. Inaugurada en 2019 tras cinco años de desarrollo, exigió soluciones de ingeniería que nunca antes se habían intentado en la hotelería.
+Muraka, que significa «coral» en dhivehi, es presentada por el resort como la primera residencia submarina del mundo, con cuatro años de innovación en ingeniería detrás.
 
-La suite ocupa dos niveles. El superior alberga un dormitorio principal, un salón y una terraza exterior a ras del agua, con amplias vistas sobre el océano Índico. Una escalera de caracol baja al nivel inferior: un dormitorio curvo y un baño construidos a 5 metros bajo la superficie del océano, envueltos por completo en paneles de acrílico curvo que ofrecen una vista de 180 grados del arrecife vivo.
+La suite ocupa dos niveles. El superior alberga dos dormitorios con baño privado, zonas de estar y una terraza exterior a ras del agua, con amplias vistas sobre el océano Índico. Una escalera de caracol baja al nivel inferior: una suite principal submarina con su propio baño, construida a más de 16 pies (unos 5 metros) bajo el nivel del mar y envuelta en una cúpula de acrílico curvo de 180 grados que ofrece una vista del arrecife vivo.
 
 Los huéspedes se duermen viendo pasar tiburones de arrecife, rayas y miles de peces tropicales. La iluminación está cuidadosamente calibrada para no alterar el ecosistema marino y, a la vez, dar la luz suficiente para ver con claridad el agua.
 

@@ -1,14 +1,14 @@
 ---
 source: inkaterra-machu-picchu
 destination: "Aguas Calientes, Region Cusco, Peru"
-description: "Dreiundachtzig weiß getünchte Casitas, verteilt auf fünf Hektar Nebelwald am Fuß von Machu Picchu, mit dem einzigen privaten Orchideenreservat Perus auf dem Gelände und dem Rauschen des Urubamba in jedem Gebäude."
+description: "Achtzig weiß getünchte Casitas, verteilt auf fünf Hektar Nebelwald am Fuß von Machu Picchu, mit 372 registrierten Orchideenarten auf dem Gelände und dem Rauschen des Urubamba in jedem Gebäude."
 highlights:
-  - "Dreiundachtzig Casitas auf fünf Hektar privatem Nebelwald"
-  - "Orchideenreservat mit über 370 Arten – die größte Privatsammlung Perus"
-  - "Fünf Minuten vom Bahnhof Aguas Calientes, die Unterkunft am nächsten an Machu Picchu"
+  - "Achtzig Casitas auf fünf Hektar privatem Nebelwald"
+  - "Orchideensammlung mit 372 registrierten Arten, vom Hotel als größte Sammlung einheimischer Orchideen der Welt bezeichnet"
+  - "Direkt gegenüber dem Bahnhof Machu Picchu Pueblo, Busse zur Zitadelle fahren ab dem Ort"
   - "Geführte Aufbrüche vor Sonnenaufgang, um zur Öffnung an der Zitadelle zu sein"
   - "Nebelwaldpfade auf dem Gelände mit spezialisierten Naturführern"
-  - "Schutzprogramm für Andenbären auf dem Gelände"
+  - "317 Vogelarten auf dem Gelände registriert"
 amenities:
   - "Private Casita mit Kamin und Gartenterrasse"
   - "Zwei beheizte Pools inmitten des Nebelwalds"
@@ -24,7 +24,7 @@ bestFor:
   - "Paare auf Hochzeitsreise in Südamerika"
 prosAndCons:
   pros:
-    - "Das einzige Haus, das Sie mitten in echten Nebelwald statt an den Rand einer Stadt versetzt"
+    - "In einem privaten Nebelwaldreservat von fünf Hektar, direkt gegenüber dem Bahnhof"
     - "Die Naturführer von Inkaterra verleihen dem Besuch in Machu Picchu echte ökologische Tiefe"
     - "Die Orchideensammlung ist ein Reiseziel im Reiseziel"
     - "Dank des Programms vor Sonnenaufgang betreten Sie Machu Picchu vor den Reisegruppen"
@@ -48,12 +48,12 @@ nearbyAttractions:
     distance: 80 km per Zug
 seo:
   metaTitle: "Inkaterra Machu Picchu: Lodge im Nebelwald | StayAtNiche"
-  metaDescription: "83 Casitas auf fünf Hektar Nebelwald am Fuß von Machu Picchu, mit Perus größter privater Orchideensammlung und Zugang vor Sonnenaufgang. Ab 600 $ pro Nacht."
+  metaDescription: "Inkaterra Machu Picchu Pueblo Hotel: 80 Casitas in privatem Nebelwald am Fuß von Machu Picchu, mit 372 registrierten Orchideenarten. Ab 600 $ pro Nacht."
 ---
 
-Aguas Calientes ist ein Ort, der ausschließlich wegen dessen existiert, was vier Kilometer die Straße hinauf liegt, und die Infrastruktur spiegelt das wider: Souvenirläden, Touristenrestaurants, Backpacker-Hostels und Mittelklassehotels säumen die Hauptstraße und die Schlucht des Urubamba. Das Inkaterra Machu Picchu Pueblo Hotel ist die Ausnahme. Es liegt auf fünf Hektar Nebelwald oberhalb des Ortes, seine dreiundachtzig Casitas sind entlang steingepflasterter Wege, die der natürlichen Topografie folgen, in der Vegetation verteilt, und irgendwo unten rauscht stets der Urubamba.
+Aguas Calientes ist ein Ort, der ausschließlich wegen dessen existiert, was vier Kilometer die Straße hinauf liegt, und die Infrastruktur spiegelt das wider: Souvenirläden, Touristenrestaurants, Backpacker-Hostels und Mittelklassehotels säumen die Hauptstraße und die Schlucht des Urubamba. Das Inkaterra Machu Picchu Pueblo Hotel ist die Ausnahme. Es liegt auf fünf Hektar Nebelwald oberhalb des Ortes, seine achtzig Casitas sind entlang steingepflasterter Wege, die der natürlichen Topografie folgen, in der Vegetation verteilt, und irgendwo unten rauscht stets der Urubamba.
 
-Der Nebelwald, den Inkaterra bewirtschaftet, ist echter, lebendiger Lebensraum. Auf dem Gelände wachsen mehr als 370 Orchideenarten – die umfangreichste private Orchideensammlung Perus –, gepflegt von einem hauseigenen Botanikerteam. Der Brillenbär, die einzige Bärenart Südamerikas, die die meisten Reisenden nie in freier Wildbahn zu Gesicht bekommen, lebt im umliegenden Wald und wird vom Schutzprogramm des Hauses beobachtet. Naturführer leiten Wanderungen auf Nebelwaldpfaden, die Bäche kreuzen und durch Vegetationskorridore führen, in denen Kolibris aus nächster Nähe an blühenden Bromelien trinken. Das ist kein Garten; es ist intakter Bergnebelwald auf 2.040 Metern Höhe, und die Guides sind darin geschult, ihn mit wissenschaftlicher Präzision zu lesen.
+Der Nebelwald, den Inkaterra bewirtschaftet, ist echter, lebendiger Lebensraum. Das Hotel verzeichnet 372 registrierte Orchideenarten, die es als die größte Sammlung einheimischer Orchideen der Welt bezeichnet, sowie 317 registrierte Vogelarten, darunter den Goldkopfquetzal und den Andenfelsenhahn. Naturführer leiten Wanderungen auf Nebelwaldpfaden, die Bäche kreuzen und durch Vegetationskorridore führen, in denen Kolibris aus nächster Nähe an blühenden Bromelien trinken. Das ist kein Garten; es ist intakter Bergnebelwald auf etwa 2.020 Metern Höhe, und die Guides sind darin geschult, ihn mit wissenschaftlicher Präzision zu lesen.
 
 Die Casitas sind weiß getünchte Bauten im Adobe-Stil mit Kaminen und Gartenterrassen, warm und solide an einem Ort, an dem die Temperatur fällt und am Nachmittag der Nebel heranzieht. Die beiden beheizten Pools liegen im Wald, umgeben von Vegetation, und dienen ebenso dem Aufwärmen nach einem frühmorgendlichen Besuch der Zitadelle wie dem gewöhnlichen Baden. Das Hauptrestaurant schöpft aus der Artenvielfalt der Anden rund um das Haus: einheimische Kartoffelsorten, in der Höhe angebaute Quinoa, Zutaten aus dem Amazonasgebiet von den tiefer gelegenen Osthängen.
 

@@ -18,6 +18,7 @@ bestFor:
 seo:
   metaTitle: "Telunas Private Island: Wasservillen | StayAtNiche"
   metaDescription: "Telunas Private Island: 15 Overwater Villas über dem Meer auf einer Privatinsel der Riau-Inseln, 50 km von Singapur, dazu fünf Ridge Villas für Erwachsene."
+niche_feature: "15 Overwater Villas (90 m²; Standard und Signature) sowie fünf Ridge Villas an Land, nur für Erwachsene. Die Quelle spricht von „Overwater“, beschreibt aber keine Stelzen."
 ---
 
 Telunas Private Island ist ein Ort zum Auftanken auf den Riau-Inseln in Indonesien, rund 50 km von Singapur entfernt. Das Resort bietet die Wahl zwischen familienfreundlichen Overwater Villas über dem Meer und Ridge Villas nur für Erwachsene am Hang.

@@ -1,9 +1,9 @@
 ---
 source: okonjima-bush-camp-namibia
 destination: "Natuurreservaat Okonjima, Otjiwarongo"
-description: "Een traditioneel safarikamp in het 22.000 hectare grote natuurreservaat Okonjima in Namibië, met begeleide safari's in de auto, wandelpaden en leopardspoor-tochten."
+description: "Het Luxury Bush Camp, een van de vijf verblijfsopties in het 22.000 hectare grote natuurreservaat Okonjima in Namibië, met begeleide safari's in de auto, wandelpaden en leopardspoor-tochten."
 highlights:
-  - "Safarikamp in een privéreservaat van 22.000 hectare"
+  - "Luxury Bush Camp in een privéreservaat van 22.000 hectare"
   - "Leopardspoor volgen"
   - "Begeleide natuurwandelingen te voet"
   - "Sundowners in de acaciasavanne"
@@ -14,10 +14,10 @@ bestFor:
   - "Gezinnen"
 seo:
   metaTitle: "Okonjima Bush Camp: safarikamp in Namibië | StayAtNiche"
-  metaDescription: "Okonjima Bush Camp, het traditionele safarikamp in het privé-natuurreservaat van 22.000 hectare in Namibië: begeleide safari's en speuren naar luipaarden."
+  metaDescription: "Okonjima Bush Camp, het Luxury Bush Camp in het privé-natuurreservaat van 22.000 hectare in Namibië: begeleide safari's, wandelpaden en speuren naar luipaarden."
 ---
 
-Okonjima Bush Camp is het traditionele safarikamp in het Okonjima Nature Reserve, een privé-natuurreservaat van 22.000 hectare in Namibië, aan de voet van de Omborokobergen, tussen Windhoek en het Etosha National Park. Okonjima is een familiebedrijf en biedt vijf verschillende verblijfsopties. De Bush Camp is de optie die volledig draait om de klassieke safarisfeer.
+Okonjima's Luxury Bush Camp (hier vermeld als Okonjima Bush Camp) is een van de verblijfsopties in het Okonjima Nature Reserve, een privé-natuurreservaat van 22.000 hectare in Namibië, aan de voet van de Omborokobergen, tussen Windhoek en het Etosha National Park. Okonjima is een familiebedrijf en biedt vijf verschillende verblijfsopties. Het Luxury Bush Camp heeft acht rieten chalets en een Junior Suite.
 
 ## Het reservaat
 
@@ -33,4 +33,4 @@ Okonjima ligt op 2,5 uur rijden van Windhoek, of één uur vliegen. Het plateau 
 
 ## Het juiste verblijf kiezen
 
-Omdat het reservaat vijf soorten accommodatie heeft, boek je specifiek de Bush Camp als je de traditionele safarikampsfeer wilt. Het reservaat ligt tussen Windhoek en het Etosha National Park, dus het past mooi in een langere reis door Namibië. De AfriCat Foundation doet sinds 1992 onderzoek en natuurbehoud op het reservaat. Vraag het reservaat welke activiteiten op jouw data inbegrepen zijn.
+Omdat het reservaat vijf soorten accommodatie heeft, boek je specifiek het Luxury Bush Camp als je de rieten chalets wilt. Het reservaat ligt tussen Windhoek en het Etosha National Park, dus het past mooi in een langere reis door Namibië. De AfriCat Foundation doet sinds 1992 onderzoek en natuurbehoud op het reservaat. Vraag het reservaat welke activiteiten op jouw data inbegrepen zijn.

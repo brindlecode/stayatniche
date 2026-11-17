@@ -19,13 +19,14 @@ bestFor:
 seo:
   metaTitle: "Peristyle Cave Cappadocia: hotel in grotta | StayAtNiche"
   metaDescription: "Peristyle Cave Cappadocia a Uçhisar: otto camere, cinque in grotta, con terrazza sulle mongolfiere del mattino, colazione ed escursioni in Cappadocia."
+niche_feature: "8 camere in totale: cinque camere in grotta e tre in pietra, ognuna intitolata a un pianeta."
 ---
 
-Peristyle Cave Cappadocia è un piccolo hotel in alto a Uçhisar, sotto il castello che disegna la sagoma del paese. Ha otto camere in tutto: cinque in grotta e tre in pietra. Si tratta quindi di un soggiorno in cui la maggior parte delle camere, ma non tutte, è scavata nella roccia.
+Peristyle Cave Cappadocia è un piccolo hotel in alto a Uçhisar, sotto il castello che disegna la sagoma del paese. Ha otto camere in tutto: cinque in grotta e tre in pietra. Si tratta quindi di un soggiorno in cui la maggior parte delle camere, ma non tutte, è in grotta.
 
 ## Le camere
 
-Le camere prendono il nome dai pianeti: Uranus, Mars, Jupiter, Saturn, Neptune, Mercury, Earth e Venus. Chiedi in fase di prenotazione se desideri una camera in grotta in particolare.
+Le camere prendono il nome dai pianeti: Uranus, Mars, Jupiter, Saturn, Neptune, Mercury, Earth e Venus. Il sito non indica quali siano le camere in grotta e quali quelle in pietra, quindi chiedi in fase di prenotazione se desideri una camera in grotta in particolare.
 
 ## La zona
 

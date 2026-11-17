@@ -11,10 +11,8 @@ highlights:
 amenities:
   - "Kostenloses Frühstück"
   - "Kostenloses WLAN"
-  - "Wäscheservice"
   - "Restaurant"
-  - "Auto- und Fahrradverleih"
-  - "24-Stunden-Zimmerservice"
+  - "Autovermietung über das Hotel"
   - "Kostenloser Transfer vom Busbahnhof"
 bestFor:
   - "Individualreisende"
@@ -29,11 +27,11 @@ Das Melek Cave Hotel liegt mitten im historischen Göreme, umgeben von Feenkamin
 
 ## Die Zimmer
 
-Die Seite listet ein Deluxe-Höhlenzimmer mit 35 m² und Blick auf Garten, Berge und Innenhof sowie einem Doppelbett, außerdem ein Höhlen-Doppelzimmer mit 25 m² und Parkblick. Es gibt saubere, moderne Bäder und einen Fernseher.
+Die Seite listet sechs Höhlenzimmertypen: ein Deluxe Cave Room (35 m², Blick auf Garten, Berge und Innenhof, Doppelbett), ein Cave Double Room (25 m², Parkblick), ein Arch Twin Room (25 m², Bergblick, zwei Einzelbetten), ein Double Cave Room (25 m², Innenhofblick, ein Doppelbett und ein Einzelbett), ein Cave Triple Room (25 m², Innenhofblick, drei Einzelbetten) und ein Cave Family Room (35 m², Blick auf die Stadt, ein Doppelbett und zwei Einzelbetten). Es gibt saubere, moderne Bäder und einen Fernseher.
 
 ## Frühstück und Ausstattung
 
-Das Frühstück wird jeden Morgen kostenlos auf der Terrasse serviert. Es gibt einen gemeinsamen Aufenthaltsraum zum Entspannen und Kennenlernen anderer Gäste sowie einen Garten, in dem man nach einem Ausflug mit einem Getränk sitzen kann. Weitere Leistungen sind kostenloses, schnelles WLAN, eine Wäscherei, ein Restaurant, Fahrrad- und Autoverleih sowie 24-Stunden-Zimmerservice.
+Das Frühstück wird jeden Morgen kostenlos auf der Terrasse serviert. Es gibt einen gemeinsamen Aufenthaltsraum zum Entspannen und Kennenlernen anderer Gäste sowie einen Garten, in dem man nach einem Ausflug mit einem Getränk sitzen kann. Weitere Leistungen sind kostenloses, schnelles WLAN, ein Restaurant und eine Autovermietung über das Hotel.
 
 ## Unterwegs
 

@@ -1,10 +1,10 @@
 ---
 source: singita-lebombo-south-africa
 destination: "Kruger National Park, Limpopo, Zuid-Afrika"
-description: "Vijftien suites met glazen gevels die uitkragen boven de kloof van de N'wanetsi-rivier, op een privéconcessie in Kruger National Park. Wild kijken vanuit je suite is hier standaard, en beneden wacht een van de beste safarigidsen van Zuid-Afrika."
+description: "Dertien suites met glazen wanden op een klif boven de N'wanetsi-rivier, op een Singita-concessie in Kruger National Park, met ruime terrassen en daybeds om onder de sterren te slapen."
 highlights:
-  - "Exclusieve privéconcessie in Kruger National Park"
-  - "Vijftien suites die uitkragen boven de kloof van de N'wanetsi-rivier"
+  - "Singita-concessie in Kruger National Park"
+  - "Dertien suites met glazen wanden op een klif boven de N'wanetsi-rivier"
   - "De N'wanetsi-pan, een van de wildrijkste gebieden van Kruger"
   - "Nachtelijke game drives en offroad rijden, niet mogelijk in het openbare park"
   - "De veelgeprezen wijnkelder en Zuid-Afrikaanse keuken van Singita"
@@ -19,7 +19,7 @@ amenities:
   - "Eigen landingsbaan voor chartervluchten"
   - "Butlerservice 24 uur per dag"
 bestFor:
-  - "Safarireizigers die de beste privéconcessie van Zuid-Afrika zoeken"
+  - "Safarireizigers die een privéconcessie in Kruger zoeken"
   - "Stellen op huwelijksreis of met iets bijzonders te vieren"
   - "Natuurfotografen"
 prosAndCons:
@@ -32,7 +32,7 @@ prosAndCons:
     - "Een van de duurste safari's in zuidelijk Afrika"
     - "Door de afgelegen ligging heb je een chartervlucht nodig vanuit Johannesburg of Hoedspruit"
     - "De zomer (november–februari) brengt felle hitte en onweersbuien in de middag"
-    - "Maar vijftien suites, dus de beschikbaarheid is krap: plan ruim vooruit"
+    - "Maar dertien suites, dus de beschikbaarheid is krap: plan ruim vooruit"
 seasonalInfo:
   bestTime: "Mei tot september"
   peakSeason: "Juli tot augustus"
@@ -48,13 +48,13 @@ nearbyAttractions:
     distance: 60 km
 seo:
   metaTitle: "Singita Lebombo: luxe safarilodge in Kruger | StayAtNiche"
-  metaDescription: "Singita Lebombo Lodge in Zuid-Afrika: vijftien glazen suites boven een rivierkloof op een privéconcessie in Kruger National Park. Vanaf $ 1.800 per nacht."
+  metaDescription: "Singita Lebombo Lodge in Zuid-Afrika: dertien glazen suites op een klif boven de N'wanetsi-rivier op een Singita-concessie in Kruger. Vanaf $ 1.800 per nacht."
 ---
 
 De positie van Singita in de Zuid-Afrikaanse safariwereld is verdiend, niet gekocht met marketing. Het bedrijf is al meer dan dertig jaar actief in Sabi Sand en sinds kortere tijd ook in privéconcessies in Kruger, en die opgebouwde ervaring zie je in elk detail bij Lebombo: de gids die een luipaard herkent aan sporen die vier uur eerder een rijpad kruisten, de sommelier die het wijnprogramma kent zoals een ranger de bush kent, de keuken die echt goed eten maakt in een omgeving waar serieus koken logistiek lastig is.
 
-Het specifieke voordeel van Lebombo ten opzichte van de lodges van het bedrijf in Sabi Sand is de N'wanetsi-concessie zelf: 15.000 hectare in het oosten van Kruger met een eigen rivier en een pan die zoveel wild aantrekt dat de waarnemingen zich soms bijna ongelooflijk opstapelen. De N'wanetsi-pan in juli, op een koele, droge ochtend waarop kuddes buffels langs de waterlijn staan en het water een wolkeloze hemel weerspiegelt, is het soort tafereel dat een verre vliegreis rechtvaardigt. De vijftien suites kragen op platforms van staal en glas uit boven de rivierkloof, zodat je vanaf je daybed vrij uitkijkt over de bush die onder je afdaalt naar de groene strook oeverbegroeiing en wat er die ochtend toevallig aan het water drinkt.
+Het specifieke voordeel van Lebombo ten opzichte van de lodges van het bedrijf in Sabi Sand is de N'wanetsi-concessie zelf: een stuk van het oosten van Kruger met een rivier en een pan die zoveel wild aantrekt dat de waarnemingen zich soms bijna ongelooflijk opstapelen. De N'wanetsi-pan in juli, op een koele, droge ochtend waarop kuddes buffels langs de waterlijn staan en het water een wolkeloze hemel weerspiegelt, is het soort tafereel dat een verre vliegreis rechtvaardigt. De dertien suites met glazen wanden staan op een klif boven de N'wanetsi-rivier, zodat je vanaf je daybed vrij uitkijkt over de bush die onder je afdaalt naar de groene strook oeverbegroeiing en wat er die ochtend toevallig aan het water drinkt.
 
 De architectuur is hier bewust industrieel en organisch tegelijk: gestort beton, ruw staal, glas en rivierstenen, materialen die naar het landschap verwijzen zonder te doen alsof ze erin verdwijnen. De slaapkamers zijn groot en bewust open, met glazen wanden die je helemaal kunt openschuiven, zodat de grens tussen binnen en buiten wegvalt en 's nachts de geluiden van de bush de kamer vullen. De eigen plonsbaden op elk terras zijn zo geplaatst dat ze het middaglicht vangen. De wijnkelder van Singita, gericht op Zuid-Afrikaanse producenten, levert flessen die passen bij de setting en de maaltijd.
 
-De gidsfilosofie van Singita draait om diepgang in plaats van kwantiteit. De gidsen hebben doorgaans een kwalificatie van minstens niveau 2 van de Field Guides Association of Southern Africa (FGASA), plus jaren ervaring op juist deze concessie, en de spoorzoekers kennen individuele dieren, hun territorium, gewoontes en sociale relaties, waardoor een game drive bij Lebombo echt leerzaam is en niet alleen iets om naar te kijken. Nachtelijke game drives, offroad rijden en wandelingen door de bush, die in de openbare delen van Kruger niet mogelijk zijn, zijn hier standaard. Boek zo ver mogelijk vooruit: vijftien suites zijn snel vol.
+De gidsfilosofie van Singita draait om diepgang in plaats van kwantiteit. De gidsen hebben doorgaans een kwalificatie van minstens niveau 2 van de Field Guides Association of Southern Africa (FGASA), plus jaren ervaring op juist deze concessie, en de spoorzoekers kennen individuele dieren, hun territorium, gewoontes en sociale relaties, waardoor een game drive bij Lebombo echt leerzaam is en niet alleen iets om naar te kijken. Nachtelijke game drives, offroad rijden en wandelingen door de bush, die in de openbare delen van Kruger niet mogelijk zijn, zijn hier standaard. Boek zo ver mogelijk vooruit: dertien suites zijn snel vol.

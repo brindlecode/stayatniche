@@ -3,18 +3,18 @@ name: "Archipelago Igloos"
 category: bubble-hotels
 destination: "Helsinki archipelago, Uusimaa"
 country: "Finland"
-description: "A single floating glass igloo suite for two, anchored near Vallisaari off Helsinki in summer and moved to the Sipoo archipelago ice in winter."
+description: "Glass igloo accommodation in the Helsinki archipelago: floating accommodation units anchored between Vallisaari and Kuninkaansaari in summer, and glass igloos in the Sipoo archipelago in winter."
 priceRange: "Rates vary"
 highlights:
-  - "Floating glass igloo suite for two"
-  - "Floor-to-ceiling glass with unobstructed views of sky and water"
-  - "Summer berth near Vallisaari, winter on the Sipoo archipelago ice"
-  - "Kitchen, toilet and terrace with gas grill and swimming ladder"
+  - "Glass igloo accommodation in the archipelago around Helsinki"
+  - "Summer: floating units anchored in the bay between Vallisaari and Kuninkaansaari"
+  - "Winter: glass igloos in the Sipoo archipelago, 30 minutes by car from the city centre"
+  - "Described by Visit Finland as eco-friendly and suitable all year"
 amenities:
-  - "Kitchen and toilet in the igloo"
-  - "Free Wi-Fi in the igloo"
-  - "Rowing boat, gas grill and swimming ladder on the terrace"
-  - "SUP boards and kick bikes in summer"
+  - "Glass igloo accommodation unit"
+  - "Floating in summer"
+  - "Winter location in the Sipoo archipelago"
+  - "Operator: Burn Out City Events, Helsinki"
 bestFor:
   - "Couples"
   - "Adventurous travellers"
@@ -43,20 +43,16 @@ niche_source_url: "https://www.visitfinland.com/en/product/c8951ee0-6e0d-4b1b-b3
 niche_verified_at: 2026-11-17
 ---
 
-Archipelago Igloos is one glass igloo, built as a floating suite for two in the waters around Helsinki. Its biggest feature is a floor-to-ceiling view of the sky and the sea around it. Inside are a double bed, a kitchen, a foldable dining table, food storage and a toilet; outside, a terrace has a gas grill, a swimming ladder and a rowing boat for guests to use.
+Archipelago Igloos offers glass igloo accommodation in the archipelago around Helsinki. According to Visit Finland, it is an eco-friendly accommodation experience alongside natural attractions, and it is suitable all year.
 
 ## Summer on the water
 
-From 4 May to 30 October the floating igloo is anchored in the bay between Vallisaari and Kuninkaansaari islands. You reach Vallisaari by public ferry from Lyypekinlaituri, then walk 400 metres to Torpedolahti, where a rowing boat waits to take you out to the igloo. The ferry back to the city centre leaves from the same bay. Guests are asked to give their preferred check-in time when booking.
+In the summer season the floating accommodation units are anchored in the bay between Vallisaari and Kuninkaansaari.
 
-The igloo has a small gas stove that suits boiling water, and guests can bring their own food. In summer there are stand-up paddleboards and kick bikes to use.
+## Winter
 
-## Winter on the ice
-
-In winter the unit moves to the Sipoo archipelago and rests on the ice. Optional winter extras include snowmobile tours and ice-floating tours, which the operator arranges for guests who want to do more than sleep on the ice.
+During winter the glass igloos are located in the Sipoo archipelago, just 30 minutes by car from the city centre.
 
 ## Practicalities
 
-The igloo has free Wi-Fi. Arrival is by public ferry or private boat from the centre of Helsinki.
-
-There is only one unit, so dates can be limited. Ask about the season you want, since the location and the activities change between summer and winter.
+Visit Finland lists prices from 290 EUR for one day. The operator's own website was blocked by a bot challenge when this page was checked, so the number of units, season dates, facilities and how to reach the igloos could not be confirmed. Ask the operator before you book.

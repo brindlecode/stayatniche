@@ -1,9 +1,9 @@
 ---
 source: okonjima-bush-camp-namibia
 destination: "Réserve naturelle d'Okonjima, Otjiwarongo"
-description: "Un camp de safari traditionnel au cœur de la réserve naturelle d'Okonjima, qui couvre 22 000 hectares en Namibie, avec safaris en véhicule guidés, randonnées à pied et pistage des léopards."
+description: "Le Luxury Bush Camp, l'une des cinq options d'hébergement de la réserve naturelle d'Okonjima, qui couvre 22 000 hectares en Namibie, avec safaris en véhicule guidés, randonnées à pied et pistage des léopards."
 highlights:
-  - "Camp de safari au cœur d'une réserve privée de 22 000 hectares"
+  - "Luxury Bush Camp au cœur d'une réserve privée de 22 000 hectares"
   - "Pistage des léopards"
   - "Randonnées nature guidées à pied"
   - "Apéritif au coucher du soleil dans la savane à acacias"
@@ -14,10 +14,10 @@ bestFor:
   - "Familles"
 seo:
   metaTitle: "Okonjima Bush Camp : safari en Namibie | StayAtNiche"
-  metaDescription: "Okonjima Bush Camp, camp de safari traditionnel dans une réserve privée de 22 000 hectares en Namibie : safaris guidés et pistage des léopards."
+  metaDescription: "Okonjima Bush Camp, le Luxury Bush Camp d'une réserve privée de 22 000 hectares en Namibie : safaris guidés, randonnées à pied et pistage des léopards."
 ---
 
-Okonjima Bush Camp est le camp de safari traditionnel de la réserve naturelle d'Okonjima, une réserve privée de 22 000 hectares en Namibie, au pied des monts Omboroko, entre Windhoek et le parc national d'Etosha. Okonjima est une propriété familiale et propose cinq types d'hébergement ; le Bush Camp est celui qui reprend le décor classique du safari.
+Le Luxury Bush Camp d'Okonjima (présenté ici sous le nom d'Okonjima Bush Camp) est l'une des options d'hébergement de la réserve naturelle d'Okonjima, une réserve privée de 22 000 hectares en Namibie, au pied des monts Omboroko, entre Windhoek et le parc national d'Etosha. Okonjima est une propriété familiale et propose cinq types d'hébergement ; le Luxury Bush Camp compte huit chalets en chaume et une Junior Suite.
 
 ## La réserve
 
@@ -33,4 +33,4 @@ Okonjima se trouve à 2 h 30 de route de Windhoek, ou à une heure d'avion. Le p
 
 ## Bien choisir son séjour
 
-Comme la réserve propose cinq types d'hébergement, veillez à réserver spécifiquement le Bush Camp si vous recherchez l'ambiance traditionnelle d'un camp de safari. La réserve se situe entre Windhoek et le parc national d'Etosha : elle s'intègre naturellement dans un itinéraire plus long en Namibie. La fondation AfriCat mène des travaux de recherche et de conservation dans la réserve depuis 1992. Renseignez-vous auprès de la réserve sur les activités incluses à vos dates.
+Comme la réserve propose cinq types d'hébergement, veillez à réserver spécifiquement le Luxury Bush Camp si ses chalets en chaume vous séduisent. La réserve se situe entre Windhoek et le parc national d'Etosha : elle s'intègre naturellement dans un itinéraire plus long en Namibie. La fondation AfriCat mène des travaux de recherche et de conservation dans la réserve depuis 1992. Renseignez-vous auprès de la réserve sur les activités incluses à vos dates.

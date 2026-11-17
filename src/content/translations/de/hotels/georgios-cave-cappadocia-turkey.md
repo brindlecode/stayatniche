@@ -27,7 +27,7 @@ Georgios Cave Cappadocia befindet sich in einem eingetragenen griechischen (Rum-
 
 ## Die Zimmer
 
-Neun Zimmer sind mit ihren Größen aufgeführt. Zimmer 101 und Zimmer 108 sind 25 Quadratmeter große Standardzimmer, Zimmer 107 ist ein 50 Quadratmeter großes Standardzimmer. Zimmer 106 (31 Quadratmeter) und Zimmer 102 (27 Quadratmeter) sind Deluxe-Zimmer mit Jacuzzi. Zimmer 103 ist eine 50 Quadratmeter große 1+1-Suite mit Jacuzzi. Zimmer 104 ist eine 55 Quadratmeter große King Suite mit Jacuzzi und Hammam. Zimmer 105 ist eine 40 Quadratmeter große Premium Cave Suite mit Jacuzzi, und Zimmer 109 ist eine 50 Quadratmeter große Presidential Suite mit Terrasse und Jacuzzi. Das Wort „Cave“ taucht nur bei einem dieser Zimmer ausdrücklich auf; fragen Sie also nach, welche Zimmer tatsächlich in den Fels gehauen sind.
+Neun Zimmer sind mit ihren Größen aufgeführt. Zimmer 101 und Zimmer 108 sind 25 Quadratmeter große Standardzimmer, Zimmer 107 ist ein 50 Quadratmeter großes Standardzimmer. Zimmer 106 (31 Quadratmeter) und Zimmer 102 (27 Quadratmeter) sind Deluxe-Zimmer mit Jacuzzi. Zimmer 103 ist eine 50 Quadratmeter große 1+1-Suite mit Jacuzzi. Zimmer 104 ist eine 55 Quadratmeter große King Suite mit Jacuzzi und Hammam. Zimmer 105 ist eine 40 Quadratmeter große Premium Cave Suite mit Jacuzzi, und Zimmer 109 ist eine 50 Quadratmeter große Presidential Suite mit Terrasse und Jacuzzi. Das Wort „Cave“ taucht nur bei einem dieser Zimmer ausdrücklich auf; fragen Sie also nach, welche Zimmer, falls überhaupt, in den Fels gehauen sind; die Website des Hotels sagt nicht, dass ein Zimmer in den Fels gehauen ist.
 
 ## Essen und Ausstattung
 

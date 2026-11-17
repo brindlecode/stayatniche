@@ -100,6 +100,14 @@ const hotelShape = z.object({
     niche_feature: z.string().optional(),          // the verified feature, one factual sentence
     niche_source_url: z.string().url().optional(), // the page that supports it (official site preferred)
     niche_verified_at: z.date().optional(),        // the day the source was read
+    niche_note: z.string().optional(),             // e.g. "not a medieval castle", shown at the top of the page
+    niche_badge: z.string().optional(),            // short card label for specific_rooms ("Only one villa")
+    // Temporarily closed: shown at the top of the page; booking buttons stay below it.
+    closure: z.object({
+      note: z.string(),                            // what is closed and until when, as the source says it
+      source_url: z.string().url(),
+      checked_at: z.date(),
+    }).optional(),
 
     seo: seoSchema,
   });

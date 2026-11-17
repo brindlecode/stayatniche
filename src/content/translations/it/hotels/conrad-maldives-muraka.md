@@ -1,15 +1,15 @@
 ---
 source: conrad-maldives-muraka
 destination: Isola di Rangali
-description: "L’unica suite d’hotel subacquea su due piani al mondo: The Muraka, al Conrad Maldives Rangali Island, colloca camera da letto e bagno 5 metri sotto l’Oceano Indiano. Pannelli curvi in acrilico su ogni lato offrono dal letto una vista a 180 gradi sulla barriera corallina viva, con squali di barriera, razze e pesci che scivolano accanto a te mentre ti addormenti."
+description: "The Muraka, al Conrad Maldives Rangali Island, è una residenza su due livelli la cui camera padronale è subacquea, a oltre 16 piedi (circa 5 metri) sotto il livello del mare nell’Oceano Indiano. Una cupola in acrilico curvo a 180 gradi offre dal letto la vista su una barriera corallina viva, con squali di barriera, razze e pesci che scivolano accanto a te mentre ti addormenti."
 highlights:
-  - L’unica suite subacquea su due piani al mondo
-  - Camera da letto circondata dalla barriera corallina dell’Oceano Indiano
+  - Presentata dal resort come la prima residenza subacquea al mondo
+  - Camera padronale subacquea sotto una cupola in acrilico a 180 gradi
   - Maggiordomo privato e chef dedicato
   - Piscina privata, palestra e terrazza all’aperto
   - Accesso diretto all’oceano per immersioni e snorkeling
 amenities:
-  - Vetrate subacquee panoramiche curve
+  - Cupola panoramica in acrilico curvo a 180 gradi
   - Piscina a sfioro privata
   - Chef personale dedicato
   - Maggiordomo 24 ore su 24
@@ -23,12 +23,13 @@ bestFor:
   - Esperienze da vivere una volta nella vita
 seo:
   metaTitle: "The Muraka, suite sott’acqua alle Maldive | StayAtNiche"
-  metaDescription: "The Muraka al Conrad Maldives: l’unica suite subacquea su due piani al mondo, con la camera 5 metri sotto l’oceano, maggiordomo, chef privato e piscina."
+  metaDescription: "The Muraka al Conrad Maldives: secondo il resort la prima residenza subacquea al mondo, con camera padronale sotto l’oceano, maggiordomo e piscina privata."
+niche_feature: "The Muraka è un'unica residenza su due livelli con 3 camere da letto (2 sopra l'acqua, 1 suite principale subacquea con cupola acrilica a 180 gradi); il resto del resort è composto da normali ville sulla spiaggia e sull'acqua."
 ---
 
-Muraka, che in dhivehi significa «corallo», è la camera d’albergo più straordinaria del pianeta. Inaugurata nel 2019 dopo cinque anni di sviluppo, ha richiesto soluzioni ingegneristiche mai tentate prima nel mondo dell’ospitalità.
+Muraka, che in dhivehi significa «corallo», è presentata dal resort come la prima residenza subacquea al mondo, con quattro anni di innovazione ingegneristica alle spalle.
 
-La suite si sviluppa su due livelli. Quello superiore comprende una camera padronale, un soggiorno e una terrazza a livello dell’acqua, con ampie viste sull’Oceano Indiano. Una scala a chiocciola scende al livello inferiore: una camera da letto e un bagno curvi costruiti 5 metri sotto la superficie dell’oceano, interamente racchiusi da pannelli curvi in acrilico che regalano una vista a 180 gradi sulla barriera viva.
+La suite si sviluppa su due livelli. Quello superiore comprende due camere con bagno privato, zone living e una terrazza a livello dell’acqua, con ampie viste sull’Oceano Indiano. Una scala a chiocciola scende al livello inferiore: una suite padronale subacquea con bagno, costruita a oltre 16 piedi (circa 5 metri) sotto il livello del mare e racchiusa in una cupola curva in acrilico a 180 gradi che regala la vista sulla barriera viva.
 
 Gli ospiti si addormentano guardando squali di barriera, razze e migliaia di pesci tropicali che passano. L’illuminazione è calibrata con cura per non disturbare l’ecosistema marino, pur garantendo abbastanza luce per vedere chiaramente nell’acqua.
 

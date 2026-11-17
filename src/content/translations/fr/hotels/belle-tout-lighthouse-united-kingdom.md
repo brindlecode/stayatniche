@@ -21,6 +21,7 @@ bestFor:
 seo:
   metaTitle: "Dormir dans le phare Belle Tout | StayAtNiche"
   metaDescription: "B&B dans le phare Belle Tout, construit en 1832 sur les falaises de Beachy Head : six chambres, dont une seule dans la tour, réservé aux 16 ans et plus."
+niche_feature: "Seule 1 des 6 chambres, la Keeper's Loft, se trouve dans la tour d'origine du phare en granit ; les cinq autres sont des chambres ordinaires avec salle de bain privative, dans le reste du bâtiment."
 ---
 
 Belle Tout est un B&B installé dans un phare, sur les falaises de Beachy Head, près d'Eastbourne, dans le East Sussex. Le phare date de 1832 et a été restauré ; il domine la Manche, les Seven Sisters et les collines verdoyantes des South Downs. Seules six chambres sont proposées, toutes avec salle de bains privative.

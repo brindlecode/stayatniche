@@ -3,15 +3,15 @@ name: "InterContinental Bora Bora Resort & Thalasso Spa"
 category: overwater-bungalows
 destination: "Bora Bora, Society Islands"
 country: "French Polynesia"
-description: "Overwater bungalow resort on the outer reef of Bora Bora, with the first deep-sea water air conditioning system in the hospitality industry — drawing cold water from 900 metres below the Pacific to cool the property at a fraction of the energy of conventional systems. Overwater villas give direct access to Bora Bora's lagoon, and the Deep Ocean Spa sits suspended above the reef itself."
+description: "Overwater bungalow resort on the outer reef of Bora Bora, with overwater villas that the resort says are cooled sustainably by the ocean. Overwater villas give direct access to Bora Bora's lagoon, and the Deep Ocean Spa sits suspended above the reef itself."
 coverImage: /images/hotels/intercontinental-thalasso-bora-bora.jpg
 gallery:
   - /images/hotels/intercontinental-thalasso-bora-bora-2.jpg
   - /images/hotels/intercontinental-thalasso-bora-bora-3.jpg
-priceRange: "$900 - $3,500"
+priceRange: "Rates vary"
 priceIndicator: 4
 highlights:
-  - "World's first deep seawater air conditioning system"
+  - "Overwater villas cooled sustainably by the ocean, per the resort"
   - "Acclaimed Deep Ocean Spa on the outer reef"
   - "Overwater villas with direct Bora Bora lagoon access"
   - "Outstanding snorkelling from the villa decks"
@@ -53,11 +53,15 @@ niche_scope: entire_property
 niche_feature: "Official site lists only overwater villa types (beach, lagoon, island, Otemanu view, pool villas, Teremoana). But the resort closed 1 June 2026 for full renovation; trade press (not official) says reopening late 2027 as a Regent."
 niche_source_url: "https://thalasso.intercontinental.com/?p=77"
 niche_verified_at: 2026-11-17
+closure:
+  note: "The resort closed on 1 June 2026 for a complete renovation. The resort's website gives no reopening date."
+  source_url: "https://thalasso.intercontinental.com/?p=77"
+  checked_at: 2026-11-17
 ---
 
-The InterContinental Bora Bora Resort and Thalasso Spa holds the most exposed and dramatic position of any overwater resort on the island. It sits on the outer reef itself — Motu Piti Aau, a small coral island at the southern end of Bora Bora's barrier reef. From here, the lagoon spreads northward in a panorama that takes in the full silhouette of Mount Otemanu and Mount Pahia rising from the main island, the water shifting between near-turquoise and near-sapphire depending on the angle of the light.
+The InterContinental Bora Bora Resort and Thalasso Spa sits on the outer reef itself — Motu Piti Aau, a small coral island at the southern end of Bora Bora's barrier reef. From here, the lagoon spreads northward in a panorama that takes in the full silhouette of Mount Otemanu and Mount Pahia rising from the main island, the water shifting between near-turquoise and near-sapphire depending on the angle of the light.
 
-The resort's most significant innovation is practical rather than architectural: the Deep Ocean Water Air Conditioning system draws cold seawater from 900 metres below the Pacific surface through a pipe 3,000 metres long and uses it to cool the resort's buildings without conventional refrigeration. The system cuts cooling energy consumption by approximately 90 percent and eliminates the refrigerants required by conventional air conditioning — a genuine contribution to the sustainability of a property that would otherwise carry a heavy energy burden on a remote coral island. From a guest perspective the technology is entirely invisible: the rooms are cool and comfortable, the mechanism silent, and the only sign of it is the slightly warmer water returned to the ocean surface after use.
+The resort's website says its overwater villas are cooled sustainably by the ocean, a quiet piece of sustainability on a remote coral island. From a guest perspective the technology is invisible: the rooms are cool and comfortable, and the mechanism is silent.
 
 The Deep Ocean Spa is built on the reef itself, with treatment rooms suspended over the lagoon and thalassotherapy pools using deep-drawn seawater measurably richer in minerals than surface water. The treatment menu combines traditional Polynesian massage techniques — hot stone, coconut oil, monoi flower rituals — with contemporary wellness approaches. The setting, with the lagoon visible through glass floor panels below and the Pacific horizon through open walls, produces a quality of quiet that is difficult to find anywhere else.
 

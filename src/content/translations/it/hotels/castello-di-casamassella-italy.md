@@ -33,7 +33,7 @@ Le giornate iniziano con una colazione abbondante, di cui il castello va orgogli
 
 ## Oltre le mura
 
-Il castello sorge nel cuore di Casamassella, in Piazza Vittorio Emanuele II, e ospita anche eventi e matrimoni. La costa salentina intorno a Otranto è vicina, il che rende facile alternare un castello tranquillo alle spiagge e ai centri storici del tacco dello Stivale.
+Il castello sorge nel cuore di Casamassella, in Piazza Vittorio Emanuele II, e ospita anche eventi e matrimoni. Il suo sito propone anche il castello ad uso esclusivo, in formula self-catering («Rent a castle»), quindi vale la pena chiedere se è possibile prenotare l'intero edificio invece di una sola camera. La costa salentina intorno a Otranto è vicina, il che rende facile alternare un castello tranquillo alle spiagge e ai centri storici del tacco dello Stivale.
 
 ## Prima di partire
 

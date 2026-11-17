@@ -5,7 +5,7 @@ description: "Albergo diffuso en un castillo medieval y un pueblo de la Via Fran
 highlights:
   - "Albergo diffuso (hotel disperso) en un castillo medieval y un pueblo"
   - "En manos de la familia Cecchini desde 1644"
-  - "Habitaciones instaladas en una torre de la antigua muralla"
+  - "Tres habitaciones en una antigua torre de la muralla"
   - "Piscina y restaurante de verano a los que se llega por un pasadizo excavado en roca volcánica"
   - "Cerca de las Terme di Fonteverde"
 amenities:
@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Castello di Proceno: albergo diffuso en Lacio | StayAtNiche"
   metaDescription: "Castello di Proceno: albergo diffuso en un castillo medieval de la Via Francigena, con apartamentos, cuatro habitaciones, piscina y restaurante de verano."
+niche_feature: "Albergo diffuso en el complejo del castillo de Proceno (fortaleza pentagonal con torre del homenaje, dos torreones y un puente levadizo en funcionamiento): apartamentos y suites en el fortino y el patio, además de cuatro habitaciones en una antigua torre de la muralla. La casa de campo Il Giulione, aparte, queda fuera del castillo."
 ---
 
 El Castello di Proceno es un albergo diffuso, un hotel repartido entre los edificios de un pueblo histórico en lugar de estar bajo un mismo techo. Ocupa un castillo y el casco histórico de Proceno, en la Via Francigena, en el punto donde se encuentran la Toscana, Umbría y el Lacio, en el corazón de la Tuscia. Las Terme di Fonteverde, en San Casciano dei Bagni, están a unos pocos kilómetros.
@@ -30,7 +31,7 @@ El castillo pertenece a la familia Cecchini, hoy Bisoni Cecchini, desde 1644. Ha
 
 ## Los alojamientos
 
-La mayor parte de la estancia transcurre en apartamentos y suites, todos con nombre: Primavera, Estate, Autunno, Corsetto, Chiostrino, Loggia, Bicocca e Innominato. Hay además cuatro habitaciones llamadas Caciaia, Collinella, Poggiolo y Belvedere. Las dos últimas se encuentran una frente a otra, y a las cuatro se accede desde una puerta del antiguo patio interior.
+La mayor parte de la estancia transcurre en apartamentos y suites, todos con nombre: Primavera, Estate, Autunno, Corsetto, Chiostrino, Loggia, Bicocca e Innominato. Hay además cuatro habitaciones llamadas Caciaia, Collinella, Poggiolo y Belvedere. Las dos últimas se encuentran una frente a otra, y a las cuatro se accede desde una puerta del antiguo patio interior. Según la página de apartamentos del castillo, Caciaia, Collinella y Poggiolo son las habitaciones que formaron parte de una torre de la antigua muralla del pueblo.
 
 Una escalera interior une tres plantas que antes formaban parte de una de las torres de la antigua muralla. La escalera es empinada y no es apta para niños. Cada una de las cuatro habitaciones tiene un pequeño frigorífico, microondas, hervidor eléctrico, tostadora y lavabo, y los baños cuentan con ducha y secador de pelo. El alojamiento con desayuno está disponible bajo petición.
 
@@ -41,3 +42,5 @@ Un pequeño jardín da acceso a las suites, y una limonaia conduce a un pasadizo
 ## Información práctica
 
 El check-in es de 16:00 a 19:00 y el check-out, hasta las 10:00, aunque los horarios pueden ajustarse si avisas al castillo. Una sala de reuniones admite hasta 30 personas. A lo largo del año se celebran conciertos y eventos en el castillo.
+
+El sitio web del castillo ofrece además Il Giulione, una casa rural (agriturismo) independiente a 12 km del castillo, con seis dormitorios, seis baños y piscina propia. No forma parte del complejo del castillo.

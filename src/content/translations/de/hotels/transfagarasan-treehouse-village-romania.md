@@ -21,10 +21,10 @@ bestFor:
   - "Paare"
 seo:
   metaTitle: "Transfagarasan Treehouse Village: Baumhäuser | StayAtNiche"
-  metaDescription: "Transfagarasan Treehouse Village bei Arefu in Rumänien: Baumhütten im Wald der Făgăraș-Berge, inspiriert vom Shinrin-Yoku, mit Sauna und Frühstück inklusive."
+  metaDescription: "Transfagarasan Treehouse Village an der Transfăgărășan in Rumänien: Baumhütten im Wald der Făgăraș-Berge, inspiriert vom Shinrin-Yoku, mit Sauna und Frühstück."
 ---
 
-Transfagarasan Treehouse Village ist eine kleine Siedlung aus Häusern zwischen den Bäumen bei Arefu, auf der Seite der Transfăgărășan in den Făgăraș-Bergen, Rumänien. Die Besitzer arbeiten seit 2016 an dem Projekt. Es greift die japanische Idee des Shinrin-Yoku auf, das Waldbaden, und bietet einen Rückzugsort in der Natur, der im Einklang mit der Umgebung steht.
+Transfagarasan Treehouse Village ist eine kleine Siedlung aus Häusern zwischen den Bäumen an der Transfăgărășan-Straße (DN7C, km 75) in den Făgăraș-Bergen, Rumänien. Die Besitzer arbeiten seit 2016 an dem Projekt. Es greift die japanische Idee des Shinrin-Yoku auf, das Waldbaden, und bietet einen Rückzugsort in der Natur, der im Einklang mit der Umgebung steht.
 
 ## Die Hütten
 
@@ -36,6 +36,6 @@ Es gibt eine Sauna, und das Restaurant ist um ein Smokehouse im Texas-Stil herum
 
 ## Die Lage
 
-Im Mittelpunkt steht der Wald. Man wacht in den Baumkronen auf, umgeben von Berglandschaft, und das Dorf ist klein genug, um sich ganz für sich zu fühlen.
+Im Mittelpunkt steht der Wald. Man wacht mitten im Wald auf, im Herzen der Făgăraș-Berge, und das Dorf ist klein genug, um sich ganz für sich zu fühlen.
 
 Das Dorf eignet sich für Familien und für alle, die eine Fahrt auf der Transfăgărășan planen und eine Nacht in den Bäumen verbringen möchten. Erkundigen Sie sich vor der Buchung, welcher Hüttentyp zu Ihrer Gruppe passt, denn die Belegungszahlen unterscheiden sich.

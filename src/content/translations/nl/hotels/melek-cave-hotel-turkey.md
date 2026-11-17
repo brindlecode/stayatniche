@@ -11,10 +11,8 @@ highlights:
 amenities:
   - "Gratis ontbijt"
   - "Gratis wifi"
-  - "Wasserij"
   - "Restaurant"
-  - "Auto- en fietsverhuur"
-  - "24-uurs roomservice"
+  - "Autoverhuur via het hotel"
   - "Gratis transfer vanaf het busstation"
 bestFor:
   - "Zelfstandige reizigers"
@@ -29,11 +27,11 @@ Melek Cave Hotel ligt midden in het historische Göreme, omringd door feeënscho
 
 ## De kamers
 
-De site vermeldt een Deluxe Cave Room van 35 vierkante meter met tuin-, berg- en binnenplaatsuitzicht en een tweepersoonsbed, en een Cave Double Room van 25 vierkante meter met uitzicht op het park. Je krijgt schone, moderne badkamers en een tv.
+De site vermeldt zes grotkamertypen: een Deluxe Cave Room (35 m², tuin-, berg- en binnenplaatsuitzicht, tweepersoonsbed), een Cave Double Room (25 m², parkzicht), een Arch Twin Room (25 m², bergzicht, twee eenpersoonsbedden), een Double Cave Room (25 m², binnenplaatsuitzicht, een tweepersoons- en een eenpersoonsbed), een Cave Triple Room (25 m², binnenplaatsuitzicht, drie eenpersoonsbedden) en een Cave Family Room (35 m², uitzicht op de stad, een tweepersoons- en twee eenpersoonsbedden). Je krijgt schone, moderne badkamers en een tv.
 
 ## Ontbijt en voorzieningen
 
-Het ontbijt wordt elke ochtend gratis op het terras geserveerd. Er is een gedeelde lounge om te ontspannen en andere gasten te ontmoeten, en een tuin waar je na een dag op pad met een drankje kunt zitten. Verder zijn er gratis, snelle wifi, een wasserij, een restaurant, fiets- en autoverhuur en 24-uurs roomservice.
+Het ontbijt wordt elke ochtend gratis op het terras geserveerd. Er is een gedeelde lounge om te ontspannen en andere gasten te ontmoeten, en een tuin waar je na een dag op pad met een drankje kunt zitten. Verder zijn er gratis, snelle wifi, een restaurant en autoverhuur via het hotel.
 
 ## Onderweg
 

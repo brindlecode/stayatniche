@@ -19,13 +19,14 @@ bestFor:
 seo:
   metaTitle: "Peristyle Cave Cappadocia: Höhlenhotel | StayAtNiche"
   metaDescription: "Peristyle Cave Cappadocia in Uçhisar: acht Zimmer, davon fünf Höhlenzimmer, mit Terrasse über den Morgenballons, Frühstück und Ausflügen in Kappadokien."
+niche_feature: "Insgesamt 8 Zimmer: fünf Höhlenzimmer und drei Steinzimmer, jedes nach einem Planeten benannt."
 ---
 
-Das Peristyle Cave Cappadocia ist ein kleines Hotel hoch in Uçhisar, unterhalb der Burg, die dem Dorf seine Silhouette gibt. Es hat insgesamt acht Zimmer: fünf Höhlenzimmer und drei Steinzimmer. Es handelt sich also um einen Aufenthalt, bei dem die meisten, wenn auch nicht alle Zimmer in den Fels gehauen sind.
+Das Peristyle Cave Cappadocia ist ein kleines Hotel hoch in Uçhisar, unterhalb der Burg, die dem Dorf seine Silhouette gibt. Es hat insgesamt acht Zimmer: fünf Höhlenzimmer und drei Steinzimmer. Es handelt sich also um einen Aufenthalt, bei dem die meisten, wenn auch nicht alle Zimmer Höhlenzimmer sind.
 
 ## Die Zimmer
 
-Die Zimmer sind nach Planeten benannt: Uranus, Mars, Jupiter, Saturn, Neptune, Mercury, Earth und Venus. Wenn Sie gezielt ein Höhlenzimmer möchten, fragen Sie bei der Buchung nach.
+Die Zimmer sind nach Planeten benannt: Uranus, Mars, Jupiter, Saturn, Neptune, Mercury, Earth und Venus. Die Website gibt nicht an, welche davon die Höhlenzimmer und welche die Steinzimmer sind. Wenn Sie gezielt ein Höhlenzimmer möchten, fragen Sie daher bei der Buchung nach.
 
 ## Die Lage
 

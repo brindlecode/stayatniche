@@ -26,7 +26,7 @@ Severin Safari Camp es un campamento de tiendas en pleno Parque Nacional de Tsav
 
 ## Las tiendas
 
-La Luxury Tent tiene 34 metros cuadrados y admite hasta tres adultos. Cada una incluye muebles de madera artesanales de estilo africano tradicional, una cama king size con mosquitero, un baño privado con agua caliente y fría y una terraza privada frente a la sabana. El campamento también cuenta con suites entre sus alojamientos.
+La Luxury Tent tiene 34 metros cuadrados y admite hasta tres adultos. Cada una incluye muebles de madera artesanales de estilo africano tradicional, una cama king size con mosquitero, un baño privado con agua caliente y fría y una terraza privada frente a la sabana. El campamento también cuenta con suites entre sus alojamientos, además de Kitani Bandas con cocina propia a unos 1,5 km del campamento principal; se necesita un vehículo para llegar hasta ellas.
 
 ## En el campamento
 

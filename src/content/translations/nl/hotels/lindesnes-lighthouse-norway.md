@@ -1,41 +1,41 @@
 ---
 source: lindesnes-lighthouse-norway
 destination: "Lindesnes, Vest-Agder"
-description: "Op de zuidelijkste punt van het Noorse vasteland staat de oudste vuurtoren van het land, in gebruik sinds 1656, met ernaast een boetiekhotel waarvan de kamers rechtstreeks in de rotsige kaap zijn uitgehouwen. De stenen muren zijn bekleed met warm hout en de ramen kijken uit op de plek waar het Skagerrak en de Noordzee samenkomen. Het restaurant haalt zijn vis dagelijks bij lokale vissersfamilies, en in de winter zie je vanachter glazen wanden van vloer tot plafond windstoten van meer dan 40 meter per seconde voorbijrazen."
+description: "De oudste vuurtoren van Noorwegen staat op de zuidelijkste punt van het Noorse vasteland, waar het Skagerrak de Noordzee ontmoet. Een hotel is er niet: het enige verblijf is een vakantieappartement in de ene helft van het voormalige huis van de assistent-vuurtorenwachter, terwijl in de andere helft de dienstdoende wachter woont."
 highlights:
-  - "Oudste vuurtoren van Noorwegen, in gebruik sinds 1656"
+  - "Oudste vuurtoren van Noorwegen: hier brandde in 1656 het eerste licht"
   - "Zuidelijkste punt van het Noorse vasteland"
-  - "Hotelkamers ontworpen in de natuurlijke rots van de kaap"
-  - "Uitstekend visrestaurant met de beste vangst uit de Noordzee"
-  - "Spectaculaire winterstormen kijken vanuit ruimtes met glazen wanden"
-  - "Noorderlicht op heldere herfst- en winternachten"
+  - "Eén vakantieappartement in de ene helft van het voormalige huis van de assistent-vuurtorenwachter"
+  - "Eerste vuurtorenmuseum van Noorwegen, in 2004 geopend in een bezoekerscentrum in de rots"
+  - "Vuurtorenwachters dag en nacht in dienst"
+  - "Ongeveer 80.000 bezoekers per jaar"
 amenities:
-  - "Boetiekkamers in de rots met zeezicht"
-  - "Visrestaurant ter plekke"
-  - "Spa en sauna"
-  - "Rondleidingen over de vuurtoren en het maritieme erfgoed"
-  - "Eigen lounge om stormen te kijken"
-  - "Hottubs buiten met uitzicht op de Noordzee"
+  - "Vakantieappartement in de ene helft van het voormalige huis van de assistent-vuurtorenwachter"
+  - "Vuurtorenmuseum van Lindesnes"
+  - "Bezoekerscentrum in de rots onder het station"
+  - "Historische diafoon-misthoorn, naar verluidt de enige die in Noorwegen nog werkt"
+  - "Gietijzeren vuurtoren uit 1915, 16,1 meter hoog"
+  - "Historische wachtersgebouwen op het station"
 bestFor:
-  - "Liefhebbers van architectuur en design"
-  - "Visliefhebbers"
-  - "Stellen die een dramatische Noordse sfeer zoeken"
-  - "Stormjagers en weerliefhebbers"
+  - "Vuurtorenliefhebbers"
+  - "Liefhebbers van maritieme geschiedenis"
+  - "Reizigers op weg naar de zuidpunt van Noorwegen"
+  - "Bezoekers van het vuurtorenmuseum"
 prosAndCons:
   pros:
-    - "Architectuur die uitzonderlijk goed opgaat in de natuurlijke rotsformaties"
-    - "Een van de spectaculairst gelegen hotels van Scandinavië"
-    - "Uitstekend restaurant dat voortbouwt op de lokale vistraditie"
-    - "Unieke, volkomen veilige stormbeleving in de winter"
+    - "Slapen bij de oudste vuurtoren van Noorwegen, op de zuidpunt van het vasteland"
+    - "Vuurtorenmuseum en bezoekerscentrum ter plaatse"
+    - "Vuurtorenwachters dag en nacht in dienst"
+    - "Historische gietijzeren toren uit 1915 en de oorspronkelijke wachtersgebouwen"
   cons:
-    - "Afgelegen, 2,5 uur rijden van Kristiansand"
-    - "Weinig kamers, dus zeer beperkte beschikbaarheid"
-    - "Het winterdonker kan voor sommige gasten zwaar zijn"
-    - "Stevige prijzen, ook voor de Noorse kust"
+    - "Slechts één appartement, dus de beschikbaarheid is zeer beperkt"
+    - "Geen hotel: het verblijf is één vakantieappartement, geen hotelkamers"
+    - "Afgelegen: ongeveer 10 kilometer van het dorp Høllen"
+    - "Controleer de officiële site van Lindesnes Fyr voor actuele prijzen en beschikbaarheid"
 seasonalInfo:
-  bestTime: September tot maart voor stormen en noorderlicht; juni tot augustus voor de middernachtzon
-  peakSeason: De zomer (juni–augustus) en het winterstormseizoen (november–februari)
-  notes: De vuurtoren is het hele jaar open en in elk seizoen bijzonder. In de zomer is er de middernachtzon, met om elf uur 's avonds goudkleurig, onwerkelijk licht. Herfst en winter brengen de heftige Noordzeestormen waar de kaap om bekendstaat, en op heldere nachten is het noorderlicht te zien. Het hotel is er bewust op ontworpen om stormkijken tot een luxe en veilige ervaring te maken.
+  bestTime: "Controleer de officiële site van Lindesnes Fyr voor openingstijden en beschikbaarheid van het appartement"
+  peakSeason: "Niet vermeld in de bronnen die voor deze pagina zijn gebruikt"
+  notes: "De bronnen voor deze pagina noemen geen seizoensdata. Controleer de officiële site van Lindesnes Fyr (lindesnesfyr.no) voordat je plant."
 nearbyAttractions:
   - name: Lindesnes-museum
     distance: 0 km
@@ -46,18 +46,14 @@ nearbyAttractions:
   - name: Vuurtoren van Lista
     distance: 45 km
 seo:
-  metaTitle: "Lindesnes: vuurtorenhotel in Noorwegen | StayAtNiche"
-  metaDescription: "Overnachten bij de oudste vuurtoren van Noorwegen: kamers in de rots, verse Noordzeevis en stormen kijken op de zuidpunt van het land. Vanaf $ 350 per nacht."
+  metaTitle: "Lindesnes Fyr: appartement bij de vuurtoren | StayAtNiche"
+  metaDescription: "Lindesnes, de oudste vuurtoren van Noorwegen, op de zuidpunt van het vasteland. Geen hotel: één vakantieappartement in het voormalige assistentenhuis."
 ---
 
-Lindesnes markeert sinds 1656 het zuidelijkste punt van het Noorse vasteland. Dat jaar werd op deze onbeschutte rotskaap, waar het Skagerrak en de Noordzee samenkomen, de eerste vuurtoren van het land aangestoken. Bijna vier eeuwen maritieme geschiedenis zitten hier in de steen: in de verweerde gebouwen van de vuurtorenwachters en in het krachtige karakter van een kaap die alles heeft doorstaan, van windstille zomerdagen tot de woeste winterstormen die van deze kaap een van de meest gevreesde passages voor zeilschepen langs de Noorse kust maakten.
+Lindesnes markeert het zuidelijkste punt van het Noorse vasteland. Op 27 februari 1656 werd hier het eerste vuurtorenlicht van Noorwegen ontstoken, bij de ingang van het Skagerrak, maar het werd nog dezelfde herfst gedoofd na klachten over het slechte licht; het station geldt desondanks als gesticht in 1656. De huidige gietijzeren toren, 16,1 meter hoog, dateert van 1915, toen de lens uit de oude toren erheen werd verplaatst; zijn huidige vorm kreeg het station in 1920, met een nieuw machinehuis en een mistsignaalinstallatie.
 
-Het hotel rond het vuurtorencomplex is een doordacht staaltje Scandinavische architectuur: kamers die rechtstreeks in de rotswand van de kaap zijn uitgehouwen, natuurstenen muren bekleed met warm hout en ramen die elk een eigen compositie van zee en lucht omlijsten. De ontwerpers werkten mét het landschap in plaats van eroverheen, en het resultaat is een hotel dat echt in zijn omgeving verankerd voelt. De gemeenschappelijke ruimtes zijn aan de zeekant volledig beglaasd, zodat je het weer helemaal beleeft zonder er last van te hebben: je ziet de Noordzee op haar woest tekeergaan vanuit een warme, mooi ontworpen ruimte, met iets warms in je hand.
+Dit is geen hotel. Het verblijf is één vakantieappartement in de ene helft van het voormalige huis van de assistent-vuurtorenwachter; in de andere helft woont de dienstdoende wachter. In Lindesnes zijn dag en nacht wachters in dienst, wat de Noorse Wikipedia beschrijft als uniek onder de Noorse vuurtorens.
 
-Het restaurant is een van de belangrijkste redenen om helemaal naar het zuiden af te reizen. De Noordzee rond Lindesnes is buitengewoon rijk, en de keuken werkt rechtstreeks met lokale vissersfamilies samen om elke dag verse vangst op tafel te zetten. De gezouten en gerookte bereidingen weerspiegelen een eeuwenoude Noordse conserveringstraditie; de verse gerechten doen niet onder voor wat je in Oslo of Bergen krijgt. De wijnkaart is compact en bewust gericht op witte wijnen die goed bij vis passen.
+Naast de vuurtoren ligt het vuurtorenmuseum van Lindesnes, het eerste vuurtorenmuseum van Noorwegen, in 2004 geopend in een bezoekerscentrum dat in de rots onder het station is gebouwd. Het maakt deel uit van het museumnetwerk van de Noorse kustadministratie (Kystverkmusea), dat Lindesnes coördineert. De oude misthoorn, een diafoon, wordt beschreven als de enige installatie van dit type die in Noorwegen nog werkt. Elk jaar bezoeken ongeveer 80.000 mensen de vuurtoren.
 
-In de zomer kleurt de middernachtzon de lucht om elf uur 's avonds diep amber, en de zee eronder vangt dat licht in flarden op. In de winter worden de stormen, waar het hotel deels omheen is ontworpen, het hoofdprogramma: op de kaap zijn windstoten van meer dan 40 meter per seconde gemeten, en de beglaasde gemeenschappelijke ruimtes zijn precies daarvoor gebouwd: warmte en uitzicht in gelijke mate.
-
-Op heldere herfst- en winternachten is vanaf het hotel het noorderlicht te zien. Er is in de wijde omtrek nauwelijks lichtvervuiling, dus als de omstandigheden goed zijn, is het schouwspel navenant fel.
-
-Dit is een klein hotel op een extreme plek. Boek ruim van tevoren.
+Lindesnes ligt in de provincie Agder (voorheen Vest-Agder), ongeveer 10 kilometer ten zuidwesten van het dorp Høllen. Voor details over het appartement, actuele prijzen en openingstijden kun je terecht op de officiële site van Lindesnes Fyr, lindesnesfyr.no.

@@ -1,11 +1,11 @@
 ---
 source: amberley-castle-england
 destination: "Amberley, West Sussex"
-description: "Un castello del XII secolo nel West Sussex, con le mura di cinta alte 60 piedi ancora intatte, una saracinesca che viene alzata e abbassata ogni giorno e 19 camere, tutte diverse, ricavate nelle torri e nel corpo di guardia originali."
+description: "Un castello del West Sussex con origini nel 1103, ancora racchiuso da una cinta muraria alta 60 piedi e con un'antica saracinesca all'ingresso, con 19 camere, tutte diverse, in varie parti della tenuta."
 highlights:
-  - "Saracinesca del XII secolo ancora funzionante, alzata e abbassata ogni giorno"
-  - "Mura di cinta originali alte 60 piedi e merlature in condizioni eccezionali"
-  - "Camere nelle torri, tra cui la spettacolare Queen’s Room nel corpo di guardia"
+  - "Un'antica saracinesca all'ingresso del castello"
+  - "Una cinta muraria alta 60 piedi che racchiude ancora il castello, con un corpo di guardia a due torri"
+  - "19 camere distribuite nella tenuta, dal Manor House e dalle Tower House Mews alla Bishopric Dairy"
   - "Un parco di 900 anni con tassi secolari e un prato da croquet"
   - "Nel cuore dei South Downs, il più giovane parco nazionale d’Inghilterra"
 amenities:
@@ -24,9 +24,9 @@ bestFor:
   - "Buongustai interessati alla buona cucina britannica"
 prosAndCons:
   pros:
-    - "Uno dei castelli meglio conservati d’Inghilterra tra quelli trasformati in hotel"
+    - "Un autentico castello medievale con circa 900 anni di storia, trasformato in hotel"
     - "L’arrivo sotto la saracinesca è un momento davvero teatrale ed emozionante"
-    - "Camere nelle torri con autentiche proporzioni medievali"
+    - "Camere dal carattere e dalla posizione diversi: non ce ne sono due uguali"
     - "Il numero ridotto di camere garantisce un servizio attento e personale"
     - "Facile da raggiungere da Londra (90 minuti di treno)"
   cons:
@@ -50,16 +50,17 @@ nearbyAttractions:
     distance: "22 km"
 seo:
   metaTitle: "Amberley Castle, castello medievale inglese | StayAtNiche"
-  metaDescription: "Saracinesca funzionante, merlature originali e camere nelle torri: Amberley Castle, il castello medievale più romantico d’Inghilterra, è a un’ora da Londra."
+  metaDescription: "Amberley Castle, nel West Sussex: hotel in un castello medievale con antica saracinesca, mura alte 60 piedi e 19 camere uniche, vicino ad Arundel."
+niche_feature: "Autentico castello medievale cinto da mura; le sue 19 camere si trovano in diverse parti della tenuta: Manor House, Tower House Mews e le Gatehouse Suites nella Bishopric Dairy del XVII secolo, appena fuori dalle mura."
 ---
 
-La saracinesca di Amberley Castle si chiude alle tue spalle con un rumore, ferro sulla pietra, lento e pesante, che toglie ogni dubbio su dove ti trovi. Sei dentro un castello del XII secolo. Il mondo esterno è dall’altra parte di 60 piedi di mura di cinta medievali. E non è una metafora.
+Si entra ad Amberley Castle passando sotto un'antica saracinesca, e questo toglie ogni dubbio su dove ti trovi. Sei dentro un castello le cui origini risalgono al 1103. Il mondo esterno è dall’altra parte di una cinta muraria alta 60 piedi. E non è una metafora.
 
-Costruito come residenza di campagna fortificata per i vescovi di Chichester, Amberley è abitato dal 1100 circa ed è sopravvissuto quasi intatto. Le mura di cinta conservano l’altezza originale. Il corpo di guardia controlla ancora l’unico ingresso. Il parco murato, racchiuso nell’antico perimetro, ha quella qualità raccolta e sospesa che solo i giardini davvero medievali sanno avere: tassi più vecchi di qualunque ospite oggi in vita, un prato da croquet dentro una struttura costruita per la difesa e, la sera, un silenzio che la campagna dei South Downs lì fuori rende ancora più profondo.
+Costruito come residenza di campagna fortificata per i vescovi di Chichester, Amberley è abitato dall'inizio del XII secolo. La cinta muraria alta 60 piedi racchiude ancora il castello, anche se tra i 20 e i 30 piedi andarono perduti quando le difese furono distrutte nel 1643, durante la guerra civile. A sud si trova un corpo di guardia a due torri. Il parco murato, racchiuso nell’antico perimetro, ha quella qualità raccolta e sospesa che solo i giardini davvero medievali sanno avere: tassi più vecchi di qualunque ospite oggi in vita, un prato da croquet dentro una struttura costruita per la difesa e, la sera, un silenzio che la campagna dei South Downs lì fuori rende ancora più profondo.
 
 **Le camere**
 
-Ciascuna delle 19 camere e suite è stata progettata intorno al carattere fisico della sua porzione di castello, il che significa che non ce ne sono due uguali. Le camere nelle torri hanno la verticalità compressa delle costruzioni medievali: muri spessi un metro, finestre incassate nella pietra che lasciano entrare poca luce e un silenzio acustico che le tecniche edilizie moderne non sanno riprodurre. Se è disponibile, la camera da prenotare è la Queen’s Room nel corpo di guardia originale: una stanza abbastanza alta da ospitare un vero letto a baldacchino, con vista diretta sul ponte levatoio e la consapevolezza che ogni personaggio di rilievo entrato in questo castello nel corso di nove secoli è passato proprio sotto il tuo pavimento.
+Ciascuna delle 19 camere e suite ha un design individuale e occupa una parte diversa della tenuta, dal Manor House e dalle Tower House Mews alla Bishopric Dairy oltre le mura, quindi non ce ne sono due uguali.
 
 I bagni sono inseriti con intelligenza in spazi che non erano stati pensati per le tubature, e la qualità di letti e biancheria è alta. L’equilibrio regge: pietra antica e comfort moderno convivono senza il solito imbarazzo.
 

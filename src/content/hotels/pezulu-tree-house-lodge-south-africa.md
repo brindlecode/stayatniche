@@ -43,7 +43,7 @@ niche_source_url: "https://pezulu.co.za/welcome/"
 niche_verified_at: 2026-11-17
 ---
 
-Pezulu Tree House Lodge is a small game lodge in the Greater Kruger area around Hoedspruit, in South Africa's Limpopo Province. Its accommodation is made up of treehouses, each one built around the canopy of growing trees. The lodge is kept intentionally small so that each guest has a personal experience.
+Pezulu Tree House Lodge is a small game lodge in the Greater Kruger area around Hoedspruit, in South Africa's Limpopo Province. Its accommodation is mostly treehouses, each one built around the canopy of growing trees; the exception is Zebrawood, a self-catering bush cabin. The lodge is kept intentionally small so that each guest has a personal experience.
 
 ## The main building
 

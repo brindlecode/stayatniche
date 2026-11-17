@@ -1,7 +1,7 @@
 ---
 source: mt-matutum-domesville-glamping-philippines
 destination: "Tupi, South Cotabato"
-description: "Site de glamping composé de dômes géodésiques à South Cotabato, à l'écart de la zone d'activités, avec vue sur une plantation d'ananas et observation des étoiles depuis les dômes."
+description: "Site de glamping composé de dômes géodésiques, avec aussi une casita, une villa, une casa et une tente de camping, à South Cotabato, à l'écart de la zone d'activités, avec vue sur une plantation d'ananas et observation des étoiles depuis les dômes."
 highlights:
   - "Hébergement en glamping sous dômes géodésiques à Tupi, South Cotabato"
   - "Dômes à l'écart de la zone d'activités, idéaux pour les couples"
@@ -16,11 +16,11 @@ seo:
   metaDescription: "Glamping en dômes géodésiques à Tupi, South Cotabato : dômes isolés, vue sur une plantation d'ananas, petit-déjeuner pour deux et ciel étoilé."
 ---
 
-Mt. Matutum DomesVille Glamping est un séjour de type camping à Tupi, à South Cotabato, aux Philippines, où l'hébergement prend la forme de dômes plutôt que de chambres d'hôtel. L'exploitant qualifie ces dômes d'hébergements de camping originaux et exceptionnels, conçus pour offrir un haut niveau de confort en plein air.
+Mt. Matutum DomesVille Glamping est un séjour de type camping à Tupi, à South Cotabato, aux Philippines, où l'hébergement prend surtout la forme de dômes plutôt que de chambres d'hôtel. L'exploitant qualifie ces dômes d'hébergements de camping originaux et exceptionnels, conçus pour offrir un haut niveau de confort en plein air.
 
 ## Les dômes
 
-Les unités sont des dômes géodésiques, situés à l'écart de la zone d'activités. C'est cette séparation qui fait l'attrait pour les couples en quête de calme, les dômes étant isolés du reste du site. Le site évoque une observation des étoiles illimitée à deux. Les dômes sont l'attraction principale, et c'est leur originalité qui fait la différence : il s'agit d'un site de glamping, et non d'un hôtel doté d'une seule chambre bulle.
+Les unités sont des dômes géodésiques, situés à l'écart de la zone d'activités. C'est cette séparation qui fait l'attrait pour les couples en quête de calme, les dômes étant isolés du reste du site. Le site évoque une observation des étoiles illimitée à deux. Les dômes sont l'attraction principale, mais pas la seule option : la page de réservation propose aussi Casita Adrylle, Villa Carliane, Casa del Juancio et une tente de camping. Il s'agit d'un site de glamping, et non d'un hôtel doté d'une seule chambre bulle.
 
 ## Le cadre
 

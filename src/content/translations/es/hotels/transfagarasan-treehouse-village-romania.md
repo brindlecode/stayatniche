@@ -21,10 +21,10 @@ bestFor:
   - "Parejas"
 seo:
   metaTitle: "Transfagarasan Treehouse Village: cabañas | StayAtNiche"
-  metaDescription: "Transfagarasan Treehouse Village, cabañas suspendidas cerca de Arefu, en Rumanía: un refugio en las montañas Făgăraș, inspirado en el shinrin-yoku."
+  metaDescription: "Transfagarasan Treehouse Village, cabañas suspendidas en la Transfăgărășan, en Rumanía: un refugio en las montañas Făgăraș, inspirado en el shinrin-yoku."
 ---
 
-Transfagarasan Treehouse Village es una pequeña aldea de casas suspendidas entre los árboles, cerca de Arefu, en el lado de la Transfăgărășan de las montañas Făgăraș, en Rumanía. Los propietarios trabajan en el proyecto desde 2016 y se inspira en el concepto japonés del shinrin-yoku, o baño de bosque, para ofrecer un refugio en la naturaleza en armonía con el entorno.
+Transfagarasan Treehouse Village es una pequeña aldea de casas suspendidas entre los árboles, en la carretera Transfăgărășan (DN7C, km 75), en las montañas Făgăraș, en Rumanía. Los propietarios trabajan en el proyecto desde 2016 y se inspira en el concepto japonés del shinrin-yoku, o baño de bosque, para ofrecer un refugio en la naturaleza en armonía con el entorno.
 
 ## Las cabañas
 
@@ -36,6 +36,6 @@ Hay sauna, y el restaurante gira en torno a un ahumadero al estilo texano. La en
 
 ## El entorno
 
-El bosque es el centro de la estancia. Te despiertas entre las copas, con el paisaje montañoso alrededor, y la aldea es lo bastante pequeña como para sentirse íntima.
+El bosque es el centro de la estancia. Te despiertas en medio del bosque, en el corazón de las montañas Făgăraș, y la aldea es lo bastante pequeña como para sentirse íntima.
 
 La aldea es ideal para familias y para quienes planean un viaje por la carretera Transfăgărășan y quieren pasar una noche entre los árboles. Antes de reservar, pregunta qué tipo de cabaña se ajusta a tu grupo, porque la capacidad varía.

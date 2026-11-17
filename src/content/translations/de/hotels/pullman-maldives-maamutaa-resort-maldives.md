@@ -1,9 +1,9 @@
 ---
 source: pullman-maldives-maamutaa-resort-maldives
 destination: "Maamutaa-Insel, Gaafu-Alifu-Atoll"
-description: "Nur die Aqua Villas dieses Inselresorts haben ein Unterwasserschlafzimmer; der Rest des Resorts besteht aus gewöhnlichen Strand- und Wasservillen. Jede Aqua Villa verbindet ein versunkenes Schlafzimmer mit einem Schlafzimmer über dem Wasser im Obergeschoss."
+description: "Nur die zwei Aqua Villas dieses Inselresorts haben ein Unterwasserschlafzimmer; der Rest des Resorts besteht aus gewöhnlichen Strand- und Wasservillen. Jede Aqua Villa verbindet ein versunkenes Schlafzimmer mit einem Schlafzimmer über dem Wasser im Obergeschoss."
 highlights:
-  - "Aqua Villas mit einem versunkenen Schlafzimmer unter der Lagune und Blick auf das Meeresleben"
+  - "Die zwei Aqua Villas mit einem versunkenen Schlafzimmer unter der Lagune und Blick auf das Meeresleben"
   - "Zweistöckige Aqua Villa mit 209 Quadratmetern, Schlafzimmer über dem Wasser und großem Pool mit privatem Deck"
   - "Alle übrigen Unterkünfte sind Strand- oder Wasservillen ohne Unterwasserzimmer"
   - "Privatinsel mit 18 Hektar Vegetation und 122 Villen"
@@ -21,9 +21,10 @@ bestFor:
 seo:
   metaTitle: "Pullman Maldives Maamutaa: Unterwasserzimmer | StayAtNiche"
   metaDescription: "Im Pullman Maldives Maamutaa hat nur die Aqua Villa ein Schlafzimmer unter Wasser. Alle übrigen Villen stehen am Strand oder über dem Wasser."
+niche_feature: "Nur die Aqua Villas (zwei, laut Angabe des Resorts mit 2 Schlafzimmern unter Wasser) haben ein versenktes Master-Schlafzimmer unter der Lagune sowie ein Schlafzimmer über dem Wasser; die übrigen Villen der insgesamt 122 sind Strand- oder Wasservillen."
 ---
 
-Nur die Aqua Villas im Pullman Maldives Maamutaa haben ein Schlafzimmer unter Wasser. Der Rest des Resorts besteht aus gewöhnlichen Strand- und Wasservillen ohne versunkenen Raum. Wer die Nacht unter Wasser erleben möchte, sollte also gezielt eine Aqua Villa buchen.
+Nur die zwei Aqua Villas im Pullman Maldives Maamutaa haben ein Schlafzimmer unter Wasser. Der Rest des Resorts besteht aus gewöhnlichen Strand- und Wasservillen ohne versunkenen Raum. Wer die Nacht unter Wasser erleben möchte, sollte also gezielt eine Aqua Villa buchen.
 
 ## Die Aqua Villa
 

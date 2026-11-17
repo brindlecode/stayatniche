@@ -7,17 +7,17 @@
 | Aldourie Castle (aldourie-castle-united-kingdom) | castle-hotels | castle-hotels | entire_property | https://wildland.scot/properties/aldourie/ |
 | Alila Jabal Akhdar (alila-jabal-akhdar-oman) | cliffside-hotels | cliffside-hotels | entire_property | https://www.mrandmrssmith.com/luxury-hotels/alila-jabal-akhdar |
 | Alila Villas Uluwatu (alila-villas-uluwatu-bali) | cliffside-hotels | cliffside-hotels | entire_property | https://rumemagazine.com/hotels/hotel-reviews/alila-villas-uluwatu/ |
-| Aman-i-Khás (aman-i-khas-india) | desert-camps | safari-lodges | entire_property | https://www.aman.com/resorts/aman-i-khas |
-| Amangiri (amangiri-utah) | cliffside-hotels | desert-camps | entire_property | https://www.aman.com/resorts/amangiri |
+| Aman-i-Khás (aman-i-khas-india) | safari-lodges | safari-lodges | entire_property | https://www.aman.com/resorts/aman-i-khas |
+| Amangiri (amangiri-utah) | desert-camps | desert-camps | entire_property | https://www.aman.com/resorts/amangiri |
 | Amberley Castle (amberley-castle-england) | castle-hotels | castle-hotels | specific_rooms | https://amberleycastle.co.uk/explore/castle-stays-in-west-sussex/ |
-| Anantara Kihavah Maldives Villas (anantara-maldives-underwater) | underwater-rooms | overwater-bungalows | specific_rooms | https://www.thenationalnews.com/travel/2025/10/10/anantara-kihavah-maldives-review/ |
+| Anantara Kihavah Maldives Villas (anantara-maldives-underwater) | overwater-bungalows | overwater-bungalows | specific_rooms | https://www.thenationalnews.com/travel/2025/10/10/anantara-kihavah-maldives-review/ |
 | Anantara Sir Bani Yas Island Safari Resort (anantara-sir-bani-yas-uae) | safari-lodges | safari-lodges | unverified | https://en.wikipedia.org/wiki/Sir_Bani_Yas |
 | andBeyond Benguerra Island (andbeyond-benguerra-island-mozambique) | overwater-bungalows | draft, 301 to safari-lodges | unverified | https://www.andbeyond.com/lodge-editorial/benguerra-island/accommodation/ |
 | &Beyond Ngorongoro Crater Lodge (andbeyond-ngorongoro-crater-lodge) | safari-lodges | safari-lodges | entire_property | https://www.andbeyond.com/our-lodges/africa/tanzania/ngorongoro-crater/andbeyond-ngorongoro-crater-lodge/ |
 | &Beyond Phinda Private Game Reserve (andbeyond-phinda-south-africa) | safari-lodges | safari-lodges | entire_property | https://assets.andbeyond.com/image/upload/v1757070782/Collateral/Destination-Brochure-Phinda-Private-Game-Reserve-South-Africa.pdf |
-| Archipelago Igloos (archipelago-igloos-finland) | ice-hotels | bubble-hotels | entire_property | https://www.visitfinland.com/en/product/c8951ee0-6e0d-4b1b-b3eb-5ecd37eee1f7/archipelago-igloos-accomodation-experience-in-glass-igloo/ |
+| Archipelago Igloos (archipelago-igloos-finland) | bubble-hotels | bubble-hotels | entire_property | https://www.visitfinland.com/en/product/c8951ee0-6e0d-4b1b-b3eb-5ecd37eee1f7/archipelago-igloos-accomodation-experience-in-glass-igloo/ |
 | Arctic Bath (arctic-bath-sweden) | floating-hotels | floating-hotels | specific_rooms | https://arcticbath.se/hotel/ |
-| Arctic Guesthouse & Igloos (arctic-guesthouse-and-igloos-finland) | ice-hotels | bubble-hotels | specific_rooms | https://arcticguesthouseandigloos.com/igloos/ |
+| Arctic Guesthouse & Igloos (arctic-guesthouse-and-igloos-finland) | bubble-hotels | bubble-hotels | specific_rooms | https://arcticguesthouseandigloos.com/igloos/ |
 | Ashford Castle (ashford-castle-ireland) | castle-hotels | castle-hotels | specific_rooms | https://www.ashfordcastle.com/about |
 | Atlantis Paradise Island (atlantis-aquaventure-bahamas) | underwater-rooms | draft, 301 to underwater-rooms | experience_only | https://www.atlantisbahamas.com/faq |
 | Attrap'Rêves (attrap-reves-france) | bubble-hotels | bubble-hotels | specific_rooms | https://www.attrap-reves.com/en/transparent-bubble-bl/?c1-sleep-in-a-bubble-zen-bubble |
@@ -107,7 +107,7 @@
 | Jade Mountain Resort (jade-mountain-st-lucia) | cliffside-hotels | cliffside-hotels | unverified | https://jademountain.com/ |
 | Jao Camp (jao-camp-botswana) | safari-lodges | safari-lodges | entire_property | https://jaoreserve.com/jao-camp/ |
 | Jules' Undersea Lodge (jules-undersea-lodge-florida) | underwater-rooms | underwater-rooms | entire_property | https://www.marinelabunderseapark.org/jules |
-| Juvet Landscape Hotel (juvet-landscape-hotel-norway) | cliffside-hotels | treehouse-hotels | specific_rooms | https://juvet.com/en/landskapsromma |
+| Juvet Landscape Hotel (juvet-landscape-hotel-norway) | treehouse-hotels | draft, 301 to cliffside-hotels | specific_rooms | https://juvet.com/en/landskapsromma |
 | Kakslauttanen Arctic Resort (kakslauttanen-finland) | bubble-hotels | bubble-hotels | specific_rooms | https://www.kakslauttanen.fi/accommodation/small-glass-igloo-east-village |
 | Keemala Bird's Nest Pool Villa (keemala-bird-nest-phuket) | treehouse-hotels | treehouse-hotels | unverified | https://www.keemala.com/villa/birds-nest-pool-villas/ |
 | Kelebek Special Cave Hotel (kelebek-special-cave-hotel-turkey) | cave-hotels | cave-hotels | specific_rooms | https://www.kelebekhotel.com/en/about |
@@ -115,15 +115,15 @@
 | Kokopelli's Cave Bed & Breakfast (kokopelli-cave-usa) | cave-hotels | cave-hotels | entire_property | https://kokos-cave.com/ |
 | La Bulle Etoilée (la-bulle-etoilee-france) | bubble-hotels | bubble-hotels | entire_property | https://www.labulleetoilee.fr/ |
 | Langley Castle Hotel (langley-castle-hotel-united-kingdom) | castle-hotels | castle-hotels | specific_rooms | https://langleycastle.com/about-langley-castle/ |
-| Lapa Rios Lodge (lapa-rios-costa-rica) | treehouse-hotels | jungle-lodges | entire_property | https://www.laparios.com/ |
+| Lapa Rios Lodge (lapa-rios-costa-rica) | jungle-lodges | jungle-lodges | entire_property | https://www.laparios.com/ |
 | Lindesnes Lighthouse Hotel (lindesnes-lighthouse-norway) | lighthouse-hotels | lighthouse-hotels | entire_property | https://no.wikipedia.org/wiki/Lindesnes_fyr |
 | Locanda al Castello (locanda-al-castello-italy) | castle-hotels | castle-hotels | specific_rooms | https://www.alcastello.net/it/camere |
 | Londolozi Varty Camp (londolozi-varty-camp-south-africa) | safari-lodges | safari-lodges | entire_property | https://www.londolozi.com/ |
 | Longitude 131° (longitude-131-australia) | desert-camps | desert-camps | entire_property | https://longitude131.com.au/ |
 | Lucky Cave Cappadocia (lucky-cave-cappadocia-turkey) | cave-hotels | cave-hotels | unverified | https://www.luckycavehotel.com/deluxe-oda.html |
-| Machupicchu Ecolodge (machupicchu-ecolodge-peru) | jungle-lodges | jungle-lodges | unverified | (none: unverified) |
+| Machupicchu Ecolodge (machupicchu-ecolodge-peru) | jungle-lodges | draft, 301 to jungle-lodges | unverified | (none: unverified) |
 | Majakkahotelli (majakkahotelli-finland) | lighthouse-hotels | lighthouse-hotels | specific_rooms | https://www.kylmapihlaja.com/majakkahotelli.php |
-| Manshausen Island Resort (manshausen-island-resort-norway) | cliffside-hotels | overwater-bungalows | specific_rooms | https://bystinessen.com/architecture/manshausen2/ |
+| Manshausen Island Resort (manshausen-island-resort-norway) | overwater-bungalows | overwater-bungalows | specific_rooms | https://bystinessen.com/architecture/manshausen2/ |
 | The Manta Resort, Underwater Room (manta-resort-zanzibar) | underwater-rooms | underwater-rooms | specific_rooms | https://themantaresort.com/underwater-room/ |
 | Mashpi Lodge (mashpi-lodge-ecuador) | jungle-lodges | jungle-lodges | entire_property | https://www.mashpilodge.com/the-lodge/ |
 | Melek Cave Hotel (melek-cave-hotel-turkey) | cave-hotels | cave-hotels | entire_property | https://melekcave.com/ |
@@ -134,8 +134,8 @@
 | Mt. Matutum DomesVille Glamping (mt-matutum-domesville-glamping-philippines) | bubble-hotels | bubble-hotels | unverified | https://hotels.cloudbeds.com/reservation/KbrUB1 |
 | Museum Hotel (museum-hotel-cappadocia) | cave-hotels | cave-hotels | specific_rooms | https://www.museumhotel.com.tr/en/rooms-suites/deluxe-rooms |
 | Caledonian Sleeper (night-train-caledonian-sleeper) | train-hotels | train-hotels | entire_property | https://www.sleeper.scot/accommodation/club-en-suite-room |
-| Nihi Sumba (nihi-sumba-indonesia) | jungle-lodges | treehouse-hotels | specific_rooms | https://nihi.com/sumba/villa/treehouse/ |
-| Niku Hide (niku-hide-finland) | treehouse-hotels | treehouse-hotels | unverified | (none: unverified) |
+| Nihi Sumba (nihi-sumba-indonesia) | treehouse-hotels | treehouse-hotels | specific_rooms | https://nihi.com/sumba/villa/treehouse/ |
+| Niku Hide (niku-hide-finland) | treehouse-hotels | draft, 301 to treehouse-hotels | unverified | (none: unverified) |
 | Norah Head Lighthouse & Cottages (norah-head-lighthouse-and-cottages-australia) | lighthouse-hotels | lighthouse-hotels | entire_property | https://reflectionsholidays.com.au/unique-stays/norah-head-lighthouse/accommodation/ |
 | Northern Rail Traincar Inn (northern-rail-traincar-inn-united-states) | train-hotels | train-hotels | entire_property | https://www.northernrail.net/ |
 | Nothofagus Hotel & Spa (nothofagus-hotel-chile) | treehouse-hotels | draft, 301 to jungle-lodges | unverified | https://www.huilohuilo.com/en/where-to-stay/hotel-nothofagus |
@@ -192,9 +192,9 @@
 | Sultan Cave Suites (sultan-cave-suites-turkey) | cave-hotels | cave-hotels | entire_property | https://www.sultancavesuites.com/en/about |
 | Taru Cave Suites (taru-cave-suites-turkey) | cave-hotels | cave-hotels | entire_property | https://tarucavesuites.com/ |
 | Telunas Private Island Overwater Villas (telunas-private-island-overwater-villas-indonesia) | overwater-bungalows | overwater-bungalows | specific_rooms | https://telunasresorts.com/private-island/ |
-| The Bubble Hotel Belgium (the-bubble-hotel-belgium) | bubble-hotels | bubble-hotels | unverified | (none: unverified) |
+| The Bubble Hotel Belgium (the-bubble-hotel-belgium) | bubble-hotels | draft, 301 to bubble-hotels | unverified | (none: unverified) |
 | The Castle Hotel (the-castle-hotel-taunton-united-kingdom) | castle-hotels | draft, 301 to castle-hotels | unverified | https://www.the-castle-hotel.com/about-us/ |
-| The Dune Camp (the-dune-camp-botswana) | desert-camps | safari-lodges | entire_property | https://www.bushways.com/our-lodges/the-dune-camp/ |
+| The Dune Camp (the-dune-camp-botswana) | safari-lodges | safari-lodges | entire_property | https://www.bushways.com/our-lodges/the-dune-camp/ |
 | The Ghan (the-ghan-australia) | train-hotels | train-hotels | entire_property | https://www.journeybeyondrail.com.au/the-ghan/ |
 | The Harpy Houseboat (the-harpy-houseboat-london-united-kingdom) | floating-hotels | floating-hotels | entire_property | https://theharpy.com/ |
 | The Old Railway Station (the-old-railway-station-united-kingdom) | train-hotels | train-hotels | specific_rooms | https://www.old-station.co.uk/ |
@@ -215,7 +215,7 @@
 | Venice Simplon-Orient-Express (venice-simplon-orient-express) | train-hotels | train-hotels | entire_property | https://www.belmond.com/en/trains/europe/venice-simplon-orient-express/ |
 | Vintage Cave House (vintage-cave-house-turkey) | cave-hotels | cave-hotels | specific_rooms | https://vintagecavehouse.com/about-us/ |
 | Vuurtoren van Harlingen (vuurtoren-van-harlingen-netherlands) | lighthouse-hotels | lighthouse-hotels | entire_property | https://www.dromenaanzee.nl/ |
-| Wadi Rum Bubble Camp (wadi-rum-bubble-camp-jordan) | bubble-hotels | bubble-hotels | unverified | (none: unverified) |
+| Wadi Rum Bubble Camp (wadi-rum-bubble-camp-jordan) | bubble-hotels | draft, 301 to bubble-hotels | unverified | (none: unverified) |
 | Walworth Castle Hotel (walworth-castle-hotel-united-kingdom) | castle-hotels | castle-hotels | specific_rooms | https://walworthcastle.co.uk/hotels-in-darlington/accommodation-in-darlington/ |
 | Whitepod Eco-Luxury Hotel (whitepod-switzerland) | bubble-hotels | bubble-hotels | unverified | https://whitepod.com/en/pods |
 | Wilderness Davison's Camp (wilderness-davisons-camp-zimbabwe) | safari-lodges | safari-lodges | entire_property | https://www.wildernessdestinations.com/africa/zimbabwe/hwange-national-park/davisons-camp |

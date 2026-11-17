@@ -8,8 +8,6 @@ highlights:
   - "Bebost landgoed van circa 500 hectare met GPS-gevolgde wandelpaden"
   - "Tussen Arezzo en Siena, met uitzicht over het Val di Chiana"
 amenities:
-  - "Bar in de winkel van het dorp"
-  - "Restaurant buiten de muren"
   - "Glutenvrije menu-opties"
 bestFor:
   - "Stellen"
@@ -28,7 +26,7 @@ Gargonza ligt op ongeveer 540 meter boven zee en kijkt uit over het Val di Chian
 
 ## Waar je slaapt en eet
 
-Je verblijft in suites en appartementen binnen de muren van het dorp. In de winkel van het dorp, de Bottega di Gargonza, is een bar, terwijl het restaurant net buiten de muren ligt. Het restaurant is ingericht voor glutenvrije menu's, en met Kerst en Oud en Nieuw worden seizoensmenu's aangeboden.
+Je verblijft in suites en appartementen binnen de muren van het dorp. Het dorp heeft een winkel, de Bottega di Gargonza, waar ook proeverijen plaatsvinden, en een restaurant. Het restaurant is ingericht voor glutenvrije menu's, en met Kerst en Oud en Nieuw worden seizoensmenu's aangeboden.
 
 ## Rondom het landgoed
 

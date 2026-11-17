@@ -1,9 +1,9 @@
 ---
 source: charming-cave-cappadocia-hotel-turkey
 destination: "Göreme, Nevşehir"
-description: "Gastenverblijf in Göreme met kamers uitgehakt in het natuurlijke gesteente, een terras met uitzicht op heteluchtballonnen en transfers vanaf de luchthavens van Nevşehir en Kayseri."
+description: "Gastenverblijf in Göreme dat zegt uit natuurlijk gesteente te zijn uitgehakt, met vijf standaard grotkamers en een grotsuite onder vijftien kamers, een terras met uitzicht op heteluchtballonnen en transfers vanaf de luchthavens van Nevşehir en Kayseri."
 highlights:
-  - "Kamers uitgehakt in natuurlijk gesteente"
+  - "Zegt uit natuurlijk gesteente te zijn uitgehakt; vijf standaard grotkamers en een grotsuite onder vijftien kamers"
   - "Kamertypen: grotkamer, stenen kamer, driepersoonssuite en juniorsuites"
   - "Uitzicht op heteluchtballonnen vanaf het terras"
   - "Transfers vanaf de luchthavens van Nevşehir en Kayseri"
@@ -19,10 +19,11 @@ bestFor:
   - "Stellen"
 seo:
   metaTitle: "Charming Cave Cappadocia Hotel: grothotel | StayAtNiche"
-  metaDescription: "Charming Cave Cappadocia Hotel in Göreme: gastenverblijf met kamers in het gesteente, uitzicht op ballonnen en transfers vanaf Nevşehir en Kayseri."
+  metaDescription: "Charming Cave Cappadocia Hotel in Göreme: gastenverblijf met vijf standaard grotkamers, uitzicht op ballonnen en transfers vanaf Nevşehir en Kayseri."
+niche_feature: "Vijftien kamers: vijf Standard Cave Rooms (301-305) rond de binnenplaats en een Cave Suite (103) zijn grotkamers; de Standard en Deluxe Stone Rooms, Junior Suites en andere zijn kamers van opgetrokken steen of van een ander type."
 ---
 
-Het Charming Cave Cappadocia Hotel is een gastenverblijf in Göreme dat zegt dat de kamers uit natuurlijk gesteente zijn uitgehakt. Het bestaat al meer dan tien jaar en beschrijft vijftien verzorgde kamers voor een comfortabel en ontspannen verblijf. De site combineert grotkamers met stenen kamers, dus vraag bij het boeken expliciet om een grotkamer.
+Het Charming Cave Cappadocia Hotel is een gastenverblijf in Göreme dat zegt dat het hotel uit natuurlijk gesteente is uitgehakt. Het bestaat al meer dan tien jaar en beschrijft vijftien verzorgde kamers voor een comfortabel en ontspannen verblijf. De site combineert grotkamers met stenen kamers, dus vraag bij het boeken expliciet om een grotkamer. Alleen de vijf standaard grotkamers en de grotsuite worden als grotkamers beschreven, en wat de site over uitgehakte rots zegt is algemeen, niet per kamer.
 
 ## De kamers
 

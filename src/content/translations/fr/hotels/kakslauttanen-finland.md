@@ -1,9 +1,9 @@
 ---
 source: kakslauttanen-finland
 destination: Saariselkä, Laponie finlandaise
-description: "Soixante-cinq igloos de verre chauffés, dispersés dans une forêt de pins par 68 degrés de latitude nord : autant d'observatoires privés, avec un grand lit tourné vers le ciel finlandais. Yrjö Rissanen a construit le premier en 1999 autour d'une idée toute simple : pourquoi guetter l'aurore derrière une fenêtre glacée quand on peut la contempler bien au chaud dans son lit ?"
+description: "Des igloos de verre chauffés, dispersés dans une forêt de pins par 68 degrés de latitude nord : autant d'observatoires privés, avec des lits sous un toit de verre tournés vers le ciel finlandais. L'idée est toute simple : pourquoi guetter l'aurore derrière une fenêtre glacée quand on peut la contempler bien au chaud dans son lit ?"
 highlights:
-  - Le plus grand village d'igloos de verre au monde, avec plus de 65 igloos individuels
+  - Igloos de verre petits, grands et Kelo-Glass dans les villages Est et Ouest du resort
   - Un verre thermique qui reste transparent jusqu'à -30 °C
   - Safaris en rennes et chiens de traîneau au départ de votre porte
   - Sauna à fumée finlandais traditionnel sur place
@@ -14,7 +14,7 @@ highlights:
 amenities:
   - Igloo en verre thermique chauffé
   - Salle de bains privative
-  - Lit double orienté vers le ciel
+  - Lits sous un toit de verre (deux lits simples dans les petits igloos)
   - Petit-déjeuner finlandais inclus
   - Wi-Fi dans l'igloo
   - Accès quotidien au sauna
@@ -51,14 +51,15 @@ nearbyAttractions:
     distance: 40 km
 seo:
   metaTitle: "Kakslauttanen : igloo de verre en Laponie | StayAtNiche"
-  metaDescription: "Dormir sous les aurores boréales en Laponie finlandaise : le plus grand village d'igloos de verre chauffés au monde, à Kakslauttanen. À partir de 400 $ la nuit."
+  metaDescription: "Dormir sous les aurores boréales en Laponie finlandaise : des igloos de verre chauffés, de tailles variées, à Kakslauttanen. À partir de 400 $ la nuit."
+niche_feature: "Igloos de verre (petits, grands, et igloos Kelo-Glass dont les chambres sont aménagées dans un chalet en rondins) dans les villages Est et Ouest, aux côtés de cabanes et chalets en rondins classiques, de suites et d'igloos de neige. Les igloos de verre sont ouverts de fin août à avril."
 ---
 
 Certains lieux vivent dans l'imaginaire collectif des voyageurs bien avant qu'on ne les découvre, et le Kakslauttanen Arctic Resort en fait résolument partie. Posé par 68 degrés nord dans les étendues sauvages de la Laponie finlandaise, cet ensemble d'igloos en verre thermique est devenu la réponse de référence à la question qui obsède tout chasseur d'aurores : où dormir, sur cette planète, pour être au plus près des aurores boréales ?
 
-La réponse, semble-t-il, se trouve sous un dôme de verre chauffé, au cœur d'une forêt de pins saupoudrée de neige, à 35 kilomètres au-delà du cercle polaire.
+La réponse, semble-t-il, se trouve sous un dôme de verre chauffé, au cœur d'une forêt de pins saupoudrée de neige, au nord du cercle polaire.
 
-Yrjö Rissanen a construit ici le premier igloo de verre en 1999, porté par une idée aussi simple que radicale : pourquoi les clients devraient-ils dormir à l'intérieur et se contenter d'espérer apercevoir l'aurore depuis une fenêtre glacée ? Aujourd'hui, plus de 65 igloos de verre sont disséminés dans le domaine boisé du resort, chacun étant un observatoire privé doté d'un très grand lit parfaitement orienté vers le ciel finlandais. Le verre thermique est conçu pour rester d'une limpidité absolue même quand le thermomètre plonge à -30 °C : ni buée, ni givre, seulement une voûte d'étoiles ininterrompue et, les bonnes nuits, les voiles verts et violets de l'aurore boréale qui balaient le ciel juste au-dessus de vous.
+L'idée est aussi simple que radicale : pourquoi les clients devraient-ils dormir à l'intérieur et se contenter d'espérer apercevoir l'aurore depuis une fenêtre glacée ? Les igloos de verre du resort, des petits igloos à deux lits simples aux igloos Kelo-Glass dotés de chambres de style chalet en rondins, sont disséminés dans le domaine boisé, chacun étant un observatoire privé sous un toit de verre. Le verre thermique est conçu pour rester d'une limpidité absolue même quand le thermomètre plonge à -30 °C : ni buée, ni givre, seulement une voûte d'étoiles ininterrompue et, les bonnes nuits, les voiles verts et violets de l'aurore boréale qui balaient le ciel juste au-dessus de vous.
 
 Ce qui élève Kakslauttanen au-delà de la simple curiosité, c'est la qualité de tout ce qui l'entoure. Les journées s'organisent autour de la nature hivernale de la Laponie finlandaise : expéditions en motoneige dans l'immense parc national d'Urho Kekkonen, promenades en traîneau tiré par des rennes à travers la forêt primaire, safaris avec des attelages de huskies sibériens et d'Alaska dont l'enthousiasme collectif est franchement contagieux, pêche blanche sur des lacs gelés où le silence est si total qu'il en devient un son à part entière.
 

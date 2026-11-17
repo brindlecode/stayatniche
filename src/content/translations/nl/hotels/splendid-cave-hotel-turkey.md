@@ -18,13 +18,14 @@ bestFor:
 seo:
   metaTitle: "Splendid Cave Hotel: grothotel in Ortahisar | StayAtNiche"
   metaDescription: "Splendid Cave Hotel in Ortahisar: tien van de twaalf kamers zijn grotkamers, twee zijn standaard, met tv, telefoon en minibar in Centraal-Cappadocië."
+niche_feature: "In de officiële kamerlijst zijn 10 van de 12 kamers Cave Rooms (Standard, Deluxe, Suit, Superior Suit); kamers 203 en 401 zijn gewone Standard Double Rooms. De site beschrijft nergens uitgehouwen rots, alleen de benaming ‘Cave Room’."
 ---
 
 Splendid Cave Hotel in Ortahisar is een gemengd hotel, en dat is goed om meteen duidelijk te maken. De website van het hotel vermeldt twaalf kamers. Tien daarvan hebben ‘cave room’ in hun naam; twee, kamers 203 en 401, staan vermeld als gewone Standard Double Rooms. De grotervaring geldt dus voor de meeste kamers, maar niet voor alle.
 
 ## De kamers
 
-De grotkamers zijn in meerdere categorieën verkrijgbaar. De site noemt een Superior Suit Cave Room (306), een Suit Cave Room (201), Deluxe Double Cave Rooms (303, 207, 208 en 204) en Standard Double Cave Rooms (402, 302, 301 en 205). Elke kamer wordt met tv, telefoon en minibar vermeld. Vraag het hotel hoe een kamer eruitziet voordat je kiest.
+De grotkamers zijn in meerdere categorieën verkrijgbaar. De site noemt een Superior Suit Cave Room (306), een Suit Cave Room (201), Deluxe Double Cave Rooms (303, 207, 208 en 204) en Standard Double Cave Rooms (402, 302, 301 en 205). Elke kamer wordt met tv, telefoon en minibar vermeld. De site noemt ze alleen grotkamers en zegt niet of ze in de rots zijn uitgehouwen. Vraag het hotel hoe een kamer eruitziet voordat je kiest.
 
 Geef bij het boeken de grotkamer op naam of nummer door. Wil je de volledige grotbeleving, dan kun je de twee standaardkamers beter vermijden.
 
@@ -36,4 +37,4 @@ Het hotel ligt in Ortahisar, een dorp in het midden van Cappadocië.
 
 De website heeft een pagina met transfers en een reserveringspagina, en je kunt prijzen zien in Turkse lira, Amerikaanse dollars of euro's. Vraag het hotel vóór het boeken wat is inbegrepen.
 
-Dit is een verstandige keuze als je een bescheiden grotverblijf zoekt in een rustiger dorp dan het toeristische centrum, en je het niet erg vindt dat een paar kamers conventioneel zijn. Minder geschikt is het voor wie een volledig uitgehouwen accommodatie wil.
+Dit is een verstandige keuze als je een bescheiden grotverblijf zoekt in een rustiger dorp dan het toeristische centrum, en je het niet erg vindt dat een paar kamers conventioneel zijn. Minder geschikt is het voor wie wil dat alle kamers grotkamers zijn.

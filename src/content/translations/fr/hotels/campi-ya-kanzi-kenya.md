@@ -1,10 +1,10 @@
 ---
 source: campi-ya-kanzi-kenya
 destination: "Chyulu Hills, comté de Kajiado"
-description: "Un camp de brousse familial sur 114 500 hectares de terres communautaires massaï, à l'ombre du Kilimandjaro, dont le sommet enneigé du Kibo se dévoile depuis la tente-salle à manger par temps clair. Huit tentes font face à la plaine africaine ; le camp appartient en partenariat à la communauté massaï, qui consacre l'essentiel des revenus à la conservation et à l'éducation. L'écosystème d'Amboseli tel qu'il devrait toujours être découvert."
+description: "Un camp de brousse familial sur 400 000 acres de terres appartenant aux Massaï, à l'ombre du Kilimandjaro, dont le sommet enneigé du Kibo se dévoile depuis le camp par temps clair. Huit tentes font face à la plaine africaine ; le camp appartient en partenariat à la communauté massaï, qui consacre l'essentiel des revenus à la conservation et à l'éducation."
 highlights:
   - "Vue sur le Kilimandjaro depuis le camp"
-  - "Une réserve communautaire massaï de 114 500 hectares"
+  - "400 000 acres de terres appartenant aux Massaï"
   - "Safaris à pied avec des guides massaï"
   - "Safaris de nuit sur des terres privées"
   - "Un modèle de conservation et de propriété communautaire massaï"

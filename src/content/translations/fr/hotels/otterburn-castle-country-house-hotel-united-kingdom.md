@@ -1,11 +1,11 @@
 ---
 source: otterburn-castle-country-house-hotel-united-kingdom
 destination: "Otterburn, Northumberland"
-description: "Une demeure de campagne crénelée classée Grade II dans le parc national de Northumberland, avec 17 chambres dotées de salles de bains sur 32 acres, sur le site d'une forteresse normande fondée en 1086."
+description: "Une demeure de campagne crénelée classée Grade II dans le parc national de Northumberland, avec 17 chambres dotées de salles de bains sur 32 acres, sur le site d'une tour fortifiée médiévale."
 highlights:
   - "17 chambres avec salle de bain dans un château classé Grade II"
   - "32 acres de parc à cerfs et de bois"
-  - "Forteresse normande fondée en 1086, reconstruite en 1830"
+  - "Site de château médiéval, demeure actuelle reconstruite en 1830"
   - "Le TEPÉ, restaurant farm-to-table"
   - "À proximité du site de la bataille d'Otterburn, en 1388"
 amenities:
@@ -24,11 +24,11 @@ seo:
 
 Otterburn Castle est une demeure de campagne de style néogothique dans le parc national de Northumberland, aujourd'hui exploitée comme hôtel de charme, lieu de réception et adresse gourmande. On y trouve 17 chambres avec salle de bain, dans un bâtiment classé, au cœur de 32 acres de parc à cerfs et de bois.
 
-## Mille ans d'histoire
+## Des siècles d'histoire
 
-La première forteresse du site fut fondée en 1086 par un cousin de Guillaume le Conquérant, une place forte normande qui gardait la frontière nord de l'Angleterre. En 1388, la bataille d'Otterburn se déroula sur les terres environnantes : des forces écossaises menées par James Douglas y affrontèrent une armée anglaise commandée par Henry « Hotspur » Percy. Les deux chefs furent capturés, et la bataille fut ensuite racontée dans des ballades à travers toute l'Europe.
+Le site a des racines médiévales : le registre du patrimoine du Northumberland y décrit une tour fortifiée (pele) qui semble exister avant le milieu du XIIIe siècle. En 1388, la bataille d'Otterburn se déroula sur les terres environnantes : des forces écossaises menées par James Douglas y affrontèrent une armée anglaise commandée par Henry « Hotspur » Percy. Les deux chefs furent capturés, et la bataille fut ensuite racontée dans des ballades à travers toute l'Europe.
 
-Le domaine passa au clan Hall, et l'édifice actuel date de 1830, lorsque Thomas James, magistrat, le reconstruisit avec les pierres de l'ancienne forteresse médiévale. Il est classé Grade II depuis le 7 janvier 1988.
+Le domaine passa au clan Hall, et l'édifice actuel date de 1830, lorsque Thomas James, magistrat, le reconstruisit dans le style crénelé. Les sources divergent sur la part de maçonnerie médiévale qui subsiste. Il est classé Grade II depuis le 7 janvier 1988.
 
 ## Séjourner ici
 

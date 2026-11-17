@@ -20,13 +20,14 @@ bestFor:
 seo:
   metaTitle: "Walworth Castle : château-hôtel à Darlington | StayAtNiche"
   metaDescription: "Walworth Castle près de Darlington : château du XIIe siècle, chambres dans le château, suites à baldaquin dans les tours et la King James Suite, sur 18 acres."
+niche_feature: "Les chambres du château, les suites à lit à baldaquin (certaines dans les tours) et la King James I Suite se trouvent dans le château principal ; les chambres de l'annexe sont dans un bâtiment moderne attenant, auxquelles s'ajoutent une loge d'entrée, le Lodge (6 personnes), et un cottage de vacances."
 ---
 
 Walworth Castle est un bâtiment classé Grade I, aux origines remontant au XIIe siècle, près de Darlington, dans le comté de Durham. La demeure actuelle fut achevée vers 1600, probablement par Thomas Holt pour Thomas Jenison, sur l'emplacement d'un manoir ou d'un château plus ancien édifié par la famille Hansard. Pendant la Seconde Guerre mondiale, il servit de camp pour prisonniers de guerre. Aujourd'hui, c'est un hôtel qui se présente comme le seul château de Darlington.
 
 ## Les chambres
 
-Le château propose une large gamme de chambres, aussi bien à l'intérieur du château que dans d'autres bâtiments du domaine. Les chambres du château disposent de lits jumeaux ou de lits doubles et se trouvent dans le bâtiment principal. Les plus spacieuses sont les suites à baldaquin, très grandes, dont certaines occupent les tours du château. La plus célèbre est la King James Suite : le roi Jacques VI d'Écosse est attesté dans les pièces qui forment aujourd'hui la suite, le 14 avril 1603. Une rénovation des chambres est en cours, si bien que certaines affichent un décor neuf tout en conservant leur caractère propre.
+Toutes les chambres ne sont pas dans le château principal. Les chambres de l'annexe, avec lits doubles ou jumeaux, se trouvent dans un bâtiment attenant au château ; le Walworth Castle Lodge, à l'entrée de l'hôtel, accueille six personnes ; et il existe un Holiday Cottage séparé de deux chambres. Les chambres du château disposent de lits jumeaux ou de lits doubles et se trouvent dans le bâtiment principal. Les plus spacieuses sont les suites à baldaquin, très grandes, dont certaines occupent les tours du château. La plus célèbre est la King James Suite : le roi Jacques VI d'Écosse est attesté dans les pièces qui forment aujourd'hui la suite, le 14 avril 1603. Une rénovation des chambres est en cours, si bien que certaines affichent un décor neuf tout en conservant leur caractère propre.
 
 ## Restauration et boissons
 

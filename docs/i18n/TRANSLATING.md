@@ -20,7 +20,7 @@ full translated Markdown body.
 
 | Collection | Translatable frontmatter fields |
 |---|---|
-| hotels | `destination`, `description`, `highlights`, `amenities`, `bestFor`, `prosAndCons` {pros, cons}, `seasonalInfo` {bestTime, peakSeason, lowSeason, notes}, `nearbyAttractions` [{name, distance}], `seo` {metaTitle, metaDescription} |
+| hotels | `destination`, `niche_feature` (the sentence naming which rooms qualify; only when the English page has one), `niche_note`, `niche_badge`, `closure` {note} (only the note; source and date stay English-only), `description`, `highlights`, `amenities`, `bestFor`, `prosAndCons` {pros, cons}, `seasonalInfo` {bestTime, peakSeason, lowSeason, notes}, `nearbyAttractions` [{name, distance}], `seo` {metaTitle, metaDescription} |
 | categories | `title`, `tagline`, `description`, `stats` {topDestination}, `seo` {metaTitle, metaDescription} |
 | destinations | `name`, `description`, `essentials` {currency, language, timezone, visaInfo, plugType}, `bestTimeToVisit` {summary, details}, `mustSee`, `travelTips`, `seo` {metaTitle, metaDescription} |
 | blog | `title`, `excerpt`, `seo` {metaTitle, metaDescription} |

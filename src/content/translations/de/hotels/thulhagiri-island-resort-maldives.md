@@ -1,9 +1,9 @@
 ---
 source: thulhagiri-island-resort-maldives
 destination: "Nord-Malé-Atoll"
-description: "Ein Inselresort im Nord-Malé-Atoll, rund 20 Minuten mit dem Schnellboot vom Flughafen entfernt, wo 17 Zimmer als Wasserbungalows über der Lagune stehen."
+description: "Ein Inselresort im Nord-Malé-Atoll, rund 20 Minuten mit dem Schnellboot vom Flughafen entfernt, mit 37 Wasserbungalows (17 Water Bungalows und 20 Superior Water Bungalows) über der Lagune und 50 Strandbungalows."
 highlights:
-  - "17 Wasserbungalows über der Lagune"
+  - "37 Wasserbungalows über der Lagune (17 Standard, 20 Superior)"
   - "Meerblick von den Superior-Bungalows"
   - "Hausriff zum Schnorcheln"
   - "Etwa 20 Minuten mit dem Schnellboot vom Flughafen Malé"
@@ -15,10 +15,11 @@ bestFor:
   - "Schnorchler"
 seo:
   metaTitle: "Thulhagiri: Wasserbungalows Malediven | StayAtNiche"
-  metaDescription: "Thulhagiri Island Resort and Spa im Nord-Malé-Atoll: 17 Wasserbungalows über der Lagune und ein Hausriff zum Schnorcheln, 20 Min. vom Flughafen."
+  metaDescription: "Thulhagiri Island Resort and Spa im Nord-Malé-Atoll: 37 Wasserbungalows über der Lagune und ein Hausriff zum Schnorcheln, 20 Min. vom Flughafen."
+niche_feature: "17 Water Bungalows (56 m²) und 20 Superior Water Bungalows (78 m²) über der Lagune, neben 50 Standard Deluxe Strandbungalows."
 ---
 
-Das Thulhagiri Island Resort and Spa ist ein kleines Inselresort im Nord-Malé-Atoll auf den Malediven. Siebzehn seiner Zimmer sind Wasserbungalows, die über die Lagune hinausgebaut wurden. Nur ein Teil des Resorts steht also über dem Wasser; die übrigen Unterkünfte sind Strandvillen mit Außenduschen.
+Das Thulhagiri Island Resort and Spa ist ein kleines Inselresort im Nord-Malé-Atoll auf den Malediven. Siebenunddreißig seiner Zimmer sind Wasserbungalows über der Lagune (17 Water Bungalows und 20 Superior Water Bungalows). Nur ein Teil des Resorts steht also über dem Wasser; die übrigen Unterkünfte sind 50 Standard-Deluxe-Strandbungalows (Strandvillen) mit Außenduschen.
 
 ## Über der Lagune
 
