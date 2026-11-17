@@ -19,6 +19,11 @@ describe('text contrast (WCAG AA 4.5:1 for body text)', () => {
   it('secondary grey text (warm-500) passes on white, the page background and warm-100', () => {
     for (const bg of ['#FFFFFF', warm[50], warm[100]]) expect(contrast(warm[500], bg), bg).toBeGreaterThanOrEqual(4.5);
   });
+  it('text on the dark footer uses a light grey (warm-500 is only 3.8:1 there)', () => {
+    const footer = astro.find(x => x.f.endsWith('Footer.astro'))!.t;
+    expect(footer).not.toMatch(/\btext-warm-500\b/);
+    expect(contrast(warm[400], warm[950])).toBeGreaterThanOrEqual(4.5);
+  });
   it('the light grey (warm-400, about 2.4:1) is not used for small text on light pages', () => {
     const bad: string[] = [];
     for (const { f, t } of astro) {
