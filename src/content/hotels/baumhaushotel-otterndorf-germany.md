@@ -37,7 +37,8 @@ coordinates:
 officialWebsite: "https://www.mein-baumhaus.de/"
 sourceId: "osm:way/95594112"
 verifiedAt: 2026-11-15
-status: draft
+publishedDate: 2026-11-15
+status: published
 ---
 
 Baumhaushotel Otterndorf is a cluster of ten houses on stilts, set on 1.4 hectares of grounds surrounded by old trees on the North Sea coast of Lower Saxony. To be precise about the build: the ten guest houses are stilt houses standing 4 m above the ground among the trees, not houses built inside a tree. The site lies close to the sea dyke behind which the Elbe flows into the North Sea, and right beside the Otterndorf lakes.

@@ -33,7 +33,8 @@ coordinates:
 officialWebsite: "https://bayala.co.za/"
 sourceId: "osm:node/13626577201"
 verifiedAt: 2026-11-15
-status: draft
+publishedDate: 2026-11-15
+status: published
 ---
 
 Bayala Private Safari Lodges stand inside Zuka Private Game Reserve, a Big Five reserve in the ancient kingdom of Zululand, about three hours' drive north of Durban. Two neighbouring lodges, Safari Lodge and Founders Lodge, sit within walking distance of one another. They offer the same dining, facilities and safari activities, and the main difference between them is the room category.

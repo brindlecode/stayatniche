@@ -25,7 +25,8 @@ coordinates:
 officialWebsite: "https://revembulle.com/"
 sourceId: "osm:node/13031691491"
 verifiedAt: 2026-11-15
-status: draft
+publishedDate: 2026-11-15
+status: published
 ---
 
 Rêvembulle offers a night in a transparent bubble suspended up to 3 m above the ground, in the heart of the Massif des Écrins. The stay is at La Fôret, 05800 La Chapelle-en-Valgaudémar.

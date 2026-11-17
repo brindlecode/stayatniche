@@ -30,7 +30,8 @@ coordinates:
 officialWebsite: "https://www.kylmapihlaja.com/majakkahotelli.php"
 sourceId: "osm:node/3634187416"
 verifiedAt: 2026-11-15
-status: draft
+publishedDate: 2026-11-15
+status: published
 ---
 
 Majakkahotelli is a lighthouse hotel on an island at the edge of the open sea. Every one of its guest rooms is inside the lighthouse tower, decorated in a simple, comfortable maritime style. Beyond the tower, the island has a restaurant, a guest harbour and eight two-person cottages.

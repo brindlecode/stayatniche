@@ -30,7 +30,8 @@ coordinates:
 officialWebsite: "https://www.pullmanmaldivesmaamutaa.com/villas-suites/"
 sourceId: "osm:node/12087145402"
 verifiedAt: 2026-11-15
-status: draft
+publishedDate: 2026-11-15
+status: published
 ---
 
 Only the Aqua Villas at Pullman Maldives Maamutaa have an underwater bedroom. The rest of the resort is ordinary beach and overwater villas, which have no submerged room. Anyone booking for the underwater night should choose the Aqua Villa specifically.

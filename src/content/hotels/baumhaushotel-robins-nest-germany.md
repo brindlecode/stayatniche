@@ -33,7 +33,8 @@ verifiedAt: 2026-11-15
 checkInOut:
   checkIn: "15:00"
   checkOut: "11:00"
-status: draft
+publishedDate: 2026-11-15
+status: published
 ---
 
 Robins Nest is a treehouse hotel near Witzenhausen in northern Hesse, close to Schloss Berlepsch. Its founder, Peter Becker, started with a tipi, and the first treehouses opened in the summer of 2015. He builds with high-quality wood and recycled materials, and the site's own plan is for a small village of tree nests joined by bridges and tunnels.

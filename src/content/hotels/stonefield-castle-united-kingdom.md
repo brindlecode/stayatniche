@@ -29,7 +29,8 @@ coordinates:
 officialWebsite: "https://bespokehotels.com/stonefieldcastle/"
 sourceId: "wd:Q7619164"
 verifiedAt: 2026-11-14
-status: draft
+publishedDate: 2026-11-15
+status: published
 ---
 
 Stonefield Castle is a castle in the Victorian sense: a grand baronial house rather than a fortress. It was completed in 1837 for John Campbell, to a design by the Edinburgh architect William Henry Playfair, on the site of an older house called Barmore. The Campbells sold it in 1948 and it has been a hotel since 1950. It stands just north of Tarbert, on the Kintyre peninsula, with its gardens running down to Loch Fyne.

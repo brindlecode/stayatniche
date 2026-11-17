@@ -29,7 +29,8 @@ coordinates:
 officialWebsite: "https://www.safaridesert.com/"
 sourceId: "osm:node/5468179466"
 verifiedAt: 2026-11-15
-status: draft
+publishedDate: 2026-11-15
+status: published
 ---
 
 Safari Desert Camp is a permanent Bedouin-style camp that opened in September 2008. It sits in the Wahiba Sands in the Bidiyah area of Oman, in a quiet, remote stretch of desert between two big dunes. About forty chalets are spread widely across the sand.

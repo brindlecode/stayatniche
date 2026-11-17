@@ -31,7 +31,8 @@ coordinates:
 officialWebsite: "https://www.pharedekerbel.com/"
 sourceId: "osm:node/14103222231"
 verifiedAt: 2026-11-15
-status: draft
+publishedDate: 2026-11-15
+status: published
 ---
 
 The Phare de Kerbel in Riantec, Brittany, was built in 1913 to guide ships into the harbour of Lorient. It stopped working as a light in August 1989. Today, according to its owners, it is the only lighthouse in France that can be lived in at its summit, where a studio now stands in place of the lantern, 25 metres up.

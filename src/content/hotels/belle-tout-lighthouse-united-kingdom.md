@@ -30,7 +30,8 @@ coordinates:
 officialWebsite: "https://www.belletout.co.uk/"
 sourceId: "osm:way/428564350"
 verifiedAt: 2026-11-15
-status: draft
+publishedDate: 2026-11-15
+status: published
 ---
 
 Belle Tout is a lighthouse bed and breakfast on the cliffs of Beachy Head, near Eastbourne in East Sussex. The lighthouse was built in 1832 and has been restored, and it looks out over the English Channel, the Seven Sisters and the rolling countryside of the South Downs. Only six rooms are offered, and all of them are en-suite.

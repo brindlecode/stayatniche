@@ -36,7 +36,8 @@ coordinates:
 officialWebsite: "https://www.ballygallycastlehotel.com/"
 sourceId: "osm:way/772977989"
 verifiedAt: 2026-11-14
-status: draft
+publishedDate: 2026-11-15
+status: published
 ---
 
 Ballygally Castle stands at the head of Ballygally Bay on the Antrim coast, about three miles north of Larne, with the coast road and the Irish Sea directly in front of it. The castle was built in 1625 by James Shaw, a Scot from Greenock, and it is still in use as a residence. Today it is a four-star hotel run by Hastings Hotels, who bought it in 1966.

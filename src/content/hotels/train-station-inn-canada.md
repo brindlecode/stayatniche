@@ -30,7 +30,8 @@ coordinates:
 officialWebsite: "https://www.tatatrainstation.com/"
 sourceId: "osm:node/1838341167"
 verifiedAt: 2026-11-15
-status: draft
+publishedDate: 2026-11-15
+status: published
 ---
 
 The Train Station Inn sits in the village of Tatamagouche, Nova Scotia, where a 600-foot, 400-ton train remains a dominant sight. The guest rooms are vintage Canadian-built cabooses and boxcars, authentic on the outside and redesigned inside as private suites that echo their railway past. The original station building, which dates from around 1887, is part of the property.

@@ -20,6 +20,16 @@ its text is really about this property and place; if not, it is not evidence), a
 
 ## Categories (slug: accept when / typical false positives)
 - treehouse-hotels: sleeping units built in or among trees on raised structures / "Lemon Tree", "Peartree House", hostels or bars named Treehouse, treehouse builders
+
+Treehouse rule (set by the site owner, 2026-11-15). A unit counts as a treehouse only if it is
+(1) among trees, (2) raised off the ground, and (3) a separate, free-standing structure of its own.
+Both "built in / attached to a tree" and "on stilts or pillars among trees" qualify, and
+niche_feature must say which one the evidence shows (or that the evidence does not say). These do
+NOT qualify: a multi-storey building, a villa or hotel block, a room in a larger building, or a
+property that only has "treehouse" in its name. If the evidence gives no description of how the
+units are built or where they stand (room descriptions and photo captions count), the verdict is
+needs_review with niche_scope "unclear", never accepted.
+
 - cave-hotels: rooms carved into rock/tuff or inside a natural cave / French "cave" = wine cellar, bars or restaurants named Cave, cave tours, a hotel near a cave
 - underwater-rooms: a bedroom below the water surface / underwater restaurants, dive shops, submarine-themed bars
 - castle-hotels: rooms inside a historic castle, fortress, palace or château building / hotels named after a nearby castle, castle views, new castle-themed buildings, chain hotels with "Castle" in the name
@@ -44,7 +54,8 @@ fill other_niche_type.
 - is_lodging false for restaurants, bars, museums, tour operators, shops, private homes, event-only venues.
 - operating_status "closed" only if the evidence says so; "unknown" if pages are empty or failed.
 - Every quote must be copied character for character from the evidence text (pages[].text,
-  pages[].title, pages[].description, wikipedia.extract, wikipedia.text or wikidataDescription), 5–30 words. A script will
+  pages[].title, pages[].description, pages[].captions (photo alt texts and captions),
+  wikipedia.extract, wikipedia.text or wikidataDescription), 5–30 words. A script will
   check each quote; a quote that is not found deletes that field. Do not translate or tidy quotes.
 - category_quote is the single best quote proving the niche feature. If there is none, category_quote
   is null, niche_scope is "name_only" or "unclear", and confidence ≤ 0.5.

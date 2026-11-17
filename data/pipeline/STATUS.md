@@ -1,6 +1,6 @@
 # Otel hattı durumu
 
-Güncelleme: 2026-11-17T09:20:38.154Z. Kuyrukta 8591 aday. Sitede yayında 184 otel, 54 taslak (238 dosya).
+Güncelleme: 2026-11-17T11:33:06.864Z. Kuyrukta 8591 aday. Sitede yayında 219 otel, 19 taslak (238 dosya).
 
 ## Dikkat
 
@@ -10,15 +10,15 @@ Güncelleme: 2026-11-17T09:20:38.154Z. Kuyrukta 8591 aday. Sitede yayında 184 o
 
 | Aşama | Aday | Not |
 |---|---|---|
-| Resmi sitesi bilinmiyor (site bulucu sırasında) | 4323 | aranan: 23, bulunan: 3 |
+| Resmi sitesi bilinmiyor (site bulucu sırasında) | 4323 | aranan: 43, bulunan: 3 |
 | Sitesi var, kanıt indirilecek (gece işi) | 0 |  |
 | Site okunamadı, 30 günde bir yeniden denenir (3 denemede elenir) | 936 | neden kaydedilmemiş (eski kayıt): 813; website fetch failed: bağlantı yok: 42; no website known: 32; website fetch failed: 403: 23 |
-| Kanıtı hazır, sınıflandırıcıyı bekliyor | 1 |  |
+| Kanıtı hazır, sınıflandırıcıyı bekliyor | 0 |  |
 | **Sizin kararınızı bekliyor (onay kuyruğu)** | 501 | araştırma istenen: 0; son kararınız: 2026-11-15 |
 | Onaylı, yazarı bekliyor | 0 |  |
 | Onaylı ama yazılamadı (kanıt yetersiz) | 5 | yeni kanıt bekleyen: 0 |
-| Taslak sayfası hazır, "yayınla" bekliyor | 43 |  |
-| Yayında (bu hattan) | 91 |  |
+| Taslak sayfası hazır, "yayınla" bekliyor | 8 |  |
+| Yayında (bu hattan) | 126 |  |
 | Elendi / tekrar | 2691 |  |
 
 ## Yazılamayanlar
@@ -35,33 +35,34 @@ Güncelleme: 2026-11-17T09:20:38.154Z. Kuyrukta 8591 aday. Sitede yayında 184 o
 
 | Aşama | Zaman (UTC) | Sonuç |
 |---|---|---|
+| sites | 2026-11-17 10:15 | found: 0, none: 20, refused: 0 |
+| sites-todo | 2026-11-17 10:15 | withoutWebsite: 4303, taken: 20 |
+| review | 2026-11-17 10:14 | newDocs: 0, updates: 7, onPage: 730, exportGiven: true |
+| check | 2026-11-17 10:14 | decisions: 1, accepted: 0, needs_review: 0, no_evidence: 0, duplicate: 0, rejected: 1, withoutPack: 0 |
+| batches | 2026-11-17 10:14 | needDecision: 1, taken: 1, batches: 1, unreadablePacks: 0 |
+| reviews | 2026-11-17 10:14 | documents: 730, changed: {}, unreadable: 0 |
 | evidence | 2026-11-17 09:20 | asked: 47, packs: 2, nothingReadable: 45, errors: 0, requeuedLostPacks: 0, reasons: {"website fetch failed: 404":7,"no website known":4,"website fetch failed: no connection":22,"robots.txt disallows fetching":7,"website fetch failed: 403":3,"website fetch failed: 405":2} |
 | verify | 2026-11-17 09:19 | checked: 1, stillNew: 0 |
 | discover | 2026-11-17 09:19 | categories: ["safari-lodges","overwater-bungalows"], added: 1, total: 8591 |
 | apply | 2026-11-17 09:16 | applied: {"needs_review":63,"accepted":9,"rejected":6}, pruned: 15, unreadablePacks: 0 |
 | writer | 2026-11-16 12:48 | last: blocked Al Sultana Luxury Camp |
-| reviews | 2026-11-16 12:48 | documents: 730, changed: {"rejected":6}, unreadable: 0 |
-| sites | 2026-11-16 10:20 | found: 0, none: 20, refused: 0 |
-| sites-todo | 2026-11-16 10:19 | withoutWebsite: 4323, taken: 20 |
-| review | 2026-11-16 10:18 | newDocs: 1, updates: 49, onPage: 729, exportGiven: true |
-| check | 2026-11-16 10:18 | decisions: 49, accepted: 5, needs_review: 29, no_evidence: 0, duplicate: 0, rejected: 15, withoutPack: 0 |
-| batches | 2026-11-16 10:14 | needDecision: 49, taken: 49, batches: 3, unreadablePacks: 0 |
+| publish | 2026-11-15 08:42 | published: ["safari-desert-camp-oman","baumhaushotel-otterndorf-germany","northern-rail-traincar-inn-united-states","wolkensteiner-zughotel-germany","yuquiyu-treehouses-united-states","feynan-ecolodge-jordan","baumhaushotel-robins-nest-germany","treehouse-point-united-states","norah-head-lighthouse-and-cottages-australia","majakkahotelli-finland","bushmans-desert-camp-namibia","bulles-dolive-franc |
 
 ## Kategoriye göre
 
 | Kategori | new | verified | weak | classified | approved | blocked | drafted | published | rejected | duplicate |
 |---|---|---|---|---|---|---|---|---|---|---|
-| treehouse-hotels | 0 | 0 | 208 | 28 | 0 | 0 | 9 | 3 | 189 | 12 |
+| treehouse-hotels | 0 | 0 | 208 | 28 | 0 | 0 | 4 | 8 | 189 | 12 |
 | cave-hotels | 0 | 0 | 585 | 22 | 0 | 0 | 0 | 20 | 132 | 14 |
 | underwater-rooms | 0 | 0 | 8 | 0 | 0 | 0 | 0 | 0 | 3 | 2 |
-| castle-hotels | 0 | 3 | 758 | 209 | 0 | 4 | 7 | 45 | 621 | 23 |
+| castle-hotels | 0 | 3 | 758 | 209 | 0 | 4 | 3 | 49 | 621 | 23 |
 | floating-hotels | 0 | 0 | 79 | 16 | 0 | 0 | 0 | 4 | 16 | 2 |
-| bubble-hotels | 0 | 0 | 211 | 4 | 0 | 0 | 4 | 1 | 353 | 5 |
+| bubble-hotels | 0 | 0 | 211 | 4 | 0 | 0 | 0 | 5 | 353 | 5 |
 | cliffside-hotels | 0 | 0 | 382 | 14 | 0 | 0 | 0 | 2 | 136 | 6 |
-| desert-camps | 0 | 0 | 241 | 9 | 0 | 1 | 6 | 2 | 44 | 4 |
-| jungle-lodges | 0 | 0 | 847 | 65 | 0 | 0 | 1 | 3 | 150 | 5 |
+| desert-camps | 0 | 0 | 241 | 9 | 0 | 1 | 1 | 7 | 44 | 4 |
+| jungle-lodges | 0 | 0 | 847 | 65 | 0 | 0 | 0 | 4 | 150 | 5 |
 | ice-hotels | 0 | 0 | 100 | 5 | 0 | 0 | 0 | 2 | 69 | 14 |
-| safari-lodges | 0 | 2 | 897 | 107 | 0 | 0 | 1 | 2 | 106 | 19 |
+| safari-lodges | 0 | 2 | 897 | 107 | 0 | 0 | 0 | 3 | 106 | 19 |
 | overwater-bungalows | 0 | 0 | 39 | 0 | 0 | 0 | 0 | 3 | 2 | 35 |
-| lighthouse-hotels | 0 | 0 | 430 | 13 | 0 | 0 | 8 | 3 | 535 | 5 |
-| train-hotels | 0 | 0 | 470 | 9 | 0 | 0 | 7 | 1 | 157 | 32 |
+| lighthouse-hotels | 0 | 0 | 430 | 13 | 0 | 0 | 0 | 11 | 535 | 5 |
+| train-hotels | 0 | 0 | 470 | 9 | 0 | 0 | 0 | 8 | 157 | 32 |

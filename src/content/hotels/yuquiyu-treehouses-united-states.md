@@ -2,7 +2,7 @@
 name: "Yuquiyú Treehouses"
 category: treehouse-hotels
 destination: "Río Grande, Puerto Rico"
-country: "United States"
+country: "USA"
 description: "Three treehouses raised on pillars among the trees on a canyon side in the foothills of El Yunque rainforest, each for two adults, with a river below and rainforest beyond."
 priceRange: "Rates vary"
 highlights:
@@ -32,7 +32,8 @@ coordinates:
 officialWebsite: "https://yuquiyufarm.com/treehouses/"
 sourceId: "osm:node/11540673453"
 verifiedAt: 2026-11-15
-status: draft
+publishedDate: 2026-11-15
+status: published
 ---
 
 Yuquiyú is a rustic retreat in the foothills of El Yunque, Puerto Rico's rainforest, and its accommodation is a set of three artisan-built treehouses. Each one stands on pillars among the trees, on the side of a canyon, in an outcropping of massive boulders. Terraces with an organic garden, fruit trees and free parking sit above; a cascading river runs below, with the rainforest beyond.

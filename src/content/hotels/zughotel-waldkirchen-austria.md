@@ -33,7 +33,8 @@ coordinates:
 officialWebsite: "https://www.zughotel.at/"
 sourceId: "osm:node/10960368586"
 verifiedAt: 2026-11-15
-status: draft
+publishedDate: 2026-11-15
+status: published
 ---
 
 The ZUGHOTEL in Waldkirchen an der Thaya, in Lower Austria, is a hotel made of former ÖBB construction-train wagons. The idea behind it is "second life" and re-use: by giving the wagons a new purpose, the hotel spares the environment and keeps a piece of railway history that would otherwise be lost. Two wagons stand at the station and together sleep eight guests.
