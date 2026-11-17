@@ -2489,5 +2489,347 @@
     "distanceKm": 4.5,
     "kind": "area",
     "place": "Arefu"
+  },
+  "astley-castle-united-kingdom": {
+    "author": "Graham Burnett",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Astley_Castle_-_geograph.org.uk_-_480702.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q4810907",
+    "matched": "Astley Castle",
+    "distanceKm": 0
+  },
+  "barcaldine-castle-united-kingdom": {
+    "author": "Tom Parnell",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barcaldine_Castle_-_view_from_SW.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q3202",
+    "matched": "Barcaldine Castle",
+    "distanceKm": 0
+  },
+  "lumley-castle-united-kingdom": {
+    "author": "Bill Henderson",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lumley_Castle_Hotel_-_geograph.org.uk_-_579104.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q6703353",
+    "matched": "Lumley Castle",
+    "distanceKm": 0.1
+  },
+  "phare-de-kerbel-france": {
+    "author": "XIIIfromTOKYO",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Riantec_-_Phare_de_Kerbel.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q2084967",
+    "matched": "Kerbel lighthouse",
+    "distanceKm": 0.2
+  },
+  "saddell-castle-united-kingdom": {
+    "author": "Hchc2009",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Saddell_Castle,_2012.JPG",
+    "wikidata": "https://www.wikidata.org/wiki/Q168089",
+    "matched": "Saddell Castle",
+    "distanceKm": 0
+  },
+  "saugerties-lighthouse-united-states": {
+    "author": "Dicklyon",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Saugerties_Lighthouse.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q7427213",
+    "matched": "Saugerties Light",
+    "distanceKm": 0
+  },
+  "stonefield-castle-united-kingdom": {
+    "author": "Anne Burgess",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stonefield_Castle_-_geograph.org.uk_-_14476.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q7619164",
+    "matched": "Stonefield Castle",
+    "distanceKm": 0
+  },
+  "train-station-inn-canada": {
+    "author": "Publisher unknown",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "source": "https://commons.wikimedia.org/wiki/File:ICR_Tatamagouche_station.png",
+    "wikidata": "https://www.wikidata.org/wiki/Q61904282",
+    "matched": "Tatamagouche station",
+    "distanceKm": 0
+  },
+  "ballygally-castle-hotel-united-kingdom": {
+    "author": "Michael Dibb",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ballygally_Castle_Hotel_(1)_-_geograph.org.uk_-_4553385.jpg",
+    "title": "Ballygally Castle Hotel (1) - geograph.org.uk - 4553385.jpg",
+    "distanceKm": null,
+    "kind": "hotel",
+    "matched": "Ballygally Castle Hotel"
+  },
+  "area:baumhaushotel-otterndorf-germany": {
+    "author": "Loz (L. B. Tettenborn)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ischnura_elegans_18(loz).jpg",
+    "title": "Ischnura elegans 18(loz).jpg",
+    "distanceKm": 0.5,
+    "kind": "area",
+    "place": "Otterndorf"
+  },
+  "area:baumhaushotel-robins-nest-germany": {
+    "author": "Dguendel",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Witzenhausen,_nearby_Berlepsch_castle.jpg",
+    "title": "Witzenhausen, nearby Berlepsch castle.jpg",
+    "distanceKm": 0.1,
+    "kind": "area",
+    "place": "Witzenhausen"
+  },
+  "area:baumhaushotel-solling-germany": {
+    "author": "Varus111",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nienover,_Nachbau_eines_historischen_Geh%C3%B6fts.jpg",
+    "title": "Nienover, Nachbau eines historischen Gehöfts.jpg",
+    "distanceKm": 3.8,
+    "kind": "area",
+    "place": "Uslar"
+  },
+  "area:bayala-private-safari-lodges-south-africa": {
+    "author": "David Knox",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tragelaphus_angasii_301206085.jpg",
+    "title": "Tragelaphus angasii 301206085.jpg",
+    "distanceKm": 0.1,
+    "kind": "area",
+    "place": "Zululand"
+  },
+  "area:belle-tout-lighthouse-united-kingdom": {
+    "author": "Arild Vågen",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Belle_Tout_lighthouse_March_2017.jpg",
+    "title": "Belle Tout lighthouse March 2017.jpg",
+    "distanceKm": 0,
+    "kind": "area",
+    "place": "Eastbourne"
+  },
+  "area:bulles-dolive-france": {
+    "author": "Jacques Le Letty",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pont_Nyons2.jpg",
+    "title": "Pont Nyons2.jpg",
+    "distanceKm": 0.7,
+    "kind": "area",
+    "place": "Nyons"
+  },
+  "area:bushmans-desert-camp-namibia": {
+    "author": "Graf-flugplatz",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:020520064Namibia.JPG",
+    "title": "020520064Namibia.JPG",
+    "distanceKm": 1.6,
+    "kind": "area",
+    "place": "Farm Cha-re near Solitaire"
+  },
+  "area:desert-luxury-camp-morocco": {
+    "author": "Jorge Franganillo",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Erg_Znaigui_(54293049113).jpg",
+    "title": "Erg Znaigui (54293049113).jpg",
+    "distanceKm": 0.5,
+    "kind": "area",
+    "place": "Merzouga"
+  },
+  "area:feynan-ecolodge-jordan": {
+    "author": "Dudley Miles",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Feynan_Eco_Lodge_with_slats_to_keep_the_walls_in_shade.JPG",
+    "title": "Feynan Eco Lodge with slats to keep the walls in shade.JPG",
+    "distanceKm": 0.1,
+    "kind": "area",
+    "place": "Wadi Feynan"
+  },
+  "area:fyrgaarden-denmark": {
+    "author": "AstroOgier",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Anholt_Totten_med_s%C3%A6ler_og_skarver.jpg",
+    "title": "Anholt Totten med sæler og skarver.jpg",
+    "distanceKm": 0.4,
+    "kind": "area",
+    "place": "Anholt"
+  },
+  "area:la-bulle-etoilee-france": {
+    "author": "Dave osm",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mairie_Roucamps.jpg",
+    "title": "Mairie Roucamps.jpg",
+    "distanceKm": 4.1,
+    "kind": "area",
+    "place": "Bonnemaison"
+  },
+  "area:majakkahotelli-finland": {
+    "author": "Leo-setä",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Olkiluoto_08-2011.jpg",
+    "title": "Olkiluoto 08-2011.jpg",
+    "distanceKm": 0,
+    "kind": "area",
+    "place": "Rauma"
+  },
+  "area:memories-aicha-luxury-camp-jordan": {
+    "author": "Berthold Werner",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wadi_Rum_BW_18.JPG",
+    "title": "Wadi Rum BW 18.JPG",
+    "distanceKm": 2.6,
+    "kind": "area",
+    "place": "Wadi Rum"
+  },
+  "norah-head-lighthouse-and-cottages-australia": {
+    "author": "Yun Huang Yong from Harbord, Australia",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Norah_Head_Lighthouse_cottages.jpg",
+    "title": "Norah Head Lighthouse cottages.jpg",
+    "distanceKm": null,
+    "kind": "hotel",
+    "matched": "Norah Head Lighthouse & Cottages"
+  },
+  "area:ostsee-baumhaushotel-germany": {
+    "author": "JanTappenbeck",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Grenzstein_nessendorf_kuekeluehn.jpg",
+    "title": "Grenzstein nessendorf kuekeluehn.jpg",
+    "distanceKm": 3.4,
+    "kind": "area",
+    "place": "Wangels"
+  },
+  "area:pezulu-tree-house-lodge-south-africa": {
+    "author": "Benny Jackson themightymerlin",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Acornhoek,_South_Africa_(Unsplash).jpg",
+    "title": "Acornhoek, South Africa (Unsplash).jpg",
+    "distanceKm": 5.5,
+    "kind": "area",
+    "place": "Hoedspruit"
+  },
+  "area:pu-luong-tree-house-vietnam": {
+    "author": "Wakada111",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hien%E2%80%99s_garden_-_Nov_2025.jpg",
+    "title": "Hien’s garden - Nov 2025.jpg",
+    "distanceKm": 3.9,
+    "kind": "area",
+    "place": "Pù Luông"
+  },
+  "area:revembulle-france": {
+    "author": "dyonis",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Le_Pont_des_Oulles_du_Diable.jpg",
+    "title": "Le Pont des Oulles du Diable.jpg",
+    "distanceKm": 0.3,
+    "kind": "area",
+    "place": "La Chapelle-en-Valgaudémar"
+  },
+  "area:safari-desert-camp-oman": {
+    "author": "Christoph Strässler",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Camels_in_Wahiba_Sands,_Oman.jpg",
+    "title": "Camels in Wahiba Sands, Oman.jpg",
+    "distanceKm": 0.2,
+    "kind": "area",
+    "place": "Wahiba Sands"
+  },
+  "area:sahara-dunes-camp-morocco": {
+    "author": "Johannes K Becker",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Camel_Tour_on_Erg_Chebbi_riding_across_the_dunes.jpg",
+    "title": "Camel Tour on Erg Chebbi riding across the dunes.jpg",
+    "distanceKm": 4.8,
+    "kind": "area",
+    "place": "Merzouga"
+  },
+  "area:sitka-lighthouse-united-states": {
+    "author": "Joseph from Cabin On The Road, USA",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mount_Edgecumb_Sunset_(7669262554).jpg",
+    "title": "Mount Edgecumb Sunset (7669262554).jpg",
+    "distanceKm": 1.7,
+    "kind": "area",
+    "place": "Sitka"
+  },
+  "area:somnen-bulle-france": {
+    "author": "Krzysztof Golik",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Road_bridge_over_Aveyron_River_in_Najac.jpg",
+    "title": "Road bridge over Aveyron River in Najac.jpg",
+    "distanceKm": 1.8,
+    "kind": "area",
+    "place": "Najac"
+  },
+  "area:treehouse-point-united-states": {
+    "author": "Steven Pavlov",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2022-05-20,_Lake_Alice,_King_County,_Washington,_03.jpg",
+    "title": "2022-05-20, Lake Alice, King County, Washington, 03.jpg",
+    "distanceKm": 2.1,
+    "kind": "area",
+    "place": "Issaquah"
+  },
+  "area:wolwedans-dune-camp-namibia": {
+    "author": "Hp.Baumeler",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Namibia_2026_31.jpg",
+    "title": "Namibia 2026 31.jpg",
+    "distanceKm": 0.1,
+    "kind": "area",
+    "place": "NamibRand Nature Reserve"
+  },
+  "area:yha-st-briavels-castle-united-kingdom": {
+    "author": "Robert Powell",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:St_Briavels_Castle._-_panoramio_(1).jpg",
+    "title": "St Briavels Castle. - panoramio (1).jpg",
+    "distanceKm": 0,
+    "kind": "area",
+    "place": "St Briavels"
+  },
+  "area:yuquiyu-treehouses-united-states": {
+    "author": "Geoff Gallice from Gainesville, FL, USA",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Calisto_nubila_Puerto_Rico.jpg",
+    "title": "Calisto nubila Puerto Rico.jpg",
+    "distanceKm": 4.2,
+    "kind": "area",
+    "place": "Río Grande"
   }
 }
