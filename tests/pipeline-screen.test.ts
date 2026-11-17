@@ -154,6 +154,40 @@ describe('dedupe: stable ids and duplicates in the queue', () => {
   });
 });
 
+describe('dedupe: a renamed page without a source id keeps its id', () => {
+  it('finds the old id again by official domain and name', () => {
+    write('data/pipeline/candidates.json', {});
+    hotelPage('old-slug', { name: '"Lapa Rios Lodge"', 'coordinates': '{ lat: 8.4, lng: -83.3 }', officialWebsite: '"https://laparios.example/"', status: 'published' });
+    hotelPage('other', { name: '"Other Lodge"', 'coordinates': '{ lat: 1, lng: 1 }', status: 'published' });
+    run('dedupe.mjs');
+    const id = (slug: string) => Object.entries(read('data/pipeline/properties.json')).find(([, e]: any) => e.slugs.includes(slug))?.[0];
+    const before = id('old-slug');
+    execFileSync('mv', [join(dir, 'src/content/hotels/old-slug.md'), join(dir, 'src/content/hotels/lapa-rios-lodge-costa-rica.md')]);
+    run('dedupe.mjs');
+    expect(id('lapa-rios-lodge-costa-rica')).toBe(before);
+    expect(id('other')).toBeTruthy();
+    expect(id('other')).not.toBe(before);
+  });
+});
+
+describe('a stay the pre-screen settles before its first card', () => {
+  it('still gets a card, already marked, so the owner can overrule it', () => {
+    write(FILE, [decision('osm:way/2', { category: null, other_niche_type: 'yurt' }), decision('osm:way/3', { niche_scope: 'unclear', confidence: 0.5 })]);
+    write('data/pipeline/decisions/2026-11-13/checked.json', [decision('osm:way/2', { category: null, other_niche_type: 'yurt', verdict: 'needs_review' }), decision('osm:way/3', { niche_scope: 'unclear', confidence: 0.5, verdict: 'needs_review' })]);
+    write('data/pipeline/candidates.json', {
+      'osm:way/2': cand('osm:way/2', { name: 'Yurt Place', website: 'https://yurt.example/', lat: 1, lng: 1 }),
+      'osm:way/3': cand('osm:way/3', { name: 'Maybe Castle', website: 'https://maybe.example/', lat: 2, lng: 2 }),
+    });
+    for (const i of [2, 3]) write(`.pipeline-data/inbox/osm_way_${i}.json`, pack(`osm:way/${i}`));
+    run('prescreen.mjs');
+    mkdirSync(join(dir, 'export'), { recursive: true });
+    run('review-items.mjs', 'data/pipeline/decisions/2026-11-13', 'export');
+    const docs = read('data/pipeline/decisions/2026-11-13/queue-batches.json').flat().map((w: any) => JSON.parse(readFileSync(w.file_path, 'utf8')));
+    expect(docs.find((d: any) => d.id === 'osm:way/2')).toMatchObject({ status: 'pending', decision: 'reject', note: expect.stringMatching(/^Ön eleme \(otomatik\): 14 kategoriden/) });
+    expect(docs.find((d: any) => d.id === 'osm:way/3')).toMatchObject({ status: 'pending', decision: 'research', reviewedAt: queue()['osm:way/3'].research.askedAt });
+  });
+});
+
 describe('prescreen -> review page -> shortlist -> approval by numbers', () => {
   const setup = () => {
     write(FILE, [decision('osm:way/1'), decision('osm:way/2', { category: null, other_niche_type: 'yurt' }), decision('osm:way/3', { niche_scope: 'unclear', confidence: 0.5 }), decision('osm:way/4', { niche_scope: 'some_units', confidence: 0.8 })]);

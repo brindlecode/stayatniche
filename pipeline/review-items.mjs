@@ -76,8 +76,16 @@ for (const d of checked) {
     continue;
   }
   if (old || !['accepted', 'needs_review'].includes(d.verdict)) continue;
-  if (['rejected', 'duplicate'].includes(c.status)) continue; // settled by the pre-screen or dedupe before it reached the page
-  const doc = { ...evidenceFields(d, c), status: 'pending', decision: null, finalCat: null, note: '', reviewedAt: null, slug: null, publishedAt: null, hold: null };
+  if (c.status === 'duplicate') continue; // settled by dedupe before it reached the page
+  // A pre-screen reject or research request still gets its card, already decided, so the owner sees the
+  // reason under "Reddettiklerim" / "Araştırılsın" and can overrule it there.
+  const screened = c.status === 'rejected' && c.reasons?.[0]?.startsWith('prescreen:')
+    ? { decision: 'reject', note: `Ön eleme (otomatik): ${c.reasons[0].slice(10).trim()}`, reviewedAt: null }
+    : c.status === 'classified' && c.research?.by === 'prescreen' && !c.research.doneAt
+    ? { decision: 'research', note: c.research.note, reviewedAt: c.research.askedAt }
+    : c.status === 'rejected' ? null : {};
+  if (!screened) continue; // rejected by another later check: not the owner's decision to make
+  const doc = { ...evidenceFields(d, c), status: 'pending', decision: null, finalCat: null, note: '', reviewedAt: null, slug: null, publishedAt: null, hold: null, ...screened };
   writeFileSync(`${dir}/queue/${k}.json`, JSON.stringify(doc, null, 1) + '\n');
   sets.push({ op: 'set', collection: 'queue', doc_id: k, file_path: resolve(`${dir}/queue/${k}.json`) });
 }
