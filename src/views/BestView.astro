@@ -2,6 +2,7 @@
 import HotelRoundup from '../components/HotelRoundup.astro';
 import { cheapestKnown } from '../lib/site';
 import { i18n, type Locale } from '../i18n';
+import { guidesFor } from '../i18n/content';
 import { countrySlug, roundupAlternates, MIN_INDEXABLE } from '../i18n/roundups';
 
 interface Props { locale: Locale; cat: string; country: string; hs: any[]; catTitle: string; slug: string }
@@ -15,6 +16,7 @@ const top = [...hs].sort((a, b) => b.data.rating - a.data.rating)[0];
 const cheapFrom = cheapest ? L.range(cheapest.data.priceRange.split(/\s[-–]\s/)[0]) : null;
 const faq = B.faq({ cat: catTitle, country, names: hs.map((h: any) => h.data.name), top: top.data.name, topWhere: top.data.destination, cheapFrom, cheapest: cheapest?.data.name ?? null });
 const path = L.path('best', slug);
+const guideLinks = (await guidesFor(L.locale, { category: cat })).filter(g => g.en.guideFor?.countries.includes(enCountry)).map(g => ({ label: g.data.title, url: L.path('blog', g.slug) }));
 ---
 <HotelRoundup
   title={B.title(catTitle, country)}
@@ -27,7 +29,7 @@ const path = L.path('best', slug);
   faq={faq}
   searchPlace={enCountry}
   placeLabel={country}
-  related={[{ label: B.allCat(catTitle), url: L.path('categories', cat) }, { label: B.allIn(country), url: L.path('countries', countrySlug(L.locale, enCountry)) }]}
+  related={[{ label: B.allCat(catTitle), url: L.path('categories', cat) }, { label: B.allIn(country), url: L.path('countries', countrySlug(L.locale, enCountry)) }, ...guideLinks]}
   alternates={await roundupAlternates('best', enCountry, cat)}
   noIndex={hs.length < MIN_INDEXABLE}
 />

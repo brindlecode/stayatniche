@@ -71,3 +71,25 @@ export async function entryAlternates(col: Col, kind: string, slug: string) {
 export function allAlternates(kind: string, slug?: string) {
   return (LOCALES as Locale[]).map((l) => ({ locale: l, href: localePath(l, kind, slug) }));
 }
+
+/**
+ * Guides (blog posts) that declare, in `guideFor`, that they belong to a category and/or an English country name.
+ * Translated locales only get the guides that exist in that language.
+ */
+export async function guidesFor(locale: Locale, match: { category?: string; country?: string }) {
+  const posts = await localized('blog', locale);
+  return posts
+    .filter((p) => {
+      const g = p.en.guideFor;
+      return !!g && ((!!match.category && g.categories.includes(match.category)) || (!!match.country && g.countries.includes(match.country)));
+    })
+    .sort((a, b) => +new Date(b.en.publishedDate) - +new Date(a.en.publishedDate));
+}
+
+/** Guides a guide points to, plus the guides that point to it. Only the ones that exist in this locale. */
+export async function relatedGuidesOf(locale: Locale, slug: string) {
+  const posts = await localized('blog', locale);
+  const me = posts.find((p) => p.slug === slug);
+  const mine = me?.en.relatedGuides ?? [];
+  return posts.filter((p) => p.slug !== slug && (mine.includes(p.slug) || p.en.relatedGuides.includes(slug)));
+}

@@ -296,6 +296,7 @@ const de: typeof en = {
     properties: (n: number) => `${n} ${plural(n, 'Unterkunft', 'Unterkünfte')}`,
     about: (title: string) => `Über ${catStart(title)}`,
     other: 'Weitere Unterkunftsarten',
+    guides: 'Ratgeber zu dieser Unterkunftsart',
   },
   destinations: {
     metaTitle: 'Reiseziele: Außergewöhnliche Hotels weltweit finden',
@@ -334,6 +335,7 @@ const de: typeof en = {
     affiliate: 'Affiliate-Links: Wir erhalten eine Provision, für Sie ohne Mehrkosten.',
     relatedA: 'Außergewöhnliche',
     relatedB: 'Unterkünfte zum Buchen',
+    related: 'Weitere Ratgeber',
   },
   countries: {
     metaTitle: 'Außergewöhnliche Hotels nach Ländern',

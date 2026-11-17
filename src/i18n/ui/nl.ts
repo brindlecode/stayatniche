@@ -244,6 +244,7 @@ const nl: typeof en = {
     properties: (n: number) => `${n} ${plural(n, 'accommodatie', 'accommodaties')}`,
     about: (title: string) => `Over ${lc(title)}`,
     other: 'Andere soorten verblijven',
+    guides: 'Gidsen over dit soort verblijf',
   },
   destinations: {
     metaTitle: 'Bestemmingen: waar vind je bijzondere hotels?',
@@ -282,6 +283,7 @@ const nl: typeof en = {
     affiliate: 'Affiliatelinks: we ontvangen een commissie, zonder kosten voor jou.',
     relatedA: 'Bijzondere',
     relatedB: 'verblijven om te boeken',
+    related: 'Gerelateerde gidsen',
   },
   countries: {
     metaTitle: 'Bijzondere hotels per land',

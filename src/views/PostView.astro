@@ -8,7 +8,7 @@ import { guideImage, imgAttrs, SIZES } from '../lib/images';
 import AdSlot from '../components/AdSlot.astro';
 import { SITE } from '../lib/site';
 import { i18n, type Locale } from '../i18n';
-import { localized, entryAlternates, type Localized } from '../i18n/content';
+import { localized, entryAlternates, relatedGuidesOf, type Localized } from '../i18n/content';
 
 interface Props { locale: Locale; post: Localized<'blog'> }
 const { post } = Astro.props;
@@ -21,9 +21,11 @@ const url = SITE + L.path('blog', post.slug);
 const cover = guideImage({ ...post, data: post.en } as any, await getCollection('destinations'));
 const coverImg = imgAttrs(cover, SIZES.wide, [1200, 630]);
 const allHotels = await localized('hotels', L.locale);
+// Listed hotels keep the order the guide names them in; a guide with none shows four editor's picks.
 const relatedHotels = post.data.relatedHotels?.length
-  ? allHotels.filter(h => post.data.relatedHotels.includes(h.slug))
+  ? post.data.relatedHotels.map((s: string) => allHotels.find(h => h.slug === s)).filter((h): h is NonNullable<typeof h> => !!h)
   : allHotels.filter(h => h.data.featured).slice(0, 4);
+const relatedGuides = await relatedGuidesOf(L.locale, post.slug);
 
 const seo = post.data.seo || {};
 const metaTitle = seo.metaTitle || post.data.title;
@@ -185,6 +187,19 @@ const articleJsonLd = {
     </div>
   </section>
 
+  {relatedGuides.length > 0 && (
+    <section class="border-t border-warm-200 bg-white" aria-labelledby="related-guides">
+      <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+        <h2 id="related-guides" class="font-display text-xl font-bold text-warm-950 mb-4">{P.related}</h2>
+        <ul class="space-y-3">
+          {relatedGuides.map(g => (
+            <li><a href={L.path('blog', g.slug)} class="font-body font-semibold text-forest-700 hover:underline">{g.data.title}</a></li>
+          ))}
+        </ul>
+      </div>
+    </section>
+  )}
+
   <!-- Related hotels -->
   {relatedHotels.length > 0 && (
     <section class="bg-warm-100 border-t border-warm-200">
@@ -215,3 +230,8 @@ const articleJsonLd = {
     </section>
   )}
 </BaseLayout>
+
+<style>
+  /* Comparison tables in a guide scroll sideways on a phone instead of squeezing the page. */
+  .prose :global(table) { display: block; overflow-x: auto; max-width: 100%; }
+</style>
