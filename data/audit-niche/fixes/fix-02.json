@@ -1,0 +1,205 @@
+[
+ {
+  "slug": "castello-di-casamassella-italy",
+  "issue": "Site (copyright 2021) also markets self-catering exclusive-use castle rental; page presents only B&B-style rooms",
+  "action": "corrected",
+  "detail": "Official page header reads 'Ad uso esclusivo' / 'Self-catering castle holidays - Rent a castle'. Added a sentence to the Beyond the walls section (EN + de/fr/es/it/nl) saying the website also markets the castle for exclusive-use self-catering and suggesting asking about whole-building rental.",
+  "source_url": "https://www.castellodicasamassella.com/le-suite.html"
+ },
+ {
+  "slug": "castello-di-fagnano-albergo-diffuso-italy",
+  "issue": "Official site is in maintenance mode, so room counts, spa and pool claims could not be checked against it",
+  "action": "deleted",
+  "detail": "Official site is a maintenance page; the only other sources found were OTA listings that disagree (7 rooms/19 guests vs 14 beds) and are not citable. Removed room and bed counts, pool and spa claims from description, highlights, amenities, body, and translated meta descriptions (EN + 5 langs); added a line to contact the hotel to confirm facilities. Name still contains 'Spa'.",
+  "source_url": "https://www.castellodifagnano.org"
+ },
+ {
+  "slug": "castello-di-fagnano-albergo-diffuso-italy",
+  "issue": "Page itself says the feel is 'a quiet hamlet rather than a fortress'; castle link to the hotel unsupported",
+  "action": "skipped_not_text",
+  "detail": "Castle-link framing; the page already says the feel is a hamlet rather than a fortress and makes no castle claim about the houses. No text change.",
+  "source_url": "https://it.wikipedia.org/wiki/Fagnano_Alto"
+ },
+ {
+  "slug": "castello-di-fagnano-albergo-diffuso-italy",
+  "issue": "Hamlet 'Castello' is a fortified medieval borgo per Wikipedia, but the page does not show the houses are within it",
+  "action": "skipped_not_text",
+  "detail": "Category framing: Wikipedia confirms Castello is a fortified medieval hamlet, but no source places the hotel's houses inside the walls. The page does not claim they are. No text change.",
+  "source_url": "https://it.wikipedia.org/wiki/Fagnano_Alto"
+ },
+ {
+  "slug": "castello-di-gargonza-italy",
+  "issue": "Page's 'bar in the village shop' and restaurant-outside-walls details not re-verified",
+  "action": "deleted",
+  "detail": "Fetched the official home, restaurant and 'dormire' pages: none mention a bar in the Bottega or that the restaurant is outside the walls (restaurant only placed 'a Monte San Savino'). Removed the 'Bar in the village shop' and 'Restaurant outside the walls' amenities and reworded the body to say only that the village has a shop (Bottega, which hosts tastings per the official FAQ) and a restaurant (EN + 5 langs).",
+  "source_url": "https://www.gargonza.it"
+ },
+ {
+  "slug": "castello-di-montaldo-italy",
+  "issue": "Page says 20 suites and 19 rooms; the official English rooms page lists 20 double rooms and 19 suites (12 Prestige, 4 Romantic, 2 Tower, 1 Diplomatic), while the Italian home page says 20 suites and 19 rooms.",
+  "action": "corrected",
+  "detail": "Official rooms page lists 20 double-occupancy rooms and 19 suites (12 Prestige, 4 Romantic, 2 Tower, 1 Diplomatic), 39 total. Changed '20 suites and 19 rooms' to '20 double rooms and 19 suites' in description, highlights, body and translated meta descriptions (EN + 5 langs). Note the official spa page says '19 rooms and 20 suites', so the official site is internally inconsistent; the detailed rooms page was used.",
+  "source_url": "https://www.castellomontaldotorino.it/en/hotel-rooms.php"
+ },
+ {
+  "slug": "castello-di-montaldo-italy",
+  "issue": "3,000 m2 spa and Saunatur recognition not found on the pages checked.",
+  "action": "not_an_issue",
+  "detail": "Official spa page states '3,000 m2 of wellness awarded the Golden Spa recognition by Saunatur, where every sauna and every ritual is guided by our Sauna Masters'. Claims are supported.",
+  "source_url": "https://www.castellomontaldotorino.it/en/spa-hotel-turin.php"
+ },
+ {
+  "slug": "castello-di-monterone-italy",
+  "issue": "Page says 13th-century; official history says the building dates back at least to the 11th century (documented 1200).",
+  "action": "corrected",
+  "detail": "Official history page: building 'risale almeno all'undicesimo secolo' with a document of 18 Jan 1200. Replaced '13th-century' with 'medieval' in description, body and meta descriptions, and added a sentence citing the 11th-century / 1200 document (EN + 5 langs).",
+  "source_url": "https://castellomonterone.com/it/il-castello/"
+ },
+ {
+  "slug": "castello-di-proceno-italy",
+  "issue": "Site also offers Il Giulione, a separate farmhouse 12 km away (6 rooms), not mentioned on the page.",
+  "action": "corrected",
+  "detail": "Official Il Giulione page: agriturismo 12 km from the castle, 2 floors, 6 bedrooms, 6 bathrooms, own pool. Added a closing paragraph about it as a separate farmhouse outside the castle complex (EN + 5 langs).",
+  "source_url": "https://www.castellodiproceno.it/agriturismo/la-casa-carlo-giulione/"
+ },
+ {
+  "slug": "castello-di-proceno-italy",
+  "issue": "Page says four rooms; apartments page lists three rooms (Caciaia, Collinella, Poggiolo) plus Belvedere.",
+  "action": "corrected",
+  "detail": "Rooms page says four rooms (Caciaia, Collinella, Poggiolo, Belvedere), so 'four rooms' stays; apartments page says only Caciaia, Collinella and Poggiolo were part of a tower of the old wall. Changed the highlight to 'Three rooms in a former tower' and added a sentence naming the three (EN + 5 langs).",
+  "source_url": "https://www.castellodiproceno.it/accoglienza/appartamenti/"
+ },
+ {
+  "slug": "castello-fai-italy",
+  "issue": "The Castello Fai apartment is the Torre del Baron and Residenza delle Contesse units combined, not a separate third home.",
+  "action": "corrected",
+  "detail": "Official page: the Castello Fai apartment (170 m2, up to 8 guests) consists of the Torre del Baron and Residenza delle Contesse apartments. Replaced 'further holiday homes' with a sentence saying Castello Fai is made up of those two (EN + 5 langs).",
+  "source_url": "https://castellofai.com/en/castello-fai-welcome/castello-fai/"
+ },
+ {
+  "slug": "castello-la-leccia-italy",
+  "issue": "Official site does not explicitly place the 12 rooms inside the castle; Casa La Leccia is a separate adjacent apartment.",
+  "action": "skipped_not_text",
+  "detail": "Category/scope framing. Official site gives 12 rooms and offers exclusive rental of the castle 'with its rooms, restaurant, pool, SPA' but never says which building holds the 12 rooms; the page does not mention Casa La Leccia. No text change.",
+  "source_url": "https://www.castellolaleccia.com/en/"
+ },
+ {
+  "slug": "castello-la-leccia-italy",
+  "issue": "Castle was altered in the 18th century to look more like a villa.",
+  "action": "not_an_issue",
+  "detail": "Official history page: in the 18th century the castle and hamlet began to take on the appearance of a manor house through modification of part of the structure. The page already says this.",
+  "source_url": "https://www.castellolaleccia.com/en/history-of-castello-la-leccia/"
+ },
+ {
+  "slug": "dalhousie-castle-united-kingdom",
+  "issue": "Page says it describes itself as Scotland's oldest inhabited castle; the current official site says one of Scotland's oldest inhabited castles.",
+  "action": "corrected",
+  "detail": "Official home page: 'one of Scotland's oldest inhabited castles'. Body said 'Scotland's oldest'; changed to 'one of Scotland's oldest' in EN, fr, es, it, nl (de already correct; highlight already correct).",
+  "source_url": "https://www.dalhousiecastle.co.uk/"
+ },
+ {
+  "slug": "ethie-castle-united-kingdom",
+  "issue": "'Available for rent since summer 2024' is not supported: official site says the current owner acquired it in 2013, refurnished it room by room and opened it to guests",
+  "action": "corrected",
+  "detail": "Official site: Dr Roland Zettel acquired the castle in November 2013, refurnished it room by room and opened it to guests. Removed 'available for rent since summer 2024' from description, highlight and body; replaced with offered for stays to exclusive use and the 2013 acquisition (EN + 5 langs).",
+  "source_url": "https://www.ethiecastle.com/"
+ },
+ {
+  "slug": "ethie-castle-united-kingdom",
+  "issue": "Page does not mention the fourteen-suite count, three-night minimum or attached two-bedroom apartment",
+  "action": "corrected",
+  "detail": "Official site: 'Fourteen suites', minimum stay of three nights, attached apartment with two bedrooms, own bathroom, kitchen, living room and separate entrance. Added all three to description, highlights, body (EN + 5 langs).",
+  "source_url": "https://www.ethiecastle.com/"
+ },
+ {
+  "slug": "hotel-castello-di-santa-vittoria-italy",
+  "issue": "Source does not state which rooms are in the castle building itself versus other parts of the complex",
+  "action": "skipped_not_text",
+  "detail": "Category framing. Official site only says the hotel is 'all'interno delle mura del Castello'; it does not split rooms by building. The page says rooms are inside the castle walls, not in the castle building. No text change.",
+  "source_url": "https://www.hotelsantavittoria.com/"
+ },
+ {
+  "slug": "hotel-castello-di-santa-vittoria-italy",
+  "issue": "Restaurant is described as inside the castle walls 'a pochi passi' from the hotel, so hotel and restaurant are separate buildings",
+  "action": "not_an_issue",
+  "detail": "Page already says the restaurant is inside the castle walls 'a short walk from the hotel', matching the official wording 'a pochi passi dall'Hotel'.",
+  "source_url": "https://www.hotelsantavittoria.com/en/"
+ },
+ {
+  "slug": "hotel-castello-miramare-italy",
+  "issue": "Page does not say the present building is a c.1880 neo-Gothic villino on medieval foundations",
+  "action": "corrected",
+  "detail": "Official history page: hotel stands on foundations of a medieval fortlet, later turned into a neo-Gothic villino with a tower; Castello Chiozza built around 1880. Added a sentence to the intro (EN + 5 langs).",
+  "source_url": "http://castellomiramare.it/c-era-una-volta.html"
+ },
+ {
+  "slug": "hotel-castello-miramare-italy",
+  "issue": "Official site gives no room count or star rating (page says 3-star)",
+  "action": "not_an_issue",
+  "detail": "Official home page headline reads 'Hotel Castello Miramare, 3 stelle'; star rating is supported. No room count is stated on the page.",
+  "source_url": "http://castellomiramare.it"
+ },
+ {
+  "slug": "inverlochy-castle-hotel-united-kingdom",
+  "issue": "Official site gives no count of walled-garden rooms; page's 'eight rooms' is unsupported",
+  "action": "deleted",
+  "detail": "Official Walled Garden page says only 'our walled garden offers 5 ground floor rooms' plus junior suites, with no total; 'eight rooms' unsupported. Removed the count: highlight and body now say 'rooms and suites in a converted stable block, a five-minute stroll from the castle' (EN + 5 langs).",
+  "source_url": "https://inverlochycastlehotel.com/stay/walled-garden-rooms"
+ },
+ {
+  "slug": "inverlochy-castle-hotel-united-kingdom",
+  "issue": "Official site stresses a 19th-century Victorian castle/country house, not a medieval fortress; page says 1863 baronial mansion (consistent)",
+  "action": "not_an_issue",
+  "detail": "Page already says 19th-century baronial castle built 1863, consistent with the official 'Victorian country house' description.",
+  "source_url": "https://inverlochycastlehotel.com/stay/walled-garden-rooms"
+ },
+ {
+  "slug": "killeavy-castle-estate-united-kingdom",
+  "issue": "Page says four dog-friendly self-catering residences; official site lists a 3-room Gatelodge, 5-room Woodside Residence and a one-bedroom Woodside Cottage",
+  "action": "not_an_issue",
+  "detail": "Official self-catering page: 'Our four purpose-built, self-catering, dog friendly residences' (Woodside Studio, Woodside Cottage, Gatelodge, Woodside Residence). Page's 'four dog-friendly self-catering residences' is correct.",
+  "source_url": "https://www.killeavycastle.com/accommodation_luxury-selfcatering.html"
+ },
+ {
+  "slug": "killeavy-castle-estate-united-kingdom",
+  "issue": "Dog-friendly status of residences not confirmed on fetched pages",
+  "action": "not_an_issue",
+  "detail": "Same page: 'All our residences are dog friendly.' Confirmed.",
+  "source_url": "https://www.killeavycastle.com/accommodation_luxury-selfcatering.html"
+ },
+ {
+  "slug": "langley-castle-hotel-united-kingdom",
+  "issue": "Page says built 1364; the hotel's own site says first built in 1350 (sources differ)",
+  "action": "corrected",
+  "detail": "Hotel's own pages: 'first built in 1350'. Changed 1364 to 'first built in 1350' in highlight and body (EN + 5 langs). Wikipedia carries both 1350 and 1364.",
+  "source_url": "https://langleycastle.com/about-langley-castle/"
+ },
+ {
+  "slug": "langley-castle-hotel-united-kingdom",
+  "issue": "'Three miles south of Haydon Bridge' is not on the official pages",
+  "action": "not_an_issue",
+  "detail": "Wikipedia: 'The castle is 3 miles (5 km) south of Haydon Bridge, in Northumberland'. Claim kept.",
+  "source_url": "https://en.wikipedia.org/wiki/Langley_Castle"
+ },
+ {
+  "slug": "melville-castle-united-kingdom",
+  "issue": "Present castle is an 18th-century Gothic mansion (Wikipedia calls it a mansion), not medieval; page says 'three-storey Gothic castle'",
+  "action": "corrected",
+  "detail": "Wikipedia: 'three-storey Gothic mansion', present castle designed 1786-1791 by James Playfair after the Tower Castle was demolished in 1780. Description and highlight now say 'castle-style mansion'; added a sentence on the 1786-91 building (EN + 5 langs).",
+  "source_url": "https://en.wikipedia.org/wiki/Melville_Castle"
+ },
+ {
+  "slug": "melville-castle-united-kingdom",
+  "issue": "'Rooms beneath the turrets' not found on the official homepage (unverified)",
+  "action": "deleted",
+  "detail": "Not on the official site. Removed the 'Rooms beneath the turrets' highlight, the 'Some are tucked beneath the turrets' sentence and the closing tip about them (EN + 5 langs).",
+  "source_url": "http://melvillecastle.com/"
+ },
+ {
+  "slug": "melville-castle-united-kingdom",
+  "issue": "Mary Queen of Scots visits are the hotel's own marketing claim",
+  "action": "corrected",
+  "detail": "Official home page says Mary Queen of Scots 'used to visit'; attributed it: 'the hotel says Mary Queen of Scots used to visit' (EN + 5 langs).",
+  "source_url": "http://melvillecastle.com/"
+ }
+]

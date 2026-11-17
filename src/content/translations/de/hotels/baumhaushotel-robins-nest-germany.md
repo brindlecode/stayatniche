@@ -1,11 +1,11 @@
 ---
 source: baumhaushotel-robins-nest-germany
 destination: "Witzenhausen, Hessen"
-description: "Ein Baumhaushotel neben Schloss Berlepsch: Die Holznester hängen rund sieben Meter hoch im Blätterdach und sind über Treppen und Hängebrücken erreichbar, dazu kommt ein Pfahlhaus für bis zu acht Personen."
+description: "Ein Baumhaushotel neben Schloss Berlepsch: Die Baumhäuser hängen rund 5 bis 7 Meter hoch und sind über Treppen und Hängebrücken erreichbar, dazu kommt ein Pfahlhaus für bis zu acht Personen."
 highlights:
-  - "Baumhäuser, erreichbar über Treppen und Hängebrücken, etwa 7 Meter hoch in der Baumkrone"
+  - "Baumhäuser, erreichbar über Treppen und Hängebrücken, etwa 5 bis 7 Meter hoch (Birkenhaus etwa 5 m, Kork- und Stammhaus etwa 7 m)"
   - "Ein Pfahlhaus für bis zu 8 Personen mit eigenem Bad"
-  - "Ein kugelförmiges Baumhaus und Baumzelte gehören zu den Unterkunftsarten"
+  - "Ein kugelförmiges, an Seilen zwischen Bäumen hängendes Baumhaus; Baumzelte (keine Baumhäuser) hängen etwa 130 cm über dem Boden"
   - "Frühstücksbuffet inklusive, Restaurant vor Ort und Sauna ganzjährig nutzbar"
   - "Nicht weit von Schloss Berlepsch, das seit mehr als 650 Jahren steht"
 amenities:
@@ -28,11 +28,11 @@ Robins Nest ist ein Baumhaushotel bei Witzenhausen im Norden Hessens, nahe Schlo
 
 ## Die Baumhäuser
 
-Die Nester hängen in den Baumwipfeln, etwa sieben Meter hoch. Jedes ist über Treppen und Hängebrücken zu erreichen. Das Angebot umfasst ein Birkenhaus, ein Korkbaumhaus, ein Stammhaus und ein kugelförmiges Baumhaus, jeweils für zwei bis vier Personen, beim Kugelhaus für zwei. Dazu kommen der Wald Loft und zwei Kuppeln, beide für zwei bis vier Gäste.
+Auf der offiziellen Website werden drei Baumhäuser, ein Stelzenhaus, ein Kugelbaumhaus und fünf Baumzelte aufgeführt. Die Baumhäuser hängen unterschiedlich hoch: das Birkenhaus etwa 5 Meter, das Kork- und das Stammhaus etwa 7 Meter. Sie sind über Treppen und Hängebrücken zu erreichen. Birkenhaus, Korkhaus und Stammhaus bieten jeweils bis zu vier Personen Platz, das kugelförmige Baumhaus, das an Seilen zwischen den Bäumen hängt, zwei. Dazu kommen der Wald Loft und zwei Kuppeln, beide für zwei bis vier Gäste; die Kuppeln sind keine Baumhäuser.
 
 Das Pfahlhaus steht auf Stelzen und bietet Platz für zwei bis acht Personen. Es hat ein eigenes Bad mit Dusche und WC, ebenso der Wald Loft. In den Baumhäusern wird am Waschbecken mit einem Wasserbehälter gewaschen, die Baumhäuser für vier Personen haben Trockenkomposttoiletten. Jede Kuppel verfügt über eine Badehütte im Freien mit WC und Dusche, nutzbar von April bis Oktober. Ein Waschraum mit Dusche neben den Restauranttoiletten ist rund um die Uhr geöffnet.
 
-Baumzelte stehen ebenfalls zur Auswahl. Sie sind nur für Erwachsene buchbar, und Hunde sind weder in ihnen noch in den Kuppeln erlaubt. Hunde können auf dem übrigen Gelände untergebracht werden, allerdings führen zwei wackelige Brücken zum Stammhaus, die manche Hunde nicht mögen.
+Baumzelte stehen ebenfalls zur Auswahl; sie sind keine Baumhäuser, sondern etwa 130 cm über dem Boden zwischen Bäumen gespannte Zelte. Sie sind nur für Erwachsene buchbar, und Hunde sind weder in ihnen noch in den Kuppeln erlaubt. Hunde können auf dem übrigen Gelände untergebracht werden, allerdings führen zwei wackelige Brücken zum Stammhaus, die manche Hunde nicht mögen.
 
 ## Frühstück, Sauna und Praktisches
 

@@ -1,11 +1,11 @@
 ---
 source: baumhaushotel-robins-nest-germany
 destination: "Witzenhausen, Hesse"
-description: "Un hotel de cabañas en los árboles junto al Schloss Berlepsch, con nidos de madera a unos siete metros de altura en la copa de los árboles, a los que se llega por escaleras y puentes colgantes, y una casa sobre pilotes para hasta ocho personas."
+description: "Un hotel de cabañas en los árboles junto al Schloss Berlepsch, con cabañas a unos 5 a 7 metros de altura, a las que se llega por escaleras y puentes colgantes, y una casa sobre pilotes para hasta ocho personas."
 highlights:
-  - "Cabañas a unos 7 metros de altura en la copa de los árboles, a las que se llega por escaleras y puentes colgantes"
+  - "Cabañas a unos 5 a 7 metros de altura, a las que se llega por escaleras y puentes colgantes (la de abedul a unos 5 m, las de corcho y tronco a unos 7 m)"
   - "Una casa sobre pilotes para hasta 8 personas, con baño propio"
-  - "Entre los alojamientos hay una cabaña con forma de esfera y tiendas en los árboles"
+  - "Una cabaña con forma de esfera colgada de cables entre los árboles; las tiendas en los árboles (que no son cabañas) cuelgan a unos 130 cm del suelo"
   - "Desayuno tipo buffet incluido, restaurante en el lugar y sauna disponible todo el año"
   - "No muy lejos del Schloss Berlepsch, que lleva más de 650 años en pie"
 amenities:
@@ -28,11 +28,11 @@ Robins Nest es un hotel de cabañas en los árboles cerca de Witzenhausen, en el
 
 ## Las cabañas
 
-Los nidos están en la copa de los árboles, a unos siete metros de altura. Se accede a cada uno por escaleras y puentes colgantes. La oferta incluye una cabaña de abedul, una de corcho, una casa-tronco y una cabaña con forma de esfera, con capacidad para dos a cuatro personas cada una o, en el caso de la esfera, para dos. También hay un Wald Loft y un par de domos, ambos para dos a cuatro huéspedes.
+El sitio web oficial cuenta tres cabañas en los árboles, una casa sobre pilotes, una cabaña con forma de esfera y cinco tiendas en los árboles. Las cabañas están a distintas alturas: la de abedul a unos 5 metros, las de corcho y tronco a unos 7. Se accede por escaleras y puentes colgantes. Las cabañas de abedul, corcho y tronco tienen capacidad para hasta cuatro personas cada una, y la cabaña con forma de esfera, colgada de cables entre los árboles, para dos. También hay un Wald Loft y un par de domos, ambos para dos a cuatro huéspedes; los domos no son cabañas en los árboles.
 
 La casa sobre pilotes se eleva sobre estacas y tiene capacidad para dos a ocho personas. Tiene baño propio con ducha e inodoro, al igual que el Wald Loft. En las cabañas el lavado se hace con un lavabo y un depósito de agua, y las de cuatro personas tienen inodoros secos de compostaje. Cada domo cuenta con una caseta de baño exterior con inodoro y ducha, disponible de abril a octubre. Un aseo con ducha junto a los servicios del restaurante está abierto las 24 horas.
 
-También se ofrecen tiendas en los árboles. Solo pueden reservarlas adultos, y los perros no pueden entrar ni en ellas ni en los domos. Los perros sí pueden alojarse en otras zonas del recinto, pero dos puentes inestables llevan a la casa-tronco, que a algunos perros no les gusta.
+También se ofrecen tiendas en los árboles; no son cabañas, sino tiendas colgadas entre los árboles a unos 130 cm del suelo. Solo pueden reservarlas adultos, y los perros no pueden entrar ni en ellas ni en los domos. Los perros sí pueden alojarse en otras zonas del recinto, pero dos puentes inestables llevan a la casa-tronco, que a algunos perros no les gusta.
 
 ## Desayuno, sauna y aspectos prácticos
 

@@ -1,9 +1,9 @@
 ---
 source: manshausen-island-resort-norway
 destination: Steigen-archipel, Nordland
-description: Een handvol zeehutten op een piepklein eiland in de Steigen-archipel boven de poolcirkel, waar de bergen recht de Noorse Zee in duiken en het noorderlicht in het water weerspiegelt. Het oorspronkelijke pakhuis van de vissers is omgebouwd tot gemeenschappelijke ruimte; vier zeehutten staan op palen boven de zee, met glazen wanden en een eigen toegang tot het water om te kajakken, te duiken en onder de middernachtzon te zwemmen.
+description: "Zeehutten en torens op een klein eiland in de Steigen-archipel boven de poolcirkel, waar de bergen recht de Noorse Zee in duiken en het noorderlicht in het water weerspiegelt. De oorspronkelijke hutten rusten op de oude stenen kades van het eiland en de nieuwere staan boven de zee; een boerderij uit de 18e eeuw is omgebouwd tot restaurant, met een bibliotheek op de verdieping."
 highlights:
-  - Zeehutten op palen boven de Noorse Zee
+  - Zeehutten op oude stenen kades en boven de zee
   - Noorderlicht dat in het water weerspiegelt
   - Boven de poolcirkel, op 68° noorderbreedte
   - Zwemmen onder de middernachtzon vanaf je eigen steiger
@@ -13,7 +13,7 @@ amenities:
   - Kajaks beschikbaar
   - Noors ontbijt inbegrepen
   - Houtkachel
-  - Sauna binnen
+  - Sauna en hottub bij een zeewatervijver
 bestFor:
   - Avontuurlijke stellen
   - Noorderlichtjagers
@@ -22,13 +22,13 @@ bestFor:
   - Wie echte afgelegenheid zoekt
 seo:
   metaTitle: "Manshausen: zeehutten boven de poolcirkel | StayAtNiche"
-  metaDescription: "Manshausen Island Resort in Noord-Noorwegen: zeehutten op palen boven de Noorse Zee, noorderlicht in het water, middernachtzon en kajakken vanaf je eigen hut."
+  metaDescription: "Manshausen Island Resort in Noord-Noorwegen: zeehutten op een klein eiland boven de poolcirkel, met noorderlicht, middernachtzon en zwemmen in zee."
 niche_feature: "Zeehutten op een privé-eiland: de oorspronkelijke hutten staan op oude stenen kades, de nieuwere steken uit over de zee; twee Towers aan de rand van de pier. Palen of pijlers worden niet genoemd. Geen ligging aan een klif."
 ---
 
 De Steigen-archipel laat zien hoe Noorwegen eruitziet als de bergen rechtstreeks de zee in zijn geduwd: een keten van steile, rotsige eilanden boven de poolcirkel, waar de muur van de Lofoten naar het noorden doorloopt en de fjorden van Nordland uitmonden in de Noorse Zee. Op 68° noorderbreedte is dit het echte Arctische Noorwegen. Niet het toeristische Noordpoolgebied van Tromsø, maar het Noorwegen van werkende vissersdorpen, waar de infrastructuur minimaal is en het landschap de ongetemde uitstraling heeft van een kust die nooit in de mode is geweest.
 
-Manshausen ligt op een van die eilanden: een piepklein, grillig stuk rots en heide van zo'n 300 meter op het langste punt. Het oorspronkelijke gebouw was een rorbu van vissers (een traditioneel houten pakhuis dat ook als woonruimte diende), nu omgebouwd tot gemeenschappelijke eet- en ontmoetingsruimte. Op houten pieren vanaf de rotsige kustlijn staan vier zeehutten recht boven het water: houten bouwsels met grote ramen naar zee, houtkachels en open interieurs waarin bed, zithoek en keuken één ruimte met zeezicht delen. Het eigen terras op zeeniveau, waar je vanuit de hut naar afdaalt, geeft je direct toegang tot de Noorse Zee om te zwemmen, te kajakken en te duiken.
+Manshausen ligt op een van die eilanden: een piepklein, grillig stuk rots en heide. Het eiland was vroeger een handelspost voor de visserij, waarvan nu alleen de massieve stenen kades resteren; een boerderij uit de 18e eeuw is omgebouwd tot restaurant met een bibliotheek op de verdieping. De oorspronkelijke hutten rusten op die stenen kades, terwijl de nieuwere aan de punt van de rotsformaties aan de noordkant van het eiland staan, boven de zee. De hutten bereik je via de rotsformaties.
 
 In de winter is het noorderlicht de grootste trekpleister. Omdat het eiland door water is omringd en er geen kunstlicht is, weerspiegelt het noorderlicht in de zee rond je hut, wat een allesomvattende ervaring oplevert die geen hotel op het land kan evenaren. Hetzelfde noorderlicht tegelijk boven en onder de horizon zien, de echte hemel en zijn spiegelbeeld, noemen gasten keer op keer de herinnering die hun verblijf bepaalt.
 
