@@ -22,6 +22,8 @@ bestFor:
 seo:
   metaTitle: "InterContinental Bora Bora Thalasso: villas y spa | StayAtNiche"
   metaDescription: "Villas sobre el agua en el arrecife exterior de Bora Bora, con talasoterapia en el Deep Ocean Spa y una pionera climatización con agua de mar profunda."
+closure:
+  note: "El resort cerró el 1 de junio de 2026 para una renovación completa. Su web no indica fecha de reapertura."
 ---
 
 El InterContinental Bora Bora Resort and Thalasso Spa ocupa la posición más expuesta y espectacular de todos los resorts sobre el agua de la isla. Se asienta en el propio arrecife exterior: Motu Piti Aau, un pequeño islote de coral en el extremo sur de la barrera de coral de Bora Bora. Desde aquí, la laguna se extiende hacia el norte en una panorámica que abarca toda la silueta de los montes Otemanu y Pahia alzándose en la isla principal, con un agua que pasa del casi turquesa al casi zafiro según el ángulo de la luz.

@@ -3,10 +3,10 @@ name: "Thulhagiri Island Resort and Spa"
 category: overwater-bungalows
 destination: "North Malé Atoll"
 country: "Maldives"
-description: "An island resort in North Malé Atoll, about 20 minutes by speedboat from the airport, where 17 of the rooms are water bungalows built over the lagoon."
+description: "An island resort in North Malé Atoll, about 20 minutes by speedboat from the airport, with 37 water bungalows (17 Water Bungalows and 20 Superior Water Bungalows) over the lagoon and 50 beach bungalows."
 priceRange: "Rates vary"
 highlights:
-  - "17 water bungalows built over the lagoon"
+  - "37 water bungalows over the lagoon (17 standard, 20 superior)"
   - "Ocean views from the superior bungalows"
   - "House reef for snorkelling"
   - "About 20 minutes by speedboat from Malé airport"
@@ -41,7 +41,7 @@ niche_source_url: "https://www.thulhagiri.com.mv/"
 niche_verified_at: 2026-11-17
 ---
 
-Thulhagiri Island Resort and Spa is a small island resort in North Malé Atoll in the Maldives. Seventeen of its rooms are water bungalows built out over the lagoon, so only part of the resort is overwater; the remaining accommodation includes beach villas, which have outdoor showers.
+Thulhagiri Island Resort and Spa is a small island resort in North Malé Atoll in the Maldives. Thirty-seven of its rooms are water bungalows over the lagoon (17 Water Bungalows and 20 Superior Water Bungalows), so only part of the resort is overwater; the remaining accommodation is 50 Standard Deluxe beach bungalows (beach villas), which have open-air showers.
 
 ## Over the lagoon
 

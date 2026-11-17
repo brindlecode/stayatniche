@@ -21,7 +21,7 @@ seo:
   metaDescription: "Pezulu Tree House Lodge bei Hoedspruit: kleine Wildlodge im Greater-Kruger-Gebiet mit Baumhäusern um wachsende Bäume herum, Felspool und Boma-Dinner."
 ---
 
-Pezulu Tree House Lodge ist eine kleine Wildlodge im Greater-Kruger-Gebiet rund um Hoedspruit in der südafrikanischen Provinz Limpopo. Die Unterkünfte sind Baumhäuser, jedes um das Blätterdach wachsender Bäume herum gebaut. Die Lodge ist bewusst klein gehalten, damit jeder Gast ein ganz persönliches Erlebnis hat.
+Pezulu Tree House Lodge ist eine kleine Wildlodge im Greater-Kruger-Gebiet rund um Hoedspruit in der südafrikanischen Provinz Limpopo. Die Unterkünfte sind größtenteils Baumhäuser, jedes um das Blätterdach wachsender Bäume herum gebaut; die Ausnahme ist Zebrawood, eine Buschhütte für Selbstversorger. Die Lodge ist bewusst klein gehalten, damit jeder Gast ein ganz persönliches Erlebnis hat.
 
 ## Das Hauptgebäude
 

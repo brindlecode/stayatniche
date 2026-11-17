@@ -6,7 +6,7 @@ highlights:
   - "Castello normanno iniziato tra il 1075 e il 1129, tutelato con grado I"
   - "Un tempo padiglione di caccia di re Giovanni"
   - "Ostello dal 1948, in un edificio di proprietà di English Heritage"
-  - "Otto camere per un massimo di 50 persone, due delle quali nella torre orientale"
+  - "Otto camere per circa 64 persone in tutto, tre delle quali nella torre orientale"
   - "Posti letto in camere condivise, in camere private o nell'intero castello"
 amenities:
   - "Cucina a uso libero"
@@ -34,7 +34,7 @@ St Briavels fu costruito tra il 1075 e il 1129 come centro amministrativo reale 
 
 ## Dove si dorme
 
-Ci sono otto camere per un massimo di 50 persone in tutto, per lo più con letti a castello, più alcuni letti singoli e matrimoniali sotto letti rialzati (high sleepers). Le camere ospitano da tre a dodici persone. Due si trovano nella torre orientale. Si può prenotare un letto in una camera condivisa, una camera privata o l'intero ostello per un gruppo. La biancheria da letto è inclusa; gli asciugamani no, ma si possono noleggiare.
+Ci sono otto camere per circa 64 persone in tutto, per lo più con letti a castello, più alcuni letti singoli e matrimoniali sotto letti rialzati (high sleepers). Le camere ospitano da 5 a 14 persone. Tre si trovano nella torre orientale, per 6, 8 e 10 persone. Si può prenotare un letto in una camera condivisa, una camera privata o l'intero ostello per un gruppo. La biancheria da letto è inclusa; gli asciugamani no, ma si possono noleggiare.
 
 ## Spazi comuni
 

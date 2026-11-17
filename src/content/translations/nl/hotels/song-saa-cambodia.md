@@ -1,7 +1,7 @@
 ---
 source: song-saa-cambodia
 destination: "Koh Ouen en Koh Bong, Koh Rong-archipel, Cambodja"
-description: "Twee onbebouwde eilanden in de Koh Rong-archipel van Cambodja, verbonden door een voetbrug en volledig gewijd aan één resort. De overwatervilla's staan boven een beschermd marien reservaat; de junglevilla's liggen in tropisch oerwoud."
+description: "Twee onbebouwde eilanden in de Koh Rong-archipel van Cambodja, verbonden door een voetbrug en volledig gewijd aan één resort. De overwatervilla's staan boven een beschermd marien reservaat; de junglevilla's liggen in de inheemse vegetatie langs de kust."
 highlights:
   - "Een resort op twee eilanden, zonder dagjesmensen"
   - "Overwatervilla's gebouwd boven een beschermd marien reservaat"
@@ -44,17 +44,15 @@ nearbyAttractions:
     distance: 20 km
   - name: Nationaal Park Ream
     distance: 45 km
-  - name: Sihanoukville
-    distance: 35 km per boot
 seo:
   metaTitle: "Song Saa: privé-eiland met overwatervilla's | StayAtNiche"
   metaDescription: "Song Saa Private Island in Cambodja: twee privé-eilanden in de Koh Rong-archipel met overwatervilla's boven een beschermd koraalrif. Vanaf $ 1.500 per nacht."
 ---
 
-De kust van Cambodja krijgt niet de aandacht die ze verdient. De Koh Rong-archipel, een groep onbebouwde eilanden in de Golf van Thailand op zo'n 35 kilometer van Sihanoukville, heeft enkele van de meest intacte koraalriffen en bossen van Zuidoost-Azië. Song Saa Private Island beslaat twee van de kleinste en best beschermde eilanden, Koh Ouen en Koh Bong, verbonden door een houten voetbrug en in hun geheel gewijd aan één resort.
+De kust van Cambodja krijgt niet de aandacht die ze verdient. De Koh Rong-archipel, een groep onbebouwde eilanden in de Golf van Thailand voor de kust van Cambodja, heeft enkele van de meest intacte koraalriffen en bossen van Zuidoost-Azië. Song Saa Private Island beslaat twee van de kleinste en best beschermde eilanden, Koh Ouen en Koh Bong, verbonden door een houten voetbrug en in hun geheel gewijd aan één resort.
 
-De overwatervilla's staan op palen boven een marien reservaat: de oprichters van het resort zorgden voor de opening al dat het omliggende rif een beschermde status kreeg, een beslissing die de hele ervaring van de gasten bepaalt. Snorkel 's ochtends rechtstreeks vanaf je terras en je zwemt boven levend koraal in helder, warm water. Op het huisrif leven zeepaardjes en talloze rifvissen, en het zicht is van het soort waar fotografen op drukkere eilandbestemmingen hun hele loopbaan naar zoeken. Een duikprogramma met gids breidt de mogelijkheden verder uit, maar het is de directe, ongefilterde verbinding met het rif vanuit je eigen villa die Song Saa echt anders maakt.
+De overwatervilla's staan op palen boven een marien reservaat: de oprichtster van het resort werkte samen met lokale gemeenschappen aan de oprichting van het eerste beschermde mariene gebied van Cambodja, een inzet die de hele ervaring van de gasten bepaalt. Snorkel 's ochtends rechtstreeks vanaf je terras en je zwemt boven levend koraal in helder, warm water. Op het huisrif leven zeepaardjes en talloze rifvissen, en het zicht is van het soort waar fotografen op drukkere eilandbestemmingen hun hele loopbaan naar zoeken. Een duikprogramma met gids breidt de mogelijkheden verder uit, maar het is de directe, ongefilterde verbinding met het rif vanuit je eigen villa die Song Saa echt anders maakt.
 
-De junglevilla's aan de boskant van de eilanden liggen in tropisch oerwoud, waar de geluiden van de vogels op het eiland de gebruikelijke resortsoundtrack vervangen. Overal is gebruikgemaakt van hergebruikt hout en materialen uit Cambodja, en de esthetiek is er een van zorgvuldige terughoudendheid: de eilanden doen het werk, de gebouwen proberen niet te concurreren. Het eten is all-inclusive en put uit Cambodjaanse technieken en lokale ingrediënten: vers gevangen vis en zeevruchten, eenvoudig bereid, Khmer-curry's op basis van zelfgemaakte pasta, vers tropisch fruit bij elke maaltijd.
+Song Saa heeft in totaal 24 villa's van verschillende typen, waaronder junglevilla's, villa's met zeezicht en overwatervilla's. De junglevilla's liggen in de inheemse vegetatie langs de kust, waar de geluiden van de vogels op het eiland de gebruikelijke resortsoundtrack vervangen. Overal is gebruikgemaakt van hergebruikt hout en materialen uit Cambodja, en de esthetiek is er een van zorgvuldige terughoudendheid: de eilanden doen het werk, de gebouwen proberen niet te concurreren. Het eten is all-inclusive en put uit Cambodjaanse technieken en lokale ingrediënten: vers gevangen vis en zeevruchten, eenvoudig bereid, Khmer-curry's op basis van zelfgemaakte pasta, vers tropisch fruit bij elke maaltijd.
 
 Het natuurbeschermingsprogramma is hier actief, niet decoratief. Er wordt doorlopend aan koraalherstel gewerkt, het beheer van plastic afval strekt zich uit tot de omliggende wateren, en het resort neemt Cambodjaans personeel uit gemeenschappen op het vasteland in dienst, met een opleidingsprogramma dat meetbaar effect heeft op de gezinsinkomens in de regio. Voor een bepaald soort reiziger, iemand die strandtoerisme in Zuidoost-Azië esthetisch volgebouwd en ethisch ondoordacht vindt, biedt Song Saa een ander voorstel. De eilanden zijn beschermd, het rif is intact, en met een verblijf hier draag je rechtstreeks aan beide bij.

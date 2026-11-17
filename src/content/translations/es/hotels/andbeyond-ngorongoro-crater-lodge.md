@@ -49,6 +49,8 @@ nearbyAttractions:
 seo:
   metaTitle: "Ngorongoro Crater Lodge: safari en Tanzania | StayAtNiche"
   metaDescription: "El teatral lodge de &Beyond en el borde de la mayor caldera volcánica del mundo: los Cinco Grandes todo el año, mayordomo y vistas únicas. Desde 1400 US$."
+closure:
+  note: "El lodge está cerrado por una reconstrucción completa. Su web anuncia la reapertura en diciembre de 2027."
 ---
 
 El cráter del Ngorongoro es una caldera volcánica de 20 kilómetros de ancho y 600 metros de profundidad cuyas paredes han mantenido a 25 000 grandes mamíferos como residentes permanentes durante miles de años. El fondo del cráter tiene la mayor densidad de leones de África y una de las últimas poblaciones viables de rinoceronte negro del continente. Bajar por la carretera del borde entre la niebla en una fría mañana de montaña, mientras el fondo del cráter aparece entre las nubes, es una imagen que conserva toda su fuerza por muchas fotos que hayas visto.

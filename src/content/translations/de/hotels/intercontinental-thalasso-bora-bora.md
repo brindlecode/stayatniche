@@ -22,6 +22,8 @@ bestFor:
 seo:
   metaTitle: "InterContinental Thalasso: Bora Bora | StayAtNiche"
   metaDescription: "Wasservillen am Außenriff von Bora Bora, Thalasso-Spa über der Lagune und eine Klimaanlage, die kaltes Tiefseewasser aus 900 Metern Tiefe nutzt."
+closure:
+  note: "Das Resort hat am 1. Juni 2026 für eine umfassende Renovierung geschlossen. Auf der Website des Resorts ist kein Wiedereröffnungstermin genannt."
 ---
 
 Das InterContinental Bora Bora Resort and Thalasso Spa hat die exponierteste und spektakulärste Lage aller Wasserbungalow-Resorts der Insel. Es liegt direkt auf dem äußeren Riff – auf Motu Piti Aau, einer kleinen Koralleninsel am Südende des Barriereriffs von Bora Bora. Von hier aus breitet sich die Lagune nach Norden zu einem Panorama aus, das die gesamte Silhouette von Mount Otemanu und Mount Pahia auf der Hauptinsel umfasst, während das Wasser je nach Lichteinfall zwischen fast Türkis und fast Saphirblau wechselt.

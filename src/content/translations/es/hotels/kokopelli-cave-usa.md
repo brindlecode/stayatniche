@@ -1,21 +1,20 @@
 ---
 source: kokopelli-cave-usa
 destination: "Farmington, Nuevo México, EE. UU."
-description: "Una única vivienda troglodita excavada con explosivos en un acantilado de arenisca, 70 pies por debajo de la cima de la mesa, en las afueras de Farmington (Nuevo México), con vistas a las montañas La Plata y a la meseta desértica de Four Corners desde 200 pies por encima del fondo del cañón."
+description: "Una única vivienda troglodita excavada con explosivos en un acantilado de arenisca, 70 pies por debajo de la cima de la mesa, en las afueras de Farmington (Nuevo México), con vistas a las montañas La Plata y a la meseta desértica de Four Corners desde un acantilado a unos 300 pies por encima del valle del río La Plata."
 highlights:
-  - "Vivienda troglodita única, tallada en la arenisca 70 pies por debajo de la superficie de la mesa"
-  - "Vistas a las montañas La Plata y al desierto de Four Corners desde 200 pies de altura"
+  - "Vivienda troglodita única, excavada con explosivos en la arenisca 70 pies por debajo de la superficie de la mesa"
+  - "Vistas a las montañas La Plata y al desierto de Four Corners desde un acantilado a unos 300 pies sobre el valle del río La Plata"
   - "Totalmente privada: la cueva aloja a un solo grupo cada vez"
   - "Se accede por un empinado sendero exterior tallado en la pared del acantilado"
   - "En pleno territorio de los pueblos ancestrales de la región de Four Corners"
   - "Un cielo nocturno extraordinario sobre la meseta desértica"
 amenities:
   - "Cocina completa con provisiones para autoabastecerse"
-  - "Ducha en cascada tallada en la roca"
+  - "Ducha en cascada integrada en las paredes de roca"
   - "Comedor con vistas al borde de la mesa"
   - "Patio privado en la pared del acantilado"
-  - "Televisión y videoteca de DVD"
-  - "Chimenea de gas"
+  - "Smart TV con streaming"
   - "Provisiones para el desayuno continental incluidas"
   - "Uso exclusivo: privacidad total garantizada"
 bestFor:
@@ -24,10 +23,8 @@ bestFor:
   - "Aficionados a la arqueología en la región de Four Corners"
 prosAndCons:
   pros:
-    - "No hay nada parecido en todo Estados Unidos"
     - "Privacidad total, con uso exclusivo del alojamiento"
     - "Su ubicación en el acantilado ofrece vistas imposibles desde cualquier alojamiento convencional"
-    - "Un precio sorprendentemente asequible para una experiencia tan única"
   cons:
     - "El sendero de acceso es empinado y no apto para personas con movilidad reducida"
     - "Un solo grupo: si está reservada, no hay alternativa en el lugar"
@@ -48,13 +45,13 @@ nearbyAttractions:
     distance: 30 km
 seo:
   metaTitle: "Kokopelli's Cave, cueva en Nuevo México | StayAtNiche"
-  metaDescription: "Una sola cueva tallada en un acantilado de arenisca, 70 pies bajo la mesa, con vistas a las montañas La Plata y total privacidad en Nuevo México. Desde 280 US$."
+  metaDescription: "Una sola cueva abierta con explosivos en un acantilado de arenisca, 70 pies bajo la mesa, con vistas al valle del río La Plata y uso exclusivo en Nuevo México."
 ---
 
-La meseta de Four Corners, en el suroeste de Estados Unidos, es de por sí un paisaje hecho para quien busca algo diferente. Mesa Verde, el cañón del Chaco, Aztec Ruins: este es el núcleo geográfico de la civilización de los pueblos ancestrales, una región donde durante siglos se construyeron viviendas en las paredes de los acantilados con una precisión que los turistas de hoy contemplan desde abajo y fotografían a una respetuosa distancia. Kokopelli's Cave es una variación contemporánea sobre esa misma lógica geológica: una cueva abierta con explosivos y tallada en la arenisca de Fruitland, en el borde de una mesa a las afueras de Farmington (Nuevo México), 70 pies por debajo de la superficie y 200 pies por encima del fondo del cañón.
+La meseta de Four Corners, en el suroeste de Estados Unidos, es de por sí un paisaje hecho para quien busca algo diferente. Mesa Verde, el cañón del Chaco, Aztec Ruins: este es el núcleo geográfico de la civilización de los pueblos ancestrales, una región donde durante siglos se construyeron viviendas en las paredes de los acantilados con una precisión que los turistas de hoy contemplan desde abajo y fotografían a una respetuosa distancia. Kokopelli's Cave es una variación contemporánea sobre esa misma lógica geológica: una cueva abierta con explosivos en los acantilados de arenisca de Ojo Alamo, a las afueras de Farmington (Nuevo México), 70 pies por debajo de la superficie, con el valle del río La Plata a unos 300 pies más abajo.
 
-En origen se concibió como oficina de investigación geológica. Bruce Black, el geólogo que la construyó, convirtió el espacio excavado en un único alojamiento en los años noventa y desde entonces recibe a un solo grupo cada vez. El interior lo modela la propia roca: paredes curvas de arenisca, suelos de piedra natural, una ducha en cascada tallada directamente en el acantilado y una cocina con zona de estar que se abre a un pequeño patio exterior con vistas despejadas a las montañas La Plata, en Colorado, y a la meseta desértica que se extiende hacia el sur y el oeste. De noche, a 200 pies sobre el fondo del cañón en pleno desierto de altura de Nuevo México, las estrellas son extraordinarias.
+En origen se concibió como oficina de investigación geológica. Bruce Black, el geólogo que la construyó, convirtió el espacio excavado en un único alojamiento en los años noventa y desde entonces recibe a un solo grupo cada vez. El interior lo modela la propia roca: paredes curvas de arenisca que integran una ducha en cascada y una cocina con zona de estar que se abre a un pequeño patio exterior con vistas despejadas a las montañas La Plata, en Colorado, y a la meseta desértica que se extiende hacia el sur y el oeste. De noche, en pleno desierto de altura de Nuevo México, las estrellas son extraordinarias.
 
-Para llegar hay que bajar por un sendero empinado tallado en la pared exterior del acantilado, algo que forma parte de la experiencia y que conviene tener claro antes de reservar: no es para viajeros con problemas de movilidad, y la primera llegada con equipaje exige cierto compromiso. Una vez dentro, la cueva resulta sorprendentemente completa: cocina, comedor, chimenea de gas, baño privado y espacio suficiente para que dos personas pasen dos o tres días sin sentirse oprimidas por la roca. Al ser en régimen de autoabastecimiento, tendrás que traer la comida o comprarla en Farmington antes de salir; la ciudad no es un destino gastronómico, pero tiene lo esencial.
+Para llegar hay que bajar por un sendero empinado tallado en la pared exterior del acantilado, algo que forma parte de la experiencia y que conviene tener claro antes de reservar: no es para viajeros con problemas de movilidad, y la primera llegada con equipaje exige cierto compromiso. Una vez dentro, la cueva resulta sorprendentemente completa: cocina, comedor, baño privado y espacio suficiente para que dos personas pasen dos o tres días sin sentirse oprimidas por la roca. Al ser en régimen de autoabastecimiento, tendrás que traer la comida o comprarla en Farmington antes de salir; la ciudad no es un destino gastronómico, pero tiene lo esencial.
 
-El contexto arqueológico que rodea Kokopelli's Cave aporta a la estancia una profundidad que la mera novedad no daría. El Parque Histórico Nacional de la Cultura Chaco está 90 kilómetros al sur, a una mañana en coche de uno de los yacimientos precolombinos más importantes de Norteamérica, donde la escala de las construcciones de los pueblos ancestrales desafía cualquier explicación sencilla. Mesa Verde queda 80 kilómetros al este y Aztec Ruins, a 25 kilómetros. Pasar dos noches en una cueva tallada en la misma arenisca que los pueblos ancestrales conocían tan a fondo, y luego conducir hasta los lugares donde vivieron y construyeron, añade una capa de contexto físico que ninguna visita a un museo puede reproducir.
+El contexto arqueológico que rodea Kokopelli's Cave aporta a la estancia una profundidad que la mera novedad no daría. El Parque Histórico Nacional de la Cultura Chaco está 90 kilómetros al sur, a una mañana en coche de uno de los yacimientos precolombinos más importantes de Norteamérica, donde la escala de las construcciones de los pueblos ancestrales desafía cualquier explicación sencilla. Mesa Verde queda 80 kilómetros al este y Aztec Ruins, a 25 kilómetros. Pasar dos noches en una cueva en los acantilados de arenisca de la misma región, y luego conducir hasta los lugares donde vivieron y construyeron, añade una capa de contexto físico que ninguna visita a un museo puede reproducir.

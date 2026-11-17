@@ -19,6 +19,7 @@ bestFor:
 seo:
   metaTitle: "Castello Tafuri: kasteelhotel Sicilië | StayAtNiche"
   metaDescription: "Castello Tafuri in Portopalo di Capo Passero: kasteel met achttien kamers en suites, panoramazwembad en uitzicht op een oude tonnara en de zee."
+niche_note: "Castello Tafuri is geen middeleeuws kasteel, maar een villa in de vorm van een kasteel, ontworpen in 1933, vanaf 1935 gebouwd en sinds 1964 een hotel."
 ---
 
 Castello Tafuri ligt in Portopalo di Capo Passero, aan de zuidoostpunt van Sicilië, en is omgebouwd tot een klein hotel met achttien kamers en suites. Het kasteel is een versterkt huis met kantelen dat boven de zee uittorent, en de kantelen zijn bewaard gebleven: sommige suites hebben een balkon tussen de kantelen.

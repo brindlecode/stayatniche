@@ -6,7 +6,7 @@ highlights:
   - "Restauriertes Familienhaus, in dem von den 1950er- bis zu den 1990er-Jahren eine Familie lebte"
   - "Neun Zimmer, benannt nach früherer Nutzung: The Stable, The Hayloft, The Pantry, The Wine House und weitere"
   - "Früher lebten Tiere in den Höhlenzimmern"
-  - "Herz von Göreme"
+  - "Lage in Göreme, Nevşehir"
   - "Check-in ab 14:30 Uhr"
 amenities:
   - "Abhol- und Bringservice am Flughafen gegen Gebühr"
@@ -24,11 +24,11 @@ Das Adelya Cave Hotel erzählt die Geschichte eines Hauses. Laut Hotel lebte hie
 
 ## Die Zimmer
 
-Aufgelistet sind neun Zimmer mit je einem Bett und einem Bad: The Stone Room, The Woodshed, Çardak, Grandpa Mehmet and Grandma Havva's Room, The Stable, The Bride's Room (Mrs. Ruşen's Room), The Hayloft, The Pantry und The Wine House. Gäste berichten von echten Höhlenzimmern; fragen Sie, welche Zimmer aus dem Fels gehauen sind.
+Aufgelistet sind neun Zimmer mit je einem Bett und einem Bad: The Stone Room, The Woodshed, Çardak, Grandpa Mehmet and Grandma Havva's Room, The Stable, The Bride's Room (Mrs. Ruşen's Room), The Hayloft, The Pantry und The Wine House. Laut den Zimmerseiten des Hotels sind The Woodshed, Grandpa Mehmet and Grandma Havva's Room, The Stable und The Hayloft in den Fels gehauen, und The Wine House ist ein Höhlenzimmer; die übrigen Zimmer werden nicht als Höhlenzimmer beschrieben.
 
 ## Die Lage
 
-Das Hotel verortet sich im Herzen von Göreme, mit Blick auf Felsformationen und einer historischen Atmosphäre. Gästebewertungen erwähnen das Frühstück auf der Terrasse und Ballonblicke im Morgengrauen.
+Das Hotel liegt in der Stadt Göreme in der Provinz Nevşehir. Gästebewertungen erwähnen das Frühstück auf der Terrasse und Ballonblicke im Morgengrauen.
 
 ## Praktische Hinweise
 

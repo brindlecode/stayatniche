@@ -45,6 +45,7 @@ affiliateLinks:
 seo:
   metaTitle: "Niku Hide Finland Review: Aurora Cabins in Finnish Lapland | StayAtNiche"
   metaDescription: "Niku Hide: glass-ceiling aurora cabins above the Finnish taiga in Saariselkä. Northern lights from bed, private sauna, and deep Lapland wilderness at -25°C."
+status: draft
 location:
   country: "Finland"
   countryCode: "FI"

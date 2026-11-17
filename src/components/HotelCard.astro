@@ -9,8 +9,9 @@ interface Props {
   priceRange: string; priceIndicator?: number; rating: number;
   highlights: string[]; bookingUrl: string; slug: string; category: string;
   featured?: boolean; coverImage?: string; class?: string;
+  nicheScope?: string; nicheBadge?: string; closed?: boolean;
 }
-const { name, destination, country, priceRange, rating, highlights, bookingUrl, slug, category, featured, coverImage, class: cls = '' } = Astro.props;
+const { name, destination, country, priceRange, rating, highlights, bookingUrl, slug, category, featured, coverImage, class: cls = '', nicheScope, nicheBadge, closed } = Astro.props;
 const L = i18n(getLocale(Astro.url));
 const { t } = L;
 const from = startPrice(priceRange);
@@ -37,6 +38,12 @@ const isSearch = !!bookUrl && isExpediaSearch(bookUrl);
     </div>
     <p class="mt-0.5 truncate font-body text-sm text-warm-500">{placeLabel(destination, country, place)}</p>
     {highlights?.[0] && <p class="line-clamp-1 font-body text-sm text-warm-500">{highlights[0]}</p>}
+    {(closed || nicheScope === 'specific_rooms') && (
+      <p class="mt-1 flex flex-wrap gap-1.5 font-body text-[11px] font-semibold text-gold-700">
+        {closed && <span data-closed class="rounded-full bg-gold-100 px-2 py-0.5">{t.hotel.closure.title}</span>}
+        {nicheScope === 'specific_rooms' && <span data-niche-badge class="rounded-full bg-gold-50 px-2 py-0.5 ring-1 ring-gold-200">{nicheBadge || t.card.onlySome}</span>}
+      </p>
+    )}
     <div class="mt-2 flex items-center justify-between gap-2">
       <p class="font-body text-sm text-warm-700">{from != null ? <>{t.card.from}{' '}<span class="font-semibold text-warm-950">{L.usd(from)}</span> {t.card.perNight}</> : t.card.seeRates}</p>
       {bookUrl && <a href={bookUrl} target="_blank" rel={AFFILIATE_REL} {...trackAttrs(bookUrl, { track: 'booking', placement: 'hotel_card', hotel: slug, category, country })} class="relative z-20 font-body text-sm font-semibold text-forest-700 underline decoration-forest-300 underline-offset-4 hover:decoration-forest-700">{isSearch ? t.card.searchRates : t.card.checkRates}</a>}

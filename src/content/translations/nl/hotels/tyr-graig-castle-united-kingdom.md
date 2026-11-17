@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Ty’r Graig Castle: kasteelhotel bij Barmouth | StayAtNiche"
   metaDescription: "Ty’r Graig bij Barmouth: victoriaans kasteelhotel uit 1892 met 11 kamers met eigen badkamer, uitzicht op Cardigan Bay en een rustige ligging."
+niche_note: "Ty’r Graig is geen middeleeuws kasteel, maar een victoriaans huis in gotische stijl uit 1892 in de vorm van een kasteel, met kamers in torens."
 ---
 
 Ty'r Graig betekent „Huis op de rots“, en die naam past goed bij het gebouw. Het staat ongeveer 200 voet boven het Welshe badplaatsje Barmouth en kijkt over Cardigan Bay richting het schiereiland Llŷn en het eiland Bardsey. Tegenwoordig ontvangt het gasten als kasteelhotel, en de 11 kamers met eigen badkamer kijken uit over de omgeving.

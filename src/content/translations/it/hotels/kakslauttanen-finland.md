@@ -1,9 +1,9 @@
 ---
 source: kakslauttanen-finland
 destination: Saariselkä, Lapponia finlandese
-description: "Sessantacinque igloo di vetro riscaldati sparsi in una pineta a 68 gradi nord, ognuno un osservatorio privato con un letto king-size puntato verso il cielo finlandese. Yrjö Rissanen costruì il primo nel 1999 partendo da un'idea semplice: perché guardare l'aurora boreale da una finestra gelida quando puoi ammirarla da un letto caldo?"
+description: "Igloo di vetro riscaldati sparsi in una pineta a 68 gradi nord, ognuno un osservatorio privato con letti sotto un tetto di vetro rivolti verso il cielo finlandese. L'idea è semplice: perché guardare l'aurora boreale da una finestra gelida quando puoi ammirarla da un letto caldo?"
 highlights:
-  - Il villaggio di igloo di vetro più grande al mondo, con oltre 65 igloo individuali
+  - Igloo di vetro piccoli, grandi e Kelo-Glass nei villaggi Est e Ovest del resort
   - Il vetro termico resta limpido anche con temperature fino a -30 °C
   - Safari con le renne e slitte trainate da husky direttamente dalla porta
   - Tradizionale sauna finlandese a fumo all'interno della struttura
@@ -14,7 +14,7 @@ highlights:
 amenities:
   - Igloo di vetro termico riscaldato
   - Bagno privato
-  - Letto matrimoniale orientato verso il cielo
+  - Letti sotto un tetto di vetro (due letti singoli negli igloo piccoli)
   - Colazione finlandese inclusa
   - Wi-Fi in camera
   - Accesso giornaliero alla sauna
@@ -51,14 +51,14 @@ nearbyAttractions:
     distance: 40 km
 seo:
   metaTitle: "Kakslauttanen: igloo di vetro in Lapponia | StayAtNiche"
-  metaDescription: "Kakslauttanen Arctic Resort, Lapponia finlandese: il più grande villaggio di igloo di vetro riscaldati al mondo per dormire sotto l'aurora boreale. Da 400 $."
+  metaDescription: "Kakslauttanen Arctic Resort, Lapponia finlandese: igloo di vetro riscaldati per dormire sotto l'aurora boreale, nei villaggi Est e Ovest. Da 400 $ a notte."
 ---
 
 Ci sono luoghi che abitano l'immaginario collettivo dei viaggiatori molto prima di essere visitati, e il Kakslauttanen Arctic Resort è senza dubbio uno di questi. A 68 gradi di latitudine nord, nella natura selvaggia della Lapponia finlandese, questo insieme di igloo di vetro termico è diventato la risposta definitiva alla domanda che tormenta ogni cacciatore di aurore: qual è il posto migliore al mondo per dormire sotto l'aurora boreale?
 
-La risposta, a quanto pare, è dentro una cupola di vetro riscaldata, in una pineta spolverata di neve, 35 chilometri oltre il Circolo polare artico.
+La risposta, a quanto pare, è dentro una cupola di vetro riscaldata, in una pineta spolverata di neve, a nord del Circolo polare artico.
 
-Yrjö Rissanen costruì qui il primo igloo di vetro nel 1999, spinto da un'idea semplice ma radicale: perché gli ospiti dovrebbero dormire al chiuso e limitarsi a sperare di intravedere l'aurora da una finestra gelida? Oggi più di 65 igloo di vetro sono disseminati nella pineta del resort, ciascuno un osservatorio privato con un letto king-size perfettamente orientato verso il cielo finlandese. Il vetro termico è progettato per restare cristallino anche quando la temperatura precipita a -30 °C: niente condensa, niente brina, solo una volta ininterrotta di stelle e, nelle notti giuste, i drappi verdi e viola dell'aurora boreale che ondeggiano proprio sopra di te.
+L'idea è semplice ma radicale: perché gli ospiti dovrebbero dormire al chiuso e limitarsi a sperare di intravedere l'aurora da una finestra gelida? Gli igloo di vetro del resort, dai piccoli igloo con due letti singoli agli igloo Kelo-Glass con camere in stile chalet di tronchi, sono disseminati nella pineta, ciascuno un osservatorio privato sotto un tetto di vetro. Il vetro termico è progettato per restare cristallino anche quando la temperatura precipita a -30 °C: niente condensa, niente brina, solo una volta ininterrotta di stelle e, nelle notti giuste, i drappi verdi e viola dell'aurora boreale che ondeggiano proprio sopra di te.
 
 Ciò che eleva Kakslauttanen al di sopra della semplice curiosità è la qualità di tutto ciò che lo circonda. Le giornate ruotano attorno alla natura invernale della Lapponia finlandese: spedizioni in motoslitta nel vasto Parco nazionale Urho Kekkonen, gite in slitta trainata dalle renne attraverso foreste secolari, safari con mute di husky siberiani e dell'Alaska il cui entusiasmo collettivo è davvero contagioso, e pesca nel ghiaccio su laghi gelati dove il silenzio è così totale da diventare esso stesso un suono.
 

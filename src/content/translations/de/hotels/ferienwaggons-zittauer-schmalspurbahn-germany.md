@@ -6,7 +6,7 @@ highlights:
   - "Umgebaute Eisenbahnwaggons als Ferienwohnungen"
   - "An den Bahnhöfen der Schmalspur-Dampfbahn Zittau"
   - "Terrasse mit bester Sicht auf die Züge"
-  - "Waggons in Kurort Jonsdorf und Kurort Oybin"
+  - "Waggons in Kurort Jonsdorf (Ostern bis Juli) und Kurort Oybin (August bis Oktober)"
 amenities:
   - "Küche mit Herd, Kühlschrank, Kaffeemaschine und Mikrowelle"
   - "Eigenes Bad mit WC und Dusche"
@@ -19,7 +19,7 @@ seo:
   metaDescription: "Ferienwaggons der Zittauer Schmalspurbahn in Jonsdorf und Oybin: umgebaute Waggons mit Küche und Bad, direkt an der Dampfbahn in Sachsen gelegen."
 ---
 
-Die Ferienwaggons sind umgebaute Waggons, die die Zittauer Schmalspurbahn als Ferienwohnungen vermietet. Sie stehen an den Stationen der Schmalspur-Dampfbahn im Zittauer Gebirge in Sachsen, nämlich in Kurort Jonsdorf und Kurort Oybin. Die Züge gehören damit zum Blick dazu.
+Die Ferienwaggons sind umgebaute Waggons, die die Zittauer Schmalspurbahn als Ferienwohnungen vermietet. Sie stehen an den Stationen der Schmalspur-Dampfbahn im Zittauer Gebirge in Sachsen, nämlich in Kurort Jonsdorf (Ostern bis Juli) und Kurort Oybin (August bis Oktober). Die Züge gehören damit zum Blick dazu.
 
 ## Die Waggons
 
@@ -31,8 +31,8 @@ Die Bahn vermietet außerdem die Pension Zum Bahnel im Bahnhofsgebäude von Kuro
 
 ## Saison und Vorteile
 
-Der Waggon in Jonsdorf wird von Ostern bis Juli angeboten. Bei einer Buchung von fünf Nächten erhält man ein kostenloses Wochenticket für die Zittauer Schmalspurbahn, und zwar für eine Person pro Aufenthalt.
+Die Waggons stehen von Ostern bis Juli im Bahnhof Jonsdorf und von August bis Oktober im Bahnhof Oybin. Bei einer Buchung von fünf Nächten erhält man ein kostenloses Wochenticket für die Zittauer Schmalspurbahn, und zwar für eine Person pro Aufenthalt.
 
 ## Praktische Hinweise
 
-Der Aufenthalt eignet sich für alle, die Dampfzüge direkt von der Haustür aus beobachten möchten. Erkundigen Sie sich bei der Bahn, welcher Waggon zu Ihren Terminen frei ist und an welchem Bahnhof er steht, denn sowohl Jonsdorf als auch Oybin haben Waggons. Die Bahn fährt mit Dampfzügen durch das Zittauer Gebirge, sodass sich der Aufenthalt mit einer Fahrt auf der Strecke verbinden lässt.
+Der Aufenthalt eignet sich für alle, die Dampfzüge direkt von der Haustür aus beobachten möchten. Erkundigen Sie sich bei der Bahn, welcher Waggon zu Ihren Terminen frei ist; der Bahnhof hängt von der Jahreszeit ab. Die Bahn fährt mit Dampfzügen durch das Zittauer Gebirge, sodass sich der Aufenthalt mit einer Fahrt auf der Strecke verbinden lässt.

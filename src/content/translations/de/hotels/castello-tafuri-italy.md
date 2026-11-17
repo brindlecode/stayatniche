@@ -19,6 +19,7 @@ bestFor:
 seo:
   metaTitle: "Castello Tafuri: Schlosshotel Sizilien | StayAtNiche"
   metaDescription: "Castello Tafuri in Portopalo di Capo Passero: Schlosshotel an Siziliens Südspitze mit 18 Zimmern und Suiten, Panoramapool und Blick auf die Tonnara."
+niche_note: "Castello Tafuri ist keine mittelalterliche Burg, sondern eine Villa in Form eines Schlosses, 1933 entworfen, ab 1935 gebaut und seit 1964 ein Hotel."
 ---
 
 Castello Tafuri liegt in Portopalo di Capo Passero an der Südostspitze Siziliens und wurde zu einem kleinen Hotel mit achtzehn Zimmern und Suiten umgebaut. Das Schloss ist ein gezinnter, wehrhafter Bau, der über dem Meer thront, und es hat seine Zinnen behalten: Einige Suiten haben Balkone, die zwischen den Zinnen liegen.

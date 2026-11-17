@@ -1,7 +1,7 @@
 ---
 source: mt-matutum-domesville-glamping-philippines
 destination: "Tupi, South Cotabato"
-description: "Glamping-Anlage mit geodätischen Kuppeln in South Cotabato, abseits des Aktivitätsbereichs, mit Blick auf eine Ananasplantage und Sternenbeobachtung aus den Kuppeln."
+description: "Glamping-Anlage mit geodätischen Kuppeln sowie einem Casita, einer Villa, einem Casa-Haus und einem Campingzelt in South Cotabato, abseits des Aktivitätsbereichs, mit Blick auf eine Ananasplantage und Sternenbeobachtung aus den Kuppeln."
 highlights:
   - "Glamping in geodätischen Kuppeln in Tupi, South Cotabato"
   - "Kuppeln abseits des Aktivitätsbereichs, ideal für Paare"
@@ -16,11 +16,11 @@ seo:
   metaDescription: "Glamping in geodätischen Kuppeln in Tupi, South Cotabato: abgeschieden, mit Blick auf eine Ananasplantage, Frühstück für zwei und Sternenhimmel."
 ---
 
-Mt. Matutum DomesVille Glamping ist eine campingartige Unterkunft in Tupi, South Cotabato, auf den Philippinen. Statt Hotelzimmern erwartet Gäste hier eine Reihe von Kuppeln. Der Betreiber bezeichnet die Kuppeln als ausgefallene, außergewöhnliche Campingunterkünfte, die auch im Freien ein hohes Maß an Komfort bieten sollen.
+Mt. Matutum DomesVille Glamping ist eine campingartige Unterkunft in Tupi, South Cotabato, auf den Philippinen. Statt Hotelzimmern erwartet Gäste hier vor allem eine Reihe von Kuppeln. Der Betreiber bezeichnet die Kuppeln als ausgefallene, außergewöhnliche Campingunterkünfte, die auch im Freien ein hohes Maß an Komfort bieten sollen.
 
 ## Die Kuppeln
 
-Die Einheiten sind geodätische Kuppeln, die vom Aktivitätsbereich abgesetzt liegen. Genau diese Abgeschiedenheit ist das Argument für Paare, die Ruhe suchen, denn die Kuppeln liegen abseits des übrigen Geländes. Die Anlage verspricht unbegrenzte Sternenbeobachtung für Sie und Ihren Partner. Die Kuppeln sind der Kern des Angebots: Hier handelt es sich um ein Glamping-Gelände und nicht um ein Hotel mit einem einzelnen Blasenzimmer.
+Die Einheiten sind geodätische Kuppeln, die vom Aktivitätsbereich abgesetzt liegen. Genau diese Abgeschiedenheit ist das Argument für Paare, die Ruhe suchen, denn die Kuppeln liegen abseits des übrigen Geländes. Die Anlage verspricht unbegrenzte Sternenbeobachtung für Sie und Ihren Partner. Die Kuppeln sind der Kern des Angebots, aber nicht die einzige Option: Die Buchungsseite führt auch Casita Adrylle, Villa Carliane, Casa del Juancio und ein Campingzelt auf. Hier handelt es sich um ein Glamping-Gelände und nicht um ein Hotel mit einem einzelnen Blasenzimmer.
 
 ## Die Umgebung
 

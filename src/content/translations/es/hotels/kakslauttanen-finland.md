@@ -1,9 +1,9 @@
 ---
 source: kakslauttanen-finland
 destination: Saariselkä, Laponia finlandesa
-description: "Sesenta y cinco iglús de cristal climatizados repartidos por un pinar a 68 grados norte, cada uno convertido en un observatorio privado con una cama king size orientada al cielo finlandés. Yrjö Rissanen construyó el primero en 1999 a partir de una idea sencilla: ¿por qué contemplar la aurora desde una ventana fría si puedes hacerlo desde una cama calentita?"
+description: "Iglús de cristal climatizados repartidos por un pinar a 68 grados norte, cada uno convertido en un observatorio privado con camas bajo un techo de cristal que miran al cielo finlandés. La idea es sencilla: ¿por qué contemplar la aurora desde una ventana fría si puedes hacerlo desde una cama calentita?"
 highlights:
-  - La mayor aldea de iglús de cristal del mundo, con más de 65 iglús individuales
+  - Iglús de cristal pequeños, grandes y Kelo-Glass en las aldeas Este y Oeste del complejo
   - El cristal térmico se mantiene transparente con temperaturas de hasta -30 °C
   - Safaris con renos y trineos de huskies desde la puerta
   - Sauna de humo tradicional finlandesa en el propio complejo
@@ -14,7 +14,7 @@ highlights:
 amenities:
   - Iglú de cristal térmico climatizado
   - Baño privado en la habitación
-  - Cama doble orientada para mirar el cielo
+  - Camas bajo un techo de cristal (dos camas individuales en los iglús pequeños)
   - Desayuno finlandés incluido
   - Wi-Fi en la habitación
   - Acceso diario a la sauna
@@ -51,14 +51,14 @@ nearbyAttractions:
     distance: 40 km
 seo:
   metaTitle: "Kakslauttanen: iglús de cristal en Laponia | StayAtNiche"
-  metaDescription: "La mayor aldea de iglús de cristal del mundo, en la Laponia finlandesa: duerme bajo la aurora boreal en iglús climatizados de Kakslauttanen. Desde 400 US$."
+  metaDescription: "Iglús de cristal en la Laponia finlandesa: duerme bajo la aurora boreal en iglús climatizados de Kakslauttanen, en dos aldeas. Desde 400 US$ la noche."
 ---
 
 Hay lugares que existen en el imaginario colectivo de los viajeros mucho antes de que alguien los visite, y Kakslauttanen Arctic Resort es sin duda uno de ellos. Situado a 68 grados norte, en plena naturaleza de la Laponia finlandesa, este conjunto de iglús de cristal térmico se ha convertido en la respuesta definitiva a la pregunta que persigue a todo cazador de auroras: ¿cuál es el mejor lugar del planeta para dormir bajo la aurora boreal?
 
-La respuesta, según parece, está dentro de una cúpula de cristal climatizada en un pinar espolvoreado de nieve, 35 kilómetros al norte del Círculo Polar Ártico.
+La respuesta, según parece, está dentro de una cúpula de cristal climatizada en un pinar espolvoreado de nieve, al norte del Círculo Polar Ártico.
 
-Yrjö Rissanen construyó aquí el primer iglú de cristal en 1999, movido por una idea sencilla pero radical: ¿por qué los huéspedes tenían que dormir bajo techo y conformarse con la esperanza de vislumbrar la aurora desde una ventana fría? Hoy, más de 65 iglús de cristal salpican los terrenos del complejo entre pinos, cada uno convertido en un observatorio privado con una cama king size perfectamente orientada hacia el cielo finlandés. El cristal térmico está diseñado para mantenerse completamente transparente incluso cuando el termómetro se desploma hasta -30 °C: sin condensación ni escarcha, solo un manto ininterrumpido de estrellas y, las noches propicias, las cortinas verdes y violetas de la aurora boreal ondeando justo encima de tu cabeza.
+La idea es sencilla pero radical: ¿por qué los huéspedes tenían que dormir bajo techo y conformarse con la esperanza de vislumbrar la aurora desde una ventana fría? Los iglús de cristal del complejo, desde los pequeños con dos camas individuales hasta los iglús Kelo-Glass con dormitorios de estilo cabaña de troncos, salpican los terrenos entre pinos, cada uno convertido en un observatorio privado bajo un techo de cristal. El cristal térmico está diseñado para mantenerse completamente transparente incluso cuando el termómetro se desploma hasta -30 °C: sin condensación ni escarcha, solo un manto ininterrumpido de estrellas y, las noches propicias, las cortinas verdes y violetas de la aurora boreal ondeando justo encima de tu cabeza.
 
 Lo que eleva a Kakslauttanen por encima de la simple novedad es la calidad de todo lo que lo rodea. Los días giran en torno a la naturaleza invernal de la Laponia finlandesa: expediciones en moto de nieve por el inmenso Parque Nacional Urho Kekkonen, paseos en trineo tirado por renos a través de bosques primarios, safaris con perros husky siberianos y de Alaska cuyo entusiasmo colectivo es realmente contagioso, y pesca en el hielo sobre lagos helados donde el silencio es tan absoluto que se convierte en un sonido en sí mismo.
 

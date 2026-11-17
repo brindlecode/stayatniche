@@ -10,7 +10,7 @@ highlights:
   - "Besuche und Verkostungen in Whiskybrennereien auf ausgewählten Reisen"
   - "Großartige Highland-Küche mit schottischem Wild, Meeresfrüchten und Erzeugnissen des Landes"
 amenities:
-  - "State Cabins und Cabin Suites mit eigenem Bad in ausgewählten Waggons"
+  - "18 Schlafkabinen (Grand Suites, Suites, Doppel- und Twin-Kabinen); Grand Suites, Doppel- und Twin-Kabinen haben ein eigenes Bad"
   - "Aussichtswagen mit offener Heckplattform"
   - "Mehrgängige Menüs mit feiner schottischer und französischer Küche"
   - "Vollpension mit schottischen Malt Whiskys und erlesenen Weinen"
@@ -55,8 +55,8 @@ Die West Highland Line gilt bei der Eisenbahnpresse und vielen, die sie gefahren
 
 Der Zug von Belmond befördert höchstens 36 Gäste in Waggons von sorgfältig restauriertem Charakter: Highland-Tartan, polierte Holzvertäfelung, Messingbeschläge und Tischlampen, die eine ganz und gar schottische Wärme verbreiten. Bei dieser Größe gleicht das gesellige Leben an Bord einer Gesellschaft auf einem Landsitz. Gespräche entwickeln sich ganz natürlich zwischen Menschen, die Bewegung und gemeinsame Landschaft zusammenführen. Der Aussichtswagen am Zugende öffnet sich zu einer Plattform, auf der Sie in der Highland-Luft stehen, während die Oberflächen der Lochs das Nachmittagslicht einfangen und Rothirsche von den Hängen herüberschauen.
 
-Die State Cabins haben ein Einzel- oder zwei getrennte Betten und ein eigenes Bad: dicke Decken, richtig platzierte Leselampen, Stauraum, der auf Reisen funktioniert. Klein, aber stimmig für das, was sie sind.
+Es gibt 18 Kabinen, jeweils für zwei Gäste: Grand Suites, Suites (seit April 2027 neu), Doppel- und Twin-Kabinen. Die Grand Suites, Doppel- und Twin-Kabinen haben ein eigenes Bad. Klein, aber stimmig für das, was sie sind.
 
 Die Mahlzeiten sind förmlich und doch entspannt, wie es nur Schottland hinbekommt: weiße Tischdecken und Kristall, vor den Fenstern beim Frühstück ein Highland-Glen im Morgennebel und beim Abendessen ein Loch, der sich in der langen nordischen Dämmerung violett färbt. Die Küche verwendet Hirsch, Moorhuhn, Highland-Lamm, Hummer und Lachs von der Westküste – die außergewöhnliche schottische Speisekammer, ehrlich umgesetzt. Der Whiskyservice in einem Zug, der an einigen der renommiertesten Brennereien der Welt vorbeifährt, wird mit echter Begeisterung zelebriert.
 
-Zu den Ausflügen gehören Brennereibesuche, Spaziergänge auf Highland-Anwesen, Burgbesichtigungen und Bootsfahrten auf den Lochs. Die viertägige Grand Tour zeigt am überzeugendsten, was dieser Zug alles kann. Für Abfahrten im Hochsommer sollten Sie zwölf Monate im Voraus buchen.
+Zu den Ausflügen gehören Brennereibesuche, Spaziergänge auf Highland-Anwesen, Burgbesichtigungen und Bootsfahrten auf den Lochs. Die siebentägige Grand Tour of Scotland zeigt am überzeugendsten, was dieser Zug alles kann. Für Abfahrten im Hochsommer sollten Sie zwölf Monate im Voraus buchen.

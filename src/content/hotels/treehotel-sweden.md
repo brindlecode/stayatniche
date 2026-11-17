@@ -3,7 +3,7 @@ name: Treehotel
 category: treehouse-hotels
 destination: Harads, Swedish Lapland
 country: Sweden
-description: Seven architect-designed rooms suspended in the pines of Swedish Lapland, each a completely different proposition — from a perfectly mirrored cube that vanishes into the forest to a silver disc on a rope bridge. Sixty kilometres south of the Arctic Circle, this is one of the most inventive places to sleep in Europe.
+description: Nine separate architect-designed treerooms suspended in the pines of Swedish Lapland, each a completely different proposition — from a perfectly mirrored cube that vanishes into the forest to a silver disc on a rope bridge.
 coverImage: /images/hotels/treehotel-sweden.jpg
 gallery:
   - /images/hotels/treehotel-sweden-2.jpg
@@ -11,7 +11,7 @@ gallery:
 priceRange: "$300 - $600"
 priceIndicator: 4
 highlights:
-  - Seven unique architect-designed rooms
+  - Nine unique architect-designed treerooms
   - Mirrored Cube that reflects the forest
   - Northern Lights viewing in winter
   - "Wilderness activities: dog sledding, snowshoeing"
@@ -55,7 +55,7 @@ niche_source_url: "https://treehotel.se/treerooms/"
 niche_verified_at: 2026-11-17
 ---
 
-Seven architects were each given a pine tree and asked to build a room in it. The results, standing in the Lule River valley forest outside the village of Harads, 60 kilometres south of the Arctic Circle, are some of the most photographed hotel rooms in the world, and they earn the attention.
+Treehotel's treerooms are each a unique creation by a different architect or design team. They stand in the Lule River valley forest outside the village of Harads, which lies roughly 50 kilometres south of the Arctic Circle.
 
 Each room at Treehotel is a distinct architectural proposition:
 
@@ -65,6 +65,6 @@ Each room at Treehotel is a distinct architectural proposition:
 
 **The UFO** is a silver disc on a rope bridge, reached across a swaying walkway and entered through a hatch. Small, but the atmosphere of a thing from another era floating in the pines is its own reward.
 
-Additional rooms, the 7th Room, the Cabin, and the Dragon Fly, round out the collection, each commissioned from different designers.
+Additional treerooms, the 7th Room, the Cabin, the Dragonfly, the Biosphere, the Blue Cone and the Oasis, round out the nine listed on the official site. The Guesthouse is a separate building and not a treehouse.
 
 The surrounding Swedish Lapland landscape changes radically by season. Summer brings the midnight sun and long golden evenings from the treetop deck. Winter brings the prospect of northern lights visible from bed, and the forest blanketed in snow and reachable by husky sled or snowshoe. Activities, from ice fishing on the river to moose safaris and foraging walks, are organized through the main lodge. Meals are served in the Granön building on the riverbank below, with a kitchen focused on local Lapland ingredients.

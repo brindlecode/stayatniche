@@ -1,7 +1,7 @@
 ---
 source: mt-matutum-domesville-glamping-philippines
 destination: "Tupi, South Cotabato"
-description: "Espacio de glamping con domos geodésicos en South Cotabato, apartado de la zona de actividades, con vistas a una plantación de piñas y observación de estrellas desde los domos."
+description: "Espacio de glamping con domos geodésicos, además de una casita, una villa, una casa y una tienda de campaña, en South Cotabato, apartado de la zona de actividades, con vistas a una plantación de piñas y observación de estrellas desde los domos."
 highlights:
   - "Alojamiento de glamping en domos geodésicos en Tupi, South Cotabato"
   - "Domos apartados de la zona de actividades, ideales para parejas"
@@ -16,11 +16,11 @@ seo:
   metaDescription: "Glamping con domos geodésicos en Tupi, South Cotabato: zona apartada, vistas a una plantación de piñas, desayuno para dos y cielo estrellado."
 ---
 
-Mt. Matutum DomesVille Glamping es una estancia de estilo campamento en Tupi, South Cotabato, en Filipinas, donde el alojamiento son unidades en forma de domo y no habitaciones de hotel. El operador describe los domos como alojamientos de camping excéntricos y excepcionales, pensados para ofrecer un alto nivel de confort al aire libre.
+Mt. Matutum DomesVille Glamping es una estancia de estilo campamento en Tupi, South Cotabato, en Filipinas, donde el alojamiento son sobre todo unidades en forma de domo y no habitaciones de hotel. El operador describe los domos como alojamientos de camping excéntricos y excepcionales, pensados para ofrecer un alto nivel de confort al aire libre.
 
 ## Los domos
 
-Las unidades son domos geodésicos, apartados de la zona de actividades. Esa separación es el gran atractivo para las parejas que buscan paz y tranquilidad, ya que los domos están aislados del resto del recinto. El lugar promete observación de estrellas sin límites para ti y tu pareja. Los domos son la gran atracción, y lo que hace único el lugar: es un recinto de glamping, no un hotel con una sola habitación burbuja.
+Las unidades son domos geodésicos, apartados de la zona de actividades. Esa separación es el gran atractivo para las parejas que buscan paz y tranquilidad, ya que los domos están aislados del resto del recinto. El lugar promete observación de estrellas sin límites para ti y tu pareja. Los domos son la gran atracción, pero no la única opción: la página de reservas también incluye Casita Adrylle, Villa Carliane, Casa del Juancio y una tienda de campaña. Es un recinto de glamping, no un hotel con una sola habitación burbuja.
 
 ## El entorno
 

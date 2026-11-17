@@ -50,6 +50,8 @@ nearbyAttractions:
 seo:
   metaTitle: "Utter Inn: Unterwasserzimmer im Mälaren | StayAtNiche"
   metaDescription: "Utter Inn bei Västerås: Schlafen drei Meter unter dem Mälaren im ersten Unterwasser-Hotelzimmer der Welt – ein rotes Schwedenhäuschen und echte Kunstikone."
+closure:
+  note: "Das Hotel kann derzeit nicht gebucht werden, so die Tourismusorganisation Visit Västmanland. Ein Wiedereröffnungstermin wird nicht genannt."
 ---
 
 Im Jahr 2000 vertäute der schwedische Künstler Mikael Genberg ein rotes Holzhäuschen auf dem Mälaren und ließ darunter ein Schlafzimmer ins Wasser hinab. Damals war das ebenso Provokation wie Projekt – eine Herausforderung an die Vorstellung davon, was ein Hotel sein kann und wie weit menschliches Wohnen vernünftigerweise reichen darf. Fünfundzwanzig Jahre später gehört das Utter Inn (was sich etwa mit „Otter-Gasthaus“ übersetzen lässt) noch immer zu den meistdiskutierten Hotelkonzepten, die je erdacht wurden.

@@ -4,24 +4,24 @@ category: bubble-hotels
 destination: Allauch, Provence
 country: France
 continent: Europe
-description: Transparent PVC domes set privately in the garrigue hills above Allauch, each themed with genuine conviction — from baroque velvet and gilded mirrors to spare Moroccan minimalism — and all oriented so the Provençal night sky fills the ceiling above your bed. Twenty minutes from Marseille, yet completely removed from it.
+description: Transparent bubbles set privately in the garrigue hills above Allauch, each with its own decor (Zen, Jungle, Love Nature, Chic & Design, 1001 nights) and all oriented so the Provençal night sky fills the ceiling above your bed. Ten kilometres from Marseille's Saint-Charles station, yet completely removed from it.
 coverImage: /images/hotels/attrap-reves-france.jpg
 priceRange: "$280 - $480"
 priceIndicator: 3
 highlights:
-  - Transparent bubble domes in a Provençal park near Marseille
-  - Thematically decorated interiors, from bohemian to baroque
-  - Private terraces with outdoor bathtubs and fire pits
+  - Transparent bubbles in a Provençal park near Marseille
+  - Individually decorated bubbles: Zen, Jungle, Love Nature, Chic & Design and 1001 nights
+  - Private outdoor area with garden furniture for meals and breakfast
   - 180-degree stargazing from the comfort of your king bed
   - Gourmet breakfast basket delivered to your bubble each morning
-  - On-site spa treatments and massage available
+  - Optional jacuzzi session and massage available as extras
   - Close proximity to Marseille, Aix-en-Provence, and Cassis
   - Seasonal lavender and wildflower landscapes surrounding each dome
 amenities:
   - Climate-controlled transparent bubble dome
   - King-sized bed with sky-facing orientation
   - Private outdoor terrace
-  - Outdoor bathtub or jacuzzi (selected bubbles)
+  - Optional jacuzzi session and massage (extra)
   - Breakfast basket included
   - En-suite bathroom with rainfall shower
   - Mini-bar and Nespresso machine
@@ -36,7 +36,7 @@ prosAndCons:
     - Genuinely romantic atmosphere with excellent attention to detail
     - Accessible from Marseille in under 30 minutes
     - Wide variety of themed bubbles for different tastes
-    - Outstanding value compared to equivalent Maldives or Lapland experiences
+    - Official rates for two start at €149 a night in low season, breakfast included
   cons:
     - Provence summers can make the bubbles very warm despite climate control
     - Cloud cover can disappoint stargazers, check forecasts
@@ -49,14 +49,12 @@ seasonalInfo:
   peakSeason: July and August
   notes: Spring and autumn offer the best combination of clear nights and comfortable sleeping temperatures. Midsummer can be very warm inside the bubbles despite air conditioning. Winter offers the clearest skies but requires adequate heating.
 nearbyAttractions:
-  - name: Marseille, Vieux-Port and MuCEM
-    distance: 20 km
+  - name: Marseille Saint-Charles station
+    distance: 10 km
   - name: Aix-en-Provence
-    distance: 30 km
-  - name: Calanques National Park
-    distance: 25 km
-  - name: Cassis
     distance: 35 km
+  - name: Cassis
+    distance: about 30 minutes by car
 coordinates:
   lat: 43.325512
   lng: 5.464278
@@ -86,12 +84,14 @@ niche_source_url: "https://www.attrap-reves.com/en/transparent-bubble-bl/?c1-sle
 niche_verified_at: 2026-11-17
 ---
 
-Twenty minutes from Marseille's Vieux-Port and a complete removal from it, Attrap'Rêves sits in the garrigue hills above Allauch — rosemary, native oak, Mediterranean light. Each transparent PVC dome occupies its own patch of Provençal scrubland, screened from its neighbours. You don't see other bubbles. You see the countryside, and at night, the sky.
+Ten kilometres from Marseille's Saint-Charles station and a complete removal from it, Attrap'Rêves sits in the garrigue hills above Allauch — rosemary, native oak, Mediterranean light. Each transparent bubble occupies its own patch of Provençal scrubland, screened from its neighbours. You don't see other bubbles. You see the countryside, and at night, the sky.
 
-What separates this property from the expanding category of bubble hotels is the interiors. Step through an airlock door and you might find yourself in an opulent baroque setting of velvet drapes and gilded mirrors, or a bohemian space of Moroccan lanterns and hand-knotted rugs, or a lean minimalist sanctuary built for two. These are not themes applied loosely to a standard room. The execution is deliberate, and it rewards the kind of attention that comes from spending two nights rather than one.
+What separates this property from the expanding category of bubble hotels is that each accommodation has its own identity and decor: the Zen, Jungle, Love Nature, Chic & Design and 1001 nights bubbles. The Zen bubble, for example, is decorated in the colours of the luxuriant vegetation that surrounds it.
+
+Not everything here is a bubble. The same operator also lets the Lov'nid, the Aqua'Room, a Tahitian suite and spa and a squirrel hut, and runs a separate cabin site nearby, A Fleur de Bois. This page is about the transparent bubbles.
 
 The beds sit directly beneath the transparent dome ceiling. On clear nights — and Provence, despite its reputation for sunshine, produces some of southern France's clearest dark skies — the Milky Way is visible in its full arc. The silence of the garrigue is broken only by crickets and, occasionally, a fox somewhere in the scrub.
 
 Mornings: a breakfast basket arrives at the door. Local cheeses, Provençal honey, fresh pastries, seasonal fruit. Coffee on your private terrace with thyme warming in the sun, no lobby to negotiate. The absence of an on-site restaurant is not an oversight; it is the correct decision for this kind of property.
 
-The location is genuinely useful. Marseille and the Calanques are 20 kilometres away. Aix-en-Provence is 30. Days can be as active or as inert as you choose. The evenings always end the same way: back inside your transparent dome, watching whatever the Provençal sky is doing tonight.
+The location is genuinely useful. Marseille's Saint-Charles station is 10 kilometres away, Marseille airport 30 and Aix-en-Provence 35. Days can be as active or as inert as you choose. The evenings always end the same way: back inside your transparent dome, watching whatever the Provençal sky is doing tonight.

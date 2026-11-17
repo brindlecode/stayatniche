@@ -22,6 +22,8 @@ bestFor:
 seo:
   metaTitle: "InterContinental Bora Bora Thalasso : pilotis | StayAtNiche"
   metaDescription: "Avis sur l'InterContinental Bora Bora Resort & Thalasso Spa : villas sur pilotis sur le récif, Deep Ocean Spa et climatisation à l'eau de mer des profondeurs."
+closure:
+  note: "Le resort a fermé ses portes le 1er juin 2026 pour une rénovation complète. Le site du resort n’indique pas de date de réouverture."
 ---
 
 L'InterContinental Bora Bora Resort and Thalasso Spa occupe la position la plus exposée et la plus spectaculaire de tous les resorts sur pilotis de l'île. Il est installé sur le récif extérieur lui-même, sur Motu Piti Aau, un petit îlot corallien à l'extrémité sud de la barrière de corail de Bora Bora. D'ici, le lagon s'étend vers le nord en un panorama qui embrasse toute la silhouette des monts Otemanu et Pahia s'élevant de l'île principale, l'eau oscillant entre le turquoise et le saphir selon l'angle de la lumière.

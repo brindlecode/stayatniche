@@ -1,12 +1,12 @@
 ---
 source: adelya-cave-hotel-turkey
 destination: "Göreme, Nevşehir"
-description: "Maison familiale restaurée au cœur de Göreme, comptant neuf chambres nommées d’après leurs anciens usages, comme The Stable, The Hayloft ou The Wine House."
+description: "Maison familiale restaurée à Göreme, comptant neuf chambres nommées d’après leurs anciens usages, comme The Stable, The Hayloft ou The Wine House."
 highlights:
   - "Maison familiale restaurée, habitée par une même famille des années 1950 aux années 1990"
   - "Neuf chambres nommées d’après leurs anciens usages : The Stable, The Hayloft, The Pantry, The Wine House et d’autres"
   - "Des animaux vivaient autrefois dans les chambres troglodytes"
-  - "Au cœur de Göreme"
+  - "Situé à Göreme, Nevşehir"
   - "Arrivée à partir de 14 h 30"
 amenities:
   - "Prise en charge et dépose à l’aéroport, payantes"
@@ -24,11 +24,11 @@ Adelya Cave Hotel raconte l’histoire d’une maison. Selon l’hôtel, une fam
 
 ## Les chambres
 
-Neuf chambres sont listées, chacune avec un lit et une salle de bains : The Stone Room, The Woodshed, Çardak, Grandpa Mehmet and Grandma Havva's Room, The Stable, The Bride's Room (Mrs. Ruşen's Room), The Hayloft, The Pantry et The Wine House. Les clients évoquent de véritables chambres troglodytes : demandez quelles chambres sont taillées dans la roche.
+Neuf chambres sont listées, chacune avec un lit et une salle de bains : The Stone Room, The Woodshed, Çardak, Grandpa Mehmet and Grandma Havva's Room, The Stable, The Bride's Room (Mrs. Ruşen's Room), The Hayloft, The Pantry et The Wine House. D'après les pages des chambres de l'hôtel, The Woodshed, Grandpa Mehmet and Grandma Havva's Room, The Stable et The Hayloft sont taillées dans la roche, et The Wine House est une chambre troglodyte ; les autres chambres ne sont pas décrites comme troglodytes.
 
 ## Le cadre
 
-L’hôtel se situe au cœur de Göreme, avec des vues sur les formations rocheuses et une atmosphère historique. Les avis clients évoquent le petit-déjeuner en terrasse et les vues sur les montgolfières à l’aube.
+L’hôtel se trouve dans la ville de Göreme, dans la province de Nevşehir. Les avis clients évoquent le petit-déjeuner en terrasse et les vues sur les montgolfières à l’aube.
 
 ## Informations pratiques
 

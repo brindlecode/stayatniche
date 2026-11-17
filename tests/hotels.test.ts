@@ -89,3 +89,39 @@ describe('drafted stays leave the live site through a redirect', () => {
     }
   });
 });
+
+describe('notes shown at the top of a page exist in every language', () => {
+  const langs = ['de', 'fr', 'es', 'it', 'nl'];
+  const tr = (lang: string, slug: string) => {
+    try { return parse(readFileSync(join(ROOT, `src/content/translations/${lang}/hotels/${slug}.md`), 'utf8').match(/^---\n([\s\S]*?)\n---/)![1]) as Record<string, any>; } catch { return null; }
+  };
+  it('a temporary closure has a note, a source and a check date, and is translated', () => {
+    const closed = published.filter(h => h.data.closure);
+    expect(closed.length).toBeGreaterThan(0);
+    for (const h of closed) {
+      expect(h.data.closure.note, h.slug).toBeTruthy();
+      expect(h.data.closure.source_url, h.slug).toMatch(/^https?:\/\//);
+      expect(h.data.closure.checked_at, h.slug).toBeTruthy();
+      for (const l of langs) if (tr(l, h.slug)) expect(tr(l, h.slug)!.closure?.note, `${l}/${h.slug}`).toBeTruthy();
+    }
+  });
+  it('the sentence naming which rooms qualify (specific_rooms), niche_note and niche_badge are translated', () => {
+    for (const h of published) for (const l of langs) {
+      const t = tr(l, h.slug);
+      if (!t) continue;
+      if (h.data.niche_scope === 'specific_rooms') expect(t.niche_feature, `${l}/${h.slug} niche_feature`).toBeTruthy();
+      if (h.data.niche_note) expect(t.niche_note, `${l}/${h.slug} niche_note`).toBeTruthy();
+      if (h.data.niche_badge) expect(t.niche_badge, `${l}/${h.slug} niche_badge`).toBeTruthy();
+    }
+  });
+  it('a treehouse page that is only partly treehouses says so in niche_scope', () => {
+    const nihi = hotels.find(h => h.slug === 'nihi-sumba-indonesia')!;
+    expect(nihi.data.niche_scope).toBe('specific_rooms');
+    expect(nihi.data.niche_badge).toBe('Only one villa');
+  });
+  it('stays that are not medieval castles carry a note saying so', () => {
+    for (const s of ['castello-tafuri-italy', 'tyr-graig-castle-united-kingdom', 'locanda-al-castello-italy']) {
+      expect(hotels.find(h => h.slug === s)!.data.niche_note, s).toMatch(/not a medieval/i);
+    }
+  });
+});

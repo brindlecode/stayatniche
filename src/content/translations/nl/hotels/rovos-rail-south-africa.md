@@ -1,16 +1,16 @@
 ---
 source: rovos-rail-south-africa
 destination: "Van Pretoria naar Kaapstad (en verder)"
-description: "Rovos Rail is een luxe particuliere trein en rijdt met particuliere, historische rijtuigen, elk tot in detail in de oorspronkelijke staat gerestaureerd, over de spectaculairste routes van zuidelijk Afrika. De reis van Pretoria naar Kaapstad gaat door de Karoo; de epische tocht van Kaap tot Caïro duurt twee weken. Service en comfort doen niet onder voor veel vijfsterrenhotels."
+description: "Rovos Rail is een luxe particuliere trein en rijdt met particuliere, historische rijtuigen, elk tot in detail in de oorspronkelijke staat gerestaureerd, over routes in zuidelijk Afrika. De reis van Pretoria naar Kaapstad gaat door de Karoo; de reis van Kaapstad naar Dar es Salaam duurt 15 nachten."
 highlights:
-  - "Alom geprezen als een van de grote luxetreinen ter wereld"
+  - "Particuliere luxetrein met Pretoria als thuisbasis, met meerdaagse reizen door zuidelijk Afrika"
   - "Geleid door de eigenaar zelf: geen bedrijfsproduct maar een persoonlijk passieproject"
   - "Van Pretoria naar Kaapstad door de Karoo, een van de grote landschappen van Afrika"
   - "Observatierijtuig achter aan de trein voor panoramisch uitzicht in de buitenlucht"
   - "Uitzonderlijke meergangendiners met Zuid-Afrikaanse wijnen"
-  - "Epische reizen van meerdere weken, waaronder Pretoria naar Dar es Salaam"
+  - "Lange reizen, waaronder Kaapstad naar Dar es Salaam (15 nachten)"
 amenities:
-  - "Royal-, Deluxe- en Pullman-suites, sommige met eigen badkamer en zithoek"
+  - "Royal-, Deluxe- en Pullman-suites, allemaal met eigen sanitair"
   - "Open observatierijtuig"
   - "Restauratierijtuig met meergangenmaaltijden en Zuid-Afrikaanse wijnen"
   - "Loungerijtuig om elkaar te ontmoeten"
@@ -36,7 +36,7 @@ prosAndCons:
 seasonalInfo:
   bestTime: Het hele jaar voor de route naar Kaapstad; het droge seizoen voor de Oost-Afrikaanse routes
   peakSeason: De Zuid-Afrikaanse zomer (december–januari) en winter (juni–augustus) zijn het drukst
-  notes: De vlaggenschiproute Pretoria–Kaapstad rijdt het hele jaar en is in elk seizoen spectaculair. Het Karoo-landschap is indrukwekkend in zowel de winterse vorst als de zomerhitte, en de aankomst in de Kaapse wijnlanden is altijd een feest. De Oost-Afrikaanse routes plan je het best buiten de hevige regens. De legendarische route van Kaap tot Caïro is een once-in-a-lifetime-reis van meerdere weken.
+  notes: De vlaggenschiproute Pretoria–Kaapstad rijdt het hele jaar en is in elk seizoen spectaculair. Het Karoo-landschap is indrukwekkend in zowel de winterse vorst als de zomerhitte, en de aankomst in de Kaapse wijnlanden is altijd een feest. De Oost-Afrikaanse routes plan je het best buiten de hevige regens. De route van Kaapstad naar Dar es Salaam is een reis van 15 nachten.
 nearbyAttractions:
   - name: Pretoria (vertrek)
     distance: Vertrekpunt
@@ -51,9 +51,9 @@ seo:
   metaDescription: "Met Rovos Rail van Pretoria naar Kaapstad: historische rijtuigen, een open observatierijtuig en uitstekende diners in een luxe trein. Vanaf $ 2.800."
 ---
 
-Rovos Rail is geen bedrijf zoals de meeste luxe reisbedrijven dat zijn. Het is een passie op rails. Rohan Vos begon in de jaren tachtig als persoonlijk project historische treinrijtuigen te kopen en te restaureren, om de prachtige rijtuigen uit de gouden eeuw van het spoor in zuidelijk Afrika te redden, die werden gesloopt terwijl de spoornetten van het continent inkrompen. Wat begon als de obsessie van een verzamelaar, is in veertig jaar uitgegroeid tot een van de bekendste particuliere luxetreinen ter wereld.
+Rovos Rail is geen bedrijf zoals de meeste luxe reisbedrijven dat zijn. Het is een passie op rails. Rohan Vos begon in de jaren tachtig als persoonlijk project historische treinrijtuigen te kopen en te restaureren, om de prachtige rijtuigen uit de gouden eeuw van het spoor in zuidelijk Afrika te redden, die werden gesloopt terwijl de spoornetten van het continent inkrompen. Wat begon als de obsessie van een verzamelaar, is in veertig jaar uitgegroeid tot een particuliere luxetrein die volgens een vaste dienstregeling door zuidelijk Afrika rijdt.
 
-De rijtuigen zijn echt: Victoriaanse rijtuigen die van hun oorspronkelijke functie zijn omgebouwd, of slaaprijtuigen uit het begin van de twintigste eeuw, gebouwd voor de Union Limited en andere prestigieuze diensten uit het spoortijdperk van het Britse Rijk. Elk is met buitengewone trouw aan zijn oorspronkelijke karakter gerestaureerd. Teakhouten lambrisering, messing beslag, originele ramen die zijn aangepast voor airco en veiligheid, en eigen badkamers op de plek waar ooit de wastafels van de wagons-lits stonden. De Royal Suites, privécompartimenten van 16 vierkante meter met een volwaardig bed, bank, badkamer en ramen aan drie kanten, bieden een ruimte en privacy waar geen vergelijkbare trein aan kan tippen.
+De rijtuigen zijn gerestaureerde historische rijtuigen: de trein bestaat uit gerestaureerde rijtuigen van de National Railways of Zimbabwe (NRZ), met twee lounges, twee restaurantrijtuigen en privé-slaapcompartimenten, elk met eigen sanitair. Er zijn drie soorten accommodatie: de kleinste is de Pullman van 76 vierkante voet, de grootste de Royal Suite, een halve treinwagon van 172 vierkante voet (ongeveer 16 vierkante meter). Alle hebben een eigen douche, wastafel en toilet, en de Royal Suite heeft bovendien een bad in Victoriaanse stijl.
 
 Het observatierijtuig achter aan de trein is wat passagiers het vaakst met stomheid slaat: een open platform aan de achterkant waar je staat te kijken hoe het Afrikaanse landschap achter je wegglijdt, zonder glas ertussen, dicht genoeg bij het spoor om de hitte te voelen en de Karoo te horen, met niets tussen jou en het continent. Vroeg in de ochtend, als de lucht koud is en de tafelbergen van de Karoo het eerste lage licht vangen, is het een uitkijkpunt dat alleen een open uitkijkplatform kan bieden.
 
@@ -61,4 +61,4 @@ In het restauratierijtuig wordt formeel gedekt, helemaal in de geest van de Vict
 
 Excursies buiten de trein zijn bij geselecteerde stops inbegrepen: de diamantmijnen van Kimberley, Matjiesfontein, een bijzondere tijdcapsule van de Victoriaanse koloniale cultuur, en de Kaapse wijnlanden aan het einde van de reis. Maar de trein zelf is de bestemming: het geluid van de stoomlocomotief (op historische trajecten), het ritme van de rails, de langzame onthulling van een continent door spiegelglas en open lucht.
 
-De route van Kaap tot Caïro (15 dagen door Zimbabwe, Zambia, Tanzania en Kenia) is de reis om naartoe te werken. Die heeft in welke vorm van reizen dan ook maar weinig concurrenten.
+De route van Kaapstad naar Dar es Salaam (15 nachten) is de reis om naartoe te werken.

@@ -1,9 +1,9 @@
 ---
 source: thulhagiri-island-resort-maldives
 destination: "Atolón de Malé Norte"
-description: "Un complejo hotelero en una isla del atolón de Malé Norte, a unos 20 minutos en lancha rápida del aeropuerto, donde 17 habitaciones son bungalós sobre el agua levantados sobre la laguna."
+description: "Un complejo hotelero en una isla del atolón de Malé Norte, a unos 20 minutos en lancha rápida del aeropuerto, con 37 bungalós sobre el agua (17 Water Bungalows y 20 Superior Water Bungalows) sobre la laguna y 50 bungalós de playa."
 highlights:
-  - "17 bungalós sobre el agua, construidos sobre la laguna"
+  - "37 bungalós sobre el agua en la laguna (17 estándar, 20 superiores)"
   - "Vistas al océano desde los bungalós superiores"
   - "Arrecife propio para hacer snorkel"
   - "Unos 20 minutos en lancha rápida desde el aeropuerto de Malé"
@@ -15,10 +15,10 @@ bestFor:
   - "Amantes del snorkel"
 seo:
   metaTitle: "Thulhagiri: bungalós sobre el agua en Maldivas | StayAtNiche"
-  metaDescription: "Thulhagiri Island Resort and Spa en Malé Norte: 17 bungalós sobre el agua, arrecife propio para el snorkel y 20 minutos en lancha desde el aeropuerto."
+  metaDescription: "Thulhagiri Island Resort and Spa en Malé Norte: 37 bungalós sobre el agua, arrecife propio para el snorkel y 20 minutos en lancha desde el aeropuerto."
 ---
 
-Thulhagiri Island Resort and Spa es un pequeño complejo en una isla del atolón de Malé Norte, en Maldivas. Diecisiete de sus habitaciones son bungalós sobre el agua construidos sobre la laguna, así que solo una parte del complejo está sobre el mar; el resto del alojamiento son villas de playa con duchas al aire libre.
+Thulhagiri Island Resort and Spa es un pequeño complejo en una isla del atolón de Malé Norte, en Maldivas. Treinta y siete de sus habitaciones son bungalós sobre el agua en la laguna (17 Water Bungalows y 20 Superior Water Bungalows), así que solo una parte del complejo está sobre el mar; el resto del alojamiento son 50 bungalós de playa Standard Deluxe (villas de playa) con duchas al aire libre.
 
 ## Sobre la laguna
 

@@ -22,6 +22,8 @@ bestFor:
 seo:
   metaTitle: "InterContinental Thalasso, Bora Bora | StayAtNiche"
   metaDescription: "Bungalow sull’acqua sulla barriera esterna di Bora Bora, climatizzati con acqua di mare profonda, e la Deep Ocean Spa sospesa sulla laguna, vista Otemanu."
+closure:
+  note: "Il resort ha chiuso il 1° giugno 2026 per una ristrutturazione completa. Il sito del resort non indica una data di riapertura."
 ---
 
 L’InterContinental Bora Bora Resort and Thalasso Spa occupa la posizione più esposta e spettacolare tra tutti i resort sull’acqua dell’isola. Si trova sulla barriera esterna, su Motu Piti Aau, una piccola isola corallina all’estremità meridionale della barriera di Bora Bora. Da qui la laguna si apre verso nord in un panorama che abbraccia l’intera sagoma del monte Otemanu e del monte Pahia che si innalzano dall’isola principale, con l’acqua che passa dal turchese quasi puro al quasi zaffiro a seconda dell’angolo della luce.

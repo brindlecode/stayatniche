@@ -1,7 +1,7 @@
 ---
 source: peckforton-castle-united-kingdom
 destination: "Cheshire, Angleterre"
-description: "Un château gothique victorien dans la campagne du Cheshire, construit en 1851 pour reproduire une forteresse médiévale, avec 48 chambres décorées individuellement à l'intérieur et autour du château."
+description: "Un château gothique victorien dans la campagne du Cheshire, construit en 1851 pour reproduire une forteresse médiévale, avec 48 chambres et suites décorées individuellement dans le château."
 highlights:
   - "Château classé Grade I, bâti en 1851 dans le style d'une forteresse médiévale"
   - "48 chambres décorées individuellement"
@@ -21,7 +21,7 @@ seo:
   metaDescription: "Peckforton Castle : château victorien de 1851 aux 48 chambres, suites dans les tours, restaurant 1851 et domaine de 48 acres. Idéal en couple ou en groupe."
 ---
 
-Peckforton Castle a été construit en 1851 pour reproduire une forteresse médiévale, et il en a toujours l'allure : un bastion gothique victorien classé Grade I, au cœur de la campagne du Cheshire. Ses propriétaires le décrivent comme le seul château de style médiéval intact en Angleterre. Aujourd'hui, c'est à la fois un hôtel, un restaurant et un lieu de réception, et les clients qui y passent la nuit dorment entre ses murs plutôt que dans une annexe moderne.
+Peckforton Castle a été construit en 1851 pour reproduire une forteresse médiévale, et il en a toujours l'allure : un bastion gothique victorien classé Grade I, au cœur de la campagne du Cheshire. Ses propriétaires le décrivent comme une véritable forteresse, avec tours, tourelles, créneaux et pont-levis. Aujourd'hui, c'est à la fois un hôtel, un restaurant et un lieu de réception, et les clients qui y passent la nuit dorment entre ses murs plutôt que dans une annexe moderne.
 
 ## Les chambres
 

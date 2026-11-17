@@ -50,6 +50,8 @@ nearbyAttractions:
 seo:
   metaTitle: "Utter Inn : chambre sous-marine en Suède | StayAtNiche"
   metaDescription: "Dormez à 3 mètres sous le lac Mälar, dans la première chambre d'hôtel sous-marine au monde : l'Utter Inn, maisonnette rouge suédoise et œuvre d'art culte."
+closure:
+  note: "L’hôtel n’est actuellement pas réservable, selon l’office de tourisme régional Visit Västmanland. Aucune date de réouverture n’est indiquée."
 ---
 
 En 2000, un artiste suédois du nom de Mikael Genberg amarra une maisonnette en bois rouge sur le lac Mälar et fit descendre une chambre dans l'eau, juste en dessous. C'était alors autant une provocation qu'un projet : une façon de remettre en question ce que pouvait être un hôtel, et jusqu'où l'habitat humain pouvait raisonnablement s'étendre. Vingt-cinq ans plus tard, l'Utter Inn (que l'on pourrait traduire par « l'Auberge de la loutre ») reste l'un des concepts hôteliers les plus commentés qui soient.

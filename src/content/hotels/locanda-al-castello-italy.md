@@ -44,6 +44,7 @@ niche_scope: specific_rooms
 niche_feature: "27 rooms split between the 'antico maniero' (a crenellated castle-style villa/Jesuit monastery 'Villa Betlemme', mid-19th century) and a modern wellness wing; per-wing count not given."
 niche_source_url: "https://www.alcastello.net/it/camere"
 niche_verified_at: 2026-11-17
+niche_note: "The “castle” is not a medieval fortress: the manor is a crenellated castle-style villa from the mid-19th century, built as the Jesuit Villa Betlemme. Rooms are split between the manor and a modern wellness wing."
 ---
 
 Locanda al Castello combines a hotel, a restaurant and a wellness centre in one property, a few minutes from the centre of Cividale del Friuli. The setting is a castle complex, with crenellations and panoramic terraces that also serve as a backdrop for weddings.

@@ -72,6 +72,7 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Sumba+Island,+Indonesia"
     label: "Find Tours on Klook"
+niche_badge: "Only one villa"
 location:
   country: "Indonesia"
   countryCode: "ID"
@@ -82,7 +83,7 @@ location:
     lat: -9.75
     lng: 119.35
 niche_scope: specific_rooms
-niche_feature: "Only one villa, the three-bedroom Treehouse (3 of 31 villas/estates), is built within the trees: circular glass bedrooms elevated above ground, linked by raised walkways. Rest are beachfront or hillside villas on dry-coast Sumba, not jungle lodge."
+niche_feature: "Only one of the 31 villas and estates qualifies: the three-bedroom Treehouse, built within the trees on the edge of an ancient forest, with circular glass bedrooms raised above the ground and linked by raised walkways. The other villas are beachfront or hillside villas, not treehouses."
 niche_source_url: "https://nihi.com/sumba/villa/treehouse/"
 niche_verified_at: 2026-11-17
 ---

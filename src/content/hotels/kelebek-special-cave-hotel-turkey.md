@@ -3,10 +3,10 @@ name: "Kelebek Special Cave Hotel"
 category: cave-hotels
 destination: "Göreme, Nevşehir"
 country: "Turkey"
-description: "A long-running Göreme hotel above the village where some rooms are carved into the rock, including rooms the hotel says are thousands of years old, with a Turkish bath and outdoor pool."
+description: "A long-running Göreme hotel above the village where some rooms are carved into the rock, including historic spaces the hotel dates to the 8th century, with a Turkish bath and outdoor pool."
 priceRange: "Rates vary"
 highlights:
-  - "Some rooms are cave rooms; the hotel says fairy chimneys on site contain rooms thousands of years old"
+  - "Some rooms are cave rooms; the hotel says some are carved into natural rock, including historic spaces dating to the 8th century"
   - "Views over the village, valleys and balloons"
   - "Traditional Turkish bath and outdoor pool"
   - "Pet-friendly"
@@ -47,11 +47,11 @@ niche_source_url: "https://www.kelebekhotel.com/en/about"
 niche_verified_at: 2026-11-17
 ---
 
-Kelebek Special Cave Hotel sits above the village of Göreme, within the national park, and sells itself on views of the village, the valleys, the hot air balloons and the mountains beyond. Cave rooms are part of the offer, though only some rooms are carved into the rock. Others are described as cave-stone rooms.
+Kelebek Special Cave Hotel sits above the village of Göreme, within the national park, and sells itself on views of the village, the valleys, the hot air balloons and the mountains beyond. Cave rooms are part of the offer, though only some rooms are carved into the rock. Others are described as cave-stone rooms. The hotel says it has 36 rooms in all, mixing cave, fairy chimney and stone rooms, and its own website now calls it Kelebek Cave Hotel.
 
 ## The rooms
 
-The hotel describes its "specially crafted" rooms as offering either a cave or a cave-stone experience. According to the hotel, the fairy chimneys on the property contain cave rooms over thousands of years old. Ask when booking whether your room is a true cave room.
+The hotel describes its "specially crafted" rooms as offering either a cave or a cave-stone experience. According to the hotel, some of its cave rooms are carved directly into the natural rock, including historic spaces dating back to the 8th century. Ask when booking whether your room is a true cave room.
 
 ## Facilities
 
@@ -59,7 +59,7 @@ The hotel offers a traditional Turkish bath and an outdoor swimming pool. It is 
 
 ## The setting
 
-Most rooms and terraces look out on the balloons, and the hotel bills its views as the best among Cappadocia's cave hotels.
+Most rooms and terraces look out on the balloons.
 
 ## Practical notes
 

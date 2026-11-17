@@ -49,6 +49,8 @@ nearbyAttractions:
 seo:
   metaTitle: "Ngorongoro Crater Lodge : safari de luxe | StayAtNiche"
   metaDescription: "Avis sur le Ngorongoro Crater Lodge d'&Beyond, en Tanzanie : suites théâtrales perchées au bord du cratère, Big Five chaque jour et vue spectaculaire."
+closure:
+  note: "Le lodge est fermé pour une reconstruction complète. Son site annonce la réouverture en décembre 2027."
 ---
 
 Le cratère du Ngorongoro est une caldeira volcanique de 20 kilomètres de large et de 600 mètres de profondeur, dont les parois retiennent en résidence permanente 25 000 grands mammifères depuis des milliers d'années. Son fond abrite la plus forte densité de lions d'Afrique et l'une des dernières populations viables de rhinocéros noirs du continent. Descendre la piste du rebord dans la brume, par un matin frais des hauts plateaux, tandis que le fond du cratère apparaît en contrebas à travers les nuages, est un spectacle qui garde toute sa force, même après en avoir vu mille photos.

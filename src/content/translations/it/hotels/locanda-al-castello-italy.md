@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Hotel di charme Locanda al Castello, Cividale | StayAtNiche"
   metaDescription: "Locanda al Castello a Cividale del Friuli: hotel di charme con ristorante, centro benessere con piscina e vista panoramica sulle Alpi Carniche."
+niche_note: "Il «castello» non è una fortezza medievale: il maniero è una villa merlata in stile castello della metà dell’Ottocento, costruita come Villa Betlemme dei Gesuiti. Le camere sono divise tra il maniero e una moderna ala wellness."
 ---
 
 La Locanda al Castello unisce in un’unica struttura hotel, ristorante e centro benessere, a pochi minuti dal centro di Cividale del Friuli. Il contesto è un complesso castellano con merlature e terrazze panoramiche, che fa da scenario anche a matrimoni.

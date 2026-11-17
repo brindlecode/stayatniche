@@ -1,9 +1,9 @@
 ---
 source: tulloch-castle-hotel-united-kingdom
 destination: "Dingwall, Highland, Schottland"
-description: "Schlosshotel aus dem 12. Jahrhundert in Dingwall mit 22 Zimmern mit eigenem Bad, einer 250 Jahre alten getäfelten Großen Halle sowie restaurierten originalen Kaminen und Decken."
+description: "Schlosshotel in Dingwall, vom Hotel auf das 12. Jahrhundert datiert, mit 22 Zimmern mit eigenem Bad, einer 250 Jahre alten getäfelten Großen Halle sowie restaurierten originalen Kaminen und Decken."
 highlights:
-  - "Schloss aus dem 12. Jahrhundert"
+  - "Schloss, das das Hotel auf das 12. Jahrhundert datiert"
   - "22 Zimmer mit eigenem Bad, jedes mit eigenem Charakter"
   - "250 Jahre alte, getäfelte Große Halle"
   - "Restaurierte originale Kamine und Decken"
@@ -18,10 +18,10 @@ bestFor:
   - "Hochzeiten und Veranstaltungen"
 seo:
   metaTitle: "Tulloch Castle Hotel: Schlosshotel in Dingwall | StayAtNiche"
-  metaDescription: "Tulloch Castle Hotel in Dingwall: Schloss aus dem 12. Jahrhundert mit 22 Zimmern, getäfelter Großer Halle und Hunden willkommen, in den Highlands."
+  metaDescription: "Tulloch Castle Hotel in Dingwall: Schlosshotel mit 22 Zimmern, getäfelter Großer Halle und Hunden willkommen, in den Highlands."
 ---
 
-Tulloch Castle geht auf das 12. Jahrhundert zurück, als die Familie Bain und später der Clan Davidson Anspruch auf das Land erhoben. Seitdem hat sich sein Schicksal mehrfach gewandelt, und heute ist es ein Hotel in Dingwall in den schottischen Highlands. Früher konnten nur der Laird oder das Clanoberhaupt in einem solchen Highland-Schloss übernachten; heute kann jeder ein Zimmer buchen.
+Das Hotel datiert Tulloch Castle auf das 12. Jahrhundert, als die Familie Bain und später der Clan Davidson Anspruch auf das Land erhoben; laut Wikipedia stammt das Schloss wahrscheinlich aus dem späten 14. Jahrhundert oder früher. 1845 wurde es durch einen Brand beschädigt und 1891 erweitert. Seitdem hat sich sein Schicksal mehrfach gewandelt, und heute ist es ein Hotel in Dingwall in den schottischen Highlands. Früher konnten nur der Laird oder das Clanoberhaupt in einem solchen Highland-Schloss übernachten; heute kann jeder ein Zimmer buchen.
 
 ## Das Schloss
 

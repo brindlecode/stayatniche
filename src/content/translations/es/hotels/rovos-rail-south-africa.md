@@ -1,16 +1,16 @@
 ---
 source: rovos-rail-south-africa
 destination: "De Pretoria a Ciudad del Cabo (y más allá)"
-description: "Tren de lujo de gestión privada, Rovos Rail recorre las rutas más espectaculares del sur de África con vagones de época de propiedad privada, cada uno restaurado fielmente según su periodo. El trayecto de Pretoria a Ciudad del Cabo cruza el Karoo; la epopeya de El Cabo a El Cairo dura dos semanas. El servicio y la comodidad rivalizan con los de muchos hoteles de cinco estrellas."
+description: "Tren de lujo de gestión privada, Rovos Rail recorre rutas del sur de África con vagones de época de propiedad privada, cada uno restaurado fielmente según su periodo. El trayecto de Pretoria a Ciudad del Cabo cruza el Karoo; el de Ciudad del Cabo a Dar es Salaam dura 15 noches."
 highlights:
-  - "Aclamado como uno de los grandes trenes de lujo del mundo"
+  - "Tren de lujo privado con base en Pretoria, con viajes de varias noches por el sur de África"
   - "Gestionado por su propietario: no es un producto corporativo, sino un proyecto personal nacido de la pasión"
   - "Trayecto de Pretoria a Ciudad del Cabo a través del Karoo, uno de los grandes paisajes de África"
   - "Vagón mirador en la cola del tren para disfrutar de vistas panorámicas al aire libre"
   - "Excelentes comidas de varios platos con vinos sudafricanos"
-  - "Épicos viajes de varias semanas, como el de Pretoria a Dar es Salaam"
+  - "Viajes largos, como el de Ciudad del Cabo a Dar es Salaam (15 noches)"
 amenities:
-  - "Suites Royal, Deluxe y Pullman, algunas con baño privado y zona de estar"
+  - "Suites Royal, Deluxe y Pullman, todas con baño privado"
   - "Vagón mirador al aire libre"
   - "Vagón restaurante con menús de varios platos y vinos sudafricanos"
   - "Vagón salón para socializar"
@@ -36,7 +36,7 @@ prosAndCons:
 seasonalInfo:
   bestTime: "Todo el año para la ruta de Ciudad del Cabo; la estación seca para las rutas de África oriental"
   peakSeason: "Verano austral (diciembre-enero) e invierno (junio-agosto), los periodos de mayor demanda"
-  notes: "La ruta estrella, Pretoria-Ciudad del Cabo, funciona todo el año y es espectacular en cualquier estación. El paisaje del Karoo impresiona tanto con la escarcha del invierno como con el calor del verano, y la llegada a la región vinícola de El Cabo es siempre un placer. Las rutas de África oriental conviene programarlas para evitar las lluvias fuertes. La legendaria ruta de El Cabo a El Cairo es un viaje de varias semanas que se hace una vez en la vida."
+  notes: "La ruta estrella, Pretoria-Ciudad del Cabo, funciona todo el año y es espectacular en cualquier estación. El paisaje del Karoo impresiona tanto con la escarcha del invierno como con el calor del verano, y la llegada a la región vinícola de El Cabo es siempre un placer. Las rutas de África oriental conviene programarlas para evitar las lluvias fuertes. La ruta de Ciudad del Cabo a Dar es Salaam es un viaje de 15 noches."
 nearbyAttractions:
   - name: Pretoria (salida)
     distance: Punto de partida
@@ -51,9 +51,9 @@ seo:
   metaDescription: "Los vagones de época de Rovos Rail entre Pretoria y Ciudad del Cabo: un tren de lujo con vagón mirador y cocina de primer nivel. Desde 2.800 US$."
 ---
 
-Rovos Rail no es una empresa en el sentido en que lo son la mayoría de los negocios de viajes de lujo. Es una pasión convertida en material rodante. Rohan Vos empezó a comprar y restaurar vagones de ferrocarril antiguos en los años ochenta como proyecto personal, una forma de salvar los magníficos coches de la edad de oro del ferrocarril en el sur de África, que se estaban desguazando a medida que se reducían las redes ferroviarias del continente. Lo que comenzó como una obsesión de coleccionista se ha convertido, a lo largo de cuarenta años, en uno de los trenes de lujo de gestión privada más conocidos del mundo.
+Rovos Rail no es una empresa en el sentido en que lo son la mayoría de los negocios de viajes de lujo. Es una pasión convertida en material rodante. Rohan Vos empezó a comprar y restaurar vagones de ferrocarril antiguos en los años ochenta como proyecto personal, una forma de salvar los magníficos coches de la edad de oro del ferrocarril en el sur de África, que se estaban desguazando a medida que se reducían las redes ferroviarias del continente. Lo que comenzó como una obsesión de coleccionista se ha convertido, a lo largo de cuarenta años, en un tren de lujo de gestión privada que circula con horario regular por el sur de África.
 
-Los vagones son auténticos: coches de la época victoriana reconvertidos de su uso original, o coches cama de principios del siglo XX construidos para el Union Limited y otros servicios de prestigio de la era ferroviaria del Imperio británico, cada uno restaurado con una fidelidad extraordinaria a su carácter de época. Paneles de teca, herrajes de latón, ventanas originales adaptadas para el aire acondicionado y la seguridad, y baños privados allí donde antes estaban los lavabos originales del coche cama. Las Royal Suites, compartimentos privados de 16 metros cuadrados con cama de tamaño completo, sofá, baño y ventanas en tres lados, ofrecen un nivel de espacio y privacidad que ningún tren comparable puede igualar.
+Los vagones son coches antiguos restaurados: el tren se compone de coches restaurados de los National Railways of Zimbabwe (NRZ), con dos salones, dos coches restaurante y compartimentos privados para dormir, todos con baño propio. Hay tres tipos de alojamiento: el más pequeño es el Pullman, de 76 pies cuadrados, y el mayor la Royal Suite, medio coche de 172 pies cuadrados (unos 16 metros cuadrados). Todos tienen ducha, lavabo e inodoro propios, y la Royal Suite cuenta además con una bañera de estilo victoriano.
 
 El vagón mirador, enganchado en la cola del tren, es lo que más a menudo deja sin palabras a los pasajeros: una plataforma exterior al final del convoy donde los huéspedes se quedan de pie viendo cómo el paisaje africano se aleja, sin cristal de por medio, tan cerca de la vía que se siente el calor y se oye el sonido del Karoo, sin nada entre ellos y el continente. A primera hora de la mañana, cuando el aire es frío y las colinas de cima plana del Karoo reciben la primera luz rasante, es un mirador que solo una plataforma abierta puede ofrecer.
 
@@ -61,4 +61,4 @@ El vagón restaurante funciona con un servicio de mesa formal muy acorde con la 
 
 Las excursiones fuera del tren están incluidas en algunas paradas: las minas de diamantes de Kimberley, la extraordinaria cápsula del tiempo de la cultura colonial victoriana que es Matjiesfontein o la región vinícola de El Cabo al final del viaje. Pero el destino es el propio tren: el sonido de la locomotora de vapor (en los tramos históricos), el ritmo de las vías, la lenta revelación de un continente a través del cristal y al aire libre.
 
-La ruta de El Cabo a El Cairo (15 días a través de Zimbabue, Zambia, Tanzania y Kenia) es el viaje para el que merece la pena ahorrar. Tiene muy pocos rivales en cualquier forma de viajar.
+La ruta de Ciudad del Cabo a Dar es Salaam (15 noches) es el viaje para el que merece la pena ahorrar.

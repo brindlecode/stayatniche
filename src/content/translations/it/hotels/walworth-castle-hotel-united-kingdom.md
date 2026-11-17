@@ -26,7 +26,7 @@ Walworth Castle è un edificio tutelato (Grade I) con origini risalenti al XII s
 
 ## Le camere
 
-Il castello offre una varietà di camere, sia all'interno del castello sia in altri edifici della proprietà. Le camere del castello hanno letti singoli o matrimoniali e si trovano nel corpo principale. Le più grandi sono le suite con baldacchino, davvero spaziose, e alcune si trovano nelle torri del castello. La più celebre è la King James Suite: risulta che Giacomo VI di Scozia abbia soggiornato nell'ambiente che oggi costituisce la suite, il 14 aprile 1603. È in corso un programma di ristrutturazione delle camere, per cui alcune hanno un aspetto rinnovato pur conservando il proprio carattere.
+Non tutte le camere sono nel castello principale. Le camere dell'annesso, con letti matrimoniali o singoli, si trovano in un edificio adiacente al castello; il Walworth Castle Lodge, all'ingresso dell'hotel, ospita sei persone; e c'è inoltre un Holiday Cottage separato con due camere da letto. Le camere del castello hanno letti singoli o matrimoniali e si trovano nel corpo principale. Le più grandi sono le suite con baldacchino, davvero spaziose, e alcune si trovano nelle torri del castello. La più celebre è la King James Suite: risulta che Giacomo VI di Scozia abbia soggiornato nell'ambiente che oggi costituisce la suite, il 14 aprile 1603. È in corso un programma di ristrutturazione delle camere, per cui alcune hanno un aspetto rinnovato pur conservando il proprio carattere.
 
 ## Cucina e bevande
 

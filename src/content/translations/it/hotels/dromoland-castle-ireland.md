@@ -51,6 +51,8 @@ nearbyAttractions:
 seo:
   metaTitle: "Dromoland Castle, castello-hotel in Irlanda | StayAtNiche"
   metaDescription: "La dimora ancestrale degli O’Brien, oggi castello-hotel di lusso nella contea di Clare: golf da campionato, falconeria e ristorante Michelin su 450 acri."
+closure:
+  note: "Il castello è temporaneamente chiuso per lavori di ristrutturazione; le prenotazioni del castello sono aperte per soggiorni da maggio 2027. I lodge in self-catering restano aperti."
 ---
 
 La discendenza della famiglia O’Brien non ha bisogno di essere inventata. Il clan che nel XVI secolo costruì un castello sulle rive del lago di Dromoland, nella contea di Clare, discendeva direttamente da Brian Boru, il grande re che unificò i regni d’Irlanda e morì nella battaglia di Clontarf nel 1014. Non è una trovata pubblicitaria: è una genealogia documentata che attraversa più di mille anni, e si vede dal modo in cui il castello si presenta. Qui non c’è alcuno sforzo di sembrare importanti. Le torri di pietra, il lago, i giardini all’italiana e i 450 acri di parco hanno tutti l’autorevolezza serena di un luogo che non ha mai avuto bisogno di annunciare cosa sia.

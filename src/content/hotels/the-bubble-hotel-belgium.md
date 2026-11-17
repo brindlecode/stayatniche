@@ -40,6 +40,7 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Pulderbos,+Antwerp+Province"
     label: "Find Tours on Klook"
+status: draft
 location:
   country: "Belgium"
   countryCode: "BE"

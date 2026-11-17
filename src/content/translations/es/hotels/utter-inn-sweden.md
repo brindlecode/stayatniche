@@ -50,6 +50,8 @@ nearbyAttractions:
 seo:
   metaTitle: "Utter Inn, habitación submarina en Suecia | StayAtNiche"
   metaDescription: "Duerme 3 metros bajo el lago Mälaren en la primera habitación de hotel submarina del mundo: Utter Inn, una casita roja sueca que es un icono del arte."
+closure:
+  note: "El hotel no se puede reservar por ahora, según el organismo de turismo regional Visit Västmanland. No se indica fecha de reapertura."
 ---
 
 En 2000, un artista sueco llamado Mikael Genberg amarró una casita roja de madera en el lago Mälaren y sumergió un dormitorio bajo ella. En su momento fue tanto una provocación como un proyecto: un desafío a la idea de lo que podía ser un hotel y de hasta dónde podía extenderse razonablemente la vida humana. Veinticinco años después, Utter Inn (que se traduce más o menos como «La posada de la nutria») sigue siendo uno de los conceptos hoteleros más comentados jamás creados.

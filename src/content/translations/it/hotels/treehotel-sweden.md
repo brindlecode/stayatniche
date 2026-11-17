@@ -1,9 +1,9 @@
 ---
 source: treehotel-sweden
 destination: Harads, Lapponia svedese
-description: "Sette camere firmate da architetti e sospese tra i pini della Lapponia svedese, ognuna un'idea completamente diversa: da un cubo perfettamente specchiato che scompare nella foresta a un disco argentato su un ponte di corda. Sessanta chilometri a sud del Circolo polare artico, è uno dei posti più originali d'Europa in cui dormire."
+description: "Nove camere indipendenti firmate da architetti e sospese tra i pini della Lapponia svedese, ognuna un'idea completamente diversa: da un cubo perfettamente specchiato che scompare nella foresta a un disco argentato su un ponte di corda."
 highlights:
-  - Sette camere uniche firmate da architetti
+  - Nove camere uniche firmate da architetti
   - Il Mirrored Cube, che riflette la foresta
   - Aurora boreale in inverno
   - "Attività nella natura: slitte trainate dai cani, ciaspolate"
@@ -21,10 +21,10 @@ bestFor:
   - Appassionati di design
 seo:
   metaTitle: "Treehotel: case sugli alberi in Lapponia | StayAtNiche"
-  metaDescription: "Treehotel, Lapponia svedese: sette camere d'autore sospese tra i pini, dal Mirrored Cube all'UFO, a 60 km dal Circolo polare artico. Aurora boreale in inverno."
+  metaDescription: "Treehotel, Lapponia svedese: nove camere d'autore sospese tra i pini a Harads, in Svezia, dal Mirrored Cube all'UFO. Aurora boreale in inverno."
 ---
 
-A sette architetti è stato dato un pino ciascuno, con la richiesta di costruirci dentro una camera. I risultati, nella foresta della valle del fiume Lule, alle porte del villaggio di Harads, 60 chilometri a sud del Circolo polare artico, sono tra le camere d'albergo più fotografate al mondo, e meritano tutta l'attenzione.
+Le camere del Treehotel sono creazioni uniche di architetti e studi di design diversi. Sorgono nella foresta della valle del fiume Lule, alle porte del villaggio di Harads, che si trova a circa 50 chilometri a sud del Circolo polare artico.
 
 Ogni camera del Treehotel è un'idea architettonica a sé:
 
@@ -34,6 +34,6 @@ Ogni camera del Treehotel è un'idea architettonica a sé:
 
 **L'UFO** è un disco argentato su un ponte di corda, che si raggiunge percorrendo una passerella oscillante e in cui si entra da un boccaporto. È piccolo, ma l'atmosfera di un oggetto venuto da un'altra epoca che fluttua tra i pini è già una ricompensa.
 
-Altre camere — la 7th Room, la Cabin e la Dragon Fly — completano la collezione, ciascuna commissionata a designer diversi.
+Altre camere — la 7th Room, la Cabin, la Dragonfly, la Biosphere, la Blue Cone e l'Oasis — completano le nove del sito ufficiale. La Guesthouse, un edificio separato, non è una casa sull'albero.
 
 Il paesaggio della Lapponia svedese cambia radicalmente con le stagioni. L'estate porta il sole di mezzanotte e lunghe serate dorate sulla terrazza tra le cime degli alberi. L'inverno porta la possibilità di vedere l'aurora boreale dal letto e una foresta ammantata di neve da esplorare in slitta con gli husky o con le ciaspole. Le attività — dalla pesca nel ghiaccio sul fiume ai safari per avvistare alci, fino alle passeggiate per raccogliere erbe e bacche — si organizzano presso il lodge principale. I pasti sono serviti nell'edificio Granön, sulla riva del fiume più in basso, con una cucina incentrata sugli ingredienti locali della Lapponia.

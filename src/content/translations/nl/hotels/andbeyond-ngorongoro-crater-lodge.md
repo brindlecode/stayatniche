@@ -49,6 +49,8 @@ nearbyAttractions:
 seo:
   metaTitle: "&Beyond Ngorongoro Crater Lodge, Tanzania | StayAtNiche"
   metaDescription: "Theatrale safarilodge op de rand van de grootste caldera ter wereld in Tanzania: het hele jaar de Big Five op de kraterbodem, een eigen butler en weids zicht."
+closure:
+  note: "De lodge is gesloten voor een grondige herbouw. Volgens de website opent hij in december 2027 weer."
 ---
 
 De Ngorongorokrater is een vulkanische caldera van 20 kilometer breed en 600 meter diep, waarvan de wanden al duizenden jaren 25.000 grote zoogdieren binnenhouden. Op de kraterbodem leven de meeste leeuwen per vierkante kilometer van Afrika en een van de laatste levensvatbare populaties zwarte neushoorns van het continent. Op een koude ochtend in de hooglanden over de randweg de mist in rijden, terwijl de kraterbodem onder je door de wolken verschijnt, is een aanblik die zijn kracht behoudt, hoe vaak je de foto's ook hebt gezien.

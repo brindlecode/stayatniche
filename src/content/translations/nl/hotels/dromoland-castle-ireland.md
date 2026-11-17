@@ -51,6 +51,8 @@ nearbyAttractions:
 seo:
   metaTitle: "Dromoland Castle: kasteelhotel in Ierland | StayAtNiche"
   metaDescription: "Het stamslot van de O'Brien-dynastie in County Clare: vijfsterrenkasteelhotel met golfbaan, valkerij en een door Michelin aanbevolen restaurant bij Shannon."
+closure:
+  note: "Het kasteel is tijdelijk gesloten voor renovatie; boekingen voor het kasteel zijn mogelijk voor verblijven vanaf mei 2027. De zelfvoorzienende lodges blijven open."
 ---
 
 De stamboom van de familie O'Brien hoeft niet te worden verzonnen. De clan die in de 16e eeuw een kasteel bouwde aan de oever van Dromoland Lake in County Clare, bestond uit rechtstreekse afstammelingen van Brian Boru, de hoge koning die de Ierse koninkrijken verenigde en in 1014 sneuvelde in de Slag bij Clontarf. Dat is geen marketingpraat, maar een gedocumenteerde genealogie van meer dan duizend jaar, en je ziet het aan de manier waarop het kasteel zich presenteert. Hier wordt niet krampachtig naar betekenis gezocht. De stenen torens, het meer, de formele tuinen en het park van 450 acre hebben allemaal het vanzelfsprekende gezag van een plek die nooit heeft hoeven aankondigen wat ze is.

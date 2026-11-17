@@ -19,6 +19,7 @@ bestFor:
 seo:
   metaTitle: "Castello Tafuri : château-hôtel Sicile | StayAtNiche"
   metaDescription: "Castello Tafuri à Portopalo di Capo Passero : château transformé en dix-huit chambres et suites, avec piscine panoramique et vue sur la tonnara."
+niche_note: "Le Castello Tafuri n’est pas un château médiéval : c’est une villa en forme de château, conçue en 1933, commencée en 1935 et devenue hôtel en 1964."
 ---
 
 Castello Tafuri se dresse à Portopalo di Capo Passero, à la pointe sud-est de la Sicile, et a été transformé en petit hôtel de dix-huit chambres et suites. Ce château-demeure fortifié, crénelé, domine la mer en contrebas et a conservé ses créneaux : certaines suites disposent de balcons aménagés entre les merlons.

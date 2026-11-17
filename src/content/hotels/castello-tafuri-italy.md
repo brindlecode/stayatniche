@@ -41,6 +41,7 @@ niche_scope: entire_property
 niche_feature: "Eighteen rooms and suites in Castello Tafuri, a crenellated villa built in castle form (designed 1933, started 1935, hotel from 1964, closed 1998 and reopened after renovation). Borderline: a 20th-century castle-style building, not a medieval fortress."
 niche_source_url: "https://www.castellotafuri.it/castello/il-castello/"
 niche_verified_at: 2026-11-17
+niche_note: "Castello Tafuri is not a medieval castle: it is a villa built in the form of a castle, designed in 1933 and begun in 1935, and a hotel since 1964."
 ---
 
 Castello Tafuri sits in Portopalo di Capo Passero, at the southeastern tip of Sicily, and has been turned into a small hotel of eighteen rooms and suites. The castle is a crenellated, defensive house that dominates the sea below, and it keeps its battlements: some suites have balconies set between the merlons.

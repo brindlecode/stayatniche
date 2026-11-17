@@ -1,9 +1,9 @@
 ---
 source: kakslauttanen-finland
 destination: Saariselkä, Fins Lapland
-description: "Vijfenzestig verwarmde glazen iglo's verspreid over een dennenbos op 68 graden noorderbreedte, elk een privésterrenwacht met een kingsizebed gericht op de Finse hemel. Yrjö Rissanen bouwde de eerste in 1999 rond een eenvoudig idee: waarom zou je het noorderlicht vanachter een koud raam bekijken als het ook vanuit een warm bed kan?"
+description: "Verwarmde glazen iglo's verspreid over een dennenbos op 68 graden noorderbreedte, elk een privésterrenwacht met bedden onder een glazen dak, gericht op de Finse hemel. Het idee is eenvoudig: waarom zou je het noorderlicht vanachter een koud raam bekijken als het ook vanuit een warm bed kan?"
 highlights:
-  - Grootste glazen-igloodorp ter wereld met meer dan 65 losse iglo's
+  - Kleine, grote en Kelo-glasiglo's in het oostelijke en westelijke dorp van het resort
   - Thermisch glas blijft helder tot -30 °C
   - Rendiersafari's en huskytochten vanaf de deur
   - Traditionele Finse rooksauna op het terrein
@@ -14,7 +14,7 @@ highlights:
 amenities:
   - Verwarmde glazen iglo van thermisch glas
   - Eigen badkamer
-  - Tweepersoonsbed gericht op de hemel
+  - Bedden onder een glazen dak (in de kleine iglo's twee eenpersoonsbedden)
   - Fins ontbijt inbegrepen
   - Wifi op de kamer
   - Dagelijks toegang tot de sauna
@@ -51,14 +51,14 @@ nearbyAttractions:
     distance: 40 km
 seo:
   metaTitle: "Kakslauttanen: glazen iglo in Fins Lapland | StayAtNiche"
-  metaDescription: "Slapen onder het noorderlicht in een verwarmde glazen iglo: Kakslauttanen in Fins Lapland, het grootste iglodorp ter wereld. Vanaf $ 400 per nacht."
+  metaDescription: "Slapen onder het noorderlicht in een verwarmde glazen iglo: Kakslauttanen in Fins Lapland, met glazen iglo's in twee dorpen. Vanaf $ 400 per nacht."
 ---
 
 Sommige plekken bestaan al in de verbeelding van reizigers lang voordat ze er ooit komen, en Kakslauttanen Arctic Resort is daar een schoolvoorbeeld van. Deze verzameling glazen iglo's op 68 graden noorderbreedte, midden in de wildernis van Fins Lapland, is uitgegroeid tot hét antwoord op de vraag die elke noorderlichtjager bezighoudt: waar op aarde slaap je het allerbest onder het noorderlicht?
 
-Het antwoord blijkt te zijn: in een verwarmde glazen koepel in een besneeuwd dennenbos, 35 kilometer binnen de poolcirkel.
+Het antwoord blijkt te zijn: in een verwarmde glazen koepel in een besneeuwd dennenbos, ten noorden van de poolcirkel.
 
-Yrjö Rissanen bouwde hier in 1999 de eerste glazen iglo, gedreven door een eenvoudig maar radicaal idee: waarom zouden gasten binnen slapen en alleen maar hopen dat ze het noorderlicht door een koud raam zien? Vandaag staan er meer dan 65 glazen iglo's verspreid over het beboste terrein, elk een privésterrenwacht met een kingsizebed dat precies op de Finse hemel is gericht. Het thermische glas is zo ontworpen dat het kristalhelder blijft, ook als het kwik daalt tot -30 °C: geen condens, geen ijsbloemen, alleen een onafgebroken sterrenhemel. En op de juiste nachten trekken de groene en violette gordijnen van het noorderlicht recht boven je hoofd voorbij.
+Het idee is eenvoudig maar radicaal: waarom zouden gasten binnen slapen en alleen maar hopen dat ze het noorderlicht door een koud raam zien? De glazen iglo's van het resort, van kleine iglo's met twee eenpersoonsbedden tot Kelo-glasiglo's met slaapkamers in blokhutstijl, staan verspreid over het beboste terrein, elk een privésterrenwacht onder een glazen dak. Het thermische glas is zo ontworpen dat het kristalhelder blijft, ook als het kwik daalt tot -30 °C: geen condens, geen ijsbloemen, alleen een onafgebroken sterrenhemel. En op de juiste nachten trekken de groene en violette gordijnen van het noorderlicht recht boven je hoofd voorbij.
 
 Wat Kakslauttanen meer maakt dan een leuke gimmick, is de kwaliteit van alles eromheen. De dagen draaien om de winterse wildernis van Fins Lapland: sneeuwscootertochten door het uitgestrekte Nationaal Park Urho Kekkonen, arrenslee achter rendieren door oerbos, huskysafari's met teams van Siberische en Alaskaanse husky's wier gezamenlijke enthousiasme echt aanstekelijk is, en ijsvissen op bevroren meren waar de stilte zo volkomen is dat ze bijna een geluid op zich wordt.
 

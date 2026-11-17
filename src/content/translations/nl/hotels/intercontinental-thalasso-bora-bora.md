@@ -22,6 +22,8 @@ bestFor:
 seo:
   metaTitle: "InterContinental Thalasso Bora Bora | StayAtNiche"
   metaDescription: "Overwatervilla's op het buitenrif van Bora Bora, met uitzicht op de Mount Otemanu, de Deep Ocean Spa boven het rif en airconditioning op koud diepzeewater."
+closure:
+  note: "Het resort sloot op 1 juni 2026 voor een complete renovatie. Op de website van het resort staat geen heropeningsdatum."
 ---
 
 Het InterContinental Bora Bora Resort & Thalasso Spa heeft de meest open en spectaculaire ligging van alle overwaterresorts op het eiland. Het ligt op het buitenrif zelf – Motu Piti Aau, een klein koraaleiland aan de zuidkant van het barrièrerif van Bora Bora. Van hieruit strekt de lagune zich naar het noorden uit in een panorama met het volledige silhouet van de Mount Otemanu en de Mount Pahia op het hoofdeiland, en het water dat afhankelijk van de lichtval wisselt tussen bijna-turquoise en bijna-saffier.

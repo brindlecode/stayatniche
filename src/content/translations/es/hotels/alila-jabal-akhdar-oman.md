@@ -1,28 +1,26 @@
 ---
 source: alila-jabal-akhdar-oman
 destination: "Gobernación de Al Dajiliya"
-description: "Encaramado a 2000 metros al borde del Wadi Ghul, en las montañas de Al Hajar de Omán, Alila Jabal Akhdar tiene piscinas infinitas y piscinas privadas suspendidas sobre un desfiladero de un kilómetro de caída vertical, y todo el año está 10 °C más fresco que la costa."
+description: "Encaramado a 2000 metros al borde del Wadi Ghul, en las montañas de Al Hajar de Omán, Alila Jabal Akhdar tiene una piscina infinita con vistas al cañón, y todo el año está 10 °C más fresco que la costa."
 highlights:
-  - "Piscinas infinitas al borde del acantilado, a 2000 metros sobre el nivel del mar"
+  - "Piscina infinita al borde del acantilado, a 2000 metros sobre el nivel del mar"
   - "Vistas desde la habitación sobre el Wadi Ghul, el «Gran Cañón» de Omán"
   - "Cosecha de rosas y elaboración tradicional de agua de rosas omaní en los alrededores"
-  - "Rutas de vía ferrata en la pared del acantilado del propio resort"
   - "Excursiones guiadas diarias a antiguas aldeas de montaña omaníes"
   - "La altitud mantiene las temperaturas 10 °C por debajo de las de la costa de Omán"
   - "Plataforma de observación de estrellas con una contaminación lumínica casi nula"
   - "Experiencias culturales omaníes, como cetrería y talleres de artesanía tradicional"
 amenities:
-  - "Piscina privada o terraza (en la mayoría de las habitaciones)"
+  - "Piscina privada en las dos Jabal Villas"
   - "Piscina infinita al borde del acantilado"
   - "Overcliff Spa con tratamientos exclusivos"
   - "Varios restaurantes, entre ellos uno al aire libre al filo del acantilado"
   - "Gimnasio con vistas panorámicas al desfiladero"
-  - "Equipo de vía ferrata gratuito"
   - "Servicio de mayordomo las 24 horas"
   - "Wifi de alta velocidad en todo el recinto"
 bestFor:
   - "Parejas que buscan un lujo espectacular en la península arábiga"
-  - "Viajeros aventureros que quieren hacer vía ferrata y senderismo"
+  - "Viajeros aventureros que quieren hacer senderismo"
   - "Escapar del calor del Golfo (mucho más fresco en altura)"
   - "Exploradores culturales interesados en el auténtico patrimonio omaní"
 prosAndCons:
@@ -51,15 +49,15 @@ nearbyAttractions:
     distance: "40 km"
 seo:
   metaTitle: "Alila Jabal Akhdar: hotel en un acantilado de Omán | StayAtNiche"
-  metaDescription: "Resort espectacular al borde de un acantilado a 2000 metros de altitud en las montañas de Al Hajar (Omán), con piscinas infinitas. Desde 500 US$ la noche."
+  metaDescription: "Resort sobre un acantilado a 2000 metros en las montañas de Al Hajar (Omán), con piscina infinita y vistas al cañón. Desde 500 US$ la noche."
 ---
 
 La carretera que sube desde Nizwa a las montañas de Al Hajar te prepara para Alila Jabal Akhdar, pero no del todo. Asciende entre oasis de palmeras datileras que dan paso a la caliza desnuda, y luego por curvas cerradas que se abren a vistas de cañones, antiguas aldeas de piedra aferradas a las crestas y cabras omaníes que se mueven por un terreno que parece imposible de transitar. A 2000 metros, la meseta se abre y la temperatura baja diez grados. Entonces aparece el resort: un conjunto de piedra rosada y paredes encaladas asentado al borde del acantilado como si hubiera brotado de él, y no como si lo hubiera colocado allí una cuadrilla de obreros.
 
-A sus pies está el Wadi Ghul, al que los folletos turísticos llaman el Gran Cañón de Arabia. La comparación no es exacta —ambos cañones son demasiado singulares para eso—, pero la escala sí es comparable: un kilómetro de caída vertical hasta el lecho del wadi. Asomarse a ese vacío desde la terraza del acantilado es algo que ninguna foto refleja con fidelidad. Ninguna imagen consigue transmitir lo que la vista real le hace a tu sentido de la escala. La piscina situada al filo del acantilado lo deja aún más claro, casi físicamente: el agua parece terminar en el borde y el desfiladero empieza justo debajo.
+A sus pies está el Wadi Ghul, al que Mr & Mrs Smith llama el «Gran Cañón» de Omán. Asomarse a ese vacío desde la terraza del acantilado es algo que ninguna foto refleja con fidelidad. Ninguna imagen consigue transmitir lo que la vista real le hace a tu sentido de la escala. La piscina situada al filo del acantilado lo deja aún más claro, casi físicamente: el agua parece terminar en el borde y el desfiladero empieza justo debajo.
 
-La arquitectura utiliza piedra rosada local, extraída de las mismas montañas. Las terrazas escalonadas y los perfiles angulosos evocan los sistemas de riego *falaj* y las aldeas en bancales que han trabajado estas laderas durante siglos. La mayoría de las habitaciones y suites tienen piscina privada al borde del acantilado. La primera vista desde la tuya, te hayas alojado donde te hayas alojado antes, te cortará la respiración.
+El edificio principal y las suites agrupadas están revestidos de piedra escarpada que se funde con el paisaje agreste y mantienen un perfil bajo al borde del desfiladero. Las dos Jabal Villas tienen cada una su propia piscina privada. La primera vista desde tu habitación, te hayas alojado donde te hayas alojado antes, te cortará la respiración.
 
-El resort está 10 °C más fresco que la costa de Omán a la misma latitud. En verano, cuando Mascate y Salalah superan los 45 °C, la meseta se mantiene a unos agradables 25-30 °C y el resort se llena de residentes del Golfo que huyen del calor. Las noches de invierno rozan los cero grados, y para eso están las chimeneas de los interiores.
+El resort está 10 °C más fresco que la costa de Omán a la misma latitud. En verano, cuando Mascate y Salalah superan los 45 °C, la meseta se mantiene a unos agradables 25-30 °C y el resort se llena de residentes del Golfo que huyen del calor. Las noches de invierno rozan los cero grados, y una gran chimenea recibe a los huéspedes a su llegada.
 
-El Overcliff Spa utiliza incienso, agua de rosas de Damasco procedente de los famosos rosales en bancales del valle y tratamientos de hammam con un carácter genuinamente local. Las rutas de vía ferrata ancladas en la pared del acantilado, bajo el resort, están bien diseñadas y duran varias horas. Las excursiones guiadas a las aldeas llevan a comunidades donde todavía se recolecta miel de colmenas tradicionales encajadas en grietas de la roca, y que se vende por tarros al final del sendero. De noche, a esta altitud y sin apenas contaminación lumínica en ninguna dirección, el cielo sobre las montañas de Al Hajar es de esos que cambian para siempre tu idea de cómo puede llegar a ser un cielo nocturno.
+El Overcliff Spa utiliza incienso, agua de rosas de Damasco procedente de los famosos rosales en bancales del valle y tratamientos de hammam con un carácter genuinamente local. Las excursiones guiadas a las aldeas llevan a comunidades donde todavía se recolecta miel de colmenas tradicionales encajadas en grietas de la roca, y que se vende por tarros al final del sendero. De noche, a esta altitud y sin apenas contaminación lumínica en ninguna dirección, el cielo sobre las montañas de Al Hajar es de esos que cambian para siempre tu idea de cómo puede llegar a ser un cielo nocturno.

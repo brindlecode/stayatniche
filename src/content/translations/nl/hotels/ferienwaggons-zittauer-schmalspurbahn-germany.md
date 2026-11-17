@@ -6,7 +6,7 @@ highlights:
   - "Omgebouwde spoorwagons als vakantieappartement"
   - "Te vinden bij stations van de smalspoor-stoomtrein van Zittau"
   - "Terras op een ideale plek om de treinen te zien"
-  - "Wagons in Kurort Jonsdorf en Kurort Oybin"
+  - "Wagons in Kurort Jonsdorf (Pasen tot juli) en Kurort Oybin (augustus tot oktober)"
 amenities:
   - "Keuken met kookplaat, koelkast, koffiezetapparaat en magnetron"
   - "Eigen badkamer met toilet en douche"
@@ -19,7 +19,7 @@ seo:
   metaDescription: "Ferienwaggons bij de Zittauer Schmalspurbahn in Jonsdorf en Oybin: omgebouwde spoorwagons met keuken en badkamer, aan de smalspoorlijn in Saksen."
 ---
 
-De Ferienwaggons zijn omgebouwde spoorwagons die de Zittauer Schmalspurbahn verhuurt als vakantieappartement. Ze staan bij stations van deze smalspoor-stoomtrein in het Zittauer Gebirge in Saksen, namelijk in Kurort Jonsdorf en Kurort Oybin. De treinen maken dus deel uit van het uitzicht.
+De Ferienwaggons zijn omgebouwde spoorwagons die de Zittauer Schmalspurbahn verhuurt als vakantieappartement. Ze staan bij stations van deze smalspoor-stoomtrein in het Zittauer Gebirge in Saksen, namelijk in Kurort Jonsdorf (Pasen tot juli) en Kurort Oybin (augustus tot oktober). De treinen maken dus deel uit van het uitzicht.
 
 ## De wagons
 
@@ -31,8 +31,8 @@ De spoorlijn verhuurt ook pension Zum Bahnel, in het stationsgebouw van Kurort J
 
 ## Seizoen en voordelen
 
-De wagon in Jonsdorf wordt aangeboden van Pasen tot juli. Bij een boeking van vijf nachten krijg je een gratis weekkaart voor de Zittauer Schmalspurbahn, voor één persoon per verblijf.
+De wagons staan van Pasen tot juli op station Jonsdorf en van augustus tot oktober op station Oybin. Bij een boeking van vijf nachten krijg je een gratis weekkaart voor de Zittauer Schmalspurbahn, voor één persoon per verblijf.
 
 ## Praktische tips
 
-Dit verblijf is ideaal voor wie stoomtreinen vanaf de voordeur wil zien. Vraag bij de spoorlijn welke wagon beschikbaar is op jouw data en bij welk station die staat, want zowel Jonsdorf als Oybin hebben wagons. De spoorlijn rijdt met stoomtreinen door het Zittauer Gebirge, dus je kunt het verblijf combineren met een rit op de lijn.
+Dit verblijf is ideaal voor wie stoomtreinen vanaf de voordeur wil zien. Vraag bij de spoorlijn welke wagon beschikbaar is op jouw data; het station hangt af van het seizoen. De spoorlijn rijdt met stoomtreinen door het Zittauer Gebirge, dus je kunt het verblijf combineren met een rit op de lijn.

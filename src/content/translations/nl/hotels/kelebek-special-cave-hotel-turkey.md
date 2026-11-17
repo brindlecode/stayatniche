@@ -1,9 +1,9 @@
 ---
 source: kelebek-special-cave-hotel-turkey
 destination: "Göreme, Nevşehir"
-description: "Al jaren bestaand hotel boven het dorp Göreme, waar sommige kamers uit de rots zijn gehakt, waaronder kamers die het hotel duizenden jaren oud noemt. Met een traditioneel Turks bad en een buitenzwembad."
+description: "Al jaren bestaand hotel boven het dorp Göreme, waar sommige kamers uit de rots zijn gehakt, waaronder historische ruimtes die het hotel in de 8e eeuw plaatst. Met een traditioneel Turks bad en een buitenzwembad."
 highlights:
-  - "Sommige kamers zijn grotkamers; het hotel zegt dat de feeënschoorstenen op het terrein kamers van duizenden jaren oud bevatten"
+  - "Sommige kamers zijn grotkamers; volgens het hotel zijn sommige uit de natuurlijke rots gehakt, waaronder historische ruimtes uit de 8e eeuw"
   - "Uitzicht op het dorp, de valleien en de ballonnen"
   - "Traditioneel Turks bad en buitenzwembad"
   - "Huisdiervriendelijk"
@@ -24,11 +24,11 @@ seo:
   metaDescription: "Kelebek Special Cave Hotel in Göreme: al jaren bestaand hotel met grotkamers en terrassen, een Turks bad, buitenzwembad en uitzicht op ballonnen."
 ---
 
-Kelebek Special Cave Hotel ligt boven het dorp Göreme, binnen het nationaal park, en verkoopt zichzelf met uitzicht op het dorp, de valleien, de heteluchtballonnen en de bergen daarachter. Grotkamers horen bij het aanbod, al zijn maar sommige kamers uit de rots gehakt. Andere worden omschreven als kamers van grot en steen.
+Kelebek Special Cave Hotel ligt boven het dorp Göreme, binnen het nationaal park, en verkoopt zichzelf met uitzicht op het dorp, de valleien, de heteluchtballonnen en de bergen daarachter. Grotkamers horen bij het aanbod, al zijn maar sommige kamers uit de rots gehakt. Andere worden omschreven als kamers van grot en steen. Het hotel noemt in totaal 36 kamers, een mix van grot-, feeënschoorsteen- en steenkamers, en noemt zich op de eigen website inmiddels Kelebek Cave Hotel.
 
 ## De kamers
 
-Het hotel heeft speciaal ingerichte kamers, met een grot- of grot-en-steenbeleving. Volgens het hotel bevatten de feeënschoorstenen op het terrein al duizenden jaren oude grotkamers. Vraag bij het boeken of jouw kamer echt een grotkamer is.
+Het hotel heeft speciaal ingerichte kamers, met een grot- of grot-en-steenbeleving. Volgens het hotel zijn sommige van de grotkamers rechtstreeks in de natuurlijke rots uitgehakt, waaronder historische ruimtes uit de 8e eeuw. Vraag bij het boeken of jouw kamer echt een grotkamer is.
 
 ## Faciliteiten
 
@@ -36,7 +36,7 @@ Het hotel biedt een traditioneel Turks bad en een buitenzwembad. Huisdieren zijn
 
 ## De omgeving
 
-De meeste kamers en terrassen kijken uit op de ballonnen, en het hotel presenteert het uitzicht als het mooiste van alle grothotels in Cappadocië.
+De meeste kamers en terrassen kijken uit op de ballonnen.
 
 ## Praktische info
 

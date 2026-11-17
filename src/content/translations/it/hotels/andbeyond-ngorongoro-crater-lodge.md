@@ -49,6 +49,8 @@ nearbyAttractions:
 seo:
   metaTitle: "Ngorongoro Crater Lodge, safari in Tanzania | StayAtNiche"
   metaDescription: "Il lodge teatrale di &Beyond sul bordo della più grande caldera del mondo: Big Five tutto l’anno, maggiordomo e viste panoramiche. Da 1.400 $ a notte."
+closure:
+  note: "Il lodge è chiuso per una ricostruzione completa. Il suo sito annuncia la riapertura a dicembre 2027."
 ---
 
 Il cratere di Ngorongoro è una caldera vulcanica larga 20 chilometri e profonda 600 metri, le cui pareti ospitano stabilmente 25.000 grandi mammiferi da migliaia di anni. Il fondo del cratere ha la più alta densità di leoni d’Africa e una delle ultime popolazioni vitali di rinoceronte nero del continente. Scendere lungo la strada del bordo nella nebbia, in una fredda mattina d’altura, con il fondo del cratere che compare più in basso tra le nuvole, è uno spettacolo che non perde forza, per quante foto tu abbia visto.

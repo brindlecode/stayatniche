@@ -1,9 +1,9 @@
 ---
 source: kelebek-special-cave-hotel-turkey
 destination: "Göreme, Nevşehir"
-description: "Hotel di lunga tradizione sopra il villaggio di Göreme, con alcune camere scavate nella roccia, incluse quelle che l’hotel dice risalire a migliaia di anni fa, oltre a bagno turco e piscina all’aperto."
+description: "Hotel di lunga tradizione sopra il villaggio di Göreme, con alcune camere scavate nella roccia, inclusi spazi storici che l’hotel fa risalire all’VIII secolo, oltre a bagno turco e piscina all’aperto."
 highlights:
-  - "Alcune camere sono in grotta; l’hotel afferma che i camini delle fate presenti nel complesso ospitano stanze vecchie di migliaia di anni"
+  - "Alcune camere sono in grotta; secondo l’hotel alcune sono scavate nella roccia naturale, inclusi spazi storici dell’VIII secolo"
   - "Vista su villaggio, valli e mongolfiere"
   - "Bagno turco tradizionale e piscina all’aperto"
   - "Animali ammessi"
@@ -24,11 +24,11 @@ seo:
   metaDescription: "Kelebek Special Cave Hotel a Göreme: hotel di lunga tradizione con camere in grotta, bagno turco, piscina e vista su villaggio, mongolfiere e valli."
 ---
 
-Il Kelebek Special Cave Hotel sorge sopra il villaggio di Göreme, all’interno del parco nazionale, e punta sulle viste del villaggio, delle valli, delle mongolfiere e delle montagne sullo sfondo. Le camere in grotta fanno parte dell’offerta, ma solo alcune sono scavate nella roccia. Altre sono descritte come camere miste, grotta e pietra.
+Il Kelebek Special Cave Hotel sorge sopra il villaggio di Göreme, all’interno del parco nazionale, e punta sulle viste del villaggio, delle valli, delle mongolfiere e delle montagne sullo sfondo. Le camere in grotta fanno parte dell’offerta, ma solo alcune sono scavate nella roccia. Altre sono descritte come camere miste, grotta e pietra. L’hotel dichiara 36 camere in totale, tra camere in grotta, nei camini delle fate e in pietra, e sul proprio sito si chiama ormai Kelebek Cave Hotel.
 
 ## Le camere
 
-L’hotel parla di camere «realizzate con particolare cura», con un’esperienza in grotta oppure in grotta e pietra. Secondo l’hotel, i camini delle fate della proprietà ospitano camere in grotta antiche di migliaia di anni. Chiedi al momento della prenotazione se la tua camera è davvero una camera in grotta.
+L’hotel parla di camere «realizzate con particolare cura», con un’esperienza in grotta oppure in grotta e pietra. Secondo l’hotel, alcune delle sue camere in grotta sono scavate direttamente nella roccia naturale, inclusi spazi storici che risalgono all’VIII secolo. Chiedi al momento della prenotazione se la tua camera è davvero una camera in grotta.
 
 ## Servizi
 
@@ -36,7 +36,7 @@ L’hotel offre un bagno turco tradizionale e una piscina all’aperto. Sono amm
 
 ## La posizione
 
-La maggior parte delle camere e delle terrazze si affaccia sulle mongolfiere, e l’hotel presenta le sue viste come le migliori tra gli hotel in grotta della Cappadocia.
+La maggior parte delle camere e delle terrazze si affaccia sulle mongolfiere.
 
 ## Informazioni pratiche
 

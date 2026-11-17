@@ -102,6 +102,10 @@ niche_scope: specific_rooms
 niche_feature: "Suites are set within the original castle walls; the site does not state where its other castle room categories sit. Castle is the 1835 Gothic Revival rebuild of the O'Brien seat, hotel since 1963. Self-catering lodges are separate."
 niche_source_url: "https://www.dromoland.ie/"
 niche_verified_at: 2026-11-17
+closure:
+  note: "The castle is temporarily closed for refurbishment; castle bookings are taken for stays from May 2027. The self-catering lodges remain open."
+  source_url: "https://www.dromoland.ie/"
+  checked_at: 2026-11-17
 ---
 
 The O'Brien family line does not require invention. The clan who built a castle on the shores of Dromoland Lake in County Clare in the 16th century were the direct descendants of Brian Boru, the High King who unified the Irish kingdoms and died at the Battle of Clontarf in 1014. That is not marketing copy — it is a documented genealogy stretching over a thousand years, and it shows in the way the castle carries itself. There is no straining for significance here. The stone towers, the lake, the formal gardens, and the 450-acre parkland all have the settled authority of a place that has never needed to announce what it is.

@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Ty’r Graig Castle : château-hôtel à Barmouth | StayAtNiche"
   metaDescription: "Ty’r Graig près de Barmouth : demeure victorienne gothique de 1892, 11 chambres avec salle de bains, vue sur la baie de Cardigan et séjours romantiques."
+niche_note: "Ty’r Graig n’est pas un château médiéval : c’est une demeure victorienne néogothique de 1892 en forme de château, avec des chambres dans les tourelles."
 ---
 
 Ty'r Graig signifie « Maison sur le roc », et le nom convient bien au bâtiment. Il domine d'environ 200 pieds la station balnéaire galloise de Barmouth et surplombe la baie de Cardigan, en direction de la péninsule de Llŷn et de l'île de Bardsey. Aujourd'hui, il accueille les visiteurs en château-hôtel, et ses 11 chambres avec salle de bains offrent une vue sur les alentours.

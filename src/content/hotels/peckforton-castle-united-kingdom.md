@@ -3,7 +3,7 @@ name: "Peckforton Castle"
 category: castle-hotels
 destination: "Cheshire, England"
 country: "United Kingdom"
-description: "A Victorian Gothic castle in the Cheshire countryside, built in 1851 to recreate a medieval fortress, with 48 individually appointed bedrooms inside and around it."
+description: "A Victorian Gothic castle in the Cheshire countryside, built in 1851 to recreate a medieval fortress, with 48 individually appointed bedrooms and suites in the castle."
 priceRange: "Rates vary"
 highlights:
   - "Grade I listed castle built in 1851 in the style of a medieval fortress"
@@ -44,7 +44,7 @@ niche_source_url: "https://www.peckfortoncastle.co.uk/hotel"
 niche_verified_at: 2026-11-17
 ---
 
-Peckforton Castle was built in 1851 to recreate a medieval fortress, and it still reads as one: a Grade I listed Victorian Gothic stronghold in the Cheshire countryside, described by its owners as the only intact medieval-style castle in England. Today it works as a hotel, restaurant and events venue, and overnight guests sleep inside the walls rather than in a modern annexe.
+Peckforton Castle was built in 1851 to recreate a medieval fortress, and it still reads as one: a Grade I listed Victorian Gothic stronghold in the Cheshire countryside, which its owners describe as a true fortress with towers, turrets, battlements and a drawbridge. Today it works as a hotel, restaurant and events venue, and overnight guests sleep inside the walls rather than in a modern annexe.
 
 ## The rooms
 

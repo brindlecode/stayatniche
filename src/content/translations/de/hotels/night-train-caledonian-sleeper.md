@@ -1,23 +1,21 @@
 ---
 source: night-train-caledonian-sleeper
 destination: "Von London Euston in die schottischen Highlands"
-description: "Der Nachtzug zwischen London und den schottischen Highlands verkehrt auf sechs Strecken nach Inverness, Aberdeen, Edinburgh, Glasgow, Fort William und darüber hinaus. Mit privaten Club-Abteilen samt eigenem Bad wird die elfstündige Fahrt zur effizientesten Übernachtung Großbritanniens."
+description: "Der Nachtzug zwischen London und den schottischen Highlands verkehrt auf Strecken nach Inverness, Aberdeen, Edinburgh, Glasgow und Fort William. Mit privaten Club-Abteilen samt eigenem Bad wird die elfstündige Fahrt zu Ihrer Übernachtung."
 highlights:
-  - "Sechs Nachtverbindungen, die das gesamte schottische Schienennetz abdecken"
-  - "Private Club-Abteile mit eigenem Bad, Klappbetten und Panoramafenstern"
+  - "Nachtverbindungen nach Inverness, Aberdeen, Edinburgh, Glasgow und Fort William"
+  - "Private Club-Abteile mit eigenem Bad und Etagenbetten"
   - "Elfstündige Nachtfahrt, die Flug und Hotelnacht in einem ersetzt"
   - "Lounge-Wagen mit schottischem Whisky, Craft Beer und warmen Mahlzeiten"
   - "Ankunft in Zentralschottland vor 8 Uhr, bereit für einen vollen Tag"
   - "Die Strecke nach Fort William führt über das Rannoch Moor – die Überquerung im Morgengrauen im Schlafwagen ist ein ganz besonderes britisches Reiseerlebnis"
 amenities:
-  - "Privates Club-Abteil mit ausklappbarem Doppelbett"
+  - "Privates Club-Abteil mit Etagenbetten"
   - "Eigenes Duschbad (Club-Abteile)"
-  - "Panoramafenster für die Landschaft im Morgengrauen"
   - "Abendessen und Frühstück im Lounge-Wagen"
   - "Auswahl an schottischem Whisky im Lounge-Wagen"
-  - "Kostenlose Morgenzeitung"
   - "Stauraum für Fahrräder und Gepäck"
-  - "WLAN in den Lounge-Bereichen"
+  - "Kostenloses WLAN in den Club-Abteilen"
 bestFor:
   - "Reisende, die Transport und Übernachtung effizient verbinden wollen"
   - "Alle, die die Umweltbelastung einer Reise von London nach Schottland gering halten möchten"
@@ -53,8 +51,8 @@ seo:
 
 Zwischen London Euston und Inverness liegen rund elf Stunden. Mit dem Flugzeug dauert dieselbe Strecke weniger als 90 Minuten. Doch der Caledonian Sleeper tritt nicht nach den Regeln des Fliegens gegen das Flugzeug an. Er punktet, indem er zwei Dinge zugleich erledigt: Er bringt Sie von London nach Schottland, während Sie schlafen, sodass Sie um 8 Uhr in den Highlands aus dem Zug steigen – einen ganzen Tag vor sich und ohne Hotelrechnung für die vergangene Nacht. Allein dieses Effizienzargument macht den Nachtzug zu einer praktischen Option. Die Strecke selbst macht ihn zu weit mehr.
 
-Die Route der West Highland Line nach Fort William gehört zu den meistbesprochenen Bahnstrecken Europas. Von Glasgow aus führt die Linie nach Norden über das Rannoch Moor – 50 Meilen Deckenmoor, kleine Seen und Berge im Herzen der schottischen Highlands, seit der Eiszeit im Wesentlichen unverändert –, bevor sie zum Loch Treig hinabsteigt und weiter zur Westküste führt. Im Morgengrauen dauert die Überquerung im Sommer etwa 45 Minuten, und das Licht, das in der Stunde vor Fort William über dem Moor aufsteigt, hat jenen ganz eigenen Ton schottischen Morgenlichts, den Maler seit dem 19. Jahrhundert einzufangen versuchen. Vom Fenster eines Club-Abteils aus, ausgestreckt im Klappbett bei offenem Vorhang, sehen Sie zu, wie es im Schritttempo über das Moor zieht.
+Die Route der West Highland Line nach Fort William gehört zu den meistbesprochenen Bahnstrecken Europas. Von Glasgow aus führt die Linie nach Norden über das Rannoch Moor – 50 Meilen Deckenmoor, kleine Seen und Berge im Herzen der schottischen Highlands, seit der Eiszeit im Wesentlichen unverändert –, bevor sie zum Loch Treig hinabsteigt und weiter zur Westküste führt. Im Morgengrauen dauert die Überquerung im Sommer etwa 45 Minuten, und das Licht, das in der Stunde vor Fort William über dem Moor aufsteigt, hat jenen ganz eigenen Ton schottischen Morgenlichts, den Maler seit dem 19. Jahrhundert einzufangen versuchen. Vom Fenster eines Club-Abteils aus sehen Sie zu, wie es im Schritttempo über das Moor zieht.
 
-Die Club-Abteile sind privat und haben ein eigenes Bad, ausklappbare Doppelbetten, einen kleinen Schreibtisch und eine Dusche. Sie sind kompakt, wie jede gute Zugunterkunft kompakt ist – kein Designfehler, sondern eine Folge der Physik eines fahrenden Schienenfahrzeugs –, und die Qualität der neueren Wagen, die der Caledonian Sleeper seit 2019 einsetzt, macht sie für eine Nachtfahrt wirklich bequem. Im Lounge-Wagen gibt es Abendessen von einer Karte mit schottischem Fisch und Meeresfrüchten sowie eine Whiskyauswahl von beachtlicher Bandbreite, von Speyside bis Islay. Am frühen Abend füllt er sich mit einer Mischung aus Highlandern auf dem Heimweg, Besuchern, die sich zum ersten Mal dem Norden nähern, und einer vorhersehbaren Zahl von Menschen, für die die Reise selbst das Ziel ist.
+Die Club-Abteile sind privat und haben ein eigenes Bad mit Dusche sowie Etagenbetten. Sie sind kompakt, wie jede gute Zugunterkunft kompakt ist – kein Designfehler, sondern eine Folge der Physik eines fahrenden Schienenfahrzeugs –, und die Qualität der neueren Wagen, die der Caledonian Sleeper seit 2019 einsetzt, macht sie für eine Nachtfahrt wirklich bequem. Im Lounge-Wagen gibt es Abendessen von einer Karte mit schottischem Fisch und Meeresfrüchten sowie eine Whiskyauswahl von beachtlicher Bandbreite, von Speyside bis Islay. Am frühen Abend füllt er sich mit einer Mischung aus Highlandern auf dem Heimweg, Besuchern, die sich zum ersten Mal dem Norden nähern, und einer vorhersehbaren Zahl von Menschen, für die die Reise selbst das Ziel ist.
 
 Die Umweltbilanz ist eindeutig: Eine Hin- und Rückfahrt mit dem Zug zwischen London und Inverness verursacht etwa 50 kg CO₂, die entsprechenden Flüge rund 380 kg. Für Reisende, die Schottland auf dem Plan haben und aus London kommen, ist der Caledonian Sleeper mit großem Abstand die zeitsparendste, kostengünstigste und umweltschonendste Option – und eine der wenigen Reisen im Vereinigten Königreich, die sich im richtigen Abteil zur richtigen Stunde noch wie ein echtes Abenteuer anfühlt.

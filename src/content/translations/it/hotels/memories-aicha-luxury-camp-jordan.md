@@ -1,10 +1,10 @@
 ---
 source: memories-aicha-luxury-camp-jordan
 destination: "Wadi Rum, Aqaba"
-description: "Campo di lusso con 55 tende a Wadi Rum, con tende climatizzate, terrazze private e tetti trasparenti per guardare le stelle dal letto."
+description: "Campo di lusso con 55 tende a Wadi Rum, con tende climatizzate, terrazze private e tende Panoramic pensate per osservare le stelle."
 highlights:
   - "55 tende nel cuore di Wadi Rum"
-  - "Tetti trasparenti per ammirare migliaia di stelle dal letto"
+  - "Tende Panoramic pensate per osservare le stelle, con tetto trasparente nelle cupole del campo"
   - "Tende climatizzate con doccia privata"
   - "Quattro categorie di tende, da 340 a 540 piedi quadrati"
   - "A cinque minuti di auto dal centro visitatori di Wadi Rum"
@@ -22,14 +22,14 @@ bestFor:
   - "Coppie"
 seo:
   metaTitle: "Memories Aicha Luxury Camp: glamping Wadi Rum | StayAtNiche"
-  metaDescription: "Memories Aicha Luxury Camp nel Wadi Rum: 55 tende climatizzate con terrazza privata e tetti trasparenti per ammirare le stelle dal letto, in Giordania."
+  metaDescription: "Memories Aicha Luxury Camp nel Wadi Rum: 55 tende climatizzate con terrazza privata e tende Panoramic ideali per osservare le stelle, in Giordania."
 ---
 
 Memories Aicha Luxury Camp è un campo di 55 tende nel cuore del Wadi Rum, incastonato in una valle rossa tra montagne aspre e il deserto arabico aperto. Secondo il campo stesso, il sito assomiglia più a una colonia su Marte che a un campeggio. L'idea è svegliarsi nella natura senza rinunciare al comfort di un hotel.
 
 ## Le tende
 
-Ogni tenda è arredata in gialli, arancioni e rossi ispirati ai colori delle sabbie del deserto, e dispone di aria condizionata, docce e acqua corrente. Di notte i tetti trasparenti permettono di ammirare migliaia di stelle dal letto, mentre di giorno una terrazza privata, arredata in stile orientale, si affaccia sul paesaggio rosso.
+Ogni tenda è arredata in gialli, arancioni e rossi ispirati ai colori delle sabbie del deserto, e dispone di aria condizionata, docce e acqua corrente. Secondo la home page del campo, le sue cupole hanno un tetto trasparente per ammirare di notte migliaia di stelle dal letto, mentre di giorno una terrazza privata, arredata in stile orientale, si affaccia sul paesaggio rosso. Il campo descrive le tende Panoramic come ideali per osservare le stelle.
 
 Ci sono quattro categorie:
 

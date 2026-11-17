@@ -1,9 +1,9 @@
 ---
 source: kelebek-special-cave-hotel-turkey
 destination: "Göreme, Nevşehir"
-description: "Ein seit Langem bestehendes Hotel oberhalb des Dorfes Göreme, in dem einige Zimmer in den Fels gehauen sind, darunter Räume, die das Hotel als mehrere tausend Jahre alt bezeichnet. Dazu gibt es ein türkisches Bad und einen Außenpool."
+description: "Ein seit Langem bestehendes Hotel oberhalb des Dorfes Göreme, in dem einige Zimmer in den Fels gehauen sind, darunter historische Räume, die das Hotel auf das 8. Jahrhundert datiert. Dazu gibt es ein türkisches Bad und einen Außenpool."
 highlights:
-  - "Einige Zimmer sind Höhlenzimmer; das Hotel gibt an, dass die Feenkamine auf dem Gelände Räume enthalten, die tausende Jahre alt sind"
+  - "Einige Zimmer sind Höhlenzimmer; laut Hotel sind einige in den natürlichen Fels gehauen, darunter historische Räume aus dem 8. Jahrhundert"
   - "Ausblick auf das Dorf, die Täler und die Ballone"
   - "Traditionelles türkisches Bad und Außenpool"
   - "Haustiere willkommen"
@@ -24,11 +24,11 @@ seo:
   metaDescription: "Kelebek Special Cave Hotel in Göreme: Hotel über dem Dorf mit Höhlenzimmern, türkischem Bad, Außenpool, Concierge und Blick auf Ballone und Täler."
 ---
 
-Das Kelebek Special Cave Hotel liegt oberhalb des Dorfes Göreme innerhalb des Nationalparks und wirbt mit Blick auf das Dorf, die Täler, die Heißluftballone und die Berge dahinter. Höhlenzimmer gehören zum Angebot, doch nur einige Zimmer sind in den Fels gehauen. Andere werden als Höhlen-Steinzimmer beschrieben.
+Das Kelebek Special Cave Hotel liegt oberhalb des Dorfes Göreme innerhalb des Nationalparks und wirbt mit Blick auf das Dorf, die Täler, die Heißluftballone und die Berge dahinter. Höhlenzimmer gehören zum Angebot, doch nur einige Zimmer sind in den Fels gehauen. Andere werden als Höhlen-Steinzimmer beschrieben. Das Hotel nennt insgesamt 36 Zimmer, eine Mischung aus Höhlen-, Feenkamin- und Steinzimmern, und bezeichnet sich auf der eigenen Website inzwischen als Kelebek Cave Hotel.
 
 ## Die Zimmer
 
-Das Hotel spricht von „besonders gestalteten“ Zimmern, die ein Höhlen- oder ein Höhlenstein-Erlebnis bieten. Laut Hotel enthalten die Feenkamine auf dem Gelände seit Tausenden von Jahren bestehende Höhlenzimmer. Fragen Sie bei der Buchung nach, ob Ihr Zimmer ein echtes Höhlenzimmer ist.
+Das Hotel spricht von „besonders gestalteten“ Zimmern, die ein Höhlen- oder ein Höhlenstein-Erlebnis bieten. Laut Hotel sind einige seiner Höhlenzimmer direkt in den natürlichen Fels gehauen, darunter historische Räume aus dem 8. Jahrhundert. Fragen Sie bei der Buchung nach, ob Ihr Zimmer ein echtes Höhlenzimmer ist.
 
 ## Ausstattung
 
@@ -36,7 +36,7 @@ Das Hotel bietet ein traditionelles türkisches Bad und einen Außenpool. Hausti
 
 ## Die Lage
 
-Die meisten Zimmer und Terrassen blicken auf die Ballone, und das Hotel bezeichnet seine Ausblicke als die besten unter den Höhlenhotels Kappadokiens.
+Die meisten Zimmer und Terrassen blicken auf die Ballone.
 
 ## Praktische Hinweise
 

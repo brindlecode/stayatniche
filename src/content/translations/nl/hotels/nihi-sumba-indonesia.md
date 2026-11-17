@@ -49,6 +49,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Nihi Sumba: luxeresort en surfen op Sumba | StayAtNiche"
   metaDescription: "Nihi Sumba in Indonesië: 28 villa's op een eigen landgoed aan zee, exclusief surfen op Occy's Left en paardrijden op lege stranden. Vanaf $ 1.200 per nacht."
+niche_badge: "Slechts één villa"
 ---
 
 Sumba is Bali niet. Het eiland ligt 350 kilometer naar het oosten in de keten van de Kleine Soenda-eilanden, en bijna niets eraan lijkt op de vorm van Indonesisch toerisme die Bali wereldwijd bekend heeft gemaakt. Het landschap bestaat hier uit droge savanne, dorpen waar ikat wordt geweven en megalithische stenen graven, met een zuidwestkust die de Indische Oceaan ongehinderd heeft gevormd, al lang voordat iemand golven begon te meten. Nihi Sumba beslaat 567 acres van die kust, en dat de lezers van Travel + Leisure het meerdere jaren op rij tot beste hotel ter wereld kozen, zegt iets over wat een bepaald soort reiziger het meest waardeert.

@@ -6,12 +6,12 @@
   "source_url": "https://juvet.com/en/landskapsromma",
   "source_type": "official",
   "niche_scope": "specific_rooms",
-  "niche_feature": "Seven glass-walled Landscape rooms raised on stilts in a birch forest by a river (plus two Bird Houses and a Writer's Lodge). No cliff setting is stated; the stilted cubes fit the site's stilts-among-trees treehouse rule only borderline.",
+  "niche_feature": "The seven Landscape rooms are glass-walled cubes on stilts; the official page does not say they stand among trees. The hotel also has two Bird Houses and a Writer's Lodge. It does not meet the treehouse rule and no cliff setting is described.",
   "evidence_quote": "Seven small cubes on stilts, with glass walls that offer you an immaculate view of the valley, the forest or the dramatic river below.",
   "operating": "open",
-  "verdict": "move",
-  "new_category": "treehouse-hotels",
-  "closest_category": "treehouse-hotels",
+  "verdict": "draft",
+  "new_category": null,
+  "closest_category": "cliffside-hotels",
   "reason": "Official source never describes a cliff setting; the seven Landscape rooms are free-standing cubes on stilts in birch forest, so treehouse-hotels fits better (borderline).",
   "treehouse_structure": "stilts_among_trees",
   "location": {
@@ -25,7 +25,9 @@
    "'Carved into the riverbank' River Rooms not supported by official site",
    "Locality 'Alnes' not confirmed; official says just outside the village of Valldal",
    "Ratings/review counts and 'best base' superlative unsupported"
-  ]
+  ],
+  "agent_verdict": "move",
+  "editor_note": "Owner decision 2026-11-17: no official source reachable / does not meet the category rule; set to draft with a redirect to the closest category."
  },
  {
   "slug": "manshausen-island-resort-norway",

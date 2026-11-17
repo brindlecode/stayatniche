@@ -49,6 +49,8 @@ nearbyAttractions:
 seo:
   metaTitle: "Ngorongoro Crater Lodge: Safari in Tansania | StayAtNiche"
   metaDescription: "&Beyonds theatralische Lodge am Rand der größten Vulkancaldera der Welt: Big Five ganzjährig, Butlerservice und Panoramablick. Ab 1.400 $ pro Nacht."
+closure:
+  note: "Die Lodge ist wegen eines umfassenden Neubaus geschlossen. Laut ihrer Website soll sie im Dezember 2027 wieder öffnen."
 ---
 
 Der Ngorongoro-Krater ist eine 20 Kilometer breite und 600 Meter tiefe Vulkancaldera, deren Wände seit Jahrtausenden 25.000 Großsäuger dauerhaft beherbergen. Auf dem Kraterboden lebt die höchste Löwendichte Afrikas und eine der letzten überlebensfähigen Spitzmaulnashorn-Populationen des Kontinents. An einem kalten Hochlandmorgen über die Kraterrandstraße in den Nebel hinabzufahren, während der Kraterboden unter Ihnen durch die Wolken auftaucht, ist ein Anblick, der nichts von seiner Kraft verliert, egal wie oft Sie die Fotos schon gesehen haben.

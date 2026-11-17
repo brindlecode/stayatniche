@@ -47,7 +47,7 @@ niche_source_url: "https://transfagarasantreehousevillage.com/en/"
 niche_verified_at: 2026-11-17
 ---
 
-Transfagarasan Treehouse Village is a small settlement of houses suspended in the trees near Arefu, on the Transfăgărășan side of the Făgăraș mountains in Romania. The owners have been working on the project since 2016, and it draws on the Japanese idea of shinrin-yoku, or forest bathing, to offer a refuge in nature in harmony with its surroundings.
+Transfagarasan Treehouse Village is a small settlement of houses suspended in the trees on the Transfăgărășan road (DN7C, km 75) in the Făgăraș mountains of Romania. The owners have been working on the project since 2016, and it draws on the Japanese idea of shinrin-yoku, or forest bathing, to offer a refuge in nature in harmony with its surroundings.
 
 ## The cabins
 
@@ -59,6 +59,6 @@ There is a sauna, and the restaurant is built around a Texas-style smokehouse. C
 
 ## The setting
 
-The forest is the point of the stay. You wake in the canopy, with the mountain landscape around you, and the village is small enough to feel private.
+The forest is the point of the stay. You wake in the middle of the forest, in the heart of the Făgăraș mountains, and the village is small enough to feel private.
 
 The village suits families and anyone planning a drive along the Transfăgărășan road who wants a night in the trees. Ask which cabin type fits your group before you book, since capacities differ.

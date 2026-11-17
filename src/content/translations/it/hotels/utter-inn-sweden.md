@@ -50,6 +50,8 @@ nearbyAttractions:
 seo:
   metaTitle: "Utter Inn: la prima camera subacquea in Svezia | StayAtNiche"
   metaDescription: "Utter Inn, Svezia: dormi 3 metri sotto il lago Mälaren nella prima camera d'albergo subacquea al mondo, una casetta rossa galleggiante nata come opera d'arte."
+closure:
+  note: "L’hotel al momento non è prenotabile, secondo l’ente turistico regionale Visit Västmanland. Non è indicata una data di riapertura."
 ---
 
 Nel 2000 un artista svedese di nome Mikael Genberg ormeggiò una casetta di legno rossa sul lago Mälaren e calò una camera da letto nell'acqua sottostante. All'epoca era una provocazione quanto un progetto: una sfida all'idea di cosa potesse essere un hotel e di fin dove potesse ragionevolmente spingersi l'abitare umano. Venticinque anni dopo, l'Utter Inn (che si traduce più o meno come «la locanda della lontra») resta uno dei concept alberghieri più discussi di sempre.

@@ -1,7 +1,7 @@
 ---
 source: song-saa-cambodia
 destination: "Îles de Koh Ouen et Koh Bong, archipel de Koh Rong, Cambodge"
-description: "Deux îles vierges de l'archipel de Koh Rong, au Cambodge, reliées par une passerelle et entièrement consacrées à un seul resort. Les villas sur pilotis dominent une réserve marine protégée ; les villas de la jungle sont nichées dans la forêt tropicale primaire."
+description: "Deux îles vierges de l'archipel de Koh Rong, au Cambodge, reliées par une passerelle et entièrement consacrées à un seul resort. Les villas sur pilotis dominent une réserve marine protégée ; les villas de la jungle sont nichées dans la végétation locale du littoral."
 highlights:
   - "Un resort qui occupe deux îles entières, fermées aux visiteurs à la journée"
   - "Des villas sur pilotis au-dessus d'une réserve marine protégée"
@@ -44,17 +44,15 @@ nearbyAttractions:
     distance: 20 km
   - name: Parc national de Ream
     distance: 45 km
-  - name: Sihanoukville
-    distance: 35 km en bateau
 seo:
   metaTitle: "Song Saa : île privée au Cambodge | StayAtNiche"
   metaDescription: "Song Saa, deux îles privées de l'archipel de Koh Rong au Cambodge : villas sur pilotis au-dessus d'une réserve marine protégée. À partir de 1 500 $ la nuit."
 ---
 
-Le littoral cambodgien ne reçoit pas l'attention qu'il mérite. L'archipel de Koh Rong, un chapelet d'îles vierges du golfe de Thaïlande situé à environ 35 kilomètres de Sihanoukville, abrite certains des récifs coralliens et des forêts les plus intacts d'Asie du Sud-Est. Song Saa Private Island occupe deux de ses îles les plus petites et les mieux protégées, Koh Ouen et Koh Bong, reliées par une passerelle en bois et entièrement dévolues à un seul resort.
+Le littoral cambodgien ne reçoit pas l'attention qu'il mérite. L'archipel de Koh Rong, un chapelet d'îles vierges du golfe de Thaïlande au large des côtes cambodgiennes, abrite certains des récifs coralliens et des forêts les plus intacts d'Asie du Sud-Est. Song Saa Private Island occupe deux de ses îles les plus petites et les mieux protégées, Koh Ouen et Koh Bong, reliées par une passerelle en bois et entièrement dévolues à un seul resort.
 
-Les villas sur pilotis dominent une réserve marine : avant même l'ouverture, les fondateurs du resort ont obtenu la protection du récif environnant, une décision qui façonne toute l'expérience. Partez en snorkeling depuis votre terrasse le matin, et vous voilà au-dessus d'un corail vivant, dans une eau claire et chaude. Le récif maison abrite des hippocampes, des poissons de récif en abondance et une visibilité que les photographes passent leur carrière à chercher dans des îles plus fréquentées. Un programme de plongée guidée prolonge encore l'exploration, mais c'est le lien immédiat et direct avec le récif depuis votre propre villa qui rend Song Saa véritablement à part.
+Les villas sur pilotis dominent une réserve marine : la fondatrice du resort a travaillé avec les communautés locales à la création de la première aire marine protégée du Cambodge, un engagement qui façonne toute l'expérience. Partez en snorkeling depuis votre terrasse le matin, et vous voilà au-dessus d'un corail vivant, dans une eau claire et chaude. Le récif maison abrite des hippocampes, des poissons de récif en abondance et une visibilité que les photographes passent leur carrière à chercher dans des îles plus fréquentées. Un programme de plongée guidée prolonge encore l'exploration, mais c'est le lien immédiat et direct avec le récif depuis votre propre villa qui rend Song Saa véritablement à part.
 
-Côté forêt, les villas de la jungle sont nichées dans la végétation tropicale primaire, où le chant des oiseaux de l'île remplace la bande-son habituelle des resorts. L'architecture fait partout appel à du bois de récupération et à des matériaux cambodgiens, dans un esprit de retenue soigneuse : les îles font le travail, les bâtiments ne cherchent pas à rivaliser. La formule tout compris puise dans les techniques et les produits cambodgiens : produits de la mer tout juste pêchés et simplement préparés, currys khmers à base de pâtes maison, fruits tropicaux frais à chaque repas.
+Song Saa compte 24 villas au total, de plusieurs types dont des villas de la jungle, des villas vue sur l'océan et des villas sur pilotis. Les villas de la jungle sont nichées dans la végétation locale du littoral, où le chant des oiseaux de l'île remplace la bande-son habituelle des resorts. L'architecture fait partout appel à du bois de récupération et à des matériaux cambodgiens, dans un esprit de retenue soigneuse : les îles font le travail, les bâtiments ne cherchent pas à rivaliser. La formule tout compris puise dans les techniques et les produits cambodgiens : produits de la mer tout juste pêchés et simplement préparés, currys khmers à base de pâtes maison, fruits tropicaux frais à chaque repas.
 
 Le programme de conservation est ici actif, pas décoratif. Les travaux de restauration des coraux se poursuivent, la gestion des déchets plastiques s'étend aux eaux environnantes, et le resort emploie du personnel cambodgien issu des communautés du continent, avec un programme de formation aux effets mesurables sur les revenus des foyers de la région. Pour un certain type de voyageur — celui qui trouve le tourisme balnéaire d'Asie du Sud-Est trop bétonné sur le plan esthétique et trop peu réfléchi sur le plan éthique —, Song Saa offre une autre proposition. Les îles sont protégées, le récif est intact, et séjourner ici contribue directement à l'un comme à l'autre.

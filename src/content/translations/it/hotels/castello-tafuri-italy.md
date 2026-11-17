@@ -19,6 +19,7 @@ bestFor:
 seo:
   metaTitle: "Castello Tafuri: hotel castello Sicilia | StayAtNiche"
   metaDescription: "Castello Tafuri a Portopalo di Capo Passero: castello con diciotto camere e suite, una piscina panoramica e vista sulla storica tonnara e sul mare."
+niche_note: "Il Castello Tafuri non è un castello medievale: è una villa a forma di castello, progettata nel 1933, iniziata nel 1935 e hotel dal 1964."
 ---
 
 Castello Tafuri sorge a Portopalo di Capo Passero, all'estremo sud-est della Sicilia, ed è stato trasformato in un piccolo hotel di diciotto camere e suite. Il castello è una dimora fortificata, merlata, che domina il mare sottostante, e ne ha conservato i merli: alcune suite hanno balconi collocati tra un merlo e l'altro.

@@ -26,7 +26,7 @@ Walworth Castle est un bâtiment classé Grade I, aux origines remontant au XIIe
 
 ## Les chambres
 
-Le château propose une large gamme de chambres, aussi bien à l'intérieur du château que dans d'autres bâtiments du domaine. Les chambres du château disposent de lits jumeaux ou de lits doubles et se trouvent dans le bâtiment principal. Les plus spacieuses sont les suites à baldaquin, très grandes, dont certaines occupent les tours du château. La plus célèbre est la King James Suite : le roi Jacques VI d'Écosse est attesté dans les pièces qui forment aujourd'hui la suite, le 14 avril 1603. Une rénovation des chambres est en cours, si bien que certaines affichent un décor neuf tout en conservant leur caractère propre.
+Toutes les chambres ne sont pas dans le château principal. Les chambres de l'annexe, avec lits doubles ou jumeaux, se trouvent dans un bâtiment attenant au château ; le Walworth Castle Lodge, à l'entrée de l'hôtel, accueille six personnes ; et il existe un Holiday Cottage séparé de deux chambres. Les chambres du château disposent de lits jumeaux ou de lits doubles et se trouvent dans le bâtiment principal. Les plus spacieuses sont les suites à baldaquin, très grandes, dont certaines occupent les tours du château. La plus célèbre est la King James Suite : le roi Jacques VI d'Écosse est attesté dans les pièces qui forment aujourd'hui la suite, le 14 avril 1603. Une rénovation des chambres est en cours, si bien que certaines affichent un décor neuf tout en conservant leur caractère propre.
 
 ## Restauration et boissons
 

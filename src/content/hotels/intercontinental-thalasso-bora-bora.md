@@ -53,6 +53,10 @@ niche_scope: entire_property
 niche_feature: "Official site lists only overwater villa types (beach, lagoon, island, Otemanu view, pool villas, Teremoana). But the resort closed 1 June 2026 for full renovation; trade press (not official) says reopening late 2027 as a Regent."
 niche_source_url: "https://thalasso.intercontinental.com/?p=77"
 niche_verified_at: 2026-11-17
+closure:
+  note: "The resort closed on 1 June 2026 for a complete renovation. The resort's website gives no reopening date."
+  source_url: "https://thalasso.intercontinental.com/?p=77"
+  checked_at: 2026-11-17
 ---
 
 The InterContinental Bora Bora Resort and Thalasso Spa holds the most exposed and dramatic position of any overwater resort on the island. It sits on the outer reef itself — Motu Piti Aau, a small coral island at the southern end of Bora Bora's barrier reef. From here, the lagoon spreads northward in a panorama that takes in the full silhouette of Mount Otemanu and Mount Pahia rising from the main island, the water shifting between near-turquoise and near-sapphire depending on the angle of the light.

@@ -1,7 +1,7 @@
 ---
 source: mt-matutum-domesville-glamping-philippines
 destination: "Tupi, South Cotabato"
-description: "Glampingterrein met geodetische koepels in South Cotabato, afgezonderd van het activiteitengebied, met uitzicht op een ananasplantage en sterrenkijken vanuit de koepels."
+description: "Glampingterrein met geodetische koepels, plus een casita, een villa, een casa en een kampeertent, in South Cotabato, afgezonderd van het activiteitengebied, met uitzicht op een ananasplantage en sterrenkijken vanuit de koepels."
 highlights:
   - "Glamping-accommodatie in geodetische koepels in Tupi, South Cotabato"
   - "Koepels afgezonderd van het activiteitengebied, geschikt voor stellen"
@@ -16,11 +16,11 @@ seo:
   metaDescription: "Glampingkoepels in Tupi, South Cotabato: afgezonderd van het activiteitengebied, uitzicht op een ananasplantage, ontbijt voor twee en sterrenhemel."
 ---
 
-Mt. Matutum DomesVille Glamping is een verblijf in kampeerstijl in Tupi, South Cotabato, op de Filipijnen, waar de accommodatie uit een aantal koepels bestaat in plaats van hotelkamers. De exploitant noemt de koepels eigenzinnige en uitstekende kampeeraccommodaties, ontworpen om veel comfort te bieden in de buitenlucht.
+Mt. Matutum DomesVille Glamping is een verblijf in kampeerstijl in Tupi, South Cotabato, op de Filipijnen, waar de accommodatie vooral uit een aantal koepels bestaat in plaats van hotelkamers. De exploitant noemt de koepels eigenzinnige en uitstekende kampeeraccommodaties, ontworpen om veel comfort te bieden in de buitenlucht.
 
 ## De koepels
 
-De units zijn geodetische koepels en staan los van het activiteitengebied. Juist die afzondering is de troef voor stellen die rust zoeken, want de koepels liggen buiten het bereik van de rest van het terrein. Het terrein belooft onbeperkt sterrenkijken voor jou en je partner. De koepels zijn de grote troef, en alleen de koepels maken het bijzonder: dit is een glampingterrein, geen hotel met één bubbelkamer.
+De units zijn geodetische koepels en staan los van het activiteitengebied. Juist die afzondering is de troef voor stellen die rust zoeken, want de koepels liggen buiten het bereik van de rest van het terrein. Het terrein belooft onbeperkt sterrenkijken voor jou en je partner. De koepels zijn de grote troef, maar niet de enige optie: de reserveringspagina vermeldt ook Casita Adrylle, Villa Carliane, Casa del Juancio en een kampeertent. Dit is een glampingterrein, geen hotel met één bubbelkamer.
 
 ## De omgeving
 

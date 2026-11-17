@@ -49,6 +49,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Nihi Sumba: resort di lusso e surf a Sumba | StayAtNiche"
   metaDescription: "Nihi Sumba: 28 ville su una tenuta privata di 567 acri a Sumba, accesso esclusivo all'onda di Occy's Left e una fondazione contro la malaria. Da 1.200 $."
+niche_badge: "Una sola villa"
 ---
 
 Sumba non è Bali. L'isola si trova 350 chilometri più a est, nell'arcipelago delle Piccole Isole della Sonda, e quasi nulla la accomuna al modello di turismo indonesiano che ha reso Bali famosa nel mondo. Qui il paesaggio è fatto di savana arida, villaggi dove si tesse l'ikat e tombe megalitiche in pietra, con una costa sud-occidentale che l'Oceano Indiano ha modellato senza ostacoli da molto prima che qualcuno si mettesse a misurare le onde. Nihi Sumba occupa 567 acri di questa costa, e il fatto che per diversi anni consecutivi i lettori di Travel + Leisure l'abbiano votato miglior hotel del mondo dice qualcosa di preciso su ciò che una certa categoria di viaggiatori apprezza di più.

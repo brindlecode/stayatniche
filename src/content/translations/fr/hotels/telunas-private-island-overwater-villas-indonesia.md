@@ -16,7 +16,7 @@ bestFor:
   - "Familles"
   - "Couples"
 seo:
-  metaTitle: "Telunas Private Island : villas sur pilotis | StayAtNiche"
+  metaTitle: "Telunas Private Island : Overwater Villas | StayAtNiche"
   metaDescription: "Telunas Private Island : 15 Overwater Villas sur une île privée des îles Riau, à 50 km de Singapour, et cinq Ridge Villas réservées aux adultes."
 ---
 

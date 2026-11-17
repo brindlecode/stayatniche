@@ -28,7 +28,7 @@ officialWebsite: "https://www.machupicchuecolodge.com"
 sourceId: "osm:node/9133818528"
 verifiedAt: 2026-10-12
 publishedDate: 2026-10-12
-status: published
+status: draft
 location:
   country: "Peru"
   countryCode: "PE"

@@ -1,9 +1,9 @@
 ---
 source: tulloch-castle-hotel-united-kingdom
 destination: "Dingwall, Highland, Schotland"
-description: "Kasteelhotel uit de 12e eeuw in Dingwall, met 22 kamers met eigen badkamer, een 250 jaar oude betimmerde grote hal en gerestaureerde originele haarden en plafonds."
+description: "Kasteelhotel in Dingwall, door het hotel gedateerd op de 12e eeuw, met 22 kamers met eigen badkamer, een 250 jaar oude betimmerde grote hal en gerestaureerde originele haarden en plafonds."
 highlights:
-  - "Kasteel uit de 12e eeuw"
+  - "Kasteel dat het hotel in de 12e eeuw plaatst"
   - "22 kamers met eigen badkamer, elk met een eigen karakter"
   - "250 jaar oude betimmerde grote hal"
   - "Gerestaureerde originele haarden en plafonds"
@@ -18,10 +18,10 @@ bestFor:
   - "Bruiloften en evenementen"
 seo:
   metaTitle: "Tulloch Castle Hotel: kasteelhotel in Dingwall | StayAtNiche"
-  metaDescription: "Tulloch Castle Hotel in Dingwall: kasteel uit de 12e eeuw met 22 kamers, betimmerde grote hal en hondvriendelijke kamers, in de Schotse Highlands."
+  metaDescription: "Tulloch Castle Hotel in Dingwall: kasteelhotel met 22 kamers, betimmerde grote hal en hondvriendelijke kamers, in de Schotse Highlands."
 ---
 
-Tulloch Castle dateert uit de 12e eeuw, toen de familie Bain en later de Clan Davidson aanspraak maakten op het land. Het lot van het kasteel is sindsdien vaak veranderd, en nu is het een hotel in Dingwall, in de Schotse Highlands. Vroeger kon alleen de laird of het clanhoofd in zo'n Highland-kasteel logeren; tegenwoordig kan iedereen een kamer boeken.
+Het hotel dateert Tulloch Castle uit de 12e eeuw, toen de familie Bain en later de Clan Davidson aanspraak maakten op het land; volgens Wikipedia dateert het kasteel waarschijnlijk uit minstens de late 14e eeuw. In 1845 raakte het beschadigd door brand en in 1891 werd het uitgebreid. Het lot van het kasteel is sindsdien vaak veranderd, en nu is het een hotel in Dingwall, in de Schotse Highlands. Vroeger kon alleen de laird of het clanhoofd in zo'n Highland-kasteel logeren; tegenwoordig kan iedereen een kamer boeken.
 
 ## Het kasteel
 

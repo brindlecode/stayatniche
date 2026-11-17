@@ -40,6 +40,7 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Wadi+Rum,+Aqaba+Governorate"
     label: "Find Tours on Klook"
+status: draft
 location:
   country: "Jordan"
   countryCode: "JO"

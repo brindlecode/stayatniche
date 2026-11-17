@@ -50,6 +50,8 @@ nearbyAttractions:
 seo:
   metaTitle: "Utter Inn: onderwaterkamer in een Zweeds meer | StayAtNiche"
   metaDescription: "Slapen 3 meter onder het Mälarmeer in de allereerste onderwaterhotelkamer ter wereld: Utter Inn, een rood Zweeds huisje met een slaapkamer onder water."
+closure:
+  note: "Het hotel is momenteel niet te boeken, volgens het regionale toeristenbureau Visit Västmanland. Er wordt geen heropeningsdatum genoemd."
 ---
 
 In 2000 legde de Zweedse kunstenaar Mikael Genberg een rood houten huisje voor anker op het Mälarmeer en liet er een slaapkamer onder in het water zakken. Het was destijds net zo goed een provocatie als een project: een uitdaging aan het idee van wat een hotel kan zijn en hoe ver menselijke bewoning redelijkerwijs kan reiken. Vijfentwintig jaar later is Utter Inn (vrij vertaald 'De Otterherberg') nog altijd een van de meest besproken hotelconcepten ooit.

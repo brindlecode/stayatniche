@@ -20,7 +20,7 @@ seo:
   metaDescription: "Göreme Valley Cave House in Göreme: Gästehaus mit drei Höhlenzimmern sowie Standard-, Familien- und Suitenzimmern, WLAN und Flughafentransfer nach Voranmeldung."
 ---
 
-Das Göreme Valley Cave House nennt sich selbst „Ihr Zuhause fern der Heimat“ und ist eher ein Gästehaus als ein großes Hotel. Der Höhlenanteil ist nur teilweise: Laut offizieller Website gibt es drei unterirdische Höhlenzimmer neben Standard-, Familien- und Suitenzimmern. Die meisten Zimmer sind also konventionell.
+Das Göreme Valley Cave House nennt sich selbst „Ihr Zuhause fern der Heimat“ und ist eher ein Gästehaus als ein großes Hotel. Der Höhlenanteil ist nur teilweise: Laut offizieller Website gibt es drei unterirdische Höhlenzimmer neben Standard-, Familien- und Suitenzimmern. Die meisten Zimmer sind also konventionell. Die Website nennt insgesamt 17 Zimmer (3 Standard-, 3 Höhlen-, 5 Familien- und 6 Suitenzimmer) und gibt an, dass das Gästehaus nur 60 Personen gleichzeitig beherbergt.
 
 ## Die Zimmer
 

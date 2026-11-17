@@ -26,7 +26,7 @@ Walworth Castle is een beschermd monument (Grade I) met wortels in de 12e eeuw, 
 
 ## De kamers
 
-Het kasteel biedt een ruime keuze aan kamers, zowel in het kasteel zelf als elders op het terrein. De kasteelkamers hebben twee aparte bedden of een tweepersoonsbed en liggen in het hoofdgebouw. De grootste zijn de hemelbedsuites, die extra ruim zijn; sommige daarvan bevinden zich in de torens van het kasteel. De bekendste is de King James Suite. Er is vastgelegd dat koning Jacobus VI van Schotland op 14 april 1603 verbleef in wat nu de suite is. Er wordt gerenoveerd, waardoor sommige kamers er fris uitzien zonder hun eigen karakter te verliezen.
+Niet elke kamer ligt in het hoofdkasteel. De annexkamers met twee aparte bedden of een tweepersoonsbed zijn ondergebracht in een aangrenzend gebouw naast het kasteel; Walworth Castle Lodge bij de ingang van het hotel biedt plaats aan zes gasten; en er is een apart Holiday Cottage met twee slaapkamers. De kasteelkamers hebben twee aparte bedden of een tweepersoonsbed en liggen in het hoofdgebouw. De grootste zijn de hemelbedsuites, die extra ruim zijn; sommige daarvan bevinden zich in de torens van het kasteel. De bekendste is de King James Suite. Er is vastgelegd dat koning Jacobus VI van Schotland op 14 april 1603 verbleef in wat nu de suite is. Er wordt gerenoveerd, waardoor sommige kamers er fris uitzien zonder hun eigen karakter te verliezen.
 
 ## Eten en drinken
 

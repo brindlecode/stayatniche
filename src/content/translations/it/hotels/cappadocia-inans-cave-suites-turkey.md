@@ -1,10 +1,10 @@
 ---
 source: cappadocia-inans-cave-suites-turkey
 destination: "Nevşehir, Cappadocia"
-description: "Un piccolo hotel con dieci suite ricavate nella roccia in Cappadocia, con piscina riscaldata scavata nella grotta. La struttura descrive i suoi interni come ricchi di decorazioni storiche e culturali."
+description: "Un piccolo hotel con dieci suite in grotta in Cappadocia, con una piscina riscaldata che l’hotel definisce piscina in grotta. La struttura descrive i suoi interni come ricchi di decorazioni storiche e culturali."
 highlights:
   - "Dieci camere, ciascuna descritta come una suite in grotta curata nei dettagli"
-  - "Piscina riscaldata realizzata come piscina in grotta"
+  - "Piscina riscaldata che l’hotel definisce piscina in grotta"
   - "Decorazioni storiche e culturali in tutta la struttura"
   - "Colazione a buffet con prodotti tipici locali"
   - "Trasferimento privato o condiviso dall’aeroporto di Nevşehir"
@@ -19,18 +19,18 @@ bestFor:
   - "Amanti delle piccole strutture"
 seo:
   metaTitle: "Cappadocia Inans Cave Suites: hotel in grotta | StayAtNiche"
-  metaDescription: "Cappadocia Inans Cave Suites a Nevşehir: dieci suite in grotta con piscina riscaldata nella roccia, colazione a buffet e trasferimento dall’aeroporto."
+  metaDescription: "Cappadocia Inans Cave Suites a Nevşehir: dieci suite in grotta con piscina riscaldata in grotta, colazione a buffet e trasferimento dall’aeroporto."
 ---
 
-Cappadocia Inans Cave Suites è un piccolo hotel di Nevşehir, dove l’ospitalità ruota attorno alle camere ricavate nella roccia. La struttura ha dieci camere, ciascuna arredata con cura, e il sito le elenca per numero: dalla 101 alla 104, dalla 201 alla 203, la 302, la 401 e la 402. L’hotel presenta l’intero complesso come alloggio in grotta, e non come un albergo con una o due camere a tema.
+Cappadocia Inans Cave Suites è un piccolo hotel nel villaggio di Nar, a Nevşehir (Çavuş Sokak No:8, 50130 Nar), dove l’ospitalità ruota attorno alle camere in grotta. La struttura ha dieci camere, ciascuna arredata con cura, e il sito le elenca per numero: dalla 101 alla 104, dalla 201 alla 203, la 302, la 401 e la 402. L’hotel presenta l’intero complesso come alloggio in grotta, e non come un albergo con una o due camere a tema.
 
 ## Le camere
 
-Le camere sono proposte come suite in grotta e il sito sottolinea l’arredamento storico e culturale. Aspettati quindi arredi scelti per dialogare con la roccia scavata, più che un look da hotel standard. Ogni camera ha un bollitore, e tè e caffè sono gratuiti.
+Le camere sono proposte come suite in grotta e il sito sottolinea l’arredamento storico e culturale. Il sito le chiama camere in grotta, ma non dice se siano scavate nella roccia. Ogni camera ha un bollitore, e tè e caffè sono gratuiti.
 
 ## La piscina in grotta
 
-Il punto di forza su cui punta l’hotel è una piscina riscaldata, descritta come piscina in grotta. È un dettaglio insolito anche in una regione piena di strutture scavate nella roccia, ed è il motivo principale per scegliere Inans invece di una semplice camera in grotta altrove. Se viaggi al di fuori dell’estate, informati se la piscina è aperta.
+Il punto di forza su cui punta l’hotel è una piscina riscaldata, descritta come piscina in grotta. È un tratto distintivo ed è il motivo principale per scegliere Inans invece di una semplice camera in grotta altrove. Se viaggi al di fuori dell’estate, informati se la piscina è aperta.
 
 ## Ristorazione ed extra
 

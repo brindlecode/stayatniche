@@ -1,9 +1,9 @@
 ---
 source: thulhagiri-island-resort-maldives
 destination: "Atollo di Malé Nord"
-description: "Un piccolo resort su un'isola nell'Atollo di Malé Nord, a circa 20 minuti di motoscafo dall'aeroporto, dove 17 camere sono bungalow sull’acqua costruiti sulla laguna."
+description: "Un piccolo resort su un'isola nell'Atollo di Malé Nord, a circa 20 minuti di motoscafo dall'aeroporto, con 37 bungalow sull’acqua (17 Water Bungalow e 20 Superior Water Bungalow) sulla laguna e 50 bungalow sulla spiaggia."
 highlights:
-  - "17 bungalow sull’acqua costruiti sulla laguna"
+  - "37 bungalow sull’acqua sulla laguna (17 standard, 20 superior)"
   - "Vista sull’oceano dai bungalow superiori"
   - "Barriera corallina privata per lo snorkeling"
   - "Circa 20 minuti di motoscafo dall’aeroporto di Malé"
@@ -15,10 +15,10 @@ bestFor:
   - "Amanti dello snorkeling"
 seo:
   metaTitle: "Thulhagiri: bungalow sull’acqua alle Maldive | StayAtNiche"
-  metaDescription: "Thulhagiri Island Resort and Spa a Malé Nord: 17 bungalow sull’acqua sulla laguna, barriera privata per lo snorkeling e 20 minuti di motoscafo dall’aeroporto."
+  metaDescription: "Thulhagiri Island Resort and Spa a Malé Nord: 37 bungalow sull’acqua sulla laguna, barriera privata per lo snorkeling e 20 minuti di motoscafo dall’aeroporto."
 ---
 
-Thulhagiri Island Resort and Spa è un piccolo resort su un’isola nell’Atollo di Malé Nord, alle Maldive. Diciassette delle sue camere sono bungalow sull’acqua costruiti sulla laguna, quindi solo una parte del resort si trova sull’acqua; il resto delle sistemazioni comprende ville sulla spiaggia con docce all’aperto.
+Thulhagiri Island Resort and Spa è un piccolo resort su un’isola nell’Atollo di Malé Nord, alle Maldive. Trentasette delle sue camere sono bungalow sull’acqua sulla laguna (17 Water Bungalow e 20 Superior Water Bungalow), quindi solo una parte del resort si trova sull’acqua; il resto delle sistemazioni è costituito da 50 bungalow sulla spiaggia Standard Deluxe (ville sulla spiaggia) con docce all’aperto.
 
 ## Sopra la laguna
 

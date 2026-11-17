@@ -1,16 +1,16 @@
 ---
 source: rovos-rail-south-africa
 destination: "Da Pretoria a Città del Capo (e oltre)"
-description: "Treno di lusso privato, Rovos Rail fa viaggiare carrozze d'epoca di proprietà privata, ciascuna restaurata secondo le specifiche originali, lungo le rotte più spettacolari dell'Africa australe. Il viaggio da Pretoria a Città del Capo attraversa il Karoo; l'epopea dal Capo al Cairo dura due settimane. Servizio e comfort reggono il confronto con quelli di molti hotel a cinque stelle."
+description: "Treno di lusso privato, Rovos Rail fa viaggiare carrozze d'epoca di proprietà privata, ciascuna restaurata secondo le specifiche originali, lungo rotte dell'Africa australe. Il viaggio da Pretoria a Città del Capo attraversa il Karoo; quello da Città del Capo a Dar es Salaam dura 15 notti."
 highlights:
-  - "Acclamato come uno dei grandi treni di lusso del mondo"
+  - "Treno di lusso privato con base a Pretoria, con viaggi di più notti nell'Africa australe"
   - "Gestito direttamente dal proprietario: non un prodotto aziendale ma un progetto nato da una passione personale"
   - "Il viaggio da Pretoria a Città del Capo attraverso il Karoo, uno dei grandi paesaggi d'Africa"
   - "Carrozza panoramica in coda al treno per ammirare il paesaggio all'aria aperta"
   - "Eccezionali cene di più portate con vini sudafricani"
-  - "Viaggi epici di più settimane, tra cui Pretoria–Dar es Salaam"
+  - "Viaggi lunghi, tra cui Città del Capo–Dar es Salaam (15 notti)"
 amenities:
-  - "Suite Royal, Deluxe e Pullman, alcune con bagno privato e salottino"
+  - "Suite Royal, Deluxe e Pullman, tutte con bagno privato"
   - "Carrozza panoramica all'aperto"
   - "Vagone ristorante con pasti di più portate e vini sudafricani"
   - "Carrozza lounge per socializzare"
@@ -36,7 +36,7 @@ prosAndCons:
 seasonalInfo:
   bestTime: Tutto l'anno per la rotta di Città del Capo; stagione secca per le rotte dell'Africa orientale
   peakSeason: Estate australe (dicembre–gennaio) e inverno (giugno–agosto), i periodi di maggiore richiesta
-  notes: "La rotta di punta Pretoria–Città del Capo è operativa tutto l'anno ed è spettacolare in ogni stagione. Il paesaggio del Karoo è suggestivo tanto con le gelate invernali quanto con il caldo estivo, e l'arrivo tra le Cape Winelands è sempre un piacere. Per le rotte dell'Africa orientale conviene evitare le grandi piogge. La leggendaria rotta dal Capo al Cairo è un viaggio di più settimane da fare una volta nella vita."
+  notes: "La rotta di punta Pretoria–Città del Capo è operativa tutto l'anno ed è spettacolare in ogni stagione. Il paesaggio del Karoo è suggestivo tanto con le gelate invernali quanto con il caldo estivo, e l'arrivo tra le Cape Winelands è sempre un piacere. Per le rotte dell'Africa orientale conviene evitare le grandi piogge. La rotta da Città del Capo a Dar es Salaam è un viaggio di 15 notti."
 nearbyAttractions:
   - name: Pretoria (partenza)
     distance: Punto di partenza
@@ -51,9 +51,9 @@ seo:
   metaDescription: "Rovos Rail: carrozze d'epoca da Pretoria a Città del Capo attraverso il Karoo, carrozza panoramica aperta, cucina eccellente e servizio impeccabile. Da 2.800 $."
 ---
 
-Rovos Rail non è un'azienda nel senso in cui lo è la maggior parte delle realtà del turismo di lusso. È una passione trasformata in materiale rotabile. Rohan Vos cominciò ad acquistare e restaurare carrozze ferroviarie d'epoca negli anni Ottanta come progetto personale, un modo per salvare le magnifiche vetture dell'età d'oro della ferrovia nell'Africa australe, che venivano rottamate man mano che le reti ferroviarie del continente si ridimensionavano. Quella che era nata come l'ossessione di un collezionista è diventata, in quarant'anni, uno dei treni di lusso a gestione privata più noti al mondo.
+Rovos Rail non è un'azienda nel senso in cui lo è la maggior parte delle realtà del turismo di lusso. È una passione trasformata in materiale rotabile. Rohan Vos cominciò ad acquistare e restaurare carrozze ferroviarie d'epoca negli anni Ottanta come progetto personale, un modo per salvare le magnifiche vetture dell'età d'oro della ferrovia nell'Africa australe, che venivano rottamate man mano che le reti ferroviarie del continente si ridimensionavano. Quella che era nata come l'ossessione di un collezionista è diventata, in quarant'anni, un treno di lusso a gestione privata che viaggia con orari regolari nell'Africa australe.
 
-Le carrozze sono autentiche: vetture di epoca vittoriana riconvertite dal loro uso originale, o vagoni letto dei primi del Novecento costruiti per l'Union Limited e altri servizi prestigiosi dell'era ferroviaria dell'Impero britannico, ciascuno restaurato con straordinaria fedeltà al carattere del suo tempo. Pannelli in teak, finiture in ottone, finestrini originali adattati per l'aria condizionata e la sicurezza, e bagni privati dove un tempo c'erano i lavabi dei wagon-lits. Le Royal Suite — 16 metri quadrati di scompartimento privato con letto di dimensioni normali, divano, bagno e finestrini su tre lati — offrono uno standard di spazio e privacy che nessun treno paragonabile può eguagliare.
+Le carrozze sono vetture d'epoca restaurate: il treno è composto da carrozze restaurate delle National Railways of Zimbabwe (NRZ), con due salotti, due carrozze ristorante e scompartimenti letto privati, ciascuno con servizi privati. Esistono tre tipi di sistemazione: la più piccola è la Pullman, di 76 piedi quadrati, la più grande la Royal Suite, mezza carrozza di 172 piedi quadrati (circa 16 metri quadrati). Tutte hanno doccia, lavabo e WC privati, e la Royal Suite ha anche una vasca da bagno in stile vittoriano.
 
 La carrozza panoramica, agganciata in coda al treno, è ciò che più di ogni altra cosa lascia i passeggeri a bocca aperta: una piattaforma all'aperto dove si sta in piedi a guardare il paesaggio africano allontanarsi alle proprie spalle, senza vetri di mezzo, abbastanza vicini ai binari da sentire il calore e i suoni del Karoo, senza nulla tra sé e il continente. Al mattino presto, quando l'aria è fredda e le colline dalla cima piatta del Karoo catturano la prima luce radente, è un punto di osservazione che solo una piattaforma aperta può offrire.
 
@@ -61,4 +61,4 @@ Il vagone ristorante funziona con un servizio formale alla francese, del tutto c
 
 In alcune fermate sono incluse escursioni a terra: le miniere di diamanti di Kimberley, la straordinaria capsula del tempo della cultura coloniale vittoriana di Matjiesfontein, le Cape Winelands alla fine del viaggio. Ma la vera meta è il treno stesso: il suono della locomotiva a vapore (sui tratti storici), il ritmo dei binari, la lenta rivelazione di un continente attraverso il vetro e l'aria aperta.
 
-La rotta dal Capo al Cairo (15 giorni attraverso Zimbabwe, Zambia, Tanzania e Kenya) è il viaggio a cui puntare. Ha pochissimi rivali, in qualsiasi forma di viaggio.
+La rotta da Città del Capo a Dar es Salaam (15 notti) è il viaggio a cui puntare.

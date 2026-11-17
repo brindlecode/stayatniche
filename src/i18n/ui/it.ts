@@ -126,6 +126,7 @@ const it: typeof en = {
     around: (place: string) => `Dintorni di ${place}`,
     save: (name: string) => `Salva ${name}`,
     scoreTitle: 'Voto della redazione su 10 (nostra valutazione, non recensioni degli ospiti)',
+    onlySome: 'Solo alcune camere',
     from: 'Da',
     perNight: '/ notte',
     seeRates: 'Vedi le tariffe',
@@ -173,6 +174,7 @@ const it: typeof en = {
     metaTitle: (name: string, dest: string) => `${name} — ${dest} | StayAtNiche`,
     categories: 'Categorie',
     editorScore: 'voto della redazione',
+    closure: { title: 'Temporaneamente chiuso', checked: (date: string) => `Verificato il ${date}` },
     niche: {
       specific_rooms: (cat: string) => `Solo alcune camere rientrano nella nostra categoria «${cat}»; le altre sono camere standard.`,
       experience_only: (cat: string) => `L’elemento «${cat}» qui è qualcosa da visitare o fare, non il luogo in cui si dorme.`,
