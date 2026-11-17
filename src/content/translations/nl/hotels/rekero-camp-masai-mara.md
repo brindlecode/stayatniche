@@ -1,7 +1,7 @@
 ---
 source: rekero-camp-masai-mara
 destination: "Masai Mara National Reserve, Rift Valley"
-description: "Rekero is een klassiek tentenkamp in een bosje vijgenbomen aan de oever van de Talek-rivier, midden in de Masai Mara. Het wordt uitgebaat door de Governors' Camp-groep, met de nadruk op een authentieke bushbeleving, deskundige Maasai-gidsen en het vaste wild van een van de bekendste wildreservaten van Kenia. Door de ligging in het reservaat zit je dicht bij de beste plekken om de Grote Trek te zien."
+description: "Rekero is een klassiek tentenkamp tussen de bomen aan de oever van de Talek-rivier, midden in de Masai Mara. Het wordt uitgebaat door Asilia Africa, met de nadruk op een authentieke bushbeleving, deskundige Maasai-gidsen en het vaste wild van een van de bekendste wildreservaten van Kenia. Door de ligging in het reservaat zit je dicht bij de beste plekken om de Grote Trek te zien."
 highlights:
   - "Uitzonderlijke rivieroversteken van de Grote Trek bij de Mara-rivier (juli–oktober)"
   - "Vaste leeuwentroepen, cheetafamilies en luipaarden op de vlaktes van de Mara"
@@ -36,7 +36,7 @@ prosAndCons:
 seasonalInfo:
   bestTime: Juli tot oktober voor de Grote Trek; januari tot februari voor het kalfseizoen in het zuiden
   peakSeason: Augustus tot september (hoogseizoen van de rivieroversteken)
-  notes: De Masai Mara is het hele jaar schitterend, want het vaste wild, leeuw, luipaard, cheeta, olifant en buffel, is er in alle seizoenen. De Grote Trek vanuit de Serengeti komt vanaf juli aan, wanneer gnoes en zebra's naar het noorden trekken op zoek naar gras; de spectaculaire oversteken van de Mara-rivier vinden vooral in augustus en september plaats. Het groene seizoen (april–juni) biedt een uitstekend vogelleven en bijna lege vlaktes, vaak tegen aanzienlijk lagere tarieven.
+  notes: De Masai Mara is het hele jaar schitterend, want het vaste wild, leeuw, luipaard, cheeta, olifant en buffel, is er in alle seizoenen. De Grote Trek vanuit de Serengeti komt vanaf juli aan, wanneer gnoes en zebra's naar het noorden trekken op zoek naar gras; de spectaculaire oversteken van de Mara-rivier vinden vooral in augustus en september plaats. Het groene seizoen (april–juni) biedt een uitstekend vogelleven en bijna lege vlaktes, vaak tegen aanzienlijk lagere tarieven. Het kamp zelf is in april en mei gesloten en van juni tot maart geopend.
 nearbyAttractions:
   - name: Oversteekplaatsen van de Mara-rivier
     distance: 10 km
@@ -53,9 +53,9 @@ seo:
 
 De open, glooiende graslanden van de Masai Mara, die onder de Oost-Afrikaanse hemel tot aan elke horizon reiken, herbergen uitzonderlijke concentraties grote zoogdieren binnen het bredere Serengeti-ecosysteem. De Mara is daar de Keniaanse, noordelijke uitloper van. Een kamp dat op de juiste plek in het reservaat ligt, betekent dat de dieren direct en voortdurend om je heen zijn, niet iets waar je naartoe moet rijden.
 
-Rekero ligt tussen torenhoge vijgenbomen aan de Talek-rivier. De tien klassieke canvastenten staan langs de oever in de stijl van de grote Oost-Afrikaanse kampen uit het koloniale jachttijdperk, nu volledig in dienst van fotosafari's en natuurobservatie. Door de canvaswanden en het houten frame hoor je de bush om je heen van dichtbij: de territoriale hoest van een luipaard ergens in het donker, de verre contactroepen van een leeuwentroep, de nijlpaarden in de rivier beneden. En door de veranda's boven de rivieroever wordt elke ochtend iets om naar uit te kijken.
+Rekero ligt tussen de bomen aan de Talek-rivier. De negen klassieke safaritenten staan langs de oever in de stijl van de grote Oost-Afrikaanse kampen uit het koloniale jachttijdperk, nu volledig in dienst van fotosafari's en natuurobservatie. Door de canvaswanden en het houten frame hoor je de bush om je heen van dichtbij: de territoriale hoest van een luipaard ergens in het donker, de verre contactroepen van een leeuwentroep, de nijlpaarden in de rivier beneden. En door de veranda's boven de rivieroever wordt elke ochtend iets om naar uit te kijken.
 
-De corridor langs de Talek-rivier is het hele jaar een van de wildrijkste gebieden van de Mara, en het vijgenbosje rond het kamp is een betrouwbaar leefgebied voor luipaarden, die regelmatig vanuit het kamp zelf worden gezien. Op de open vlaktes rond het kamp, die overgaan in de rest van het reservaat, leven vaste cheetafamilies waarvan je de dagelijkse jachttochten urenlang kunt volgen als je voertuig het tempo bijhoudt, en leeuwentroepen waarvan het territorium het kampgebied overlapt, worden door de gidsen betrouwbaar opgespoord.
+De corridor langs de Talek-rivier is het hele jaar een van de wildrijkste gebieden van de Mara, en de bomen rond het kamp vormen leefgebied voor luipaarden, die regelmatig vanuit het kamp zelf worden gezien. Op de open vlaktes rond het kamp, die overgaan in de rest van het reservaat, leven vaste cheetafamilies waarvan je de dagelijkse jachttochten urenlang kunt volgen als je voertuig het tempo bijhoudt, en leeuwentroepen waarvan het territorium het kampgebied overlapt, worden door de gidsen betrouwbaar opgespoord.
 
 Als de Grote Trek tussen juli en oktober vanuit Tanzania arriveert, steken honderdduizenden gnoes en zebra's de Mara-rivier over op de traditionele oversteekplaatsen, en elke sprong in het door krokodillen bewaakte water is een aparte, chaotische rekensom. Door de ligging van Rekero in het reservaat en de kennis van de gidsen over de oversteekplaatsen is dit schouwspel steeds weer bereikbaar, in plaats van een kwestie van geluk en timing.
 
