@@ -198,6 +198,28 @@ describe.skipIf(!existsSync(DIST))('built site', () => {
     });
   });
 
+  describe('/hotels/ index', () => {
+    // Was 777 KB with inline Tailwind classes and icons on every card (2026-11-17); now ~515 KB.
+    const paths = ['/hotels/', '/de/unterkuenfte/', '/fr/hebergements/', '/es/alojamientos/', '/it/alloggi/', '/nl/verblijven/'];
+    it('stays under 600 KB of HTML in every language', () => {
+      for (const p of paths) expect(pages.get(p)!.html.length, p).toBeLessThan(600_000);
+    });
+    it('keeps what the filters, shareable URLs and filter_use need on every card', () => {
+      for (const p of paths) {
+        const html = pages.get(p)!.html;
+        const cards = [...html.matchAll(/<article\b[^>]*\sdata-hotel[\s>][^>]*>/g)].map(m => m[0]);
+        expect(cards.length, p).toBeGreaterThan(100);
+        for (const c of cards) for (const a of ['data-slug', 'data-name', 'data-place', 'data-cat', 'data-cat-name', 'data-rating', 'data-featured']) expect(c, `${p} ${a}`).toContain(a);
+        for (const id of ['id="grid"', 'id="f-q"', 'id="f-price"', 'id="f-sort"', 'id="f-reset"', 'id="f-count"', "track('filter_use'", 'URLSearchParams']) expect(html, `${p} ${id}`).toContain(id);
+      }
+    });
+    it('defines every icon a page uses through <use>', () => {
+      const bad: string[] = [];
+      for (const p of pages.values()) for (const m of p.html.replace(/<!--[\s\S]*?-->/g, "").matchAll(/<use href="#([^"]+)"/g)) if (!p.html.includes(`id="${m[1]}"`)) bad.push(`${p.path}: #${m[1]}`);
+      expect([...new Set(bad)], report([...new Set(bad)])).toEqual([]);
+    });
+  });
+
   describe('structured data', () => {
     const ld = (html: string) => [...html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)].map(m => JSON.parse(m[1]));
     it('is valid JSON with no aggregateRating or review counts', () => {

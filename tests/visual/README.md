@@ -1,7 +1,7 @@
 # Visual baseline
 
-Screenshots of the live site (first four screens) taken on 2026-11-17, before the technical SEO and
-performance work, on mobile (390×844) and desktop (1440×900):
+Screenshots of the live site (first four screens) taken on 2026-11-17, before the /hotels/ size and image
+work (after #63 and #64, which did not change the look), on mobile (390×844) and desktop (1440×900):
 
 | page | file |
 |---|---|
