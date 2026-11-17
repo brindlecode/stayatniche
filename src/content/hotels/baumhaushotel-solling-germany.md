@@ -39,6 +39,8 @@ The hotel lies in the Solling-Vogler nature park, in the heart of the Weserbergl
 
 There are ten treehouses. All of them are heated, they sleep between two and five people, and they can be booked all year round. Each has its own name: Baumtraum, Freiraum, Refugium, Kobel, Rundhaus, Burg, Sternengucker, Sollingblick, Ahletal and Aurora. Breakfast can be added to a booking, up to three days before arrival.
 
+The hotel's own photographs show how the houses differ. One treehouse with a balcony is fixed to a beech, another is reached by a suspension bridge, and four stand together at the edge of the forest. One unit is a modern stilt house on a meadow, with the forest behind it.
+
 ## Tree tents
 
 For guests who want more adventure, there are tree tents. Each one is stretched between three trees, beeches or spruces, and hangs about 1.5 metres above the forest floor. They are a way to experience the woods from the inside.
