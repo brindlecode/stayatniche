@@ -13,7 +13,7 @@
  */
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { loadQueue, saveQueue, publishedHotels, report } from './lib.mjs';
-import { findMatches, newPid } from './identity.mjs';
+import { findMatches, newPid, sameProperty, STRONG } from './identity.mjs';
 
 const DRY = process.argv.includes('--dry');
 const REG = 'data/pipeline/properties.json';
@@ -41,6 +41,16 @@ for (const r of records) { const k = find(r.ref); if (!clusters.has(k)) clusters
 // Existing ids: queue entries carry theirs; pages are looked up in the registry by slug or source id.
 const regBySlug = new Map(), regById = new Map();
 for (const [pid, e] of Object.entries(reg)) { for (const s of e.slugs ?? []) regBySlug.set(s, pid); for (const i of e.ids ?? []) regById.set(i, pid); }
+// A page whose file was renamed (no slug or source id match) is found again by the same rules as a
+// duplicate (same official domain nearby, same distinctive name), against registry entries whose slugs
+// are all gone, so its id survives the rename.
+const pageSlugs = new Set(pages.map(p => p.slug));
+const orphans = Object.entries(reg).filter(([, e]) => (e.slugs ?? []).length && e.slugs.every(s => !pageSlugs.has(s)));
+const recovered = new Map();
+for (const r of records.filter(r => r.kind === 'page' && !regBySlug.has(r.slug) && !(r.sourceId && regById.has(r.sourceId)))) {
+  const hit = orphans.find(([pid, e]) => !recovered.has(pid) && STRONG.has(sameProperty(r, { name: e.name, lat: e.lat, lng: e.lng, domain: e.domain })));
+  if (hit) recovered.set(hit[0], r.slug), regBySlug.set(r.slug, hit[0]);
+}
 const existingPid = (r) => r.kind === 'page' ? (regBySlug.get(r.slug) ?? (r.sourceId && regById.get(r.sourceId)) ?? null) : (r.c.pid ?? regById.get(r.id) ?? null);
 
 const conf = (r) => r.c?.haiku?.confidence ?? 0;
@@ -66,7 +76,8 @@ for (const members of clusters.values()) {
         r.c.pid = pid;
       }
     }
-    const e = newReg[pid] ?? { name: g[0].name, slugs: [], ids: [], domain: null };
+    const lead = g.find(r => r.kind === 'page') ?? g[0];
+    const e = newReg[pid] ?? { name: lead.name, slugs: [], ids: [], domain: null, lat: isNaN(lead.lat) ? null : lead.lat ?? null, lng: isNaN(lead.lng) ? null : lead.lng ?? null };
     for (const r of g) {
       if (r.kind === 'page') e.slugs.push(r.slug);
       if (r.sourceId) e.ids.push(r.sourceId);
