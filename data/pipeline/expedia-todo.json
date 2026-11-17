@@ -1,0 +1,482 @@
+[
+ {
+  "id": "osm:node/5484451598",
+  "name": "Iglu-Dorf Zugspitze",
+  "town": "Garmisch-Partenkirchen",
+  "region": "Bavaria",
+  "country": "Germany",
+  "website": "https://www.iglu-dorf.com/de/standort/zugspitze"
+ },
+ {
+  "id": "osm:way/171606064",
+  "name": "Botel",
+  "town": "Amsterdam",
+  "region": "North Holland",
+  "country": "Netherlands",
+  "website": "https://www.botel.nl/nl"
+ },
+ {
+  "id": "osm:way/392681213",
+  "name": "The Boatel",
+  "town": "Gent",
+  "region": "East Flanders",
+  "country": "Belgium",
+  "website": "https://www.theboatel.com/"
+ },
+ {
+  "id": "osm:node/11013400528",
+  "name": "clifftop cabins",
+  "town": "Kaikōura District",
+  "region": "Canterbury",
+  "country": "New Zealand",
+  "website": "https://www.clifftopcabins.co.nz"
+ },
+ {
+  "id": "osm:node/11724885704",
+  "name": "Pacaya Samiria Amazon Lodge",
+  "town": "Iquitos",
+  "region": "Loreto",
+  "country": "Peru",
+  "website": "https://www.pacayasamiria.com.pe/"
+ },
+ {
+  "id": "osm:node/12656257439",
+  "name": "Margay - Reserva Natural y Lodge de Selva",
+  "town": "Misiones",
+  "region": "Misiones",
+  "country": "Argentina",
+  "website": "https://www.reservamargay.com.ar"
+ },
+ {
+  "id": "osm:node/1652779447",
+  "name": "Huasquila Amazon Lodge",
+  "town": "Cotundo, Napo Province",
+  "region": "Napo",
+  "country": "Ecuador",
+  "website": "https://huasquila.com/"
+ },
+ {
+  "id": "osm:node/2096399217",
+  "name": "Borneo Rainforest Lodge",
+  "town": "Lahad Datu",
+  "region": "Sabah",
+  "country": "Malaysia",
+  "website": "https://danumvalley.rainforestlodge.com/"
+ },
+ {
+  "id": "osm:way/221401368",
+  "name": "Botel Marina",
+  "town": "Praha",
+  "region": null,
+  "country": "Czechia",
+  "website": "https://www.botelmarina.cz/cs/"
+ },
+ {
+  "id": "osm:way/773578903",
+  "name": "Arctic SnowHotel & Glass Igloos Reception",
+  "town": "Rovaniemi",
+  "region": "Lapland",
+  "country": "Finland",
+  "website": "https://arcticsnowhotel.fi"
+ },
+ {
+  "id": "osm:way/96820728",
+  "name": "Botel Gracia",
+  "town": "Bratislava",
+  "region": "Region of Bratislava",
+  "country": "Slovakia",
+  "website": "http://botelgracia.com/"
+ },
+ {
+  "id": "osm:way/995434094",
+  "name": "Santa's Igloos Arctic Circle",
+  "town": "Napapiiri",
+  "region": "Lapland",
+  "country": "Finland",
+  "website": "https://www.santashotels.fi/fi/hotellit/igloos-arctic-circle"
+ },
+ {
+  "id": "wd:Q89948600",
+  "name": "Amazon EcoPark Jungle Lodge",
+  "town": "Manaus",
+  "region": "Amazonas",
+  "country": "Brazil",
+  "website": "https://www.amazonecopark.com.br/"
+ },
+ {
+  "id": "osm:node/13078206621",
+  "name": "Overo Lodge & Selva",
+  "town": "Puerto Iguazú",
+  "region": "Misiones",
+  "country": "Argentina",
+  "website": "https://www.overoiguazu.com/"
+ },
+ {
+  "id": "osm:node/1430797816",
+  "name": "Elephant Plains Game Lodge",
+  "town": "Bushbuckridge",
+  "region": "Mpumalanga",
+  "country": "South Africa",
+  "website": "https://www.elephantplains.co.za/"
+ },
+ {
+  "id": "osm:node/1917427287",
+  "name": "Jade Jungle Resort",
+  "town": "Cayo",
+  "region": "Cayo",
+  "country": "Belize",
+  "website": "https://www.jadejungleresort.com/"
+ },
+ {
+  "id": "osm:node/1940283523",
+  "name": "Chalalan Ecolodge",
+  "town": "Municipio Apolo",
+  "region": "La Paz",
+  "country": "Bolivia",
+  "website": "https://chalalan.com/"
+ },
+ {
+  "id": "osm:node/3501236931",
+  "name": "La Tigra Rainforest Lodge",
+  "town": "San Lorenzo",
+  "region": "Alajuela Province",
+  "country": "Costa Rica",
+  "website": "https://latigralodge.com/"
+ },
+ {
+  "id": "osm:node/3982522758",
+  "name": "Casa Corcovado Jungle Lodge",
+  "town": "Bahía Drake",
+  "region": "Puntarenas Province",
+  "country": "Costa Rica",
+  "website": "https://www.casacorcovado.com/"
+ },
+ {
+  "id": "osm:node/3982527462",
+  "name": "Selva Bananito Lodge",
+  "town": "Limon",
+  "region": "Limón Province",
+  "country": "Costa Rica",
+  "website": "https://www.selvabananito.com/"
+ },
+ {
+  "id": "osm:node/4171539992",
+  "name": "Nandini Jungle Resort and Spa",
+  "town": "Payangan",
+  "region": "Bali",
+  "country": "Indonesia",
+  "website": "https://www.nandinibali.com/"
+ },
+ {
+  "id": "osm:node/4353227089",
+  "name": "Chambers Wildlife Rainforest Lodges",
+  "town": "Queensland",
+  "region": "Queensland",
+  "country": "Australia",
+  "website": "https://www.chamberslodges.com.au/"
+ },
+ {
+  "id": "osm:node/4708979894",
+  "name": "Mount Totumas Eco Lodge",
+  "town": "Nueva California",
+  "region": "Chiriquí",
+  "country": "Panama",
+  "website": "https://www.mounttotumas.com/"
+ },
+ {
+  "id": "osm:node/4945827422",
+  "name": "&Beyond Kichwa Tembo Tented Camp",
+  "town": "Transmara West",
+  "region": "Narok",
+  "country": "Kenya",
+  "website": "https://www.andbeyond.com/our-lodges/africa/kenya/masai-mara-national-park/andbeyond-kichwa-tembo-tented-camp/"
+ },
+ {
+  "id": "osm:node/5111077883",
+  "name": "Rhino Post Safari Lodge",
+  "town": "Bushbuckridge",
+  "region": "Mpumalanga",
+  "country": "South Africa",
+  "website": "https://rhinopostsafarilodge.co.za/"
+ },
+ {
+  "id": "osm:node/6757357285",
+  "name": "Lake Victoria Houseboats",
+  "town": "Srinagar",
+  "region": "Jammu and Kashmir",
+  "country": "India",
+  "website": "https://www.lakevictoriahouseboats.com/"
+ },
+ {
+  "id": "osm:node/7068949987",
+  "name": "Turaco Treetops",
+  "town": "Bigodi",
+  "region": "Kamwenge",
+  "country": "Uganda",
+  "website": "https://www.turacotreetops.com/"
+ },
+ {
+  "id": "osm:way/135159169",
+  "name": "Botel Vodník",
+  "town": "Prague",
+  "region": null,
+  "country": "Czechia",
+  "website": "http://www.botel.cz"
+ },
+ {
+  "id": "osm:way/261157167",
+  "name": "Mweya Safari Lodge",
+  "town": "Kasese",
+  "region": "Kasese",
+  "country": "Uganda",
+  "website": "https://mweyalodge.com/"
+ },
+ {
+  "id": "osm:way/373635511",
+  "name": "Botel Marina",
+  "town": "Rijeka",
+  "region": null,
+  "country": "Croatia",
+  "website": "https://www.botel-marina.com/"
+ },
+ {
+  "id": "osm:way/835881136",
+  "name": "Cliff Dweller on Lake Superior",
+  "town": "Tofte",
+  "region": "Minnesota",
+  "country": "United States",
+  "website": "https://cliffdwelleronlakesuperior.com"
+ },
+ {
+  "id": "wd:Q11235591",
+  "name": "Botel Albatros",
+  "town": "Prague",
+  "region": null,
+  "country": "Czechia",
+  "website": "http://www.botelalbatros.cz"
+ },
+ {
+  "id": "wd:Q60515789",
+  "name": "Fingal",
+  "town": "City of Edinburgh",
+  "region": "Scotland",
+  "country": "United Kingdom",
+  "website": "https://www.fingal.co.uk/"
+ },
+ {
+  "id": "osm:node/12973449132",
+  "name": "Domki na wodzie Grand Ht houseboats",
+  "town": "Mielno",
+  "region": "West Pomeranian Voivodeship",
+  "country": "Poland",
+  "website": "https://hthouseboats.com/grand-ht-houseboats/"
+ },
+ {
+  "id": "osm:node/13495640701",
+  "name": "Paolyn Houseboats",
+  "town": "Coron",
+  "region": "Palawan",
+  "country": "Philippines",
+  "website": "https://www.paolynhouseboatscoronisland.com/"
+ },
+ {
+  "id": "osm:node/13815401412",
+  "name": "Masai Mara Safari Camp",
+  "town": "Siana ward",
+  "region": "Narok",
+  "country": "Kenya",
+  "website": "https://www.ritzcarlton.com/en/hotels/nbomr-the-ritz-carlton-masai-mara-safari-camp/overview/"
+ },
+ {
+  "id": "osm:node/13974203397",
+  "name": "Treehouse VI.",
+  "town": "Bojnice",
+  "region": null,
+  "country": "Slovakia",
+  "website": "https://www.treehouse.sk/treehouse/treehouse-vi/"
+ },
+ {
+  "id": "osm:node/3327094677",
+  "name": "Finch Hattons Tented Camp",
+  "town": "Wundanyi",
+  "region": "Taita–Taveta",
+  "country": "Kenya",
+  "website": "https://finchhattons.com/"
+ },
+ {
+  "id": "osm:node/3332262026",
+  "name": "Umlani Bush Camp",
+  "town": "Bushbuckridge",
+  "region": "Mpumalanga",
+  "country": "South Africa",
+  "website": "https://www.umlani.com/"
+ },
+ {
+  "id": "osm:node/3490391072",
+  "name": "Litløy fyr",
+  "town": "Nordland",
+  "region": null,
+  "country": "Norway",
+  "website": "https://www.littleislandlighthouse.com/"
+ },
+ {
+  "id": "osm:node/4240757290",
+  "name": "Anabezi Luxury Tented Camp",
+  "town": "Lusaka Province",
+  "region": "Lusaka Province",
+  "country": "Zambia",
+  "website": "https://anabezi.com/"
+ },
+ {
+  "id": "osm:node/4976461222",
+  "name": "Quebec Houseboat",
+  "town": "Srinagar",
+  "region": "Jammu and Kashmir",
+  "country": "India",
+  "website": "http://www.touristhouseboat.com/"
+ },
+ {
+  "id": "osm:node/5437345744",
+  "name": "Pungwe Safari Camp",
+  "town": "Manyeleti Gane Reserve",
+  "region": "Mpumalanga",
+  "country": "South Africa",
+  "website": "https://www.pungwe.co.za/"
+ },
+ {
+  "id": "osm:node/6090114419",
+  "name": "Floating Village Brombachsee",
+  "town": "Pleinfeld",
+  "region": "Bavaria",
+  "country": "Germany",
+  "website": "https://www.eco-lodges.de"
+ },
+ {
+  "id": "osm:node/7860493005",
+  "name": "Houseboat",
+  "town": "Лахденпохский муниципальный округ",
+  "region": "Karelia",
+  "country": "Russia",
+  "website": "https://houseboatkarelia.ru/"
+ },
+ {
+  "id": "osm:node/9861152694",
+  "name": "Cabane dans les Arbres",
+  "town": "Lamothe-Fénelon",
+  "region": "Occitania",
+  "country": "France",
+  "website": "https://nideno46.com/"
+ },
+ {
+  "id": "osm:way/1507430207",
+  "name": "Baumhaus Thurgau",
+  "town": "Bischofszell",
+  "region": "Thurgau",
+  "country": "Switzerland",
+  "website": "https://www.baumhaus-thurgau.ch/"
+ },
+ {
+  "id": "osm:way/988406616",
+  "name": "Baumhaus Samerberg",
+  "town": "Samerberg",
+  "region": "Bavaria",
+  "country": "Germany",
+  "website": "https://www.baumhaus-samerberg.de"
+ },
+ {
+  "id": "osm:node/10047221902",
+  "name": "Tilenga Safari Lodge",
+  "town": "Nwoya",
+  "region": "Nwoya",
+  "country": "Uganda",
+  "website": "https://tilengasafarilodge.com/"
+ },
+ {
+  "id": "osm:node/12163848492",
+  "name": "Glimpse of Africa Tented Camp",
+  "town": "Mara Region",
+  "region": "Mara Region",
+  "country": "Tanzania",
+  "website": "https://glimpsecamp.com/"
+ },
+ {
+  "id": "osm:node/12292090306",
+  "name": "Buffalo rock safari camp",
+  "town": "Mbombela",
+  "region": "Mpumalanga",
+  "country": "South Africa",
+  "website": "https://www.buffalorock.co.za/"
+ },
+ {
+  "id": "osm:node/13363877946",
+  "name": "Osero Serengeti Tented Camp",
+  "town": "Mara Region",
+  "region": "Mara Region",
+  "country": "Tanzania",
+  "website": "https://www.oseroserengeti.com/"
+ },
+ {
+  "id": "osm:node/13392204598",
+  "name": "Olkarien Eco Safari Camp",
+  "town": "Mara Region",
+  "region": "Mara Region",
+  "country": "Tanzania",
+  "website": "https://acaciacollections.com/camp/olkarien-eco-safari-camp/"
+ },
+ {
+  "id": "osm:node/13417445924",
+  "name": "Naona Moru Tented Camp",
+  "town": "Simiyu",
+  "region": "Simiyu",
+  "country": "Tanzania",
+  "website": "https://nasikiacamps.com/camps-lodges/naona-moru-camp/"
+ },
+ {
+  "id": "osm:node/8008432920",
+  "name": "Flatflesa Fyr",
+  "town": "Møre og Romsdal",
+  "region": null,
+  "country": "Norway",
+  "website": "https://www.classicnorway.no/hotell/flatflesa-fyr/"
+ },
+ {
+  "id": "osm:node/9659474033",
+  "name": "Lighthouse Keeper's Cottage 2",
+  "town": "South Tyneside",
+  "region": "England",
+  "country": "United Kingdom",
+  "website": "https://www.nationaltrust.org.uk/holidays/lighthouse-keepers-cottage-2-the-north-east"
+ },
+ {
+  "id": "osm:node/9751820506",
+  "name": "Namsen Salmon & Train Experience",
+  "town": "Trøndelag",
+  "region": null,
+  "country": "Norway",
+  "website": "https://www.nste.no/"
+ },
+ {
+  "id": "osm:way/1550001365",
+  "name": "Fyrvakterbostaden",
+  "town": "Uppsala County",
+  "region": null,
+  "country": "Sweden",
+  "website": "https://www.upplandsstiftelsen.se/hitta-ut/bo/fyrvaktarbostaden/"
+ },
+ {
+  "id": "osm:way/27750854",
+  "name": "Ferien-im-Leuchtturm",
+  "town": "Glowe",
+  "region": null,
+  "country": "DE",
+  "website": "https://www.ferien-im-leuchtturm.de/"
+ },
+ {
+  "id": "osm:way/299374932",
+  "name": "Cliffbase",
+  "town": "Hvar town",
+  "region": null,
+  "country": "Croatia",
+  "website": "https://www.cliffbase.com/"
+ }
+]

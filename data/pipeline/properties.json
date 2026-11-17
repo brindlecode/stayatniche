@@ -1,0 +1,2221 @@
+{
+ "sn-0159oq1mt": {
+  "name": "Lapa Rios Lodge",
+  "slugs": [
+   "lapa-rios-costa-rica"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-04t8g8lxt": {
+  "name": "Pullman Maldives Maamutaa Resort",
+  "slugs": [
+   "pullman-maldives-maamutaa-resort-maldives"
+  ],
+  "ids": [
+   "osm:node/12087145402"
+  ],
+  "domain": "pullmanmaldivesmaamutaa.com"
+ },
+ "sn-06t856cns": {
+  "name": "The Gibbon Experience",
+  "slugs": [
+   "gibbon-experience-laos"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-0ca46fo1z": {
+  "name": "Belle Tout Lighthouse B&B",
+  "slugs": [
+   "belle-tout-lighthouse-united-kingdom"
+  ],
+  "ids": [
+   "osm:way/428564350"
+  ],
+  "domain": "belletout.co.uk"
+ },
+ "sn-0e81ej1g5": {
+  "name": "Vuurtoren van Harlingen",
+  "slugs": [
+   "vuurtoren-van-harlingen-netherlands"
+  ],
+  "ids": [
+   "osm:node/3063353331"
+  ],
+  "domain": "vuurtoren-harlingen.nl"
+ },
+ "sn-0fux30y3k": {
+  "name": "Conrad Maldives Muraka",
+  "slugs": [
+   "conrad-maldives-muraka"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-0w11r1blc": {
+  "name": "MS Fram Expedition Ship",
+  "slugs": [
+   "ms-fram-norway"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-0zix106r5": {
+  "name": "Severin Safari Camp",
+  "slugs": [
+   "severin-safari-camp-kenya"
+  ],
+  "ids": [
+   "osm:node/565438625"
+  ],
+  "domain": "severinsafaricamp.com"
+ },
+ "sn-104tnddii": {
+  "name": "Fonab Castle Hotel",
+  "slugs": [
+   "fonab-castle-hotel-united-kingdom"
+  ],
+  "ids": [
+   "osm:way/622132944"
+  ],
+  "domain": "crerarhotels.com"
+ },
+ "sn-10kqvpirn": {
+  "name": "Baumhaushotel Robins Nest",
+  "slugs": [
+   "baumhaushotel-robins-nest-germany"
+  ],
+  "ids": [
+   "osm:node/4241638867"
+  ],
+  "domain": "robins-nest.de"
+ },
+ "sn-14eekeclm": {
+  "name": "Georgios Cave Cappadocia",
+  "slugs": [
+   "georgios-cave-cappadocia-turkey"
+  ],
+  "ids": [
+   "osm:node/12953900574"
+  ],
+  "domain": "georgioscavecappadocia.com"
+ },
+ "sn-19khshe04": {
+  "name": "Indochina Sails",
+  "slugs": [
+   "halong-bay-indochina-sails"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-19rtinwag": {
+  "name": "Houseboat Harmony",
+  "slugs": [
+   "houseboat-harmony-utrecht-netherlands"
+  ],
+  "ids": [
+   "osm:node/3189902154"
+  ],
+  "domain": "bed-and-breakfast-utrecht.nl"
+ },
+ "sn-1ahq9aom6": {
+  "name": "Alila Jabal Akhdar",
+  "slugs": [
+   "alila-jabal-akhdar-oman"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-1gps9enr4": {
+  "name": "Amberley Castle",
+  "slugs": [
+   "amberley-castle-england"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-1h4ieiprs": {
+  "name": "Ostsee Baumhaushotel",
+  "slugs": [
+   "ostsee-baumhaushotel-germany"
+  ],
+  "ids": [
+   "osm:way/1075267869",
+   "osm:way/222506670"
+  ],
+  "domain": "ostsee-baumhaushotel.de"
+ },
+ "sn-1iilcgilg": {
+  "name": "Sextantio Le Grotte della Civita",
+  "slugs": [
+   "sextantio-cave-italy"
+  ],
+  "ids": [
+   "osm:node/1936066439"
+  ],
+  "domain": "sextantio.it"
+ },
+ "sn-1mtj1wsum": {
+  "name": "andBeyond Benguerra Island",
+  "slugs": [
+   "andbeyond-benguerra-island-mozambique"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-1pssft2i2": {
+  "name": "Aerie Resort",
+  "slugs": [
+   "aerie-resort-washington"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-1u16rqmd1": {
+  "name": "Bangkok Tree House",
+  "slugs": [
+   "bangkok-tree-house-thailand"
+  ],
+  "ids": [
+   "osm:way/1353058372"
+  ],
+  "domain": "bangkoktreehouse.com"
+ },
+ "sn-1vth29bmc": {
+  "name": "Banwell Castle",
+  "slugs": [
+   "banwell-castle-united-kingdom"
+  ],
+  "ids": [
+   "osm:way/531553123"
+  ],
+  "domain": "banwellcastle.co.uk"
+ },
+ "sn-1wbc2g4rf": {
+  "name": "Signature Cave Cappadocia Trademark Collection by Wyndham",
+  "slugs": [
+   "signature-cave-cappadocia-turkey"
+  ],
+  "ids": [
+   "osm:node/12338806497"
+  ],
+  "domain": "signaturecave.com"
+ },
+ "sn-20c2htahd": {
+  "name": "Pu Luong Tree House",
+  "slugs": [
+   "pu-luong-tree-house-vietnam"
+  ],
+  "ids": [
+   "osm:node/6451618285"
+  ],
+  "domain": "puluongtreehouse.com"
+ },
+ "sn-25hp18npg": {
+  "name": "Nubble Lighthouse Inn",
+  "slugs": [
+   "nubble-lighthouse-maine"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-26bwvv54a": {
+  "name": "Utopia Cave Cappadocia",
+  "slugs": [
+   "utopia-cave-cappadocia-turkey"
+  ],
+  "ids": [
+   "osm:node/5395462009"
+  ],
+  "domain": "utopiacave.com"
+ },
+ "sn-2dnkudejn": {
+  "name": "Niku Hide",
+  "slugs": [
+   "niku-hide-finland"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-2efvlb5cs": {
+  "name": "Jules' Undersea Lab",
+  "slugs": [
+   "jules-undersea-lodge-florida"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-2ggvkohxf": {
+  "name": "Castello di Oviglio",
+  "slugs": [
+   "castello-di-oviglio-italy"
+  ],
+  "ids": [
+   "osm:way/94721437"
+  ],
+  "domain": "castellodioviglio.it"
+ },
+ "sn-2ofrx3h97": {
+  "name": "Misool Eco Resort",
+  "slugs": [
+   "misool-eco-resort-indonesia"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-2ugebgihy": {
+  "name": "Venice Simplon-Orient-Express",
+  "slugs": [
+   "venice-simplon-orient-express"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-2wxjcdlwh": {
+  "name": "Castello della Pieve",
+  "slugs": [
+   "castello-della-pieve-italy"
+  ],
+  "ids": [
+   "osm:node/10671281872"
+  ],
+  "domain": "castellodellapieve.it"
+ },
+ "sn-2xfk2hqtz": {
+  "name": "Utter Inn",
+  "slugs": [
+   "utter-inn-sweden"
+  ],
+  "ids": [
+   "wd:Q7903424"
+  ],
+  "domain": null
+ },
+ "sn-2yf10esdk": {
+  "name": "Astley Castle",
+  "slugs": [
+   "astley-castle-united-kingdom"
+  ],
+  "ids": [
+   "osm:way/73689706"
+  ],
+  "domain": null
+ },
+ "sn-2yyvjoewl": {
+  "name": "The Dune Camp",
+  "slugs": [
+   "the-dune-camp-botswana"
+  ],
+  "ids": [
+   "osm:node/12114568301"
+  ],
+  "domain": "bushways.com"
+ },
+ "sn-2z3a4msk5": {
+  "name": "Baumhaushotel Solling",
+  "slugs": [
+   "baumhaushotel-solling-germany"
+  ],
+  "ids": [
+   "osm:node/1768803607"
+  ],
+  "domain": "baumhaushotel-solling.de"
+ },
+ "sn-2ziu7oj6u": {
+  "name": "Belmond Royal Scotsman",
+  "slugs": [
+   "belmond-royal-scotsman"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-340gcd5zv": {
+  "name": "Otterburn Castle Country House Hotel",
+  "slugs": [
+   "otterburn-castle-country-house-hotel-united-kingdom"
+  ],
+  "ids": [
+   "osm:way/723957347"
+  ],
+  "domain": "otterburncastle.com"
+ },
+ "sn-359un7yue": {
+  "name": "Benesse House Naoshima",
+  "slugs": [
+   "benesse-house-naoshima-japan"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-35n53kv80": {
+  "name": "Nothofagus Hotel & Spa",
+  "slugs": [
+   "nothofagus-hotel-chile"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-3a8jauqwc": {
+  "name": "Portland Bill Lighthouse Keeper's Cottage",
+  "slugs": [
+   "portland-bill-lighthouse-england"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-3ayzazoyq": {
+  "name": "Schwimmendes Haus",
+  "slugs": [
+   "schwimmendes-haus-partwitzer-see-germany"
+  ],
+  "ids": [
+   "osm:way/707988423"
+  ],
+  "domain": "partwitzer-hof.de"
+ },
+ "sn-3bzbqdo1d": {
+  "name": "Hapuku Lodge & Tree Houses",
+  "slugs": [
+   "hapuku-lodge-new-zealand"
+  ],
+  "ids": [],
+  "domain": "hapukulodge.com"
+ },
+ "sn-3zdbroy4b": {
+  "name": "Skylodge Adventure Suites",
+  "slugs": [
+   "skylodge-peru"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-44rrl7hkh": {
+  "name": "La Bulle Enchantée",
+  "slugs": [
+   "la-bulle-enchantee-france"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-46elfq1gl": {
+  "name": "Dromoland Castle",
+  "slugs": [
+   "dromoland-castle-ireland"
+  ],
+  "ids": [
+   "osm:node/944109942"
+  ],
+  "domain": "dromoland.ie"
+ },
+ "sn-47z8mvgu4": {
+  "name": "The Castle Hotel",
+  "slugs": [
+   "the-castle-hotel-taunton-united-kingdom"
+  ],
+  "ids": [
+   "osm:relation/11068596",
+   "wd:Q5050150"
+  ],
+  "domain": "the-castle-hotel.com"
+ },
+ "sn-4iuz3thtg": {
+  "name": "Museum Hotel",
+  "slugs": [
+   "museum-hotel-cappadocia"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-4mvvarsaq": {
+  "name": "Castello di Gargonza",
+  "slugs": [
+   "castello-di-gargonza-italy"
+  ],
+  "ids": [
+   "osm:node/8526235311"
+  ],
+  "domain": "gargonza.it"
+ },
+ "sn-4pbrvsodn": {
+  "name": "Thulhagiri Island Resort and Spa",
+  "slugs": [
+   "thulhagiri-island-resort-maldives"
+  ],
+  "ids": [
+   "osm:way/96173076"
+  ],
+  "domain": "thulhagiri.com.mv"
+ },
+ "sn-4pfsp7z8b": {
+  "name": "Anantara Sir Bani Yas Island Safari Resort",
+  "slugs": [
+   "anantara-sir-bani-yas-uae"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-4s9z2n2g5": {
+  "name": "&Beyond Ngorongoro Crater Lodge",
+  "slugs": [
+   "andbeyond-ngorongoro-crater-lodge"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-4tgrvz90u": {
+  "name": "STF Berguddens Fyrvaktarbostäder",
+  "slugs": [
+   "stf-berguddens-fyrvaktarbostader-sweden"
+  ],
+  "ids": [
+   "osm:way/686679758"
+  ],
+  "domain": "svenskaturistforeningen.se"
+ },
+ "sn-54bsu2s36": {
+  "name": "Al Maha Desert Resort & Spa",
+  "slugs": [
+   "al-maha-dubai"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-54gg1ssr0": {
+  "name": "Melek Cave Hotel",
+  "slugs": [
+   "melek-cave-hotel-turkey"
+  ],
+  "ids": [
+   "osm:node/368291602"
+  ],
+  "domain": "melekcave.com"
+ },
+ "sn-59cmn8gxe": {
+  "name": "Lucky Cave Cappadocia",
+  "slugs": [
+   "lucky-cave-cappadocia-turkey"
+  ],
+  "ids": [
+   "osm:node/6264295571",
+   "wd:Q111998063"
+  ],
+  "domain": "luckycavehotel.com"
+ },
+ "sn-59iox8ks6": {
+  "name": "Keemala Bird's Nest Pool Villa",
+  "slugs": [
+   "keemala-bird-nest-phuket"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-5i2awbb1i": {
+  "name": "Scargill Castle",
+  "slugs": [
+   "scargill-castle-united-kingdom"
+  ],
+  "ids": [
+   "osm:way/543871596"
+  ],
+  "domain": "scargillcastle.com"
+ },
+ "sn-5jd638q9a": {
+  "name": "BubbleTent Australia",
+  "slugs": [
+   "bubbletent-australia"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-5jyv0j7m4": {
+  "name": "Cliff House Hotel",
+  "slugs": [
+   "cliff-house-hotel-ireland"
+  ],
+  "ids": [
+   "osm:way/157719109",
+   "wd:Q71973594"
+  ],
+  "domain": "cliffhousehotel.ie"
+ },
+ "sn-5lt8i0qs9": {
+  "name": "Treehouse Point",
+  "slugs": [
+   "treehouse-point-united-states"
+  ],
+  "ids": [
+   "osm:way/1557218627",
+   "osm:way/429010112"
+  ],
+  "domain": "treehousepoint.com"
+ },
+ "sn-5ou4goj61": {
+  "name": "Juvet Landscape Hotel",
+  "slugs": [
+   "juvet-landscape-hotel-norway"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-5w4kdyc35": {
+  "name": "Mashpi Lodge",
+  "slugs": [
+   "mashpi-lodge-ecuador"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-5z7tyf64b": {
+  "name": "Vintage Cave House",
+  "slugs": [
+   "vintage-cave-house-turkey"
+  ],
+  "ids": [
+   "osm:node/13592001101"
+  ],
+  "domain": "vintagecavehouse.com"
+ },
+ "sn-66ear4a4n": {
+  "name": "Safari Desert Camp",
+  "slugs": [
+   "safari-desert-camp-oman"
+  ],
+  "ids": [
+   "osm:node/5468179466"
+  ],
+  "domain": "safaridesert.com"
+ },
+ "sn-6im62o40g": {
+  "name": "Adelya Cave Hotel",
+  "slugs": [
+   "adelya-cave-hotel-turkey"
+  ],
+  "ids": [
+   "osm:node/368296526"
+  ],
+  "domain": "adelyacave.com"
+ },
+ "sn-6mcgb4jeh": {
+  "name": "Langley Castle Hotel",
+  "slugs": [
+   "langley-castle-hotel-united-kingdom"
+  ],
+  "ids": [
+   "osm:way/123915173"
+  ],
+  "domain": "langleycastle.com"
+ },
+ "sn-6ooeszfa2": {
+  "name": "Castello di Monterone",
+  "slugs": [
+   "castello-di-monterone-italy"
+  ],
+  "ids": [
+   "osm:way/255060449"
+  ],
+  "domain": "castellomonterone.com"
+ },
+ "sn-6s3qbs1y5": {
+  "name": "Urgup Inn Cave Hotel",
+  "slugs": [
+   "urgup-inn-cave-hotel-turkey"
+  ],
+  "ids": [
+   "osm:node/388372093"
+  ],
+  "domain": "urgupinncavehotel.com"
+ },
+ "sn-75d2gh3ge": {
+  "name": "YHA St Briavels Castle",
+  "slugs": [
+   "yha-st-briavels-castle-united-kingdom"
+  ],
+  "ids": [
+   "osm:relation/18468216"
+  ],
+  "domain": null
+ },
+ "sn-75wxd01dp": {
+  "name": "Robles Treehouse Lodge",
+  "slugs": [
+   "robles-treehouse-lodge-peru"
+  ],
+  "ids": [
+   "osm:node/12202938902"
+  ],
+  "domain": "manurainforestperu.com"
+ },
+ "sn-778c121ns": {
+  "name": "Campi ya Kanzi",
+  "slugs": [
+   "campi-ya-kanzi-kenya"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-7fshrhfet": {
+  "name": "Transfagarasan Treehouse Village",
+  "slugs": [
+   "transfagarasan-treehouse-village-romania"
+  ],
+  "ids": [
+   "osm:node/12118525397"
+  ],
+  "domain": "transfagarasantreehousevillage.com"
+ },
+ "sn-7mfqxy8im": {
+  "name": "Shinta Mani Wild",
+  "slugs": [
+   "shinta-mani-wild-cambodia"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-7pk0h6m1u": {
+  "name": "Cavo Tagoo Mykonos",
+  "slugs": [
+   "cavo-tagoo-mykonos-greece"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-7qc3bo6ql": {
+  "name": "Palafitos Overwater Bungalows",
+  "slugs": [
+   "palafitos-overwater-bungalows-mexico"
+  ],
+  "ids": [
+   "osm:way/1388542320"
+  ],
+  "domain": "lomashospitality.com"
+ },
+ "sn-7t2odljv4": {
+  "name": "Stonefield Castle",
+  "slugs": [
+   "stonefield-castle-united-kingdom"
+  ],
+  "ids": [
+   "osm:way/294779425",
+   "wd:Q7619164"
+  ],
+  "domain": "bespokehotels.com"
+ },
+ "sn-82dnia9ja": {
+  "name": "Borgo Castello Panicaglia",
+  "slugs": [
+   "borgo-castello-panicaglia-italy"
+  ],
+  "ids": [
+   "osm:node/8797692654"
+  ],
+  "domain": "borgocastellopanicaglia.com"
+ },
+ "sn-885bv3xva": {
+  "name": "Wolwedans Dune Camp",
+  "slugs": [
+   "wolwedans-dune-camp-namibia"
+  ],
+  "ids": [
+   "osm:node/2523468215"
+  ],
+  "domain": "wolwedans.com"
+ },
+ "sn-8bslsvfa5": {
+  "name": "Peckforton Castle",
+  "slugs": [
+   "peckforton-castle-united-kingdom"
+  ],
+  "ids": [
+   "osm:node/340524418"
+  ],
+  "domain": "peckfortoncastle.co.uk"
+ },
+ "sn-8btmf1w0b": {
+  "name": "Arctic Bath",
+  "slugs": [
+   "arctic-bath-sweden"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-8hn4wzkzg": {
+  "name": "Soneva Kiri",
+  "slugs": [
+   "soneva-kiri-thailand"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-8l3oqfu60": {
+  "name": "Tulloch Castle Hotel",
+  "slugs": [
+   "tulloch-castle-hotel-united-kingdom"
+  ],
+  "ids": [
+   "osm:relation/1356092"
+  ],
+  "domain": "bespokehotels.com"
+ },
+ "sn-9hhk2ozjw": {
+  "name": "Castello la Leccia",
+  "slugs": [
+   "castello-la-leccia-italy"
+  ],
+  "ids": [
+   "osm:node/13905061328"
+  ],
+  "domain": "castellolaleccia.com"
+ },
+ "sn-9jmjt5l0l": {
+  "name": "Caledonian Sleeper",
+  "slugs": [
+   "night-train-caledonian-sleeper"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-9w15b3403": {
+  "name": "Dalhousie Castle",
+  "slugs": [
+   "dalhousie-castle-united-kingdom"
+  ],
+  "ids": [
+   "osm:node/5420205007"
+  ],
+  "domain": "dalhousiecastle.co.uk"
+ },
+ "sn-9wq1l2y01": {
+  "name": "L'Aigle des Neiges",
+  "slugs": [
+   "aigle-des-neiges-france"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-9zzkusawj": {
+  "name": "Walworth Castle Hotel",
+  "slugs": [
+   "walworth-castle-hotel-united-kingdom"
+  ],
+  "ids": [
+   "osm:relation/9991140"
+  ],
+  "domain": "walworthcastle.co.uk"
+ },
+ "sn-ae0pxvx9f": {
+  "name": "Ty’r Graig Castle",
+  "slugs": [
+   "tyr-graig-castle-united-kingdom"
+  ],
+  "ids": [
+   "osm:way/227065721"
+  ],
+  "domain": "tyrgraig-castle.co.uk"
+ },
+ "sn-ag9ebgdsp": {
+  "name": "Torrisdale Castle Estate",
+  "slugs": [
+   "torrisdale-castle-estate-united-kingdom"
+  ],
+  "ids": [
+   "osm:way/256497415"
+  ],
+  "domain": "torrisdalecastle.com"
+ },
+ "sn-aluvlcfue": {
+  "name": "Cappadocia Cave Suites",
+  "slugs": [
+   "cappadocia-cave-suites-turkey"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-b23uvo21f": {
+  "name": "Awasi Atacama",
+  "slugs": [
+   "awasi-atacama-chile"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-b2vrwsg7k": {
+  "name": "Sahara Dunes Camp",
+  "slugs": [
+   "sahara-dunes-camp-morocco"
+  ],
+  "ids": [
+   "osm:node/13722713351"
+  ],
+  "domain": "saharadunescamp.com"
+ },
+ "sn-b9474ubei": {
+  "name": "Aman-i-Khás",
+  "slugs": [
+   "aman-i-khas-india"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-badmezebk": {
+  "name": "Killeavy Castle Estate",
+  "slugs": [
+   "killeavy-castle-estate-united-kingdom"
+  ],
+  "ids": [
+   "osm:node/8314596612"
+  ],
+  "domain": "killeavycastle.com"
+ },
+ "sn-benne5nxy": {
+  "name": "Lindesnes Lighthouse Hotel",
+  "slugs": [
+   "lindesnes-lighthouse-norway"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-bhkznthxr": {
+  "name": "ICEHOTEL 365",
+  "slugs": [
+   "icehotel-sweden"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-bi2eaygrb": {
+  "name": "Kettuvallam Houseboat Alleppey",
+  "slugs": [
+   "houseboat-alleppey-kerala"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-bl4fm1f2g": {
+  "name": "Castello di Proceno",
+  "slugs": [
+   "castello-di-proceno-italy"
+  ],
+  "ids": [
+   "osm:node/10844701213"
+  ],
+  "domain": "castellodiproceno.it"
+ },
+ "sn-bm7q3amhl": {
+  "name": "La Cabane Perchée",
+  "slugs": [
+   "la-cabane-perchee-france"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-bn5opncpd": {
+  "name": "Treehouse Holidays",
+  "slugs": [
+   "treehouse-holidays-thailand"
+  ],
+  "ids": [
+   "osm:node/7139345982"
+  ],
+  "domain": "treehouse-holidays.com"
+ },
+ "sn-bui9ezhcn": {
+  "name": "Castello di Fagnano Albergo Diffuso & Spa",
+  "slugs": [
+   "castello-di-fagnano-albergo-diffuso-italy"
+  ],
+  "ids": [
+   "osm:relation/11373824"
+  ],
+  "domain": "castellodifagnano.org"
+ },
+ "sn-bujsansrs": {
+  "name": "Kakslauttanen Arctic Resort",
+  "slugs": [
+   "kakslauttanen-finland"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-bx64kmooh": {
+  "name": "The Harpy Houseboat",
+  "slugs": [
+   "the-harpy-houseboat-london-united-kingdom"
+  ],
+  "ids": [
+   "osm:way/202433668"
+  ],
+  "domain": "theharpy.com"
+ },
+ "sn-byal3bhte": {
+  "name": "Hotel Al Castello",
+  "slugs": [
+   "hotel-al-castello-italy"
+  ],
+  "ids": [
+   "osm:node/2450364158"
+  ],
+  "domain": "hotelalcastello.it"
+ },
+ "sn-byzqz9dzp": {
+  "name": "Castello Tafuri Charming Suites",
+  "slugs": [
+   "castello-tafuri-italy"
+  ],
+  "ids": [
+   "osm:way/279054417"
+  ],
+  "domain": "castellotafuri.it"
+ },
+ "sn-c7igccgg1": {
+  "name": "The Floating Seahorse",
+  "slugs": [
+   "floating-seahorse-dubai"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-cmcxhlivn": {
+  "name": "La Bulle Etoilée",
+  "slugs": [
+   "la-bulle-etoilee-france"
+  ],
+  "ids": [
+   "osm:node/10189037778"
+  ],
+  "domain": "labulleetoilee.fr"
+ },
+ "sn-cuedaupdn": {
+  "name": "Jao Camp",
+  "slugs": [
+   "jao-camp-botswana"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-d4w84mf6d": {
+  "name": "Ballygally Castle Hotel",
+  "slugs": [
+   "ballygally-castle-hotel-united-kingdom"
+  ],
+  "ids": [
+   "osm:way/772977989"
+  ],
+  "domain": "ballygallycastlehotel.com"
+ },
+ "sn-d6swztjnz": {
+  "name": "Wadi Rum Bubble Camp",
+  "slugs": [
+   "wadi-rum-bubble-camp-jordan"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-dj0wtnl87": {
+  "name": "OFF Paris Seine",
+  "slugs": [
+   "off-paris-seine-france"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-dmb52pbpu": {
+  "name": "Ashford Castle",
+  "slugs": [
+   "ashford-castle-ireland"
+  ],
+  "ids": [
+   "osm:way/200079634"
+  ],
+  "domain": "ashfordcastle.com"
+ },
+ "sn-ds5djqeis": {
+  "name": "Baumhaushotel Otterndorf",
+  "slugs": [
+   "baumhaushotel-otterndorf-germany"
+  ],
+  "ids": [
+   "osm:way/95594112"
+  ],
+  "domain": "mein-baumhaus.de"
+ },
+ "sn-dv4gk8yfc": {
+  "name": "Cuevas La Granja",
+  "slugs": [
+   "cuevas-la-granja-spain"
+  ],
+  "ids": [
+   "osm:node/1005465160"
+  ],
+  "domain": "cuevas.org"
+ },
+ "sn-dw4jga0um": {
+  "name": "Treehotel",
+  "slugs": [
+   "treehotel-sweden"
+  ],
+  "ids": [
+   "osm:node/7796744419"
+  ],
+  "domain": "treehotel.se"
+ },
+ "sn-dwapudj0f": {
+  "name": "Somn'en Bulle",
+  "slugs": [
+   "somnen-bulle-france"
+  ],
+  "ids": [
+   "osm:way/1386294879"
+  ],
+  "domain": "somnenbulle.fr"
+ },
+ "sn-dz1zeoudt": {
+  "name": "Cristalino Lodge",
+  "slugs": [
+   "cristalino-lodge-brazil"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-dzokna500": {
+  "name": "Amangiri",
+  "slugs": [
+   "amangiri-utah"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-e9f1dn79v": {
+  "name": "Arctic Guesthouse & Igloos",
+  "slugs": [
+   "arctic-guesthouse-and-igloos-finland"
+  ],
+  "ids": [
+   "osm:node/2327451440"
+  ],
+  "domain": "arcticguesthouseandigloos.com"
+ },
+ "sn-eew0pvkkg": {
+  "name": "Manshausen Island Resort",
+  "slugs": [
+   "manshausen-island-resort-norway"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-egrtwqbjt": {
+  "name": "Ethie Castle",
+  "slugs": [
+   "ethie-castle-united-kingdom"
+  ],
+  "ids": [
+   "osm:way/364367300"
+  ],
+  "domain": "ethiecastle.com"
+ },
+ "sn-ehptcl56z": {
+  "name": "Whitepod Eco-Luxury Hotel",
+  "slugs": [
+   "whitepod-switzerland"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-ei1v4vy5o": {
+  "name": "Yuquiyú Treehouses",
+  "slugs": [
+   "yuquiyu-treehouses-united-states"
+  ],
+  "ids": [
+   "osm:node/11540673453"
+  ],
+  "domain": "yuquiyufarm.com"
+ },
+ "sn-el4w2rg7n": {
+  "name": "Mt. Matutum DomesVille Glamping",
+  "slugs": [
+   "mt-matutum-domesville-glamping-philippines"
+  ],
+  "ids": [
+   "osm:way/1464081212"
+  ],
+  "domain": null
+ },
+ "sn-evv4w38u6": {
+  "name": "Corsewall Lighthouse Hotel",
+  "slugs": [
+   "corsewall-lighthouse-hotel-scotland"
+  ],
+  "ids": [
+   "osm:node/469384188"
+  ],
+  "domain": "lighthousehotel.co.uk"
+ },
+ "sn-f1cjhfrar": {
+  "name": "Rekero Camp",
+  "slugs": [
+   "rekero-camp-masai-mara"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-frpuryv4a": {
+  "name": "Zaborin",
+  "slugs": [
+   "zaborin-hokkaido-japan"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-g892scyex": {
+  "name": "Saddell Castle",
+  "slugs": [
+   "saddell-castle-united-kingdom"
+  ],
+  "ids": [
+   "osm:way/232119717"
+  ],
+  "domain": null
+ },
+ "sn-gpiti4p66": {
+  "name": "Inkaterra Machu Picchu Pueblo Hotel",
+  "slugs": [
+   "inkaterra-machu-picchu"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-gqfrn8xvo": {
+  "name": "Okonjima Bush Camp",
+  "slugs": [
+   "okonjima-bush-camp-namibia"
+  ],
+  "ids": [
+   "osm:node/3149259778"
+  ],
+  "domain": "okonjima.com"
+ },
+ "sn-gs2ulruio": {
+  "name": "Barahi Jungle Lodge",
+  "slugs": [
+   "barahi-jungle-lodge-nepal"
+  ],
+  "ids": [
+   "osm:node/3741083586",
+   "wd:Q111862076"
+  ],
+  "domain": "barahijunglelodge.com"
+ },
+ "sn-gupobywsp": {
+  "name": "Point Reyes Lighthouse Hostel",
+  "slugs": [
+   "point-reyes-lighthouse-california"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-gvueotq59": {
+  "name": "Glenarm Castle Ocean View Pods",
+  "slugs": [
+   "glenarm-castle-ocean-view-pods-united-kingdom"
+  ],
+  "ids": [
+   "osm:way/1412584974"
+  ],
+  "domain": "glenarmcastle.com"
+ },
+ "sn-h3flmm9eg": {
+  "name": "Peristyle Cave Cappadocia",
+  "slugs": [
+   "peristyle-cave-cappadocia-turkey"
+  ],
+  "ids": [
+   "osm:node/11682018921"
+  ],
+  "domain": "peristylecave.com"
+ },
+ "sn-h4kiyg6nz": {
+  "name": "Kelebek Special Cave Hotel",
+  "slugs": [
+   "kelebek-special-cave-hotel-turkey"
+  ],
+  "ids": [
+   "osm:node/316644700",
+   "osm:node/3764847885"
+  ],
+  "domain": "kelebekhotel.com"
+ },
+ "sn-h50rexqol": {
+  "name": "Alila Villas Uluwatu",
+  "slugs": [
+   "alila-villas-uluwatu-bali"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-h5cqzim73": {
+  "name": "Norah Head Lighthouse & Cottages",
+  "slugs": [
+   "norah-head-lighthouse-and-cottages-australia"
+  ],
+  "ids": [
+   "osm:way/112116341"
+  ],
+  "domain": null
+ },
+ "sn-h80unm9gy": {
+  "name": "The Ghan",
+  "slugs": [
+   "the-ghan-australia"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-h9b9oo5hh": {
+  "name": "Guacamayo Ecolodge",
+  "slugs": [
+   "guacamayo-ecolodge-ecuador"
+  ],
+  "ids": [
+   "osm:node/4387801310"
+  ],
+  "domain": "guacamayoecolodge.com"
+ },
+ "sn-hbantqgxc": {
+  "name": "Six Senses Shaharut",
+  "slugs": [
+   "six-senses-shaharut-israel"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-hcrh112zp": {
+  "name": "Snowhotel Kirkenes",
+  "slugs": [
+   "snowhotel-kirkenes-norway"
+  ],
+  "ids": [
+   "osm:node/2888649243"
+  ],
+  "domain": "snowresortkirkenes.com"
+ },
+ "sn-hgyaqld55": {
+  "name": "Bayala Private Safari Lodges",
+  "slugs": [
+   "bayala-private-safari-lodges-south-africa"
+  ],
+  "ids": [
+   "osm:node/13626577201"
+  ],
+  "domain": "bayala.co.za"
+ },
+ "sn-hkmbrk1n3": {
+  "name": "Sultan Cave Suites",
+  "slugs": [
+   "sultan-cave-suites-turkey"
+  ],
+  "ids": [
+   "osm:node/3764824156",
+   "osm:node/3764833635"
+  ],
+  "domain": "sultancavesuites.com"
+ },
+ "sn-hzi1njzd3": {
+  "name": "Dornoch Castle Hotel",
+  "slugs": [
+   "dornoch-castle-hotel-united-kingdom"
+  ],
+  "ids": [
+   "osm:node/506830120"
+  ],
+  "domain": "dornochcastlehotel.com"
+ },
+ "sn-i2n2qdj3c": {
+  "name": "Castello di Casamassella",
+  "slugs": [
+   "castello-di-casamassella-italy"
+  ],
+  "ids": [
+   "osm:way/838781542"
+  ],
+  "domain": "castellodicasamassella.com"
+ },
+ "sn-i5lej6p4z": {
+  "name": "Taru Cave Suites",
+  "slugs": [
+   "taru-cave-suites-turkey"
+  ],
+  "ids": [
+   "osm:node/8641687607"
+  ],
+  "domain": "tarucavesuites.com"
+ },
+ "sn-ic3p5v5zy": {
+  "name": "ZUGHOTEL Waldkirchen",
+  "slugs": [
+   "zughotel-waldkirchen-austria"
+  ],
+  "ids": [
+   "osm:node/10960368586"
+  ],
+  "domain": "zughotel.at"
+ },
+ "sn-ie74qgsqr": {
+  "name": "Northern Rail Traincar Inn",
+  "slugs": [
+   "northern-rail-traincar-inn-united-states"
+  ],
+  "ids": [
+   "osm:way/1059741937"
+  ],
+  "domain": "northernrail.net"
+ },
+ "sn-ilkomj1ee": {
+  "name": "Anantara Kihavah Maldives Villas",
+  "slugs": [
+   "anantara-maldives-underwater"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-itsvc7xej": {
+  "name": "Royal Cliff Hotels Group",
+  "slugs": [
+   "royal-cliff-hotels-group-thailand"
+  ],
+  "ids": [
+   "wd:Q961796"
+  ],
+  "domain": "royalcliff.com"
+ },
+ "sn-j3eo2b0i9": {
+  "name": "Four Seasons Resort Maldives at Landaa Giraavaru",
+  "slugs": [
+   "four-seasons-maldives-landaa"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-jaqyz9551": {
+  "name": "InterContinental Bora Bora Resort & Thalasso Spa",
+  "slugs": [
+   "intercontinental-thalasso-bora-bora"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-jg815lb15": {
+  "name": "Saugerties Lighthouse",
+  "slugs": [
+   "saugerties-lighthouse-united-states"
+  ],
+  "ids": [
+   "osm:way/264468493"
+  ],
+  "domain": "saugertieslighthouse.com"
+ },
+ "sn-jj0z4hnk8": {
+  "name": "Barcaldine Castle",
+  "slugs": [
+   "barcaldine-castle-united-kingdom"
+  ],
+  "ids": [
+   "osm:way/282679643"
+  ],
+  "domain": "barcaldinecastle.co.uk"
+ },
+ "sn-jvrnvq6uq": {
+  "name": "Bulles d'Olive",
+  "slugs": [
+   "bulles-dolive-france"
+  ],
+  "ids": [
+   "osm:node/14373673556"
+  ],
+  "domain": "bullesdolive.fr"
+ },
+ "sn-jwbbjvo6o": {
+  "name": "Castello di Montaldo",
+  "slugs": [
+   "castello-di-montaldo-italy"
+  ],
+  "ids": [
+   "osm:node/10142163598"
+  ],
+  "domain": "castellomontaldotorino.it"
+ },
+ "sn-kk69yrbuo": {
+  "name": "Wilderness Davison's Camp",
+  "slugs": [
+   "wilderness-davisons-camp-zimbabwe"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-kqtmdj9au": {
+  "name": "Barony Castle Hotel",
+  "slugs": [
+   "barony-castle-hotel-united-kingdom"
+  ],
+  "ids": [
+   "osm:node/7014050695"
+  ],
+  "domain": "baronycastle.com"
+ },
+ "sn-kui6gz6ox": {
+  "name": "Fastnet Rock Lighthouse Experience",
+  "slugs": [
+   "fastnet-lighthouse-ireland"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-kxpiaczhu": {
+  "name": "Inverlochy Castle Hotel",
+  "slugs": [
+   "inverlochy-castle-hotel-united-kingdom"
+  ],
+  "ids": [
+   "osm:node/470690310"
+  ],
+  "domain": "inverlochycastlehotel.com"
+ },
+ "sn-kyl2vepv8": {
+  "name": "Phare de Kerbel",
+  "slugs": [
+   "phare-de-kerbel-france"
+  ],
+  "ids": [
+   "osm:node/14103222231"
+  ],
+  "domain": "pharedekerbel.com"
+ },
+ "sn-l2hz2aaus": {
+  "name": "Houseboat \\\"Arka\\\"",
+  "slugs": [
+   "houseboat-arka-mielno-poland"
+  ],
+  "ids": [
+   "osm:node/10711598044"
+  ],
+  "domain": "mielno.pl"
+ },
+ "sn-l7tdyiyf7": {
+  "name": "Cappadocia Inans Cave Suites",
+  "slugs": [
+   "cappadocia-inans-cave-suites-turkey"
+  ],
+  "ids": [
+   "osm:node/11275731132"
+  ],
+  "domain": "cappadociainanscave.com"
+ },
+ "sn-l9q5a2lji": {
+  "name": "Sorrisniva Igloo Hotel",
+  "slugs": [
+   "sorrisniva-igloo-hotel-norway"
+  ],
+  "ids": [
+   "osm:node/2181125010"
+  ],
+  "domain": "sorrisniva.no"
+ },
+ "sn-lempvaxqj": {
+  "name": "SnowCastle of Kemi",
+  "slugs": [
+   "snowcastle-kemi-finland"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-lp1g0zfj0": {
+  "name": "Cape Leeuwin Lighthouse Keeper's Cottage",
+  "slugs": [
+   "cape-leeuwin-lighthouse-australia"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-lql59ui2v": {
+  "name": "Quirpon Lighthouse Inn",
+  "slugs": [
+   "quirpon-lighthouse-inn-canada"
+  ],
+  "ids": [
+   "osm:node/4192048906"
+  ],
+  "domain": null
+ },
+ "sn-lv6jybwo2": {
+  "name": "Rovos Rail",
+  "slugs": [
+   "rovos-rail-south-africa"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-m0hfy254n": {
+  "name": "Gili Lankanfushi",
+  "slugs": [
+   "gili-lankanfushi-maldives"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-m7hnpod9p": {
+  "name": "Gamirasu Cave Hotel",
+  "slugs": [
+   "gamirasu-cave-turkey"
+  ],
+  "ids": [
+   "osm:node/1143954400"
+  ],
+  "domain": null
+ },
+ "sn-ma7pjx42y": {
+  "name": "Inkaterra Canopy Treehouse",
+  "slugs": [
+   "inkaterra-canopy-treehouse-peru"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-meg8ghhrr": {
+  "name": "Telunas Private Island Overwater Villas",
+  "slugs": [
+   "telunas-private-island-overwater-villas-indonesia"
+  ],
+  "ids": [
+   "osm:node/4488597889"
+  ],
+  "domain": "telunasresorts.com"
+ },
+ "sn-mfwhm5m6d": {
+  "name": "Tierra Patagonia",
+  "slugs": [
+   "tierra-patagonia-chile"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-mgl8841f5": {
+  "name": "Attrap'Rêves",
+  "slugs": [
+   "attrap-reves-france"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-mkinnl6f2": {
+  "name": "Bora Bora Nui Resort & Spa",
+  "slugs": [
+   "bora-bora-nui-resort"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-mqv6vsacb": {
+  "name": "Seki Cave Hotel",
+  "slugs": [
+   "seki-cave-hotel-turkey"
+  ],
+  "ids": [
+   "osm:node/6802840785"
+  ],
+  "domain": "sekicavehotel.com"
+ },
+ "sn-mzm9d9n5m": {
+  "name": "Fyrgaarden",
+  "slugs": [
+   "fyrgaarden-denmark"
+  ],
+  "ids": [
+   "osm:node/13771769647"
+  ],
+  "domain": "fyrgarden.com"
+ },
+ "sn-n06l2k4j4": {
+  "name": "Train Station Inn",
+  "slugs": [
+   "train-station-inn-canada"
+  ],
+  "ids": [
+   "osm:node/1838341167"
+  ],
+  "domain": "tatatrainstation.com"
+ },
+ "sn-n0h6njnu0": {
+  "name": "Wolkensteiner Zughotel",
+  "slugs": [
+   "wolkensteiner-zughotel-germany"
+  ],
+  "ids": [
+   "osm:node/4552834424",
+   "osm:way/311274767",
+   "osm:way/459438000",
+   "osm:way/459438004",
+   "osm:way/459438008"
+  ],
+  "domain": "wolkensteiner-zughotel.de"
+ },
+ "sn-n44ndwd60": {
+  "name": "Star Castle Hotel",
+  "slugs": [
+   "star-castle-hotel-united-kingdom"
+  ],
+  "ids": [
+   "osm:way/72499436"
+  ],
+  "domain": "star-castle.co.uk"
+ },
+ "sn-na4vcfj84": {
+  "name": "Castello di Guarene",
+  "slugs": [
+   "castello-di-guarene-italy"
+  ],
+  "ids": [
+   "osm:node/5732890869"
+  ],
+  "domain": "castellodiguarene.com"
+ },
+ "sn-naf8n0w3i": {
+  "name": "Pezulu Tree House Lodge",
+  "slugs": [
+   "pezulu-tree-house-lodge-south-africa"
+  ],
+  "ids": [
+   "osm:node/4342172589",
+   "osm:way/1568876400"
+  ],
+  "domain": "pezulu.co.za"
+ },
+ "sn-ndch1e066": {
+  "name": "The Manta Resort, Underwater Room",
+  "slugs": [
+   "manta-resort-zanzibar"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-nmbf5zfm4": {
+  "name": "Memories Aicha Luxury Camp",
+  "slugs": [
+   "memories-aicha-luxury-camp-jordan"
+  ],
+  "ids": [
+   "osm:node/7134042039"
+  ],
+  "domain": "mlc.jo"
+ },
+ "sn-nmh34h7wl": {
+  "name": "Soneva Jani",
+  "slugs": [
+   "soneva-jani-maldives"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-npoigo86l": {
+  "name": "Hotel Castello di Santa Vittoria",
+  "slugs": [
+   "hotel-castello-di-santa-vittoria-italy"
+  ],
+  "ids": [
+   "osm:node/12726825679"
+  ],
+  "domain": "hotelsantavittoria.com"
+ },
+ "sn-ns3jvytkz": {
+  "name": "Vagony na horách",
+  "slugs": [
+   "vagony-na-horach-czechia"
+  ],
+  "ids": [
+   "osm:node/9549364464",
+   "osm:node/9549364471"
+  ],
+  "domain": "vagonynahorach.cz"
+ },
+ "sn-o6avnq5da": {
+  "name": "Desert Camp",
+  "slugs": [
+   "desert-camp-namibia"
+  ],
+  "ids": [
+   "osm:node/2517243726"
+  ],
+  "domain": "desertcamp.com"
+ },
+ "sn-ojnclgknu": {
+  "name": "Singita Lebombo Lodge",
+  "slugs": [
+   "singita-lebombo-south-africa"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-p52wm3n5c": {
+  "name": "Cuevas Al Jatib",
+  "slugs": [
+   "cuevas-al-jatib-spain"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-p886bito8": {
+  "name": "Deplar Farm",
+  "slugs": [
+   "deplar-farm-iceland"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-pey4mypxf": {
+  "name": "Castello di Septe",
+  "slugs": [
+   "castello-di-septe-italy"
+  ],
+  "ids": [
+   "osm:node/5224822746"
+  ],
+  "domain": "castellodisepte.com"
+ },
+ "sn-puykxsqlv": {
+  "name": "Castello Fai",
+  "slugs": [
+   "castello-fai-italy"
+  ],
+  "ids": [
+   "osm:node/6504119641"
+  ],
+  "domain": "castellofai.com"
+ },
+ "sn-q8igc748n": {
+  "name": "Bambu Indah",
+  "slugs": [
+   "bambu-indah-bali"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-qcjwcm8iu": {
+  "name": "Schloss Hotel Korb",
+  "slugs": [
+   "schloss-hotel-korb-italy"
+  ],
+  "ids": [
+   "osm:node/2872987315"
+  ],
+  "domain": "schloss-hotel-korb.com"
+ },
+ "sn-qetr2t3d0": {
+  "name": "Ferienwaggons Zittauer Schmalspurbahn",
+  "slugs": [
+   "ferienwaggons-zittauer-schmalspurbahn-germany"
+  ],
+  "ids": [
+   "osm:node/11207544756",
+   "osm:node/11207544757",
+   "osm:node/11207544758",
+   "osm:node/11207544759"
+  ],
+  "domain": "zittauer-schmalspurbahn.de"
+ },
+ "sn-qnd9zu2ta": {
+  "name": "Hazlewood Castle & Spa",
+  "slugs": [
+   "hazlewood-castle-and-spa-united-kingdom"
+  ],
+  "ids": [
+   "osm:way/329021982"
+  ],
+  "domain": "hazlewood-castle.co.uk"
+ },
+ "sn-qotdmctvu": {
+  "name": "Longitude 131°",
+  "slugs": [
+   "longitude-131-australia"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-qqcnmqji2": {
+  "name": "Feynan Ecolodge",
+  "slugs": [
+   "feynan-ecolodge-jordan"
+  ],
+  "ids": [
+   "osm:node/1229933076"
+  ],
+  "domain": "ecohotels.me"
+ },
+ "sn-qrtpel0wj": {
+  "name": "Il Borgo del Castello",
+  "slugs": [
+   "il-borgo-del-castello-italy"
+  ],
+  "ids": [
+   "osm:node/7135940646"
+  ],
+  "domain": "ilborgodelcastello.it"
+ },
+ "sn-qt9gg6tyy": {
+  "name": "Augill Castle",
+  "slugs": [
+   "augill-castle-united-kingdom"
+  ],
+  "ids": [
+   "osm:node/5316410834"
+  ],
+  "domain": "stayinacastle.com"
+ },
+ "sn-qzxv8rpxe": {
+  "name": "The Old Railway Station",
+  "slugs": [
+   "the-old-railway-station-united-kingdom"
+  ],
+  "ids": [
+   "osm:way/103827993"
+  ],
+  "domain": "old-station.co.uk"
+ },
+ "sn-reopf8z0v": {
+  "name": "Rocky Mountaineer",
+  "slugs": [
+   "rocky-mountaineer-canada"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-rjg1gh2y0": {
+  "name": "The Bubble Hotel Belgium",
+  "slugs": [
+   "the-bubble-hotel-belgium"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-rsz4thyaz": {
+  "name": "Sadie Cove Wilderness Lodge",
+  "slugs": [
+   "sadie-cove-alaska"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-sb4y7skce": {
+  "name": "Locanda al Castello",
+  "slugs": [
+   "locanda-al-castello-italy"
+  ],
+  "ids": [
+   "osm:node/6325051257"
+  ],
+  "domain": "alcastello.net"
+ },
+ "sn-snape5sae": {
+  "name": "Hotel Castello Miramare",
+  "slugs": [
+   "hotel-castello-miramare-italy"
+  ],
+  "ids": [
+   "osm:node/1716752252"
+  ],
+  "domain": "castellomiramare.it"
+ },
+ "sn-sw7efo8wo": {
+  "name": "Archipelago Igloos",
+  "slugs": [
+   "archipelago-igloos-finland"
+  ],
+  "ids": [
+   "osm:node/12142374323"
+  ],
+  "domain": "archipelagoigloos.com"
+ },
+ "sn-td3c4bg2s": {
+  "name": "Singita Grumeti",
+  "slugs": [
+   "singita-grumeti-tanzania"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-tqs8yn5pm": {
+  "name": "Romantic Cave Hotel",
+  "slugs": [
+   "romantic-cave-hotel-turkey"
+  ],
+  "ids": [
+   "osm:node/7983040279"
+  ],
+  "domain": "romanticcavehotel.com"
+ },
+ "sn-u02pyzpyr": {
+  "name": "Kokopelli's Cave Bed & Breakfast",
+  "slugs": [
+   "kokopelli-cave-usa"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-uq0yqr1op": {
+  "name": "Bushman's Desert Camp",
+  "slugs": [
+   "bushmans-desert-camp-namibia"
+  ],
+  "ids": [
+   "osm:way/1040773684"
+  ],
+  "domain": "bushmansdesertcamp-sossus.com"
+ },
+ "sn-uzya19ywe": {
+  "name": "Aldourie Castle",
+  "slugs": [
+   "aldourie-castle-united-kingdom"
+  ],
+  "ids": [
+   "osm:node/14005215694"
+  ],
+  "domain": "wildland.scot"
+ },
+ "sn-v4c66vvjk": {
+  "name": "Göreme Valley Cave House",
+  "slugs": [
+   "goreme-valley-cave-house-turkey"
+  ],
+  "ids": [
+   "osm:node/4870524621"
+  ],
+  "domain": "goremevalleycavehouse.com"
+ },
+ "sn-vfrk7yqce": {
+  "name": "Chole Mjini Lodge",
+  "slugs": [
+   "chole-mjini-tanzania"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-vk6letcj4": {
+  "name": "Desert Luxury Camp",
+  "slugs": [
+   "desert-luxury-camp-morocco"
+  ],
+  "ids": [
+   "osm:way/1236273682"
+  ],
+  "domain": "desertluxurycamp.com"
+ },
+ "sn-vozs8opux": {
+  "name": "Londolozi Varty Camp",
+  "slugs": [
+   "londolozi-varty-camp-south-africa"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-w0b8lgxxv": {
+  "name": "Splendid Cave Hotel",
+  "slugs": [
+   "splendid-cave-hotel-turkey"
+  ],
+  "ids": [
+   "osm:node/11416685769"
+  ],
+  "domain": "splendidcavehotel.com"
+ },
+ "sn-w6qn5hcf9": {
+  "name": "Melville Castle",
+  "slugs": [
+   "melville-castle-united-kingdom"
+  ],
+  "ids": [
+   "osm:way/343001044"
+  ],
+  "domain": "melvillecastle.com"
+ },
+ "sn-wa6sd60hx": {
+  "name": "Lumley Castle",
+  "slugs": [
+   "lumley-castle-united-kingdom"
+  ],
+  "ids": [
+   "osm:relation/146749"
+  ],
+  "domain": "lumleycastle.com"
+ },
+ "sn-wezm9lb9v": {
+  "name": "Ottoman Cave Suites",
+  "slugs": [
+   "ottoman-cave-suites-turkey"
+  ],
+  "ids": [
+   "osm:node/1993527276"
+  ],
+  "domain": "ottomancavesuites.com"
+ },
+ "sn-wjhiac755": {
+  "name": "Charming Cave Cappadocia Hotel",
+  "slugs": [
+   "charming-cave-cappadocia-hotel-turkey"
+  ],
+  "ids": [
+   "osm:node/8420901081",
+   "osm:way/906862055"
+  ],
+  "domain": "thecharmingcavehotel.com"
+ },
+ "sn-wlfbde6uo": {
+  "name": "Free Spirit Spheres",
+  "slugs": [
+   "free-spirit-spheres-canada"
+  ],
+  "ids": [
+   "osm:node/4884524122"
+  ],
+  "domain": "freespiritspheres.com"
+ },
+ "sn-wrorpk03q": {
+  "name": "Baumhaushotel OaseWeil",
+  "slugs": [
+   "baumhaushotel-oaseweil-germany"
+  ],
+  "ids": [
+   "osm:node/6549048397"
+  ],
+  "domain": "oaseweil.de"
+ },
+ "sn-wsqh9kf4b": {
+  "name": "Hoshinoya Fuji",
+  "slugs": [
+   "hoshinoya-fuji-japan"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-xcedi9aaf": {
+  "name": "Jade Mountain Resort",
+  "slugs": [
+   "jade-mountain-st-lucia"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-xifs46fnx": {
+  "name": "Rêvembulle",
+  "slugs": [
+   "revembulle-france"
+  ],
+  "ids": [
+   "osm:node/13031691491"
+  ],
+  "domain": "revembulle.com"
+ },
+ "sn-xs2pc7l8n": {
+  "name": "&Beyond Phinda Private Game Reserve",
+  "slugs": [
+   "andbeyond-phinda-south-africa"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-xue9e3g93": {
+  "name": "Song Saa Private Island",
+  "slugs": [
+   "song-saa-cambodia"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-xuvguk0zs": {
+  "name": "Schloss Hotel Wehrburg",
+  "slugs": [
+   "schloss-hotel-wehrburg-italy"
+  ],
+  "ids": [
+   "osm:node/304739062"
+  ],
+  "domain": "wehrburg.com"
+ },
+ "sn-xxuhos7lw": {
+  "name": "Atlantis Paradise Island",
+  "slugs": [
+   "atlantis-aquaventure-bahamas"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-y1gwr0m1l": {
+  "name": "Bisate Lodge",
+  "slugs": [
+   "bisate-lodge-rwanda"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-y6u0398jc": {
+  "name": "Sitka Lighthouse",
+  "slugs": [
+   "sitka-lighthouse-united-states"
+  ],
+  "ids": [
+   "osm:node/2461153446"
+  ],
+  "domain": "sitkalighthouse.com"
+ },
+ "sn-yb76mqueb": {
+  "name": "Machupicchu Ecolodge",
+  "slugs": [
+   "machupicchu-ecolodge-peru"
+  ],
+  "ids": [
+   "osm:node/9133818528"
+  ],
+  "domain": "machupicchuecolodge.com"
+ },
+ "sn-yb82qfrsj": {
+  "name": "Majakkahotelli",
+  "slugs": [
+   "majakkahotelli-finland"
+  ],
+  "ids": [
+   "osm:node/3634187416"
+  ],
+  "domain": "kylmapihlaja.com"
+ },
+ "sn-yecjrcne6": {
+  "name": "Nihi Sumba",
+  "slugs": [
+   "nihi-sumba-indonesia"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-yvofquchb": {
+  "name": "Desert Cave Hotel",
+  "slugs": [
+   "desert-cave-hotel-australia"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-zaynroemo": {
+  "name": "Scarabeo Camp",
+  "slugs": [
+   "scarabeo-camp-morocco"
+  ],
+  "ids": [],
+  "domain": null
+ },
+ "sn-zrmdtupaw": {
+  "name": "Real Castello",
+  "slugs": [
+   "real-castello-italy"
+  ],
+  "ids": [
+   "osm:node/12345814919"
+  ],
+  "domain": "realcastello.com"
+ }
+}

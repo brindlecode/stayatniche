@@ -1,0 +1,20 @@
+{
+ "at": "2026-11-17T20:10:50.146Z",
+ "ok": true,
+ "properties": 8528,
+ "groupsWithSeveralRecords": 391,
+ "newIds": 8830,
+ "idsMerged": 0,
+ "largeGroupsSkipped": 5,
+ "duplicates": 152,
+ "inReviewQueue": 0,
+ "ofPage": 3,
+ "ofCandidate": 149,
+ "byReason": {
+  "same name": 116,
+  "same source id": 26,
+  "same official domain": 10
+ },
+ "alreadyHasPage": 0,
+ "possibleInReviewQueue": 14
+}

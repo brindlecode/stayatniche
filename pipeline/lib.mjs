@@ -72,7 +72,7 @@ export function fail(stage, error) {
 export function publishedHotels() {
   return readdirSync('src/content/hotels').filter(f => f.endsWith('.md')).map(f => {
     const t = readFileSync(`src/content/hotels/${f}`, 'utf8').split('---')[1] ?? '';
-    return { slug: f.slice(0, -3), site: hostOf((t.match(/^officialWebsite:\s*(.+)$/m) ?? [])[1]?.trim().replace(/^["']|["']$/g, '') ?? ''), name: (t.match(/^name:\s*(.+)$/m) ?? [])[1]?.replace(/^["']|["']$/g, '') ?? '', lat: +(t.match(/lat:\s*(-?[\d.]+)/) ?? [])[1], lng: +(t.match(/lng:\s*(-?[\d.]+)/) ?? [])[1], source: (t.match(/^sourceId:\s*(.+)$/m) ?? [])[1]?.trim(), status: (t.match(/^status:\s*(.+)$/m) ?? [])[1]?.trim().replace(/^["']|["']$/g, '') || 'published' };
+    return { slug: f.slice(0, -3), site: hostOf((t.match(/^officialWebsite:\s*(.+)$/m) ?? [])[1]?.trim().replace(/^["']|["']$/g, '') ?? ''), name: (t.match(/^name:\s*(.+)$/m) ?? [])[1]?.replace(/^["']|["']$/g, '') ?? '', lat: +(t.match(/lat:\s*(-?[\d.]+)/) ?? [])[1], lng: +(t.match(/lng:\s*(-?[\d.]+)/) ?? [])[1], source: (t.match(/^sourceId:\s*(.+)$/m) ?? [])[1]?.trim().replace(/^["']|["']$/g, ''), status: (t.match(/^status:\s*(.+)$/m) ?? [])[1]?.trim().replace(/^["']|["']$/g, '') || 'published' };
   });
 }
 // Same rule as isLive() in src/lib/site.ts: draft and archived pages are not public.

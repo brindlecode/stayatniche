@@ -1,0 +1,14 @@
+{
+ "at": "2026-11-17T20:08:05.337Z",
+ "ok": true,
+ "hotels": 202,
+ "siteOk": 194,
+ "siteDown": 8,
+ "noSite": 0,
+ "saysClosed": 0,
+ "parked": 0,
+ "expediaValid": 103,
+ "expediaInvalid": 0,
+ "expediaStale": 0,
+ "problems": 8
+}
