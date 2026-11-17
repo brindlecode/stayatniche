@@ -106,7 +106,7 @@
 | Inverlochy Castle Hotel (inverlochy-castle-hotel-united-kingdom) | castle-hotels | castle-hotels | specific_rooms | https://inverlochycastlehotel.com/stay/walled-garden-rooms |
 | Jade Mountain Resort (jade-mountain-st-lucia) | cliffside-hotels | cliffside-hotels | unverified | https://jademountain.com/ |
 | Jao Camp (jao-camp-botswana) | safari-lodges | safari-lodges | entire_property | https://jaoreserve.com/jao-camp/ |
-| Jules' Undersea Lodge (jules-undersea-lodge-florida) | underwater-rooms | underwater-rooms | entire_property | https://www.marinelabunderseapark.org/jules |
+| Jules' Undersea Lab (jules-undersea-lodge-florida) | underwater-rooms | underwater-rooms | entire_property | https://www.marinelabunderseapark.org/jules |
 | Juvet Landscape Hotel (juvet-landscape-hotel-norway) | treehouse-hotels | draft, 301 to cliffside-hotels | specific_rooms | https://juvet.com/en/landskapsromma |
 | Kakslauttanen Arctic Resort (kakslauttanen-finland) | bubble-hotels | bubble-hotels | specific_rooms | https://www.kakslauttanen.fi/accommodation/small-glass-igloo-east-village |
 | Keemala Bird's Nest Pool Villa (keemala-bird-nest-phuket) | treehouse-hotels | treehouse-hotels | unverified | https://www.keemala.com/villa/birds-nest-pool-villas/ |

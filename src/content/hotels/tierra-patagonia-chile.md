@@ -28,7 +28,7 @@ bestFor:
   - "Adventure travellers"
   - "Photographers"
 bookingUrl: https://www.booking.com/hotel/cl/tierra-patagonia.html
-rating: 8.5
+rating: 8.1
 coordinates:
   lat: -51.034981
   lng: -72.583405

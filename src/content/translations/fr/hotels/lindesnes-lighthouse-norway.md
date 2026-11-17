@@ -48,6 +48,7 @@ nearbyAttractions:
 seo:
   metaTitle: "Lindesnes Fyr : appartement au phare | StayAtNiche"
   metaDescription: "Lindesnes, le plus ancien phare de Norvège, à la pointe sud du continent. Pas d'hôtel : un appartement de vacances dans l'ancienne maison de l'adjoint."
+niche_note: "Le phare de Lindesnes n’a pas d’hôtel : le séjour se fait dans un appartement de vacances occupant la moitié de l’ancienne maison de l’assistant du gardien. Dans l’autre moitié habite le gardien de service."
 ---
 
 Lindesnes marque le point le plus méridional de la Norvège continentale. Le premier feu de phare de Norvège y fut allumé le 27 février 1656, à l'entrée du Skagerrak, mais il fut éteint dès l'automne suivant à la suite de plaintes sur la mauvaise qualité de sa lumière ; la station est néanmoins considérée comme fondée en 1656. La tour actuelle, en fonte et haute de 16,1 mètres, date de 1915, année où la lentille y fut transférée depuis l'ancienne tour ; la station a pris sa forme actuelle en 1920, avec une nouvelle salle des machines et une installation de signalisation par brouillard.

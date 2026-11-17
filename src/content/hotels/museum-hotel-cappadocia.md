@@ -29,7 +29,7 @@ bestFor:
   - Foodies
   - Honeymooners
 bookingUrl: https://www.booking.com/hotel/tr/museum-hotel-cappadocia.html
-rating: 8.8
+rating: 8.1
 coordinates:
   lat: 38.633375
   lng: 34.8069

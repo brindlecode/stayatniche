@@ -44,6 +44,7 @@ niche_scope: entire_property
 niche_feature: "Beachfront hotel in a castle that stands on the foundations of a medieval fortlet, rebuilt as a neo-Gothic towered villa (Castello Chiozza, c.1880); official site says guests stay in an old castle. Room count not stated."
 niche_source_url: "http://castellomiramare.it/c-era-una-volta.html"
 niche_verified_at: 2026-11-17
+niche_note: "Castello Miramare is not a medieval castle: the hotel's own site says it stands on the foundations of a medieval fortlet and was later turned into a neo-Gothic villa with a tower; the castle is dated to around 1880."
 ---
 
 Hotel Castello Miramare is a 3-star hotel on the seafront at Pegli, a district a few kilometres from the centre of Genoa. Guests stay in an old castle that has kept its atmosphere and part of its architectural structure, with the beach in front of the door. According to the hotel's history page, the building stands on the foundations of a medieval fortlet and was later turned into a neo-Gothic villa with a tower; the Castello Chiozza, as it was known, was built around 1880.

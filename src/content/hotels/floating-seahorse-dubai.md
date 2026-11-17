@@ -36,7 +36,7 @@ prosAndCons:
     - Very expensive
     - "Mostly sold as private homes and second homes; hotel-style booking not confirmed"
     - Limited local dining outside the villa
-bookingUrl: https://www.booking.com/hotel/ae/the-floating-seahorse.html
+bookingUrl: "https://www.expedia.com/Hotel-Search?destination=The%20Floating%20Seahorse%2C%20The%20World%20Islands&adults=2"
 rating: 9.4
 seasonalInfo:
   bestTime: October to May

@@ -30,7 +30,7 @@ bestFor:
   - Wildlife photographers
   - Honeymooners
 bookingUrl: https://www.booking.com/hotel/cl/awasi-atacama.html
-rating: 9.5
+rating: 8.1
 coordinates:
   lat: -22.9022
   lng: -68.1991

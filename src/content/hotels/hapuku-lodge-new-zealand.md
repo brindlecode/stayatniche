@@ -53,7 +53,8 @@ prosAndCons:
     - "Tree house access requires climbing stairs, not wheelchair accessible"
     - "Limited in-room entertainment by design"
     - "Popular, requires advance booking"
-bookingUrl: "https://www.booking.com/hotel/nz/hapuku-lodge-amp-tree-houses.html"
+officialWebsite: "https://www.hapukulodge.com/"
+bookingUrl: "https://www.hapukulodge.com/"
 rating: 8.8
 checkInOut:
   checkIn: "15:00"

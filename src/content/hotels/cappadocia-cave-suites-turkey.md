@@ -28,7 +28,7 @@ bestFor:
   - "Photography enthusiasts"
   - "Cultural explorers"
 bookingUrl: https://www.booking.com/
-rating: 9.1
+rating: 7
 coordinates:
   lat: 38.6431
   lng: 34.8289

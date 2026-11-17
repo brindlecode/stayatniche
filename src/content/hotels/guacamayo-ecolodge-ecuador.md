@@ -19,7 +19,7 @@ bestFor:
   - "Wildlife watchers"
   - "Nature travellers"
 bookingUrl: "https://www.expedia.com/Hotel-Search?destination=Guacamayo%20Ecolodge%2C%20Cuyabeno%20Reserve&adults=2"
-rating: 8.3
+rating: 7.4
 coordinates:
   lat: -0.0311822
   lng: -76.1652259

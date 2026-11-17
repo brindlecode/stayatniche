@@ -42,6 +42,7 @@ niche_scope: specific_rooms
 niche_feature: "Castle rooms and suites are in the 19th-century (1863) Scots Baronial castle; Walled Garden rooms are in a converted stable block five minutes away, and the Gate Lodge is a separate Victorian lodge. Official site also calls it a Victorian country house."
 niche_source_url: "https://inverlochycastlehotel.com/stay/walled-garden-rooms"
 niche_verified_at: 2026-11-17
+niche_note: "Inverlochy Castle Hotel is not a medieval castle: it is a baronial mansion built in 1863 by William Scarlett, 3rd Baron Abinger (per Wikipedia), about two miles from the 13th-century Inverlochy Castle that gave it its name."
 ---
 
 Inverlochy Castle is a 19th-century baronial mansion standing between mountain and loch near Fort William. It was built in 1863 by William Scarlett, 3rd Baron Abinger, and Queen Victoria spent a week here during an 1873 visit to Balmoral. It is named after the much older 13th-century Inverlochy Castle, which lies a couple of miles away. Today it is a five-star hotel.

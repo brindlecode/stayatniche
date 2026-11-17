@@ -43,7 +43,7 @@ prosAndCons:
     - Australian summer (November-February) brings extreme heat, 45°C+ days limit outdoor activity
     - Flies are a fact of Outback life, this is not a resort failing but worth knowing
 bookingUrl: https://www.booking.com/hotel/au/longitude-131.html
-rating: 9.7
+rating: 9.1
 seasonalInfo:
   bestTime: April to September for the most comfortable temperatures
   peakSeason: July and August (Australian winter school holidays)

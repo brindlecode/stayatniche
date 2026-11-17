@@ -21,6 +21,7 @@ bestFor:
 seo:
   metaTitle: "Hotel Castello Miramare a Pegli, Genova | StayAtNiche"
   metaDescription: "Hotel Castello Miramare a Pegli: 3 stelle in un antico castello sulla spiaggia, con camere affacciate sul mare e traghetto per Genova in meno di 30 minuti."
+niche_note: "Il Castello Miramare non è un castello medievale: secondo il sito dell’hotel sorge sulle fondamenta di un fortilizio medievale ed è stato poi trasformato in un villino neogotico con torre; il castello è datato intorno al 1880."
 ---
 
 Hotel Castello Miramare è un hotel 3 stelle sul lungomare di Pegli, quartiere a pochi chilometri dal centro di Genova. Si soggiorna in un antico castello che ha conservato la sua atmosfera e parte della struttura architettonica, con la spiaggia proprio davanti. Secondo la pagina di storia dell'hotel, l'edificio sorge sulle fondamenta di un fortilizio medievale ed è stato poi trasformato in un villino neogotico con torre; il Castello Chiozza, come veniva chiamato, fu costruito intorno al 1880.

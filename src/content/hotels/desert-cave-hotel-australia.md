@@ -52,7 +52,7 @@ prosAndCons:
     - "No natural light in underground rooms"
     - "Limited dining options in town beyond the hotel restaurant"
 bookingUrl: "https://www.booking.com/hotel/au/desert-cave.html"
-rating: 8.2
+rating: 8.4
 checkInOut:
   checkIn: "14:00"
   checkOut: "10:00"

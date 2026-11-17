@@ -43,7 +43,7 @@ prosAndCons:
     - Remote location requires a connecting train or flight from Delhi or Jaipur
     - Premium pricing is among the highest in India
 bookingUrl: https://www.booking.com/hotel/in/aman-i-khas.html
-rating: 9.6
+rating: 8.4
 seasonalInfo:
   bestTime: October to March for the finest wildlife activity and comfortable temperatures
   peakSeason: November to February

@@ -159,3 +159,14 @@ describe('list fields stay lists of plain strings (an unquoted "a: b" turns into
     expect(bad).toEqual([]);
   });
 });
+
+describe('recalculated editorial scores follow the rubric', () => {
+  const recalc = JSON.parse(readFileSync(join(ROOT, 'data/audit-niche/score-recalc.json'), 'utf8')) as Record<string, any>;
+  it.each(Object.entries(recalc))('%s: rating = 3.5 + 0.7 x (setting + stay + practicality), cut to the ceiling', (slug, r: any) => {
+    const h = hotels.find(x => x.slug === slug)!;
+    const raw = Math.round((3.5 + 0.7 * (r.setting + r.stay + r.practicality)) * 10) / 10;
+    expect(r.rating).toBe(Math.min(raw, SCORE_CAP[h.data.niche_scope as keyof typeof SCORE_CAP]));
+    expect(h.data.rating).toBe(r.rating);
+    for (const k of ['setting', 'stay']) { expect(r[k] % 0.5).toBe(0); expect(r[k]).toBeGreaterThanOrEqual(0); expect(r[k]).toBeLessThanOrEqual(3); }
+  });
+});

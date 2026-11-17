@@ -1,7 +1,7 @@
 ---
 source: jules-undersea-lodge-florida
 destination: Key Largo, Florida
-description: "Il Jules’ Undersea Lodge, oggi gestito dall’organizzazione non profit MarineLab come Jules’ Undersea Lab, poggia sul fondo di una laguna di Key Largo, a 22 piedi (circa 6,7 metri) sotto la superficie. Vi si entra da una moon pool nel pavimento, e i subacquei brevettati possono dormirci durante una missione da aquanauta di 24 ore."
+description: "Il Jules’ Undersea Lab (in precedenza Jules’ Undersea Lodge), gestito dall’organizzazione non profit MarineLab, poggia sul fondo di una laguna di Key Largo, a 22 piedi (circa 6,7 metri) sotto la superficie. Vi si entra da una moon pool nel pavimento, e i subacquei brevettati possono dormirci durante una missione da aquanauta di 24 ore."
 highlights:
   - Habitat sottomarino raggiungibile immergendosi a 22 piedi (circa 6,7 metri) attraverso una moon pool
   - Serve almeno il brevetto Open Water (gli allievi solo con il proprio istruttore)
@@ -20,11 +20,11 @@ bestFor:
   - Appassionati del mondo sommerso
   - Collezionisti di esperienze irripetibili
 seo:
-  metaTitle: "Jules’ Undersea Lodge, habitat sottomarino | StayAtNiche"
+  metaTitle: "Jules’ Undersea Lab, habitat sottomarino | StayAtNiche"
   metaDescription: "Jules’ Undersea Lab (ex Lodge) a Key Largo: vivere e dormire 24 ore da aquanauta in un habitat sottomarino storico, a 22 piedi di profondità, in Florida."
 ---
 
-Il Jules’ Undersea Lodge, oggi chiamato Jules’ Undersea Lab, è una categoria a sé. I partecipanti indossano l’attrezzatura subacquea, scendono nella laguna di Jules’ al MarineLab Undersea Park di Key Largo ed entrano nell’habitat da una moon pool nel pavimento. I gestori lo descrivono come l’unico habitat sottomarino al mondo in cui qualsiasi subacqueo ricreativo può vivere, imparare e dormire sott’acqua. È stato una stazione di ricerca sottomarina e un hotel esclusivo, e oggi è un’attrazione educativa dell’organizzazione non profit MarineLab. Il soggiorno è una missione da aquanauta di 24 ore.
+Il Jules’ Undersea Lab è una categoria a sé. I partecipanti indossano l’attrezzatura subacquea, scendono nella laguna di Jules’ al MarineLab Undersea Park di Key Largo ed entrano nell’habitat da una moon pool nel pavimento. I gestori lo descrivono come l’unico habitat sottomarino al mondo in cui qualsiasi subacqueo ricreativo può vivere, imparare e dormire sott’acqua. È stato una stazione di ricerca sottomarina e un hotel esclusivo, e oggi è un’attrazione educativa dell’organizzazione non profit MarineLab. Il soggiorno è una missione da aquanauta di 24 ore.
 
 La struttura è nata come La Chalupa, un laboratorio di ricerca usato negli anni Settanta dagli scienziati che studiavano l’ambiente marino delle Florida Keys. Poggia sul fondo della laguna a 22 piedi (circa 6,7 metri) di profondità, ancorata a una base zavorrata e rifornita di aria respirabile pompata di continuo dalla superficie. L’interno, pressurizzato per impedire all’acqua di entrare dalla moon pool aperta sul fondo, comprende una zona giorno principale con cucina, tavolo da pranzo e oblò, più due cabine notte separate. Gli oblò sono circolari, con un diametro di circa 45 centimetri, posizionati all’altezza degli occhi di chi è seduto. Attraverso di essi gli abitanti della laguna sono sempre in vista: pesci sergente, pesci damigella, qualche barracuda, cernie che scivolano lente nell’ombra della struttura e le varie specie che hanno colonizzato l’esterno nei decenni in cui il lodge è rimasto sul fondo.
 

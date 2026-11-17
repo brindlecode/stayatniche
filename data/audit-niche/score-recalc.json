@@ -1,0 +1,202 @@
+{
+ "banwell-castle-united-kingdom": {
+  "was": 7.6,
+  "setting": 1.5,
+  "stay": 1,
+  "practicality": 1,
+  "uncapped": 5.9,
+  "ceiling": 10,
+  "rating": 5.9,
+  "why": "Victorian Gothic Revival castle that is a family home with B&B rooms; rooms and food barely described by the source"
+ },
+ "cappadocia-cave-suites-turkey": {
+  "was": 9.1,
+  "setting": 2,
+  "stay": 1.5,
+  "practicality": 1.5,
+  "uncapped": 7,
+  "ceiling": 10,
+  "rating": 7,
+  "why": "cave rooms in the centre of Goreme; terraces and rooftop described"
+ },
+ "desert-cave-hotel-australia": {
+  "was": 8.2,
+  "setting": 2.5,
+  "stay": 1.5,
+  "practicality": 3,
+  "uncapped": 8.4,
+  "ceiling": 8.8,
+  "rating": 8.4,
+  "why": "underground rooms in Coober Pedy; only part of the rooms are underground; restaurant and bar"
+ },
+ "gamirasu-cave-turkey": {
+  "was": 9.1,
+  "setting": 2.5,
+  "stay": 2.5,
+  "practicality": 3,
+  "uncapped": 9.1,
+  "ceiling": 10,
+  "rating": 9.1,
+  "why": "restored Byzantine monastic retreat in a quiet valley; 35 individually designed cave rooms"
+ },
+ "goreme-valley-cave-house-turkey": {
+  "was": 8,
+  "setting": 1.5,
+  "stay": 1,
+  "practicality": 1.5,
+  "uncapped": 6.3,
+  "ceiling": 8.8,
+  "rating": 6.3,
+  "why": "guesthouse in Goreme; only 3 cave rooms among 17 rooms"
+ },
+ "kokopelli-cave-usa": {
+  "was": 8.7,
+  "setting": 3,
+  "stay": 2.5,
+  "practicality": 2.5,
+  "uncapped": 9.1,
+  "ceiling": 10,
+  "rating": 9.1,
+  "why": "one private cave blasted into a sandstone cliff, the trip is for it; single party at a time"
+ },
+ "museum-hotel-cappadocia": {
+  "was": 8.8,
+  "setting": 2.5,
+  "stay": 2.5,
+  "practicality": 1.5,
+  "uncapped": 8.1,
+  "ceiling": 8.8,
+  "rating": 8.1,
+  "why": "top of the Ucisar rock; 34 cave and stone rooms with antiques; Michelin-listed restaurant (per hotel)"
+ },
+ "sextantio-cave-italy": {
+  "was": 8.8,
+  "setting": 3,
+  "stay": 2.5,
+  "practicality": 2.5,
+  "uncapped": 9.1,
+  "ceiling": 8.8,
+  "rating": 8.8,
+  "why": "restored cave rooms in Matera's Civita, UNESCO site; 18 cave rooms"
+ },
+ "manshausen-island-resort-norway": {
+  "was": 8.8,
+  "setting": 3,
+  "stay": 2,
+  "practicality": 1.5,
+  "uncapped": 8.1,
+  "ceiling": 8.8,
+  "rating": 8.1,
+  "why": "private island above the Arctic Circle; sea cabins and two towers; interiors little described"
+ },
+ "skylodge-peru": {
+  "was": 9.5,
+  "setting": 3,
+  "stay": 2.5,
+  "practicality": 2,
+  "uncapped": 8.8,
+  "ceiling": 10,
+  "rating": 8.8,
+  "why": "three transparent capsules on a mountain wall 400 m up, reached by via ferrata; dinner included"
+ },
+ "tierra-patagonia-chile": {
+  "was": 8.5,
+  "setting": 2.5,
+  "stay": 2.5,
+  "practicality": 1.5,
+  "uncapped": 8.1,
+  "ceiling": 8.5,
+  "rating": 8.1,
+  "why": "lakeshore lodge facing Torres del Paine; 40 rooms, spa, guided excursions"
+ },
+ "al-maha-dubai": {
+  "was": 9.5,
+  "setting": 2.5,
+  "stay": 2.5,
+  "practicality": 2,
+  "uncapped": 8.4,
+  "ceiling": 10,
+  "rating": 8.4,
+  "why": "tented suites with private pools inside a desert conservation reserve"
+ },
+ "aman-i-khas-india": {
+  "was": 9.6,
+  "setting": 2.5,
+  "stay": 2.5,
+  "practicality": 2,
+  "uncapped": 8.4,
+  "ceiling": 10,
+  "rating": 8.4,
+  "why": "fourteen tented pavilions beside Ranthambore tiger reserve; twice-daily safaris"
+ },
+ "awasi-atacama-chile": {
+  "was": 9.5,
+  "setting": 2.5,
+  "stay": 2.5,
+  "practicality": 1.5,
+  "uncapped": 8.1,
+  "ceiling": 10,
+  "rating": 8.1,
+  "why": "Atacama lodge with a private guide and 4x4 for each room"
+ },
+ "longitude-131-australia": {
+  "was": 9.7,
+  "setting": 3,
+  "stay": 2.5,
+  "practicality": 2.5,
+  "uncapped": 9.1,
+  "ceiling": 10,
+  "rating": 9.1,
+  "why": "sixteen tented pavilions facing Uluru; all-inclusive; closed 25 Jan-19 Apr 2027"
+ },
+ "ms-fram-norway": {
+  "was": 9.2,
+  "setting": 2.5,
+  "stay": 2,
+  "practicality": 1,
+  "uncapped": 7.4,
+  "ceiling": 10,
+  "rating": 7.4,
+  "why": "polar expedition cruise ship for 200 guests; a sailing, not a moored stay"
+ },
+ "guacamayo-ecolodge-ecuador": {
+  "was": 8.3,
+  "setting": 2.5,
+  "stay": 1.5,
+  "practicality": 1.5,
+  "uncapped": 7.4,
+  "ceiling": 10,
+  "rating": 7.4,
+  "why": "huts in the Cuyabeno reserve sold as 3-5 day tour packages"
+ },
+ "gibbon-experience-laos": {
+  "was": 9.4,
+  "setting": 3,
+  "stay": 2,
+  "practicality": 1.5,
+  "uncapped": 8.1,
+  "ceiling": 10,
+  "rating": 8.1,
+  "why": "treehouses in giant tree forks in Nam Kan National Park, reached by trek and ziplines; conservation-funded"
+ },
+ "dromoland-castle-ireland": {
+  "was": 8.8,
+  "setting": 2,
+  "stay": 2,
+  "practicality": 2,
+  "uncapped": 7.7,
+  "ceiling": 8.8,
+  "rating": 7.7,
+  "why": "1835 castle on a 450-acre estate; only the suites are stated to be within the original walls; castle closed for refurbishment"
+ },
+ "intercontinental-thalasso-bora-bora": {
+  "was": 9.3,
+  "setting": 2.5,
+  "stay": 1.5,
+  "practicality": 0,
+  "uncapped": 6.3,
+  "ceiling": 10,
+  "rating": 6.3,
+  "why": "overwater villas on the outer reef; closed since 1 June 2026, only villa types are documented"
+ }
+}

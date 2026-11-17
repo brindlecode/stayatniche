@@ -56,7 +56,7 @@ prosAndCons:
     - "The surrounding area of Clare is quieter than Kerry or Connemara"
     - "The hotel does not say where each castle room category sits, so ask about the setting of your room"
 bookingUrl: "https://www.booking.com/hotel/ie/dromoland-castle.html"
-rating: 8.8
+rating: 7.7
 checkInOut:
   checkIn: "16:00"
   checkOut: "12:00"
