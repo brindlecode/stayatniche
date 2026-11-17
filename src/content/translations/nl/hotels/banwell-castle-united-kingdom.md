@@ -40,4 +40,4 @@ Het kasteel ligt op 25 acres aan tuinen en terrein, die het deelt met het Banwel
 
 ## Praktische informatie
 
-Het adres is Banwell, Somerset, BS29 6NX. Omdat het een familiehuis is, kun je het best rechtstreeks contact opnemen over kamers en beschikbaarheid, en vragen welke kamer past bij jouw gezelschap voordat je boekt.
+Het adres is Banwell, Somerset, BS29 6NX. Omdat het een familiehuis is, kun je het best rechtstreeks contact opnemen over kamers en beschikbaarheid, en vragen welke kamer past bij jouw gezelschap voordat je boekt. De website van het kasteel vermeldt een copyright uit 2009 en lijkt sindsdien niet bijgewerkt, dus controleer of er momenteel bed and breakfast wordt aangeboden, en tegen welke prijzen, voordat je een verblijf plant.

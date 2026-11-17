@@ -31,7 +31,7 @@ Castello Fai ist ein restauriertes Schloss im historischen Zentrum von Fai della
 
 Die Idee ist, den Charme eines historischen Gebäudes zu genießen, ohne auf modernen Komfort zu verzichten. Zu den angegebenen Merkmalen gehören historisches Ambiente, Wärmedämmung, eine Küchenzeile, 1-Gbit/s-Internet, Fußbodenheizung, LED-Beleuchtung, digitales Fernsehen und ein Multiroom-Soundsystem. Die Küche ist mit Geschirr und Geräten ausgestattet, und die Wohnung verfügt über einen privaten Garten und Hausautomation. Im Castello Fai und in der Residenza delle Contesse stehen ein zusätzliches Kinderbett für Kinder bis drei Jahre und ein Hochstuhl bereit.
 
-Der Tag beginnt, wenn sich die Läden öffnen und der Blick über die Zinnen und Wiesen bis zur Silhouette der Paganella reicht. Der Betreiber führt außerdem weitere Ferienhäuser, die Residenza delle Contesse und das Torre del Baron.
+Der Tag beginnt, wenn sich die Läden öffnen und der Blick über die Zinnen und Wiesen bis zur Silhouette der Paganella reicht. Die Wohnung Castello Fai, die bis zu acht Personen Platz bietet, setzt sich aus den Wohnungen Torre del Baron und Residenza delle Contesse zusammen, die der Betreiber auch einzeln anbietet.
 
 ## Die Umgebung
 

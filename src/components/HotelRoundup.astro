@@ -78,7 +78,7 @@ const ld = [
   <section class="mx-auto max-w-7xl px-4 pb-6 sm:px-6 lg:px-8">
     <div class="grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3">
       {sorted.map(h => (
-        <HotelCard name={h.data.name} destination={h.data.destination} country={h.data.country} description={h.data.description} priceRange={h.data.priceRange} priceIndicator={h.data.priceIndicator} rating={h.data.rating} highlights={h.data.highlights} bookingUrl={h.data.bookingUrl} slug={h.slug} category={h.data.category} featured={h.data.featured} coverImage={h.data.coverImage} />
+        <HotelCard name={h.data.name} destination={h.data.destination} country={h.data.country} description={h.data.description} priceRange={h.data.priceRange} priceIndicator={h.data.priceIndicator} rating={h.data.rating} highlights={h.data.highlights} bookingUrl={h.data.bookingUrl} slug={h.slug} category={h.data.category} nicheScope={h.data.niche_scope} nicheBadge={h.data.niche_badge} closed={!!h.data.closure} featured={h.data.featured} coverImage={h.data.coverImage} />
       ))}
     </div>
   </section>

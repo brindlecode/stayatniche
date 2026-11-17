@@ -1,0 +1,345 @@
+[
+ {
+  "slug": "attrap-reves-france",
+  "issue": "Page says 20 minutes from Marseille Vieux-Port and Marseille 20 km away; official site says 10 km from Marseille St Charles station",
+  "action": "corrected",
+  "detail": "Replaced with '10 km from Marseille St Charles station' (also airport 30 km, Aix 35 km, Cassis about 30 minutes by car) in description, body and nearbyAttractions; removed the unsourced Calanques entry and 20/25/35 km distances, in all 6 languages. Extra observations not changed (outside listed issues): king bed (official says queen), en-suite rainfall shower (official: private sanitary facilities in a separate wooden chalet), mini-bar/Nespresso unconfirmed, priceRange and meta '$280' vs official EUR 149-189, meta 'France's premier stargazing hotel'.",
+  "source_url": "https://www.attrap-reves.com/en/unusual-accomodation-ipt/?c4-sleep-in-a-bubble-attrap-reves-allauch"
+ },
+ {
+  "slug": "attrap-reves-france",
+  "issue": "Page implies every unit is a dome; official site also lists Lov'nid, Aqua'Room, huts and a separate cabin site",
+  "action": "corrected",
+  "detail": "Removed 'PVC dome' wording, reworded to 'transparent bubbles' and added a paragraph naming the Lov'nid, Aqua'Room, Tahitian suite and spa, squirrel hut and the separate A Fleur de Bois cabin site, all 6 languages.",
+  "source_url": "https://www.attrap-reves.com/en/sleep-in-a-bubble-cc/"
+ },
+ {
+  "slug": "attrap-reves-france",
+  "issue": "Moroccan/baroque themes, spa treatments, outdoor bathtubs and 'outstanding value' claims not found on official pages",
+  "action": "deleted",
+  "detail": "Removed baroque/Moroccan decor, outdoor bathtub/fire pit and 'spa treatments' claims; replaced with sourced themes (Zen, Jungle, Love Nature, Chic & Design, 1001 nights), optional jacuzzi session and massage as extras, and a sourced rate (from EUR 149/night low season incl. breakfast) in place of the 'outstanding value' pro. All 6 languages.",
+  "source_url": "https://www.attrap-reves.com/en/package-sleep-bubble-pck/?c2-package-unusual-night-constellations-bubbles-or-lov-nid"
+ },
+ {
+  "slug": "attrap-reves-france",
+  "issue": "bookingUrl points to Booking.com, not the official booking page",
+  "action": "skipped_not_text",
+  "detail": "bookingUrl is a protected field; not edited.",
+  "source_url": null
+ },
+ {
+  "slug": "bubbletent-australia",
+  "issue": "Wrong location: property is in Capertee Valley near Lithgow/Mudgee (Capertee NSW 2846), not the Hunter Valley",
+  "action": "corrected",
+  "detail": "Replaced Hunter Valley with Capertee Valley, halfway between Mudgee and Lithgow in description, highlights, pros, nearbyAttractions (Mudgee 55 min, Capertee Hotel 20 min, Rylstone wineries within an hour, Sydney about 2.5 h), body, meta title/description in all 6 languages. The frontmatter 'destination' (Hunter Valley, New South Wales) is a protected field and was left unchanged; also affiliate link URLs still say Hunter Valley.",
+  "source_url": "https://bubbletentaustralia.com/location/"
+ },
+ {
+  "slug": "bubbletent-australia",
+  "issue": "'150-plus cellar doors on the doorstep' is wrong for this location; official site says halfway between Mudgee and Lithgow",
+  "action": "deleted",
+  "detail": "Removed the 150-plus wineries/cellar-door claims, the Hunter Valley winery paragraph and the welcome-hamper bottle; replaced with sourced Mudgee (55 min) and Rylstone wine tasting 'within about an hour'.",
+  "source_url": "https://bubbletentaustralia.com/faq/"
+ },
+ {
+  "slug": "bubbletent-australia",
+  "issue": "Official site says 2.5 hours from Sydney, not two",
+  "action": "corrected",
+  "detail": "Changed to about 2.5 hours in description, highlights, body, nearbyAttractions, meta; all 6 languages.",
+  "source_url": "https://bubbletentaustralia.com/"
+ },
+ {
+  "slug": "bubbletent-australia",
+  "issue": "Official site lists outdoor shower and wood-fired bath as standard in every tent, not 'selected tents'; complimentary wine and Bluetooth speaker not found",
+  "action": "corrected",
+  "detail": "Amenity now 'Outdoor shower and wood-fired bathtub (standard in every tent)'; complimentary wine amenity replaced by 'Firewood and fire starters provided' (sourced). Speaker kept as 'Wireless speaker' because the Your Stay page lists a UE wireless speaker.",
+  "source_url": "https://bubbletentaustralia.com/your-stay/"
+ },
+ {
+  "slug": "bubbletent-australia",
+  "issue": "Adults-only and two-night minimum not mentioned",
+  "action": "corrected",
+  "detail": "Added adults-only and two-night minimum to description, a new cons item, meta description and body, all 6 languages.",
+  "source_url": "https://bubbletentaustralia.com/faq/"
+ },
+ {
+  "slug": "bubbletent-australia",
+  "issue": "bookingUrl points to Booking.com",
+  "action": "skipped_not_text",
+  "detail": "bookingUrl is a protected field; not edited.",
+  "source_url": null
+ },
+ {
+  "slug": "bubbletent-australia",
+  "issue": "destination field still says Hunter Valley",
+  "action": "not_fixed",
+  "detail": "'destination' is a protected field (and the affiliate links use it); needs a manual change to Capertee Valley, New South Wales.",
+  "source_url": null
+ },
+ {
+  "slug": "kakslauttanen-finland",
+  "issue": "Founder given as Yrjö Rissanen; official site names resort owner Mr. Eiramo",
+  "action": "deleted",
+  "detail": "Official site names Mr. Eiramo only as resort owner (designer of Korsu restaurant) and says 'Crafting arctic magic since 1974'; no source for who built the first igloo. Removed the founder name and the 1999 first-igloo claim in all 6 languages.",
+  "source_url": "https://www.kakslauttanen.fi/"
+ },
+ {
+  "slug": "kakslauttanen-finland",
+  "issue": "'More than 65 igloos' and 'world's largest glass igloo village' not found on official pages",
+  "action": "deleted",
+  "detail": "Removed 'sixty-five', '65+' and 'world's largest' from description, highlights, meta description and body in all 6 languages; replaced with sourced list of small, large and Kelo-Glass igloos in East and West villages.",
+  "source_url": "https://www.kakslauttanen.fi/"
+ },
+ {
+  "slug": "kakslauttanen-finland",
+  "issue": "Official small glass igloos have 2 single beds, not a king bed in every igloo",
+  "action": "corrected",
+  "detail": "King/double bed claims replaced by 'beds under a glass roof (two single beds in the small igloos)'; body notes small igloos with two single beds and Kelo-Glass igloos with log-chalet bedrooms.",
+  "source_url": "https://www.kakslauttanen.fi/accommodation/small-glass-igloo-east-village"
+ },
+ {
+  "slug": "kakslauttanen-finland",
+  "issue": "'35 km inside the Arctic Circle' not supported by official pages",
+  "action": "corrected",
+  "detail": "Replaced with 'north of the Arctic Circle', which the official FAQ states ('situated north of the Arctic Circle').",
+  "source_url": "https://www.kakslauttanen.fi/resort/faq"
+ },
+ {
+  "slug": "kakslauttanen-finland",
+  "issue": "Page presents resort as only glass igloos; it also sells log cabins and chalets",
+  "action": "skipped_not_text",
+  "detail": "Category framing; the page already lists log cabins in highlights and seasonalInfo.",
+  "source_url": null
+ },
+ {
+  "slug": "kakslauttanen-finland",
+  "issue": "bookingUrl points to Booking.com",
+  "action": "skipped_not_text",
+  "detail": "bookingUrl is a protected field; not edited.",
+  "source_url": null
+ },
+ {
+  "slug": "mt-matutum-domesville-glamping-philippines",
+  "issue": "Page says only the domes are on offer; official booking page also lists Casita Adrylle, Villa Carliane, Casa del Juancio and a camping tent",
+  "action": "corrected",
+  "detail": "Description and body now say the site is mainly domes but also lists Casita Adrylle, Villa Carliane, Casa del Juancio and a Camping Tent; removed 'only the domes are the niche'. All 6 languages.",
+  "source_url": "https://hotels.cloudbeds.com/reservation/KbrUB1"
+ },
+ {
+  "slug": "mt-matutum-domesville-glamping-philippines",
+  "issue": "Transparency/clear-roof stargazing not stated by operator; page itself tells readers to ask",
+  "action": "not_an_issue",
+  "detail": "Page never claims the domes are transparent, already tells readers to ask, and the operator text does say guests can enjoy 'unlimited stargazing' from inside.",
+  "source_url": "https://hotels.cloudbeds.com/reservation/KbrUB1"
+ },
+ {
+  "slug": "mt-matutum-domesville-glamping-philippines",
+  "issue": "Coordinates (6.317, 125.028) differ from the official page geo (6.334, 124.953)",
+  "action": "not_fixed",
+  "detail": "Confirmed: official JSON-LD geo is 6.33440018, 124.95279694. coordinates is a protected field, so not edited; needs a manual fix.",
+  "source_url": "https://hotels.cloudbeds.com/reservation/KbrUB1"
+ },
+ {
+  "slug": "mt-matutum-domesville-glamping-philippines",
+  "issue": "bookingUrl points to Expedia search",
+  "action": "skipped_not_text",
+  "detail": "bookingUrl is a protected field; not edited.",
+  "source_url": null
+ },
+ {
+  "slug": "revembulle-france",
+  "issue": "Seasonal: official site gives opening 9 May to 5 October 2026",
+  "action": "not_an_issue",
+  "detail": "Official site says 'ouverture: 9 mai au 5 octobre 2026'; the page already says the season runs early May to early October and that the most recent season ran 9 May to 5 October 2026. No change.",
+  "source_url": "https://revembulle.com/"
+ },
+ {
+  "slug": "whitepod-switzerland",
+  "issue": "Page says eighteen pods; official site says only 'a handful of pods' and lists chalets as well",
+  "action": "corrected",
+  "detail": "Removed 'eighteen/18' everywhere; now 'a handful of geodesic pod domes ... alongside separate chalets'. All 6 languages.",
+  "source_url": "https://whitepod.com/en/pods"
+ },
+ {
+  "slug": "whitepod-switzerland",
+  "issue": "Pods at 1,430 m on page; official says about 1,400 m",
+  "action": "corrected",
+  "detail": "Changed to 1,400 m (official FAQ: pods at 1,400 m, reception 1,250 m).",
+  "source_url": "https://whitepod.com/en/our-concept"
+ },
+ {
+  "slug": "whitepod-switzerland",
+  "issue": "Private piste, ski-in/ski-out and fabric-over-steel construction not found on official pages (official says pods reachable on skis or on foot, 20-minute walk)",
+  "action": "deleted",
+  "detail": "Removed private piste, ski-in/ski-out, the whole private-piste paragraph, and fabric-over-steel/timber platform/wood stove details; replaced with sourced facts (large bay window, pellet stove, private bathroom, panoramic terrace, 15 min walk in summer / 20 min in winter from reception). All 6 languages.",
+  "source_url": "https://whitepod.com/en/our-concept"
+ },
+ {
+  "slug": "whitepod-switzerland",
+  "issue": "Pod season June to September and nineteenth-century farmhouse chalet not confirmed",
+  "action": "deleted",
+  "detail": "Removed June-September pod season, spring/autumn closure, mountain biking, and the nineteenth-century farmhouse claim; seasonalInfo now says the official site describes winter and summer stays but gives no opening dates. peakSeason 'January to February' left as is (not flagged).",
+  "source_url": "https://whitepod.com/en/activities"
+ },
+ {
+  "slug": "whitepod-switzerland",
+  "issue": "Cover image is a stock Unsplash URL",
+  "action": "skipped_not_text",
+  "detail": "coverImage is outside the editable fields; needs a real photo supplied manually.",
+  "source_url": null
+ },
+ {
+  "slug": "aldourie-castle-united-kingdom",
+  "issue": "bookingUrl is an Expedia search although the castle is booked as an exclusive-use rental through WildLand",
+  "action": "skipped_not_text",
+  "detail": "bookingUrl is a protected field; not edited.",
+  "source_url": null
+ },
+ {
+  "slug": "aldourie-castle-united-kingdom",
+  "issue": "Not a hotel: 'Guests must book the entire castle'",
+  "action": "skipped_not_text",
+  "detail": "Category framing. The page already says it is not a hotel and is booked for exclusive use; official text confirms 'a private hire, exclusive-use castle only as opposed to a hotel', sleeps 24 in 12 en-suite bedrooms.",
+  "source_url": "https://wildland.scot/properties/aldourie/"
+ },
+ {
+  "slug": "amberley-castle-england",
+  "issue": "Says curtain walls stand at original height; official history says 20-30 ft was lost after 1643 Civil War slighting",
+  "action": "corrected",
+  "detail": "Removed 'original height'; body now says the 60 ft curtain wall still encloses the castle although 20 to 30 feet was lost when defences were destroyed in 1643. All 6 languages.",
+  "source_url": "https://amberleycastle.co.uk/information/"
+ },
+ {
+  "slug": "amberley-castle-england",
+  "issue": "Says rooms are set inside the original towers and gatehouse; official site lists Manor House, Tower House Mews and Bishopric Dairy, no tower/gatehouse rooms",
+  "action": "corrected",
+  "detail": "Description, highlights, pros and rooms section now say the 19 rooms are in different parts of the estate: Manor House, Tower House Mews and Bishopric Dairy beyond the walls.",
+  "source_url": "https://amberleycastle.co.uk/explore/castle-stays-in-west-sussex/"
+ },
+ {
+  "slug": "amberley-castle-england",
+  "issue": "Queen's Room in gatehouse, daily portcullis raising, 'one of the most perfectly preserved' are not supported by the official pages",
+  "action": "deleted",
+  "detail": "Removed Queen's Room, daily raising of the portcullis, 'perfectly preserved' and 'most romantically preserved' superlatives, and the 'only entrance' claim (official lists water-gate and postern); kept 'ancient portcullis' (official wording). All 6 languages, incl. meta descriptions.",
+  "source_url": "https://amberleycastle.co.uk/information/"
+ },
+ {
+  "slug": "ashford-castle-ireland",
+  "issue": "'Built in 1228' not stated by official site (says origins in the 13th century)",
+  "action": "corrected",
+  "detail": "Replaced 1228, the de Burgo tower and '800 years' with 'origins in the 13th century'; the 19th-century Guinness expansion reworded to 'once home to the Guinness family' (official wording). All 6 languages incl. meta.",
+  "source_url": "https://www.ashfordcastle.com/about"
+ },
+ {
+  "slug": "ashford-castle-ireland",
+  "issue": "'83 individually designed rooms': official figure is 83 rooms, suites and the Boathouse",
+  "action": "corrected",
+  "detail": "Now '83 individually designed rooms and suites, including a historic boathouse perched over the lake'; removed 'around the castle's medieval bones' and 'castle rooms'.",
+  "source_url": "https://www.ashfordcastle.com/"
+ },
+ {
+  "slug": "ashford-castle-ireland",
+  "issue": "'Ireland's best falconry school' / 'rated among the best in the world' and 'Michelin recognition' are unsupported superlatives on the official pages I checked",
+  "action": "deleted",
+  "detail": "Removed 'renowned/highly regarded falconry school', 'Ireland School of Falconry', 'Michelin recognition' (and a fr 'table etoilee' in the meta); now 'falconry ... with experts, no previous experience necessary' (official) and George V Dining Room built for the 1905 visit of the Prince of Wales (official). All 6 languages.",
+  "source_url": "https://www.ashfordcastle.com/experiences"
+ },
+ {
+  "slug": "augill-castle-united-kingdom",
+  "issue": "Page does not mention the Garden Suites, Family Estate Houses and Stable House listed on the official stay page",
+  "action": "corrected",
+  "detail": "Added a sentence to the rooms section (all 6 languages) that not every room is in the castle: Garden Suites, Family Estate Houses and a Stable House are also let.",
+  "source_url": "https://stayinacastle.com/staying-with-us/"
+ },
+ {
+  "slug": "augill-castle-united-kingdom",
+  "issue": "'Gothic Revival' and 'originally a private residence' not stated on the official pages I read (castle is 19th century)",
+  "action": "deleted",
+  "detail": "Removed 'Gothic Revival' (and neogothic equivalents, including in meta descriptions) and 'originally a private residence'; now '19th-century castle ... run as a hotel'. All 6 languages.",
+  "source_url": "https://stayinacastle.com/"
+ },
+ {
+  "slug": "ballygally-castle-hotel-united-kingdom",
+  "issue": "Official homepage was behind a Cloudflare block for curl; text obtained via fetch tool, not directly verified line by line",
+  "action": "corrected",
+  "detail": "Re-verified through the fetch tool: official text confirms 54 bedrooms, Tower Rooms in the 17th Century Castle building, built 1625. No edit needed for those; see next item.",
+  "source_url": "https://www.ballygallycastlehotel.com/"
+ },
+ {
+  "slug": "ballygally-castle-hotel-united-kingdom",
+  "issue": "Page says most rooms are in later extensions; official text I obtained does not state the split",
+  "action": "deleted",
+  "detail": "Removed 'most rooms are in later extensions', 'Coastal Deluxe added in 2014' and 'a handful / only a few rooms in the tower'; now says Tower Bedrooms are in the original castle building and Coastal Deluxe rooms have panoramic bay views (official). All 6 languages incl. meta.",
+  "source_url": "https://www.ballygallycastlehotel.com/"
+ },
+ {
+  "slug": "banwell-castle-united-kingdom",
+  "issue": "Official site is stale (copyright 2009, Flash notice); current B&B operation and rates could not be confirmed",
+  "action": "corrected",
+  "detail": "Content matches the official site, but added a caveat in Practical notes (all 6 languages) that the site carries a 2009 copyright and visitors should confirm B&B and rates before planning.",
+  "source_url": "http://www.banwellcastle.co.uk/"
+ },
+ {
+  "slug": "banwell-castle-united-kingdom",
+  "issue": "Castle is a Victorian Gothic Revival mansion, not medieval; page does say Victorian",
+  "action": "not_an_issue",
+  "detail": "Page already describes it as Gothic Revival, Victorian, complete by 1847.",
+  "source_url": "http://www.banwellcastle.co.uk/"
+ },
+ {
+  "slug": "banwell-castle-united-kingdom",
+  "issue": "Rating 7.6 is unsourced",
+  "action": "not_fixed",
+  "detail": "rating is a protected field; not edited. Needs a manual decision (remove or source).",
+  "source_url": null
+ },
+ {
+  "slug": "barcaldine-castle-united-kingdom",
+  "issue": "Official homepage says built 1590-1609 while the history page says 1601-1609; page follows the history page",
+  "action": "corrected",
+  "detail": "Both official pages agree on 1609 as the end date, so the page now says 'completed by 1609' (early 17th century) and notes the start date differs between the castle's own pages (1590 vs 1601). All 6 languages incl. meta.",
+  "source_url": "https://barcaldinecastle.co.uk/history/"
+ },
+ {
+  "slug": "barony-castle-hotel-united-kingdom",
+  "issue": "Page calls it a 16th-century castle; history page shows 1536 house rebuilt c.1700-15, extended in the 19th century and gutted by fire in 1983, with 'the remainder' 20th-century additions",
+  "action": "corrected",
+  "detail": "Reworded to a Scots-baronial house of 1536 on a peel-tower site, Jacobean facade 1700-1715, 19th-century family wing, gutted by fire in 1983, remainder 20th-century additions; description, highlight, meta and body in all 6 languages. Also deleted the unsupported '16th-century altar' sentence.",
+  "source_url": "https://www.baronycastle.com/about-barony-castle/the-history-of-barony-castle/"
+ },
+ {
+  "slug": "barony-castle-hotel-united-kingdom",
+  "issue": "'82 bedrooms' are not stated to be in the castle itself; page admits it is a larger hotel than most castle stays",
+  "action": "corrected",
+  "detail": "Added that the hotel does not say which bedrooms are in the old house (all 6 languages); kept '82 bedrooms' as a hotel total.",
+  "source_url": "https://www.baronycastle.com/about-barony-castle/the-history-of-barony-castle/"
+ },
+ {
+  "slug": "borgo-castello-panicaglia-italy",
+  "issue": "Page says all rooms have private bathrooms and tea/coffee; not checked on room pages",
+  "action": "not_an_issue",
+  "detail": "Checked room pages (Assunta, Caterina, Daniele, Geltrude, Giovanni, Cardinale Pietro Marini, Michele): private bathrooms and coffee/tea supplies listed. No change.",
+  "source_url": "https://www.borgocastellopanicaglia.com/en/rooms/daniele/"
+ },
+ {
+  "slug": "borgo-castello-panicaglia-italy",
+  "issue": "Official room list also includes Michele holiday house (adjoining the hotel) and several rooms the page does not name",
+  "action": "corrected",
+  "detail": "Added the remaining named rooms, the Michele holiday house (connected to the hotel, not in the castle) and a note that some rooms (Daniele, Geltrude) are in an annex; 'castle' changed to 'guesthouse' for the room list. All 6 languages.",
+  "source_url": "https://www.borgocastellopanicaglia.com/en/rooms/18-michele-holiday-house-4-pers/"
+ },
+ {
+  "slug": "castello-della-pieve-italy",
+  "issue": "Dante's exile claim is the property's own tradition (page attributes it correctly)",
+  "action": "not_an_issue",
+  "detail": "Page says 'According to the property'; the official site says the exile of Dante was decided here. No change.",
+  "source_url": "https://castellodellapieve.it/"
+ },
+ {
+  "slug": "castello-della-pieve-italy",
+  "issue": "Official homepage says 'eight romantic rooms' while room list shows about 10 units",
+  "action": "not_found",
+  "detail": "The page states no room count; it lists named rooms and suites. Nothing to correct.",
+  "source_url": "https://castellodellapieve.it/"
+ }
+]

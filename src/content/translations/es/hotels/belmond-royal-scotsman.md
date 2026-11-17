@@ -10,7 +10,7 @@ highlights:
   - "Excursiones y catas en destilerías de whisky en algunos recorridos"
   - "Magnífica cocina de las Tierras Altas con caza, marisco y despensa escocesa"
 amenities:
-  - "State Cabins y Cabin Suites con baño privado en algunos vagones"
+  - "18 cabinas para dormir (Grand Suites, Suites, cabinas dobles y twin); las Grand Suites y las cabinas dobles y twin tienen baño privado"
   - "Vagón mirador con plataforma trasera abierta"
   - "Cenas de varios platos con alta cocina escocesa y francesa"
   - "Pensión completa con whiskies de malta escoceses y vinos finos"
@@ -55,8 +55,8 @@ La West Highland Line es considerada, por la prensa ferroviaria y por muchos de 
 
 El tren de Belmond lleva a un máximo de 36 viajeros en vagones de carácter cuidadosamente restaurado: tejidos de tartán de las Tierras Altas, paneles de madera pulida, herrajes de latón y lámparas de mesa que desprenden una calidez muy escocesa. A esta escala, la vida social a bordo se parece a una fiesta en una casa de campo. Las conversaciones surgen con naturalidad entre personas a las que el viaje y el paisaje compartido han reunido. El vagón mirador, en la cola, da a una plataforma donde puedes salir al aire de las Tierras Altas mientras la superficie de los lagos atrapa la luz de la tarde y los ciervos rojos te observan desde las laderas.
 
-Las State Cabins tienen una cama individual o dos camas y baño privado: mantas gruesas, luces de lectura bien colocadas y espacio de almacenaje pensado para viajar. Pequeñas, pero adecuadas para lo que son.
+Hay 18 cabinas, cada una para dos huéspedes: Grand Suites, Suites (nuevas a partir de abril de 2027), cabinas dobles y cabinas twin. Las Grand Suites y las cabinas dobles y twin tienen baño privado. Pequeñas, pero adecuadas para lo que son.
 
 Las comidas son formales pero relajadas, como solo Escocia sabe serlo: manteles blancos y cristalería, ventanas que muestran una cañada envuelta en la niebla matinal durante el desayuno y un lago que se vuelve violeta en el largo crepúsculo del norte durante la cena. La cocina utiliza venado, urogallo, cordero de las Tierras Altas y bogavante y salmón de la costa oeste: la excepcional despensa escocesa tratada con honestidad. Y el servicio de whisky, en un tren que pasa cerca de algunas de las destilerías más prestigiosas del mundo, se administra con auténtico entusiasmo.
 
-Las excursiones fuera del tren incluyen visitas a destilerías, paseos por fincas de las Tierras Altas, visitas a castillos y salidas en barco por los lagos. El Grand Tour de cuatro noches es la versión que mejor demuestra todas las posibilidades del tren. Reserva con doce meses de antelación para las salidas de pleno verano.
+Las excursiones fuera del tren incluyen visitas a destilerías, paseos por fincas de las Tierras Altas, visitas a castillos y salidas en barco por los lagos. El Grand Tour of Scotland de siete noches es la versión que mejor demuestra todas las posibilidades del tren. Reserva con doce meses de antelación para las salidas de pleno verano.

@@ -21,6 +21,7 @@ bestFor:
 seo:
   metaTitle: "Dormire nel faro Belle Tout | StayAtNiche"
   metaDescription: "B&B nel faro Belle Tout, costruito nel 1832 sulle scogliere di Beachy Head: sei camere, di cui una sola nella torre, riservato a chi ha 16 anni o più."
+niche_feature: "Solo 1 delle 6 camere da letto, la Keeper's Loft, si trova all'interno della torre originale del faro in granito; le altre cinque sono normali camere con bagno privato nel resto dell'edificio."
 ---
 
 Belle Tout è un B&B ricavato in un faro sulle scogliere di Beachy Head, vicino a Eastbourne nel East Sussex. Il faro è stato costruito nel 1832 ed è stato restaurato, e si affaccia sulla Manica, sulle Seven Sisters e sulle dolci colline dei South Downs. Sono disponibili solo sei camere, tutte con bagno privato.

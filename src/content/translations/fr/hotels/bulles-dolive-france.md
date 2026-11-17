@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Bulles d'Olive : hôtel bulle en Drôme | StayAtNiche"
   metaDescription: "Bulles d'Olive à Nyons : deux bulles transparentes et une cabane en bois parmi les oliviers, piscine chauffée par le soleil et petit-déjeuner maison."
+niche_feature: "Deux bulles transparentes (Olea, Provence) et une cabane en bois (Zome Céleste) dans une maison d'hôtes de Nyons ; seules les deux bulles relèvent de la catégorie."
 ---
 
 Bulles d'Olive est une petite maison d'hôtes au milieu des oliviers, à Nyons, dans la Drôme provençale. Elle ne compte que trois hébergements : deux bulles transparentes, Olea et Provence, et une cabane en bois appelée Zome Céleste. Chacun est prévu pour deux personnes, et l'ensemble est pensé pour une nuit à deux sous les étoiles.

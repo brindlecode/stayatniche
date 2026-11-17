@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Vintage Cave House: grothotel in Göreme | StayAtNiche"
   metaDescription: "Vintage Cave House in Göreme: boutiquehotel in een familiehuis met vier grotkamers, vijf stenen kamers, terrassen met ballonzicht en een rustige tuin."
+niche_feature: "Een familiehuis in Göreme, al vijf generaties in de familie, in 2015 omgebouwd tot boetiekhotel met 4 gerestaureerde grotkamers en 5 stenen kamers; volgens de homepage zijn de grotkamers uitgehouwen in oeroude rotsen."
 ---
 
 Vintage Cave House begint met een oud huis in Göreme dat al vijf generaties het thuis van de familie is. Inmiddels is het een boutiquehotel, en het is eerlijk over de mix: vier grotkamers en vijf stenen kamers. Wil je een kamer die in de rots is uitgehakt? Vraag dan naar een van de grotkamers.

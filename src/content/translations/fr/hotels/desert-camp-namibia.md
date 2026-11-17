@@ -13,7 +13,7 @@ amenities:
   - "Chambres climatisées"
   - "Kitchenette et barbecue dans chaque unité"
   - "Parking privé"
-  - "Wi-Fi au bar et près de la piscine"
+  - "Wi-Fi gratuit dans le bâtiment principal"
 bestFor:
   - "Groupes en formule autonome"
   - "Excursions d’une journée à Sossusvlei"
@@ -32,7 +32,7 @@ Il y a 28 unités indépendantes, conçues pour se fondre dans le paysage. Chacu
 
 ## Le cadre
 
-Le camp est niché sous des acacias que l’établissement décrit comme centenaires, avec vue sur le paysage désertique et les montagnes environnantes. Le bâtiment principal abrite un bar bien approvisionné avec téléviseur grand écran, ainsi qu’une piscine ; deux bomas communs offrent aux groupes un lieu de rencontre le soir. Le Wi-Fi est disponible au bar et près de la piscine, mais pas dans les unités.
+Le camp est niché sous des acacias que l’établissement décrit comme centenaires, avec vue sur le paysage désertique et les montagnes environnantes. Le bâtiment principal abrite un bar bien approvisionné avec téléviseur grand écran, ainsi qu’une piscine ; deux bomas communs offrent aux groupes un lieu de rencontre le soir. Le Wi-Fi gratuit est disponible dans le bâtiment principal.
 
 ## Informations pratiques
 

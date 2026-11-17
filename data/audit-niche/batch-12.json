@@ -53,7 +53,7 @@
  },
  {
   "new_category": null,
-  "closest_category": null,
+  "closest_category": "jungle-lodges",
   "treehouse_structure": null,
   "page_issues": [
    "Entire page unsupported: official site unreachable (HTTP 500) so room views, solar power, family-run and Salkantay-stop claims could not be checked"
@@ -67,13 +67,15 @@
   "niche_feature": "Could not confirm the rainforest/off-grid claims: the official site returned HTTP 500 (WordPress/PHP error) on every page tried, and no other citable page was reachable.",
   "evidence_quote": null,
   "operating": "unknown",
-  "verdict": "keep",
+  "verdict": "draft",
   "reason": "Official site down (HTTP 500) at all URLs; no citable source reachable, so the jungle-lodge feature is unconfirmed.",
   "location": {
    "region": null,
    "city": null,
    "locality": null
-  }
+  },
+  "agent_verdict": "keep",
+  "editor_note": "Owner decision 2026-11-17: no official source reachable / does not meet the category rule; set to draft with a redirect to the closest category."
  },
  {
   "new_category": null,
@@ -119,7 +121,7 @@
   "source_url": "https://nihi.com/sumba/villa/treehouse/",
   "source_type": "official",
   "niche_scope": "specific_rooms",
-  "niche_feature": "Only one villa, the three-bedroom Treehouse (3 of 31 villas/estates), is built within the trees: circular glass bedrooms elevated above ground, linked by raised walkways. Rest are beachfront or hillside villas on dry-coast Sumba, not jungle lodge.",
+  "niche_feature": "Only one of the 31 villas and estates qualifies: the three-bedroom Treehouse, built within the trees on the edge of an ancient forest, with circular glass bedrooms raised above the ground and linked by raised walkways. The other villas are beachfront or hillside villas, not treehouses.",
   "evidence_quote": "The Treehouse is built within the trees on the edge of an ancient forest.",
   "operating": "open",
   "verdict": "move",

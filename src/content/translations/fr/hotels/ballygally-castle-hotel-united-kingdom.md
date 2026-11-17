@@ -1,7 +1,7 @@
 ---
 source: ballygally-castle-hotel-united-kingdom
 destination: "Ballygally, comté d'Antrim, Irlande du Nord"
-description: "Un hôtel quatre étoiles construit autour d'un château de 1625 sur la côte d'Antrim, avec 54 chambres, dont une poignée seulement se trouvent dans la tour d'origine, au-dessus de la baie de Ballygally."
+description: "Un hôtel quatre étoiles construit autour d'un château de 1625 sur la côte d'Antrim, avec 54 chambres, dont certaines se trouvent dans le bâtiment d'origine du château, au-dessus de la baie de Ballygally."
 highlights:
   - "Château construit en 1625, face à la baie de Ballygally et à la mer d'Irlande"
   - "Tower Bedrooms, dans la tour d'origine du XVIIe siècle"
@@ -23,7 +23,8 @@ bestFor:
   - "Familles"
 seo:
   metaTitle: "Ballygally Castle Hotel : château-hôtel | StayAtNiche"
-  metaDescription: "Ballygally Castle Hotel, sur la côte d'Antrim : un château de 1625 aux 54 chambres, dont une poignée dans la tour d'origine face à la baie de Ballygally."
+  metaDescription: "Ballygally Castle Hotel, sur la côte d'Antrim : un château de 1625 aux 54 chambres, dont certaines dans le bâtiment d'origine du château, face à la baie de Ballygally."
+niche_feature: "Château-hôtel du XVIIe siècle ; les Tower Bedrooms se trouvent dans le bâtiment d'origine du château, alors que l'hôtel compte 54 chambres au total. Le site n'indique pas le nombre de chambres situées dans le château."
 ---
 
 Ballygally Castle se dresse à l'extrémité de la baie de Ballygally, sur la côte d'Antrim, à environ trois miles au nord de Larne, la route côtière et la mer d'Irlande juste devant lui. Le château a été bâti en 1625 par James Shaw, un Écossais originaire de Greenock, et il sert toujours de résidence. Aujourd'hui, c'est un hôtel quatre étoiles exploité par Hastings Hotels, qui l'a racheté en 1966.
@@ -34,7 +35,7 @@ La partie ancienne est une tour rectangulaire de style baronial écossais : quat
 
 ## Les chambres
 
-L'hôtel compte 54 chambres. La plupart se trouvent dans des extensions plus récentes, dont les chambres Coastal Deluxe ajoutées en 2014, qui donnent directement sur la baie ; les chambres Superior ont vue sur les jardins clos de murs. Si vous venez pour le château lui-même, réservez l'une des rares Tower Bedrooms, situées dans le bâtiment d'origine du XVIIe siècle. Tout en haut, dans l'une des tourelles, se trouve la « chambre hantée », censée être celle de Lady Isabella Shaw, dont le fantôme fait partie de l'histoire du château. On trouve aussi des Junior Suites, des chambres familiales et communicantes, ainsi que deux chambres entièrement accessibles dotées de salles d'eau à l'italienne.
+L'hôtel compte 54 chambres. Les chambres Coastal Deluxe offrent une vue panoramique sur la baie ; les chambres Superior ont vue sur les jardins clos de murs. Si vous venez pour le château lui-même, réservez l'une des Tower Bedrooms, situées dans le bâtiment d'origine du château, du XVIIe siècle. Tout en haut, dans l'une des tourelles, se trouve la « chambre hantée », censée être celle de Lady Isabella Shaw, dont le fantôme fait partie de l'histoire du château. On trouve aussi des Junior Suites, des chambres familiales et communicantes, ainsi que deux chambres entièrement accessibles dotées de salles d'eau à l'italienne.
 
 ## Environs
 
@@ -42,4 +43,4 @@ Ballygally se trouve sur la Causeway Coastal Route, ce qui fait de l'hôtel une 
 
 ## Informations pratiques
 
-L'arrivée se fait à partir de 16 h et le départ avant 11 h. Seules quelques chambres se trouvent dans l'ancienne tour : demandez une Tower Bedroom nommément lors de la réservation.
+L'arrivée se fait à partir de 16 h et le départ avant 11 h. Les Tower Bedrooms se trouvent dans l'ancien château : demandez-en une nommément lors de la réservation.

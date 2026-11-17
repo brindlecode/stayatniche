@@ -1,7 +1,7 @@
 ---
 source: rekero-camp-masai-mara
 destination: "Riserva nazionale Masai Mara, Rift Valley"
-description: "Rekero è un classico campo tendato immerso in un boschetto di fichi sulle rive del fiume Talek, nel cuore del Masai Mara, gestito dal gruppo Governors' Camp con un'attenzione particolare all'esperienza autentica nella savana, alle guide masai esperte e alla fauna stanziale di una delle riserve più note del Kenya. La sua posizione all'interno della riserva mette a portata di mano avvistamenti straordinari della Grande Migrazione."
+description: "Rekero è un classico campo tendato immerso tra gli alberi sulle rive del fiume Talek, nel cuore del Masai Mara, gestito da Asilia Africa con un'attenzione particolare all'esperienza autentica nella savana, alle guide masai esperte e alla fauna stanziale di una delle riserve più note del Kenya. La sua posizione all'interno della riserva mette a portata di mano avvistamenti straordinari della Grande Migrazione."
 highlights:
   - "Spettacolari attraversamenti del fiume Mara durante la Grande Migrazione (luglio–ottobre)"
   - "Branchi stanziali di leoni, famiglie di ghepardi e leopardi nelle pianure del Mara"
@@ -36,7 +36,7 @@ prosAndCons:
 seasonalInfo:
   bestTime: Da luglio a ottobre per la Grande Migrazione; gennaio e febbraio per la stagione dei parti a sud
   peakSeason: Agosto e settembre (picco degli attraversamenti)
-  notes: "Il Masai Mara è magnifico tutto l'anno, perché la fauna stanziale — leoni, leopardi, ghepardi, elefanti, bufali — è presente in ogni stagione. La Grande Migrazione dal Serengeti arriva da luglio in poi, quando gnu e zebre si spostano verso nord in cerca di pascoli, con gli spettacolari attraversamenti del fiume Mara concentrati tra agosto e settembre. La stagione verde (aprile–giugno) offre un'avifauna eccezionale e pianure quasi deserte, spesso con tariffe sensibilmente più basse."
+  notes: "Il Masai Mara è magnifico tutto l'anno, perché la fauna stanziale — leoni, leopardi, ghepardi, elefanti, bufali — è presente in ogni stagione. La Grande Migrazione dal Serengeti arriva da luglio in poi, quando gnu e zebre si spostano verso nord in cerca di pascoli, con gli spettacolari attraversamenti del fiume Mara concentrati tra agosto e settembre. La stagione verde (aprile–giugno) offre un'avifauna eccezionale e pianure quasi deserte, spesso con tariffe sensibilmente più basse. Il campo è chiuso in aprile e maggio e aperto da giugno a marzo."
 nearbyAttractions:
   - name: Punti di attraversamento del fiume Mara
     distance: 10 km
@@ -53,9 +53,9 @@ seo:
 
 Le praterie aperte e ondulate del Masai Mara, che si allungano fino a ogni orizzonte sotto il cielo dell'Africa orientale, ospitano concentrazioni eccezionali di grandi mammiferi nell'ambito dell'ecosistema più ampio del Serengeti, di cui il Mara è la propaggine settentrionale in territorio keniota. Un campo ben posizionato all'interno della riserva significa che la fauna è vicina e costante, non qualcosa che devi andare a cercare in auto.
 
-Rekero sorge tra fichi imponenti sul fiume Talek, con le sue dieci classiche tende in tela allineate lungo la riva nello stile dei grandi campi dell'Africa orientale dell'epoca coloniale della caccia, oggi interamente dedicati al safari fotografico e all'osservazione della fauna. Le pareti di tela e la struttura in legno rendono vicinissimi i suoni della savana — la tosse territoriale di un leopardo da qualche parte nel buio, i richiami lontani di un branco di leoni, gli ippopotami nel fiume sottostante — e le verande delle tende affacciate sulla riva rendono ogni mattina un momento da attendere con impazienza.
+Rekero sorge tra gli alberi sul fiume Talek, con le sue nove classiche tende da safari allineate lungo la riva nello stile dei grandi campi dell'Africa orientale dell'epoca coloniale della caccia, oggi interamente dedicati al safari fotografico e all'osservazione della fauna. Le pareti di tela e la struttura in legno rendono vicinissimi i suoni della savana — la tosse territoriale di un leopardo da qualche parte nel buio, i richiami lontani di un branco di leoni, gli ippopotami nel fiume sottostante — e le verande delle tende affacciate sulla riva rendono ogni mattina un momento da attendere con impazienza.
 
-Il corridoio del fiume Talek è una delle zone più ricche di fauna del Mara in ogni periodo dell'anno, e il boschetto di fichi che ripara il campo è un habitat ideale per i leopardi, avvistati regolarmente dal campo stesso. Le pianure aperte che circondano il campo e conducono al resto della riserva ospitano famiglie stanziali di ghepardi, i cui spostamenti di caccia quotidiani si possono seguire per ore con un veicolo disposto a tenere il passo, e branchi di leoni i cui territori si sovrappongono all'area del campo e che le guide localizzano con regolarità.
+Il corridoio del fiume Talek è una delle zone più ricche di fauna del Mara in ogni periodo dell'anno, e gli alberi che riparano il campo sono un habitat per i leopardi, avvistati regolarmente dal campo stesso. Le pianure aperte che circondano il campo e conducono al resto della riserva ospitano famiglie stanziali di ghepardi, i cui spostamenti di caccia quotidiani si possono seguire per ore con un veicolo disposto a tenere il passo, e branchi di leoni i cui territori si sovrappongono all'area del campo e che le guide localizzano con regolarità.
 
 Quando tra luglio e ottobre arriva dalla Tanzania la Grande Migrazione, centinaia di migliaia di gnu e zebre attraversano il fiume Mara nei tradizionali punti di guado, e ogni singolo salto nell'acqua sorvegliata dai coccodrilli è un calcolo a sé, caotico. La posizione di Rekero all'interno della riserva e la conoscenza dei guadi da parte delle guide rendono questo spettacolo accessibile con costanza, non una questione di fortuna e tempismo.
 

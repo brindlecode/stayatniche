@@ -1,11 +1,11 @@
 ---
 source: shinta-mani-wild-cambodia
 destination: Montes Cardamomo, provincia de Koh Kong
-description: "Un campamento de tiendas de lujo en los montes Cardamomo de Camboya, la mayor selva tropical intacta del Sudeste Asiático continental, al que solo se llega por una tirolina que lleva a los huéspedes 400 metros por encima de un río de la selva hasta su punto de llegada. El diseño de Bill Bensley integra nueve suites de lona en el dosel del bosque, y el alojamiento financia y dota de personal a su propio equipo antifurtivos, que opera en el parque nacional."
+description: "Un campamento de tiendas de lujo en los montes Cardamomo de Camboya, la mayor selva tropical intacta del Sudeste Asiático continental, al que se llega por una tirolina que lleva a los huéspedes 400 metros por encima de un río de la selva hasta su punto de llegada. Bill Bensley diseñó las 15 tiendas junto al río, y el resort financia a guardas de Wildlife Alliance que patrullan el bosque de los Cardamomo."
 highlights:
   - Llegada en tirolina sobre un río de la selva
-  - Guardas antifurtivos propios, financiados por el resort
-  - Nueve suites de lona en el dosel de los montes Cardamomo
+  - "Guardas antifurtivos de Wildlife Alliance financiados por el resort"
+  - "15 tiendas junto al río diseñadas por Bill Bensley en la selva de los Cardamomo"
   - Los montes Cardamomo, la mayor selva del Sudeste Asiático continental
   - Arquitectura y diseño de Bill Bensley
 amenities:
@@ -22,13 +22,13 @@ bestFor:
   - Amantes de la arquitectura y el diseño
 seo:
   metaTitle: "Shinta Mani Wild, lujo en la selva camboyana | StayAtNiche"
-  metaDescription: "Shinta Mani Wild: llegada en tirolina a la selva de los montes Cardamomo, en Camboya. Un lodge de Bill Bensley que financia la lucha contra la caza furtiva."
+  metaDescription: "Shinta Mani Wild: llegada en tirolina a la selva de los Cardamomo, en Camboya. 15 tiendas de Bill Bensley, todo incluido, con guardas financiados por el resort."
 ---
 
-Los montes Cardamomo de Camboya se extienden por el suroeste del país: una selva tropical de 4,4 millones de hectáreas que constituye el mayor bosque intacto que queda en el Sudeste Asiático continental. Alberga poblaciones de tigre de Indochina, elefante asiático, pantera nebulosa y oso malayo, especies que en la mayor parte de la región han sido cazadas hasta la extinción o hasta hacerse prácticamente invisibles. El bosque no es una atracción en el sentido convencional; es un ecosistema en funcionamiento cuya supervivencia depende de haber decidido que vale más intacto que talado.
+Los montes Cardamomo de Camboya se extienden por el suroeste del país: una selva tropical de 4,4 millones de hectáreas que constituye el mayor bosque intacto que queda en el Sudeste Asiático continental. Alberga más de 50 especies animales amenazadas, entre ellas elefantes, osos malayos, pangolines, panteras nebulosas y gibones, especies a las que amenazan la caza furtiva, la tala y otras actividades ilegales en toda la región. El bosque no es una atracción en el sentido convencional; es un ecosistema en funcionamiento cuya supervivencia depende de haber decidido que vale más intacto que talado.
 
-Shinta Mani Wild toma esta premisa de conservación y la convierte en el propio producto. El equipo antifurtivos del resort, más de 70 guardas que operan en una concesión de 45.000 hectáreas dentro del parque nacional, se financia directamente con los ingresos de las habitaciones. Los huéspedes pueden unirse a las patrullas a primera hora de la mañana para aprender a identificar trampas, rastrear señales de fauna y comprender las presiones económicas que impulsan la caza furtiva en la región. Es educación con consecuencias directas para la conservación: la fauna que los huéspedes pueden ver en sus paseos por el bosque existe porque los guardas trabajan sin descanso para protegerla.
+Shinta Mani Wild toma esta premisa de conservación y la convierte en el propio producto. El resort ayuda a financiar a Wildlife Alliance, una ONG camboyana cuyos guardas armados patrullan el bosque de los Cardamomo, y ha construido para ella una estación de guardas en sus 350 hectáreas; afirma que paga todos los gastos y el equipo de los guardas. Los huéspedes pueden acompañar a los guardas en moto en patrullas de dos a seis horas, según su resistencia, y se sitúan así en primera línea del trabajo de conservación que su estancia ayuda a financiar.
 
-La llegada es puro teatro. Al campamento solo se accede en tirolina, un cable de 400 metros sobre un río de la selva, o mediante una caminata más larga por el bosque. La tirolina, a la altura de las copas y por encima del agua embravecida, es la llegada más espectacular de cualquier lodge del Sudeste Asiático. Las nueve suites de lona, diseñadas por Bill Bensley (el arquitecto afincado en Bangkok que ha definido el lenguaje visual de los ecolodges de lujo de la región), se levantan sobre plataformas elevadas con vistas a la selva desde camas king size. El diseño es deliberadamente extravagante, con telas estampadas, texturas superpuestas y un maximalismo buscado, como contrapunto a la selva minimalista del exterior.
+La llegada es puro teatro. Al campamento se llega en tirolina, un cable de 400 metros sobre un río de la selva, o mediante una caminata más larga por el bosque. La tirolina, a la altura de las copas y por encima del agua embravecida, es un vuelo emocionante sobre las copas de los árboles. Las 15 tiendas, diseñadas por el arquitecto Bill Bensley, se reparten a lo largo del río, sobre pilotes, apartadas y con aire acondicionado, cada una con un amplio porche y una bañera exterior. El diseño es deliberadamente extravagante, con telas estampadas, texturas superpuestas y un maximalismo buscado, como contrapunto a la selva minimalista del exterior.
 
 Phnom Penh es la puerta de entrada internacional más cercana; desde allí, Koh Kong está a 4 horas por carretera, y el campamento a otras 2 horas en barco remontando el río Preak Tachan. El resort se encarga de toda la logística de los traslados.

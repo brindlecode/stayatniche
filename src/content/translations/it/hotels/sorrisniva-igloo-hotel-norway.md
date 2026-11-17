@@ -1,16 +1,16 @@
 ---
 source: sorrisniva-igloo-hotel-norway
 destination: "Alta, Finnmark"
-description: "Il primo hotel di ghiaccio della Norvegia, ricostruito ogni inverno sulle rive del fiume Alta, nel Finnmark: l'hotel di ghiaccio più settentrionale del mondo e una delle mete più affidabili d'Europa per l'aurora boreale. Suite di ghiaccio scolpite a mano, un ice bar rivestito di pelli di renna e una posizione nella fascia dell'aurora a 70 gradi nord."
+description: "Un hotel di ghiaccio nato in Norvegia come pioniere nel 1999, ricostruito ogni inverno sulle rive del fiume Alta, nel Finnmark: secondo l'hotel stesso il più settentrionale del mondo, nella fascia dell'aurora a 70 gradi nord. Suite di ghiaccio scolpite a mano, un ice bar e una cappella di ghiaccio."
 highlights:
-  - "Il primo e più settentrionale hotel di ghiaccio della Norvegia, ricostruito ogni inverno dal 2000"
+  - "Secondo hotel di ghiaccio del suo genere al mondo, ricostruito ogni inverno (aperto dal 20 dicembre al 31 marzo)"
   - "Sul fiume Alta, a 70 gradi nord, nel cuore della fascia dell'aurora"
   - "Suite di ghiaccio scolpite a mano, ognuna con un tema scultoreo unico"
-  - "Accanto all'Alta Museum, sito di arte rupestre patrimonio mondiale UNESCO"
+  - "Oltre 20 camere e suite di ghiaccio, con cappella e sculture di ghiaccio"
 amenities:
   - "Suite di ghiaccio con sacco a pelo su letto di ghiaccio coperto di pelli di renna"
-  - "Camere riscaldate disponibili accanto all'hotel di ghiaccio"
-  - "Ice bar con sedute rivestite di pelli di renna"
+  - "Camere riscaldate nell'Arctic Wilderness Lodge, struttura separata"
+  - "Ice bar e cappella di ghiaccio"
   - "Sveglia per l'aurora boreale"
   - "Escursioni in motoslitta e in slitta trainata dai cani"
   - "Colazione artica inclusa"
@@ -21,13 +21,14 @@ bestFor:
   - "Viaggiatori a caccia di esperienze imperdibili"
 seo:
   metaTitle: "Sorrisniva: hotel di ghiaccio sul fiume Alta | StayAtNiche"
-  metaDescription: "Sorrisniva Igloo Hotel, Norvegia: l'hotel di ghiaccio più a nord del mondo, sul fiume Alta a 70° nord, con suite scolpite a mano, ice bar e aurora boreale."
+  metaDescription: "Sorrisniva Igloo Hotel, Alta: hotel di ghiaccio ricostruito ogni inverno a 70° nord, nella fascia dell'aurora del Finnmark, aperto dal 20 dic. al 31 marzo."
+niche_feature: "Igloo Hotel di ghiaccio e neve ricostruito ogni inverno (dal 20 dicembre al 31 marzo) con camere igloo, camere familiari e suite a tema; l'Arctic Wilderness Lodge, separato, offre normali camere riscaldate."
 ---
 
 Il Sorrisniva Igloo Hotel viene costruito ogni inverno sulle rive ghiacciate del fiume Alta, a 70 gradi nord, e la posizione fa la sua parte, eccome. Alta si trova nel cuore dell'altopiano del Finnmark, è la città di una certa dimensione più settentrionale della Norvegia, e i suoi valori dell'indice Kp raggiungono regolarmente la soglia oltre la quale l'aurora boreale non è solo possibile, ma affidabile. È una delle migliori posizioni d'Europa per l'aurora, con un vero hotel costruito attorno a essa e non solo uno slogan pubblicitario.
 
-L'hotel di ghiaccio viene ricostruito da zero ogni novembre e dicembre con il ghiaccio raccolto dal fiume Alta gelato. La costruzione è un rito di rinnovamento stagionale: artigiani locali e artisti invitati passano settimane a scolpire gli spazi comuni e le singole suite da blocchi di ghiaccio fluviale, creando ambienti che non sono mai uguali da un anno all'altro. I temi cambiano ogni anno: le suite di una stagione possono ispirarsi alla mitologia norrena, quelle della successiva alle leggende sami del Nord, quelle dopo ancora al puro linguaggio formale della luce che attraversa spessori diversi di ghiaccio. Gli spazi comuni — una cappella di ghiaccio, un ice bar rivestito di pelli di renna, un corridoio di sculture di neve — restano a circa -4 °C per tutta la stagione.
+L'hotel di ghiaccio viene ricostruito da zero ogni inverno e apre ogni anno dal 20 dicembre al 31 marzo. La costruzione richiede circa cinque settimane ed è opera di artigiani locali, con ghiaccio d'acqua dolce tagliato in un lago di montagna vicino e neve prodotta con l'acqua del fiume Alta: circa 250 tonnellate di ghiaccio e 7.000 metri cubi di neve per circa 2.500 metri quadrati di hotel. La struttura viene eretta strato dopo strato e poi arredata con mobili, sculture e opere d'arte di ghiaccio, quindi le camere non sono mai uguali da un anno all'altro. Ogni anno ha un tema tratto dalla storia o dalla mitologia locali, come i Vichinghi, le leggende nordiche o la fauna locale. L'hotel ha più di 20 camere e suite, oltre a una cappella di ghiaccio, un ice bar e sculture di ghiaccio.
 
-Dormire nelle suite di ghiaccio è l'esperienza che porta la maggior parte degli ospiti a Sorrisniva. I letti sono piattaforme di ghiaccio coperte di pelli di renna, e si dorme in sacchi a pelo termici ad alte prestazioni che mantengono il calore fino a -30 °C. Dentro le suite la temperatura si mantiene intorno ai -4/-6 °C: abbastanza freddo da essere davvero suggestivo, abbastanza confortevole da dormire. Quasi tutti gli ospiti la descrivono come una delle notti più memorabili della loro vita: il silenzio del ghiaccio, la tenue luce blu che filtra dalle pareti e la consapevolezza del fiume Alta gelato appena fuori.
+Dormire nelle suite di ghiaccio è il cuore di un soggiorno a Sorrisniva. I letti sono coperti di pelli di renna e ogni ospite riceve due sacchi a pelo artici, ciascuno in grado di resistere fino a -30 °C. La temperatura all'interno dell'hotel è costante, tra -4 e -7 °C: abbastanza freddo da essere davvero suggestivo, abbastanza confortevole da dormire. La neve assorbe i suoni, quindi le camere sono estremamente silenziose, e l'hotel stesso descrive il profondo silenzio e la serenità del ghiaccio come parte dell'esperienza.
 
-Il paesaggio di Alta offre molte altre esperienze. L'Alta Museum, a dieci minuti dall'hotel, custodisce la più grande collezione al mondo di arte rupestre dell'età della pietra conservata: un sito patrimonio mondiale UNESCO con scene di caccia e cerimonie sciamaniche incise nello scisto levigato tra 2.500 e 6.000 anni fa. Slitte trainate dai cani lungo il fiume Alta, spedizioni in motoslitta sull'altopiano del Finnmark ed esperienze con i pastori di renne sami sono tutte organizzate direttamente dall'hotel. L'aeroporto di Alta è servito da voli diretti da Oslo, e questo rende l'accesso semplice nonostante la latitudine.
+Il paesaggio di Alta offre altre esperienze. Ad Alta, il centro d'arte rupestre patrimonio mondiale, l'Alta Museum, presenta l'arte rupestre di Alta, sito UNESCO iscritto nel 1985 in cui sono state trovate più di 6.000 incisioni. L'hotel di ghiaccio è il punto di partenza per slitte con gli husky, motoslitte sull'altopiano del Finnmark, ciaspolate, caccia all'aurora boreale ed esperienze sami. L'aeroporto di Alta è servito da voli diretti da Oslo, e questo rende l'accesso semplice nonostante la latitudine.

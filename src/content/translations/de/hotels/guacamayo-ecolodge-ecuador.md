@@ -1,9 +1,9 @@
 ---
 source: guacamayo-ecolodge-ecuador
 destination: "Reservat Cuyabeno, Provinz Sucumbíos"
-description: "Ökolodge aus Holzhütten im Primärregenwald des Cuyabeno-Reservats in Ecuador, mit zertifizierten Guides aus der Region und mehrtägigen Aufenthalten inklusive Touren."
+description: "Ökolodge aus Hütten im Regenwald des Cuyabeno-Reservats in Ecuador, mit zertifizierten Guides aus der Region und mehrtägigen Aufenthalten inklusive Touren."
 highlights:
-  - "Holzhütten im Primärregenwald des Cuyabeno-Reservats"
+  - "Hütten im Regenwald des Cuyabeno-Reservats"
   - "Zertifizierte Guides aus der Region, die Englisch und Spanisch sprechen"
   - "Geführte Touren durch das Reservat"
   - "Balkone über dem Primärwald in einigen Hütten"
@@ -17,10 +17,10 @@ bestFor:
   - "Naturreisende"
 seo:
   metaTitle: "Guacamayo Ecolodge: Ökolodge in Ecuador | StayAtNiche"
-  metaDescription: "Guacamayo Ecolodge in Ecuador: Holzhütten im Primärregenwald des Cuyabeno-Reservats, mit zertifizierten Guides und mehrtägigen Paketen mit Touren."
+  metaDescription: "Guacamayo Ecolodge in Ecuador: Hütten im Regenwald des Cuyabeno-Reservats, mit zertifizierten Guides aus der Region und mehrtägigen Paketen inklusive Touren."
 ---
 
-Guacamayo Ecolodge ist ein Ensemble aus Holzhütten im Primärregenwald des Cuyabeno-Reservats im ecuadorianischen Amazonasgebiet. Die Lodge versteht sich nach eigenen Angaben als Verbindung von ökologischem Komfort und der Natur ringsum. Verkauft wird sie vor allem als mehrtägige Pakete, die die Touren einschließen.
+Guacamayo Ecolodge ist ein Ensemble aus Hütten im Regenwald des Cuyabeno-Reservats im ecuadorianischen Amazonasgebiet. Die Lodge versteht sich nach eigenen Angaben als Verbindung von ökologischem Komfort und der Natur ringsum. Verkauft wird sie vor allem als mehrtägige Pakete, die die Touren einschließen.
 
 ## Die Hütten
 

@@ -1,12 +1,12 @@
 ---
 source: singita-grumeti-tanzania
 destination: "Reserva de caza de Grumeti, Serengeti"
-description: "Singita Grumeti ocupa una concesión privada y exclusiva de 350.000 acres en el corredor occidental del ecosistema del Serengeti, con algunas de las mejores experiencias de safari de África en un paisaje de gran diversidad. Con tres lodges distintos y un campamento de tiendas, Singita ofrece su legendario nivel de servicio en una concesión de conservación donde los huéspedes tienen la naturaleza salvaje solo para ellos."
+description: "Singita Grumeti reúne siete lodges y campamentos (Sasakwa, Faru Faru, Sabora, Milele, Kilima, Serengeti House y Explore) en la Reserva Grumeti, de 350.000 acres, junto al Parque Nacional del Serengeti y gestionada junto con el Grumeti Fund. La observación de fauna es la actividad central."
 highlights:
-  - "Concesión privada y exclusiva de 350.000 acres junto al Parque Nacional del Serengeti"
+  - "Reserva Grumeti de 350.000 acres junto al Parque Nacional del Serengeti, gestionada con el Grumeti Fund"
   - "La Gran Migración atraviesa la concesión (junio-julio)"
   - "Leones, leopardos, guepardos, elefantes y especies raras residentes"
-  - "Observación de fauna excepcional sin otros vehículos alrededor"
+  - "Siete lodges y campamentos distintos dentro de una misma reserva"
   - "El programa de conservación Singita Grumeti Fund protege directamente el ecosistema"
   - "Se permiten los safaris nocturnos y la conducción fuera de pista dentro de la concesión privada"
 amenities:
@@ -25,8 +25,8 @@ bestFor:
   - "Viajeros comprometidos con la conservación"
 prosAndCons:
   pros:
-    - "Al ser una concesión privada, no compites por los avistamientos y la observación de fauna es excepcional"
-    - "El nivel de servicio de Singita está entre los más altos del safari africano"
+    - "Una reserva privada gestionada con el Grumeti Fund, con la observación de fauna en el centro de la estancia"
+    - "Forma parte de la colección de lodges y campamentos de Singita por toda África"
     - "El trabajo de conservación financia directamente la protección de uno de los grandes ecosistemas de África"
     - "Los distintos estilos de lodge dentro de la concesión permiten vivir experiencias diferentes"
   cons:
@@ -49,17 +49,17 @@ nearbyAttractions:
     distance: 120 km
 seo:
   metaTitle: "Singita Grumeti, safari en el Serengeti | StayAtNiche"
-  metaDescription: "La concesión privada de Singita en Grumeti, en el oeste del Serengeti: 350.000 acres, la Gran Migración y el mejor servicio de safari. Desde 1.800 US$."
+  metaDescription: "Singita Grumeti: siete lodges y campamentos en la Reserva Grumeti, de 350.000 acres, junto al Parque Nacional del Serengeti. Desde 1.800 US$."
 ---
 
-El corredor occidental del ecosistema del Serengeti tiene un carácter distinto al de los tramos central y norte, más visitados. Aquí el paisaje tiene una vegetación más densa, los ríos son más constantes y la sensación de naturaleza africana es más inmediata: una tierra de acacias de corteza amarilla, kopjes rocosos y amplios meandros del río Grumeti, donde los cocodrilos han alcanzado tamaños que reflejan millones de años de éxito evolutivo sin perturbaciones. En este paisaje, Singita ha instalado una de las operaciones de safari más serias de África.
+El corredor occidental del ecosistema del Serengeti tiene un carácter distinto al de los tramos central y norte, más visitados. Aquí el paisaje tiene una vegetación más densa, los ríos son más constantes y la sensación de naturaleza africana es más inmediata: una tierra de acacias de corteza amarilla, kopjes rocosos y amplios meandros del río Grumeti, donde los cocodrilos han alcanzado tamaños que reflejan millones de años de éxito evolutivo sin perturbaciones. En este paisaje, Singita ha instalado sus lodges y campamentos.
 
-La concesión privada de Grumeti abarca 350.000 acres justo al lado del Parque Nacional del Serengeti, y dentro de ella los alojamientos de Singita, Sabora Tented Camp, Sasakwa Lodge y Faru Faru River Lodge, son los únicos campamentos que operan. Esta exclusividad no es un detalle secundario de la experiencia, sino su fundamento. Cuando haces un safari en la concesión de Grumeti, tu vehículo es el único presente. No hay conversaciones por radio sobre avistamientos de leones, ni convoyes de todoterrenos esperando junto a una presa, ni ninguna de las concesiones que afectan incluso a las mejores operaciones de los parques nacionales. Los avistamientos llegan al ritmo de los animales y de la atención del equipo de guías, y son solo tuyos.
+La Reserva Grumeti abarca 350.000 acres junto al Parque Nacional del Serengeti. Fue creada por el gobierno de Tanzania en 1994 para proteger la ruta de la migración anual de los ñus, y desde 2002 el Grumeti Fund tiene derecho a gestionarla y conservarla. Singita asumió su gestión para impulsar un turismo de lujo de bajo impacto y hoy opera allí siete lodges y campamentos: Sasakwa, Faru Faru, Sabora, Milele, Kilima, Serengeti House y Explore. La observación de fauna es la actividad central.
 
-La filosofía de servicio de Singita se ha perfeccionado a lo largo de tres décadas, y la concesión de Grumeti es su máxima expresión. La comida es realmente excepcional para un lodge remoto en plena naturaleza, fiel a las raíces sudafricanas de la empresa, con una bodega que no desentonaría en un buen restaurante de Ciudad del Cabo o Johannesburgo. Las habitaciones son suntuosas sin resultar ostentosas, con piscinas privadas y duchas exteriores situadas para potenciar al máximo la conexión con el paisaje sin renunciar a ninguna comodidad.
+La comida es realmente excepcional para un lodge remoto en plena naturaleza, fiel a las raíces sudafricanas de la empresa, con una bodega que no desentonaría en un buen restaurante de Ciudad del Cabo o Johannesburgo. Las habitaciones son suntuosas sin resultar ostentosas, con piscinas privadas y duchas exteriores situadas para potenciar al máximo la conexión con el paisaje sin renunciar a ninguna comodidad.
 
-El trabajo de conservación que sustenta todo el proyecto es importante y auténtico. El Singita Grumeti Fund gestiona unidades antifurtivos, programas de seguimiento de fauna e iniciativas de desarrollo comunitario en toda la concesión y sus zonas de amortiguación, y la protección de esta tierra ha tenido efectos positivos medibles en las poblaciones de fauna de todo el ecosistema del Serengeti. Alojarse aquí es, de la forma más directa que tiene a su alcance un visitante, una contribución a ese trabajo.
+El Grumeti Fund, una organización sin ánimo de lucro, lleva a cabo programas de conservación de fauna y de desarrollo comunitario dentro y alrededor de la Singita Grumeti Reserve; entre sus logros están la recuperación de las poblaciones de búfalos, ñus y elefantes y, en 2019, la reintroducción de nueve rinocerontes negros orientales en peligro crítico. Alojarse aquí es, de la forma más directa que tiene a su alcance un visitante, una contribución a ese trabajo.
 
 La Gran Migración atraviesa el corredor occidental entre junio y julio, cuando manadas enormes avanzan hacia el norte desde las zonas de parto. Los cruces del río Grumeti, vigilados por cocodrilos que han alcanzado un tamaño extraordinario en sus aguas tranquilas, están entre las imágenes que definen el safari. En cualquier caso, la concesión ofrece una excelente observación de fauna todo el año, con poblaciones residentes de todas las grandes especies y una densidad de fauna que refleja décadas de protección constante.
 
-Un itinerario que combine Grumeti con otro alojamiento de Singita, Lamai en el Mara o los lodges de Sabi Sand en Sudáfrica, es uno de los programas de safari multidestino más completos que existen.
+Un itinerario que combine Grumeti con otro alojamiento de Singita, Lamai en el Mara o los lodges de Sabi Sand en Sudáfrica, es una forma de montar un safari multidestino.

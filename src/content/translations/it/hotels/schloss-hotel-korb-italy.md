@@ -21,6 +21,7 @@ bestFor:
 seo:
   metaTitle: "Schloss Hotel Korb a Missiano, Alto Adige | StayAtNiche"
   metaDescription: "Schloss Hotel Korb a Missiano: hotel superiore 4 stelle con suite nel castello, piscine coperta e all'aperto e vista su Bolzano e le Dolomiti."
+niche_feature: "Le suite del castello (circa 40 m², per lo più nella storica Wohnturm/castello) e alcune camere doppie comfort sono nel castello; le suite panoramiche, le doppie exclusive e le suite sudtirolesi e giardino si trovano nella Residence, più recente."
 ---
 
 Schloss Hotel Korb è un hotel superior a 4 stelle a Missiano, nel comune di Appiano, in Alto Adige, con vista su Bolzano e sulle Dolomiti. La struttura descrive il soggiorno come notti da favola nel castello e nella residenza.

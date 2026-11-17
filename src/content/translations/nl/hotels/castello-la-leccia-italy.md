@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Castello la Leccia: agriturismo in Chianti | StayAtNiche"
   metaDescription: "Castello la Leccia in de Chianti Classico: biologische agriturismo met 12 kamers, spa, restaurant en panoramisch zwembad in een kasteel dat in 1077 wordt genoemd."
+niche_feature: "De hotelkamers liggen in het kasteel (sinds 1077 gedocumenteerd, in de 18e eeuw omgebouwd tot een villa, in 2012 gerestaureerd); het aangrenzende appartement Casa La Leccia (5 tweepersoonskamers) is een afzonderlijk gebouw. De site vermeldt nergens in welk gebouw de 12 kamers precies liggen."
 ---
 
 Castello la Leccia is een biologisch landgoed en een charmante agriturismo in de Chianti Classico, bij Castellina in Chianti in de provincie Siena. Het kasteel vormt het hart van het domein: kamers, ontvangstzalen, een restaurant, een zwembad, een spa en andere voorzieningen staan tot je beschikking.

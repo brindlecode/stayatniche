@@ -5,7 +5,7 @@ description: "Ein Albergo diffuso in einer mittelalterlichen Burg und einem Dorf
 highlights:
   - "Albergo diffuso (verstreutes Hotel) in einer mittelalterlichen Burg und einem Dorf"
   - "Seit 1644 im Besitz der Familie Cecchini"
-  - "Zimmer in einem Turm der alten Stadtmauer"
+  - "Drei Zimmer in einem ehemaligen Turm der alten Stadtmauer"
   - "Pool und Sommerrestaurant über einen in den Vulkanfels geschlagenen Gang erreichbar"
   - "In der Nähe der Thermen von Fonteverde"
 amenities:
@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Castello di Proceno: Albergo diffuso | StayAtNiche"
   metaDescription: "Castello di Proceno: Albergo diffuso in einer mittelalterlichen Burg an der Via Francigena, mit Appartements, vier Zimmern, Pool und Sommerrestaurant."
+niche_feature: "Albergo diffuso im Schlosskomplex von Proceno (fünfeckige Festung mit Bergfried, zwei Türmchen und funktionierender Zugbrücke): Apartments und Suiten im Fortino und im Innenhof sowie vier Zimmer in einem ehemaligen Mauerturm. Das separate Bauernhaus Il Giulione liegt außerhalb des Schlosses."
 ---
 
 Das Castello di Proceno ist ein Albergo diffuso, ein Hotel, das sich über die Gebäude eines historischen Dorfes verteilt, statt unter einem einzigen Dach zu liegen. Es belegt eine Burg und den Ortskern von Proceno an der Via Francigena, dort, wo die Toskana, Umbrien und Latium zusammentreffen, im Herzen der Tuscia. Die Terme di Fonteverde in San Casciano dei Bagni liegen nur wenige Kilometer entfernt.
@@ -30,7 +31,7 @@ Die Burg gehört seit 1644 der Familie Cecchini, heute Bisoni Cecchini. Vor rund
 
 ## Die Unterkünfte
 
-Der größte Teil des Aufenthalts findet in Appartements und Suiten statt, die jeweils einen Namen tragen: Primavera, Estate, Autunno, Corsetto, Chiostrino, Loggia, Bicocca und Innominato. Hinzu kommen vier Zimmer namens Caciaia, Collinella, Poggiolo und Belvedere. Die letzten beiden liegen einander gegenüber, und alle vier sind über eine Tür im alten Innenhof zugänglich.
+Der größte Teil des Aufenthalts findet in Appartements und Suiten statt, die jeweils einen Namen tragen: Primavera, Estate, Autunno, Corsetto, Chiostrino, Loggia, Bicocca und Innominato. Hinzu kommen vier Zimmer namens Caciaia, Collinella, Poggiolo und Belvedere. Die letzten beiden liegen einander gegenüber, und alle vier sind über eine Tür im alten Innenhof zugänglich. Laut der Appartement-Seite der Burg gehörten Caciaia, Collinella und Poggiolo einst zu einem Turm der alten Dorfmauer.
 
 Eine innere Treppe verbindet drei Etagen, die einst zu einem der Türme der alten Stadtmauer gehörten. Die Treppe ist steil und für Kinder nicht geeignet. Jedes der vier Zimmer verfügt über einen kleinen Kühlschrank, eine Mikrowelle, einen Wasserkocher, einen Toaster und ein Waschbecken, die Bäder haben Dusche und Föhn. Übernachtung mit Frühstück ist auf Wunsch erhältlich.
 
@@ -41,3 +42,5 @@ Ein kleiner Garten führt zu den Suiten, und ein Zitronenhaus leitet zu einem Ga
 ## Praktische Hinweise
 
 Der Check-in ist zwischen 16 und 19 Uhr möglich, der Check-out erfolgt bis 10 Uhr. Die Zeiten lassen sich anpassen, wenn Sie die Burg rechtzeitig informieren. Ein Besprechungsraum bietet Platz für bis zu 30 Personen. Im Laufe des Jahres finden in der Burg Konzerte und Veranstaltungen statt.
+
+Auf der Website der Burg wird außerdem Il Giulione angeboten, ein getrenntes Bauernhaus (Agriturismo) in 12 km Entfernung von der Burg, mit sechs Schlafzimmern, sechs Bädern und eigenem Pool. Es gehört nicht zur Burganlage.

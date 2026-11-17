@@ -6,7 +6,7 @@ country: "United Kingdom"
 description: "A restored 14th-century medieval castle near Hadrian's Wall with nine rooms in the main castle, plus 19 further rooms in the Castle View building a short walk away."
 priceRange: "Rates vary"
 highlights:
-  - "14th-century castle built in 1364, with walls up to seven feet thick"
+  - "14th-century castle first built in 1350, with walls up to seven feet thick"
   - "Nine individually styled rooms in the main castle with four-poster beds, spa baths or saunas in some"
   - "19 dog-friendly rooms in Castle View, a short walk away"
   - "Daily battlements tour at 10:15am"
@@ -45,7 +45,7 @@ niche_source_url: "https://langleycastle.com/about-langley-castle/"
 niche_verified_at: 2026-11-17
 ---
 
-Langley Castle is a restored medieval tower house in the valley of the River South Tyne in Northumberland, three miles south of Haydon Bridge. It was built in 1364 in an H shape with four floors and a tower at each corner, and it is a Grade I listed building. Its walls are up to seven feet thick, which gives the interior a very particular stillness.
+Langley Castle is a restored medieval tower house in the valley of the River South Tyne in Northumberland, three miles south of Haydon Bridge. It was first built in 1350, in an H shape with four floors and a tower at each corner, and it is a Grade I listed building. Its walls are up to seven feet thick, which gives the interior a very particular stillness.
 
 ## Where to sleep
 

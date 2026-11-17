@@ -49,7 +49,7 @@ Walworth Castle is a Grade I listed building of 12th-century origins near Darlin
 
 ## The rooms
 
-The castle offers a range of rooms, with options both inside the castle and elsewhere on the grounds. The castle rooms have twin or double beds and are in the main building. The largest are the four-poster suites, which are extra large, and some of these are in the castle's towers. The best-known is the King James Suite: King James VI of Scotland is recorded as having stayed in what is now the suite on 14 April 1603. A programme of bedroom renovation is under way, so some rooms have a fresh look while keeping their individual character.
+Not every room is in the main castle. The annex rooms, with double or twin beds, are in an adjoining building next to the castle; Walworth Castle Lodge, at the hotel entrance, accommodates six guests; and there is a separate two-bedroom Holiday Cottage. The castle rooms have twin or double beds and are in the main building. The largest are the four-poster suites, which are extra large, and some of these are in the castle's towers. The best-known is the King James Suite: King James VI of Scotland is recorded as having stayed in what is now the suite on 14 April 1603. A programme of bedroom renovation is under way, so some rooms have a fresh look while keeping their individual character.
 
 ## Eating and drinking
 

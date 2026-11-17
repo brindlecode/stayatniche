@@ -1,12 +1,12 @@
 ---
 source: gamirasu-cave-turkey
 destination: "Ayvalı, Cappadocië"
-description: "Gamirasu ligt in een echt Byzantijns rotsklooster uit de 6e eeuw in het rustigere Ayvalı-dal, op dertig minuten van Göreme, waar de kamers nog de uitgehakte nissen en gewelfde proporties van het oorspronkelijke ontwerp hebben. Ballonnen die opstijgen van de velden direct onder het hotel, een wijnkelder vol Cappadocische wijnen van vulkanische bodem en een Turks ontbijt op het terras terwijl het ochtendlicht over de feeënschoorstenen trekt, maken een verblijf dat voelt als een ontdekking in plaats van een pakketreis."
+description: "Gamirasu ligt in een gerestaureerd Byzantijns kloosterretraite in het dorp Ayvalı bij Ürgüp, met 35 individueel ontworpen grotkamers en suites die de vorm van de oorspronkelijke grotten of stenen structuren volgen. Een wijnkelder vol Cappadocische wijnen van vulkanische bodem en een Turks ontbijt op het terras terwijl het ochtendlicht over de feeënschoorstenen trekt, maken een verblijf dat voelt als een ontdekking in plaats van een pakketreis."
 highlights:
-  - "Kamers in een echt rotsklooster uit de Byzantijnse tijd (6e eeuw na Christus)"
+  - "Grotkamers en suites in een gerestaureerd Byzantijns kloosterretraite"
   - "Rustiger Ayvalı-dal, met veel minder bezoekers dan Göreme of Uçhisar"
-  - "Originele Byzantijnse fresco's zichtbaar in de nissen van sommige kamers"
-  - "Ballonnen die direct buiten het hotel opstijgen"
+  - "Bewaarde orthodoxe kerk uit de 11e eeuw op het terrein, volgens het hotel"
+  - "Ballonvaarten behoren tot de excursies die met het hotel worden aangeboden"
   - "Wijnkelder vol uitstekende Cappadocische wijnen van vulkanische bodem"
 amenities:
   - "Grotkamers met originele uitgehakte tufsteenmuren"
@@ -24,9 +24,8 @@ bestFor:
   - "Reizigers die het echte Turkije willen, ver van de touringcars"
 prosAndCons:
   pros:
-    - "Uitzonderlijk historisch authentiek: meer dan 1000 jaar lang een werkend klooster"
+    - "Uitzonderlijk historisch authentiek, in een gerestaureerd Byzantijns kloosterretraite"
     - "Een stuk rustiger dan de bekendere grothotelclusters van Cappadocië"
-    - "Ballonnen die vanaf het hotel opstijgen zorgen voor magische ochtenden"
     - "Het Turkse ontbijt hier hoort bij het beste van de regio"
     - "Echt persoonlijke service van de familie die het al tientallen jaren runt"
   cons:
@@ -48,22 +47,22 @@ nearbyAttractions:
     distance: "22 km"
 seo:
   metaTitle: "Gamirasu Cave Hotel: grothotel in Cappadocië | StayAtNiche"
-  metaDescription: "Slapen in een Byzantijns klooster uit de 6e eeuw in het rustige Ayvalı-dal in Cappadocië, met originele fresco's en luchtballonnen voor de deur."
+  metaDescription: "Overnachten in een gerestaureerd Byzantijns kloosterretraite in Ayvalı bij Ürgüp: Gamirasu heeft 35 individueel ontworpen grotkamers en suites."
 ---
 
 Cappadocië is uitgegroeid tot een van de drukst bezochte bestemmingen van Turkije, en niet voor niets: het landschap van vulkanisch tufsteen, feeënschoorstenen en uitgehakte dalen hoort bij het meest spectaculaire op aarde. Maar door de populariteit van Göreme en Uçhisar kan een verblijf in een grothotel in het hoogseizoen voelen alsof je iets intiems deelt met een heel grote menigte. Gamirasu biedt iets heel anders.
 
-In het Ayvalı-dal – een rustigere plooi in het Cappadocische landschap, zo'n dertig minuten van Göreme – ligt Gamirasu in een echt Byzantijns kloostercomplex dat in de rots is uitgehakt. De monniken die deze ruimtes uit het zachte vulkanische tufsteen hakten, begonnen daarmee in de 6e eeuw na Christus, en de plek bleef meer dan duizend jaar een levende religieuze gemeenschap. De uitgehakte nissen, de gewelfde plafonds, de proporties van de kamers: het is allemaal het resultaat van Byzantijns ontwerpgevoel, niet de interpretatie ervan door een moderne architect.
+In het dorp Ayvalı bij Ürgüp – een rustigere plooi in het Cappadocische landschap – ligt Gamirasu in een gerestaureerd Byzantijns kloosterretraite. Volgens de website van het hotel maakte het pand ooit deel uit van een kloosterleven dat door de Byzantijnse tijd werd gevormd, en bewaart het een orthodoxe kerk uit de 11e eeuw en de voormalige kloosterkeuken. Elke kamer volgt de natuurlijke vorm van de oorspronkelijke grot of steenstructuur.
 
 **De kamers**
 
-Een kamer in Gamirasu binnenlopen is binnenlopen in iets wat echt oud is. De muren zijn van licht tufsteen, koel en een beetje ruw aan te raken. Nissen – oorspronkelijk voor olielampen en iconen – onderbreken de muren, sommige nog met vage sporen van de fresco's die ooit het hele klooster bedekten. Je voelt de lagen van de tijd: Byzantijns steenwerk, Ottomaanse aanpassingen die in sommige bogen zichtbaar zijn, en discrete moderne leidingen en elektra die er zorgvuldig doorheen zijn geweven.
+Een kamer in Gamirasu binnenlopen is binnenlopen in iets wat echt oud is. De muren zijn van licht tufsteen, koel en een beetje ruw aan te raken. Je voelt de lagen van de tijd: Byzantijns steenwerk, Ottomaanse aanpassingen die in sommige bogen zichtbaar zijn, en discrete moderne leidingen en elektra die er zorgvuldig doorheen zijn geweven.
 
 De bedden zijn comfortabel en opgemaakt met goed linnengoed. De badkamers hebben elementen van de traditionele Turkse hamam: warme stenen oppervlakken, een goede waterdruk en die bijzondere voldoening van een stoomdouche na een ochtendlijke ballonvaart. De kamers verschillen sterk in grootte en karakter, dus het loont om voor het boeken met het hotel te overleggen welke het best bij je past.
 
 **Luchtballonnen**
 
-Door de ligging in het Ayvalı-dal zit je als gast midden in het vlieggebied van de ballonnen. De meeste ochtenden tussen april en november stijgen er bij dageraad tientallen ballonnen op uit het omringende landschap, vanaf het hotelterras te zien als een complete, veelkleurige vloot. Het hotel kan vluchten regelen via lokale aanbieders, en opstijgen vanaf de velden direct onder het hotel is een van de meest filmische manieren om een ochtend in Cappadocië te beginnen.
+De website van het hotel noemt ballonvaarten onder de excursies die met Gamirasu worden aangeboden, naast paarden-, quad- en wandeltochten. Vraag bij het boeken naar de vluchten en de plek van opstijgen.
 
 **Eten en drinken**
 

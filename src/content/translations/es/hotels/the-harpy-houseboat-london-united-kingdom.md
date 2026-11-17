@@ -1,12 +1,12 @@
 ---
 source: the-harpy-houseboat-london-united-kingdom
 destination: "Tower Bridge, Londres"
-description: "Una casa flotante de alquiler vacacional, construida en 1904 como oficina de aduanas flotante y amarrada justo al oeste del Tower Bridge, en el Támesis."
+description: "Una casa flotante de alquiler vacacional, construida en 1904 como oficina de aduanas flotante y amarrada en el Támesis, en la orilla sur, a unos 400 m al este del Tower Bridge."
 highlights:
   - "Construida en 1904 como HMS Harpy, la primera oficina flotante de Aduanas e Impuestos Especiales"
-  - "Amarrada justo al oeste del Tower Bridge, con vistas desde sus cubiertas"
+  - "Amarrada en la orilla sur, a 400 m al este del Tower Bridge, con vistas al puente desde sus cubiertas"
   - "Visitada por el rey Jorge V en 1920 y por el actual rey Carlos III en 1979"
-  - "Cuatro habitaciones"
+  - "Casa flotante de cuatro dormitorios para hasta 12 personas, con 4 camarotes, 3 sofás cama y una cuna"
 amenities:
   - "Wifi de fibra"
   - "Sky Q TV"
@@ -16,18 +16,18 @@ bestFor:
   - "Vistas al río"
 seo:
   metaTitle: "The Harpy Houseboat: casa flotante Londres | StayAtNiche"
-  metaDescription: "The Harpy Houseboat junto al Tower Bridge de Londres: casa flotante de 1904, antigua oficina de aduanas, con cuatro habitaciones y alquiler completo."
+  metaDescription: "The Harpy Houseboat junto al Tower Bridge de Londres: casa flotante de 1904, antigua oficina de aduanas, con cuatro camarotes y alquiler completo."
 ---
 
-The Harpy es una casa flotante amarrada justo al oeste del Tower Bridge, en el Támesis, y tiene una historia propia. Construida en 1904 como HMS Harpy, fue la primera oficina flotante de Aduanas e Impuestos Especiales del mundo y el embarcadero real de la City de Londres. Hoy es un alojamiento de alquiler vacacional.
+The Harpy es una casa flotante en el Támesis, en China Wharf, Mill Street, en la orilla sur, y tiene una historia propia. La web del operador da dos ubicaciones: su texto histórico dice «moored just west of Tower Bridge», mientras que en otro lugar indica que el barco fue trasladado a la orilla sur, a 400 m al este del Tower Bridge. Construida en 1904 como HMS Harpy, fue la primera oficina flotante de Aduanas e Impuestos Especiales del mundo y el embarcadero real de la City de Londres. Hoy es un alojamiento de alquiler vacacional.
 
 ## La historia
 
-Dos visitas reales están ligadas a la embarcación. El rey Jorge V la visitó en 1920, junto con el príncipe de Gales, que más tarde sería Eduardo VIII, para agradecer a los funcionarios de aduanas que trabajaron a bordo durante la Primera Guerra Mundial. En 1979, el actual rey Carlos III visitó el lugar para entregar al propietario un Civic Trust Award, del que es patrono, por la restauración y la reconversión del edificio victoriano catalogado contiguo. La web de la casa flotante cita a Time Out de enero de 2025, que la nombra el Airbnb número uno de Londres.
+Dos visitas reales están ligadas a la embarcación. El rey Jorge V la visitó en 1920, junto con el príncipe de Gales, que más tarde sería Eduardo VIII, para agradecer a los funcionarios de aduanas que trabajaron a bordo durante la Primera Guerra Mundial. En 1979, el actual rey Carlos III visitó el lugar para entregar al propietario un Civic Trust Award, del que es patrono, por la restauración y la reconversión del edificio victoriano catalogado contiguo. La web de la casa flotante cita a Time Out de enero de 2025 con las palabras «London's No. 1 Best Airbnb»; es una cita del operador, no una clasificación independiente que hayamos verificado.
 
 ## La estancia
 
-The Harpy tiene cuatro habitaciones y se alquila entera, lo que la hace ideal para familias y grupos. Las cubiertas dan directamente al Tower Bridge. Se incluyen wifi de fibra y Sky Q TV.
+The Harpy es una casa flotante de cuatro dormitorios de 172 m² (1.850 sq ft), con 4 camarotes, 3 sofás cama y una cuna, para hasta 12 personas, y se alquila entera, lo que la hace ideal para familias y grupos. Las cubiertas dan directamente al Tower Bridge. Se incluyen wifi de fibra y Sky Q TV.
 
 ## Cómo llegar
 

@@ -62,4 +62,4 @@ According to the hotel, it has a prime position in the city centre of Ürgüp, n
 
 Breakfast can be had at any time. An airport shuttle is available on request, and so is a taxi. Credit cards are accepted and money can be exchanged.
 
-If you want a night in a carved room, ask for room 105 specifically. If you mainly want a friendly, central base in Ürgüp and would enjoy one cave room, this is reasonable. If a fully carved hotel is the point of your trip, look elsewhere.
+If you want a night in a cave room, ask for room 105 specifically. If you mainly want a friendly, central base in Ürgüp and would enjoy one cave room, this is reasonable. If a hotel made up entirely of cave rooms is the point of your trip, look elsewhere.

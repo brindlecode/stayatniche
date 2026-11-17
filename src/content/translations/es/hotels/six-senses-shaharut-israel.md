@@ -1,18 +1,18 @@
 ---
 source: six-senses-shaharut-israel
 destination: Shaharut, desierto del Néguev
-description: "Sesenta villas talladas en una meseta del desierto del Néguev a 900 metros de altitud, sobre la confluencia de tres antiguas rutas comerciales del desierto: la Ruta del Incienso, la Ruta de las Especias y el Camino Real. La arquitectura se inspira en las viviendas nabateas excavadas en los acantilados que antaño jalonaban estas rutas; los tratamientos de spa y los programas de bienestar son lo que atrae a los huéspedes de hoy a este rincón del sur de Israel, por lo demás apenas habitado."
+description: "Un retiro en el desierto de 60 suites y villas integradas en un espectacular acantilado, con vistas panorámicas al desierto del Néguev, un spa Six Senses con seis salas de tratamiento y una piscina infinita de agua dulce."
 highlights:
-  - Meseta del desierto del Néguev a 900 m sobre el nivel del mar
-  - Arquitectura de acantilado de inspiración nabatea
-  - La Ruta del Incienso, Patrimonio de la UNESCO, muy cerca
-  - Spa Six Senses de primer nivel mundial
-  - Observación de estrellas en una reserva de cielo oscuro de reconocimiento internacional
+  - "60 suites y villas integradas en un acantilado, con vistas panorámicas al desierto del Néguev"
+  - "Un diseño que evoca a la comunidad nabatea que habitó la zona hace más de 2.000 años"
+  - "Interiores inspirados en la antigua Ruta del Incienso"
+  - "Spa Six Senses"
+  - "Sesiones de observación de estrellas en el Néguev"
 amenities:
   - Spa Six Senses
-  - Piscina infinita con vistas al cañón del desierto
+  - "Piscina infinita de agua dulce con vistas al desierto"
   - Restaurante abierto todo el día con vistas al desierto
-  - Rutas guiadas por el Néguev
+  - "Senderismo, paseos en camello y excursiones en jeep"
   - Programa de observación de estrellas
 bestFor:
   - Viajeros en busca de bienestar
@@ -22,13 +22,13 @@ bestFor:
   - Retiros de lujo en pareja
 seo:
   metaTitle: "Six Senses Shaharut, lujo en el Néguev | StayAtNiche"
-  metaDescription: "Six Senses Shaharut: 60 villas de estilo nabateo en una meseta del Néguev, junto a la Ruta del Incienso, con spa y cielos oscuros para ver estrellas."
+  metaDescription: "Six Senses Shaharut: 60 suites y villas en un acantilado con vistas al desierto del Néguev, spa con seis salas de tratamiento y observación de estrellas."
 ---
 
-El desierto del Néguev ocupa el 60 % del territorio de Israel, pero alberga a menos del 10 % de su población. En Shaharut, en una meseta sobre el cañón de Nahal Parán, el vacío es absoluto: desierto rocoso de horizonte a horizonte, cielo despejado y un registro geológico de 600 millones de años a la vista en los acantilados. Los nabateos, la antigua civilización árabe que controló el comercio regional de especias aproximadamente entre el 400 a. C. y el 100 d. C., levantaron asentamientos y caravasares por todo este paisaje, y la Ruta del Incienso, Patrimonio de la UNESCO, pasa a pocos kilómetros del hotel.
+El desierto del Néguev cubre el 60 % del territorio de Israel, pero alberga a menos del 10 % de su población. En Shaharut el vacío es total: desierto rocoso de horizonte a horizonte y un cielo sin obstáculos. Los nabateos, la antigua civilización árabe que controló el comercio regional de especias desde aproximadamente el 400 a. C. hasta el 100 d. C., levantaron asentamientos y caravasares por todo este paisaje.
 
-Six Senses ha interpretado el legado nabateo a través de la arquitectura: las sesenta villas están construidas con arenisca local e integradas en el acantilado de un modo que remite a las estructuras antiguas, con piscinas privadas que parecen suspendidas sobre el cañón. La estética es a la vez ancestral y precisa: los pabellones del spa emplean materiales de construcción tradicionales en formas inequívocamente contemporáneas. Los característicos programas de salud de Six Senses (biohacking, análisis del sueño, detox personalizado) están disponibles en todo momento.
+Según Six Senses, el aspecto del resort se inspira en las estructuras nómadas del Néguev y evoca a la comunidad nabatea que ocupó la zona hace más de 2.000 años. Las 60 suites y villas están integradas en el terreno y diseñadas para fundirse con el paisaje desértico. Los interiores se inspiran en los patrones y texturas de la antigua Ruta del Incienso; el mobiliario y los accesorios proceden de artesanos locales y combinan piedra natural, madera y cobre, y las puertas interiores están hechas de teca recuperada. El spa Six Senses cuenta con seis salas de tratamiento, diversos programas de bienestar, un Alchemy Bar para mezclar productos botánicos y especialistas invitados en medicina china, osteopatía y sanación energética.
 
-El Néguev es una de las reservas de cielo oscuro designadas de Israel: en las noches de luna nueva, la Vía Láctea se ve de horizonte a horizonte, y la ausencia de cualquier fuente de luz significativa en 50 kilómetros a la redonda lo convierte en algo verdaderamente extraordinario. El programa de astronomía del hotel incluye observaciones guiadas con telescopios profesionales.
+Las sesiones de observación de estrellas forman parte del programa. El resort también tiene un anfiteatro al aire libre moldeado a partir del relieve natural del terreno y convertido en un «Cinema Paradiso» de Six Senses bajo las estrellas, y dos piscinas, entre ellas una piscina infinita de agua dulce con vistas al desierto.
 
-El senderismo por las tierras altas del Néguev (el Sendero Nacional de Israel, los tramos de la Ruta del Incienso y el cercano cráter de Majtesh Ramón, una formación geológica exclusiva de esta región) es el eje de las actividades al aire libre. Eilat está 50 kilómetros al sur, con conexiones internacionales; Tel Aviv queda a 3,5 horas por carretera o a 1 hora en vuelo nacional hasta Eilat más el traslado.
+Entre las actividades figuran los paseos en camello y las noches de acampada, el senderismo, las excursiones en bicicleta eléctrica de montaña, las excursiones en jeep y una cena de Shabat en una comunidad cercana; más lejos están el mar Muerto, Masada y Petra. El vuelo de Tel Aviv a Eilat dura 50 minutos y después hay un traslado de 45 minutos desde el aeropuerto de Ramon; en coche se tardan unas tres horas y media desde Tel Aviv o Jerusalén, o tres horas desde Petra, en Jordania.

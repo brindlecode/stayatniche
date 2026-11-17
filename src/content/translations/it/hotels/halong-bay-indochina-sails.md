@@ -1,14 +1,14 @@
 ---
 source: halong-bay-indochina-sails
 destination: Baia di Ha Long, Quảng Ninh
-description: "Una crociera boutique in giunca tra i 1.969 faraglioni calcarei della baia di Ha Long, con cabine private con balcone, uscite in kayak in grotte marine accessibili solo con la bassa marea e lezioni di cucina con il pesce comprato dai mercati galleggianti di passaggio."
+description: "Una nave da crociera tradizionale in legno con 23 cabine su due ponti, che propone crociere con pernottamento di 2 giorni e 1 notte o di 3 giorni e 2 notti nella baia di Ha Long, con kayak nelle grotte nell’itinerario di 3 giorni."
 highlights:
-  - Balcone privato affacciato sulla baia
-  - Kayak tra grotte marine nascoste
-  - Tai chi all’alba sul ponte solarium
-  - Lezione di cucina con pesce e frutti di mare locali
-  - In kayak verso spiagge deserte
-  - Cocktail al tramonto dal ponte superiore
+  - "23 cabine su due ponti, con letto matrimoniale o letti singoli"
+  - "Kayak nelle grotte nell’itinerario di 3 giorni"
+  - "Tai chi, dimostrazione di intaglio della frutta e pesca ai calamari a bordo"
+  - "Visita alla grotta più grande della baia di Ha Long e bagno in una spiaggia della top 100 di Lonely Planet"
+  - "Spiagge nascoste nell’itinerario di 3 giorni"
+  - "Bagni di sole e tramonti sulla baia"
 amenities:
   - Bagno privato
   - Aria condizionata
@@ -24,7 +24,7 @@ prosAndCons:
   pros:
     - Un’esperienza galleggiante unica in un sito Patrimonio mondiale dell’UNESCO
     - Pasti e attività inclusi nel prezzo
-    - Grotte da esplorare in kayak raggiungibili solo in giunca
+    - "Kayak nelle grotte nell’itinerario di 3 giorni"
     - Albe e tramonti spettacolari
   cons:
     - Poco tempo a terra
@@ -41,15 +41,15 @@ nearbyAttractions:
     distance: 45 min in barca
 seo:
   metaTitle: "Indochina Sails, crociera a Ha Long | StayAtNiche"
-  metaDescription: "Dormi a bordo di una giunca tra i leggendari faraglioni della baia di Ha Long con Indochina Sails: crociera nel sito UNESCO con cabine e balcone privato."
+  metaDescription: "Crociere con pernottamento nella baia di Ha Long a bordo di Indochina Sails, nave tradizionale in legno con 23 cabine climatizzate e itinerari di 2 o 3 giorni."
 ---
 
-La baia di Ha Long ha un effetto preciso su chi la vede per la prima volta: la scala non è semplicemente quella che ci si aspettava. Quasi duemila faraglioni calcarei emergono dal golfo del Tonchino su 1.500 chilometri quadrati, e l’unico modo per muoversi davvero tra loro è in barca. Una crociera in giunca non è soltanto il modo più comodo per vedere la baia: è l’unico per raggiungere le lagune interne, le grotte di marea e i tratti di mare dove i villaggi di pescatori vivono da generazioni senza alcun accesso stradale.
+La baia di Ha Long ha un effetto preciso su chi la vede per la prima volta: la scala non è semplicemente quella che ci si aspettava. I faraglioni calcarei emergono dal golfo del Tonchino, e l’unico modo per muoversi davvero tra loro è in barca. Una crociera non è soltanto il modo più comodo per vedere la baia: permette di dormire sull’acqua tra i faraglioni.
 
-La tua cabina privata si apre su uno stretto balcone appena sopra il pelo dell’acqua. La mattina comincia con la foschia che scivola tra le torri di roccia: la baia di Ha Long merita la sua fama di luogo suggestivo soprattutto all’alba, quando la luce è bassa, le barche da pesca sono già in movimento e le pareti calcaree sono grigie e vicine. La baia sembra svelarsi lentamente man mano che la luce si rafforza, ed è il ritmo giusto per scoprirla.
+Indochina Sails ha 23 cabine su due ponti, tutte climatizzate, con bagno privato e letto matrimoniale o letti singoli a scelta. La mattina comincia con la foschia che scivola tra le torri di roccia: la baia di Ha Long merita la sua fama di luogo suggestivo soprattutto all’alba, quando la luce è bassa, le barche da pesca sono già in movimento e le pareti calcaree sono grigie e vicine. La baia sembra svelarsi lentamente man mano che la luce si rafforza, ed è il ritmo giusto per scoprirla.
 
-È nel programma di attività quotidiane che Indochina Sails si guadagna la sua reputazione. Entrare in kayak nelle lagune nascoste, specchi d’acqua chiusi raggiungibili solo attraverso bassi passaggi in grotta da attraversare sdraiati sul kayak con la bassa marea, è una delle piccole avventure più memorabili del Sud-Est asiatico. La lezione di cucina nella cambusa usa i prodotti comprati dai venditori dei mercati galleggianti che al mattino si avvicinano in barca; la guida insegna a preparare gli involtini primavera vietnamiti e il pho con la pazienza di chi ha visto moltissime persone lottare con la carta di riso.
+Il programma di bordo comprende tai chi, una dimostrazione di intaglio della frutta, bagni di sole, visite, pesca ai calamari e giochi da tavolo. Le escursioni portano alla grotta più grande della baia di Ha Long e includono un bagno in una delle spiagge della top 100 di Lonely Planet; l’itinerario di 3 giorni aggiunge spiagge nascoste e kayak nelle grotte.
 
-All’ora d’oro il ponte solarium diventa il centro sociale della barca. Gli ospiti si ritrovano con una birra Saigon a guardare la luce che si sposta sui faraglioni, prima ambra, poi rosa, poi un grigio-blu profondo mentre le torri diventano sagome: uno spettacolo naturale straordinario sotto ogni punto di vista.
+All’ora d’oro la luce si sposta sui faraglioni, prima ambra, poi rosa, poi un grigio-blu profondo mentre le torri diventano sagome: uno spettacolo naturale straordinario sotto ogni punto di vista.
 
 Indochina Sails parte dal porto di Tuan Chau, a 20 chilometri da Ha Long City. La maggior parte degli ospiti arriva da Hanoi con un trasferimento organizzato che richiede circa 3 ore e mezza di strada.

@@ -40,4 +40,4 @@ Le château se trouve au cœur de 25 acres de jardins et de parc, partagés avec
 
 ## Informations pratiques
 
-L'adresse est Banwell, Somerset, BS29 6NX. Comme il s'agit d'une demeure familiale, mieux vaut contacter directement le château au sujet des chambres et des disponibilités, et demander quelle chambre convient à votre groupe avant de réserver.
+L'adresse est Banwell, Somerset, BS29 6NX. Comme il s'agit d'une demeure familiale, mieux vaut contacter directement le château au sujet des chambres et des disponibilités, et demander quelle chambre convient à votre groupe avant de réserver. Le site du château porte un copyright de 2009 et ne semble pas avoir été mis à jour depuis : vérifiez que les chambres d'hôtes sont toujours proposées, ainsi que les tarifs, avant de planifier un séjour.

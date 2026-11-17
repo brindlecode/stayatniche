@@ -21,7 +21,7 @@ seo:
   metaDescription: "Houseboat Arka in Mielno: autarkes Hausboot zur Miete mit zwei Schlafzimmern, Dachterrasse mit Blick auf den Jamno-See und 200 m bis zum Ostseestrand."
 ---
 
-Das Hausboot „Arka“ ist eine Ferienunterkunft in Mielno an der polnischen Ostseeküste, vertäut zwischen dem Jamno-See und dem Meer. Der Betreiber Domki na Wodzie bietet Wasserhäuser an, die er mit Campingbussen auf dem Wasser vergleicht, mit denselben Vorzügen und Nachteilen.
+Das Hausboot „Arka“ ist eine Ferienunterkunft in Mielno an der polnischen Ostseeküste, vertäut auf dem Gelände eines Campingplatzes zwischen dem Jamno-See und dem Meer. Der Betreiber Domki na Wodzie bietet Wasserhäuser an, die er mit Campingbussen auf dem Wasser vergleicht, mit denselben Vorzügen und Nachteilen.
 
 ## Das Boot
 
@@ -33,6 +33,6 @@ Das Grundstück liegt nur rund 200 m von der Ostsee und ihrem Strand entfernt, u
 
 ## Praktische Hinweise
 
-Das Hausboot steht auf einem Campingplatz. Das bedeutet eine entspannte Atmosphäre wie auf einem Feriencamp und keinen ruhigen, privaten Liegeplatz.
+Das Hausboot steht auf einem Campingplatz. Das bedeutet eine entspannte Atmosphäre wie auf einem Feriencamp und keinen ruhigen, privaten Liegeplatz. Auf der Website des Betreibers stehen zwei Boote, Arka I und Arka II; klären Sie daher, welche Einheit Sie buchen. Die Boote liegen auf dem Campingplatzgelände, es handelt sich also um ein Ferienhaus an einem Campingplatz-Liegeplatz und nicht um eine Fahrt auf offenem Wasser.
 
 Die Arka eignet sich für Familien und Paare, die einen anderen Küstenurlaub suchen, mit einem See auf der einen und dem Meer auf der anderen Seite. Erkundigen Sie sich vor der Buchung beim Betreiber nach der Saison, den Buchungsbedingungen und dem, was im Preis enthalten ist. Die Küchenzeile erlaubt Selbstverpflegung, und die zwei Schlafzimmer bieten einer Familie oder zwei Paaren ausreichend Platz.

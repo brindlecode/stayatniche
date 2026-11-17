@@ -1,11 +1,11 @@
 ---
 source: otterburn-castle-country-house-hotel-united-kingdom
 destination: "Otterburn, Northumberland"
-description: "Een Grade II-beschermd landhuis met kantelen in het Northumberland National Park, met 17 kamers met eigen badkamer op 32 acres, op de plek van een Normandische vesting uit 1086."
+description: "Een Grade II-beschermd landhuis met kantelen in het Northumberland National Park, met 17 kamers met eigen badkamer op 32 acres, op de plek van een middeleeuwse versterkte toren."
 highlights:
   - "17 kamers met eigen badkamer in een beschermd kasteel (Grade II)"
   - "32 acres hertenpark en bos"
-  - "Normandische vesting uit 1086, in 1830 herbouwd"
+  - "Middeleeuwse kasteellocatie, huidig huis in 1830 herbouwd"
   - "Farm-to-table-restaurant TEPÉ"
   - "Vlakbij de plek van de Slag bij Otterburn in 1388"
 amenities:
@@ -24,11 +24,11 @@ seo:
 
 Otterburn Castle is een neogotisch landhuis in het Northumberland National Park, nu uitgebaat als boutiquehotel, evenementenlocatie en eetadres. Het biedt 17 kamers met eigen badkamer in een beschermd gebouw, midden in 32 acres hertenpark en bos.
 
-## Duizend jaar geschiedenis
+## Eeuwen geschiedenis
 
-De eerste vesting op het terrein werd in 1086 gesticht door een neef van Willem de Veroveraar, een Normandische burcht die de noordgrens van Engeland bewaakte. In 1388 vond op het omliggende land de Slag bij Otterburn plaats, waarbij Schotse troepen onder leiding van James Douglas het Engelse leger van Henry “Hotspur” Percy tegenkwamen. Beide aanvoerders werden gevangengenomen, en de slag werd later in heel Europa bezongen in balladen.
+De plek heeft middeleeuwse wortels: het erfgoedregister van Northumberland beschrijft hier een versterkte pele-toren die al vóór het midden van de 13e eeuw lijkt te hebben bestaan. In 1388 vond op het omliggende land de Slag bij Otterburn plaats, waarbij Schotse troepen onder leiding van James Douglas het Engelse leger van Henry “Hotspur” Percy tegenkwamen. Beide aanvoerders werden gevangengenomen, en de slag werd later in heel Europa bezongen in balladen.
 
-Het landgoed kwam in handen van de Clan Hall, en het huidige gebouw stamt uit 1830, toen magistraat Thomas James het opnieuw bouwde met stenen van de oude middeleeuwse vesting. Sinds 7 januari 1988 is het een beschermd gebouw van Grade II.
+Het landgoed kwam in handen van de Clan Hall, en het huidige gebouw stamt uit 1830, toen magistraat Thomas James het opnieuw bouwde in kasteelstijl. De bronnen verschillen over hoeveel middeleeuws metselwerk bewaard is gebleven. Sinds 7 januari 1988 is het een beschermd gebouw van Grade II.
 
 ## Verblijven hier
 

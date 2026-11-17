@@ -1,7 +1,7 @@
 ---
 source: mt-matutum-domesville-glamping-philippines
 destination: "Tupi, South Cotabato"
-description: "Area glamping con cupole geodetiche a South Cotabato, isolata dalla zona delle attività, con vista su una piantagione di ananas e osservazione delle stelle dalle cupole."
+description: "Area glamping con cupole geodetiche, più una casita, una villa, una casa e una tenda da campeggio, a South Cotabato, isolata dalla zona delle attività, con vista su una piantagione di ananas e osservazione delle stelle dalle cupole."
 highlights:
   - "Alloggi glamping in cupole geodetiche a Tupi, South Cotabato"
   - "Cupole isolate dalla zona delle attività, ideali per le coppie"
@@ -16,11 +16,11 @@ seo:
   metaDescription: "Glamping in cupole geodetiche a Tupi, South Cotabato: zona appartata, vista su una piantagione di ananas, colazione per due e cielo stellato."
 ---
 
-Mt. Matutum DomesVille Glamping è una sistemazione in stile campeggio a Tupi, a South Cotabato, nelle Filippine, dove l'alloggio è un insieme di unità a cupola anziché camere d'albergo. Il gestore definisce le cupole sistemazioni da campeggio stravaganti e straordinarie, pensate per offrire un alto livello di comfort all'aria aperta.
+Mt. Matutum DomesVille Glamping è una sistemazione in stile campeggio a Tupi, a South Cotabato, nelle Filippine, dove l'alloggio è soprattutto un insieme di unità a cupola anziché camere d'albergo. Il gestore definisce le cupole sistemazioni da campeggio stravaganti e straordinarie, pensate per offrire un alto livello di comfort all'aria aperta.
 
 ## Le cupole
 
-Le unità sono cupole geodetiche, separate dall'area delle attività. È proprio questo isolamento il punto forte per le coppie che cercano tranquillità, perché le cupole sono appartate rispetto al resto del sito. Il sito promette un'osservazione delle stelle senza limiti per te e il tuo partner. Le cupole sono l'attrazione principale, e sono loro a rendere unico il posto: si tratta di un sito di glamping, non di un hotel con una sola camera a bolla.
+Le unità sono cupole geodetiche, separate dall'area delle attività. È proprio questo isolamento il punto forte per le coppie che cercano tranquillità, perché le cupole sono appartate rispetto al resto del sito. Il sito promette un'osservazione delle stelle senza limiti per te e il tuo partner. Le cupole sono l'attrazione principale, ma non l'unica opzione: la pagina di prenotazione elenca anche Casita Adrylle, Villa Carliane, Casa del Juancio e una tenda da campeggio. Si tratta di un sito di glamping, non di un hotel con una sola camera a bolla.
 
 ## Il contesto
 

@@ -21,10 +21,10 @@ bestFor:
   - "Koppels"
 seo:
   metaTitle: "Transfagarasan Treehouse Village: boomhutten | StayAtNiche"
-  metaDescription: "Transfagarasan Treehouse Village bij Arefu in Roemenië: boomhutten in de Făgăraș-bergen, geïnspireerd op shinrin-yoku, met sauna en ontbijt inbegrepen."
+  metaDescription: "Transfagarasan Treehouse Village aan de Transfăgărășan in Roemenië: boomhutten in de Făgăraș-bergen, geïnspireerd op shinrin-yoku, met sauna en ontbijt."
 ---
 
-Transfagarasan Treehouse Village is een klein dorp van huizen tussen de bomen bij Arefu, aan de Transfăgărășan-kant van de Făgăraș-bergen in Roemenië. De eigenaars werken sinds 2016 aan het project. Het haalt inspiratie uit het Japanse shinrin-yoku, bosbaden, en biedt een toevluchtsoord in de natuur dat in harmonie is met de omgeving.
+Transfagarasan Treehouse Village is een klein dorp van huizen tussen de bomen aan de Transfăgărășan-weg (DN7C, km 75) in de Făgăraș-bergen in Roemenië. De eigenaars werken sinds 2016 aan het project. Het haalt inspiratie uit het Japanse shinrin-yoku, bosbaden, en biedt een toevluchtsoord in de natuur dat in harmonie is met de omgeving.
 
 ## De hutten
 
@@ -36,6 +36,6 @@ Er is een sauna, en het restaurant draait om een rookhuis in Texaanse stijl. Inc
 
 ## De omgeving
 
-Het bos is het hoogtepunt van je verblijf. Je wordt wakker in het bladerdak, met het bergachtige landschap om je heen, en het dorp is klein genoeg om je privé te voelen.
+Het bos is het hoogtepunt van je verblijf. Je wordt wakker midden in het bos, in het hart van de Făgăraș-bergen, en het dorp is klein genoeg om je privé te voelen.
 
 Het dorp past bij gezinnen en bij wie een rit over de Transfăgărășan plant en een nacht tussen de bomen wil. Vraag bij het boeken welk huttype bij je groep past, want de capaciteit verschilt.

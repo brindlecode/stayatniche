@@ -42,7 +42,7 @@ niche_source_url: "https://www.goremevalleycavehouse.com/"
 niche_verified_at: 2026-11-17
 ---
 
-Göreme Valley Cave House calls itself "your home away from home" and is a guesthouse rather than a large hotel. The cave element is only partial: the official site lists three underground cave rooms among its standard, family and suite rooms, so the majority of rooms are conventional.
+Göreme Valley Cave House calls itself "your home away from home" and is a guesthouse rather than a large hotel. The cave element is only partial: the official site lists three underground cave rooms among its standard, family and suite rooms, so the majority of rooms are conventional. The site gives the full count as 17 rooms (3 standard, 3 cave, 5 family and 6 suite rooms) and says the guesthouse accommodates only 60 people at one time.
 
 ## The rooms
 

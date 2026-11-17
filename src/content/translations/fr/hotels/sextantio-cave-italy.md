@@ -1,13 +1,11 @@
 ---
 source: sextantio-cave-italy
 destination: "Matera"
-description: "Dix-huit chambres troglodytes dans l'antique quartier des sassi de Matera, restaurées pour révéler leurs murs de tuf et leurs voûtes d'origine plutôt que pour les dissimuler. Une ville jadis surnommée « la honte de l'Italie » abrite aujourd'hui l'un de ses hôtels les plus convoités."
+description: "Dix-huit chambres troglodytes dans la Civita, la partie la plus ancienne des sassi de Matera, rénovées pour conserver leurs caractéristiques d'origine, avec une église ancienne servant d'espace commun, dans une ville jadis surnommée « la honte de l'Italie ». Le même établissement propose aussi des chambres sans grotte au Palazzo della Civita."
 highlights:
-  - "Des chambres creusées dans les sassi, des grottes habitées depuis le paléolithique"
-  - "Site inscrit au patrimoine mondial de l'UNESCO, l'un des plus anciens lieux habités sans interruption au monde"
+  - "Des chambres dans les grottes des sassi, dans la Civita, la partie la plus ancienne des sassi"
+  - "Site inscrit au patrimoine mondial de l'UNESCO depuis 1993"
   - "Chaque suite troglodyte conserve ses matériaux d'origine : pierre, terre cuite et tuf"
-  - "Lauréat de nombreux prix internationaux de design et de conservation"
-  - "Lieu de tournage de films comme « La Passion du Christ » et « Mourir peut attendre »"
 amenities:
   - "Suite troglodyte aux murs de roche et voûtes de tuf d'origine"
   - "Literie de luxe et salle de bains moderne intégrée avec discrétion"
@@ -26,7 +24,7 @@ prosAndCons:
   pros:
     - "Une atmosphère historique remarquable : dormir dans des pièces habitées depuis des millénaires"
     - "Une restauration guidée par la conservation, d'une sensibilité et d'une beauté réelles"
-    - "Matera est l'une des villes les plus extraordinaires et les plus méconnues d'Italie"
+    - "Matera est une ville inscrite au patrimoine mondial de l'UNESCO, avec les sassi à sa porte"
     - "Un excellent restaurant résolument tourné vers le terroir"
     - "Des intérieurs d'hôtel très photogéniques"
   cons:
@@ -48,18 +46,19 @@ nearbyAttractions:
     distance: "3 km"
 seo:
   metaTitle: "Sextantio : hôtel troglodyte à Matera | StayAtNiche"
-  metaDescription: "Dormir dans une grotte à Matera : Sextantio Le Grotte della Civita, hôtel troglodyte dans les sassi, cité UNESCO habitée depuis 9 000 ans, en Basilicate."
+  metaDescription: "Dormir dans une grotte à Matera : Sextantio Le Grotte della Civita, hôtel troglodyte dans la Civita, la partie la plus ancienne des sassi classés à l'UNESCO."
+niche_feature: "18 chambres sont des grottes restaurées du Sasso Barisano (Civita) (par exemple les grottes 17, 18 et 20). Le même complexe exploite aussi un Palazzo della Civita distinct, dont les chambres ne sont pas troglodytes."
 ---
 
 En 1952, le président du Conseil italien Alcide De Gasperi, de passage à Matera, qualifia la ville de *la vergogna d'Italia* : la honte de l'Italie. Les habitants des sassi — ces habitations troglodytes creusées dans les ravins de ce bourg perché de Basilicate — vivaient sans eau courante ni électricité, et partageaient leur espace avec leurs bêtes. En moins de dix ans, le gouvernement les reloga de force. Les grottes restèrent vides pendant trente ans.
 
-Soixante-dix ans plus tard, ces mêmes grottes abritent certaines des chambres d'hôtel les plus convoitées d'Italie.
+Soixante-dix ans plus tard, certaines de ces mêmes grottes abritent des chambres d'hôtel.
 
-Sextantio Le Grotte della Civita est l'œuvre de l'architecte et entrepreneur Daniele Kihlgren, arrivé à Matera au début des années 2000, qui a élaboré une philosophie qu'il appelle la « restauration conservatrice » : récupérer ce qui existe, révéler le matériau d'origine, n'ajouter que ce dont le corps a réellement besoin. Dix-huit grottes communicantes ont été traitées selon ce principe. Les murs de tuf pâle restent bruts. Les voûtes laissent voir chaque irrégularité naturelle de la roche. Les sols sont en pierre d'origine. Ce que Kihlgren a installé à l'intérieur obéit à des exigences rigoureuses : des lits de qualité, des salles de bains intégrées avec tant de soin que les équipements se lisent comme de discrètes insertions plutôt que comme une rénovation, et un éclairage doux, bas, en grande partie à la bougie. Le résultat n'est pas un hôtel qui imite une grotte. C'est une grotte que l'on a rendue confortable.
+Sextantio Le Grotte della Civita est l'œuvre de l'architecte et entrepreneur Daniele Kihlgren, arrivé à Matera au début des années 2000, qui a élaboré une philosophie qu'il appelle la « restauration conservatrice » : récupérer ce qui existe, révéler le matériau d'origine, n'ajouter que ce dont le corps a réellement besoin. Les 18 chambres, installées dans les grottes de la Civita, et une église ancienne devenue espace commun ont été traitées selon ce principe. Les murs de tuf pâle restent bruts. Les voûtes laissent voir chaque irrégularité naturelle de la roche. Les sols sont en pierre d'origine. Ce que Kihlgren a installé à l'intérieur obéit à des exigences rigoureuses : des lits de qualité, des salles de bains intégrées avec tant de soin que les équipements se lisent comme de discrètes insertions plutôt que comme une rénovation, et un éclairage doux, bas, en grande partie à la bougie. Le résultat n'est pas un hôtel qui imite une grotte. C'est une grotte que l'on a rendue confortable.
 
 **Les chambres**
 
-Aucune suite troglodyte ne ressemble à une autre, car aucune cavité d'une colline habitée depuis neuf millénaires n'est identique à sa voisine. Certaines ont des voûtes en berceau, basses et intimes. D'autres s'ouvrent sur de hauts volumes irréguliers où la lumière naturelle tombe d'un puits percé dans la roche. Terre cuite et pierre dominent partout. Les lits sont adossés à des murs millénaires. Les grottes restent naturellement fraîches l'été, un avantage bien réel, et quotidien, sous la chaleur du sud de l'Italie.
+Aucune grotte ne ressemble à une autre : la liste officielle des chambres donne à chacune sa propre surface et son propre plan, dont une chambre classique de 30 m² et une suite exécutive de 160 m² aux murs de 7 m de haut. Certaines ont des voûtes en berceau, basses et intimes. Terre cuite et pierre dominent partout. Les lits sont adossés à des murs millénaires. Les grottes restent naturellement fraîches l'été, un avantage bien réel, et quotidien, sous la chaleur du sud de l'Italie. Le même établissement gère aussi un Palazzo della Civita distinct, dont les chambres ne sont pas des grottes ; cette page porte sur les chambres troglodytes.
 
 **Matera**
 

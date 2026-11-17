@@ -1,7 +1,7 @@
 ---
 source: song-saa-cambodia
 destination: "Islas de Koh Ouen y Koh Bong, archipiélago de Koh Rong, Camboya"
-description: "Dos islas vírgenes del archipiélago camboyano de Koh Rong, unidas por una pasarela y dedicadas por completo a un único resort. Las villas sobre el agua se alzan sobre una reserva marina protegida; las villas de la selva se asientan en bosque tropical primario."
+description: "Dos islas vírgenes del archipiélago camboyano de Koh Rong, unidas por una pasarela y dedicadas por completo a un único resort. Las villas sobre el agua se alzan sobre una reserva marina protegida; las villas de la selva se asientan entre la vegetación autóctona de la costa."
 highlights:
   - "Un resort que ocupa dos islas enteras, sin visitantes de un día"
   - "Villas sobre el agua construidas encima de una reserva marina protegida"
@@ -44,18 +44,17 @@ nearbyAttractions:
     distance: 20 km
   - name: Parque Nacional de Ream
     distance: 45 km
-  - name: Sihanoukville
-    distance: 35 km en barco
 seo:
   metaTitle: "Song Saa Private Island, villas sobre el agua | StayAtNiche"
   metaDescription: "Dos islas privadas en el archipiélago de Koh Rong (Camboya), con villas sobre el agua encima de una reserva marina protegida. Desde 1.500 US$ por noche."
+niche_feature: "Overwater Villas de uno y dos dormitorios sobre pilotes en el golfo de Tailandia; las 24 villas del resort incluyen además villas en la selva, villas con vista al mar y una Royal Villa, todas en tierra firme."
 ---
 
-La costa de Camboya no recibe la atención que merece. El archipiélago de Koh Rong, un conjunto de islas vírgenes del golfo de Tailandia a unos 35 kilómetros de Sihanoukville, alberga algunos de los arrecifes de coral y bosques más intactos del Sudeste Asiático, y Song Saa Private Island ocupa dos de sus islas más pequeñas y protegidas, Koh Ouen y Koh Bong, unidas por una pasarela de madera y dedicadas por completo a un único resort.
+La costa de Camboya no recibe la atención que merece. El archipiélago de Koh Rong, un conjunto de islas vírgenes del golfo de Tailandia frente a la costa de Camboya, alberga algunos de los arrecifes de coral y bosques más intactos del Sudeste Asiático, y Song Saa Private Island ocupa dos de sus islas más pequeñas y protegidas, Koh Ouen y Koh Bong, unidas por una pasarela de madera y dedicadas por completo a un único resort.
 
-Las villas sobre el agua se alzan sobre pilotes encima de una reserva marina: los fundadores del resort consiguieron que el arrecife circundante fuera declarado zona protegida antes de abrir, una decisión que marca toda la experiencia del huésped. Si haces esnórquel por la mañana directamente desde tu terraza, estarás sobre coral vivo en un agua clara y templada. El arrecife junto al resort tiene caballitos de mar, abundantes peces de arrecife y ese tipo de visibilidad que los fotógrafos se pasan la carrera buscando en destinos insulares más concurridos. Un programa de buceo guiado amplía aún más el acceso, pero la conexión inmediata y directa con el arrecife desde tu propia villa es lo que hace a Song Saa realmente distinto.
+Las villas sobre el agua se alzan sobre pilotes encima de una reserva marina: la fundadora del resort colaboró con las comunidades locales en la creación de la primera área marina protegida de Camboya, un compromiso que marca toda la experiencia del huésped. Si haces esnórquel por la mañana directamente desde tu terraza, estarás sobre coral vivo en un agua clara y templada. El arrecife junto al resort tiene caballitos de mar, abundantes peces de arrecife y ese tipo de visibilidad que los fotógrafos se pasan la carrera buscando en destinos insulares más concurridos. Un programa de buceo guiado amplía aún más el acceso, pero la conexión inmediata y directa con el arrecife desde tu propia villa es lo que hace a Song Saa realmente distinto.
 
-Las villas de la selva, en el lado boscoso de las islas, se asientan entre vegetación tropical primaria, y los cantos de las aves de la isla sustituyen a la banda sonora habitual de un resort. Toda la arquitectura emplea maderas recuperadas y materiales de origen camboyano, con una estética de cuidada contención: las islas hacen el trabajo y los edificios no intentan competir con ellas. La pensión completa se inspira en técnicas camboyanas e ingredientes locales: pescado y marisco recién capturados y preparados con sencillez, curris jemeres elaborados con pastas hechas en casa y fruta tropical fresca en cada comida.
+Song Saa cuenta con 24 villas en total, de varios tipos, entre ellas villas de la selva, villas con vistas al océano y villas sobre el agua. Las villas de la selva se asientan entre la vegetación autóctona de la costa, y los cantos de las aves de la isla sustituyen a la banda sonora habitual de un resort. Toda la arquitectura emplea maderas recuperadas y materiales de origen camboyano, con una estética de cuidada contención: las islas hacen el trabajo y los edificios no intentan competir con ellas. La pensión completa se inspira en técnicas camboyanas e ingredientes locales: pescado y marisco recién capturados y preparados con sencillez, curris jemeres elaborados con pastas hechas en casa y fruta tropical fresca en cada comida.
 
 El programa de conservación es activo, no decorativo. Los trabajos de restauración del coral continúan, la gestión de los residuos plásticos se extiende a las aguas circundantes y el resort emplea a personal camboyano de comunidades del continente con un programa de formación que tiene efectos medibles en los ingresos de los hogares de la región. Para cierto tipo de viajero, el que encuentra el turismo de playa del Sudeste Asiático estéticamente sobreconstruido y éticamente poco examinado, Song Saa ofrece una propuesta diferente. Las islas están protegidas, el arrecife está intacto y alojarse aquí contribuye directamente a ambas cosas.
 ---

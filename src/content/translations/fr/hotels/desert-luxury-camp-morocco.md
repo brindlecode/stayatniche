@@ -30,7 +30,7 @@ Desert Luxury Camp exploite deux camps de tentes dans le Sahara marocain. Le cam
 
 ## Les tentes
 
-Les clients dorment dans des tentes dotées de salles de bains privatives, de douches chaudes, de toilettes à chasse d’eau et de lits confortables, avec climatisation la nuit. Les hivers apportent des nuits froides : les camps chauffent donc les tentes à l’aide de radiateurs électriques ou au gaz, et des bouillottes ou des couvertures chauffantes sont disposées sur les lits. Vers la fin mars ou le début avril, les tentes n’ont généralement plus besoin de chauffage. Le camp fonctionne à l’énergie solaire, et les tentes sont conçues pour résister aux vents violents. L’un des restaurants est construit en briques d’argile et sert de refuge en cas de mauvais temps.
+Les clients dorment dans des tentes dotées de salles de bains privatives, de douches chaudes, de toilettes à chasse d’eau et de lits confortables, avec climatisation la nuit. L’organisateur de voyages Scott Dunn décrit le camp principal d’Erg Chebbi comme comptant cinq tentes avec salle de bains privative. Les hivers apportent des nuits froides : les camps chauffent donc les tentes à l’aide de radiateurs électriques ou au gaz, et des bouillottes ou des couvertures chauffantes sont disposées sur les lits. Vers la fin mars ou le début avril, les tentes n’ont généralement plus besoin de chauffage. Le camp fonctionne à l’énergie solaire, et les tentes sont conçues pour résister aux vents violents. L’un des restaurants est construit en briques d’argile et sert de refuge en cas de mauvais temps.
 
 ## Repas et activités
 

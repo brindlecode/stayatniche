@@ -1,9 +1,9 @@
 ---
 source: guacamayo-ecolodge-ecuador
 destination: "Riserva di Cuyabeno, provincia di Sucumbíos"
-description: "Ecolodge di capanne in legno nella foresta pluviale primaria della Riserva di Cuyabeno, in Ecuador, con guide locali certificate e soggiorni di più giorni che includono escursioni."
+description: "Ecolodge di capanne nella foresta pluviale della Riserva di Cuyabeno, in Ecuador, con guide locali certificate e soggiorni di più giorni che includono escursioni."
 highlights:
-  - "Capanne in legno nella foresta pluviale primaria della Riserva di Cuyabeno"
+  - "Capanne nella foresta pluviale della Riserva di Cuyabeno"
   - "Guide locali certificate che parlano inglese e spagnolo"
   - "Escursioni guidate nella riserva"
   - "Balconi affacciati sulla foresta primaria in alcune capanne"
@@ -17,10 +17,10 @@ bestFor:
   - "Viaggiatori amanti della natura"
 seo:
   metaTitle: "Guacamayo Ecolodge: ecolodge in Ecuador | StayAtNiche"
-  metaDescription: "Guacamayo Ecolodge in Ecuador: capanne in legno nella foresta primaria di Cuyabeno, guide locali certificate e pacchetti di più giorni con escursioni."
+  metaDescription: "Guacamayo Ecolodge in Ecuador: capanne nella foresta pluviale di Cuyabeno, guide locali certificate e pacchetti di più giorni con escursioni."
 ---
 
-Guacamayo Ecolodge è un insieme di capanne in legno nella foresta pluviale primaria della Riserva di Cuyabeno, in Amazzonia ecuadoriana. Il lodge punta su un equilibrio tra comfort ecologico e natura circostante, e si vende soprattutto in pacchetti di più giorni che includono le escursioni.
+Guacamayo Ecolodge è un insieme di capanne nella foresta pluviale della Riserva di Cuyabeno, in Amazzonia ecuadoriana. Il lodge punta su un equilibrio tra comfort ecologico e natura circostante, e si vende soprattutto in pacchetti di più giorni che includono le escursioni.
 
 ## Le capanne
 

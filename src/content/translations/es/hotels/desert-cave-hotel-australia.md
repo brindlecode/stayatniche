@@ -1,17 +1,17 @@
 ---
 source: desert-cave-hotel-australia
 destination: "Coober Pedy"
-description: "Excavado en la arenisca con vetas de ópalo de Coober Pedy —el pueblo que produce el 70 % de los ópalos de calidad gema del mundo y donde la mayoría de los vecinos vive bajo tierra para escapar de veranos de 50 °C—, el Desert Cave Hotel mantiene una temperatura constante de 23 °C todo el año, con vetas de piedras preciosas visibles en las paredes de los pasillos."
+description: "En Coober Pedy, el pueblo opalero de Australia Meridional donde muchos vecinos viven bajo tierra, el Desert Cave Hotel ofrece habitaciones subterráneas al estilo dugout, además de habitaciones en superficie para quienes prefieren no dormir bajo tierra."
 highlights:
-  - "Habitaciones excavadas en arenisca con ópalos visibles en las paredes"
-  - "Coober Pedy produce el 70 % de los ópalos del mundo"
-  - "La temperatura natural bajo tierra se mantiene a 23 °C constantes todo el año"
-  - "Instalaciones subterráneas únicas, con bar, restaurante y piscina"
+  - "Habitaciones subterráneas tipo dugout y habitaciones en superficie"
+  - "Abierto desde 1988"
+  - "Habitaciones subterráneas descritas como tranquilas, frescas, oscuras y ventiladas"
+  - "Restaurante y bar en el hotel"
   - "Un pueblo del outback genuinamente surrealista en el sur de Australia"
 amenities:
-  - "Habitaciones subterráneas con paredes de arenisca natural"
-  - "Piscina cubierta subterránea"
-  - "Restaurante y bar (bajo tierra)"
+  - "Habitaciones subterráneas tipo dugout"
+  - "Habitaciones en superficie"
+  - "Restaurante y bar"
   - "Exposición y tienda de ópalos"
   - "Mostrador de excursiones para visitar minas de ópalo"
   - "Aire acondicionado"
@@ -25,8 +25,7 @@ bestFor:
 prosAndCons:
   pros:
     - "Absolutamente único: nunca te alojarás en nada parecido"
-    - "La temperatura natural constante lo hace ideal con calor extremo"
-    - "Los ópalos incrustados en las paredes de las habitaciones son una maravilla diaria"
+    - "Las habitaciones subterráneas se describen como frescas y tranquilas, un alivio con calor extremo"
     - "Coober Pedy es un pueblo fascinante y surrealista que merece la visita por sí mismo"
     - "Una relación calidad-precio excelente frente a hoteles cueva más glamurosos"
   cons:
@@ -48,16 +47,17 @@ nearbyAttractions:
     distance: "150 km"
 seo:
   metaTitle: "Desert Cave Hotel: hotel subterráneo en Coober Pedy | StayAtNiche"
-  metaDescription: "Duerme bajo tierra en arenisca con vetas de ópalo en Coober Pedy, un pueblo surrealista del outback australiano, a 23 °C constantes durante todo el año."
+  metaDescription: "Duerme bajo tierra en una habitación dugout del Desert Cave Hotel de Coober Pedy, pueblo del outback australiano, o elige una habitación en superficie."
+niche_feature: "Primer hotel subterráneo de Coober Pedy (inaugurado en 1988); tiene habitaciones subterráneas excavadas y también habitaciones convencionales en superficie. El sitio oficial solo describe los hoteles subterráneos de Coober Pedy en general, no qué habitaciones son las de este."
 ---
 
 Si conduces hacia el norte por el outback de Australia Meridional, Coober Pedy aparece en el horizonte como un campo de montículos, tuberías y escombros sin un solo árbol. El suelo está salpicado de miles de pozos mineros. De lejos parece un paisaje excavado industrialmente y luego casi abandonado, lo cual, en cierto modo, es exacto. El pueblo se construyó sobre la minería del ópalo, y el ópalo lo moldeó todo, incluido el hecho de que la mayoría de sus 2000 habitantes viva bajo tierra, en casas llamadas *dugouts*. Cuando en verano la temperatura en superficie supera a menudo los 50 °C, la lógica es difícil de rebatir. El nombre aborigen de la zona es *kupa piti*: el hombre blanco en un agujero.
 
-El Desert Cave Hotel es el alojamiento más importante del pueblo, y ocupa ese lugar sin pretensiones. El vestíbulo principal, el bar, el restaurante, la piscina y buena parte de las habitaciones están excavados directamente en la colina de arenisca que hay detrás de la calle principal. La roca es la misma piedra de tonos crema claro y terracota que da los ópalos, y en las paredes de los pasillos y dentro de las propias habitaciones se ven las vetas lechosas de la gema en la piedra en bruto.
+El Desert Cave Hotel es el alojamiento más importante del pueblo, y ocupa ese lugar sin pretensiones. Las habitaciones del hotel incluyen los típicos dugouts subterráneos, descritos como tranquilos, frescos, oscuros y ventilados, y también habitaciones en superficie para quienes no quieren dormir bajo tierra.
 
 **Las habitaciones**
 
-Las habitaciones subterráneas son más prácticas que teatrales. La arenisca está presente y a la vista, pero la decoración es la de un hotel convencional más que la de una cueva. Lo importante es el entorno: sin ventanas, sin luz natural y con una temperatura constante de unos 23 °C, sean cuales sean las condiciones en superficie. En diciembre, cuando fuera se marcan 52 °C, esa constancia no es un detalle menor. Las habitaciones son además silenciosas como solo lo son los espacios subterráneos: sin tráfico, sin viento, sin ruido ambiente de ningún tipo.
+Las habitaciones subterráneas son más prácticas que teatrales. La arenisca está presente y a la vista, pero la decoración es la de un hotel convencional más que la de una cueva. Lo importante es el entorno: sin ventanas, sin luz natural y, en palabras de la web del hotel sobre las habitaciones subterráneas de Coober Pedy, sin calor ni humedad. Las habitaciones son además silenciosas como solo lo son los espacios subterráneos: sin tráfico, sin viento, sin ruido ambiente de ningún tipo.
 
 **La experiencia del ópalo**
 

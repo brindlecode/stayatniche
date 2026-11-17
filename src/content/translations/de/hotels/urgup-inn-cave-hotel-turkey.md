@@ -23,6 +23,7 @@ bestFor:
 seo:
   metaTitle: "Urgup Inn Cave Hotel in Ürgüp, Kappadokien | StayAtNiche"
   metaDescription: "Urgup Inn Cave Hotel in Ürgüp: familiengeführt, zehn Zimmer mit eigenem Bad im umgebauten Wohnhaus, Frühstück inklusive und zentrale Lage in der Stadt."
+niche_feature: "Zum Hotel mit 10 Zimmern umgebautes Familienhaus; nur Zimmer 105 (Jacuzzi Deluxe Cave Room, „Mağara Oda“, ein gewölbtes Zimmer aus zwei zusammengelegten Räumen) wird als Höhlenzimmer bezeichnet. Die übrigen Zimmer sind gewöhnliche Zimmer mit eigenem Bad."
 ---
 
 Urgup Inn Cave Hotel hat nur einen leichten Höhlencharakter, und die Seite sollte entsprechend gelesen werden. Es ist ein komfortables, familiengeführtes Hotel in einem umgebauten Wohnhaus im Zentrum von Ürgüp. Von den zehn Zimmern ist nur eines, Zimmer 105 (ein Jacuzzi Deluxe Cave Room), als Höhlenzimmer ausgewiesen. Die übrigen sind traditionell eingerichtete Zimmer mit eigenem Bad.
@@ -39,4 +40,4 @@ Das Hotel liegt laut eigener Aussage zentral in Ürgüp, nahe den Ruinen von Kay
 
 Frühstück gibt es zu jeder Zeit. Ein Flughafentransfer ist auf Anfrage erhältlich, ebenso ein Taxi. Kreditkarten werden akzeptiert, Geld kann gewechselt werden.
 
-Wer eine Nacht in einem Felsenzimmer verbringen möchte, sollte ausdrücklich Zimmer 105 anfragen. Wer vor allem eine freundliche, zentrale Basis in Ürgüp sucht und sich über ein einzelnes Höhlenzimmer freuen würde, ist hier gut aufgehoben. Steht ein vollständig in den Fels gehauenes Hotel im Mittelpunkt der Reise, sollte man anderswo suchen.
+Wer eine Nacht in einem Höhlenzimmer verbringen möchte, sollte ausdrücklich Zimmer 105 anfragen. Wer vor allem eine freundliche, zentrale Basis in Ürgüp sucht und sich über ein einzelnes Höhlenzimmer freuen würde, ist hier gut aufgehoben. Steht ein Hotel, das ausschließlich aus Höhlenzimmern besteht, im Mittelpunkt der Reise, sollte man anderswo suchen.

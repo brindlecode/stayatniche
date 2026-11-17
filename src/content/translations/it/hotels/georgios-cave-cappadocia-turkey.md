@@ -27,7 +27,7 @@ Georgios Cave Cappadocia occupa una dimora greca (rum) registrata a Ürgüp, e i
 
 ## Le camere
 
-Sono elencate nove camere con le relative metrature. Le camere 101 e 108 sono standard da 25 metri quadrati, la 107 una standard da 50. Le camere 106 (31 metri quadrati) e 102 (27 metri quadrati) sono Deluxe con jacuzzi. La 103 è una suite 1+1 da 50 metri quadrati con jacuzzi. La 104 è una King Suite da 55 metri quadrati con jacuzzi e hammam. La 105 è una Premium Cave Suite da 40 metri quadrati con jacuzzi, mentre la 109 è una Presidential Suite da 50 metri quadrati con terrazza e jacuzzi. La dicitura «Cave» compare esplicitamente solo su una di queste, quindi chiedi quali camere siano davvero scavate nella roccia.
+Sono elencate nove camere con le relative metrature. Le camere 101 e 108 sono standard da 25 metri quadrati, la 107 una standard da 50. Le camere 106 (31 metri quadrati) e 102 (27 metri quadrati) sono Deluxe con jacuzzi. La 103 è una suite 1+1 da 50 metri quadrati con jacuzzi. La 104 è una King Suite da 55 metri quadrati con jacuzzi e hammam. La 105 è una Premium Cave Suite da 40 metri quadrati con jacuzzi, mentre la 109 è una Presidential Suite da 50 metri quadrati con terrazza e jacuzzi. La dicitura «Cave» compare esplicitamente solo su una di queste, quindi chiedi quali camere, se ce ne sono, siano scavate nella roccia; il sito dell’hotel non dice che lo sia alcuna camera.
 
 ## Ristorante e servizi
 

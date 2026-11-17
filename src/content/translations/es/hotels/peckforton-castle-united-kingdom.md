@@ -1,7 +1,7 @@
 ---
 source: peckforton-castle-united-kingdom
 destination: "Cheshire, Inglaterra"
-description: "Un castillo gótico victoriano en la campiña de Cheshire, construido en 1851 para recrear una fortaleza medieval, con 48 habitaciones de decoración individual dentro y alrededor del edificio."
+description: "Un castillo gótico victoriano en la campiña de Cheshire, construido en 1851 para recrear una fortaleza medieval, con 48 habitaciones y suites de decoración individual en el castillo."
 highlights:
   - "Castillo catalogado Grade I, construido en 1851 al estilo de una fortaleza medieval"
   - "48 habitaciones decoradas individualmente"
@@ -19,9 +19,10 @@ bestFor:
 seo:
   metaTitle: "Peckforton Castle: hotel castillo, Cheshire | StayAtNiche"
   metaDescription: "Peckforton Castle: castillo victoriano de 1851 con 48 habitaciones, restaurante 1851 y finca de 48 acres. Ideal para parejas y grupos."
+niche_feature: "Los 48 dormitorios y suites (incluidas las Tower Suites) están en el castillo victoriano de 1851, catalogado Grade I; The Lodge y The Retreat son casas independientes para grupos dentro de la finca."
 ---
 
-Peckforton Castle se construyó en 1851 para recrear una fortaleza medieval, y todavía lo parece: un bastión gótico victoriano catalogado Grade I en la campiña de Cheshire. Según sus propietarios, es el único castillo de estilo medieval intacto de Inglaterra. Hoy funciona como hotel, restaurante y espacio para eventos, y quienes pasan la noche duermen entre sus muros, no en un anexo moderno.
+Peckforton Castle se construyó en 1851 para recrear una fortaleza medieval, y todavía lo parece: un bastión gótico victoriano catalogado Grade I en la campiña de Cheshire. Según sus propietarios, es una auténtica fortaleza, con torres, torreones, almenas y puente levadizo. Hoy funciona como hotel, restaurante y espacio para eventos, y quienes pasan la noche duermen entre sus muros, no en un anexo moderno.
 
 ## Las habitaciones
 

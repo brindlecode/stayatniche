@@ -1,9 +1,9 @@
 ---
 source: royal-cliff-hotels-group-thailand
 destination: "Pattaya"
-description: "Een groep van vier vijfsterrenhotels op een landgoed van 64 acres op een klif in Pattaya; het Beach Terrace is een laagbouwresort tegen de klif aan, met 89 suites die uitkomen op het strand."
+description: "Een groep van vier vijfsterrenhotels op een landgoed van 64 acres met uitzicht op de Golf van Thailand in Pattaya; het Beach Terrace is een laagbouwresort tegen de klif aan, met 89 suites die uitkomen op het strand."
 highlights:
-  - "Vier hotels op een landgoed van 64 acres boven de Golf van Thailand"
+  - "Vier hotels op een landgoed van 64 acres met uitzicht op de Golf van Thailand"
   - "Royal Cliff Beach Terrace: laagbouwresort tegen de klif"
   - "89 suites met directe toegang tot het strand bij het Beach Terrace"
   - "Infinitypool met uitzicht op de oceaan"
@@ -18,6 +18,7 @@ bestFor:
 seo:
   metaTitle: "Royal Cliff Pattaya: klifhotels in Thailand | StayAtNiche"
   metaDescription: "Royal Cliff Hotels Group in Pattaya: vier vijfsterrenhotels op een klif aan de Golf van Thailand, met het Beach Terrace, met 89 suites en een infinitypool."
+niche_feature: "Alleen Royal Cliff Beach Terrace (89 kamers en suites) is in de klifwand gebouwd; de andere drie hotels van de groep worden niet als klifaccommodatie beschreven."
 ---
 
 De Royal Cliff Hotels Group beslaat 64 acres aan park tussen Jomtien en Zuid-Pattaya, aan de oostkust van de Golf van Thailand. Het bestaat uit vier vijfsterrenhotels en een congrescentrum, de Pattaya Exhibition and Convention Hall. De groep werd in 1973 opgericht.

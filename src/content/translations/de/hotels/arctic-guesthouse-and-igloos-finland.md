@@ -1,9 +1,9 @@
 ---
 source: arctic-guesthouse-and-igloos-finland
 destination: "Ranua, Lappland"
-description: "Ein Gästehaus in Ranua, Lappland, mit zehn versetzbaren Glasiglus zur Nordlichtbeobachtung, dazu Gästezimmer und Lodges am Seeufer."
+description: "Ein Gästehaus in Ranua, Lappland, mit zehn kompakten Glasiglus zur Nordlichtbeobachtung, die im Sommer auf dem Ranuasee schwimmen und fahren, dazu Gästezimmer und Lodges am Seeufer."
 highlights:
-  - "Zehn versetzbare Glasiglus"
+  - "Zehn kompakte Glasiglus, die im Sommer auf dem Ranuasee schwimmen und fahren"
   - "Iglus stehen neben den Gästezimmern und den Aurora Lake Lodges"
   - "WLAN in jedem Iglu"
   - "Kostenlose Elektrosauna für Gäste"
@@ -18,10 +18,11 @@ bestFor:
   - "Gruppen"
 seo:
   metaTitle: "Glasiglus bei Ranua: Arctic Guesthouse | StayAtNiche"
-  metaDescription: "Arctic Guesthouse & Igloos in Ranua, Lappland: zehn versetzbare Glasiglus zur Nordlichtbeobachtung, dazu Gästezimmer und Lodges am Ufer des Ranuasees."
+  metaDescription: "Arctic Guesthouse & Igloos in Ranua, Lappland: zehn kompakte Glasiglus, die im Sommer auf dem Ranuasee schwimmen, dazu Gästezimmer und Lodges am Seeufer."
+niche_feature: "Glasiglus (AuroraHut, ideal für 2 Personen) am Ufer des Ranuasees, einige davon im Sommer schwimmfähig und mit Elektromotor beweglich; zur Unterkunft gehören außerdem gewöhnliche Gästezimmer und die Aurora Lake Lodges."
 ---
 
-Arctic Guesthouse & Igloos liegt in Ranua, einem Dorf im südlichen Lappland, etwa eine Stunde von Rovaniemi und gut zwei Stunden von Oulu entfernt. Im Mittelpunkt steht allerdings nur ein Teil der Anlage: zehn versetzbare Glasiglus stehen neben preiswerten Gästezimmern und einer Reihe neuerer Lodges. So bestimmen Sie selbst, wie viel vom arktischen Erlebnis Sie möchten.
+Arctic Guesthouse & Igloos liegt in Ranua, einem Dorf im südlichen Lappland, etwa eine Stunde von Rovaniemi und gut zwei Stunden von Oulu entfernt. Im Mittelpunkt steht allerdings nur ein Teil der Anlage: zehn kompakte Glasiglus (AuroraHut), die im Sommer mit eigenem Elektromotor auf dem Ranuasee schwimmen und fahren, stehen neben preiswerten Gästezimmern und einer Reihe neuerer Lodges. So bestimmen Sie selbst, wie viel vom arktischen Erlebnis Sie möchten.
 
 ## Iglus, Zimmer und Lodges
 

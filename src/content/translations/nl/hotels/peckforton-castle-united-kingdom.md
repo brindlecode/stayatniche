@@ -1,7 +1,7 @@
 ---
 source: peckforton-castle-united-kingdom
 destination: "Cheshire, Engeland"
-description: "Een victoriaans gothic kasteel op het platteland van Cheshire, in 1851 gebouwd als replica van een middeleeuwse vesting, met 48 individueel ingerichte kamers in en rond het kasteel."
+description: "Een victoriaans gothic kasteel op het platteland van Cheshire, in 1851 gebouwd als replica van een middeleeuwse vesting, met 48 individueel ingerichte kamers en suites in het kasteel."
 highlights:
   - "Grade I beschermd kasteel, gebouwd in 1851 in de stijl van een middeleeuwse vesting"
   - "48 individueel ingerichte kamers"
@@ -19,9 +19,10 @@ bestFor:
 seo:
   metaTitle: "Peckforton Castle: kasteelhotel in Cheshire | StayAtNiche"
   metaDescription: "Peckforton Castle: victoriaans kasteel uit 1851 met 48 kamers, Tower Suites, 1851 Restaurant en landgoed van 48 acres. Ideaal voor koppels en groepen."
+niche_feature: "De 48 slaapkamers en suites (waaronder de Tower Suites) liggen in het victoriaanse kasteel uit 1851 (Grade I); The Lodge en The Retreat zijn aparte huizen voor groepen op het landgoed."
 ---
 
-Peckforton Castle werd in 1851 gebouwd als replica van een middeleeuwse vesting, en het oogt nog altijd zo: een Grade I beschermd victoriaans gothic bolwerk op het platteland van Cheshire. Volgens de eigenaars is het het enige intacte kasteel in middeleeuwse stijl in Engeland. Vandaag is het hotel, restaurant én evenementenlocatie, en gasten slapen binnen de muren in plaats van in een modern bijgebouw.
+Peckforton Castle werd in 1851 gebouwd als replica van een middeleeuwse vesting, en het oogt nog altijd zo: een Grade I beschermd victoriaans gothic bolwerk op het platteland van Cheshire. Volgens de eigenaars is het een echte vesting, met torens, torentjes, kantelen en eenophaalbrug. Vandaag is het hotel, restaurant én evenementenlocatie, en gasten slapen binnen de muren in plaats van in een modern bijgebouw.
 
 ## De kamers
 

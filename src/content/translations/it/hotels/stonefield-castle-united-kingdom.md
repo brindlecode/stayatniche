@@ -26,7 +26,7 @@ Stonefield Castle è un castello nel senso vittoriano del termine: una grande re
 
 ## La dimora
 
-Gran parte degli interni originali è ancora al suo posto: pannellature in legno, soffitti decorati e camini in marmo. L'edificio è classificato di categoria B. Le camere, ciascuna arredata con cura e con bagno privato, si affacciano sui giardini e sul lago.
+Gran parte degli interni originali è ancora al suo posto: pannellature in legno, soffitti decorati e camini in marmo. L'edificio è classificato di categoria B. L'hotel ha 38 camere arredate singolarmente e con bagno privato, che si affacciano sui giardini e sul lago.
 
 ## I giardini
 

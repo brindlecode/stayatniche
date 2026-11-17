@@ -4,7 +4,7 @@ category: desert-camps
 destination: San Pedro de Atacama, Antofagasta
 country: Chile
 continent: South America
-description: Twelve private villas in the high Atacama Desert, each with its own vehicle and private guide — a highly personalised way to experience the world's driest non-polar desert. The Atacama's salt flats, geysers, flamingo lagoons, and 8,000-metre volcanoes are not shared with other guests on schedules; they are explored at your own pace with a dedicated expert.
+description: "Adobe, stone and thatch lodge buildings with round rooms in the high Atacama Desert, each room with its own vehicle and private guide — a highly personalised way to experience the world's driest non-polar desert. The Atacama's salt flats, geysers, flamingo lagoons, and volcanoes are not shared with other guests on schedules; they are explored at your own pace with a dedicated expert."
 coverImage: /images/hotels/awasi-atacama-chile.jpg
 gallery:
   - /images/hotels/awasi-atacama-chile-2.jpg
@@ -12,7 +12,7 @@ gallery:
 priceRange: "$1500 - $3000"
 priceIndicator: 5
 highlights:
-  - Private guide and vehicle for each villa
+  - Private guide and vehicle for each room
   - Personalised Atacama exploration without group tours
   - Stargazing in one of the world's clearest night skies
   - Flamingo lagoons, geysers, and salt flats access
@@ -44,7 +44,7 @@ affiliateLinks:
     label: "Atacama Tours on Klook"
 seo:
   metaTitle: "Awasi Atacama Review: Private Desert Villas with Personal Guide | StayAtNiche"
-  metaDescription: "Awasi Atacama: 12 private villas in Chile's Atacama Desert, each with dedicated guide and vehicle. Geysers, flamingo lagoons, and excellent stargazing."
+  metaDescription: "Awasi Atacama: adobe lodge rooms in Chile's Atacama Desert, each with a private guide and 4x4. Geysers, flamingo lagoons and astronomical tours."
 location:
   country: "Chile"
   countryCode: "CL"
@@ -61,8 +61,8 @@ niche_verified_at: 2026-11-17
 
 The Atacama Desert occupies a closed basin between the Andes and Chile's coastal range, where the combined effect of the cold Humboldt Current offshore and the Andes rain shadow eliminates virtually all precipitation. The result is the world's driest non-polar desert — in parts of the core Atacama, no rainfall has ever been recorded. The landscape this creates is not the monotonous sand dunes of popular imagination but a vast, varied terrain of salt flats encrusted with bizarre mineral formations, volcanic geothermal fields where geysers erupt at sunrise, altiplano lakes where flamingos feed in pink congregations, and a sky so free of moisture and light pollution that several major international observatories have been built within the region.
 
-Awasi's model is architecturally and operationally distinct from other Atacama properties. The twelve adobe villas blend into the desert colouring of San Pedro de Atacama's edge; interiors are warm with handwoven textiles, local craftsmanship, and beds positioned for the extraordinary light that fills the Atacama at sunrise and sunset. But the defining proposition is the one-guide-one-vehicle-per-villa format: each pair of guests has exclusive access to their own 4WD and dedicated naturalist guide for the duration of their stay. This eliminates the compromise of group tours — departure times, itinerary choices, pace — and makes the Atacama genuinely explorable rather than sampled.
+Awasi's model is architecturally and operationally distinct from other Atacama properties. The adobe, stone and thatch buildings, with their round rooms, blend into the desert colouring of San Pedro de Atacama's edge; interiors are warm with handwoven textiles, local craftsmanship, and beds positioned for the extraordinary light that fills the Atacama at sunrise and sunset. But the defining proposition is the one-guide-one-vehicle-per-room format: each room is assigned a private guide and a 4x4 for the duration of the stay. This eliminates the compromise of group tours — departure times, itinerary choices, pace — and makes the Atacama genuinely explorable rather than sampled.
 
-At this latitude and altitude (2,400 metres above sea level), the night sky is staggering. The Atacama holds more international telescope infrastructure than any other region on earth; the stars visible from Awasi's open-air observatory terrace on a moonless night, without any optical equipment, is a serious photographic and experiential opportunity. Guides are qualified to operate the property's telescopes and can identify nebulae and galaxies that are rarely visible from lower, more humid latitudes.
+At this latitude and altitude (over 2,500 metres above sea level), the night sky is staggering. The stars visible on a moonless night, even without any optical equipment, are a serious photographic and experiential opportunity, and the Astronomical Observation tour looks through a powerful telescope as well as at the naked-eye sky.
 
 Access is via Calama Airport, which receives direct flights from Santiago (90 minutes), and from Lima and Sao Paulo internationally. Awasi provides airport transfers.

@@ -1,10 +1,10 @@
 ---
 source: memories-aicha-luxury-camp-jordan
 destination: "Wadi Rum, Aqaba"
-description: "Luxe kamp met 55 tenten in Wadi Rum, met airconditioned tenten, privédecks en transparante daken om vanuit bed naar de sterren te kijken."
+description: "Luxe kamp met 55 tenten in Wadi Rum, met airconditioned tenten, privédecks en Panoramic-tenten bedoeld voor sterrenkijken."
 highlights:
   - "55 tenten in het hart van Wadi Rum"
-  - "Transparante daken om vanuit bed duizenden sterren te zien"
+  - "Panoramic-tenten bedoeld voor sterrenkijken, met een transparant dak op de koepels van het kamp"
   - "Geklimatiseerde tenten met eigen douche"
   - "Vier tentcategorieën, van 340 tot 540 vierkante voet"
   - "Vijf minuten rijden van het bezoekerscentrum van Wadi Rum"
@@ -22,14 +22,14 @@ bestFor:
   - "Stellen"
 seo:
   metaTitle: "Memories Aicha Luxury Camp: glamping Wadi Rum | StayAtNiche"
-  metaDescription: "Memories Aicha Luxury Camp in Wadi Rum: 55 tenten met airconditioning, privédecks en transparante daken om vanuit bed de sterren te zien, in Jordanië."
+  metaDescription: "Memories Aicha Luxury Camp in Wadi Rum: 55 tenten met airconditioning, privédecks en Panoramic-tenten ideaal voor sterrenkijken, in de woestijn van Jordanië."
 ---
 
 Memories Aicha Luxury Camp is een kamp van 55 tenten in het hart van Wadi Rum, verscholen in een rode vallei tussen ruige bergen en open Arabische woestijn. Het kamp zelf omschrijft het terrein als meer een kolonie op Mars dan een camping. Het idee: wakker worden in de wildernis zonder in te leveren op hotelcomfort.
 
 ## De tenten
 
-Elke tent is ingericht in geel, oranje en rood, geïnspireerd op de kleuren van het woestijnzand. De tenten hebben airconditioning, douches en stromend water. Met de transparante daken kunnen gasten 's nachts vanuit bed duizenden sterren zien, en overdag kijkt een privédeck, in oosterse stijl ingericht, uit over het rode landschap.
+Elke tent is ingericht in geel, oranje en rood, geïnspireerd op de kleuren van het woestijnzand. De tenten hebben airconditioning, douches en stromend water. Volgens de startpagina van het kamp hebben de koepels een transparant dak waardoor je 's nachts vanuit bed duizenden sterren kunt zien, en overdag kijkt een privédeck, in oosterse stijl ingericht, uit over het rode landschap. Het kamp noemt de Panoramic-tenten ideaal om sterren te kijken.
 
 Er zijn vier categorieën:
 

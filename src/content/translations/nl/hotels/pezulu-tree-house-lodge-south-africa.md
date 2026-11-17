@@ -19,9 +19,10 @@ bestFor:
 seo:
   metaTitle: "Pezulu Tree House Lodge: boomhutten in Afrika | StayAtNiche"
   metaDescription: "Pezulu Tree House Lodge bij Hoedspruit: kleine safarilodge in het Greater Kruger-gebied, boomhutten rond groeiende bomen, rotspool en driegangendiner."
+niche_feature: "De meeste eenheden zijn aparte boomhutten, gebouwd in of rond levende bomen (bijvoorbeeld Mountain View, 7 m hoog in een jackalberry-boom, en Dream, verweven met twee marulabomen); de zelfvoorzienende bushcabin Zebrawood staat op de grond."
 ---
 
-Pezulu Tree House Lodge is een klein safarilodge in het Greater Kruger-gebied rond Hoedspruit, in de Zuid-Afrikaanse provincie Limpopo. De accommodatie bestaat uit boomhutten, elk gebouwd rond het bladerdak van groeiende bomen. De lodge is bewust klein gehouden, zodat elke gast een persoonlijke ervaring heeft.
+Pezulu Tree House Lodge is een klein safarilodge in het Greater Kruger-gebied rond Hoedspruit, in de Zuid-Afrikaanse provincie Limpopo. De accommodatie bestaat grotendeels uit boomhutten, elk gebouwd rond het bladerdak van groeiende bomen; de uitzondering is Zebrawood, een bushcabin voor zelfverzorging. De lodge is bewust klein gehouden, zodat elke gast een persoonlijke ervaring heeft.
 
 ## Het hoofdgebouw
 

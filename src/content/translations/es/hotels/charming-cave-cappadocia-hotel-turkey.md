@@ -1,9 +1,9 @@
 ---
 source: charming-cave-cappadocia-hotel-turkey
 destination: "Göreme, Nevşehir"
-description: "Casa de huéspedes en Göreme con habitaciones excavadas en la roca natural, una terraza con vistas a los globos aerostáticos y traslados desde los aeropuertos de Nevşehir y Kayseri."
+description: "Casa de huéspedes en Göreme que dice estar excavada en la roca natural, con cinco habitaciones cueva estándar y una suite cueva entre sus quince habitaciones, una terraza con vistas a los globos aerostáticos y traslados desde los aeropuertos de Nevşehir y Kayseri."
 highlights:
-  - "Habitaciones excavadas en la roca natural"
+  - "Dice estar excavado en la roca natural; cinco habitaciones cueva estándar y una suite cueva entre quince habitaciones"
   - "Tipos de habitación: cueva, piedra, triple y junior suites"
   - "Vistas a los globos aerostáticos desde la terraza"
   - "Traslados desde los aeropuertos de Nevşehir y Kayseri"
@@ -19,10 +19,11 @@ bestFor:
   - "Parejas"
 seo:
   metaTitle: "Charming Cave Cappadocia Hotel: hotel cueva | StayAtNiche"
-  metaDescription: "Charming Cave Cappadocia Hotel en Göreme: casa de huéspedes con habitaciones excavadas en la roca, vistas a los globos y traslados desde Nevşehir y Kayseri."
+  metaDescription: "Charming Cave Cappadocia Hotel en Göreme: casa de huéspedes con cinco habitaciones cueva, vistas a los globos y traslados desde Nevşehir y Kayseri."
+niche_feature: "Quince habitaciones: cinco Standard Cave Rooms (301-305) en el patio y una Cave Suite (103) son habitaciones cueva; las Standard y Deluxe Stone Rooms, las Junior Suites y otras son habitaciones de piedra construida o de otro tipo."
 ---
 
-El Charming Cave Cappadocia Hotel es una casa de huéspedes en Göreme que afirma tener sus habitaciones excavadas en la roca natural. Lleva en funcionamiento más de diez años y describe quince habitaciones con estilo, pensadas para una estancia cómoda y relajada. El establecimiento combina habitaciones cueva con habitaciones de piedra, así que conviene pedir expresamente una habitación cueva al reservar.
+El Charming Cave Cappadocia Hotel es una casa de huéspedes en Göreme que afirma estar excavada en la roca natural. Lleva en funcionamiento más de diez años y describe quince habitaciones con estilo, pensadas para una estancia cómoda y relajada. El establecimiento combina habitaciones cueva con habitaciones de piedra, así que conviene pedir expresamente una habitación cueva al reservar. Solo las cinco habitaciones cueva estándar y la suite cueva se describen como habitaciones cueva, y lo que dice la web sobre la roca excavada es general, no habitación por habitación.
 
 ## Las habitaciones
 

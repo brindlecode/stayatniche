@@ -1,11 +1,11 @@
 ---
 source: otterburn-castle-country-house-hotel-united-kingdom
 destination: "Otterburn, Northumberland"
-description: "Ein denkmalgeschütztes Landhaus im Burgenstil (Grade II) im Northumberland National Park mit 17 Zimmern mit eigenem Bad auf 32 Acres, an der Stelle einer normannischen Festung aus dem Jahr 1086."
+description: "Ein denkmalgeschütztes Landhaus im Burgenstil (Grade II) im Northumberland National Park mit 17 Zimmern mit eigenem Bad auf 32 Acres, an der Stelle eines mittelalterlichen Wehrturms."
 highlights:
   - "17 Zimmer mit eigenem Bad in einem denkmalgeschützten Schloss (Grade II)"
   - "32 Acres Wildpark und Wald"
-  - "Normannische Festung von 1086, 1830 neu errichtet"
+  - "Mittelalterlicher Burgstandort, heutiges Haus 1830 neu errichtet"
   - "Farm-to-Table-Restaurant TEPÉ"
   - "Nahe am Schauplatz der Schlacht von Otterburn im Jahr 1388"
 amenities:
@@ -24,11 +24,11 @@ seo:
 
 Otterburn Castle ist ein neugotisches Landhaus im Northumberland National Park, heute als Boutique-Hotel, Veranstaltungsort und Gastronomie-Adresse geführt. Es bietet 17 Zimmer mit eigenem Bad in einem denkmalgeschützten Gebäude, eingebettet in 32 Acres Wildpark und Wald.
 
-## Tausend Jahre Geschichte
+## Jahrhunderte Geschichte
 
-Die erste Festung auf dem Gelände wurde 1086 von einem Cousin Wilhelms des Eroberers gegründet, eine normannische Burg zur Sicherung der nördlichen Grenze Englands. 1388 fand auf dem umliegenden Land die Schlacht von Otterburn statt, in der schottische Truppen unter James Douglas einem englischen Heer unter Henry „Hotspur“ Percy gegenüberstanden. Beide Anführer gerieten in Gefangenschaft, und die Schlacht wurde später in ganz Europa in Balladen besungen.
+Das Gelände hat mittelalterliche Wurzeln: Der Denkmaleintrag der Grafschaft Northumberland beschreibt hier einen befestigten Pele-Turm, der offenbar schon vor der Mitte des 13. Jahrhunderts bestand. 1388 fand auf dem umliegenden Land die Schlacht von Otterburn statt, in der schottische Truppen unter James Douglas einem englischen Heer unter Henry „Hotspur“ Percy gegenüberstanden. Beide Anführer gerieten in Gefangenschaft, und die Schlacht wurde später in ganz Europa in Balladen besungen.
 
-Das Anwesen ging an Clan Hall über. Das heutige Gebäude stammt von 1830, als der Friedensrichter Thomas James es unter Verwendung von Steinen der alten mittelalterlichen Festung neu errichtete. Seit dem 7. Januar 1988 steht es unter Denkmalschutz (Grade II).
+Das Anwesen ging an Clan Hall über. Das heutige Gebäude stammt von 1830, als der Friedensrichter Thomas James es im Burgenstil neu errichtete. Wie viel mittelalterliche Bausubstanz erhalten ist, wird in den Quellen unterschiedlich dargestellt. Seit dem 7. Januar 1988 steht es unter Denkmalschutz (Grade II).
 
 ## Übernachten hier
 

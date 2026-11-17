@@ -3,7 +3,7 @@ name: "Cappadocia Cave Suites"
 category: cave-hotels
 destination: "Göreme, Cappadocia"
 country: "Turkey"
-description: "Carved into the volcanic tufa hillside at the centre of Göreme, Cappadocia Cave Suites occupies rooms that range from smoothed Byzantine cave spaces with barrel-vaulted ceilings to sharply cut suites finished with Anatolian tiles and kilim cushions. The rooftop terrace faces directly into the valley where 60 to 80 hot air balloons rise at dawn each morning — one of the more singular hotel views in Turkey."
+description: "In the centre of Göreme, Cappadocia Cave Suites offers cave rooms that the hotel describes as carved into ancient rock formations, ranging from smoothed Byzantine cave spaces with barrel-vaulted ceilings to sharply cut suites finished with Anatolian tiles and kilim cushions. The rooftop terrace faces directly into the valley where hot air balloons rise at dawn — one of the more singular hotel views in Turkey."
 coverImage: /images/hotels/cappadocia-cave-suites-turkey.jpg
 gallery:
   - /images/hotels/cappadocia-cave-suites-turkey-2.jpg
@@ -11,14 +11,14 @@ gallery:
 priceRange: "$180 - $450"
 priceIndicator: 3
 highlights:
-  - "Authentic cave suites carved into Göreme's volcanic tufa"
+  - "Cave rooms the hotel describes as carved into ancient rock formations"
   - "Private terraces with panoramic balloon and fairy chimney views"
   - "Rooftop terrace with 360-degree Cappadocia panorama"
-  - "Daily hot air balloon flights from the property"
+  - "Hot air balloon ride offered as an activity"
 amenities:
-  - "Cave suite with carved tufa walls"
+  - "Cave rooms and suites"
   - "Private terrace or balcony"
-  - "Stone hammam and spa"
+  - "Hammam and spa"
   - "Turkish breakfast included"
   - "Rooftop bar and terrace"
   - "Hot air balloon booking service"
@@ -54,10 +54,10 @@ niche_source_url: "https://cappadociacavesuiteshotel.com/"
 niche_verified_at: 2026-11-17
 ---
 
-Cappadocia Cave Suites sits in the heart of Göreme, tunnelling back into the hillside through a series of vaulted rooms and carved corridors. The suites vary in character: some occupy original Byzantine cave spaces with smoothed tufa walls and barrel-vaulted ceilings; others are cut with more angular precision, finished with Anatolian tiles and kilim cushions that bring warmth to the pale stone. The tufa maintains a natural temperature of around 18°C year-round — genuinely cool in summer, and notably warmer than the outside air in winter.
+Cappadocia Cave Suites sits in the heart of Göreme, tunnelling back into the hillside through a series of vaulted rooms and carved corridors. The suites vary in character: some occupy original Byzantine cave spaces with smoothed tufa walls and barrel-vaulted ceilings; others are cut with more angular precision, finished with Anatolian tiles and kilim cushions that bring warmth to the pale stone. The hotel's website lists Standard Rooms, a Queen Room with Balcony and Suites with Terrace and says its cave rooms are carved into rock formations, but it does not say which room types are rock-cut, so ask when booking.
 
-The terrace is the hotel's defining feature. At dawn in Cappadocia, the valley fills with hot air balloons at almost the same moment the first light catches the fairy chimneys. Sixty or eighty balloons rising silently from the valley floor in the pink light of a Turkish morning, drifting over formations that resemble nothing else in the geological vocabulary — it is one of the more striking things you can watch from a hotel terrace anywhere in the world. The rooftop bar is open early enough that nobody has to watch it standing cold on a street corner.
+The terrace is the hotel's defining feature. At dawn in Cappadocia, the valley fills with hot air balloons at almost the same moment the first light catches the fairy chimneys. Balloons rising silently from the valley floor in the pink light of a Turkish morning, drifting over formations that resemble nothing else in the geological vocabulary — it is one of the more striking things you can watch from a hotel terrace anywhere in the world. The rooftop bar is open early enough that nobody has to watch it standing cold on a street corner.
 
-The hammam, carved from the tufa below the hotel, offers traditional steam treatments. Staff know the surrounding landscape with the specificity of people who grew up in it — underground cities, frescoed Byzantine churches, pottery villages, the horse trail through the Rose Valley at sunset. Breakfasts are substantial and genuinely local: Cappadocian pastries, sheep's cheese, olives, vegetables, honey from the volcanic hillside hives.
+The hotel lists a hammam and spa among its services. Staff know the surrounding landscape with the specificity of people who grew up in it — underground cities, frescoed Byzantine churches, pottery villages, the horse trail through the Rose Valley at sunset. Breakfasts are substantial and genuinely local: Cappadocian pastries, sheep's cheese, olives, vegetables, honey from the volcanic hillside hives.
 
 The Göreme location puts the main attractions within easy reach and the balloon spectacle directly on your doorstep. For the photographs, this terrace is the right place to be.

@@ -306,9 +306,9 @@
   "niche_feature": "Could not confirm: no official website reachable (nikuhide.com and variants have no connection) and web searches found no property named Niku Hide in Saariselkä. The feature (stilt aurora cabins above the treeline) is also not a treehouse.",
   "evidence_quote": null,
   "operating": "unknown",
-  "verdict": "keep",
+  "verdict": "draft",
   "new_category": null,
-  "closest_category": null,
+  "closest_category": "treehouse-hotels",
   "reason": "No citable source found for the property; page claims could not be verified.",
   "treehouse_structure": null,
   "location": {
@@ -320,6 +320,8 @@
    "Property not found by name in any search; existence unconfirmed",
    "Page's own 'elevated above the treeline' cabins on stilts would not be among trees (not a treehouse)",
    "'No other property in Scandinavia' superlative, rating 9.1 and 312 reviews unsupported"
-  ]
+  ],
+  "agent_verdict": "keep",
+  "editor_note": "Owner decision 2026-11-17: no official source reachable / does not meet the category rule; set to draft with a redirect to the closest category."
  }
 ]

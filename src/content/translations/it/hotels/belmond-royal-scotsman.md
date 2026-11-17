@@ -10,7 +10,7 @@ highlights:
   - Escursioni e degustazioni nelle distillerie di whisky in alcuni itinerari
   - Una cucina delle Highlands magnifica, con selvaggina, frutti di mare e prodotti scozzesi
 amenities:
-  - State Cabin e Cabin Suite con bagno privato in alcune carrozze
+  - 18 cabine letto (Grand Suite, Suite, cabine doppie e twin); Grand Suite, cabine doppie e twin con bagno privato
   - Carrozza panoramica con piattaforma posteriore aperta
   - Cene di più portate con raffinata cucina scozzese e francese
   - Pensione completa con single malt scozzesi e vini pregiati
@@ -55,8 +55,8 @@ La West Highland Line è considerata, dalla stampa ferroviaria e da molti di col
 
 Il treno di Belmond porta al massimo 36 ospiti in carrozze restaurate con cura: tessuti in tartan delle Highlands, pannelli di legno lucidato, ottoni e lampade da tavolo che diffondono un calore tipicamente scozzese. A questa scala, la vita sociale a bordo ricorda una festa in una casa di campagna. Le conversazioni nascono spontanee tra persone riunite dal movimento e dal territorio condiviso. La Observation Car in coda si apre su una piattaforma dove si sta all’aria aperta delle Highlands, mentre la superficie dei loch cattura la luce del pomeriggio e i cervi rossi osservano dai pendii.
 
-Le State Cabin, a letto singolo o doppio, hanno il bagno privato: coperte spesse, luci di lettura messe al posto giusto, spazi per i bagagli che funzionano davvero in viaggio. Piccole, ma giuste per ciò che sono.
+Ci sono 18 cabine, ciascuna per due ospiti: Grand Suite, Suite (introdotte da aprile 2027), cabine doppie e cabine twin. Le Grand Suite, le cabine doppie e le cabine twin hanno il bagno privato. Piccole, ma giuste per ciò che sono.
 
 La cena è formale ma rilassata, come solo la Scozia sa essere: tovaglie bianche e cristalli, con i finestrini che a colazione mostrano una valle delle Highlands nella nebbia del mattino e a cena un loch che diventa viola nel lungo crepuscolo del nord. La cucina usa cervo, gallo cedrone, agnello delle Highlands, astice e salmone della costa occidentale: l’eccezionale dispensa scozzese, trattata con onestà. Il servizio del whisky, su un treno che passa vicino ad alcune delle distillerie più prestigiose del mondo, è gestito con autentico entusiasmo.
 
-Le escursioni fuori dal treno comprendono visite alle distillerie, passeggiate nelle tenute delle Highlands, castelli e gite in barca sui loch. Il Grand Tour di quattro notti è la versione che mostra appieno tutte le possibilità del treno. Per le partenze dell’alta estate prenota con dodici mesi di anticipo.
+Le escursioni fuori dal treno comprendono visite alle distillerie, passeggiate nelle tenute delle Highlands, castelli e gite in barca sui loch. Il Grand Tour of Scotland di sette notti è la versione che mostra appieno tutte le possibilità del treno. Per le partenze dell’alta estate prenota con dodici mesi di anticipo.

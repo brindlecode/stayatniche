@@ -1,7 +1,7 @@
 ---
 source: castello-di-monterone-italy
 destination: "Perugia, Umbria"
-description: "Un castello del Duecento restaurato, a tre chilometri da Perugia, trasformato in dimora storica con diciotto camere, alcune con affreschi originali."
+description: "Un castello medievale restaurato, a tre chilometri da Perugia, trasformato in dimora storica con diciotto camere, alcune con affreschi originali."
 highlights:
   - "Castello medievale trasformato in residenza d’epoca"
   - "Diciotto camere, ognuna con una propria storia"
@@ -15,10 +15,10 @@ bestFor:
   - "Amanti della storia"
 seo:
   metaTitle: "Castello di Monterone: hotel castello Perugia | StayAtNiche"
-  metaDescription: "Castello di Monterone a Perugia: dimora storica in un castello del Duecento restaurato, con diciotto camere, tra cui una romantica con affreschi originali."
+  metaDescription: "Castello di Monterone a Perugia: dimora storica in un castello medievale restaurato, con diciotto camere, tra cui una romantica con affreschi originali."
 ---
 
-Castello di Monterone è un piccolo castello del Duecento restaurato, lungo la strada che collega Perugia ad Assisi passando per Ponte San Giovanni. È stato trasformato in una residenza d'epoca, una dimora storica, e oggi conta diciotto camere arredate in sintonia con la sua storia. Sorge immerso nel verde, a circa tre chilometri dal centro storico di Perugia.
+Castello di Monterone è un piccolo castello medievale restaurato, lungo la strada che collega Perugia ad Assisi passando per Ponte San Giovanni. È stato trasformato in una residenza d'epoca, una dimora storica, e oggi conta diciotto camere arredate in sintonia con la sua storia. Sorge immerso nel verde, a circa tre chilometri dal centro storico di Perugia. Secondo la pagina di storia del castello, l'edificio risale almeno all'XI secolo, perché un edificio a Monterone compare già in un documento del 18 gennaio 1200 conservato all'Archivio di Stato di Perugia.
 
 ## Le camere
 

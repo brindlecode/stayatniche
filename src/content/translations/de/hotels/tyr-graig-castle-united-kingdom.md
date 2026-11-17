@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Ty’r Graig Castle: Burghotel bei Barmouth | StayAtNiche"
   metaDescription: "Ty’r Graig bei Barmouth: 1892 erbautes Burghotel im gotischen Stil mit 11 Zimmern mit eigenem Bad, Blick auf die Cardigan Bay und Buntglasfenstern."
+niche_note: "Ty’r Graig ist keine mittelalterliche Burg, sondern ein viktorianisches Haus im gotischen Stil, 1892 in Form einer Burg erbaut, mit Turmzimmern."
 ---
 
 Ty'r Graig bedeutet „Haus auf dem Felsen“, und der Name passt zum Gebäude. Es liegt etwa 200 Fuß über dem walisischen Badeort Barmouth und blickt über die Cardigan Bay auf die Halbinsel Llŷn und die Insel Bardsey. Heute nimmt es Gäste als Burghotel auf, und seine 11 Zimmer mit eigenem Bad bieten Aussicht auf die Umgebung.
@@ -30,7 +31,7 @@ Das Gebäude wurde 1892 als Familiensitz für WW Greener fertiggestellt, den ber
 
 ## Die Innenräume
 
-Das Gebäude wurde Ende der 1890er-Jahre errichtet und bewahrt noch die Eleganz der viktorianischen Zeit, mit Buntglasfenstern, Holzvertäfelungen und reich verzierten Böden und Decken. Die Kamine werden mit frisch gefälltem Holz befeuert, und zugleich bietet das Haus moderne Annehmlichkeiten. Jedes der 11 Zimmer ist individuell eingerichtet und verfügt über Tee- und Kaffeeausstattung, einen Haartrockner, einen LCD-TV mit Freeview und einen DVD-Player.
+Das Gebäude bewahrt noch die Eleganz der viktorianischen Zeit, mit Buntglasfenstern, Holzvertäfelungen und reich verzierten Böden und Decken. Die Kamine werden mit frisch gefälltem Holz befeuert, und zugleich bietet das Haus moderne Annehmlichkeiten. Jedes der 11 Zimmer ist individuell eingerichtet und verfügt über Tee- und Kaffeeausstattung, einen Haartrockner, einen LCD-TV mit Freeview und einen DVD-Player. Zu den Zimmertypen zählen Premium-, Four-Poster- und Standard-Turmzimmer (Turret) sowie zwei große Doppelzimmer am Hang (Hillside).
 
 ## Lage
 

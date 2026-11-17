@@ -1,9 +1,9 @@
 ---
 source: augill-castle-united-kingdom
 destination: "Kirkby Stephen, Cumbria"
-description: "Een ontspannen, familiaal gerund neogotisch kasteel in het Eden Valley tussen het Lake District en de Yorkshire Dales, met kasteelkamers die meestal een hemelbed hebben."
+description: "Een ontspannen, familiaal gerund kasteel uit de 19e eeuw in het Eden Valley tussen het Lake District en de Yorkshire Dales, met kasteelkamers die meestal een hemelbed hebben."
 highlights:
-  - "Neogotisch kasteel uit de 19e eeuw tussen het Lake District en de Yorkshire Dales"
+  - "Kasteel uit de 19e eeuw tussen het Lake District en de Yorkshire Dales"
   - "Kasteelkamers, de meeste met hemelbed, met uitzicht op de Dales en de Lakeland Fells"
   - "Informele, gezinsvriendelijke sfeer met houtvuren"
   - "Restaurant, afternoon tea en een bar in de serre"
@@ -18,10 +18,11 @@ bestFor:
   - "Vriendengroepen"
 seo:
   metaTitle: "Augill Castle: kasteelhotel in Cumbria | StayAtNiche"
-  metaDescription: "Augill Castle in Kirkby Stephen: neogotisch kasteel in het Eden Valley met hemelbedkamers, houtvuren, afternoon tea en uitzicht op de Yorkshire Dales."
+  metaDescription: "Augill Castle in Kirkby Stephen: kasteel uit de 19e eeuw in het Eden Valley met hemelbedkamers, houtvuren, afternoon tea en uitzicht op de Yorkshire Dales."
+niche_feature: "Kasteel uit de 19e eeuw; de kasteelkamers (de meeste met hemelbed) liggen in het kasteel zelf, maar het hotel verhuurt ook Garden Suites, Family Estate Houses en een Stable House buiten het hoofdgebouw."
 ---
 
-Augill Castle is een neogotisch kasteel uit de 19e eeuw in het Eden Valley in Cumbria, een landhuis dat oorspronkelijk een privéwoning was en later tot hotel werd verbouwd. Het ligt tussen de Yorkshire Dales en het Lake District, op wat de eigenaars het geografische middelpunt van de Britse eilanden noemen, vier mijl buiten de marktstad Kirkby Stephen.
+Augill Castle is een kasteel uit de 19e eeuw in het Eden Valley in Cumbria, dat als hotel wordt gerund. Het ligt tussen de Yorkshire Dales en het Lake District, op wat de eigenaars het geografische middelpunt van de Britse eilanden noemen, vier mijl buiten de marktstad Kirkby Stephen.
 
 ## Een kasteel zonder poespas
 
@@ -29,7 +30,7 @@ Wat Augill onderscheidt, is de sfeer. De eigenaars streven naar comfort, gastvri
 
 ## De kamers
 
-De kasteelkamers zijn de grote trekpleister. De meeste hebben een hemelbed, en het uitzicht reikt tot de Yorkshire Dales en de Lakeland Fells. De kamers verschillen, dus het loont om te vragen welke het best bij je gezelschap past.
+De kasteelkamers zijn de grote trekpleister. De meeste hebben een hemelbed, en het uitzicht reikt tot de Yorkshire Dales en de Lakeland Fells. De kamers verschillen, dus het loont om te vragen welke het best bij je gezelschap past. Niet alle kamers liggen in het kasteel zelf: het hotel verhuurt ook Garden Suites, Family Estate Houses en een Stable House, dus controleer welk type je boekt.
 
 ## Eten en drinken
 

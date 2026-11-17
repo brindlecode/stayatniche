@@ -48,7 +48,7 @@ Severin Safari Camp is a tented camp in the middle of Tsavo West National Park i
 
 ## The tents
 
-The Luxury Tent covers 34 square metres and sleeps up to three adults. Each has handmade wooden furniture in a traditional African style, a king-size bed with a mosquito net, an en-suite bathroom with running hot and cold water, and a private veranda facing the savanna. The camp also lists suites among its rooms.
+The Luxury Tent covers 34 square metres and sleeps up to three adults. Each has handmade wooden furniture in a traditional African style, a king-size bed with a mosquito net, an en-suite bathroom with running hot and cold water, and a private veranda facing the savanna. The camp also lists suites among its rooms, as well as self-catering Kitani Bandas about 1.5 km from the main camp; a vehicle is required to reach them.
 
 ## At the camp
 

@@ -3,7 +3,7 @@ source: robles-treehouse-lodge-peru
 destination: "Manu, Madre de Dios"
 description: "Un lodge en forêt tropicale composé de dix bungalows surélevés dans le style des cabanes dans les arbres, au bord de la rivière Palotoa, à la lisière du parc national de Manu."
 highlights:
-  - "Dix bungalows privés surélevés au-dessus du sol de la jungle"
+  - "Dix bungalows privés surélevés, dans le style des cabanes dans les arbres"
   - "Sur la rivière Palotoa, à la lisière du parc national de Manu, dans la réserve de biosphère de Manu"
   - "Randonnées guidées dans la jungle, kayak, descente en bouée et observation des caïmans"
   - "Une tour d'observation de 30 m"
@@ -26,7 +26,7 @@ Robles Treehouse Lodge est un éco-lodge à la lisière du parc national de Manu
 
 ## Les bungalows
 
-Le lodge compte dix bungalows privés, surélevés au-dessus du sol de la jungle dans le style des cabanes dans les arbres. Chacun dispose d'une salle de bains privative avec douches chaudes, et le lodge fonctionne à l'énergie solaire avec un accès Wi-Fi. L'espace repas offre une vue panoramique sur la rivière.
+Le lodge compte dix bungalows privés, que l'opérateur décrit comme surélevés et dans le style des cabanes dans les arbres. Chacun dispose d'une salle de bains privative avec douches chaudes, et le lodge fonctionne à l'énergie solaire avec un accès Wi-Fi. L'espace repas offre une vue panoramique sur la rivière.
 
 ## Activités
 

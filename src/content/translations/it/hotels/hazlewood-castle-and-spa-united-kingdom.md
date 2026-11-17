@@ -19,6 +19,7 @@ bestFor:
 seo:
   metaTitle: "Hazlewood Castle & Spa: hotel nel castello | StayAtNiche"
   metaDescription: "Hazlewood Castle & Spa vicino a Tadcaster: 32 camere e suite, nove nel castello principale, spa termale e 77 acri di bosco tra York e Leeds."
+niche_feature: "32 camere in tre edifici: 9 camere e suite nel castello principale, 12 camere in St Margaret's (sul cortile) e 11 in St Leonard's. Il castello risale all'epoca del Domesday Book (citato per la prima volta nel 1086; descritto come castello dell'XI secolo)."
 ---
 
 Hazlewood Castle è una residenza di campagna di grado I, oggi trasformata in hotel, nello North Yorkshire. Sorge tra York e Leeds, vicino a Tadcaster, ed è una delle case fortificate più antiche sopravvissute nello Yorkshire. Il castello risale al Domesday Book e si erge in mezzo a 77 acri di bosco.

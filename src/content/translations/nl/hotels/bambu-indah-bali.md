@@ -1,17 +1,18 @@
 ---
 source: bambu-indah-bali
 destination: "Ubud, Bali, Indonesië"
-description: "Een verblijf aan de rivier in de jungle van Ubud, gebouwd uit antieke Javaanse bruidshuizen en bamboeconstructies, met natuurlijke zwempoelen in de rivier die onder het bladerdak uit de steen zijn gehouwen. Elk gebouw is een stukje gered Indonesisch architectuurerfgoed."
+description: "Een verblijf met 24 huizen aan de rivier in de jungle van Ubud, met antieke Javaanse bruidshuizen, bamboeconstructies en een Treehouse in de takken van twee bunutbomen, plus een door een bron gevoede poel naast de rivier."
 highlights:
   - "Antieke Javaanse bruidshuizen, verplaatst en opnieuw opgebouwd in de jungle van Ubud"
-  - "Natuurlijk zwemmen in de rivier, in stenen poelen onder het bladerdak"
+  - "Door een bron gevoede poel naast een kolkende rivier"
   - "Bamboeconstructies ontworpen door John Hardy, oprichter van de Green School Bali"
   - "Biologische boerderij en permacultuurtuinen die de keuken bevoorraden"
   - "Gelegen op de Sayan Ridge boven een zijrivier van de Ayung"
   - "Van boer tot bord, uit de eigen tuinen"
+  - "Treehouse in de takken van twee bunutbomen (voor 3 personen), een van de 24 huizen"
 amenities:
   - "Verblijf in een eigen villa of bamboeconstructie"
-  - "Natuurlijke zwempoelen in de rivier"
+  - "Door een bron gevoede poel naast de rivier"
   - "Eigen biologische boerderij en tuinen"
   - "Ontbijt inbegrepen, met producten van de eigen boerderij"
   - "Spabehandelingen in openluchtpaviljoens"
@@ -48,13 +49,16 @@ nearbyAttractions:
     distance: 8 km
 seo:
   metaTitle: "Bambu Indah Ubud: junglevilla's op Bali | StayAtNiche"
-  metaDescription: "Antieke Javaanse bruidshuizen en bamboehuizen aan een junglerivier bij Ubud op Bali. Bambu Indah is het bijzonderste architectuuradres van de streek."
+  metaDescription: "Antieke Javaanse bruidshuizen en bamboehuizen aan een junglerivier bij Ubud op Bali. Ook is er een Treehouse in de takken van twee bunutbomen. Vanaf $ 250."
+niche_feature: "Eén Treehouse (voor 3 personen) tussen 24 huizen: een aparte bamboeconstructie in de takken van twee bunutbomen. De andere huizen (joglo-huizen voor bruidsparen, bamboehuizen, tenten) zijn geen boomhutten."
 ---
 
 De meeste luxeverblijven op Bali volgen een bekend sjabloon: betegelde infinitypool, open paviljoen als lobby, privévilla met een plonsbad vol frangipanibloemen. Bambu Indah vertrekt vanuit totaal andere uitgangspunten. John Hardy – de Canadese sieradenontwerper die zowel de Green School Bali oprichtte als een beweging in bamboearchitectuur die wereldwijd het tropisch bouwen heeft beïnvloed – maakte Bambu Indah als levend voorbeeld van hoe een duurzaam, eerlijk in materiaal en esthetisch doordacht verblijf op Bali eruit kan zien.
 
 De oudste gebouwen op het terrein zijn antieke Javaanse bruidshuizen: houten paviljoens die een familie traditioneel aan een dochter schonk als ze trouwde, in de loop van decennia op heel Java verzameld en zorgvuldig herbouwd op de Sayan Ridge boven de zijrivier van de Ayung. Elk huis is qua constructie en uiterlijk anders, met gesneden houten panelen, hoge puntdaken en proporties die passen bij de Indonesische wooncultuur waaruit ze voortkomen. Daarnaast bouwde Hardy nieuwe bamboeconstructies die laten zien wat het materiaal kan in handen van vakkundige Balinese ambachtslieden: gebogen plafonds, uitkragende platforms boven de jungle, ruimtes die bij harde wind licht meebuigen op een manier die traditionele bouw nooit doet.
 
-Het zwemmen in de rivier onderscheidt Bambu Indah het duidelijkst van de concurrentie in Ubud. Natuurlijke poelen, onder het bladerdak uit steen gehouwen, gevoed door de rivier en beschaduwd door het groen erboven, liggen aan het eind van een pad vanaf de hoger gelegen verblijven. Op een hete middag in het droge seizoen op Bali zijn ze precies wat een standaard resortzwembad met chloor niet is: koel, stromend, verbonden met het landschap en helemaal in lijn met de kerngedachte van het verblijf over wat luxe in deze omgeving zou moeten betekenen.
+Een van de 24 huizen is een Treehouse: een bamboeconstructie met gebogen koperen dak, in de takken van twee bunutbomen boven de vallei. Er kunnen drie personen slapen, met een queensize bed in de hoofdruimte en een tweede in een loft, en het is bereikbaar via een smalle wenteltrap.
+
+Het zwemmen in de rivier onderscheidt Bambu Indah het duidelijkst van de concurrentie in Ubud. Op het terrein ligt een door een bron gevoede poel naast een kolkende rivier, en een met de hand gelegd stenen pad loopt erdoorheen. Op een hete middag in het droge seizoen op Bali zijn ze precies wat een standaard resortzwembad met chloor niet is: koel, stromend, verbonden met het landschap en helemaal in lijn met de kerngedachte van het verblijf over wat luxe in deze omgeving zou moeten betekenen.
 
 De biologische boerderij ligt achter de hoofdgebouwen en levert groenten, kruiden, eieren en fruit aan de keuken. Het ontbijt bij Bambu Indah is een directe weerspiegeling van wat de tuin die ochtend heeft opgeleverd. De bredere voedselfilosofie strekt zich uit tot het water: het verblijf heeft een eigen zuiveringssysteem, en het wegwerpplastic dat de afvalstromen van de meeste Balinese resorts vult, ontbreekt hier. Voor reizigers die Bali kennen en de gangbare resortscene esthetisch uitputtend vinden, is Bambu Indah het tegengif.

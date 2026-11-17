@@ -19,6 +19,7 @@ bestFor:
 seo:
   metaTitle: "Ottoman Cave Suites : hôtel troglodyte, Göreme | StayAtNiche"
   metaDescription: "Ottoman Cave Suites à Göreme : petit hôtel de 13 chambres, dont huit chambres troglodytes, avec petit-déjeuner en terrasse et vue sur les cheminées de fées."
+niche_feature: "13 chambres : 8 chambres creusées dans le roc (kaya oyma) et 5 chambres standard en pierre ; cinq des suites creusées dans le roc donnent sur le château d'Uçhisar."
 ---
 
 Ottoman Cave Suites se présente comme un petit hôtel troglodyte, confortable et chaleureux, dans un quartier bien relié au centre de Göreme et à de nombreux sites de Cappadoce. L’établissement compte 13 chambres au total : huit taillées dans la roche et cinq chambres standard en pierre. La majeure partie du séjour se passe donc dans des chambres troglodytes, mais pas toutes.
@@ -33,6 +34,6 @@ L’hôtel met en avant une vue panoramique sur les vallées, les montagnes et l
 
 ## Informations pratiques
 
-L’adresse indiquée est Avcılar Mahallesi, Okul Sokak No: 6, 50180 Göreme. L’hôtel est tout récent : il s’agit donc d’une ouverture récente et non d’une maison installée depuis longtemps.
+L’adresse indiquée est Avcılar Mahallesi, Okul Sokak No: 6, 50180 Göreme.
 
 Un choix judicieux si vous cherchez une chambre troglodyte à Göreme, dans un hôtel assez petit pour rester personnel. Demandez explicitement une chambre taillée dans la roche lors de la réservation.

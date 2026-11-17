@@ -1,9 +1,9 @@
 ---
 source: locanda-al-castello-italy
 destination: "Cividale del Friuli, Frioul-Vénétie Julienne"
-description: "Charmant hôtel, restaurant et centre de bien-être à quelques minutes du centre de Cividale del Friuli, avec 27 chambres réparties entre un ancien manoir du complexe castral et une aile moderne dédiée au bien-être."
+description: "Charmant hôtel, restaurant et centre de bien-être à quelques minutes du centre de Cividale del Friuli, avec 27 chambres réparties entre le manoir, un ancien monastère jésuite du milieu du XIXe siècle, et une aile moderne dédiée au bien-être."
 highlights:
-  - "27 chambres dans l'ancien manoir et une aile moderne dédiée au bien-être"
+  - "27 chambres dans le manoir du XIXe siècle et une aile moderne dédiée au bien-être"
   - "Vue depuis la vieille ville de Cividale jusqu'aux Alpes carniques"
   - "Centre de bien-être avec piscine couverte, parcours Kneipp et jacuzzi"
   - "Restaurant avec vue panoramique"
@@ -22,13 +22,15 @@ bestFor:
 seo:
   metaTitle: "Hôtel de charme Locanda al Castello, Cividale | StayAtNiche"
   metaDescription: "Locanda al Castello à Cividale del Friuli : hôtel de charme avec restaurant, centre de bien-être avec piscine et vue panoramique sur les Alpes carniques."
+niche_note: "Le « château » n’est pas une forteresse médiévale : le manoir est une villa crénelée de style château du milieu du XIXe siècle, construite comme villa jésuite Betlemme. Les chambres se répartissent entre le manoir et une aile bien-être moderne."
+niche_feature: "27 chambres réparties entre l'« antico maniero » (une villa de style château à créneaux, ancien monastère jésuite, la « Villa Betlemme », du milieu du XIXe siècle) et une aile bien-être moderne ; le nombre de chambres par aile n'est pas indiqué."
 ---
 
-La Locanda al Castello réunit en un même lieu un hôtel, un restaurant et un centre de bien-être, à quelques minutes du centre de Cividale del Friuli. Le cadre est un complexe castral avec créneaux et terrasses panoramiques, qui sert aussi de décor aux mariages.
+La Locanda al Castello réunit en un même lieu un hôtel, un restaurant et un centre de bien-être, à quelques minutes du centre de Cividale del Friuli. Le cadre est un complexe crénelé en forme de château, l'ancien monastère jésuite Villa Betlemme, construit au milieu du XIXe siècle, avec des terrasses panoramiques qui servent aussi de décor aux mariages.
 
 ## Manoir ou aile bien-être
 
-Cet hôtel de charme compte 27 chambres, des junior suites ou des doubles supérieures, réparties entre deux lieux : l'ancien manoir et une aile moderne panoramique, directement reliée au centre de bien-être avec sa piscine et son spa. Seules les chambres du manoir se trouvent dans l'ancien bâtiment du château. Si le cadre historique est la raison de votre venue, demandez-en une lors de la réservation.
+Cet hôtel de charme compte 27 chambres, des junior suites ou des doubles supérieures, réparties entre deux lieux : le manoir et une aile moderne panoramique, directement reliée au centre de bien-être avec sa piscine et son spa. Seules les chambres du manoir se trouvent dans le bâtiment d'origine. Si le cadre historique est la raison de votre venue, demandez-en une lors de la réservation. L'hôtel ne précise pas combien des 27 chambres se trouvent dans le manoir.
 
 Toutes les chambres disposent du Wi-Fi, d'un minibar, de la climatisation, de la télévision par satellite, d'un coffre-fort et d'un téléphone. La vue embrasse le centre historique de Cividale, les collines verdoyantes de l'est, jusqu'à l'ancien monastère de Castelmonte et la silhouette des Alpes carniques, dont les sommets du mont Canin et du Matajur se couvrent de neige en hiver. Le petit-déjeuner est inclus dans le tarif de la chambre.
 

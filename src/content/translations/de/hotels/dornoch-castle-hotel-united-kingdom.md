@@ -21,6 +21,7 @@ bestFor:
 seo:
   metaTitle: "Dornoch Castle: Schlosshotel mit Whiskybar | StayAtNiche"
   metaDescription: "Dornoch Castle Hotel: Schloss aus dem 15. Jahrhundert mit neun Schlosszimmern, Whiskybar und ummauertem Garten gegenüber der Kathedrale von Dornoch."
+niche_feature: "9 von 21 Zimmern liegen im Schloss aus dem 15. Jahrhundert; die übrigen 12 befinden sich in einem modernen Anbau."
 ---
 
 Das Dornoch Castle Hotel befindet sich in einem Schloss aus dem 15. Jahrhundert mitten in der kleinen Küstenstadt Dornoch, direkt gegenüber der Dornoch Cathedral aus dem 12. Jahrhundert. Das Hotel hat 21 Zimmer, doch nur ein Teil davon liegt im Schloss: Neun Zimmer befinden sich im alten Gebäude, die übrigen in einem modernen Anbau. Wer hinter Schlossmauern schlafen möchte, fragt bei der Buchung nach einem der Schlosszimmer.

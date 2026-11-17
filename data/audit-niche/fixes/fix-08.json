@@ -1,0 +1,310 @@
+[
+ {
+  "slug": "soneva-jani-maldives",
+  "issue": "Implies all villas are overwater; official also lists Beach Villas and island Signature Villas",
+  "action": "corrected",
+  "detail": "Description, highlights and body now say the overwater villas have retractable roofs/slides and that Beach Villas and Signature Villas are also on the island; added a 'not every villa is overwater' sentence in all 6 languages.",
+  "source_url": "https://soneva.com/soneva-jani/"
+ },
+ {
+  "slug": "soneva-jani-maldives",
+  "issue": "Superlative: 'most architecturally playful overwater resort in the Indian Ocean'",
+  "action": "deleted",
+  "detail": "Removed the sentence from the description in all 6 languages.",
+  "source_url": null
+ },
+ {
+  "slug": "soneva-jani-maldives",
+  "issue": "Observatory/largest telescopes, reef wine cave and two-hour seaplane not checked on the pages read",
+  "action": "deleted",
+  "detail": "No observatory/telescope or seaplane/flight-time statement found on the official pages (villas, dining, experiences). Removed the observatory highlight, 'Cinema and observatory' (now 'Outdoor cinema'), the observatory paragraph, the two-hour seaplane and 'least visited waters' wording and the observatory in meta descriptions. 'Reef wine cave' reworded to 'wine cellar' (official dining page lists a Wine Cellar).",
+  "source_url": "https://soneva.com/resorts/soneva-jani/dining/"
+ },
+ {
+  "slug": "song-saa-cambodia",
+  "issue": "Does not give the number of overwater villas; official total is 24 villas across several types",
+  "action": "corrected",
+  "detail": "Added that Song Saa has 24 villas in total across several types (jungle, ocean view, overwater, others); official page does not give an overwater-only count, so none was added.",
+  "source_url": "https://www.songsaa-privateisland.com/"
+ },
+ {
+  "slug": "song-saa-cambodia",
+  "issue": "Founders securing reef protection, 35 km distance and primary-forest claims not confirmed on pages read",
+  "action": "corrected",
+  "detail": "Founder claim reworded to what the official About page says (founder worked with local communities on Cambodia's first marine-protected area); '35 km from Sihanoukville' deleted from body and the Sihanoukville '35 km by boat' nearbyAttractions entry removed in all languages; 'primary tropical forest' replaced by 'native vegetation/scrub along the shoreline' (official: jungle villas nestled in native scrub along the shoreline).",
+  "source_url": "https://www.songsaa-privateisland.com/about-us"
+ },
+ {
+  "slug": "telunas-private-island-overwater-villas-indonesia",
+  "issue": "Official source does not state stilt construction, only 'Overwater Villas'",
+  "action": "corrected",
+  "detail": "English page never claims stilts (says Overwater Villas above the sea). Only the French metaTitle said 'villas sur pilotis'; changed to 'Overwater Villas'.",
+  "source_url": "https://telunasresorts.com/private-island/"
+ },
+ {
+  "slug": "thulhagiri-island-resort-maldives",
+  "issue": "Says 17 water bungalows; official lists 17 Water Bungalows plus 20 Superior Water Bungalows (37 overwater) and 50 beach bungalows",
+  "action": "corrected",
+  "detail": "Description, first highlight, intro paragraph and meta descriptions now give 37 water bungalows (17 Water + 20 Superior) and 50 Standard Deluxe beach bungalows, in all 6 languages.",
+  "source_url": "https://www.thulhagiri.com.mv/"
+ },
+ {
+  "slug": "anantara-sir-bani-yas-uae",
+  "issue": "Treats three separate resorts (Desert Islands, Al Sahel, Al Yamm) as one 'Safari Resort'; no such official name",
+  "action": "corrected",
+  "detail": "Description, body and meta now describe three separate Anantara hotels (Desert Islands Resort & Spa, Al Sahel Villa Resort, Al Yamm Villa Resort, all Minor Hotels) and tell readers to confirm which one they book. The name field was not touched.",
+  "source_url": "https://en.wikipedia.org/wiki/Sir_Bani_Yas"
+ },
+ {
+  "slug": "anantara-sir-bani-yas-uae",
+  "issue": "'Three options: beach villas, desert lodges, palace-style' does not match the official three-resort structure",
+  "action": "corrected",
+  "detail": "Replaced with the three-resort structure and room counts (64 rooms opened 2008; 30 villas each opened 2013) from Wikipedia.",
+  "source_url": "https://en.wikipedia.org/wiki/Sir_Bani_Yas"
+ },
+ {
+  "slug": "anantara-sir-bani-yas-uae",
+  "issue": "'250 km west of Abu Dhabi', '10,000 animals', 'first captive-born Arabian cheetah' and 'most unusual safari in the Middle East' are unsupported",
+  "action": "corrected",
+  "detail": "250 km west corrected to about 170 km southwest (Wikipedia); '10,000 animals' replaced by 'thousands of free-roaming animals' (Wikipedia gives conflicting counts; the 10,000 figure now only appears as animals released into other reserves, as Wikipedia states); first captive-born cheetah and 'most unusual safari' deleted; also dropped acacia woodland, open 4WD, 170 bird species (Wikipedia: more than 100) and the unsupported mangrove superlative.",
+  "source_url": "https://en.wikipedia.org/wiki/Sir_Bani_Yas"
+ },
+ {
+  "slug": "anantara-sir-bani-yas-uae",
+  "issue": "Al Sahel and Al Yamm were reported as under refurbishment in 2025; current status unconfirmed",
+  "action": "corrected",
+  "detail": "Could not verify the refurbishment (Anantara pages return 403). Added a neutral line telling readers to check each hotel's current opening status and availability; no refurbishment claim was made.",
+  "source_url": null
+ },
+ {
+  "slug": "andbeyond-phinda-south-africa",
+  "issue": "Names an 'Ocean Lodge' as one of six camps; official lists Mountain, Forest, Rock, Vlei, Zuka and Homestead and no Ocean Lodge",
+  "action": "corrected",
+  "detail": "Removed every Ocean Lodge reference (highlight, amenity, pro, seasonal notes, body); body now lists the six real lodges and describes bush-and-beach as nearby Indian Ocean activities; turtle nesting reworded to Sodwana Bay, four months of the southern summer.",
+  "source_url": "https://assets.andbeyond.com/image/upload/v1757070782/Collateral/Destination-Brochure-Phinda-Private-Game-Reserve-South-Africa.pdf"
+ },
+ {
+  "slug": "andbeyond-phinda-south-africa",
+  "issue": "Describes Rock Lodge as on a bouldered hillside; official calls it a cliffside location",
+  "action": "corrected",
+  "detail": "Now a cliff-top pueblo suspended over the valley (brochure).",
+  "source_url": "https://assets.andbeyond.com/image/upload/v1757070782/Collateral/Destination-Brochure-Phinda-Private-Game-Reserve-South-Africa.pdf"
+ },
+ {
+  "slug": "andbeyond-phinda-south-africa",
+  "issue": "1990 acquisition and 'only sand forest in Africa' claims not checked against official pages",
+  "action": "corrected",
+  "detail": "Brochure: &Beyond was launched with Phinda in 1991 (first private game reserve in KwaZulu-Natal; original 13,076 ha, now 29,866 ha); body rewritten accordingly (also dropped the unsupported 'late 1980s' and fences-out narrative). 'Only sand forest in Africa' replaced by 'rare sand forest' home to suni and red duiker (brochure).",
+  "source_url": "https://assets.andbeyond.com/image/upload/v1757070782/Collateral/Destination-Brochure-Phinda-Private-Game-Reserve-South-Africa.pdf"
+ },
+ {
+  "slug": "barahi-jungle-lodge-nepal",
+  "issue": "'All rooms have private balconies' not confirmed on the official pages read",
+  "action": "not_an_issue",
+  "detail": "The cited official page https://barahi.com/chitwan-suites-rooms/ states 'All rooms have private balconies'.",
+  "source_url": "https://barahi.com/chitwan-suites-rooms/"
+ },
+ {
+  "slug": "barahi-jungle-lodge-nepal",
+  "issue": "Lodge is outside the park boundary (safari starts across the river); page says 'near' correctly",
+  "action": "not_an_issue",
+  "detail": "Page already says 'near/close to Chitwan National Park'; no claim of being inside the park.",
+  "source_url": null
+ },
+ {
+  "slug": "bisate-lodge-rwanda",
+  "issue": "Operator is Wilderness per official site, not andBeyond (page and meta description say andBeyond)",
+  "action": "corrected",
+  "detail": "Replaced andBeyond with Wilderness in description, meta description and body in all 6 languages; also removed 'andBeyond's most architecturally striking property' and 'most theatrical' superlatives.",
+  "source_url": "https://www.wildernessdestinations.com/africa/rwanda/volcanoes-national-park/bisate-lodge"
+ },
+ {
+  "slug": "bisate-lodge-rwanda",
+  "issue": "Official site says the lodge is on the edge of / walking distance from Volcanoes National Park, not inside it",
+  "action": "corrected",
+  "detail": "Now 'at the foot of the Virunga volcanoes, within walking distance of Volcanoes National Park' (also dropped 'extinct volcano', 'most biodiverse park' claims from the description).",
+  "source_url": "https://www.wildernessdestinations.com/africa/rwanda/volcanoes-national-park/bisate-lodge"
+ },
+ {
+  "slug": "bisate-lodge-rwanda",
+  "issue": "Gorilla permit price and travel-time figures not checked against the source",
+  "action": "corrected",
+  "detail": "USD 1,500 permit confirmed. '10 minutes from the main gate' deleted (official: walking distance); Kigali '2.5 h by road / 30 min charter' replaced by official 'approximately 3-hour drive via Musanze, vehicle transfers, helicopter transfers offered'.",
+  "source_url": "https://www.wildernessdestinations.com/africa/rwanda/volcanoes-national-park/bisate-lodge"
+ },
+ {
+  "slug": "campi-ya-kanzi-kenya",
+  "issue": "Land area: andBeyond says 283,000 acres, operator site says 400,000 acres",
+  "action": "corrected",
+  "detail": "Used the cited operator page (maasai.com): 400,000 acres of Maasai-owned land, in description, highlight, meta and translations (the French hectare figure was converted accordingly). The andBeyond page was unreachable (404).",
+  "source_url": "https://maasai.com/resorts/campi-ya-kanzi/"
+ },
+ {
+  "slug": "campi-ya-kanzi-kenya",
+  "issue": "'Eight tented rooms' fits 6 cottages + 2 suites; 'Amboseli ecosystem' framing and 'dining tent' not confirmed",
+  "action": "deleted",
+  "detail": "Eight tented rooms confirmed (2 king + 4 twin cottages + 2 suites) and kept. Deleted the 'Amboseli ecosystem as it was designed to be seen' sentence and replaced 'dining tent' with 'camp'.",
+  "source_url": "https://maasai.com/resorts/campi-ya-kanzi/"
+ },
+ {
+  "slug": "campi-ya-kanzi-kenya",
+  "issue": "Camp's own domain campiyakanzi.com now only shows webcams; county and nearest town not stated by the cited source",
+  "action": "not_fixed",
+  "detail": "County is only in the protected destination field ('Kajiado County') and location.region; the cited source does not state county or nearest town and the body text makes no county claim, so nothing editable was changed.",
+  "source_url": null
+ },
+ {
+  "slug": "jao-camp-botswana",
+  "issue": "Operator is now the independent Jao Reserve / Jao Collection, not Wilderness Safaris",
+  "action": "corrected",
+  "detail": "Removed Wilderness Safaris from description and meta; camp described as one of the Jao Reserve camps.",
+  "source_url": "https://jaoreserve.com/jao-camp/"
+ },
+ {
+  "slug": "jao-camp-botswana",
+  "issue": "'Treehouse-style architecture' not supported: official says modern architectural camp",
+  "action": "corrected",
+  "detail": "Treehouse wording removed everywhere; now modern architecture tucked into island forest, five suites and two villas each with private plunge pool.",
+  "source_url": "https://jaoreserve.com/jao-camp/"
+ },
+ {
+  "slug": "jao-camp-botswana",
+  "issue": "Concession size given as 60,000 acres; third-party sources say 60,000 hectares",
+  "action": "deleted",
+  "detail": "Official page gives no concession size, so all 60,000-acre/hectare claims were removed (description, highlight, body) in all languages. Birding figure corrected to over 450 species in the Okavango Delta (official).",
+  "source_url": "https://jaoreserve.com/jao-camp/"
+ },
+ {
+  "slug": "jao-camp-botswana",
+  "issue": "Superlatives ('finest concession', 'most singular') unsupported",
+  "action": "deleted",
+  "detail": "Removed 'one of the continent's most singular lodges', 'extraordinary' concession and 'among the most beautiful architecture in Africa' wording.",
+  "source_url": null
+ },
+ {
+  "slug": "londolozi-varty-camp-south-africa",
+  "issue": "Page says Varty Camp established in the 1970s; official site says Londolozi began in 1926 and Varty Camp is nearly 100 years old",
+  "action": "corrected",
+  "detail": "Description, highlight, intro paragraph and 'evolved from its 1970s origins' now use 1926 (Varty Camp is the original camp; 10 chalets). One 1970s mention about the 'Female of Sparta' leopard in the leopards paragraph was left as it is a separate unsourced claim.",
+  "source_url": "https://www.londolozi.com/en/accommodation/varty-camp"
+ },
+ {
+  "slug": "londolozi-varty-camp-south-africa",
+  "issue": "'Birthplace of the modern luxury safari', 'most reliable leopard sightings in Africa', 'World's Best Leopard Sightings' are unsupported superlatives",
+  "action": "deleted",
+  "detail": "Removed 'pioneer of the modern luxury safari', 'every luxury safari operation owes something to Londolozi', 'renowned' and 'reliable leopard sightings' wording (description, highlights, pros, meta, intro paragraph); replaced with the official 'Leopards of Londolozi are a much-loved experience'.",
+  "source_url": "https://www.londolozi.com/"
+ },
+ {
+  "slug": "londolozi-varty-camp-south-africa",
+  "issue": "Official site says Sabi Sand lies within the Greater Kruger; 'unfenced border with Kruger' not confirmed on cited pages",
+  "action": "corrected",
+  "detail": "Replaced unfenced-border claims (description, highlight, nearbyAttractions, meta) with 'Sabi Sand Game Reserve, part of the Greater Kruger'.",
+  "source_url": "https://www.londolozi.com/"
+ },
+ {
+  "slug": "okonjima-bush-camp-namibia",
+  "issue": "Official name is 'Luxury Bush Camp' (one of five accommodation options); page calls it 'traditional safari camp'",
+  "action": "corrected",
+  "detail": "Replaced 'traditional safari camp' with Luxury Bush Camp (one of five options; eight thatched chalets and a Junior Suite) in description, highlight, body and meta descriptions. The name field was not touched.",
+  "source_url": "https://okonjima.com/luxury-bush-camp/"
+ },
+ {
+  "slug": "okonjima-bush-camp-namibia",
+  "issue": "Bush camp page itself says '2,000ha' reserve while the main site says 22,000 hectares (source inconsistency)",
+  "action": "not_an_issue",
+  "detail": "Official main site and 'at a glance' table state 22,000 hectares / 220 km2 consistently with the page; the 2,000ha on the bush camp page is an inconsistency in that source, so 22,000 was kept.",
+  "source_url": "https://okonjima.com/"
+ },
+ {
+  "slug": "rekero-camp-masai-mara",
+  "issue": "Operator is Asilia Africa, not Governors' Camp group",
+  "action": "corrected",
+  "detail": "Governors' Camp replaced by Asilia Africa in description (6 languages).",
+  "source_url": "https://www.asiliaafrica.com/camps-lodges/rekero-camp/"
+ },
+ {
+  "slug": "rekero-camp-masai-mara",
+  "issue": "Page says ten tents; official says nine (including 2 family suites)",
+  "action": "corrected",
+  "detail": "Ten tents changed to nine safari tents in the body of all languages.",
+  "source_url": "https://www.asiliaafrica.com/camps-lodges/rekero-camp/"
+ },
+ {
+  "slug": "rekero-camp-masai-mara",
+  "issue": "'Grove of fig trees' not confirmed; official says nestled among the trees",
+  "action": "corrected",
+  "detail": "Fig-tree wording replaced by 'among the trees' in description and body (all languages).",
+  "source_url": "https://www.asiliaafrica.com/camps-lodges/rekero-camp/"
+ },
+ {
+  "slug": "rekero-camp-masai-mara",
+  "issue": "Camp is closed April to May; page implies year-round",
+  "action": "corrected",
+  "detail": "Added 'closed in April and May, open June to March' to seasonalInfo notes in all languages.",
+  "source_url": "https://www.asiliaafrica.com/camps-lodges/rekero-camp/"
+ },
+ {
+  "slug": "severin-safari-camp-kenya",
+  "issue": "Nearest-town transfer (Mtito Andei, Madaraka Express) not confirmed on the pages read",
+  "action": "not_an_issue",
+  "detail": "Official contact page says the Madaraka Express goes daily to Mtito Andei and guests are picked up on prior request; page text is correct.",
+  "source_url": "https://www.severinsafaricamp.com/contact"
+ },
+ {
+  "slug": "severin-safari-camp-kenya",
+  "issue": "Official rooms also include self-catering bandas about 1.5 km from the main camp",
+  "action": "corrected",
+  "detail": "Added a sentence on the self-catering Kitani Bandas about 1.5 km from the main camp (vehicle needed) to the tents section in all languages.",
+  "source_url": "https://www.severinsafaricamp.com/"
+ },
+ {
+  "slug": "singita-grumeti-tanzania",
+  "issue": "Page says only Sabora, Sasakwa and Faru Faru operate there; official lists seven (also Milele, Serengeti House, Explore, Kilima)",
+  "action": "corrected",
+  "detail": "Now lists all seven (Sasakwa, Faru Faru, Sabora, Milele, Kilima, Serengeti House, Explore); removed 'only camps operating' and 'three lodges and a tented camp'.",
+  "source_url": "https://singita.com/region/grumeti/"
+ },
+ {
+  "slug": "singita-grumeti-tanzania",
+  "issue": "Page treats the whole reserve as one hotel; it is a collection of separate lodges",
+  "action": "corrected",
+  "detail": "Description, highlights, pros and body now describe a collection of seven separate lodges and camps on the Grumeti Reserve managed with the Grumeti Fund (reserve created 1994, Fund managing since 2002, per official page); conservation paragraph limited to what the page states (incl. 2019 reintroduction of nine Eastern black rhino).",
+  "source_url": "https://singita.com/region/grumeti/"
+ },
+ {
+  "slug": "singita-grumeti-tanzania",
+  "issue": "'Africa's finest safari service' and 'only vehicle present' are unsupported superlatives",
+  "action": "deleted",
+  "detail": "Removed from description, meta, highlight, pros and body ('only vehicle' passage, 'three decades', 'highest expression', 'one of Africa's most serious safari operations', 'most complete itinerary').",
+  "source_url": null
+ },
+ {
+  "slug": "singita-lebombo-south-africa",
+  "issue": "Page says fifteen suites; official says 13 suites (plus a separate villa)",
+  "action": "corrected",
+  "detail": "Fifteen changed to thirteen glass-walled suites everywhere (description, highlight, pros, body, meta) in all languages; 'cantilevered over a gorge' changed to the official cliffside above the N'wanetsi River with decks and daybeds.",
+  "source_url": "https://singita.com/lodge/singita-lebombo-lodge/"
+ },
+ {
+  "slug": "singita-lebombo-south-africa",
+  "issue": "15,000-hectare concession figure not confirmed (other sources: about 13,500 ha)",
+  "action": "deleted",
+  "detail": "Official page gives no concession size; the hectare figure was removed from the body in all languages.",
+  "source_url": "https://singita.com/lodge/singita-lebombo-lodge/"
+ },
+ {
+  "slug": "singita-lebombo-south-africa",
+  "issue": "Province given as Limpopo; not confirmed from a source",
+  "action": "not_fixed",
+  "detail": "The province appears only in the protected destination field ('Kruger National Park, Limpopo, South Africa'); the body does not state a province. Wikipedia says Kruger spans Limpopo and Mpumalanga, so the field is only partly accurate but could not be edited.",
+  "source_url": "https://en.wikipedia.org/wiki/Kruger_National_Park"
+ },
+ {
+  "slug": "singita-lebombo-south-africa",
+  "issue": "'The finest address in South African safari' is an unsupported superlative",
+  "action": "deleted",
+  "detail": "Removed from meta description (all languages) and from the 'finest private concession' bestFor line, and 'some of South Africa's finest safari guiding' from the description.",
+  "source_url": null
+ }
+]

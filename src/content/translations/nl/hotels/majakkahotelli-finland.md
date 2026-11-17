@@ -21,6 +21,7 @@ bestFor:
 seo:
   metaTitle: "Majakkahotelli: vuurtorenhotel in Finland | StayAtNiche"
   metaDescription: "Majakkahotelli op een eiland bij Rauma in Finland: 15 kamers in de vuurtorentoren, de meeste met zeezicht, plus saunas en hottubs aan de kust."
+niche_feature: "Alle 15 hotelkamers liggen in de vuurtoren van Kylmapihlaja op een eiland in open zee; op het eiland staan ook acht aparte cottages voor twee personen, die niet in de toren liggen."
 ---
 
 Majakkahotelli is een vuurtorenhotel op een eiland aan de rand van de open zee. Elke gastenkamer ligt in de vuurtorentoren en is ingericht in een eenvoudige, comfortabele maritieme stijl. Buiten de toren heeft het eiland een restaurant, een gasthaven en acht cottages voor twee personen.

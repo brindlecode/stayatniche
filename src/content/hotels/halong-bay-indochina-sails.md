@@ -4,17 +4,17 @@ category: floating-hotels
 destination: Ha Long Bay, Quảng Ninh
 country: Vietnam
 continent: Asia
-description: "A boutique junk cruise through Ha Long Bay's 1,969 limestone karsts, with private balcony cabins, kayaking through sea caves accessible only at low tide, and cooking classes using seafood bought from passing floating markets."
+description: "A traditional wooden cruise vessel with 23 cabins on two decks, offering 2-day/1-night and 3-day/2-night overnight cruises on Ha Long Bay, with kayaking through caves on the 3-day itinerary."
 coverImage: /images/hotels/halong-bay-indochina-sails.jpg
 priceRange: "$180 - $380"
 priceIndicator: 3
 highlights:
-  - Private balcony over the bay
-  - Kayaking through hidden sea caves
-  - Tai chi at sunrise on the sundeck
-  - Cooking class with local seafood
-  - Kayak to deserted beaches
-  - Sunset cocktails from the top deck
+  - "23 cabins on two decks, with queen or twin beds"
+  - "Kayaking through caves on the 3-day itinerary"
+  - "Tai chi, fruit carving demonstration and squid fishing onboard"
+  - "Visit to the largest cave in Ha Long Bay and a swim at a Lonely Planet Top 100 beach"
+  - "Hidden beaches on the 3-day itinerary"
+  - "Sunbathing and sunset views over the bay"
 amenities:
   - En-suite bathroom
   - Air conditioning
@@ -30,7 +30,7 @@ prosAndCons:
   pros:
     - Unique floating experience in a UNESCO World Heritage Site
     - Meals and activities included in price
-    - Kayaking caves accessible only by junk boat
+    - "Kayaking through caves on the 3-day itinerary"
     - Spectacular sunrise and sunset views
   cons:
     - Limited shore time
@@ -55,7 +55,7 @@ status: published
 publishedDate: 2025-01-20
 seo:
   metaTitle: "Ha Long Bay Floating Hotel, Indochina Sails Junk Cruise | StayAtNiche"
-  metaDescription: "Sleep floating among Ha Long Bay's legendary limestone karsts aboard Indochina Sails. UNESCO World Heritage Site cruising with private balcony cabins."
+  metaDescription: "Overnight cruises on Ha Long Bay aboard Indochina Sails, a traditional wooden vessel with 23 air-conditioned cabins and 2-day or 3-day itineraries."
 affiliateLinks:
   - partner: "expedia"
     url: "https://www.expedia.com/Hotel-Search?destination=Ha%20Long%20Bay%2C%20Qu%E1%BA%A3ng%20Ninh%2C%20Vietnam&adults=2"
@@ -78,12 +78,12 @@ niche_source_url: "https://www.indochinasails.com/en/indochina-sails-ha-long.htm
 niche_verified_at: 2026-11-17
 ---
 
-Ha Long Bay has a specific effect on first-time visitors: the scale is simply not what they expected. Nearly two thousand limestone karsts erupt from the Gulf of Tonkin across 1,500 square kilometres, and the only way to move among them properly is by boat. A junk cruise is not merely the most convenient way to see the bay — it is the only way to reach the inner lagoons, the tidal caves, and the sections of water where the fishing villages have operated for generations without road access.
+Ha Long Bay has a specific effect on first-time visitors: the scale is simply not what they expected. Limestone karsts erupt from the Gulf of Tonkin, and the only way to move among them properly is by boat. A cruise is not merely the most convenient way to see the bay; it lets you sleep on the water among the karsts.
 
-Your private cabin opens onto a narrow balcony just above the waterline. Morning begins with mist rolling between the towers — Ha Long Bay earns its atmospheric reputation most thoroughly at dawn, when the light is low, the fishing boats are already moving, and the limestone walls are grey and close. The bay seems to reveal itself slowly as the light strengthens, which is the correct pace for it.
+Indochina Sails has 23 cabins on two decks, all air-conditioned with en suite bathrooms and a choice of queen or twin beds. Morning begins with mist rolling between the towers — Ha Long Bay earns its atmospheric reputation most thoroughly at dawn, when the light is low, the fishing boats are already moving, and the limestone walls are grey and close. The bay seems to reveal itself slowly as the light strengthens, which is the correct pace for it.
 
-The programme of daily activities is where Indochina Sails earns its keep. Kayaking into the hidden lagoons — enclosed bodies of water accessible only through low cave passages that must be entered flat on the kayak deck at low tide — is one of Southeast Asia's more memorable small adventures. The cooking class in the ship's galley uses produce bought from the floating market vendors who paddle up alongside in the mornings; the guide teaches the preparation of Vietnamese spring rolls and pho with the patience of someone who has watched many people struggle to roll rice paper.
+The onboard programme includes Tai Chi, a fruit carving demonstration, sunbathing, sightseeing, squid fishing and board games. Excursions visit the largest cave in Ha Long Bay and include a swim at one of Lonely Planet's Top 100 Beaches, and the 3-day itinerary adds hidden beaches and kayaking through caves.
 
-At golden hour, the sundeck becomes the social centre of the boat. Guests gather with Saigon beers to watch the light move across the karsts — amber first, then rose, then a deep blue-grey as the towers turn to silhouettes — in a natural display that is, by any measure, extraordinary.
+At golden hour the light moves across the karsts — amber first, then rose, then a deep blue-grey as the towers turn to silhouettes — in a natural display that is, by any measure, extraordinary.
 
 Indochina Sails operates from Tuan Chau Harbour, 20 kilometres from Ha Long City. Most guests arrive from Hanoi on a coordinated transfer that takes approximately 3.5 hours by road.

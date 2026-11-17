@@ -1,9 +1,9 @@
 ---
 source: thulhagiri-island-resort-maldives
 destination: "Atoll de Malé Nord"
-description: "Un resort insulaire de l'atoll de Malé Nord, à environ 20 minutes en vedette rapide de l'aéroport, dont 17 chambres sont des bungalows sur pilotis au-dessus du lagon."
+description: "Un resort insulaire de l'atoll de Malé Nord, à environ 20 minutes en vedette rapide de l'aéroport, avec 37 bungalows sur l'eau (17 Water Bungalows et 20 Superior Water Bungalows) au-dessus du lagon et 50 bungalows de plage."
 highlights:
-  - "17 bungalows sur pilotis au-dessus du lagon"
+  - "37 bungalows sur l'eau au-dessus du lagon (17 standard, 20 supérieurs)"
   - "Vue sur l'océan depuis les bungalows supérieurs"
   - "Récif privé de l'hôtel pour le snorkeling"
   - "Environ 20 minutes en vedette rapide de l'aéroport de Malé"
@@ -15,10 +15,11 @@ bestFor:
   - "Adeptes du snorkeling"
 seo:
   metaTitle: "Thulhagiri : bungalows sur pilotis Maldives | StayAtNiche"
-  metaDescription: "Thulhagiri Island Resort and Spa, à Malé Nord : 17 bungalows sur pilotis au-dessus du lagon, récif pour le snorkeling et 20 min de vedette de l'aéroport."
+  metaDescription: "Thulhagiri Island Resort and Spa, à Malé Nord : 37 bungalows sur pilotis au-dessus du lagon, récif pour le snorkeling et 20 min de vedette de l'aéroport."
+niche_feature: "17 Water Bungalows (56 m²) et 20 Superior Water Bungalows (78 m²) au-dessus du lagon, aux côtés de 50 bungalows de plage Standard Deluxe."
 ---
 
-Thulhagiri Island Resort and Spa est un petit resort insulaire de l'atoll de Malé Nord, aux Maldives. Dix-sept de ses chambres sont des bungalows sur pilotis construits au-dessus du lagon : seule une partie du resort se trouve donc sur l'eau. Le reste de l'hébergement comprend des villas de plage dotées de douches extérieures.
+Thulhagiri Island Resort and Spa est un petit resort insulaire de l'atoll de Malé Nord, aux Maldives. Trente-sept de ses chambres sont des bungalows sur l'eau au-dessus du lagon (17 Water Bungalows et 20 Superior Water Bungalows) : seule une partie du resort se trouve donc sur l'eau. Le reste de l'hébergement se compose de 50 bungalows de plage Standard Deluxe (villas de plage), dotés de douches extérieures.
 
 ## Au-dessus du lagon
 

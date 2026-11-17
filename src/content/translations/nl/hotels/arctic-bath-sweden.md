@@ -1,18 +1,18 @@
 ---
 source: arctic-bath-sweden
 destination: "Harads, Zweeds Lapland"
-description: "Een ring van drijfhout op de Lule-rivier op 66 graden noorderbreedte, met zes privéhutten en een centraal bad dat het hele jaar open is naar de hemel: een ijsbad als de rivier 's winters dichtvriest, wild zwemmen in de zomer. Architecten Bertil Harström en Johan Kauppi bouwden iets waardoor het poolgebied volkomen bewoonbaar aanvoelt."
+description: "Een drijvend hotel op de Lule-rivier in Zweeds Lapland, met een rond hoofdgebouw geïnspireerd op de geschiedenis van het boomstammen flotteren, 12 hutten (zes ervan drijven op de rivier) en een spa rond sauna's en koud baden. Ontworpen door de Zweedse architecten Bertil Harström en Johan Kauppi."
 highlights:
-  - "Drijvend hotel in de vorm van een ring van drijfhout op de bevroren Lule-rivier"
-  - "Het centrale buitenbad wordt 's winters een natuurlijk ijsbad"
-  - "Zes drijvende hutten en vier boshutten met uitzicht op de rivier"
+  - "Drijvend hotel op de Lule-rivier, drijvend in de zomer en ingevroren in de winter"
+  - "Spa met twee droge sauna's, een stoomsauna, twee buitenjacuzzi's en een koud bad"
+  - "12 hutten: zes drijvende hutten, drie landsuites en drie landgezinshutten"
   - "Scandinavische spa en wellnessbehandelingen, het hele jaar"
 amenities:
-  - "Drijvende hut of boshut met panoramisch uitzicht op de rivier"
-  - "Arctische spa met sauna, stoombad en ijsbad"
+  - "Drijvende hut of landhut met panoramisch uitzicht op de rivier"
+  - "Spa met twee droge sauna's, stoomsauna, buitenjacuzzi's en koud bad"
   - "Restaurant met Scandinavische keuken van lokale ingrediënten"
-  - "Hondensleetochten en sneeuwschoenwandelingen in de winter"
-  - "Kajakken en vissen in de zomer"
+  - "Sneeuwscooter-, sledehonden- en skitochten in de winter, afhankelijk van beschikbaarheid"
+  - "Verhuur van kano's en suppboards in de zomer"
   - "Wekdienst bij noorderlicht"
 bestFor:
   - "Wellnessliefhebbers"
@@ -21,13 +21,14 @@ bestFor:
   - "Liefhebbers van design en architectuur"
 seo:
   metaTitle: "Arctic Bath: drijvend hotel in Lapland | StayAtNiche"
-  metaDescription: "Drijvend spahotel op de Lule-rivier in Zweeds Lapland: een ring van drijfhout met ijsbad, sauna's en noorderlicht boven de rivier. Arctic Bath in Harads."
+  metaDescription: "Arctic Bath: drijvend hotel met spa op de Lule-rivier in Zweeds Lapland, met zes drijvende hutten, zes landhutten, sauna's, een koud bad en noorderlicht."
+niche_feature: "Zes van de 12 hutten zijn Floating Cabins op de Luleälven, bereikbaar via een voetpad over het water; de andere zes (drie Land Suites, drie Land Family) staan op het land. Het hotel wordt als drijvend gepromoot."
 ---
 
-Arctic Bath ligt op de Lule-rivier op 66 graden noorderbreedte, en het ontwerp is waar het allemaal om draait. Architecten Bertil Harström en Johan Kauppi bouwden het hotel als een houten ring: gebogen wanden van drijfhout rond een centraal bad dat het hele jaar open is naar de hemel. In de winter, als de rivier bevriest en de temperatuur daalt tot -25 °C, wordt dat bad een ijsbad. In de zomer, als de middernachtszon boven je rondjes draait, is het een wild zwembad midden in een boreale rivier.
+Arctic Bath ligt op de Lule-rivier in Zweeds Lapland, en het ontwerp is waar het allemaal om draait. De Zweedse architecten Bertil Harström en Johan Kauppi ontwierpen het als eerbetoon aan het houterfgoed van de regio. In het hart staat een rond hoofdgebouw, geïnspireerd op de geschiedenis van het boomstammen flotteren, met daarin de spa met het kenmerkende koude bad, sauna's, jacuzzi's en behandelkamers, plus het restaurant, de lounge en de bar. Het gebouw drijft in de zomer en is in de winter ingevroren.
 
-Zes drijvende hutten zitten vast aan de centrale ring, elk ontworpen voor twee personen, met panoramaramen die de rivier en de overhangende berken en dennen inlijsten. Het ontwerp is Scandinavisch op zijn meest functioneel: strakke lijnen, grenen, berk, steen en het uitzicht als hoofdrolspeler. Elke hut heeft een eigen sauna, die op deze breedtegraad eerder een noodzaak is dan een luxe. Vanuit een sauna van 90 graden de rivierlucht van -20 °C in stappen, met het noorderlicht boven je: dat is de ervaring waarvoor deze plek is gebouwd.
+In totaal zijn er 12 hutten. Zes drijvende hutten staan langs de oever, elk een tweepersoonskamer van 24 m² die je via een pad over het water bereikt en die wordt omringd door een houten terras van 57,5 m²; in de zomer drijven ze vrij op de Lule en in de winter zijn ze ingevroren. De andere zes staan op het land: drie landsuites (62 m², voor twee personen, met een slaapzolder) en drie landgezinshutten (62 m², voor maximaal vijf gasten). De interieurs combineren modern Scandinavisch design met hout en steen. Ontbijt en volledige toegang tot de spa zijn bij elk verblijf inbegrepen. Volgens het hotel verschijnt het noorderlicht vaak recht boven het terrein, te zien vanaf het terras of vanuit de warme jacuzzi na een saunasessie.
 
-De spa draait om Scandinavische tradities – massage met berkentakken, koude onderdompeling, arctische klei – en de buitenbaden werken het hele jaar. Het restaurant aan de rivieroever serveert rendier uit Lapland, zoetwatervis uit de Lule, zelf geplukte kruiden en bessen en brood dat elke dag in een houtoven wordt gebakken. Kleine, goed gekozen wijnkaart.
+De spa is geworteld in de Zweedse saunacultuur en het koud baden, met twee droge sauna's, een stoomsauna, twee buitenjacuzzi's en een koud bad, plus begeleide saunarituelen genaamd Julevädno en een Arctic Blend-ervaring waarbij gasten hun eigen kruidenmengsel samenstellen. Behandelingen kunnen tegen betaling worden geboekt. In het restaurant is het diner een vast menu op basis van lokale ingrediënten; ontbijt en lunch zijn à la carte.
 
-In de winter kun je hondensleetochten en sneeuwscootertochten maken, samen met het nabijgelegen Treehotel. Het noorderlichtseizoen loopt van eind augustus tot en met maart, en de open ligging op de rivier maakt het hotel tot een van de betere plekken in de regio om het te zien: geen bomen die de hemel in de belangrijke richtingen blokkeren. In de zomer kun je kajakken onder de middernachtszon en genieten van het licht van Noord-Zweden in juni en juli, dat fotografen die de reis maken rijkelijk beloont.
+In de winter staan sneeuwscootertochten, sledehondentochten en skitochten op de activiteitenlijst van het hotel, steeds afhankelijk van beschikbaarheid. Het hotel noemt het noorderlichtseizoen van eind augustus tot april. In de zomer schijnt de zon van eind mei tot half juli 24 uur per dag, en aan de receptie kun je kano's en suppboards huren.

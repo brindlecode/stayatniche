@@ -1,11 +1,11 @@
 ---
 source: amberley-castle-england
 destination: "Amberley, West Sussex"
-description: "Un castillo del siglo XII en West Sussex con sus murallas de 60 pies aún intactas, un rastrillo que se sube y se baja cada día y 19 habitaciones de diseño único dentro de las torres y la puerta fortificada originales."
+description: "Un castillo de West Sussex con orígenes en 1103, todavía rodeado por una muralla de 60 pies y con un antiguo rastrillo en la entrada, con 19 habitaciones de diseño único repartidas por distintas partes de la finca."
 highlights:
-  - "Rastrillo del siglo XII en funcionamiento, que todavía se sube y se baja a diario"
-  - "Murallas y almenas originales de 60 pies en un estado excepcional"
-  - "Dormitorios en las torres, entre ellos la espectacular Queen's Room de la puerta fortificada"
+  - "Un antiguo rastrillo en la entrada del castillo"
+  - "Una muralla de 60 pies que aún rodea el castillo, con una puerta fortificada de dos torres"
+  - "19 habitaciones repartidas por la finca, del Manor House y los Tower House Mews a la Bishopric Dairy"
   - "Jardines de 900 años con tejos históricos y un campo de cróquet"
   - "En los South Downs, el parque nacional más reciente de Inglaterra"
 amenities:
@@ -24,9 +24,9 @@ bestFor:
   - "Aficionados a la buena cocina británica"
 prosAndCons:
   pros:
-    - "Uno de los castillos mejor conservados de Inglaterra convertidos en hotel"
+    - "Un auténtico castillo medieval con unos 900 años de historia convertido en hotel"
     - "La llegada bajo el rastrillo es teatral y emocionante de verdad"
-    - "Dormitorios en torres con auténticas proporciones medievales"
+    - "Habitaciones de carácter y ubicación variados: no hay dos iguales"
     - "El reducido número de habitaciones permite un servicio atento y personal"
     - "Fácil acceso desde Londres (90 minutos en tren)"
   cons:
@@ -50,16 +50,17 @@ nearbyAttractions:
     distance: "22 km"
 seo:
   metaTitle: "Amberley Castle: hotel castillo del siglo XII | StayAtNiche"
-  metaDescription: "Rastrillo en funcionamiento, almenas originales y dormitorios en torres en el castillo medieval más romántico de Inglaterra, en los South Downs, cerca de Londres."
+  metaDescription: "Amberley Castle, en West Sussex: hotel en un castillo medieval con antiguo rastrillo, muralla de 60 pies y 19 habitaciones de diseño único, cerca de Arundel."
+niche_feature: "Auténtico castillo medieval amurallado; sus 19 habitaciones se reparten por distintas zonas de la finca: Manor House, Tower House Mews y las Gatehouse Suites, en la Bishopric Dairy del siglo XVII, justo fuera de las murallas."
 ---
 
-El rastrillo de Amberley Castle desciende tras de ti con un sonido —hierro contra piedra, pausado y pesado— que despeja cualquier duda sobre dónde estás. Estás dentro de un castillo del siglo XII. El mundo exterior queda al otro lado de 60 pies de muralla medieval. Y no es una metáfora.
+Se entra en Amberley Castle pasando bajo un antiguo rastrillo, y eso despeja cualquier duda sobre dónde estás. Estás dentro de un castillo cuyos orígenes se remontan a 1103. El mundo exterior queda al otro lado de una muralla de 60 pies de altura. Y no es una metáfora.
 
-Construido como residencia campestre fortificada de los obispos de Chichester, Amberley está habitado desde alrededor del año 1100 y ha sobrevivido casi intacto. Las murallas conservan su altura original. La puerta fortificada sigue controlando la única entrada. Los jardines amurallados, encerrados dentro del antiguo perímetro, tienen esa cualidad recogida y suspendida en el tiempo que solo logran los jardines verdaderamente medievales: tejos más antiguos que cualquier huésped vivo, un campo de cróquet dentro de una construcción pensada para la defensa y, al caer la tarde, un silencio que la campiña de los South Downs refuerza desde fuera.
+Construido como residencia campestre fortificada de los obispos de Chichester, Amberley está habitado desde principios del siglo XII. La muralla de 60 pies sigue rodeando el castillo, aunque se perdieron entre 20 y 30 pies cuando las defensas fueron destruidas en 1643, durante la Guerra Civil. Al sur se alza una puerta fortificada de dos torres. Los jardines amurallados, encerrados dentro del antiguo perímetro, tienen esa cualidad recogida y suspendida en el tiempo que solo logran los jardines verdaderamente medievales: tejos más antiguos que cualquier huésped vivo, un campo de cróquet dentro de una construcción pensada para la defensa y, al caer la tarde, un silencio que la campiña de los South Downs refuerza desde fuera.
 
 **Las habitaciones**
 
-Cada una de las 19 habitaciones y suites se ha diseñado en función del carácter físico de su rincón del castillo, así que no hay dos iguales. Las habitaciones de las torres conservan la verticalidad concentrada de la construcción medieval: muros de un metro de grosor, ventanas hundidas en la piedra que dejan pasar poca luz y una quietud acústica que las técnicas de construcción modernas no pueden fabricar. Si está libre, reserva la Queen's Room, en la puerta fortificada original: una estancia con altura suficiente para una auténtica cama con dosel, vistas directas sobre el acceso del puente levadizo y la certeza de que todas las personas de importancia que entraron en este castillo a lo largo de nueve siglos pasaron justo por debajo de su suelo.
+Cada una de las 19 habitaciones y suites tiene un diseño individual y ocupa una parte distinta de la finca, del Manor House y los Tower House Mews a la Bishopric Dairy, más allá de los muros, así que no hay dos iguales.
 
 Los baños se han encajado con acierto en espacios que no se pensaron para tener fontanería, y la calidad de la ropa de cama es alta. La combinación funciona: la piedra antigua y el confort moderno conviven sin la incomodidad habitual.
 

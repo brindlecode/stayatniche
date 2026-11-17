@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Killeavy Castle Estate: castello in Irlanda | StayAtNiche"
   metaDescription: "Killeavy Castle Estate nel Ring of Gullion: hotel in un ex mulino, castello gotico in affitto in esclusiva e spa Elemis, in Irlanda del Nord."
+niche_feature: "Quattro camere (fino a otto posti letto) nel castello ottocentesco vincolato di grado A, prenotabili solo in uso esclusivo dell'intero castello; l'hotel da 45 camere si trova in un mulino e in una rimessa per carrozze ristrutturati, e le residenze in self-catering sono separate."
 ---
 
 Killeavy Castle Estate si trova nel Ring of Gullion, nella contea di Armagh, su una tenuta di 365 acri di fattorie e boschi ai piedi dello Slieve Gullion. Newry dista circa dieci minuti, mentre gli aeroporti di Belfast e Dublino sono a un'ora. La tenuta offre tre tipi di soggiorno, e il castello è solo uno di questi, quindi è utile sapere cosa stai prenotando.

@@ -3,7 +3,7 @@ name: "OFF Paris Seine"
 category: floating-hotels
 destination: "Paris, Île-de-France"
 country: "France"
-description: "Paris's only floating hotel, moored between the fifth and thirteenth arrondissements with Notre-Dame upstream and the Bibliothèque Nationale downstream — rooms face the river directly, giving a view of the city that most Parisians only get from a passing bateau-mouche."
+description: "Paris's first floating hotel, moored at the foot of Gare d'Austerlitz in the 13th arrondissement, with 54 ship-cabin-style rooms and 4 suites on the Seine, a pool and a dining bar."
 coverImage: /images/hotels/off-paris-seine-france.jpg
 gallery:
   - /images/hotels/off-paris-seine-france-2.jpg
@@ -11,17 +11,17 @@ gallery:
 priceRange: "$200 - $450"
 priceIndicator: 3
 highlights:
-  - "Paris's only floating hotel, moored on the Seine"
-  - "Contemporary rooms with panoramic river and city views"
-  - "Architecture-forward design by Parisian architects"
-  - "Rooftop deck and bar with Notre-Dame and city panoramas"
+  - "Paris's first floating hotel, moored on the Seine"
+  - "54 ship-cabin-style rooms and 4 suites with views of the quays and the Seine"
+  - "Wood-and-glass setting; lowest-level rooms sit at water level"
+  - "Pool and dining bar on the deck overlooking the Seine"
 amenities:
-  - "River cabin with panoramic windows"
-  - "On-board restaurant and bar"
-  - "Rooftop terrace"
+  - "Ship-cabin-style rooms and suites on the Seine"
+  - "Dining bar on the deck"
+  - "Pool overlooking the Seine"
   - "Breakfast service"
-  - "Central Paris location between Notre-Dame and the 13th arrondissement"
-  - "Bicycle hire"
+  - "Between Gare d'Austerlitz and Gare de Lyon, 13th arrondissement"
+  - "Private boat charter from the dock at water level"
 bestFor:
   - "Architecture enthusiasts"
   - "Couples"
@@ -55,12 +55,12 @@ niche_source_url: "https://www.sortiraparis.com/hotel-restaurant/hotel/articles/
 niche_verified_at: 2026-11-17
 ---
 
-OFF Paris Seine is moored on the quay between the fifth and thirteenth arrondissements, with the buttresses of Notre-Dame visible upstream and the towers of the Bibliothèque Nationale downstream. The view it offers — Paris from river level, looking outward at the city's stone banks — is genuinely unlike what the grand addresses of the Right Bank or the boutique hotels of Saint-Germain can provide. It is the perspective most Parisians only encounter from a moving bateau-mouche, and here it is stationary, available from the bed.
+OFF Paris Seine is moored at the foot of Gare d'Austerlitz, between Gare d'Austerlitz and Gare de Lyon in the 13th arrondissement. The view it offers — Paris from river level, looking outward at the city's stone banks — is the perspective most Parisians only encounter from a moving bateau-mouche, and here it is stationary, available from the bed.
 
-Inaugurated in 2017, the barge is a new construction rather than a converted historic vessel — a deliberate piece of architecture that takes the clean industrial vocabulary of the Seine's working watercraft and sharpens it into something that holds its own against the extraordinary urban setting. The exterior is weathered steel and timber, modest and contextual; the interiors make efficient use of every centimetre through the particular French ability to make a small space feel considered rather than merely compact. Large panoramic windows in each room ensure the river is always present.
+Opened in 2016 and described by Sortiraparis as the first floating hotel on the Seine, the hotel has 54 ship-cabin-style rooms and 4 suites in a wood-and-glass setting. Some rooms face the quay, others the Seine, and the rooms on the -1 level sit at water level. The hotel's own description is that the view of the water is ever-present, with light and reflections that shift through the day.
 
-The Seine is a working river, and staying on it makes that clear. Barges pass at close range, tourist boats circle with spotlights in the evening, rowing crews appear on the water before 7am. From a river room, these movements feel immediate rather than observed. The reflection of Paris's illuminated bridges in the water at night — Pont de Sully, Pont d'Austerlitz — is among the finer things the city offers, and the hotel delivers it as a private view from the pillow.
+At the centre of the hotel is a pool overlooking the Seine, around which the dining bar is built. The bar-restaurant on the deck is open-air in summer and covered when it gets cold, with creative cocktails and tapas to share; Sortiraparis reports DJ sets on Saturdays and live music on Fridays, and a Sunday brunch.
 
-The rooftop deck is the hotel's social centre. On warm evenings, architects, designers, and filmmakers gather there for drinks as the sun drops behind the Left Bank and the last bateaux-mouches of the day move through the water below. The restaurant on the lower deck runs a solid contemporary French menu, seasonal produce and natural wines, nothing that overpromises. Breakfast is a proper French affair: croissants, tartines, fresh juice, and strong café au lait, taken as the morning mist clears off the river and the first joggers appear on the quay above.
+At water level, a balcony-terrace extends into a dock from which guests can charter a private boat to cruise along the Seine. Breakfast is served in the hotel's dining bar.
 
-The location is, ultimately, the hotel's most compelling argument. The fourth and fifth arrondissements, the Marais, the Île de la Cité, the Latin Quarter — all are within easy walking distance. The thirteenth arrondissement's newer architecture and restaurant scene begins immediately to the south. Paris is outside the door, and the door opens onto the river.
+The location is in the 13th arrondissement, a stone's throw from the Cité de la Mode & du Design, in what the hotel calls a rapidly changing neighbourhood, with the Right Bank and the Left Bank on either side of the river.

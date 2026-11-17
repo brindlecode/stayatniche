@@ -1,0 +1,317 @@
+[
+ {
+  "slug": "goreme-valley-cave-house-turkey",
+  "issue": "Rating of 8 is not supported by any cited source",
+  "action": "not_fixed",
+  "detail": "rating is a protected frontmatter field; not edited. The rating is not shown in the body text.",
+  "source_url": null
+ },
+ {
+  "slug": "goreme-valley-cave-house-turkey",
+  "issue": "Page does not state the full room count (17 rooms: 3 standard, 3 cave, 5 family, 6 suites) or that the guesthouse houses up to 60 guests",
+  "action": "corrected",
+  "detail": "Added to the intro of EN and all 5 translations: 17 rooms (3 standard, 3 cave, 5 family, 6 suite) and only 60 guests at one time. Official home page states '3 standard rooms, 3 underground cave rooms, 5 family & friends rooms and 6 suite rooms' and 'accommodating only 60 people at one time'.",
+  "source_url": "https://www.goremevalleycavehouse.com/en/home"
+ },
+ {
+  "slug": "kelebek-special-cave-hotel-turkey",
+  "issue": "Official site now names the hotel 'Kelebek Cave Hotel'",
+  "action": "corrected",
+  "detail": "`name` and the `destination` are protected, so the title is unchanged. Added a sentence to the intro of EN and the 5 translations noting that the hotel's own website now calls it Kelebek Cave Hotel. The official About page is titled 'About Kelebek Cave Hotel'.",
+  "source_url": "https://www.kelebekhotel.com/en/about"
+ },
+ {
+  "slug": "kelebek-special-cave-hotel-turkey",
+  "issue": "Page says fairy chimney rooms are 'thousands of years old'; official site says historic spaces date back to the 8th century",
+  "action": "corrected",
+  "detail": "Replaced in description, highlight and body (EN + 5 translations): some cave rooms are carved directly into natural rock, including historic spaces dating back to the 8th century. The official About page gives this wording.",
+  "source_url": "https://www.kelebekhotel.com/en/about"
+ },
+ {
+  "slug": "kelebek-special-cave-hotel-turkey",
+  "issue": "Claim that the hotel bills its views as the best among Cappadocia's cave hotels is not supported",
+  "action": "deleted",
+  "detail": "Removed the sentence clause from the setting paragraph in EN and all 5 translations. The sentence now ends after 'balloons'.",
+  "source_url": "https://www.kelebekhotel.com/en/about"
+ },
+ {
+  "slug": "kelebek-special-cave-hotel-turkey",
+  "issue": "Page does not give the 36-room total or which rooms are cave versus stone",
+  "action": "corrected",
+  "detail": "Added '36 rooms in all, mixing cave, fairy chimney and stone rooms' to the intro (EN + 5 translations). The official page gives no per-room cave/stone split, so none was added; existing text still says only some are carved into rock.",
+  "source_url": "https://www.kelebekhotel.com/en/about"
+ },
+ {
+  "slug": "kokopelli-cave-usa",
+  "issue": "Page says views are from 200 feet above the canyon floor; official site says the La Plata valley is some 300 feet below",
+  "action": "corrected",
+  "detail": "Replaced 200 ft above the canyon floor with a cliff some 300 feet above the La Plata River valley in description, highlight and body (EN + 5 translations). Also changed 'Fruitland sandstone' to 'Ojo Alamo sandstone cliffs' per the official site, and removed 'natural stone floors' (the official amenities page says carpeted living room and bedroom).",
+  "source_url": "https://kokos-cave.com/"
+ },
+ {
+  "slug": "kokopelli-cave-usa",
+  "issue": "Price range $280-$380, rating 8.7 and 445 reviews are not supported by the official site; a third-party listing gives $220",
+  "action": "deleted",
+  "detail": "Removed 'From $280/night' from the meta description and the 'price point is remarkably accessible' pro (EN + 5 translations). The official rates page shows a default rate of EUR 330, which does not match $280-$380. priceRange and rating are protected fields and are not edited, so they remain: not_fixed for those two fields. '445 reviews' does not appear anywhere in the page files.",
+  "source_url": "https://kokos-cave.com/en/rates"
+ },
+ {
+  "slug": "kokopelli-cave-usa",
+  "issue": "'There is nothing else quite like it in the United States' is an unsupported superlative",
+  "action": "deleted",
+  "detail": "Removed the pro item in EN and all 5 translations.",
+  "source_url": null
+ },
+ {
+  "slug": "kokopelli-cave-usa",
+  "issue": "Described as 'carved' in places; KOB and showcaves describe it as blasted out of the sandstone",
+  "action": "corrected",
+  "detail": "Replaced 'carved' with 'blasted' in the highlight, the meta description and the body (EN + 5 translations). Official site: cave 'built into the vertical cliffs'; the page's own description already said 'blasted'. Reworded the 'waterfall shower carved into the rock' amenity and body sentence to 'rock walls that incorporate a waterfall shower' per the official overview.",
+  "source_url": "https://kokos-cave.com/en/overview"
+ },
+ {
+  "slug": "kokopelli-cave-usa",
+  "issue": "TV/DVD library and gas fireplace amenities not confirmed by the sources checked",
+  "action": "corrected",
+  "detail": "Official amenities page lists a smart TV for streaming and no fireplace or DVD library. Replaced 'Television and DVD library' with 'Smart TV with streaming' and deleted the gas fireplace (amenity and body mention) in EN + 5 translations.",
+  "source_url": "https://kokos-cave.com/en/amenities"
+ },
+ {
+  "slug": "lucky-cave-cappadocia-turkey",
+  "issue": "Category cave-hotels is not supported: official pages call the rooms stone rooms, not carved cave rooms",
+  "action": "skipped_not_text",
+  "detail": "Category framing; no text fix. The page already describes the rooms as stone rooms and tells readers to ask whether any room is rock-cut.",
+  "source_url": "https://www.luckycavehotel.com/deluxe-oda.html"
+ },
+ {
+  "slug": "lucky-cave-cappadocia-turkey",
+  "issue": "Page title/name 'Cave' is a name only; the page itself already concedes rooms may not be carved",
+  "action": "not_an_issue",
+  "detail": "The body already says the name promises a cave but the rooms are stone, and advises checking with the hotel. No change needed.",
+  "source_url": "https://www.luckycavehotel.com/deluxe-oda.html"
+ },
+ {
+  "slug": "melek-cave-hotel-turkey",
+  "issue": "Page names only two room types; official site lists six cave room types",
+  "action": "corrected",
+  "detail": "Listed all six types with sizes, views and beds in the rooms section (EN + 5 translations): Deluxe Cave Room, Cave Double Room, Arch Twin Room, Double Cave Room, Cave Triple Room, Cave Family Room. Fetched via WebFetch because curl was reset.",
+  "source_url": "https://melekcave.com/"
+ },
+ {
+  "slug": "melek-cave-hotel-turkey",
+  "issue": "Room service (24-hour), laundry and car/bike rental amenities not confirmed",
+  "action": "deleted",
+  "detail": "Re-fetched the live page twice via WebFetch: room service and laundry absent, so removed from amenities and body (EN + 5 translations). Car rental through the hotel is supported (kept, reworded); bike rental is only suggested as a way to explore, so removed. The restaurant was also not found on the page, but it was not flagged, so it was left in place; recommend re-checking it.",
+  "source_url": "https://melekcave.com/"
+ },
+ {
+  "slug": "melek-cave-hotel-turkey",
+  "issue": "Official site content retrieved only via a fetch tool summary; quote should be re-checked",
+  "action": "corrected",
+  "detail": "Re-checked via WebFetch: 'Melek Cave'deki her oda kayalardan oyulmuştur ve bireysel bir şekilde döşenmiştir' (every room is carved from rock and individually furnished). The page claim is supported. The fetch tool's summaries were the only access.",
+  "source_url": "https://melekcave.com/"
+ },
+ {
+  "slug": "museum-hotel-cappadocia",
+  "issue": "'30 unique antique-furnished cave suites' room count not stated on the official pages checked",
+  "action": "corrected",
+  "detail": "Official site says 34 rooms and suites in cave and stone (rooms-suites and history pages). Replaced 30 with 34, and 'cave suites' with 'cave and stone rooms and suites' in description, highlights, meta, body (EN + 5 translations).",
+  "source_url": "https://www.museumhotel.com.tr/en/rooms-suites"
+ },
+ {
+  "slug": "museum-hotel-cappadocia",
+  "issue": "Official pages mix cave and stone units, so 'all cave suites' overstates it",
+  "action": "corrected",
+  "detail": "Body now says the 34 rooms and suites mix cave and stone architecture, so not every unit is a cave; Deluxe Rooms are restored caves and The Konak Pool Suite is a detached stone house (official Imperial Pool Suites page).",
+  "source_url": "https://www.museumhotel.com.tr/en/rooms-suites/imperial-pool-suites"
+ },
+ {
+  "slug": "museum-hotel-cappadocia",
+  "issue": "'Highest point in Cappadocia' is unsupported",
+  "action": "corrected",
+  "detail": "The official FAQ says 'perched atop Uçhisar, the highest point in Cappadocia', so the claim is the hotel's own. Attributed it ('which the hotel describes as') in description and body, and deleted the unsupported 'views wider than anything else in the region' comparison (EN + 5 translations); dropped the claim from the DE/ES meta descriptions.",
+  "source_url": "https://www.museumhotel.com.tr/en/museum-hotel/frequently-asked-questions"
+ },
+ {
+  "slug": "museum-hotel-cappadocia",
+  "issue": "Lil'a Restaurant 'consistently cited among Turkey's best' is an unsupported superlative",
+  "action": "corrected",
+  "detail": "Replaced with the official wording: selected by the Michelin Guide (attributed to the hotel), contemporary fine dining with a farm-to-table philosophy. Also removed the unsupported 'cave dining room with candlelight' and 'acclaimed cuisine' (Cavo is the cave wine cellar). Highlight reworded.",
+  "source_url": "https://www.museumhotel.com.tr/en/dining"
+ },
+ {
+  "slug": "museum-hotel-cappadocia",
+  "issue": "Infinity pool 'carved into the rock' and spa 'carved into tufa' not confirmed",
+  "action": "corrected",
+  "detail": "Official wellness page lists a heated outdoor Roman pool (30-32 C in winter), massage therapy and private bath rituals; no infinity pool, spa or hammam. Replaced the pool highlight, the 'Spa facilities' amenity and the spa/hammam sentence accordingly (EN + 5 translations).",
+  "source_url": "https://www.museumhotel.com.tr/en/experiences/wellness"
+ },
+ {
+  "slug": "museum-hotel-cappadocia",
+  "issue": "Rating 9.6 and 1,243 reviews unsourced; founder's private collection claim not confirmed",
+  "action": "corrected",
+  "detail": "'9.6' and '1,243' do not appear in the page files (rating field is 8.8 and protected): not_found. The founder's private-collection claim was replaced: the official FAQ says Ömer Tosun is a passionate antique collector, and the museum-concept page says hundreds of artifacts (Hittite, Roman, Seljuk, Ottoman) are registered with the Nevşehir Museum. Removed 'decades acquiring carpets, ceramics...' and 'oldest items several centuries old'.",
+  "source_url": "https://www.museumhotel.com.tr/en/museum-hotel/museum-concept"
+ },
+ {
+  "slug": "ottoman-cave-suites-turkey",
+  "issue": "Page says the hotel is 'brand new'; the site's copyright is 2021, so the opening claim is dated",
+  "action": "deleted",
+  "detail": "Deleted the 'brand new / recent opening' sentence in EN + 5 translations. The site headline says 'A Brand New Luxury Hotel' but gives no opening date, so no replacement fact is available.",
+  "source_url": "https://www.ottomancavesuites.com/"
+ },
+ {
+  "slug": "peristyle-cave-cappadocia-turkey",
+  "issue": "Official site does not say the five cave rooms are rock-carved, only that they are 'caves'",
+  "action": "corrected",
+  "detail": "Replaced 'carved into the rock' with 'caves' in the intro (EN + 5 translations); the official site says 'five caves and three stone rooms'.",
+  "source_url": "https://www.peristylecave.com/en"
+ },
+ {
+  "slug": "peristyle-cave-cappadocia-turkey",
+  "issue": "Official site does not say which planet-named rooms are cave versus stone",
+  "action": "corrected",
+  "detail": "Added that the site does not say which rooms are the caves and which are stone, so ask when booking (EN + 5 translations).",
+  "source_url": "https://www.peristylecave.com/en"
+ },
+ {
+  "slug": "romantic-cave-hotel-turkey",
+  "issue": "Room sizes stated as 30 to 40 sq m; official site also lists Eros and Agape at 50 sq m",
+  "action": "corrected",
+  "detail": "Official rooms pages show Eros and Agape at 50 m2. Updated the highlight to 30 to 50 sq m and added Eros and Agape to the rooms paragraph (EN + 5 translations).",
+  "source_url": "https://romanticcavehotel.com/index.php/product-category/odalar/"
+ },
+ {
+  "slug": "romantic-cave-hotel-turkey",
+  "issue": "Rooms are called cave rooms without stating they are rock-carved",
+  "action": "corrected",
+  "detail": "The EN, DE, FR, ES and NL text only says 'cave rooms' (official: 'tarihi mağara odaları'), so no change there. The IT description said 'ricavate nella roccia' (carved in rock); changed to 'in grotta'.",
+  "source_url": "https://romanticcavehotel.com/index.php/hakkimizda/"
+ },
+ {
+  "slug": "romantic-cave-hotel-turkey",
+  "issue": "'Fifty years of experience' is the hotel's own claim, history page dates opening to 1970",
+  "action": "not_an_issue",
+  "detail": "The page already attributes it to the hotel ('says its team has fifty years of experience'; 'It states that it has fifty years'). The home page shows '50 YILLIK TECRÜBE'. I did not find the 1970 history page. No change.",
+  "source_url": "https://romanticcavehotel.com/"
+ },
+ {
+  "slug": "seki-cave-hotel-turkey",
+  "issue": "Official site does not state that rooms are rock-carved, only 'authentic cave rooms'; some Twin/Double rooms are not labelled cave",
+  "action": "corrected",
+  "detail": "Replaced 'The site presents the whole property as a cave hotel' with a statement that the site promises 'authentic cave rooms' while some twin and double rooms (e.g. Twin Room 107, 115) are not labelled cave, so ask when booking (EN + 5 translations). The page never said rock-carved.",
+  "source_url": "https://www.sekicavehotel.com/en/rooms"
+ },
+ {
+  "slug": "seki-cave-hotel-turkey",
+  "issue": "'Hamam and Turkish bath' and 'pet-friendly' not confirmed in pages checked",
+  "action": "not_an_issue",
+  "detail": "Official FAQ says 'Seki cave is a pet friendly hotel'; the Our Services page lists 'Cave Turkish Bath and Massage'. Both claims are supported, so no change.",
+  "source_url": "https://www.sekicavehotel.com/en/faq"
+ },
+ {
+  "slug": "sextantio-cave-italy",
+  "issue": "Page does not mention the separate Palazzo della Civita rooms offered by the same property",
+  "action": "corrected",
+  "detail": "Added a sentence at the end of the rooms section, and a clause in the description (EN + 5 translations), noting the separate Palazzo della Civita, whose rooms are not caves. The official menu lists 'Palazzo della Civita'.",
+  "source_url": "https://www.sextantio.it/en/legrottedellacivita/matera/"
+ },
+ {
+  "slug": "sextantio-cave-italy",
+  "issue": "'Eighteen interconnected cave chambers' and 'light shaft' details not confirmed; official says 18 rooms plus an ancient church",
+  "action": "corrected",
+  "detail": "Replaced with the official wording: 18 rooms in caves of the Civita plus the ancient church 'Cripta della Civita' used as a common area, all renovated to retain original features. Deleted the light-shaft sentence. Replaced the nine-millennia remark with the official room list (a 30 m2 classic room and a 160 m2 executive suite with 7 m high walls).",
+  "source_url": "https://www.sextantio.it/en/legrottedellacivita/explore/"
+ },
+ {
+  "slug": "sextantio-cave-italy",
+  "issue": "'One of the world's most extraordinary boutique hotels' and '9,000-year-old city' are unsupported superlatives",
+  "action": "deleted",
+  "detail": "Removed '9,000-year-old UNESCO city' and the 'most sought-after / extraordinary' wording from the meta description, description, body, 'Matera is one of Italy's most extraordinary cities' pro and the 'one of the oldest continuously inhabited settlements' highlight (EN + 5 translations). Replaced with 'UNESCO World Heritage since 1993' and 'Civita, the oldest part of the Sassi', both from the official Matera page.",
+  "source_url": "https://www.sextantio.it/en/legrottedellacivita/matera/"
+ },
+ {
+  "slug": "sextantio-cave-italy",
+  "issue": "Awards, filming-location and 892-review/9.4 rating claims unsourced",
+  "action": "deleted",
+  "detail": "Deleted the awards and filming-location highlights in EN + 5 translations. '892' and '9.4' do not appear in the page files (rating 8.8 is protected): not_found for those.",
+  "source_url": null
+ },
+ {
+  "slug": "signature-cave-cappadocia-turkey",
+  "issue": "Location is the historic village of Mustafapaşa near Ürgüp, not Nevşehir town as page's destination implies",
+  "action": "corrected",
+  "detail": "Added to the setting paragraph (EN + 5 translations): in the historic village of Mustafapaşa, a few minutes from Ürgüp, not in Nevşehir town. The `destination` field says 'Nevşehir, Cappadocia' and is protected, so it is left as is: not_fixed for that field.",
+  "source_url": "https://www.signaturecavecappadocia.com/hakkimizda/"
+ },
+ {
+  "slug": "signature-cave-cappadocia-turkey",
+  "issue": "Pool suite is not described as a cave suite on the pages checked",
+  "action": "corrected",
+  "detail": "Suites paragraph now lists Premium, Junior and Deluxe Cave Suites and states that the Signature Pool Suite is not labelled a cave suite (EN + 5 translations).",
+  "source_url": "https://www.signaturecavecappadocia.com/hakkimizda/"
+ },
+ {
+  "slug": "signature-cave-cappadocia-turkey",
+  "issue": "Official domain is signaturecavecappadocia.com (signaturecave.com redirects)",
+  "action": "skipped_not_text",
+  "detail": "officialWebsite is a protected field; the page body does not use either domain. No text fix.",
+  "source_url": null
+ },
+ {
+  "slug": "splendid-cave-hotel-turkey",
+  "issue": "Official site only names rooms 'Cave Room'; it does not state they are carved into rock",
+  "action": "corrected",
+  "detail": "Added that the site only names them cave rooms and does not say whether they are carved; replaced 'fully carved property' with 'every room to be a cave room' (EN + 5 translations).",
+  "source_url": "https://www.splendidcavehotel.com/"
+ },
+ {
+  "slug": "splendid-cave-hotel-turkey",
+  "issue": "Site shows only room names, no room count statement beyond the 12 listed",
+  "action": "not_an_issue",
+  "detail": "The page says 'The hotel's website lists twelve rooms', which is attributed and accurate.",
+  "source_url": "https://www.splendidcavehotel.com/"
+ },
+ {
+  "slug": "sultan-cave-suites-turkey",
+  "issue": "Page says 'not every room is necessarily a cave'; official site does not give a cave/stone split, calls rooms cave and stone accommodations",
+  "action": "not_an_issue",
+  "detail": "The page says the site describes 'cave and stone lodgings' and does not assert a split; the hedge 'not every room is necessarily a cave' is consistent with the source. No change.",
+  "source_url": "https://www.sultancavesuites.com/en/about"
+ },
+ {
+  "slug": "sultan-cave-suites-turkey",
+  "issue": "Michelin Guide 2026 mention is supported by the hotel's own site only",
+  "action": "corrected",
+  "detail": "The body already said 'according to the hotel'. Added the same attribution to the description and highlight (EN + 5 translations). The hotel's site says 'inclusion in the Michelin Guide 2026'; I could not corroborate it independently.",
+  "source_url": "https://www.sultancavesuites.com/en"
+ },
+ {
+  "slug": "taru-cave-suites-turkey",
+  "issue": "Source gives no detail on how the cave rooms are built or how many rooms exist",
+  "action": "corrected",
+  "detail": "Added a statement that the site does not say how the rooms are built or how many there are (EN + 5 translations). The page already told readers to ask for room count and sizes.",
+  "source_url": "https://tarucavesuites.com/"
+ },
+ {
+  "slug": "taru-cave-suites-turkey",
+  "issue": "'Cave setting applies to the stay as a whole' rests only on the marketing wording",
+  "action": "deleted",
+  "detail": "Deleted the inference sentence; only the quoted 'elegantly designed cave rooms' wording remains (EN + 5 translations).",
+  "source_url": "https://tarucavesuites.com/"
+ },
+ {
+  "slug": "urgup-inn-cave-hotel-turkey",
+  "issue": "Page advises asking for 'a carved room'; official site only calls room 105 a cave room (arched room), not carved",
+  "action": "corrected",
+  "detail": "Replaced 'carved room' with 'cave room' and 'fully carved hotel' with 'hotel made up entirely of cave rooms' in EN + 5 translations.",
+  "source_url": "https://urgupinncavehotel.com/odalar/jakuzili-delux-magara-oda-no-105/"
+ },
+ {
+  "slug": "urgup-inn-cave-hotel-turkey",
+  "issue": "Only one of ten rooms is a cave room, so the cave-hotel category is weak for this stay",
+  "action": "skipped_not_text",
+  "detail": "Category framing; no text fix. The page already says it is only lightly cave-themed with one cave room.",
+  "source_url": null
+ }
+]

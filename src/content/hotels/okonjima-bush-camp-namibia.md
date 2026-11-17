@@ -3,10 +3,10 @@ name: "Okonjima Bush Camp"
 category: safari-lodges
 destination: "Okonjima Nature Reserve, Otjiwarongo"
 country: "Namibia"
-description: "A traditional safari camp inside the 22,000-hectare Okonjima Nature Reserve in Namibia, with guided drives, foot trails and leopard tracking."
+description: "The Luxury Bush Camp, one of five accommodation options inside the 22,000-hectare Okonjima Nature Reserve in Namibia, with guided drives, foot trails and leopard tracking."
 priceRange: "Rates vary"
 highlights:
-  - "Safari camp inside a 22,000-hectare private reserve"
+  - "Luxury Bush Camp inside a 22,000-hectare private reserve"
   - "Leopard tracking"
   - "Guided nature trails on foot"
   - "Sundowners in the acacia thornveld"
@@ -40,7 +40,7 @@ niche_source_url: "https://okonjima.com/luxury-bush-camp/"
 niche_verified_at: 2026-11-17
 ---
 
-Okonjima Bush Camp is the traditional safari camp on the Okonjima Nature Reserve, a 22,000-hectare private reserve in Namibia, set at the base of the Omboroko Mountains between Windhoek and Etosha National Park. Okonjima is family-owned and offers five different accommodation options; the Bush Camp is the one built around the classic safari setting.
+Okonjima's Luxury Bush Camp (listed here as Okonjima Bush Camp) is one of the accommodation options on the Okonjima Nature Reserve, a 22,000-hectare private reserve in Namibia, set at the base of the Omboroko Mountains between Windhoek and Etosha National Park. Okonjima is family-owned and offers five different accommodation options; the Luxury Bush Camp has eight thatched chalets and a Junior Suite.
 
 ## The reserve
 
@@ -56,4 +56,4 @@ Okonjima is a 2.5-hour drive from Windhoek, or one hour by air. The plateau sits
 
 ## Choosing a stay
 
-Because the reserve offers five types of accommodation, make sure you book the Bush Camp specifically if the traditional safari-camp setting is what you want. The reserve sits between Windhoek and Etosha National Park, so it fits naturally into a longer Namibian route. The AfriCat Foundation has carried out research and conservation work on the reserve since 1992. Ask the reserve which activities are included on your dates.
+Because the reserve offers five types of accommodation, make sure you book the Luxury Bush Camp specifically if its thatched chalets are what you want. The reserve sits between Windhoek and Etosha National Park, so it fits naturally into a longer Namibian route. The AfriCat Foundation has carried out research and conservation work on the reserve since 1992. Ask the reserve which activities are included on your dates.

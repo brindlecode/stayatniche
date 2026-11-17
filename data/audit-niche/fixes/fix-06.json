@@ -1,0 +1,331 @@
+[
+ {
+  "slug": "memories-aicha-luxury-camp-jordan",
+  "issue": "Official home page calls units 'domes' with transparent roof; about page describes only Panoramic tents as stargazing-oriented",
+  "action": "corrected",
+  "detail": "Reworded EN+5 translations (description, highlight, body, translation meta descriptions): transparent roof now attributed to the camp's domes per the home page, and the Panoramic tents are described as the ones 'ideal for star gazing' per the about page; no blanket 'transparent roofs' claim for every tent.",
+  "source_url": "http://www.mlc.jo/"
+ },
+ {
+  "slug": "safari-desert-camp-oman",
+  "issue": "Bathroom claim inconsistent: home page says tents attached to open-top sanitary building, rooms page says own bathroom",
+  "action": "corrected",
+  "detail": "Removed 'private bathroom' claim (amenity, body) in all 6 languages; body now states both: rooms page says own bathroom with toilet and shower, home page says each tent is attached to an open-top sanitary building with toilet and shower. Amenity reworded to 'Toilet and shower for each tent and chalet'.",
+  "source_url": "https://www.safaridesert.com/rooms"
+ },
+ {
+  "slug": "safari-desert-camp-oman",
+  "issue": "'Reached only by 4WD' not stated by official site",
+  "action": "corrected",
+  "detail": "Replaced 'only by 4WD / 4WD-only approach' (description, highlight, body, translation meta descriptions) with what the site says: the camp uses its own 4WD vehicles and camels for guests. Solar-only claim kept (rooms page).",
+  "source_url": "https://www.safaridesert.com/"
+ },
+ {
+  "slug": "safari-desert-camp-oman",
+  "issue": "Official website shows injected casino/betting spam links; consider whether to keep linking it",
+  "action": "skipped_not_text",
+  "detail": "Not a text fix: officialWebsite/bookingUrl are protected fields. Confirmed casino/betting spam text and links in the home page nav and body; recommend the coordinator decide whether to keep linking.",
+  "source_url": "https://www.safaridesert.com/"
+ },
+ {
+  "slug": "scarabeo-camp-morocco",
+  "issue": "Unsupported by official site: no electricity grid/solar/generator-free, hammam/argan treatments, $350/night, tent count",
+  "action": "deleted",
+  "detail": "Removed in EN+5 translations: generator-free/no-grid highlight, solar-lighting amenity, solar-darkness pro, hammam/spa highlight+amenity, hammam/argan sentence in body, 'wellness' bestFor wording, all '$350' prices (priceRange set to 'Rates vary' in EN; meta descriptions rewritten) and 'eco-luxury'. Replaced with FAQ-supported facts: pool at each camp (unheated), phone charging from solar panels but no hair dryers, open all year incl. Ramadan. No tent count found on page (nothing to remove). Note: priceIndicator: 3 left as is.",
+  "source_url": "https://www.scarabeo-camp.com/faqs-en"
+ },
+ {
+  "slug": "scarabeo-camp-morocco",
+  "issue": "Official site lists two camps (Stone Camp, Les Roches Noires), page describes one; Stone Camp pool not mentioned",
+  "action": "corrected",
+  "detail": "Added a body paragraph and highlights in all languages describing both camps, the Stone Camp pool, and La Citadelle as events venue (niche_feature note), per the official camp pages.",
+  "source_url": "https://www.scarabeo-camp.com/the-stone-camp-en"
+ },
+ {
+  "slug": "scarabeo-camp-morocco",
+  "issue": "Official page does not say '40 km' from Marrakech or 'limestone'; Agafay only described as mineral lunar landscape",
+  "action": "corrected",
+  "detail": "Removed '40 km'/'forty kilometres'/'40 minutes' and 'limestone' everywhere (description, pros, body, meta). Nearby-attraction distance for Marrakech now 'about 1 hour by road' (FAQ: Medina ~1 hour, airport ~45 min). Body now says 'mineral plateau with a lunar landscape' per history page.",
+  "source_url": "https://www.scarabeo-camp.com/history-en"
+ },
+ {
+  "slug": "six-senses-shaharut-israel",
+  "issue": "Page says 'sixty villas'; source says 60 suites and villas",
+  "action": "corrected",
+  "detail": "description, highlights, body and meta in all 6 languages now say 60 suites and villas.",
+  "source_url": "https://theluxuryeditor.com/news/six-senses-shaharut-israel-opens/"
+ },
+ {
+  "slug": "six-senses-shaharut-israel",
+  "issue": "Unsupported by reachable source: 900 m elevation, carved into plateau, local sandstone/Nabataean cliff-dwelling design, pools overhanging canyon, dark sky reserve, Nahal Paran canyon, distances to Eilat/Tel Aviv",
+  "action": "deleted",
+  "detail": "Removed 900 m, 'carved into plateau', sandstone, overhanging private pools, dark-sky reserve/50 km claim, Nahal Paran canyon, Eilat 50 km, biohacking/telescope claims, Makhtesh Ramon/Israel National Trail, UNESCO/'nearby' Incense Route and the three-trade-routes confluence, in all 6 languages. Replaced with press-release facts: set into a cliff with panoramic Negev views, nestled into the ground, reminiscent of Nabataean community 2,000 years ago, Incense Route-inspired interiors, spa with six treatment rooms, freshwater infinity pool, stargazing sessions, Tel Aviv-Eilat flight 50 min + 45 min transfer from Ramon airport, 3.5 h drive from Tel Aviv/Jerusalem. Left unverified general-geography sentence (Negev 60% of land, <10% population) and priceRange untouched.",
+  "source_url": "https://theluxuryeditor.com/news/six-senses-shaharut-israel-opens/"
+ },
+ {
+  "slug": "six-senses-shaharut-israel",
+  "issue": "Current operating status not confirmed from an official source",
+  "action": "skipped_not_text",
+  "detail": "Status/operation question, not a text claim; status field is protected. Press release says 'now open' only. Official sixsenses.com remains 403.",
+  "source_url": "https://theluxuryeditor.com/news/six-senses-shaharut-israel-opens/"
+ },
+ {
+  "slug": "the-dune-camp-botswana",
+  "issue": "Page calls it a 'Kalahari desert lodge'/'desert property'; official describes a safari lodge in a private game reserve",
+  "action": "corrected",
+  "detail": "Description, body, translations (incl. translated meta titles that said desert camp) now say safari lodge in the Kalahari; removed the unverified claim about Bush Ways' collection range and 'desert property'; replaced with 'Bush Ways runs a collection of camps and lodges across Botswana' (lodge list on the site).",
+  "source_url": "https://www.bushways.com/our-lodges/the-dune-camp/"
+ },
+ {
+  "slug": "the-dune-camp-botswana",
+  "issue": "Official page says eight suites; page says eight rooms",
+  "action": "corrected",
+  "detail": "Rooms changed to suites in highlight, body, translations and translated meta descriptions.",
+  "source_url": "https://www.bushways.com/our-lodges/the-dune-camp/"
+ },
+ {
+  "slug": "the-dune-camp-botswana",
+  "issue": "bookingUrl is an Expedia search link, not the operator",
+  "action": "not_fixed",
+  "detail": "bookingUrl is a protected field; official Bush Ways page has an 'Enquire Now' form / operator is bushways.com. Needs coordinator to change bookingUrl.",
+  "source_url": "https://www.bushways.com/our-lodges/the-dune-camp/"
+ },
+ {
+  "slug": "arctic-bath-sweden",
+  "issue": "Page says six cabins attached to central ring; official lists 12 cabins: six floating, six land",
+  "action": "corrected",
+  "detail": "All 6 languages now describe 12 cabins: six Floating Cabins, three Land Suite Cabins, three Land Family Cabins (highlight, body, description). The old 'four forest cabins' highlight was also removed.",
+  "source_url": "https://arcticbath.se/hotel/"
+ },
+ {
+  "slug": "arctic-bath-sweden",
+  "issue": "Floating cabins reached by footpath over the water and encircled by a deck, not 'attached to the central ring'",
+  "action": "corrected",
+  "detail": "Body now says each floating cabin (24 m2 double, 57.5 m2 deck) is reached by a footpath over the water and encircled by a wooden deck, free-floating in summer and frozen in winter, per hotel/water page.",
+  "source_url": "https://arcticbath.se/hotel/water/"
+ },
+ {
+  "slug": "arctic-bath-sweden",
+  "issue": "Unsupported: private sauna in each cabin, architect names, Treehotel winter excursions, 'ice bath' claims",
+  "action": "deleted",
+  "detail": "Removed private-sauna-in-cabin, 'ice bath' (now cold bath: 2 dry saunas, steam sauna, 2 outdoor Jacuzzis and a cold bath per FAQ), Treehotel excursions, driftwood ring/central pool claims, birch whisk/Arctic clay, reindeer/wood-oven restaurant claims, snowshoe/kayak amenities (now snowmobile/sled dog/ski tours and canoe/SUP rental per activities and summer pages) and the ring/'open river' aurora claims. Architect names Bertil Harström and Johan Kauppi are SUPPORTED by about-us and hotel/water pages, so they were kept (not deleted). Aurora wake-up service amenity left unverified.",
+  "source_url": "https://arcticbath.se/about-us/"
+ },
+ {
+  "slug": "floating-seahorse-dubai",
+  "issue": "No official booking/hotel-operator page; villas sold as private homes and Booking.com link unverified",
+  "action": "not_fixed",
+  "detail": "bookingUrl is protected and not changed. Page text now states villas are mostly sold as private homes/second homes (131 of 133 sold as of June 2021) and hotel-style booking is not confirmed (con + final paragraph).",
+  "source_url": "https://www.thenationalnews.com/lifestyle/luxury/property-of-the-week-underwater-views-from-dubai-s-dh88-million-floating-seahorse-villas-1.1246700"
+ },
+ {
+  "slug": "floating-seahorse-dubai",
+  "issue": "'3 metres below the surface', reef sharks and parrotfish not supported; press shows baby/carpet sharks",
+  "action": "corrected",
+  "detail": "Removed '3 metres' (description, meta, body, translations), reef shark/angelfish/parrotfish text; body now cites The National gallery: clown fish, baby sharks, carpet shark. Also removed 'matured into functioning ecosystems' sentence and 'spiral staircase' / Burj Khalifa light show / 'rooftop sundeck 360' body details; now sky level with skylit ceiling, Jacuzzi, dining area, sun lounging per The National.",
+  "source_url": "https://www.thenationalnews.com/lifestyle/luxury/property-of-the-week-underwater-views-from-dubai-s-dh88-million-floating-seahorse-villas-1.1246700"
+ },
+ {
+  "slug": "floating-seahorse-dubai",
+  "issue": "'Reached by private speedboat only' unsupported: most villas connect by walkways to Honeymoon Island",
+  "action": "corrected",
+  "detail": "Replaced speedboat-only sentence and 'butler on personal speedboat' highlight, 'total privacy on own island' pro and 'boat transfer' con with the walkway-to-Honeymoon-Island fact (The National). Kleindienst transfers/concierge/private chef sentence removed.",
+  "source_url": "https://www.thenationalnews.com/lifestyle/luxury/property-of-the-week-underwater-views-from-dubai-s-dh88-million-floating-seahorse-villas-1.1246700"
+ },
+ {
+  "slug": "floating-seahorse-dubai",
+  "issue": "Official Heart of Europe domain unreachable (parked redirect), so source is press",
+  "action": "skipped_not_text",
+  "detail": "Source limitation, not a text claim; page now attributes details to The National.",
+  "source_url": "https://www.thenationalnews.com/lifestyle/luxury/property-of-the-week-underwater-views-from-dubai-s-dh88-million-floating-seahorse-villas-1.1246700"
+ },
+ {
+  "slug": "halong-bay-indochina-sails",
+  "issue": "Private balcony cabins not stated by official site",
+  "action": "deleted",
+  "detail": "Removed 'private balcony' from description, highlight, body (narrow balcony paragraph) and meta descriptions in all 6 languages; replaced with official facts: 23 cabins on two decks, air-conditioned, en suite, queen or twin beds.",
+  "source_url": "https://www.indochinasails.com/en/indochina-sails-ha-long.html"
+ },
+ {
+  "slug": "halong-bay-indochina-sails",
+  "issue": "Cooking class/floating-market purchases not on official activity list; kayaking only on 3-day itinerary",
+  "action": "corrected",
+  "detail": "Deleted cooking class and floating-market claims (description, highlight, body); activities now match the official list (Tai Chi, fruit carving demonstration, sunbathing, sightseeing, squid fishing, board games, largest-cave visit, beach swim); kayaking and hidden beaches restricted to the 3-day itinerary in all languages.",
+  "source_url": "https://www.indochinasails.com/en/indochina-sails-ha-long.html"
+ },
+ {
+  "slug": "halong-bay-indochina-sails",
+  "issue": "'1,969 karsts' and low-tide cave kayaking not verified on official page",
+  "action": "deleted",
+  "detail": "Removed '1,969', 'nearly two thousand', '1,500 square kilometres', low-tide sea caves/lagoons, tidal caves, 'caves accessible only by junk' and Saigon-beer sundeck claims in all languages. Tuan Chau distance/transfer paragraph and nearbyAttractions left untouched (not flagged).",
+  "source_url": "https://www.indochinasails.com/en/indochina-sails-ha-long.html"
+ },
+ {
+  "slug": "houseboat-arka-mielno-poland",
+  "issue": "Operator lists two boats (Arka I and Arka II); page describes one",
+  "action": "corrected",
+  "detail": "Added a sentence in all 6 languages saying the operator's site lists Arka I and Arka II and to check which unit is booked (site menu shows ARKA I / ARKA II; sub-pages returned 404 so no unit-level facts added).",
+  "source_url": "https://domkinawodzie.mielno.pl/"
+ },
+ {
+  "slug": "houseboat-arka-mielno-poland",
+  "issue": "Source says boats are moored at the camping site; floating on open water vs campsite mooring only implied",
+  "action": "corrected",
+  "detail": "Reworded the intro to 'moored on the grounds of a campsite (Na Granicy) that lies between Lake Jamno and the sea' and added a note that this is a holiday home on a campsite mooring, not a cruise on open water, in all 6 languages.",
+  "source_url": "https://domkinawodzie.mielno.pl/"
+ },
+ {
+  "slug": "ms-fram-norway",
+  "issue": "Operator is now HX Expeditions (page says Hurtigruten's)",
+  "action": "corrected",
+  "detail": "Replaced Hurtigruten with HX Expeditions in description, body and translated meta descriptions in all 6 languages.",
+  "source_url": "https://travelhx.com/en/ships/fram"
+ },
+ {
+  "slug": "ms-fram-norway",
+  "issue": "Official capacity is 200 guests; '16 specialist guides', 3,000 polar bears and polar bear encounter claims not supported",
+  "action": "deleted",
+  "detail": "Removed 16/sixteen specialists, 3,000 polar bears, 'bear encounters are a probability', hull/lecture-theatre/Svalbard-primary-summer claims, midnight-sun bow paragraph and king-crab dining paragraph in all languages; added 200-guest capacity, Science Centre, Expedition Team, two restaurants (Aune, Lindstrøm), Explorer Lounge & Bar, per the HX ship page. Nansen-and-Amundsen naming reduced to Nansen's vessel (page only names Nansen). Zodiac/kayak wording left (not flagged, not verified).",
+  "source_url": "https://travelhx.com/en/ships/fram"
+ },
+ {
+  "slug": "ms-fram-norway",
+  "issue": "Rating 9.2 / 1,876 reviews and 'polar hot tub' not confirmed by the source",
+  "action": "corrected",
+  "detail": "'1,876 reviews' does not appear anywhere on the page (not_found as text); rating 9.2 is a protected field and left. 'Polar hot tub' replaced by 'two outdoor hot tubs, a sauna and a gym' (official page lists two outdoor hot tubs and Science Centre). Translated meta description with '$1,500' price (nl) removed.",
+  "source_url": "https://travelhx.com/en/ships/fram"
+ },
+ {
+  "slug": "ms-fram-norway",
+  "issue": "It is a cruise voyage, not a fixed-location hotel; Svalbard is one itinerary among several",
+  "action": "skipped_not_text",
+  "detail": "Category framing not changed (category protected). Body text now says it is a sailing voyage, all cabins are aboard, and Svalbard is one of several itineraries.",
+  "source_url": "https://travelhx.com/en/ships/fram"
+ },
+ {
+  "slug": "off-paris-seine-france",
+  "issue": "'Paris's only floating hotel' unsupported; sources say 'first' floating hotel",
+  "action": "corrected",
+  "detail": "'only' replaced with 'first' (description, highlight, body, translations incl. metas) per Sortiraparis.",
+  "source_url": "https://www.sortiraparis.com/hotel-restaurant/hotel/articles/288034-off-paris-seine-l-incroyable-hotel-flottant-sur-la-seine"
+ },
+ {
+  "slug": "off-paris-seine-france",
+  "issue": "Inaugurated '2017' conflicts with press saying 2016",
+  "action": "corrected",
+  "detail": "Body now says opened in 2016 (Sortiraparis: 'Ouvert en 2016') in all 6 languages.",
+  "source_url": "https://www.sortiraparis.com/hotel-restaurant/hotel/articles/288034-off-paris-seine-l-incroyable-hotel-flottant-sur-la-seine"
+ },
+ {
+  "slug": "off-paris-seine-france",
+  "issue": "Rooftop deck, weathered steel and timber exterior, Parisian architects and Notre-Dame view upstream not confirmed",
+  "action": "deleted",
+  "detail": "Removed rooftop deck/terrace, weathered steel and timber exterior, Parisian architects, Notre-Dame/Bibliothèque Nationale views, 'architects and filmmakers gather', natural-wine restaurant, bicycle hire, Pont de Sully reflections and walking-distance claims in all languages. Replaced with official/press facts: wood-and-glass setting, 54 ship-cabin-style rooms + 4 suites, pool overlooking the Seine, deck dining bar, private boat charter from water-level dock, -1 rooms at water level.",
+  "source_url": "https://en.offparisseine.com/"
+ },
+ {
+  "slug": "off-paris-seine-france",
+  "issue": "Official describes rooms, dining bar and pool; official site says Gare d'Austerlitz/Gare de Lyon location (13th arrondissement), not 5th",
+  "action": "corrected",
+  "detail": "Removed '5th arrondissement' and 'between Notre-Dame and the 13th' everywhere (description, highlights, amenity, body, metas); location now between Gare d'Austerlitz and Gare de Lyon, 13th arrondissement; pool and dining bar added.",
+  "source_url": "https://en.offparisseine.com/"
+ },
+ {
+  "slug": "schwimmendes-haus-partwitzer-see-germany",
+  "issue": "Official page says one extra bed can be added for 20 EUR per night; capacity 2 to 3 confirmed",
+  "action": "not_an_issue",
+  "detail": "The official page confirms the page's '2 to 3 guests' (2 persons plus one extra bed at 20 EUR/night); the page contains no contradicting claim, so no edit made.",
+  "source_url": "http://partwitzer-hof.de/schwimmendes-haus/"
+ },
+ {
+  "slug": "the-harpy-houseboat-london-united-kingdom",
+  "issue": "Official site says both 'moored just west of Tower Bridge' and 'relocated to the South Bank, 400m east of Tower Bridge' (China Wharf, Mill Street SE1 2BB); page repeats only 'west'",
+  "action": "corrected",
+  "detail": "Description, highlight and body (all 6 languages) now say South Bank, about 400 m east of Tower Bridge, address China Wharf, Mill Street, and the body flags that the operator's history text also says 'just west of Tower Bridge'.",
+  "source_url": "https://theharpy.com/"
+ },
+ {
+  "slug": "the-harpy-houseboat-london-united-kingdom",
+  "issue": "Page says 'four rooms'; official says four-bedroom, 4 cabins, sleeps up to 12",
+  "action": "corrected",
+  "detail": "Highlight, body and translated meta descriptions now say four-bedroom floating home (1,850 sq ft / 172 sq m), 4 cabins, 3 sofa beds and a cot, sleeping up to 12.",
+  "source_url": "https://theharpy.com/"
+ },
+ {
+  "slug": "the-harpy-houseboat-london-united-kingdom",
+  "issue": "'London's number one Airbnb' is the operator quoting Time Out Jan 2025, presented as the site's own claim",
+  "action": "corrected",
+  "detail": "The page already attributed it to the houseboat's website quoting Time Out; wording tightened in all 6 languages to the exact quote 'London's No. 1 Best Airbnb' and explicitly labelled as the operator's quotation, not a verified independent ranking.",
+  "source_url": "https://theharpy.com/"
+ },
+ {
+  "slug": "archipelago-igloos-finland",
+  "issue": "Filed under ice-hotels but nothing says it is made of ice or snow",
+  "action": "skipped_not_text",
+  "detail": "Category framing (category is protected; the file currently has category bubble-hotels). Page text never claims it is made of ice; the winter 'on the ice' wording was removed (see below).",
+  "source_url": "https://www.visitfinland.com/en/product/c8951ee0-6e0d-4b1b-b3eb-5ecd37eee1f7/archipelago-igloos-accomodation-experience-in-glass-igloo/"
+ },
+ {
+  "slug": "archipelago-igloos-finland",
+  "issue": "Official site blocked by bot challenge; one unit, 4 May to 30 October season, floor-to-ceiling glass and kitchen/toilet details not verified from a citable source",
+  "action": "deleted",
+  "detail": "Re-fetched archipelagoigloos.com: HTTP 429 / bot wall again. Deleted all uncited details in all 6 languages: 'single/one unit', 'for two', 4 May-30 Oct, floor-to-ceiling glass, kitchen/toilet/Wi-Fi/gas grill/swimming ladder/rowing boat, SUP and kick bikes, ferry and 400 m walk instructions, snowmobile and ice-floating extras. Body, highlights and amenities now only state what Visit Finland says (units floating between Vallisaari and Kuninkaansaari in summer, glass igloos in the Sipoo archipelago 30 min by car in winter, suitable all year, from 290 EUR) and say the rest is unconfirmed.",
+  "source_url": "https://www.visitfinland.com/en/product/c8951ee0-6e0d-4b1b-b3eb-5ecd37eee1f7/archipelago-igloos-accomodation-experience-in-glass-igloo/"
+ },
+ {
+  "slug": "archipelago-igloos-finland",
+  "issue": "Winter 'on the ice' location is Sipoo archipelago per Visit Finland",
+  "action": "corrected",
+  "detail": "'on the Sipoo archipelago ice / rests on the ice' replaced with 'in the Sipoo archipelago, 30 minutes by car from the city centre' in all languages (headings changed from 'Winter on the ice' to 'Winter').",
+  "source_url": "https://www.visitfinland.com/en/product/c8951ee0-6e0d-4b1b-b3eb-5ecd37eee1f7/archipelago-igloos-accomodation-experience-in-glass-igloo/"
+ },
+ {
+  "slug": "arctic-guesthouse-and-igloos-finland",
+  "issue": "Filed under ice-hotels but nothing is made of ice or snow; these are glass igloos",
+  "action": "skipped_not_text",
+  "detail": "Category framing; the file's category is bubble-hotels already and the page text never claims ice construction. No text change.",
+  "source_url": "https://arcticguesthouseandigloos.com/igloos/"
+ },
+ {
+  "slug": "arctic-guesthouse-and-igloos-finland",
+  "issue": "'Ten movable glass igloos' count and 'Wi-Fi in every igloo' not stated on the official igloos page",
+  "action": "not_an_issue",
+  "detail": "Both are stated elsewhere on the official site: info page says 'a total of 10 compact igloos' (https://arcticguesthouseandigloos.com/info/) and FAQ says all igloos have their own WiFi connection (https://arcticguesthouseandigloos.com/faq/). Count and Wi-Fi kept.",
+  "source_url": "https://arcticguesthouseandigloos.com/faq/"
+ },
+ {
+  "slug": "arctic-guesthouse-and-igloos-finland",
+  "issue": "Official page says AuroraHut igloos float and move on the lake in summer, not merely 'movable'",
+  "action": "corrected",
+  "detail": "'Movable/versetzbar/déplaçables...' replaced with 'compact glass igloos that float and move on Lake Ranua under their own electric engine in summer' in description, highlight, body and meta descriptions of all 6 languages. (Official wording applies to the AuroraHut model; not stated per igloo how many float.)",
+  "source_url": "https://arcticguesthouseandigloos.com/igloos/"
+ },
+ {
+  "slug": "icehotel-sweden",
+  "issue": "Official says 'open every year since 1989' (page: since 1990)",
+  "action": "corrected",
+  "detail": "1990 changed to 1989 in description, highlight and meta description in all 6 languages.",
+  "source_url": "https://icehotel.com/hotel"
+ },
+ {
+  "slug": "icehotel-sweden",
+  "issue": "Official says 18 art and deluxe suites in ICEHOTEL 365 (page: 20)",
+  "action": "corrected",
+  "detail": "20/twenty changed to 18 art and deluxe suites in description, highlight and body in all 6 languages (https://icehotel.com/art-suite-365: '18 unique art and deluxe suites'). Body also now says solar panels keep it at about -5C, opened November 2016; removed 'carbon-neutral by design' and '22 hours' midnight sun claims.",
+  "source_url": "https://icehotel.com/art-suite-365"
+ },
+ {
+  "slug": "icehotel-sweden",
+  "issue": "'World's only permanent ice hotel' contradicted: official says 'world's first year-round ice hotel' and Snow Resort Kirkenes claims a 365 hotel too",
+  "action": "corrected",
+  "detail": "No literal 'only permanent' wording was found on the page; the nearest claims ('one of the best-known cold-weather stays in the world', 'among the best known in the world') were removed from description and highlights. The page now says the hotel itself calls ICEHOTEL 365 'the world's first year-round ice hotel' (attributed, https://icehotel.com/icehotel-365), in all 6 languages. Snow Resort Kirkenes claim not checked.",
+  "source_url": "https://icehotel.com/icehotel-365"
+ },
+ {
+  "slug": "icehotel-sweden",
+  "issue": "'Most iconic cold-weather accommodation on Earth' superlative unsupported",
+  "action": "deleted",
+  "detail": "Exact phrase not present in the English or translated files; removed the equivalent superlatives ('best known in the world', 'has never been more extraordinary than it is today', DE 'legendärste') in all languages.",
+  "source_url": "https://icehotel.com/hotel"
+ }
+]

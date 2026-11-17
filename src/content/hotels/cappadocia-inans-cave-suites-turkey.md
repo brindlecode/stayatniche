@@ -3,11 +3,11 @@ name: "Cappadocia Inans Cave Suites"
 category: cave-hotels
 destination: "Nevşehir, Cappadocia"
 country: "Turkey"
-description: "A ten-room hotel of cave suites in Cappadocia with a heated pool set into the cave, described by the hotel as having historical and cultural decoration."
+description: "A ten-room hotel of cave suites in Cappadocia with a heated swimming pool that the hotel calls a cave pool, described by the hotel as having historical and cultural decoration."
 priceRange: "Rates vary"
 highlights:
   - "Ten rooms, each described as a carefully decorated cave suite"
-  - "Heated swimming pool built as a cave pool"
+  - "Heated swimming pool that the hotel calls a cave pool"
   - "Historical and cultural decorations throughout"
   - "Open buffet breakfast of local delicacies"
   - "Private or shared airport transfer from Nevşehir Airport"
@@ -45,15 +45,15 @@ niche_source_url: "https://www.cappadociainanscave.com/room-101/"
 niche_verified_at: 2026-11-17
 ---
 
-Cappadocia Inans Cave Suites is a small hotel in Nevşehir where the accommodation is built around cave rooms. The hotel has ten rooms, each carefully decorated, and its website lists them by number: rooms 101 to 104, 201 to 203, 302, 401 and 402. The hotel presents the whole property as cave accommodation rather than a hotel with one or two themed rooms.
+Cappadocia Inans Cave Suites is a small hotel in the village of Nar, Nevşehir (Çavuş Sokak No:8, 50130 Nar), where the accommodation is built around cave rooms. The hotel has ten rooms, each carefully decorated, and its website lists them by number: rooms 101 to 104, 201 to 203, 302, 401 and 402. The hotel presents the whole property as cave accommodation rather than a hotel with one or two themed rooms.
 
 ## The rooms
 
-The rooms are marketed as cave suites and the site stresses historical and cultural decoration, so expect furnishings chosen to suit the carved setting rather than a generic hotel look. Every room has a kettle, and tea and coffee are free.
+The rooms are marketed as cave suites and the site stresses historical and cultural decoration. The site calls them cave rooms but does not say whether they are carved into the rock. Every room has a kettle, and tea and coffee are free.
 
 ## The cave pool
 
-The feature the hotel leads with is a heated swimming pool described as a cave pool. That is unusual even in a region full of rock-cut hotels, and it is the main reason to choose Inans over a plain cave room elsewhere. If you travel outside summer, ask whether the pool is open.
+The feature the hotel leads with is a heated swimming pool described as a cave pool. That is a distinctive feature, and it is the main reason to choose Inans over a plain cave room elsewhere. If you travel outside summer, ask whether the pool is open.
 
 ## Food and extras
 

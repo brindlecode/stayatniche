@@ -1,10 +1,10 @@
 ---
 source: cappadocia-inans-cave-suites-turkey
 destination: "Nevşehir, Cappadoce"
-description: "Un petit hôtel de dix suites troglodytes en Cappadoce, avec une piscine chauffée aménagée dans la roche. L’établissement met en avant une décoration inspirée de l’histoire et de la culture locales."
+description: "Un petit hôtel de dix suites troglodytes en Cappadoce, avec une piscine chauffée que l’hôtel présente comme une piscine troglodyte. L’établissement met en avant une décoration inspirée de l’histoire et de la culture locales."
 highlights:
   - "Dix chambres, chacune décrite comme une suite troglodyte soigneusement décorée"
-  - "Piscine chauffée aménagée comme un bassin dans la roche"
+  - "Piscine chauffée que l’hôtel présente comme une piscine troglodyte"
   - "Décorations historiques et culturelles dans tout l’établissement"
   - "Petit-déjeuner buffet ouvert, avec des spécialités locales"
   - "Transfert privé ou partagé depuis l’aéroport de Nevşehir"
@@ -19,18 +19,18 @@ bestFor:
   - "Amateurs de petits hôtels"
 seo:
   metaTitle: "Cappadocia Inans Cave Suites, hôtel troglodyte | StayAtNiche"
-  metaDescription: "Cappadocia Inans Cave Suites à Nevşehir : dix suites troglodytes, piscine chauffée dans la roche, petit-déjeuner buffet et navette depuis l’aéroport."
+  metaDescription: "Cappadocia Inans Cave Suites à Nevşehir : dix suites troglodytes, piscine chauffée troglodyte, petit-déjeuner buffet et navette depuis l’aéroport."
 ---
 
-Cappadocia Inans Cave Suites est un petit hôtel de Nevşehir dont l’hébergement s’organise autour de chambres troglodytes. L’établissement compte dix chambres, chacune soigneusement décorée, et son site les numérote : 101 à 104, 201 à 203, 302, 401 et 402. Ici, tout le bâtiment est pensé comme un hébergement troglodyte, et non comme un hôtel avec une ou deux chambres à thème.
+Cappadocia Inans Cave Suites est un petit hôtel du village de Nar, à Nevşehir (Çavuş Sokak No:8, 50130 Nar), dont l’hébergement s’organise autour de chambres troglodytes. L’établissement compte dix chambres, chacune soigneusement décorée, et son site les numérote : 101 à 104, 201 à 203, 302, 401 et 402. Ici, tout le bâtiment est pensé comme un hébergement troglodyte, et non comme un hôtel avec une ou deux chambres à thème.
 
 ## Les chambres
 
-Les chambres sont présentées comme des suites troglodytes, et le site insiste sur leur décoration historique et culturelle. Attendez-vous donc à un mobilier choisi pour s’accorder à la pierre taillée, loin de l’esthétique hôtelière standard. Chaque chambre dispose d’une bouilloire, et le thé comme le café sont offerts.
+Les chambres sont présentées comme des suites troglodytes, et le site insiste sur leur décoration historique et culturelle. Le site parle de chambres troglodytes, mais ne dit pas si elles sont taillées dans la roche. Chaque chambre dispose d’une bouilloire, et le thé comme le café sont offerts.
 
 ## La piscine troglodyte
 
-L’atout que l’hôtel met en avant est une piscine chauffée, décrite comme une piscine troglodyte. C’est peu commun, même dans une région riche en hôtels creusés dans la roche, et c’est la principale raison de préférer Inans à une simple chambre troglodyte ailleurs. Si vous voyagez hors de la saison estivale, demandez si la piscine est ouverte.
+L’atout que l’hôtel met en avant est une piscine chauffée, décrite comme une piscine troglodyte. C’est un atout distinctif, et c’est la principale raison de préférer Inans à une simple chambre troglodyte ailleurs. Si vous voyagez hors de la saison estivale, demandez si la piscine est ouverte.
 
 ## Restauration et extras
 

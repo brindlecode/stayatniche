@@ -1,18 +1,17 @@
 ---
 source: andbeyond-ngorongoro-crater-lodge
 destination: Area di conservazione di Ngorongoro
-description: "Arroccato sul bordo della più grande caldera vulcanica intatta del mondo, il Ngorongoro Crater Lodge di &Beyond è una delle esperienze alberghiere più straordinarie e teatrali d’Africa: una fantasia barocca di architettura masai, opulenza europea e grandiosità naturale, a 2.200 metri sopra il fondo di un cratere che ospita la più alta densità di grandi mammiferi della Terra."
+description: "Arroccato sul bordo della più grande caldera vulcanica intatta del mondo, il Ngorongoro Crater Lodge di &Beyond è una delle esperienze alberghiere più straordinarie e teatrali d’Africa, a 2.200 metri sopra il fondo di un cratere che ospita la più alta densità di grandi mammiferi della Terra."
 highlights:
   - Posizione sul bordo, proprio sopra la più grande caldera vulcanica del mondo
   - Il cratere di Ngorongoro ospita la più alta densità di grandi mammiferi della Terra
   - Tutti i Big Five presenti nel cratere tutto l’anno, compresa una delle ultime popolazioni africane di rinoceronte nero
-  - Un design teatrale e straordinario, tra tende di perline, specchi dorati e servizio maggiordomo
+  - Un design teatrale e straordinario e servizio maggiordomo
   - Discese quotidiane sul fondo del cratere per i fotosafari tra oltre 25.000 animali stanziali
   - Dalle suite sul bordo, alcune delle viste più spettacolari del continente
 amenities:
-  - 25 banda indipendenti sul bordo del cratere
+  - Suite indipendenti sul bordo del cratere
   - Maggiordomo personale per ogni suite
-  - Camino in camera per le fredde serate d’altura
   - Fotosafari su misura sul fondo del cratere
   - Pensione completa con un eccellente servizio vini
   - Passeggiate nella foresta sul bordo del cratere
@@ -49,11 +48,13 @@ nearbyAttractions:
 seo:
   metaTitle: "Ngorongoro Crater Lodge, safari in Tanzania | StayAtNiche"
   metaDescription: "Il lodge teatrale di &Beyond sul bordo della più grande caldera del mondo: Big Five tutto l’anno, maggiordomo e viste panoramiche. Da 1.400 $ a notte."
+closure:
+  note: "Il lodge è chiuso per una ricostruzione completa. Il suo sito annuncia la riapertura a dicembre 2027."
 ---
 
 Il cratere di Ngorongoro è una caldera vulcanica larga 20 chilometri e profonda 600 metri, le cui pareti ospitano stabilmente 25.000 grandi mammiferi da migliaia di anni. Il fondo del cratere ha la più alta densità di leoni d’Africa e una delle ultime popolazioni vitali di rinoceronte nero del continente. Scendere lungo la strada del bordo nella nebbia, in una fredda mattina d’altura, con il fondo del cratere che compare più in basso tra le nuvole, è uno spettacolo che non perde forza, per quante foto tu abbia visto.
 
-Il lodge di &Beyond sul bordo meridionale non cerca la sobrietà. Il Ngorongoro Crater Lodge è un atto di stravaganza deliberata: 25 banda indipendenti sulla parete della caldera, con un design ispirato alle tradizioni costruttive masai che incorpora tende di perline, specchi dorati, pavimenti in legno intagliato e camini contro il freddo dell’altopiano. Divide. Alcuni ospiti lo trovano eccessivo; altri pensano che niente di meno sarebbe all’altezza della scena che si vede dalle grandi vetrate. Stare nella tua suite all’alba, mentre la nebbia del mattino si alza dal fondo del cratere e svela il paesaggio e i suoi animali 600 metri più sotto, è davvero diverso da qualsiasi cosa si possa vedere dalla camera di un altro hotel.
+Il lodge di &Beyond sul bordo meridionale non cerca la sobrietà. Il Ngorongoro Crater Lodge è un atto di stravaganza deliberata: suite indipendenti sulla parete della caldera, con un design ispirato alle tradizioni costruttive masai. Divide. Alcuni ospiti lo trovano eccessivo; altri pensano che niente di meno sarebbe all’altezza della scena che si vede dalle grandi vetrate. Stare nella tua suite all’alba, mentre la nebbia del mattino si alza dal fondo del cratere e svela il paesaggio e i suoi animali 600 metri più sotto, è davvero diverso da qualsiasi cosa si possa vedere dalla camera di un altro hotel.
 
 L’osservazione della fauna è l’argomento principale del cratere, ed è un argomento forte. Tutti i Big Five sono presenti ogni giorno sul fondo. La lista dei Big Five che altrove in Africa richiede giorni di ricerca e parecchia fortuna qui si può completare in una sola mattina. Gli avvistamenti di rinoceronte nero, osservazioni lunghe e senza fretta di uno degli animali più minacciati d’Africa, sono la norma. I branchi di leoni nelle pianure aperte di erba bassa sono studiati ininterrottamente da decenni e sono molto visibili.
 

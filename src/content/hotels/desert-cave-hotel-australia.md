@@ -4,7 +4,7 @@ category: "cave-hotels"
 destination: "Coober Pedy"
 country: "Australia"
 continent: "Oceania"
-description: "Carved into the opal-bearing sandstone of Coober Pedy — the town that produces 70% of the world's gem-quality opals and where most residents live underground to escape 50°C summers — the Desert Cave Hotel keeps a constant 23°C year-round, with gemstone seams visible in the corridor walls."
+description: "In Coober Pedy, the South Australian opal-mining town where many residents live underground, the Desert Cave Hotel offers underground dugout-style rooms, plus rooms above ground for guests who prefer not to sleep underground."
 coverImage: "/images/hotels/desert-cave-hotel-australia.jpg"
 gallery:
   - "/images/hotels/desert-cave-hotel-australia-1.jpg"
@@ -13,15 +13,15 @@ gallery:
 priceRange: "$150 - $280"
 priceIndicator: 2
 highlights:
-  - "Rooms carved into opal-bearing sandstone, opals visible in the walls"
-  - "Coober Pedy produces 70% of the world's opals"
-  - "Natural underground temperature stays at a constant 23°C year-round"
-  - "Unique underground facilities including bar, restaurant, and pool"
+  - "Underground dugout-style rooms, plus above-ground rooms"
+  - "Opened in 1988"
+  - "Underground rooms described as quiet, cool, dark and airy"
+  - "On-site restaurant and bar"
   - "A genuinely surreal outback town in South Australia"
 amenities:
-  - "Underground guest rooms with natural sandstone walls"
-  - "Indoor underground swimming pool"
-  - "Restaurant and bar (underground)"
+  - "Underground dugout-style guest rooms"
+  - "Above-ground guest rooms"
+  - "Restaurant and bar"
   - "Opal display and shop"
   - "Tour desk for opal mine visits"
   - "Air conditioning"
@@ -43,8 +43,7 @@ tags:
 prosAndCons:
   pros:
     - "Utterly unique, you will never stay anywhere else quite like this"
-    - "Natural constant temperature makes it ideal in extreme heat"
-    - "Opals embedded in the walls of the rooms are a daily wonder"
+    - "Underground rooms are described as cool and quiet, a relief in extreme heat"
     - "Coober Pedy is a fascinating and surreal town worth visiting in its own right"
     - "Excellent value compared to more glamorous cave hotels"
   cons:
@@ -79,7 +78,7 @@ status: "published"
 publishedDate: 2025-02-18
 seo:
   metaTitle: "Desert Cave Hotel Review, Underground Hotel in Coober Pedy, South Australia"
-  metaDescription: "Sleep underground in opal-bearing sandstone at the Desert Cave Hotel in Coober Pedy, a surreal outback town in South Australia. Natural 23°C temperature year-round."
+  metaDescription: "Sleep underground in a dugout-style room at the Desert Cave Hotel in Coober Pedy, a surreal outback town in South Australia, or choose a room above ground."
 affiliateLinks:
   - partner: "expedia"
     url: "https://www.expedia.com/Hotel-Search?destination=Coober%20Pedy%2C%20Australia&adults=2"
@@ -103,11 +102,11 @@ niche_verified_at: 2026-11-17
 
 Driving north through the South Australian outback, Coober Pedy appears on the horizon as a field of mounds, pipes, and rubble with no trees anywhere. The ground is pockmarked with thousands of mine shafts. From a distance it looks like a landscape that has been industrially excavated and then largely abandoned — which is, in a sense, accurate. The town was built on opal mining, and the opal mining shaped everything about it, including the fact that most of the 2,000 residents live underground in homes called dugouts. When surface temperatures regularly exceed 50°C in summer, the logic is hard to argue with. The Aboriginal name for the area is *kupa piti*: white man in a hole.
 
-The Desert Cave Hotel is the most substantial property in town, and it occupies its position without pretence. The main lobby, bar, restaurant, swimming pool, and a good portion of the guest rooms are carved directly into the sandstone hill behind the main street. The rock here is the same pale cream and terracotta stone that produces the opals — and in the corridor walls and inside the rooms themselves, the milky gemstone seams are visible in the raw stone.
+The Desert Cave Hotel is the most substantial property in town, and it occupies its position without pretence. The hotel's rooms include typical underground dugouts, described as quiet, cool, dark and airy, and also rooms above ground for visitors who do not like to be underground.
 
 **The Rooms**
 
-The underground rooms are practical rather than theatrical. The sandstone is present and visible, but the decoration is conventional hotel rather than cave aesthetic. The significant feature is environmental: no windows, no natural light, and a constant temperature of around 23°C regardless of the conditions above ground. In December, when the surface reads 52°C, that constancy is not a minor amenity. The rooms are also silent in the particular way that only underground spaces can be — no traffic, no wind, no ambient noise from anything.
+The underground rooms are practical rather than theatrical. The sandstone is present and visible, but the decoration is conventional hotel rather than cave aesthetic. The significant feature is environmental: no windows and no natural light, and, in the words of the hotel's website about underground rooms in Coober Pedy, no heat and no humidity. The rooms are also silent in the particular way that only underground spaces can be — no traffic, no wind, no ambient noise from anything.
 
 **The Opal Experience**
 

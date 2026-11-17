@@ -3,7 +3,7 @@ name: "Cavo Tagoo Mykonos"
 category: cliffside-hotels
 destination: "Mykonos Town, Mykonos"
 country: "Greece"
-description: "Rooms cut from volcanic cliff above Mykonos Town's old harbour, their irregular walls following the rock's own geometry rather than any rectangular plan. The champagne pool — a raised basin cantilevered toward the Aegean — has become one of Greece's most recognized images, though sitting in it on a late afternoon with Moët cooling in your hand is better than any photograph suggests."
+description: "A hotel built into a natural cliff-side near Mykonos Town, with cave-style suites among its room types. Its champagne pool, a raised basin cantilevered toward the Aegean, is better than any photograph suggests when you sit in it on a late afternoon with Moët cooling in your hand."
 coverImage: /images/hotels/cavo-tagoo-mykonos-greece.jpg
 gallery:
   - /images/hotels/cavo-tagoo-mykonos-greece-2.jpg
@@ -11,8 +11,8 @@ gallery:
 priceRange: "$600 - $2,500"
 priceIndicator: 4
 highlights:
-  - "Iconic cave-cut suites above Mykonos Town and the Aegean"
-  - "Famous champagne pool suspended over the cliff edge"
+  - "Cave Pool Suites and Rock Villas built into the cliff-side above Mykonos Town"
+  - "Champagne pool suspended over the cliff edge"
   - "Architect-designed Cycladic interiors in pure white and natural stone"
   - "Sunset views among the finest in the Greek islands"
 amenities:
@@ -55,10 +55,10 @@ niche_source_url: "https://booking-mykonos.cavotagoo.com/about"
 niche_verified_at: 2026-11-17
 ---
 
-Mykonos has no shortage of luxury hotels, but Cavo Tagoo occupies a category largely its own. Sitting on a volcanic cliff above the old harbour of Mykonos Town, the Chora's whitewashed maze spreading below and the Aegean pushing to the horizon, it was among the first hotels in Greece to understand that Cycladic architecture — the pure white geometry, the cave-cut rooms, the absence of unnecessary ornament — was not a vernacular limitation to be overcome but a design language of real power.
+Mykonos has no shortage of luxury hotels, but Cavo Tagoo occupies a category largely its own. Built into a natural cliff-side near Mykonos Town, the Chora's whitewashed maze spreading below and the Aegean pushing to the horizon, it takes Cycladic architecture — the pure white geometry, the cave-style rooms, the absence of unnecessary ornament — and treats it not as a vernacular limitation to be overcome but as a design language of real power.
 
-The original property opened in 1980, designed by architect Nikos Daskalantonakis, who made the decisive choice to let the cliff shape the architecture rather than the other way round. Rooms were cut into the volcanic rock, their walls following the irregular geometries of the stone instead of imposing rectangular order on it. The result is spaces with the particular quality of light, temperature, and acoustic intimacy that only rooms carved from natural rock can achieve. Subsequent renovations have updated finishes and added contemporary amenities while leaving the fundamental character intact.
+The hotel is built into a natural cliff-side, and its room types include Cave Pool Suites, an Orlinski Cave Pool Villa and Rock Villas alongside suites and villas with private pools. Not every room is cave-style, so check the room type when you book.
 
-The pools are among the most photographed in the Mediterranean. The main infinity pool appears to float at the cliff's edge, its surface merging visually with the Aegean far below. The champagne pool — a smaller elevated basin where guests are served Moët & Chandon while overlooking the harbour — has become one of Greece's most recognized luxury images. Photographs circulate endlessly without capturing the specific sensation of sitting there in late afternoon light, the Cycladic wind keeping the glass cold.
+The pools are a highlight of a stay. The main infinity pool appears to float at the cliff's edge, its surface merging visually with the Aegean far below. The champagne pool is a smaller elevated basin where guests are served Moët & Chandon while overlooking the harbour. Photographs circulate endlessly without capturing the specific sensation of sitting there in late afternoon light, the Cycladic wind keeping the glass cold.
 
 Suite interiors draw on rough limestone, bleached timber, and raw linen, with furniture minimal in the way that confident design tends to be. Cave suites retain their original rock formations as walls; garden suites open to private terraces with plunge pools. The restaurant, on a terrace with an unobstructed sea view, serves contemporary Greek cuisine built on produce the island's connections to Athens and the wider Mediterranean make possible. Breakfasts — Greek yogurt, honey from Mykonos hives, fresh pastries, served at whatever hour guests choose — are best taken before the Aegean sun reaches full strength.

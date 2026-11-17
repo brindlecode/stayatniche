@@ -1,9 +1,9 @@
 ---
 source: castello-tafuri-italy
 destination: "Portopalo di Capo Passero, Sizilien"
-description: "Ein Schloss an der Südspitze Siziliens, zu achtzehn Zimmern und Suiten umgebaut, einige mit Blick auf eine alte Tonnara und das Meer, dazu ein Panoramapool."
+description: "Eine Villa in Form eines Schlosses, 1935 begonnen, an der Südspitze Siziliens mit achtzehn Zimmern und Suiten, einige mit Blick auf eine alte Tonnara und das Meer, dazu ein Panoramapool."
 highlights:
-  - "Historisches Schloss in Portopalo di Capo Passero, umgebaut zu achtzehn Zimmern und Suiten"
+  - "Villa im Schlossstil (1935 begonnen) in Portopalo di Capo Passero mit achtzehn Zimmern und Suiten"
   - "Suiten mit Blick auf eine Tonnara und das Meer"
   - "Suitenbalkone zwischen den Zinnen der Burg"
   - "Panoramapool mit Sonnenterrasse"
@@ -19,9 +19,10 @@ bestFor:
 seo:
   metaTitle: "Castello Tafuri: Schlosshotel Sizilien | StayAtNiche"
   metaDescription: "Castello Tafuri in Portopalo di Capo Passero: Schlosshotel an Siziliens Südspitze mit 18 Zimmern und Suiten, Panoramapool und Blick auf die Tonnara."
+niche_note: "Castello Tafuri ist keine mittelalterliche Burg, sondern eine Villa in Form eines Schlosses, 1933 entworfen, ab 1935 gebaut und seit 1964 ein Hotel."
 ---
 
-Castello Tafuri liegt in Portopalo di Capo Passero an der Südostspitze Siziliens und wurde zu einem kleinen Hotel mit achtzehn Zimmern und Suiten umgebaut. Das Schloss ist ein gezinnter, wehrhafter Bau, der über dem Meer thront, und es hat seine Zinnen behalten: Einige Suiten haben Balkone, die zwischen den Zinnen liegen.
+Castello Tafuri liegt in Portopalo di Capo Passero an der Südostspitze Siziliens und ist ein kleines Hotel mit achtzehn Zimmern und Suiten. Das Gebäude ist eine Villa in Form eines Schlosses, 1935 begonnen und seit 1964 als Hotel genutzt. Es ist gezinnt, thront über dem Meer und hat seine Zinnen behalten: Einige Suiten haben Balkone, die zwischen den Zinnen liegen.
 
 ## Die Suiten
 

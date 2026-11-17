@@ -6,7 +6,7 @@ highlights:
   - "Casa familiar restaurada que albergó a una misma familia de los años cincuenta a los noventa"
   - "Nueve habitaciones con nombres de antiguos usos: The Stable, The Hayloft, The Pantry, The Wine House y más"
   - "En las habitaciones cueva vivieron animales"
-  - "Corazón de Göreme"
+  - "Ubicado en Göreme, Nevşehir"
   - "Check-in desde las 14:30"
 amenities:
   - "Traslado al aeropuerto de ida y vuelta, de pago"
@@ -18,17 +18,18 @@ bestFor:
 seo:
   metaTitle: "Adelya Cave Hotel: hotel cueva en Göreme | StayAtNiche"
   metaDescription: "Adelya Cave Hotel en Göreme: casa familiar restaurada con nueve habitaciones llenas de historia, traslado al aeropuerto de pago y aparcamiento."
+niche_feature: "Nueve habitaciones en una casa familiar restaurada; Woodshed, Grandpa Mehmet & Grandma Havva's Room, Stable y Hayloft se describen como excavadas en la roca, y Wine House como habitación cueva; Stone Room y Çardak no se describen como cueva."
 ---
 
 Adelya Cave Hotel cuenta la historia de una casa. Según el hotel, una familia vivió aquí de los años cincuenta a los noventa: los niños crecieron, las comidas se compartían y la cosecha de viñedos y huertos se preparaba para el invierno. Los animales vivían en sus habitaciones cueva, mientras que la uva se convertía en zumo, melaza, vinagre y vino. Esa historia se refleja en los nombres de las habitaciones.
 
 ## Las habitaciones
 
-Se listan nueve habitaciones, cada una con una cama y un baño: The Stone Room, The Woodshed, Çardak, Grandpa Mehmet and Grandma Havva's Room, The Stable, The Bride's Room (Mrs. Ruşen's Room), The Hayloft, The Pantry y The Wine House. Los huéspedes mencionan auténticas habitaciones cueva; pregunta cuáles están talladas en la roca.
+Se listan nueve habitaciones, cada una con una cama y un baño: The Stone Room, The Woodshed, Çardak, Grandpa Mehmet and Grandma Havva's Room, The Stable, The Bride's Room (Mrs. Ruşen's Room), The Hayloft, The Pantry y The Wine House. Según las páginas de habitaciones del hotel, The Woodshed, Grandpa Mehmet and Grandma Havva's Room, The Stable y The Hayloft están talladas en la roca, y The Wine House es una habitación cueva; las demás habitaciones no se describen como habitaciones cueva.
 
 ## El entorno
 
-El hotel se sitúa en el corazón de Göreme, con vistas a formaciones rocosas y un ambiente histórico. Las opiniones de huéspedes mencionan el desayuno en la terraza y las vistas a los globos al amanecer.
+El hotel está en la localidad de Göreme, en la provincia de Nevşehir. Las opiniones de huéspedes mencionan el desayuno en la terraza y las vistas a los globos al amanecer.
 
 ## Notas prácticas
 

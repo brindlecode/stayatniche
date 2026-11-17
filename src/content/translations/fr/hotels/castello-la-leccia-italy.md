@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Castello la Leccia : agritourisme bio | StayAtNiche"
   metaDescription: "Castello la Leccia, agritourisme biologique au cœur du Chianti Classico : 12 chambres, spa, restaurant et piscine panoramique dans un château cité dès 1077."
+niche_feature: "Les chambres d'hôtel se trouvent dans le château (attesté depuis 1077, transformé en villa au XVIIIe siècle, restauré en 2012) ; l'appartement voisin Casa La Leccia (5 chambres doubles) occupe un bâtiment séparé. Le site n'indique jamais précisément dans quel bâtiment se trouvent les 12 chambres."
 ---
 
 Castello la Leccia est un domaine biologique et un charmant agritourisme du Chianti Classico, près de Castellina in Chianti, dans la province de Sienne. Le château est au cœur de la propriété : chambres, salles de réception, restaurant, piscine, spa et autres services sont à la disposition des hôtes.

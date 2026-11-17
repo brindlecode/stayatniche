@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Real Castello: kasteelhotel in Verduno | StayAtNiche"
   metaDescription: "Real Castello in Verduno, Piemonte: hotel en restaurant in een kasteel sinds 1953, met kamers in de historische vleugel en uitzicht op de Langhe."
+niche_feature: "Zes kamers (2 suites, 3 junior suites, 1 tweepersoonskamer) op de bovenverdiepingen van de kasteelvleugel van Verduno; de andere kamers liggen in de aangrenzende bijgebouwen Castalderia en Nando Foresteria."
 ---
 
 Real Castello di Verduno is een hotel met restaurant in de Langhe, het wijngebied van Piemonte. Sinds 1953 nemen de gastenkamers een deel van het kasteel in, het aangrenzende Castalderia en een gastenverblijf genaamd Nando Foresteria.

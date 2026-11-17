@@ -1,19 +1,19 @@
 ---
 source: off-paris-seine-france
 destination: "París, Isla de Francia"
-description: "El único hotel flotante de París, amarrado entre los distritos quinto y decimotercero, con Notre-Dame río arriba y la Biblioteca Nacional río abajo: las habitaciones dan directamente al río y ofrecen una vista de la ciudad que la mayoría de los parisinos solo disfruta desde un bateau-mouche en marcha."
+description: "El primer hotel flotante de París, amarrado al pie de la estación de Austerlitz, en el distrito 13, con 54 habitaciones al estilo de camarotes de barco y 4 suites sobre el Sena, una piscina y un bar-restaurante."
 highlights:
-  - "El único hotel flotante de París, amarrado en el Sena"
-  - "Habitaciones contemporáneas con vistas panorámicas al río y a la ciudad"
-  - "Un diseño con mucha personalidad arquitectónica, obra de arquitectos parisinos"
-  - "Terraza en la azotea y bar con panorámicas de Notre-Dame y la ciudad"
+  - "El primer hotel flotante de París, amarrado en el Sena"
+  - "54 habitaciones al estilo de camarotes y 4 suites con vistas a los muelles y al Sena"
+  - "Ambiente de madera y cristal; las habitaciones del nivel más bajo están a ras de agua"
+  - "Piscina y bar-restaurante en cubierta con vistas al Sena"
 amenities:
-  - "Camarote fluvial con ventanales panorámicos"
-  - "Restaurante y bar a bordo"
-  - "Terraza en la azotea"
+  - "Habitaciones y suites al estilo de camarotes sobre el Sena"
+  - "Bar-restaurante en cubierta"
+  - "Piscina con vistas al Sena"
   - "Servicio de desayuno"
-  - "Ubicación céntrica en París, entre Notre-Dame y el distrito 13"
-  - "Alquiler de bicicletas"
+  - "Entre la estación de Austerlitz y la estación de Lyon, distrito 13"
+  - "Alquiler de barco privado desde el embarcadero a ras de agua"
 bestFor:
   - "Amantes de la arquitectura"
   - "Parejas"
@@ -21,15 +21,15 @@ bestFor:
   - "Quienes visitan París por primera vez y quienes repiten"
 seo:
   metaTitle: "OFF Paris Seine, hotel flotante en París | StayAtNiche"
-  metaDescription: "OFF Paris Seine, el único hotel flotante de París: habitaciones frente al Sena entre Notre-Dame y la Biblioteca Nacional, con terraza en la azotea y bar."
+  metaDescription: "OFF Paris Seine, primer hotel flotante de París junto a la estación de Austerlitz: 54 habitaciones estilo camarote, 4 suites, piscina y bar-restaurante."
 ---
 
-OFF Paris Seine está amarrado en el muelle entre los distritos quinto y decimotercero, con los contrafuertes de Notre-Dame a la vista río arriba y las torres de la Biblioteca Nacional río abajo. La vista que ofrece, París a ras de río, mirando hacia los muelles de piedra de la ciudad, es realmente distinta de lo que pueden dar las grandes direcciones de la Rive Droite o los hoteles boutique de Saint-Germain. Es la perspectiva que la mayoría de los parisinos solo conoce desde un bateau-mouche en marcha, y aquí está quieta, disponible desde la cama.
+OFF Paris Seine está amarrado al pie de la estación de Austerlitz, entre la estación de Austerlitz y la de Lyon, en el distrito 13. La vista que ofrece, París desde el nivel del río, mirando hacia los muelles de piedra de la ciudad, es la perspectiva que la mayoría de los parisinos solo conoce desde un bateau-mouche en marcha, y aquí es estática, disponible desde la cama.
 
-Inaugurada en 2017, la barcaza es una construcción nueva y no un barco histórico reconvertido: una pieza de arquitectura deliberada que toma el vocabulario industrial y limpio de las embarcaciones de trabajo del Sena y lo afila hasta convertirlo en algo capaz de sostenerse frente a un entorno urbano extraordinario. El exterior es de acero envejecido y madera, modesto y respetuoso con el contexto; los interiores aprovechan cada centímetro con esa habilidad tan francesa para que un espacio pequeño parezca pensado y no simplemente compacto. Los grandes ventanales panorámicos de cada habitación garantizan que el río esté siempre presente.
+Abierto en 2016 y presentado por Sortiraparis como el primer hotel flotante del Sena, el hotel tiene 54 habitaciones al estilo de camarotes de barco y 4 suites en un entorno de madera y cristal. Algunas habitaciones dan al muelle y otras al Sena, y las del nivel -1 quedan a ras de agua. Según el propio hotel, la vista del agua está siempre presente, con una luz y unos reflejos que cambian a lo largo del día.
 
-El Sena es un río de trabajo, y dormir sobre él lo deja claro. Las barcazas pasan muy cerca, los barcos turísticos dan vueltas con focos al caer la tarde y los equipos de remo aparecen en el agua antes de las siete de la mañana. Desde una habitación sobre el río, esos movimientos se viven de cerca en lugar de observarse. El reflejo de los puentes iluminados de París en el agua de noche, el Pont de Sully o el Pont d'Austerlitz, es de lo mejor que ofrece la ciudad, y el hotel lo convierte en una vista privada desde la almohada.
+En el centro del hotel hay una piscina con vistas al Sena, en torno a la cual se organiza el bar-restaurante. El bar-restaurante de cubierta está al aire libre en verano y cubierto cuando refresca, con cócteles creativos y tapas para compartir; Sortiraparis menciona sesiones de DJ los sábados, música en directo los viernes y un brunch los domingos.
 
-La terraza de la azotea es el centro social del hotel. En las noches templadas, arquitectos, diseñadores y cineastas se reúnen allí a tomar algo mientras el sol se pone detrás de la Rive Gauche y los últimos bateaux-mouches del día se deslizan por el agua. El restaurante de la cubierta inferior ofrece una sólida carta francesa contemporánea, con producto de temporada y vinos naturales, sin prometer más de lo que da. El desayuno es un desayuno francés como es debido: cruasanes, tartines, zumos naturales y un café au lait bien cargado, mientras la bruma matinal se levanta del río y aparecen los primeros corredores en el muelle.
+A ras de agua, una terraza-balcón se prolonga hasta un embarcadero desde el que se puede alquilar un barco privado para navegar por el Sena. El desayuno se sirve en el bar-restaurante del hotel.
 
-La ubicación es, en definitiva, el argumento más convincente del hotel. Los distritos cuarto y quinto, el Marais, la Île de la Cité y el Barrio Latino quedan a un paseo. La arquitectura más reciente y la escena gastronómica del distrito 13 empiezan justo al sur. París está al otro lado de la puerta, y la puerta se abre al río.
+El hotel está en el distrito 13, a un paso de la Cité de la Mode et du Design, en un barrio que el propio establecimiento describe como en plena transformación, con la orilla derecha y la izquierda a ambos lados del río.

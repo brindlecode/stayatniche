@@ -1,18 +1,18 @@
 ---
 source: six-senses-shaharut-israel
 destination: Shaharut, Negev-Wüste
-description: Sechzig Villen auf einem Plateau der Negev-Wüste auf 900 Metern Höhe, oberhalb der Stelle, an der sich drei antike Handelswege der Wüste trafen – die Weihrauchstraße, die Gewürzstraße und die Königsstraße. Die Architektur orientiert sich an den nabatäischen Felsbauten, die einst diese Routen säumten; die Spa-Anwendungen und Wellnessprogramme sind es, die heutige Gäste in diesen sonst kaum bewohnten Winkel im Süden Israels führen.
+description: "Ein Wüstenrückzugsort mit 60 Suiten und Villen, in eine dramatische Felswand eingebettet, mit Panoramablick auf die Negev-Wüste, einem Six Senses Spa mit sechs Behandlungsräumen und einem Süßwasser-Infinity-Pool."
 highlights:
-  - Plateau der Negev-Wüste auf 900 m über dem Meer
-  - Von den Nabatäern inspirierte Felsarchitektur
-  - UNESCO-Welterbe Weihrauchstraße ganz in der Nähe
-  - Six Senses Spa
-  - Sternbeobachtung in einem international anerkannten Lichtschutzgebiet
+  - "60 Suiten und Villen in eine Felswand eingebettet, mit Panoramablick auf die Negev-Wüste"
+  - "Gestaltung in Anlehnung an die nabatäische Gemeinschaft, die hier vor über 2.000 Jahren lebte"
+  - "Interieur inspiriert von der antiken Weihrauchstraße"
+  - "Six Senses Spa"
+  - "Sternbeobachtung im Negev"
 amenities:
   - Six Senses Spa
-  - Infinity-Pool mit Blick auf den Wüstencanyon
+  - "Süßwasser-Infinity-Pool mit Blick auf die Wüste"
   - Restaurant mit Wüstenblick, den ganzen Tag geöffnet
-  - Geführte Wanderungen im Negev
+  - "Wandern, Kameltouren und Jeepausflüge"
   - Sternbeobachtungsprogramm
 bestFor:
   - Wellness-Reisende
@@ -22,13 +22,13 @@ bestFor:
   - Luxuriöse Auszeit für Paare
 seo:
   metaTitle: "Six Senses Shaharut: Luxus in der Negev-Wüste | StayAtNiche"
-  metaDescription: "Six Senses Shaharut in Israel: 60 Villen im Stil der Nabatäer auf einem Plateau der Negev-Wüste, nahe der Weihrauchstraße, mit Spa und dunklem Sternenhimmel."
+  metaDescription: "Six Senses Shaharut in Israel: 60 Suiten und Villen in einer Felswand mit Blick auf die Negev-Wüste, Spa mit sechs Behandlungsräumen, Sternbeobachtung."
 ---
 
-Die Negev-Wüste bedeckt 60 % der Fläche Israels, beherbergt aber weniger als 10 % seiner Bevölkerung. In Shaharut, auf einem Plateau über dem Canyon des Nahal Paran, ist die Leere vollkommen: felsige Wüste von Horizont zu Horizont, ein ungehinderter Himmel und 600 Millionen Jahre Erdgeschichte, die an den freiliegenden Felswänden abzulesen sind. Die Nabatäer – jene antike arabische Kultur, die etwa von 400 v. Chr. bis 100 n. Chr. den regionalen Gewürzhandel beherrschte – bauten in dieser Landschaft Siedlungen und Karawansereien, und die Weihrauchstraße, heute UNESCO-Welterbe, verläuft nur wenige Kilometer vom Hotel entfernt.
+Die Negev-Wüste bedeckt 60 % der Fläche Israels, beherbergt aber weniger als 10 % seiner Bevölkerung. In Shaharut ist die Leere vollkommen: felsige Wüste von Horizont zu Horizont und ein ungehinderter Himmel. Die Nabatäer – jene antike arabische Kultur, die etwa von 400 v. Chr. bis 100 n. Chr. den regionalen Gewürzhandel beherrschte – bauten in dieser Landschaft Siedlungen und Karawansereien.
 
-Six Senses hat das Erbe der Nabatäer architektonisch interpretiert: Die sechzig Villen sind aus heimischem Sandstein gebaut und in die Felsen eingefügt, in Anlehnung an die antiken Bauten, mit privaten Pools, die über den Canyon hinauszuragen scheinen. Die Ästhetik ist zugleich uralt und präzise – die Spa-Pavillons verwenden traditionelle Baumaterialien in Formen, die unverkennbar zeitgenössisch sind. Die typischen Gesundheitsprogramme von Six Senses (Biohacking, Schlafanalyse, individuelles Detox) stehen überall zur Verfügung.
+Laut Six Senses ist das Erscheinungsbild des Resorts von den nomadischen Bauten des Negev inspiriert und erinnert an die nabatäische Gemeinschaft, die hier vor über 2.000 Jahren lebte. Die 60 Suiten und Villen sind in den Boden eingebettet und fügen sich in die Wüstenlandschaft ein. Die Innenräume greifen Muster und Texturen der antiken Weihrauchstraße auf; Möbel und Ausstattung stammen von lokalen Kunsthandwerkern und bestehen aus Naturstein, Holz und Kupfer, die Innentüren aus wiederverwendetem Teakholz. Das Six Senses Spa hat sechs Behandlungsräume, verschiedene Wellnessprogramme, eine Alchemy Bar zum Mischen von Pflanzenextrakten sowie Gastpraktiker für chinesische Medizin, Osteopathie und Energiearbeit.
 
-Der Negev ist eines der ausgewiesenen Lichtschutzgebiete Israels: In Neumondnächten ist die Milchstraße von Horizont zu Horizont zu sehen, und da es im Umkreis von 50 Kilometern keine nennenswerte Lichtquelle gibt, ist der Anblick wirklich außergewöhnlich. Zum Astronomieprogramm des Hotels gehören geführte Sternbeobachtungen mit professionellen Teleskopen.
+Sternbeobachtungen gehören zum Programm. Außerdem gibt es ein Freilufttheater, das aus den natürlichen Konturen des Geländes entstanden ist und als Six-Senses-typisches „Cinema Paradiso“ unter den Sternen dient, sowie zwei Pools, darunter einen Süßwasser-Infinity-Pool mit Wüstenblick.
 
-Wandern im Negev-Hochland – auf dem Israel National Trail, auf Abschnitten der Weihrauchstraße und im nahen Krater Machtesch Ramon (eine geologische Formation, die es nur in dieser Region gibt) – bildet den Kern der Aktivitäten im Freien. Eilat mit internationalen Verbindungen liegt 50 Kilometer südlich; Tel Aviv ist 3,5 Stunden auf der Straße entfernt oder eine Flugstunde mit Inlandsflug nach Eilat plus Transfer.
+Zu den Aktivitäten zählen Kameltouren und Übernachtungen im Zelt, Wandern, E-Mountainbike-Touren, Jeepausflüge und ein Schabbat-Essen in einer nahe gelegenen Gemeinde; weiter entfernt locken das Tote Meer, Masada und Petra. Der Flug von Tel Aviv nach Eilat dauert 50 Minuten, danach folgt ein 45-minütiger Transfer vom Flughafen Ramon; mit dem Auto braucht man von Tel Aviv oder Jerusalem etwa dreieinhalb Stunden, von Petra in Jordanien etwa drei Stunden.

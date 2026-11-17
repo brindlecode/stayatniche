@@ -1,7 +1,7 @@
 ---
 source: castello-di-monterone-italy
 destination: "Perugia, Umbrien"
-description: "Ein restauriertes Schloss aus dem 13. Jahrhundert, drei Kilometer von Perugia entfernt, als historische Residenz mit achtzehn Zimmern, einige mit originalen Fresken."
+description: "Ein restauriertes mittelalterliches Schloss, drei Kilometer von Perugia entfernt, als historische Residenz mit achtzehn Zimmern, einige mit originalen Fresken."
 highlights:
   - "Mittelalterliches Schloss als historische Residenz (residenza d’epoca)"
   - "Achtzehn Zimmer, jedes mit eigener Geschichte"
@@ -15,10 +15,10 @@ bestFor:
   - "Geschichtsliebhaber"
 seo:
   metaTitle: "Castello di Monterone: Schlosshotel Perugia | StayAtNiche"
-  metaDescription: "Castello di Monterone bei Perugia: historische Residenz in einem restaurierten Schloss aus dem 13. Jahrhundert, mit 18 Zimmern und originalen Fresken."
+  metaDescription: "Castello di Monterone bei Perugia: historische Residenz in einem restaurierten mittelalterlichen Schloss, mit 18 Zimmern und originalen Fresken."
 ---
 
-Castello di Monterone ist ein kleines, restauriertes Schloss aus dem 13. Jahrhundert an der Straße, die Perugia über Ponte San Giovanni mit Assisi verbindet. Es wurde zur residenza d'epoca, einer historischen Residenz, umgebaut und verfügt heute über achtzehn Zimmer, die der Geschichte des Hauses entsprechend eingerichtet sind. Inmitten von Grün liegt es rund drei Kilometer vom alten Zentrum Perugias entfernt.
+Castello di Monterone ist ein kleines, restauriertes mittelalterliches Schloss an der Straße, die Perugia über Ponte San Giovanni mit Assisi verbindet. Es wurde zur residenza d'epoca, einer historischen Residenz, umgebaut und verfügt heute über achtzehn Zimmer, die der Geschichte des Hauses entsprechend eingerichtet sind. Inmitten von Grün liegt es rund drei Kilometer vom alten Zentrum Perugias entfernt. Laut der Geschichtsseite des Schlosses reicht das Gebäude mindestens bis ins 11. Jahrhundert zurück, da ein Gebäude in Monterone bereits in einer Urkunde vom 18. Januar 1200 im Staatsarchiv Perugia erwähnt wird.
 
 ## Die Zimmer
 

@@ -3,10 +3,10 @@ name: "Guacamayo Ecolodge"
 category: jungle-lodges
 destination: "Cuyabeno Reserve, Sucumbíos"
 country: "Ecuador"
-description: "An ecolodge of wooden huts in the primary rainforest of the Cuyabeno Reserve in Ecuador, with certified local guides and multi-day stays that include tours."
+description: "An ecolodge of huts in the rainforest of the Cuyabeno Reserve in Ecuador, with certified local guides and multi-day stays that include tours."
 priceRange: "Rates vary"
 highlights:
-  - "Wooden huts in primary rainforest in the Cuyabeno Reserve"
+  - "Huts in the rainforest of the Cuyabeno Reserve"
   - "Local certified guides fluent in English and Spanish"
   - "Guided tours of the reserve"
   - "Balconies over the primary forest in some huts"
@@ -43,7 +43,7 @@ niche_source_url: "https://www.guacamayoecolodge.com/"
 niche_verified_at: 2026-11-17
 ---
 
-Guacamayo Ecolodge is a set of wooden huts in the primary rainforest of the Cuyabeno Reserve, in the Ecuadorian Amazon. The lodge describes itself as combining ecological comfort with the nature around it, and it is sold mainly as multi-day packages that include the tours.
+Guacamayo Ecolodge is a set of huts in the rainforest of the Cuyabeno Reserve, in the Ecuadorian Amazon. The lodge describes itself as combining ecological comfort with the nature around it, and it is sold mainly as multi-day packages that include the tours.
 
 ## The huts
 

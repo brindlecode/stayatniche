@@ -24,7 +24,7 @@ seo:
   metaDescription: "Taru Cave Suites a Ürgüp: camere in grotta eleganti, ristorante e bar, parcheggio gratuito, colazione gratuita e reception 24 ore su 24 in Cappadocia."
 ---
 
-Taru Cave Suites è un boutique hotel in grotta a Ürgüp che unisce, secondo l'hotel, eleganza, autenticità e comfort moderni. Le sue camere sono descritte come «camere in grotta dal design elegante», quindi l'atmosfera scavata nella roccia riguarda l'intero soggiorno.
+Taru Cave Suites è un boutique hotel in grotta a Ürgüp che unisce, secondo l'hotel, eleganza, autenticità e comfort moderni. Le sue camere sono descritte come «camere in grotta dal design elegante», ma il sito non indica come siano costruite né quante camere ci siano.
 
 ## Le camere
 

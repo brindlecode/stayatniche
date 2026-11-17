@@ -1,11 +1,11 @@
 ---
 source: otterburn-castle-country-house-hotel-united-kingdom
 destination: "Otterburn, Northumberland"
-description: "Casona de campo con almenas, catalogada Grado II, en el Parque Nacional de Northumberland, con 17 habitaciones con baño privado en 32 acres, sobre el emplazamiento de una fortaleza normanda fundada en 1086."
+description: "Casona de campo con almenas, catalogada Grado II, en el Parque Nacional de Northumberland, con 17 habitaciones con baño privado en 32 acres, sobre el emplazamiento de una torre fortificada medieval."
 highlights:
   - "17 habitaciones con baño privado en un castillo catalogado Grado II"
   - "32 acres de parque de ciervos y bosque"
-  - "Fortaleza normanda fundada en 1086 y reconstruida en 1830"
+  - "Emplazamiento de castillo medieval, edificio actual reconstruido en 1830"
   - "Restaurante de la granja a la mesa, TEPÉ"
   - "Cerca del lugar de la batalla de Otterburn, en 1388"
 amenities:
@@ -24,11 +24,11 @@ seo:
 
 Otterburn Castle es una casona de estilo neogótico en el Parque Nacional de Northumberland, hoy gestionada como hotel boutique, espacio para eventos y destino gastronómico. Ofrece 17 habitaciones con baño privado dentro de un edificio catalogado, rodeado de 32 acres de parque de ciervos y bosque.
 
-## Mil años de historia
+## Siglos de historia
 
-La primera fortaleza del lugar fue fundada en 1086 por un primo de Guillermo el Conquistador, una fortaleza normanda que vigilaba la frontera norte de Inglaterra. En 1388, en los terrenos de alrededor tuvo lugar la batalla de Otterburn, en la que las fuerzas escocesas dirigidas por James Douglas se enfrentaron a un ejército inglés al mando de Henry «Hotspur» Percy. Ambos comandantes fueron capturados, y la batalla fue después recogida en baladas por toda Europa.
+El lugar tiene raíces medievales: el registro patrimonial de Northumberland describe aquí una torre fortificada (pele) que parece existir desde antes de mediados del siglo XIII. En 1388, en los terrenos de alrededor tuvo lugar la batalla de Otterburn, en la que las fuerzas escocesas dirigidas por James Douglas se enfrentaron a un ejército inglés al mando de Henry «Hotspur» Percy. Ambos comandantes fueron capturados, y la batalla fue después recogida en baladas por toda Europa.
 
-La propiedad pasó al clan Hall, y el edificio actual data de 1830, cuando Thomas James, magistrado, lo reconstruyó con piedras de la antigua fortaleza medieval. Desde el 7 de enero de 1988 es un edificio catalogado Grado II.
+La propiedad pasó al clan Hall, y el edificio actual data de 1830, cuando Thomas James, magistrado, lo reconstruyó con almenas. Las fuentes discrepan sobre cuánta fábrica medieval se conserva. Desde el 7 de enero de 1988 es un edificio catalogado Grado II.
 
 ## Alojarse aquí
 

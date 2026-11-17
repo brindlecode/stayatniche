@@ -9,7 +9,7 @@ highlights:
   - "Norman castle begun between 1075 and 1129, Grade I listed"
   - "Once a hunting lodge of King John"
   - "A hostel since 1948, in a building owned by English Heritage"
-  - "Eight bedrooms sleeping up to 50, two of them in the east tower"
+  - "Eight bedrooms sleeping about 64 in total, three of them in the east tower"
   - "Beds in shared rooms, private rooms or the whole castle"
 amenities:
   - "Self-catering kitchen"
@@ -60,7 +60,7 @@ St Briavels was built between 1075 and 1129 as the royal administrative centre f
 
 ## Where you sleep
 
-There are eight bedrooms sleeping up to 50 people in all, mostly in bunks, with a few single beds and double beds under high sleepers. Rooms sleep from three to twelve. Two of them are in the east tower. You can book a bed in a shared room, a private room, or the whole hostel for a group. Bed linen is provided; towels are not, though they can be rented.
+There are eight bedrooms sleeping about 64 people in all, mostly in bunks, with a few single beds and double beds under high sleepers. Rooms sleep from 5 to 14 people. Three of them are in the east tower, sleeping 6, 8 and 10. You can book a bed in a shared room, a private room, or the whole hostel for a group. Bed linen is provided; towels are not, though they can be rented.
 
 ## Shared rooms
 

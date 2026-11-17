@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Fonab Castle Hotel : château à Pitlochry | StayAtNiche"
   metaDescription: "Fonab Castle Hotel à Pitlochry : château-hôtel cinq étoiles dans les Highlands, 42 chambres entre château et lodges, spa Woodland et 1892 Grill."
+niche_feature: "La Castle suite (au sommet de la tour du château) et la Castle Room Superior se trouvent dans le château d'origine (construit en 1892 selon Wikipédia) ; les autres chambres sont dans des bâtiments de lodge contemporains, Lochside et Woodland. 42 chambres réparties sur quatre sites ; la répartition entre château et lodges n'est pas indiquée."
 ---
 
 Fonab Castle se dresse au cœur des Highlands de Perthshire, à Pitlochry, et se présente comme un château-hôtel cinq étoiles. L'ambition : marier l'histoire et le contemporain, en partant du passé du bâtiment et en y ajoutant quelques touches modernes.

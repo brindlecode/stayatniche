@@ -26,7 +26,7 @@ Stonefield Castle is een kasteel in de victoriaanse zin van het woord: een stati
 
 ## Het huis
 
-Veel van het oorspronkelijke interieur is er nog: houten lambrisering, sierlijke plafonds en marmeren schoorstenen. Het gebouw heeft monumentstatus, categorie B. De kamers zijn stuk voor stuk apart ingericht en hebben een eigen badkamer, met uitzicht op de tuinen en het water.
+Veel van het oorspronkelijke interieur is er nog: houten lambrisering, sierlijke plafonds en marmeren schoorstenen. Het gebouw heeft monumentstatus, categorie B. Het hotel heeft 38 stuk voor stuk apart ingerichte kamers met eigen badkamer, met uitzicht op de tuinen en het water.
 
 ## De tuinen
 

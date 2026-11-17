@@ -15,7 +15,7 @@ const hotels = await localized('hotels', L.locale);
     <div id="s-grid" class="mt-8 grid grid-cols-1 gap-x-5 gap-y-9 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
       {hotels.map(h => (
         <div data-wrap hidden>
-          <HotelCard name={h.data.name} destination={h.data.destination} country={h.data.country} description={h.data.description} priceRange={h.data.priceRange} priceIndicator={h.data.priceIndicator} rating={h.data.rating} highlights={h.data.highlights} bookingUrl={h.data.bookingUrl} slug={h.slug} category={h.data.category} featured={h.data.featured} coverImage={h.data.coverImage} />
+          <HotelCard name={h.data.name} destination={h.data.destination} country={h.data.country} description={h.data.description} priceRange={h.data.priceRange} priceIndicator={h.data.priceIndicator} rating={h.data.rating} highlights={h.data.highlights} bookingUrl={h.data.bookingUrl} slug={h.slug} category={h.data.category} nicheScope={h.data.niche_scope} nicheBadge={h.data.niche_badge} closed={!!h.data.closure} featured={h.data.featured} coverImage={h.data.coverImage} />
         </div>
       ))}
     </div>

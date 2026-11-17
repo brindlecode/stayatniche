@@ -21,6 +21,7 @@ bestFor:
 seo:
   metaTitle: "Treehouse Point: casas en los árboles | StayAtNiche"
   metaDescription: "Treehouse Point cerca de Issaquah: siete casas en los árboles en un bosque antiguo junto al Raging River, una suite de lodge y un camión militar."
+niche_feature: "Siete cabañas en los árboles, situadas en árboles vivos o sujetas a ellos (por ejemplo, Trillium en un cedro y Ananda sostenida por dos abetos de Douglas); también hay una suite en el lodge, una cabaña y un camión militar reconvertido, que no son cabañas en los árboles."
 ---
 
 Treehouse Point es un alojamiento con desayuno formado por siete casas en los árboles, en un bosque antiguo a orillas de un río de manantial, en el valle de Snoqualmie, en el estado de Washington. Las casas se construyeron dentro de árboles vivos y alrededor de ellos, lo que, según los propietarios, marcó cada construcción. La última, Ananda, se terminó en 2021.

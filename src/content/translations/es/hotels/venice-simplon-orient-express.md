@@ -1,16 +1,16 @@
 ---
 source: venice-simplon-orient-express
 destination: "De Londres a Venecia (y más allá)"
-description: "Uno de los trenes más famosos del mundo, el Venice Simplon-Orient-Express, es un museo rodante del esplendor art déco de los años veinte que recorre con sus vagones originales restaurados las grandes rutas ferroviarias de Europa. De Londres a Venecia, de París a Estambul o de los Alpes suizos al Adriático, es viajar como se viajaba en la edad de oro del ferrocarril: sin prisas, con belleza y de una forma irrepetible."
+description: "El Venice Simplon-Orient-Express es un museo rodante del esplendor art déco de los años veinte que recorre con sus vagones originales restaurados rutas hacia más de 15 ciudades europeas. De París a Venecia o de Estambul a París, es viajar como se viajaba en la edad de oro del ferrocarril: sin prisas y con belleza."
 highlights:
   - "Vagones Pullman y coches cama originales de los años veinte y treinta, restaurados con mimo"
-  - "Ruta de Londres a Venecia por los Alpes suizos y los lagos italianos"
+  - "París-Venecia, uno de los viajes emblemáticos del tren"
   - "Ruta de París a Estambul, el trayecto original del Orient Express"
   - "Cena de tres platos en el vagón restaurante con servicio de guante blanco"
   - "Nuevos itinerarios italianos del La Dolce Vita Orient Express"
-  - "Suites privadas con marquetería art déco y detalles de época"
+  - "Suites y Historic Cabins en vagones de los años veinte restaurados, con mobiliario artesanal"
 amenities:
-  - "Suites privadas con baño (Grand Suites en algunas rutas)"
+  - "Suites y Grand Suites con baño privado; las Historic Cabins usan aseos compartidos al final de cada vagón"
   - "Cena de tres platos en el vagón restaurante"
   - "Vagón bar con pianista en directo"
   - "Pensión completa en las rutas nocturnas"
@@ -25,30 +25,28 @@ bestFor:
 prosAndCons:
   pros:
     - "Un ambiente histórico extraordinario en vagones auténticamente originales"
-    - "El viaje de Londres a Venecia por los Alpes es una de las grandes experiencias viajeras de Europa"
+    - "París-Venecia es uno de los viajes emblemáticos del tren"
     - "Comer a bordo es un acontecimiento en sí mismo: una cocina excepcional en un entorno extraordinario"
     - "La sensación de ocasión especial de la salida a la llegada no tiene igual en ninguna otra forma de viajar"
   cons:
     - "Los compartimentos son pequeños para los estándares actuales: el romanticismo de una época que prefería la intimidad al espacio"
-    - "Muy caro para la duración del trayecto; de Londres a Venecia son unas 31 horas"
+    - "Caro para la duración del trayecto; París-Venecia es un viaje de una noche"
     - "No todas las rutas funcionan todo el año y hay que planificar con antelación"
     - "El vagón bar puede ser ruidoso hasta tarde para quien quiera acostarse pronto"
 seasonalInfo:
   bestTime: "Primavera (abril-mayo) y otoño (septiembre-octubre), con los mejores paisajes alpinos e italianos"
   peakSeason: "Verano (junio-agosto) y en torno a San Valentín"
-  notes: "El VSOE circula todo el año en su ruta estrella Londres-Venecia y por temporadas en otros itinerarios europeos. La primavera ofrece el paisaje alpino más fresco y la calidez de llegar a Italia en primavera. El otoño trae los extraordinarios colores de los bosques suizos y la luz dorada del final de temporada en Italia. Una travesía invernal puede ser mágica, aunque con poca visibilidad se pierde parte del paisaje alpino."
+  notes: "El VSOE llega a más de 15 ciudades europeas, con rutas que varían según la temporada. La primavera ofrece el paisaje alpino más fresco y la calidez de llegar a Italia en primavera. El otoño trae los extraordinarios colores de los bosques suizos y la luz dorada del final de temporada en Italia. Una travesía invernal puede ser mágica, aunque con poca visibilidad se pierde parte del paisaje alpino."
 nearbyAttractions:
   - name: Estación de Venecia Santa Lucia
     distance: Final del trayecto
-  - name: Estación de London Victoria
-    distance: Punto de partida
   - name: París Gare de l'Est
     distance: En la ruta
   - name: Innsbruck y los Alpes austriacos
     distance: En la ruta
 seo:
   metaTitle: "Venice Simplon-Orient-Express, tren de lujo | StayAtNiche"
-  metaDescription: "Viaja en el legendario Venice Simplon-Orient-Express, con vagones Pullman originales de los años veinte, de Londres a Venecia por los Alpes. Desde 3.000 US$."
+  metaDescription: "Viaja en el legendario Venice Simplon-Orient-Express, con vagones Pullman originales de los años veinte, de París a Venecia y más. Desde 3.000 US$."
 ---
 
 En algún lugar de los Alpes suizos, a última hora de la tarde, el Venice Simplon-Orient-Express toma una curva larga y el tren entero aparece a través de la ventana: una procesión de vagones color crema y azul marino recortada contra las montañas y un cielo de un azul inverosímil. En ese momento deja de sentirse como un medio de transporte. Es el viaje como un acto en sí mismo, no un medio para llegar a un fin, sino el propio destino.
@@ -59,6 +57,6 @@ Los compartimentos son pequeños para los estándares de una habitación de hote
 
 El vagón restaurante es el centro social del tren y el escenario de algunos de sus mayores placeres. Las cenas de tres platos se sirven en mesas con mantel blanco, cristalería fina y servicio a la inglesa mientras el paisaje desfila por la ventana: los lagos italianos al anochecer, la campiña francesa con la luz dorada de la tarde. La comida es realmente buena, se inspira en las tradiciones regionales de la ruta y se presenta con la teatralidad que exige el escenario. El vagón bar, con sus paneles de cristal Lalique y su pianista residente, se convierte en el lugar donde las conversaciones con desconocidos adquieren esa franqueza que solo producen el movimiento y la distancia.
 
-La ruta de Londres a Venecia, que sale de London Victoria por la mañana, cruza el canal de la Mancha en ferri o por el túnel, enlaza con el tren en Calais o París, atraviesa los Alpes por el paso del Brennero y llega a Venecia a la tarde siguiente, recorre algunos de los paisajes más bellos de Europa en un único viaje continuo. El itinerario de Estambul, que funciona por temporadas, sigue la ruta original por los Balcanes y cruza el Bósforo hasta la orilla asiática.
+La ruta de París a Venecia es uno de los viajes emblemáticos del tren, un trayecto de una noche entre las dos ciudades. El viaje de Estambul a París dura cinco noches, con paradas en Bucarest, Sinaia y Budapest de camino a París.
 
-Reserva con mucha antelación. El VSOE es una de las experiencias de viaje más codiciadas del mundo, y las rutas y fechas más populares se agotan con muchos meses de antelación.
+Reserva con mucha antelación. Las rutas y fechas más populares se agotan con muchos meses de antelación.

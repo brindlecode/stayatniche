@@ -1,9 +1,9 @@
 ---
 source: guacamayo-ecolodge-ecuador
 destination: "Réserve de Cuyabeno, province de Sucumbíos"
-description: "Écolodge de huttes en bois au cœur de la forêt primaire de la réserve de Cuyabeno, en Équateur, avec des guides locaux certifiés et des séjours de plusieurs jours incluant des excursions."
+description: "Écolodge de huttes au cœur de la forêt tropicale de la réserve de Cuyabeno, en Équateur, avec des guides locaux certifiés et des séjours de plusieurs jours incluant des excursions."
 highlights:
-  - "Huttes en bois au cœur de la forêt primaire de la réserve de Cuyabeno"
+  - "Huttes au cœur de la forêt tropicale de la réserve de Cuyabeno"
   - "Guides locaux certifiés parlant anglais et espagnol"
   - "Excursions guidées dans la réserve"
   - "Balcons surplombant la forêt primaire dans certaines huttes"
@@ -17,10 +17,10 @@ bestFor:
   - "Voyageurs passionnés de nature"
 seo:
   metaTitle: "Guacamayo Ecolodge : écolodge en Équateur | StayAtNiche"
-  metaDescription: "Guacamayo Ecolodge en Équateur : huttes en bois au cœur de la forêt primaire de Cuyabeno, guides certifiés et forfaits de plusieurs jours avec excursions."
+  metaDescription: "Guacamayo Ecolodge en Équateur : huttes au cœur de la forêt tropicale de Cuyabeno, guides certifiés et forfaits de plusieurs jours avec excursions."
 ---
 
-Guacamayo Ecolodge est un ensemble de huttes en bois au cœur de la forêt primaire de la réserve de Cuyabeno, dans l'Amazonie équatorienne. Le lodge se présente comme un lieu où confort écologique et nature environnante vont de pair. Il se vend surtout sous forme de forfaits de plusieurs jours, excursions comprises.
+Guacamayo Ecolodge est un ensemble de huttes au cœur de la forêt tropicale de la réserve de Cuyabeno, dans l'Amazonie équatorienne. Le lodge se présente comme un lieu où confort écologique et nature environnante vont de pair. Il se vend surtout sous forme de forfaits de plusieurs jours, excursions comprises.
 
 ## Les huttes
 

@@ -4,7 +4,7 @@ category: jungle-lodges
 destination: Alta Floresta, Mato Grosso
 country: Brazil
 continent: South America
-description: A private 1,100-hectare rainforest reserve on the southern edge of the Amazon basin in Mato Grosso state, operated as a pioneering model of conservation-based tourism since 1999. Two observation towers rise above the canopy; resident naturalists have catalogued over 600 bird species within the reserve, making this one of South America's premier birdwatching destinations.
+description: "A private 11,399-hectare rainforest reserve (RPPN) on the southern edge of the Amazon basin in Mato Grosso state, home to a lodge founded in 1990 as the first of its kind in the Mato Grosso Amazon. Two 50-metre observation towers rise above the canopy, and 595 bird species have been registered in the Cristalino and Alta Floresta area, making it a noted birdwatching destination."
 coverImage: /images/hotels/cristalino-lodge-brazil.jpg
 gallery:
   - /images/hotels/cristalino-lodge-brazil-2.jpg
@@ -12,17 +12,17 @@ gallery:
 priceRange: "$400 - $800"
 priceIndicator: 4
 highlights:
-  - Over 600 bird species in private reserve
-  - Two canopy towers for above-canopy wildlife viewing
-  - 1,100-hectare private Amazon rainforest reserve
-  - Night boat safaris on the Cristalino River
-  - Pioneer of sustainable Amazon tourism since 1999
+  - "595 bird species registered in the Cristalino and Alta Floresta area"
+  - "Two 50-metre canopy towers for above-canopy wildlife viewing"
+  - "11,399-hectare private Amazon rainforest reserve (RPPN)"
+  - "Canoeing and boat trips on the Cristalino River"
+  - "Founded in 1990, the first lodge of its kind in the Mato Grosso Amazon"
 amenities:
   - All-inclusive (meals and guided activities)
   - Naturalist guides
   - Canopy towers access
   - River boats
-  - Research library
+  - "Reading room"
 bestFor:
   - Birdwatchers
   - Wildlife photographers
@@ -59,10 +59,10 @@ niche_source_url: "https://www.cristalinolodge.com.br/"
 niche_verified_at: 2026-11-17
 ---
 
-The southern Amazon — the arc of forest that curves through Mato Grosso state where the basin's edge meets the Cerrado savanna — has higher species diversity than the central Amazon in several taxonomic groups, because it sits at the interface of two of South America's great biomes. Cristalino Lodge was established here in 1999, before the concept of conservation-based Amazon tourism had proven itself commercially, and has spent twenty-five years demonstrating that a private reserve can protect habitat while generating the income necessary to sustain it.
+The southern Amazon — the arc of forest that curves through Mato Grosso state where the basin's edge meets the Cerrado savanna — has higher species diversity than the central Amazon in several taxonomic groups, because it sits at the interface of two of South America's great biomes. Cristalino Lodge was founded here in 1990 as the first lodge of its kind in the Mato Grosso Amazon, before the concept of conservation-based Amazon tourism had proven itself commercially, and has spent decades demonstrating that a private reserve can protect habitat while generating the income necessary to sustain it.
 
-The 1,100-hectare reserve is bisected by the Cristalino River — a black-water tributary of the Teles Pires, its tannin-stained surface reflecting the forest canopy above. The lodge itself sits on the river's edge: simple wooden rooms with mosquito nets, hammocks on private verandas, and the sounds of the forest at night — frogs, insects, the occasional splash of a giant river otter surfacing. There is nothing remotely luxurious about it, and this is entirely appropriate: the accommodation is a platform for what happens outside it.
+The 11,399-hectare reserve is bisected by the Cristalino River — a black-water tributary of the Teles Pires, its tannin-stained surface reflecting the forest canopy above. The lodge itself sits beside the river, in air-conditioned bungalows and suites of 53 to 79 square metres, each with a private garden and outdoor shower; the Special Bungalow adds a secluded outdoor bath and a veranda with a hammock, and a smaller standard room is also available. At night come the sounds of the forest — frogs, insects, the occasional splash of a giant river otter surfacing. The accommodation is still a platform for what happens outside it.
 
-What happens outside it is exceptional. Two canopy observation towers — one 50 metres high — provide above-canopy viewpoints from which to observe species that are essentially invisible from the forest floor: macaws and parakeets crossing the sky, toucans and cotingas feeding in fruiting trees, raptor migration in season. The resident guides have spent years in this reserve and know the territories of individual animals. Night boat journeys on the river — torch beams catching the eye-shine of caiman, the iridescent scales of fish at the surface — are among the most atmospheric experiences the Amazon offers.
+What happens outside it is exceptional. Two canopy observation towers, each 50 metres high, provide above-canopy viewpoints from which to observe species that are essentially invisible from the forest floor: macaws and parakeets crossing the sky, toucans and cotingas feeding in fruiting trees, raptor migration in season. The resident guides have spent years in this reserve and know the territories of individual animals. Canoeing along the quietly flowing Cristalino River and boat trips to where the rivers come together add the view from the water.
 
 Access is via Alta Floresta airport, which has connections from Cuiabá (Mato Grosso capital) and occasional direct services from São Paulo. The lodge provides boat transfers from the Alta Floresta dock.

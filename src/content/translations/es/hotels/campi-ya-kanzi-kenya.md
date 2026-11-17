@@ -1,10 +1,10 @@
 ---
 source: campi-ya-kanzi-kenya
 destination: "Colinas de Chyulu, condado de Kajiado"
-description: "Un campamento familiar en la sabana, en 283 000 acres de tierras comunitarias masái a la sombra del Kilimanjaro, con la cumbre nevada del Kibo visible desde la tienda comedor en las mañanas despejadas. Ocho tiendas miran a la llanura africana; el campamento pertenece en sociedad a la comunidad masái, que destina la mayor parte de los ingresos a la conservación y la educación. Es el ecosistema de Amboseli tal y como debería verse."
+description: "Un campamento familiar en la sabana, en 400 000 acres de tierras propiedad de los masái a la sombra del Kilimanjaro, con la cumbre nevada del Kibo visible desde el campamento en las mañanas despejadas. Ocho tiendas miran a la llanura africana; el campamento pertenece en sociedad a la comunidad masái, que destina la mayor parte de los ingresos a la conservación y la educación."
 highlights:
   - "Vistas al Kilimanjaro desde el campamento"
-  - "Reserva comunitaria masái de 283 000 acres"
+  - "400 000 acres de tierras propiedad de los masái"
   - "Safaris a pie con guías masáis"
   - "Safaris nocturnos en terreno privado"
   - "Modelo de conservación con propiedad de la comunidad masái"
@@ -22,7 +22,7 @@ bestFor:
   - "La África menos trillada"
 seo:
   metaTitle: "Campi ya Kanzi: safari con vistas al Kilimanjaro | StayAtNiche"
-  metaDescription: "Campamento de safari comunitario masái con vistas al Kilimanjaro en las colinas de Chyulu (Kenia): safaris a pie y nocturnos en una reserva de 283 000 acres."
+  metaDescription: "Campamento de safari comunitario masái con vistas al Kilimanjaro en las colinas de Chyulu (Kenia): safaris a pie y nocturnos en 400 000 acres de tierras masái."
 ---
 
 Las colinas de Chyulu son una cordillera volcánica joven —en términos geológicos, todavía en formación— que se alza entre Amboseli y Tsavo, en el sur de Kenia. Las colinas en sí son boscosas y espectaculares; las llanuras a sus pies son la clásica sabana de África oriental salpicada de acacias y espinos silbadores, habitada por elefantes, leones, búfalos, licaones y kudús menores en poblaciones que se han recuperado de forma espectacular desde que la comunidad masái creó aquí su reserva en 1996.

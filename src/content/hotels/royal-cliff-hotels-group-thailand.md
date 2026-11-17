@@ -3,10 +3,10 @@ name: "Royal Cliff Hotels Group"
 category: cliffside-hotels
 destination: "Pattaya"
 country: "Thailand"
-description: "A group of four five-star hotels on a 64-acre cliff-top estate in Pattaya; the Beach Terrace is a low-rise resort set into the cliffside with 89 suites opening onto the beach."
+description: "A group of four five-star hotels on a 64-acre estate overlooking the Gulf of Thailand in Pattaya; the Beach Terrace is a low-rise resort set into the cliffside with 89 suites opening onto the beach."
 priceRange: "Rates vary"
 highlights:
-  - "Four hotels on a 64-acre estate above the Gulf of Thailand"
+  - "Four hotels on a 64-acre estate overlooking the Gulf of Thailand"
   - "Royal Cliff Beach Terrace: low-rise resort set into the cliffside"
   - "89 suites opening onto the beach at the Beach Terrace"
   - "Infinity pool with ocean views"

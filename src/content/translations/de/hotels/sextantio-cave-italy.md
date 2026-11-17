@@ -1,13 +1,11 @@
 ---
 source: sextantio-cave-italy
 destination: "Matera"
-description: "Achtzehn Höhlenräume in den uralten Sassi von Matera, so restauriert, dass ihre ursprünglichen Tuffsteinwände und Gewölbedecken sichtbar bleiben, statt verborgen zu werden – eine Stadt, die einst „die Schande Italiens“ genannt wurde, beherbergt heute eines der begehrtesten Hotels des Landes."
+description: "Achtzehn Höhlenzimmer in der Civita, dem ältesten Teil der Sassi von Matera, renoviert unter Erhalt ihrer ursprünglichen Merkmale, dazu eine alte Kirche als Gemeinschaftsbereich – in einer Stadt, die einst „die Schande Italiens“ genannt wurde. Zur selben Unterkunft gehören außerdem separate Zimmer ohne Höhle im Palazzo della Civita."
 highlights:
-  - "Zimmer in Sassi-Höhlen, die seit der Altsteinzeit bewohnt sind"
-  - "UNESCO-Welterbe und eine der ältesten durchgehend bewohnten Siedlungen der Welt"
+  - "Zimmer in Sassi-Höhlen in der Civita, dem ältesten Teil der Sassi"
+  - "UNESCO-Welterbe seit 1993"
   - "Jede Höhlensuite bewahrt die Originalmaterialien: Stein, Terrakotta und Tuff"
-  - "Mit zahlreichen internationalen Design- und Denkmalschutzpreisen ausgezeichnet"
-  - "Drehort von Filmen wie „Die Passion Christi“ und „Keine Zeit zu sterben“"
 amenities:
   - "Höhlensuite mit originalen Felswänden und Tuffgewölbe"
   - "Luxuriöse Betten und dezent integriertes modernes Bad"
@@ -26,7 +24,7 @@ prosAndCons:
   pros:
     - "Beeindruckende historische Atmosphäre – man schläft in Räumen, die seit Jahrtausenden genutzt werden"
     - "Behutsame, denkmalgerechte Restaurierung, die wirklich feinfühlig und schön ist"
-    - "Matera selbst gehört zu den außergewöhnlichsten und meistunterschätzten Städten Italiens"
+    - "Matera selbst ist eine UNESCO-Welterbestadt, mit den Sassi direkt vor der Tür"
     - "Ausgezeichnetes Restaurant mit klarem regionalem Schwerpunkt"
     - "Sehr fotogene Hotelinterieurs"
   cons:
@@ -48,18 +46,19 @@ nearbyAttractions:
     distance: "3 km"
 seo:
   metaTitle: "Sextantio Matera: Höhlenhotel in den Sassi | StayAtNiche"
-  metaDescription: "Sextantio Le Grotte della Civita: Übernachten in uralten Höhlenwohnungen in Matera, der 9.000 Jahre alten UNESCO-Stadt – eines der besonderen Hotels Italiens."
+  metaDescription: "Sextantio Le Grotte della Civita: Übernachten in restaurierten Höhlenzimmern in der Civita, dem ältesten Teil der UNESCO-Sassi von Matera, Süditalien."
+niche_feature: "18 Zimmer sind restaurierte Höhlen im Sasso Barisano (Civita) (z. B. Höhle 17, 18, 20). Zum selben Komplex gehört auch ein separater Palazzo della Civita mit Zimmern, die keine Höhlen sind."
 ---
 
 1952 stand der italienische Ministerpräsident Alcide De Gasperi in Matera und nannte die Stadt *la vergogna d'Italia*: die Schande Italiens. Die Menschen, die in den Sassi lebten – den in die Schluchten dieser Hügelstadt in der Basilikata gehauenen Höhlenwohnungen –, hatten weder fließendes Wasser noch Strom und teilten ihre Räume mit ihren Tieren. Innerhalb eines Jahrzehnts siedelte die Regierung sie zwangsweise um. Dreißig Jahre lang standen die Höhlen leer.
 
-Siebzig Jahre später beherbergen genau diese Höhlen einige der begehrtesten Hotelzimmer Italiens.
+Siebzig Jahre später beherbergen einige dieser Höhlen Hotelzimmer.
 
-Sextantio Le Grotte della Civita ist das Werk des Architekten und Unternehmers Daniele Kihlgren, der Anfang der 2000er-Jahre nach Matera kam und eine Philosophie entwickelte, die er „konservative Restaurierung“ nennt: bewahren, was existiert, zeigen, wie das ursprüngliche Material aussieht, und nur hinzufügen, was der Körper wirklich braucht. Achtzehn miteinander verbundene Höhlenräume wurden nach diesem Prinzip behandelt. Die hellen Tuffsteinwände bleiben rau. Die Gewölbedecken zeigen jede natürliche Unregelmäßigkeit des Felsens. Die Böden sind aus Originalstein. Was Kihlgren hineinstellte, genügt höchsten Ansprüchen: hochwertige Betten, Bäder, die so behutsam integriert sind, dass die Armaturen wie diskrete Einfügungen wirken und nicht wie eine Renovierung, und ein Licht, das weich, niedrig und größtenteils von Kerzen kommt. Das Ergebnis ist kein Hotel, das eine Höhle imitiert, sondern eine Höhle, die bewohnbar gemacht wurde.
+Sextantio Le Grotte della Civita ist das Werk des Architekten und Unternehmers Daniele Kihlgren, der Anfang der 2000er-Jahre nach Matera kam und eine Philosophie entwickelte, die er „konservative Restaurierung“ nennt: bewahren, was existiert, zeigen, wie das ursprüngliche Material aussieht, und nur hinzufügen, was der Körper wirklich braucht. Die 18 Zimmer in den Höhlen der Civita und eine alte Kirche, die heute als Gemeinschaftsbereich dient, wurden nach diesem Prinzip behandelt. Die hellen Tuffsteinwände bleiben rau. Die Gewölbedecken zeigen jede natürliche Unregelmäßigkeit des Felsens. Die Böden sind aus Originalstein. Was Kihlgren hineinstellte, genügt höchsten Ansprüchen: hochwertige Betten, Bäder, die so behutsam integriert sind, dass die Armaturen wie diskrete Einfügungen wirken und nicht wie eine Renovierung, und ein Licht, das weich, niedrig und größtenteils von Kerzen kommt. Das Ergebnis ist kein Hotel, das eine Höhle imitiert, sondern eine Höhle, die bewohnbar gemacht wurde.
 
 **Die Zimmer**
 
-Keine Höhlensuite gleicht der anderen, denn keine zwei Kammern in einem Hang, der seit neun Jahrtausenden bewohnt ist, sind gleich. Manche haben Tonnengewölbe in niedriger, intimer Höhe. Andere öffnen sich zu hohen, unregelmäßigen Räumen, in die Tageslicht durch einen Schacht im Fels darüber fällt. Terrakotta und Stein dominieren überall. Die Betten stehen vor uralten Wänden. Im Sommer bleiben die Höhlen von Natur aus kühl – in der süditalienischen Hitze Materas ein echter, täglicher Vorteil.
+Keine Höhle gleicht der anderen: Die offizielle Zimmerliste nennt für jede eine eigene Größe und Aufteilung, darunter ein 30 m² großes Classic Room und eine 160 m² große Executive Suite mit 7 m hohen Wänden. Manche haben Tonnengewölbe in niedriger, intimer Höhe. Terrakotta und Stein dominieren überall. Die Betten stehen vor uralten Wänden. Im Sommer bleiben die Höhlen von Natur aus kühl – in der süditalienischen Hitze Materas ein echter, täglicher Vorteil. Zum selben Haus gehört auch ein separater Palazzo della Civita, dessen Zimmer keine Höhlen sind; diese Seite behandelt die Höhlenzimmer.
 
 **Matera selbst**
 

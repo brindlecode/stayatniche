@@ -13,7 +13,7 @@ amenities:
   - "Habitaciones con aire acondicionado"
   - "Mini cocina y barbacoa en cada unidad"
   - "Aparcamiento privado"
-  - "Wi-Fi en el bar y en la zona de la piscina"
+  - "Wi-Fi gratuito en el edificio principal"
 bestFor:
   - "Grupos que prefieren cocinar por su cuenta"
   - "Excursiones de un día a Sossusvlei"
@@ -32,7 +32,7 @@ Hay 28 unidades independientes de autogestión, diseñadas para integrarse en el
 
 ## El entorno
 
-El campamento se encuentra bajo acacias que, según el propio campamento, tienen siglos de antigüedad, con vistas al paisaje desértico y a las montañas de alrededor. El edificio principal cuenta con un bar bien surtido, con televisor de pantalla grande, y una piscina; dos bomas comunes ofrecen a los grupos un lugar donde reunirse por la noche. Hay Wi-Fi en el bar y en la zona de la piscina, pero no en las unidades.
+El campamento se encuentra bajo acacias que, según el propio campamento, tienen siglos de antigüedad, con vistas al paisaje desértico y a las montañas de alrededor. El edificio principal cuenta con un bar bien surtido, con televisor de pantalla grande, y una piscina; dos bomas comunes ofrecen a los grupos un lugar donde reunirse por la noche. Hay Wi-Fi gratuito en el edificio principal.
 
 ## Consejos prácticos
 

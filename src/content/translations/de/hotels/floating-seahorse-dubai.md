@@ -1,12 +1,12 @@
 ---
 source: floating-seahorse-dubai
 destination: The World Islands, Dubai
-description: "Teilweise abgetauchte schwimmende Villen auf dem Archipel The World Islands, jede mit einem Schlafzimmer drei Meter unter der Oberfläche des Persischen Golfs und einem eigenen, beim Bau angelegten Korallenriff – nachts ist vom Dachdeck aus die Skyline von Dubai zu sehen."
+description: "Schwimmende Villen vor The World Islands in Dubai, verteilt auf eine Unterwasser-, eine Meeres- und eine Himmelsebene, mit einem außen befestigten Korallengarten und Blick auf die Skyline von Dubai."
 highlights:
   - Teilweise abgetauchtes Unterwasserschlafzimmer
   - Privates Sonnendeck auf dem Dach mit 360-Grad-Meerblick
   - Korallenriff unter jeder Villa
-  - Butlerservice mit eigenem Schnellboot
+  - "Die meisten Villen sind über Stege mit der herzförmigen Honeymoon Island verbunden"
   - Private Hängematte und Rutsche über dem Wasser
   - Direkter Zugang zum künstlichen Riff zum Schnorcheln
 amenities:
@@ -22,13 +22,13 @@ bestFor:
   - Hochzeitsreisende
 prosAndCons:
   pros:
-    - Das Unterwasserschlafzimmer ist völlig einzigartig
-    - Vollkommene Privatsphäre auf der eigenen Insel
+    - "Unterwasserebene mit raumhohen Glaswänden zum Korallengarten"
+    - "Abgeschiedenes Inselleben mit Gemeinschaftsgefühl"
     - Blick auf die Skyline von Dubai bei Nacht
     - Das künstliche Korallenriff schafft Lebensraum für Meerestiere
   cons:
     - Sehr teuer
-    - Abgelegene Lage, Anreise nur per Boot
+    - "Überwiegend als Privathäuser und Zweitwohnsitze verkauft; hotelmäßige Buchung nicht bestätigt"
     - Außerhalb der Villa kaum Essensmöglichkeiten
 seasonalInfo:
   bestTime: Oktober bis Mai
@@ -41,15 +41,15 @@ nearbyAttractions:
     distance: "20 Min. mit dem Auto ab der Marina"
 seo:
   metaTitle: "Floating Seahorse Dubai: Unterwasser-Villa | StayAtNiche"
-  metaDescription: "Schlafen drei Meter unter dem Persischen Golf: Die Floating-Seahorse-Villen vor Dubai bieten Luxus halb unter Wasser, eigenes Korallenriff und ein Sonnendeck."
+  metaDescription: "Floating-Seahorse-Villen vor The World Islands, Dubai: dreigeschossige Villen mit Unterwasserebene, Korallengarten, Whirlpool und Blick auf die Skyline."
 ---
 
-Zurückhaltung war noch nie Dubais Stärke, und The Floating Seahorse fügt sich nahtlos in diese Tradition ein. Die teilweise abgetauchten Villen liegen bei The World Islands – einem künstlichen Archipel in Form einer Weltkarte – und reichen drei Meter unter die Oberfläche des Persischen Golfs.
+Zurückhaltung war noch nie Dubais Stärke, und The Floating Seahorse fügt sich nahtlos in diese Tradition ein. Diese Villen schwimmen vor The World Islands – einem künstlichen Archipel in Form einer Weltkarte – und verteilen sich auf drei Ebenen: unter Wasser, auf Meereshöhe und im „Himmel“.
 
-Die oberen Ebenen bieten vertrauten Luxus: Sonnendeck auf dem Dach, Hängematte über dem Wasser, ein Wohnzimmer mit Meerblick nach allen Seiten. Wer die Wendeltreppe hinabsteigt, betritt eine andere Welt. Das Schlafzimmer liegt vollständig unter Wasser, umgeben von Panoramafenstern, durch die die Bewohner Ihres eigenen Korallenriffs ständig zu sehen sind.
+Die oberen Ebenen bieten vertrauten Luxus: eine Terrasse auf Meereshöhe mit Hängematte über dem Wasser, eine voll ausgestattete Küche und eine Himmelsebene mit Oberlicht, Whirlpool, Essbereich und Sonnenliegefläche. Die unterste Ebene ist eine andere Welt: Raumhohe Glaswände blicken auf den Korallengarten der Villa, und die untergetauchten Räume lassen sich als Schlafzimmer oder zusätzlicher Wohnraum nutzen.
 
-Jede Villa erhielt beim Bau einen Korallengarten auf dem Meeresgrund. Die Riffe haben sich inzwischen zu funktionierenden Ökosystemen entwickelt. Tagsüber durchstreifen Kaiserfische und Papageifische die Korallen; gelegentlich zieht ein Riffhai in höflichem Abstand vorbei. Die Artenfülle erreicht nicht die einer maledivischen Lagune, doch dass es sie überhaupt gibt – gezüchtet unter einer schwimmenden Villa vor einer künstlichen Insel vor einer Wüstenstadt –, sagt viel darüber aus, wie weit menschlicher Ehrgeiz und die richtigen Meeresbedingungen reichen können.
+Jede Villa hat an ihrer Außenseite einen Korallengarten, den Meeresbiologen und Aquaristen des Marine Life Sciences Centre angelegt haben, um das Korallenwachstum zu fördern und Meerestiere anzulocken; ein Nachtlicht über den Gärten macht das Riff auch nach Einbruch der Dunkelheit sichtbar. Die Bildergalerie von The National zeigt Clownfische, Babyhaie und einen Teppichhai, gesehen aus den Villen.
 
-Nachts wird das Dachdeck zu einem der theatralischsten Orte unter freiem Himmel im ganzen Emirat. Am Horizont ist die Lichtshow des Burj Khalifa zu sehen, und die leuchtende Silhouette Dubais erstreckt sich in beide Richtungen über das Wasser. Hier draußen hört man nur das Wasser des Golfs am Rumpf. Die Energie der Stadt dringt nur als sehr fernes Summen herüber.
+Von den Villen aus sieht man die Skyline von Dubai, darunter Ausblicke auf den Burj Khalifa.
 
-The Floating Seahorse ist ausschließlich mit dem privaten Schnellboot erreichbar. Die Kleindienst Group organisiert die Transfers und stellt einen eigenen Concierge; ein Privatkoch kann vor der Ankunft gebucht werden.
+Laut The National sind die meisten Villen über Stege mit der herzförmigen Honeymoon Island verbunden, auf der ein von Portofino inspiriertes Hotel entstehen soll. Die Übergabe begann Ende 2020, und die Villen wurden als Privathäuser und Zweitwohnsitze verkauft (131 von 133 Stand Juni 2021). Klären Sie daher vorab, wie ein Aufenthalt organisiert wird.

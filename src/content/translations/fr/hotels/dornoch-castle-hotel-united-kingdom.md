@@ -21,6 +21,7 @@ bestFor:
 seo:
   metaTitle: "Dornoch Castle : château-hôtel et whisky | StayAtNiche"
   metaDescription: "Dornoch Castle Hotel à Dornoch : château du XVe siècle avec neuf chambres, bar à whisky primé et jardin clos de murs face à la cathédrale du XIIe siècle."
+niche_feature: "9 des 21 chambres se trouvent à l'intérieur du château du XVe siècle ; les 12 autres sont dans une extension moderne."
 ---
 
 Dornoch Castle Hotel occupe un château du XVe siècle au cœur de la petite ville côtière de Dornoch, directement face à la cathédrale de Dornoch, du XIIe siècle. L'hôtel compte 21 chambres, mais seule une partie se trouve dans le château : neuf chambres sont dans l'ancien bâtiment, les autres dans une extension moderne. Si dormir derrière des murs de château est l'essentiel de votre voyage, demandez l'une des chambres du château lors de la réservation.

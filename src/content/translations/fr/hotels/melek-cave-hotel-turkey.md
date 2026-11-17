@@ -11,10 +11,8 @@ highlights:
 amenities:
   - "Petit-déjeuner gratuit"
   - "Wi-Fi gratuit"
-  - "Laverie"
   - "Restaurant"
-  - "Location de voitures et de vélos"
-  - "Service en chambre 24 h sur 24"
+  - "Location de voitures via l’hôtel"
   - "Navette gratuite depuis la gare routière"
 bestFor:
   - "Voyageurs indépendants"
@@ -29,11 +27,11 @@ Melek Cave Hotel se trouve au cœur du Göreme historique, entouré de cheminée
 
 ## Les chambres
 
-Le site présente une Deluxe Cave Room de 35 m², avec vue sur le jardin, la montagne et la cour intérieure, et un lit double, ainsi qu’une Cave Double Room de 25 m² avec vue sur le parc. Les salles de bain sont propres et modernes, et une télévision est fournie.
+Le site présente six types de chambres troglodytes : une Deluxe Cave Room (35 m², vue sur le jardin, la montagne et la cour intérieure, lit double), une Cave Double Room (25 m², vue sur le parc), une Arch Twin Room (25 m², vue sur la montagne, deux lits simples), une Double Cave Room (25 m², vue sur la cour, un lit double et un lit simple), une Cave Triple Room (25 m², vue sur la cour, trois lits simples) et une Cave Family Room (35 m², vue sur la ville, un lit double et deux lits simples). Les salles de bain sont propres et modernes, et une télévision est fournie.
 
 ## Petit-déjeuner et équipements
 
-Le petit-déjeuner est servi gratuitement chaque matin sur la terrasse. Un salon commun permet de se détendre et de rencontrer d’autres voyageurs, et un jardin invite à prendre un verre après une journée d’excursion. Parmi les autres services figurent un Wi-Fi gratuit et rapide, une laverie, un restaurant, la location de vélos et de voitures, ainsi qu’un service en chambre 24 h sur 24.
+Le petit-déjeuner est servi gratuitement chaque matin sur la terrasse. Un salon commun permet de se détendre et de rencontrer d’autres voyageurs, et un jardin invite à prendre un verre après une journée d’excursion. Parmi les autres services figurent un Wi-Fi gratuit et rapide, un restaurant et la location de voitures via l’hôtel.
 
 ## Se déplacer
 

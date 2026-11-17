@@ -27,7 +27,7 @@ Georgios Cave Cappadocia zit in een geregistreerd Grieks (Rum) herenhuis in Ürg
 
 ## De kamers
 
-Negen kamers worden vermeld met hun oppervlakte. Kamer 101 en kamer 108 zijn standaardkamers van 25 vierkante meter, kamer 107 is een standaardkamer van 50 vierkante meter. Kamer 106 (31 vierkante meter) en kamer 102 (27 vierkante meter) zijn deluxekamers met jacuzzi. Kamer 103 is een 1+1-suite van 50 vierkante meter met jacuzzi. Kamer 104 is een King Suite van 55 vierkante meter met jacuzzi en hammam. Kamer 105 is een Premium Cave Suite van 40 vierkante meter met jacuzzi, en kamer 109 een Presidential Suite van 50 vierkante meter met terras en jacuzzi. Het label ‘Cave’ staat maar bij één van deze kamers expliciet vermeld, dus vraag welke kamers echt in de rots zijn uitgehouwen.
+Negen kamers worden vermeld met hun oppervlakte. Kamer 101 en kamer 108 zijn standaardkamers van 25 vierkante meter, kamer 107 is een standaardkamer van 50 vierkante meter. Kamer 106 (31 vierkante meter) en kamer 102 (27 vierkante meter) zijn deluxekamers met jacuzzi. Kamer 103 is een 1+1-suite van 50 vierkante meter met jacuzzi. Kamer 104 is een King Suite van 55 vierkante meter met jacuzzi en hammam. Kamer 105 is een Premium Cave Suite van 40 vierkante meter met jacuzzi, en kamer 109 een Presidential Suite van 50 vierkante meter met terras en jacuzzi. Het label ‘Cave’ staat maar bij één van deze kamers expliciet vermeld, dus vraag welke kamers, als die er zijn, in de rots zijn uitgehouwen; de website van het hotel zegt niet dat een kamer in de rots is uitgehouwen.
 
 ## Restaurant en voorzieningen
 

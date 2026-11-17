@@ -3,7 +3,7 @@ name: "Castello di Monterone"
 category: castle-hotels
 destination: "Perugia, Umbria"
 country: "Italy"
-description: "A restored 13th-century castle three kilometres from Perugia, converted into a historic residence with eighteen rooms, some with original frescoes."
+description: "A restored medieval castle three kilometres from Perugia, converted into a historic residence with eighteen rooms, some with original frescoes."
 priceRange: "Rates vary"
 highlights:
   - "Medieval castle turned into a historic residence (residenza d’epoca)"
@@ -41,7 +41,7 @@ niche_source_url: "https://www.castellomonterone.com/it/"
 niche_verified_at: 2026-11-17
 ---
 
-Castello di Monterone is a small restored 13th-century castle on the road that links Perugia to Assisi through Ponte San Giovanni. It was converted into a residenza d'epoca, a historic residence, and now has eighteen rooms furnished in keeping with its history. It stands among greenery about three kilometres from the old centre of Perugia.
+Castello di Monterone is a small restored medieval castle on the road that links Perugia to Assisi through Ponte San Giovanni. It was converted into a residenza d'epoca, a historic residence, and now has eighteen rooms furnished in keeping with its history. It stands among greenery about three kilometres from the old centre of Perugia. According to the castle's own history page, the building goes back at least to the 11th century, since a building at Monterone already appears in a document of 18 January 1200 kept in the Perugia State Archive.
 
 ## The rooms
 

@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Treinhotel Vagony na horách, Tsjechië | StayAtNiche"
   metaDescription: "Verbouwde spoorwagons bij station Kovářská in het Ertsgebergte: geïsoleerde studio's op 850 meter hoogte, met keuken, badkamer en panoramische ramen."
+niche_feature: "Vier afgedankte spoorwagons (Alois, Fanynka, Lesní, Přednostův) op het ongebruikte vierde spoor van station Kovářská, ingericht als geïsoleerde studio's. Een vijfde verblijf, Vechtrovna, is een voormalig huis van een spoorwegarbeider en dus geen wagon."
 ---
 
 In Kovářská, een klein station op de kam van het Ertsgebergte, staan een paar uitgediende spoorwagons op het ongebruikte vierde spoor en dienen nu als slaapplek. Het station ligt op 850 meter boven zeeniveau, omgeven door bos, en de eigenaren omschrijven het verblijf als een dosis stationsromantiek in de bergen.

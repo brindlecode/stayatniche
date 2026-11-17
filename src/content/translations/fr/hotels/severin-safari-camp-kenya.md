@@ -26,7 +26,7 @@ Severin Safari Camp est un camp de tentes situé au cœur du parc national de Ts
 
 ## Les tentes
 
-La Luxury Tent mesure 34 mètres carrés et accueille jusqu'à trois adultes. Chacune est meublée de mobilier en bois artisanal de style africain traditionnel et dispose d'un lit king-size avec moustiquaire, d'une salle de bains privative à eau chaude et froide, ainsi que d'une véranda privée face à la savane. Le camp propose également des suites.
+La Luxury Tent mesure 34 mètres carrés et accueille jusqu'à trois adultes. Chacune est meublée de mobilier en bois artisanal de style africain traditionnel et dispose d'un lit king-size avec moustiquaire, d'une salle de bains privative à eau chaude et froide, ainsi que d'une véranda privée face à la savane. Le camp propose également des suites, ainsi que des Kitani Bandas en avec cuisine équipée situés à environ 1,5 km du camp principal ; un véhicule est nécessaire pour les rejoindre.
 
 ## Sur place
 

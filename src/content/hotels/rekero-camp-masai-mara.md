@@ -4,7 +4,7 @@ category: safari-lodges
 destination: "Masai Mara National Reserve, Rift Valley"
 country: "Kenya"
 continent: "Africa"
-description: "Rekero is a classic tented camp set in a grove of fig trees on the banks of the Talek River in the heart of the Masai Mara, operated by the Governors' Camp group with an emphasis on authentic bush experience, expert Maasai guiding, and the resident wildlife of one of Kenya's best-known game reserves. Its position within the reserve puts guests within reach of outstanding Great Migration sightings."
+description: "Rekero is a classic tented camp nestled among the trees on the banks of the Talek River in the heart of the Masai Mara, operated by Asilia Africa with an emphasis on authentic bush experience, expert Maasai guiding, and the resident wildlife of one of Kenya's best-known game reserves. Its position within the reserve puts guests within reach of outstanding Great Migration sightings."
 coverImage: /images/hotels/rekero-camp-masai-mara.jpg
 gallery:
   - /images/hotels/rekero-camp-masai-mara-2.jpg
@@ -47,7 +47,7 @@ rating: 9.2
 seasonalInfo:
   bestTime: July to October for Great Migration; January to February for calving season in the south
   peakSeason: August to September (peak migration crossing season)
-  notes: The Masai Mara is magnificent year-round as the resident wildlife, lion, leopard, cheetah, elephant, buffalo, is present throughout all seasons. The Great Migration from the Serengeti arrives from July onwards as the wildebeest and zebra move north in search of grass, with the dramatic Mara River crossings concentrated in August and September. The green season (April–June) offers outstanding birdlife and near-empty plains, with rates often significantly lower.
+  notes: The Masai Mara is magnificent year-round as the resident wildlife, lion, leopard, cheetah, elephant, buffalo, is present throughout all seasons. The Great Migration from the Serengeti arrives from July onwards as the wildebeest and zebra move north in search of grass, with the dramatic Mara River crossings concentrated in August and September. The green season (April–June) offers outstanding birdlife and near-empty plains, with rates often significantly lower. Rekero itself is closed in April and May and open from June to March.
 nearbyAttractions:
   - name: Mara River crossing points
     distance: 10 km
@@ -88,9 +88,9 @@ niche_verified_at: 2026-11-17
 
 The Masai Mara's open, rolling grassland, extending to every horizon under the East African sky, supports exceptional concentrations of large mammals within the wider Serengeti ecosystem, of which the Mara is the Kenyan northern extension. A camp positioned correctly within the reserve means the wildlife is immediate and continuous, not something you drive to find.
 
-Rekero sits in a stand of towering fig trees on the Talek River, its ten classic canvas tents arranged along the riverbank in the style of the great East African camps of the colonial hunting era, now repurposed entirely for photographic safari and wildlife observation. The canvas walls and wooden frame construction make the sounds of the surrounding bush immediate, the territorial cough of a leopard somewhere in the darkness, the distant contact calls of a lion pride, the hippos in the river below, and the tents' verandah positions above the riverbank make every morning something to anticipate.
+Rekero sits among the trees on the Talek River, its nine classic safari tents arranged along the riverbank in the style of the great East African camps of the colonial hunting era, now repurposed entirely for photographic safari and wildlife observation. The canvas walls and wooden frame construction make the sounds of the surrounding bush immediate, the territorial cough of a leopard somewhere in the darkness, the distant contact calls of a lion pride, the hippos in the river below, and the tents' verandah positions above the riverbank make every morning something to anticipate.
 
-The Talek River corridor is one of the Mara's most productive wildlife areas year-round, and the fig tree grove that shelters the camp provides reliable leopard habitat, with individuals sighted regularly from the camp itself. The open plains surrounding the camp, leading to the wider reserve, hold resident cheetah families whose daily hunting movements can be followed for hours by a vehicle willing to keep pace with them, and lion prides whose territories overlap the camp area are located reliably by the guiding team.
+The Talek River corridor is one of the Mara's most productive wildlife areas year-round, and the trees that shelter the camp provide leopard habitat, with individuals sighted regularly from the camp itself. The open plains surrounding the camp, leading to the wider reserve, hold resident cheetah families whose daily hunting movements can be followed for hours by a vehicle willing to keep pace with them, and lion prides whose territories overlap the camp area are located reliably by the guiding team.
 
 When the Great Migration arrives from Tanzania between July and October, hundreds of thousands of wildebeest and zebra cross the Mara River at traditional crossing points, each individual leap into the crocodile-patrolled water a separate, chaotic calculation. Rekero's position within the reserve and its guides' knowledge of the river's crossing points makes this consistently accessible rather than a matter of luck and timing.
 

@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Alojamiento en vagones de tren, Chequia | StayAtNiche"
   metaDescription: "Vagones de tren reconvertidos en la estación de Kovářská, en los Montes Metálicos: estudios aislados a 850 metros de altitud con cocina y ducha caliente."
+niche_feature: "Cuatro vagones de tren retirados del servicio (Alois, Fanynka, Lesní, Přednostův) en la cuarta vía, sin uso, de la estación de Kovářská, acondicionados como estudios aislados. Otro alojamiento, Vechtrovna, es la antigua casa de un guardavías, no un vagón."
 ---
 
 En Kovářská, una pequeña estación de tren en la cresta de los Montes Metálicos, varios vagones de ferrocarril jubilados ocupan la cuarta vía, sin uso, y hoy sirven para dormir. La estación está a 850 metros sobre el nivel del mar, rodeada de bosque, y los propietarios describen la estancia como una dosis de romanticismo ferroviario en la montaña.

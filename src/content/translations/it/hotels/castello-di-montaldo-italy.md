@@ -1,10 +1,10 @@
 ---
 source: castello-di-montaldo-italy
 destination: "Montaldo Torinese, Piemonte"
-description: "Hotel e spa 4 stelle Superior ricavato in un castello medievale, a 20 minuti da Torino, con 20 suite e 19 camere."
+description: "Hotel e spa 4 stelle Superior ricavato in un castello medievale, a 20 minuti da Torino, con 20 camere doppie e 19 suite."
 highlights:
   - "Hotel 4 stelle Superior all'interno di un castello medievale"
-  - "20 suite e 19 camere"
+  - "20 camere doppie e 19 suite"
   - "Spa di 3.000 m² con rituali di sauna guidati dai maestri della sauna"
   - "A circa 20 minuti da Torino"
   - "Ristorante Du Château e l'Enoteca Crotin"
@@ -20,14 +20,14 @@ bestFor:
   - "Matrimoni"
 seo:
   metaTitle: "Castello di Montaldo: hotel in castello | StayAtNiche"
-  metaDescription: "Castello di Montaldo: hotel 4 stelle Superior con spa in un castello medievale a 20 minuti da Torino, con 20 suite, 19 camere e 3.000 m² di benessere."
+  metaDescription: "Castello di Montaldo: hotel 4 stelle Superior con spa in un castello medievale a 20 minuti da Torino, con 20 camere doppie, 19 suite e 3.000 m² di benessere."
 ---
 
 Castello di Montaldo è un hotel 4 stelle Superior ricavato all'interno di un castello medievale a Montaldo Torinese, sulle colline a est di Torino. L'intera struttura coincide con il castello, quindi ogni camera fa parte dell'edificio storico.
 
 ## Le camere
 
-L'hotel dispone di 20 suite e 19 camere ampie e luminose, per un totale di 39. A fare la differenza è l'ambiente, e dalle camere si scende direttamente alla spa. Dalla propria camera puoi raggiungere la spa in accappatoio.
+L'hotel dispone di 20 camere doppie e 19 suite, per un totale di 39. A fare la differenza è l'ambiente, e dalle camere si scende direttamente alla spa. Dalla propria camera puoi raggiungere la spa in accappatoio.
 
 ## La spa
 

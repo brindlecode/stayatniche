@@ -19,7 +19,7 @@ highlights:
   - "Whisky distillery excursions and tastings on selected journeys"
   - "Magnificent Highland dining with Scottish game, seafood, and larder"
 amenities:
-  - "State Cabins and Cabin Suites with en-suite bathrooms on selected carriages"
+  - "18 sleeper cabins (Grand Suites, Suites, Double and Twin Cabins); Grand Suites, Double and Twin Cabins have en-suite bathrooms"
   - "Observation car with open rear platform"
   - "Multi-course dining with fine Scottish and French cuisine"
   - "Full board with Scottish malt whiskies and fine wines"
@@ -90,8 +90,8 @@ The West Highland Line is widely regarded, by the railway press and by many who 
 
 Belmond's train carries a maximum of 36 guests in carriages of carefully restored character: Highland tartan fabrics, polished wood panelling, brass fittings, and table lamps that cast a warmth that is specifically Scottish. At this scale, the social world aboard resembles a country house party. Conversations develop naturally between people thrown together by movement and shared terrain. The Observation Car at the rear opens to a platform where you stand in the Highland air as loch surfaces catch the afternoon light and red deer watch from the hillsides.
 
-State Cabins are single or twin-bedded with en-suite facilities: thick blankets, reading lights positioned correctly, storage that works for travelling. Small, but right for what they are.
+There are 18 cabins, each for two guests: Grand Suites, Suites (introduced from April 2027), and Double and Twin Cabins. The Grand Suites, Double Cabins and Twin Cabins have en-suite bathrooms. Small, but right for what they are.
 
 Dining is formal but relaxed in the way Scotland manages to be: white tablecloths and crystal, windows showing a Highland glen in morning mist at breakfast and a loch going violet in the long northern dusk at dinner. The kitchen uses venison, grouse, Highland lamb, west coast lobster and salmon: the exceptional Scottish larder applied honestly. The whisky service on a train that passes near some of the world's most distinguished distilleries is administered with genuine enthusiasm.
 
-Off-train excursions include distillery visits, Highland estate walks, castle visits, and loch boat trips. The four-night Grand Tour is the version that makes the full case for the train's possibilities. Book twelve months ahead for peak summer departures.
+Off-train excursions include distillery visits, Highland estate walks, castle visits, and loch boat trips. The seven-night Grand Tour of Scotland is the version that makes the full case for the train's possibilities. Book twelve months ahead for peak summer departures.

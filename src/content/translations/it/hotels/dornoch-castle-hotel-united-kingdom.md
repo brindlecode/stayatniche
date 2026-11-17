@@ -21,6 +21,7 @@ bestFor:
 seo:
   metaTitle: "Dornoch Castle: hotel nel castello e whisky | StayAtNiche"
   metaDescription: "Dornoch Castle Hotel: castello del XV secolo con nove camere, bar del whisky premiato e giardino murato di fronte alla cattedrale del XII secolo."
+niche_feature: "9 delle 21 camere sono all'interno del castello del XV secolo; le altre 12 sono in un'estensione moderna."
 ---
 
 Dornoch Castle Hotel occupa un castello del XV secolo nel cuore della piccola cittadina costiera di Dornoch, proprio di fronte alla cattedrale del XII secolo. L'hotel conta 21 camere, ma solo una parte si trova nel castello: nove sono nell'edificio antico, le altre in un'ala moderna. Se vuoi dormire tra le mura di un castello, chiedi una delle camere del castello al momento della prenotazione.

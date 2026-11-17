@@ -21,6 +21,7 @@ bestFor:
 seo:
   metaTitle: "Treehouse Point: boomhutten in Washington | StayAtNiche"
   metaDescription: "Treehouse Point bij Issaquah in Washington: zeven boomhutten in een oud bos naast de Raging River, een lodgesuite, een hut en een omgebouwde legertruck."
+niche_feature: "Zeven boomhutten in of vastgemaakt aan levende bomen (bijvoorbeeld Trillium in een ceder, Ananda gedragen door twee douglassparren); daarnaast een lodgesuite, een hut en een omgebouwde legertruck, die geen boomhutten zijn."
 ---
 
 Treehouse Point is een bed & breakfast met zeven boomhutten in een oud bos aan de oevers van een door bronnen gevoede rivier in het Snoqualmie Valley in de staat Washington. De hutten zijn in en rond levende bomen gebouwd, wat volgens de eigenaars elke bouw heeft bepaald. De laatste boomhut, Ananda, werd in 2021 afgerond.

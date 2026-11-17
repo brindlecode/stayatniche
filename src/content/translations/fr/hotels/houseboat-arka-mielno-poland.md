@@ -21,7 +21,7 @@ seo:
   metaDescription: "Houseboat Arka à Mielno, sur la côte baltique polonaise : maison flottante autonome à 200 m de la plage, avec terrasse et vue sur le lac Jamno."
 ---
 
-Houseboat « Arka » est une maison flottante à louer à Mielno, sur la côte baltique polonaise, amarrée entre le lac Jamno et la mer. L'exploitant, Domki na Wodzie, propose des maisons sur l'eau, qu'il compare à des camping-cars sur l'eau, avec les mêmes avantages et les mêmes inconvénients.
+Houseboat « Arka » est une maison flottante à louer à Mielno, sur la côte baltique polonaise, amarrée sur le terrain d'un camping situé entre le lac Jamno et la mer. L'exploitant, Domki na Wodzie, propose des maisons sur l'eau, qu'il compare à des camping-cars sur l'eau, avec les mêmes avantages et les mêmes inconvénients.
 
 ## Le bateau
 
@@ -33,6 +33,6 @@ Le terrain se situe à seulement environ 200 m de la mer Baltique et de sa plage
 
 ## Informations pratiques
 
-La maison flottante se trouve sur un camping, ce qui signifie une ambiance détendue de village de vacances plutôt qu'un mouillage privé et tranquille.
+La maison flottante se trouve sur un camping, ce qui signifie une ambiance détendue de village de vacances plutôt qu'un mouillage privé et tranquille. Le site de l'exploitant présente deux bateaux, Arka I et Arka II : vérifiez donc laquelle des deux unités vous réservez. Les bateaux sont amarrés dans l'enceinte du camping ; il s'agit donc d'une location de vacances sur un mouillage de camping, et non d'une croisière en eau libre.
 
 L'Arka convient aux familles et aux couples qui recherchent des vacances au bord de la mer différentes, avec un lac d'un côté et la mer de l'autre. Renseignez-vous auprès de l'exploitant sur la saison, les conditions de réservation et ce qui est inclus avant de réserver. Le coin cuisine vous permet de cuisiner vous-mêmes, et les deux chambres laissent de la place à une famille ou à deux couples.

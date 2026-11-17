@@ -89,6 +89,7 @@ const en = {
     around: (place: string) => `Around ${place}`,
     save: (name: string) => `Save ${name}`,
     scoreTitle: 'Editorial score out of 10 (our own rating, not guest reviews)',
+    onlySome: 'Only some rooms',
     from: 'From',
     perNight: '/ night',
     seeRates: 'See rates',
@@ -136,6 +137,7 @@ const en = {
     metaTitle: (name: string, dest: string) => `${name} — ${dest} | StayAtNiche`,
     categories: 'Categories',
     editorScore: 'editorial score',
+    closure: { title: 'Temporarily closed', checked: (date: string) => `Checked ${date}` },
     niche: {
       specific_rooms: (cat: string) => `Only some rooms here fit our “${cat}” category; the others are standard rooms.`,
       experience_only: (cat: string) => `The “${cat}” feature here is something you can visit or do, not where you sleep.`,

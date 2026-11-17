@@ -1,7 +1,7 @@
 ---
 source: peckforton-castle-united-kingdom
 destination: "Cheshire, England"
-description: "Ein viktorianisch-gotisches Schloss in der Landschaft von Cheshire, 1851 im Stil einer mittelalterlichen Festung erbaut, mit 48 individuell eingerichteten Zimmern im Schloss und rundherum."
+description: "Ein viktorianisch-gotisches Schloss in der Landschaft von Cheshire, 1851 im Stil einer mittelalterlichen Festung erbaut, mit 48 individuell eingerichteten Zimmern und Suiten im Schloss."
 highlights:
   - "Denkmalgeschütztes Schloss (Grade I), 1851 im Stil einer mittelalterlichen Festung erbaut"
   - "48 individuell eingerichtete Zimmer"
@@ -19,9 +19,10 @@ bestFor:
 seo:
   metaTitle: "Peckforton Castle: Schlosshotel in Cheshire | StayAtNiche"
   metaDescription: "Peckforton Castle in Cheshire: neugotische Burg von 1851 mit 48 Zimmern, Tower Suites, 1851 Restaurant und einem 48-Acres-Park. Ideal für Paare und Gruppen."
+niche_feature: "Die 48 Zimmer und Suiten (darunter die Tower Suites) liegen im viktorianischen Schloss von 1851 (Grade I); The Lodge und The Retreat sind separate Häuser für Gruppenunterkünfte auf dem Anwesen."
 ---
 
-Peckforton Castle wurde 1851 im Stil einer mittelalterlichen Festung errichtet, und es wirkt bis heute wie eine: eine viktorianisch-gotische Burg unter Denkmalschutz (Grade I) in der Landschaft von Cheshire, die ihre Besitzer als das einzige intakte Schloss im mittelalterlichen Stil in England bezeichnen. Heute ist es Hotel, Restaurant und Veranstaltungsort zugleich, und die Übernachtungsgäste schlafen innerhalb der Mauern statt in einem modernen Anbau.
+Peckforton Castle wurde 1851 im Stil einer mittelalterlichen Festung errichtet, und es wirkt bis heute wie eine: eine viktorianisch-gotische Burg unter Denkmalschutz (Grade I) in der Landschaft von Cheshire, die ihre Besitzer als echte Festung mit Türmen, Türmchen, Zinnen und Zugbrücke beschreiben. Heute ist es Hotel, Restaurant und Veranstaltungsort zugleich, und die Übernachtungsgäste schlafen innerhalb der Mauern statt in einem modernen Anbau.
 
 ## Die Zimmer
 

@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Wolkensteiner Zughotel in Sachsen | StayAtNiche"
   metaDescription: "Wolkensteiner Zughotel am Bahnhof im Erzgebirge: Schlafwagenabteile, Ferienwohnungen in umgebauten Waggons und Restaurant im Salonwagen mit sächsischer Küche."
+niche_feature: "Die Gäste schlafen in originalen Schlafwagenabteilen (10 Abteile 1./2. Klasse, ein Regierungsabteil, zwei Suiten) und in fünf „Ferienzug“-Waggons mit Ferienwohnungen; zwei Ferienwohnungen liegen im Bahnhofsgebäude von 1865 (gewöhnliche Zimmer). Insgesamt 54 Schlafplätze."
 ---
 
 Das Wolkensteiner Zughotel ist ein Hotel aus Eisenbahnwaggons im Erzgebirgsstädtchen Wolkenstein in Sachsen, zwischen Marienberg und Annaberg-Buchholz. Es liegt am Bahnsteig 10, direkt an der B101 unterhalb des Schlosses Wolkenstein im Tal der Zschopau. Nach eigener Darstellung ist es das einzige Zughotel in Deutschland, in dem man sowohl übernachten als auch traditionelle erzgebirgische Küche essen kann.

@@ -1,9 +1,9 @@
 ---
 source: hapuku-lodge-new-zealand
 destination: "Kaikōura"
-description: "Cinq suites-cabanes perchées à 8 mètres au-dessus d'un bosquet de manukas indigènes, sur une ferme d'élevage de cerfs en activité, avec les Kaikōura Ranges saupoudrées de neige à l'ouest et le Pacifique Sud à l'est. L'une des rares adresses de Nouvelle-Zélande où l'on peut observer des cachalots depuis un bateau le matin et savourer au dîner le cerf de la ferme."
+description: "Des cabanes perchées à 10 mètres dans la canopée d'arbres indigènes, kānuka et pūriri, sur une ferme d'élevage de cerfs en activité, avec les Kaikōura Ranges saupoudrées de neige à l'ouest et le Pacifique Sud à l'est. L'une des rares adresses de Nouvelle-Zélande où l'on peut observer des cachalots depuis un bateau le matin et savourer au dîner le cerf de la ferme."
 highlights:
-  - "Cabanes perchées à 8 mètres au-dessus d'un bosquet de manukas indigènes"
+  - "Cabanes perchées à 10 m dans la canopée d'arbres indigènes, kānuka et pūriri"
   - "Vue panoramique sur les Kaikōura Ranges et le Pacifique"
   - "Ferme d'élevage de cerfs et potager bio sur place"
   - "Observation des baleines, baignade avec les dauphins et colonies d'otaries à proximité"
@@ -49,18 +49,19 @@ nearbyAttractions:
     distance: "25 km"
 seo:
   metaTitle: "Hapuku Lodge : cabanes perchées à Kaikōura | StayAtNiche"
-  metaDescription: "Avis sur Hapuku Lodge : cabanes de luxe perchées à 8 m au-dessus des manukas, face aux Kaikōura Ranges et au Pacifique, en Nouvelle-Zélande."
+  metaDescription: "Avis sur Hapuku Lodge : cabanes perchées à 10 m dans la canopée de kānukas et de pūriris, face aux Kaikōura Ranges et au Pacifique, en Nouvelle-Zélande."
+niche_feature: "Tree Houses (une chambre, et une cabane familiale sur deux niveaux) surélevées à 10 m dans la canopée de kanuka et de puriri indigènes ; les suites du lodge et l'Olive House sont des chambres ordinaires. Le site officiel n'explique pas comment les cabanes sont construites."
 ---
 
-La vue depuis la terrasse d'une cabane de Hapuku est d'une beauté presque injuste. À l'ouest, les Kaikōura Ranges s'élèvent brusquement de la plaine côtière, leurs crêtes enneigées une bonne partie de l'année. À l'est, le Pacifique Sud s'étire sans obstacle jusqu'à l'horizon. Sous vos pieds, huit mètres plus bas, les manukas indigènes ondulent dans la brise marine, leurs feuilles vert argenté captant la lumière de l'après-midi. Le genre de vue qui vous fait vous demander pourquoi vous dormez encore au rez-de-chaussée.
+La vue depuis la terrasse d'une cabane de Hapuku est d'une beauté presque injuste. À l'ouest, les Kaikōura Ranges s'élèvent brusquement de la plaine côtière, leurs crêtes enneigées une bonne partie de l'année. À l'est, le Pacifique Sud s'étire sans obstacle jusqu'à l'horizon. Autour de vous, la canopée des kānukas et des pūriris indigènes ondule dans la brise marine, ses feuilles captant la lumière de l'après-midi. Le genre de vue qui vous fait vous demander pourquoi vous dormez encore au rez-de-chaussée.
 
-Hapuku Lodge est un projet familial depuis son ouverture en 2003, bâti sur une ferme d'élevage de cerfs en activité qui appartient à la même famille depuis des générations. Les cinq cabanes perchées ont été ajoutées plus tard et sont devenues la pièce maîtresse de ce qui compte aujourd'hui parmi les adresses de charme les plus admirées de Nouvelle-Zélande. Cette gestion familiale se ressent dans chaque détail, du mobilier choisi à la main au potager où le chef cueille chaque matin les salades.
+Hapuku Lodge est un projet familial depuis son ouverture en 2003, bâti sur une ferme d'élevage de cerfs en activité qui appartient à la même famille depuis des générations. Les cabanes perchées ont été ajoutées plus tard et sont devenues la pièce maîtresse de ce qui compte aujourd'hui parmi les adresses de charme les plus admirées de Nouvelle-Zélande. Cette gestion familiale se ressent dans chaque détail, du mobilier choisi à la main au potager où le chef cueille chaque matin les salades.
 
 **Les cabanes**
 
-Chacune des cinq cabanes est une suite généreuse et soigneusement aménagée. L'architecture est épurée et contemporaine (beaucoup de verre, de bois naturel et de linge blanc impeccable), mais le véritable parti pris reste toujours la vue. De grandes baies vitrées du sol au plafond cadrent à parts égales montagnes et océan, et le balcon privé est placé avec précision pour profiter des deux. Le chauffage au sol garde les chambres au chaud même quand le vent souffle du Pacifique, et les salles de bains sont dignes d'un vrai hôtel, loin des installations bâclées que l'on trouve parfois dans les hébergements insolites.
+Les cabanes sont des suites généreuses et soigneusement aménagées, proposées en One-Bedroom Tree House, à 10 mètres dans la canopée, et en Two Storey Family Tree House. L'architecture est épurée et contemporaine (beaucoup de verre, de bois naturel et de linge blanc impeccable), mais le véritable parti pris reste toujours la vue. De grandes baies vitrées du sol au plafond cadrent à parts égales montagnes et océan, et le balcon privé est placé avec précision pour profiter des deux. Le chauffage au sol garde les chambres au chaud même quand le vent souffle du Pacifique, et les salles de bains sont dignes d'un vrai hôtel, loin des installations bâclées que l'on trouve parfois dans les hébergements insolites.
 
-Les cabanes accueillent deux personnes, idéales pour les couples ; les familles peuvent réserver en complément les chambres du lodge principal, juste à côté.
+Le One-Bedroom Tree House convient aux couples, avec un lit king size ou deux lits jumeaux, tandis que le Two Storey Family Tree House comprend deux chambres avec salle de bains privative, l'Upper et le Lower Branch, reliées par un escalier intérieur. Les chambres du lodge sont distinctes des cabanes.
 
 **La faune de Kaikōura**
 

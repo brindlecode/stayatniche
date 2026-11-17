@@ -4,12 +4,12 @@ category: bubble-hotels
 destination: Saariselkä, Finnish Lapland
 country: Finland
 continent: Europe
-description: Sixty-five heated glass igloos scattered across a pine forest at 68 degrees north, each one a private observatory with a king bed pointed at the Finnish sky. Yrjö Rissanen built the first one in 1999 around a simple idea — why watch the aurora from a cold window when you can watch it from a warm bed?
+description: Heated glass igloos scattered across a pine forest at 68 degrees north, each one a private observatory with beds under a glass roof looking up at the Finnish sky. The idea is a simple one — why watch the aurora from a cold window when you can watch it from a warm bed?
 coverImage: /images/hotels/kakslauttanen-finland.jpg
 priceRange: "$400 - $900"
 priceIndicator: 4
 highlights:
-  - World's largest glass igloo village with 65+ individual igloos
+  - Small, large and Kelo-Glass igloos in the resort's East and West villages
   - Thermal glass stays clear in temperatures down to -30°C
   - Reindeer safaris and husky sledding from the door
   - Traditional Finnish smoke sauna on the property
@@ -20,7 +20,7 @@ highlights:
 amenities:
   - Heated thermal glass igloo
   - Private en-suite bathroom
-  - Double bed oriented for sky viewing
+  - Beds under a glass roof (two single beds in the small igloos)
   - Finnish breakfast included
   - In-room Wi-Fi
   - Daily sauna access
@@ -64,7 +64,7 @@ featured: true
 status: published
 seo:
   metaTitle: "Kakslauttanen Arctic Resort Review, Sleep Under the Northern Lights in Finland"
-  metaDescription: "The world's largest glass igloo village in Finnish Lapland. Sleep under the aurora borealis in heated thermal glass igloos at Kakslauttanen Arctic Resort. From $400/night."
+  metaDescription: "Glass igloos in Finnish Lapland. Sleep under the aurora borealis in heated thermal glass igloos at Kakslauttanen Arctic Resort. From $400/night."
 affiliateLinks:
   - partner: "expedia"
     url: "https://www.expedia.com/Hotel-Search?destination=Saariselk%C3%A4%2C%20Finnish%20Lapland%2C%20Finland&adults=2"
@@ -89,9 +89,9 @@ niche_verified_at: 2026-11-17
 
 There are places that exist in the collective imagination of travellers long before they are visited, and Kakslauttanen Arctic Resort is emphatically one of them. Sitting at 68 degrees north in the wilderness of Finnish Lapland, this collection of thermal glass igloos has become the definitive answer to the question that haunts every aurora hunter: where is the very best place on Earth to sleep beneath the northern lights?
 
-The answer, it turns out, is inside a heated glass dome in a snow-dusted pine forest, 35 kilometres inside the Arctic Circle.
+The answer, it turns out, is inside a heated glass dome in a snow-dusted pine forest, north of the Arctic Circle.
 
-Yrjö Rissanen built the first glass igloo here in 1999, driven by a simple but radical idea: why should guests sleep indoors and only hope to glimpse the aurora from a cold window? Today, more than 65 glass igloos are scattered across the resort's pine-forested grounds, each one a private observatory with a king-sized bed oriented perfectly toward the Finnish sky. The thermal glass is engineered to remain crystal clear even when temperatures plummet to -30°C: no condensation, no frosting, just an uninterrupted canopy of stars, and on the right nights, the green and violet curtains of the aurora borealis sweeping directly overhead.
+The idea is simple but radical: why should guests sleep indoors and only hope to glimpse the aurora from a cold window? The resort's glass igloos, from small igloos with two single beds to Kelo-Glass igloos with log-chalet bedrooms, are scattered across its pine-forested grounds, each one a private observatory under a glass roof. The thermal glass is engineered to remain crystal clear even when temperatures plummet to -30°C: no condensation, no frosting, just an uninterrupted canopy of stars, and on the right nights, the green and violet curtains of the aurora borealis sweeping directly overhead.
 
 What lifts Kakslauttanen beyond a simple novelty is the sheer quality of the surrounding experience. Days are structured around Finnish Lapland's winter wilderness: snowmobile expeditions into the vast Urho Kekkonen National Park, reindeer-drawn sleigh rides through old-growth forest, husky safaris with teams of Siberian and Alaskan huskies whose collective enthusiasm is genuinely infectious, and ice fishing on frozen lakes where the silence is so complete it becomes a sound in itself.
 

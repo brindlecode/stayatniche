@@ -1,0 +1,254 @@
+[
+ {
+  "slug": "otterburn-castle-country-house-hotel-united-kingdom",
+  "issue": "Present building is an 1830 castellated country house; HER says no remains of the Peel can be seen while Wikipedia says part of the old castle walls survive",
+  "action": "corrected",
+  "detail": "Removed 'using stones from the old medieval fortress'; now says Thomas James rebuilt it in 1830 in the castellated style and that sources differ on how much medieval fabric survives. Mirrored in de/fr/es/it/nl.",
+  "source_url": "https://keystothepast.info/Site-Details?PRN=N8287"
+ },
+ {
+  "slug": "otterburn-castle-country-house-hotel-united-kingdom",
+  "issue": "'Norman stronghold founded in 1086' refers to the site's earlier castle, not the building guests sleep in",
+  "action": "corrected",
+  "detail": "Removed the 1086 claim from description, highlight, history paragraph and heading ('A thousand years' -> 'Centuries'). Replaced with the heritage record's statement that a pele tower appears to have existed before the mid-13th century; description/highlight now say 'medieval fortified tower' / 'medieval castle site, present house rebuilt in 1830'. Mirrored in all five translations.",
+  "source_url": "https://keystothepast.info/Site-Details?PRN=N8287"
+ },
+ {
+  "slug": "otterburn-castle-country-house-hotel-united-kingdom",
+  "issue": "Official website not accessible and trading status could not be confirmed; hotel reported marketed for sale (undated)",
+  "action": "skipped_not_text",
+  "detail": "Site returns HTTP 401 (re-checked); trading status is a category/status matter, not a text claim. No page text changed.",
+  "source_url": "https://www.otterburncastle.com/"
+ },
+ {
+  "slug": "peckforton-castle-united-kingdom",
+  "issue": "'Only intact medieval-style castle in England' is the owner's own claim",
+  "action": "deleted",
+  "detail": "The official page (re-fetched) does not contain this claim; replaced with the owners' own wording that it is a true fortress with towers, turrets, battlements and a drawbridge. Mirrored in all translations.",
+  "source_url": "https://www.peckfortoncastle.co.uk/hotel"
+ },
+ {
+  "slug": "peckforton-castle-united-kingdom",
+  "issue": "Description says 48 bedrooms 'inside and around' the castle; official site lists 48 bedrooms plus separate Lodge and Retreat group houses",
+  "action": "corrected",
+  "detail": "Description now says '48 individually appointed bedrooms and suites in the castle' (official: 48 individually designed bedrooms and suites; Lodge and Retreat listed separately). Mirrored in translations.",
+  "source_url": "https://www.peckfortoncastle.co.uk/hotel"
+ },
+ {
+  "slug": "scargill-castle-united-kingdom",
+  "issue": "Self-catering for two, not a hotel; official site header gives 'North Yorkshire' while page says County Durham",
+  "action": "skipped_not_text",
+  "detail": "Category framing (page already says self-catering retreat for two). County: official site postal address reads 'Barnard Castle, County Durham, DL12 9BP'; only the browser-title tag says North Yorkshire (historic county), so County Durham on the page stands; nothing changed.",
+  "source_url": "https://www.scargillcastle.com/"
+ },
+ {
+  "slug": "star-castle-hotel-united-kingdom",
+  "issue": "Room split between castle and garden rooms not given by the official site, so the castle-room count cannot be confirmed",
+  "action": "not_an_issue",
+  "detail": "Page gives no castle/garden room count, only the 38 total and that not every room is in the fortress, both on the official homepage (38 bedrooms, castle accommodation plus garden accommodation, Guard Rooms on the ramparts). Room pages returned 403 on re-check. No change.",
+  "source_url": "https://star-castle.co.uk/"
+ },
+ {
+  "slug": "stonefield-castle-united-kingdom",
+  "issue": "Official page states 38 bedrooms; the .md page gives no room count",
+  "action": "corrected",
+  "detail": "Added '38 individually decorated en-suite bedrooms' to the body sentence (official wording: 38 individually and tastefully decorated ensuite bedrooms, with views over gardens and Loch Fyne). Mirrored in translations.",
+  "source_url": "https://bespokehotels.com/stonefieldcastle/"
+ },
+ {
+  "slug": "stonefield-castle-united-kingdom",
+  "issue": "Not a medieval fortress (page itself says Victorian baronial house)",
+  "action": "skipped_not_text",
+  "detail": "Category framing; page already states it is a Victorian baronial house rather than a fortress.",
+  "source_url": "https://bespokehotels.com/stonefieldcastle/"
+ },
+ {
+  "slug": "torrisdale-castle-estate-united-kingdom",
+  "issue": "Self-catering units, not a hotel",
+  "action": "skipped_not_text",
+  "detail": "Category framing; page already says self-catering and that only the Servants' Quarters is in the castle.",
+  "source_url": "https://www.torrisdalecastle.com/self-catering/the-servants-quarters/"
+ },
+ {
+  "slug": "tulloch-castle-hotel-united-kingdom",
+  "issue": "12th-century date is the hotel's claim; Wikipedia says the castle 'likely dates to at least the late 14th century'",
+  "action": "corrected",
+  "detail": "Description, highlight and body now attribute the 12th-century date to the hotel and add Wikipedia's 'likely dates to at least the late 14th century'. Translation meta descriptions that stated 12th century were reworded. Mirrored in all translations.",
+  "source_url": "https://en.wikipedia.org/wiki/Tulloch_Castle"
+ },
+ {
+  "slug": "tulloch-castle-hotel-united-kingdom",
+  "issue": "Present building was damaged by fire in 1845 and extended in 1891",
+  "action": "corrected",
+  "detail": "Added 'damaged by fire in 1845 and extended in 1891' (Wikipedia: 'damaged by fire in 1845, and extended in 1891') to the body. Mirrored in translations.",
+  "source_url": "https://en.wikipedia.org/wiki/Tulloch_Castle"
+ },
+ {
+  "slug": "walworth-castle-hotel-united-kingdom",
+  "issue": "Page does not mention that annex rooms, Lodge (gatehouse) and Holiday Cottage are outside the main castle",
+  "action": "corrected",
+  "detail": "Rewrote the opening of 'The rooms': annex rooms are in an adjoining building next to the castle; Walworth Castle Lodge at the entrance sleeps six; a separate two-bedroom Holiday Cottage; castle rooms are in the main castle. Mirrored in translations.",
+  "source_url": "https://walworthcastle.co.uk/hotels-in-darlington/accommodation-in-darlington/"
+ },
+ {
+  "slug": "walworth-castle-hotel-united-kingdom",
+  "issue": "Grade I listing, 12th-century origins and c.1600 completion not stated on official pages checked",
+  "action": "not_an_issue",
+  "detail": "Wikipedia (https://en.wikipedia.org/wiki/Walworth_Castle) states Grade I listed, 'a castle of 12th-century origins' and 'completed around 1600'; page claims stand. (Wikipedia gives the King James visit as 14 May, official page says 14 April; page follows the official site.)",
+  "source_url": "https://en.wikipedia.org/wiki/Walworth_Castle"
+ },
+ {
+  "slug": "yha-st-briavels-castle-united-kingdom",
+  "issue": "Access statement lists three East Tower bedrooms (6, 8, 10 beds), not two",
+  "action": "corrected",
+  "detail": "Changed 'two in the east tower' to 'three of them in the east tower, sleeping 6, 8 and 10' in highlight and body. Mirrored in translations.",
+  "source_url": "https://www.yha.org.uk/sites/default/files/media/document/yha-st-briavels-castle-access-statement.pdf"
+ },
+ {
+  "slug": "yha-st-briavels-castle-united-kingdom",
+  "issue": "Room capacities run 5 to 14 and total about 64 beds, not 'three to twelve' / 'up to 50'",
+  "action": "corrected",
+  "detail": "Verified from PDF: main building rooms 6,5,6,9,14 plus East Tower 6,8,10 = 8 rooms, 64 beds. Changed to 'about 64' and 'from 5 to 14'. (Left the unrelated Banquet Hall seats 50 as is.) Mirrored in translations.",
+  "source_url": "https://www.yha.org.uk/sites/default/files/media/document/yha-st-briavels-castle-access-statement.pdf"
+ },
+ {
+  "slug": "yha-st-briavels-castle-united-kingdom",
+  "issue": "Main YHA page returned 403 (bot wall); evidence taken from access-statement PDF",
+  "action": "not_an_issue",
+  "detail": "Fetch note only; PDF downloaded and read in full.",
+  "source_url": "https://www.yha.org.uk/sites/default/files/media/document/yha-st-briavels-castle-access-statement.pdf"
+ },
+ {
+  "slug": "adelya-cave-hotel-turkey",
+  "issue": "Page says to 'ask which rooms are rock-cut'; official room pages state Woodshed, Grandpa Mehmet room, Stable, Hayloft carved into rock, Wine House is a cave room",
+  "action": "corrected",
+  "detail": "Verified on room pages 2, 4, 5, 7, 9. Replaced the 'ask which rooms' sentence with the room-page statement (Woodshed, Grandpa Mehmet and Grandma Havva's Room, Stable, Hayloft carved into rock; Wine House a cave room; others not described as cave rooms). Mirrored in translations.",
+  "source_url": "https://www.adelyacave.com/room/5"
+ },
+ {
+  "slug": "adelya-cave-hotel-turkey",
+  "issue": "Highlight 'Heart of Göreme' is the hotel's own wording",
+  "action": "corrected",
+  "detail": "Official site says 'Heart of Cappadocia', not Göreme; replaced highlight with 'Located in Göreme, Nevşehir' (address Göreme/Nevşehir), body sentence changed to 'in the town of Göreme, in Nevşehir province'; unverified 'views of rock formations and historical atmosphere' removed; FR/IT description/meta 'au cœur'/'nel cuore' changed. Mirrored in translations.",
+  "source_url": "https://www.adelyacave.com/"
+ },
+ {
+  "slug": "cappadocia-cave-suites-turkey",
+  "issue": "'Daily hot air balloon flights from the property' unsupported; official site offers a balloon ride booking as an activity",
+  "action": "corrected",
+  "detail": "Highlight now 'Hot air balloon ride offered as an activity'; description/body no longer imply launches or a fixed count. Mirrored in translations.",
+  "source_url": "https://cappadociacavesuiteshotel.com/"
+ },
+ {
+  "slug": "cappadocia-cave-suites-turkey",
+  "issue": "Stone hammam 'carved from the tufa below the hotel' and 18°C tufa temperature not on official page",
+  "action": "deleted",
+  "detail": "Removed the 18°C sentence and the carved-hammam claim; official site lists 'Hammam - Spa' so text now says the hotel lists a hammam and spa; amenity 'Stone hammam and spa' -> 'Hammam and spa'. Mirrored in translations (incl. ES/IT/DE meta descriptions).",
+  "source_url": "https://cappadociacavesuiteshotel.com/"
+ },
+ {
+  "slug": "cappadocia-cave-suites-turkey",
+  "issue": "Rating 9.1 / 1,876 reviews and '60 to 80 balloons' unverified",
+  "action": "deleted",
+  "detail": "Removed '60 to 80'/'Sixty or eighty' balloons from description, body and meta descriptions in all languages. The review count 1,876 does not appear in any file. The frontmatter rating 9.1 is a protected field and was not changed.",
+  "source_url": "https://cappadociacavesuiteshotel.com/"
+ },
+ {
+  "slug": "cappadocia-cave-suites-turkey",
+  "issue": "Official site says only 'cave suites/rooms'; some room types (Standard, Queen with balcony) not confirmed as rock-cut",
+  "action": "corrected",
+  "detail": "Description/highlight/amenity reworded to 'cave rooms the hotel describes as carved into ancient rock formations'; added body sentence that the site lists Standard Rooms, Queen Room with Balcony and Suites with Terrace and does not say which are rock-cut. Mirrored in translations.",
+  "source_url": "https://cappadociacavesuiteshotel.com/"
+ },
+ {
+  "slug": "cappadocia-inans-cave-suites-turkey",
+  "issue": "Official address is in Nar village (Çavuş Sokak No:8, 50130 Nar), not central Nevşehir",
+  "action": "corrected",
+  "detail": "Body now says the hotel is in the village of Nar, Nevşehir (Çavuş Sokak No:8, 50130 Nar). The `destination` field 'Nevşehir, Cappadocia' left (Nar is in Nevşehir Merkez district). Mirrored in translations.",
+  "source_url": "https://www.cappadociainanscave.com/room-101/"
+ },
+ {
+  "slug": "cappadocia-inans-cave-suites-turkey",
+  "issue": "Official site never states rooms are rock-carved, only 'cave rooms'; cave pool described as heated 'Cave Pool' without detail",
+  "action": "corrected",
+  "detail": "Removed 'carved setting', 'set into the cave' and 'rock-cut hotels' wording; added that the site calls them cave rooms but does not say they are carved into rock; pool now 'the hotel calls a cave pool'. Mirrored in translations (incl. descriptions/meta).",
+  "source_url": "https://www.cappadociainanscave.com/room-101/"
+ },
+ {
+  "slug": "charming-cave-cappadocia-hotel-turkey",
+  "issue": "Page does not state that only about six of fifteen rooms (five Standard Cave Rooms plus Cave Suite) are cave rooms",
+  "action": "corrected",
+  "detail": "Description, highlight and body now say only the five Standard Cave Rooms and the Cave Suite are described as cave rooms among fifteen rooms; 'rooms carved into natural rock' replaced by the hotel's own claim that the hotel is carved from natural rock. Mirrored in translations.",
+  "source_url": "https://www.thecharmingcavehotel.com/"
+ },
+ {
+  "slug": "charming-cave-cappadocia-hotel-turkey",
+  "issue": "Official site wording about rock carving is general, not per room",
+  "action": "corrected",
+  "detail": "Body adds that the site's wording about rock carving is general rather than room by room; meta/description no longer claim rooms are cut into rock. Mirrored in translations.",
+  "source_url": "https://www.thecharmingcavehotel.com/"
+ },
+ {
+  "slug": "desert-cave-hotel-australia",
+  "issue": "Page implies all rooms are underground; source says there are also above-ground rooms",
+  "action": "corrected",
+  "detail": "Description, highlights, amenities, meta and body now state underground dugout rooms plus above-ground rooms 'for visitors who do not like to be underground' (showcaves.com). Mirrored in translations.",
+  "source_url": "https://showcaves.com/english/au/subterranea/DesertCaveHotel.html"
+ },
+ {
+  "slug": "desert-cave-hotel-australia",
+  "issue": "'Indoor underground swimming pool', constant 23°C, 70% of world's opals and 'opals visible in room walls' not confirmed",
+  "action": "deleted",
+  "detail": "Removed the pool amenity/mention, 23°C and the December 52°C sentence, the 70% highlight (replaced by 'Opened in 1988' from showcaves), the opals-in-walls highlight/pro and the carved-sandstone/gemstone-seams passages. Body now quotes the official site's 'no heat and no humidity' for underground rooms in Coober Pedy. Mirrored in translations.",
+  "source_url": "https://desertcave.com.au/about/"
+ },
+ {
+  "slug": "desert-cave-hotel-australia",
+  "issue": "Official site does not itemise underground vs above-ground room counts; room count figures conflict",
+  "action": "not_an_issue",
+  "detail": "Page gives no room count; nothing to change.",
+  "source_url": "https://desertcave.com.au/"
+ },
+ {
+  "slug": "desert-cave-hotel-australia",
+  "issue": "Booking.com rating 8.2 / 634 reviews unverified",
+  "action": "not_fixed",
+  "detail": "Rating 8.2 is a protected frontmatter field and was not changed; '634 reviews' does not appear in the page text.",
+  "source_url": null
+ },
+ {
+  "slug": "gamirasu-cave-turkey",
+  "issue": "'6th-century' and 'functioning monastery for over 1,000 years' not stated on official site",
+  "action": "deleted",
+  "detail": "Removed both from description, highlight, meta, pros and body. Official site: 'restored Byzantine monastic retreat', 'an 11th-century Orthodox church' (the audit said 12th; the site fetched says 11th), 35 cave rooms and suites; text now says that. Mirrored in translations.",
+  "source_url": "https://www.gamirasu.com/"
+ },
+ {
+  "slug": "gamirasu-cave-turkey",
+  "issue": "'Thirty minutes from Göreme' and 'balloon launches from fields immediately below' not on official pages",
+  "action": "deleted",
+  "detail": "Replaced with 'village of Ayvalı near Ürgüp' (official wording); removed the launch-field claims in description, highlight, pros and the balloon paragraph, which now says only that the site lists balloon tours among excursions. Mirrored in translations.",
+  "source_url": "https://www.gamirasu.com/"
+ },
+ {
+  "slug": "gamirasu-cave-turkey",
+  "issue": "'Original Byzantine frescoes visible in some room niches' not stated; frescoes are in the church/valley",
+  "action": "deleted",
+  "detail": "Removed the room-niche fresco claims (highlight, meta, body); highlight replaced by the preserved 11th-century church per the hotel. Mirrored in translations.",
+  "source_url": "https://www.gamirasu.com/"
+ },
+ {
+  "slug": "gamirasu-cave-turkey",
+  "issue": "Rating 9.1 / 743 reviews unverified",
+  "action": "not_fixed",
+  "detail": "Rating 9.1 is a protected frontmatter field and was not changed; '743 reviews' does not appear in the page text.",
+  "source_url": null
+ },
+ {
+  "slug": "georgios-cave-cappadocia-turkey",
+  "issue": "'Cave' appears only in the name and in room 105 'Premium Cave Suit'; no checked source confirms any room is rock-cut",
+  "action": "corrected",
+  "detail": "Page already attributed 'stone/rock rooms' to the hotel and noted the Cave label on one room; added that the hotel's website does not say any room is carved into the rock and that it is worth asking which rooms, if any, are rock-cut. Mirrored in translations.",
+  "source_url": "https://georgioscavecappadocia.com/about/"
+ }
+]

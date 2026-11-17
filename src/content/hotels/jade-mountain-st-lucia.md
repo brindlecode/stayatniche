@@ -4,20 +4,20 @@ category: cliffside-hotels
 destination: "Soufrière, St. Lucia"
 country: St. Lucia
 continent: North America
-description: "Twenty-nine sanctuaries built into a cliff above the Caribbean Sea, each missing a fourth wall so the Piton mountains frame an uninterrupted panorama from the bed and the infinity pool extends toward the open horizon."
+description: "Twenty-nine sanctuaries perched above Anse Chastanet's beachfront estate on St. Lucia's Caribbean coast, each with its fourth wall deliberately absent so the Piton mountains frame the view, and private infinity pools in 24 of them."
 coverImage: "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=900&q=80&auto=format&fit=crop"
 gallery: []
 priceRange: "$1,200 - $3,500"
 priceIndicator: 5
 highlights:
   - "Each sanctuary missing a fourth wall for unobstructed Piton and sea panoramas"
-  - "Private infinity pool in every sanctuary"
+  - "Private infinity pools in 24 of the 29 sanctuaries; the five Sky sanctuaries have a whirlpool bath instead"
   - "Direct sightlines to the UNESCO-listed Piton mountains"
-  - "Cliff-face position above the Caribbean Sea south of Soufrière"
+  - "Perched above Anse Chastanet's 600-acre beachfront estate south of Soufrière"
   - "Jade Mountain Club restaurant with plantation-to-table Caribbean cuisine"
   - "Anse Chastanet beach and coral reef accessible from the property"
 amenities:
-  - "Private infinity pool in each sanctuary"
+  - "Private infinity pool in 24 sanctuaries (Sky sanctuaries have a whirlpool bath)"
   - "No fourth wall — permanent panoramic Caribbean and Piton view"
   - "King bed oriented toward the open wall"
   - "Jade Mountain Club dining with Caribbean tasting menus"
@@ -45,7 +45,7 @@ rating: 8.5
 seasonalInfo:
   bestTime: "December to April"
   peakSeason: "January to March"
-  notes: "The dry season from December through April provides the most reliable weather for enjoying the open-wall sanctuaries and the Caribbean Sea views. The wet season (June–October) brings afternoon rain and hurricane risk in the height of the Atlantic hurricane season (August–October), though Jade Mountain's cliff position and St. Lucia's southern location reduce but do not eliminate this risk. May and November are shoulder season and often excellent value."
+  notes: "The dry season from December through April provides the most reliable weather for enjoying the open-wall sanctuaries and the Caribbean Sea views. The wet season (June–October) brings afternoon rain and hurricane risk in the height of the Atlantic hurricane season (August–October), though Jade Mountain's elevated position and St. Lucia's southern location reduce but do not eliminate this risk. May and November are shoulder season and often excellent value."
 nearbyAttractions:
   - name: Piton mountains (UNESCO site)
     distance: Direct view from property
@@ -64,7 +64,7 @@ trending: false
 status: published
 seo:
   metaTitle: "Jade Mountain Resort Review — Piton Views, Soufrière, St. Lucia | StayAtNiche"
-  metaDescription: "Twenty-nine cliffside sanctuaries with no fourth wall, private infinity pools, and direct views of the UNESCO Piton mountains. The most architecturally distinctive resort in the Caribbean. From $1,200/night."
+  metaDescription: "Twenty-nine sanctuaries with no fourth wall, private infinity pools in 24 of them, and direct views of the UNESCO Piton mountains. From $1,200/night."
 affiliateLinks:
   - partner: "expedia"
     url: "https://www.expedia.com/Hotel-Search?destination=Soufriere%2C+St.+Lucia&adults=2"
@@ -87,9 +87,9 @@ niche_source_url: "https://jademountain.com/"
 niche_verified_at: 2026-11-17
 ---
 
-The Pitons are the defining image of St. Lucia: two volcanic plugs rising sheer from the Caribbean Sea south of Soufrière, Gros Piton at 770 metres and Petit Piton at 743 metres, designated a UNESCO World Heritage Site in 2004. Every resort on St. Lucia's south coast is aware of the Pitons. Jade Mountain has built its entire architectural proposition around them, positioning twenty-nine cliff-face sanctuaries so that the fourth wall — the one that would normally enclose the room and separate it from the environment — is entirely absent. The Pitons are in the room.
+The Pitons are the defining image of St. Lucia: two volcanic plugs rising sheer from the Caribbean Sea south of Soufrière, Gros Piton at 770 metres and Petit Piton at 743 metres, designated a UNESCO World Heritage Site in 2004. Every resort on St. Lucia's south coast is aware of the Pitons. Jade Mountain has built its entire architectural proposition around them, positioning twenty-nine sanctuaries so that the fourth wall — the one that would normally enclose the room and separate it from the environment — is entirely absent. The Pitons are in the room.
 
-This is architect Nick Troubetzkoy's design, and it is committed without qualification to a single idea: that the relationship between the guest and this specific landscape should have nothing between them. The infinity pool in each sanctuary begins at the level of the polished wood floors and extends to an edge that drops toward the Caribbean below. The bed faces the open wall. The dining table faces the open wall. Curtains are provided for privacy and rain management, but the default condition of a Jade Mountain sanctuary is one of deliberate exposure to the panorama. The Pitons at sunrise, turning from dark green to gold as the light finds them across the water, visible from the pillow at five in the morning, are the point of the exercise.
+This is architect Nick Troubetzkoy's design, and it is committed without qualification to a single idea: that the relationship between the guest and this specific landscape should have nothing between them. In the 24 sanctuaries with private infinity pools, the pool merges with the bedroom and living area and extends toward the Caribbean; the five Sky sanctuaries have a whirlpool bath for two instead. The bed faces the open wall. The dining table faces the open wall. Curtains are provided for privacy and rain management, but the default condition of a Jade Mountain sanctuary is one of deliberate exposure to the panorama. The Pitons at sunrise, turning from dark green to gold as the light finds them across the water, visible from the pillow at five in the morning, are the point of the exercise.
 
 Dining at the Jade Mountain Club takes the same approach to St. Lucia's agricultural heritage that the architecture takes to its landscape: the restaurant builds its menus around the island's volcanic soil productivity, with locally grown cacao, cocoa tea, breadfruit, dasheen, and fishing boat catches from the Soufrière waterfront. The cooking is sophisticated and specifically West Indian rather than generic Caribbean resort cuisine. The wine list is serious and the service attentive without formality.
 

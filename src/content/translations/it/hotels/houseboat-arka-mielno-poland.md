@@ -21,7 +21,7 @@ seo:
   metaDescription: "Houseboat Arka a Mielno, sul Baltico polacco: casa galleggiante autonoma con due camere, terrazza sul tetto, vista sul lago Jamno e spiaggia a 200 m."
 ---
 
-Houseboat «Arka» è una casa galleggiante in affitto per vacanze a Mielno, sulla costa baltica polacca, ormeggiata tra il lago Jamno e il mare. Il gestore, Domki na Wodzie, propone case sull'acqua, paragonate a camper sull'acqua, con gli stessi vantaggi e svantaggi.
+Houseboat «Arka» è una casa galleggiante in affitto per vacanze a Mielno, sulla costa baltica polacca, ormeggiata nell'area di un campeggio situato tra il lago Jamno e il mare. Il gestore, Domki na Wodzie, propone case sull'acqua, paragonate a camper sull'acqua, con gli stessi vantaggi e svantaggi.
 
 ## L'imbarcazione
 
@@ -33,6 +33,6 @@ Il terreno dista soltanto circa 200 m dal Mar Baltico e dalla sua spiaggia, e la
 
 ## Informazioni pratiche
 
-La casa galleggiante si trova in un campeggio, il che significa un'atmosfera rilassata da villaggio vacanze più che un ormeggio privato e silenzioso.
+La casa galleggiante si trova in un campeggio, il che significa un'atmosfera rilassata da villaggio vacanze più che un ormeggio privato e silenzioso. Il sito del gestore presenta due barche, Arka I e Arka II: verifica quindi quale unità stai prenotando. Le barche sono ormeggiate nell'area del campeggio, quindi si tratta di una casa vacanze su un ormeggio da campeggio e non di una crociera in acque aperte.
 
 L'Arka è adatta a famiglie e coppie che cercano una vacanza al mare diversa, con un lago da una parte e il mare dall'altra. Prima di prenotare, chiedi al gestore informazioni su stagione, condizioni di prenotazione e cosa è incluso. L'angolo cottura permette di cucinare da sé, e le due camere da letto offrono spazio a una famiglia o a due coppie.

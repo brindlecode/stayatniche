@@ -31,7 +31,7 @@ Castello Fai est un château restauré au cœur du centre historique de Fai dell
 
 L'idée est de profiter du cachet d'un lieu historique sans renoncer au confort moderne. Les équipements annoncés comprennent l'ambiance historique, l'isolation thermique, une cuisine équipée, l'internet 1 Gbit/s, le chauffage au sol, l'éclairage LED, la télévision numérique et une sonorisation multiroom. La cuisine est équipée de vaisselle et d'électroménager, et l'appartement dispose d'un jardin privé ainsi que de domotique. Pour le Castello Fai et la Residenza delle Contesse, un lit d'enfant supplémentaire pour les enfants jusqu'à trois ans et une chaise haute sont mis à disposition.
 
-La journée commence par l'ouverture des volets sur une vue, au-delà des remparts et des prairies, vers la silhouette de la Paganella. L'exploitant propose également d'autres logements de vacances : la Residenza delle Contesse et la Torre del Baron.
+La journée commence par l'ouverture des volets sur une vue, au-delà des remparts et des prairies, vers la silhouette de la Paganella. L'appartement Castello Fai, qui accueille jusqu'à huit personnes, est composé des appartements Torre del Baron et Residenza delle Contesse, que l'exploitant propose aussi séparément.
 
 ## Le cadre
 

@@ -4,7 +4,7 @@ category: "treehouse-hotels"
 destination: "Kaikōura"
 country: "New Zealand"
 continent: "Oceania"
-description: "Five tree house suites perched 8 metres above a native manuka grove on a working deer farm, with the snow-dusted Kaikōura Ranges to the west and the South Pacific to the east. One of the few properties in New Zealand where you can watch sperm whales from a boat in the morning and eat venison from the farm at dinner."
+description: "Tree houses elevated 10 metres in the canopy of native kānuka and pūriri trees on a working deer farm, with the snow-dusted Kaikōura Ranges to the west and the South Pacific to the east. One of the few properties in New Zealand where you can watch sperm whales from a boat in the morning and eat venison from the farm at dinner."
 coverImage: "/images/hotels/hapuku-lodge-new-zealand.jpg"
 gallery:
   - "/images/hotels/hapuku-lodge-new-zealand-1.jpg"
@@ -13,7 +13,7 @@ gallery:
 priceRange: "$550 - $850"
 priceIndicator: 4
 highlights:
-  - "Tree houses perched 8 meters above native manuka grove"
+  - "Tree houses elevated 10 m in the canopy of native kānuka and pūriri trees"
   - "Panoramic views of Kaikōura Ranges and the Pacific"
   - "On-site deer farm and organic kitchen garden"
   - "Whale watching, dolphin swimming, and seal colonies nearby"
@@ -80,7 +80,7 @@ status: "published"
 publishedDate: 2025-01-28
 seo:
   metaTitle: "Hapuku Lodge & Tree Houses Review, Luxury Treehouses in Kaikōura, New Zealand"
-  metaDescription: "Perched 8 meters above native manuka with views of the Kaikōura Ranges and the Pacific, Hapuku Lodge offers New Zealand's most spectacular luxury treehouse experience."
+  metaDescription: "Elevated 10 m in the canopy of native kānuka and pūriri trees, with views of the Kaikōura Ranges and the Pacific: the tree houses at Hapuku Lodge, Kaikōura."
 affiliateLinks:
   - partner: "expedia"
     url: "https://www.expedia.com/Hotel-Search?destination=Kaik%C5%8Dura%2C%20New%20Zealand&adults=2"
@@ -103,15 +103,15 @@ niche_source_url: "https://www.hapukulodge.com/stay/tree-houses/"
 niche_verified_at: 2026-11-17
 ---
 
-The view from the deck of a Hapuku tree house is almost unfairly beautiful. To the west, the Kaikōura Ranges rise sharply from the flat coastal plain, their upper ridges carrying snow for much of the year. To the east, the South Pacific stretches uninterrupted to the horizon. Beneath you, eight meters below, native manuka trees sway in the sea breeze, their silver-green leaves catching the afternoon light. It is the kind of view that makes you question why you ever sleep at ground level.
+The view from the deck of a Hapuku tree house is almost unfairly beautiful. To the west, the Kaikōura Ranges rise sharply from the flat coastal plain, their upper ridges carrying snow for much of the year. To the east, the South Pacific stretches uninterrupted to the horizon. Around you, the canopy of native kānuka and pūriri trees sways in the sea breeze, its leaves catching the afternoon light. It is the kind of view that makes you question why you ever sleep at ground level.
 
-Hapuku Lodge has been a family project since it opened in 2003, built on a working deer farm that has been in the same family for generations. The five tree houses were added later, becoming the centerpiece of what is now one of New Zealand's most admired boutique properties. That family ownership shows in every detail, from the hand-chosen furnishings to the kitchen garden where the chef picks salad greens each morning.
+Hapuku Lodge has been a family project since it opened in 2003, built on a working deer farm that has been in the same family for generations. The tree houses were added later, becoming the centerpiece of what is now one of New Zealand's most admired boutique properties. That family ownership shows in every detail, from the hand-chosen furnishings to the kitchen garden where the chef picks salad greens each morning.
 
 **The Tree Houses**
 
-Each of the five tree houses is a generous, thoughtfully appointed suite. The architecture is clean-lined and contemporary, lots of glass, natural timber, and crisp white linens, but the real design statement is always the view. Floor-to-ceiling windows frame the mountains and ocean in equal measure, and the private balcony is precisely positioned to make the most of both. Under-floor heating keeps the rooms warm even when wind whips in off the Pacific, and the bathrooms are full hotel standard, not the afterthought you sometimes find in alternative accommodation.
+The tree houses are generous, thoughtfully appointed suites, offered as a One-Bedroom Tree House elevated 10 metres in the canopy and a Two Storey Family Tree House. The architecture is clean-lined and contemporary, lots of glass, natural timber, and crisp white linens, but the real design statement is always the view. Floor-to-ceiling windows frame the mountains and ocean in equal measure, and the private balcony is precisely positioned to make the most of both. Under-floor heating keeps the rooms warm even when wind whips in off the Pacific, and the bathrooms are full hotel standard, not the afterthought you sometimes find in alternative accommodation.
 
-The tree houses sleep two, making them ideal for couples, though families can book the adjacent main lodge rooms in combination.
+The One-Bedroom Tree House suits couples, with a king bed or twin configuration, while the Two Storey Family Tree House has two ensuite bedrooms, an Upper and a Lower Branch, joined by an internal staircase. The lodge's own rooms are separate from the tree houses.
 
 **Kaikōura's Wildlife**
 

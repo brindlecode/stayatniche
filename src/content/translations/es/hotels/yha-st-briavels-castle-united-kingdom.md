@@ -6,7 +6,7 @@ highlights:
   - "Castillo normando iniciado entre 1075 y 1129, catalogado como Grado I"
   - "Antiguo pabellón de caza del rey Juan"
   - "Albergue juvenil desde 1948, en un edificio propiedad de English Heritage"
-  - "Ocho habitaciones para hasta 50 personas, dos de ellas en la torre este"
+  - "Ocho habitaciones para unas 64 personas en total, tres de ellas en la torre este"
   - "Camas en habitaciones compartidas, habitaciones privadas o el castillo entero"
 amenities:
   - "Cocina de autoservicio"
@@ -34,7 +34,7 @@ St Briavels se construyó entre 1075 y 1129 como centro administrativo real del 
 
 ## Dónde dormir
 
-Hay ocho habitaciones para hasta 50 personas en total, en su mayoría con literas, y algunas camas individuales y dobles bajo camas altas (high sleepers). Las habitaciones admiten de tres a doce personas. Dos de ellas están en la torre este. Puedes reservar una cama en una habitación compartida, una habitación privada o el albergue entero para un grupo. La ropa de cama está incluida; las toallas no, aunque pueden alquilarse.
+Hay ocho habitaciones para unas 64 personas en total, en su mayoría con literas, y algunas camas individuales y dobles bajo camas altas (high sleepers). Las habitaciones admiten de 5 a 14 personas. Tres de ellas están en la torre este, con capacidad para 6, 8 y 10 personas. Puedes reservar una cama en una habitación compartida, una habitación privada o el albergue entero para un grupo. La ropa de cama está incluida; las toallas no, aunque pueden alquilarse.
 
 ## Espacios comunes
 

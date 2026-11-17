@@ -22,6 +22,7 @@ bestFor:
 seo:
   metaTitle: "Killeavy Castle Estate: Schloss in Nordirland | StayAtNiche"
   metaDescription: "Killeavy Castle Estate im Ring of Gullion: Hotel in einer Mühle, denkmalgeschütztes Schloss zur exklusiven Miete, Spa und Ferienresidenzen."
+niche_feature: "Vier Gästezimmer (für bis zu acht Personen) im denkmalgeschützten Schloss aus dem 19. Jahrhundert (Grade A), nur als Ganzes zur exklusiven Miete buchbar; das Hotel mit 45 Zimmern befindet sich in einer umgebauten Mühle und einem ehemaligen Kutscherhaus, die Residenzen mit Selbstversorgung sind getrennt."
 ---
 
 Das Killeavy Castle Estate liegt im Ring of Gullion im County Armagh, inmitten von 365 Acres Farm- und Waldland am Fuß des Slieve Gullion. Bis Newry sind es etwa zehn Minuten, zu den Flughäfen Belfast und Dublin eine Stunde. Das Anwesen bietet drei Arten von Aufenthalt, und nur eine davon ist das Schloss. Es lohnt sich also, vorab genau zu wissen, was man bucht.

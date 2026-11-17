@@ -1,11 +1,11 @@
 ---
 source: corsewall-lighthouse-hotel-scotland
 destination: "Kirkcolm, Dumfries and Galloway"
-description: "Un faro en funcionamiento en la costa de Rhins of Galloway, en Escocia, con once habitaciones, seis de ellas en las antiguas viviendas de los torreros."
+description: "Un hotel de once habitaciones junto a un faro automatizado en la costa de Rhins of Galloway, en Escocia, seis de ellas en las antiguas viviendas de los torreros."
 highlights:
   - "Once habitaciones repartidas entre las antiguas viviendas de los torreros y otros edificios del recinto"
   - "Seis habitaciones en las viviendas originales de los torreros, con los nombres de Fulmar, Galloway, Ailsa, Dunskirkloch, Mull of Kintyre y Firth of Cromarty"
-  - "Faro en funcionamiento en la costa escocesa, con vistas al mar"
+  - "Habitaciones en un faro automatizado de la costa escocesa, con vistas al mar"
   - "Restaurante del hotel en el propio recinto"
 amenities:
   - "Restaurante"
@@ -17,10 +17,11 @@ bestFor:
   - "Grupos pequeños"
 seo:
   metaTitle: "Hoteles en faros Corsewall en Escocia | StayAtNiche"
-  metaDescription: "Corsewall Lighthouse Hotel: once habitaciones, seis en las antiguas viviendas de los torreros de un faro en funcionamiento en la costa escocesa."
+  metaDescription: "Corsewall Lighthouse Hotel: once habitaciones, seis en las antiguas viviendas de los torreros de un faro automatizado en la costa escocesa, con vistas al mar."
+niche_feature: "Seis de las 11 habitaciones (Fulmar, Galloway, Ailsa, Dunskirkloch, Mull of Kintyre, Firth of Cromarty) están en las dependencias originales de los fareros; dos suites y las Stevenson Rooms están en edificios modernos independientes."
 ---
 
-Corsewall Lighthouse Hotel es un faro en funcionamiento en la costa escocesa, y solo una parte del conjunto es el faro propiamente dicho. El hotel tiene once habitaciones en total, repartidas entre las antiguas viviendas de los torreros y otros edificios del recinto, así que la estancia resulta más íntima que grandiosa. El establecimiento asegura haber aparecido en The Times y The Guardian, y su propio lema lo presenta como la estancia costera más notable de Escocia.
+Corsewall Lighthouse Hotel se encuentra en un faro de la costa suroeste de Escocia, automatizado desde 1994 y supervisado por el Northern Lighthouse Board, y solo una parte del hotel ocupa los edificios originales del faro. El hotel tiene once habitaciones en total, repartidas entre las antiguas viviendas de los torreros y otros edificios del recinto, así que la estancia resulta más íntima que grandiosa. El establecimiento asegura haber aparecido en The Times y The Guardian, y su propio lema lo presenta como la estancia costera más notable de Escocia.
 
 ## Las habitaciones
 

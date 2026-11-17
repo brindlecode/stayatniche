@@ -1,7 +1,7 @@
 ---
 source: castello-di-monterone-italy
 destination: "Perugia, Umbría"
-description: "Un castillo restaurado del siglo XIII a tres kilómetros de Perugia, convertido en residencia histórica con dieciocho habitaciones, algunas con frescos originales."
+description: "Un castillo medieval restaurado a tres kilómetros de Perugia, convertido en residencia histórica con dieciocho habitaciones, algunas con frescos originales."
 highlights:
   - "Castillo medieval convertido en residencia histórica (residenza d’epoca)"
   - "Dieciocho habitaciones, cada una con su propia historia"
@@ -15,10 +15,10 @@ bestFor:
   - "Amantes de la historia"
 seo:
   metaTitle: "Castello di Monterone: hotel castillo Perugia | StayAtNiche"
-  metaDescription: "Castello di Monterone, castillo del siglo XIII a tres kilómetros de Perugia: residencia histórica con dieciocho habitaciones y algunas con frescos originales."
+  metaDescription: "Castello di Monterone, castillo medieval a tres kilómetros de Perugia: residencia histórica con dieciocho habitaciones y algunas con frescos originales."
 ---
 
-Castello di Monterone es un pequeño castillo restaurado del siglo XIII en la carretera que une Perugia con Asís pasando por Ponte San Giovanni. Se convirtió en una residenza d'epoca, una residencia histórica, y hoy cuenta con dieciocho habitaciones decoradas en consonancia con su pasado. Se encuentra rodeado de vegetación, a unos tres kilómetros del casco antiguo de Perugia.
+Castello di Monterone es un pequeño castillo medieval restaurado en la carretera que une Perugia con Asís pasando por Ponte San Giovanni. Se convirtió en una residenza d'epoca, una residencia histórica, y hoy cuenta con dieciocho habitaciones decoradas en consonancia con su pasado. Se encuentra rodeado de vegetación, a unos tres kilómetros del casco antiguo de Perugia. Según la página de historia del castillo, el edificio se remonta al menos al siglo XI, ya que un edificio en Monterone aparece en un documento del 18 de enero de 1200 conservado en el Archivo de Estado de Perugia.
 
 ## Las habitaciones
 

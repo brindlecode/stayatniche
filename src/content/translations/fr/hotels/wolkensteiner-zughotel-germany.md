@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Wolkensteiner Zughotel : hôtel dans un train | StayAtNiche"
   metaDescription: "Wolkensteiner Zughotel à Wolkenstein, en Saxe : compartiments de wagon-lit, appartements dans des wagons, restaurant en wagon-salon et 54 couchages."
+niche_feature: "Les hôtes dorment dans les compartiments d'origine de voitures-lits (10 compartiments, 1re et 2e classe, compartiment gouvernemental, deux suites) et dans cinq wagons-appartements de vacances « Ferienzug » ; deux appartements de vacances se trouvent dans le bâtiment de la gare de 1865 (chambres ordinaires). 54 couchages au total."
 ---
 
 Le Wolkensteiner Zughotel est un hôtel composé de voitures de chemin de fer, situé dans la petite ville de Wolkenstein, dans les monts Métallifères, en Saxe, entre Marienberg et Annaberg-Buchholz. Il se trouve à l'adresse Am Bahnsteig 10, directement sur la B101, au pied du château de Wolkenstein, dans la vallée de la Zschopau. Il se présente comme le seul hôtel-train d'Allemagne où l'on peut à la fois dormir et goûter à la cuisine traditionnelle des monts Métallifères.

@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Torrisdale Castle: Schloss in Schottland | StayAtNiche"
   metaDescription: "Torrisdale Castle Estate auf Kintyre: Selbstversorger-Apartment im Schloss von 1815, zwei Cottages, zwei Eco-Bothies und Destillerie nahe Torrisdale Bay."
+niche_feature: "Nur The Servants' Quarters (für 6 Personen, drei Schlafzimmer) liegen im neugotischen Schloss von 1815; die beiden Cottages und die zwei Öko-Bothies an anderer Stelle des Anwesens befinden sich nicht im Schloss."
 ---
 
 Torrisdale Castle Estate ist ein kleines, familiengeführtes Anwesen auf der Halbinsel Kintyre in Argyll. Mit dem Bau des Schlosses begann 1815 General Keith Macalister, der dafür den führenden Architekten des schottischen Gotikstils, James Gillespie Graham, verpflichtete. Errichtet wurde es aus Sandstein aus Wigtownshire; es erhielt drei Stockwerke und wurde 1903 und 1908 nach Norden und Süden erweitert, woraus das heutige Gebäude entstand.

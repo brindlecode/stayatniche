@@ -1,12 +1,12 @@
 ---
 source: floating-seahorse-dubai
 destination: The World Islands, Dubai
-description: "Half ondergedompelde drijvende villa's in de archipel The World Islands, elk met een slaapkamer 3 meter onder het oppervlak van de Perzische Golf en een eigen koraalrif dat bij de bouw is aangelegd – met 's nachts de skyline van Dubai in zicht vanaf het dakterras."
+description: "Drijvende villa's bij The World Islands in Dubai, verdeeld over een onderwater-, zee- en hemelniveau, met een aan de buitenkant bevestigde koraaltuin en uitzicht op de skyline van Dubai."
 highlights:
   - Half ondergedompelde slaapkamer onder water
   - Eigen zonnedek op het dak met 360° uitzicht over zee
   - Koraalrif onder elke villa
-  - Butlerservice met eigen speedboot
+  - "De meeste villa's zijn via loopbruggen verbonden met het hartvormige Honeymoon Island"
   - Eigen hangmat boven het water en glijbaan
   - Directe toegang tot het kunstmatige rif om te snorkelen
 amenities:
@@ -22,13 +22,13 @@ bestFor:
   - Huwelijksreizigers
 prosAndCons:
   pros:
-    - De slaapkamer onder water is volkomen uniek
-    - Volledige privacy op je eigen eiland
+    - "Onderwaterniveau met glazen wanden van vloer tot plafond met zicht op een koraaltuin"
+    - "Afgezonderd eilandleven met een gemeenschapsgevoel"
     - "'s Nachts uitzicht op de skyline van Dubai"
     - Het kunstmatige koraalrif vormt een leefgebied voor zeedieren
   cons:
     - Erg duur
-    - Door de afgelegen ligging heb je een boottransfer nodig
+    - "Vooral verkocht als privéwoningen en tweede huizen; boeken zoals bij een hotel niet bevestigd"
     - Buiten de villa weinig eetgelegenheden in de buurt
 seasonalInfo:
   bestTime: Oktober tot mei
@@ -41,15 +41,15 @@ nearbyAttractions:
     distance: "20 min met de auto vanaf de jachthaven"
 seo:
   metaTitle: "Floating Seahorse Dubai: onderwatervilla | StayAtNiche"
-  metaDescription: "Slapen 3 meter onder de Perzische Golf in de Floating Seahorse-villa's van Dubai: half ondergedompelde luxe met eigen koraalrif en dakterras."
+  metaDescription: "Floating Seahorse-villa's bij The World Islands in Dubai: drie niveaus met onderwaterverdieping, koraaltuin, jacuzzi en uitzicht op de skyline."
 ---
 
-Dubai heeft nooit uitgeblonken in ingetogenheid, en The Floating Seahorse past helemaal in die traditie. Deze half ondergedompelde villa's liggen bij The World Islands – een kunstmatige archipel in de vorm van een wereldkaart – en reiken drie meter onder het oppervlak van de Perzische Golf.
+Dubai heeft nooit uitgeblonken in ingetogenheid, en The Floating Seahorse past helemaal in die traditie. Deze villa's drijven bij The World Islands – een kunstmatige archipel in de vorm van een wereldkaart – en zijn verdeeld over drie niveaus: onderwater, zee en hemel.
 
-De bovenste verdiepingen zijn vertrouwde luxe: een zonnedek op het dak, een hangmat boven het water, een woonkamer met aan alle kanten zeezicht. Daal de wenteltrap af en de toon verandert. De slaapkamer ligt volledig onder water, omringd door panoramaramen waardoor je voortdurend de bewoners van je eigen koraalrif ziet.
+De bovenste niveaus zijn vertrouwde luxe: een terras op zeeniveau met een hangmat boven het water, een volledig ingerichte keuken en op het hemelniveau een plafond met lichtkoepel, een jacuzzi, een eethoek en ruimte om te zonnen. Het onderste niveau verandert de toon: glazen wanden van vloer tot plafond kijken uit op de koraaltuin van de villa, en de ondergedompelde ruimtes kunnen als slaapkamer of extra woonruimte worden gebruikt.
 
-Bij elke villa werd tijdens de bouw een koraaltuin op de zeebodem aangelegd. De riffen zijn inmiddels uitgegroeid tot functionerende ecosystemen. Overdag scharrelen keizersvissen en papegaaivissen langs het koraal; af en toe zwemt er op beleefde afstand een rifhaai voorbij. Het is er niet zo druk als in een Maldivische lagune, maar dat het er überhaupt is – gekweekt onder een drijvende villa bij een kunstmatig eiland voor een woestijnstad – zegt iets over hoe ver menselijke ambitie en de juiste mariene omstandigheden kunnen reiken.
+Elke villa heeft aan de buitenkant een koraaltuin, aangelegd door mariene biologen en aquarianen van het Marine Life Sciences Centre om koraalgroei te stimuleren en zeeleven aan te trekken, met een nachtlamp boven de tuinen zodat het rif ook in het donker te zien is. De fotogalerij van The National toont clownvissen, babyhaaien en een tapijthaai, gezien vanuit de villa's.
 
-'s Nachts wordt het dakterras een van de meest theatrale buitenruimtes van het emiraat. De lichtshow van de Burj Khalifa is aan de horizon te zien, en de rest van de verlichte contouren van Dubai strekt zich in beide richtingen uit over het water. Hier is het enige geluid het water van de Golf tegen de romp. De energie van de stad klinkt alleen als een heel ver gezoem.
+Vanuit de villa's heb je uitzicht op de skyline van Dubai, met glimpen van de Burj Khalifa.
 
-The Floating Seahorse is alleen per privéspeedboot bereikbaar. Kleindienst Group verzorgt de transfers en een eigen conciërge; een privékok kun je voor aankomst regelen.
+Volgens The National zijn de meeste villa's via loopbruggen verbonden met het hartvormige Honeymoon Island, waar een door Portofino geïnspireerd hotel moet komen. De oplevering begon eind 2020 en de villa's zijn verkocht als privéwoningen en tweede huizen (131 van de 133 in juni 2021); controleer dus hoe een verblijf wordt geregeld voordat je gaat plannen.

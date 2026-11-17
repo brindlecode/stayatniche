@@ -1,10 +1,10 @@
 ---
 source: ethie-castle-united-kingdom
 destination: "Inverkeilor, vicino ad Arbroath, Angus"
-description: "Un castello del XIV secolo di circa 1.400 metri quadrati sulla costa di Angus, vicino ad Arbroath, disponibile in affitto dall'estate 2024 con una serie di suite dal nome proprio."
+description: "Un castello del XIV secolo di circa 1.400 metri quadrati sulla costa di Angus, vicino ad Arbroath, offerto per soggiorni e per uso esclusivo, con quattordici suite dal nome proprio."
 highlights:
   - "Castello del XIV secolo di circa 1.400 m² vicino ad Arbroath"
-  - "Disponibile in affitto dall'estate 2024"
+  - "Quattordici suite con nome, soggiorno minimo di tre notti"
   - "Suite intitolate ad ammiragli, navi e personaggi storici"
   - "Piccola cappella e il Cardinal's Sitting Room con scala segreta"
   - "Sport e passatempi di campagna, dalla falconeria alla pesca al salmone"
@@ -22,7 +22,7 @@ seo:
   metaDescription: "Ethie Castle a Inverkeilor, vicino ad Arbroath: castello del XIV secolo sulla costa di Angus, con suite dal nome di ammiragli e personaggi storici."
 ---
 
-Ethie Castle sorge a Inverkeilor, circa cinque chilometri a nord della località di pescatori di Arbroath, sulla costa di Angus. È un castello del XIV secolo di circa 1.400 metri quadrati, disponibile in affitto dall'estate 2024.
+Ethie Castle sorge a Inverkeilor, circa cinque chilometri a nord della località di pescatori di Arbroath, sulla costa di Angus. È un castello del XIV secolo di circa 1.400 metri quadrati, offerto per soggiorni, da quelli con servizio di ristorazione parziale all'uso completamente esclusivo, con un soggiorno minimo di tre notti. L'attuale proprietario lo ha acquistato nel novembre 2013, lo ha arredato stanza per stanza e lo ha aperto agli ospiti.
 
 ## Il castello
 
@@ -32,7 +32,7 @@ Il restauro ha conservato il carattere dell'edificio. Ali, torri, torrette e fro
 
 ## Le suite
 
-Gli ospiti dormono in una serie di suite dal nome proprio. I nomi richiamano la storia navale e quella di personaggi illustri: Admiral Nelson, Trafalgar, Napoleon, HMS Victory, HMS Britannia, Admiral Collingwood, Sir Walter Scott e, tra le altre, l'Antiquary Suite. Chiedi al castello quale suite si adatta meglio al tuo gruppo, perché ogni camera ha un carattere proprio.
+Gli ospiti dormono in una delle quattordici suite dal nome proprio. I nomi richiamano la storia navale e quella di personaggi illustri: Admiral Nelson, Trafalgar, Napoleon, HMS Victory, HMS Britannia, Admiral Collingwood, Sir Walter Scott e, tra le altre, l'Antiquary Suite. Chiedi al castello quale suite si adatta meglio al tuo gruppo, perché ogni camera ha un carattere proprio. Un appartamento attiguo con due camere da letto ha bagno, cucina, soggiorno e ingresso separato.
 
 ## Attività
 

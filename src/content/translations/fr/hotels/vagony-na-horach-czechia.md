@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Dormir dans un wagon en Tchéquie | StayAtNiche"
   metaDescription: "Anciens wagons de chemin de fer aménagés en studios isolés à la gare de Kovářská, dans les monts Métallifères, à 850 mètres d'altitude, avec cuisine."
+niche_feature: "Quatre wagons de chemin de fer retirés du service (Alois, Fanynka, Lesní, Přednostův) sur la quatrième voie désaffectée de la gare de Kovářská, aménagés en studios isolés. Un cinquième hébergement, Vechtrovna, est une ancienne maison de cantonnier, et non un wagon."
 ---
 
 À Kovářská, une petite gare située sur la crête des monts Métallifères, quelques wagons de chemin de fer désaffectés stationnent sur la quatrième voie inutilisée et servent aujourd'hui de lieux de couchage. La gare se trouve à 850 mètres d'altitude, entourée de forêt, et les propriétaires décrivent le séjour comme un brin de romantisme ferroviaire en montagne.

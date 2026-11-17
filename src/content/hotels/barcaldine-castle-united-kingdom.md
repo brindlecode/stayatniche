@@ -3,10 +3,10 @@ name: "Barcaldine Castle"
 category: castle-hotels
 destination: "Benderloch, near Oban, Argyll and Bute, Scotland"
 country: "United Kingdom"
-description: "A tower house built between 1601 and 1609 on the shore of Loch Creran, north of Oban, now a bed and breakfast that can also be taken for exclusive use."
+description: "An early 17th-century tower house, completed by 1609, on the shore of Loch Creran, north of Oban, now a bed and breakfast that can also be taken for exclusive use."
 priceRange: "Rates vary"
 highlights:
-  - "The 'Black Castle', built 1601 to 1609 by Sir Duncan Campbell of Glenorchy"
+  - "The 'Black Castle', built by Sir Duncan Campbell of Glenorchy and completed by 1609"
   - "Walls about 9 feet thick, two secret stairs and a dungeon"
   - "The original iron yett still guards the entrance"
   - "On the south shore of Loch Creran, looking to the Glencoe mountains"
@@ -49,7 +49,7 @@ Barcaldine Castle is a small Scottish tower house that you can sleep in. It stan
 
 ## The castle
 
-Sir Duncan Campbell of Glenorchy, known as Black Duncan, built the castle between 1601 and 1609 as a military outpost, and it is still called the Black Castle. It follows the L plan common to tower houses of the period. The walls are about nine feet thick and built of local stone, and the castle keeps two secret stairs, a dungeon and the original yett, the iron gate that protected the door.
+Sir Duncan Campbell of Glenorchy, known as Black Duncan, built the castle as a military outpost, completing it by 1609 (the castle's own pages give the start as 1590 on one page and 1601 on another), and it is still called the Black Castle. It follows the L plan common to tower houses of the period. The walls are about nine feet thick and built of local stone, and the castle keeps two secret stairs, a dungeon and the original yett, the iron gate that protected the door.
 
 The Campbells of Barcaldine left in 1735 for a new mansion in the village, and the castle decayed until Sir Duncan Campbell restored it between 1897 and 1906. The outer stonework is original; the turrets and the interior from the great hall upwards date from that restoration. The family sold the castle in 2009 to its present owner.
 

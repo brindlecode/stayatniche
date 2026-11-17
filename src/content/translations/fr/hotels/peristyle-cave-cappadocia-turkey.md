@@ -19,13 +19,14 @@ bestFor:
 seo:
   metaTitle: "Peristyle Cave Cappadocia : hôtel troglodyte | StayAtNiche"
   metaDescription: "Peristyle Cave Cappadocia à Uçhisar : huit chambres dont cinq troglodytes, terrasse face aux montgolfières du matin, petit-déjeuner et excursions."
+niche_feature: "8 chambres au total : cinq chambres troglodytes et trois chambres en pierre, chacune portant le nom d'une planète."
 ---
 
-Peristyle Cave Cappadocia est un petit hôtel perché à Uçhisar, sous le château qui dessine la silhouette du village. Il compte huit chambres au total : cinq troglodytes et trois en pierre. Il s’agit donc d’un séjour où la plupart des chambres, sans toutes, sont taillées dans la roche.
+Peristyle Cave Cappadocia est un petit hôtel perché à Uçhisar, sous le château qui dessine la silhouette du village. Il compte huit chambres au total : cinq troglodytes et trois en pierre. Il s’agit donc d’un séjour où la plupart des chambres, sans toutes, sont des chambres troglodytes.
 
 ## Les chambres
 
-Les chambres portent le nom des planètes : Uranus, Mars, Jupiter, Saturn, Neptune, Mercury, Earth et Venus. Si vous voulez une chambre troglodyte en particulier, interrogez l’hôtel au moment de la réservation.
+Les chambres portent le nom des planètes : Uranus, Mars, Jupiter, Saturn, Neptune, Mercury, Earth et Venus. Le site n’indique pas lesquelles sont les chambres troglodytes et lesquelles sont en pierre ; si vous voulez une chambre troglodyte en particulier, interrogez l’hôtel au moment de la réservation.
 
 ## Le cadre
 

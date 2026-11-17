@@ -1,0 +1,205 @@
+[
+ {
+  "slug": "lapa-rios-costa-rica",
+  "issue": "'Bungalows elevated in the rainforest canopy' not stated: official says Lapa Villas are perched above the canopy, no stilts or tree structure mentioned",
+  "action": "corrected",
+  "detail": "Official: four stand-alone Lapa Villas 'perched above the rainforest canopy' with floor-to-ceiling screened walls opening to a wraparound deck. Replaced 'bungalows elevated in the canopy' and 'elevated structures on wooden stilts' with 'four stand-alone Lapa Villas perched above the canopy' (description, highlights, amenity, body) in EN + 5 translations; removed stilts and gauze-screening claims.",
+  "source_url": "https://www.laparios.com/lapa-villa/"
+ },
+ {
+  "slug": "lapa-rios-costa-rica",
+  "issue": "Wildlife list (jaguars, four monkey species) not confirmed on official pages read",
+  "action": "deleted",
+  "detail": "Official site lists scarlet macaws, 'endangered monkeys', sloths and 300+ bird species only. Removed jaguars, 'four species of monkey', the named four monkeys and tapir/peccary/coati/jaguar-or-puma tracks; replaced by the official's list (macaws, monkeys, sloths, 300+ birds). Highlights and meta descriptions updated in all languages.",
+  "source_url": "https://www.laparios.com/about-us/"
+ },
+ {
+  "slug": "lapa-rios-costa-rica",
+  "issue": "Not a treehouse stay",
+  "action": "skipped_not_text",
+  "detail": "Category framing, not a text fix (page text itself no longer claims canopy stilts/treehouse structure).",
+  "source_url": null
+ },
+ {
+  "slug": "pezulu-tree-house-lodge-south-africa",
+  "issue": "Not every unit is a treehouse: Zebrawood is a self-catering ground bush cabin",
+  "action": "corrected",
+  "detail": "Official tree-houses page lists ZEBRAWOOD as 'A Charming self-catering Bush Cabin cocooned by the African bush'. Body sentence now says accommodation is mostly treehouses, exception Zebrawood self-catering bush cabin (EN + 5 translations). 'Ground-level' not stated by source, so not claimed.",
+  "source_url": "https://pezulu.co.za/welcome/tree-houses/"
+ },
+ {
+  "slug": "robles-treehouse-lodge-peru",
+  "issue": "'Raised above the jungle floor in the treehouse style' only partly supported; official text says 'elevated treehouse-style' with no detail on trees or stilts",
+  "action": "corrected",
+  "detail": "Removed 'raised above the jungle floor'; highlight and body now say ten private bungalows described by the operator as elevated and treehouse-style (EN + 5 translations).",
+  "source_url": "https://www.manurainforestperu.com/robles-tree-house.php"
+ },
+ {
+  "slug": "robles-treehouse-lodge-peru",
+  "issue": "Booking link points to Expedia, official lodge is part of a tour operator programme",
+  "action": "skipped_not_text",
+  "detail": "bookingUrl is a protected field; not edited. Body already says the lodge is part of a tour operator's programme.",
+  "source_url": null
+ },
+ {
+  "slug": "transfagarasan-treehouse-village-romania",
+  "issue": "'Arefu' not stated by official site (it gives Transfagarasan DN7C km 75, Curtea de Arges)",
+  "action": "not_fixed",
+  "detail": "Removed 'near Arefu' from body and meta descriptions in all 6 languages (now: Transfagarasan road, DN7C km 75, Fagaras mountains; official about-us page). The frontmatter destination 'Arefu, Arges County' (and translations) is a protected field and was left unchanged; it still names Arefu.",
+  "source_url": "https://transfagarasantreehousevillage.com/en/about-us/"
+ },
+ {
+  "slug": "transfagarasan-treehouse-village-romania",
+  "issue": "Structure details beyond 'suspended in trees' not provided",
+  "action": "deleted",
+  "detail": "Removed 'You wake in the canopy, with the mountain landscape around you'; now says in the middle of the forest in the heart of the Fagaras mountains (EN + 5 translations). Remaining text only says houses suspended in trees.",
+  "source_url": "https://transfagarasantreehousevillage.com/en/about-us/"
+ },
+ {
+  "slug": "treehotel-sweden",
+  "issue": "Page says seven rooms; official site lists nine treerooms plus a six-room Guesthouse",
+  "action": "corrected",
+  "detail": "Official treerooms page lists nine treerooms (Mirrorcube, UFO, Bird's nest, The Cabin, 7th Room, Dragonfly, Biosphere, Blue Cone, Oasis) plus Guesthouse. Changed seven to nine in description, highlight, meta and body; dropped 'seven architects each given a pine' (unsupported); body lists all nine and notes the Guesthouse is not a treehouse. Guesthouse room count not added (not verified).",
+  "source_url": "https://treehotel.se/treerooms/"
+ },
+ {
+  "slug": "treehotel-sweden",
+  "issue": "'One of the most inventive places to sleep in Europe' is a superlative",
+  "action": "deleted",
+  "detail": "Sentence removed from description in all languages. Also removed 'most photographed hotel rooms in the world' from body.",
+  "source_url": null
+ },
+ {
+  "slug": "treehotel-sweden",
+  "issue": "'Sixty kilometres south of the Arctic Circle' not on official pages",
+  "action": "corrected",
+  "detail": "Wikipedia (Harads) says Harads is approximately 50 km south of the Arctic Circle. Removed the 60 km claim from description and meta (it) and body now says the village of Harads lies roughly 50 km south of the Arctic Circle (EN + 5 translations).",
+  "source_url": "https://en.wikipedia.org/wiki/Harads"
+ },
+ {
+  "slug": "anantara-maldives-underwater",
+  "issue": "Glass floors above living reef not confirmed by any source reached",
+  "action": "deleted",
+  "detail": "No source confirms glass floors above reef (The National review mentions only a glass-bottomed bathtub). Removed glass-floor claims from description, highlight, amenity, meta and body; villa paragraph now says overwater villas each have a private pool and house reef is steps away (The National). Also dropped unsourced '270-degree' (no source found) in the rewritten sentences. All 6 languages.",
+  "source_url": "https://www.thenationalnews.com/travel/2025/10/10/anantara-kihavah-maldives-review/"
+ },
+ {
+  "slug": "anantara-maldives-underwater",
+  "issue": "SEA depth given as 5 m; sources say about 6 m (nearly 20 ft)",
+  "action": "corrected",
+  "detail": "Changed 5 m to about 6 m in description, highlights, meta, body (EN + 5 translations); also removed 'circular in layout' (one source says octagonal).",
+  "source_url": "https://hoteliermaldives.com/anantara-kihavah-introduces-maldives-first-immersive-underwater-dining-experience/"
+ },
+ {
+  "slug": "anantara-maldives-underwater",
+  "issue": "'Most distinctive dinner in the Maldives' is a superlative",
+  "action": "deleted",
+  "detail": "Removed from description in all languages (also 'acclaimed' in highlight).",
+  "source_url": null
+ },
+ {
+  "slug": "anantara-maldives-underwater",
+  "issue": "Not underwater rooms: restaurant only",
+  "action": "skipped_not_text",
+  "detail": "Category framing; page text already describes SEA as a restaurant and no longer claims glass-floor rooms.",
+  "source_url": null
+ },
+ {
+  "slug": "conrad-maldives-muraka",
+  "issue": "Only the master bedroom is underwater; the other two bedrooms are above water",
+  "action": "corrected",
+  "detail": "Official: 3 bedrooms (2 above water, 1 underwater master suite) with underwater bathroom, 180-degree acrylic dome, over 16 feet below sea level. Description, highlights, amenity and body rewritten: upper level has two ensuite bedrooms and living areas; only the master bedroom suite (with bathroom) is underwater; 'acrylic on all sides' replaced by 180-degree dome (EN + 5 translations).",
+  "source_url": "https://www.conradmaldives.com/villa/the-muraka/"
+ },
+ {
+  "slug": "conrad-maldives-muraka",
+  "issue": "Muraka currently closed for renovation, reopening 15 December 2026",
+  "action": "skipped_not_text",
+  "detail": "Closure/status framing, not a text fix; closure field not touched. Official page confirms 'available again from 15 December 2026'.",
+  "source_url": "https://www.conradmaldives.com/villa/the-muraka/"
+ },
+ {
+  "slug": "conrad-maldives-muraka",
+  "issue": "'Only two-story underwater suite in the world' is a superlative; official says 'world's first'",
+  "action": "corrected",
+  "detail": "Replaced 'world's only two-story underwater hotel suite', 'Only two-story underwater suite in the world' and 'most extraordinary hotel room on the planet' with the resort's own 'world's first undersea residence' wording (attributed to the resort), in all languages. Also changed 'five years of development' to the official's 'four years of engineering innovation' and dropped the unsourced 2019/never-attempted claim.",
+  "source_url": "https://www.conradmaldives.com/villa/the-muraka/"
+ },
+ {
+  "slug": "jules-undersea-lodge-florida",
+  "issue": "No longer a hotel or 'lodge': official site says it has been 'an exclusive hotel, and now an educational attraction'; renamed Jules' Undersea Lab",
+  "action": "corrected",
+  "detail": "Text now says the site is run by non-profit MarineLab as Jules' Undersea Lab (formerly the lodge), previously a research station and exclusive hotel, now an educational attraction; removed 'only hotel on Earth', 'world's only true underwater hotel', 'first and longest-operating underwater hotel', 'converted in 1986' claims. name and category fields untouched (protected), so the listing still carries the Lodge name/category.",
+  "source_url": "https://www.marinelabunderseapark.org/jules"
+ },
+ {
+  "slug": "jules-undersea-lodge-florida",
+  "issue": "Stay is a 24-hour Aquanaut Mission, minimum two participants",
+  "action": "corrected",
+  "detail": "Added that the stay is a 24-hour Aquanaut Mission and that divers must take part with a buddy (cannot book alone, per FAQ); depth corrected to 22 feet (about 6.7 m) from the official page. Also corrected amenities contradicted by the source: scuba gear is not included (tanks, weights, three meals are), and 'unlimited diving' replaced by guided excursion dives. Meta descriptions/titles updated.",
+  "source_url": "https://www.marinelabunderseapark.org/jules"
+ },
+ {
+  "slug": "jules-undersea-lodge-florida",
+  "issue": "Open Water certification (or accompanying instructor) required; 3-hour mini course claim not supported",
+  "action": "corrected",
+  "detail": "Replaced the three-hour mini course / orientation claim with the official requirement: at least Open Water certification, Open Water or Discover Scuba students only with their instructor (highlight and body, all languages). The official 3-hour item is a separate guided tour, not a course.",
+  "source_url": "https://www.marinelabunderseapark.org/jules"
+ },
+ {
+  "slug": "jules-undersea-lodge-florida",
+  "issue": "'World's only true underwater hotel' superlative",
+  "action": "deleted",
+  "detail": "Removed from highlights, description, body and metas; the operators' own phrasing ('world's only underwater habitat where any recreational diver can live, learn and sleep underwater') is attributed to them in the body.",
+  "source_url": "https://www.marinelabunderseapark.org/jules"
+ },
+ {
+  "slug": "manta-resort-zanzibar",
+  "issue": "Official page does not mention a live-aboard host or private chef; unsupported",
+  "action": "deleted",
+  "detail": "Official: stocked bar fridge and curated meals delivered by boat, personal concierge team, snorkelling gear, mobile phone to reach staff. Removed live-aboard host/private chef/galley kitchen/kayak/sunset cocktails (amenities, pros, body) and replaced with the sourced items (EN + 5 translations).",
+  "source_url": "https://themantaresort.com/underwater-room/"
+ },
+ {
+  "slug": "manta-resort-zanzibar",
+  "issue": "Room is anchored about 250 m off shore, not 'alone in the open ocean'",
+  "action": "corrected",
+  "detail": "Official: approximately 250 meters off the shore of Pemba Island. Description, highlights, pros and body now say anchored about 250 m off the shore; removed 'open water' / 'alone in the open ocean'.",
+  "source_url": "https://themantaresort.com/underwater-room/"
+ },
+ {
+  "slug": "manta-resort-zanzibar",
+  "issue": "Superlatives ('most extraordinary sleeping experience anywhere', 'voted among world's most extraordinary') and 9.6 rating/234 reviews unsupported",
+  "action": "deleted",
+  "detail": "Removed 'least-visited', 'among the most singular anywhere', 'finer sunrises in Tanzania', 'among the most expensive in Africa' and 'features regularly in travel coverage' (replaced by a conservation-contribution highlight from the official page). The quoted phrases and 9.6/234 reviews were not present in the page text I could find; rating field untouched.",
+  "source_url": "https://themantaresort.com/underwater-room/"
+ },
+ {
+  "slug": "manta-resort-zanzibar",
+  "issue": "Distances (Chake Chake 25 km, 80 km north of Zanzibar) unverified; resort is at Pemba's northern tip, about 1.5 h by road from the airport",
+  "action": "deleted",
+  "detail": "Removed the Chake Chake 25 km nearby-attraction item and '80 km north of Zanzibar' (now 'northern Zanzibar Archipelago'); added official 1.5 h by road from Pemba airport, northern tip. Other nearby distances (2 km, 8 km) were not flagged and were left.",
+  "source_url": "https://themantaresort.com/faq/"
+ },
+ {
+  "slug": "manta-resort-zanzibar",
+  "issue": "Resort says a new room replaced the original (secondary source: May 2026); hatch/ladder/circular-chamber details may describe the old room",
+  "action": "deleted",
+  "detail": "The official page does not mention the replacement; removed the hatch-and-ladder, circular chamber and floor-to-ceiling window details and now use only official wording (three levels, nearly 360 degrees of glass around the double bed, bedroom four metres below surface).",
+  "source_url": "https://themantaresort.com/underwater-room/"
+ },
+ {
+  "slug": "manta-resort-zanzibar",
+  "issue": "Resort has a three-night minimum stay and all-inclusive meals; page does not mention this",
+  "action": "corrected",
+  "detail": "Added to body and cons (all languages) per the resort FAQ: three-night minimum; rate covers accommodation, all meals and drinks, wellness treatments and laundry; airport transfers and excursions extra.",
+  "source_url": "https://themantaresort.com/faq/"
+ },
+ {
+  "slug": "pullman-maldives-maamutaa-resort-maldives",
+  "issue": "Page does not say there are only two Aqua Villas (resort says first in Maldives with 2 underwater bedrooms)",
+  "action": "corrected",
+  "detail": "Official site says the resort has '2 exclusively designed Aqua Villas, featuring two underwater bedrooms'. Description, first highlight and body opener now say 'two Aqua Villas' (EN + 5 translations).",
+  "source_url": "https://www.pullmanmaldivesmaamutaa.com/villas-suites/underwater-bedroom-maldives/"
+ }
+]

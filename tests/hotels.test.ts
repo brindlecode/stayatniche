@@ -66,7 +66,7 @@ describe('every published hotel page', () => {
   });
   it('has no reviewCount without a source, and no guest-review wording for the editorial score', () => {
     for (const h of hotels) {
-      if (h.data.reviewCount != null) expect(h.data.reviewCountSource, h.slug).toBeTruthy();
+      if (h.data.reviewCount != null && (h.data.status ?? 'published') === 'published') expect(h.data.reviewCountSource, h.slug).toBeTruthy();
       expect(`${h.data.description}\n${h.body}`, h.slug).not.toMatch(/personally (reviewed|tested|stayed)|best in the world/i);
     }
   });
@@ -102,6 +102,59 @@ describe('no content links to a drafted or archived stay', () => {
       const t = readFileSync(f, 'utf8');
       for (const m of t.matchAll(new RegExp(`\\]\\((?:https://stayatniche\\.com)?(?:/[a-z]{2})?/(?:${segs})/([a-z0-9-]+)`, 'g')))
         if (notLive.has(m[1])) bad.push(`${f.slice(ROOT.length + 1)} → ${m[1]}`);
+    }
+    expect(bad).toEqual([]);
+  });
+});
+
+describe('notes shown at the top of a page exist in every language', () => {
+  const langs = ['de', 'fr', 'es', 'it', 'nl'];
+  const tr = (lang: string, slug: string) => {
+    try { return parse(readFileSync(join(ROOT, `src/content/translations/${lang}/hotels/${slug}.md`), 'utf8').match(/^---\n([\s\S]*?)\n---/)![1]) as Record<string, any>; } catch { return null; }
+  };
+  it('a temporary closure has a note, a source and a check date, and is translated', () => {
+    const closed = published.filter(h => h.data.closure);
+    expect(closed.length).toBeGreaterThan(0);
+    for (const h of closed) {
+      expect(h.data.closure.note, h.slug).toBeTruthy();
+      expect(h.data.closure.source_url, h.slug).toMatch(/^https?:\/\//);
+      expect(h.data.closure.checked_at, h.slug).toBeTruthy();
+      for (const l of langs) if (tr(l, h.slug)) expect(tr(l, h.slug)!.closure?.note, `${l}/${h.slug}`).toBeTruthy();
+    }
+  });
+  it('the sentence naming which rooms qualify (specific_rooms), niche_note and niche_badge are translated', () => {
+    for (const h of published) for (const l of langs) {
+      const t = tr(l, h.slug);
+      if (!t) continue;
+      if (h.data.niche_scope === 'specific_rooms') expect(t.niche_feature, `${l}/${h.slug} niche_feature`).toBeTruthy();
+      if (h.data.niche_note) expect(t.niche_note, `${l}/${h.slug} niche_note`).toBeTruthy();
+      if (h.data.niche_badge) expect(t.niche_badge, `${l}/${h.slug} niche_badge`).toBeTruthy();
+    }
+  });
+  it('a treehouse page that is only partly treehouses says so in niche_scope', () => {
+    const nihi = hotels.find(h => h.slug === 'nihi-sumba-indonesia')!;
+    expect(nihi.data.niche_scope).toBe('specific_rooms');
+    expect(nihi.data.niche_badge).toBe('Only one villa');
+  });
+  it('stays that are not medieval castles carry a note saying so', () => {
+    for (const s of ['castello-tafuri-italy', 'tyr-graig-castle-united-kingdom', 'locanda-al-castello-italy']) {
+      expect(hotels.find(h => h.slug === s)!.data.niche_note, s).toMatch(/not a medieval/i);
+    }
+  });
+});
+
+describe('list fields stay lists of plain strings (an unquoted "a: b" turns into an object)', () => {
+  const files = [
+    ...hotels.map(h => [`src/content/hotels/${h.slug}.md`, h.data] as const),
+    ...['de', 'fr', 'es', 'it', 'nl'].flatMap(l => readdirSync(join(ROOT, `src/content/translations/${l}/hotels`)).map(f => {
+      const t = readFileSync(join(ROOT, `src/content/translations/${l}/hotels/${f}`), 'utf8');
+      return [`translations/${l}/hotels/${f}`, parse(t.match(/^---\n([\s\S]*?)\n---/)![1]) as Record<string, any>] as const;
+    })),
+  ];
+  it('highlights, amenities, bestFor and tags hold only strings', () => {
+    const bad: string[] = [];
+    for (const [name, d] of files) for (const k of ['highlights', 'amenities', 'bestFor', 'tags']) {
+      (d[k] ?? []).forEach((v: unknown, i: number) => { if (typeof v !== 'string') bad.push(`${name} ${k}[${i}]`); });
     }
     expect(bad).toEqual([]);
   });

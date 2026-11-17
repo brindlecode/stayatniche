@@ -1,9 +1,9 @@
 ---
 source: treehotel-sweden
 destination: Harads, Schwedisch-Lappland
-description: Sieben von Architekten entworfene Zimmer, aufgehängt in den Kiefern Schwedisch-Lapplands, jedes eine völlig andere Idee – vom perfekt verspiegelten Würfel, der im Wald verschwindet, bis zur silbernen Scheibe an einer Hängebrücke. Sechzig Kilometer südlich des Polarkreises liegt einer der originellsten Schlafplätze Europas.
+description: Neun einzelne, von Architekten entworfene Baumzimmer, aufgehängt in den Kiefern Schwedisch-Lapplands, jedes eine völlig andere Idee – vom perfekt verspiegelten Würfel, der im Wald verschwindet, bis zur silbernen Scheibe an einer Hängebrücke.
 highlights:
-  - Sieben einzigartige Zimmer, entworfen von Architekten
+  - Neun einzigartige Baumzimmer, entworfen von Architekten
   - Der Mirrored Cube, der den Wald spiegelt
   - Polarlichter im Winter
   - "Aktivitäten in der Wildnis: Hundeschlittenfahrten, Schneeschuhwandern"
@@ -21,10 +21,11 @@ bestFor:
   - Designliebhaber
 seo:
   metaTitle: "Treehotel: Baumhaushotel in Lappland | StayAtNiche"
-  metaDescription: "Treehotel in Harads: sieben von Architekten entworfene Baumhauszimmer in Schwedisch-Lappland, vom Mirrored Cube bis zum UFO, mit Polarlichtern im Winter."
+  metaDescription: "Treehotel in Harads: neun von Architekten entworfene Baumhauszimmer in Schwedisch-Lappland, vom Mirrored Cube bis zum UFO, mit Polarlichtern im Winter."
+niche_feature: "Neun separate Design-Baumzimmer (Mirrorcube, UFO, Bird's Nest, Cabin, 7th Room usw.) in den Kiefern; das separate Guesthouse (sechs historische Zimmer) ist kein Baumhaus."
 ---
 
-Sieben Architekten bekamen je eine Kiefer und den Auftrag, darin ein Zimmer zu bauen. Die Ergebnisse stehen im Wald des Luleälv-Tals vor dem Dorf Harads, 60 Kilometer südlich des Polarkreises, und gehören zu den meistfotografierten Hotelzimmern der Welt – zu Recht.
+Die Baumzimmer des Treehotels sind jeweils einzigartige Schöpfungen verschiedener Architekten und Designteams. Sie stehen im Wald des Luleälv-Tals vor dem Dorf Harads, das rund 50 Kilometer südlich des Polarkreises liegt.
 
 Jedes Zimmer im Treehotel ist eine eigene architektonische Idee:
 
@@ -34,6 +35,6 @@ Jedes Zimmer im Treehotel ist eine eigene architektonische Idee:
 
 **The UFO** ist eine silberne Scheibe an einer Hängebrücke, die man über einen schwankenden Steg erreicht und durch eine Luke betritt. Klein, doch die Atmosphäre eines Objekts aus einer anderen Epoche, das zwischen den Kiefern schwebt, ist Lohn genug.
 
-Weitere Zimmer – 7th Room, Cabin und Dragon Fly – runden die Sammlung ab, jedes bei anderen Gestaltern in Auftrag gegeben.
+Weitere Baumzimmer – 7th Room, Cabin, Dragonfly, Biosphere, Blue Cone und Oasis – runden die neun Zimmer der offiziellen Website ab. Das separate Guesthouse ist kein Baumhaus.
 
 Die Landschaft Schwedisch-Lapplands verwandelt sich mit den Jahreszeiten radikal. Der Sommer bringt die Mitternachtssonne und lange goldene Abende auf dem Deck in den Baumwipfeln. Der Winter bringt die Aussicht auf Polarlichter vom Bett aus und einen tief verschneiten Wald, den man mit dem Huskyschlitten oder auf Schneeschuhen erkundet. Aktivitäten – vom Eisfischen auf dem Fluss bis zu Elchsafaris und Sammelwanderungen – werden über das Haupthaus organisiert. Die Mahlzeiten werden im Gebäude Granön unten am Flussufer serviert, in einer Küche, die auf regionale Zutaten aus Lappland setzt.

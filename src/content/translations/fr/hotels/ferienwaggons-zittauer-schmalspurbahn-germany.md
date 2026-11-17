@@ -6,7 +6,7 @@ highlights:
   - "Wagons de chemin de fer aménagés en appartements de vacances"
   - "Installés dans les gares du chemin de fer à vapeur à voie étroite de Zittau"
   - "Terrasse idéalement placée pour voir passer les trains"
-  - "Wagons à Kurort Jonsdorf et Kurort Oybin"
+  - "Wagons à Kurort Jonsdorf (de Pâques à juillet) et Kurort Oybin (d'août à octobre)"
 amenities:
   - "Cuisine avec plaques de cuisson, réfrigérateur, machine à café et micro-ondes"
   - "Salle de bain privative avec WC et douche"
@@ -19,7 +19,7 @@ seo:
   metaDescription: "Ferienwaggons de la Zittauer Schmalspurbahn à Jonsdorf et Oybin : wagons aménagés avec cuisine et salle de bain, au bord de la voie à vapeur saxonne."
 ---
 
-Les Ferienwaggons sont d'anciens wagons de chemin de fer aménagés et loués en appartements de vacances par la Zittauer Schmalspurbahn. Ils sont installés aux gares de ce chemin de fer à vapeur à voie étroite, dans le Zittauer Gebirge, en Saxe : à Kurort Jonsdorf et à Kurort Oybin. Les trains font ainsi partie du paysage.
+Les Ferienwaggons sont d'anciens wagons de chemin de fer aménagés et loués en appartements de vacances par la Zittauer Schmalspurbahn. Ils sont installés aux gares de ce chemin de fer à vapeur à voie étroite, dans le Zittauer Gebirge, en Saxe : à Kurort Jonsdorf (de Pâques à juillet) et à Kurort Oybin (d'août à octobre). Les trains font ainsi partie du paysage.
 
 ## Les wagons
 
@@ -31,8 +31,8 @@ La compagnie loue aussi la pension Zum Bahnel, située dans le bâtiment de la g
 
 ## Saison et avantages
 
-Le wagon de Jonsdorf est proposé de Pâques à juillet. Une réservation de cinq nuits donne droit à un billet hebdomadaire gratuit sur la Zittauer Schmalspurbahn, pour une personne par séjour.
+Les wagons se trouvent en gare de Jonsdorf de Pâques à juillet, puis en gare d'Oybin d'août à octobre. Une réservation de cinq nuits donne droit à un billet hebdomadaire gratuit sur la Zittauer Schmalspurbahn, pour une personne par séjour.
 
 ## Conseils pratiques
 
-Ce séjour convient à quiconque souhaite voir passer les trains à vapeur depuis le pas de sa porte. Demandez à la compagnie quel wagon est disponible à vos dates et dans quelle gare il se trouve, car Jonsdorf et Oybin en ont tous deux. Le chemin de fer fait circuler des trains à vapeur dans le Zittauer Gebirge, si bien que le séjour peut se combiner avec un trajet sur la ligne.
+Ce séjour convient à quiconque souhaite voir passer les trains à vapeur depuis le pas de sa porte. Demandez à la compagnie quel wagon est disponible à vos dates ; la gare dépend de la saison. Le chemin de fer fait circuler des trains à vapeur dans le Zittauer Gebirge, si bien que le séjour peut se combiner avec un trajet sur la ligne.

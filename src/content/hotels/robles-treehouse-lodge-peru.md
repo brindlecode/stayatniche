@@ -6,7 +6,7 @@ country: "Peru"
 description: "A rainforest lodge of ten elevated treehouse-style bungalows on the Palotoa river, at the edge of Manu National Park."
 priceRange: "Rates vary"
 highlights:
-  - "Ten private bungalows raised above the jungle floor"
+  - "Ten private, elevated treehouse-style bungalows"
   - "On the Palotoa river at the edge of Manu National Park, in the Manu Biosphere Reserve"
   - "Guided jungle walks, kayaking, tubing and caiman spotting"
   - "A 30 m observation tower"
@@ -49,7 +49,7 @@ Robles Treehouse Lodge is an eco-lodge at the edge of Manu National Park in Peru
 
 ## The bungalows
 
-The lodge has ten private bungalows, raised above the jungle floor in the treehouse style. Each has a private bathroom with hot showers, and the lodge runs on solar power with Wi-Fi available. There is a dining area where you can enjoy the panoramic river views.
+The lodge has ten private bungalows, described by the operator as elevated and treehouse-style. Each has a private bathroom with hot showers, and the lodge runs on solar power with Wi-Fi available. There is a dining area where you can enjoy the panoramic river views.
 
 ## Things to do
 

@@ -1,19 +1,19 @@
 ---
 source: off-paris-seine-france
 destination: "Paris, Île-de-France"
-description: "Le seul hôtel flottant de Paris, amarré entre le 5e et le 13e arrondissement, Notre-Dame en amont et la Bibliothèque nationale en aval. Les chambres donnent directement sur le fleuve et offrent une vue sur la ville que la plupart des Parisiens ne découvrent que depuis un bateau-mouche."
+description: "Le premier hôtel flottant de Paris, amarré au pied de la gare d'Austerlitz, dans le 13e arrondissement, avec 54 chambres façon cabines de navire et 4 suites sur la Seine, une piscine et un bar-restaurant."
 highlights:
-  - "Le seul hôtel flottant de Paris, amarré sur la Seine"
-  - "Chambres contemporaines avec vue panoramique sur le fleuve et la ville"
-  - "Une architecture signée par des architectes parisiens"
-  - "Toit-terrasse et bar avec panorama sur Notre-Dame et la ville"
+  - "Le premier hôtel flottant de Paris, amarré sur la Seine"
+  - "54 chambres façon cabines de navire et 4 suites avec vue sur les quais et la Seine"
+  - "Cadre de bois et de verre ; les chambres du niveau le plus bas sont à hauteur de l'eau"
+  - "Piscine et bar-restaurant sur le pont, face à la Seine"
 amenities:
-  - "Cabine sur le fleuve avec baies panoramiques"
-  - "Restaurant et bar à bord"
-  - "Toit-terrasse"
+  - "Chambres et suites façon cabines de navire sur la Seine"
+  - "Bar-restaurant sur le pont"
+  - "Piscine face à la Seine"
   - "Petit-déjeuner"
-  - "Emplacement central, entre Notre-Dame et le 13e arrondissement"
-  - "Location de vélos"
+  - "Entre la gare d'Austerlitz et la gare de Lyon, 13e arrondissement"
+  - "Location de bateau privé depuis le ponton au niveau de l'eau"
 bestFor:
   - "Passionnés d'architecture"
   - "Couples"
@@ -21,15 +21,15 @@ bestFor:
   - "Visiteurs de Paris, novices comme habitués"
 seo:
   metaTitle: "OFF Paris Seine : l'hôtel flottant de Paris | StayAtNiche"
-  metaDescription: "OFF Paris Seine, seul hôtel flottant de la capitale : chambres face à la Seine, rooftop avec vue sur Notre-Dame, à deux pas du Marais et du Quartier latin."
+  metaDescription: "OFF Paris Seine, premier hôtel flottant de Paris au pied de la gare d'Austerlitz : 54 chambres façon cabines, 4 suites, piscine et bar-restaurant sur la Seine."
 ---
 
-L'OFF Paris Seine est amarré au quai, entre le 5e et le 13e arrondissement, avec les arcs-boutants de Notre-Dame visibles en amont et les tours de la Bibliothèque nationale en aval. La vue qu'il offre — Paris au ras de l'eau, face aux berges de pierre de la ville — n'a vraiment rien à voir avec ce que proposent les grandes adresses de la rive droite ou les hôtels de charme de Saint-Germain. C'est la perspective que la plupart des Parisiens ne découvrent qu'à bord d'un bateau-mouche en mouvement ; ici, elle est immobile, et s'offre à vous depuis le lit.
+L'OFF Paris Seine est amarré au pied de la gare d'Austerlitz, entre la gare d'Austerlitz et la gare de Lyon, dans le 13e arrondissement. La vue qu'il offre, Paris depuis le niveau du fleuve, tournée vers les quais de pierre de la ville, est celle que la plupart des Parisiens ne connaissent que depuis un bateau-mouche en mouvement ; ici, elle est immobile, accessible depuis le lit.
 
-Inaugurée en 2017, la barge est une construction neuve et non un bateau historique reconverti : une architecture délibérée qui reprend le vocabulaire industriel épuré des embarcations de travail de la Seine et l'affûte pour tenir tête à un cadre urbain exceptionnel. L'extérieur, en acier patiné et en bois, est sobre et s'inscrit dans son environnement ; les intérieurs exploitent chaque centimètre avec ce talent bien français pour qu'un petit espace paraisse pensé plutôt que simplement exigu. De grandes baies panoramiques dans chaque chambre gardent le fleuve toujours présent.
+Ouvert en 2016 et présenté par Sortiraparis comme le premier hôtel flottant sur la Seine, l'hôtel compte 54 chambres façon cabines de navire et 4 suites dans un cadre de bois et de verre. Certaines chambres donnent sur le quai, d'autres sur la Seine, et celles du niveau -1 sont à hauteur de l'eau. Selon l'hôtel, la vue sur l'eau est omniprésente, avec une lumière et des reflets qui changent au fil de la journée.
 
-La Seine est un fleuve de travail, et y dormir le rappelle. Les péniches passent tout près, les bateaux touristiques tournent le soir, projecteurs allumés, les équipages d'aviron apparaissent sur l'eau avant 7 heures. Depuis une chambre côté fleuve, ces mouvements se vivent plutôt qu'ils ne s'observent. Le reflet des ponts illuminés de Paris dans l'eau, la nuit — pont de Sully, pont d'Austerlitz —, compte parmi les plus belles choses que la ville ait à offrir, et l'hôtel vous l'offre en vue privée, depuis l'oreiller.
+Au centre de l'hôtel se trouve une piscine face à la Seine, autour de laquelle s'organise le bar-restaurant. Le bar-restaurant sur le pont est à l'air libre en été et couvert quand il fait froid, avec des cocktails créatifs et des tapas à partager ; Sortiraparis signale des DJ sets le samedi, des concerts live le vendredi et un brunch le dimanche.
 
-Le toit-terrasse est le cœur social de l'hôtel. Les soirs de beau temps, architectes, designers et cinéastes s'y retrouvent pour l'apéritif pendant que le soleil disparaît derrière la rive gauche et que les derniers bateaux-mouches de la journée glissent sur l'eau en contrebas. Le restaurant, sur le pont inférieur, propose une solide cuisine française contemporaine, produits de saison et vins nature, sans jamais promettre plus qu'il ne tient. Le petit-déjeuner est à la française, dans les règles : croissants, tartines, jus frais et café au lait bien serré, pris pendant que la brume matinale se lève sur le fleuve et que les premiers joggeurs apparaissent sur le quai.
+Au niveau de l'eau, une terrasse-balcon se prolonge jusqu'à un ponton d'où l'on peut affréter un bateau privé pour naviguer sur la Seine. Le petit-déjeuner est servi dans le bar-restaurant de l'hôtel.
 
-L'emplacement reste, au fond, l'argument le plus convaincant de l'hôtel. Les 4e et 5e arrondissements, le Marais, l'île de la Cité, le Quartier latin : tout se rejoint facilement à pied. Juste au sud commence le 13e arrondissement, avec son architecture plus récente et ses restaurants. Paris est à votre porte, et cette porte ouvre sur le fleuve.
+L'hôtel se trouve dans le 13e arrondissement, à deux pas de la Cité de la Mode et du Design, dans un quartier que l'établissement décrit comme en pleine mutation, avec la rive droite et la rive gauche de part et d'autre du fleuve.

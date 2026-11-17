@@ -1,12 +1,12 @@
 ---
 source: nihi-sumba-indonesia
 destination: "Isola di Sumba, Nusa Tenggara Orientale, Indonesia"
-description: "Una tenuta di ventotto ville sulla selvaggia costa sud-occidentale dell'isola di Sumba, con uno spot di surf privato, passeggiate a cavallo su spiagge deserte e una fondazione filantropica che lega la presenza del resort sull'isola a progetti di conservazione e di sostegno alla comunità."
+description: "Una tenuta di 31 ville e residenze sulla selvaggia costa sud-occidentale dell'isola di Sumba, con uno spot di surf privato, passeggiate a cavallo su spiagge deserte e una fondazione filantropica che lega la presenza del resort sull'isola a progetti di conservazione e di sostegno alla comunità."
 highlights:
-  - "Accesso privato a Occy's Left, onda leggendaria nel mondo del surf, con un massimo di dieci surfisti alla volta"
+  - "Accesso privato a Occy's Left, onda leggendaria nel mondo del surf, limitato a 15 surfisti registrati al giorno"
   - "Passeggiate a cavallo su spiagge deserte lungo la costa sud-occidentale di Sumba"
   - "La Nihiwatu Foundation finanzia la lotta alla malaria e la costruzione di scuole in tutta Sumba"
-  - "Ventotto ville su una tenuta costiera privata di 567 acri"
+  - "31 ville e residenze sulla costa sud-occidentale di Sumba"
   - "Isola remota: a Sumba non esistono infrastrutture per il turismo di massa"
   - "Programma benessere Spa Safari con trattamenti su più giorni"
 amenities:
@@ -24,13 +24,13 @@ bestFor:
   - "Coppie in cerca di totale isolamento"
 prosAndCons:
   pros:
-    - "Occy's Left con un massimo di dieci surfisti è una rara occasione di surfare senza folla in Indonesia"
+    - "Occy's Left, limitata a 15 surfisti registrati al giorno, è una rara occasione di surfare senza folla in Indonesia"
     - "Sumba è culturalmente e geograficamente diversa dal resto dell'Indonesia"
     - "La Nihiwatu Foundation dà al soggiorno un autentico spessore etico"
     - "Cavalcare su spiagge deserte è esattamente ciò che sembra: eccezionale"
   cons:
     - "Per arrivare a Sumba serve un volo via Bali o Lombok, che allunga parecchio il viaggio"
-    - "Uno degli alloggi più cari dell'Indonesia"
+    - "Tariffe alte a notte"
     - "L'isolamento di Sumba riduce le opzioni al di fuori del resort"
     - "L'accesso al surf si paga a parte, oltre a una tariffa già elevata"
 seasonalInfo:
@@ -48,12 +48,14 @@ nearbyAttractions:
     distance: 45 km
 seo:
   metaTitle: "Nihi Sumba: resort di lusso e surf a Sumba | StayAtNiche"
-  metaDescription: "Nihi Sumba: 28 ville su una tenuta privata di 567 acri a Sumba, accesso esclusivo all'onda di Occy's Left e una fondazione contro la malaria. Da 1.200 $."
+  metaDescription: "Nihi Sumba: 31 ville e tenute a Sumba, onda di Occy's Left limitata a 15 surfisti registrati al giorno e una fondazione contro la malaria. Da 1.200 $."
+niche_badge: "Una sola villa"
+niche_feature: "Solo una delle 31 ville e tenute rientra nella categoria: la Treehouse con tre camere da letto, costruita tra gli alberi al margine di una foresta antica, con camere da letto circolari di vetro sollevate da terra e collegate da passerelle sopraelevate. Le altre ville sono ville fronte spiaggia o sulla collina, non case sugli alberi."
 ---
 
-Sumba non è Bali. L'isola si trova 350 chilometri più a est, nell'arcipelago delle Piccole Isole della Sonda, e quasi nulla la accomuna al modello di turismo indonesiano che ha reso Bali famosa nel mondo. Qui il paesaggio è fatto di savana arida, villaggi dove si tesse l'ikat e tombe megalitiche in pietra, con una costa sud-occidentale che l'Oceano Indiano ha modellato senza ostacoli da molto prima che qualcuno si mettesse a misurare le onde. Nihi Sumba occupa 567 acri di questa costa, e il fatto che per diversi anni consecutivi i lettori di Travel + Leisure l'abbiano votato miglior hotel del mondo dice qualcosa di preciso su ciò che una certa categoria di viaggiatori apprezza di più.
+Sumba non è Bali. L'isola si trova 350 chilometri più a est, nell'arcipelago delle Piccole Isole della Sonda, e quasi nulla la accomuna al modello di turismo indonesiano che ha reso Bali famosa nel mondo. Qui il paesaggio è fatto di savana arida, villaggi dove si tesse l'ikat e tombe megalitiche in pietra, con una costa sud-occidentale che l'Oceano Indiano ha modellato senza ostacoli da molto prima che qualcuno si mettesse a misurare le onde. Nihi Sumba si trova su questa costa, a Wanokaka, nel distretto di Sumba Occidentale.
 
-L'onda nota come Occy's Left — dal nome del campione del mondo australiano Mark Occhilupo, che la surfò negli anni Ottanta — frange proprio davanti al resort. Un tubo sinistro su passaggio di reef, al meglio tra i quattro e i sei piedi nella stagione secca, quando arrivano i treni d'onda dell'Oceano Indiano generati nel profondo sud. Nihi gestisce l'accesso all'onda come un servizio del resort: al massimo dieci surfisti in acqua alla volta, con priorità agli ospiti e turni prenotabili come supplemento giornaliero. Per un'onda di questa qualità, in un'epoca in cui ogni spot noto dell'Indonesia è preso d'assalto a prescindere dalle condizioni, questo accesso da solo giustifica un notevole sforzo organizzativo.
+L'onda nota come Occy's Left — dal nome del campione del mondo australiano Mark Occhilupo, che la surfò negli anni Ottanta — frange proprio davanti al resort. Un tubo sinistro su passaggio di reef, al meglio tra i quattro e i sei piedi nella stagione secca, quando arrivano i treni d'onda dell'Oceano Indiano generati nel profondo sud. Nihi gestisce l'accesso all'onda come un servizio del resort: l'onda è limitata a 15 surfisti registrati al giorno, con priorità agli ospiti e turni prenotabili come supplemento giornaliero. Per un'onda di questa qualità, in un'epoca in cui ogni spot noto dell'Indonesia è preso d'assalto a prescindere dalle condizioni, questo accesso da solo giustifica un notevole sforzo organizzativo.
 
 Oltre al surf, l'attrazione è Sumba stessa. La cultura indigena dell'isola — tradizioni animiste, tessuti ikat tessuti a mano per mesi, villaggi costruiti attorno a tombe megalitiche comunitarie — è rimasta in gran parte intatta, mentre quella di Bali è da tempo filtrata dal turismo. La Nihiwatu Foundation, creata dai fondatori James e Petra McBride, ha finanziato programmi di eradicazione della malaria, la costruzione di scuole e infrastrutture per l'acqua potabile in tutta la reggenza circostante. Tra le attività per gli ospiti ci sono visite alla fondazione, dove questi progetti si vedono e vengono spiegati: non come operazioni di marketing, ma come programmi concreti con risultati misurabili in termini di salute e istruzione.
 

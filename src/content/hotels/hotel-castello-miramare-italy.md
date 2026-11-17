@@ -46,7 +46,7 @@ niche_source_url: "http://castellomiramare.it/c-era-una-volta.html"
 niche_verified_at: 2026-11-17
 ---
 
-Hotel Castello Miramare is a 3-star hotel on the seafront at Pegli, a district a few kilometres from the centre of Genoa. Guests stay in an old castle that has kept its atmosphere and part of its architectural structure, with the beach in front of the door.
+Hotel Castello Miramare is a 3-star hotel on the seafront at Pegli, a district a few kilometres from the centre of Genoa. Guests stay in an old castle that has kept its atmosphere and part of its architectural structure, with the beach in front of the door. According to the hotel's history page, the building stands on the foundations of a medieval fortlet and was later turned into a neo-Gothic villa with a tower; the Castello Chiozza, as it was known, was built around 1880.
 
 ## The rooms
 

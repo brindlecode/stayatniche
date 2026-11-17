@@ -21,6 +21,7 @@ bestFor:
 seo:
   metaTitle: "Dornoch Castle: kasteelhotel met whiskybar | StayAtNiche"
   metaDescription: "Dornoch Castle Hotel: kasteel uit de 15e eeuw met negen kamers, bekroonde whiskybar en ommuurde tuin tegenover de 12e-eeuwse kathedraal van Dornoch."
+niche_feature: "9 van de 21 kamers liggen in het kasteel uit de 15e eeuw; de andere 12 zitten in een moderne uitbouw."
 ---
 
 Dornoch Castle Hotel is gevestigd in een 15e-eeuws kasteel midden in het kleine kuststadje Dornoch, recht tegenover de 12e-eeuwse Dornoch Cathedral. Het hotel heeft 21 kamers, maar slechts een deel ligt in het kasteel: negen kamers bevinden zich in het oude gebouw, de rest in een moderne aanbouw. Wil je slapen achter kasteelmuren? Vraag bij het boeken naar een van de kasteelkamers.

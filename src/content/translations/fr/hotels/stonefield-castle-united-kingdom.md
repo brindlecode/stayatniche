@@ -26,7 +26,7 @@ Stonefield Castle est un château au sens victorien du terme : une grande demeur
 
 ## La demeure
 
-Une grande partie de l'intérieur d'origine est toujours en place : boiseries, plafonds ouvragés et cheminées en marbre. Le bâtiment est classé monument de catégorie B. Chaque chambre est décorée avec soin, avec salle de bains privative, et donne sur les jardins ou sur le loch.
+Une grande partie de l'intérieur d'origine est toujours en place : boiseries, plafonds ouvragés et cheminées en marbre. Le bâtiment est classé monument de catégorie B. L'hôtel compte 38 chambres décorées individuellement, toutes avec salle de bains privative, et donnant sur les jardins ou sur le loch.
 
 ## Les jardins
 

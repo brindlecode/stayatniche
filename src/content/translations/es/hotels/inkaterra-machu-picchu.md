@@ -1,14 +1,14 @@
 ---
 source: inkaterra-machu-picchu
 destination: "Aguas Calientes, región de Cusco, Perú"
-description: "Ochenta y tres casitas encaladas repartidas por cinco hectáreas de bosque nuboso a los pies de Machu Picchu, con la única reserva privada de orquídeas de Perú en el propio recinto y el río Urubamba audible desde todos los edificios."
+description: "Ochenta casitas encaladas repartidas por cinco hectáreas de bosque nuboso a los pies de Machu Picchu, con 372 especies de orquídeas registradas en el recinto y el río Urubamba audible desde todos los edificios."
 highlights:
-  - "Ochenta y tres casitas en cinco hectáreas de bosque nuboso privado"
-  - "Reserva de orquídeas propia con más de 370 especies, la mayor colección privada de Perú"
-  - "A cinco minutos de la estación de Aguas Calientes: el alojamiento más cercano a Machu Picchu"
+  - "Ochenta casitas en cinco hectáreas de bosque nuboso privado"
+  - "Colección de orquídeas con 372 especies registradas, presentada por el hotel como la mayor del mundo en orquídeas nativas"
+  - "Justo enfrente de la estación de Machu Picchu Pueblo, con autobuses a la ciudadela desde el pueblo"
   - "Salidas guiadas antes del amanecer para llegar a la ciudadela a la hora de apertura"
   - "Senderos de bosque nuboso por la finca con guías naturalistas especializados"
-  - "Programa de conservación del oso andino en los terrenos del hotel"
+  - "317 especies de aves registradas en los terrenos del hotel"
 amenities:
   - "Casita privada con chimenea y terraza ajardinada"
   - "Dos piscinas climatizadas rodeadas de bosque nuboso"
@@ -24,7 +24,7 @@ bestFor:
   - "Parejas de luna de miel por Sudamérica"
 prosAndCons:
   pros:
-    - "El único alojamiento que te sitúa dentro de un auténtico bosque nuboso y no junto a un pueblo"
+    - "En una reserva privada de bosque nuboso de cinco hectáreas, justo enfrente de la estación"
     - "Los guías naturalistas de Inkaterra aportan una profundidad ecológica real a la visita de Machu Picchu"
     - "La colección de orquídeas es un destino dentro del destino"
     - "El programa de acceso antes del amanecer te permite entrar en Machu Picchu antes que los grupos"
@@ -48,12 +48,12 @@ nearbyAttractions:
     distance: "80 km en tren"
 seo:
   metaTitle: "Inkaterra Machu Picchu Pueblo: hotel en el bosque nuboso | StayAtNiche"
-  metaDescription: "83 casitas en cinco hectáreas de bosque nuboso a los pies de Machu Picchu, con la mayor colección privada de orquídeas de Perú. Desde 600 US$ la noche."
+  metaDescription: "Inkaterra Machu Picchu Pueblo Hotel: 80 casitas en bosque nuboso privado a los pies de Machu Picchu, con 372 especies de orquídeas. Desde 600 US$ la noche."
 ---
 
-Aguas Calientes es un pueblo que existe únicamente por lo que hay cuatro kilómetros carretera arriba, y su infraestructura lo refleja: tiendas de recuerdos, restaurantes para turistas, albergues de mochileros y hoteles de gama media alineados en la calle principal y en el cañón del Urubamba. Inkaterra Machu Picchu Pueblo Hotel es la excepción. El alojamiento ocupa cinco hectáreas de bosque nuboso por encima del pueblo, con sus ochenta y tres casitas repartidas entre la vegetación por caminos empedrados que siguen la topografía natural, y con el sonido del Urubamba siempre presente en algún lugar allá abajo.
+Aguas Calientes es un pueblo que existe únicamente por lo que hay cuatro kilómetros carretera arriba, y su infraestructura lo refleja: tiendas de recuerdos, restaurantes para turistas, albergues de mochileros y hoteles de gama media alineados en la calle principal y en el cañón del Urubamba. Inkaterra Machu Picchu Pueblo Hotel es la excepción. El alojamiento ocupa cinco hectáreas de bosque nuboso por encima del pueblo, con sus ochenta casitas repartidas entre la vegetación por caminos empedrados que siguen la topografía natural, y con el sonido del Urubamba siempre presente en algún lugar allá abajo.
 
-El bosque nuboso que gestiona Inkaterra es un hábitat biológico en pleno funcionamiento. El recinto alberga más de 370 especies de orquídeas —la colección privada de orquídeas más extensa de Perú—, cuidadas por un equipo botánico residente. El oso andino, la única especie de oso de Sudamérica, que la mayoría de los viajeros nunca llega a ver en libertad, vive en el bosque de los alrededores y lo sigue el programa de conservación del hotel. Los guías naturalistas dirigen paseos por senderos que cruzan arroyos y atraviesan corredores de vegetación donde los colibríes se alimentan muy de cerca en bromelias en flor. Esto no es un jardín: es bosque nuboso montano intacto a 2040 metros, y los guías están formados para interpretarlo con precisión científica.
+El bosque nuboso que gestiona Inkaterra es un hábitat biológico en pleno funcionamiento. El hotel registra 372 especies de orquídeas, que presenta como la mayor colección de orquídeas nativas del mundo, y 317 especies de aves registradas, entre ellas el quetzal cabecidorado y el gallito de las rocas andino. Los guías naturalistas dirigen paseos por senderos que cruzan arroyos y atraviesan corredores de vegetación donde los colibríes se alimentan muy de cerca en bromelias en flor. Esto no es un jardín: es bosque nuboso montano intacto a unos 2.020 metros, y los guías están formados para interpretarlo con precisión científica.
 
 Las casitas son construcciones encaladas de estilo adobe con chimenea y terraza ajardinada, cálidas y sólidas en un entorno donde la temperatura baja y la niebla llega a media tarde. Las dos piscinas climatizadas están integradas en el bosque, rodeadas de vegetación, y se usan tanto para entrar en calor tras una visita temprana a la ciudadela como para nadar como en cualquier resort. La cocina del restaurante principal se inspira en la biodiversidad andina que rodea el hotel: variedades de papa nativa, quinua cultivada en altura e ingredientes amazónicos de las laderas bajas del este.
 

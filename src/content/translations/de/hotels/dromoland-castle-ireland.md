@@ -35,7 +35,7 @@ prosAndCons:
     - "Hohe Preise, eines der teuersten Hotelerlebnisse Irlands"
     - "In der Hochsaison bei großen Firmengruppen und Hochzeiten beliebt"
     - "Die Umgebung im County Clare ist ruhiger als Kerry oder Connemara"
-    - "Manchen Zimmern im neueren Flügel fehlt der historische Charakter der Schlosszimmer"
+    - "Das Hotel nennt nicht, wo die einzelnen Zimmerkategorien im Schloss liegen; fragen Sie nach der Lage Ihres Zimmers"
 seasonalInfo:
   bestTime: "Mai bis September"
   notes: "Der irische Sommer bringt die längsten Tage und die besten Bedingungen zum Golfen. Das Schloss ist zu jeder Jahreszeit schön, die Herbstfarben auf dem Anwesen sind im Oktober spektakulär, und Weihnachten in Dromoland ist ein berühmt üppiges Fest. Golf ist wetterabhängig, doch die Iren spielen das ganze Jahr über."
@@ -51,9 +51,12 @@ nearbyAttractions:
 seo:
   metaTitle: "Dromoland Castle: Schlosshotel in Irland | StayAtNiche"
   metaDescription: "Stammsitz der O'Brien-Dynastie, heute Irlands geschichtsträchtigstes Luxus-Schlosshotel: Golf, Falknerei und Spitzenküche auf 450 Acres im County Clare."
+closure:
+  note: "Das Schloss ist wegen Renovierungsarbeiten vorübergehend geschlossen; Buchungen für das Schloss sind für Aufenthalte ab Mai 2027 möglich. Die Ferienlodges mit Selbstversorgung bleiben geöffnet."
+niche_feature: "Die Suiten liegen innerhalb der ursprünglichen Schlossmauern; wo die übrigen Zimmerkategorien des Schlosses liegen, gibt die Website nicht an. Das Schloss ist der Neubau im Stil der Neugotik von 1835 am Stammsitz der O'Briens und seit 1963 ein Hotel. Die Ferienlodges mit Selbstversorgung sind getrennt."
 ---
 
-Die Ahnenreihe der Familie O'Brien muss niemand erfinden. Der Clan, der im 16. Jahrhundert am Ufer des Dromoland Lake im County Clare eine Burg errichtete, stammte direkt von Brian Boru ab, dem Hochkönig, der die irischen Königreiche einte und 1014 in der Schlacht von Clontarf fiel. Das ist kein Werbetext, sondern eine dokumentierte Genealogie über mehr als tausend Jahre – und das merkt man an der Haltung des Schlosses. Hier ringt nichts um Bedeutung. Die Steintürme, der See, die formalen Gärten und der 450 Acres große Park strahlen die gelassene Autorität eines Ortes aus, der nie verkünden musste, was er ist.
+Die Ahnenreihe der Familie O'Brien muss niemand erfinden. Der Clan, dessen Sitz am Ufer des Dromoland Lake im County Clare steht, stammte direkt von Brian Boru ab, dem Hochkönig, der die irischen Königreiche einte und 1014 in der Schlacht von Clontarf fiel. Das ist kein Werbetext, sondern eine dokumentierte Genealogie über mehr als tausend Jahre – und das merkt man an der Haltung des Schlosses. Hier ringt nichts um Bedeutung. Die Steintürme, der See, die formalen Gärten und der 450 Acres große Park strahlen die gelassene Autorität eines Ortes aus, der nie verkünden musste, was er ist. Das heutige Schloss ist ein neugotischer Neubau von 1835.
 
 **Das Anwesen**
 
@@ -65,7 +68,7 @@ Neben dem Golfplatz bietet das Anwesen Bachforellenangeln im See, Tontaubenschie
 
 Die Great Hall ist das Herzstück der öffentlichen Räume: ein gemeißelter Steinkamin, Ahnenporträts der O'Brien-Dynastie und Proportionen, die den Menschen in das rechte Verhältnis zu mehreren Jahrhunderten Geschichte setzen. Die Salons und die Bibliothek, in denen der Afternoon Tea serviert wird und in denen man sich vor dem Dinner versammelt, haben die leicht abgenutzte, bewohnte Behaglichkeit von Räumen, die immer von Menschen genutzt und nie nur für Besucher konserviert wurden.
 
-Die Schlafzimmer unterscheiden sich je nach Lage im Schloss erheblich. Bitten Sie um ein Zimmer in den ursprünglichen Steintürmen: hohe Decken, tiefe Fensternischen mit Blick auf Park und See und jene ganz besondere Stille, die dicke Steinmauern nachts erzeugen. Die Zimmer im neueren Flügel sind im herkömmlichen Sinn komfortabler, doch ihnen fehlt die Atmosphäre, derentwegen die meisten Gäste kommen.
+Die Website des Hotels gibt an, dass die Suiten innerhalb der ursprünglichen Schlossmauern liegen; wo die übrigen Zimmerkategorien im Schloss liegen, nennt sie nicht. Fragen Sie deshalb vor der Buchung, in welchem Flügel und in welcher Zimmerkategorie Ihr Zimmer liegt.
 
 **Kulinarik**
 

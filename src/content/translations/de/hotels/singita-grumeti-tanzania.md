@@ -1,12 +1,12 @@
 ---
 source: singita-grumeti-tanzania
 destination: "Grumeti Game Reserve, Serengeti"
-description: "Singita Grumeti erstreckt sich über eine exklusive private Konzession von 350.000 Acres im westlichen Korridor des Serengeti-Ökosystems und bietet in einer wirklich vielfältigen Landschaft einige der besten Safarierlebnisse Afrikas. Mit drei unterschiedlichen Lodges und einem Zeltcamp bietet Singita seinen legendären Service in einem Naturschutzgebiet, in dem die Gäste die Wildnis ganz für sich haben."
+description: "Singita Grumeti umfasst sieben Lodges und Camps (Sasakwa, Faru Faru, Sabora, Milele, Kilima, Serengeti House und Explore) im 350.000 Acres großen Grumeti Reserve neben dem Serengeti-Nationalpark, das gemeinsam mit dem Grumeti Fund betreut wird. Die Tierbeobachtung steht im Mittelpunkt."
 highlights:
-  - "Exklusive private Konzession von 350.000 Acres direkt am Serengeti-Nationalpark"
+  - "350.000 Acres großes Grumeti Reserve neben dem Serengeti-Nationalpark, gemeinsam mit dem Grumeti Fund betreut"
   - "Die Große Tierwanderung zieht durch die Konzession (Juni–Juli)"
   - "Ansässige Löwen, Leoparden, Geparden, Elefanten und seltene Arten"
-  - "Hervorragende Tierbeobachtung ohne andere Fahrzeuge"
+  - "Sieben eigenständige Lodges und Camps in einem Reservat"
   - "Das Naturschutzprogramm Singita Grumeti Fund schützt das Ökosystem direkt"
   - "Nachtpirschfahrten und Offroad-Fahrten in der privaten Konzession erlaubt"
 amenities:
@@ -25,8 +25,8 @@ bestFor:
   - "Naturschutzbewusste Reisende"
 prosAndCons:
   pros:
-    - "In der privaten Konzession gibt es keine Konkurrenz um Sichtungen – die Tierbeobachtung ist außergewöhnlich"
-    - "Singitas Servicestandards gehören zu den höchsten der afrikanischen Safariwelt"
+    - "Ein privates Reservat, das gemeinsam mit dem Grumeti Fund betreut wird, mit der Tierbeobachtung im Mittelpunkt"
+    - "Teil der Singita-Kollektion von Lodges und Camps in ganz Afrika"
     - "Die Naturschutzarbeit finanziert direkt den Schutz eines der größten Ökosysteme Afrikas"
     - "Mehrere Lodge-Stile innerhalb der Konzession ermöglichen unterschiedliche Erlebnisse"
   cons:
@@ -49,17 +49,17 @@ nearbyAttractions:
     distance: 120 km
 seo:
   metaTitle: "Singita Grumeti: Luxus-Safari in der Serengeti | StayAtNiche"
-  metaDescription: "Singita Grumeti in Tansania: private Konzession von 350.000 Acres in der westlichen Serengeti, mit Großer Tierwanderung und erstklassigem Service – ab 1.800 $."
+  metaDescription: "Singita Grumeti: sieben Lodges und Camps im 350.000 Acres großen Grumeti Reserve neben dem Serengeti-Nationalpark, mit dem Grumeti Fund. Ab 1.800 $ pro Nacht."
 ---
 
-Der westliche Korridor des Serengeti-Ökosystems hat eine andere Qualität als die meistbesuchten zentralen und nördlichen Abschnitte. Die Landschaft ist dichter bewachsen, die Flüsse führen beständiger Wasser, und die afrikanische Wildnis ist unmittelbarer spürbar: ein Land der Fieberakazien, felsigen Kopjes und weiten Schleifen des Grumeti River, in dem Krokodile zu Längen herangewachsen sind, die für Millionen Jahre ungestörten Evolutionserfolg stehen. In diese Landschaft hat Singita einen der ernsthaftesten Safaribetriebe Afrikas eingebettet.
+Der westliche Korridor des Serengeti-Ökosystems hat eine andere Qualität als die meistbesuchten zentralen und nördlichen Abschnitte. Die Landschaft ist dichter bewachsen, die Flüsse führen beständiger Wasser, und die afrikanische Wildnis ist unmittelbarer spürbar: ein Land der Fieberakazien, felsigen Kopjes und weiten Schleifen des Grumeti River, in dem Krokodile zu Längen herangewachsen sind, die für Millionen Jahre ungestörten Evolutionserfolg stehen. In diese Landschaft hat Singita seine Lodges und Camps eingebettet.
 
-Die private Grumeti-Konzession umfasst 350.000 Acres direkt neben dem Serengeti-Nationalpark, und die Häuser von Singita – Sabora Tented Camp, Sasakwa Lodge und Faru Faru River Lodge – sind die einzigen Camps darin. Diese Exklusivität ist nicht Beiwerk, sondern das Fundament des Erlebnisses. Wer in der Grumeti-Konzession auf Pirschfahrt ist, sitzt im einzigen Fahrzeug weit und breit. Kein Funkverkehr über Löwensichtungen, keine Kolonne von Safarijeeps an einem Riss, keiner der Kompromisse, die selbst die besten Anbieter in Nationalparks betreffen. Die Sichtungen folgen dem Tempo der Tiere und der Aufmerksamkeit des Ranger-Teams – und sie gehören Ihnen allein.
+Das Grumeti Reserve umfasst 350.000 Acres direkt neben dem Serengeti-Nationalpark. Es wurde 1994 von der tansanischen Regierung geschaffen, um den Weg der jährlichen Gnuwanderung zu schützen, und der Grumeti Fund hat seit 2002 das Recht, es zu betreuen und zu schützen. Singita übernahm die Verwaltung, um einen umweltschonenden Luxustourismus zu fördern; heute betreibt Singita dort sieben Lodges und Camps: Sasakwa, Faru Faru, Sabora, Milele, Kilima, Serengeti House und Explore. Die Tierbeobachtung ist die Hauptaktivität.
 
-Singitas Servicephilosophie wurde über drei Jahrzehnte verfeinert, und in der Grumeti-Konzession findet sie ihren vollendetsten Ausdruck. Das Essen ist für eine abgelegene Wildnis-Lodge wirklich außergewöhnlich; es schöpft aus den südafrikanischen Wurzeln des Unternehmens und einem Weinkeller, der sich auch in einem guten Restaurant in Kapstadt oder Johannesburg nicht verstecken müsste. Die Zimmer sind großzügig, ohne protzig zu sein, mit privaten Tauchbecken und Außenduschen, die so platziert sind, dass sie die Verbindung zur Landschaft maximieren und zugleich vollen Komfort bieten.
+Das Essen ist für eine abgelegene Wildnis-Lodge wirklich außergewöhnlich; es schöpft aus den südafrikanischen Wurzeln des Unternehmens und einem Weinkeller, der sich auch in einem guten Restaurant in Kapstadt oder Johannesburg nicht verstecken müsste. Die Zimmer sind großzügig, ohne protzig zu sein, mit privaten Tauchbecken und Außenduschen, die so platziert sind, dass sie die Verbindung zur Landschaft maximieren und zugleich vollen Komfort bieten.
 
-Die Naturschutzarbeit, auf der das gesamte Unternehmen fußt, ist bedeutend und echt. Der Singita Grumeti Fund unterhält Anti-Wilderer-Einheiten, Programme zur Wildtierbeobachtung und Initiativen zur Gemeindeentwicklung in der Konzession und ihren Pufferzonen, und der Schutz dieses Landes hat messbar positive Auswirkungen auf die Tierbestände im gesamten Serengeti-Ökosystem. Wer hier übernachtet, leistet im direktesten Sinne, der einem Besucher möglich ist, einen Beitrag zu dieser Arbeit.
+Der gemeinnützige Grumeti Fund führt Programme zum Schutz der Tierwelt und zur Gemeindeentwicklung in und um das Singita Grumeti Reserve durch; zu seinen Erfolgen zählen die Erholung der Büffel-, Gnu- und Elefantenbestände sowie 2019 die Wiederansiedlung von neun vom Aussterben bedrohten Östlichen Spitzmaulnashörnern. Wer hier übernachtet, leistet im direktesten Sinne, der einem Besucher möglich ist, einen Beitrag zu dieser Arbeit.
 
 Zwischen Juni und Juli zieht die Große Tierwanderung durch den westlichen Korridor, wenn riesige Herden von den Kalbungsgebieten nach Norden wandern. Die Überquerungen des Grumeti River, bewacht von Krokodilen, die in seinen ungestörten Gewässern zu außergewöhnlicher Größe herangewachsen sind, gehören zu den prägenden Bildern jeder Safari. Doch auch unabhängig davon bietet die Konzession das ganze Jahr über hervorragende Tierbeobachtung – mit ansässigen Beständen aller großen Arten und einer Wilddichte, die Jahrzehnte konsequenten Schutzes widerspiegelt.
 
-Eine Reiseroute, die Grumeti mit einem anderen Singita-Haus verbindet – Lamai in der Mara oder den Lodges in Sabi Sand in Südafrika –, gehört zu den vollständigsten Safariprogrammen mit mehreren Zielen, die es gibt.
+Eine Reiseroute, die Grumeti mit einem anderen Singita-Haus verbindet – Lamai in der Mara oder den Lodges in Sabi Sand in Südafrika –, ist eine Möglichkeit, ein Safariprogramm mit mehreren Zielen zu gestalten.

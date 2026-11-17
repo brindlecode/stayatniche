@@ -31,7 +31,7 @@ Castello Fai is een gerestaureerd kasteel in het historische centrum van Fai del
 
 Het idee is genieten van de sfeer van een historisch pand zonder in te leveren op modern comfort. De vermelde voorzieningen zijn onder meer de historische sfeer, warmte-isolatie, een keukenblok, 1 Gbit/s-internet, vloerverwarming, LED-verlichting, digitale tv en een multiroom-geluidssysteem. De keuken is uitgerust met servies en apparatuur, en het appartement heeft een privétuin en domotica. Bij Castello Fai en de Residenza delle Contesse zijn een extra babybedje voor kinderen tot drie jaar en een kinderstoel beschikbaar.
 
-De dag begint met open luiken en uitzicht over de kantelen en weilanden naar de contouren van de Paganella. De verhuurder biedt ook andere vakantiewoningen aan: de Residenza delle Contesse en de Torre del Baron.
+De dag begint met open luiken en uitzicht over de kantelen en weilanden naar de contouren van de Paganella. Het appartement Castello Fai, geschikt voor maximaal acht personen, bestaat uit de appartementen Torre del Baron en Residenza delle Contesse, die de verhuurder ook los aanbiedt.
 
 ## De omgeving
 

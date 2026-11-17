@@ -21,13 +21,14 @@ bestFor:
 seo:
   metaTitle: "Borgo Castello Panicaglia : château Ombrie | StayAtNiche"
   metaDescription: "Borgo Castello Panicaglia, château de 1266 en Ombrie : chambres nommées, piscine, restaurant, cours de cuisine et vue sur les montagnes ombriennes."
+niche_feature: "Chambres dans un château datant de 1266, au cœur du borgo de Panicaglia ; le site recense environ 17 chambres et suites nommées, ainsi que la maison de vacances Michele, attenante à l'hôtel et non située dans le château."
 ---
 
 Borgo Castello Panicaglia occupe un château construit en 1266 dans le petit village médiéval de Panicaglia, en Ombrie. Perché à 800 mètres d'altitude, il offre une vue sur les montagnes ombriennes et fonctionne comme une maison d'hôtes où l'on est invité à prendre part à la vie de famille : jeter un œil à la cuisine, donner un coup de main au potager ou s'installer dans l'un des nombreux coins salon.
 
 ## Les chambres
 
-Le château propose une liste de chambres particulièrement longue, chacune ayant son propre nom. Elles vont des doubles et triples aux suites de luxe et suites familiales. La chambre Raffaele est une double de 35 m² avec salle de bain de luxe et une petite terrasse privative au premier étage du bâtiment principal. Angelo est une suite de luxe de 45 m² dotée de sa propre entrée, Mariastella une suite familiale de 55 m² pour cinq personnes, et Cardinale Pietro Marini une suite deluxe de 60 m² pour deux à quatre personnes. Giovanni est une double de 35 m² adaptée aux voyageurs à mobilité réduite. Certaines chambres voisines, comme Raffaele et Caterina, peuvent être réunies pour former une suite de quatre personnes.
+La maison d'hôtes propose une liste de chambres particulièrement longue, chacune ayant son propre nom. Elles vont des doubles et triples aux suites de luxe et suites familiales. La chambre Raffaele est une double de 35 m² avec salle de bain de luxe et une petite terrasse privative au premier étage du bâtiment principal. Angelo est une suite de luxe de 45 m² dotée de sa propre entrée, Mariastella une suite familiale de 55 m² pour cinq personnes, et Cardinale Pietro Marini une suite deluxe de 60 m² pour deux à quatre personnes. Giovanni est une double de 35 m² adaptée aux voyageurs à mobilité réduite. Certaines chambres voisines, comme Raffaele et Caterina, peuvent être réunies pour former une suite de quatre personnes. La liste complète comprend aussi Rosa, Olimpia, Tobia, Assunta, Sabatina, Luigi, Gaspera, Geltrude, Daniele et Sante, ainsi que la maison de vacances Michele, rattachée à l'hôtel et non située dans le château. Toutes les chambres ne se trouvent pas dans le bâtiment principal : Daniele et Geltrude, par exemple, sont dans une annexe.
 
 Chaque chambre dispose d'une salle de bain privative ainsi que d'un nécessaire à thé et café, et les tarifs incluent le petit-déjeuner. Les murs épais et les plafonds à poutres apparentes font partie du caractère des lieux, tout comme la vue sur les collines ombriennes.
 

@@ -40,4 +40,4 @@ Das Schloss liegt inmitten von 25 Acres Gärten und Ländereien, die es mit dem 
 
 ## Praktische Hinweise
 
-Die Adresse lautet Banwell, Somerset, BS29 6NX. Da es sich um ein Familienhaus handelt, empfiehlt es sich, das Schloss direkt wegen Zimmern und Verfügbarkeit zu kontaktieren und vor der Buchung zu klären, welches Zimmer zu Ihrer Gruppe passt.
+Die Adresse lautet Banwell, Somerset, BS29 6NX. Da es sich um ein Familienhaus handelt, empfiehlt es sich, das Schloss direkt wegen Zimmern und Verfügbarkeit zu kontaktieren und vor der Buchung zu klären, welches Zimmer zu Ihrer Gruppe passt. Die Website des Schlosses trägt ein Copyright von 2009 und wurde offenbar seitdem nicht aktualisiert; klären Sie daher vor der Planung, ob derzeit Bed & Breakfast angeboten wird, und zu welchen Preisen.

@@ -3,12 +3,12 @@ name: "Otterburn Castle Country House Hotel"
 category: castle-hotels
 destination: "Otterburn, Northumberland"
 country: "United Kingdom"
-description: "A Grade II listed castellated country house in Northumberland National Park with 17 en-suite bedrooms on 32 acres, on the site of a Norman stronghold founded in 1086."
+description: "A Grade II listed castellated country house in Northumberland National Park with 17 en-suite bedrooms on 32 acres, on the site of a medieval fortified tower."
 priceRange: "Rates vary"
 highlights:
   - "17 en-suite bedrooms in a Grade II listed castle"
   - "32 acres of deer park and woodland"
-  - "Norman stronghold founded in 1086, rebuilt in 1830"
+  - "Medieval castle site, present house rebuilt in 1830"
   - "Farm-to-table restaurant TEPÉ"
   - "Close to the site of the 1388 Battle of Otterburn"
 amenities:
@@ -46,11 +46,11 @@ niche_verified_at: 2026-11-17
 
 Otterburn Castle is a Gothic Revival country house in Northumberland National Park, run today as a boutique hotel, event venue and dining destination. It offers 17 en-suite bedrooms inside a Grade II listed building, set in 32 acres of deer park and woodland.
 
-## A thousand years of history
+## Centuries of history
 
-The first stronghold on the site was founded in 1086 by a cousin of William the Conqueror, a Norman fortress guarding England's northern frontier. In 1388 the surrounding land saw the Battle of Otterburn, in which Scottish forces led by James Douglas faced an English army under Henry "Hotspur" Percy. Both commanders were captured, and the battle was later retold in ballads across Europe.
+The site has medieval roots: the Northumberland heritage record describes a fortified pele tower here that appears to have existed before the middle of the 13th century. In 1388 the surrounding land saw the Battle of Otterburn, in which Scottish forces led by James Douglas faced an English army under Henry "Hotspur" Percy. Both commanders were captured, and the battle was later retold in ballads across Europe.
 
-The estate passed to Clan Hall, and the present building dates from 1830, when Thomas James, a magistrate, rebuilt it using stones from the old medieval fortress. It became a Grade II listed building on 7 January 1988.
+The estate passed to Clan Hall, and the present building dates from 1830, when Thomas James, a magistrate, rebuilt it in the castellated style. Sources differ on how much of the medieval fabric survives. It became a Grade II listed building on 7 January 1988.
 
 ## Staying here
 

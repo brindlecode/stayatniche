@@ -1,16 +1,16 @@
 ---
 source: the-ghan-australia
 destination: "De Adelaida a Darwin (y vuelta)"
-description: "Una travesía de 2.979 kilómetros por el continente australiano, de Adelaida, a orillas del océano Antártico, a Darwin, junto al mar de Timor, en 54 horas. The Ghan cruza el Centro Rojo pasando por Alice Springs, con excursiones fuera del tren a la garganta de Katherine y un vuelo chárter opcional a Uluru en algunas salidas."
+description: "Una travesía de 2.979 kilómetros por el continente australiano, de Adelaida, a orillas del océano Antártico, a Darwin, junto al mar de Timor, en dos o tres noches (de tres a cuatro días). The Ghan cruza el Centro Rojo pasando por Alice Springs, con excursiones fuera del tren a la garganta de Katherine y un vuelo chárter opcional a Uluru en algunas salidas."
 highlights:
   - "Travesía de 2.979 km por el continente australiano, de costa a costa"
   - "Cruza el Centro Rojo pasando por Alice Springs, el corazón espiritual de Australia"
   - "La forma más completa de conocer el Outback australiano"
-  - "Gold Service y Platinum Service, con camarotes con baño propio"
+  - "Cuatro niveles de servicio: Gold, Gold Premium, Platinum y suites Aurora/Australis"
   - "Excursiones fuera del tren en Alice Springs (con opción de ir a Uluru en el día) y en la garganta de Katherine"
   - "La legendaria Ghan Expedition, un viaje ampliado de 4 días con más actividades fuera del tren"
 amenities:
-  - "Camarotes privados Platinum y Gold Service"
+  - "Camarotes privados en las clases Gold, Gold Premium, Platinum y Aurora/Australis"
   - "Baño privado con ducha en Platinum"
   - "Pensión completa con todas las comidas en el Queen Adelaide Restaurant"
   - "Vino, cerveza y licores incluidos en Platinum Service"
@@ -29,7 +29,7 @@ prosAndCons:
     - "La Ghan Expedition aporta mucha más profundidad con experiencias ampliadas fuera del tren"
     - "Un verdadero icono de la cultura y la historia australianas"
   cons:
-    - "Un viaje de 54 horas puede hacerse largo en los camarotes Gold Service, que son compactos"
+    - "Un viaje de varios días puede hacerse largo en los camarotes Gold Service, que son compactos"
     - "El paisaje del Outback es espectacular pero uniforme, y a algunos les resulta monótono al segundo día"
     - "Con el calor australiano, el aire acondicionado de Platinum es importante: revisa las fechas de salida"
     - "Pocas salidas: el tren circula una vez por semana en cada sentido"
@@ -51,13 +51,13 @@ seo:
   metaDescription: "The Ghan recorre 2.979 km de Australia, de Adelaida a Darwin, por el Centro Rojo: camarotes Platinum, Alice Springs y la garganta de Katherine. Desde 1.200 US$."
 ---
 
-The Ghan cruza Australia de sur a norte: 2.979 kilómetros en 54 horas, de Adelaida, a orillas del océano Antártico, a Darwin, junto al mar de Timor, a través de paisajes del Centro Rojo que ya eran antiguos cuando los primeros humanos llegaron a este continente hace 50.000 años. Ningún otro viaje deja tan visceralmente clara la escala del interior australiano.
+The Ghan cruza Australia de sur a norte: 2.979 kilómetros en dos o tres noches, de Adelaida, a orillas del océano Antártico, a Darwin, junto al mar de Timor, a través de paisajes del Centro Rojo que ya eran antiguos cuando los primeros humanos llegaron a este continente hace 50.000 años. Ningún otro viaje deja tan visceralmente clara la escala del interior australiano.
 
 El tren debe su nombre a los camelleros afganos que llegaron a Australia en el siglo XIX para transportar suministros por el interior, cuyas caravanas resultaron más fiables que los caballos en el calor extremo y las distancias sin agua del Outback. La primera línea ferroviaria hasta Alice Springs se completó en 1929; la conexión completa hasta Darwin no se terminó hasta 2004, lo que convierte la travesía íntegra de norte a sur en una de las grandes infraestructuras más recientes de Australia.
 
 La salida de Adelaida a última hora de la tarde permite a los viajeros acomodarse mientras las tierras vinícolas de Australia Meridional desfilan por las ventanas y la luz cambia sobre las colinas y la región del Murray. Por la mañana, la transición ya se ha producido: el paisaje al otro lado de la ventana es el Outback en toda su plenitud, sin concesiones, una tierra roja y llana que se extiende hasta un horizonte de una rectitud que parece geométricamente imposible, salpicado de robles del desierto y de algún que otro lecho de río seco de arena blanca. Los colores del interior australiano cambian a lo largo del día con la luz de un modo que recompensa la atención sostenida, desde el gris violáceo y fresco de primera hora hasta los rojos y ocres abrasadores del mediodía y el extraordinario púrpura y oro del final de la tarde.
 
-Platinum Service ofrece la experiencia más cómoda: un camarote privado con baño y ducha, una cama doble dispuesta en el sentido de la marcha para dormir mejor y acceso al salón Platinum, con bebidas incluidas y un nivel de atención personal que hace que el tren se sienta más como un pequeño hotel que como un transporte público. Gold Service es más compacto y comparte los baños, una concesión aceptable para quienes priorizan la experiencia sobre el alojamiento.
+Platinum Service ofrece la experiencia más cómoda: un camarote privado con baño y ducha, una cama doble dispuesta en el sentido de la marcha para dormir mejor y acceso al salón Platinum, con bebidas incluidas y un nivel de atención personal que hace que el tren se sienta más como un pequeño hotel que como un transporte público. Gold Service es más compacto: los camarotes Gold Twin tienen baño privado, mientras que los Gold Single usan duchas y aseos compartidos al final del vagón, una concesión aceptable para quienes priorizan la experiencia sobre el alojamiento. Los camarotes Gold Premium añaden baño privado, y las suites Aurora y Australis ofrecen un dormitorio completo con baño grande.
 
 Alice Springs, en el centro geográfico de Australia, permite una excursión de dos a cuatro horas fuera del tren que puede incluir el Desert Park, centros culturales o, para quien esté dispuesto a tomar un vuelo chárter, un día extraordinario en Uluru, el gran monolito de arenisca que es el centro espiritual de la cultura aborigen australiana. Katherine, más al norte, da acceso a la garganta de Katherine, en el Parque Nacional Nitmiluk, un extraordinario sistema de cañones de arenisca excavado durante millones de años por los ríos de la Tierra de Arnhem.
 

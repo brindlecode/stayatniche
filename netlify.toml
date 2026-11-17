@@ -621,6 +621,186 @@
   status = 301
 
 [[redirects]]
+  from = "/hotels/juvet-landscape-hotel-norway/*"
+  to = "/categories/cliffside-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/juvet-landscape-hotel-norway"
+  to = "/categories/cliffside-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/juvet-landscape-hotel-norway/*"
+  to = "/de/kategorien/klippenhotels/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/juvet-landscape-hotel-norway"
+  to = "/de/kategorien/klippenhotels/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/juvet-landscape-hotel-norway/*"
+  to = "/fr/categories/hotels-a-flanc-de-falaise/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/juvet-landscape-hotel-norway"
+  to = "/fr/categories/hotels-a-flanc-de-falaise/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/juvet-landscape-hotel-norway/*"
+  to = "/es/categorias/hoteles-en-acantilados/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/juvet-landscape-hotel-norway"
+  to = "/es/categorias/hoteles-en-acantilados/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/juvet-landscape-hotel-norway/*"
+  to = "/it/categorie/hotel-a-strapiombo/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/juvet-landscape-hotel-norway"
+  to = "/it/categorie/hotel-a-strapiombo/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/juvet-landscape-hotel-norway/*"
+  to = "/nl/categorieen/klifhotels/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/juvet-landscape-hotel-norway"
+  to = "/nl/categorieen/klifhotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/machupicchu-ecolodge-peru/*"
+  to = "/categories/jungle-lodges/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/machupicchu-ecolodge-peru"
+  to = "/categories/jungle-lodges/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/machupicchu-ecolodge-peru/*"
+  to = "/de/kategorien/dschungel-lodges/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/machupicchu-ecolodge-peru"
+  to = "/de/kategorien/dschungel-lodges/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/machupicchu-ecolodge-peru/*"
+  to = "/fr/categories/lodges-dans-la-jungle/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/machupicchu-ecolodge-peru"
+  to = "/fr/categories/lodges-dans-la-jungle/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/machupicchu-ecolodge-peru/*"
+  to = "/es/categorias/lodges-en-la-selva/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/machupicchu-ecolodge-peru"
+  to = "/es/categorias/lodges-en-la-selva/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/machupicchu-ecolodge-peru/*"
+  to = "/it/categorie/lodge-nella-giungla/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/machupicchu-ecolodge-peru"
+  to = "/it/categorie/lodge-nella-giungla/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/machupicchu-ecolodge-peru/*"
+  to = "/nl/categorieen/junglelodges/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/machupicchu-ecolodge-peru"
+  to = "/nl/categorieen/junglelodges/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/niku-hide-finland/*"
+  to = "/categories/treehouse-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/niku-hide-finland"
+  to = "/categories/treehouse-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/niku-hide-finland/*"
+  to = "/de/kategorien/baumhaushotels/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/niku-hide-finland"
+  to = "/de/kategorien/baumhaushotels/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/niku-hide-finland/*"
+  to = "/fr/categories/cabanes-dans-les-arbres/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/niku-hide-finland"
+  to = "/fr/categories/cabanes-dans-les-arbres/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/niku-hide-finland/*"
+  to = "/es/categorias/cabanas-en-los-arboles/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/niku-hide-finland"
+  to = "/es/categorias/cabanas-en-los-arboles/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/niku-hide-finland/*"
+  to = "/it/categorie/case-sugli-alberi/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/niku-hide-finland"
+  to = "/it/categorie/case-sugli-alberi/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/niku-hide-finland/*"
+  to = "/nl/categorieen/boomhutten/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/niku-hide-finland"
+  to = "/nl/categorieen/boomhutten/"
+  status = 301
+
+[[redirects]]
   from = "/hotels/nothofagus-hotel-chile/*"
   to = "/categories/jungle-lodges/"
   status = 301
@@ -921,6 +1101,66 @@
   status = 301
 
 [[redirects]]
+  from = "/hotels/the-bubble-hotel-belgium/*"
+  to = "/categories/bubble-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/the-bubble-hotel-belgium"
+  to = "/categories/bubble-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/the-bubble-hotel-belgium/*"
+  to = "/de/kategorien/bubble-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/the-bubble-hotel-belgium"
+  to = "/de/kategorien/bubble-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/the-bubble-hotel-belgium/*"
+  to = "/fr/categories/nuit-dans-une-bulle/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/the-bubble-hotel-belgium"
+  to = "/fr/categories/nuit-dans-une-bulle/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/the-bubble-hotel-belgium/*"
+  to = "/es/categorias/hoteles-burbuja/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/the-bubble-hotel-belgium"
+  to = "/es/categorias/hoteles-burbuja/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/the-bubble-hotel-belgium/*"
+  to = "/it/categorie/dormire-in-una-bolla/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/the-bubble-hotel-belgium"
+  to = "/it/categorie/dormire-in-una-bolla/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/the-bubble-hotel-belgium/*"
+  to = "/nl/categorieen/bubbelhotels/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/the-bubble-hotel-belgium"
+  to = "/nl/categorieen/bubbelhotels/"
+  status = 301
+
+[[redirects]]
   from = "/hotels/the-castle-hotel-taunton-united-kingdom/*"
   to = "/categories/castle-hotels/"
   status = 301
@@ -978,6 +1218,66 @@
 [[redirects]]
   from = "/nl/verblijven/the-castle-hotel-taunton-united-kingdom"
   to = "/nl/categorieen/kasteelhotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/wadi-rum-bubble-camp-jordan/*"
+  to = "/categories/bubble-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/wadi-rum-bubble-camp-jordan"
+  to = "/categories/bubble-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/wadi-rum-bubble-camp-jordan/*"
+  to = "/de/kategorien/bubble-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/de/unterkuenfte/wadi-rum-bubble-camp-jordan"
+  to = "/de/kategorien/bubble-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/wadi-rum-bubble-camp-jordan/*"
+  to = "/fr/categories/nuit-dans-une-bulle/"
+  status = 301
+
+[[redirects]]
+  from = "/fr/hebergements/wadi-rum-bubble-camp-jordan"
+  to = "/fr/categories/nuit-dans-une-bulle/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/wadi-rum-bubble-camp-jordan/*"
+  to = "/es/categorias/hoteles-burbuja/"
+  status = 301
+
+[[redirects]]
+  from = "/es/alojamientos/wadi-rum-bubble-camp-jordan"
+  to = "/es/categorias/hoteles-burbuja/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/wadi-rum-bubble-camp-jordan/*"
+  to = "/it/categorie/dormire-in-una-bolla/"
+  status = 301
+
+[[redirects]]
+  from = "/it/alloggi/wadi-rum-bubble-camp-jordan"
+  to = "/it/categorie/dormire-in-una-bolla/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/wadi-rum-bubble-camp-jordan/*"
+  to = "/nl/categorieen/bubbelhotels/"
+  status = 301
+
+[[redirects]]
+  from = "/nl/verblijven/wadi-rum-bubble-camp-jordan"
+  to = "/nl/categorieen/bubbelhotels/"
   status = 301
 
 [[redirects]]

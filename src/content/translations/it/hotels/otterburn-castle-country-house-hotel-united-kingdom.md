@@ -1,11 +1,11 @@
 ---
 source: otterburn-castle-country-house-hotel-united-kingdom
 destination: "Otterburn, Northumberland"
-description: "Casa di campagna merlata in stile neogotico, vincolata Grado II, nel Parco nazionale del Northumberland, con 17 camere con bagno privato su 32 acri, sul sito di una roccaforte normanna fondata nel 1086."
+description: "Casa di campagna merlata in stile neogotico, vincolata Grado II, nel Parco nazionale del Northumberland, con 17 camere con bagno privato su 32 acri, sul sito di una torre fortificata medievale."
 highlights:
   - "17 camere con bagno privato in un castello vincolato Grado II"
   - "32 acri tra parco dei cervi e bosco"
-  - "Roccaforte normanna fondata nel 1086, ricostruita nel 1830"
+  - "Sito di un castello medievale, edificio attuale ricostruito nel 1830"
   - "Ristorante farm-to-table TEPÉ"
   - "Vicino al luogo della battaglia di Otterburn del 1388"
 amenities:
@@ -24,11 +24,11 @@ seo:
 
 Otterburn Castle è una casa di campagna in stile neogotico nel Parco nazionale del Northumberland, oggi gestita come hotel boutique, sede di eventi e meta gastronomica. Offre 17 camere con bagno privato in un edificio vincolato, immerse in 32 acri tra parco dei cervi e bosco.
 
-## Mille anni di storia
+## Secoli di storia
 
-La prima fortezza del sito fu fondata nel 1086 da un cugino di Guglielmo il Conquistatore, una roccaforte normanna a guardia del confine settentrionale dell'Inghilterra. Nel 1388 la battaglia di Otterburn si combatté sui terreni circostanti: le forze scozzesi guidate da James Douglas affrontarono un esercito inglese comandato da Henry «Hotspur» Percy. Entrambi i comandanti furono catturati, e la battaglia fu poi raccontata in ballate in tutta Europa.
+Il sito ha radici medievali: il registro del patrimonio del Northumberland descrive qui una torre fortificata (pele) che sembra esistere già prima della metà del XIII secolo. Nel 1388 la battaglia di Otterburn si combatté sui terreni circostanti: le forze scozzesi guidate da James Douglas affrontarono un esercito inglese comandato da Henry «Hotspur» Percy. Entrambi i comandanti furono catturati, e la battaglia fu poi raccontata in ballate in tutta Europa.
 
-La proprietà passò al clan Hall, e l'edificio attuale risale al 1830, quando Thomas James, magistrato, lo ricostruì con le pietre dell'antica fortezza medievale. Dal 7 gennaio 1988 è vincolato come edificio di Grado II.
+La proprietà passò al clan Hall, e l'edificio attuale risale al 1830, quando Thomas James, magistrato, lo ricostruì in stile merlato. Le fonti divergono su quanta parte della struttura medievale sopravviva. Dal 7 gennaio 1988 è vincolato come edificio di Grado II.
 
 ## Soggiornare qui
 

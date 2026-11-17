@@ -1,18 +1,18 @@
 ---
 source: six-senses-shaharut-israel
 destination: Shaharut, Negevwoestijn
-description: Zestig villa's uitgehouwen in een plateau in de Negevwoestijn op 900 meter hoogte, boven het kruispunt van drie oude handelsroutes door de woestijn, de Wierookroute, de Specerijenroute en de Koningsweg. De architectuur is geïnspireerd op de Nabateese rotswoningen die ooit langs deze routes stonden; het zijn de spabehandelingen en wellnessprogramma's die hedendaagse gasten naar deze verder nauwelijks bewoonde hoek van Zuid-Israël trekken.
+description: "Een woestijnretraite met 60 suites en villa's, ingebed in een indrukwekkende rotswand met panoramisch uitzicht op de Negevwoestijn, een Six Senses-spa met zes behandelkamers en een zoetwater-infinityzwembad."
 highlights:
-  - Plateau in de Negevwoestijn op 900 m boven zeeniveau
-  - Rotsarchitectuur geïnspireerd op de Nabateeërs
-  - Erfgoed van de Wierookroute (UNESCO) in de buurt
-  - Six Senses-spa
-  - Sterrenkijken in een internationaal erkend donkerhemelgebied
+  - "60 suites en villa's ingebed in een rotswand met panoramisch uitzicht op de Negevwoestijn"
+  - "Ontwerp dat doet denken aan de Nabateese gemeenschap die hier meer dan 2.000 jaar geleden woonde"
+  - "Interieurs geïnspireerd op de oude Wierookroute"
+  - "Six Senses-spa"
+  - "Sterrenkijksessies in de Negev"
 amenities:
   - Six Senses-spa
-  - Infinityzwembad boven een woestijnkloof
+  - "Zoetwater-infinityzwembad met uitzicht op de woestijn"
   - De hele dag dineren met uitzicht op de woestijn
-  - Wandelingen met gids door de Negev
+  - "Wandelen, kameeltochten en jeeptochten"
   - Sterrenkijkprogramma
 bestFor:
   - Wellnessreizigers
@@ -22,13 +22,13 @@ bestFor:
   - Luxe retraite voor stellen
 seo:
   metaTitle: "Six Senses Shaharut: luxe in de Negevwoestijn | StayAtNiche"
-  metaDescription: "Six Senses Shaharut in Israël: 60 villa's in Nabateese stijl op een plateau in de Negev, met een Six Senses-spa, de Wierookroute en een sterrenhemel."
+  metaDescription: "Six Senses Shaharut in Israël: 60 suites en villa's in een rotswand met uitzicht op de Negev, Six Senses-spa met zes behandelkamers en sterrenkijksessies."
 ---
 
-De Negevwoestijn beslaat 60% van het grondgebied van Israël, maar er woont minder dan 10% van de bevolking. In Shaharut, op een plateau boven de kloof van de Nahal Paran, is de leegte totaal: rotswoestijn van horizon tot horizon, een onbelemmerde hemel en in de blootliggende rotswanden een geologisch archief van 600 miljoen jaar. De Nabateeërs, de oude Arabische beschaving die de regionale specerijenhandel beheerste van ongeveer 400 v.Chr. tot 100 n.Chr., bouwden overal in dit landschap nederzettingen en karavanserais, en de Wierookroute, die op de Werelderfgoedlijst van UNESCO staat, loopt op enkele kilometers van het resort.
+De Negevwoestijn beslaat 60% van het landoppervlak van Israël, maar telt minder dan 10% van de bevolking. In Shaharut is de leegte compleet: rotsachtige woestijn van horizon tot horizon en een onbelemmerde hemel. De Nabateeërs, de oude Arabische beschaving die van ongeveer 400 v.Chr. tot 100 n.Chr. de regionale specerijenhandel beheerste, bouwden in dit landschap nederzettingen en karavanserai's.
 
-Six Senses vertaalde het Nabateese erfgoed naar architectuur: de zestig villa's zijn gebouwd van lokale zandsteen en in de rotsen ingepast op een manier die naar de oude bouwwerken verwijst, met privézwembaden die boven de kloof lijken te hangen. De esthetiek is tegelijk oeroud en precies: de spapaviljoens gebruiken traditionele bouwmaterialen in vormen die onmiskenbaar eigentijds zijn. De kenmerkende gezondheidsprogramma's van Six Senses (biohacking, slaapanalyse, persoonlijke detox) zijn overal beschikbaar.
+Volgens Six Senses is de uitstraling van het resort geïnspireerd op de nomadische bouwwerken in de Negev en doet ze denken aan de Nabateese gemeenschap die hier meer dan 2.000 jaar geleden woonde. De 60 suites en villa's zijn in de grond ingebed en ontworpen om op te gaan in het woestijnlandschap. De interieurs putten uit de patronen en texturen van de oude Wierookroute; meubels en afwerking komen van lokale ambachtslieden en combineren natuursteen, hout en koper, en de binnendeuren zijn gemaakt van hergebruikt teak. De Six Senses-spa heeft zes behandelkamers, uiteenlopende wellnessprogramma's, een Alchemy Bar om plantaardige mengsels te maken en gastpractitioners in Chinese geneeskunde, osteopathie en energetische healing.
 
-De Negev is een van de aangewezen donkerhemelgebieden van Israël: in nachten rond nieuwe maan zie je de Melkweg van horizon tot horizon, en doordat er binnen 50 kilometer geen noemenswaardige lichtbron is, is dat werkelijk uitzonderlijk. Het astronomieprogramma van het hotel omvat sterrenkijken met gids en professionele telescopen.
+Sterrenkijksessies maken deel uit van het programma. Het resort heeft ook een openluchtamfitheater dat uit de natuurlijke contouren van het terrein is gevormd en dient als Six Senses-'Cinema Paradiso' onder de sterren, en twee zwembaden, waaronder een zoetwater-infinityzwembad met uitzicht op de woestijn.
 
-Wandelen in het Negevhoogland, over de Israel National Trail, delen van de Wierookroute en rond de nabijgelegen krater Makhtesh Ramon (een geologisch fenomeen dat uniek is voor deze regio), vormt de kern van de buitenactiviteiten. Eilat ligt 50 kilometer naar het zuiden en heeft internationale verbindingen; Tel Aviv ligt op 3,5 uur rijden, of op 1 uur vliegen naar Eilat met een transfer.
+Tot de activiteiten behoren kameeltochten en overnachten in tenten, wandelen, e-mountainbiketochten, jeeptochten en een sjabbatsdiner in een nabijgelegen gemeenschap, met de Dode Zee, Masada en Petra wat verder weg. De vlucht van Tel Aviv naar Eilat duurt 50 minuten, gevolgd door een transfer van 45 minuten vanaf het vliegveld Ramon; met de auto is het ongeveer drieënhalf uur vanaf Tel Aviv of Jeruzalem, of drie uur vanaf Petra in Jordanië.

@@ -21,13 +21,14 @@ bestFor:
 seo:
   metaTitle: "Borgo Castello Panicaglia: castello in Umbria | StayAtNiche"
   metaDescription: "Borgo Castello Panicaglia in Umbria: casa per ospiti in un castello del 1266, con piscina, ristorante, corsi di cucina e camere con nome proprio."
+niche_feature: "Camere in un castello del 1266 nel borgo di Panicaglia; il sito elenca circa 17 camere e suite con nome, più la casa vacanze Michele, che confina con l'hotel e non si trova nel castello."
 ---
 
 Borgo Castello Panicaglia occupa un castello costruito nel 1266 nel piccolo borgo medievale di Panicaglia, in Umbria. Si trova a 800 metri di altitudine, con vista sulle montagne umbre, e funziona come casa per ospiti dove si è invitati a prendere parte alla vita di famiglia: sbirciare in cucina, dare una mano nell'orto o accomodarsi in uno dei tanti angoli salotto.
 
 ## Le camere
 
-Il castello ha un elenco di camere insolitamente lungo, ognuna con un proprio nome. Si va da doppie e triple fino a suite di lusso e suite familiari. La camera Raffaele è una doppia da 35 m² con bagno di lusso e una piccola terrazza privata al primo piano dell'edificio principale. Angelo è una suite di lusso da 45 m² con ingresso indipendente, Mariastella è una suite familiare da 55 m² per cinque persone e Cardinale Pietro Marini è una suite deluxe da 60 m² per due-quattro persone. Giovanni è una doppia da 35 m² adatta a ospiti con mobilità ridotta. Alcune camere vicine, come Raffaele e Caterina, possono essere unite per formare una suite da quattro persone.
+La casa d'ospiti ha un elenco di camere insolitamente lungo, ognuna con un proprio nome. Si va da doppie e triple fino a suite di lusso e suite familiari. La camera Raffaele è una doppia da 35 m² con bagno di lusso e una piccola terrazza privata al primo piano dell'edificio principale. Angelo è una suite di lusso da 45 m² con ingresso indipendente, Mariastella è una suite familiare da 55 m² per cinque persone e Cardinale Pietro Marini è una suite deluxe da 60 m² per due-quattro persone. Giovanni è una doppia da 35 m² adatta a ospiti con mobilità ridotta. Alcune camere vicine, come Raffaele e Caterina, possono essere unite per formare una suite da quattro persone. L'elenco completo comprende anche Rosa, Olimpia, Tobia, Assunta, Sabatina, Luigi, Gaspera, Geltrude, Daniele e Sante, oltre alla casa vacanze Michele, collegata all'hotel e non situata nel castello. Non tutte le camere sono nell'edificio principale: Daniele e Geltrude, per esempio, si trovano in una dépendance.
 
 Ogni camera ha il bagno privato e dotazioni per tè e caffè, e nel prezzo è inclusa la colazione. Muri spessi e soffitti con travi di legno fanno parte del carattere del luogo, insieme alla vista sulle colline umbre.
 

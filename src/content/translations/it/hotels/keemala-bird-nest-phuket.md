@@ -1,17 +1,17 @@
 ---
 source: keemala-bird-nest-phuket
 destination: "Kamala, Phuket"
-description: "Ville sferiche appollaiate su pali di legno inclinati sopra una gola nella giungla di Kamala, a Phuket, ispirate alla mitologia di quattro antichi clan della foresta thailandese. Ogni Bird's Nest Pool Villa ha una piscina a sfioro privata con vista sul Mare delle Andamane, e la Marbas Spa offre trattamenti in padiglioni all'aperto sospesi sulla gola."
+description: "Ville con esterno intrecciato a forma di nido a Kamala, Phuket, ispirate alla mitologia di quattro antichi clan della foresta thailandese. Ogni Bird's Nest Pool Villa è una villa con piscina privata di 185 m², piscina e solarium inclusi, con vista su mare, foresta pluviale e resort; il resort ha anche la Mala Spa."
 highlights:
-  - "Ville sferiche Bird's Nest su pali sopra la giungla"
-  - "Piscina a sfioro privata con vista sul Mare delle Andamane"
+  - "Bird's Nest Pool Villas con il caratteristico esterno intrecciato a forma di nido"
+  - "Piscina privata con vista su mare, foresta pluviale e resort"
   - "Ispirato alla mitologia di quattro antichi clan thailandesi"
-  - "Eccellente Marbas Spa ed esperienze di benessere nella giungla"
+  - "Mala Spa ed esperienze di benessere"
 amenities:
-  - "Bird's Nest Pool Villa su struttura sopraelevata"
-  - "Piscina a sfioro privata con vista su mare e giungla"
+  - "Bird's Nest Pool Villa di 185 m², piscina e solarium inclusi, fino a tre ospiti"
+  - "Piscina privata con vista su mare, foresta pluviale e resort"
   - "Doccia a pioggia all'aperto"
-  - "Marbas Spa"
+  - "Mala Spa"
   - "Due ristoranti e bar in piscina"
   - "Maggiordomo su richiesta"
 bestFor:
@@ -20,14 +20,14 @@ bestFor:
   - "Appassionati di design"
   - "Amanti del benessere di lusso"
 seo:
-  metaTitle: "Keemala Phuket: ville a nido sugli alberi | StayAtNiche"
-  metaDescription: "Keemala, Phuket: ville sferiche a nido d'uccello sospese sulla giungla di Kamala, con piscina a sfioro privata vista Mare delle Andamane e la Marbas Spa."
+  metaTitle: "Keemala Phuket: ville a nido d'uccello | StayAtNiche"
+  metaDescription: "Keemala, Phuket: Bird's Nest Pool Villas con esterno intrecciato a nido d'uccello, piscina privata e vista su mare, foresta e resort. Con la Mala Spa."
 ---
 
-Keemala occupa una collina sopra la spiaggia relativamente tranquilla di Kamala, sulla costa occidentale di Phuket, e fin dall'arrivo è chiaro che il resort ha un'identità concettuale compiuta. Tutto ruota attorno alla mitologia di quattro antichi clan della foresta thailandese, ciascuno con un proprio rapporto con la natura e ciascuno rappresentato da una diversa tipologia di villa. Le Bird's Nest Pool Villas, le più originali dal punto di vista architettonico, si ispirano al legame del clan Pa-Hin con il volo e la costruzione del nido. Il risultato sono strutture sferiche e ovoidali appollaiate su pali di legno inclinati sopra una gola nella giungla, con forme arrotondate che evocano un gigantesco nido visto dal basso.
+Keemala occupa una collina sopra la spiaggia relativamente tranquilla di Kamala, sulla costa occidentale di Phuket, e fin dall'arrivo è chiaro che il resort ha un'identità concettuale compiuta. Tutto ruota attorno alla mitologia di quattro antichi clan della foresta thailandese, ciascuno con un proprio rapporto con la natura e ciascuno rappresentato da una diversa tipologia di villa. Le Bird's Nest Pool Villas si ispirano al clan Rung-Nok (Nido), il cui stile distintivo si esprime nell'esterno intrecciato a forma di nido. Sono ville con piscina privata e vista su mare, foresta pluviale e resort. Le Tree Pool Houses, separate, sono le ville su due piani in stile casa sull'albero del resort.
 
-Non si tratta di semplici gesti scultorei: sono suite pienamente abitabili e di autentica qualità. Gli interni impiegano materiali naturali e caldi — teak, rattan, tessuti thailandesi tessuti a mano — disposti su una pianta circolare che segue la forma esterna. La piscina a sfioro privata occupa una terrazza che sembra galleggiare sopra la volta degli alberi, con vista sul Mare delle Andamane tra palme e alberi della gomma. La doccia a pioggia si trova in un padiglione separato all'interno del giardino privato. Sulle passerelle sopraelevate e al tavolo da pranzo all'aperto, la sensazione fisica di essere davvero sospesi sopra il sottobosco è costante e convincente.
+Ogni villa misura 185 m² compresi piscina e solarium, con un letto king size extralarge, posti per un massimo di tre ospiti, una piscina privata e un ampio bagno con doccia monsone e vasca freestanding. Le ville hanno vista su mare, foresta pluviale e resort.
 
-La Marbas Spa è tra le migliori spa d'hotel della Thailandia. Il menu comprende il massaggio thailandese con tamponi alle erbe, un trattamento sincronizzato a quattro mani e programmi di benessere ispirati alla mitologia dei clan del resort. I trattamenti nei padiglioni all'aperto sopra la gola sono l'opzione più suggestiva.
+L'offerta benessere del resort ruota attorno alla Mala Spa, con ritiri olistici e un programma di stile di vita olistico.
 
-La ristorazione si divide tra due locali principali: Manta, dedicato alla cucina casalinga thailandese tradizionale preparata con i prodotti dell'orto, e Raw, un ristorante biologico incentrato su una cucina a prevalenza vegetale che valorizza le erbe e le piante thailandesi. Cucina, vista mare e cornice architettonica fanno di Keemala una delle esperienze di resort più complete oggi in Thailandia.
+La ristorazione si divide tra due locali principali: Manta, dedicato alla cucina casalinga thailandese tradizionale preparata con i prodotti dell'orto, e Raw, un ristorante biologico incentrato su una cucina a prevalenza vegetale che valorizza le erbe e le piante thailandesi.

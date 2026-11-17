@@ -144,6 +144,7 @@ const fr: typeof en = {
     around: (place: string) => `Autour de ${place}`,
     save: (name: string) => `Ajouter ${name} aux favoris`,
     scoreTitle: 'Note de la rédaction sur 10 (notre propre évaluation, pas des avis clients)',
+    onlySome: 'Seulement certaines chambres',
     from: 'À partir de',
     perNight: '/ nuit',
     seeRates: 'Voir les tarifs',
@@ -192,6 +193,7 @@ const fr: typeof en = {
     metaTitle: (name: string, dest: string) => `${name} — ${dest} | StayAtNiche`,
     categories: 'Catégories',
     editorScore: 'note de la rédaction',
+    closure: { title: 'Temporairement fermé', checked: (date: string) => `Vérifié le ${date}` },
     niche: {
       specific_rooms: (cat: string) => `Seules certaines chambres correspondent à notre catégorie « ${cat} » ; les autres sont des chambres classiques.`,
       experience_only: (cat: string) => `L’élément « ${cat} » est ici une expérience à vivre sur place, pas l’endroit où l’on dort.`,

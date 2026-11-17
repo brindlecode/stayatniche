@@ -5,7 +5,7 @@ description: "Hôtel de sept chambres troglodytiques historiques à Ürgüp, ave
 highlights:
   - "Sept chambres, toutes présentées comme des chambres troglodytes historiques"
   - "Terrasses et suites avec jacuzzi"
-  - "Surfaces de 30 à 40 m² pour les chambres présentées"
+  - "Surfaces de 30 à 50 m² pour les chambres présentées"
   - "Wi-Fi gratuit, petit-déjeuner et réception 24 h/24"
   - "Ambiance paisible que l'hôtel qualifie de spirituelle"
 amenities:
@@ -26,7 +26,7 @@ Le Romantic Cave Hotel est un hôtel de sept chambres situé à Ürgüp, où cha
 
 ## Les chambres
 
-Parmi les chambres présentées sur le site figurent Oublite et Osiana, de 30 m² chacune, Katbatuka et Helen, de 40 m² chacune, ainsi qu'une Master Room. Toutes sont proposées avec vue sur la Cappadoce. L'hôtel met en avant ses suites avec jacuzzi et ses terrasses. Thé, café, Wi-Fi et un petit-déjeuner spécial figurent parmi les équipements ou prestations incluses.
+Parmi les chambres présentées sur le site figurent Oublite et Osiana, de 30 m² chacune, Katbatuka et Helen, de 40 m² chacune, Eros et Agape, de 50 m² chacune, ainsi qu'une Master Room. Toutes sont proposées avec vue sur la Cappadoce. L'hôtel met en avant ses suites avec jacuzzi et ses terrasses. Thé, café, Wi-Fi et un petit-déjeuner spécial figurent parmi les équipements ou prestations incluses.
 
 ## Service
 

@@ -8,7 +8,7 @@ priceRange: "Rates vary"
 highlights:
   - "19th-century baronial castle built in 1863"
   - "Castle rooms and suites with views of the grounds and loch"
-  - "Eight Walled Garden Rooms in the converted stable block, each with a balcony or terrace"
+  - "Walled Garden rooms and suites in the converted stable block, each with a balcony or terrace"
   - "Gate Lodge with one double and one single bedroom"
   - "Seasgair dining experience by Michel Roux"
 amenities:
@@ -51,7 +51,7 @@ Inverlochy Castle is a 19th-century baronial mansion standing between mountain a
 The rooms are spread across the main castle building and the gardens, and there are three distinct choices:
 
 - **Castle rooms and suites** are individually designed with antique pieces and offer views over the grounds and the loch.
-- **Walled Garden Rooms** are eight rooms in a converted stable block overlooking the peaceful walled garden, each with a balcony or terrace.
+- **Walled Garden Rooms** are rooms and suites in a converted stable block, a five-minute stroll from the castle and overlooking the peaceful walled garden, each with a balcony or terrace.
 - **The Gate Lodge** is an intimate lodge house in the grounds, a short walk from the castle at the front entrance, with one double and one single bedroom.
 
 ## Eating and exploring

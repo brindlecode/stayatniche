@@ -5,7 +5,7 @@ description: "Ein Hotel mit sieben historischen Höhlenzimmern in Ürgüp, mit T
 highlights:
   - "Sieben Zimmer, alle als historische Höhlenzimmer beschrieben"
   - "Terrassen und Jacuzzi-Suiten"
-  - "Zimmergrößen von 30 bis 40 Quadratmetern bei den gelisteten Zimmern"
+  - "Zimmergrößen von 30 bis 50 Quadratmetern bei den gelisteten Zimmern"
   - "Gratis-WLAN, Frühstück und 24-Stunden-Rezeption"
   - "Ruhige Atmosphäre, die das Hotel als spirituell beschreibt"
 amenities:
@@ -26,7 +26,7 @@ Das Romantic Cave Hotel ist ein Hotel mit sieben Zimmern in Ürgüp, in dem jede
 
 ## Die Zimmer
 
-Auf der Website werden unter anderem Oublite und Osiana mit je 30 Quadratmetern sowie Katbatuka und Helen mit je 40 Quadratmetern gelistet; hinzu kommt ein Master Room. Alle Zimmer werden mit Blick auf Kappadokien angeboten. Das Hotel setzt auf Jacuzzi-Suiten und Terrassen. Tee, Kaffee, WLAN und ein besonderes Frühstück werden als Zimmerausstattung oder im Preis enthaltene Leistungen aufgeführt.
+Auf der Website werden unter anderem Oublite und Osiana mit je 30 Quadratmetern Katbatuka und Helen mit je 40 sowie Eros und Agape mit je 50 Quadratmetern gelistet; hinzu kommt ein Master Room. Alle Zimmer werden mit Blick auf Kappadokien angeboten. Das Hotel setzt auf Jacuzzi-Suiten und Terrassen. Tee, Kaffee, WLAN und ein besonderes Frühstück werden als Zimmerausstattung oder im Preis enthaltene Leistungen aufgeführt.
 
 ## Service
 

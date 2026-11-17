@@ -1,18 +1,18 @@
 ---
 source: arctic-bath-sweden
 destination: "Harads, Schwedisch-Lappland"
-description: "Ein Ring aus Treibholz, der auf 66 Grad nördlicher Breite auf dem Fluss Lule älv schwimmt, mit sechs privaten Kabinen und einem zentralen Becken, das das ganze Jahr über zum Himmel offen ist – ein Eisbad, wenn der Fluss im Winter zufriert, ein Bad in freier Natur im Sommer. Die Architekten Bertil Harström und Johan Kauppi haben etwas geschaffen, das die Arktis vollkommen bewohnbar erscheinen lässt."
+description: "Ein schwimmendes Hotel auf dem Lule älv in Schwedisch-Lappland, mit einem kreisrunden Hauptgebäude, das von der Geschichte der Flößerei inspiriert ist, 12 Kabinen (sechs davon schwimmen auf dem Fluss) und einem Spa rund um Saunen und Kaltbaden. Entworfen von den schwedischen Architekten Bertil Harström und Johan Kauppi."
 highlights:
-  - "Schwimmender Hotelring aus Treibholz auf dem zugefrorenen Lule älv"
-  - "Das zentrale Außenbecken wird im Winter zum natürlichen Eisbad"
-  - "Sechs schwimmende Kabinen und vier Waldhütten mit Flussblick"
+  - "Schwimmendes Hotel auf dem Lule älv, im Sommer auf dem Wasser, im Winter ins Eis eingefroren"
+  - "Spa mit zwei Trockensaunen, einer Dampfsauna, zwei Außen-Whirlpools und einem Kaltbad"
+  - "12 Kabinen: sechs schwimmende Kabinen, drei Land-Suiten und drei Land-Familienkabinen"
   - "Nordisches Spa und Wellnessanwendungen das ganze Jahr über"
 amenities:
-  - "Schwimmende Kabine oder Waldhütte mit Panoramablick auf den Fluss"
-  - "Arktisches Spa mit Sauna, Dampfbad und Eisbad"
+  - "Schwimmende Kabine oder Landkabine mit Panoramablick auf den Fluss"
+  - "Spa mit zwei Trockensaunen, Dampfsauna, Außen-Whirlpools und Kaltbad"
   - "Restaurant mit nordischer Küche aus regionalen Zutaten"
-  - "Hundeschlitten- und Schneeschuhtouren im Winter"
-  - "Kajakfahren und Angeln im Sommer"
+  - "Schneemobil-, Schlittenhunde- und Skitouren im Winter, nach Verfügbarkeit"
+  - "Kanu- und Stand-up-Paddle-Verleih im Sommer"
   - "Weckdienst bei Nordlichtern"
 bestFor:
   - "Wellnessreisende"
@@ -21,13 +21,14 @@ bestFor:
   - "Design- und Architekturliebhaber"
 seo:
   metaTitle: "Arctic Bath: Schwimmendes Hotel in Lappland | StayAtNiche"
-  metaDescription: "Schwimmendes Spa-Hotel aus Treibholz auf dem Lule älv in Schwedisch-Lappland: Eisbad im Winter, Mitternachtssonne im Sommer und Nordlichter über dem Fluss."
+  metaDescription: "Arctic Bath: schwimmendes Hotel mit Spa auf dem Lule älv in Schwedisch-Lappland, mit sechs schwimmenden Kabinen, sechs Landkabinen, Saunen und Kaltbad."
+niche_feature: "Sechs von 12 Hütten sind Floating Cabins auf dem Lule älv, die über einen Fußweg über das Wasser erreicht werden; die übrigen sechs (drei Land Suites, drei Land Family) stehen an Land. Das Hotel wird als schwimmend vermarktet."
 ---
 
-Das Arctic Bath liegt auf 66 Grad nördlicher Breite auf dem Lule älv, und das Design ist der ganze Sinn der Sache. Die Architekten Bertil Harström und Johan Kauppi haben das Hotel als hölzernen Ring gebaut: Geschwungene Wände aus Treibholz umschließen ein zentrales Becken, das das ganze Jahr über zum Himmel offen ist. Im Winter, wenn der Fluss zufriert und die Temperatur auf −25 °C fällt, wird dieses Becken zum Eisbad. Im Sommer, wenn die Mitternachtssonne über den Himmel kreist, ist es ein Naturbad mitten in einem borealen Fluss.
+Das Arctic Bath liegt auf dem Lule älv in Schwedisch-Lappland, und das Design ist der ganze Sinn der Sache. Die schwedischen Architekten Bertil Harström und Johan Kauppi haben es als Hommage an das Holzerbe der Region entworfen. Im Zentrum steht ein kreisrundes Hauptgebäude, das von der Geschichte der Flößerei inspiriert ist und das Spa mit dem charakteristischen Kaltbad, Saunen, Whirlpools und Behandlungsräumen sowie Restaurant, Lounge und Bar beherbergt. Im Sommer schwimmt das Gebäude, im Winter ist es ins Eis eingefroren.
 
-Sechs schwimmende Kabinen sind am zentralen Ring befestigt, jede für zwei Personen gedacht, mit Panoramafenstern, die den Fluss und die überhängenden Birken und Kiefern rahmen. Das Design ist nordisch in seiner funktionalsten Form: klare Linien, Kiefer, Birke, Stein und die Aussicht als bestimmendes Element. Jede Kabine hat eine eigene Sauna, die auf diesem Breitengrad eher eine Notwendigkeit als ein Luxus ist. Aus einer 90 Grad heißen Sauna in −20 °C kalte Flussluft zu treten, während über Ihnen Nordlichter tanzen – genau für dieses Erlebnis wurde dieser Ort gebaut.
+Insgesamt gibt es 12 Kabinen. Sechs schwimmende Kabinen liegen am Ufer, jede ein 24 m² großes Doppelzimmer, das über einen Fußweg über das Wasser erreicht wird und von einer 57,5 m² großen Holzterrasse umgeben ist; im Sommer treiben sie frei auf dem Lule älv, im Winter sind sie eingefroren. Die anderen sechs stehen an Land: drei Land-Suiten (62 m², für zwei Personen, mit Schlafgalerie) und drei Land-Familienkabinen (62 m², für bis zu fünf Gäste). Die Einrichtung verbindet modernes skandinavisches Design mit Holz und Stein. Frühstück und der volle Zugang zum Spa sind in jedem Aufenthalt inbegriffen. Laut Hotel erscheinen die Nordlichter oft direkt über dem Haus, zu sehen von der Terrasse oder aus dem warmen Whirlpool nach dem Saunagang.
 
-Das Spa setzt auf nordische Traditionen – Massage mit Birkenquasten, Kältebäder, arktische Tonerde –, und die Außenbecken sind das ganze Jahr über in Betrieb. Das Restaurant am Flussufer serviert Rentier aus Lappland, Süßwasserfisch aus dem Lule älv, gesammelte Kräuter und Beeren sowie täglich im Holzofen gebackenes Brot. Eine kleine, gut ausgewählte Weinkarte.
+Das Spa verwurzelt sich in der schwedischen Saunakultur und im Kaltbaden, mit zwei Trockensaunen, einer Dampfsauna, zwei Außen-Whirlpools und einem Kaltbad, dazu geführte Saunarituale namens Julevädno und ein Arctic-Blend-Erlebnis, bei dem Gäste ihre eigene Pflanzenmischung zusammenstellen. Behandlungen können gegen Aufpreis gebucht werden. Im Restaurant gibt es abends ein festes Menü aus regionalen Zutaten, Frühstück und Mittagessen werden à la carte serviert.
 
-Im Winter gibt es Hundeschlitten- und Schneemobilausflüge gemeinsam mit dem nahen Treehotel. Die Polarlichtsaison reicht von Ende August bis März, und die offene Lage auf dem Fluss macht das Hotel zu einem der besseren Beobachtungsplätze der Region – keine Bäume versperren den Himmel in den entscheidenden Richtungen. Im Sommer locken Kajaktouren unter der Mitternachtssonne und das besondere Licht Nordschwedens im Juni und Juli, das Fotografen für die weite Anreise belohnt.
+Im Winter gehören Schneemobiltouren, Schlittenhundetouren und Skitouren zum Aktivitätenangebot des Hotels, jeweils nach Verfügbarkeit. Die Nordlichtsaison gibt das Hotel mit Ende August bis April an. Im Sommer scheint die Sonne von Ende Mai bis Mitte Juli rund um die Uhr, und an der Rezeption lassen sich Kanus und Stand-up-Paddleboards leihen.

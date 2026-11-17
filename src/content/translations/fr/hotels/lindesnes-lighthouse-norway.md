@@ -1,41 +1,41 @@
 ---
 source: lindesnes-lighthouse-norway
 destination: "Lindesnes, Vest-Agder"
-description: "À la pointe la plus méridionale de la Norvège continentale, le plus ancien phare du pays — en service depuis 1656 — veille sur un hôtel de charme dont les chambres sont taillées directement dans le promontoire rocheux, murs de pierre habillés de bois chaleureux et fenêtres braquées sur la rencontre du Skagerrak et de la mer du Nord. Le restaurant se fournit chaque jour auprès des familles de pêcheurs locales et, l'hiver, on regarde les rafales dépasser 40 mètres par seconde derrière de grandes baies vitrées."
+description: "Le plus ancien phare de Norvège se dresse à la pointe la plus méridionale de la Norvège continentale, là où le Skagerrak rencontre la mer du Nord. Il n'y a pas d'hôtel ici : le seul hébergement est un appartement de vacances dans une moitié de l'ancienne maison de l'adjoint du gardien, le gardien de service occupant l'autre moitié."
 highlights:
-  - "Le plus ancien phare de Norvège, en service depuis 1656"
-  - "La pointe la plus méridionale de la Norvège continentale"
-  - "Des chambres intégrées dans la roche même du promontoire"
-  - "Un remarquable restaurant de poissons et fruits de mer, alimenté par la meilleure pêche de la mer du Nord"
-  - "Le spectacle des tempêtes d'hiver depuis des espaces communs entièrement vitrés"
-  - "Aurores boréales par nuit claire en automne et en hiver"
+  - "Le plus ancien phare de Norvège, dont le premier feu y fut allumé en 1656"
+  - "Point le plus méridional de la Norvège continentale"
+  - "Un appartement de vacances dans une moitié de l'ancienne maison de l'adjoint du gardien"
+  - "Premier musée du phare de Norvège, ouvert en 2004 dans un centre d'accueil creusé dans le roc"
+  - "Des gardiens de phare en service jour et nuit"
+  - "Environ 80 000 visiteurs par an"
 amenities:
-  - "Chambres de charme creusées dans la roche, vue sur l'océan"
-  - "Restaurant de poissons et fruits de mer sur place"
-  - "Spa et sauna"
-  - "Visites guidées du phare et du patrimoine maritime"
-  - "Salon privé pour observer les tempêtes"
-  - "Bains nordiques extérieurs face à la mer du Nord"
+  - "Appartement de vacances dans une moitié de l'ancienne maison de l'adjoint du gardien"
+  - "Musée du phare de Lindesnes"
+  - "Centre d'accueil creusé dans le roc sous la station"
+  - "Corne de brume à diaphone historique, présentée comme la seule encore en service en Norvège"
+  - "Tour de phare en fonte de 1915, haute de 16,1 mètres"
+  - "Bâtiments historiques des gardiens sur la station"
 bestFor:
-  - "Passionnés d'architecture et de design"
-  - "Amateurs de poissons et fruits de mer"
-  - "Couples en quête d'une atmosphère nordique grandiose"
-  - "Chasseurs de tempêtes et passionnés de météo"
+  - "Passionnés de phares"
+  - "Amateurs d'histoire maritime"
+  - "Voyageurs en route vers la pointe sud de la Norvège"
+  - "Visiteurs du musée du phare"
 prosAndCons:
   pros:
-    - "Une intégration extraordinaire de l'architecture dans la roche naturelle"
-    - "L'un des hôtels au site le plus spectaculaire de Scandinavie"
-    - "Une table d'exception ancrée dans la tradition de pêche locale"
-    - "L'expérience unique des tempêtes hivernales, en toute sécurité"
+    - "Dormir au plus ancien phare de Norvège, à la pointe la plus méridionale du continent"
+    - "Musée du phare et centre d'accueil sur place"
+    - "Des gardiens en service jour et nuit"
+    - "Tour historique en fonte de 1915 et bâtiments d'origine des gardiens"
   cons:
-    - "Emplacement isolé, à 2 h 30 de route de Kristiansand"
-    - "Peu de chambres, donc des disponibilités très limitées"
-    - "L'obscurité hivernale peut peser sur certains voyageurs"
-    - "Des tarifs élevés, même pour la côte norvégienne"
+    - "Un seul appartement : la disponibilité est très limitée"
+    - "Pas un hôtel : l'hébergement est un unique appartement de vacances, pas des chambres d'hôtel"
+    - "Isolé : à environ 10 kilomètres du village de Høllen"
+    - "Consultez le site officiel de Lindesnes Fyr pour les tarifs et disponibilités actuels"
 seasonalInfo:
-  bestTime: "De septembre à mars pour les tempêtes et les aurores ; de juin à août pour le soleil de minuit"
-  peakSeason: "L'été (juin-août) et la saison des tempêtes hivernales (novembre-février)"
-  notes: "Le phare est ouvert toute l'année et extraordinaire en toute saison. L'été apporte le phénomène du soleil de minuit : à 23 heures, la lumière est dorée et irréelle. L'automne et l'hiver amènent les spectaculaires tempêtes de la mer du Nord qui ont fait la réputation du cap, et les aurores boréales sont visibles par nuit claire. L'hôtel a été pensé pour faire de l'observation des tempêtes une expérience luxueuse et sûre."
+  bestTime: "Consultez le site officiel de Lindesnes Fyr pour les horaires d'ouverture et la disponibilité de l'appartement"
+  peakSeason: "Non précisé par les sources utilisées pour cette page"
+  notes: "Les sources utilisées pour cette page n'indiquent pas de dates de saison. Consultez le site officiel de Lindesnes Fyr (lindesnesfyr.no) avant de planifier votre séjour."
 nearbyAttractions:
   - name: Musée de Lindesnes
     distance: 0 km
@@ -46,18 +46,14 @@ nearbyAttractions:
   - name: Phare de Lista
     distance: 45 km
 seo:
-  metaTitle: "Lindesnes : dormir dans un phare en Norvège | StayAtNiche"
-  metaDescription: "Dormez au pied du plus ancien phare de Norvège, à la pointe sud du pays : chambres creusées dans la roche, table de la mer du Nord, tempêtes. Dès 350 $ la nuit."
+  metaTitle: "Lindesnes Fyr : appartement au phare | StayAtNiche"
+  metaDescription: "Lindesnes, le plus ancien phare de Norvège, à la pointe sud du continent. Pas d'hôtel : un appartement de vacances dans l'ancienne maison de l'adjoint."
 ---
 
-Lindesnes marque la pointe la plus méridionale de la Norvège continentale depuis 1656, année où le premier phare du pays s'est allumé sur ce promontoire rocheux exposé à tous les vents, à la rencontre du Skagerrak et de la mer du Nord. Près de quatre siècles d'histoire maritime sont inscrits dans la pierre : dans les bâtiments patinés des gardiens, dans le caractère puissant d'un cap qui a tout connu, des calmes de l'été aux furieuses tempêtes d'hiver qui en ont fait l'un des passages les plus redoutés des voiliers le long de la côte norvégienne.
+Lindesnes marque le point le plus méridional de la Norvège continentale. Le premier feu de phare de Norvège y fut allumé le 27 février 1656, à l'entrée du Skagerrak, mais il fut éteint dès l'automne suivant à la suite de plaintes sur la mauvaise qualité de sa lumière ; la station est néanmoins considérée comme fondée en 1656. La tour actuelle, en fonte et haute de 16,1 mètres, date de 1915, année où la lentille y fut transférée depuis l'ancienne tour ; la station a pris sa forme actuelle en 1920, avec une nouvelle salle des machines et une installation de signalisation par brouillard.
 
-L'hôtel bâti autour du phare est un bel exemple de réflexion architecturale scandinave : des chambres creusées directement dans la paroi du promontoire, des murs de pierre naturelle doublés de bois chaleureux, des fenêtres orientées pour cadrer des compositions précises de mer et de ciel. Les concepteurs ont travaillé avec le paysage plutôt que par-dessus, et l'hôtel semble véritablement faire corps avec son site. Les espaces communs sont entièrement vitrés côté océan, si bien que la météo est omniprésente sans jamais devenir inconfortable : on regarde la mer du Nord se déchaîner depuis une pièce chaude et bien conçue, une boisson chaude à la main.
+Ce n'est pas un hôtel. L'hébergement est un unique appartement de vacances dans une moitié de l'ancienne maison de l'adjoint du gardien ; le gardien de service occupe l'autre moitié. Des gardiens sont en poste à Lindesnes jour et nuit, ce que Wikipédia en norvégien présente comme unique parmi les phares norvégiens.
 
-Le restaurant est l'une des meilleures raisons de faire le voyage jusqu'ici. La mer du Nord est extraordinairement généreuse autour de Lindesnes, et la cuisine travaille en direct avec les familles de pêcheurs locales pour servir chaque jour la pêche fraîche. Les préparations salées et fumées perpétuent une tradition nordique de conservation vieille de plusieurs siècles ; les assiettes de produits frais n'ont rien à envier aux meilleures tables d'Oslo ou de Bergen. La carte des vins, resserrée, privilégie délibérément les blancs qui s'accordent avec les produits de la mer.
+À côté du phare se trouve le musée du phare de Lindesnes, premier musée du phare de Norvège, ouvert en 2004 dans un centre d'accueil creusé dans le roc sous la station. Il fait partie du réseau de musées de l'administration côtière norvégienne (Kystverkmusea), que Lindesnes coordonne. L'ancienne corne de brume, un diaphone, est présentée comme la seule installation de ce type encore en service en Norvège. Environ 80 000 personnes visitent le phare chaque année.
 
-L'été, le soleil de minuit teinte le ciel d'un ambre profond à 23 heures, et la mer en contrebas en capte des éclats. L'hiver, les tempêtes autour desquelles l'hôtel a en partie été conçu deviennent le clou du spectacle : des rafales de plus de 40 mètres par seconde ont été enregistrées sur le cap, et les salons vitrés ont été construits précisément pour cela — autant de chaleur que de visibilité.
-
-Par nuit claire, en automne et en hiver, les aurores boréales sont visibles depuis le domaine. L'hôtel se trouve loin de toute pollution lumineuse notable, et les aurores sont d'autant plus éclatantes quand les conditions sont réunies.
-
-C'est une petite adresse dans un lieu extrême. Réservez longtemps à l'avance.
+Lindesnes se trouve dans le comté d'Agder (anciennement Vest-Agder), à environ 10 kilomètres au sud-ouest du village de Høllen. Pour les détails de l'appartement, les tarifs actuels et les horaires, consultez le site officiel de Lindesnes Fyr, lindesnesfyr.no.

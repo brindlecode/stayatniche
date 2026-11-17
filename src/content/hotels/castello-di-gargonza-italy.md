@@ -11,8 +11,6 @@ highlights:
   - "Wooded estate of about 500 hectares with GPS-tracked walking trails"
   - "Between Arezzo and Siena, with views over the Val di Chiana"
 amenities:
-  - "Bar in the village shop"
-  - "Restaurant outside the walls"
   - "Gluten-free menu options"
 bestFor:
   - "Couples"
@@ -51,7 +49,7 @@ Gargonza stands about 540 metres above sea level, looking out over the Val di Ch
 
 ## Where you sleep and eat
 
-The accommodation is a mix of suites and apartments within the walls of the borgo. The village keeps a bar inside its shop, the Bottega di Gargonza, while the restaurant sits just outside the walls. The restaurant is equipped for gluten-free menus, and seasonal menus are offered at Christmas and New Year.
+The accommodation is a mix of suites and apartments within the walls of the borgo. The village has a shop, the Bottega di Gargonza, which also hosts tastings, and a restaurant. The restaurant is equipped for gluten-free menus, and seasonal menus are offered at Christmas and New Year.
 
 ## Around the estate
 

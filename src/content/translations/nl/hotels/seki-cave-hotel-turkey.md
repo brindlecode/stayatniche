@@ -23,7 +23,7 @@ seo:
   metaDescription: "Seki Cave Hotel in Çavuşin, vlakbij Göreme: grothotel met privéterrassen voor ballonnen, jacuzzi op het dak, hamam en 24-uurs receptie in Cappadocië."
 ---
 
-Het Seki Cave Hotel ligt in Çavuşin, een dorp op ongeveer 3 km van Göreme. De naam komt van het Turkse woord voor terrasplatforms, en de terrassen zijn het hoogtepunt: volgens het hotel kun je vanaf een privéterras de zonsopgang, de zonsondergang en de heteluchtballonnen zien. Op de website wordt het hele complex als grothotel gepresenteerd.
+Het Seki Cave Hotel ligt in Çavuşin, een dorp op ongeveer 3 km van Göreme. De naam komt van het Turkse woord voor terrasplatforms, en de terrassen zijn het hoogtepunt: volgens het hotel kun je vanaf een privéterras de zonsopgang, de zonsondergang en de heteluchtballonnen zien. De website belooft “authentieke grotkamers”, maar sommige twin- en tweepersoonskamers in de kamerlijst worden niet als grotkamer aangeduid, dus vraag het bij het boeken.
 
 ## Wat je krijgt
 

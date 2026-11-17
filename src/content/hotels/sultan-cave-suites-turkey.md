@@ -3,12 +3,12 @@ name: "Sultan Cave Suites"
 category: cave-hotels
 destination: "Göreme, Nevşehir"
 country: "Turkey"
-description: "A 35-room hotel on Aydınlı Hill above Göreme, built over old cave houses with the original cave walls kept, and home to the Seten restaurant listed in the 2026 Michelin Guide."
+description: "A 35-room hotel on Aydınlı Hill above Göreme, built over old cave houses with the original cave walls kept, and home to the Seten restaurant, which the hotel says is listed in the 2026 Michelin Guide."
 priceRange: "Rates vary"
 highlights:
   - "35 rooms from Classic Rooms to Sultan Suites, in cave and stone styles"
   - "Built over old cave houses with the original cave walls preserved"
-  - "Seten restaurant on the property is listed in the 2026 Michelin Guide"
+  - "Seten restaurant on the property, which the hotel says is listed in the 2026 Michelin Guide"
   - "Balloon views from many rooms and terraces"
   - "On Aydınlı Hill above Göreme village"
 amenities:

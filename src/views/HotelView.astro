@@ -34,6 +34,7 @@ const scope = d.niche_scope as 'entire_property' | 'specific_rooms' | 'experienc
 const nicheNote = scope && scope !== 'entire_property' ? T.niche[scope](catTitle ?? d.category) : null;
 const featureInOwnLanguage = L.locale === 'en' || d.niche_feature !== hotel.en.niche_feature;
 const checkedOn = d.niche_verified_at ? L.date(d.niche_verified_at) : null;
+const closure = d.closure as { note: string; source_url: string; checked_at: Date } | undefined;
 const priceLabels = t.common.priceLevels;
 const range = L.range(d.priceRange);
 
@@ -143,10 +144,18 @@ const faqItems = T.faq({
       </div>
     </header>
 
-    {nicheNote && (
+    {closure && (
+      <aside role="note" data-closure class="mt-5 rounded-xl border border-gold-300 bg-gold-100 px-4 py-3 font-body text-[15px] leading-relaxed text-warm-800">
+        <p class="font-semibold text-warm-950">{T.closure.title}</p>
+        <p class="mt-1" lang={L.locale === 'en' || closure.note !== hotel.en.closure?.note ? undefined : 'en'}>{closure.note}</p>
+        <p class="mt-1 text-sm text-warm-600">{T.closure.checked(L.date(closure.checked_at))} · <a href={closure.source_url} target="_blank" rel="noopener nofollow" class="underline decoration-warm-300 underline-offset-4 hover:text-warm-950">{T.niche.source}</a></p>
+      </aside>
+    )}
+    {(nicheNote || d.niche_note) && (
       <aside role="note" data-niche-scope={scope} class="mt-5 rounded-xl border border-gold-200 bg-gold-50 px-4 py-3 font-body text-[15px] leading-relaxed text-warm-800">
-        <p class="font-semibold text-warm-950">{nicheNote}</p>
-        {scope !== 'unverified' && d.niche_feature && <p class="mt-1" lang={featureInOwnLanguage ? undefined : 'en'}>{d.niche_feature}</p>}
+        {nicheNote && <p class="font-semibold text-warm-950">{nicheNote}</p>}
+        {d.niche_note && <p class:list={[nicheNote ? 'mt-1' : 'font-semibold text-warm-950']} lang={L.locale === 'en' || d.niche_note !== hotel.en.niche_note ? undefined : 'en'}>{d.niche_note}</p>}
+        {(scope === 'specific_rooms' || scope === 'experience_only') && d.niche_feature && <p class="mt-1" lang={featureInOwnLanguage ? undefined : 'en'}>{d.niche_feature}</p>}
         {scope !== 'unverified' && d.niche_source_url && (
           <p class="mt-1 text-sm text-warm-600">{checkedOn && <>{T.niche.checked(checkedOn)} · </>}<a href={d.niche_source_url} target="_blank" rel="noopener nofollow" class="underline decoration-warm-300 underline-offset-4 hover:text-warm-950">{T.niche.source}</a></p>
         )}
@@ -289,7 +298,7 @@ const faqItems = T.faq({
       </div>
       <div class="grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-4">
         {relatedHotels.map(h => (
-          <HotelCard name={h.data.name} destination={h.data.destination} country={h.data.country} description={h.data.description} priceRange={h.data.priceRange} priceIndicator={h.data.priceIndicator} rating={h.data.rating} highlights={h.data.highlights} bookingUrl={h.data.bookingUrl} slug={h.slug} category={h.data.category} featured={h.data.featured} coverImage={h.data.coverImage} />
+          <HotelCard name={h.data.name} destination={h.data.destination} country={h.data.country} description={h.data.description} priceRange={h.data.priceRange} priceIndicator={h.data.priceIndicator} rating={h.data.rating} highlights={h.data.highlights} bookingUrl={h.data.bookingUrl} slug={h.slug} category={h.data.category} nicheScope={h.data.niche_scope} nicheBadge={h.data.niche_badge} closed={!!h.data.closure} featured={h.data.featured} coverImage={h.data.coverImage} />
         ))}
       </div>
     </section>

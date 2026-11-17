@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Wolkensteiner Zughotel: treinhotel in Saksen | StayAtNiche"
   metaDescription: "Wolkensteiner Zughotel in Wolkenstein, Saksen: slaapwagoncoupés, vakantieappartementen in omgebouwde wagons en een restaurant in een salonwagon."
+niche_feature: "Gasten slapen in originele slaapwagencoupés (10 coupés, 1e/2e klas, een regeringscoupé, twee suites) en in vijf ‘Ferienzug’-wagons met vakantieappartementen; twee vakantieappartementen liggen in het stationsgebouw uit 1865 (gewone kamers). In totaal 54 slaapplaatsen."
 ---
 
 Het Wolkensteiner Zughotel is een hotel van treinwagons in het stadje Wolkenstein in het Erzgebirge, in Saksen, tussen Marienberg en Annaberg-Buchholz. Het ligt aan Am Bahnsteig 10, direct aan de B101 onder het kasteel van Wolkenstein, in het Zschopaudal. Het hotel noemt zich het enige treinhotel in Duitsland waar je zowel kunt slapen als traditioneel eten uit het Erzgebirge kunt proeven.

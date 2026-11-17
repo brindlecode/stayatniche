@@ -1,9 +1,9 @@
 ---
 source: tulloch-castle-hotel-united-kingdom
 destination: "Dingwall, Highland, Écosse"
-description: "Château-hôtel du XIIe siècle à Dingwall, avec 22 chambres dotées de salle de bain privative, une grande salle lambrissée vieille de 250 ans et des cheminées et plafonds d'origine restaurés."
+description: "Château-hôtel à Dingwall, que l'hôtel date du XIIe siècle, avec 22 chambres dotées de salle de bain privative, une grande salle lambrissée vieille de 250 ans et des cheminées et plafonds d'origine restaurés."
 highlights:
-  - "Château datant du XIIe siècle"
+  - "Château que l'hôtel date du XIIe siècle"
   - "22 chambres avec salle de bain privative, chacune au caractère unique"
   - "Grande salle lambrissée vieille de 250 ans"
   - "Cheminées et plafonds d'origine restaurés"
@@ -18,10 +18,10 @@ bestFor:
   - "Mariages et événements"
 seo:
   metaTitle: "Tulloch Castle Hotel : château à Dingwall | StayAtNiche"
-  metaDescription: "Tulloch Castle Hotel à Dingwall : château-hôtel du XIIe siècle avec 22 chambres, grande salle lambrissée et accueil des chiens, dans les Highlands écossais."
+  metaDescription: "Tulloch Castle Hotel à Dingwall : château-hôtel avec 22 chambres, grande salle lambrissée et accueil des chiens, dans les Highlands écossais."
 ---
 
-Tulloch Castle remonte au XIIe siècle, à l'époque où les Bain, puis le clan Davidson, revendiquèrent ses terres. Son destin a connu bien des changements depuis, et il est aujourd'hui un hôtel à Dingwall, dans les Highlands écossaises. Autrefois, seul le laird ou le chef du clan pouvait séjourner dans un château des Highlands comme celui-ci ; aujourd'hui, chacun peut réserver une chambre.
+L'hôtel fait remonter Tulloch Castle au XIIe siècle, à l'époque où les Bain, puis le clan Davidson, revendiquèrent ses terres ; selon Wikipédia, le château date probablement de la fin du XIVe siècle au plus tôt. Il a été endommagé par un incendie en 1845 et agrandi en 1891. Son destin a connu bien des changements depuis, et il est aujourd'hui un hôtel à Dingwall, dans les Highlands écossaises. Autrefois, seul le laird ou le chef du clan pouvait séjourner dans un château des Highlands comme celui-ci ; aujourd'hui, chacun peut réserver une chambre.
 
 ## Le château
 

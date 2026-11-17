@@ -31,7 +31,7 @@ Castello Fai è un maniero restaurato nel centro storico di Fai della Paganella,
 
 L’idea è godere del fascino di un edificio storico senza rinunciare al comfort moderno. Tra le dotazioni elencate figurano l’atmosfera storica, l’isolamento termico, una cucina attrezzata, internet a 1 Gbit/s, riscaldamento a pavimento, illuminazione LED, TV digitale e un impianto audio multiroom. La cucina è dotata di stoviglie ed elettrodomestici, e l’appartamento dispone di un giardino privato e di domotica. Per il Castello Fai e la Residenza delle Contesse sono disponibili una culla extra per bambini fino a tre anni e un seggiolone.
 
-La giornata inizia con le persiane che si aprono su un panorama oltre i merli e i prati, fino alla sagoma della Paganella. Il gestore propone anche altre case per le vacanze: la Residenza delle Contesse e la Torre del Baron.
+La giornata inizia con le persiane che si aprono su un panorama oltre i merli e i prati, fino alla sagoma della Paganella. L'appartamento Castello Fai, che ospita fino a otto persone, è composto dagli appartamenti Torre del Baron e Residenza delle Contesse, che il gestore propone anche singolarmente.
 
 ## Il contesto
 

@@ -1,9 +1,9 @@
 ---
 source: pullman-maldives-maamutaa-resort-maldives
 destination: "Isla Maamutaa, atolón Gaafu Alifu"
-description: "Solo las Aqua Villas de este complejo insular tienen un dormitorio bajo el agua; el resto del resort son villas convencionales en la playa y sobre el agua. Cada Aqua Villa combina un dormitorio sumergido con otro sobre el agua en la planta superior."
+description: "Solo las dos Aqua Villas de este complejo insular tienen un dormitorio bajo el agua; el resto del resort son villas convencionales en la playa y sobre el agua. Cada Aqua Villa combina un dormitorio sumergido con otro sobre el agua en la planta superior."
 highlights:
-  - "Las Aqua Villas tienen un dormitorio sumergido bajo la laguna, con vistas a la vida marina"
+  - "Las dos Aqua Villas tienen un dormitorio sumergido bajo la laguna, con vistas a la vida marina"
   - "Aqua Villa de dos niveles de 209 metros cuadrados, con dormitorio sobre el agua y una gran piscina con terraza privada"
   - "El resto de alojamientos son villas en la playa o sobre el agua, sin habitación submarina"
   - "Isla privada de 18 hectáreas de vegetación con 122 villas"
@@ -21,9 +21,10 @@ bestFor:
 seo:
   metaTitle: "Pullman Maldives Maamutaa: villa submarina | StayAtNiche"
   metaDescription: "En el Pullman Maldives Maamutaa, solo las Aqua Villas tienen un dormitorio bajo el agua. El resto son villas en la playa o sobre el agua en una isla privada."
+niche_feature: "Solo las Aqua Villas (dos, según el resort, que anuncia 2 dormitorios submarinos) tienen un dormitorio principal sumergido bajo la laguna y un dormitorio sobre el agua; las demás villas de las 122 son villas de playa o sobre el agua."
 ---
 
-Solo las Aqua Villas del Pullman Maldives Maamutaa tienen un dormitorio bajo el agua. El resto del resort son villas convencionales en la playa y sobre el agua, sin ninguna habitación sumergida. Si quieres dormir bajo el agua, reserva una Aqua Villa en concreto.
+Solo las dos Aqua Villas del Pullman Maldives Maamutaa tienen un dormitorio bajo el agua. El resto del resort son villas convencionales en la playa y sobre el agua, sin ninguna habitación sumergida. Si quieres dormir bajo el agua, reserva una Aqua Villa en concreto.
 
 ## La Aqua Villa
 

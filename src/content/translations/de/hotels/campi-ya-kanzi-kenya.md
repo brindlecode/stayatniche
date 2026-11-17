@@ -1,10 +1,10 @@
 ---
 source: campi-ya-kanzi-kenya
 destination: Chyulu Hills, County Kajiado
-description: "Ein familiengeführtes Buschcamp auf 283.000 Acres Gemeindeland der Massai im Schatten des Kilimandscharo, dessen schneebedeckter Gipfel Kibo an klaren Morgen vom Speisezelt aus zu sehen ist. Acht Zeltzimmer blicken auf die afrikanische Ebene; das Camp gehört gemeinsam mit der Massai-Gemeinde, die den Großteil der Einnahmen in Naturschutz und Bildung lenkt. So sollte das Amboseli-Ökosystem erlebt werden."
+description: "Ein familiengeführtes Buschcamp auf 400.000 Acres Land im Besitz der Massai im Schatten des Kilimandscharo, dessen schneebedeckter Gipfel Kibo an klaren Morgen vom Camp aus zu sehen ist. Acht Zeltzimmer blicken auf die afrikanische Ebene; das Camp gehört gemeinsam mit der Massai-Gemeinde, die den Großteil der Einnahmen in Naturschutz und Bildung lenkt."
 highlights:
   - Blick auf den Kilimandscharo vom Camp aus
-  - 283.000 Acres großes Schutzgebiet der Massai-Gemeinde
+  - 400.000 Acres Land im Besitz der Massai
   - Fußsafaris mit Massai-Guides
   - Nachtsafaris auf privatem Land
   - Gemeindebesitz der Massai und Naturschutzmodell
@@ -22,7 +22,7 @@ bestFor:
   - Afrika abseits ausgetretener Pfade
 seo:
   metaTitle: "Campi ya Kanzi: Safaricamp mit Kilimandscharo | StayAtNiche"
-  metaDescription: "Safaricamp der Massai-Gemeinde mit Blick auf den Kilimandscharo in Kenias Chyulu Hills: Fußsafaris und Nachtfahrten auf 283.000 Acres privatem Schutzgebiet."
+  metaDescription: "Safaricamp der Massai-Gemeinde mit Blick auf den Kilimandscharo in Kenias Chyulu Hills: Fußsafaris und Nachtfahrten auf 400.000 Acres Land der Massai."
 ---
 
 Die Chyulu Hills sind eine junge Vulkankette – geologisch betrachtet noch im Entstehen –, die sich im Süden Kenias zwischen Amboseli und Tsavo erhebt. Die Hügel selbst sind bewaldet und eindrucksvoll; die Ebenen darunter sind klassische ostafrikanische Savanne mit Akazien und Flötenakazien, bewohnt von Elefanten, Löwen, Büffeln, Wildhunden und Kleinen Kudus in Beständen, die sich dramatisch erholt haben, seit die Massai-Gemeinde hier 1996 ihr Schutzgebiet gründete.

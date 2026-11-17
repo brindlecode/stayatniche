@@ -49,7 +49,7 @@ Georgios Cave Cappadocia occupies a registered Greek (Rum) mansion in Ürgüp, a
 
 ## The rooms
 
-Nine rooms are listed with their sizes. Room 101 and room 108 are 25 square metres Standard Rooms, and room 107 is a 50 square metre Standard Room. Room 106 (31 square metres) and room 102 (27 square metres) are Deluxe rooms with a jacuzzi. Room 103 is a 50 square metre 1+1 suite with a jacuzzi. Room 104 is a 55 square metre King Suite with a jacuzzi and a hammam. Room 105 is a 40 square metre Premium Cave Suite with a jacuzzi, and room 109 is a 50 square metre Presidential Suite with a terrace and a jacuzzi. The "Cave" label appears explicitly on only one of these, so ask which rooms are rock-cut.
+Nine rooms are listed with their sizes. Room 101 and room 108 are 25 square metres Standard Rooms, and room 107 is a 50 square metre Standard Room. Room 106 (31 square metres) and room 102 (27 square metres) are Deluxe rooms with a jacuzzi. Room 103 is a 50 square metre 1+1 suite with a jacuzzi. Room 104 is a 55 square metre King Suite with a jacuzzi and a hammam. Room 105 is a 40 square metre Premium Cave Suite with a jacuzzi, and room 109 is a 50 square metre Presidential Suite with a terrace and a jacuzzi. The "Cave" label appears explicitly on only one of these, so ask which rooms, if any, are rock-cut; the hotel's website does not say that any room is carved into the rock.
 
 ## Food and facilities
 

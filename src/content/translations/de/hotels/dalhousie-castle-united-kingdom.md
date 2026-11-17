@@ -20,6 +20,7 @@ bestFor:
 seo:
   metaTitle: "Dalhousie Castle: Schlosshotel bei Edinburgh | StayAtNiche"
   metaDescription: "Dalhousie Castle in Bonnyrigg: über 800 Jahre altes Schloss mit 35 Zimmern, Castle Dungeon Restaurant, Ramsay Restaurant und elf Acres Park bei Edinburgh."
+niche_feature: "35 Zimmer: Castle Classic, Deluxe, Junior Suite, Four Poster, Suite und zwei Feature Rooms liegen im 800 Jahre alten Schloss; die Lodge-Zimmer (Classic, Deluxe, Junior Suite, Suite) befinden sich in einem separaten modernen Gebäude auf dem Gelände. Zahlen je Gruppe werden nicht genannt."
 ---
 
 Dalhousie Castle steht seit mehr als 800 Jahren und bezeichnet sich selbst als eines der ältesten bewohnten Schlösser Schottlands. Es liegt in elf Acres privatem Parkland und bewaldeten Tälern direkt vor den Toren Edinburghs, in Bonnyrigg. Einst Sitz des Clans der Ramsays, beherbergte es seit dem 13. Jahrhundert Mitglieder von Königshäusern und Dichter und wurde vor Kurzem umfassend renoviert.

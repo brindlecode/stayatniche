@@ -26,7 +26,7 @@ Stonefield Castle ist ein Schloss im viktorianischen Sinn: ein prächtiges Baron
 
 ## Das Haus
 
-Ein Großteil der ursprünglichen Innenausstattung ist noch erhalten: Holzvertäfelungen, reich verzierte Decken und Marmorkamine. Das Gebäude ist in Kategorie B denkmalgeschützt. Die Zimmer sind individuell eingerichtet und alle mit eigenem Bad, mit Blick über die Gärten und den See.
+Ein Großteil der ursprünglichen Innenausstattung ist noch erhalten: Holzvertäfelungen, reich verzierte Decken und Marmorkamine. Das Gebäude ist in Kategorie B denkmalgeschützt. Das Hotel hat 38 individuell eingerichtete Zimmer mit eigenem Bad, mit Blick über die Gärten und den See.
 
 ## Die Gärten
 

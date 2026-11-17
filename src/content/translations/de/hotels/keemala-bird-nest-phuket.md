@@ -1,17 +1,17 @@
 ---
 source: keemala-bird-nest-phuket
 destination: "Kamala, Phuket"
-description: "Kugelförmige Villen auf schräg gestellten Holzpfählen über einer Dschungelschlucht in Kamala auf Phuket, inspiriert von der Mythologie vier alter thailändischer Waldclans. Jede Bird's Nest Pool Villa hat einen privaten Infinity-Pool mit Blick auf die Andamanensee, und das Marbas Spa bietet Anwendungen in offenen Pavillons über der Schlucht."
+description: "Villen mit geflochtener Nestfassade in Kamala auf Phuket, inspiriert von der Mythologie vier alter thailändischer Waldclans. Jede Bird's Nest Pool Villa ist eine private Pool-Villa von 185 m² einschließlich Pool und Sonnendeck, mit Blick auf Meer, Regenwald und Resort; zum Resort gehört außerdem das Mala Spa."
 highlights:
-  - "Kugelförmige Bird's Nest Villen auf Pfählen über dem Dschungel"
-  - "Privater Infinity-Pool mit Blick auf die Andamanensee"
+  - "Bird's Nest Pool Villas mit charakteristischer geflochtener Nestfassade"
+  - "Privater Pool mit Blick auf Meer, Regenwald und Resort"
   - "Inspiriert von der Mythologie vier alter thailändischer Clans"
-  - "Herausragendes Marbas Spa und Wellness im Dschungel"
+  - "Mala Spa und Wellness-Angebote"
 amenities:
-  - "Bird's Nest Pool Villa auf erhöhter Konstruktion"
-  - "Privater Infinity-Pool mit Meer- und Dschungelblick"
+  - "Bird's Nest Pool Villa, 185 m² einschließlich Pool und Sonnendeck, für bis zu drei Gäste"
+  - "Privater Pool mit Blick auf Meer, Regenwald und Resort"
   - "Regendusche im Freien"
-  - "Marbas Spa"
+  - "Mala Spa"
   - "Zwei Restaurants und Swim-up-Poolbar"
   - "Butler auf Anfrage"
 bestFor:
@@ -20,14 +20,14 @@ bestFor:
   - "Designliebhaber"
   - "Anspruchsvolle Wellness-Urlauber"
 seo:
-  metaTitle: "Keemala Phuket: Baumhaus-Villen mit Pool | StayAtNiche"
-  metaDescription: "Keemala in Kamala auf Phuket: kugelförmige Bird's Nest Villen auf Pfählen über dem Dschungel, eigener Infinity-Pool mit Blick aufs Meer und Marbas Spa."
+  metaTitle: "Keemala Phuket: Bird's Nest Pool Villas | StayAtNiche"
+  metaDescription: "Keemala in Kamala auf Phuket: Bird's Nest Pool Villas mit geflochtener Nestfassade, privatem Pool und Blick auf Meer, Regenwald und Resort. Mala Spa im Haus."
 ---
 
-Keemala liegt an einem Hang oberhalb des vergleichsweise ruhigen Kamala Beach an der Westküste Phukets, und schon bei der Ankunft wird klar, dass hinter diesem Resort ein durchdachtes Konzept steckt. Die Anlage basiert auf der Mythologie vier alter thailändischer Waldclans, von denen jeder eine eigene Beziehung zur Natur pflegt und für eine andere Villenkategorie steht. Die Bird's Nest Pool Villas, architektonisch die markantesten der vier, greifen die Verbundenheit des Pa-Hin-Clans mit dem Fliegen und dem Nestbau auf. Das Ergebnis sind kugel- und eiförmige Bauten auf schräg gestellten Holzpfählen über einer Dschungelschlucht, deren runde Formen an ein riesiges Nest erinnern, von unten betrachtet.
+Keemala liegt an einem Hang oberhalb des vergleichsweise ruhigen Kamala Beach an der Westküste Phukets, und schon bei der Ankunft wird klar, dass hinter diesem Resort ein durchdachtes Konzept steckt. Die Anlage basiert auf der Mythologie vier alter thailändischer Waldclans, von denen jeder eine eigene Beziehung zur Natur pflegt und für eine andere Villenkategorie steht. Die Bird's Nest Pool Villas lehnen sich an den Rung-Nok-Clan (Nest) an, dessen besonderer Stil in der charakteristischen geflochtenen Nestfassade zum Ausdruck kommt. Es sind private Pool-Villen mit Blick auf Meer, Regenwald und Resort. Die separaten Tree Pool Houses sind die zweistöckigen Baumhaus-Villen des Resorts.
 
-Dabei handelt es sich keineswegs nur um skulpturale Gesten, sondern um voll bewohnbare Suiten von echter Qualität. Innen dominieren warme, natürliche Materialien – Teak, Rattan und handgewebte thailändische Textilien –, angeordnet in einem runden Grundriss, der der äußeren Form folgt. Der private Infinity-Pool liegt auf einem Deck, das über dem Blätterdach zu schweben scheint, mit Blick durch Palmen und Kautschukbäume auf die Andamanensee. Die Regendusche steht in einem eigenen Pavillon im privaten Garten. Auf den erhöhten Stegen und am Esstisch im Freien stellt sich durchgehend und überzeugend das Gefühl ein, tatsächlich über dem Waldboden zu schweben.
+Jede Villa misst 185 m² einschließlich Pool und Sonnendeck und hat ein übergroßes Kingsize-Bett, Platz für bis zu drei Gäste, einen privaten Pool sowie ein großzügiges Bad mit Monsun-Dusche und freistehender Badewanne. Die Villen bieten Blick auf Meer, Regenwald und Resort.
 
-Das Marbas Spa zählt zu den besseren Hotelspas Thailands. Auf der Karte stehen Massagen mit thailändischen Kräuterstempeln, eine synchrone Vier-Hand-Massage und Wellnessprogramme, die sich an der Clan-Mythologie des Resorts orientieren. Behandlungen in den offenen Pavillons über der Schlucht sind die stimmungsvollste Option.
+Zum Wellnessangebot des Resorts gehören das Mala Spa sowie Holistic Retreats und ein ganzheitliches Lifestyle-Programm.
 
-Kulinarisch stehen zwei Hauptrestaurants zur Wahl: Manta, das sich auf traditionelle thailändische Hausmannskost mit Zutaten aus dem eigenen Garten konzentriert, und Raw, ein Bio-Restaurant mit überwiegend pflanzlicher Küche und Schwerpunkt auf thailändischen Kräutern und Pflanzen. Essen, Meerblick und Architektur machen Keemala zusammen zu einem der stimmigsten Resorterlebnisse, die Thailand derzeit zu bieten hat.
+Kulinarisch stehen zwei Hauptrestaurants zur Wahl: Manta, das sich auf traditionelle thailändische Hausmannskost mit Zutaten aus dem eigenen Garten konzentriert, und Raw, ein Bio-Restaurant mit überwiegend pflanzlicher Küche und Schwerpunkt auf thailändischen Kräutern und Pflanzen.
