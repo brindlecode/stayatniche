@@ -77,6 +77,12 @@
     "evidence": "URL city segment Kihavah; answer text says Kihavah Huravalhi Island in Baa Atoll",
     "notes": "Exact expedia.com URL with id h3113059 returned verbatim. Same id also on travelocity/orbitz/wotif."
   },
+  "anantara-sir-bani-yas-uae": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No property named 'Anantara Sir Bani Yas Island Safari Resort' appeared. Results showed other Sir Bani Yas properties (Anantara Al Sahel Villa Resort h6609874, Al Yamm Villa Resort h4989080, Desert Islands Resort & Spa by Anantara h2039941) but names differ and could not be matched to this hotel, so not mapped."
+  },
   "andbeyond-benguerra-island-mozambique": {
     "status": "confirmed",
     "method": "web-search-url-id-title-location",
@@ -103,6 +109,12 @@
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
     "note": "not_found: Only Helsinki archipelago boat tours/activities returned; no property page. Not shown on Expedia per results."
+  },
+  "arctic-bath-sweden": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No Arctic Bath property page found. Only Tree Hotel (Harads, h7749094; different property) appeared. A Luleå guide blurb mentions Arctic Bath floating saunas but no hotel page. Not shown as sold on Expedia per results."
   },
   "arctic-guesthouse-and-igloos-finland": {
     "status": "confirmed",
@@ -254,6 +266,12 @@
     "evidence": "Answer text: address 364-1, Naoshima, Kagawa 761-3110; slug URLs on other domains use Naoshima-Hotels",
     "notes": "Id h78492113 appears on expedia.com only in the short form https://www.expedia.com/h78492113.Hotel-Information. The existing long slug form (Naoshima-Hotels-Benesse-House) appeared only on expedia.co.kr and expedia.sa in results, not on expedia.com. Search text also calls it Benesse House Hotel / Benesse House Naoshima."
   },
+  "bisate-lodge-rwanda": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Expedia Musanze guide text mentions 'eco-friendly Bisate Lodge' in passing, but no Hotel-Information page for it appeared in either search."
+  },
   "bora-bora-nui-resort": {
     "status": "confirmed",
     "method": "web-search-url-id-title-location",
@@ -286,6 +304,12 @@
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
     "note": "not_found: Two queries (Solitaire, Sossusvlei); only Solitaire/Sesriem area guides, tours and generic Desert Camp mentions. No Bushman's Desert Camp property page. Not shown as bookable on Expedia per results."
+  },
+  "campi-ya-kanzi-kenya": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Answer text said Expedia lists Campi Ya Kanzi as a tentalow at Chyulu Hills, Mtito Andei, Tsavo (rating 3.5), but no Hotel-Information URL for it appeared in the results of either search, so no URL can be confirmed. Possibly sold on Expedia; unverified."
   },
   "cappadocia-cave-suites-turkey": {
     "status": "confirmed",
@@ -462,6 +486,12 @@
     "verifiedAt": "2026-11-17",
     "note": "not_found: Answer text of both queries described Expedia pages for the hotel (address Corsewall Point, Stranraer), but no Corsewall Lighthouse Hotel .Hotel-Information URL appeared in result links; only 'Corsewall Castle Farm Lodges' h26992983 (different property). No URL accepted."
   },
+  "cristalino-lodge-brazil": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Only Alta Floresta/Mato Grosso guide pages and other hotels (Hotel Mandino, Hotel Mato Grosso) appeared. No Cristalino Lodge page."
+  },
   "cuevas-la-granja-spain": {
     "status": "confirmed",
     "method": "web-search-url-id-title-location",
@@ -595,6 +625,12 @@
     "verifiedAt": "2026-11-17",
     "note": "not_found: Only other Urgup cave hotels returned; no Georgios Cave page."
   },
+  "gibbon-experience-laos": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No property page. Only Bokeo Province guide pages; an unrelated Sumatra guesthouse (Batu Katak Gibbon Guesthouse h95277410) appeared. Looks like a tour/trek operator rather than a hotel."
+  },
   "gili-lankanfushi-maldives": {
     "status": "confirmed",
     "method": "web-search-url-id-title-location",
@@ -709,6 +745,12 @@
     "verifiedAt": "2026-11-17",
     "note": "not_found: No matching property. Cremolino results were other properties (Nordelaia h63178098, HEMANAIRE h36432709). First pass had noted same-named hotels in Rota d'Imagna (h113466280), not Piedmont/Cremolino; not mapped."
   },
+  "inkaterra-canopy-treehouse-peru": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No page for 'Canopy Treehouse'. Other Inkaterra properties appeared (Reserva Amazonica h894833, Hacienda Concepcion h15470957, Amazon Field Station h23160039); different names so not mapped."
+  },
   "inkaterra-machu-picchu": {
     "status": "confirmed",
     "method": "web-search-url-id-title-location",
@@ -750,6 +792,18 @@
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
     "note": "not_found: Two searches: no .Hotel-Information page for Jao Camp. Results were only Okavango Delta / Jao Island / Botswana guide pages. Not confirmed as sold on Expedia; possibly absent or listed under another name."
+  },
+  "jules-undersea-lodge-florida": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Only Expedia editorial stories mention Jules' Undersea Lodge; no Hotel-Information page for it appeared."
+  },
+  "juvet-landscape-hotel-norway": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No Juvet page in either search; only Valldal/Norddal guide pages and other hotels appeared."
   },
   "kakslauttanen-finland": {
     "status": "confirmed",
@@ -864,6 +918,12 @@
     "verifiedAt": "2026-11-17",
     "note": "not_found: No result for the name; only other Rauma hotels (some Rauma, Norway pages) returned."
   },
+  "manshausen-island-resort-norway": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No Manshausen page; only Steigen/Nordland guide pages appeared."
+  },
   "manta-resort-zanzibar": {
     "status": "not_found",
     "method": "web-search-title-location",
@@ -906,6 +966,18 @@
     "evidence": "Expedia text: 'Located in Aqaba, Memories Aicha Luxury Camp is near the beach'; Aqaba in URL path on other expedia domains and https://www.expedia.com/cn/Aqaba-Hotels-Memories-Aicha-Luxury-Camp.h25606785.Hotel-Information",
     "notes": "The exact long-form existing URL was not returned; expedia.com returned the short form (verbatim here) and the /cn/ long form with the same id h25606785. Existing long URL very likely valid but not seen verbatim. Booking.com and lastminute list it under Wadi Rum; Expedia lists Aqaba."
   },
+  "misool-eco-resort-indonesia": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No property page; Expedia Misool Barat guide text describes Misool Eco Resort as a dive resort but no Hotel-Information URL appeared."
+  },
+  "ms-fram-norway": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: A ship/cruise, not a hotel; results showed only Fram Museum (Oslo) pages and cruise guides, no property page."
+  },
   "mt-matutum-domesville-glamping-philippines": {
     "status": "not_found",
     "method": "web-search-title-location",
@@ -935,6 +1007,12 @@
     "expediaTitle": "NIHI Sumba - member Leading Hotels of the World Reviews, Deals & Photos 2026 - Expedia.com",
     "evidence": "URL city segment Wanokaka; answer text: 5-star property in Wanokaka on Sumba Island, near Nihiwatu Beach",
     "notes": "Same id h17680731 as existingUrl on expedia.com. Result URL returned verbatim (a second copy with affiliate tracking params also appeared; clean one used)."
+  },
+  "niku-hide-finland": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No Niku Hide page; only other Saariselkä hotels (Wilderness Hotel, Holiday Club, Kuukkeli Inn etc.) appeared."
   },
   "norah-head-lighthouse-and-cottages-australia": {
     "status": "not_found",
@@ -1310,7 +1388,7 @@
     "status": "not_found",
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
-    "note": "not searched; NOT SEARCHED: shared WebSearch budget (200/turn) was exhausted. 'not_found' here means no search was possible, not that the property was checked and absent."
+    "note": "not_found: One expedia.com search (2026-11-17) returned other STF properties (Abisko Turiststation, STF Göteborg City Hotel) but no Berguddens listing."
   },
   "stonefield-castle-united-kingdom": {
     "status": "confirmed",
@@ -1344,6 +1422,12 @@
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
     "note": "not_found: No Telunas listing in results; only Riau Islands generic pages and other resorts. One search only."
+  },
+  "the-bubble-hotel-belgium": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: No Bubble Hotel page; only Pulderbos/Antwerp guide pages and unrelated hotels."
   },
   "the-castle-hotel-taunton-united-kingdom": {
     "status": "unconfirmed",
@@ -1502,6 +1586,12 @@
     "method": "web-search-title-location",
     "verifiedAt": "2026-11-17",
     "note": "not_found: Two searches; no property page for Vuurtoren van Harlingen. Not found on Expedia per results."
+  },
+  "wadi-rum-bubble-camp-jordan": {
+    "status": "not_found",
+    "method": "web-search-title-location",
+    "verifiedAt": "2026-11-17",
+    "note": "not_found: Closest results were differently named properties: 'Wadi Rum Bubble Luxotel - Campsite' (h36275651), 'Wild Oryx Camp Bubbles' (h95880264), 'Wadi rum magic Luxury' (h124294712). Names do not match 'Wadi Rum Bubble Camp', so not mapped."
   },
   "walworth-castle-hotel-united-kingdom": {
     "status": "confirmed",
