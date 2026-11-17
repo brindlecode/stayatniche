@@ -3,7 +3,7 @@ name: "SnowCastle of Kemi"
 category: ice-hotels
 destination: "Kemi, Lapland"
 country: "Finland"
-description: "The world's largest snow castle, rebuilt from scratch every winter in the Finnish coastal city of Kemi, a fortress of snow and ice with hotel rooms, restaurants, and a chapel, standing on the frozen Gulf of Bothnia. The most architecturally ambitious snow construction anywhere on Earth."
+description: "The world's largest snow castle, rebuilt from scratch every winter in the Finnish coastal city of Kemi, a fortress of snow and ice with hotel rooms, restaurants, and a chapel, standing on the frozen Gulf of Bothnia. An architecturally ambitious snow construction that is built anew each winter."
 coverImage: /images/hotels/snowcastle-kemi-finland.jpg
 gallery:
   - /images/hotels/snowcastle-kemi-finland-2.jpg

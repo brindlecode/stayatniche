@@ -1,7 +1,7 @@
 ---
 source: japan
 name: "Japón"
-description: "Un archipiélago de cuatro islas principales y casi 7000 más pequeñas donde los bosques milenarios conviven con ciudades de neón, los trenes bala unen costas opuestas en pocas horas y la tradición hotelera más refinada del mundo —el ryokan— comparte espacio con los hoteles cápsula. Japón recompensa cualquier nivel de implicación, desde una primera visita de dos semanas hasta toda una vida de regresos."
+description: "Un archipiélago de cuatro islas principales y casi 7000 más pequeñas donde los bosques milenarios conviven con ciudades de neón, los trenes bala unen costas opuestas en pocas horas y una tradición hotelera muy refinada —el ryokan— comparte espacio con los hoteles cápsula. Japón recompensa cualquier nivel de implicación, desde una primera visita de dos semanas hasta toda una vida de regresos."
 essentials:
   currency: "JPY (yen japonés); el efectivo se sigue usando mucho, sobre todo en establecimientos pequeños y ryokan rurales"
   language: "Japonés; hay señalización en inglés en las grandes estaciones y zonas turísticas, menos habitual en las regiones rurales"
@@ -10,7 +10,7 @@ essentials:
   plugType: "Tipo A/B (100 V), un voltaje más bajo que en la mayoría de países; comprueba la compatibilidad de tus aparatos"
 bestTimeToVisit:
   summary: "De marzo a abril para los cerezos en flor; de octubre a noviembre para el follaje otoñal; de diciembre a febrero para la nieve polvo"
-  details: "La temporada de los cerezos en flor (de finales de marzo a mediados de abril, según la latitud) es el fenómeno anual más espectacular del país, pero también el de más afluencia. El follaje otoñal de octubre y noviembre es igual de bello y con menos gente. El invierno trae esquí de primer nivel mundial en Hokkaido y Nagano. El verano (julio y agosto) es caluroso y húmedo, pero los festivales regionales compensan el calor."
+  details: "La temporada de los cerezos en flor (de finales de marzo a mediados de abril, según la latitud) es el fenómeno anual más espectacular del país, pero también el de más afluencia. El follaje otoñal de octubre y noviembre es igual de bello y con menos gente. El invierno trae esquí de gran reputación en Hokkaido y Nagano. El verano (julio y agosto) es caluroso y húmedo, pero los festivales regionales compensan el calor."
 mustSee:
   - "Fushimi Inari Taisha, Kioto: miles de torii bermellones que suben por la montaña"
   - "Shirakawa-go, Gifu: pueblo de granjas con tejados de paja en un valle de montaña, Patrimonio de la Humanidad por la UNESCO"

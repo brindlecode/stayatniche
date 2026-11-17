@@ -4,7 +4,7 @@ title: "Höhlenhotels weltweit: der große Ratgeber (wo übernachten und was Sie
 excerpt: "Von den Felssuiten Kappadokiens bis zu den unterirdischen Opalminenstädten Australiens: der umfassende Ratgeber zu Höhlenhotels weltweit – mit Buchungstipps von Experten."
 seo:
   metaTitle: "Höhlenhotels weltweit: der große Ratgeber | StayAtNiche"
-  metaDescription: "Die besten Höhlenhotels der Welt – von Kappadokien über Matera bis Coober Pedy. Was Sie erwartet, wo Sie buchen sollten und Profi-Tipps für Nächte im Fels."
+  metaDescription: "Höhlenhotels von Kappadokien über Matera bis Coober Pedy. Was Sie erwartet, wo Sie buchen sollten und Profi-Tipps für Nächte im Fels."
 ---
 
 Seit rund 300.000 Jahren schlafen Menschen in Höhlen. Die längste Zeit davon aus purer Notwendigkeit. Heute sind einige der raffiniertesten Hotelzimmer der Welt direkt in uralten Fels gehauen – mit geologischer Dramatik, natürlicher Temperaturregulierung und einer historischen Atmosphäre, die konventionelle Bauweise schlicht nicht nachbilden kann.

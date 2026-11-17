@@ -7,7 +7,7 @@ booking:
   price: "ab 55 $ pro Person"
   duration: "3–4 Stunden (abends)"
 highlights:
-  - "Der klarste Nachthimmel der Welt aus 2.400 m Höhe in der Atacama"
+  - "Einer der klarsten Nachthimmel der Welt aus 2.400 m Höhe in der Atacama"
   - "Profiteleskope zeigen Saturnringe, Nebel und Sternhaufen"
   - "Ein erfahrener Astronom erklärt Mythologie und Wissenschaft des Südhimmels"
   - "Milchstraße, Große und Kleine Magellansche Wolke und Kreuz des Südens mit bloßem Auge"
@@ -28,7 +28,7 @@ notIncluded:
   - Unterkunft in San Pedro de Atacama
 seo:
   metaTitle: "Sternbeobachtung in der Atacama-Wüste, Chile | StayAtNiche"
-  metaDescription: "Der klarste Nachthimmel der Welt aus 2.400 m Höhe in der Atacama: Profiteleskope, erfahrene Astronomen und die Milchstraße in voller Pracht. Ab 55 $ pro Person."
+  metaDescription: "Einer der klarsten Nachthimmel der Welt aus 2.400 m Höhe in der Atacama: Teleskope, erfahrene Astronomen und die Milchstraße in voller Pracht. Ab 55 $."
 ---
 
 Die Europäische Südsternwarte hat diesen Ort nicht zufällig gewählt. Auch das Radioteleskop-Array ALMA steht nicht zufällig hier. Im Inneren der Atacama fällt weniger als ein Millimeter Regen pro Jahr, die Wüste liegt über 2.400 Metern, ist nahezu staubfrei, und auf Hunderte Kilometer gibt es kaum menschliche Siedlungen. Zusammen ergibt das atmosphärische Bedingungen, die Berufsastronomen zu den besten der Erde für Beobachtungen zählen. Um den Unterschied zu bemerken, brauchen Sie keinen Doktortitel.

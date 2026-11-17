@@ -2,7 +2,7 @@
 source: volcano-boarding-nicaragua
 title: "Volcano boarding sul Cerro Negro"
 destination: "Cerro Negro, León"
-description: "Sali in cima a uno dei vulcani più giovani e attivi del mondo, poi scendi su una tavola di compensato lungo un pendio di cenere vulcanica sciolta inclinato di 40 gradi, a velocità che toccano i 95 km/h: una discesa così ripida e veloce che la cenere si solleva intorno a te come neve nera. Il volcano boarding sul Cerro Negro, vicino a León, è lo sport estremo più insolito del mondo, e il panorama dalla cima di questo cono spoglio e fumante, sulle pianure del Pacifico e sulla catena vulcanica del Nicaragua nord-occidentale, rende la salita appagante quanto la discesa."
+description: "Sali in cima a uno dei vulcani più giovani e attivi del mondo, poi scendi su una tavola di compensato lungo un pendio di cenere vulcanica sciolta inclinato di 40 gradi, a velocità che toccano i 95 km/h: una discesa così ripida e veloce che la cenere si solleva intorno a te come neve nera. Il volcano boarding sul Cerro Negro, vicino a León, è uno degli sport estremi più insoliti del mondo, e il panorama dalla cima di questo cono spoglio e fumante, sulle pianure del Pacifico e sulla catena vulcanica del Nicaragua nord-occidentale, rende la salita appagante quanto la discesa."
 booking:
   price: "da 35 $ a persona"
   duration: "Mezza giornata"
@@ -28,7 +28,7 @@ notIncluded:
   - "Souvenir extra"
 seo:
   metaTitle: "Volcano boarding sul Cerro Negro, Nicaragua | StayAtNiche"
-  metaDescription: "Sali su un vulcano attivo e scendi sulla cenere a 95 km/h vicino a León, in Nicaragua: lo sport estremo più insolito del mondo. Da 35 $ a persona."
+  metaDescription: "Sali su un vulcano attivo e scendi sulla cenere a 95 km/h vicino a León, in Nicaragua: uno sport estremo insolito per chi cerca adrenalina. Da 35 $ a persona."
 ---
 
 Il Cerro Negro ha eruttato l'ultima volta nel 1999 e tornerà a farlo. È il vulcano più giovane dell'America Centrale, nato nel 1850, un battito di ciglia in termini geologici, e da allora è stato attivo 23 volte. Le prove sono ovunque sulla superficie del cono: materiale vulcanico fresco, nero e sciolto, senza vegetazione se non un po' d'erba rada alla base. Vicino alla cima sibilano gli sfiatatoi di vapore. L'aria sa di zolfo. È un vulcano vivo, e salirci lo fa capire bene.

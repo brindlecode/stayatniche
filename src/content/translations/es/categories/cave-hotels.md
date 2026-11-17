@@ -2,12 +2,12 @@
 source: cave-hotels
 title: Hoteles cueva
 tagline: "Excavados en la tierra, pensados para el lujo"
-description: Excavados en toba volcánica, arenisca blanda o caliza milenaria, los hoteles cueva te alojan en las entrañas de la tierra. La legendaria Capadocia turca es la referencia mundial, pero también te esperan refugios extraordinarios tallados en la roca en Grecia, España, Túnez y el suroeste de Estados Unidos.
+description: Excavados en toba volcánica, arenisca blanda o caliza milenaria, los hoteles cueva te alojan en las entrañas de la tierra. La legendaria Capadocia turca es una referencia del género, pero también te esperan refugios extraordinarios tallados en la roca en Grecia, España, Túnez y el suroeste de Estados Unidos.
 stats:
   topDestination: "Capadocia, Turquía"
 seo:
   metaTitle: "Hoteles cueva: alojamientos tallados en roca | StayAtNiche"
-  metaDescription: "Duerme dentro de formaciones rocosas milenarias en los mejores hoteles cueva del mundo: Capadocia, Santorini y más, con suites frescas y llenas de encanto."
+  metaDescription: "Duerme dentro de formaciones rocosas milenarias en hoteles cueva con carácter: Capadocia, Santorini y más, con suites frescas y llenas de encanto."
 ---
 
 Capadocia lleva más de 2000 años habitada, y los indicios arqueológicos de presencia humana en sus cuevas se remontan bastante más atrás. La toba volcánica de la región —modelada por la erosión en las famosas chimeneas de hadas y en valles espectaculares— era perfecta para vivir en cuevas: lo bastante blanda para excavarla con herramientas sencillas, pero capaz de endurecerse al contacto con el aire y formar espacios habitables duraderos y térmicamente estables. Los hoteles cueva de aquí no son una ocurrencia reciente. Son la última versión de una tradición larguísima.

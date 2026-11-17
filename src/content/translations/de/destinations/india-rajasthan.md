@@ -13,7 +13,7 @@ bestTimeToVisit:
   details: "Von Oktober bis März reist es sich am angenehmsten: Tagestemperaturen von 20–28 °C, geringe Luftfeuchtigkeit und klarer Himmel. November bis Februar ist Hochsaison mit den höchsten Preisen und viel Andrang an den großen Sehenswürdigkeiten. Im April und Mai wird es extrem heiß (in Jaisalmer über 45 °C). Der Monsun von Juli bis September lässt die Landschaft ergrünen und füllt die Seen, doch große Feste wie Diwali (Oktober/November) und der Kamelmarkt von Pushkar (November) fallen in die kühle Jahreszeit."
 mustSee:
   - "Amber Fort in Jaipur, eine Hügelfestung aus dem 16. Jahrhundert, die man per Elefant oder Jeep erreicht, mit prachtvollen Spiegelsälen"
-  - "Mehrangarh Fort in Jodhpur, die größte Rajputenfestung Indiens, 120 Meter über der „Blauen Stadt“"
+  - "Mehrangarh Fort in Jodhpur, eine der bekanntesten Rajputenfestungen Indiens, 120 Meter über der „Blauen Stadt“"
   - "Pichola-See bei Sonnenuntergang in Udaipur, wo sich die weißen Marmorpaläste der Seenstadt im stillen Wasser spiegeln"
   - "Fort von Jaisalmer, eine lebendige Sandsteinfestung aus dem 12. Jahrhundert mit bewohnten Häusern, Tempeln und Havelis innerhalb der Mauern"
   - "Sanddünen von Sam: Kamelsafari und Übernachtung im Camp in der Wüste Thar bei Sonnenuntergang"
@@ -26,7 +26,7 @@ travelTips:
   - "Viele Tempel verwehren Nicht-Hindus den Zutritt zum inneren Heiligtum – respektieren Sie diese Regeln und versuchen Sie nicht hineinzugehen, wenn Schilder es untersagen."
 seo:
   metaTitle: "Rajasthan: Palasthotels & Wüstenfestungen | StayAtNiche"
-  metaDescription: "Rajasthan-Reiseführer: Palasthotels, Amber Fort, Pichola-See in Udaipur, Wüstencamps bei Jaisalmer und Indiens außergewöhnlichste historische Unterkünfte."
+  metaDescription: "Rajasthan-Reiseführer: Palasthotels, Amber Fort, Pichola-See in Udaipur, Wüstencamps bei Jaisalmer und außergewöhnliche historische Unterkünfte in Indien."
 ---
 
 Neben Rajasthan wirken andere Reiseziele beinahe zurückhaltend. Allein die Dimensionen der Festungen – Mehrangarhs Mauern, die über Jodhpurs blau getünchter Altstadt senkrecht aus dem Fels wachsen, die goldenen Sandsteinwälle von Jaisalmer, die im Abendlicht glühen – erzählen von einer Geschichte des Ehrgeizes und der Macht, die sich auf Schritt und Tritt sichtbar machen wollte. Dies war das Land von Kriegerkönigen und Kaufmannsfürsten, die mit außergewöhnlichem Können in Stein, Marmor und Spiegelmosaik bauten und eine Landschaft hinterließen, die heute zu den großen Heritage-Hotel-Regionen der Welt zählt.

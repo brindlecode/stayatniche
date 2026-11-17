@@ -22,7 +22,7 @@ mustSee:
 travelTips:
   - "Los controles de seguridad del aeropuerto Ben Gurión son exhaustivos: calcula 3 horas para la salida, y más si llevas sellos de Jordania o Egipto en el pasaporte."
   - "Durante el sabbat (del atardecer del viernes a la noche del sábado) se detiene casi todo el transporte público y muchos negocios cierran; planifícate o recurre a taxis privados."
-  - "Israel está entre los destinos punteros del mundo en agricultura sostenible e innovación gastronómica: los mercados de productores y la escena de restaurantes de Tel Aviv son de primer nivel mundial."
+  - "Israel está entre los destinos punteros del mundo en agricultura sostenible e innovación gastronómica: los mercados de productores y la escena de restaurantes de Tel Aviv son de primer nivel."
   - "El Néguev se recorre mejor en auto; el transporte público no llega a la mayor parte del interior."
   - "El agua del grifo es potable en todo Israel."
 seo:

@@ -27,7 +27,7 @@ prosAndCons:
     - "Die Tierbeobachtung auf dem Kraterboden ist die verlässlichste Afrikas, mit allen Big Five an jedem Tag"
     - "Die Lodge selbst ist eines der großen theatralischen Hotelerlebnisse Afrikas"
     - "Die Lage am Kraterrand bietet ständigen Panoramablick in die Caldera"
-    - "Die Verbindung von Kultur (Massai), Geologie und Tierwelt ist unerreicht"
+    - "Die Verbindung von Kultur (Massai), Geologie und Tierwelt ist außergewöhnlich"
   cons:
     - "Die Fahrten in den Krater teilt man mit anderen Anbietern, ein privates Erlebnis ist es nicht"
     - "Das theatralische Design der Lodge polarisiert, manchen ist es zu überladen"

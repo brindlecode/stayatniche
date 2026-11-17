@@ -4,7 +4,7 @@ category: train-hotels
 destination: "Edinburgh to the Scottish Highlands"
 country: "Scotland"
 continent: "Europe"
-description: "Britain's only luxury sleeper train, carrying a maximum of 36 guests through the Scottish Highlands in restored carriages of tartan, polished wood, and brass. Departing Edinburgh, the train follows the West Highland Line past Glenfinnan Viaduct to Mallaig, with optional routes to the Far North and whisky distillery excursions en route."
+description: "A luxury sleeper train carrying a maximum of 36 guests through the Scottish Highlands in restored carriages of tartan, polished wood, and brass. Departing Edinburgh, the train follows the West Highland Line past Glenfinnan Viaduct to Mallaig, with optional routes to the Far North and whisky distillery excursions en route."
 coverImage: /images/hotels/belmond-royal-scotsman.jpg
 gallery:
   - /images/hotels/belmond-royal-scotsman-2.jpg
@@ -12,8 +12,8 @@ gallery:
 priceRange: "$2,400 - $8,500"
 priceIndicator: 5
 highlights:
-  - "Britain's only luxury sleeper train through the Scottish Highlands"
-  - "The famous West Highland Line, voted the world's greatest railway journey"
+  - "A luxury sleeper train through the Scottish Highlands"
+  - "The famous West Highland Line, widely regarded as one of the world's great railway journeys"
   - "Spectacular Highland landscape of loch, glen, mountain, and sea"
   - "Glenfinnan Viaduct, one of the world's most photographed railway structures"
   - "Whisky distillery excursions and tastings on selected journeys"
@@ -64,7 +64,7 @@ featured: false
 status: published
 seo:
   metaTitle: "Belmond Royal Scotsman Review, Luxury Sleeper Train Through the Scottish Highlands"
-  metaDescription: "Britain's only luxury sleeper train on the world's greatest railway journey through the Scottish Highlands. Glenfinnan Viaduct, whisky distilleries, and Highland dining. From $2,400."
+  metaDescription: "A luxury sleeper train on the West Highland Line through the Scottish Highlands. Glenfinnan Viaduct, whisky distilleries, and Highland dining. From $2,400."
 affiliateLinks:
   - partner: "expedia"
     url: "https://www.expedia.com/Hotel-Search?destination=Edinburgh%20to%20the%20Scottish%20Highlands%2C%20Scotland&adults=2"
@@ -86,7 +86,7 @@ niche_source_url: "https://www.belmond.com/en/trains/europe/uk/royal-scotsman"
 niche_verified_at: 2026-11-17
 ---
 
-The West Highland Line is, by the consistent judgement of the railway press and anyone who's done it, the most beautiful railway journey in the world. Glasgow to Fort William to Glenfinnan, where the famous 21-arch viaduct crosses the valley in Victorian engineering that predates its Harry Potter fame by a century, and on to Mallaig on the Sound of Sleat opposite Skye. You can do this on an ordinary ScotRail service. Doing it on the Royal Scotsman, moving at a pace that allows the landscape to be absorbed rather than consumed, is a different proposition entirely.
+The West Highland Line is widely regarded, by the railway press and by many who have ridden it, as one of the most beautiful railway journeys in the world. Glasgow to Fort William to Glenfinnan, where the famous 21-arch viaduct crosses the valley in Victorian engineering that predates its Harry Potter fame by a century, and on to Mallaig on the Sound of Sleat opposite Skye. You can do this on an ordinary ScotRail service. Doing it on the Royal Scotsman, moving at a pace that allows the landscape to be absorbed rather than consumed, is a different proposition entirely.
 
 Belmond's train carries a maximum of 36 guests in carriages of carefully restored character: Highland tartan fabrics, polished wood panelling, brass fittings, and table lamps that cast a warmth that is specifically Scottish. At this scale, the social world aboard resembles a country house party. Conversations develop naturally between people thrown together by movement and shared terrain. The Observation Car at the rear opens to a platform where you stand in the Highland air as loch surfaces catch the afternoon light and red deer watch from the hillsides.
 

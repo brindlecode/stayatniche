@@ -142,7 +142,7 @@ Die meisten Eishotels weisen ihre Gäste bei der Ankunft ein. Der übliche Ablau
 
 Island hat kein klassisches Eishotel im skandinavischen Sinn, bietet aber mehrere Vorzüge, die es zu einer überzeugenden Alternative für Polarlichtreisen machen:
 
-**The Retreat at Blue Lagoon** hat Thermalbecken, in denen Sie um Mitternacht baden können, während über Ihnen die Aurora tanzt – wohl die spektakulärste Polarlicht-Kulisse der Welt.
+**The Retreat at Blue Lagoon** hat Thermalbecken, in denen Sie um Mitternacht baden können, während über Ihnen die Aurora tanzt – eine eindrucksvolle Kulisse für die Polarlichter.
 
 Das **Ion Adventure Hotel** in Nesjavellir wurde eigens für die Polarlichtbeobachtung entworfen, mit Panoramafenstern und in der Nähe der Dark-Sky-Zone des Þingvellir-Nationalparks.
 

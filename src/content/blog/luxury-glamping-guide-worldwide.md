@@ -30,7 +30,7 @@ This guide covers the finest examples worldwide, organised by region and type, w
 ---
 
 
-The luxury tented camp concept was essentially invented by the East African safari industry, and the finest African properties remain the global benchmark for this accommodation style.
+The luxury tented camp concept was essentially invented by the East African safari industry, and the leading African properties remain a benchmark for this accommodation style.
 
 
 Singita Grumeti's camp on the western Serengeti corridor is among the most highly regarded tented camps in Africa.
@@ -156,7 +156,7 @@ The finest luxury tented camps share certain characteristics that distinguish th
 
 
 
-At the finest properties, Singita, Aman-i-Khás, Longitude 131°, the answer is unambiguously yes. The beds are superb, the bathrooms are well-equipped, the food is excellent. The difference from a conventional hotel room is not in comfort levels but in the sensory experience of the environment: the sounds, smells, temperatures, and visual context of genuine wilderness. This is a supplement to, not a substitute for, comfort.
+At top properties such as Singita, Aman-i-Khás, and Longitude 131°, the answer is yes. The beds are superb, the bathrooms are well-equipped, the food is excellent. The difference from a conventional hotel room is not in comfort levels but in the sensory experience of the environment: the sounds, smells, temperatures, and visual context of genuine wilderness. This is a supplement to, not a substitute for, comfort.
 
 
 In practice, the distinction is primarily architectural: a "lodge" has permanent walls (stone, timber, thatch), while a "glamping" or "tented camp" uses canvas for at least some surfaces. The luxury level, activity programs, and price points overlap significantly. Many of Africa's finest properties are tented camps that offer service quality equivalent to or exceeding lodge competitors.

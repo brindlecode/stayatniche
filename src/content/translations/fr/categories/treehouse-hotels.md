@@ -2,12 +2,12 @@
 source: treehouse-hotels
 title: "Cabanes dans les arbres"
 tagline: "Dormir dans la canopée, au-dessus de tout"
-description: "Suspendues bien au-dessus du sol de la forêt, les cabanes dans les arbres transforment un rêve d'enfant en luxe raffiné pour adultes. Des refuges minimalistes de verre et de bois de Scandinavie aux plateformes perchées dans les jungles tropicales du Costa Rica et de Bali, ces escapades à hauteur de canopée offrent un lien incomparable avec la nature, sans rien sacrifier au confort."
+description: "Suspendues bien au-dessus du sol de la forêt, les cabanes dans les arbres transforment un rêve d'enfant en luxe raffiné pour adultes. Des refuges minimalistes de verre et de bois de Scandinavie aux plateformes perchées dans les jungles tropicales du Costa Rica et de Bali, ces escapades à hauteur de canopée offrent un lien étroit avec la nature, sans rien sacrifier au confort."
 stats:
   topDestination: "Suède"
 seo:
   metaTitle: "Cabanes dans les arbres de luxe | StayAtNiche"
-  metaDescription: "Les plus belles cabanes dans les arbres du monde : dormir perché dans la canopée en Suède, au Costa Rica, à Bali et ailleurs. Réservez votre nuit insolite."
+  metaDescription: "Une sélection de cabanes dans les arbres : dormir perché dans la canopée en Suède, au Costa Rica, à Bali et ailleurs. Réservez votre nuit insolite."
 ---
 
 Au Treehotel de Harads, en Suède, un cube recouvert de miroirs reflète si parfaitement la forêt boréale qui l'entoure qu'il en devient invisible depuis le sol. C'est la référence, non seulement pour les cabanes dans les arbres, mais pour tout ce que l'hébergement insolite peut accomplir quand des architectes prennent le sujet au sérieux.

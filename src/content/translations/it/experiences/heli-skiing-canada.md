@@ -2,7 +2,7 @@
 source: heli-skiing-canada
 title: "Eliski nei Monti Selkirk"
 destination: "Monti Selkirk, Columbia Britannica"
-description: "Tuffati in distese di neve polverosa mai tracciate nei Selkirk canadesi, dopo che un elicottero ti ha lasciato in cima a pendii che nessun impianto di risalita raggiungerà mai: natura selvaggia immensa, silenziosa e perfettamente bianca, dove ogni discesa si misura in chilometri di dislivello e la qualità della neve è leggendaria tra gli sciatori più esigenti del mondo. L'eliski in Columbia Britannica è il vertice dello sci alpino e offre ai migliori sciatori del pianeta un'esperienza di montagna del tutto privata, in una delle nevi fresche più profonde della Terra."
+description: "Tuffati in distese di neve polverosa mai tracciate nei Selkirk canadesi, dopo che un elicottero ti ha lasciato in cima a pendii che nessun impianto di risalita raggiungerà mai: natura selvaggia immensa, silenziosa e perfettamente bianca, dove ogni discesa si misura in chilometri di dislivello e la qualità della neve è leggendaria tra gli sciatori più esigenti del mondo. L'eliski in Columbia Britannica è per molti il vertice dello sci alpino e offre agli sciatori esperti un'esperienza di montagna del tutto privata, in una delle nevi fresche più profonde della Terra."
 booking:
   price: "da 1.200 $ a persona al giorno"
   duration: "Giornata intera (pacchetti da 3 a 7 giorni disponibili)"

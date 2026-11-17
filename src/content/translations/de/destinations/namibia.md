@@ -16,7 +16,7 @@ mustSee:
   - "Deadvlei – Geisterwald aus 900 Jahre alten Kameldornbäumen in einer weißen Tonsenke"
   - "Etosha-Nationalpark – riesige Salzpfanne mit herausragenden Beobachtungen von Elefanten, Löwen und Spitzmaulnashörnern"
   - "Fish River Canyon – nach dem Grand Canyon die zweitgrößte Schlucht der Erde"
-  - "Skelettküste – Schiffswracks, Kolonien von Südafrikanischen Seebären und die abgelegenste Küste der Welt"
+  - "Skelettküste – Schiffswracks, Kolonien von Südafrikanischen Seebären und eine der abgelegensten Küsten der Welt"
   - "Damaraland – an die Wüste angepasste Elefanten und uralte Felsgravuren der San in Twyfelfontein"
 travelTips:
   - "Mit dem Mietwagen auf eigene Faust ist Namibias großes Abenteuer: Die Straßen sind hervorragend, die Entfernungen gewaltig, und ein Allrad-Camper gibt Ihnen die Freiheit, dort zu übernachten, wo Sie bei Sonnenuntergang gerade sind."
@@ -37,7 +37,7 @@ Noch eindrucksvoller ist das Deadvlei: eine weiße Tonpfanne, zu Fuß vom Parkpl
 
 Herzstück des Etosha-Nationalparks ist die Etosha-Pfanne, ein riesiger, flacher, gleißend weißer Salzsee – einst ein Binnenmeer, bis tektonische Hebungen es vor rund fünf Millionen Jahren trockenlegten. In der Trockenzeit ziehen die Wasserlöcher am Südrand der Pfanne Hunderte Elefanten an, ganze Löwenrudel, Spitz- und Breitmaulnashörner, Giraffen und Zebras. Am beleuchteten Wasserloch des Camps Okaukuejo können Sie vom Zaun aus die ganze Nacht Tiere beim Trinken beobachten – eine der zugänglichsten und verlässlich ergiebigsten Möglichkeiten zur Tierbeobachtung in ganz Afrika.
 
-Die an die Wüste angepassten Elefanten des Damaralands und des Hoanib-Tals überleben in Landschaften mit weniger als 25 mm Niederschlag im Jahr. Sie legen gewaltige Strecken zwischen den Wasserstellen zurück, graben mit den Füßen in trockenen Flussbetten nach Wasser und fressen Pflanzen, die ihre Artgenossen in Chobe oder Amboseli verschmähen würden. Eine Elefantenfamilie aus einem felsigen Hang auftauchen und lautlos in ein trockenes Flussbett hinabsteigen zu sehen, gehört zu den schönsten Tierbegegnungen Afrikas.
+Die an die Wüste angepassten Elefanten des Damaralands und des Hoanib-Tals überleben in Landschaften mit weniger als 25 mm Niederschlag im Jahr. Sie legen gewaltige Strecken zwischen den Wasserstellen zurück, graben mit den Füßen in trockenen Flussbetten nach Wasser und fressen Pflanzen, die ihre Artgenossen in Chobe oder Amboseli verschmähen würden. Eine Elefantenfamilie aus einem felsigen Hang auftauchen und lautlos in ein trockenes Flussbett hinabsteigen zu sehen, ist eine eindrucksvolle Tierbegegnung.
 
 Die Skelettküste, benannt nach den ausgebleichten Walknochen und gestrandeten Schiffen, deren Seeleute in der wasserlosen Wüste keine Überlebenschance hatten, ist heute nur über [Safari-Lodges](/categories/safari-lodges) mit Anreise per Kleinflugzeug zugänglich, die unter strengen Konzessionsauflagen arbeiten. Cape Cross, auf der Straße etwas leichter erreichbar, beherbergt eine Kolonie von über 100.000 Südafrikanischen Seebären. Der Lärm, der Geruch und das schiere Schauspiel sind auf dem ganzen Kontinent ohne Vergleich.
 

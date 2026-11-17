@@ -27,7 +27,7 @@ prosAndCons:
     - "De wildobservatie op de kraterbodem is de betrouwbaarst uitzonderlijke van Afrika, elke dag alle Big Five"
     - "De lodge zelf is een van de grote theatrale hotelervaringen van Afrika"
     - "Door de ligging op de rand heb je permanent panoramisch zicht in de caldera"
-    - "De combinatie van cultuur (Masai), geologie en wildlife is ongeëvenaard"
+    - "De combinatie van cultuur (Masai), geologie en wildlife is uitzonderlijk"
   cons:
     - "Je deelt de afdalingen in de krater met andere touroperators; het is geen privébeleving"
     - "Het theatrale ontwerp van de lodge verdeelt de meningen; sommigen vinden het te overdadig"

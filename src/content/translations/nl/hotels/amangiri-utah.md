@@ -21,7 +21,7 @@ amenities:
   - Butler- en conciërgeservice, 24 uur per dag
   - Privétransfers van en naar het vliegveld (Page, Arizona)
 bestFor:
-  - Veeleisende luxereizigers die het beste resort van de VS zoeken
+  - Veeleisende luxereizigers die een resort van topniveau in de VS zoeken
   - Liefhebbers van architectuur en design
   - Stellen die een mijlpaal vieren
   - Buitenmensen die niet willen inleveren op comfort
@@ -54,7 +54,7 @@ seo:
   metaDescription: "Het meesterwerk van Aman in het canyonland van Zuid-Utah: bijzondere architectuur, topservice en Lake Powell om de hoek. Amangiri vanaf $ 2.000 per nacht."
 ---
 
-Amangiri is waarschijnlijk het beste woestijnhotel van Noord-Amerika. Alleen de architectuur al rechtvaardigt de vlucht naar Utah. Architect Marwan Al-Sayed ontwierp het hele resort rond een eeuwenoude mesa, een uitstulping van Navajo-zandsteen die in de kern van het gebouw ligt, en het resultaat is een lang, laag complex van gestort beton en woestijnsteen dat niet met het landschap concurreert, maar er gewoon deel van wordt.
+Amangiri geldt als een van de meest gewaardeerde woestijnhotels van Noord-Amerika. Alleen de architectuur al rechtvaardigt de vlucht naar Utah. Architect Marwan Al-Sayed ontwierp het hele resort rond een eeuwenoude mesa, een uitstulping van Navajo-zandsteen die in de kern van het gebouw ligt, en het resultaat is een lang, laag complex van gestort beton en woestijnsteen dat niet met het landschap concurreert, maar er gewoon deel van wordt.
 
 Het grote zwembad is direct tegen de wand van de mesa gebouwd. De behandelkamers van de spa zweven erboven. Elke zichtlijn in de openbare ruimtes is zo afgesteld dat je blik steeds terugkeert naar de rots. Dit is architectuur met heel duidelijke prioriteiten, en die worden uitgevoerd zonder één overbodig detail.
 

@@ -1,7 +1,7 @@
 ---
 source: mozambique
 name: "Mozambique"
-description: "Mozambique es el destino de playa y mar más infravalorado de África: 2.500 kilómetros de costa en el océano Índico con playas de arena blanquísima, archipiélagos surcados por dhows y arrecifes de coral que rivalizan con los de Maldivas en transparencia y diversidad. Sus remotos lodges isleños y campamentos de playa de lujo descalzo ofrecen una intimidad y un carácter salvaje que otros destinos más famosos del Índico perdieron hace tiempo."
+description: "Mozambique es uno de los destinos de playa y mar más infravalorados de África: 2.500 kilómetros de costa en el océano Índico con playas de arena blanquísima, archipiélagos surcados por dhows y arrecifes de coral que rivalizan con los de Maldivas en transparencia y diversidad. Sus remotos lodges isleños y campamentos de playa de lujo descalzo ofrecen una intimidad y un carácter salvaje que otros destinos más famosos del Índico perdieron hace tiempo."
 essentials:
   currency: "MZN (metical mozambiqueño); el dólar estadounidense se acepta en la mayoría de lodges y negocios turísticos"
   language: "Portugués (oficial); emakhuwa, xichangana y otras lenguas bantúes"
@@ -14,7 +14,7 @@ bestTimeToVisit:
 mustSee:
   - "Archipiélago de Bazaruto, cinco islas de arena blanca deslumbrante y agua turquesa con una población endémica de dugongos"
   - "Archipiélago de las Quirimbas, una remota cadena de 32 islas en el extremo norte con arrecifes vírgenes y ruinas suajilis"
-  - "Playa de Tofo, el mejor lugar de África para nadar con tiburones ballena con garantías"
+  - "Playa de Tofo, un lugar de referencia en África para nadar con tiburones ballena con garantías"
   - "Isla de Ibo, en las Quirimbas, una decadente villa colonial portuguesa con un fascinante legado árabe, africano y portugués"
   - "Pemba, la ciudad puerta del norte, con una bahía preciosa y un casco antiguo de influencia portuguesa"
   - "Vilanculos, la puerta del sur, con excursiones en dhow por el archipiélago de Bazaruto"
@@ -26,7 +26,7 @@ travelTips:
   - "Los dugongos son extremadamente sensibles a las molestias de las embarcaciones: acércate a ellos solo buceando con tubo o nadando, nunca con motor. Los guías de tu lodge conocen los protocolos éticos."
 seo:
   metaTitle: "Mozambique: guía de viaje, islas y arrecifes | StayAtNiche"
-  metaDescription: "Guía de Mozambique: el archipiélago de Bazaruto, lodges en las Quirimbas, tiburones ballena en Tofo, dugongos y las mejores playas africanas del océano Índico."
+  metaDescription: "Guía de Mozambique: el archipiélago de Bazaruto, lodges en las Quirimbas, tiburones ballena en Tofo, dugongos y playas africanas del océano Índico."
 ---
 
 Mozambique tiene 2.500 kilómetros de costa en el océano Índico, casi toda ella aún sin urbanizar. Las playas se suceden sin interrupción durante kilómetros. Los dhows se recortan en el horizonte. Ningún bloque de pisos asoma por encima de los árboles. El mundo marino (arrecifes de coral, tiburones ballena, ballenas jorobadas, mantas, dugongos, playas de anidación de tortugas) lo atiende un puñado de lodges de capacidad tan cuidadosamente limitada que la sensación de haber encontrado algo intacto no es solo marketing.

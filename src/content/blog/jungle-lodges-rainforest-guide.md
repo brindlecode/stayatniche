@@ -93,7 +93,7 @@ Situated on a 1,000-acre private rainforest reserve on the Osa Peninsula, descri
 
 **Nayara Springs, Arenal Volcano**
 
-At the opposite end of the Costa Rican jungle lodge spectrum, Nayara Springs offers a more resort-oriented experience in rainforest surroundings. The 35 villa suites each have a private hot-spring plunge pool fed by geothermal water from the Arenal Volcano, floor-to-ceiling glass walls that bring the surrounding forest inside, and a level of luxury finish that makes this the finest accommodation option in the Arenal area. Multiple Michelin-recognised restaurants and an exceptional spa complete the offering.
+At the opposite end of the Costa Rican jungle lodge spectrum, Nayara Springs offers a more resort-oriented experience in rainforest surroundings. The 35 villa suites each have a private hot-spring plunge pool fed by geothermal water from the Arenal Volcano, floor-to-ceiling glass walls that bring the surrounding forest inside, and a level of luxury finish that makes this a standout accommodation option in the Arenal area. Multiple Michelin-recognised restaurants and an exceptional spa complete the offering.
 
 **Price range:** From $700/person/night
 **Best for:** Couples, honeymooners, travellers who want luxury first and wildlife second

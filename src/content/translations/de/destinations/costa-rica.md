@@ -1,7 +1,7 @@
 ---
 source: costa-rica
 name: Costa Rica
-description: "Costa Rica, ein schmaler Streifen Mittelamerikas, beherbergt 5 % der weltweiten Artenvielfalt und betrieb Ökotourismus, lange bevor jemand das Wort erfunden hatte. Von Baumwipfelpfaden im Nebelwald über Monteverde bis zu den Lavafeldern des Vulkans Arenal und dem fast unberührten Regenwald der Osa-Halbinsel ist das Land das erfolgreichste Modell für naturnahes Reisen weltweit."
+description: "Costa Rica, ein schmaler Streifen Mittelamerikas, beherbergt 5 % der weltweiten Artenvielfalt und betrieb Ökotourismus, lange bevor jemand das Wort erfunden hatte. Von Baumwipfelpfaden im Nebelwald über Monteverde bis zu den Lavafeldern des Vulkans Arenal und dem fast unberührten Regenwald der Osa-Halbinsel ist das Land ein vielzitiertes Modell für naturnahes Reisen."
 essentials:
   currency: "CRC (Costa-Rica-Colón); in touristischen Gegenden werden praktisch überall US-Dollar akzeptiert"
   language: "Spanisch; in touristischen Gegenden wird vielfach Englisch gesprochen"
@@ -28,10 +28,10 @@ travelTips:
   - "Costa Rica lebt von seinem grünen Profil – achten Sie auf Häuser mit CST-Zertifikat (Certificado para la Sostenibilidad Turística)."
 seo:
   metaTitle: "Costa Rica: Regenwald, Tiere & Ökolodges | StayAtNiche"
-  metaDescription: "Costa-Rica-Reiseführer: Nebelwald von Monteverde, Vulkan Arenal, Regenwald im Corcovado und die besten Ökolodges der Welt für Ihr Abenteuer in Mittelamerika."
+  metaDescription: "Costa-Rica-Reiseführer: Nebelwald von Monteverde, Vulkan Arenal, Regenwald im Corcovado und ausgewählte Ökolodges für Ihr Abenteuer in Mittelamerika."
 ---
 
-Costa Rica schaffte 1948 sein Militär ab und steckte das Geld stattdessen in Bildung und Gesundheit. Heute deckt das Land seinen Strombedarf zu 99 % aus erneuerbaren Energien und hat ein Viertel seines Staatsgebiets als Nationalpark oder biologisches Reservat unter Schutz gestellt. Das sind strukturelle Entscheidungen, keine Werbebotschaften – und sie haben Costa Rica zur ökologisch ernsthaftesten kleinen Nation der Erde gemacht und zum lohnendsten Ziel für Tierreisen auf dem amerikanischen Doppelkontinent.
+Costa Rica schaffte 1948 sein Militär ab und steckte das Geld stattdessen in Bildung und Gesundheit. Heute deckt das Land seinen Strombedarf zu 99 % aus erneuerbaren Energien und hat ein Viertel seines Staatsgebiets als Nationalpark oder biologisches Reservat unter Schutz gestellt. Das sind strukturelle Entscheidungen, keine Werbebotschaften – und sie haben Costa Rica zu einer der ökologisch engagiertesten kleinen Nationen der Erde gemacht und zu einem lohnenden Ziel für Tierreisen auf dem amerikanischen Doppelkontinent.
 
 Für ein Land, das kleiner ist als West Virginia, sind die Zahlen atemberaubend: über 900 Vogelarten, 200 Säugetierarten, 35.000 Insektenarten, 1.200 Orchideensorten. Die Erklärung liegt in der Geografie: Costa Rica liegt an der Nahtstelle zweier tektonischer Platten und zweier großer Meeresströmungen, wo die Artenlisten Nord- und Südamerikas aufeinandertreffen. Nebelwälder, tropische Trockenwälder, Regenwälder, Mangroven und Korallenriffe liegen nur wenige Stunden voneinander entfernt – eine biologische Überschneidung, die es in diesem Ausmaß nirgendwo sonst gibt.
 

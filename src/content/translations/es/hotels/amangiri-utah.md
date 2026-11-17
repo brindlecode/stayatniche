@@ -21,7 +21,7 @@ amenities:
   - "Servicio de mayordomo y conserjería las 24 horas"
   - "Traslados privados desde el aeropuerto (Page, Arizona)"
 bestFor:
-  - "Viajeros de lujo exigentes que buscan la mejor experiencia de resort de Estados Unidos"
+  - "Viajeros de lujo exigentes que buscan una experiencia de resort de primer nivel en Estados Unidos"
   - "Amantes de la arquitectura y el diseño"
   - "Parejas que celebran un momento especial"
   - "Aventureros al aire libre que no renuncian a la comodidad"
@@ -51,10 +51,10 @@ nearbyAttractions:
     distance: "130 km"
 seo:
   metaTitle: "Amangiri, Utah: el gran resort del desierto | StayAtNiche"
-  metaDescription: "La obra maestra de Aman en el desierto del sur de Utah: arquitectura extraordinaria, servicio sin rival y acceso directo a los cañones. Desde 2000 US$ la noche."
+  metaDescription: "La obra maestra de Aman en el desierto del sur de Utah: arquitectura extraordinaria, servicio excepcional y acceso directo a los cañones. Desde 2000 US$ la noche."
 ---
 
-Amangiri es, probablemente, el mejor hotel del desierto de Norteamérica. Solo la arquitectura ya justifica el vuelo a Utah. El arquitecto Marwan Al-Sayed diseñó todo el resort en torno a una antigua mesa de arenisca, un afloramiento de arenisca navajo que ocupa el centro del edificio, y el resultado es un complejo largo y bajo de hormigón visto y piedra del desierto que no compite con el paisaje: simplemente pasa a formar parte de él.
+Amangiri es uno de los hoteles del desierto más reconocidos de Norteamérica. Solo la arquitectura ya justifica el vuelo a Utah. El arquitecto Marwan Al-Sayed diseñó todo el resort en torno a una antigua mesa de arenisca, un afloramiento de arenisca navajo que ocupa el centro del edificio, y el resultado es un complejo largo y bajo de hormigón visto y piedra del desierto que no compite con el paisaje: simplemente pasa a formar parte de él.
 
 La piscina principal está construida directamente contra la pared de la mesa. Las salas de tratamiento del spa flotan sobre ella. Cada perspectiva de los espacios comunes está calibrada para devolver tu mirada a la roca. Es una arquitectura con unas prioridades muy claras, y las cumple sin un solo detalle desperdiciado.
 

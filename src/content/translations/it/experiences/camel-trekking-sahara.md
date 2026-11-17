@@ -2,7 +2,7 @@
 source: camel-trekking-sahara
 title: "Trekking in cammello con notte nel Sahara"
 destination: "Merzouga"
-description: "Entra in groppa a un cammello nel vasto mare di sabbia dell'Erg Chebbi al tramonto, accampati in una tenda berbera sotto un cielo così fitto di stelle da sembrare una volta architettonica e svegliati il mattino dopo per un'alba che tinge le dune d'oro e di rosa, nel paesaggio desertico più cinematografico del mondo. Questo trekking in cammello di 24 ore da Merzouga è la classica notte nel Sahara: senza fretta, davvero remota e sorprendentemente serena quando l'ultimo campanello dei cammelli si spegne nel silenzio del deserto."
+description: "Entra in groppa a un cammello nel vasto mare di sabbia dell'Erg Chebbi al tramonto, accampati in una tenda berbera sotto un cielo così fitto di stelle da sembrare una volta architettonica e svegliati il mattino dopo per un'alba che tinge le dune d'oro e di rosa, in uno dei paesaggi desertici più cinematografici del mondo. Questo trekking in cammello di 24 ore da Merzouga è la classica notte nel Sahara: senza fretta, davvero remota e sorprendentemente serena quando l'ultimo campanello dei cammelli si spegne nel silenzio del deserto."
 booking:
   price: "da 95 $ a persona"
   duration: "24 ore"

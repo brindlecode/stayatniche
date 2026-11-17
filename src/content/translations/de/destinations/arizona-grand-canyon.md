@@ -1,7 +1,7 @@
 ---
 source: arizona-grand-canyon
 name: "Arizona, Grand Canyon"
-description: "Der Grand Canyon ist der spektakulärste geologische Aufschluss der Erde: eine meilentiefe Schlucht durch 1,8 Milliarden Jahre Gestein, die der Colorado River in fünf Millionen Jahren gegraben hat. Abseits der Aussichtspunkte am Rand, wo sich die Massen drängen, verwandeln Wanderungen in die Schlucht, Rafting auf dem Colorado und die Wildnis des North Rim eines der meistbesuchten Naturwunder der Welt in ein wirklich intimes Erlebnis."
+description: "Der Grand Canyon ist einer der spektakulärsten geologischen Aufschlüsse der Erde: eine meilentiefe Schlucht durch 1,8 Milliarden Jahre Gestein, die der Colorado River in fünf Millionen Jahren gegraben hat. Abseits der Aussichtspunkte am Rand, wo sich die Massen drängen, verwandeln Wanderungen in die Schlucht, Rafting auf dem Colorado und die Wildnis des North Rim eines der meistbesuchten Naturwunder der Welt in ein wirklich intimes Erlebnis."
 essentials:
   currency: "USD"
   language: "Englisch"

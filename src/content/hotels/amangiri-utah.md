@@ -27,7 +27,7 @@ amenities:
   - 24-hour butler and concierge service
   - Private airport transfers (Page, AZ)
 bestFor:
-  - Discerning luxury travellers seeking the finest US resort experience
+  - Discerning luxury travellers seeking a high-end US resort experience
   - Architecture and design enthusiasts
   - Couples on milestone celebrations
   - Outdoor adventurers who refuse to compromise on comfort
@@ -63,8 +63,8 @@ coordinates:
 featured: true
 status: published
 seo:
-  metaTitle: "Amangiri Review, The Greatest Desert Resort in America, Utah"
-  metaDescription: "Aman's masterpiece desert resort built into the canyon landscape of southern Utah. Amangiri offers extraordinary architecture, unrivalled service, and direct access to the American Southwest. From $2,000/night."
+  metaTitle: "Amangiri Review, Aman's Luxury Desert Resort, Utah"
+  metaDescription: "Aman's masterpiece desert resort built into the canyon landscape of southern Utah. Amangiri offers extraordinary architecture, exceptional service, and direct access to the American Southwest. From $2,000/night."
 affiliateLinks:
   - partner: "expedia"
     url: "https://www.expedia.com/Hotel-Search?destination=Canyon%20Point%2C%20Utah%2C%20USA&adults=2"
@@ -86,7 +86,7 @@ niche_source_url: "https://www.aman.com/resorts/amangiri"
 niche_verified_at: 2026-11-17
 ---
 
-Amangiri is probably the finest desert hotel in North America. The architecture alone justifies the flight to Utah. Architect Marwan Al-Sayed designed the entire resort around an ancient sandstone mesa, an outcropping of Navajo sandstone sitting at the building's core, and the result is a long, low complex of poured concrete and desert stone that doesn't compete with the landscape, it simply becomes part of it.
+Amangiri is one of the most acclaimed desert hotels in North America. The architecture alone justifies the flight to Utah. Architect Marwan Al-Sayed designed the entire resort around an ancient sandstone mesa, an outcropping of Navajo sandstone sitting at the building's core, and the result is a long, low complex of poured concrete and desert stone that doesn't compete with the landscape, it simply becomes part of it.
 
 The main pool is built directly against the mesa face. The spa treatment rooms hover over it. Every sightline in the public spaces has been calibrated to return your attention to the rock. This is architecture with a very clear set of priorities, and it executes them without a wasted detail.
 

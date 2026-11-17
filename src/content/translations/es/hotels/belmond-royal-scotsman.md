@@ -1,10 +1,10 @@
 ---
 source: belmond-royal-scotsman
 destination: "De Edimburgo a las Tierras Altas de Escocia"
-description: "El único tren nocturno de lujo de Gran Bretaña, que lleva a un máximo de 36 viajeros por las Tierras Altas de Escocia en vagones restaurados de tartán, madera pulida y latón. Sale de Edimburgo y sigue la West Highland Line, pasando por el viaducto de Glenfinnan hasta Mallaig, con rutas opcionales hacia el extremo norte y excursiones a destilerías de whisky por el camino."
+description: "Un tren nocturno de lujo que lleva a un máximo de 36 viajeros por las Tierras Altas de Escocia en vagones restaurados de tartán, madera pulida y latón. Sale de Edimburgo y sigue la West Highland Line, pasando por el viaducto de Glenfinnan hasta Mallaig, con rutas opcionales hacia el extremo norte y excursiones a destilerías de whisky por el camino."
 highlights:
-  - "El único tren nocturno de lujo de Gran Bretaña por las Tierras Altas de Escocia"
-  - "La famosa West Highland Line, elegida el mejor viaje en tren del mundo"
+  - "Un tren nocturno de lujo por las Tierras Altas de Escocia"
+  - "La famosa West Highland Line, considerada uno de los grandes viajes en tren del mundo"
   - "Espectaculares paisajes de las Tierras Altas: lagos, cañadas, montañas y mar"
   - "El viaducto de Glenfinnan, una de las estructuras ferroviarias más fotografiadas del mundo"
   - "Excursiones y catas en destilerías de whisky en algunos recorridos"
@@ -48,10 +48,10 @@ nearbyAttractions:
     distance: "En algunas rutas"
 seo:
   metaTitle: "Belmond Royal Scotsman: tren de lujo en Escocia | StayAtNiche"
-  metaDescription: "El único tren nocturno de lujo de Gran Bretaña por las Tierras Altas de Escocia: viaducto de Glenfinnan, destilerías de whisky y alta cocina. Desde 2400 US$."
+  metaDescription: "Tren nocturno de lujo por las Tierras Altas de Escocia: viaducto de Glenfinnan, destilerías de whisky y alta cocina. Desde 2400 US$."
 ---
 
-La West Highland Line es, según el juicio unánime de la prensa ferroviaria y de cualquiera que la haya recorrido, el viaje en tren más bonito del mundo. De Glasgow a Fort William y a Glenfinnan, donde el famoso viaducto de 21 arcos cruza el valle con una ingeniería victoriana un siglo anterior a su fama gracias a Harry Potter, y de ahí a Mallaig, en el estrecho de Sleat, frente a Skye. Puedes hacerlo en un tren corriente de ScotRail. Hacerlo en el Royal Scotsman, a un ritmo que te permite absorber el paisaje en lugar de consumirlo, es algo completamente distinto.
+La West Highland Line es considerada, por la prensa ferroviaria y por muchos de quienes la han recorrido, uno de los viajes en tren más bonitos del mundo. De Glasgow a Fort William y a Glenfinnan, donde el famoso viaducto de 21 arcos cruza el valle con una ingeniería victoriana un siglo anterior a su fama gracias a Harry Potter, y de ahí a Mallaig, en el estrecho de Sleat, frente a Skye. Puedes hacerlo en un tren corriente de ScotRail. Hacerlo en el Royal Scotsman, a un ritmo que te permite absorber el paisaje en lugar de consumirlo, es algo completamente distinto.
 
 El tren de Belmond lleva a un máximo de 36 viajeros en vagones de carácter cuidadosamente restaurado: tejidos de tartán de las Tierras Altas, paneles de madera pulida, herrajes de latón y lámparas de mesa que desprenden una calidez muy escocesa. A esta escala, la vida social a bordo se parece a una fiesta en una casa de campo. Las conversaciones surgen con naturalidad entre personas a las que el viaje y el paisaje compartido han reunido. El vagón mirador, en la cola, da a una plataforma donde puedes salir al aire de las Tierras Altas mientras la superficie de los lagos atrapa la luz de la tarde y los ciervos rojos te observan desde las laderas.
 

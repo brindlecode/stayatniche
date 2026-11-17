@@ -1,7 +1,7 @@
 ---
 source: honeymoon-unique-hotels-guide
-title: "Der große Hotelratgeber für die Flitterwochen: außergewöhnliche Unterkünfte für die romantischste Reise der Welt"
-excerpt: "Ihre Flitterwochen verdienen etwas Außergewöhnliches. Von Privatinseln im Indischen Ozean bis zu Höhlensuiten hoch über den Tälern Kappadokiens: Das sind die romantischsten außergewöhnlichen Hotels der Welt."
+title: "Der große Hotelratgeber für die Flitterwochen: außergewöhnliche Unterkünfte für Ihre romantischste Reise"
+excerpt: "Ihre Flitterwochen verdienen etwas Außergewöhnliches. Von Privatinseln im Indischen Ozean bis zu Höhlensuiten hoch über den Tälern Kappadokiens: Das sind außergewöhnliche Hotels, die für Romantik gemacht sind."
 seo:
   metaTitle: "Flitterwochen: die romantischsten Hotels | StayAtNiche"
   metaDescription: "Die außergewöhnlichsten Hotels für die Flitterwochen: Privatinseln, Wasservillen, Baumhaussuiten im Dschungel und Höhlensuiten für Ihre Hochzeitsreise."

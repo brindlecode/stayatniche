@@ -1,7 +1,7 @@
 ---
 source: snowcastle-kemi-finland
 destination: "Kemi, Lappland"
-description: "Die größte Schneeburg der Welt, jeden Winter in der finnischen Küstenstadt Kemi komplett neu errichtet: eine Festung aus Schnee und Eis mit Hotelzimmern, Restaurants und einer Kapelle, direkt am zugefrorenen Bottnischen Meerbusen. Der architektonisch ehrgeizigste Schneebau der Welt."
+description: "Die größte Schneeburg der Welt, jeden Winter in der finnischen Küstenstadt Kemi komplett neu errichtet: eine Festung aus Schnee und Eis mit Hotelzimmern, Restaurants und einer Kapelle, direkt am zugefrorenen Bottnischen Meerbusen. Ein architektonisch ambitionierter Schneebau, der jeden Winter neu entsteht."
 highlights:
   - "Die größte Schneeburg der Welt, jeden Winter nach einem neuen Entwurf gebaut"
   - "Hotelzimmer, Restaurant, Kapelle und Kunstgalerie – alles in der Burg"

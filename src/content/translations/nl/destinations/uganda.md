@@ -15,7 +15,7 @@ mustSee:
   - "Berggorilla's zoeken in het Bwindi Impenetrable Forest: een werkelijk levensveranderend uur bij een gorillafamilie"
   - "Chimpansee-habituatie in Kibale Forest: met onderzoekers een wilde chimpanseefamilie volgen van dageraad tot schemering"
   - "Queen Elizabeth National Park: in bomen klimmende leeuwen in de sector Ishasha en bootsafari's op het Kazinga-kanaal"
-  - "Murchison Falls, de krachtigste waterval ter wereld, waar de Nijl zich door een kloof van 7 meter perst"
+  - "Murchison Falls, een van de krachtigste watervallen ter wereld, waar de Nijl zich door een kloof van 7 meter perst"
   - "De bron van de Nijl bij Jinja: het precieze punt waar de Nijl het Victoriameer verlaat, met wildwaterraften"
   - "Het Rwenzori-gebergte, de 'Maanbergen', met gletsjertochten op de evenaar"
 travelTips:
@@ -39,4 +39,4 @@ De accommodaties rond Bwindi zijn uitgegroeid tot enkele van de mooiste wilderni
 
 Oeganda wordt steevast verkeerd gezien als een bestemming voor één soort. Kibale National Park, vier uur ten noorden van Bwindi, biedt de betrouwbaarste chimpanseetrektochten van Afrika en, uniek, een volledige dag chimpansee-habituatie waarbij gasten samen met het onderzoeksteam een familie volgen van het nest bij dageraad tot de schemering. Queen Elizabeth National Park heeft de beroemde in bomen klimmende leeuwen van Ishasha en bootsafari's op het Kazinga-kanaal, waar nijlpaarden, buffels en olifanten in flinke aantallen samenkomen.
 
-Bij Murchison Falls wordt de Nijl van 50 meter breed samengeperst tot 7 meter en stort hij 43 meter omlaag in een vertoning van pure waterkracht. Het stuifwater en het lawaai bij het uitkijkpunt aan de voet zijn overweldigend. Het is de krachtigste waterval ter wereld gemeten naar volume per breedte, en dat voel je fysiek als je eronder staat.
+Bij Murchison Falls wordt de Nijl van 50 meter breed samengeperst tot 7 meter en stort hij 43 meter omlaag in een vertoning van pure waterkracht. Het stuifwater en het lawaai bij het uitkijkpunt aan de voet zijn overweldigend. Het is een van de krachtigste watervallen ter wereld gemeten naar volume per breedte, en dat voel je fysiek als je eronder staat.

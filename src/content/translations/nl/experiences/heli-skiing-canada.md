@@ -2,7 +2,7 @@
 source: heli-skiing-canada
 title: "Heliskiën in de Selkirk Mountains"
 destination: "Selkirk Mountains, Brits-Columbia"
-description: "Duik de onbetreden poedervelden van de Canadese Selkirks in, nadat een helikopter je heeft afgezet boven terrein dat geen skilift ooit zal bereiken: een weidse, stille, smetteloos witte wildernis waar je afdalingen in verticale kilometers meet en de sneeuwkwaliteit legendarisch is onder de meest serieuze skiërs ter wereld. Heliskiën in Brits-Columbia is het summum van het alpineskiën en biedt de beste skiërs op aarde een volledig privé-bergervaring in een van de diepste poedersneeuwlagen van de planeet."
+description: "Duik de onbetreden poedervelden van de Canadese Selkirks in, nadat een helikopter je heeft afgezet boven terrein dat geen skilift ooit zal bereiken: een weidse, stille, smetteloos witte wildernis waar je afdalingen in verticale kilometers meet en de sneeuwkwaliteit legendarisch is onder de meest serieuze skiërs ter wereld. Heliskiën in Brits-Columbia geldt voor velen als het summum van het alpineskiën en biedt ervaren skiërs een volledig privé-bergervaring in een van de diepste poedersneeuwlagen van de planeet."
 booking:
   price: "vanaf $ 1.200 per persoon per dag"
   duration: "Hele dag (pakketten van 3-7 dagen beschikbaar)"

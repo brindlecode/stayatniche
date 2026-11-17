@@ -33,7 +33,7 @@ This guide covers leading bubble hotel experiences, organised by destination, wi
 Finland is the heartland of the bubble hotel concept. The country's extraordinary position within the auroral zone, where the northern lights appear on most clear nights between September and March, created both the demand and the inspiration for transparent sleeping structures that let guests watch the aurora from bed.
 
 
-The original and most celebrated aurora bubble hotel in the world, Kakslauttanen Resort in the Finnish fell-country south of Saariselkä pioneered the glass igloo concept in 1999 and has grown into a substantial resort combining glass igloos, wooden cabins, smoke saunas, and reindeer safaris. The glass igloos are the centrepiece: individual transparent structures with heated double beds, bathroom facilities, and a floor plan designed to give both occupants unobstructed overhead views of the sky.
+The original and one of the best-known aurora bubble hotels, Kakslauttanen Resort in the Finnish fell-country south of Saariselkä pioneered the glass igloo concept in 1999 and has grown into a substantial resort combining glass igloos, wooden cabins, smoke saunas, and reindeer safaris. The glass igloos are the centrepiece: individual transparent structures with heated double beds, bathroom facilities, and a floor plan designed to give both occupants unobstructed overhead views of the sky.
 
 The resort sits in a Dark Sky area. On clear nights, the Milky Way and northern lights are visible with extraordinary clarity. The resort's own aurora alarm system wakes sleeping guests when the lights appear, if they've asked to be called.
 

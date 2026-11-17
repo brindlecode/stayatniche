@@ -1,7 +1,7 @@
 ---
 source: ethiopia
 name: "Äthiopien"
-description: "Äthiopien ist Afrikas geschichtsträchtigstes Reiseziel: ein uraltes Hochlandreich mit eigenem Alphabet, eigenem Kalender und einer orthodox-christlichen Tradition, die um Jahrhunderte älter ist als die Europas. Von den Felsenkirchen Lalibelas über die Stammeskulturen im Omo-Tal bis zu den surrealen Landschaften der Danakil-Senke bietet Äthiopien Erlebnisse, die es tatsächlich nirgendwo sonst auf der Welt gibt."
+description: "Äthiopien ist eines der geschichtsträchtigsten Reiseziele Afrikas: ein uraltes Hochlandreich mit eigenem Alphabet, eigenem Kalender und einer orthodox-christlichen Tradition, die um Jahrhunderte älter ist als die Europas. Von den Felsenkirchen Lalibelas über die Stammeskulturen im Omo-Tal bis zu den surrealen Landschaften der Danakil-Senke bietet Äthiopien Erlebnisse, die es an nur wenigen anderen Orten der Welt gibt."
 essentials:
   currency: "ETB (Äthiopischer Birr); US-Dollar sind in großen Hotels und für manche Leistungen nützlich"
   language: "Amharisch (Amtssprache); Oromo, Tigrinya und mehr als 80 weitere Sprachen"
@@ -26,7 +26,7 @@ travelTips:
   - "Die äthiopische Küche (Injera mit Wots und Tibs) ist großartig – essen Sie für das authentische Erlebnis lieber in einheimischen Restaurants als im Hotelspeisesaal."
 seo:
   metaTitle: "Äthiopien: Lalibela, Danakil & Stammeskulturen | StayAtNiche"
-  metaDescription: "Äthiopien-Reiseführer: die Felsenkirchen von Lalibela, Lavaseen in der Danakil-Senke, das Simien-Gebirge, das Omo-Tal und Afrikas älteste Hochkultur."
+  metaDescription: "Äthiopien-Reiseführer: die Felsenkirchen von Lalibela, Lavaseen in der Danakil-Senke, das Simien-Gebirge, das Omo-Tal und eine der ältesten Hochkulturen Afrikas."
 ---
 
 Äthiopien steht abseits der vertrauten afrikanischen Reiseerzählung. Hier gibt es keine Safari-Rundreisen zu den Big Five, keine Lodge-Tradition aus der Kolonialzeit, keine ausgetretene touristische Infrastruktur. Stattdessen gibt es etwas Selteneres: eine Zivilisation mit 3.000 Jahren ununterbrochen überlieferter Geschichte, eigener Schrift, eigenem Kalender und eigener religiöser Tradition, Landschaften vom höchsten Punkt Afrikas südlich der Sahara bis zum tiefsten Punkt des Kontinents und kulturelle Begegnungen von einer Tiefe und Echtheit, die weltweit immer schwerer zu finden sind.
@@ -37,7 +37,7 @@ König Lalibela gab im 12. Jahrhundert etwas Außergewöhnliches in Auftrag: ein
 Das äthiopisch-orthodoxe Christentum, hier seit dem 4. Jahrhundert gelebt, ist kein Museumsstück. Die Kirchen von Lalibela sind lebendige Wallfahrtsorte, vor allem während der großen Feste Timkat (Epiphanias) und Meskel (Kreuzauffindung), wenn Tausende weiß gekleidete Pilger die Anlage in nächtlichen Prozessionen mit Kerzen und Gesängen füllen.
 
 
-Äthiopien besitzt zwei der extremsten Landschaften der Welt. Das Simien-Gebirge, ein Hochplateau auf 3.000–4.550 Metern, zu senkrechten Abbrüchen und Felsnadeln erodiert, ist Lebensraum des Äthiopischen Wolfs (Afrikas am stärksten bedrohtes Raubtier), des Dscheladas (des einzigen grasfressenden Primaten der Welt) und des Walia-Steinbocks, den es nirgendwo sonst gibt. Die Wanderungen hier, entlang von Klippenkanten mit 1.000 Meter tiefen Abstürzen ins Tal, gehören zum schönsten Höhentrekking Afrikas.
+Äthiopien besitzt zwei ausgesprochen extreme Landschaften. Das Simien-Gebirge, ein Hochplateau auf 3.000–4.550 Metern, zu senkrechten Abbrüchen und Felsnadeln erodiert, ist Lebensraum des Äthiopischen Wolfs (Afrikas am stärksten bedrohtes Raubtier), des Dscheladas (des einzigen grasfressenden Primaten der Welt) und des Walia-Steinbocks, den es nirgendwo sonst gibt. Die Wanderungen hier, entlang von Klippenkanten mit 1.000 Meter tiefen Abstürzen ins Tal, gelten als besonders lohnendes Höhentrekking in Afrika.
 
 Die Danakil-Senke dagegen ist der tiefste und heißeste Ort Afrikas: eine geologische Bruchzone, in der drei tektonische Platten aufeinandertreffen und aktive Lavaseen (Erta Ale), schwefelhaltige Salzformationen in Gelb- und Grüntönen (Dallol) sowie eine Salzebene entstehen ließen, auf der seit Jahrhunderten von Hand Salz abgebaut und mit Kamelkarawanen abtransportiert wird. Touren erfordern bewaffnete Eskorte und Fahrten bei Nacht, um der schlimmsten Hitze zu entgehen, und die Unterkünfte sind einfach – geschlafen wird unter freiem Himmel in der Wüste oder in schlichten Camps. Das Erlebnis ist nicht bequem. Aber es ist im wahrsten Sinne des Wortes unvergesslich.
 

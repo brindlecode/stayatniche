@@ -2,12 +2,12 @@
 source: underwater-rooms
 title: "Chambres sous-marines"
 tagline: "Se réveiller au fond de l'océan"
-description: "L'expérience d'hébergement la plus rare au monde : une chambre d'hôtel sous-marine vous plonge dans un univers de récifs coralliens, de poissons tropicaux et d'eau d'un bleu lumineux. Avec moins d'une vingtaine de véritables suites sous-marines sur la planète, ces chambres extraordinaires, aux Maldives et ailleurs, marquent la frontière ultime du voyage insolite."
+description: "Une expérience d’hébergement rare : une chambre d'hôtel sous-marine vous plonge dans un univers de récifs coralliens, de poissons tropicaux et d'eau d'un bleu lumineux. Avec moins d'une vingtaine de véritables suites sous-marines sur la planète, ces chambres extraordinaires, aux Maldives et ailleurs, repoussent les frontières du voyage insolite."
 stats:
   topDestination: "Maldives"
 seo:
   metaTitle: "Chambres sous-marines : dormir sous l'océan | StayAtNiche"
-  metaDescription: "Dormir sous l'eau : les chambres d'hôtel sous-marines les plus exclusives, aux Maldives et ailleurs, entourées de récifs coralliens et de poissons tropicaux."
+  metaDescription: "Dormir sous l'eau : des chambres d'hôtel sous-marines exclusives, aux Maldives et ailleurs, entourées de récifs coralliens et de poissons tropicaux."
 ---
 
 Il existe environ dix-huit endroits au monde où l'on peut s'endormir sous la surface de l'océan, en regardant les poissons de récif naviguer entre les coraux tandis que des raies manta passent au-dessus de sa tête. Moins de dix-huit, même, selon la saison et les établissements en service. Ce nombre n'augmente guère, car construire une chambre d'hôtel sous-marine est réellement difficile et coûteux : c'est précisément pour cela qu'elle reste la catégorie la plus rare du voyage.

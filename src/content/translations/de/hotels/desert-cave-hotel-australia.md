@@ -7,7 +7,7 @@ highlights:
   - "Coober Pedy fördert 70 % der Opale der Welt"
   - "Die natürliche Temperatur unter der Erde liegt das ganze Jahr über konstant bei 23 °C"
   - "Einzigartige unterirdische Einrichtungen mit Bar, Restaurant und Pool"
-  - "Die wohl surrealste Outback-Stadt Australiens"
+  - "Eine wahrhaft surreale Outback-Stadt in Südaustralien"
 amenities:
   - "Unterirdische Gästezimmer mit natürlichen Sandsteinwänden"
   - "Unterirdisches Hallenbad"
@@ -48,7 +48,7 @@ nearbyAttractions:
     distance: "150 km"
 seo:
   metaTitle: "Desert Cave Hotel: Unterirdisch in Coober Pedy | StayAtNiche"
-  metaDescription: "Schlafen unter der Erde im opalhaltigen Sandstein: das Desert Cave Hotel in Coober Pedy, Australiens surrealster Outback-Stadt – konstant 23 °C das ganze Jahr."
+  metaDescription: "Schlafen unter der Erde im opalhaltigen Sandstein: das Desert Cave Hotel in Coober Pedy, einer surrealen Outback-Stadt in Südaustralien – konstant 23 °C das ganze Jahr."
 ---
 
 Wer durch das Outback von South Australia nach Norden fährt, sieht Coober Pedy am Horizont als Feld aus Hügeln, Rohren und Schutt auftauchen, ohne einen einzigen Baum. Der Boden ist von Tausenden Minenschächten durchlöchert. Aus der Ferne wirkt es wie eine Landschaft, die industriell ausgehoben und dann weitgehend aufgegeben wurde – was in gewissem Sinne auch stimmt. Die Stadt wurde auf dem Opalbergbau errichtet, und der Opalbergbau hat alles an ihr geprägt, auch die Tatsache, dass die meisten der 2.000 Einwohner unter der Erde in sogenannten Dugouts leben. Wenn die Temperaturen an der Oberfläche im Sommer regelmäßig über 50 °C steigen, ist diese Logik schwer zu bestreiten. Der Name der Aborigines für die Gegend lautet *kupa piti*: weißer Mann im Loch.

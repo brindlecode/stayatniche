@@ -36,7 +36,7 @@ prosAndCons:
     - "The crater floor game viewing is the most reliably exceptional in Africa, all Big Five daily"
     - "The lodge itself is one of Africa's great theatrical hotel experiences"
     - "The rim position provides permanent panoramic views into the caldera"
-    - "The combination of cultural (Maasai), geological, and wildlife interest is unmatched"
+    - "The combination of cultural (Maasai), geological, and wildlife interest is exceptional"
   cons:
     - "The crater descents are shared with other operators, it is not a private experience"
     - "The lodge's theatrical design is polarising, some find it too elaborate"

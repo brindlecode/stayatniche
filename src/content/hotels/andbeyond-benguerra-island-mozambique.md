@@ -4,7 +4,7 @@ category: overwater-bungalows
 destination: Benguerra Island, Bazaruto Archipelago
 country: Mozambique
 continent: Africa
-description: A remote island lodge in Mozambique's Bazaruto Archipelago — a marine protected area of extraordinary biodiversity in the Indian Ocean, four hours north of Maputo. Fourteen casitas and villas face the beach; the sea beyond is the reason to come — coral reefs, dugong herds, manta rays, humpback whales in season, and world-class snorkelling within kayaking distance of the shore.
+description: A remote island lodge in Mozambique's Bazaruto Archipelago — a marine protected area of extraordinary biodiversity in the Indian Ocean, four hours north of Maputo. Fourteen casitas and villas face the beach; the sea beyond is the reason to come — coral reefs, dugong herds, manta rays, humpback whales in season, and excellent snorkelling within kayaking distance of the shore.
 coverImage: /images/hotels/andbeyond-benguerra-island-mozambique.jpg
 gallery:
   - /images/hotels/andbeyond-benguerra-island-mozambique-2.jpg
@@ -14,7 +14,7 @@ priceIndicator: 5
 highlights:
   - Bazaruto Archipelago marine protected area
   - Dugong sightings in the Western Indian Ocean
-  - World-class snorkelling and diving on pristine reefs
+  - Excellent snorkelling and diving on pristine reefs
   - Dhow sailing at sunset
   - Remote island with no through-traffic
 amenities:

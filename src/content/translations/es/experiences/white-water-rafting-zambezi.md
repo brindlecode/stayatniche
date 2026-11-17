@@ -2,7 +2,7 @@
 source: white-water-rafting-zambezi
 title: "Rafting en aguas bravas por el río Zambeze"
 destination: "Garganta de Batoka, Cataratas Victoria"
-description: "El Zambeze, por debajo de las Cataratas Victoria, está considerado el mejor rafting de aguas bravas de un día del mundo: 23 kilómetros de rápidos continuos de clase IV y V por una espectacular garganta de basalto que encauza uno de los ríos más poderosos de África en un embudo embravecido de olas, rebufos y remolinos. No es un paseo panorámico: es una prueba física y psicológica de todo un día que la mayoría de los participantes sitúan entre las mejores experiencias de su vida viajera."
+description: "El Zambeze, por debajo de las Cataratas Victoria, está considerado una de las mejores experiencias de rafting de aguas bravas de un día del mundo: 23 kilómetros de rápidos continuos de clase IV y V por una espectacular garganta de basalto que encauza uno de los ríos más poderosos de África en un embudo embravecido de olas, rebufos y remolinos. No es un paseo panorámico: es una prueba física y psicológica de todo un día que la mayoría de los participantes sitúan entre las mejores experiencias de su vida viajera."
 booking:
   price: "Desde 160 US$ por persona"
   duration: "Día completo"
@@ -28,7 +28,7 @@ notIncluded:
   - "Tasas de visado para entrar en Zambia o Zimbabue"
 seo:
   metaTitle: "Rafting en el Zambeze, Cataratas Victoria | StayAtNiche"
-  metaDescription: "Desciende 23 km de rápidos de clase IV-V por la garganta de Batoka, el rafting de un día más aclamado del mundo, en las Cataratas Victoria. Desde 160 US$."
+  metaDescription: "Desciende 23 km de rápidos de clase IV-V por la garganta de Batoka, una travesía de rafting de un día muy conocida, en las Cataratas Victoria. Desde 160 US$."
 ---
 
 Lo primero es el sonido. Mucho antes de que la balsa llegue al primer rápido, ya oyes el Zambeze: un rugido profundo, casi subsónico, que las paredes de la garganta amplifican hasta volverlo casi físico. De pie en el punto de embarque bajo las Cataratas Victoria, mirando hacia arriba los acantilados de basalto que se alzan 120 metros a cada lado y hacia abajo un río que acaba de caer 108 metros en una sola cortina de agua, entiendes enseguida que hoy no va a ser un día cualquiera.

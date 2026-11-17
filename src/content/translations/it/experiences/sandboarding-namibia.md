@@ -2,7 +2,7 @@
 source: sandboarding-namibia
 title: "Sandboarding sulle dune di Sossusvlei"
 destination: "Sossusvlei, deserto del Namib"
-description: "Lanciati in sandboard lungo il versante delle dune più alte del mondo, raggiungendo gli 80 km/h su montagne di sabbia che si innalzano per 300 metri sopra l'antica depressione argillosa sottostante. Le dune di Sossusvlei sono tra le formazioni naturali più fotografate della Terra, rosso mattone, scolpite alla perfezione dal vento e totalmente silenziose, e buttarsi giù da una di esse a tutta velocità trasforma il deserto più bello del mondo nel suo parco giochi più spettacolare."
+description: "Lanciati in sandboard lungo il versante di alcune tra le dune più alte del mondo, raggiungendo gli 80 km/h su montagne di sabbia che si innalzano per 300 metri sopra l'antica depressione argillosa sottostante. Le dune di Sossusvlei sono tra le formazioni naturali più fotografate della Terra, rosso mattone, scolpite alla perfezione dal vento e totalmente silenziose, e buttarsi giù da una di esse a tutta velocità trasforma uno dei deserti più belli del mondo in un parco giochi spettacolare."
 booking:
   price: "da 80 $ a persona"
   duration: "Mezza giornata"
@@ -27,7 +27,7 @@ notIncluded:
   - "Alloggio nella zona di Sossusvlei"
 seo:
   metaTitle: "Sandboarding a Sossusvlei, Namibia | StayAtNiche"
-  metaDescription: "Scendi in sandboard da dune di 300 metri a 80 km/h a Sossusvlei, in Namibia: il deserto più bello del mondo diventa un parco giochi d'adrenalina. Da 80 $."
+  metaDescription: "Scendi in sandboard da dune di 300 metri a 80 km/h a Sossusvlei, in Namibia: uno dei deserti più belli del mondo diventa un parco giochi d'adrenalina. Da 80 $."
 ---
 
 La duna Big Daddy si innalza per 325 metri dal fondo della depressione di Deadvlei. La salita richiede circa 45 minuti lungo una cresta affilata come una lama, con il deserto su entrambi i lati e la distesa di argilla bianca che rimpicciolisce sotto di te. In cima il vento strappa la sabbia dalla cresta in cortine orizzontali. La vista (il Namib che si allunga fino a ogni orizzonte, le acacie morte che proiettano ombre blu sul terreno bianco, le creste delle dune che si perdono nel tremolio del calore) è qualcosa a cui la fotografia di viaggio non riesce mai a rendere giustizia.

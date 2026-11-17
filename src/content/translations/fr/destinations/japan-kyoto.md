@@ -1,7 +1,7 @@
 ---
 source: japan-kyoto
 name: "Japon, Kyoto et au-delà"
-description: "Kyoto est le cœur spirituel et culturel du Japon : une ville de 1 600 temples bouddhistes, 400 sanctuaires shinto et 17 sites inscrits au patrimoine mondial de l'UNESCO, qui parvient pourtant à rester une ville vivante et active plutôt qu'un musée à ciel ouvert. Au-delà de l'ancienne capitale impériale, les ryokans, les onsen nichés en forêt et les maisons d'hôtes des villages de montagne perpétuent la tradition d'hébergement intime la plus raffinée au monde."
+description: "Kyoto est le cœur spirituel et culturel du Japon : une ville de 1 600 temples bouddhistes, 400 sanctuaires shinto et 17 sites inscrits au patrimoine mondial de l'UNESCO, qui parvient pourtant à rester une ville vivante et active plutôt qu'un musée à ciel ouvert. Au-delà de l'ancienne capitale impériale, les ryokans, les onsen nichés en forêt et les maisons d'hôtes des villages de montagne perpétuent une tradition d'hébergement intime d'un grand raffinement."
 essentials:
   currency: "JPY (yen japonais) ; le Japon fonctionne encore largement en espèces, ayez toujours des yens sur vous"
   language: "Japonais ; signalétique en anglais dans les grandes zones touristiques ; la maîtrise de l'anglais est très variable"
@@ -10,7 +10,7 @@ essentials:
   plugType: "Type A (100 V), comme en Amérique du Nord mais en 100 V ; la plupart des appareils récents supportent cette tension"
 bestTimeToVisit:
   summary: "Mars-avril (cerisiers en fleur) et octobre-novembre (couleurs d'automne)"
-  details: "La floraison des cerisiers (sakura), généralement de fin mars à mi-avril, transforme les temples et les berges de Kyoto en l'un des plus beaux spectacles du monde, mais l'affluence est extrême et les hébergements affichent complet un an à l'avance. Les couleurs d'automne (koyo), généralement de fin octobre à fin novembre, sont tout aussi spectaculaires et un peu moins courues. L'été (de juin à août) apporte chaleur, humidité et, en juillet, la fête de Gion. L'hiver (de décembre à février) offre des jardins de temples saupoudrés de neige, la plus belle saison des onsen et le moins de touristes."
+  details: "La floraison des cerisiers (sakura), généralement de fin mars à mi-avril, transforme les temples et les berges de Kyoto en l'un des plus beaux spectacles du monde, mais l'affluence est extrême et les hébergements affichent complet un an à l'avance. Les couleurs d'automne (koyo), généralement de fin octobre à fin novembre, sont tout aussi spectaculaires et un peu moins courues. L'été (de juin à août) apporte chaleur, humidité et, en juillet, la fête de Gion. L'hiver (de décembre à février) offre des jardins de temples saupoudrés de neige, la grande saison des onsen et le moins de touristes."
 mustSee:
   - "Fushimi Inari-taisha, 10 000 torii vermillon qui gravissent le mont Inari, à l'aube"
   - "La bambouseraie d'Arashiyama et le jardin du Tenryu-ji"
@@ -26,7 +26,7 @@ travelTips:
   - "Les sites les plus célèbres de Kyoto sont les moins fréquentés avant 8 h et après 17 h : organisez votre journée en conséquence."
 seo:
   metaTitle: "Kyoto et le Japon : ryokans, temples, sakura | StayAtNiche"
-  metaDescription: "Guide de Kyoto et du Japon : saison des cerisiers, nuits en ryokan, jardins de temples, onsen et les traditions d'hébergement de charme les plus fascinantes."
+  metaDescription: "Guide de Kyoto et du Japon : saison des cerisiers, nuits en ryokan, jardins de temples, onsen et des traditions d'hébergement de charme fascinantes."
 ---
 
 Kyoto a été la capitale impériale du Japon pendant plus de mille ans, de 794 à 1869, et cela se voit. La ville compte 17 sites inscrits au patrimoine mondial de l'UNESCO, 1 600 temples bouddhistes et 400 sanctuaires shinto — et parvient malgré tout à rester une ville vivante plutôt qu'un monument. Les plus beaux moments y échappent à tout résumé : les moines en prière à l'aube dans la cour-jardin du Nanzen-ji ; un dîner kaiseki de 12 services dans une machiya (maison de ville en bois) où chaque plat évoque l'instant précis de la saison ; une apprentie geiko entrevue au crépuscule sur les dalles de la rue Hanamikoji, à Gion. Arrivez avant 8 h à Fushimi Inari, quand les 10 000 torii vermillon qui gravissent le mont Inari sont encore silencieux, et vous comprendrez aussitôt pourquoi cette ville exerce une telle emprise sur ceux qui la visitent.

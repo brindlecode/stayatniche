@@ -2,7 +2,7 @@
 source: floating-hotels
 title: "Hôtels flottants"
 tagline: "Là où s'arrête la terre, commence le luxe"
-description: "Glissez sur les plus belles voies d'eau du monde à bord d'hôtels flottants de luxe, ou amarrez-vous le long de quais historiques dans des péniches signées par des architectes. Des structures sur l'eau des Maldives aux bateaux des fjords norvégiens et aux jonques de la baie d'Halong au Vietnam, ces refuges aquatiques offrent un regard sur le voyage que la terre ferme ne pourra jamais égaler."
+description: "Glissez sur certaines des plus belles voies d'eau du monde à bord d'hôtels flottants de luxe, ou amarrez-vous le long de quais historiques dans des péniches signées par des architectes. Des structures sur l'eau des Maldives aux bateaux des fjords norvégiens et aux jonques de la baie d'Halong au Vietnam, ces refuges aquatiques offrent un regard sur le voyage que la terre ferme peine à égaler."
 stats:
   topDestination: "Maldives"
 seo:

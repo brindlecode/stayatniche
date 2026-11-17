@@ -7,7 +7,7 @@ highlights:
   - "Coober Pedy produit 70 % des opales du monde"
   - "Sous terre, la température naturelle reste constante à 23 °C toute l'année"
   - "Des équipements souterrains uniques, dont un bar, un restaurant et une piscine"
-  - "La ville de l'Outback la plus réellement surréaliste d'Australie"
+  - "Une ville de l'Outback véritablement surréaliste, en Australie-Méridionale"
 amenities:
   - "Chambres souterraines aux murs de grès naturel"
   - "Piscine intérieure souterraine"

@@ -1,10 +1,10 @@
 ---
 source: unusual-hotels-world
 title: "Die 30 ungewöhnlichsten Hotels der Welt: Außergewöhnliche Unterkünfte, die man kaum für möglich hält"
-excerpt: "Von Unterwasserschlafzimmern auf den Malediven bis zur gläsernen Kapsel an einer peruanischen Felswand: 30 der außergewöhnlichsten und ungewöhnlichsten Hotelerlebnisse der Welt, nach Kategorien geordnet."
+excerpt: "Von Unterwasserschlafzimmern auf den Malediven bis zur gläsernen Kapsel an einer peruanischen Felswand: 30 außergewöhnliche und ungewöhnliche Hotelerlebnisse aus aller Welt, nach Kategorien geordnet."
 seo:
   metaTitle: "Die 30 ungewöhnlichsten Hotels der Welt | StayAtNiche"
-  metaDescription: "Die ungewöhnlichsten Hotels der Welt: Unterwasserzimmer, Eissuiten, Baumhauskapseln, Höhlenwohnungen, Kapseln an der Klippe und mehr auf allen Kontinenten."
+  metaDescription: "Ungewöhnliche Hotels rund um die Welt: Unterwasserzimmer, Eissuiten, Baumhauskapseln, Höhlenwohnungen, Kapseln an der Klippe und mehr auf allen Kontinenten."
 ---
 
 Die Welt hat zu viele beigefarbene Hotelzimmer. Wenn Sie dies lesen, wissen Sie längst, dass es auch anders geht – mit Unterkünften, die so originell sind, dass der Aufenthalt selbst zum Höhepunkt der Reise wird. Wir haben die außergewöhnlichsten Beispiele aus allen denkbaren Kategorien zusammengetragen.
@@ -27,7 +27,7 @@ Das Unterwasserzimmer des Konzeptkünstlers Mikael Genberg liegt 3 Meter unter d
 
 **Finnisch-Lappland | Ab 450 $ pro Nacht**
 
-Das Glasiglu, das tausend Nachahmer fand. Die Thermoglaskuppeln von Kakslauttanen wurden mit einer beheizten Beschichtung versehen, die Beschlagen und Schneeablagerungen verhindert – so haben Sie vom Bett aus freie Sicht auf die Polarlichter. Das Resort liegt auf 69° nördlicher Breite im finnischen Lappland, unter einem der dunkelsten und polarlichtreichsten Himmel Europas. Das Original – und nach wie vor das beste seiner Kategorie.
+Das Glasiglu, das tausend Nachahmer fand. Die Thermoglaskuppeln von Kakslauttanen wurden mit einer beheizten Beschichtung versehen, die Beschlagen und Schneeablagerungen verhindert – so haben Sie vom Bett aus freie Sicht auf die Polarlichter. Das Resort liegt auf 69° nördlicher Breite im finnischen Lappland, unter einem der dunkelsten und polarlichtreichsten Himmel Europas. Das Original seiner Kategorie – und nach wie vor ein Maßstab.
 
 **Provence, Frankreich | Ab 280 $ pro Nacht**
 
@@ -83,7 +83,7 @@ Eine Burg aus dem 13. Jahrhundert am Ufer des Lough Corrib im County Mayo, heute
 
 **County Clare, Irland | Ab 350 $ pro Nacht**
 
-Der Stammsitz der Familie O'Brien – Nachfahren des irischen Hochkönigs Brian Boru – ist heute ein Fünf-Sterne-Hotel inmitten von 450 Acres Wald mit eigenem See. Golf, Angeln, Falknerei und jene herrschaftliche Pracht, die Irlands Schlosshotels zu den besten der Welt macht.
+Der Stammsitz der Familie O'Brien – Nachfahren des irischen Hochkönigs Brian Boru – ist heute ein Fünf-Sterne-Hotel inmitten von 450 Acres Wald mit eigenem See. Golf, Angeln, Falknerei und jene herrschaftliche Pracht, die Irlands Schlosshotels so unverwechselbar macht.
 
 **Sutherland, Schottland | Ab 900 $ pro Nacht (Mitgliederpreise variieren)**
 
@@ -127,12 +127,12 @@ Kein Hotel im herkömmlichen Sinn, doch die originalen blau-goldenen Wagen des V
 
 **Schottland | Ab 2.500 $ pro Nacht**
 
-Schottlands luxuriöseste Zugreise führt in 2–7 Nächten durch die Highlands, mit Ausflügen zu Destillerien, Burgen und Küstendörfern. Die Wagen stammen aus den 1960er-Jahren und wurden in edwardianischer Pracht restauriert. Klein genug, um persönlich zu wirken – höchstens 36 Gäste –, mit schottischen Produkten, Single Malts und echter Highland-Landschaft als Standard.
+Eine luxuriöse schottische Zugreise führt in 2–7 Nächten durch die Highlands, mit Ausflügen zu Destillerien, Burgen und Küstendörfern. Die Wagen stammen aus den 1960er-Jahren und wurden in edwardianischer Pracht restauriert. Klein genug, um persönlich zu wirken – höchstens 36 Gäste –, mit schottischen Produkten, Single Malts und echter Highland-Landschaft als Standard.
 
 
 **Uluru, Australien | Ab 1.800 $ pro Nacht, alles inklusive**
 
-Das ultimative Uluru-Erlebnis. Fünfzehn Zeltpavillons blicken direkt auf den Felsen, so ausgerichtet, dass Sie vom privaten Deck aus beobachten, wie der Uluru bei Sonnenauf- und -untergang die Farbe wechselt. Im Speisezelt werden hervorragende australische Gerichte und Weine serviert. Das Guiding – kulturell, geologisch, astronomisch – ist das informativste, das es am Uluru gibt. So erleben Sie eines der großen Naturdenkmäler der Erde richtig.
+Das ultimative Uluru-Erlebnis. Fünfzehn Zeltpavillons blicken direkt auf den Felsen, so ausgerichtet, dass Sie vom privaten Deck aus beobachten, wie der Uluru bei Sonnenauf- und -untergang die Farbe wechselt. Im Speisezelt werden hervorragende australische Gerichte und Weine serviert. Das Guiding – kulturell, geologisch, astronomisch – gehört zu den informativsten, die es am Uluru gibt. So erleben Sie eines der großen Naturdenkmäler der Erde richtig.
 
 **Agafay-Wüste, Marokko | Ab 300 $ pro Nacht**
 

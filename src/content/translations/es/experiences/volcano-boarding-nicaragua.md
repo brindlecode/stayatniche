@@ -2,7 +2,7 @@
 source: volcano-boarding-nicaragua
 title: "Volcano boarding en el Cerro Negro"
 destination: "Cerro Negro, León"
-description: "Sube a la cima de uno de los volcanes más jóvenes y activos del mundo y baja después sobre una tabla de madera contrachapada por una pendiente de 40 grados de ceniza volcánica suelta a velocidades de hasta 95 km/h, en un descenso tan empinado y rápido que la ceniza salta a tu alrededor como nieve negra. El volcano boarding en el Cerro Negro, cerca de León, es el deporte extremo más insólito del mundo, y las vistas desde la cima de este cono desnudo y humeante sobre las tierras bajas del Pacífico y la cadena volcánica del noroeste de Nicaragua hacen que la subida sea tan gratificante como la bajada."
+description: "Sube a la cima de uno de los volcanes más jóvenes y activos del mundo y baja después sobre una tabla de madera contrachapada por una pendiente de 40 grados de ceniza volcánica suelta a velocidades de hasta 95 km/h, en un descenso tan empinado y rápido que la ceniza salta a tu alrededor como nieve negra. El volcano boarding en el Cerro Negro, cerca de León, es uno de los deportes extremos más insólitos del mundo, y las vistas desde la cima de este cono desnudo y humeante sobre las tierras bajas del Pacífico y la cadena volcánica del noroeste de Nicaragua hacen que la subida sea tan gratificante como la bajada."
 booking:
   price: "Desde 35 US$ por persona"
   duration: "Medio día"
@@ -28,7 +28,7 @@ notIncluded:
   - "Recuerdos adicionales"
 seo:
   metaTitle: "Volcano boarding en el Cerro Negro, Nicaragua | StayAtNiche"
-  metaDescription: "Sube a un volcán activo y baja en tabla por su ceniza a 95 km/h cerca de León, Nicaragua: el deporte extremo más insólito del mundo. Desde 35 US$ por persona."
+  metaDescription: "Sube a un volcán activo y baja en tabla por su ceniza a 95 km/h cerca de León, Nicaragua: un deporte extremo insólito. Desde 35 US$ por persona."
 ---
 
 El Cerro Negro entró en erupción por última vez en 1999 y volverá a hacerlo. Es el volcán más joven de Centroamérica: se formó en 1850, un parpadeo geológico, y desde entonces ha estado activo 23 veces. Las pruebas están por toda la superficie del cono: material volcánico reciente, negro y suelto, sin más vegetación que una hierba escasa en la base. Cerca de la cima silban las fumarolas. El aire huele a azufre. Es un volcán vivo, y al subirlo se nota.

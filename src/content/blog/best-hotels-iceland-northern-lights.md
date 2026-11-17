@@ -2,7 +2,7 @@
 title: "Best Hotels in Iceland for Northern Lights: The Complete Aurora Chaser's Guide"
 author: "StayAtNiche Team"
 category: "guide"
-excerpt: "From glass walled lodges in the Icelandic highlands to geothermal pools under dancing auroras, these are the finest hotels for chasing the Northern Lights in Iceland."
+excerpt: "From glass walled lodges in the Icelandic highlands to geothermal pools under dancing auroras, these are standout hotels for chasing the Northern Lights in Iceland."
 coverImage: /images/blog/best-hotels-iceland-northern-lights.jpg
 publishedDate: 2025-02-15T00:00:00.000Z
 tags:

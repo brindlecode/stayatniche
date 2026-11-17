@@ -1,7 +1,7 @@
 ---
 source: bora-bora
 name: Bora Bora
-description: "Un pic volcanique jaillissant d'un lagon d'un turquoise irréel, ceint d'un collier corallien de motu : Bora Bora compte parmi les paysages les plus emblématiques du Pacifique. C'est ici qu'est né le bungalow sur pilotis en 1967, et l'île reste la référence absolue du luxe romantique et isolé."
+description: "Un pic volcanique jaillissant d'un lagon d'un turquoise irréel, ceint d'un collier corallien de motu : Bora Bora compte parmi les paysages les plus emblématiques du Pacifique. C'est ici qu'est né le bungalow sur pilotis en 1967, et l'île reste une référence du luxe romantique et isolé."
 essentials:
   currency: "XPF (franc Pacifique) ; cartes bancaires acceptées dans les grands resorts"
   language: "Français et tahitien ; l'anglais est parlé dans les resorts"
@@ -28,7 +28,7 @@ travelTips:
   - "Une crème solaire certifiée sans danger pour les récifs est à la fois un geste écoresponsable et une obligation légale."
 seo:
   metaTitle: "Bora Bora : bungalows sur pilotis et lagon | StayAtNiche"
-  metaDescription: "Préparez votre évasion à Bora Bora : les plus beaux bungalows sur pilotis, safaris lagon, randonnées vers le mont Otemanu et jardins de corail intacts."
+  metaDescription: "Préparez votre évasion à Bora Bora : des bungalows sur pilotis remarquables, safaris lagon, randonnées vers le mont Otemanu et jardins de corail intacts."
 ---
 
 Voilà des décennies que Bora Bora frôle la caricature : le cliché de la lune de miel, l'île fond d'écran, l'endroit que tout le monde juge « trop touristique » tout en l'inscrivant discrètement sur sa propre liste. La vérité est plus intéressante : Bora Bora fait partie de ces rares lieux où la réalité est à la hauteur du mythe. La couleur du lagon n'est pas un filtre.

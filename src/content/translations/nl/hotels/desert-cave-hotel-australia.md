@@ -7,7 +7,7 @@ highlights:
   - "Coober Pedy levert 70% van de opalen ter wereld"
   - "De natuurlijke ondergrondse temperatuur blijft het hele jaar constant op 23 °C"
   - "Unieke ondergrondse voorzieningen, waaronder bar, restaurant en zwembad"
-  - "Het meest surrealistische outbackstadje van Australië"
+  - "Een echt surrealistisch outbackstadje in Zuid-Australië"
 amenities:
   - "Ondergrondse kamers met natuurlijke zandstenen muren"
   - "Ondergronds binnenzwembad"

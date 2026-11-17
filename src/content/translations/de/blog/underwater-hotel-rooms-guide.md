@@ -1,25 +1,25 @@
 ---
 source: underwater-hotel-rooms-guide
 title: "Unterwasserzimmer: Der große Ratgeber für Nächte unter der Wasseroberfläche"
-excerpt: "Vom außergewöhnlichen Conrad Rangali auf den Malediven bis zum schwedischen Utter Inn auf dem Grund eines Sees: Entdecken Sie die außergewöhnlichsten Unterwasserzimmer und -suiten der Welt."
+excerpt: "Vom außergewöhnlichen Conrad Rangali auf den Malediven bis zum schwedischen Utter Inn auf dem Grund eines Sees: Entdecken Sie außergewöhnliche Unterwasserzimmer und -suiten."
 seo:
   metaTitle: "Unterwasserzimmer weltweit: Der Ratgeber | StayAtNiche"
-  metaDescription: "Die schönsten Unterwasserzimmer der Welt, von den Malediven bis Tansania und Schweden: Schlafen Sie unter Wasser, umgeben von Korallen und tropischen Fischen."
+  metaDescription: "Unterwasserzimmer von den Malediven bis Tansania und Schweden: Schlafen Sie unter Wasser, umgeben von Korallen und tropischen Fischen."
 ---
 
 Um 5 Uhr morgens aufwachen und zusehen, wie ein Napoleon-Lippfisch an Ihrem Schlafzimmerfenster vorbeigleitet – seine schillernden Schuppen fangen das erste gefilterte Licht von der Oberfläche ein, dahinter zieht lautlos ein Riffhai vorbei –, ist ein Erlebnis, das neu definiert, was ein Hotelaufenthalt sein kann. Unterwasserzimmer bringen ihre Gäste der Meereswelt außergewöhnlich nahe und verwandeln das Schlafen in ein Eintauchen in eines der komplexesten Ökosysteme des Planeten.
 
-In den vergangenen zwei Jahrzehnten hat sich die Unterwasserunterkunft von der technischen Kuriosität zu einer echten Luxuskategorie entwickelt. Waren die frühen Beispiele im Grunde Attraktionen – klein, technisch beeindruckend, aber eher spartanisch –, verbinden die besten Unterwasserzimmer von heute echte Ingenieurskunst mit der Ausstattung, dem Service und der Küche, die Gäste in den besten Hotels der Welt erwarten. Die Unterwasservilla The Muraka im Conrad Maldives Rangali Island kostet 50.000 $ pro Nacht und ist wohl das technisch und erlebnismäßig ehrgeizigste Hotelzimmer, das je gebaut wurde.
+In den vergangenen zwei Jahrzehnten hat sich die Unterwasserunterkunft von der technischen Kuriosität zu einer echten Luxuskategorie entwickelt. Waren die frühen Beispiele im Grunde Attraktionen – klein, technisch beeindruckend, aber eher spartanisch –, verbinden die besten Unterwasserzimmer von heute echte Ingenieurskunst mit der Ausstattung, dem Service und der Küche, die Gäste in erstklassigen Hotels erwarten. Die Unterwasservilla The Muraka im Conrad Maldives Rangali Island kostet 50.000 $ pro Nacht und gehört zu den technisch und erlebnismäßig ehrgeizigsten Hotelzimmern, die je gebaut wurden.
 
 Dieser Ratgeber stellt jedes bedeutende Unterwasserzimmer der Welt vor – es sind weniger, als Sie vielleicht denken – und gibt praktische Hinweise, was Sie erwartet, wenn Sie unter der Wasseroberfläche schlafen.
 
 ---
 
 
-Die außergewöhnliche Meereswelt der Malediven – warmes, klares Wasser mit Sichtweiten von regelmäßig über 30 Metern und Korallenriffe mit einer der größten Artenvielfalten des Indischen Ozeans – macht sie zur natürlichen Heimat der besten Unterwasserunterkünfte der Welt.
+Die außergewöhnliche Meereswelt der Malediven – warmes, klares Wasser mit Sichtweiten von regelmäßig über 30 Metern und Korallenriffe mit einer der größten Artenvielfalten des Indischen Ozeans – macht sie zu einer natürlichen Heimat für Unterwasserunterkünfte.
 
 
-The Muraka (auf Dhivehi „Koralle“) ist ohne jeden Zweifel das außergewöhnlichste Unterwasserzimmer der Welt. Der 2018 eröffnete zweistöckige Bau liegt 5 Meter unter der Oberfläche des Indischen Ozeans am Außenriff der Lagune des Conrad Maldives Rangali Island im Nord-Malé-Atoll. Die obere Ebene über dem Wasser umfasst Wohnzimmer, Bar, Fitnessraum und Butlerküche; die untere Ebene, über eine Wendeltreppe erreichbar, ist eine vollständig von Acryl umschlossene Master-Suite mit 270-Grad-Blick auf das umgebende Korallenriff.
+The Muraka (auf Dhivehi „Koralle“) gehört zu den außergewöhnlichsten Unterwasserzimmern der Welt. Der 2018 eröffnete zweistöckige Bau liegt 5 Meter unter der Oberfläche des Indischen Ozeans am Außenriff der Lagune des Conrad Maldives Rangali Island im Nord-Malé-Atoll. Die obere Ebene über dem Wasser umfasst Wohnzimmer, Bar, Fitnessraum und Butlerküche; die untere Ebene, über eine Wendeltreppe erreichbar, ist eine vollständig von Acryl umschlossene Master-Suite mit 270-Grad-Blick auf das umgebende Korallenriff.
 
 The Muraka bietet Platz für ein Paar oder eine vierköpfige Familie. Ein eigener Meeresbiologe führt die Gäste vom privaten Einstieg der Villa aus durch das Riff, der Butlerservice steht rund um die Uhr bereit, und die Technik, die der Bau erfordert – Druckausgleich, Klimatisierung, Überwachung der Statik –, ist wirklich beeindruckend.
 
@@ -41,7 +41,7 @@ Das unterirdische Spa des Huvafen Fushi ist zwar kein Unterwasserschlafzimmer im
 ---
 
 
-Das Unterwasserzimmer des Manta Resort auf der Insel Pemba vor der Küste Tansanias ist das stimmungsvollste und charaktervollste Unterwasserschlafzimmer der Welt, auch wenn es technisch nicht mit dem Schliff der maledivischen Häuser mithalten kann. Der Bau – eine schwimmende Plattform, verankert über einem Korallenriff im warmen Indischen Ozean – hat drei Ebenen: ein Sonnendeck mit Lounge auf dem Dach, eine Plattform auf Meereshöhe mit Leiter ins Wasser und ein Schlafzimmer 4 Meter unter der Oberfläche. Zwei Bullaugen und ein raumhohes Fenster blicken direkt ins Korallenriff.
+Das Unterwasserzimmer des Manta Resort auf der Insel Pemba vor der Küste Tansanias gehört zu den stimmungsvollsten und charaktervollsten Unterwasserschlafzimmern der Welt, auch wenn es technisch nicht mit dem Schliff der maledivischen Häuser mithalten kann. Der Bau – eine schwimmende Plattform, verankert über einem Korallenriff im warmen Indischen Ozean – hat drei Ebenen: ein Sonnendeck mit Lounge auf dem Dach, eine Plattform auf Meereshöhe mit Leiter ins Wasser und ein Schlafzimmer 4 Meter unter der Oberfläche. Zwei Bullaugen und ein raumhohes Fenster blicken direkt ins Korallenriff.
 
 Das Unterwasserschlafzimmer ist überraschend geräumig und wirklich gemütlich. Die Abgeschiedenheit des Baus – nur per Boot vom Hauptresort an Land erreichbar – schafft ein Gefühl der Zurückgezogenheit, das die maledivischen Häuser bei allem Schliff nicht ganz erreichen. Mantarochen, Schildkröten, Kraken und Rifffische ziehen regelmäßig durch das Blickfeld. Nachts locken die Unterwasserlichter Plankton an, das wiederum Fische anzieht; das daraus entstehende Schauspiel der Biolumineszenz gehört zu den still-außergewöhnlichsten Dingen, die man von einem Hotelbett aus beobachten kann.
 

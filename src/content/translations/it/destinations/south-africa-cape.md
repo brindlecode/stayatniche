@@ -16,7 +16,7 @@ mustSee:
   - "Il Capo di Buona Speranza, la punta sud-occidentale dell’Africa, con la sua costa atlantica selvaggia"
   - "Boulders Beach a Simon’s Town, con una colonia di 3.000 pinguini africani"
   - "Le valli vinicole di Stellenbosch e Franschhoek, vini d’eccellenza e straordinari paesaggi montani"
-  - "Hermanus, il miglior avvistamento di balene da terra al mondo (balene franche australi, luglio–novembre)"
+  - "Hermanus, uno dei migliori punti al mondo per l’avvistamento di balene da terra (balene franche australi, luglio–novembre)"
   - "Robben Island, dove fu imprigionato Nelson Mandela: un contesto storico essenziale"
 travelTips:
   - "A Città del Capo furti e scassi d’auto sono frequenti: non lasciare mai oggetti di valore in vista nell’auto parcheggiata e fai attenzione nel CBD dopo il tramonto."

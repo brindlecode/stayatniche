@@ -44,7 +44,7 @@ affiliateLinks:
     label: "Atacama Tours on Klook"
 seo:
   metaTitle: "Awasi Atacama Review: Private Desert Villas with Personal Guide | StayAtNiche"
-  metaDescription: "Awasi Atacama: 12 private villas in Chile's Atacama Desert, each with dedicated guide and vehicle. Geysers, flamingo lagoons, and world-class stargazing."
+  metaDescription: "Awasi Atacama: 12 private villas in Chile's Atacama Desert, each with dedicated guide and vehicle. Geysers, flamingo lagoons, and excellent stargazing."
 location:
   country: "Chile"
   countryCode: "CL"

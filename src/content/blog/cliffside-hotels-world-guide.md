@@ -21,7 +21,7 @@ seo:
   metaDescription: "Discover dramatic cliffside hotels from Santorini to the Amalfi Coast. Vertigo-inducing views, infinity pools, and unforgettable architecture."
 ---
 
-A cliffside hotel does one thing no other property category can: it puts you at the actual edge of the land, with everything dropping away beneath you. Sea, valley, or desert below; sky above; the horizon unbroken. The finest properties have understood for decades that the view is not an amenity, it is the product. Everything else (the food, the pool, the service) is secondary.
+A cliffside hotel does one thing no other property category can: it puts you at the actual edge of the land, with everything dropping away beneath you. Sea, valley, or desert below; sky above; the horizon unbroken. Leading properties have understood for decades that the view is not an amenity, it is the product. Everything else (the food, the pool, the service) is secondary.
 
 Infinity pools that merge with the sea; full glass walls that remove the boundary between room and landscape; cliff edge dining terraces where you're eating against a sunset that looks theatrical because it genuinely is, the best cliffside hotels are defined by architecture that serves the position rather than competing with it.
 
@@ -58,7 +58,7 @@ One of Santorini's oldest and most celebrated luxury hotels, Katikies occupies a
 Italy's Amalfi Coast combines cliffside drama with one of the world's greatest concentrations of culture, cuisine, and natural beauty. The 50-kilometre coastline between Positano and Salerno, a UNESCO World Heritage Cultural Landscape, drops from the crest of the Lattari Mountains directly into the Tyrrhenian Sea, with the ancient fishing towns of Positano, Amalfi, and Ravello clinging to the cliff face at various levels.
 
 
-Set in a 12th-century villa on the cliffs above Ravello, perched 350 metres above the sea, the highest town on the coast, Palazzo Avino is among Italy's finest coastal hotels. The former private palazzo was converted to a hotel in 1997; the 43 rooms and suites maintain an aristocratic atmosphere of frescoed ceilings, antique furnishings, and carefully selected art. The pool terrace and restaurant overlook the entire coastline from Amalfi to Capri, and the Michelin-starred Pink Sapphire restaurant is the finest dining on the coast.
+Set in a 12th-century villa on the cliffs above Ravello, perched 350 metres above the sea, the highest town on the coast, Palazzo Avino is among Italy's finest coastal hotels. The former private palazzo was converted to a hotel in 1997; the 43 rooms and suites maintain an aristocratic atmosphere of frescoed ceilings, antique furnishings, and carefully selected art. The pool terrace and restaurant overlook the entire coastline from Amalfi to Capri, and the Michelin-starred Pink Sapphire restaurant is a standout dining option on the coast.
 
 **Price range:** Deluxe rooms from €600/night; cliff face suites from €1,500/night
 **Best for:** Food lovers, couples celebrating milestones, those wanting the finest Amalfi address

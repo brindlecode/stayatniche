@@ -26,7 +26,7 @@ travelTips:
   - "De coco de mer is een beschermde soort. Koop alleen gecertificeerde noten met papieren van erkende verkopers, anders neemt de douane ze in beslag."
 seo:
   metaTitle: "Seychellen reisgids: privé-eilanden, overwatervilla's | StayAtNiche"
-  metaDescription: "Reisgids Seychellen: de Vallée de Mai op Praslin, de granietstranden van La Digue, overwatervilla's, privé-eilandresorts en het rijkste zeeleven van de Indische Oceaan."
+  metaDescription: "Reisgids Seychellen: Vallée de Mai op Praslin, de granietstranden van La Digue, overwatervilla's, privé-eilanden en het rijke zeeleven van de Indische Oceaan."
 ---
 
 De Seychellen staan hoog op het droomlijstje van de meeste reizigers: 115 eilanden verspreid over het westen van de Indische Oceaan, ver van de scheepvaartroutes, bekend om wit zand, turquoise water en uiterste discretie. De werkelijkheid maakt dat allemaal waar. Wie het meest uit een reis naar de Seychellen haalt, gaat verder dan de bekende binnenste eilanden, naar de buitenste atollen, waar de onderwaterwereld tot de meest ongerepte en heldere behoort die er op aarde nog is.

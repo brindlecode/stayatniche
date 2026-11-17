@@ -2,7 +2,7 @@
 source: volcano-boarding-nicaragua
 title: "Vulkaanboarden op de Cerro Negro"
 destination: "Cerro Negro, León"
-description: "Beklim de top van een van de jongste en actiefste vulkanen ter wereld en suis daarna op een triplex plank een helling van 40 graden met losse vulkanische as af, met snelheden tot 95 km/u. De afdaling is zo steil en snel dat de as als zwarte sneeuw om je heen opspat. Vulkaanboarden op de Cerro Negro bij León is de meest ongewone extreme sport ter wereld, en het uitzicht vanaf de top van deze ruige, rokende kegel over de laagvlakte aan de Stille Oceaan en de vulkanenketen van het noordwesten van Nicaragua maakt de klim net zo de moeite waard als de afdaling."
+description: "Beklim de top van een van de jongste en actiefste vulkanen ter wereld en suis daarna op een triplex plank een helling van 40 graden met losse vulkanische as af, met snelheden tot 95 km/u. De afdaling is zo steil en snel dat de as als zwarte sneeuw om je heen opspat. Vulkaanboarden op de Cerro Negro bij León is een van de ongewonere extreme sporten ter wereld, en het uitzicht vanaf de top van deze ruige, rokende kegel over de laagvlakte aan de Stille Oceaan en de vulkanenketen van het noordwesten van Nicaragua maakt de klim net zo de moeite waard als de afdaling."
 booking:
   price: "vanaf $ 35 per persoon"
   duration: "Halve dag"
@@ -28,7 +28,7 @@ notIncluded:
   - Extra souvenirs
 seo:
   metaTitle: "Vulkaanboarden op de Cerro Negro, Nicaragua | StayAtNiche"
-  metaDescription: "Beklim een actieve vulkaan en board met 95 km/u over vulkanische as naar beneden, vlak bij León in Nicaragua. De gekste extreme sport ter wereld. Vanaf $ 35."
+  metaDescription: "Beklim een actieve vulkaan en board met 95 km/u over vulkanische as naar beneden, vlak bij León in Nicaragua. Een ongewone extreme sport. Vanaf $ 35."
 ---
 
 De Cerro Negro barstte voor het laatst uit in 1999 en zal weer uitbarsten. Het is de jongste vulkaan van Midden-Amerika, ontstaan in 1850, een geologische oogwenk, en sindsdien is hij 23 keer actief geweest. Het bewijs ligt overal op de kegel: vers vulkanisch materiaal, zwart en los, zonder begroeiing behalve wat schaars gras aan de voet. Bij de top sissen stoomgaten. De lucht ruikt naar zwavel. Dit is een levende vulkaan, en dat voel je als je hem beklimt.

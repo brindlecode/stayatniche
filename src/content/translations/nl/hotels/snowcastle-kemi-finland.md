@@ -1,7 +1,7 @@
 ---
 source: snowcastle-kemi-finland
 destination: "Kemi, Lapland"
-description: "Het grootste sneeuwkasteel ter wereld, dat elke winter opnieuw wordt opgebouwd in de Finse kuststad Kemi: een burcht van sneeuw en ijs met hotelkamers, restaurants en een kapel, op de bevroren Botnische Golf. Nergens op aarde wordt met sneeuw architectonisch ambitieuzer gebouwd."
+description: "Het grootste sneeuwkasteel ter wereld, dat elke winter opnieuw wordt opgebouwd in de Finse kuststad Kemi: een burcht van sneeuw en ijs met hotelkamers, restaurants en een kapel, op de bevroren Botnische Golf. Een architectonisch ambitieus sneeuwbouwwerk dat elke winter opnieuw verrijst."
 highlights:
   - "Het grootste sneeuwkasteel ter wereld, elke winter in een uniek nieuw ontwerp gebouwd"
   - "Hotelkamers, restaurant, kapel en kunstgalerie, allemaal in het kasteel"

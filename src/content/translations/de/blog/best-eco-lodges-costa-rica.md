@@ -1,15 +1,15 @@
 ---
 source: best-eco-lodges-costa-rica
 title: "Die besten Eco-Lodges in Costa Rica: außergewöhnliche Dschungelunterkünfte mit Haltung"
-excerpt: "Costa Rica hat die Eco-Lodge erfunden – und beherrscht sie bis heute am besten. Diese außergewöhnlichen Häuser verbinden Regenwaldnähe, herausragende Tierbeobachtungen und echte Nachhaltigkeit."
+excerpt: "Costa Rica hat das Eco-Lodge-Konzept maßgeblich geprägt und gehört bis heute zu den führenden Reisezielen dafür. Diese außergewöhnlichen Häuser verbinden Regenwaldnähe, herausragende Tierbeobachtungen und echte Nachhaltigkeit."
 seo:
   metaTitle: "Eco-Lodges in Costa Rica: Dschungel & Tiere | StayAtNiche"
   metaDescription: "Die besten Eco-Lodges in Costa Rica – vom Regenwald der Osa-Halbinsel bis zum Nebelwald von Monteverde. Mit Preisen, Tierwelt und Nachhaltigkeitsnachweisen."
 ---
 
-Costa Rica hat den modernen Ökotourismus erfunden. Das ist keine Übertreibung. Die Entscheidung des Landes in den 1980er-Jahren, 25 % seines Staatsgebiets als Nationalparks und Reservate unter Schutz zu stellen – verbunden mit einer touristischen Infrastruktur, die Besuchern diese Schutzgebiete tatsächlich erschließt –, schuf ein Modell, das weltweit studiert und nachgeahmt wurde. Costa Rica begriff früher als fast jedes andere Land, dass intakte Wildnis wirtschaftlich mehr wert ist als gerodetes Land: Ein lebender Jaguar in einem funktionierenden Regenwald bringt der Volkswirtschaft mehr ein als dieselbe Fläche, abgeholzt für Rinderweiden.
+Costa Rica gilt weithin als Wegbereiter des modernen Ökotourismus. Das ist keine Übertreibung. Die Entscheidung des Landes in den 1980er-Jahren, 25 % seines Staatsgebiets als Nationalparks und Reservate unter Schutz zu stellen – verbunden mit einer touristischen Infrastruktur, die Besuchern diese Schutzgebiete tatsächlich erschließt –, schuf ein Modell, das weltweit studiert und nachgeahmt wurde. Costa Rica begriff früher als fast jedes andere Land, dass intakte Wildnis wirtschaftlich mehr wert ist als gerodetes Land: Ein lebender Jaguar in einem funktionierenden Regenwald bringt der Volkswirtschaft mehr ein als dieselbe Fläche, abgeholzt für Rinderweiden.
 
-Die Eco-Lodges, die aus dieser Haltung hervorgingen, sind der glaubwürdigste Ausdruck dessen, was nachhaltiges Reisen sein kann, wenn man es mit echtem Anspruch betreibt statt mit Greenwashing. Die besten unter ihnen sind keine Hotels, die ihre Küchenabfälle kompostieren und es dabei belassen. Es sind Häuser, die gemeinsam mit den Gemeinden vor Ort entstanden sind, mit erneuerbarer Energie betrieben werden, fast ausschließlich einheimische Naturguides beschäftigen und so gelegen sind, dass sie Tierbegegnungen – Faultiere, Pfeilgiftfrösche, Hellrote Aras, Tapire – ermöglichen, die wirklich außergewöhnlich sind.
+Die Eco-Lodges, die aus dieser Haltung hervorgingen, sind ein glaubwürdiger Ausdruck dessen, was nachhaltiges Reisen sein kann, wenn man es mit echtem Anspruch betreibt statt mit Greenwashing. Die besten unter ihnen sind keine Hotels, die ihre Küchenabfälle kompostieren und es dabei belassen. Es sind Häuser, die gemeinsam mit den Gemeinden vor Ort entstanden sind, mit erneuerbarer Energie betrieben werden, fast ausschließlich einheimische Naturguides beschäftigen und so gelegen sind, dass sie Tierbegegnungen – Faultiere, Pfeilgiftfrösche, Hellrote Aras, Tapire – ermöglichen, die wirklich außergewöhnlich sind.
 
 Dieser Ratgeber stellt die besten Häuser nach Regionen geordnet vor – mit ehrlichen Einschätzungen dessen, was jedes einzelne auszeichnet, und praktischen Hinweisen für Ihre Reiseplanung.
 

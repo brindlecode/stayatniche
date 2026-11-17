@@ -7,7 +7,7 @@ stats:
   topDestination: "Kappadokien, Türkei"
 seo:
   metaTitle: "Höhlenhotels: Luxus im Fels weltweit | StayAtNiche"
-  metaDescription: "Schlafen im Fels: die schönsten Höhlenhotels der Welt – von Kappadokien über Santorin bis Matera. Natürlich kühle, stimmungsvolle Höhlensuiten entdecken."
+  metaDescription: "Schlafen im Fels: besondere Höhlenhotels – von Kappadokien über Santorin bis Matera. Natürlich kühle, stimmungsvolle Höhlensuiten entdecken."
 ---
 
 Kappadokien ist seit über 2.000 Jahren besiedelt, und archäologische Funde belegen menschliche Spuren in seinen Höhlensystemen, die noch deutlich weiter zurückreichen. Der vulkanische Tuff der Region – von der Erosion zu den berühmten Feenkaminen und dramatischen Tälern geformt – eignete sich ideal zum Wohnen im Fels: weich genug, um ihn mit einfachen Werkzeugen zu bearbeiten, und doch an der Luft zu beständigen, temperaturstabilen Wohnräumen aushärtend. Die Höhlenhotels hier sind also keine Kuriositäten, sondern die jüngste Ausprägung einer sehr langen Tradition.

@@ -145,7 +145,7 @@ A luxurious Scottish train journey that traverses the Highlands over 2–7 night
 
 **Uluru, Australia | From $1,800/night all-inclusive**
 
-The definitive Uluru experience. Fifteen tented pavilions face the rock directly, positioned so that you watch Uluru change colour through sunrise and sunset from your private deck. The dining tent serves exceptional Australian food and wine. The guiding programme — cultural, geological, astronomical — is the most informative available at Uluru. This is how you see one of Earth's great natural monuments properly.
+The definitive Uluru experience. Fifteen tented pavilions face the rock directly, positioned so that you watch Uluru change colour through sunrise and sunset from your private deck. The dining tent serves exceptional Australian food and wine. The guiding programme — cultural, geological, astronomical — is among the most informative available at Uluru. This is how you see one of Earth's great natural monuments properly.
 
 **Agafay Desert, Morocco | From $300/night**
 

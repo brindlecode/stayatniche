@@ -2,7 +2,7 @@
 source: truffle-hunting-perigord
 title: "Caccia al tartufo nel Périgord"
 destination: "Périgord Noir, Dordogna"
-description: "Cammina tra antichi querceti nella terra del tartufo più celebre di Francia con un cane addestrato, un trufficulteur appassionato e la possibilità di portare alla luce il diamante nero della cucina francese, il tartufo del Périgord, Tuber melanosporum, a pochi centimetri sotto la superficie di boschetti secolari di roverella. Questa esperienza di mezza giornata unisce il brivido della caccia, un'introduzione intima a una delle culture gastronomiche più raffinate al mondo e una degustazione che cambierà per sempre il tuo rapporto con questo ingrediente straordinario."
+description: "Cammina tra antichi querceti in una delle terre del tartufo più note di Francia con un cane addestrato, un trufficulteur appassionato e la possibilità di portare alla luce il diamante nero della cucina francese, il tartufo del Périgord, Tuber melanosporum, a pochi centimetri sotto la superficie di boschetti secolari di roverella. Questa esperienza di mezza giornata unisce il brivido della caccia, un'introduzione intima a una delle culture gastronomiche più raffinate al mondo e una degustazione che cambierà per sempre il tuo rapporto con questo ingrediente straordinario."
 booking:
   price: "da 120 $ a persona"
   duration: "Mezza giornata (3-4 ore)"

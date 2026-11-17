@@ -1,10 +1,10 @@
 ---
 source: overwater-bungalows-beyond-maldives
-title: "Wasserbungalows jenseits der Malediven: Die schönsten Unterkünfte über dem Wasser weltweit"
+title: "Wasserbungalows jenseits der Malediven: Ausgewählte Unterkünfte über dem Wasser weltweit"
 excerpt: "Die Malediven haben den Wasserbungalow berühmt gemacht, doch Bora Bora, Fidschi, die Karibik und weitere Ziele bieten ebenso außergewöhnliche Erlebnisse – mitunter zu einem Bruchteil des Preises."
 seo:
   metaTitle: "Wasserbungalows jenseits der Malediven | StayAtNiche"
-  metaDescription: "Die besten Wasserbungalows abseits der Malediven: Bora Bora, Fidschi, Karibik, Kambodscha und Raja Ampat – mit Preisen, Schnorchelqualität und Vergleich."
+  metaDescription: "Wasserbungalows abseits der Malediven: Bora Bora, Fidschi, Karibik, Kambodscha und Raja Ampat – mit Preisen, Schnorchelqualität und Vergleich."
 ---
 
 Die Malediven haben den Wasserbungalow berühmt gemacht, und die besten Häuser dort setzen noch immer die Maßstäbe dieser Kategorie. Doch eine durchschnittliche Premium-Wasservilla in einem Spitzenresort der Malediven kostet inzwischen 1.500–4.000 $ und mehr pro Nacht – in einer Landschaft, die flach, recht eintönig und auf Aktivitäten im Wasser beschränkt ist. Für viele ist genau das der Sinn der Sache. Anderen reicht es nicht.
@@ -84,7 +84,7 @@ Die Wasservillen sind wunderschön: Infinity-Pools, steile Reetdächer, ein Desi
 ---
 
 
-In Raja Ampat, im Bird's Head Seascape von Westpapua, leben 75 % aller Korallenarten der Welt. Wenn Sie die marine Artenvielfalt zum Maßstab nehmen, schlägt nichts auf dieser Liste dieses Ziel. Das Misool Eco Resort liegt auf einer privat gepachteten Meeresfläche von 300.000 Acres, mit Wasserbungalows über Riffsystemen, die erfahrene Taucher als die besten bezeichnen, die sie je gesehen haben.
+In Raja Ampat, im Bird's Head Seascape von Westpapua, leben 75 % aller Korallenarten der Welt. Wenn Sie die marine Artenvielfalt zum Maßstab nehmen, schlägt nichts auf dieser Liste dieses Ziel. Das Misool Eco Resort liegt auf einer privat gepachteten Meeresfläche von 300.000 Acres, mit Wasserbungalows über Riffsystemen, die erfahrene Taucher hoch schätzen.
 
 Misool ist nicht die Malediven. Es ist ein echtes Öko-Resort – abgelegen, abenteuerlich, ohne makellosen Luxusschliff. Tauchen und Schnorcheln sind hier alles. Mantarochen, Walhaie, Zwergseepferdchen, Wobbegongs und Rifffische in einer Dichte, die unglaubwürdig erscheint, bis Sie selbst im Wasser sind.
 

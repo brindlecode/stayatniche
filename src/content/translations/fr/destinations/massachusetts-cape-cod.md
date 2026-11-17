@@ -14,7 +14,7 @@ bestTimeToVisit:
 mustSee:
   - "Le Cape Cod National Seashore, 40 miles de plages, de dunes et de falaises protégées face à l'Atlantique, d'Eastham à Provincetown"
   - "Provincetown, la ville la plus singulière du cap : galeries d'art, restaurants indépendants et communauté LGBTQ+ dynamique toute l'année"
-  - "Les parcs à huîtres de Wellfleet, parmi les meilleures huîtres du monde, vendues directement dans les cabanes du port"
+  - "Les parcs à huîtres de Wellfleet, des huîtres très réputées, vendues directement dans les cabanes du port"
   - "Le phare de Race Point, accessible à pied ou en tout-terrain à travers les dunes des Province Lands"
   - "Sandwich, la plus ancienne ville du cap, avec son musée historique du verre et les Heritage Museums & Gardens"
 travelTips:

@@ -26,7 +26,7 @@ travelTips:
   - "El coco de mer es una especie protegida: compra solo cocos certificados, con documentación y a vendedores autorizados, para evitar que te los confisquen en la aduana."
 seo:
   metaTitle: "Seychelles: guía de viaje e islas privadas | StayAtNiche"
-  metaDescription: "Guía de Seychelles: el Vallée de Mai en Praslin, las playas de granito de La Digue, villas sobre el agua, islas privadas y la mejor vida marina del Índico."
+  metaDescription: "Guía de Seychelles: el Vallée de Mai en Praslin, las playas de granito de La Digue, villas sobre el agua, islas privadas y la rica vida marina del Índico."
 ---
 
 Las Seychelles figuran en lo alto de la lista de destinos soñados de casi cualquier viajero: 115 islas dispersas por el oeste del océano Índico, lejos de las rutas marítimas, famosas por su arena blanca, su agua turquesa y su discreción absoluta. Y la realidad cumple con todo. Los viajeros que más partido sacan a un viaje a las Seychelles son los que van más allá de las conocidas islas interiores hasta los atolones exteriores, cuyos entornos marinos están entre los más vírgenes y cristalinos que quedan en el planeta.

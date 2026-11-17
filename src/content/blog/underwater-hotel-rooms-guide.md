@@ -33,7 +33,7 @@ This guide covers every significant underwater hotel room in the world — there
 The Maldives' extraordinary marine environment — warm, clear water with visibility regularly exceeding 30 metres, and coral reefs supporting some of the Indian Ocean's greatest biodiversity — makes it a natural home for underwater accommodation.
 
 
-The Muraka (meaning "coral" in Dhivehi) is, unambiguously, the most extraordinary underwater hotel room in the world. Launched in 2018, the two-level structure sits 5 metres below the Indian Ocean's surface on the outer reef of Conrad Maldives Rangali Island's North Male atoll lagoon. The upper level, above the water, contains a living room, bar, gym, and butler kitchen; the lower level, accessed via a spiral staircase, is a master bedroom suite entirely enclosed in acrylic with 270-degree views of the surrounding coral reef.
+The Muraka (meaning "coral" in Dhivehi) is among the most extraordinary underwater hotel rooms in the world. Launched in 2018, the two-level structure sits 5 metres below the Indian Ocean's surface on the outer reef of Conrad Maldives Rangali Island's North Male atoll lagoon. The upper level, above the water, contains a living room, bar, gym, and butler kitchen; the lower level, accessed via a spiral staircase, is a master bedroom suite entirely enclosed in acrylic with 270-degree views of the surrounding coral reef.
 
 The Muraka accommodates one couple or a family of four. A dedicated marine biologist is available to guide guests around the reef from the villa's private access point; the butler service is 24-hour; and the engineering required to maintain the structure — pressure equalisation, climate control, structural integrity monitoring — is genuinely impressive.
 
@@ -55,7 +55,7 @@ While not strictly an underwater sleeping room, Huvafen Fushi's underground spa 
 ---
 
 
-The Manta Resort's underwater room on Pemba Island off Tanzania's coast is the most atmospheric and characterful underwater bedroom experience in the world, even if it cannot match the Maldives properties for technical polish. The structure — a floating platform anchored over a coral reef in the warm Indian Ocean — has three levels: a rooftop sundeck and lounge area, a sea level platform with a ladder into the water, and a submerged bedroom 4 metres below the surface. Two portholes and a full-length window look directly into the coral reef.
+The Manta Resort's underwater room on Pemba Island off Tanzania's coast is among the most atmospheric and characterful underwater bedroom experiences in the world, even if it cannot match the Maldives properties for technical polish. The structure — a floating platform anchored over a coral reef in the warm Indian Ocean — has three levels: a rooftop sundeck and lounge area, a sea level platform with a ladder into the water, and a submerged bedroom 4 metres below the surface. Two portholes and a full-length window look directly into the coral reef.
 
 The underwater bedroom is surprisingly spacious and genuinely cosy. The isolation of the structure — reachable only by boat from the main resort on shore — creates a sense of seclusion that the Maldives properties, for all their polish, don't quite replicate. Manta rays, turtles, octopus, and reef fish pass through the field of view regularly. At night, the underwater lights attract plankton, which in turn attract fish; the resulting bioluminescent spectacle is one of the most quietly extraordinary things you can watch from a hotel bed.
 

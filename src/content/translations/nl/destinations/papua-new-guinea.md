@@ -1,7 +1,7 @@
 ---
 source: papua-new-guinea
 name: "Papoea-Nieuw-Guinea"
-description: "Papoea-Nieuw-Guinea is een van de laatste echte grensbestemmingen op aarde: een enorm eiland van met regenwoud bedekte bergen, afgelegen stamculturen en enkele van de ongerepte en soortenrijkste zeegebieden ter wereld. Voor reizigers die echte afzondering zoeken, buitengewone culturele ontmoetingen en uitzonderlijk duiken in een volkomen onaangeraakte omgeving, is PNG nog altijd een categorie op zich."
+description: "Papoea-Nieuw-Guinea is een van de laatste echte grensbestemmingen op aarde: een enorm eiland van met regenwoud bedekte bergen, afgelegen stamculturen en enkele van de ongerepte en soortenrijkste zeegebieden ter wereld. Voor reizigers die echte afzondering zoeken, buitengewone culturele ontmoetingen en uitzonderlijk duiken in een volkomen onaangeraakte omgeving, blijft PNG een bestemming die zich van de meeste andere onderscheidt."
 essentials:
   currency: "PGK (Papoea-Nieuw-Guinese kina); grote hotels en duikresorts accepteren USD"
   language: "Tok Pisin (creooltaal), Engels en Hiri Motu (allemaal officieel); meer dan 800 inheemse talen"

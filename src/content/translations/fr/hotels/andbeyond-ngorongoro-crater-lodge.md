@@ -27,7 +27,7 @@ prosAndCons:
     - "L'observation de la faune au fond du cratère est la plus régulièrement exceptionnelle d'Afrique, avec les Big Five chaque jour"
     - "Le lodge lui-même est l'une des grandes expériences hôtelières théâtrales d'Afrique"
     - "Sa position sur le rebord offre une vue panoramique permanente sur la caldeira"
-    - "L'alliance de la culture massaï, de la géologie et de la faune est sans égale"
+    - "L'alliance de la culture massaï, de la géologie et de la faune est exceptionnelle"
   cons:
     - "Les descentes dans le cratère se font aux côtés d'autres opérateurs, l'expérience n'est pas privée"
     - "Le design théâtral divise, certains le trouvent trop chargé"

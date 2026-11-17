@@ -2,12 +2,12 @@
 source: treehouse-hotels
 title: Cabañas en los árboles
 tagline: "Duerme entre las copas, por encima de todo"
-description: Suspendidas a gran altura sobre el suelo del bosque, las cabañas en los árboles convierten un sueño de infancia en un lujo sofisticado para adultos. De los refugios minimalistas de cristal y madera de Escandinavia a las plataformas en la selva tropical de Costa Rica y Bali, estas escapadas entre las copas te ofrecen una conexión inigualable con la naturaleza sin renunciar a la comodidad.
+description: Suspendidas a gran altura sobre el suelo del bosque, las cabañas en los árboles convierten un sueño de infancia en un lujo sofisticado para adultos. De los refugios minimalistas de cristal y madera de Escandinavia a las plataformas en la selva tropical de Costa Rica y Bali, estas escapadas entre las copas te ofrecen una conexión estrecha con la naturaleza sin renunciar a la comodidad.
 stats:
   topDestination: "Suecia"
 seo:
   metaTitle: "Cabañas en los árboles: hoteles de lujo | StayAtNiche"
-  metaDescription: "Las mejores cabañas en los árboles del mundo: duerme entre las copas de los bosques de Suecia, Costa Rica, Bali y más. Reserva tu escapada en las alturas."
+  metaDescription: "Cabañas en los árboles con encanto: duerme entre las copas de los bosques de Suecia, Costa Rica, Bali y más. Reserva tu escapada en las alturas."
 ---
 
 El Treehotel de Harads, en Suecia, tiene un cubo de espejo que refleja el bosque boreal que lo rodea con tanta perfección que, desde el suelo, desaparece. Esa es la referencia, no solo para las cabañas en los árboles, sino para todo lo que puede lograr un alojamiento singular cuando los arquitectos se toman el encargo en serio.

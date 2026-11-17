@@ -1,7 +1,7 @@
 ---
 source: mozambique
 name: "Mozambique"
-description: "Le Mozambique est la destination balnéaire et marine la plus sous-estimée d’Afrique : 2 500 kilomètres de côte sur l’océan Indien, des plages de sable poudreux, des archipels sillonnés par les boutres et des récifs coralliens qui rivalisent avec ceux des Maldives en transparence et en biodiversité. Lodges insulaires isolés et camps de plage pieds nus offrent une intimité et une nature sauvage que les destinations plus célèbres de l’océan Indien ont perdues depuis longtemps."
+description: "Le Mozambique est l’une des destinations balnéaires et marines les plus sous-estimées d’Afrique : 2 500 kilomètres de côte sur l’océan Indien, des plages de sable poudreux, des archipels sillonnés par les boutres et des récifs coralliens qui rivalisent avec ceux des Maldives en transparence et en biodiversité. Lodges insulaires isolés et camps de plage pieds nus offrent une intimité et une nature sauvage que les destinations plus célèbres de l’océan Indien ont perdues depuis longtemps."
 essentials:
   currency: "MZN (metical mozambicain) ; dollar américain accepté dans la plupart des lodges et des commerces touristiques"
   language: "Portugais (officiel) ; makhuwa, changana et autres langues bantoues"
@@ -14,7 +14,7 @@ bestTimeToVisit:
 mustSee:
   - "L’archipel de Bazaruto, cinq îles de sable blanc éclatant et d’eaux turquoise, où vit une population de dugongs"
   - "L’archipel des Quirimbas, chapelet isolé de 32 îles à l’extrême nord, aux récifs intacts et aux ruines swahilies"
-  - "La plage de Tofo, le meilleur endroit d’Afrique pour nager avec masque et tuba aux côtés des requins-baleines"
+  - "La plage de Tofo, un endroit réputé d’Afrique pour nager avec masque et tuba aux côtés des requins-baleines"
   - "L’île d’Ibo, dans les Quirimbas, bourgade coloniale portugaise décatie au fascinant héritage arabe, africain et portugais"
   - "Pemba, porte d’entrée du Nord, avec sa superbe baie et sa vieille ville d’influence portugaise"
   - "Vilanculos, porte d’entrée du Sud, point de départ des excursions en boutre dans l’archipel de Bazaruto"
@@ -26,7 +26,7 @@ travelTips:
   - "Les dugongs sont extrêmement sensibles au dérangement causé par les bateaux : observez-les uniquement à la nage ou avec masque et tuba, jamais en approche motorisée. Les guides de votre lodge connaissent les règles éthiques à respecter."
 seo:
   metaTitle: "Mozambique : îles, requins-baleines et récifs | StayAtNiche"
-  metaDescription: "Mozambique : archipel de Bazaruto, lodges insulaires des Quirimbas, requins-baleines à Tofo, dugongs et les plus belles plages d’Afrique sur l’océan Indien."
+  metaDescription: "Mozambique : archipel de Bazaruto, lodges insulaires des Quirimbas, requins-baleines à Tofo, dugongs et des plages d’Afrique sur l’océan Indien."
 ---
 
 Le Mozambique compte 2 500 kilomètres de côtes sur l’océan Indien, pour l’essentiel encore vierges. Les plages s’étirent sans interruption sur des kilomètres. Des boutres se découpent sur l’horizon. Aucune tour ne vient percer la ligne des arbres. Les merveilles marines (récifs coralliens, requins-baleines, baleines à bosse, raies manta, dugongs, plages de ponte des tortues) sont desservies par une poignée de lodges à la capacité si soigneusement limitée que l’impression d’avoir découvert un lieu préservé n’a rien d’un argument marketing.

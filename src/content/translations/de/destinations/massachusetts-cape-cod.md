@@ -14,7 +14,7 @@ bestTimeToVisit:
 mustSee:
   - "Cape Cod National Seashore mit 40 Meilen geschützter Atlantikstrände, Dünen und Klippen von Eastham bis Provincetown"
   - "Provincetown, der unverwechselbarste Ort am Cape: Kunstgalerien, unabhängige Restaurants und eine lebendige LGBTQ+-Gemeinde, das ganze Jahr über"
-  - "Austernbänke von Wellfleet mit einigen der besten Austern der Welt, direkt aus den Buden am Hafenkai"
+  - "Austernbänke von Wellfleet mit hoch geschätzten Austern, direkt aus den Buden am Hafenkai"
   - "Leuchtturm Race Point, zu Fuß oder mit dem Geländewagen über die Dünen der Province Lands erreichbar"
   - "Sandwich, der älteste Ort am Cape, mit historischem Glasmuseum und den Heritage Museums & Gardens"
 travelTips:

@@ -7,7 +7,7 @@ stats:
   topDestination: "Finnland"
 seo:
   metaTitle: "Bubble-Hotels: Schlafen unterm Sternenhimmel | StayAtNiche"
-  metaDescription: "Die schönsten Bubble-Hotels und Glasiglus der Welt: von Polarlicht-Kuppeln in Finnisch-Lappland bis zu Sternen-Bubbles in der Provence. Jetzt entdecken."
+  metaDescription: "Besondere Bubble-Hotels und Glasiglus: von Polarlicht-Kuppeln in Finnisch-Lappland bis zu Sternen-Bubbles in der Provence. Jetzt entdecken."
 ---
 
 Alles begann im Kakslauttanen Arctic Resort in Saariselkä, Finnland. Anfang der 2000er-Jahre errichtete das Resort wärmegedämmte, durchsichtige Kuppeln – eigens dafür gedacht, dass Gäste die Nordlichter vom Bett aus beobachten können. Um 2010 hatte die Idee weltweit Aufmerksamkeit erregt und eine ganz neue Kategorie begründet. Kakslauttanen zählt bis heute zu den meistgesuchten Hotels der Welt; in der Polarlichtsaison ist es Monate im Voraus ausgebucht, und die Begeisterung hat nie wirklich nachgelassen.

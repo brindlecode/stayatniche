@@ -1,17 +1,17 @@
 ---
 source: lighthouse-hotels-coastal-guide
 title: "Leuchtturmhotels: Der große Ratgeber für Nächte in einer maritimen Ikone"
-excerpt: "Von den rauen Küsten Irlands bis an die sonnengebleichten Ufer des Mittelmeers: Entdecken Sie die außergewöhnlichsten Leuchtturmhotels und Wärterhäuser der Welt."
+excerpt: "Von den rauen Küsten Irlands bis an die sonnengebleichten Ufer des Mittelmeers: Entdecken Sie außergewöhnliche Leuchtturmhotels und Wärterhäuser."
 seo:
   metaTitle: "Leuchtturmhotels weltweit: Der Ratgeber | StayAtNiche"
-  metaDescription: "Die schönsten Leuchtturmhotels von Irland bis Neuseeland: Übernachten Sie im umgebauten Leuchtturmwärterhaus mit spektakulärem Blick auf Küste und Meer."
+  metaDescription: "Leuchtturmhotels von Irland bis Neuseeland: Übernachten Sie im umgebauten Leuchtturmwärterhaus mit spektakulärem Blick auf Küste und Meer."
 ---
 
 Es hat seinen Grund, dass Leuchttürme die Fantasie der Menschen seit Jahrhunderten beflügeln. Sie thronen an den Rändern von Kontinenten und Inseln, auf Landspitzen, die von Atlantikstürmen und dem Schirokko des Mittelmeers gepeitscht werden, und erzählen von einer ganz eigenen Mischung aus Abgeschiedenheit, Pflichtgefühl und elementarer Dramatik, die tief berührt. Das Leben des Leuchtturmwärters, der das Licht durch jeden Sturm hindurch am Brennen hielt, allein in seinem Turm über der tosenden Brandung, hat eine ganze Literatur und Mythologie hervorgebracht.
 
 Seit die moderne Seefahrtstechnik den Leuchtturmwärter überflüssig gemacht hat, stehen viele der spektakulärsten Leuchttürme der Welt Reisenden offen. Eine Nacht in einem umgebauten Leuchtturm oder Wärterhaus ist mit keiner anderen Unterkunftsform zu vergleichen: Das Meer ist allgegenwärtig, die Abgeschiedenheit meist vollkommen, und das Licht – der Strahl des Leuchtfeuers ebenso wie das besondere Tageslicht an der Küste – ist schlicht außergewöhnlich.
 
-Dieser Ratgeber stellt die schönsten Leuchtturmhotels der Welt vor, von Irlands wilder Atlantikküste bis zur abgelegenen Nordspitze Neuseelands, und verrät, worauf Sie sich praktisch einstellen sollten.
+Dieser Ratgeber stellt Leuchtturmhotels vor, von Irlands wilder Atlantikküste bis zur abgelegenen Nordspitze Neuseelands, und verrät, worauf Sie sich praktisch einstellen sollten.
 
 ---
 

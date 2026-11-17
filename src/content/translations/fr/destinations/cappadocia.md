@@ -15,7 +15,7 @@ mustSee:
   - "Un vol en montgolfière au-dessus de la vallée de Göreme au lever du soleil"
   - "Le musée en plein air de Göreme et ses églises rupestres ornées de fresques byzantines"
   - "La cité souterraine de Derinkuyu, un labyrinthe de 18 niveaux sous terre"
-  - "La vallée de Devrent (vallée de l'Imagination), aux cheminées de fées les plus spectaculaires"
+  - "La vallée de Devrent (vallée de l'Imagination), aux cheminées de fées spectaculaires"
   - "La randonnée dans les gorges de la vallée d'Ihlara, entre des parois percées d'églises rupestres"
   - "La citadelle d'Uçhisar, la plus haute forteresse troglodyte de la région, au panorama exceptionnel"
   - "Les ateliers de poterie d'Avanos, dépositaires d'une tradition millénaire de la terre cuite"
@@ -28,14 +28,14 @@ travelTips:
   - "Le vin local, issu des sols volcaniques, est réellement excellent : goûtez les étiquettes Kavaklıdere et Kocabağ."
 seo:
   metaTitle: "Cappadoce : hôtels troglodytes, montgolfières | StayAtNiche"
-  metaDescription: "Tout savoir sur la Cappadoce : hôtels troglodytes, conseils pour le vol en montgolfière, cités souterraines et plus belles vallées à explorer. Le guide complet."
+  metaDescription: "Tout savoir sur la Cappadoce : hôtels troglodytes, conseils pour le vol en montgolfière, cités souterraines et vallées à explorer. Le guide complet."
 ---
 
 La Cappadoce fait partie de ces lieux plus beaux en vrai qu'en photo. C'est rare. Le tuf volcanique tendre de la région, déposé il y a des millions d'années par les éruptions de l'Erciyes et du Hasan, a été sculpté par le vent et l'eau en formations qui semblent empruntées à un rêve : flèches effilées appelées cheminées de fées, plateaux modelés et vallées labyrinthiques striées de rose, de crème et de rouille. Aucune photographie ne rend l'échelle du lieu, ni son silence.
 
 La Cappadoce est la terre d'élection de l'hébergement troglodyte. Dès le IVe siècle, les premiers chrétiens ont creusé ce paysage, y aménageant monastères, églises et cités souterraines entières pour se protéger des raids arabes. Aujourd'hui, ces mêmes salles, et les constructions rupestres bâties par-dessus, sont devenues certains des hôtels les plus singuliers au monde. Les plus belles suites troglodytes associent murs de pierre d'origine et plafonds voûtés au chauffage au sol, aux douches à effet pluie et à des terrasses privées donnant sur des vallées qui s'embrasent d'ambre au coucher du soleil. Ce n'est pas un hébergement gadget. C'est une expérience réellement extraordinaire.
 
-Chaque matin, quand les conditions le permettent, des centaines de montgolfières s'élèvent des vallées autour de Göreme et d'Uçhisar, sans doute le spectacle aérien le plus impressionnant au monde. Vues d'en haut, les cheminées de fées projettent de longues ombres sur un paysage qui ne ressemble à aucun autre. Les vols durent généralement de 45 à 75 minutes et imposent un départ avant l'aube, mais la récompense est une heure suspendue en silence au-dessus de l'une des grandes merveilles géologiques du monde. Réservez deux à trois mois à l'avance au printemps et à l'automne, sinon vous resterez au sol.
+Chaque matin, quand les conditions le permettent, des centaines de montgolfières s'élèvent des vallées autour de Göreme et d'Uçhisar, l'un des spectacles aériens les plus impressionnants au monde. Vues d'en haut, les cheminées de fées projettent de longues ombres sur un paysage qui ne ressemble à aucun autre. Les vols durent généralement de 45 à 75 minutes et imposent un départ avant l'aube, mais la récompense est une heure suspendue en silence au-dessus de l'une des grandes merveilles géologiques du monde. Réservez deux à trois mois à l'avance au printemps et à l'automne, sinon vous resterez au sol.
 
 Les cités souterraines de la région comptent parmi les ouvrages les plus ambitieux de l'histoire. Derinkuyu descend sur 18 niveaux et pouvait abriter 20 000 personnes, avec écuries, caves à vin, églises et puits d'aération. Kaymaklı, plus petite, est plus saisissante encore : ses tunnels bas relient réserves et pièces à vivre dans une obscurité presque totale.
 

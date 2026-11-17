@@ -14,7 +14,7 @@ bestTimeToVisit:
 mustSee:
   - "Bazaruto-Archipel – fünf Inseln mit blendend weißem Sand, türkisfarbenem Wasser und einer eigenen Dugong-Population"
   - "Quirimbas-Archipel – eine abgelegene Kette aus 32 Inseln im äußersten Norden mit unberührten Riffen und Swahili-Ruinen"
-  - "Tofo Beach – Afrikas bester Ort für verlässliche Begegnungen mit Walhaien beim Schnorcheln"
+  - "Tofo Beach – ein bekannter Ort in Afrika für verlässliche Begegnungen mit Walhaien beim Schnorcheln"
   - "Ibo Island (Quirimbas) – eine verfallende portugiesische Kolonialstadt mit faszinierendem arabisch-afrikanisch-portugiesischem Erbe"
   - "Pemba – das Tor zum Norden, mit einer wunderschönen Bucht und portugiesisch geprägter Altstadt"
   - "Vilanculos – das Tor im Süden, mit Dau-Segeltörns durch den Bazaruto-Archipel"
@@ -26,7 +26,7 @@ travelTips:
   - "Dugongs reagieren äußerst empfindlich auf Störungen durch Boote. Nähern Sie sich ihnen nur schnorchelnd und schwimmend, nie motorisiert. Die Guides Ihrer Lodge kennen die Verhaltensregeln."
 seo:
   metaTitle: "Mosambik Reiseführer: Inseln und Walhaie | StayAtNiche"
-  metaDescription: "Mosambik-Ratgeber: Bazaruto-Archipel, Insel-Lodges der Quirimbas, Walhaie in Tofo, Dugongs und Afrikas schönste Strände am Indischen Ozean – mit Reisetipps."
+  metaDescription: "Mosambik-Ratgeber: Bazaruto-Archipel, Insel-Lodges der Quirimbas, Walhaie in Tofo, Dugongs und Strände am Indischen Ozean – mit Reisetipps."
 ---
 
 Mosambik hat 2.500 Kilometer Küste am Indischen Ozean, und der Großteil davon ist noch unerschlossen. Strände ziehen sich kilometerweit ohne Unterbrechung. Am Horizont liegen Daus. Keine Hochhäuser durchbrechen die Baumlinie. Die Meereswelt – Korallenriffe, Walhaie, Buckelwale, Mantarochen, Dugongs, Nistplätze von Meeresschildkröten – wird von einer Handvoll Lodges erschlossen, deren Kapazität so bewusst begrenzt ist, dass das Gefühl, etwas Unberührtes entdeckt zu haben, nicht bloß Marketing ist.
@@ -37,7 +37,7 @@ Der Quirimbas-Archipel, 32 Inseln vor der äußersten Nordküste, ist wirklich a
 
 Tofo Beach in der Provinz Inhambane verdankt seinen Ruhm vor allem einem: Walhaien. Das nährstoffreiche Wasser lockt sie in solcher Zahl an, dass Tofo zu den verlässlichsten Orten der Welt gehört, um dem größten Fisch der Erde schnorchelnd zu begegnen. Auch Mantarochen lassen sich in der Saison fast sicher blicken. Die Tauchgründe strotzen vor Leben – Zackenbarsche, Barrakudas und Riffhaie in einer Dichte, die auf ein wirklich gesundes Ökosystem schließen lässt.
 
-Zwischen Juli und Oktober ziehen Buckelwale durch die Gewässer Mosambiks. Die Walbeobachtung vom Boot aus im Bazaruto-Archipel und rund um Tofo gehört zu den besten Afrikas – mit so vielen Sprüngen, dass sie es mit ausgewiesenen Walbeobachtungszielen in Neuseeland und Island aufnimmt.
+Zwischen Juli und Oktober ziehen Buckelwale durch die Gewässer Mosambiks. Die Walbeobachtung vom Boot aus im Bazaruto-Archipel und rund um Tofo gilt als eine der besten in Afrika – mit so vielen Sprüngen, dass sie es mit ausgewiesenen Walbeobachtungszielen in Neuseeland und Island aufnimmt.
 
 Die Architektur der Inselunterkünfte folgt einer Logik, die zur Umgebung passt: erhöht gebaute, strohgedeckte Bandas aus lokalen Materialien, Bäder, die sich zu privaten Gärten öffnen, direkter Strandzugang und die grundsätzliche Überzeugung, dass Meer und Himmel als Unterhaltung genügen. Mehrere Häuser auf Ibo Island – einer portugiesischen Kolonialstadt mit bröckelnden Festungen aus dem 18. Jahrhundert und einer kleinen Gemeinschaft von Kunsthandwerkern – verbinden historische Architektur mit zeitgemäßem Komfort auf eine Weise, die eine Reise wert ist.
 

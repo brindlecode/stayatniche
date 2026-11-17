@@ -2,7 +2,7 @@
 source: floating-hotels
 title: Hoteles flotantes
 tagline: "Donde termina la tierra, empieza el lujo"
-description: Navega por las vías fluviales más bellas del mundo a bordo de hoteles flotantes de lujo o amarra junto a los muelles históricos de una ciudad en casas flotantes firmadas por arquitectos. De las estructuras sobre el agua de Maldivas a los barcos de los fiordos noruegos y los juncos de la bahía de Ha Long en Vietnam, estos refugios acuáticos te ofrecen una perspectiva del viaje que la tierra firme nunca podrá igualar.
+description: Navega por algunas de las vías fluviales más bellas del mundo a bordo de hoteles flotantes de lujo o amarra junto a los muelles históricos de una ciudad en casas flotantes firmadas por arquitectos. De las estructuras sobre el agua de Maldivas a los barcos de los fiordos noruegos y los juncos de la bahía de Ha Long en Vietnam, estos refugios acuáticos te ofrecen una perspectiva del viaje que la tierra firme nunca podrá igualar.
 stats:
   topDestination: "Maldivas"
 seo:

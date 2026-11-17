@@ -16,7 +16,7 @@ mustSee:
   - "Deadvlei, un bosque fantasma de acacias de 900 años en una depresión de arcilla blanca"
   - "Parque Nacional de Etosha, una enorme salina con elefantes, leones y rinocerontes negros excepcionales"
   - "Fish River Canyon, el segundo cañón más grande del mundo después del Gran Cañón"
-  - "Costa de los Esqueletos: naufragios, colonias de lobos marinos del Cabo y el litoral más remoto del mundo"
+  - "Costa de los Esqueletos: naufragios, colonias de lobos marinos del Cabo y uno de los litorales más remotos del mundo"
   - "Damaraland: elefantes adaptados al desierto y antiguos grabados rupestres san en Twyfelfontein"
 travelTips:
   - "Conducir por tu cuenta es la gran aventura de Namibia: las carreteras son excelentes, las distancias enormes y una autocaravana 4x4 te da libertad para dormir allí donde te pille el atardecer."
@@ -26,7 +26,7 @@ travelTips:
   - "Namibia es uno de los países más seguros de África para viajar por libre: la delincuencia es baja y la infraestructura turística es fiable."
 seo:
   metaTitle: "Namibia: guía de viaje, Sossusvlei y Etosha | StayAtNiche"
-  metaDescription: "Guía de Namibia: dunas de Sossusvlei, safaris en Etosha, la Costa de los Esqueletos y los lodges del desierto y campamentos de safari más especiales de África."
+  metaDescription: "Guía de Namibia: dunas de Sossusvlei, safaris en Etosha, la Costa de los Esqueletos y lodges del desierto y campamentos de safari muy especiales."
 ---
 
 Namibia recibe menos de dos millones de turistas al año, pocos para un país que ofrece tanto, lo que significa que aquí la sensación de naturaleza salvaje es auténtica, no escenificada. Puedes conducir cuatro horas por Damaraland sin cruzarte con otro vehículo. Puedes dormir en un lodge del desierto cuyo vecino más cercano está a 50 kilómetros. Un espacio intacto a esta escala es cada vez más raro. Namibia es uno de los pocos lugares donde todavía es lo normal.
@@ -37,7 +37,7 @@ Deadvlei impresiona todavía más. Es una salina de arcilla blanca a poca distan
 
 El Parque Nacional de Etosha gira en torno a la salina de Etosha, un inmenso lago salado, llano y de un blanco cegador, que fue un mar interior hasta que un levantamiento tectónico lo desecó hace unos cinco millones de años. En la estación seca, las charcas del borde sur de la salina atraen a cientos de elefantes, manadas enteras de leones, rinocerontes negros y blancos, jirafas y cebras. La charca iluminada del campamento de Okaukuejo permite ver a los animales beber durante toda la noche desde la valla perimetral: uno de los puntos de observación de fauna más accesibles y productivos de África.
 
-Los elefantes adaptados al desierto de Damaraland y del valle del río Hoanib sobreviven en paisajes que reciben menos de 25 mm de lluvia al año. Recorren enormes distancias entre fuentes de agua, cavan con las patas en lechos secos para encontrarla y comen plantas que sus congéneres de Chobe o Amboseli ignorarían. Ver a una familia aparecer de una ladera rocosa y descender en silencio hasta un río seco es uno de los mejores encuentros con la fauna de África.
+Los elefantes adaptados al desierto de Damaraland y del valle del río Hoanib sobreviven en paisajes que reciben menos de 25 mm de lluvia al año. Recorren enormes distancias entre fuentes de agua, cavan con las patas en lechos secos para encontrarla y comen plantas que sus congéneres de Chobe o Amboseli ignorarían. Ver a una familia aparecer de una ladera rocosa y descender en silencio hasta un río seco es un encuentro memorable con la fauna.
 
 La Costa de los Esqueletos, llamada así por los huesos blanqueados de ballena y los barcos naufragados cuyos marineros no tenían ninguna posibilidad de sobrevivir en un desierto sin agua, hoy solo es accesible en avioneta a través de [lodges de safari](/categories/safari-lodges) que operan con estrictos límites de concesión. Cape Cross, algo más accesible por carretera, alberga una colonia de más de 100.000 lobos marinos del Cabo. El ruido, el olor y el puro espectáculo no tienen equivalente en el continente.
 

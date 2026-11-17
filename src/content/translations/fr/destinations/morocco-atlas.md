@@ -1,7 +1,7 @@
 ---
 source: morocco-atlas
 name: "Maroc et Atlas"
-description: "Le Maroc superpose médinas millénaires, dunes sahariennes et sommets enneigés du Haut Atlas en un seul pays aux contrastes saisissants. Des souks labyrinthiques de Fès au silence des dunes de l’Erg Chebbi à l’aube, il offre l’une des expériences de voyage les plus sensorielles au monde, et une culture de l’hospitalité d’un raffinement et d’une beauté inégalés."
+description: "Le Maroc superpose médinas millénaires, dunes sahariennes et sommets enneigés du Haut Atlas en un seul pays aux contrastes saisissants. Des souks labyrinthiques de Fès au silence des dunes de l’Erg Chebbi à l’aube, il offre l’une des expériences de voyage les plus sensorielles au monde, et une culture de l’hospitalité d’un raffinement et d’une beauté remarquables."
 essentials:
   currency: "MAD (dirham marocain) ; espèces indispensables hors des grandes villes"
   language: "Arabe et amazighe (berbère), tous deux officiels ; français largement parlé ; darija (arabe marocain) au quotidien"
@@ -23,10 +23,10 @@ travelTips:
   - "Le marchandage est de rigueur dans les souks : commencez à environ 40 % du prix annoncé et négociez à partir de là ; faire mine de partir vaut souvent une meilleure offre."
   - "Adoptez une tenue pudique dans les médinas et à la campagne, épaules et genoux couverts au minimum ; dans certains quartiers, les femmes peuvent malgré tout faire l’objet d’une attention importune."
   - "Méfiez-vous des rabatteurs qui proposent de vous conduire à la boutique de tapis « de leur cousin » : déclinez poliment et circulez seul ou avec un guide agréé."
-  - "Les plus beaux riads se réservent longtemps à l’avance : pour le printemps et l’automne, les meilleures adresses de charme affichent complet des mois plus tôt."
+  - "Les riads les plus prisés se réservent longtemps à l’avance : pour le printemps et l’automne, les adresses de charme les plus demandées affichent complet des mois plus tôt."
 seo:
   metaTitle: "Maroc : Sahara, Atlas et riads d’exception | StayAtNiche"
-  metaDescription: "Guide du Maroc : médina de Fès, dunes du Sahara, randonnées dans l’Atlas et les riads et camps du désert les plus remarquables du pays, sélectionnés pour vous."
+  metaDescription: "Guide du Maroc : médina de Fès, dunes du Sahara, randonnées dans l’Atlas et des riads et camps du désert remarquables, sélectionnés pour vous."
 ---
 
 Depuis des siècles, le Maroc attire les voyageurs de l’autre côté du détroit de Gibraltar, et chaque traversée en vaut la peine. La Méditerranée au nord, l’Atlantique à l’ouest, le Sahara au sud et, en diagonale au milieu, le Haut Atlas qui culmine à près de 4 200 mètres. Chacune de ces zones obéit à son propre climat, à sa propre culture, à sa propre logique. Rares sont les pays à concentrer autant de contrastes en un seul itinéraire.
@@ -35,7 +35,7 @@ Les quatre villes impériales du Maroc ont chacune été capitale à une époque
 
 Marrakech vit à un autre rythme. La place Jemaa el-Fna au crépuscule, avec ses charmeurs de serpents, ses conteurs, ses gargotes ambulantes et toute sa mise en scène, est l’un des grands spectacles urbains du monde. Les riads dissimulés derrière les murs aveugles de la médina offrent tout l’inverse : patios privés avec fontaine centrale, orangers et silence protégé par d’épais murs de terre. Ce contraste entre l’effervescence de la rue et la quiétude intérieure, c’est l’essence même de Marrakech.
 
-Le riad, maison à patio devenue hôtel de charme, est l’une des plus belles formes d’hébergement au monde. Les plus beaux riads de Fès et de Marrakech relèvent autant de l’artisanat d’art que de l’hôtellerie : stucs sculptés à la main, sols en zellige, plafonds à muqarnas, moucharabiehs en bois de cèdre. Ce principe de la maison tournée vers l’intérieur, façade nue et intérieur foisonnant, procure une intimité et une sérénité devenues rares. Réservez les meilleures adresses des mois à l’avance pour un voyage au printemps ou à l’automne : elles se remplissent tôt et ne bradent jamais leurs prix.
+Le riad, maison à patio devenue hôtel de charme, est l’une des plus belles formes d’hébergement au monde. Les riads les plus soignés de Fès et de Marrakech relèvent autant de l’artisanat d’art que de l’hôtellerie : stucs sculptés à la main, sols en zellige, plafonds à muqarnas, moucharabiehs en bois de cèdre. Ce principe de la maison tournée vers l’intérieur, façade nue et intérieur foisonnant, procure une intimité et une sérénité devenues rares. Réservez les meilleures adresses des mois à l’avance pour un voyage au printemps ou à l’automne : elles se remplissent tôt et ne bradent jamais leurs prix.
 
 Les dunes de l’Erg Chebbi, près de Merzouga, s’élèvent jusqu’à 150 mètres et s’étirent sur 22 kilomètres. Le rituel classique (méharée jusqu’à un camp au crépuscule, vrais lits sous des tentes berbères, étoiles depuis la crête des dunes, lumière de l’aube sur le sable) est théâtral et parfaitement orchestré. Il n’en reste pas moins d’une beauté sincère, et cette mise en scène ne lui enlève rien.
 

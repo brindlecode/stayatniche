@@ -1,9 +1,9 @@
 ---
 source: luxury-glamping-guide-worldwide
-title: "Luxus-Glamping: Die außergewöhnlichsten Zeltcamps und Safari-Refugien der Welt"
-excerpt: "Luxus-Glamping ist dem Glockenzelt auf der Wiese längst entwachsen. Das sind die außergewöhnlichsten Zeltrefugien der Welt – von Kuppelzelten in Patagonien bis zu den Camp-Klassikern der Serengeti."
+title: "Luxus-Glamping: Außergewöhnliche Zeltcamps und Safari-Refugien weltweit"
+excerpt: "Luxus-Glamping ist dem Glockenzelt auf der Wiese längst entwachsen. Das sind außergewöhnliche Zeltrefugien – von Kuppelzelten in Patagonien bis zu den Camp-Klassikern der Serengeti."
 seo:
-  metaTitle: "Luxus-Glamping: Die besten Zeltcamps weltweit | StayAtNiche"
+  metaTitle: "Luxus-Glamping: Ausgewählte Zeltcamps weltweit | StayAtNiche"
   metaDescription: "Luxus-Glamping weltweit: außergewöhnliche Zeltcamps von Patagonien bis zur Serengeti, Wüstencamps in Rajasthan und Australien, mit Preisen und Buchungstipps."
 ---
 
@@ -16,10 +16,10 @@ Dieser Ratgeber stellt die schönsten Beispiele weltweit vor, geordnet nach Regi
 ---
 
 
-Das luxuriöse Zeltcamp ist im Grunde eine Erfindung der ostafrikanischen Safaribranche, und die besten Häuser Afrikas sind bis heute der weltweite Maßstab für diese Art des Reisens.
+Das luxuriöse Zeltcamp ist im Grunde eine Erfindung der ostafrikanischen Safaribranche, und führende Häuser Afrikas sind bis heute ein Maßstab für diese Art des Reisens.
 
 
-Das Camp von Singita Grumeti im westlichen Serengeti-Korridor gilt übereinstimmend unter all jenen, die sowohl die besten als auch die bloß sehr guten Camps kennen, als bestes Zeltcamp Afrikas und womöglich als bestes Luxuscamp der Welt.
+Das Camp von Singita Grumeti im westlichen Serengeti-Korridor zählt zu den angesehensten Zeltcamps Afrikas.
 
 Das Camp liegt in einer privaten Konzession von 350.000 Acres auf der westlichen Route der Großen Tierwanderung – einer Landschaft, durch die zwischen Juni und Oktober gewaltige Gnu- und Zebraherden ziehen, begleitet von den Raubtieren, die ihnen folgen. Die 10 Zeltsuiten stehen auf erhöhten Holzplattformen über dem Grumeti-Fluss, jede mit eigenem Deck, eigenem Tauchbecken und freiem Blick in den Busch. Innen erwarten Sie richtige Betten, richtige Bäder, ein Schreibtisch und ein Ankleidezimmer – ein Hotelzimmer, das zufällig Wände aus Zeltstoff und einen Blick auf den afrikanischen Busch hat.
 
@@ -142,7 +142,7 @@ Die besten Luxus-Zeltcamps haben bestimmte Eigenschaften gemeinsam, die sie von 
 
 
 
-In den besten Häusern – Singita, Aman-i-Khás, Longitude 131° – lautet die Antwort eindeutig ja. Die Betten sind hervorragend, die Bäder gut ausgestattet, das Essen ausgezeichnet. Der Unterschied zum herkömmlichen Hotelzimmer liegt nicht im Komfort, sondern im sinnlichen Erleben der Umgebung: in den Geräuschen, Gerüchen, Temperaturen und Bildern echter Wildnis. Das ist eine Ergänzung zum Komfort, kein Ersatz dafür.
+In Spitzenhäusern wie Singita, Aman-i-Khás und Longitude 131° lautet die Antwort ja. Die Betten sind hervorragend, die Bäder gut ausgestattet, das Essen ausgezeichnet. Der Unterschied zum herkömmlichen Hotelzimmer liegt nicht im Komfort, sondern im sinnlichen Erleben der Umgebung: in den Geräuschen, Gerüchen, Temperaturen und Bildern echter Wildnis. Das ist eine Ergänzung zum Komfort, kein Ersatz dafür.
 
 
 In der Praxis ist der Unterschied vor allem architektonischer Natur: Eine „Lodge“ hat feste Wände (Stein, Holz, Reet), während ein „Glamping“- oder „Zeltcamp“ zumindest teilweise auf Zeltstoff setzt. Luxusniveau, Aktivitäten und Preise überschneiden sich stark. Viele der besten Häuser Afrikas sind Zeltcamps, deren Servicequalität der von Lodges ebenbürtig ist oder sie sogar übertrifft.

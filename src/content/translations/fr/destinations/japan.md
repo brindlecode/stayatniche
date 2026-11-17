@@ -1,7 +1,7 @@
 ---
 source: japan
 name: "Japon"
-description: "Un archipel de quatre îles principales et de près de 7 000 îles plus petites, où les forêts millénaires côtoient les villes illuminées de néons, où les trains à grande vitesse relient les côtes opposées en quelques heures, et où la tradition d'hospitalité la plus raffinée au monde — le ryokan — cohabite avec les hôtels capsules. Le Japon récompense tous les degrés d'engagement, d'un premier voyage de deux semaines à une vie entière de retours."
+description: "Un archipel de quatre îles principales et de près de 7 000 îles plus petites, où les forêts millénaires côtoient les villes illuminées de néons, où les trains à grande vitesse relient les côtes opposées en quelques heures, et où une tradition d'hospitalité très raffinée — le ryokan — cohabite avec les hôtels capsules. Le Japon récompense tous les degrés d'engagement, d'un premier voyage de deux semaines à une vie entière de retours."
 essentials:
   currency: "JPY (yen japonais) ; les espèces restent très utilisées, notamment dans les petits établissements et les ryokans ruraux"
   language: "Japonais ; signalétique en anglais dans les grandes gares et les zones touristiques, plus rare en région rurale"
@@ -10,7 +10,7 @@ essentials:
   plugType: "Type A/B (100 V) — tension plus faible que dans la plupart des pays ; vérifiez la compatibilité de vos appareils"
 bestTimeToVisit:
   summary: "Mars-avril pour les cerisiers en fleur ; octobre-novembre pour les couleurs d'automne ; de décembre à février pour la poudreuse"
-  details: "La saison des cerisiers en fleur (de fin mars à mi-avril selon la latitude) est le phénomène annuel le plus spectaculaire du pays, mais aussi le plus couru. Les couleurs d'automne, en octobre et novembre, sont tout aussi belles, avec moins de monde. L'hiver apporte un ski de classe mondiale à Hokkaido et à Nagano. L'été (juillet-août) est chaud et humide ; les fêtes régionales justifient pourtant le voyage malgré la chaleur."
+  details: "La saison des cerisiers en fleur (de fin mars à mi-avril selon la latitude) est le phénomène annuel le plus spectaculaire du pays, mais aussi le plus couru. Les couleurs d'automne, en octobre et novembre, sont tout aussi belles, avec moins de monde. L'hiver apporte un ski de grande réputation à Hokkaido et à Nagano. L'été (juillet-août) est chaud et humide ; les fêtes régionales justifient pourtant le voyage malgré la chaleur."
 mustSee:
   - "Fushimi Inari Taisha, à Kyoto — des milliers de torii vermillon qui gravissent la montagne"
   - "Shirakawa-go, dans la préfecture de Gifu — village de fermes aux toits de chaume classé par l'UNESCO, dans une vallée de montagne"

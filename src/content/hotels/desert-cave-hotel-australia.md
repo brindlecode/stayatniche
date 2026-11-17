@@ -17,7 +17,7 @@ highlights:
   - "Coober Pedy produces 70% of the world's opals"
   - "Natural underground temperature stays at a constant 23°C year-round"
   - "Unique underground facilities including bar, restaurant, and pool"
-  - "The most genuinely surreal outback town in Australia"
+  - "A genuinely surreal outback town in South Australia"
 amenities:
   - "Underground guest rooms with natural sandstone walls"
   - "Indoor underground swimming pool"
@@ -79,7 +79,7 @@ status: "published"
 publishedDate: 2025-02-18
 seo:
   metaTitle: "Desert Cave Hotel Review, Underground Hotel in Coober Pedy, South Australia"
-  metaDescription: "Sleep underground in opal-bearing sandstone at the Desert Cave Hotel in Coober Pedy, Australia's most surreal outback town. Natural 23°C temperature year-round."
+  metaDescription: "Sleep underground in opal-bearing sandstone at the Desert Cave Hotel in Coober Pedy, a surreal outback town in South Australia. Natural 23°C temperature year-round."
 affiliateLinks:
   - partner: "expedia"
     url: "https://www.expedia.com/Hotel-Search?destination=Coober%20Pedy%2C%20Australia&adults=2"
