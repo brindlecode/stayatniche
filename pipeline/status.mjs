@@ -1,9 +1,10 @@
 // Writes data/pipeline/STATUS.md: where every candidate is waiting, what the last run of each
 // stage did, and anything that needs a person. Also prints warnings to the workflow summary.
-import { writeFileSync, existsSync } from 'node:fs';
+import { writeFileSync, existsSync, readFileSync } from 'node:fs';
 import { loadQueue, publishedHotels, isLiveHotel, STATUSES, UNDECIDED, runLog, INBOX, packPath, catOf } from './lib.mjs';
 import { CATEGORIES } from './categories.mjs';
 import { excludedName } from './priorities.mjs';
+import { shortlistTable } from './screen.mjs';
 
 const q = Object.values(loadQueue());
 const all = publishedHotels();
@@ -56,6 +57,30 @@ if (n(c => c.status === 'approved') > 0 && (days(log.writer?.at) ?? 999) > 3) wa
 const orphanDrafted = q.filter(c => ['drafted', 'published'].includes(c.status) && c.slug && !all.some(h => h.slug === c.slug));
 if (orphanDrafted.length) warnings.push(`Kuyrukta sayfası var görünen ama dosyası olmayan ${orphanDrafted.length} kayıt: ${orphanDrafted.slice(0, 5).map(c => c.slug).join(', ')}`);
 
+const readJSON = (f) => { try { return JSON.parse(readFileSync(f, 'utf8')); } catch { return null; } };
+// This week's shortlist: the owner's one decision a week (pipeline/shortlist.mjs).
+const sl = readJSON('data/pipeline/shortlist.json');
+const shortlistBlock = sl?.items?.length ? [
+  `## Bu haftanın kısa listesi (${sl.week}): ${sl.items.length} otel`, '',
+  `${sl.howToApprove} Onay sayfasının en üstündeki kutuya da yazabilirsiniz. Liste ${String(sl.builtAt).slice(0, 10)} tarihinde onay bekleyen ${sl.waiting} aday arasından sıralandı; onaylanan: ${sl.items.filter(x => x.state === 'onaylandı').length}.`, '',
+  ...shortlistTable(sl), '',
+] : ['## Bu haftanın kısa listesi', '', '- Henüz liste yok (classifier rutini pazartesi hazırlar: `node pipeline/shortlist.mjs`).', ''];
+if (sl?.week && sl.week < (await import('./screen.mjs')).isoWeek()) warnings.push(`Kısa liste eski (${sl.week}); classifier rutini bu hafta yenisini yapmadı.`);
+const ps = log.prescreen, dd = log.dedupe;
+const screenBlock = ['## Otomatik ön eleme ve tekrarlar', '',
+  `- Ön eleme (son çalışma ${ps?.at?.slice(0, 10) ?? 'yok'}): elenen ${ps?.reject ?? 0}, araştırmaya gönderilen ${ps?.research ?? 0}, kuyrukta kalan ${ps?.keep ?? 0}. Elenenlerin tek cümlelik nedeni onay sayfasında "Reddettiklerim" sekmesinde; isterseniz oradan yine onaylayabilirsiniz.`,
+  `- Ön elemeyle toplam elenen: ${n(c => c.status === 'rejected' && c.reasons?.[0]?.startsWith('prescreen:'))}; araştırması süren: ${n(c => c.research?.by === 'prescreen' && !c.research.doneAt)}.`,
+  `- Tekrar kayıtlar (son çalışma ${dd?.at?.slice(0, 10) ?? 'yok'}): bu çalışmada ${dd?.duplicates ?? 0} bulundu (onay kuyruğundan ${dd?.inReviewQueue ?? 0}); onay kuyruğunda olası tekrar ${dd?.possibleInReviewQueue ?? 0}. Liste: [DUPLICATES.md](DUPLICATES.md).`, ''];
+// Monthly re-check of live hotels (pipeline/recheck.mjs): problems only. Nothing is unpublished automatically.
+const rc = readJSON('data/pipeline/recheck.json');
+const rcProblems = (rc?.results ?? []).filter(r => !['ok', 'skipped', 'none'].includes(r.site.state) || ['closed', 'parked'].includes(r.site.operating) || ['invalid', 'stale'].includes(r.expedia.state));
+const SITE_TR = (r) => r.site.operating === 'closed' ? `sitede kapanış notu: "${r.site.said}"` : r.site.operating === 'parked' ? `alan adı satılık/park edilmiş: "${r.site.said}"` : r.site.state === 'error' ? `site açılmıyor (${r.site.note})` : r.site.state.startsWith('http') ? `site ${r.site.state} veriyor` : '';
+const EXP_TR = (r) => r.expedia.state === 'invalid' ? `Expedia bağlantısı geçersiz: ${r.expedia.note}` : r.expedia.state === 'stale' ? `Expedia bağlantısı yeniden doğrulanmalı (${r.expedia.note})` : '';
+const recheckBlock = rc ? ['## Aylık yeniden kontrol (yayındaki oteller)', '',
+  `Son kontrol: ${rc.day}. ${rc.summary.hotels} otel: sitesi açılan ${rc.summary.siteOk}, açılmayan ${rc.summary.siteDown}, resmi sitesi yazılı olmayan ${rc.summary.noSite}; kapanış notu ${rc.summary.saysClosed}, satılık alan adı ${rc.summary.parked}; Expedia bağlantısı geçerli ${rc.summary.expediaValid}, geçersiz ${rc.summary.expediaInvalid}, eskimiş ${rc.summary.expediaStale}. Hiçbir otel otomatik olarak yayından kaldırılmaz; aşağıdakilere bir kişi bakmalı.`, '',
+  ...(rcProblems.length ? ['| Otel | Sorun |', '|---|---|', ...rcProblems.map(r => `| ${r.name} (\`${r.slug}\`) | ${[SITE_TR(r), EXP_TR(r)].filter(Boolean).join('; ').replace(/\|/g, '/')} |`)] : ['- Sorun yok.']), ''] : [];
+if (rc && (rc.summary.saysClosed || rc.summary.parked)) warnings.push(`Aylık kontrolde ${rc.summary.saysClosed + rc.summary.parked} yayındaki otelin sitesi kapandığını ya da alan adının satılık olduğunu gösteriyor (aşağıda).`);
+
 const rows = Object.keys(CATEGORIES).map(cat => {
   const inCat = q.filter(c => catOf(c) === cat);
   return `| ${cat} | ${STATUSES.map(s => inCat.filter(c => c.status === s).length).join(' | ')} |`;
@@ -67,8 +92,10 @@ writeFileSync('data/pipeline/STATUS.md', [
   '# Otel hattı durumu', '',
   `Güncelleme: ${new Date().toISOString()}. Kuyrukta ${q.length} aday. Sitede yayında ${pub.length} otel, ${drafts.length} taslak (${all.length} dosya).`, '',
   '## Dikkat', '', ...(warnings.length ? warnings.map(w => `- ⚠️ ${w}`) : ['- Sorun görünmüyor.']), '',
+  ...shortlistBlock,
   '## Adaylar nerede bekliyor', '', '| Aşama | Aday | Not |', '|---|---|---|', ...stages.map(([a, b, c]) => `| ${a} | ${b} | ${c} |`), '',
   ...(blocked.length ? ['## Yazılamayanlar', '', '| Otel | Neden | Deneme |', '|---|---|---|', ...blocked.map(c => `| ${c.name} | ${String(c.blocked?.reason ?? '').replace(/\|/g, '/')} | ${c.blocked?.tries ?? 0}${c.blocked?.retry ? '' : ' (bekliyor: sizin kararınız)'} |`), ''] : []),
+  ...screenBlock, ...recheckBlock,
   '## Son çalışmalar', '', '| Aşama | Zaman (UTC) | Sonuç |', '|---|---|---|',
   ...Object.entries(log).sort((a, b) => b[1].at.localeCompare(a[1].at)).map(([s, r]) => `| ${s} | ${r.at.slice(0, 16).replace('T', ' ')} | ${r.ok === false ? '❌ ' : ''}${fmt(r).replace(/\|/g, '/').slice(0, 400)} |`), '',
   '## Kategoriye göre', '', `| Kategori | ${STATUSES.join(' | ')} |`, `|---|${STATUSES.map(() => '---').join('|')}|`, ...rows, '',

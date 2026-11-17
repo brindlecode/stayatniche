@@ -7,7 +7,10 @@
  * 2. Then `npm test`, `npm run build` and `node scripts/check-build.mjs` run once for the whole tree.
  *    If one fails, every given page is set to `status: draft` and the failing step is printed, so a
  *    broken page can never reach the live site; the writer records those stays as blocked.
- * Exit code 0 = all given pages may stay published, 1 = at least one was set to draft.
+ *    A page with `status: draft` is checked against the same rules and left a draft; a draft that
+ *    fails is listed as "not ready", so the owner's later "yayınla" cannot fail on it.
+ *    Missing translations (de, fr, es, it, nl) are listed for every page.
+ * Exit code 0 = all given pages may stay published / are ready, 1 = a page was set to draft or a draft is not ready.
  * GATE_SKIP_BUILD=1 skips step 2 (used by the tests).
  */
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
@@ -18,7 +21,8 @@ import { nicheProblems } from '../src/lib/niche.mjs';
 const slugs = process.argv.slice(2).filter(a => !a.startsWith('--'));
 if (!slugs.length) { console.error('usage: node pipeline/gate-publish.mjs <slug> [slug...]'); process.exit(2); }
 const file = s => `src/content/hotels/${s}.md`;
-const drafted = [];
+const drafted = [], notReady = [];
+const LANGS = ['de', 'fr', 'es', 'it', 'nl'];
 const toDraft = (slug, why) => {
   let t = readFileSync(file(slug), 'utf8');
   t = /^status:/m.test(t) ? t.replace(/^status:.*$/m, 'status: draft') : t.replace(/\n---\n/, '\nstatus: draft\n---\n');
@@ -32,8 +36,15 @@ for (const slug of slugs) {
   let data;
   try { data = parse(readFileSync(file(slug), 'utf8').match(/^---\n([\s\S]*?)\n---/)[1]); }
   catch (e) { toDraft(slug, `frontmatter does not parse: ${e.message.split('\n')[0]}`); continue; }
-  if ((data.status ?? 'published') !== 'published') continue;
-  const bad = nicheProblems(data);
+  const bad = nicheProblems({ ...data, status: 'published' });
+  const missing = LANGS.filter(l => !existsSync(`src/content/translations/${l}/hotels/${slug}.md`));
+  if (missing.length) console.log(`NOTE ${slug}: no translation yet for ${missing.join(', ')}`);
+  if ((data.status ?? 'published') !== 'published') {
+    // A draft is checked against the same rules, so the owner's "yayınla" never fails later.
+    if (bad.length) { notReady.push(slug); console.log(`NOT READY ${slug} (draft): ${bad.map(b => `${b.path}: ${b.message}`).join('; ')}`); }
+    else console.log(`ready ${slug} (draft${missing.length ? ', translations missing' : ', translated'})`);
+    continue;
+  }
   if (bad.length) toDraft(slug, bad.map(b => `${b.path}: ${b.message}`).join('; '));
 }
 
@@ -50,5 +61,6 @@ if (process.env.GATE_SKIP_BUILD !== '1') {
     console.log(`${name}: ok`);
   }
 }
-console.log(drafted.length ? `${drafted.length} page(s) set to draft; record them with pipeline/writer-result.mjs blocked` : 'gate passed');
-process.exit(drafted.length ? 1 : 0);
+if (notReady.length) console.log(`${notReady.length} draft(s) not ready to publish: ${notReady.join(' ')}; fix them or record them with pipeline/writer-result.mjs blocked`);
+console.log(drafted.length ? `${drafted.length} page(s) set to draft; record them with pipeline/writer-result.mjs blocked` : notReady.length ? 'gate failed' : 'gate passed');
+process.exit(drafted.length || notReady.length ? 1 : 0);

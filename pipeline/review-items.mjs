@@ -76,6 +76,7 @@ for (const d of checked) {
     continue;
   }
   if (old || !['accepted', 'needs_review'].includes(d.verdict)) continue;
+  if (['rejected', 'duplicate'].includes(c.status)) continue; // settled by the pre-screen or dedupe before it reached the page
   const doc = { ...evidenceFields(d, c), status: 'pending', decision: null, finalCat: null, note: '', reviewedAt: null, slug: null, publishedAt: null, hold: null };
   writeFileSync(`${dir}/queue/${k}.json`, JSON.stringify(doc, null, 1) + '\n');
   sets.push({ op: 'set', collection: 'queue', doc_id: k, file_path: resolve(`${dir}/queue/${k}.json`) });
@@ -99,7 +100,11 @@ for (const [k, old] of onPage) {
   else if (c.status === 'duplicate') Object.assign(data, { status: 'closed', closedWhy: `duplicate of ${c.duplicateOf ?? 'another entry'}` });
   else if (c.status === 'drafted') { if (old.slug !== c.slug || !old.draft) Object.assign(data, { slug: c.slug, draft: true, hold: null }); }
   else if (c.status === 'blocked') { if (!same(old.hold, c.blocked?.reason)) data.hold = c.blocked?.reason ?? 'could not be written'; }
-  else if (c.status === 'rejected' && old.decision !== 'reject' && !c.reasons?.[0]?.startsWith('reviewer:')) Object.assign(data, { decision: 'reject', note: `Otomatik: ${c.reasons?.[0] ?? 'elendi'}` });
+  else if (c.status === 'rejected' && old.decision !== 'reject' && !c.reasons?.[0]?.startsWith('reviewer:')) Object.assign(data, { decision: 'reject', note: c.reasons?.[0]?.startsWith('prescreen:') ? `Ön eleme (otomatik): ${c.reasons[0].slice(10).trim()}` : `Otomatik: ${c.reasons?.[0] ?? 'elendi'}` });
+  // Sent for research by the pre-screen: show it under "Araştırılsın". reviewedAt = the request time,
+  // so sync-reviews recognises the request as already made.
+  else if (c.status === 'classified' && c.research?.by === 'prescreen' && !c.research.doneAt && !old.decision) Object.assign(data, { decision: 'research', note: c.research.note, reviewedAt: c.research.askedAt });
+  else if (c.status === 'approved' && c.approvedVia === 'shortlist' && old.decision !== 'approve') Object.assign(data, { decision: 'approve', finalCat: c.finalCategory, note: `Haftalık liste ${c.shortlistWeek ?? ''}`.trim(), reviewedAt: c.reviewedAt });
   else if (old.hold) data.hold = null;
   if (c.research?.result === 'no readable source' && old.researched !== c.research.doneAt) Object.assign(data, { researched: c.research.doneAt, researchResult: 'no readable source', decision: null });
   if (old.status === 'pending' && !old.decision && !data.status) { const dupes = findDupes(c, idx); if (!same(old.dupes ?? [], dupes)) data.dupes = dupes; }

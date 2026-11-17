@@ -83,8 +83,14 @@ describe('every published hotel page', () => {
 
 describe('drafted stays leave the live site through a redirect', () => {
   const toml = readFileSync(join(ROOT, 'netlify.toml'), 'utf8');
+  // The audit's own list (the same one scripts/draft-redirects.mjs reads): these pages were public, so
+  // their URLs need somewhere to go. Drafts written by the pipeline were never public and need none.
+  const auditDir = join(ROOT, 'data/audit-niche');
+  const auditDrafts = new Set(readdirSync(auditDir).filter(f => /^batch-\d+\.json$/.test(f))
+    .flatMap(f => JSON.parse(readFileSync(join(auditDir, f), 'utf8'))).filter((r: any) => r.verdict === 'draft').map((r: any) => r.slug));
   it('has a 301 from every stay set to draft by the audit', () => {
-    for (const h of hotels.filter(h => h.data.status === 'draft' && h.data.niche_scope !== undefined)) {
+    expect(auditDrafts.size).toBeGreaterThan(0);
+    for (const h of hotels.filter(h => h.data.status === 'draft' && auditDrafts.has(h.slug))) {
       expect(toml, h.slug).toContain(`from = "/hotels/${h.slug}"`);
     }
   });

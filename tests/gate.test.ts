@@ -57,11 +57,21 @@ describe('publish gate', () => {
     expect(r.status).toBe(1);
     expect(['a', 'b', 'c'].map(status)).toEqual(['draft', 'draft', 'draft']);
   });
-  it('does not touch drafts or the other pages of the run', () => {
+  it('leaves drafts as drafts, but reports an incomplete one as not ready to publish', () => {
     page('d', complete.replace('status: published', 'status: draft').replace(/niche_scope:.*\n/, ''));
     page('ok', complete);
-    expect(gate('d', 'ok').status).toBe(0);
+    const r = gate('d', 'ok');
+    expect(r.status).toBe(1);
+    expect(r.stdout).toMatch(/NOT READY d \(draft\): .*niche_scope/);
     expect([status('d'), status('ok')]).toEqual(['draft', 'published']);
+  });
+  it('passes a complete draft as ready and lists missing translations', () => {
+    page('d', complete.replace('status: published', 'status: draft'));
+    const r = gate('d');
+    expect(r.status).toBe(0);
+    expect(r.stdout).toMatch(/NOTE d: no translation yet for de, fr, es, it, nl/);
+    expect(r.stdout).toMatch(/ready d \(draft, translations missing\)/);
+    expect(status('d')).toBe('draft');
   });
 });
 

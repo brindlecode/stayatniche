@@ -7,7 +7,9 @@
  *                 reads it again with the owner's note
  *   "unsure" (older page versions) -> stays "classified", nothing else happens
  *   no decision -> stays "classified"; an earlier approve / reject is undone
- * Candidates that already have a page (drafted / published) are never touched.
+ * Candidates that already have a page (drafted / published) are never touched. An approval by number
+ * (pipeline/shortlist-approve.mjs) newer than the page's last save is kept; a card the owner decides
+ * after the automatic pre-screen rejected it follows the owner.
  * Idempotent: running it twice on the same export changes nothing the second time.
  * Usage: node pipeline/sync-reviews.mjs <export dir>
  */
@@ -33,9 +35,11 @@ for (const f of files(root)) {
   if (['published', 'drafted', 'duplicate'].includes(c.status) || doc.status !== 'pending') continue;
   const cat = CATEGORIES[doc.finalCat] ? doc.finalCat : doc.cat;
   const byReviewer = c.status === 'rejected' && c.reasons?.[0]?.startsWith('reviewer:');
+  // The automatic pre-screen rejected it, and the owner decided on the card after that: the owner wins.
+  const overScreen = c.status === 'rejected' && c.reasons?.[0]?.startsWith('prescreen:') && (doc.reviewedAt ?? '') > (c.prescreen?.at ?? '');
   if (doc.decision === 'approve' && CATEGORIES[cat]) {
     if (c.status === 'blocked') { c.finalCategory = cat; continue; } // the writer already tried; see blocked.reason
-    if (c.status === 'rejected' && !byReviewer) continue;            // dropped by a later check; the page shows why
+    if (c.status === 'rejected' && !byReviewer && !overScreen) continue; // dropped by a later check; the page shows why
     const p = matchesPublished(c, pub);
     if (p?.source === c.id) { Object.assign(c, { status: p.status === 'draft' ? 'drafted' : 'published', slug: p.slug }); delete c.duplicateOf; bump('already has a page'); continue; }
     if (p) { c.status = 'duplicate'; c.duplicateOf = p.slug; bump('duplicate of a page'); continue; }
@@ -46,7 +50,9 @@ for (const f of files(root)) {
     if (c.status !== 'rejected' || byReviewer) Object.assign(c, { status: 'rejected', reasons: [`reviewer: ${doc.note || 'rejected on review page'}`], reviewedAt: doc.reviewedAt ?? null });
     delete c.blocked;
   } else {
-    if (['approved', 'blocked'].includes(c.status) || byReviewer) { c.status = 'classified'; c.reasons = []; delete c.blocked; bump('reopened'); }
+    // Approved by number from the weekly shortlist after the page was last saved: keep it.
+    const byNumber = c.approvedVia === 'shortlist' && (c.reviewedAt ?? '') > (doc.reviewedAt ?? '');
+    if ((['approved', 'blocked'].includes(c.status) && !byNumber) || byReviewer) { c.status = 'classified'; c.reasons = []; delete c.blocked; bump('reopened'); }
     if (doc.decision === 'research' && c.status === 'classified' && c.research?.askedAt !== (doc.reviewedAt ?? 'unknown')) {
       c.research = { askedAt: doc.reviewedAt ?? 'unknown', note: doc.note || '' };
       c.refetch = true;

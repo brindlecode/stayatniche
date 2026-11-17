@@ -1,0 +1,2798 @@
+{
+ "at": "2026-11-17T20:08:05.334Z",
+ "day": "2026-11-17",
+ "summary": {
+  "ok": true,
+  "hotels": 202,
+  "siteOk": 194,
+  "siteDown": 8,
+  "noSite": 0,
+  "saysClosed": 0,
+  "parked": 0,
+  "expediaValid": 103,
+  "expediaInvalid": 0,
+  "expediaStale": 0,
+  "problems": 8
+ },
+ "results": [
+  {
+   "slug": "adelya-cave-hotel-turkey",
+   "name": "Adelya Cave Hotel",
+   "url": "https://www.adelyacave.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "al-maha-dubai",
+   "name": "Al Maha Desert Resort & Spa",
+   "url": "https://guide.michelin.com/en/hotels-stays/dubai/al-maha-a-luxury-collection-desert-resort-spa-9474",
+   "site": {
+    "state": "ok",
+    "status": 202,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "aldourie-castle-united-kingdom",
+   "name": "Aldourie Castle",
+   "url": "https://wildland.scot/properties/aldourie/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "alila-jabal-akhdar-oman",
+   "name": "Alila Jabal Akhdar",
+   "url": "https://www.mrandmrssmith.com/luxury-hotels/alila-jabal-akhdar",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "alila-villas-uluwatu-bali",
+   "name": "Alila Villas Uluwatu",
+   "url": "https://rumemagazine.com/hotels/hotel-reviews/alila-villas-uluwatu/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "aman-i-khas-india",
+   "name": "Aman-i-Khás",
+   "url": "https://www.aman.com/resorts/aman-i-khas",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "amangiri-utah",
+   "name": "Amangiri",
+   "url": "https://www.aman.com/resorts/amangiri",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "amberley-castle-england",
+   "name": "Amberley Castle",
+   "url": "https://amberleycastle.co.uk/explore/castle-stays-in-west-sussex/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "anantara-maldives-underwater",
+   "name": "Anantara Kihavah Maldives Villas",
+   "url": "https://www.thenationalnews.com/travel/2025/10/10/anantara-kihavah-maldives-review/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "anantara-sir-bani-yas-uae",
+   "name": "Anantara Sir Bani Yas Island Safari Resort",
+   "url": "https://en.wikipedia.org/wiki/Sir_Bani_Yas",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "andbeyond-ngorongoro-crater-lodge",
+   "name": "&Beyond Ngorongoro Crater Lodge",
+   "url": "https://www.andbeyond.com/our-lodges/africa/tanzania/ngorongoro-crater/andbeyond-ngorongoro-crater-lodge/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "andbeyond-phinda-south-africa",
+   "name": "&Beyond Phinda Private Game Reserve",
+   "url": "https://assets.andbeyond.com/image/upload/v1757070782/Collateral/Destination-Brochure-Phinda-Private-Game-Reserve-South-Africa.pdf",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "archipelago-igloos-finland",
+   "name": "Archipelago Igloos",
+   "url": "https://archipelagoigloos.com/",
+   "site": {
+    "state": "http 403",
+    "status": 403,
+    "finalUrl": "https://wordpress.com/log-in/sv?redirect_to=https%3A%2F%2Farchipelagoigloosdotcom.wordpress.com%2Fwp-admin%2F",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "arctic-bath-sweden",
+   "name": "Arctic Bath",
+   "url": "https://arcticbath.se/hotel/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "arctic-guesthouse-and-igloos-finland",
+   "name": "Arctic Guesthouse & Igloos",
+   "url": "https://arcticguesthouseandigloos.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "ashford-castle-ireland",
+   "name": "Ashford Castle",
+   "url": "https://www.ashfordcastle.com/about",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://ashfordcastle.com/about",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "attrap-reves-france",
+   "name": "Attrap'Rêves",
+   "url": "https://www.attrap-reves.com/en/transparent-bubble-bl/?c1-sleep-in-a-bubble-zen-bubble",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "augill-castle-united-kingdom",
+   "name": "Augill Castle",
+   "url": "https://stayinacastle.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "awasi-atacama-chile",
+   "name": "Awasi Atacama",
+   "url": "https://awasi.com/atacama/accommodations/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "ballygally-castle-hotel-united-kingdom",
+   "name": "Ballygally Castle Hotel",
+   "url": "https://www.ballygallycastlehotel.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "bambu-indah-bali",
+   "name": "Bambu Indah",
+   "url": "https://www.bambuindah.com/houses/treehouse",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "banwell-castle-united-kingdom",
+   "name": "Banwell Castle",
+   "url": "http://www.banwellcastle.co.uk/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "barahi-jungle-lodge-nepal",
+   "name": "Barahi Jungle Lodge",
+   "url": "http://www.barahijunglelodge.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://barahi.com/properties/barahi-jungle-lodge/",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "barcaldine-castle-united-kingdom",
+   "name": "Barcaldine Castle",
+   "url": "https://barcaldinecastle.co.uk/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "barony-castle-hotel-united-kingdom",
+   "name": "Barony Castle Hotel",
+   "url": "https://baronycastle.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://www.baronycastle.com/",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "baumhaushotel-otterndorf-germany",
+   "name": "Baumhaushotel Otterndorf",
+   "url": "https://www.mein-baumhaus.de/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "baumhaushotel-robins-nest-germany",
+   "name": "Baumhaushotel Robins Nest",
+   "url": "https://www.robins-nest.de/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "baumhaushotel-solling-germany",
+   "name": "Baumhaushotel Solling",
+   "url": "https://www.baumhaushotel-solling.de/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "bayala-private-safari-lodges-south-africa",
+   "name": "Bayala Private Safari Lodges",
+   "url": "https://bayala.co.za/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "belle-tout-lighthouse-united-kingdom",
+   "name": "Belle Tout Lighthouse B&B",
+   "url": "https://www.belletout.co.uk/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "belmond-royal-scotsman",
+   "name": "Belmond Royal Scotsman",
+   "url": "https://www.belmond.com/en/trains/europe/uk/royal-scotsman",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "bisate-lodge-rwanda",
+   "name": "Bisate Lodge",
+   "url": "https://www.wildernessdestinations.com/africa/rwanda/volcanoes-national-park/bisate-lodge",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "bora-bora-nui-resort",
+   "name": "Bora Bora Nui Resort & Spa",
+   "url": "https://forbestravelguide.com/hotels/bora-bora-french-polynesia/conrad-bora-bora-nui",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "borgo-castello-panicaglia-italy",
+   "name": "Borgo Castello Panicaglia",
+   "url": "https://www.borgocastellopanicaglia.com",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://www.borgocastellopanicaglia.com/",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "bubbletent-australia",
+   "name": "BubbleTent Australia",
+   "url": "https://www.visitnsw.com/destinations/blue-mountains/lithgow-area/lithgow/accommodation/bubbletent-australia",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "bulles-dolive-france",
+   "name": "Bulles d'Olive",
+   "url": "https://bullesdolive.fr/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "bushmans-desert-camp-namibia",
+   "name": "Bushman's Desert Camp",
+   "url": "https://www.bushmansdesertcamp-sossus.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "campi-ya-kanzi-kenya",
+   "name": "Campi ya Kanzi",
+   "url": "https://maasai.com/resorts/campi-ya-kanzi/",
+   "site": {
+    "state": "ok",
+    "status": 202,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "cappadocia-cave-suites-turkey",
+   "name": "Cappadocia Cave Suites",
+   "url": "https://cappadociacavesuiteshotel.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "cappadocia-inans-cave-suites-turkey",
+   "name": "Cappadocia Inans Cave Suites",
+   "url": "https://www.cappadociainanscave.com",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://www.cappadociainanscave.com/",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "castello-della-pieve-italy",
+   "name": "Castello della Pieve",
+   "url": "https://castellodellapieve.it",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://castellodellapieve.it/",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "castello-di-casamassella-italy",
+   "name": "Castello di Casamassella",
+   "url": "https://www.castellodicasamassella.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "castello-di-fagnano-albergo-diffuso-italy",
+   "name": "Castello di Fagnano Albergo Diffuso & Spa",
+   "url": "https://www.castellodifagnano.org",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://www.castellodifagnano.org/",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "castello-di-gargonza-italy",
+   "name": "Castello di Gargonza",
+   "url": "https://www.gargonza.it",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://gargonza.it/",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "castello-di-guarene-italy",
+   "name": "Castello di Guarene",
+   "url": "https://castellodiguarene.com/",
+   "site": {
+    "state": "http 503",
+    "status": 503,
+    "finalUrl": "https://castellodiguarene.com/it",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "castello-di-montaldo-italy",
+   "name": "Castello di Montaldo",
+   "url": "https://www.castellomontaldotorino.it/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "castello-di-monterone-italy",
+   "name": "Castello di Monterone",
+   "url": "https://www.castellomonterone.com/it/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://castellomonterone.com/it/",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "castello-di-oviglio-italy",
+   "name": "Castello di Oviglio",
+   "url": "https://www.castellodioviglio.it/it",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://www.castellodioviglio.it/it/",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "castello-di-proceno-italy",
+   "name": "Castello di Proceno",
+   "url": "https://www.castellodiproceno.it/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "castello-di-septe-italy",
+   "name": "Castello di Septe",
+   "url": "https://castellodisepte.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "castello-fai-italy",
+   "name": "Castello Fai",
+   "url": "https://www.castellofai.com",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://castellofai.com/en/castello-fai-welcome/",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "castello-la-leccia-italy",
+   "name": "Castello la Leccia",
+   "url": "https://www.castellolaleccia.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "castello-tafuri-italy",
+   "name": "Castello Tafuri Charming Suites",
+   "url": "https://www.castellotafuri.it/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "cavo-tagoo-mykonos-greece",
+   "name": "Cavo Tagoo Mykonos",
+   "url": "https://booking-mykonos.cavotagoo.com/about",
+   "site": {
+    "state": "http 403",
+    "status": 403,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "charming-cave-cappadocia-hotel-turkey",
+   "name": "Charming Cave Cappadocia Hotel",
+   "url": "https://www.thecharmingcavehotel.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "chole-mjini-tanzania",
+   "name": "Chole Mjini Lodge",
+   "url": "https://www.cholemjini.com/rooms/moja/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "cliff-house-hotel-ireland",
+   "name": "Cliff House Hotel",
+   "url": "https://cliffhousehotel.ie",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://cliffhousehotel.ie/",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "conrad-maldives-muraka",
+   "name": "Conrad Maldives Muraka",
+   "url": "https://www.conradmaldives.com/villa/the-muraka/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (unconfirmed)"
+   }
+  },
+  {
+   "slug": "corsewall-lighthouse-hotel-scotland",
+   "name": "Corsewall Lighthouse Hotel",
+   "url": "https://www.lighthousehotel.co.uk/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "cristalino-lodge-brazil",
+   "name": "Cristalino Lodge",
+   "url": "https://www.cristalinolodge.com.br/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://cristalinolodge.com.br/",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "cuevas-la-granja-spain",
+   "name": "Cuevas La Granja",
+   "url": "https://www.cuevas.org/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "dalhousie-castle-united-kingdom",
+   "name": "Dalhousie Castle",
+   "url": "https://dalhousiecastle.co.uk/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://www.dalhousiecastle.co.uk/",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "desert-camp-namibia",
+   "name": "Desert Camp",
+   "url": "https://www.desertcamp.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "desert-cave-hotel-australia",
+   "name": "Desert Cave Hotel",
+   "url": "https://showcaves.com/english/au/subterranea/DesertCaveHotel.html",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (unconfirmed)"
+   }
+  },
+  {
+   "slug": "desert-luxury-camp-morocco",
+   "name": "Desert Luxury Camp",
+   "url": "https://desertluxurycamp.com/",
+   "site": {
+    "state": "ok",
+    "status": 202,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "dornoch-castle-hotel-united-kingdom",
+   "name": "Dornoch Castle Hotel",
+   "url": "https://www.dornochcastlehotel.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://dornochcastlehotel.com/",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "dromoland-castle-ireland",
+   "name": "Dromoland Castle",
+   "url": "https://www.dromoland.ie/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "ethie-castle-united-kingdom",
+   "name": "Ethie Castle",
+   "url": "https://www.ethiecastle.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "ferienwaggons-zittauer-schmalspurbahn-germany",
+   "name": "Ferienwaggons Zittauer Schmalspurbahn",
+   "url": "https://www.zittauer-schmalspurbahn.de/bahn-region/uebernachtung/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "feynan-ecolodge-jordan",
+   "name": "Feynan Ecolodge",
+   "url": "https://ecohotels.me/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "floating-seahorse-dubai",
+   "name": "The Floating Seahorse",
+   "url": "https://www.thenationalnews.com/lifestyle/luxury/property-of-the-week-underwater-views-from-dubai-s-dh88-million-floating-seahorse-villas-1.1246700",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "fonab-castle-hotel-united-kingdom",
+   "name": "Fonab Castle Hotel",
+   "url": "https://www.crerarhotels.com/collection/fonab-castle/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "four-seasons-maldives-landaa",
+   "name": "Four Seasons Resort Maldives at Landaa Giraavaru",
+   "url": "https://press.fourseasons.com/maldiveslg/hotel-facts/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "free-spirit-spheres-canada",
+   "name": "Free Spirit Spheres",
+   "url": "https://freespiritspheres.com/about-the-spheres/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "fyrgaarden-denmark",
+   "name": "Fyrgaarden",
+   "url": "https://www.fyrgarden.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "gamirasu-cave-turkey",
+   "name": "Gamirasu Cave Hotel",
+   "url": "https://www.gamirasu.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "georgios-cave-cappadocia-turkey",
+   "name": "Georgios Cave Cappadocia",
+   "url": "https://www.georgioscavecappadocia.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://georgioscavecappadocia.com/",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "gibbon-experience-laos",
+   "name": "The Gibbon Experience",
+   "url": "https://www.gibbonexperience.org/classic-tour/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "gili-lankanfushi-maldives",
+   "name": "Gili Lankanfushi",
+   "url": "https://gili-lankanfushi.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "goreme-valley-cave-house-turkey",
+   "name": "Göreme Valley Cave House",
+   "url": "https://www.goremevalleycavehouse.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "guacamayo-ecolodge-ecuador",
+   "name": "Guacamayo Ecolodge",
+   "url": "https://www.guacamayoecolodge.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "halong-bay-indochina-sails",
+   "name": "Indochina Sails",
+   "url": "https://www.indochinasails.com/en/indochina-sails-ha-long.html",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "hapuku-lodge-new-zealand",
+   "name": "Hapuku Lodge & Tree Houses",
+   "url": "https://www.hapukulodge.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "hazlewood-castle-and-spa-united-kingdom",
+   "name": "Hazlewood Castle & Spa",
+   "url": "https://www.hazlewood-castle.co.uk/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://hazlewood-castle.co.uk/",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "hotel-castello-di-santa-vittoria-italy",
+   "name": "Hotel Castello di Santa Vittoria",
+   "url": "https://www.hotelsantavittoria.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "hotel-castello-miramare-italy",
+   "name": "Hotel Castello Miramare",
+   "url": "http://castellomiramare.it",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "http://www.castellomiramare.it/",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "houseboat-arka-mielno-poland",
+   "name": "Houseboat \\\"Arka\\\"",
+   "url": "https://domkinawodzie.mielno.pl/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "houseboat-harmony-utrecht-netherlands",
+   "name": "Houseboat Harmony",
+   "url": "https://www.bed-and-breakfast-utrecht.nl",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://bed-and-breakfast-utrecht.nl/homepage/",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "icehotel-sweden",
+   "name": "ICEHOTEL 365",
+   "url": "https://icehotel.com/hotel",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://www.icehotel.com/stay-hotel-guide",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "il-borgo-del-castello-italy",
+   "name": "Il Borgo del Castello",
+   "url": "https://www.ilborgodelcastello.it/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://ilborgodelcastello.it/",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "inkaterra-canopy-treehouse-peru",
+   "name": "Inkaterra Canopy Treehouse",
+   "url": "https://www.inkaterra.com/inkaterra/inkaterra-reserva-amazonica/services/additional-services/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "inkaterra-machu-picchu",
+   "name": "Inkaterra Machu Picchu Pueblo Hotel",
+   "url": "https://www.inkaterra.com/inkaterra-machu-picchu-pueblo-hotel/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://www.inkaterra.com/inkaterra/inkaterra-machu-picchu-pueblo-hotel/the-experience/",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "intercontinental-thalasso-bora-bora",
+   "name": "InterContinental Bora Bora Resort & Thalasso Spa",
+   "url": "https://thalasso.intercontinental.com/?p=77",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://thalasso.intercontinental.com/",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "inverlochy-castle-hotel-united-kingdom",
+   "name": "Inverlochy Castle Hotel",
+   "url": "https://inverlochycastlehotel.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://www.inverlochycastlehotel.com/",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "jade-mountain-st-lucia",
+   "name": "Jade Mountain Resort",
+   "url": "https://jademountain.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "jao-camp-botswana",
+   "name": "Jao Camp",
+   "url": "https://jaoreserve.com/jao-camp/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "jules-undersea-lodge-florida",
+   "name": "Jules' Undersea Lab",
+   "url": "https://www.marinelabunderseapark.org/jules",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "kakslauttanen-finland",
+   "name": "Kakslauttanen Arctic Resort",
+   "url": "https://www.kakslauttanen.fi/accommodation/small-glass-igloo-east-village",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "keemala-bird-nest-phuket",
+   "name": "Keemala Bird's Nest Pool Villa",
+   "url": "https://www.keemala.com/villa/birds-nest-pool-villas/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "kelebek-special-cave-hotel-turkey",
+   "name": "Kelebek Special Cave Hotel",
+   "url": "https://www.kelebekhotel.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://www.kelebekhotel.com/en",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "killeavy-castle-estate-united-kingdom",
+   "name": "Killeavy Castle Estate",
+   "url": "https://www.killeavycastle.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "kokopelli-cave-usa",
+   "name": "Kokopelli's Cave Bed & Breakfast",
+   "url": "https://kokos-cave.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "la-bulle-etoilee-france",
+   "name": "La Bulle Etoilée",
+   "url": "https://www.labulleetoilee.fr/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "langley-castle-hotel-united-kingdom",
+   "name": "Langley Castle Hotel",
+   "url": "https://www.langleycastle.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://langleycastle.com/",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "lapa-rios-costa-rica",
+   "name": "Lapa Rios Lodge",
+   "url": "https://www.laparios.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (unconfirmed)"
+   }
+  },
+  {
+   "slug": "lindesnes-lighthouse-norway",
+   "name": "Lindesnes Lighthouse Hotel",
+   "url": "https://no.wikipedia.org/wiki/Lindesnes_fyr",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "locanda-al-castello-italy",
+   "name": "Locanda al Castello",
+   "url": "https://www.alcastello.net/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "londolozi-varty-camp-south-africa",
+   "name": "Londolozi Varty Camp",
+   "url": "https://www.londolozi.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (unconfirmed)"
+   }
+  },
+  {
+   "slug": "longitude-131-australia",
+   "name": "Longitude 131°",
+   "url": "https://longitude131.com.au/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "lucky-cave-cappadocia-turkey",
+   "name": "Lucky Cave Cappadocia",
+   "url": "https://www.luckycavehotel.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "majakkahotelli-finland",
+   "name": "Majakkahotelli",
+   "url": "https://www.kylmapihlaja.com/majakkahotelli.php",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "manshausen-island-resort-norway",
+   "name": "Manshausen Island Resort",
+   "url": "https://bystinessen.com/architecture/manshausen2/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "manta-resort-zanzibar",
+   "name": "The Manta Resort, Underwater Room",
+   "url": "https://themantaresort.com/underwater-room/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://themantaresort.com/rooms/underwater-room/",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "mashpi-lodge-ecuador",
+   "name": "Mashpi Lodge",
+   "url": "https://www.mashpilodge.com/the-lodge/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "melek-cave-hotel-turkey",
+   "name": "Melek Cave Hotel",
+   "url": "https://melekcave.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "melville-castle-united-kingdom",
+   "name": "Melville Castle",
+   "url": "http://melvillecastle.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://melvillecastle.com/",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "memories-aicha-luxury-camp-jordan",
+   "name": "Memories Aicha Luxury Camp",
+   "url": "http://www.mlc.jo/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "misool-eco-resort-indonesia",
+   "name": "Misool Eco Resort",
+   "url": "https://misool.info/accommodation",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://www.misool.info/accommodation",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "ms-fram-norway",
+   "name": "MS Fram Expedition Ship",
+   "url": "https://travelhx.com/en/ships/fram",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://www.travelhx.com/en/ships/fram/",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "mt-matutum-domesville-glamping-philippines",
+   "name": "Mt. Matutum DomesVille Glamping",
+   "url": "https://hotels.cloudbeds.com/reservation/KbrUB1",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "museum-hotel-cappadocia",
+   "name": "Museum Hotel",
+   "url": "https://www.museumhotel.com.tr/en/rooms-suites/deluxe-rooms",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "night-train-caledonian-sleeper",
+   "name": "Caledonian Sleeper",
+   "url": "https://www.sleeper.scot/accommodation/club-en-suite-room",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "nihi-sumba-indonesia",
+   "name": "Nihi Sumba",
+   "url": "https://nihi.com/sumba/villa/treehouse/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "norah-head-lighthouse-and-cottages-australia",
+   "name": "Norah Head Lighthouse & Cottages",
+   "url": "https://reflectionsholidays.com.au/unique-stays/norah-head-lighthouse/accommodation/?from=2024-06-19&to=2024-06-21&adults=2",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "northern-rail-traincar-inn-united-states",
+   "name": "Northern Rail Traincar Inn",
+   "url": "https://www.northernrail.net/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "off-paris-seine-france",
+   "name": "OFF Paris Seine",
+   "url": "https://www.sortiraparis.com/hotel-restaurant/hotel/articles/288034-off-paris-seine-l-incroyable-hotel-flottant-sur-la-seine",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "okonjima-bush-camp-namibia",
+   "name": "Okonjima Bush Camp",
+   "url": "https://okonjima.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "ostsee-baumhaushotel-germany",
+   "name": "Ostsee Baumhaushotel",
+   "url": "https://www.ostsee-baumhaushotel.de/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "otterburn-castle-country-house-hotel-united-kingdom",
+   "name": "Otterburn Castle Country House Hotel",
+   "url": "https://www.otterburncastle.com/",
+   "site": {
+    "state": "http 401",
+    "status": 401,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "ottoman-cave-suites-turkey",
+   "name": "Ottoman Cave Suites",
+   "url": "https://www.ottomancavesuites.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "palafitos-overwater-bungalows-mexico",
+   "name": "Palafitos Overwater Bungalows",
+   "url": "https://www.lomashospitality.com/es/hotel-palafitos-en-playa-del-carmen/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "peckforton-castle-united-kingdom",
+   "name": "Peckforton Castle",
+   "url": "https://www.peckfortoncastle.co.uk/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "peristyle-cave-cappadocia-turkey",
+   "name": "Peristyle Cave Cappadocia",
+   "url": "https://www.peristylecave.com",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://www.peristylecave.com/en",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "pezulu-tree-house-lodge-south-africa",
+   "name": "Pezulu Tree House Lodge",
+   "url": "https://pezulu.co.za/welcome/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "phare-de-kerbel-france",
+   "name": "Phare de Kerbel",
+   "url": "https://www.pharedekerbel.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "pullman-maldives-maamutaa-resort-maldives",
+   "name": "Pullman Maldives Maamutaa Resort",
+   "url": "https://www.pullmanmaldivesmaamutaa.com/villas-suites/",
+   "site": {
+    "state": "error",
+    "note": "fetch failed"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "quirpon-lighthouse-inn-canada",
+   "name": "Quirpon Lighthouse Inn",
+   "url": "https://www.linkumtours.com/accommodations/quirpon-lighthouse-inn/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://linkumtours.com/accommodations/quirpon-lighthouse-inn/",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "real-castello-italy",
+   "name": "Real Castello",
+   "url": "https://realcastello.com/albergo/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "rekero-camp-masai-mara",
+   "name": "Rekero Camp",
+   "url": "https://www.asiliaafrica.com/camps-lodges/rekero-camp/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (unconfirmed)"
+   }
+  },
+  {
+   "slug": "revembulle-france",
+   "name": "Rêvembulle",
+   "url": "https://revembulle.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "robles-treehouse-lodge-peru",
+   "name": "Robles Treehouse Lodge",
+   "url": "https://www.manurainforestperu.com/robles-tree-house.php",
+   "site": {
+    "state": "ok",
+    "status": 202,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "romantic-cave-hotel-turkey",
+   "name": "Romantic Cave Hotel",
+   "url": "https://www.romanticcavehotel.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://romanticcavehotel.com/",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "rovos-rail-south-africa",
+   "name": "Rovos Rail",
+   "url": "https://en.wikipedia.org/wiki/Rovos_Rail",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "royal-cliff-hotels-group-thailand",
+   "name": "Royal Cliff Hotels Group",
+   "url": "http://www.royalcliff.com",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://www.royalcliff.com/",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (unconfirmed)"
+   }
+  },
+  {
+   "slug": "safari-desert-camp-oman",
+   "name": "Safari Desert Camp",
+   "url": "https://www.safaridesert.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "sahara-dunes-camp-morocco",
+   "name": "Sahara Dunes Camp",
+   "url": "https://saharadunescamp.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "saugerties-lighthouse-united-states",
+   "name": "Saugerties Lighthouse",
+   "url": "https://www.saugertieslighthouse.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "scarabeo-camp-morocco",
+   "name": "Scarabeo Camp",
+   "url": "https://www.scarabeo-camp.com/history-en",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://www.scarabeocamp.com/history-en",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "scargill-castle-united-kingdom",
+   "name": "Scargill Castle",
+   "url": "https://www.scargillcastle.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://scargillcastle.com/",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "schloss-hotel-korb-italy",
+   "name": "Schloss Hotel Korb",
+   "url": "https://www.schloss-hotel-korb.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://www.schloss-hotel-korb.com/en",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "schloss-hotel-wehrburg-italy",
+   "name": "Schloss Hotel Wehrburg",
+   "url": "https://www.wehrburg.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "schwimmendes-haus-partwitzer-see-germany",
+   "name": "Schwimmendes Haus",
+   "url": "http://partwitzer-hof.de/schwimmendes-haus/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "seki-cave-hotel-turkey",
+   "name": "Seki Cave Hotel",
+   "url": "https://www.sekicavehotel.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://www.sekicavehotel.com/en",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "severin-safari-camp-kenya",
+   "name": "Severin Safari Camp",
+   "url": "https://severinsafaricamp.com",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://www.severinsafaricamp.com/",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "sextantio-cave-italy",
+   "name": "Sextantio Le Grotte della Civita",
+   "url": "https://www.sextantio.it/en/legrottedellacivita/classic-room/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "shinta-mani-wild-cambodia",
+   "name": "Shinta Mani Wild",
+   "url": "https://www.shintamani.com/wild/",
+   "site": {
+    "state": "ok",
+    "status": 202,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "signature-cave-cappadocia-turkey",
+   "name": "Signature Cave Cappadocia Trademark Collection by Wyndham",
+   "url": "https://www.signaturecave.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://www.signaturecavecappadocia.com/",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "singita-grumeti-tanzania",
+   "name": "Singita Grumeti",
+   "url": "https://singita.com/region/grumeti/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "singita-lebombo-south-africa",
+   "name": "Singita Lebombo Lodge",
+   "url": "https://singita.com/lodge/singita-lebombo-lodge/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "sitka-lighthouse-united-states",
+   "name": "Sitka Lighthouse",
+   "url": "https://www.sitkalighthouse.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "six-senses-shaharut-israel",
+   "name": "Six Senses Shaharut",
+   "url": "https://theluxuryeditor.com/news/six-senses-shaharut-israel-opens/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "skylodge-peru",
+   "name": "Skylodge Adventure Suites",
+   "url": "https://naturavive.com/web/skylodge-adventure-suites/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "snowhotel-kirkenes-norway",
+   "name": "Snowhotel Kirkenes",
+   "url": "https://www.snowresortkirkenes.com/accommodation",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "somnen-bulle-france",
+   "name": "Somn'en Bulle",
+   "url": "https://www.somnenbulle.fr/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "soneva-jani-maldives",
+   "name": "Soneva Jani",
+   "url": "https://soneva.com/resorts/soneva-jani/villas/overwater-villas/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "song-saa-cambodia",
+   "name": "Song Saa Private Island",
+   "url": "https://www.songsaa-privateisland.com/villas/one-bed-overwater-villa",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "sorrisniva-igloo-hotel-norway",
+   "name": "Sorrisniva Igloo Hotel",
+   "url": "https://www.sorrisniva.no/hotels/igloo-hotel",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "splendid-cave-hotel-turkey",
+   "name": "Splendid Cave Hotel",
+   "url": "https://www.splendidcavehotel.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "star-castle-hotel-united-kingdom",
+   "name": "Star Castle Hotel",
+   "url": "https://star-castle.co.uk/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "stf-berguddens-fyrvaktarbostader-sweden",
+   "name": "STF Berguddens Fyrvaktarbostäder",
+   "url": "https://www.svenskaturistforeningen.se/boende/stf-berguddens-fyrvaktarbostader/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "stonefield-castle-united-kingdom",
+   "name": "Stonefield Castle",
+   "url": "https://bespokehotels.com/stonefieldcastle/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "sultan-cave-suites-turkey",
+   "name": "Sultan Cave Suites",
+   "url": "https://www.sultancavesuites.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://www.sultancavesuites.com/tr",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "taru-cave-suites-turkey",
+   "name": "Taru Cave Suites",
+   "url": "https://tarucavesuites.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://www.tarucavesuites.com/",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "telunas-private-island-overwater-villas-indonesia",
+   "name": "Telunas Private Island Overwater Villas",
+   "url": "https://telunasresorts.com/private-island/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "the-dune-camp-botswana",
+   "name": "The Dune Camp",
+   "url": "https://www.bushways.com/our-lodges/the-dune-camp/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://bushways.com/property/the-dune-camp/",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "the-ghan-australia",
+   "name": "The Ghan",
+   "url": "https://www.journeybeyondrail.com.au/the-ghan/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "the-harpy-houseboat-london-united-kingdom",
+   "name": "The Harpy Houseboat",
+   "url": "https://theharpy.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "the-old-railway-station-united-kingdom",
+   "name": "The Old Railway Station",
+   "url": "https://www.old-station.co.uk/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "thulhagiri-island-resort-maldives",
+   "name": "Thulhagiri Island Resort and Spa",
+   "url": "https://www.thulhagiri.com.mv/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "tierra-patagonia-chile",
+   "name": "Tierra Patagonia",
+   "url": "https://tierrapatagonia.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "torrisdale-castle-estate-united-kingdom",
+   "name": "Torrisdale Castle Estate",
+   "url": "https://www.torrisdalecastle.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "train-station-inn-canada",
+   "name": "Train Station Inn",
+   "url": "https://www.tatatrainstation.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "transfagarasan-treehouse-village-romania",
+   "name": "Transfagarasan Treehouse Village",
+   "url": "https://transfagarasantreehousevillage.com",
+   "site": {
+    "state": "http 503",
+    "status": 503,
+    "finalUrl": "https://transfagarasantreehousevillage.com/",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "treehotel-sweden",
+   "name": "Treehotel",
+   "url": "https://treehotel.se/treerooms/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "treehouse-holidays-thailand",
+   "name": "Treehouse Holidays",
+   "url": "https://treehouse-holidays.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "treehouse-point-united-states",
+   "name": "Treehouse Point",
+   "url": "https://www.treehousepoint.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "tulloch-castle-hotel-united-kingdom",
+   "name": "Tulloch Castle Hotel",
+   "url": "https://bespokehotels.com/tullochcastlehotel",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://bespokehotels.com/tullochcastlehotel/",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (unconfirmed)"
+   }
+  },
+  {
+   "slug": "tyr-graig-castle-united-kingdom",
+   "name": "Ty’r Graig Castle",
+   "url": "https://www.tyrgraig-castle.co.uk",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://www.tyrgraig-castle.co.uk/",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "urgup-inn-cave-hotel-turkey",
+   "name": "Urgup Inn Cave Hotel",
+   "url": "https://www.urgupinncavehotel.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://urgupinncavehotel.com/",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "utopia-cave-cappadocia-turkey",
+   "name": "Utopia Cave Cappadocia",
+   "url": "https://utopiacave.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://utopiacave.com/en",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "utter-inn-sweden",
+   "name": "Utter Inn",
+   "url": "https://visitvastmanland.com/hotell-utter-inn",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "vagony-na-horach-czechia",
+   "name": "Vagony na horách",
+   "url": "https://vagonynahorach.cz/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "venice-simplon-orient-express",
+   "name": "Venice Simplon-Orient-Express",
+   "url": "https://www.belmond.com/en/trains/europe/venice-simplon-orient-express/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "finalUrl": "https://www.belmond.com/en/trains/europe/venice-simplon-orient-express",
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "vintage-cave-house-turkey",
+   "name": "Vintage Cave House",
+   "url": "https://vintagecavehouse.com/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "vuurtoren-van-harlingen-netherlands",
+   "name": "Vuurtoren van Harlingen",
+   "url": "https://www.vuurtoren-harlingen.nl/",
+   "site": {
+    "state": "http 503",
+    "status": 503,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "walworth-castle-hotel-united-kingdom",
+   "name": "Walworth Castle Hotel",
+   "url": "https://walworthcastle.co.uk/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "whitepod-switzerland",
+   "name": "Whitepod Eco-Luxury Hotel",
+   "url": "https://whitepod.com/en/pods",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "valid",
+    "verifiedAt": "2026-11-17"
+   }
+  },
+  {
+   "slug": "wilderness-davisons-camp-zimbabwe",
+   "name": "Wilderness Davison's Camp",
+   "url": "https://www.wildernessdestinations.com/africa/zimbabwe/hwange-national-park/davisons-camp",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "wolkensteiner-zughotel-germany",
+   "name": "Wolkensteiner Zughotel",
+   "url": "https://wolkensteiner-zughotel.de/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "yha-st-briavels-castle-united-kingdom",
+   "name": "YHA St Briavels Castle",
+   "url": "https://www.yha.org.uk/hostel/yha-st-briavels-castle",
+   "site": {
+    "state": "http 403",
+    "status": 403,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "yuquiyu-treehouses-united-states",
+   "name": "Yuquiyú Treehouses",
+   "url": "https://yuquiyufarm.com/treehouses/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  },
+  {
+   "slug": "zughotel-waldkirchen-austria",
+   "name": "ZUGHOTEL Waldkirchen",
+   "url": "https://www.zughotel.at/",
+   "site": {
+    "state": "ok",
+    "status": 200,
+    "operating": "no closure notice"
+   },
+   "expedia": {
+    "state": "no mapping (not_found)"
+   }
+  }
+ ]
+}

@@ -7,9 +7,11 @@
  *        job fetches fresh evidence and hands the candidate back to the writer when it is
  *        better (up to 3 tries); with --final it waits for the owner (e.g. "not a public stay").
  *   node pipeline/writer-result.mjs duplicate <id> <existing slug>
+ * published / drafted also copy a confirmed Expedia page from data/pipeline/expedia-candidates.json
+ * into src/data/expedia-hotels.json and src/data/expedia-verification.json (never one already in use).
  * The review page is updated from these by the next classifier run (pipeline/review-items.mjs).
  */
-import { existsSync } from 'node:fs';
+import { existsSync, readFileSync, writeFileSync } from 'node:fs';
 import { loadQueue, saveQueue, report } from './lib.mjs';
 
 const [what, id, arg, flag] = process.argv.slice(2);
@@ -29,5 +31,24 @@ if (what === 'blocked') {
   Object.assign(c, { status: 'blocked', blocked: { reason: arg, at: now, tries, retry } });
   if (retry) c.refetch = true;
 } else delete c.blocked;
+// A confirmed Expedia page found for the candidate (pipeline/expedia-check.mjs) goes with its page:
+// the booking button then links to it. Same record format as the published hotels' records.
+let expedia = null;
+if (['published', 'drafted'].includes(what)) {
+  const rec = (() => { try { return JSON.parse(readFileSync('data/pipeline/expedia-candidates.json', 'utf8'))[id]; } catch { return null; } })();
+  const MAP = 'src/data/expedia-hotels.json', VER = 'src/data/expedia-verification.json';
+  if (rec?.status === 'confirmed' && rec.url && existsSync(MAP) && existsSync(VER)) {
+    const map = JSON.parse(readFileSync(MAP, 'utf8')), ver = JSON.parse(readFileSync(VER, 'utf8'));
+    const hid = rec.url.match(/\.h(\d+)\./)?.[1];
+    const taken = Object.entries(map).find(([s, u]) => s !== arg && u.match(/\.h(\d+)\./)?.[1] === hid);
+    if (taken) console.log(`Expedia page not copied: ${taken[0]} already uses Expedia id ${hid}`);
+    else if (!map[arg]) {
+      map[arg] = rec.url; ver[arg] = { ...rec };
+      const sorted = (o) => Object.fromEntries(Object.entries(o).sort(([a], [b]) => a.localeCompare(b)));
+      writeFileSync(MAP, JSON.stringify(sorted(map), null, 2) + '\n'); writeFileSync(VER, JSON.stringify(sorted(ver), null, 2) + '\n');
+      expedia = rec.url; console.log(`Expedia page added for ${arg}: ${rec.url}`);
+    }
+  }
+}
 saveQueue(q);
-report('writer', { ok: true, last: `${what} ${c.name}` });
+report('writer', { ok: true, last: `${what} ${c.name}`, ...(expedia ? { expedia } : {}) });

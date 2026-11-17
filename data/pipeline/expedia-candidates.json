@@ -1,0 +1,434 @@
+{
+ "osm:node/10047221902": {
+  "status": "unconfirmed",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "evidence": "Exact name in title; snippet places it near Murchison Falls NP northern gate, Expedia also lists it under Amuru/Nebbi area adjacent to Nwoya.",
+  "notes": "Expedia city label is Pakwach rather than Nwoya (neighbouring district across the Nile); name is distinctive and unique.; name or town not an exact match, kept unconfirmed (cautious)"
+ },
+ "osm:node/11013400528": {
+  "status": "not_found",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "evidence": "Searches 'clifftop cabins Kaikoura New Zealand' and 'Clifftop Cabins Kaikoura' returned other Kaikoura properties (Alpine-Pacific Holiday Park, Hapuku Lodge, TOP 10, The Lookout) and cabin guide pages; nothing named Clifftop Cabins."
+ },
+ "osm:node/11724885704": {
+  "status": "confirmed",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "url": "https://www.expedia.com/Parinari-Hotels-Pacaya-Samiria-Amazon-Lodge.h9691227.Hotel-Information",
+  "expediaTitle": "Pacaya Samiria Amazon Lodge Reviews, Deals & Photos 2026 - Expedia.com",
+  "evidence": "Top result title is exact name; snippet places lodge on left bank of the Maranon River southwest of Iquitos (Expedia city: Parinari, Loreto).",
+  "notes": "Expedia files it under Parinari rather than Iquitos; separate 'Pacaya Samiria Expeditions E.I.R.L' page is a different entity."
+ },
+ "osm:node/12163848492": {
+  "status": "not_found",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "evidence": "Two searches returned only other Serengeti tented camps and tour packages; no Glimpse of Africa page."
+ },
+ "osm:node/12292090306": {
+  "status": "unconfirmed",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "evidence": "Result 'Buffalo Rock Tented Camp' (h45162298, Kruger-National-Park-Hotels) - name says Tented not Safari Camp and snippets conflict on location (Phalaborwa vs Mbombela).",
+  "notes": "Plausible candidate URL https://www.expedia.com/Kruger-National-Park-Hotels-Buffalo-Rock-Tented-Camp.h45162298.Hotel-Information; needs manual verification."
+ },
+ "osm:node/12656257439": {
+  "status": "unconfirmed",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "evidence": "Three searches; result summaries mention 'Margay - Reserva Natural y Lodge' at Paraje La Bonita s/n, El Soberbio, Misiones, but no result showed a Hotel-Information URL for it (only El Soberbio/Saltos del Mocona guide pages and the unrelated El Soberbio Lodge h17168201).",
+  "notes": "Listing likely exists on Expedia but URL not surfaced in results; needs another check."
+ },
+ "osm:node/12973449132": {
+  "status": "unconfirmed",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "evidence": "Two searches returned only 'HT Houseboats' in Mielno (https://www.expedia.com/Mielno-Hotels-HT-Houseboats.h12776929.Hotel-Information, Pontonierow 20); no 'Grand HT' listing.",
+  "notes": "Operator runs multiple houseboat products; Grand HT is a sub-product per its website, so the generic HT Houseboats listing may not be this exact unit."
+ },
+ "osm:node/13078206621": {
+  "status": "confirmed",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "url": "https://www.expedia.com/Puerto-Iguazu-Hotels-Overo-Cabanas-De-Selva.h83697043.Hotel-Information",
+  "expediaTitle": "Overo Lodge & Selva in Puerto Iguazú - Check Reviews 2026 - Expedia",
+  "evidence": "Top result title 'Overo Lodge & Selva in Puerto Iguazu'; snippet: Ruta 12 km 5, Puerto Iguazu, Misiones, eight cabins.",
+  "notes": "URL slug uses older name 'Overo Cabanas De Selva'."
+ },
+ "osm:node/13363877946": {
+  "status": "unconfirmed",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "evidence": "Title 'Osero Serengeti Luxury Tented Camp'; Expedia lists it under Serengeti / Mara Region, Tanzania, matching oseroserengeti.com.",
+  "notes": "Expedia name adds 'Luxury'; distinct from Osero Enarau Camp (Kenya).; name or town not an exact match, kept unconfirmed (cautious)"
+ },
+ "osm:node/13392204598": {
+  "status": "not_found",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "evidence": "Two searches: only mention is inside a tour itinerary (activity page), no Hotel-Information page for Olkarien."
+ },
+ "osm:node/13417445924": {
+  "status": "not_found",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "evidence": "Two searches returned other Serengeti camps and Naro Moru (Kenya) results; no Naona Moru page."
+ },
+ "osm:node/13495640701": {
+  "status": "unconfirmed",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "evidence": "Title names Paolyn Houseboats Coron Island; slug Coron; snippet places it at Laknisan Lagoon, Coron.",
+  "notes": "Expedia title is \"Paolyn Floating House Restaurant\"; not clearly the houseboat stay, kept unconfirmed (cautious)"
+ },
+ "osm:node/13815401412": {
+  "status": "unconfirmed",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "evidence": "Title names The Ritz-Carlton, Masai Mara Safari Camp; snippet places it near Mara River / Purungat Bridge Gate, Maasai Mara.",
+  "notes": "Slug truncated to 'The-Ritz-Carlton'.; URL name \"The-Ritz-Carlton\" shares no word with \"Masai Mara Safari Camp\""
+ },
+ "osm:node/13974203397": {
+  "status": "not_found",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "evidence": "Searches 'Treehouse VI Bojnice Slovakia' and 'Treehouse Bojnice' returned only Bojnice guide pages and unrelated treehouses in the US/India."
+ },
+ "osm:node/1430797816": {
+  "status": "confirmed",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "url": "https://www.expedia.com/Kruger-National-Park-Hotels-Elephant-Plains-Game-Lodge.h15381956.Hotel-Information",
+  "expediaTitle": "Elephant Plains Game Lodge Reviews, Deals & Photos 2026 - Expedia.com",
+  "evidence": "Top result title is exact name; snippet: located in Sabi Sands Game Reserve (Bushbuckridge, Mpumalanga).",
+  "notes": "Expedia files it under Kruger National Park."
+ },
+ "osm:node/1652779447": {
+  "status": "confirmed",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "url": "https://www.expedia.com/Cotundo-Hotels-Huasquila-Amazon-Lodge.h3688105.Hotel-Information",
+  "expediaTitle": "Huasquila Amazon Lodge Reviews, Deals & Photos 2026 - Expedia.com",
+  "evidence": "Top result title is exact name; URL city Cotundo; snippet gives address Huasquila Road, Cotundo, Napo."
+ },
+ "osm:node/1917427287": {
+  "status": "confirmed",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "url": "https://www.expedia.com/Teakettle-Village-Hotels-Jade-Jungle-Resort.h103184568.Hotel-Information",
+  "expediaTitle": "Jade Jungle Resort Reviews, Deals & Photos 2025 - Expedia",
+  "evidence": "Result title is exact name; URL city Teakettle Village; snippet: 23 Pooks Hill Road, Teakettle Village, Cayo District, Belize."
+ },
+ "osm:node/1940283523": {
+  "status": "not_found",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "evidence": "Searches 'Chalalan Ecolodge Madidi Bolivia' and 'Chalalan Ecolodge' returned Apolo/Rurrenabaque/Madidi guide pages (summary mentions Chalalan Eco Lodge in Apolo list) and unrelated ecolodges; no Hotel-Information URL for Chalalan."
+ },
+ "osm:node/2096399217": {
+  "status": "not_found",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "evidence": "Searches 'Borneo Rainforest Lodge Lahad Datu Malaysia' and 'Borneo Rainforest Lodge Danum Valley' returned only Lahad Datu/Danum Valley hotel guide pages and Borneo Nature Lodge (Kinabatangan, different property)."
+ },
+ "osm:node/3327094677": {
+  "status": "not_found",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "evidence": "Searches 'Finch Hattons Tented Camp Tsavo Kenya' and 'Finch Hattons Tsavo West' returned only list/filter/attraction pages mentioning Finch Hattons; no Hotel-Information URL in results."
+ },
+ "osm:node/3332262026": {
+  "status": "confirmed",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "url": "https://www.expedia.com/Bushbuckridge-Hotels-Umlani-Bushcamp-Lodge.h2844601.Hotel-Information",
+  "expediaTitle": "Umlani Bushcamp - Lodge Reviews, Deals & Photos 2026 - Expedia.com",
+  "evidence": "Title names Umlani Bushcamp; slug Bushbuckridge; snippet places it in Timbavati / Greater Kruger."
+ },
+ "osm:node/3490391072": {
+  "status": "not_found",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "evidence": "Searches 'Litløy fyr lighthouse Nordland Norway' and 'Litløy Lighthouse Bø Vesterålen' returned only Nordland/Vesterålen guide pages and other hotels."
+ },
+ "osm:node/3501236931": {
+  "status": "confirmed",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "url": "https://www.expedia.com/La-Tigra-Hotels-La-Tigra-Rainforest-Lodge.h13519095.Hotel-Information",
+  "expediaTitle": "La Tigra Rainforest Lodge Reviews, Deals & Photos 2026 - Expedia.com",
+  "evidence": "Second search top result title is exact name; snippets place it in San Lorenzo, Alajuela (beside San Jorge school, near La Tigra).",
+  "notes": "First search surfaced the same h13519095 only as /es/ and Hotel-Reviews URLs."
+ },
+ "osm:node/3982522758": {
+  "status": "confirmed",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "url": "https://www.expedia.com/Drake-Bay-Hotels-Casa-Corcovado-Jungle-Lodge.h19460167.Hotel-Information",
+  "expediaTitle": "Casa Corcovado Jungle Lodge Reviews, Deals & Photos 2025 - Expedia.com",
+  "evidence": "Top result title is exact name; URL city Drake Bay (Bahia Drake); snippet: lodge in Drake Bay near Playa San Pedrillo."
+ },
+ "osm:node/3982527462": {
+  "status": "not_found",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "evidence": "Searches 'Selva Bananito Lodge Limon Costa Rica' and 'Selva Bananito Lodge' returned Limon guide pages and unrelated Selva Resort (Cobano) / Playa Selva Lodge (Archidona); no Selva Bananito page."
+ },
+ "osm:node/4171539992": {
+  "status": "confirmed",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "url": "https://www.expedia.com/Payangan-Hotels-Nandini-Jungle-Resort-Spa-Bali.h1449734.Hotel-Information",
+  "expediaTitle": "Nandini Jungle by Hanging Gardens, Payangan - View Reviews & Prices - Expedia",
+  "evidence": "Result slug 'Payangan-Hotels-Nandini-Jungle-Resort-Spa-Bali' and title name Nandini Jungle in Payangan; snippet address Desa Buahan, Payangan, Bali.",
+  "notes": "Current Expedia display name is 'Nandini Jungle by Hanging Gardens' (rebrand); same h1449734 also appears with an older 'Nandini Bali Jungle Resort & Spa Ubud' title."
+ },
+ "osm:node/4240757290": {
+  "status": "unconfirmed",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "evidence": "Result 'Anabezi Camp' in Jeki (Lower Zambezi, Lusaka Province); snippet describes tented safari camp ~50 km from Lower Zambezi NP; 'Anabezi' is a distinctive single-property name matching anabezi.com.",
+  "notes": "Expedia name omits 'Luxury Tented'; listing page labelled 2019, may be dated.; name or town not an exact match, kept unconfirmed (cautious)"
+ },
+ "osm:node/4353227089": {
+  "status": "confirmed",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "url": "https://www.expedia.com/Atherton-Tablelands-Hotels-Chambers-Wildlife-Rainforest-Lodges.h3066839.Hotel-Information",
+  "expediaTitle": "Chambers Wildlife Rainforest Lodges: 2019 Room Prices $90, Deals & Reviews",
+  "evidence": "Title names Chambers Wildlife Rainforest Lodges exactly; snippet gives Eacham Close, Lake Eacham, QLD (Atherton Tablelands, Queensland).",
+  "notes": "First search only returned the Hotel-Reviews page for the same h3066839; second search (Lake Eacham) returned the Hotel-Information URL."
+ },
+ "osm:node/4708979894": {
+  "status": "unconfirmed",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "evidence": "Only candidate: 'Mount Totumas Cloud Forest (Lodge)' at https://www.expedia.com/Volcan-Hotels-Mount-Totumas-Cloud-Forest.h37141042.Hotel-Information, listed in Volcan / Los Pozos, Chiriqui.",
+  "notes": "Very likely the same property (distinctive name, Volcan is adjacent to Nueva California in Tierras Altas), but Expedia name is 'Cloud Forest' not 'Eco Lodge' and town differs, so not strictly matched."
+ },
+ "osm:node/4945827422": {
+  "status": "confirmed",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "url": "https://www.expedia.com/Maasai-Mara-Hotels-AndBeyond-Kichwa-Tembo-Tented-Camp-All-Inclusive.h48508310.Hotel-Information",
+  "expediaTitle": "andBeyond Kichwa Tembo Tented Camp, Maasai Mara - Latest Reviews 2026 - Expedia",
+  "evidence": "Title names andBeyond Kichwa Tembo Tented Camp in Maasai Mara (Transmara/Narok area), all-inclusive with private airstrip."
+ },
+ "osm:node/4976461222": {
+  "status": "not_found",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "evidence": "Two searches (with Srinagar, with Dal Lake) returned only other Srinagar houseboats (Zaindari Palace, Badyari Palace, Gurkha); no Quebec Houseboat page."
+ },
+ "osm:node/5111077883": {
+  "status": "confirmed",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "url": "https://www.expedia.com/Kruger-National-Park-Hotels-Rhino-Post-Safari-Lodge.h2993993.Hotel-Information",
+  "expediaTitle": "Rhino Post Safari Lodge, Bushbuckridge - Reviews & Photos 2026 - Expedia",
+  "evidence": "Title names Rhino Post Safari Lodge, Bushbuckridge exactly; snippet places it in Kruger National Park, Mpumalanga.",
+  "notes": "Same h2993993 also appears under an older Mpumalanga-Limpopo slug."
+ },
+ "osm:node/5437345744": {
+  "status": "confirmed",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "url": "https://www.expedia.com/Kruger-National-Park-Hotels-PUNGWE-BUSH-CAMP.h41966077.Hotel-Information",
+  "expediaTitle": "Pungwe Safari Camp (Tentalow) Reviews, Deals & Photos 2026 - Expedia.com",
+  "evidence": "Title names 'Pungwe Safari Camp'; snippet places it at Manyeleti Game Reserve (next to gate), Bushbuckridge, Mpumalanga.",
+  "notes": "URL slug reads PUNGWE-BUSH-CAMP under Kruger National Park."
+ },
+ "osm:node/5484451598": {
+  "status": "not_found",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "evidence": "Searches 'Iglu-Dorf Zugspitze Garmisch-Partenkirchen Germany' and 'Iglu-Dorf Zugspitze Grainau' returned only Iglu-Dorf Kuhtai (Imst, Austria, sister property), Hotel Zugspitze and Zugspitze attraction/destination pages; no property page for the Zugspitze igloo village.",
+  "notes": "Sister property Iglu-Dorf Kuhtai h55169365 exists but does not count."
+ },
+ "osm:node/6090114419": {
+  "status": "confirmed",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "url": "https://www.expedia.com/Pleinfeld-Hotels-Floating-Village-Brombachsee.h37253764.Hotel-Information",
+  "expediaTitle": "Floating Village Brombachsee Reviews, Deals & Photos 2025 - Expedia.com",
+  "evidence": "Exact name in title; URL city Pleinfeld; snippet gives address Marina Ramsberg Am Segelhafen 2, 91785 Pleinfeld, near Grosser Brombachsee."
+ },
+ "osm:node/6757357285": {
+  "status": "not_found",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "evidence": "Searches 'Lake Victoria Houseboats Srinagar India' and 'Lake Victoria Houseboat Srinagar Dal Lake' returned only other Srinagar houseboats (Badyari Palace, Zaindari Palace, Gurkha) and guide pages."
+ },
+ "osm:node/7068949987": {
+  "status": "not_found",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "evidence": "Searches 'Turaco Treetops Bigodi Uganda' and 'Turaco Treetops Kibale' returned only unrelated Treetops/Turaco properties (Nanyuki, Ngorongoro, Marloth Park, etc.)."
+ },
+ "osm:node/7860493005": {
+  "status": "not_found",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "evidence": "Two searches (Karelia/Lahdenpokhya, Ladoga) returned only Kerala/St. Petersburg houseboats and Karelia guide pages; no matching property page.",
+  "notes": "Generic name 'Houseboat'."
+ },
+ "osm:node/8008432920": {
+  "status": "not_found",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "evidence": "Searches 'Flatflesa Fyr Norway lighthouse' and 'Flatflesa fyr Smøla' returned only Smøla/other lodgings and lighthouse guides; no Flatflesa page."
+ },
+ "osm:node/9659474033": {
+  "status": "not_found",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "evidence": "Two searches returned Souter Lighthouse attraction page and unrelated cottages (Campbeltown, Whitby, Roker); no National Trust keeper's cottage page."
+ },
+ "osm:node/9751820506": {
+  "status": "not_found",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "evidence": "Two searches returned Namsen Salmon Aquarium attraction and Grong hotels/guides; no property page for the Salmon & Train Experience."
+ },
+ "osm:node/9861152694": {
+  "status": "unconfirmed",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "evidence": "Only Lamothe-Fénelon treehouse result is 'Les Cabanes Perchées du Mas del Bosc' (h91145223) - different name; 'Cabane dans les Arbres - Tree House' result is in Saint-Thomas-de-Courceriers (different place).",
+  "notes": "Could not tie Mas del Bosc to nideno46.com; not used."
+ },
+ "osm:way/135159169": {
+  "status": "confirmed",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "url": "https://www.expedia.com/Prague-Hotels-Botel-Vodnik.h20521167.Hotel-Information",
+  "expediaTitle": "Botel Vodník, Prague: Latest Reviews for 2026",
+  "evidence": "Title names Botel Vodník, Prague exactly; snippet describes floating hotel near Dancing House."
+ },
+ "osm:way/1507430207": {
+  "status": "not_found",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "evidence": "Searches 'Baumhaus Thurgau Bischofszell' and 'Baumhaus Bischofszell' returned only town guides and unrelated Baumhaus properties (Porto, Bogota, Austria)."
+ },
+ "osm:way/1550001365": {
+  "status": "not_found",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "evidence": "First search returned only Uppsala County town guides; second (with Upplandsstiftelsen) returned no results."
+ },
+ "osm:way/171606064": {
+  "status": "confirmed",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "url": "https://www.expedia.com/Amsterdam-Hotels-Botel.h1141473.Hotel-Information",
+  "expediaTitle": "Botel (Hotel) Reviews, Deals & Photos 2026 - Expedia.com",
+  "evidence": "Top result titled 'Botel (Hotel)' with Amsterdam URL; snippet describes boat hotel at NDSM Pier 3, Amsterdam North with ferry to centre."
+ },
+ "osm:way/221401368": {
+  "status": "confirmed",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "url": "https://www.expedia.com/Prague-Hotels-Botel-Marina.h90430125.Hotel-Information",
+  "expediaTitle": "Botel Marina Reviews, Deals & Photos 2025 - Expedia",
+  "evidence": "Top result title is exact name with Prague URL; snippet describes moored boat hotel on the Vltava, address U Libenskeho mostu, Prague."
+ },
+ "osm:way/261157167": {
+  "status": "confirmed",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "url": "https://www.expedia.com/Mweya-Hotels-Mweya-Safari-Lodge.h15468915.Hotel-Information",
+  "expediaTitle": "Mweya Safari Lodge Reviews, Deals & Photos 2026 - Expedia.com",
+  "evidence": "Title names Mweya Safari Lodge; snippet places it at Mweya inside Queen Elizabeth National Park (Kasese district)."
+ },
+ "osm:way/27750854": {
+  "status": "unconfirmed",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "evidence": "Only near match is Spanish-site 'Ferienhaus \"Am Leuchtturm\"' in Glowe (h89727576, /es/ URL not in required form) - different name, 3-bed house, link to ferien-im-leuchtturm.de not shown."
+ },
+ "osm:way/299374932": {
+  "status": "not_found",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "evidence": "Two searches returned Hvar tours and other Hvar apartments; no Cliffbase page."
+ },
+ "osm:way/373635511": {
+  "status": "confirmed",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "url": "https://www.expedia.com/Rijeka-Hotels-Botel-Marina.h12739072.Hotel-Information",
+  "expediaTitle": "Botel Marina - Hostel Reviews, Deals & Photos 2026 - Expedia.com",
+  "evidence": "Title names Botel Marina; slug Rijeka; snippet gives Adamicev gat, Rijeka Old Town."
+ },
+ "osm:way/392681213": {
+  "status": "not_found",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "evidence": "Searches 'The Boatel Gent Belgium' and 'Boatel Ghent hotel' returned only Ghent boat tours and other hotels (B&B Hotel Gent Centrum, Ghent River Hotel, NH, Marriott); no Boatel page."
+ },
+ "osm:way/773578903": {
+  "status": "confirmed",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "url": "https://www.expedia.com/Rovaniemi-Hotels-Arctic-SnowHotel-Glass-Igloos.h12689601.Hotel-Information",
+  "expediaTitle": "Arctic SnowHotel & Glass Igloos in Rovaniemi: Latest Reviews 2026 - Expedia",
+  "evidence": "Top result title names Arctic SnowHotel & Glass Igloos in Rovaniemi; snippet places it in Sinetta (Rovaniemi), Lehtoahontie 27."
+ },
+ "osm:way/835881136": {
+  "status": "confirmed",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "url": "https://www.expedia.com/Grand-Marais-Hotels-The-Cliff-Dweller-On-Lake-Superior.h19379.Hotel-Information",
+  "expediaTitle": "The Cliff Dweller on Lake Superior, Tofte - Photos & Reviews 2026 - Expedia",
+  "evidence": "Title names The Cliff Dweller on Lake Superior, Tofte; snippet address 6452 West US Highway 61, Tofte, MN.",
+  "notes": "URL slug uses Grand-Marais region, title says Tofte."
+ },
+ "osm:way/96820728": {
+  "status": "confirmed",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "url": "https://www.expedia.com/Bratislava-Hotels-Botel-Gracia.h2539931.Hotel-Information",
+  "expediaTitle": "Botel Gracia in Bratislava, Slovakia",
+  "evidence": "Top result title 'Botel Gracia in Bratislava, Slovakia'; snippet: floating hotel on the Danube, Razusovo Nabrezie, Bratislava."
+ },
+ "osm:way/988406616": {
+  "status": "not_found",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "evidence": "Two searches returned only generic Samerberg apartments/vacation homes and Baumhaus properties elsewhere; no Baumhaus Samerberg page."
+ },
+ "osm:way/995434094": {
+  "status": "confirmed",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "url": "https://www.expedia.com/Rovaniemi-Hotels-Santas-Igloos-Arctic-Circle.h27086620.Hotel-Information",
+  "expediaTitle": "Santa's Igloos Arctic Circle in Rovaniemi - Latest Reviews 2026 - Expedia",
+  "evidence": "Second search top result titled Santa's Igloos Arctic Circle in Rovaniemi; snippet: Joulumaankuja 8, 0.2 mi from Santa Claus Village (Napapiiri/Arctic Circle)."
+ },
+ "wd:Q11235591": {
+  "status": "not_found",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "evidence": "Searches 'Botel Albatros Prague Czechia' and 'Botel Albatros Prague hotel' returned only list/filter pages and other Albatros hotels (Prachatice, Cesky Krumlov, Melgar, Forio); no Hotel-Information page for Botel Albatros."
+ },
+ "wd:Q60515789": {
+  "status": "confirmed",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "url": "https://www.expedia.com/Edinburgh-Hotels-Fingal.h38753319.Hotel-Information",
+  "expediaTitle": "Fingal - A Luxury Floating Hotel in Edinburgh",
+  "evidence": "Title names Fingal, floating hotel in Edinburgh; snippet gives Alexandra Dock, Port of Leith, Edinburgh."
+ },
+ "wd:Q89948600": {
+  "status": "confirmed",
+  "method": "web-search-title-location",
+  "verifiedAt": "2026-11-17",
+  "url": "https://www.expedia.com/Manaus-Hotels-Amazon-Ecopark-Jungle-Lodge.h4430814.Hotel-Information",
+  "expediaTitle": "Amazon Ecopark Jungle Lodge in Manaus - Latest Reviews 2026 - Expedia",
+  "evidence": "Top result title names Amazon Ecopark Jungle Lodge in Manaus; snippet: boat-access lodge, Rio Taruma Acu address.",
+  "notes": "An older duplicate listing also appeared (Amazon-Eco-Park-Jungle-Lodge.h1154098, 2020 title); used the current h4430814."
+ }
+}

@@ -1,7 +1,8 @@
 name: Hotel pipeline (nightly)
 
 # Nightly, free, no AI: apply yesterday's Haiku decisions -> discover new candidates -> verify
-# (country, site checks) -> fetch evidence packs for the next candidates in cell priority order.
+# (country, site checks) -> stable ids + duplicates -> pre-screen the review queue -> fetch evidence
+# packs for the next candidates in cell priority order -> monthly re-check of live hotels.
 # Evidence packs live on the orphan `pipeline-data` branch (one commit, overwritten nightly) so
 # the default branch history stays small. The Claude classifier routine reads them from there.
 #
@@ -85,10 +86,22 @@ jobs:
         if: github.event.inputs.skip_discover != 'true'
         continue-on-error: true
         run: node pipeline/verify.mjs "$VERIFY_LIMIT"
+      - name: Stable ids and duplicates
+        id: dedupe
+        continue-on-error: true
+        run: node pipeline/dedupe.mjs
+      - name: Pre-screen the review queue
+        id: prescreen
+        continue-on-error: true
+        run: node pipeline/prescreen.mjs
       - name: Fetch evidence
         id: evidence
         continue-on-error: true
         run: node pipeline/evidence.mjs --next "$EVIDENCE_COUNT" $EVIDENCE_IDS
+      - name: Monthly re-check of live hotels (runs when 28 days have passed)
+        id: recheck
+        continue-on-error: true
+        run: node pipeline/recheck.mjs
       - name: Check that the last site change went live
         id: deploy
         continue-on-error: true
@@ -110,11 +123,13 @@ jobs:
             # version and merge the two queues candidate by candidate; nothing is overwritten.
             echo "push rejected (attempt $attempt), merging with the branch"
             cp -r data/pipeline/runs "$RUNNER_TEMP/runs-ours"
+            mkdir -p "$RUNNER_TEMP/files-ours"; cp data/pipeline/{properties.json,recheck.json,DUPLICATES.md} "$RUNNER_TEMP/files-ours/" 2>/dev/null || true
             git fetch origin "$B"
             git reset -q --hard "origin/$B"
             node pipeline/merge-queue.mjs "$RUNNER_TEMP/queue-base.json" "$RUNNER_TEMP/queue-ours.json" data/pipeline/candidates.json
             cp data/pipeline/candidates.json "$RUNNER_TEMP/queue-ours.json"
-            cp "$RUNNER_TEMP"/runs-ours/{apply,discover,verify,evidence,deploy}.json data/pipeline/runs/ 2>/dev/null || true
+            cp "$RUNNER_TEMP"/runs-ours/{apply,discover,verify,dedupe,prescreen,evidence,recheck,deploy}.json data/pipeline/runs/ 2>/dev/null || true
+            cp "$RUNNER_TEMP"/files-ours/* data/pipeline/ 2>/dev/null || true
             cp data/pipeline/runs/merge.json "$RUNNER_TEMP/" 2>/dev/null || true
             sleep $((attempt * 5))
           done
@@ -146,7 +161,10 @@ jobs:
           [ "${{ steps.apply.outcome }}" = "failure" ] && failed="$failed apply"
           [ "${{ steps.discover.outcome }}" = "failure" ] && failed="$failed discover"
           [ "${{ steps.verify.outcome }}" = "failure" ] && failed="$failed verify"
+          [ "${{ steps.dedupe.outcome }}" = "failure" ] && failed="$failed dedupe"
+          [ "${{ steps.prescreen.outcome }}" = "failure" ] && failed="$failed prescreen"
           [ "${{ steps.evidence.outcome }}" = "failure" ] && failed="$failed evidence"
+          [ "${{ steps.recheck.outcome }}" = "failure" ] && failed="$failed recheck"
           [ "${{ steps.deploy.outcome }}" = "failure" ] && failed="$failed live-deploy"
           [ "${{ steps.commit.outcome }}" = "failure" ] && failed="$failed commit"
           [ "${{ steps.publish.outcome }}" = "failure" ] && failed="$failed publish-packs"

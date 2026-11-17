@@ -1,31 +1,76 @@
 # Otel hattı: nasıl çalışır
 
 Amaç: 14 niş kategoride dünyadaki gerçek otelleri bulmak ve sizin onayınızla siteye eklemek.
-Sizin tek işiniz **onay kuyruğu sayfasında karar vermek**:
+Sizin tek işiniz haftada bir **kısa listeden numaralarla onay vermek** (aşağıda "Haftada beş dakika"):
 https://claude.ai/artifact/WC5XfcRYrJmXf8aqCCfDz7
 
 Güncel durum (kim nerede bekliyor, hangi aşama hata verdi): [`data/pipeline/STATUS.md`](../../data/pipeline/STATUS.md).
+
+## Haftada beş dakika: ne yapmanız gerekiyor
+
+Kuyruktaki yüzlerce adayı tek tek okumanız gerekmiyor. Hat sizin yerinize eler, sıralar ve her hafta
+size **40 otellik bir kısa liste** getirir. Sizin işiniz haftada bir kez numara yazmak.
+
+**1. Pazartesi (2 dakika): kısa listeye bakın.** Onay sayfasının en üstünde
+(https://claude.ai/artifact/WC5XfcRYrJmXf8aqCCfDz7) ya da [`STATUS.md`](../../data/pipeline/STATUS.md)
+dosyasının başında "Bu haftanın kısa listesi" var. Her satırda: numara, otel, yer, kategori, niş
+özelliği tek cümleyle, kaynağı (tıklayıp bakabilirsiniz) ve komisyonlu bağlantı olup olmadığı.
+
+**2. Onay (1 dakika): numaraları tek seferde yazın.** Sayfadaki kutuya, ör. `1 3 5-9 12`, yazıp
+**Onayla**'ya basın; sayfa kimleri onaylayacağını gösterir, doğruysa bir kez daha basın. Ya da bir Claude
+oturumuna "kısa liste onay: 1 3 5-9 12" yazın. Yazmadığınız numaralar kuyrukta kalır; hiçbir şey
+reddedilmez.
+
+**3. Ertesi gün: taslaklar hazır.** Yazar onayladıklarınızın sayfasını 6 dilde **taslak** olarak yazar.
+Taslak sitede görünmez. `STATUS.md`'de "Taslak sayfası hazır" satırında sayılarını görürsünüz.
+
+**4. Yayın (1 dakika): "yayınla" deyin.** Bir Claude oturumuna "şu taslakları yayınla: …" ya da
+"hazır taslakların hepsini yayınla" yazın. Sizin bu sözünüz olmadan hiçbir otel siteye çıkmaz.
+
+**5. Ayda bir (1 dakika): `STATUS.md`'de "Aylık yeniden kontrol" bölümüne bakın.** Sitesi açılmayan,
+kapandığını yazan ya da Expedia bağlantısı bozulan oteller orada listelenir. Hiçbiri otomatik olarak
+yayından kalkmaz; kaldırılsın isterseniz Claude'a söyleyin.
+
+Başka hiçbir şey yapmanız gerekmiyor. İsterseniz onay sayfasında kartlara tek tek de karar verebilirsiniz.
+
+### Sizin yerinize ne yapılıyor
+
+- **Otomatik ön eleme** (her gece): 14 kategoriden hiçbirine uymayanlar, niş özelliği kaynakta
+  kanıtlanamayanlar, yalnızca adında niş olanlar, kalıcı olarak kapananlar ve tekrar kayıtlar elenir;
+  kanıtı zayıf olanlar "araştırılsın"a gider. Her birinin tek cümlelik nedeni onay sayfasında yazar
+  ("Reddettiklerim" ve "Araştırılsın" sekmeleri); yanlış bulursanız oradan yine onaylayabilirsiniz.
+  Kurallar, 15 Kasım'da elle yapılan ön elemeyle 621 kararın 604'ünde aynı sonucu veriyor.
+- **Sıralama**: tamamı niş olanlar önce; Haiku'nun güveni; nişin otelin kendi sitesinde yazması;
+  sitede az oteli olan kategoriler önce; Expedia'da tam sayfası (komisyonlu bağlantı) olanlar önce.
+  Bir kategoriden en fazla 10 otel.
+- **Tekrar bulma**: aynı harita kaydı, aynı resmi site, aynı isim ya da çok yakın konum. Her otelin
+  adı değişse de değişmeyen bir iç kimliği var (`sn-…`). Bulunanlar: [`DUPLICATES.md`](../../data/pipeline/DUPLICATES.md).
+- **Aylık kontrol**: yayındaki her otelin resmi sitesi açılıyor mu, kapandığını yazıyor mu, Expedia
+  bağlantısı geçerli mi.
+- **Canlı yayın kontrolü** (her gece): son site değişikliği gerçekten canlıya çıktı mı; sonuç `STATUS.md`'nin ilk satırında.
 
 ## Günlük döngü
 
 | Saat (UTC) | Kim | Ne yapar | Dosya |
 |---|---|---|---|
-| Gece (fiilen ~07:30) | GitHub Actions, ücretsiz | Dünkü Haiku kararlarını kuyruğa işler, yeni aday bulur, ülke/konum doldurur, sıradaki 150 adayın sitesini ve Wikipedia metnini indirir, durum raporunu yazar | `.github/workflows/hotel-pipeline.yml` |
-| ~10:15 | Claude Routine "classifier" | Kararlarınızı kuyruğa yazar; indirilen siteleri Haiku alt ajanlarına okutur; niş olanları onay kuyruğuna koyar; onay sayfasını günceller; sitesi olmayan 20 aday için web araması yapar | `docs/pipeline/CLASSIFIER.md` |
-| Gün içinde | **Siz** | Onay kuyruğunda: Yayınla / Reddet / Araştırılsın / kategoriyi değiştir | onay kuyruğu sayfası |
-| ~12:45 | Claude Routine "writer" | Onayladıklarınızın sayfasını yazar (5 dil çevirisiyle), PR açar, birleştirir; Netlify yayınlar | `docs/pipeline/WRITER.md` |
+| Gece (fiilen ~07:30) | GitHub Actions, ücretsiz | Dünkü Haiku kararlarını kuyruğa işler, yeni aday bulur, ülke/konum doldurur, tekrarları bulur, ön elemeyi yapar, sıradaki 150 adayın sitesini ve Wikipedia metnini indirir, ayda bir yayındaki otelleri kontrol eder, canlı yayını kontrol eder, durum raporunu yazar | `.github/workflows/hotel-pipeline.yml` |
+| ~10:15 | Claude Routine "classifier" | Kararlarınızı kuyruğa yazar; indirilen siteleri Haiku alt ajanlarına okutur; ön elemeden geçenleri onay kuyruğuna koyar; onay sayfasını günceller; pazartesi kısa listeyi (Expedia kontrolüyle) hazırlar; sitesi olmayan 20 aday için web araması yapar | `docs/pipeline/CLASSIFIER.md` |
+| Haftada bir | **Siz** | Kısa listeden numaraları onaylarsınız; ertesi gün "yayınla" dersiniz | onay sayfası / Claude |
+| ~12:45 | Claude Routine "writer" | Onayladıklarınızın sayfasını 5 dil çevirisiyle **taslak** olarak yazar; siz "yayınla" deyince yayınlar | `docs/pipeline/WRITER.md` |
 
 ## Bir adayın yolu
 
 ```
 keşif (OSM, Wikidata)            new
-ucuz ön eleme                    verified / weak        (elenen: rejected, duplicate)
+ucuz ön eleme, tekrar bulma      verified / weak        (elenen: rejected, duplicate)
   sitesi yoksa: web araması      -> site bulunursa kanıt sırasına girer
 kanıt paketi (site + Wikipedia)  pipeline-data dalı
 Haiku sınıflandırma              classified             (niş değilse: rejected)
-SİZ: onay kuyruğu                approved / rejected / "araştırılsın" (kanıt yenilenir, tekrar gelir)
-yazar                            published              sayfa yayında
-                                 drafted                sayfa taslak; siz "yayınla" deyince açılır
+otomatik ön eleme                classified             (elenen: rejected, nedeniyle; zayıf kanıt: araştırılsın)
+haftalık kısa liste (40)         classified             sıralı, numaralı
+SİZ: numaralarla onay            approved / rejected / "araştırılsın" (kanıt yenilenir, tekrar gelir)
+yazar                            drafted                sayfa 6 dilde taslak; siz "yayınla" deyince açılır
+SİZ: "yayınla"                   published              sayfa yayında
                                  blocked                dürüstçe yazılamadı (nedeni onay sayfasında)
 ```
 
@@ -53,7 +98,7 @@ harita / Wikipedia bağlantıları.
 
 | Düğme | Sonuç |
 |---|---|
-| **Yayınla** | Ertesi gün yazar sayfayı yazar. Kategori yanlışsa önce "Kategoriyi değiştir" kutusundan seçin. |
+| **Yayınla** | Ertesi gün yazar sayfayı 6 dilde taslak olarak yazar; siz "yayınla" deyince siteye açılır. Kategori yanlışsa önce "Kategoriyi değiştir" kutusundan seçin. |
 | **Reddet** | Aday elenir, tekrar gelmez. |
 | **Araştırılsın** | O gece otelin sitesi ve Wikipedia metni yeniden indirilir, Haiku notunuzu sorusu olarak alıp tekrar okur, kart yeni gerekçeyle "Onay bekliyor"a döner. Okunacak kaynak bulunamazsa kartta bu yazar. |
 
@@ -103,7 +148,8 @@ Asıl risk olan eşzamanlı yazma, birleştirme betiğiyle çözüldü.
   `evidence_count`: kaç site indirilecek; `evidence_ids`: önce indirilecek aday kimlikleri;
   `skip_discover: true`: sadece kararları işle ve kanıt indir.
 - Taslakları yayınlamak: `node pipeline/publish-drafts.mjs --list`, sonra
-  `node pipeline/publish-drafts.mjs <slug> ...`, 5 dil çevirisi (taslakların çevirisi yoktur), derleme kontrolleri, PR.
+  `node pipeline/publish-drafts.mjs <slug> ...`, `node pipeline/gate-publish.mjs <slug> ...`, PR.
+  Yeni taslakların çevirisi hazırdır; eski taslaklar için betik eksik çevirileri listeler.
   Bunu bir Claude oturumuna "şu taslakları yayınla" demeniz yeterli.
 
 ## Betikler (`pipeline/`)
@@ -117,4 +163,10 @@ Asıl risk olan eşzamanlı yazma, birleştirme betiğiyle çözüldü.
 | `needs-website.mjs`, `apply-websites.mjs` | Sitesi olmayan adaylar için web araması listesi ve sonucun denetimi |
 | `approved.mjs`, `writer-result.mjs`, `publish-drafts.mjs` | Yazarın iş listesi, sonucu, taslağı yayına alma |
 | `merge-queue.mjs` | Eşzamanlı kuyruk değişikliklerini birleştirme |
+| `dedupe.mjs`, `identity.mjs` | Değişmeyen iç kimlik (`sn-…`) ve tekrar bulma; sonuç `DUPLICATES.md` |
+| `prescreen.mjs`, `screen.mjs` | Otomatik ön eleme ve sıralama kuralları (CLASSIFIER.md, "Pre-screen rules") |
+| `shortlist.mjs`, `shortlist-approve.mjs` | Haftalık 40'lık liste; numaralarla onay |
+| `expedia-check.mjs` | Adayların tam Expedia sayfası (yalnızca arama sonucuyla doğrulanır, adres uydurulmaz) |
+| `recheck.mjs` | Yayındaki otellerin aylık kontrolü (hiçbir şeyi yayından kaldırmaz) |
+| `deploy-check.mjs` | Son site değişikliği canlıya çıktı mı |
 | `status.mjs` | `STATUS.md` |
