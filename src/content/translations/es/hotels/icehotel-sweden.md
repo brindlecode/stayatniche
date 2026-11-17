@@ -1,10 +1,10 @@
 ---
 source: icehotel-sweden
 destination: "Jukkasjärvi, Laponia sueca"
-description: "El hotel de hielo original, reconstruido por completo cada invierno desde 1990 con hielo del río Torne helado. En verano, ICEHOTEL 365 sigue abierto con 20 suites que se mantienen a -5 °C todo el año, lo que lo convierte en un hotel de hielo abierto todo el año y en uno de los alojamientos de clima frío más conocidos del mundo."
+description: "El hotel de hielo original, reconstruido por completo cada invierno con hielo del río Torne y abierto todos los años desde 1989. En verano, ICEHOTEL 365 sigue abierto con 18 suites artísticas y de lujo que se mantienen a unos -5 °C todo el año; el hotel lo presenta como el primer hotel de hielo abierto todo el año del mundo."
 highlights:
-  - "El hotel de hielo original, en funcionamiento desde 1990 y uno de los más conocidos del mundo"
-  - "ICEHOTEL 365, abierto todo el año con 20 suites artísticas refrigeradas"
+  - "El hotel de hielo original, abierto todos los años desde 1989"
+  - "ICEHOTEL 365, abierto todo el año con 18 suites artísticas y de lujo, refrigeradas con energía solar"
   - "Hotel de invierno reconstruido cada año por artistas internacionales con hielo y nieve"
   - "Cada suite artística es una colaboración única entre artistas y arquitectura"
   - "Bar de hielo que sirve cócteles en vasos de hielo tallado a -5 °C"
@@ -50,17 +50,17 @@ nearbyAttractions:
   - name: "Parque Nacional de Abisko, lugar privilegiado para ver auroras"
     distance: "80 km"
 seo:
-  metaTitle: "ICEHOTEL 365: el hotel de hielo original de Laponia | StayAtNiche"
-  metaDescription: "El hotel de hielo original, reconstruido cada invierno desde 1990 en la Laponia sueca: suites artísticas a -5 °C y auroras. Desde 500 US$ la noche."
+  metaTitle: "ICEHOTEL 365: hotel de hielo original, Laponia | StayAtNiche"
+  metaDescription: "El hotel de hielo original, reconstruido cada invierno desde 1989 en la Laponia sueca: suites artísticas a -5 °C y auroras. Desde 500 US$ la noche."
 niche_feature: "Habitaciones de hielo y suites de arte en ICEHOTEL Winter (dic.-abr.), además de las suites de arte y deluxe de ICEHOTEL 365, abiertas todo el año y hechas de hielo y nieve (18 suites, -5 °C); las habitaciones con calefacción y las cabañas, en edificios aparte, son alojamientos convencionales."
 ---
 
 Todo empieza con el río. El Torne, que marca la frontera entre Suecia y Finlandia en su descenso hacia el golfo de Botnia, se congela cada noviembre hasta más de un metro de profundidad: una masa de hielo excepcionalmente puro y cristalino especialmente adecuado para fines arquitectónicos. De este río extrajeron en 1989 los primeros bloques Yngve Bergqvist y un equipo de artistas japoneses, y con ellos construyeron, de forma experimental y sin ninguna certeza de éxito, el primer hotel del mundo hecho íntegramente de hielo.
 
-Más de tres décadas después, el ICEHOTEL sigue funcionando en Jukkasjärvi, un pueblo de unos 900 habitantes en el círculo polar ártico, en la Laponia sueca, y nunca ha sido tan extraordinario como hoy.
+Más de tres décadas después, el ICEHOTEL sigue funcionando en Jukkasjärvi, un pueblo de unos 900 habitantes en el círculo polar ártico, en la Laponia sueca.
 
 El hotel de invierno, reconstruido por completo cada año entre noviembre y diciembre, es una colaboración entre el equipo del ICEHOTEL y un elenco internacional y cambiante de artistas, escultores y diseñadores que compiten por el derecho a crear una suite. Cada artista seleccionado recibe un bloque de hielo y nieve del tamaño de una habitación y libertad total para hacer con él lo que quiera. El resultado, que los visitantes recorren en el frío ártico con parkas y botas térmicas prestadas, es una de las exposiciones de arte anuales más insólitas del mundo: estancias talladas con motivos de la mitología sami, de la biología de las profundidades marinas, de la arquitectura, del cine o del puro vocabulario formal del espacio vacío y de la luz que atraviesa el hielo translúcido.
 
-ICEHOTEL 365, el anexo refrigerado que abre todo el año, mantiene veinte de las suites más queridas a -5 °C constantes durante los meses de verano, gracias a energía solar producida en la zona, en una operación diseñada para ser realmente neutra en carbono. Eso significa que la experiencia sigue disponible incluso cuando el Torne es un río estival caudaloso y el sol de medianoche recorre el cielo durante veintidós horas, un contrapunto singularmente mágico al hielo del interior.
+ICEHOTEL 365, el anexo que abre todo el año, tiene 18 suites artísticas y de lujo, un bar de hielo y una sala de experiencias, todo hecho con hielo del río Torne y mantenido a unos -5 °C, incluso en verano, con ayuda de paneles solares. El hotel lo presenta como el primer hotel de hielo abierto todo el año del mundo; se inauguró en noviembre de 2016. Eso significa que la experiencia sigue disponible incluso cuando el Torne es un río estival caudaloso y el sol de medianoche recorre el cielo, un contrapunto singularmente mágico al hielo del interior.
 
 Dormir en las habitaciones de hielo es una experiencia real de frío: no peligrosa, pero presente. Los huéspedes reciben unas instrucciones detalladas y sacos de dormir de altas prestaciones que mantienen la temperatura corporal hasta -25 °C, y duermen sobre camas de hielo cubiertas con pieles de reno, en estancias que se mantienen estables a -5 °C durante toda la noche. La quietud de una habitación de hielo a las tres de la madrugada en enero, mientras la aurora boreal pinta el cielo y el río está congelado hasta el lecho, no se parece a ningún otro silencio. Es el silencio del invierno profundo, de un paisaje en paz con su propia naturaleza, y es la razón por la que la gente vuelve aquí, año tras año, a dormir en un edificio que se derretirá en primavera.

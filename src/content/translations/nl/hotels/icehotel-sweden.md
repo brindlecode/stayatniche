@@ -1,10 +1,10 @@
 ---
 source: icehotel-sweden
 destination: Jukkasjärvi, Zweeds Lapland
-description: "Het originele ijshotel, sinds 1990 elke winter volledig opnieuw opgebouwd uit bevroren ijs van de Torne. In de zomer blijft ICEHOTEL 365 open met 20 suites die het hele jaar op -5 °C worden gehouden. Dat maakt het een ijshotel dat het hele jaar open is en een van de bekendste verblijven in de kou ter wereld."
+description: "Het originele ijshotel, elke winter volledig opnieuw opgebouwd uit ijs van de Torne en sinds 1989 elk jaar open. In de zomer blijft ICEHOTEL 365 open met 18 kunst- en deluxesuites die het hele jaar op ongeveer -5 °C worden gehouden; het hotel noemt het het eerste ijshotel ter wereld dat het hele jaar open is."
 highlights:
-  - Het originele ijshotel, open sinds 1990 en een van de bekendste ter wereld
-  - ICEHOTEL 365 het hele jaar open, met 20 gekoelde kunstsuites
+  - "Het originele ijshotel, sinds 1989 elk jaar open"
+  - "ICEHOTEL 365 het hele jaar open, met 18 kunst- en deluxesuites, gekoeld met zonne-energie"
   - Het winterhotel wordt elk jaar opnieuw gebouwd door internationale kunstenaars, in ijs en sneeuw
   - Elke kunstsuite is een unieke samenwerking tussen kunstenaars en architectuur
   - IJsbar met cocktails in glazen van ijs bij -5 °C
@@ -51,16 +51,16 @@ nearbyAttractions:
     distance: 80 km
 seo:
   metaTitle: "ICEHOTEL Zweden: slapen in het ijshotel | StayAtNiche"
-  metaDescription: "Het originele ijshotel, sinds 1990 elke winter opgebouwd uit ijs van de Torne. Kunstsuites op -5 °C, noorderlicht en middernachtszon, vanaf $ 500."
+  metaDescription: "Het originele ijshotel, sinds 1989 elke winter opgebouwd uit ijs van de Torne. Kunstsuites op -5 °C, noorderlicht en middernachtszon, vanaf $ 500."
 niche_feature: "IJskamers en kunstsuites in ICEHOTEL Winter (december tot april), plus ICEHOTEL 365 met het hele jaar door kunst- en deluxe suites van ijs en sneeuw (18 suites, -5 °C); de warme kamers en hutten in aparte gebouwen zijn gewone accommodatie."
 ---
 
 Alles begint bij de rivier. De Torne, die op weg naar de Botnische Golf de grens tussen Zweden en Finland vormt, bevriest elke november tot meer dan een meter diep: een massa uitzonderlijk zuiver, kristalhelder ijs die zich uitstekend leent voor architectonische doeleinden. Uit deze rivier haalden Yngve Bergqvist en een team Japanse kunstenaars in 1989 de eerste blokken, en daarvan bouwden ze – als experiment en zonder enige zekerheid dat het zou lukken – het eerste hotel ter wereld dat volledig van ijs was gemaakt.
 
-Ruim drie decennia later is ICEHOTEL nog altijd in bedrijf in Jukkasjärvi, een dorp van zo'n 900 inwoners op de poolcirkel in Zweeds Lapland, en het is nooit uitzonderlijker geweest dan nu.
+Ruim drie decennia later is ICEHOTEL nog altijd in bedrijf in Jukkasjärvi, een dorp van zo'n 900 inwoners op de poolcirkel in Zweeds Lapland.
 
 Het winterhotel, dat elk jaar tussen november en december volledig opnieuw wordt gebouwd, is een samenwerking tussen het team van ICEHOTEL en een wisselende internationale groep kunstenaars, beeldhouwers en ontwerpers die meedingen naar het recht om een suite te maken. Elke gekozen kunstenaar krijgt een kamergroot blok ijs en sneeuw en de vrijheid om ermee te doen wat hij of zij wil. Het resultaat, waar bezoekers in de arctische kou doorheen lopen in geleende parka's en thermolaarzen, is een van de meest ongewone jaarlijkse kunsttentoonstellingen ter wereld: kamers met motieven uit de Samische mythologie, de biologie van de diepzee, de architectuur en de film, en uit de pure vormentaal van negatieve ruimte en licht dat door doorschijnend ijs valt.
 
-ICEHOTEL 365, de gekoelde aanbouw die het hele jaar open is, houdt twintig van de geliefdste suites de hele zomer op een constante -5 °C, aangedreven door lokaal opgewekte zonne-energie, in een opzet die vanaf het ontwerp werkelijk klimaatneutraal is. Zo kun je de ervaring ook beleven als de Torne een kolkende zomerrivier is en de middernachtszon tweeëntwintig uur per dag rond de hemel draait – een wonderlijk magisch contrast met het ijs binnen.
+ICEHOTEL 365, de aanbouw die het hele jaar open is, heeft 18 kunst- en deluxesuites, een ijsbar en een belevenisruimte, allemaal gemaakt van ijs uit de Torne en met behulp van zonnepanelen ook in de zomer op ongeveer -5 °C gehouden. Het hotel noemt het het eerste ijshotel ter wereld dat het hele jaar open is; het opende voor het eerst in november 2016. Zo kun je de ervaring ook beleven als de Torne een kolkende zomerrivier is en de middernachtszon rond de hemel draait – een wonderlijk magisch contrast met het ijs binnen.
 
 Slapen in de ijskamers is een echte ervaring van kou: niet gevaarlijk, maar wel aanwezig. Gasten krijgen een grondige uitleg, hoogwaardige slaapzakken die de lichaamstemperatuur tot -25 °C op peil houden, en slapen op met rendiervellen bedekte ijsbedden in kamers die de hele nacht stabiel op -5 °C blijven. De stilte van een ijskamer om 3 uur 's nachts in januari, als het noorderlicht de hemel beschildert en de rivier eronder tot op de bodem is bevroren, is met geen andere stilte te vergelijken. Het is de stilte van de diepe winter, van een landschap dat echt in vrede is met zijn eigen aard, en het is de reden dat mensen hier jaar na jaar terugkomen om te slapen in een gebouw dat in de lente zal smelten.
