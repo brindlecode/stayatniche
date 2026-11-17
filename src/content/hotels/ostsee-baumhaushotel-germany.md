@@ -3,7 +3,7 @@ name: "Ostsee Baumhaushotel"
 category: treehouse-hotels
 destination: "Wangels, Schleswig-Holstein"
 country: "Germany"
-description: "A boutique treehouse hotel of seven lodges and seven lofts at canopy height in East Holstein, with a nature spa of sauna and outdoor whirlpool, a few kilometres from the Baltic Sea."
+description: "A boutique treehouse hotel of seven lodges and seven lofts in East Holstein: free-standing houses on stilts about five metres above the ground, with a nature spa of sauna and outdoor whirlpool, a few kilometres from the Baltic Sea."
 priceRange: "Rates vary"
 highlights:
   - "Seven treehouse lodges and seven treehouse lofts, built to be used all year"
@@ -37,7 +37,7 @@ The Ostsee Baumhaushotel stands at Alte Landstraße 16 in Wangels, in the Osthol
 
 ## The treehouses
 
-There are seven treehouse lodges and seven treehouse lofts. The hotel stresses that they are not classic rustic huts and not classic hotel rooms. They are modern, sustainably built houses at the height of the treetops, in clean Nordic-style design with a lot of wood and generous terraces. Each is heated and air-conditioned and usable all year round.
+There are seven treehouse lodges and seven treehouse lofts. They are free-standing houses built on stilts, standing about five metres above the ground rather than in a tree. The hotel stresses that they are not classic rustic huts and not classic hotel rooms. They are modern, sustainably built houses at the height of the treetops, in clean Nordic-style design with a lot of wood and generous terraces. Each is heated and air-conditioned and usable all year round.
 
 The two types differ in character. The Baumhaus Loft is a design treehouse with a panoramic view, and the Baumhaus Lodge is a cosy lodge aimed at a close-to-nature stay.
 
