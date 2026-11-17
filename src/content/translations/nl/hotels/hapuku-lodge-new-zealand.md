@@ -1,9 +1,9 @@
 ---
 source: hapuku-lodge-new-zealand
 destination: "Kaikōura"
-description: "Vijf boomhutsuites 8 meter boven een inheems manukabosje op een werkende hertenboerderij, met in het westen de besneeuwde Kaikōura Ranges en in het oosten de Stille Oceaan. Een van de weinige plekken in Nieuw-Zeeland waar je 's ochtends vanaf een boot potvissen ziet en 's avonds hert van de eigen boerderij eet."
+description: "Boomhutten 10 meter hoog in het bladerdak van inheemse kānuka- en pūriribomen op een werkende hertenboerderij, met in het westen de besneeuwde Kaikōura Ranges en in het oosten de Stille Oceaan. Een van de weinige plekken in Nieuw-Zeeland waar je 's ochtends vanaf een boot potvissen ziet en 's avonds hert van de eigen boerderij eet."
 highlights:
-  - "Boomhutten 8 meter boven een inheems manukabosje"
+  - "Boomhutten 10 m hoog in het bladerdak van inheemse kānuka- en pūriribomen"
   - "Panoramisch uitzicht op de Kaikōura Ranges en de Stille Oceaan"
   - "Eigen hertenboerderij en biologische moestuin"
   - "Walvissen kijken, zwemmen met dolfijnen en zeehondenkolonies in de buurt"
@@ -49,19 +49,19 @@ nearbyAttractions:
     distance: "25 km"
 seo:
   metaTitle: "Hapuku Lodge: boomhutten in Nieuw-Zeeland | StayAtNiche"
-  metaDescription: "Luxe boomhutten 8 meter boven een manukabosje, met uitzicht op de Kaikōura Ranges en de Stille Oceaan. Hapuku Lodge is de mooiste boomhut van Nieuw-Zeeland."
+  metaDescription: "Boomhutten 10 meter hoog in het bladerdak van kānuka- en pūriribomen, met uitzicht op de Kaikōura Ranges en de Stille Oceaan: de boomhutten van Hapuku Lodge in Kaikōura."
 niche_feature: "Tree Houses (met één slaapkamer, en een familieboomhut met twee verdiepingen) op 10 m hoogte in het bladerdak van inheemse kanuka- en puriribomen; de lodgesuites en het Olive House zijn gewone kamers. De officiële site vertelt niet hoe de boomhutten zijn gebouwd."
 ---
 
-Het uitzicht vanaf het terras van een boomhut van Hapuku is bijna oneerlijk mooi. In het westen rijzen de Kaikōura Ranges steil op uit de vlakke kustvlakte, met sneeuw op de bovenste kammen gedurende een groot deel van het jaar. In het oosten strekt de Stille Oceaan zich ononderbroken uit tot aan de horizon. Onder je, acht meter lager, wiegen inheemse manukabomen in de zeebries, hun zilvergroene blaadjes vangen het middaglicht. Het is het soort uitzicht waarbij je je afvraagt waarom je ooit op de begane grond slaapt.
+Het uitzicht vanaf het terras van een boomhut van Hapuku is bijna oneerlijk mooi. In het westen rijzen de Kaikōura Ranges steil op uit de vlakke kustvlakte, met sneeuw op de bovenste kammen gedurende een groot deel van het jaar. In het oosten strekt de Stille Oceaan zich ononderbroken uit tot aan de horizon. Om je heen wiegt het bladerdak van inheemse kānuka- en pūriribomen in de zeebries, de bladeren vangen het middaglicht. Het is het soort uitzicht waarbij je je afvraagt waarom je ooit op de begane grond slaapt.
 
-Hapuku Lodge is sinds de opening in 2003 een familieproject, gebouwd op een werkende hertenboerderij die al generaties in dezelfde familie is. De vijf boomhutten kwamen er later bij en werden het middelpunt van wat nu een van de meest bewonderde boetiekadressen van Nieuw-Zeeland is. Dat familie-eigenaarschap zie je in elk detail, van het zorgvuldig gekozen meubilair tot de moestuin waar de chef elke ochtend sla plukt.
+Hapuku Lodge is sinds de opening in 2003 een familieproject, gebouwd op een werkende hertenboerderij die al generaties in dezelfde familie is. De boomhutten kwamen er later bij en werden het middelpunt van wat nu een van de meest bewonderde boetiekadressen van Nieuw-Zeeland is. Dat familie-eigenaarschap zie je in elk detail, van het zorgvuldig gekozen meubilair tot de moestuin waar de chef elke ochtend sla plukt.
 
 **De boomhutten**
 
-Elk van de vijf boomhutten is een royale, doordacht ingerichte suite. De architectuur is strak en eigentijds – veel glas, natuurlijk hout en frisse witte lakens – maar het echte ontwerpstatement is altijd het uitzicht. Ramen van vloer tot plafond lijsten bergen en oceaan in gelijke mate in, en het eigen balkon ligt precies zo dat je van allebei optimaal geniet. Vloerverwarming houdt de kamers warm, ook als de wind van de Stille Oceaan binnen giert, en de badkamers hebben volledig hotelniveau, niet de bijzaak die je soms bij alternatieve accommodatie aantreft.
+De boomhutten zijn royale, doordacht ingerichte suites, aangeboden als One-Bedroom Tree House, 10 meter hoog in het bladerdak, en als Two Storey Family Tree House. De architectuur is strak en eigentijds – veel glas, natuurlijk hout en frisse witte lakens – maar het echte ontwerpstatement is altijd het uitzicht. Ramen van vloer tot plafond lijsten bergen en oceaan in gelijke mate in, en het eigen balkon ligt precies zo dat je van allebei optimaal geniet. Vloerverwarming houdt de kamers warm, ook als de wind van de Stille Oceaan binnen giert, en de badkamers hebben volledig hotelniveau, niet de bijzaak die je soms bij alternatieve accommodatie aantreft.
 
-De boomhutten zijn voor twee personen en daarmee ideaal voor stellen, al kunnen gezinnen ze combineren met de kamers in de hoofdlodge ernaast.
+Het One-Bedroom Tree House is geschikt voor stellen, met een kingsizebed of twee losse bedden, terwijl het Two Storey Family Tree House twee slaapkamers met eigen badkamer heeft, de Upper en de Lower Branch, verbonden door een binnentrap. De kamers van de lodge zijn los van de boomhutten.
 
 **De dieren van Kaikōura**
 
