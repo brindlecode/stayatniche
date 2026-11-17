@@ -166,6 +166,7 @@ describe.skipIf(!existsSync(DIST))('built site', () => {
         const pre = p.html.match(/<link rel="preload" as="image"[^>]*>/)?.[0];
         if (pre && attr(pre, 'href') !== attr(first, 'src')) bad.push(`${p.path}: preload ${attr(pre, 'href')} is not the first image ${attr(first, 'src')}`);
         if (pre && (attr(pre, 'imagesrcset') ?? '') !== (attr(first, 'srcset') ?? '')) bad.push(`${p.path}: preload srcset differs from the image`);
+        if (pre && attr(pre, 'imagesrcset') && attr(pre, 'imagesizes') !== attr(first, 'sizes')) bad.push(`${p.path}: preload sizes differ from the image`);
       }
       expect(bad, report(bad)).toEqual([]);
     });

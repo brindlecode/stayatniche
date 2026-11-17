@@ -146,6 +146,16 @@ export const SIZES = {
   card: '(min-width: 1024px) 400px, (min-width: 640px) 50vw, 100vw',
   /** Full-bleed heroes. */
   full: '100vw',
+  /*
+   * Heroes drawn with object-cover in a box taller than the photo's shape on phones: the photo is
+   * scaled to the box HEIGHT, so it needs more pixels than 100vw (at least height × aspect ratio).
+   */
+  /** Home hero: min-height 640px / 720px (sm) / 88vh (lg), photo 3:2. */
+  homeHero: '(min-width: 1024px) max(100vw, 132vh), (min-width: 640px) max(100vw, 1080px), 960px',
+  /** Destination hero: 288px / 460px (sm) tall, photos up to ~16:9. */
+  destHero: '(min-width: 640px) max(100vw, 820px), max(100vw, 512px)',
+  /** Category hero: height follows its text (tall on phones), so ask for a large file. */
+  catHero: 'max(100vw, 1280px)',
   /** Wide image inside the page container (max-w-7xl). */
   wide: '(min-width: 1280px) 1216px, 100vw',
   /** Half the container on desktop. */
@@ -160,6 +170,9 @@ const RANGE: Record<string, [number, number]> = {
   [SIZES.thumb]: [160, 480],
   [SIZES.half]: [480, Infinity],
   [SIZES.full]: [480, Infinity],
+  [SIZES.homeHero]: [480, Infinity],
+  [SIZES.destHero]: [480, Infinity],
+  [SIZES.catHero]: [480, Infinity],
   [SIZES.wide]: [480, Infinity],
 };
 

@@ -41,7 +41,7 @@ const metaDesc  = seo.metaDescription || (L.locale === 'en' ? category.data.meta
 const heroImage  = resolveImage(category.data.heroImage || category.data.coverImage, { category: category.slug });
 const heroSrcLg  = sizedImage(heroImage, 1600);
 const heroOgImg  = sizedImage(heroImage, 1200);
-const heroImg    = imgAttrs(heroImage, SIZES.full, [1600, 900]);
+const heroImg    = imgAttrs(heroImage, SIZES.catHero, [1600, 900]);
 
 const breadcrumbJsonLd = {
   "@context": "https://schema.org",
@@ -70,7 +70,7 @@ const itemListJsonLd = categoryHotels.length > 0 ? {
 } : null;
 ---
 
-<BaseLayout title={metaTitle} description={metaDesc} image={heroOgImg} heroImage={heroSrcLg} heroSrcset={heroImg.srcset} heroSizes={SIZES.full} alternates={await entryAlternates('categories', 'categories', category.slug)} noIndex={categoryHotels.length < MIN_INDEXABLE}>
+<BaseLayout title={metaTitle} description={metaDesc} image={heroOgImg} heroImage={heroSrcLg} heroSrcset={heroImg.srcset} heroSizes={SIZES.catHero} alternates={await entryAlternates('categories', 'categories', category.slug)} noIndex={categoryHotels.length < MIN_INDEXABLE}>
 
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonLd)} />
   {itemListJsonLd && <script type="application/ld+json" set:html={JSON.stringify(itemListJsonLd)} />}

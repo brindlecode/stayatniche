@@ -47,7 +47,7 @@ const heroImage = resolveImage(dest.data.heroImage || dest.data.coverImage, {
 });
 const heroImageLg = sizedImage(heroImage, 1600);
 const heroImageOg = sizedImage(heroImage, 1200);
-const heroImg = imgAttrs(heroImage, SIZES.full, [1600, 900]);
+const heroImg = imgAttrs(heroImage, SIZES.destHero, [1600, 900]);
 
 const destJsonLd = {
   "@context": "https://schema.org",
@@ -70,7 +70,7 @@ const destJsonLd = {
 };
 ---
 
-<BaseLayout title={metaTitle} description={metaDesc} image={heroImageOg} heroImage={heroImageLg} heroSrcset={heroImg.srcset} heroSizes={SIZES.full} type="article" alternates={await entryAlternates('destinations', 'destinations', dest.slug)}>
+<BaseLayout title={metaTitle} description={metaDesc} image={heroImageOg} heroImage={heroImageLg} heroSrcset={heroImg.srcset} heroSizes={SIZES.destHero} type="article" alternates={await entryAlternates('destinations', 'destinations', dest.slug)}>
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonLd)} />
   <script type="application/ld+json" set:html={JSON.stringify(destJsonLd)} />
 

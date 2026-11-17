@@ -35,7 +35,7 @@ const features = cats.filter(c => ownPhoto(c.data.coverImage, c.slug)).slice(0, 
 }));
 const heroPhoto = ownPhoto('/images/hero.webp') ?? ownPhoto(catsAll.find(c => c.slug === 'treehouse-hotels')?.data.coverImage, 'treehouse-hotels');
 
-const heroImg = heroPhoto ? imgAttrs(heroPhoto, SIZES.full, [1600, 1067]) : null;
+const heroImg = heroPhoto ? imgAttrs(heroPhoto, SIZES.homeHero, [1600, 1067]) : null;
 
 const bands = [
   { label: H.bands.low.label, q: 'lt300', note: H.bands.low.note, test: (p: number) => p < 300 },
@@ -56,7 +56,7 @@ const fmt = (d: Date | string) => L.date(d);
   description={H.metaDescription}
   heroImage={heroPhoto ?? undefined}
   heroSrcset={heroImg?.srcset}
-  heroSizes={SIZES.full}
+  heroSizes={SIZES.homeHero}
   alternates={allAlternates('home')}
 >
 
