@@ -15,7 +15,7 @@ mustSee:
   - "Volo in mongolfiera all’alba sulla valle di Göreme"
   - "Il Museo all’aperto di Göreme, con chiese rupestri affrescate in epoca bizantina"
   - "La città sotterranea di Derinkuyu, un labirinto di 18 piani sotto terra"
-  - "La valle di Devrent (valle dell’Immaginazione), con i camini delle fate più spettacolari"
+  - "La valle di Devrent (valle dell’Immaginazione), con camini delle fate spettacolari"
   - "Il trekking nella gola della valle di Ihlara, tra pareti di canyon punteggiate di chiese scavate"
   - "Il castello di Uçhisar, la fortezza rupestre più alta della regione, con vista panoramica"
   - "I laboratori di ceramica di Avanos, antica tradizione della terracotta locale"
@@ -28,14 +28,14 @@ travelTips:
   - "Il vino locale, nato da suoli vulcanici, è davvero eccellente: prova le etichette Kavaklıdere e Kocabağ."
 seo:
   metaTitle: "Cappadocia: hotel in grotta e mongolfiere | StayAtNiche"
-  metaDescription: "Tutto sulla Cappadocia: hotel in grotta, consigli per il volo in mongolfiera, città sotterranee e le valli più belle da esplorare. La guida completa."
+  metaDescription: "Tutto sulla Cappadocia: hotel in grotta, consigli per il volo in mongolfiera, città sotterranee e valli da esplorare. La guida completa."
 ---
 
 La Cappadocia è uno di quei luoghi che dal vivo sono più belli che in foto. Capita di rado. Il morbido tufo vulcanico della regione, depositato milioni di anni fa dalle eruzioni dei monti Erciyes e Hasan, è stato scolpito da vento e acqua in formazioni che sembrano prese in prestito da un sogno: guglie affusolate chiamate camini delle fate, altipiani modellati e valli labirintiche striate di rosa, crema e ruggine. Nessuna fotografia ne restituisce la scala, né il silenzio.
 
 La Cappadocia è la capitale degli alloggi in grotta. I primi cristiani cominciarono a scavare questo paesaggio a partire dal IV secolo, ricavandone monasteri, chiese e intere città sotterranee in cui ripararsi dalle incursioni arabe. Oggi quelle stesse stanze, e le strutture rupestri costruite su di esse, sono diventate alcuni degli hotel più singolari del mondo. Le migliori suite in grotta uniscono le pareti di pietra e i soffitti a volta originali a riscaldamento a pavimento, docce a pioggia e terrazze private affacciate su valli che al tramonto si accendono d’ambra. Non è un alloggio da curiosità. È qualcosa di davvero straordinario.
 
-Ogni mattina, quando le condizioni lo permettono, centinaia di mongolfiere si alzano dalle valli attorno a Göreme e Uçhisar in quello che è forse lo spettacolo aereo più emozionante della Terra. Dall’alto, i camini delle fate proiettano lunghe ombre su un paesaggio che non somiglia a nessun altro. I voli durano in genere dai 45 ai 75 minuti e richiedono di essere prelevati prima dell’alba, ma la ricompensa è un’ora sospesi nel silenzio sopra una delle grandi meraviglie geologiche del mondo. Per la primavera e l’autunno prenota con due o tre mesi di anticipo, altrimenti non troverai posto.
+Ogni mattina, quando le condizioni lo permettono, centinaia di mongolfiere si alzano dalle valli attorno a Göreme e Uçhisar in quello che è forse uno degli spettacoli aerei più emozionanti della Terra. Dall’alto, i camini delle fate proiettano lunghe ombre su un paesaggio che non somiglia a nessun altro. I voli durano in genere dai 45 ai 75 minuti e richiedono di essere prelevati prima dell’alba, ma la ricompensa è un’ora sospesi nel silenzio sopra una delle grandi meraviglie geologiche del mondo. Per la primavera e l’autunno prenota con due o tre mesi di anticipo, altrimenti non troverai posto.
 
 Le città sotterranee della regione sono tra le opere d’ingegneria più ambiziose della storia. Derinkuyu scende per 18 piani sotto la superficie e poteva ospitare 20.000 persone, con tanto di stalle, cantine per il vino, chiese e pozzi di ventilazione. Kaymakli è più piccola ma più suggestiva, con bassi cunicoli che collegano magazzini e abitazioni in un’oscurità quasi totale.
 

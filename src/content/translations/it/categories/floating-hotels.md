@@ -2,12 +2,12 @@
 source: floating-hotels
 title: Hotel galleggianti
 tagline: "Dove finisce la terra, comincia il lusso"
-description: "Scivola lungo i corsi d’acqua più belli del mondo a bordo di hotel galleggianti di lusso, oppure ormeggia sui lungofiume storici delle città in houseboat firmate da architetti. Dalle strutture sull’acqua delle Maldive alle imbarcazioni dei fiordi norvegesi fino alle giunche della baia di Ha Long in Vietnam, questi rifugi acquatici offrono uno sguardo sul viaggio che la terraferma non potrà mai eguagliare."
+description: "Scivola lungo alcuni dei corsi d’acqua più belli del mondo a bordo di hotel galleggianti di lusso, oppure ormeggia sui lungofiume storici delle città in houseboat firmate da architetti. Dalle strutture sull’acqua delle Maldive alle imbarcazioni dei fiordi norvegesi fino alle giunche della baia di Ha Long in Vietnam, questi rifugi acquatici offrono uno sguardo sul viaggio che la terraferma non potrà mai eguagliare."
 stats:
   topDestination: "Maldive"
 seo:
   metaTitle: "Hotel galleggianti e houseboat di lusso | StayAtNiche"
-  metaDescription: "Dormi sull’acqua negli hotel galleggianti e nelle houseboat di lusso più belle: Maldive, Bora Bora, baia di Ha Long, fiordi norvegesi e non solo."
+  metaDescription: "Dormi sull’acqua in hotel galleggianti e houseboat di lusso: Maldive, Bora Bora, baia di Ha Long, fiordi norvegesi e non solo. Scopri come scegliere."
 ---
 
 L’acqua riflette la luce come nessuna superficie sulla terraferma. La rimbalza, cambia con l’inclinazione del sole e riempie la stanza di un’energia luminosa e sempre diversa che nessuna struttura a terra può replicare. È questo il primo argomento a favore degli hotel galleggianti, ed è convincente ancora prima di pensare al panorama.

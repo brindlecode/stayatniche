@@ -44,9 +44,9 @@ tags:
 prosAndCons:
   pros:
     - "Spectacular dual views of mountains and ocean from the same balcony"
-    - "Among the best luxury treehouse experiences in the Southern Hemisphere"
+    - "A well-regarded luxury treehouse experience in the Southern Hemisphere"
     - "Outstanding food made from genuinely local ingredients"
-    - "Kaikōura offers some of the world's best accessible marine wildlife"
+    - "Kaikōura offers easily accessible marine wildlife encounters"
     - "Warm, personal service from a family-run operation"
   cons:
     - "Kaikōura is a 2.5-hour drive from Christchurch"

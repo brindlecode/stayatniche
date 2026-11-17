@@ -28,7 +28,7 @@ travelTips:
   - "Een reisverzekering die duiken dekt, is voor de meeste bezoekers onmisbaar."
 seo:
   metaTitle: "Malediven reisgids: villa's en atollen | StayAtNiche"
-  metaDescription: "Ontdek de Malediven voorbij de folder: overwaterbungalows, privéatollen, bioluminescente stranden en de beste duikstekken ter wereld. Je complete reisgids."
+  metaDescription: "Ontdek de Malediven voorbij de folder: overwaterbungalows, privéatollen, bioluminescente stranden en befaamde duikstekken. Je complete reisgids."
 ---
 
 De beelden kloppen allemaal. Turquoise water dat zo helder is dat het nep lijkt, villa's op palen boven koraaltuinen, zand dat piept onder je voeten. Maar wat foto's niet vastleggen, is de stilte. Hier, 800 kilometer ten zuidwesten van India, strekt de Indische Oceaan zich uit tot aan elke horizon en is het enige geluid dat van water. Het is een bijzonder soort stilte die je niet vergeet.

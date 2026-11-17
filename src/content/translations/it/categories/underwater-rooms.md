@@ -2,12 +2,12 @@
 source: underwater-rooms
 title: Camere subacquee
 tagline: "Svegliati sul fondo dell’oceano"
-description: "L’esperienza di alloggio più rara della Terra: le camere d’hotel subacquee ti portano in un mondo di barriere coralline, pesci tropicali e acqua di un blu luminoso. Con meno di venti vere suite sottomarine al mondo, queste stanze straordinarie alle Maldive e altrove rappresentano la frontiera estrema del viaggio di nicchia."
+description: "Un’esperienza di alloggio rara: le camere d’hotel subacquee ti portano in un mondo di barriere coralline, pesci tropicali e acqua di un blu luminoso. Con meno di venti vere suite sottomarine al mondo, queste stanze straordinarie alle Maldive e altrove spingono più in là la frontiera del viaggio di nicchia."
 stats:
   topDestination: "Maldive"
 seo:
   metaTitle: "Camere subacquee: dormire sott’acqua | StayAtNiche"
-  metaDescription: "Le camere d’hotel subacquee più esclusive del mondo, dalle Maldive in poi: dormi circondato da coralli e pesci tropicali in suite di lusso sott’acqua."
+  metaDescription: "Camere d’hotel subacquee esclusive, dalle Maldive in poi: dormi circondato da coralli e pesci tropicali in suite di lusso sott’acqua. Scopri dove prenotare."
 ---
 
 Esistono circa diciotto luoghi al mondo in cui puoi addormentarti sotto la superficie dell’oceano, guardando i pesci di barriera muoversi tra i coralli mentre le mante ti passano sopra la testa. Anche meno di diciotto, a seconda della stagione e di quali strutture sono operative. Il numero è cresciuto lentamente perché costruire camere d’hotel sott’acqua è davvero difficile e costoso: ed è proprio per questo che restano la categoria più rara del viaggio.
@@ -28,7 +28,7 @@ A Pemba, in Tanzania, la posizione in mare aperto della camera del Manta Resort 
 
 In Svezia, l’Utter Inn sul lago Mälaren è in acqua dolce: persici e lucci sostituiscono i pesci tropicali, e l’ecosistema del lago ha un carattere visivo tutto suo, soprattutto in autunno, quando la luce bassa dà all’acqua una luminosità color peltro che non ha nulla a che vedere con i tropici. Inoltre si prenota a una frazione del costo delle opzioni maldiviane.
 
-Le **Maldive** ospitano più alloggi subacquei di qualsiasi altra destinazione. La geografia degli atolli offre lagune calme, limpide e calde, ideali per garantire la visibilità dal basso. **Zanzibar, in Tanzania**, propone l’ibrido galleggiante-subacqueo del Manta Resort in pieno Oceano Indiano. L’Utter Inn in **Svezia** è l’esperienza di camera subacquea più accessibile al mondo: modesta nelle dimensioni, memorabile nel carattere.
+Le **Maldive** ospitano più alloggi subacquei di qualsiasi altra destinazione. La geografia degli atolli offre lagune calme, limpide e calde, ideali per garantire la visibilità dal basso. **Zanzibar, in Tanzania**, propone l’ibrido galleggiante-subacqueo del Manta Resort in pieno Oceano Indiano. L’Utter Inn in **Svezia** è un’esperienza di camera subacquea particolarmente accessibile: modesta nelle dimensioni, memorabile nel carattere.
 
 Le tariffe partono da circa 850 $ a notte e salgono a diverse migliaia per le ville più esclusive. Per l’alta stagione prenota con almeno sei mesi di anticipo. Il periodo migliore per le Maldive va da novembre ad aprile, quando il mare calmo massimizza la visibilità e l’esperienza della camera subacquea dà il meglio di sé.
 

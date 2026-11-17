@@ -1,9 +1,9 @@
 ---
 source: icehotel-sweden
 destination: Jukkasjärvi, Lapponia svedese
-description: "L’hotel di ghiaccio originale, ricostruito ogni inverno dal 1990 con il ghiaccio del fiume Torne. D’estate resta aperto l’ICEHOTEL 365, con 20 suite mantenute a -5 °C tutto l’anno: l’unico hotel di ghiaccio permanente al mondo e l’alloggio nel freddo più iconico della Terra."
+description: "L’hotel di ghiaccio originale, ricostruito ogni inverno dal 1990 con il ghiaccio del fiume Torne. D’estate resta aperto l’ICEHOTEL 365, con 20 suite mantenute a -5 °C tutto l’anno: un hotel di ghiaccio aperto tutto l’anno e uno degli alloggi nel freddo più noti al mondo."
 highlights:
-  - Il primo e più famoso hotel di ghiaccio del mondo, attivo dal 1990
+  - L’hotel di ghiaccio originale, attivo dal 1990 e tra i più noti al mondo
   - L’ICEHOTEL 365, aperto tutto l’anno con 20 art suite refrigerate
   - L’hotel invernale, ricostruito ogni anno in ghiaccio e neve da artisti internazionali
   - Ogni art suite è una collaborazione unica tra artisti e architettura
@@ -27,7 +27,7 @@ bestFor:
   - Appassionati dell’Artico
 prosAndCons:
   pros:
-    - L’hotel di ghiaccio originale e più iconico, impossibile da replicare altrove
+    - L’hotel di ghiaccio originale, impossibile da replicare altrove
     - Le art suite create da artisti internazionali rendono ogni anno completamente diverso
     - Grazie all’ICEHOTEL 365, aperto tutto l’anno, non esiste una stagione sbagliata per venire
     - L’esperienza artica completa, tra slitte trainate dai cani, aurora, ghiaccio e sole di mezzanotte
@@ -51,10 +51,10 @@ nearbyAttractions:
     distance: 80 km
 seo:
   metaTitle: "ICEHOTEL, hotel di ghiaccio in Lapponia | StayAtNiche"
-  metaDescription: "Il primo hotel di ghiaccio al mondo, ricostruito ogni inverno dal 1990 con il ghiaccio del Torne: art suite a -5 °C e aurora boreale. Da 500 $ a notte."
+  metaDescription: "L’hotel di ghiaccio originale, ricostruito ogni inverno dal 1990 con il ghiaccio del Torne: art suite a -5 °C e aurora boreale. Da 500 $ a notte."
 ---
 
-Tutto comincia dal fiume. Il Torne, che segna il confine tra Svezia e Finlandia mentre scende verso il golfo di Botnia, gela ogni novembre per uno spessore di oltre un metro: una massa di ghiaccio eccezionalmente puro e cristallino che, per usi architettonici, non ha eguali al mondo. È da questo fiume che nel 1989 Yngve Bergqvist e un gruppo di artisti giapponesi estrassero i primi blocchi, e con quei blocchi costruirono, in via sperimentale e senza alcuna certezza di successo, il primo hotel al mondo fatto interamente di ghiaccio.
+Tutto comincia dal fiume. Il Torne, che segna il confine tra Svezia e Finlandia mentre scende verso il golfo di Botnia, gela ogni novembre per uno spessore di oltre un metro: una massa di ghiaccio eccezionalmente puro e cristallino che è particolarmente adatto agli usi architettonici. È da questo fiume che nel 1989 Yngve Bergqvist e un gruppo di artisti giapponesi estrassero i primi blocchi, e con quei blocchi costruirono, in via sperimentale e senza alcuna certezza di successo, il primo hotel al mondo fatto interamente di ghiaccio.
 
 Più di trent’anni dopo, l’ICEHOTEL è ancora attivo a Jukkasjärvi, un villaggio di circa 900 abitanti sul Circolo polare artico nella Lapponia svedese, e non è mai stato straordinario come oggi.
 

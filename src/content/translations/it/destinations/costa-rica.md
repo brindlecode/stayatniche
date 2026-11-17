@@ -1,7 +1,7 @@
 ---
 source: costa-rica
 name: Costa Rica
-description: "Una striscia di America centrale che racchiude il 5% della biodiversità mondiale: la Costa Rica ha inventato l’ecoturismo prima ancora che qualcuno coniasse il termine. Dalle passerelle tra le chiome della foresta nebulosa di Monteverde ai campi di lava del vulcano Arenal fino alla foresta pluviale quasi intatta della penisola di Osa, è il modello di viaggio a misura di natura più riuscito al mondo."
+description: "Una striscia di America centrale che racchiude il 5% della biodiversità mondiale: la Costa Rica ha inventato l’ecoturismo prima ancora che qualcuno coniasse il termine. Dalle passerelle tra le chiome della foresta nebulosa di Monteverde ai campi di lava del vulcano Arenal fino alla foresta pluviale quasi intatta della penisola di Osa, è un modello di viaggio a misura di natura spesso citato."
 essentials:
   currency: "CRC (colón costaricano); nelle zone turistiche il dollaro USA è accettato praticamente ovunque"
   language: "Spagnolo; l’inglese è molto diffuso nelle zone turistiche"
@@ -28,10 +28,10 @@ travelTips:
   - "La Costa Rica vive di credenziali verdi: cerca le strutture certificate CST (Certificado para la Sostenibilidad Turística)."
 seo:
   metaTitle: "Costa Rica: guida tra foresta pluviale ed eco-lodge | StayAtNiche"
-  metaDescription: "Guida alla Costa Rica: la foresta nebulosa di Monteverde, il vulcano Arenal, la foresta di Corcovado e i migliori eco-lodge del mondo. Organizza il viaggio."
+  metaDescription: "Guida alla Costa Rica: la foresta nebulosa di Monteverde, il vulcano Arenal, la foresta di Corcovado e eco-lodge selezionati. Organizza il viaggio."
 ---
 
-La Costa Rica ha abolito l’esercito nel 1948 e ha dirottato la spesa per la difesa verso istruzione e sanità. Oggi il Paese funziona al 99% con energie rinnovabili e ha posto un quarto del proprio territorio sotto tutela come parco nazionale o riserva biologica. Sono scelte strutturali, non argomenti di marketing, e hanno fatto della Costa Rica la piccola nazione più seria al mondo in materia ambientale, oltre che la meta più appagante delle Americhe per chi viaggia alla scoperta della fauna.
+La Costa Rica ha abolito l’esercito nel 1948 e ha dirottato la spesa per la difesa verso istruzione e sanità. Oggi il Paese funziona al 99% con energie rinnovabili e ha posto un quarto del proprio territorio sotto tutela come parco nazionale o riserva biologica. Sono scelte strutturali, non argomenti di marketing, e hanno fatto della Costa Rica una delle piccole nazioni più impegnate al mondo in materia ambientale, oltre che una meta appagante delle Americhe per chi viaggia alla scoperta della fauna.
 
 Per un Paese più piccolo della Virginia Occidentale, i numeri sono sbalorditivi. Oltre 900 specie di uccelli. 200 specie di mammiferi. 35.000 specie di insetti. 1.200 varietà di orchidee. La spiegazione è geografica: la Costa Rica si trova all’incrocio di due placche tettoniche e di due grandi correnti oceaniche, dove le specie del Nord e del Sud America si incontrano. Foreste nebulose, foreste tropicali secche, foreste pluviali, mangrovie e barriere coralline si trovano a poche ore l’una dall’altra: una sovrapposizione biologica che non esiste altrove su questa scala.
 

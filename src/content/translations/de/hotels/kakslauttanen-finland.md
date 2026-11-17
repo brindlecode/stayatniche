@@ -27,7 +27,7 @@ bestFor:
   - Liebhaber winterlicher Abenteuer
 prosAndCons:
   pros:
-    - Unübertroffene Bedingungen für die Nordlichtbeobachtung
+    - Hervorragende Bedingungen für die Nordlichtbeobachtung
     - Die abgeschiedene Lage garantiert wirklich dunkle Nächte
     - Einzigartiges Thermoglas hält warm, während man in den Himmel schaut
     - Große Auswahl an arktischen Aktivitäten vor Ort
@@ -62,7 +62,7 @@ Yrjö Rissanen baute hier 1999 das erste Glasiglu, angetrieben von einer einfach
 
 Was Kakslauttanen über eine bloße Kuriosität hinaushebt, ist die schiere Qualität des Drumherum. Die Tage folgen dem Rhythmus der winterlichen Wildnis Lapplands: Schneemobil-Expeditionen in den weitläufigen Urho-Kekkonen-Nationalpark, Rentierschlittenfahrten durch alten Urwald, Huskysafaris mit Gespannen aus Sibirischen und Alaskan Huskys, deren geballte Begeisterung wirklich ansteckend ist, und Eisfischen auf zugefrorenen Seen, wo die Stille so vollkommen ist, dass sie selbst zum Geräusch wird.
 
-Die Rauchsauna des Resorts, eine der schönsten traditionellen Saunen Finnlands, ist das ideale Gegenmittel nach einem Tag in der Kälte. Das Ritual – die Rauchsauna stundenlang anheizen, dann in ihrer uralten, nach Birke duftenden Wärme sitzen, bevor man sich im frischen Schnee wälzt – gehört zu jenen Erfahrungen, die sich kaum in Worte fassen lassen.
+Die Rauchsauna des Resorts, eine traditionelle finnische Sauna, ist das ideale Gegenmittel nach einem Tag in der Kälte. Das Ritual – die Rauchsauna stundenlang anheizen, dann in ihrer uralten, nach Birke duftenden Wärme sitzen, bevor man sich im frischen Schnee wälzt – gehört zu jenen Erfahrungen, die sich kaum in Worte fassen lassen.
 
 Abends serviert das Restaurant Gerichte, die fest in Lappland verwurzelt sind: Rentier-Carpaccio, geräucherter Seesaibling, Desserts aus Moltebeeren, die in den umliegenden Mooren gesammelt werden. Nach dem Essen zieht es die Gäste zurück zu ihren Iglus; sie stellen den Polarlicht-Alarm ein und suchen den Himmel mit jener konzentrierten Hoffnung ab, die nur kalte, dunkle Breiten wecken.
 

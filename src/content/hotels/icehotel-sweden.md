@@ -4,19 +4,19 @@ category: ice-hotels
 destination: Jukkasjärvi, Swedish Lapland
 country: Sweden
 continent: Europe
-description: The original ice hotel, rebuilt entirely from frozen Torne River ice every winter since 1990. In summer, ICEHOTEL 365 stays open with 20 suites kept at -5°C year-round, making it the world's only permanent ice hotel and the most iconic cold-weather accommodation on Earth.
+description: The original ice hotel, rebuilt entirely from frozen Torne River ice every winter since 1990. In summer, ICEHOTEL 365 stays open with 20 suites kept at -5°C year-round, making it a year-round ice hotel and one of the best-known cold-weather stays in the world.
 coverImage: /images/hotels/icehotel-sweden.jpg
 priceRange: "$500 - $1,800"
 priceIndicator: 4
 highlights:
-  - World's first and most famous ice hotel, in operation since 1990
+  - The original ice hotel, in operation since 1990 and among the best known in the world
   - ICEHOTEL 365 open year-round with 20 refrigerated art suites
   - Winter hotel rebuilt annually by international artists in ice and snow
   - Each art suite is a unique collaboration between artists and architecture
   - Ice bar serving cocktails in carved ice glasses at -5°C
   - Northern lights viewing in winter; midnight sun exploration in summer
   - Dog sledding, snowmobile expeditions, and ice sculpting workshops
-  - On-site chapel, the world's coldest wedding venue
+  - On-site chapel used for winter weddings
 amenities:
   - Art suite carved from Torne River ice (kept at -5°C)
   - Reindeer hide sleeping bag on ice bed (warm room also available)
@@ -33,7 +33,7 @@ bestFor:
   - Arctic experience enthusiasts
 prosAndCons:
   pros:
-    - The original and most iconic ice hotel, impossible to replicate elsewhere
+    - The original ice hotel, impossible to replicate elsewhere
     - Art suites created by international artists ensure every year is completely different
     - Year-round operation via ICEHOTEL 365 means no season is a bad season to visit
     - The complete Arctic experience, dog sledding, aurora, ice, midnight sun
@@ -64,7 +64,7 @@ featured: true
 status: published
 seo:
   metaTitle: "ICEHOTEL 365 Review, The Original Ice Hotel in Swedish Lapland"
-  metaDescription: "The world's first ice hotel, rebuilt from Torne River ice every winter since 1990. Art suites at -5°C, northern lights, and midnight sun. ICEHOTEL 365 from $500/night."
+  metaDescription: "The original ice hotel, rebuilt from Torne River ice every winter since 1990. Art suites at -5°C, northern lights, and midnight sun. ICEHOTEL 365 from $500/night."
 affiliateLinks:
   - partner: "expedia"
     url: "https://www.expedia.com/Hotel-Search?destination=Jukkasj%C3%A4rvi%2C%20Swedish%20Lapland%2C%20Sweden&adults=2"
@@ -87,7 +87,7 @@ niche_source_url: "https://icehotel.com/hotel"
 niche_verified_at: 2026-11-17
 ---
 
-Everything begins with the river. The Torne River, which forms the border between Sweden and Finland as it descends toward the Bothnian Bay, freezes each November to a depth of more than a metre: a mass of exceptionally pure, crystal clear ice that has no equal in the world for architectural purposes. It was from this river that Yngve Bergqvist and a team of Japanese artists harvested the first blocks in 1989, and from those blocks they built, experimentally and with no certainty of success, the world's first hotel made entirely from ice.
+Everything begins with the river. The Torne River, which forms the border between Sweden and Finland as it descends toward the Bothnian Bay, freezes each November to a depth of more than a metre: a mass of exceptionally pure, crystal clear ice that is exceptionally well suited to architectural purposes. It was from this river that Yngve Bergqvist and a team of Japanese artists harvested the first blocks in 1989, and from those blocks they built, experimentally and with no certainty of success, the world's first hotel made entirely from ice.
 
 More than three decades later, ICEHOTEL remains in operation in Jukkasjärvi, a village of some 900 people on the Arctic Circle in Swedish Lapland, and it has never been more extraordinary than it is today.
 

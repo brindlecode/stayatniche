@@ -1,16 +1,16 @@
 ---
 source: icehotel-sweden
 destination: Jukkasjärvi, Schwedisch-Lappland
-description: "Das Original-Eishotel, seit 1990 jeden Winter komplett aus dem Eis des Flusses Torne neu errichtet. Im Sommer bleibt das ICEHOTEL 365 mit 20 Suiten geöffnet, die das ganze Jahr über bei −5 °C gehalten werden – damit ist es das einzige dauerhafte Eishotel der Welt und die legendärste Unterkunft im ewigen Eis."
+description: "Das Original-Eishotel, seit 1990 jeden Winter komplett aus dem Eis des Flusses Torne neu errichtet. Im Sommer bleibt das ICEHOTEL 365 mit 20 Suiten geöffnet, die das ganze Jahr über bei −5 °C gehalten werden – damit ist es ein ganzjährig geöffnetes Eishotel und eine der bekanntesten Unterkünfte im ewigen Eis."
 highlights:
-  - Das erste und berühmteste Eishotel der Welt, in Betrieb seit 1990
+  - Das Original unter den Eishotels, in Betrieb seit 1990 und weltweit eines der bekanntesten
   - ICEHOTEL 365 ganzjährig geöffnet, mit 20 gekühlten Art Suites
   - Das Winterhotel wird jedes Jahr von internationalen Künstlern aus Eis und Schnee neu erbaut
   - Jede Art Suite ist eine einzigartige Zusammenarbeit von Kunst und Architektur
   - Eisbar mit Cocktails in geschnitzten Eisgläsern bei −5 °C
   - Nordlichter im Winter, Mitternachtssonne im Sommer
   - Hundeschlittentouren, Schneemobilexpeditionen und Eisbildhauer-Workshops
-  - Eigene Kapelle – der kälteste Hochzeitsort der Welt
+  - Eigene Kapelle für Winterhochzeiten
 amenities:
   - Art Suite aus dem Eis des Torne (bei −5 °C gehalten)
   - Schlafsack auf Rentierfell auf dem Eisbett (warmes Zimmer ebenfalls verfügbar)
@@ -51,10 +51,10 @@ nearbyAttractions:
     distance: 80 km
 seo:
   metaTitle: "ICEHOTEL Schweden: Das Original-Eishotel | StayAtNiche"
-  metaDescription: "Das erste Eishotel der Welt, seit 1990 jeden Winter aus dem Eis des Torne neu gebaut: Art Suites bei −5 °C, Nordlichter und Mitternachtssonne. Ab 500 $."
+  metaDescription: "Das Original-Eishotel, seit 1990 jeden Winter aus dem Eis des Torne neu gebaut: Art Suites bei −5 °C, Nordlichter und Mitternachtssonne. Ab 500 $."
 ---
 
-Alles beginnt mit dem Fluss. Der Torne, der auf seinem Weg zum Bottnischen Meerbusen die Grenze zwischen Schweden und Finnland bildet, friert jeden November mehr als einen Meter tief zu: eine Masse außergewöhnlich reinen, kristallklaren Eises, das für architektonische Zwecke weltweit seinesgleichen sucht. Aus diesem Fluss schnitten Yngve Bergqvist und ein Team japanischer Künstler 1989 die ersten Blöcke, und aus diesen Blöcken bauten sie – als Experiment und ohne jede Gewissheit, dass es gelingen würde – das erste Hotel der Welt, das vollständig aus Eis bestand.
+Alles beginnt mit dem Fluss. Der Torne, der auf seinem Weg zum Bottnischen Meerbusen die Grenze zwischen Schweden und Finnland bildet, friert jeden November mehr als einen Meter tief zu: eine Masse außergewöhnlich reinen, kristallklaren Eises, das sich für architektonische Zwecke hervorragend eignet. Aus diesem Fluss schnitten Yngve Bergqvist und ein Team japanischer Künstler 1989 die ersten Blöcke, und aus diesen Blöcken bauten sie – als Experiment und ohne jede Gewissheit, dass es gelingen würde – das erste Hotel der Welt, das vollständig aus Eis bestand.
 
 Mehr als drei Jahrzehnte später ist das ICEHOTEL in Jukkasjärvi noch immer in Betrieb, einem Dorf mit rund 900 Einwohnern am Polarkreis in Schwedisch-Lappland – und es war nie außergewöhnlicher als heute.
 

@@ -16,7 +16,7 @@ mustSee:
   - "Deadvlei: een spookbos van 900 jaar oude kameeldoornbomen in een witte kleipan"
   - "Nationaal Park Etosha: een enorme zoutpan met uitzonderlijk veel olifanten, leeuwen en zwarte neushoorns"
   - "Fish River Canyon, na de Grand Canyon de op één na grootste kloof op aarde"
-  - "Skeleton Coast: scheepswrakken, kolonies Kaapse pelsrobben en de meest afgelegen kust ter wereld"
+  - "Skeleton Coast: scheepswrakken, kolonies Kaapse pelsrobben en een van de meest afgelegen kusten ter wereld"
   - "Damaraland: aan de woestijn aangepaste olifanten en eeuwenoude rotsgravures van de San bij Twyfelfontein"
 travelTips:
   - "Zelf rijden is hét grote avontuur van Namibië: de wegen zijn uitstekend, de afstanden immens, en met een 4x4-camper slaap je gewoon waar je bij zonsondergang bent."
@@ -26,7 +26,7 @@ travelTips:
   - "Namibië is een van de veiligste landen van Afrika om op eigen houtje te reizen: de criminaliteit is laag en de toeristische infrastructuur is betrouwbaar."
 seo:
   metaTitle: "Namibië reisgids: Sossusvlei en Etosha | StayAtNiche"
-  metaDescription: "Reisgids Namibië: de duinen van Sossusvlei, gamedrives in Etosha, de Skeleton Coast en de meest bijzondere woestijnlodges en safarikampen van Afrika."
+  metaDescription: "Reisgids Namibië: de duinen van Sossusvlei, gamedrives in Etosha, de Skeleton Coast en bijzondere woestijnlodges en safarikampen. Alles voor je reis."
 ---
 
 Namibië ontvangt nog geen twee miljoen toeristen per jaar – weinig voor een land dat zoveel te bieden heeft – en dus is het gevoel van wildernis hier echt en niet in scène gezet. In Damaraland kun je vier uur rijden zonder een ander voertuig tegen te komen. Je kunt slapen in een woestijnlodge waar de dichtstbijzijnde buren 50 kilometer verderop wonen. Ongerepte ruimte op deze schaal wordt steeds zeldzamer. Namibië is een van de weinige plekken waar het nog de norm is.
@@ -37,7 +37,7 @@ Deadvlei is nog indrukwekkender. Een witte kleipan op loopafstand van de parkeer
 
 Nationaal Park Etosha draait om de Etoshapan, een enorm, vlak, verblindend wit zoutmeer dat een binnenzee was tot tektonische opheffing het zo'n vijf miljoen jaar geleden liet leeglopen. In het droge seizoen trekken de drinkplaatsen langs de zuidrand van de pan honderden olifanten, complete leeuwenroedels, zwarte en witte neushoorns, giraffen en zebra's. Bij de verlichte drinkplaats van kamp Okaukuejo kijk je vanaf het hek de hele nacht naar drinkende dieren – een van de toegankelijkste en productiefste plekken voor wildspotting in Afrika.
 
-De aan de woestijn aangepaste olifanten van Damaraland en de Hoanib-vallei overleven in landschappen waar jaarlijks minder dan 25 mm regen valt. Ze leggen enorme afstanden af tussen waterbronnen, graven met hun poten naar water in droge rivierbeddingen en eten planten die hun soortgenoten in Chobe of Amboseli zouden laten staan. Een familie die uit een rotsige heuvel opdoemt en geruisloos afdaalt naar een droge rivierbedding: een van de mooiste natuurontmoetingen van Afrika.
+De aan de woestijn aangepaste olifanten van Damaraland en de Hoanib-vallei overleven in landschappen waar jaarlijks minder dan 25 mm regen valt. Ze leggen enorme afstanden af tussen waterbronnen, graven met hun poten naar water in droge rivierbeddingen en eten planten die hun soortgenoten in Chobe of Amboseli zouden laten staan. Een familie die uit een rotsige heuvel opdoemt en geruisloos afdaalt naar een droge rivierbedding: een gedenkwaardige natuurontmoeting.
 
 De Skeleton Coast, genoemd naar de gebleekte walvisbotten en de wrakken van schepen waarvan de zeelieden geen schijn van kans hadden in een waterloze woestijn, is tegenwoordig alleen bereikbaar via [safarilodges](/categories/safari-lodges) waar je naartoe vliegt en die onder strikte concessieregels werken. Cape Cross, over de weg iets beter bereikbaar, heeft een kolonie Kaapse pelsrobben van meer dan 100.000 dieren. Het lawaai, de geur en het pure spektakel ervan zijn ongeëvenaard op het continent.
 

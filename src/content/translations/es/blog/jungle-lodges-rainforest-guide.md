@@ -1,10 +1,10 @@
 ---
 source: jungle-lodges-rainforest-guide
 title: "Lodges en la selva y hoteles en la selva tropical: guía completa para alojarte en los lugares más salvajes del mundo"
-excerpt: "De la cuenca amazónica a los bosques milenarios de Borneo, descubre los mejores lodges en la selva del mundo, donde una biodiversidad extraordinaria se une a un alojamiento cuidado e inmersivo."
+excerpt: "De la cuenca amazónica a los bosques milenarios de Borneo, descubre lodges en la selva destacados, donde una biodiversidad extraordinaria se une a un alojamiento cuidado e inmersivo."
 seo:
   metaTitle: "Lodges en la selva: guía completa | StayAtNiche"
-  metaDescription: "Los mejores lodges en la selva del mundo, del Amazonas a Borneo: consejos sobre alojamiento en la selva tropical, encuentros con fauna y viajes sostenibles."
+  metaDescription: "Lodges en la selva destacados, del Amazonas a Borneo: consejos sobre alojamiento en la selva tropical, encuentros con fauna y viajes sostenibles."
 ---
 
 Las grandes selvas tropicales del mundo se cuentan entre los entornos más complejos biológicamente y más extraordinarios visualmente del planeta. Solo la cuenca amazónica alberga, según se calcula, el 10 % de todas las especies de la Tierra; los bosques milenarios de Borneo acogen orangutanes, elefantes pigmeos y monos narigudos en hábitats que apenas han cambiado en millones de años, y los bosques nubosos de Costa Rica dan refugio al quetzal en copas de árboles envueltas en una niebla perpetua.
@@ -21,7 +21,7 @@ La selva amazónica cubre 5,5 millones de kilómetros cuadrados repartidos entre
 
 **Cristalino Lodge: Alta Floresta, Mato Grosso**
 
-Situado sistemáticamente entre los mejores lodges de fauna del mundo, de cualquier categoría, Cristalino es una reserva natural privada de 11.000 hectáreas a orillas del cristalino río Cristalino, en el sur de la Amazonia. Su torre de 30 metros, desde la que se observa el dosel del bosque a la altura de los ojos, es una de las estructuras de observación de fauna más célebres de Sudamérica. En la reserva se han registrado más de 600 especies de aves, y es habitual avistar nutrias gigantes, tapires, jaguares y 12 especies de primates.
+Muy valorado entre los lodges de fauna, Cristalino es una reserva natural privada de 11.000 hectáreas a orillas del cristalino río Cristalino, en el sur de la Amazonia. Su torre de 30 metros, desde la que se observa el dosel del bosque a la altura de los ojos, es una de las estructuras de observación de fauna más célebres de Sudamérica. En la reserva se han registrado más de 600 especies de aves, y es habitual avistar nutrias gigantes, tapires, jaguares y 12 especies de primates.
 
 El lodge en sí está bellamente diseñado: construcciones de madera elevadas, con ventanas mosquiteras y terrazas privadas, unidas por pasarelas elevadas a través del bosque. El nivel de los guías es excepcional, con un equipo de naturalistas muy cualificados que dirigen salidas de observación de aves y de fauna en general. Cristalino ha ganado numerosos premios por su gestión sostenible.
 
@@ -68,7 +68,7 @@ El Área de Conservación del Valle de Danum protege 438 kilómetros cuadrados d
 ---
 
 
-Costa Rica ha construido la infraestructura de ecoturismo más sofisticada del mundo sobre unos recursos naturales extraordinarios: el 25 % de su territorio está protegido, y su posición en el estrecho puente terrestre entre Norteamérica y Sudamérica lo convierte en una de las grandes encrucijadas biológicas del planeta.
+Costa Rica ha construido una de las infraestructuras de ecoturismo más desarrolladas del mundo sobre unos recursos naturales extraordinarios: el 25 % de su territorio está protegido, y su posición en el estrecho puente terrestre entre Norteamérica y Sudamérica lo convierte en una de las grandes encrucijadas biológicas del planeta.
 
 **Lapa Rios Ecolodge, península de Osa**
 
@@ -79,7 +79,7 @@ En una reserva privada de selva de 1.000 acres en la península de Osa —descri
 
 **Nayara Springs, volcán Arenal**
 
-En el extremo opuesto del abanico de lodges en la selva costarricenses, Nayara Springs ofrece una experiencia más de resort en plena selva tropical. Cada una de sus 35 villas-suite tiene una piscina privada de aguas termales alimentada por el agua geotérmica del volcán Arenal, paredes de cristal de suelo a techo que meten el bosque dentro y un nivel de acabados de lujo que la convierten en la mejor opción de alojamiento de la zona de Arenal. Varios restaurantes reconocidos por Michelin y un spa excepcional completan la propuesta.
+En el extremo opuesto del abanico de lodges en la selva costarricenses, Nayara Springs ofrece una experiencia más de resort en plena selva tropical. Cada una de sus 35 villas-suite tiene una piscina privada de aguas termales alimentada por el agua geotérmica del volcán Arenal, paredes de cristal de suelo a techo que meten el bosque dentro y un nivel de acabados de lujo que la convierten en una opción de alojamiento destacada en la zona de Arenal. Varios restaurantes reconocidos por Michelin y un spa excepcional completan la propuesta.
 
 **Precio:** desde 700 US$ por persona y noche
 **Ideal para:** parejas, lunas de miel, viajeros que priorizan el lujo sobre la fauna
@@ -124,7 +124,7 @@ La selva tropical es un entorno difícil para la fotografía: el denso dosel red
 Estos tres destinos ofrecen versiones distintas de la experiencia de lodge en la selva:
 
 - **Amazonas:** el más grande, el más remoto y el más rico en especies. Ideal para amantes serios de la fauna dispuestos a aceptar condiciones básicas incluso en los mejores lodges.
-- **Borneo:** la mejor observación de primates del mundo, sobre todo de orangutanes. Logística más sencilla que en el Amazonas e infraestructuras excelentes en los mejores lodges.
+- **Borneo:** una excelente observación de primates, sobre todo de orangutanes. Logística más sencilla que en el Amazonas e infraestructuras excelentes en los mejores lodges.
 - **Costa Rica:** la logística más fácil, las mejores infraestructuras y el destino más accesible desde Norteamérica. Algo menos de densidad de fauna que el Amazonas o Borneo, pero una biodiversidad extraordinaria para una superficie relativamente pequeña.
 
 Explora nuestra colección completa de [lodges en la selva](/categories/jungle-lodges) para encontrar la experiencia en la selva tropical que encaje con tu estilo de viaje y tu presupuesto. Y si buscas otros alojamientos extraordinarios en plena naturaleza, consulta nuestras guías de [lodges de safari](/categories/safari-lodges), [cabañas en los árboles](/categories/treehouse-hotels) y [campamentos en el desierto](/categories/desert-camps).

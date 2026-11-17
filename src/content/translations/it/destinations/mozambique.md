@@ -1,7 +1,7 @@
 ---
 source: mozambique
 name: "Mozambico"
-description: "Il Mozambico è la meta balneare e marina più sottovalutata d’Africa: 2.500 chilometri di costa sull’Oceano Indiano, spiagge di sabbia bianchissima, arcipelaghi solcati dai dhow e barriere coralline che per limpidezza e biodiversità non hanno nulla da invidiare alle Maldive. Lodge su isole remote e campi sulla spiaggia all’insegna del lusso a piedi nudi offrono un’intimità e un senso di natura selvaggia che le mete più celebri dell’Oceano Indiano hanno perso da tempo."
+description: "Il Mozambico è una delle mete balneari e marine più sottovalutate d’Africa: 2.500 chilometri di costa sull’Oceano Indiano, spiagge di sabbia bianchissima, arcipelaghi solcati dai dhow e barriere coralline che per limpidezza e biodiversità non hanno nulla da invidiare alle Maldive. Lodge su isole remote e campi sulla spiaggia all’insegna del lusso a piedi nudi offrono un’intimità e un senso di natura selvaggia che le mete più celebri dell’Oceano Indiano hanno perso da tempo."
 essentials:
   currency: "MZN (metical mozambicano); i dollari USA sono accettati nella maggior parte dei lodge e delle attività turistiche"
   language: "Portoghese (ufficiale); emakhuwa, xichangana e altre lingue bantu"
@@ -14,7 +14,7 @@ bestTimeToVisit:
 mustSee:
   - "L’arcipelago di Bazaruto, cinque isole di sabbia bianca abbagliante e acque turchesi con una popolazione endemica di dugonghi"
   - "L’arcipelago delle Quirimbas, una remota catena di 32 isole nell’estremo nord con barriere intatte e rovine swahili"
-  - "Tofo Beach, il posto migliore d’Africa per incontrare con certezza gli squali balena in snorkeling"
+  - "Tofo Beach, un posto di riferimento in Africa per incontrare con certezza gli squali balena in snorkeling"
   - "L’isola di Ibo, nelle Quirimbas, una cittadina coloniale portoghese in lento decadimento dall’affascinante eredità arabo-africana e portoghese"
   - "Pemba, la città porta del nord, con una baia splendida e un centro storico di impronta portoghese"
   - "Vilanculos, la cittadina porta del sud, punto di partenza delle escursioni in dhow nell’arcipelago di Bazaruto"
@@ -26,7 +26,7 @@ travelTips:
   - "I dugonghi sono sensibilissimi al disturbo delle imbarcazioni: avvicinali solo facendo snorkeling o nuotando, mai a motore. Le guide del tuo lodge conoscono i protocolli etici."
 seo:
   metaTitle: "Mozambico: guida tra isole, reef e lodge | StayAtNiche"
-  metaDescription: "Mozambico: l’arcipelago di Bazaruto, i lodge delle Quirimbas, gli squali balena di Tofo e i dugonghi, sulle spiagge più selvagge e belle dell’Oceano Indiano africano."
+  metaDescription: "Mozambico: l’arcipelago di Bazaruto, i lodge delle Quirimbas, gli squali balena di Tofo e i dugonghi, sulle spiagge selvagge dell’Oceano Indiano africano."
 ---
 
 Il Mozambico ha 2.500 chilometri di costa sull’Oceano Indiano, in gran parte ancora intatta. Le spiagge corrono ininterrotte per chilometri. I dhow punteggiano l’orizzonte. Nessun palazzone spezza la linea degli alberi. L’ambiente marino, tra barriere coralline, squali balena, megattere, mante, dugonghi e spiagge dove nidificano le tartarughe, è servito da una manciata di lodge dalla capienza così limitata che la sensazione di aver scoperto qualcosa di incontaminato non è soltanto marketing.

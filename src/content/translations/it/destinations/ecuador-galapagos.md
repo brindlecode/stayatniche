@@ -1,7 +1,7 @@
 ---
 source: ecuador-galapagos
 name: "Ecuador e Galápagos"
-description: "Le isole Galápagos sono il più grande laboratorio dell’evoluzione del pianeta: 127 tra isole e isolotti dove gli animali si sono evoluti senza predatori naturali e ancora oggi non temono i visitatori. L’Ecuador continentale aggiunge riserve di foresta nebulosa, il bacino amazzonico e lo straordinario centro storico coloniale di Quito, per uno degli itinerari più vari del Sud America."
+description: "Le isole Galápagos sono tra i laboratori dell’evoluzione più celebri del pianeta: 127 tra isole e isolotti dove gli animali si sono evoluti senza predatori naturali e ancora oggi non temono i visitatori. L’Ecuador continentale aggiunge riserve di foresta nebulosa, il bacino amazzonico e lo straordinario centro storico coloniale di Quito, per uno degli itinerari più vari del Sud America."
 essentials:
   currency: "USD (l’Ecuador usa il dollaro statunitense)"
   language: "Spagnolo (ufficiale); kichwa (quechua) parlato sugli altipiani e in Amazzonia"
@@ -39,6 +39,6 @@ La scelta cruciale alle Galápagos è tra la crociera e il soggiorno sulle isole
 
 L’Ecuador continentale viene spesso trattato come un semplice corridoio di transito verso le Galápagos, ed è un errore notevole. Il Centro Histórico di Quito è il centro storico coloniale meglio conservato delle Americhe: un sito Patrimonio dell’UNESCO fatto di chiese, monasteri e piazze straordinari, abbastanza compatto da girarlo a piedi. La funivia del Teleférico sale a 4.050 metri sul vulcano Pichincha, sopra la città, e offre una prospettiva che rende subito evidente la scala delle Ande.
 
-La foresta nebulosa di Mindo, due ore a ovest di Quito, è una delle migliori mete al mondo per il birdwatching, con oltre 500 specie in una piccola area di foresta servita da ottimi lodge. I [lodge nella giungla](/categories/jungle-lodges) dell’Amazzonia ecuadoriana, come il Napo Wildlife Center e il Sacha Lodge, offrono esperienze naturalistiche di prim’ordine in un continente che le Galápagos hanno storicamente messo in ombra. La Cuyabeno Wildlife Reserve, in particolare, regala incontri in barca con delfini rosa di fiume, lontre giganti e caimani neri, partendo da lodge di autentica qualità.
+La foresta nebulosa di Mindo, due ore a ovest di Quito, è una meta molto nota per il birdwatching, con oltre 500 specie in una piccola area di foresta servita da ottimi lodge. I [lodge nella giungla](/categories/jungle-lodges) dell’Amazzonia ecuadoriana, come il Napo Wildlife Center e il Sacha Lodge, offrono esperienze naturalistiche di prim’ordine in un continente che le Galápagos hanno storicamente messo in ombra. La Cuyabeno Wildlife Reserve, in particolare, regala incontri in barca con delfini rosa di fiume, lontre giganti e caimani neri, partendo da lodge di autentica qualità.
 
 I voli per le Galápagos partono da Quito (UIO) e Guayaquil (GYE) per Baltra o San Cristóbal. Solo LATAM e Avianca Ecuador operano la rotta: prenota tramite la tua crociera o il tuo hotel come parte di un pacchetto. Il biglietto del parco nazionale delle Galápagos (200 $ a persona nel 2024) si paga all’arrivo, separatamente dalla TCC. Il costo complessivo è notevole. Ma è altrettanto vero che le Galápagos restano uno dei pochissimi luoghi della Terra che superano puntualmente le aspettative create dalla loro stessa leggenda.

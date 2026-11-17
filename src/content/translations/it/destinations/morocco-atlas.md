@@ -1,7 +1,7 @@
 ---
 source: morocco-atlas
 name: "Marocco e Atlante"
-description: "Il Marocco sovrappone medine antichissime, dune sahariane e le vette innevate dell’Alto Atlante in un unico Paese dai contrasti straordinari. Dai suq labirintici di Fès al silenzio delle dune dell’Erg Chebbi all’alba, regala una delle esperienze di viaggio più ricche per i sensi al mondo, e una cultura dell’ospitalità di un’artigianalità e di una bellezza senza pari."
+description: "Il Marocco sovrappone medine antichissime, dune sahariane e le vette innevate dell’Alto Atlante in un unico Paese dai contrasti straordinari. Dai suq labirintici di Fès al silenzio delle dune dell’Erg Chebbi all’alba, regala una delle esperienze di viaggio più ricche per i sensi al mondo, e una cultura dell’ospitalità di un’artigianalità e di una bellezza straordinarie."
 essentials:
   currency: "MAD (dirham marocchino); i contanti sono indispensabili fuori dalle grandi città"
   language: "Arabo e tamazight (berbero), entrambi ufficiali; il francese è molto diffuso; nella vita quotidiana si parla la darija (arabo marocchino)"
@@ -26,7 +26,7 @@ travelTips:
   - "I riad migliori vanno prenotati con largo anticipo: per la primavera e l’autunno le strutture boutique più belle del Marocco sono al completo con mesi di anticipo."
 seo:
   metaTitle: "Marocco: guida tra Sahara, Atlante e riad | StayAtNiche"
-  metaDescription: "Marocco: la medina di Fès, le dune del Sahara, i trekking sull’Alto Atlante e i riad e campi nel deserto più straordinari del Paese, tra suq, kasbah e cieli stellati."
+  metaDescription: "Marocco: la medina di Fès, le dune del Sahara, i trekking sull’Alto Atlante e riad e campi nel deserto straordinari, tra suq, kasbah e cieli stellati."
 ---
 
 Da secoli il Marocco attira i viaggiatori al di là dello stretto di Gibilterra, e ogni viaggio vale la pena. A nord il Mediterraneo, a ovest l’Atlantico, a sud il Sahara e, in diagonale nel mezzo, l’Alto Atlante che sfiora i 4.200 metri. Ogni zona ha il suo clima, la sua cultura, la sua logica. Pochi Paesi concentrano tanti contrasti in un solo itinerario.
@@ -35,7 +35,7 @@ Le quattro città imperiali del Marocco sono state capitali in epoche diverse e 
 
 Marrakech ha un altro ritmo. La piazza Jemaa el-Fna al tramonto, con incantatori di serpenti, cantastorie, bancarelle di cibo e tutto il suo teatro, è uno dei grandi spettacoli urbani del mondo. I riad nascosti dietro i muri ciechi della medina offrono l’esatto contrario: cortili privati con fontane al centro, aranci e il silenzio di spesse mura di terra. È in quel contrasto tra la strada e l’interno che sta l’essenza di Marrakech.
 
-Il riad, la casa a corte diventata hotel boutique, è una delle grandi formule dell’ospitalità mondiale. I riad più belli di Fès e Marrakech sono opere d’artigianato prima ancora che strutture ricettive: stucchi intagliati a mano, pavimenti di zellige, soffitti a muqarnas, mashrabiya in legno di cedro. L’idea della casa rivolta verso l’interno, facciata spoglia e interni sontuosi, crea un’intimità e una calma oggi davvero rare. Per la primavera e l’autunno prenota i migliori con mesi di anticipo: si riempiono presto e non fanno sconti.
+Il riad, la casa a corte diventata hotel boutique, è una delle grandi formule dell’ospitalità mondiale. I riad più curati di Fès e Marrakech sono opere d’artigianato prima ancora che strutture ricettive: stucchi intagliati a mano, pavimenti di zellige, soffitti a muqarnas, mashrabiya in legno di cedro. L’idea della casa rivolta verso l’interno, facciata spoglia e interni sontuosi, crea un’intimità e una calma oggi davvero rare. Per la primavera e l’autunno prenota i migliori con mesi di anticipo: si riempiono presto e non fanno sconti.
 
 Le dune dell’Erg Chebbi vicino a Merzouga raggiungono i 150 metri d’altezza e si estendono per 22 chilometri. L’esperienza classica (dromedario fino a un campo nel deserto al tramonto, letti veri in tende in stile berbero, le stelle dalla cresta delle dune, la luce dell’alba sulla sabbia) è teatrale e studiata. Ma è anche di una bellezza autentica, e la messa in scena non la sminuisce affatto.
 

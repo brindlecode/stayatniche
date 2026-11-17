@@ -1,11 +1,11 @@
 ---
 source: jao-camp-botswana
 destination: "Jao-Konzession, Okavango-Delta"
-description: "Das Jao Camp liegt in einer der schönsten Konzessionen des Okavango-Deltas, einer 60.000 Acres großen privaten Wildnis aus ständigen und saisonalen Überschwemmungsebenen, Inseln und Kanälen, in der einige der dichtesten Tierbestände Afrikas leben. Die Baumhaus-Architektur des Camps und der Service von Wilderness Safaris machen es zu einer der einzigartigsten Safari-Lodges des Kontinents."
+description: "Das Jao Camp liegt in einer Konzession im Okavango-Delta, einer 60.000 Acres großen privaten Wildnis aus ständigen und saisonalen Überschwemmungsebenen, Inseln und Kanälen, in der einige der dichtesten Tierbestände Afrikas leben. Die Baumhaus-Architektur des Camps und der Service von Wilderness Safaris machen es zu einer der einzigartigsten Safari-Lodges des Kontinents."
 highlights:
   - "Außergewöhnliche private Konzession von 60.000 Acres im Herzen des Okavango-Deltas"
   - "Safaris mit vielen Aktivitäten – Pirschfahrten, Mokoro-Einbäume, Motorboot und Wanderungen"
-  - "Einige der besten Großtierkonzentrationen im Okavango"
+  - "Bemerkenswerte Großtierkonzentrationen im Okavango"
   - "Der Flutzyklus des Deltas schafft ständig wechselnde, saisonale Landschaften"
   - "Seltene Herden von Roten Litschi-Moorantilopen und Sitatungas in den Überschwemmungsebenen"
   - "Außergewöhnliche Vogelbeobachtung, über 400 Arten in der Konzession"
@@ -57,6 +57,6 @@ Das Jao Camp liegt in einer 60.000 Acres großen privaten Konzession, die die ga
 
 Die Architektur antwortet auf die erhöhte Insellage mit Suiten auf Plattformen über dem Boden, deren Reetdächer mit dem Blätterdach der umgebenden Bäume verschmelzen. Bei manchen Suiten ragen private Tauchbecken über die Überschwemmungsebene hinaus, und die Außenbereiche sind dafür gemacht, Tiere zu beobachten, die unter und rund um die Bauten vorbeiziehen. Elefanten laufen häufig wenige Meter an den Gästebereichen vorbei, und die Vogelwelt, die man am frühen Morgen vom Deck einer Suite aus hört, ist für sich schon ein Naturerlebnis.
 
-Die Vogelbeobachtung in der Jao-Konzession gehört zum Besten, was Afrika zu bieten hat. Über 400 Arten wurden hier nachgewiesen, von den leuchtenden Farben der Bienenfresser und Eisvögel bis zur mächtigen Bindenfischeule, die nachts in den Kanälen jagt, und zum Schreiseeadler, dessen Ruf der Klang des afrikanischen Wassers schlechthin ist. Eigene Vogelbeobachtungstouren lassen sich organisieren, und das Fachwissen der Guides ist außergewöhnlich.
+Die Vogelbeobachtung in der Jao-Konzession ist hervorragend. Über 400 Arten wurden hier nachgewiesen, von den leuchtenden Farben der Bienenfresser und Eisvögel bis zur mächtigen Bindenfischeule, die nachts in den Kanälen jagt, und zum Schreiseeadler, dessen Ruf der Klang des afrikanischen Wassers schlechthin ist. Eigene Vogelbeobachtungstouren lassen sich organisieren, und das Fachwissen der Guides ist außergewöhnlich.
 
 Jao ist nur per Flugzeug erreichbar; Charterflüge ab Maun, das selbst mit Johannesburg und anderen regionalen Drehkreuzen verbunden ist, dauern etwa 45 Minuten und bieten Blicke über das Delta, die zu den eindrucksvollsten Perspektiven auf diese Landschaft zählen. Der All-inclusive-Preis spiegelt den organisatorischen Aufwand wider, ein Premium-Camp an einem der abgelegensten und logistisch anspruchsvollsten Orte der Welt zu betreiben – doch das Ergebnis ist für alle, für die genau dieses Maß an Wildnis der Sinn des Reisens ist, ohne jeden Kompromiss.

@@ -2,12 +2,12 @@
 source: treehouse-hotels
 title: Boomhutten
 tagline: "Slapen tussen de boomkruinen, boven alles uit"
-description: "Hoog boven de bosbodem maken boomhuthotels van een kinderdroom een verfijnde luxe voor volwassenen. Van minimalistische verblijven van glas en hout in Scandinavië tot tropische platforms in de jungle van Costa Rica en Bali: deze plekken in de boomkruinen bieden een ongeëvenaarde band met de natuur, verpakt in echt comfort."
+description: "Hoog boven de bosbodem maken boomhuthotels van een kinderdroom een verfijnde luxe voor volwassenen. Van minimalistische verblijven van glas en hout in Scandinavië tot tropische platforms in de jungle van Costa Rica en Bali: deze plekken in de boomkruinen bieden een hechte band met de natuur, verpakt in echt comfort."
 stats:
   topDestination: "Zweden"
 seo:
   metaTitle: "Boomhutten: slapen in een luxe boomhut | StayAtNiche"
-  metaDescription: "De mooiste boomhuthotels ter wereld. Slaap in een luxe boomhut in de bossen van Zweden, Costa Rica, Bali en verder, hoog tussen de boomkruinen."
+  metaDescription: "Bijzondere boomhuthotels: slaap in een luxe boomhut in de bossen van Zweden, Costa Rica, Bali en verder, hoog tussen de boomkruinen. Boek je verblijf."
 ---
 
 Het Treehotel in Harads, Zweden, heeft een spiegelende kubus die het omringende boreale bos zo volledig weerkaatst dat hij vanaf de grond verdwijnt. Dat is de maatstaf – niet alleen voor boomhutten, maar voor wat een bijzondere overnachting kan zijn als architecten de opdracht serieus nemen.

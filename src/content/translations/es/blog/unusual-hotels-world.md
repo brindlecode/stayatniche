@@ -1,10 +1,10 @@
 ---
 source: unusual-hotels-world
 title: "Los 30 hoteles más insólitos del mundo: estancias extraordinarias que no creerás que existen"
-excerpt: "De dormitorios submarinos en Maldivas a una cápsula transparente colgada de un acantilado en Perú: 30 de las experiencias hoteleras más extraordinarias e insólitas del mundo, por categorías."
+excerpt: "De dormitorios submarinos en Maldivas a una cápsula transparente colgada de un acantilado en Perú: 30 experiencias hoteleras extraordinarias e insólitas de todo el mundo, por categorías."
 seo:
   metaTitle: "Los 30 hoteles más insólitos del mundo | StayAtNiche"
-  metaDescription: "Los hoteles más insólitos del mundo: dormitorios submarinos, suites de hielo, cabañas en los árboles, cuevas, cápsulas en acantilados y alojamientos únicos."
+  metaDescription: "Hoteles insólitos de todo el mundo: dormitorios submarinos, suites de hielo, cabañas en los árboles, cuevas, cápsulas en acantilados y alojamientos únicos."
 ---
 
 En el mundo sobran habitaciones de hotel de color beis. Si estás leyendo esto, ya sabes que hay otra manera: alojamientos tan originales que la propia estancia se convierte en el centro del viaje. Hemos catalogado los ejemplos más extraordinarios en todas las categorías imaginables.
@@ -27,7 +27,7 @@ La habitación sumergida del artista conceptual Mikael Genberg está 3 metros ba
 
 **Laponia finlandesa | Desde 450 US$/noche**
 
-El iglú de cristal que dio lugar a mil imitaciones. Las burbujas de cristal térmico de Kakslauttanen se diseñaron con un revestimiento calefactado que evita la condensación y la acumulación de nieve, para que tengas una vista despejada de la aurora boreal desde la cama. El resort está a 69° N de latitud, en la Laponia finlandesa, bajo algunos de los cielos más oscuros y con más auroras de Europa. El original, y todavía el mejor de su categoría.
+El iglú de cristal que dio lugar a mil imitaciones. Las burbujas de cristal térmico de Kakslauttanen se diseñaron con un revestimiento calefactado que evita la condensación y la acumulación de nieve, para que tengas una vista despejada de la aurora boreal desde la cama. El resort está a 69° N de latitud, en la Laponia finlandesa, bajo algunos de los cielos más oscuros y con más auroras de Europa. El original de su categoría, y todavía un referente.
 
 **Provenza, Francia | Desde 280 US$/noche**
 
@@ -83,7 +83,7 @@ Un castillo del siglo XIII a orillas del Lough Corrib, en el condado de Mayo, co
 
 **Condado de Clare, Irlanda | Desde 350 US$/noche**
 
-La casa solariega de la familia O'Brien, descendientes del gran rey de Irlanda Brian Boru, es hoy un hotel de cinco estrellas rodeado de 450 acres de bosque y un lago privado. Golf, pesca, cetrería y esa grandeza señorial que hace de la oferta irlandesa de hoteles castillo la mejor del mundo.
+La casa solariega de la familia O'Brien, descendientes del gran rey de Irlanda Brian Boru, es hoy un hotel de cinco estrellas rodeado de 450 acres de bosque y un lago privado. Golf, pesca, cetrería y esa grandeza señorial que hace tan singular la oferta irlandesa de hoteles castillo.
 
 **Sutherland, Escocia | Desde 900 US$/noche (las tarifas de socio varían)**
 
@@ -127,12 +127,12 @@ No es un hotel en el sentido convencional, pero los vagones azul y oro originale
 
 **Escocia | Desde 2.500 US$/noche**
 
-El viaje en tren más lujoso de Escocia recorre las Highlands en 2–7 noches, con paradas para visitar destilerías, castillos y pueblos costeros. Los vagones datan de los años sesenta y se han restaurado con una grandeza eduardiana. Lo bastante pequeño como para resultar cercano (un máximo de 36 pasajeros), con productos escoceses, whiskies de malta y auténticos paisajes de las Highlands de serie.
+Un lujoso viaje en tren por Escocia recorre las Highlands en 2–7 noches, con paradas para visitar destilerías, castillos y pueblos costeros. Los vagones datan de los años sesenta y se han restaurado con una grandeza eduardiana. Lo bastante pequeño como para resultar cercano (un máximo de 36 pasajeros), con productos escoceses, whiskies de malta y auténticos paisajes de las Highlands de serie.
 
 
 **Uluru, Australia | Desde 1.800 US$/noche con todo incluido**
 
-La experiencia definitiva en Uluru. Quince pabellones-tienda miran directamente a la roca, orientados para que veas a Uluru cambiar de color al amanecer y al atardecer desde tu terraza privada. La tienda comedor sirve comida y vino australianos excepcionales. El programa de guías (cultural, geológico, astronómico) es el más completo de Uluru. Así es como se ve como es debido uno de los grandes monumentos naturales de la Tierra.
+La experiencia definitiva en Uluru. Quince pabellones-tienda miran directamente a la roca, orientados para que veas a Uluru cambiar de color al amanecer y al atardecer desde tu terraza privada. La tienda comedor sirve comida y vino australianos excepcionales. El programa de guías (cultural, geológico, astronómico) es de los más completos de Uluru. Así es como se ve como es debido uno de los grandes monumentos naturales de la Tierra.
 
 **Desierto de Agafay, Marruecos | Desde 300 US$/noche**
 

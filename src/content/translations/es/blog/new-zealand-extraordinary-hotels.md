@@ -87,7 +87,7 @@ A veinte minutos al norte de Queenstown, a orillas del lago Wakatipu, Blanket Ba
 
 
 
-Nueva Zelanda es uno de los mejores destinos del mundo para recorrer en coche por tu cuenta. Las distancias son asumibles, las carreteras asfaltadas están bien mantenidas y la Isla Sur, en particular, premia detenerse allí donde el paisaje lo pide. Un itinerario por carretera que combine una o dos estancias en lodges con alojamientos más sencillos es uno de los viajes por carretera más gratificantes que existen.
+Nueva Zelanda es un destino muy valorado para recorrer en coche por tu cuenta. Las distancias son asumibles, las carreteras asfaltadas están bien mantenidas y la Isla Sur, en particular, premia detenerse allí donde el paisaje lo pide. Un itinerario por carretera que combine una o dos estancias en lodges con alojamientos más sencillos es uno de los viajes por carretera más gratificantes que existen.
 
 Para alojamientos con acceso en helicóptero como Minaret Station, o si vas a encadenar varios lodges, merece la pena recurrir a una agencia especializada en Nueva Zelanda, como World Journeys, los alojamientos miembros de Luxury Lodges of New Zealand o los itinerarios de Virgin Limited Edition NZ. Tienen cupos y un conocimiento local que las agencias en línea generalistas no tienen.
 

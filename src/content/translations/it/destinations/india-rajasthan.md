@@ -13,7 +13,7 @@ bestTimeToVisit:
   details: "Da ottobre a marzo si viaggia comodamente: di giorno 20–28 °C, umidità bassa e cieli limpidi. Da novembre a febbraio è alta stagione, con i prezzi più cari e la folla nei siti principali. Ad aprile e maggio il caldo diventa estremo (oltre 45 °C a Jaisalmer). Il monsone, da luglio a settembre, rinverdisce il paesaggio e riempie i laghi, ma le grandi feste come Diwali (ottobre/novembre) e la fiera dei cammelli di Pushkar (novembre) cadono nella stagione fresca."
 mustSee:
   - "Il forte di Amber a Jaipur, fortezza del XVI secolo in cima a una collina, da raggiungere a dorso d’elefante o in jeep, con sale straordinarie intarsiate di specchi"
-  - "Il forte di Mehrangarh a Jodhpur, il più grande forte rajput dell’India, che svetta 120 metri sopra la «città blu»"
+  - "Il forte di Mehrangarh a Jodhpur, uno dei forti rajput più noti dell’India, che svetta 120 metri sopra la «città blu»"
   - "Il lago Pichola al tramonto a Udaipur, con i palazzi di marmo bianco della città dei laghi riflessi nell’acqua immobile"
   - "Il forte di Jaisalmer, fortezza viva di arenaria del XII secolo con case abitate, templi e haveli dentro le mura"
   - "Le dune di Sam: safari in cammello e notte in campo tendato nel deserto del Thar al tramonto"
@@ -26,7 +26,7 @@ travelTips:
   - "Molti templi vietano ai non induisti l’accesso ai santuari interni: rispetta queste regole e non tentare di entrare se i cartelli lo proibiscono."
 seo:
   metaTitle: "Rajasthan: palazzi-hotel e forti nel deserto | StayAtNiche"
-  metaDescription: "Guida al Rajasthan: palazzi-hotel, il forte di Amber, il lago Pichola a Udaipur, i campi nel deserto di Jaisalmer e gli hotel d’epoca più belli dell’India."
+  metaDescription: "Guida al Rajasthan: palazzi-hotel, il forte di Amber, il lago Pichola a Udaipur, i campi nel deserto di Jaisalmer e hotel d’epoca di grande fascino in India."
 ---
 
 Accanto al Rajasthan, qualsiasi altra destinazione sembra misurata. Basta la scala delle fortezze, le mura di Mehrangarh che si innalzano a picco sulla roccia sopra la città vecchia di Jodhpur tinta di blu, i bastioni di arenaria dorata di Jaisalmer che si accendono nella luce della sera, per raccontare una storia di ambizione e potere che pretendeva di manifestarsi fisicamente a ogni passo. Questa era la terra di re guerrieri e principi mercanti che costruivano in pietra, marmo e piastrelle a specchio con un’abilità fuori dal comune, e che hanno lasciato in eredità un paesaggio oggi tra i più straordinari al mondo per gli hotel d’epoca.

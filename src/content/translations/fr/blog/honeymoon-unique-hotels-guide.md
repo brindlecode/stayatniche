@@ -1,7 +1,7 @@
 ---
 source: honeymoon-unique-hotels-guide
-title: "Le guide ultime des hôtels de lune de miel : des adresses d'exception pour le plus romantique des voyages"
-excerpt: "Votre lune de miel mérite l'extraordinaire. Des îles privées de l'océan Indien aux suites troglodytes perchées de Cappadoce, voici les hôtels d'exception les plus romantiques du monde."
+title: "Le guide ultime des hôtels de lune de miel : des adresses d'exception pour votre voyage le plus romantique"
+excerpt: "Votre lune de miel mérite l'extraordinaire. Des îles privées de l'océan Indien aux suites troglodytes perchées de Cappadoce, voici des hôtels d'exception pensés pour la romance."
 seo:
   metaTitle: "Lune de miel : hôtels insolites et romantiques | StayAtNiche"
   metaDescription: "Les hôtels de lune de miel les plus beaux du monde : îles privées, villas sur pilotis, cabanes dans la jungle et suites troglodytes pour partir à deux."

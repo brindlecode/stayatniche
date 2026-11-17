@@ -1,7 +1,7 @@
 ---
 source: arizona-grand-canyon
 name: "Grand Canyon, Arizona"
-description: "Il Grand Canyon è la più spettacolare finestra geologica della Terra: un abisso profondo un miglio che attraversa 1,8 miliardi di anni di roccia, scavato dal fiume Colorado nell’arco di cinque milioni di anni. Lontano dalla folla dei belvedere, un mondo fatto di escursioni nel canyon, rafting sul Colorado e natura selvaggia del North Rim offre soggiorni capaci di trasformare uno dei luoghi più visitati al mondo in qualcosa di sorprendentemente intimo."
+description: "Il Grand Canyon è una delle finestre geologiche più spettacolari della Terra: un abisso profondo un miglio che attraversa 1,8 miliardi di anni di roccia, scavato dal fiume Colorado nell’arco di cinque milioni di anni. Lontano dalla folla dei belvedere, un mondo fatto di escursioni nel canyon, rafting sul Colorado e natura selvaggia del North Rim offre soggiorni capaci di trasformare uno dei luoghi più visitati al mondo in qualcosa di sorprendentemente intimo."
 essentials:
   currency: "USD"
   language: "Inglese"

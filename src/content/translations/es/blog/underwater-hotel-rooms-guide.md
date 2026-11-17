@@ -1,15 +1,15 @@
 ---
 source: underwater-hotel-rooms-guide
 title: "Habitaciones submarinas: guía completa para dormir bajo la superficie"
-excerpt: "Del extraordinario Conrad Rangali de Maldivas al Utter Inn sumergido en un lago de Suecia, descubre las habitaciones y suites submarinas más extraordinarias del mundo."
+excerpt: "Del extraordinario Conrad Rangali de Maldivas al Utter Inn sumergido en un lago de Suecia, descubre habitaciones y suites submarinas extraordinarias."
 seo:
   metaTitle: "Habitaciones submarinas: guía completa | StayAtNiche"
-  metaDescription: "Las mejores habitaciones submarinas del mundo, de Maldivas a Tanzania y Suecia: duerme bajo el mar rodeado de coral y peces tropicales con todo el lujo."
+  metaDescription: "Habitaciones submarinas, de Maldivas a Tanzania y Suecia: duerme bajo el mar rodeado de coral y peces tropicales con todo el lujo."
 ---
 
 Despertar a las 5 de la mañana y ver un pez Napoleón deslizarse frente a la ventana de tu dormitorio, con sus escamas iridiscentes atrapando la primera luz filtrada desde la superficie y un tiburón de arrecife patrullando en silencio detrás: es una experiencia que redefine lo que puede ser una estancia en un hotel. Las habitaciones submarinas sitúan a sus huéspedes en una intimidad extraordinaria con el mundo marino y convierten el simple hecho de dormir en una inmersión en uno de los ecosistemas más complejos del planeta.
 
-En las dos últimas décadas, el alojamiento submarino ha pasado de ser una curiosidad de ingeniería a una auténtica categoría de lujo. Si los primeros ejemplos eran básicamente experiencias novedosas (pequeñas, técnicamente impresionantes pero algo espartanas), las mejores habitaciones submarinas actuales combinan un verdadero logro de ingeniería con la calidad de acabados, servicio y cocina que esperan los huéspedes de los mejores hoteles del mundo. The Muraka, la villa submarina del Conrad Maldives Rangali Island, cuesta 50.000 US$ por noche y es, posiblemente, la habitación de hotel más ambiciosa jamás construida, tanto en tecnología como en experiencia.
+En las dos últimas décadas, el alojamiento submarino ha pasado de ser una curiosidad de ingeniería a una auténtica categoría de lujo. Si los primeros ejemplos eran básicamente experiencias novedosas (pequeñas, técnicamente impresionantes pero algo espartanas), las mejores habitaciones submarinas actuales combinan un verdadero logro de ingeniería con la calidad de acabados, servicio y cocina que esperan los huéspedes de los mejores hoteles del mundo. The Muraka, la villa submarina del Conrad Maldives Rangali Island, cuesta 50.000 US$ por noche y es una de las habitaciones de hotel más ambiciosas jamás construidas, tanto en tecnología como en experiencia.
 
 Esta guía recorre todas las habitaciones submarinas de hotel relevantes del mundo (hay menos de las que crees), junto con consejos prácticos sobre qué esperar cuando duermes bajo la superficie.
 
@@ -19,7 +19,7 @@ Esta guía recorre todas las habitaciones submarinas de hotel relevantes del mun
 El extraordinario entorno marino de Maldivas (aguas cálidas y transparentes con una visibilidad que a menudo supera los 30 metros y arrecifes de coral que albergan parte de la mayor biodiversidad del océano Índico) lo convierte en el hogar natural de los mejores alojamientos submarinos del mundo.
 
 
-The Muraka («coral» en dhivehi) es, sin ninguna duda, la habitación de hotel submarina más extraordinaria del mundo. Inaugurada en 2018, esta estructura de dos niveles está a 5 metros bajo la superficie del océano Índico, en el arrecife exterior de la laguna del Conrad Maldives Rangali Island, en el atolón de Malé Norte. El nivel superior, sobre el agua, alberga salón, bar, gimnasio y cocina para el mayordomo; el inferior, al que se baja por una escalera de caracol, es una suite con dormitorio principal completamente encerrada en acrílico, con vistas de 270 grados al arrecife de coral que la rodea.
+The Muraka («coral» en dhivehi) es una de las habitaciones de hotel submarinas más extraordinarias del mundo. Inaugurada en 2018, esta estructura de dos niveles está a 5 metros bajo la superficie del océano Índico, en el arrecife exterior de la laguna del Conrad Maldives Rangali Island, en el atolón de Malé Norte. El nivel superior, sobre el agua, alberga salón, bar, gimnasio y cocina para el mayordomo; el inferior, al que se baja por una escalera de caracol, es una suite con dormitorio principal completamente encerrada en acrílico, con vistas de 270 grados al arrecife de coral que la rodea.
 
 The Muraka tiene capacidad para una pareja o una familia de cuatro. Una bióloga marina está a disposición de los huéspedes para guiarlos por el arrecife desde el acceso privado de la villa; el servicio de mayordomo es de 24 horas, y la ingeniería necesaria para mantener la estructura (compensación de presión, climatización, control de la integridad estructural) es realmente impresionante.
 
@@ -41,7 +41,7 @@ Aunque no es propiamente un dormitorio submarino, el spa subterráneo de Huvafen
 ---
 
 
-La habitación submarina de The Manta Resort, en la isla de Pemba, frente a la costa de Tanzania, es la experiencia de dormitorio submarino con más ambiente y más carácter del mundo, aunque no pueda igualar el acabado técnico de los alojamientos de Maldivas. La estructura, una plataforma flotante anclada sobre un arrecife de coral en las cálidas aguas del océano Índico, tiene tres niveles: una azotea con solárium y zona de estar, una plataforma a nivel del mar con una escalerilla al agua y un dormitorio sumergido a 4 metros bajo la superficie. Dos ojos de buey y una ventana de cuerpo entero dan directamente al arrecife de coral.
+La habitación submarina de The Manta Resort, en la isla de Pemba, frente a la costa de Tanzania, es una de las experiencias de dormitorio submarino con más ambiente y carácter del mundo, aunque no pueda igualar el acabado técnico de los alojamientos de Maldivas. La estructura, una plataforma flotante anclada sobre un arrecife de coral en las cálidas aguas del océano Índico, tiene tres niveles: una azotea con solárium y zona de estar, una plataforma a nivel del mar con una escalerilla al agua y un dormitorio sumergido a 4 metros bajo la superficie. Dos ojos de buey y una ventana de cuerpo entero dan directamente al arrecife de coral.
 
 El dormitorio submarino es sorprendentemente amplio y muy acogedor. El aislamiento de la estructura, a la que solo se llega en barco desde el resort principal en tierra, crea una sensación de retiro que los alojamientos de Maldivas, con todo su pulido, no terminan de replicar. Mantas, tortugas, pulpos y peces de arrecife cruzan con regularidad el campo de visión. De noche, las luces submarinas atraen al plancton, que a su vez atrae a los peces; el espectáculo bioluminiscente resultante es una de las cosas más serenamente extraordinarias que puedes contemplar desde la cama de un hotel.
 

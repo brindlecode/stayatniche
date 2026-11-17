@@ -7,7 +7,7 @@ stats:
   topDestination: "Maine, USA"
 seo:
   metaTitle: "Leuchtturmhotels: Übernachten im Leuchtturm | StayAtNiche"
-  metaDescription: "Außergewöhnliche Leuchtturmhotels: Übernachten Sie in umgebauten Leuchttürmen mit Meerblick, wilden Küsten und maritimer Geschichte."
+  metaDescription: "Außergewöhnliche Leuchtturmhotels: Übernachten Sie in umgebauten Leuchttürmen mit Meerblick, wilden Küsten und maritimer Geschichte rund um die Welt."
 ---
 
 Leuchttürme wurden gezielt an den gefährlichsten Küstenabschnitten der Welt errichtet – auf Landzungen, Felsriffen und Sandbänken –, und genau dorthin führt Sie ein Aufenthalt in einem von ihnen. Felsige Inselchen, nur per Privatboot erreichbar. Ausgesetzte Kaps mit Meer in jeder Richtung. Diese Verbindung aus radikaler Abgeschiedenheit und echter Seefahrtsgeschichte macht umgebaute Leuchttürme zu etwas, das es in der herkömmlichen Hotellerie nicht gibt.

@@ -16,7 +16,7 @@ mustSee:
   - "Deadvlei, foresta fantasma di acacie di 900 anni in una depressione d’argilla bianca"
   - "Etosha National Park, un immenso lago salato con elefanti, leoni e rinoceronti neri eccezionali"
   - "Fish River Canyon, il secondo canyon più grande della Terra dopo il Grand Canyon"
-  - "Skeleton Coast, tra relitti, colonie di otarie del Capo e la costa più remota del mondo"
+  - "Skeleton Coast, tra relitti, colonie di otarie del Capo e una delle coste più remote del mondo"
   - "Damaraland, con gli elefanti adattati al deserto e le antiche incisioni rupestri san di Twyfelfontein"
 travelTips:
   - "Il viaggio on the road in autonomia è la grande avventura della Namibia: strade eccellenti, distanze enormi e un camper 4x4 ti lascia la libertà di dormire ovunque ti trovi al tramonto."
@@ -26,7 +26,7 @@ travelTips:
   - "La Namibia è uno dei Paesi più sicuri dell’Africa per viaggiare in autonomia: la criminalità è bassa e le infrastrutture turistiche sono affidabili."
 seo:
   metaTitle: "Namibia: guida tra Sossusvlei, Etosha e lodge | StayAtNiche"
-  metaDescription: "Namibia: le dune di Sossusvlei, i safari a Etosha, la Skeleton Coast e i lodge nel deserto e campi tendati più straordinari d’Africa, tra spazi immensi e cieli puri."
+  metaDescription: "Namibia: le dune di Sossusvlei, i safari a Etosha, la Skeleton Coast e lodge nel deserto e campi tendati straordinari, tra spazi immensi e cieli puri."
 ---
 
 La Namibia accoglie meno di due milioni di turisti l’anno, pochi per un Paese che ha così tanto da offrire, e per questo qui il senso di natura selvaggia è autentico, non messo in scena. Nel Damaraland puoi guidare per quattro ore senza incrociare un’altra auto. Puoi dormire in un lodge nel deserto con il vicino più prossimo a 50 chilometri. Spazi intatti di questa portata sono sempre più rari. La Namibia è uno dei pochi luoghi dove sono ancora la norma.
@@ -37,7 +37,7 @@ Deadvlei colpisce ancora di più. È una distesa d’argilla bianca raggiungibil
 
 L’Etosha National Park ruota attorno all’Etosha Pan, un lago salato immenso, piatto e di un bianco accecante, che era un mare interno prima che un sollevamento tettonico lo prosciugasse circa cinque milioni di anni fa. Nella stagione secca le pozze lungo il bordo meridionale del pan attirano centinaia di elefanti, interi branchi di leoni, rinoceronti neri e bianchi, giraffe e zebre. La pozza illuminata del campo di Okaukuejo permette di osservare gli animali che si abbeverano per tutta la notte dalla recinzione: una delle postazioni di avvistamento più accessibili e costantemente generose d’Africa.
 
-Gli elefanti adattati al deserto del Damaraland e della valle del fiume Hoanib sopravvivono in paesaggi che ricevono meno di 25 mm di pioggia l’anno. Percorrono distanze enormi tra una fonte d’acqua e l’altra, scavano con le zampe nei letti asciutti dei fiumi per trovare acqua e mangiano piante che i loro simili del Chobe o di Amboseli ignorerebbero. Vedere una famiglia materializzarsi da un pendio roccioso e scendere in silenzio in un letto di fiume asciutto è uno dei grandi incontri con la fauna africana.
+Gli elefanti adattati al deserto del Damaraland e della valle del fiume Hoanib sopravvivono in paesaggi che ricevono meno di 25 mm di pioggia l’anno. Percorrono distanze enormi tra una fonte d’acqua e l’altra, scavano con le zampe nei letti asciutti dei fiumi per trovare acqua e mangiano piante che i loro simili del Chobe o di Amboseli ignorerebbero. Vedere una famiglia materializzarsi da un pendio roccioso e scendere in silenzio in un letto di fiume asciutto è un incontro memorabile con la fauna africana.
 
 La Skeleton Coast, che deve il nome alle ossa di balena sbiancate e ai relitti delle navi i cui marinai non avevano speranza di sopravvivere in un deserto senz’acqua, oggi è accessibile solo in aereo, attraverso [lodge per safari](/categories/safari-lodges) che operano in concessione con limiti severi. Cape Cross, un po’ più raggiungibile su strada, ospita una colonia di oltre 100.000 otarie del Capo. Il frastuono, l’odore e lo spettacolo in sé non hanno eguali nel continente.
 

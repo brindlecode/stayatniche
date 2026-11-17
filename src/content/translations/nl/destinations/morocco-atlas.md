@@ -1,7 +1,7 @@
 ---
 source: morocco-atlas
 name: "Marokko en het Atlasgebergte"
-description: "Marokko stapelt eeuwenoude medina's, Saharaduinen en het besneeuwde Hoge Atlasgebergte op elkaar tot één land vol buitengewone contrasten. Van de doolhofachtige soeks van Fez tot de stilte van de duinen van Erg Chebbi bij zonsopgang: het is een van de zintuiglijk rijkste reisbestemmingen ter wereld, met een logeercultuur van ongeëvenaard vakmanschap en schoonheid."
+description: "Marokko stapelt eeuwenoude medina's, Saharaduinen en het besneeuwde Hoge Atlasgebergte op elkaar tot één land vol buitengewone contrasten. Van de doolhofachtige soeks van Fez tot de stilte van de duinen van Erg Chebbi bij zonsopgang: het is een van de zintuiglijk rijkste reisbestemmingen ter wereld, met een logeercultuur van buitengewoon vakmanschap en schoonheid."
 essentials:
   currency: "MAD (Marokkaanse dirham); buiten de grote steden is contant geld onmisbaar"
   language: "Arabisch en Tamazight (Berbers; beide officieel); Frans wordt veel gesproken; in het dagelijks leven Darija (Marokkaans Arabisch)"
@@ -23,10 +23,10 @@ travelTips:
   - "Afdingen hoort erbij in de soeks. Begin op zo'n 40% van de vraagprijs en werk van daaruit omhoog; weglopen levert vaak een beter bod op."
   - "Kleed je bedekt in medina's en op het platteland; schouders en knieën bedekken is het minimum. Vrouwen kunnen in sommige wijken hoe dan ook ongewenste aandacht krijgen."
   - "Pas op voor ronselaars die je op commissiebasis naar de tapijtwinkel van 'hun neef' willen brengen. Sla het beleefd af en ga zelf op pad of met een erkende gids."
-  - "Voor de beste riads moet je ruim vooruit boeken: de mooiste boetiekadressen van Marokko zitten voor de lente en de herfst maanden van tevoren vol."
+  - "Voor de beste riads moet je ruim vooruit boeken: de meest gewilde boetiekadressen van Marokko zitten voor de lente en de herfst maanden van tevoren vol."
 seo:
   metaTitle: "Marokko reisgids: Sahara, Atlas en riads | StayAtNiche"
-  metaDescription: "Reisgids Marokko: de medina van Fez, Saharaduinen, trektochten in de Atlas en de meest bijzondere riads en woestijnkampen van het land. Alles voor je reis."
+  metaDescription: "Reisgids Marokko: de medina van Fez, Saharaduinen, trektochten in de Atlas en bijzondere riads en woestijnkampen. Alles voor je reis naar Marokko."
 ---
 
 Al eeuwenlang trekt Marokko reizigers over de Straat van Gibraltar, en het maakt elke reis waar. De Middellandse Zee in het noorden, de Atlantische Oceaan in het westen, de Sahara in het zuiden, en dwars door het midden de Hoge Atlas, tot bijna 4.200 meter hoog. Elke zone heeft zijn eigen klimaat, cultuur en logica. Weinig landen proppen zoveel contrast in één reisroute.

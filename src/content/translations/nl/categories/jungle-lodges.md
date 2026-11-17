@@ -2,12 +2,12 @@
 source: jungle-lodges
 title: Junglelodges
 tagline: "Diep in het bladerdak, ver van het gewone"
-description: "Van lodges in het nevelwoud van Costa Rica tot rivierkampen bij de orang-oetans van Borneo en afgelegen verblijven diep in het Amazonebekken van Peru en Brazilië: junglelodges bieden een onderdompeling in biodiversiteit waar geen andere categorie aan kan tippen. Bijzondere dieren, oerklanken en echte luxe maken deze verblijven in het regenwoud tot de meest onvergetelijke ter wereld."
+description: "Van lodges in het nevelwoud van Costa Rica tot rivierkampen bij de orang-oetans van Borneo en afgelegen verblijven diep in het Amazonebekken van Peru en Brazilië: junglelodges bieden een onderdompeling in biodiversiteit waar weinig andere categorieën aan kunnen tippen. Bijzondere dieren, oerklanken en echte luxe maken deze verblijven in het regenwoud tot de meest onvergetelijke ter wereld."
 stats:
   topDestination: "Costa Rica"
 seo:
   metaTitle: "Junglelodges: luxe in het regenwoud | StayAtNiche"
-  metaDescription: "Slapen in de jungle: de mooiste junglelodges in Costa Rica, Borneo, de Amazone en verder. Luxe verblijven in het regenwoud met apen en ara's om je heen."
+  metaDescription: "Slapen in de jungle: bijzondere junglelodges in Costa Rica, Borneo, de Amazone en verder. Luxe verblijven in het regenwoud met apen en ara's om je heen."
 ---
 
 Om 5 uur 's ochtends word je gewekt door brulapen. Rode ara's vliegen voorbij terwijl je ontbijt. Sporen van een jaguar verschijnen op de rivieroever voordat de gidsen hun koffie op hebben. Dit zijn geen hoogtepunten uit een compilatie. In een goede junglelodge, midden in primair regenwoud, is dit gewoon een dinsdag.
@@ -30,7 +30,7 @@ De beste junglelodges zijn onderdeel van natuurbehoud, niet alleen maar in de bu
 De Certification for Sustainable Tourism (CST) van Costa Rica en het partnerschap met de Rainforest Alliance bieden onafhankelijk getoetste maatstaven. Dat onderscheid heeft praktische gevolgen: lodges die echt met natuurbehoud verweven zijn, bieden betere ontmoetingen met dieren, omdat die gezonder zijn, talrijker en minder gewend aan verstoring.
 
 
-**Costa Rica** heeft de meest geavanceerde infrastructuur van ecolodges ter wereld. Het netwerk van nationale parken beslaat meer dan 25% van het land, en de lodges op het schiereiland Osa (naast Corcovado, door National Geographic de plek met de grootste biodiversiteit op aarde genoemd), in Tortuguero en in het nevelwoud van Monteverde behoren wereldwijd tot de top van de categorie.
+**Costa Rica** heeft een zeer ontwikkelde infrastructuur van ecolodges. Het netwerk van nationale parken beslaat meer dan 25% van het land, en de lodges op het schiereiland Osa (naast Corcovado, door National Geographic de plek met de grootste biodiversiteit op aarde genoemd), in Tortuguero en in het nevelwoud van Monteverde behoren wereldwijd tot de toonaangevende voorbeelden van de categorie.
 
 **Borneo** biedt ontmoetingen met halfwilde orang-oetans, naast neusapen, dwergolifanten en een van de rijkste vogellijsten ter wereld. Lodges aan de rivier in Sabah en Sarawak zijn er de standaard. **De Peruaanse Amazone**, vooral rond het Tambopata National Reserve bij Puerto Maldonado, is een van de meest intacte delen van het Amazonebekken – de kleilikplaatsen die honderden ara's tegelijk aantrekken, zijn met niets anders in de wildlifewereld te vergelijken.
 

@@ -1,11 +1,11 @@
 ---
 source: jao-camp-botswana
 destination: Concessione di Jao, delta dell’Okavango
-description: "Il Jao Camp occupa una delle concessioni più belle del delta dell’Okavango, una natura selvaggia privata di 60.000 acri fatta di pianure alluvionali permanenti e stagionali, isole e canali, che ospita alcune delle concentrazioni di fauna più dense d’Africa. L’architettura in stile casa sugli alberi e il servizio di Wilderness Safaris ne fanno uno dei lodge per safari più singolari del continente."
+description: "Il Jao Camp occupa una concessione del delta dell’Okavango, una natura selvaggia privata di 60.000 acri fatta di pianure alluvionali permanenti e stagionali, isole e canali, che ospita alcune delle concentrazioni di fauna più dense d’Africa. L’architettura in stile casa sugli alberi e il servizio di Wilderness Safaris ne fanno uno dei lodge per safari più singolari del continente."
 highlights:
   - Una straordinaria concessione privata di 60.000 acri nel cuore del delta dell’Okavango
   - Safari con attività diverse, fotosafari in fuoristrada, mokoro, motoscafo e a piedi
-  - Alcune delle migliori concentrazioni di grandi mammiferi dell’Okavango
+  - Notevoli concentrazioni di grandi mammiferi nell’Okavango
   - Il ciclo delle piene del delta crea paesaggi stagionali sempre diversi
   - Rare mandrie di lichi rossi e sitatunga nelle pianure alluvionali
   - Birdwatching eccezionale, oltre 400 specie nella concessione
@@ -57,6 +57,6 @@ Il Jao Camp si trova in una concessione privata di 60.000 acri che racchiude in 
 
 L’architettura risponde all’ambiente sopraelevato delle isole con suite costruite su piattaforme sollevate dal suolo, i cui tetti di paglia si fondono con le chiome degli alberi circostanti. In alcune suite la piscina privata si protende sulla pianura alluvionale, e gli spazi all’aperto sono pensati per osservare gli animali che passano sotto e intorno alla struttura. Gli elefanti camminano spesso a pochi metri dalle zone degli ospiti, e il canto degli uccelli che si sente dalla terrazza di una suite al primo mattino è già di per sé un’esperienza naturalistica.
 
-Il birdwatching nella concessione di Jao è tra i migliori di tutta l’Africa. Nella zona sono state registrate oltre 400 specie, dai colori vivaci di gruccioni e martin pescatori all’imponente gufo pescatore di Pel, che di notte caccia nei canali, fino all’aquila pescatrice africana, il cui grido è il suono che definisce le acque d’Africa. Si possono organizzare attività dedicate al birdwatching, e le conoscenze delle guide specializzate sono eccezionali.
+Il birdwatching nella concessione di Jao è eccellente. Nella zona sono state registrate oltre 400 specie, dai colori vivaci di gruccioni e martin pescatori all’imponente gufo pescatore di Pel, che di notte caccia nei canali, fino all’aquila pescatrice africana, il cui grido è il suono che definisce le acque d’Africa. Si possono organizzare attività dedicate al birdwatching, e le conoscenze delle guide specializzate sono eccezionali.
 
 A Jao si arriva solo in aereo: i voli charter da Maun, a sua volta collegata a Johannesburg e ad altri scali regionali, durano circa 45 minuti e regalano sul delta alcune delle prospettive più impressionanti su questo paesaggio. Il costo all-inclusive riflette la complessità di gestire un campo di alto livello in uno dei luoghi più remoti e logisticamente difficili del mondo, ma per chi fa di questa dimensione selvaggia lo scopo stesso del viaggio, il risultato non scende a compromessi.

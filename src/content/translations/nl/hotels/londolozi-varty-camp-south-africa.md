@@ -1,10 +1,10 @@
 ---
 source: londolozi-varty-camp-south-africa
 destination: "Sabi Sand Game Reserve, Mpumalanga"
-description: "Londolozi is de plek waar de moderne luxesafari werd uitgevonden. Het oorspronkelijke Varty Camp, in de jaren zeventig opgezet door de familie Varty en in vijf decennia verfijnd tot een van de meest gevierde lodges van Afrika, ligt aan de oever van de Sand River in het Sabi Sand Game Reserve. Het deelt een onomheinde grens met Kruger National Park en biedt een van de beste kansen ter wereld om luipaarden te zien."
+description: "Londolozi is een wegbereider van de moderne luxesafari. Het oorspronkelijke Varty Camp, in de jaren zeventig opgezet door de familie Varty en in vijf decennia verfijnd tot een van de meest gevierde lodges van Afrika, ligt aan de oever van de Sand River in het Sabi Sand Game Reserve. Het deelt een onomheinde grens met Kruger National Park en biedt uitstekende kansen om luipaarden te zien."
 highlights:
-  - "Geboorteplaats van de moderne Afrikaanse luxesafari"
-  - "Wereldberoemde luipaardwaarnemingen, gewende dieren met bekende stambomen"
+  - "Wegbereider van de moderne Afrikaanse luxesafari"
+  - "Befaamde luipaardwaarnemingen, gewende dieren met bekende stambomen"
   - "Onomheinde grens met Kruger National Park, alle dieren trekken vrij rond"
   - "Vijf generaties luipaardfamilies hier gedocumenteerd en gefotografeerd"
   - "De Sand River zorgt voor uitzonderlijke wildwaarnemingen aan het water"
@@ -25,8 +25,8 @@ bestFor:
   - "Reizigers die safarigeschiedenis en -erfgoed zoeken"
 prosAndCons:
   pros:
-    - "De betrouwbaarste luipaardwaarnemingen van Afrika, dankzij tientallen jaren gewenning"
-    - "Het team van rangers en spoorzoekers kent de individuele dieren als geen ander"
+    - "Betrouwbare luipaardwaarnemingen, dankzij tientallen jaren gewenning"
+    - "Het team van rangers en spoorzoekers kent de individuele dieren uitzonderlijk goed"
     - "Een echt gevoel van safarigeschiedenis dat geen nieuwer kamp kan nabootsen"
     - "Uitstekende gezinssafari met een doordacht kinderprogramma"
   cons:
@@ -54,7 +54,7 @@ seo:
 
 Elke luxesafari in Afrika is vandaag iets verschuldigd aan Londolozi. Toen Dave en John Varty in de jaren zeventig gasten begonnen uit te nodigen op de wildboerderij van hun familie aan de Sand River, legden ze de basis voor een branche die nog niet bestond: een combinatie van echte onderdompeling in de wildernis met een comfort en service die je tot dan toe alleen van stadshotels kende. Wat ze bijna bij toeval ontdekten, was dat die twee elkaar versterkten. Betere omstandigheden trokken gasten aan die zich dieper met het land konden verbinden, en het land, vooral de luipaarden, had meer te bieden dan iemand ooit had gedacht.
 
-De luipaarden zijn het verhaal dat Londolozi bepaalt. In meer dan vijftig jaar hebben de rangers en spoorzoekers een band opgebouwd met opeenvolgende generaties individuele dieren. Ze legden hun stambomen, territoria en gedrag vast in een kennisbank die in de safariwereld zijn weerga niet kent. De 'Londolozi-luipaarden', te beginnen met het Female of Sparta in de jaren zeventig en via haar nakomelingen tot vandaag, vormen een levend, doorlopend archief van luipaardgedrag over meerdere generaties. Ontmoetingen met bekende dieren hebben daardoor een verhalende diepgang die ze tot meer maakt dan een wildwaarneming. Je ontmoet een bekende persoonlijkheid in een bekend verhaal.
+De luipaarden zijn het verhaal dat Londolozi bepaalt. In meer dan vijftig jaar hebben de rangers en spoorzoekers een band opgebouwd met opeenvolgende generaties individuele dieren. Ze legden hun stambomen, territoria en gedrag vast in een uitzonderlijk gedetailleerde kennisbank. De 'Londolozi-luipaarden', te beginnen met het Female of Sparta in de jaren zeventig en via haar nakomelingen tot vandaag, vormen een levend, doorlopend archief van luipaardgedrag over meerdere generaties. Ontmoetingen met bekende dieren hebben daardoor een verhalende diepgang die ze tot meer maakt dan een wildwaarneming. Je ontmoet een bekende persoonlijkheid in een bekend verhaal.
 
 Varty Camp, de oorspronkelijke lodge op het terrein, ligt in een bosje ebbenhoutbomen boven de bocht van de Sand River waar de familie Varty ooit haar eerste kamp opsloeg. Sinds de jaren zeventig is het flink veranderd. De suites combineren de warmte van het familiebezit, met houten terrassen, natuurlijke materialen en een gevoel van plek dat nieuwere lodges moeilijk kunnen namaken, met alle voorzieningen van een hedendaagse luxelodge. De plonsbaden en buitendouches met uitzicht op de rivierbedding zijn de plekken waar wild kijken en comfort het aangenaamst samenkomen.
 

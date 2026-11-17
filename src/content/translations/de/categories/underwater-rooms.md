@@ -7,7 +7,7 @@ stats:
   topDestination: "Malediven"
 seo:
   metaTitle: "Unterwasserhotels: Schlafen unter dem Meer | StayAtNiche"
-  metaDescription: "Exklusive Unterwasserzimmer auf den Malediven und anderswo: Schlafen Sie in Suiten, umgeben von Korallenriffen und Tropenfischen."
+  metaDescription: "Exklusive Unterwasserzimmer auf den Malediven und anderswo: Schlafen Sie in Suiten, umgeben von Korallenriffen und Tropenfischen – Reisetipps inklusive."
 ---
 
 Es gibt weltweit rund achtzehn Orte, an denen Sie unter der Meeresoberfläche einschlafen können, während Rifffische zwischen Korallen hindurchziehen und Mantarochen über Sie hinweggleiten. Je nach Saison und danach, welche Häuser gerade in Betrieb sind, auch weniger als achtzehn. Die Zahl wächst nur langsam, weil der Bau von Unterwasserzimmern wirklich schwierig und teuer ist – und genau deshalb bleiben sie die seltenste Kategorie des Reisens.

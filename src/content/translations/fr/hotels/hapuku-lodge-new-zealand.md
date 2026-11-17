@@ -26,9 +26,9 @@ bestFor:
 prosAndCons:
   pros:
     - "Une double vue spectaculaire, montagnes et océan, depuis le même balcon"
-    - "L'une des plus belles expériences de cabane perchée de luxe de l'hémisphère Sud"
+    - "Une expérience de cabane perchée de luxe très réputée de l'hémisphère Sud"
     - "Une cuisine remarquable, à base de produits réellement locaux"
-    - "Kaikōura offre certaines des plus belles rencontres avec la faune marine au monde"
+    - "Kaikōura offre des rencontres facilement accessibles avec la faune marine"
     - "Un service chaleureux et personnel, dans un établissement familial"
   cons:
     - "Kaikōura est à 2 h 30 de route de Christchurch"

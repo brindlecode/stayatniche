@@ -1,7 +1,7 @@
 ---
 source: australia-outback
 name: "Australische outback"
-description: "De Australische outback is een van de laatste grote lege gebieden op aarde: een oeroud rood landschap van okerkleurige vlakten, onwaarschijnlijk blauwe luchten en Aboriginal-rotskunst van tienduizenden jaren oud. Uluru en de omliggende woestijn bieden een diep ontroerende ontmoeting met geologie én menselijke geschiedenis, zoals nergens anders op aarde."
+description: "De Australische outback is een van de laatste grote lege gebieden op aarde: een oeroud rood landschap van okerkleurige vlakten, onwaarschijnlijk blauwe luchten en Aboriginal-rotskunst van tienduizenden jaren oud. Uluru en de omliggende woestijn bieden een diep ontroerende ontmoeting met geologie én menselijke geschiedenis, zoals op maar weinig andere plekken op aarde."
 essentials:
   currency: "AUD (Australische dollar)"
   language: "Engels; in gemeenschappen in de hele regio worden tientallen Aboriginal-talen gesproken"
@@ -12,7 +12,7 @@ bestTimeToVisit:
   summary: "Mei–september (koeler droog seizoen)"
   details: "De Australische winter (mei tot september) is de enige aangename tijd voor de outback: overdag is het 20 tot 28 °C, de nachten zijn fris maar niet onaangenaam koud. De zomer (oktober tot april) brengt extreme hitte, in het Red Centre is meer dan 45 °C heel gewoon, en af en toe plotselinge overstromingen die wegen dagenlang afsluiten. De tussenmaanden april en oktober hebben warme dagen en koude nachten, met uitstekende omstandigheden om Uluru te fotograferen."
 mustSee:
-  - "Uluru (Ayers Rock), met de kleurwisselingen bij zonsopgang en zonsondergang op 's werelds heiligste monoliet"
+  - "Uluru (Ayers Rock), met de kleurwisselingen bij zonsopgang en zonsondergang op een monoliet van diepe heilige betekenis voor de Anangu"
   - "Kata Tjuta (The Olgas), een formatie van 36 koepels met de Valley of the Winds-wandeling"
   - "Kings Canyon in Watarrka National Park, met zandsteenwanden van 270 m boven de Garden of Eden"
   - "Kakadu National Park, met eeuwenoude Aboriginal-rotskunst en uitgestrekte wetlands in de Top End"
@@ -26,7 +26,7 @@ travelTips:
   - "Schaf voor afgelegen reizen een satellietcommunicator aan (SPOT of Garmin inReach). In deze omgeving is dat echt levensreddende uitrusting."
 seo:
   metaTitle: "Australische outback: Uluru en woestijnlodges | StayAtNiche"
-  metaDescription: "Reisgids outback: Uluru, Kata Tjuta, Kakadu, de kloven van de Kimberley en de bijzonderste woestijn- en wildernislodges van Australië, van bubbel tot glamping."
+  metaDescription: "Reisgids outback: Uluru, Kata Tjuta, Kakadu, de kloven van de Kimberley en bijzondere woestijn- en wildernislodges, van bubbel tot glamping."
 ---
 
 De Australische outback beslaat zo'n 70 procent van het continent, maar er woont nog geen procent van de bevolking. De rots van Uluru is ongeveer 550 miljoen jaar oud. De verweerde bergen van de Pilbara in West-Australië bevatten een deel van het oudste blootliggende gesteente op aarde. De Aboriginal-volken van Australië leven al minstens 65.000 jaar in een ononderbroken relatie met dit landschap: de oudste levende cultuur ter wereld. Laat die feiten even op je inwerken voordat je aankomt.

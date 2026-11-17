@@ -1,15 +1,15 @@
 ---
 source: patagonia-remote-lodges-guide
 title: "Lodges remotos en la Patagonia: guía completa para alojarte en el fin del mundo"
-excerpt: "Los lodges remotos de la Patagonia ofrecen el alojamiento en plena naturaleza más espectacular de la Tierra: glaciares a la vista durante el desayuno, rastreo de pumas por la tarde y un silencio tan profundo que te transforma."
+excerpt: "Los lodges remotos de la Patagonia ofrecen algunos de los alojamientos en plena naturaleza más espectaculares del planeta: glaciares a la vista durante el desayuno, rastreo de pumas por la tarde y un silencio tan profundo que te transforma."
 seo:
   metaTitle: "Lodges remotos en la Patagonia: guía | StayAtNiche"
-  metaDescription: "Los lodges más remotos y extraordinarios de la Patagonia, de Torres del Paine a Tierra del Fuego y El Chaltén: precios, rastreo de pumas y cómo llegar."
+  metaDescription: "Lodges remotos y extraordinarios de la Patagonia, de Torres del Paine a Tierra del Fuego y El Chaltén: precios, rastreo de pumas y cómo llegar."
 ---
 
 La Patagonia ocupa el extremo sur de Sudamérica, donde la siguiente masa de tierra hacia el sur es la Antártida. Las torres de Torres del Paine se alzan a pico sobre la estepa. El Campo de Hielo Patagónico Sur, el tercero más grande del mundo después de los de la Antártida y Groenlandia, desprende glaciares directamente sobre los fiordos. Cóndores andinos con 3,2 metros de envergadura planean sobre cordilleras sin senderos.
 
-Los lodges que se han asentado en este paisaje en las dos últimas décadas exigieron una auténtica ambición logística para construirse. La comida llega desde poblaciones situadas a cientos de kilómetros. El personal vive en el alojamiento durante semanas. Las experiencias que hacen posibles (rastreo de pumas, caminatas sobre glaciares, observación de cóndores desde un jacuzzi) no existen con este nivel de calidad en ningún otro lugar de la Tierra.
+Los lodges que se han asentado en este paisaje en las dos últimas décadas exigieron una auténtica ambición logística para construirse. La comida llega desde poblaciones situadas a cientos de kilómetros. El personal vive en el alojamiento durante semanas. Las experiencias que hacen posibles (rastreo de pumas, caminatas sobre glaciares, observación de cóndores desde un jacuzzi) son difíciles de encontrar con este nivel de calidad en otros lugares.
 
 Esta guía recorre los mejores lodges de la Patagonia chilena y argentina, con información honesta sobre el acceso, las temporadas y lo que implica realmente el viaje.
 
@@ -18,7 +18,7 @@ Esta guía recorre los mejores lodges de la Patagonia chilena y argentina, con i
 
 «Patagonia» designa la parte meridional de Sudamérica, que abarca tanto Chile como Argentina y que, en general, se considera que empieza al sur del paralelo 40 y se extiende hasta Tierra del Fuego y el cabo de Hornos. Engloba paisajes de una diversidad espectacular:
 
-**Patagonia chilena:** el macizo del Paine y el parque nacional que lo rodea (el principal foco del turismo internacional), los fiordos de las regiones de Aysén y Magallanes, la remota Carretera Austral (la carretera sin asfaltar más espectacular del mundo) y el archipiélago de Tierra del Fuego.
+**Patagonia chilena:** el macizo del Paine y el parque nacional que lo rodea (el principal foco del turismo internacional), los fiordos de las regiones de Aysén y Magallanes, la remota Carretera Austral (una carretera sin asfaltar famosa por sus paisajes) y el archipiélago de Tierra del Fuego.
 
 **Patagonia argentina:** el glaciar Perito Moreno y el Parque Nacional Los Glaciares (Calafate), el macizo del Fitz Roy y El Chaltén (la capital del trekking), la península Valdés (con avistamiento de ballenas y colonias de pingüinos) y el sector argentino de Tierra del Fuego.
 
@@ -162,7 +162,7 @@ La temporada accesible de la Patagonia va de octubre a abril (primavera y otoño
 Quienes visitan la Patagonia la describen, una y otra vez, como la experiencia de paisaje más impactante de su vida. La distancia es real: Buenos Aires está a más de 13 horas de Londres y a 9 de Miami, a lo que hay que sumar las conexiones internas. Pero la combinación de escala, fauna y lejanía auténtica no existe con esta intensidad en ningún otro lugar. El viaje forma parte de la experiencia.
 
 
-El ecosistema de Torres del Paine alberga pumas (el depredador emblemático de la región y uno de los mejores lugares del mundo para ver pumas salvajes), guanacos (camélidos salvajes, parientes de la llama), cóndores andinos (con 3,2 m de envergadura, una de las aves voladoras más grandes del mundo), zorros grises, armadillos y el huemul, en peligro de extinción. La fauna marina (pingüinos, lobos marinos, delfines y, a veces, orcas) se puede ver en los fiordos chilenos y en el canal Beagle de Ushuaia.
+El ecosistema de Torres del Paine alberga pumas (el depredador emblemático de la región y un lugar reconocido para ver pumas salvajes), guanacos (camélidos salvajes, parientes de la llama), cóndores andinos (con 3,2 m de envergadura, una de las aves voladoras más grandes del mundo), zorros grises, armadillos y el huemul, en peligro de extinción. La fauna marina (pingüinos, lobos marinos, delfines y, a veces, orcas) se puede ver en los fiordos chilenos y en el canal Beagle de Ushuaia.
 
 
 Patagonia en lodges (no en camping ni en dormitorios compartidos): **gama de entrada** (cúpula estándar de EcoCamp): desde 400 US$/persona/noche. **Gama media** (Tierra Patagonia, habitación estándar de Explora): 700–1.200 US$/persona/noche. **Ultralujo** (Awasi, Yagan Camp): 1.400–2.500 US$/persona/noche. Un itinerario de 7 noches y dos destinos en lodges de gama media (Torres del Paine + Calafate) suele costar 5.000–9.000 US$ por persona con alojamiento y comidas, sin incluir los vuelos internacionales.

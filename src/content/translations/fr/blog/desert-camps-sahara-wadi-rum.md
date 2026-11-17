@@ -1,7 +1,7 @@
 ---
 source: desert-camps-sahara-wadi-rum
 title: "Camps dans le désert au Sahara et au Wadi Rum : le guide ultime pour dormir à la belle étoile"
-excerpt: "Des dunes de l'Erg Chebbi au Maroc aux vallées rouge rosé de Jordanie, découvrez les camps dans le désert les plus extraordinaires du monde, là où le silence et les étoiles redéfinissent le luxe."
+excerpt: "Des dunes de l'Erg Chebbi au Maroc aux vallées rouge rosé de Jordanie, découvrez des camps dans le désert extraordinaires, là où le silence et les étoiles redéfinissent le luxe."
 seo:
   metaTitle: "Camps dans le désert : Sahara et Wadi Rum | StayAtNiche"
   metaDescription: "Les plus beaux camps dans le désert du Sahara marocain et du Wadi Rum jordanien : nos conseils pour les tentes de luxe, l'observation des étoiles et l'aventure."
@@ -28,7 +28,7 @@ Installé loin dans les dunes, à l'écart de la concentration de camps proches 
 L'esprit du lieu est réfléchi plutôt que théâtral : pas de fausses torches ni de grooms en costumes caricaturaux, mais une recréation sincère de l'esthétique du camp berbère traditionnel au service d'un confort bien réel. Les repas sont préparés dans la cuisine du camp et servis autour d'un feu central ; le menu puise dans les traditions culinaires marocaines tout en s'adaptant aux régimes alimentaires d'aujourd'hui. Les balades à dos de dromadaire à l'aube et au crépuscule sont menées avec une dignité qui en fait de véritables expériences culturelles plutôt qu'un spectacle pour touristes.
 
 **Prix :** à partir de 200 € par personne et par nuit (pension complète)
-**Idéal pour :** les couples, les petits groupes, les voyageurs qui veulent la meilleure expérience de l'Erg Chebbi sans vernis trop standardisé
+**Idéal pour :** les couples, les petits groupes, les voyageurs qui veulent une expérience authentique de l'Erg Chebbi sans vernis trop standardisé
 
 **Dar Ahlam, Skoura (avec expéditions dans le désert)**
 

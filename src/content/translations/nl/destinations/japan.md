@@ -1,7 +1,7 @@
 ---
 source: japan
 name: Japan
-description: "Een archipel van vier grote eilanden en bijna 7.000 kleinere, waar oeroude bossen grenzen aan neonsteden, hogesnelheidstreinen tegenoverliggende kusten in een paar uur verbinden en de verfijndste gastvrijheidstraditie ter wereld – de ryokan – naast capsulehotels bestaat. Japan beloont elke vorm van betrokkenheid, van een eerste reis van twee weken tot een leven lang terugkeren."
+description: "Een archipel van vier grote eilanden en bijna 7.000 kleinere, waar oeroude bossen grenzen aan neonsteden, hogesnelheidstreinen tegenoverliggende kusten in een paar uur verbinden en een zeer verfijnde gastvrijheidstraditie – de ryokan – naast capsulehotels bestaat. Japan beloont elke vorm van betrokkenheid, van een eerste reis van twee weken tot een leven lang terugkeren."
 essentials:
   currency: "JPY (Japanse yen); contant geld wordt nog veel gebruikt, vooral in kleinere zaken en ryokans op het platteland"
   language: "Japans; Engelstalige borden op grote stations en in toeristische gebieden, minder op het platteland"
@@ -10,7 +10,7 @@ essentials:
   plugType: "Stekkertype A/B (100 V): een lagere spanning dan in de meeste landen, dus check of je apparaten dat aankunnen"
 bestTimeToVisit:
   summary: "Maart–april voor de kersenbloesem; oktober–november voor de herfstkleuren; december–februari voor poedersneeuw"
-  details: "Het kersenbloesemseizoen (eind maart tot half april, afhankelijk van de breedtegraad) is het spectaculairste jaarlijkse fenomeen van het land, maar ook het drukste. De herfstkleuren in oktober en november zijn net zo mooi, met minder drukte. De winter brengt skiën van wereldklasse op Hokkaido en in Nagano. De zomer (juli–augustus) is heet en vochtig; regionale festivals maken hem ondanks de hitte de moeite waard."
+  details: "Het kersenbloesemseizoen (eind maart tot half april, afhankelijk van de breedtegraad) is het spectaculairste jaarlijkse fenomeen van het land, maar ook het drukste. De herfstkleuren in oktober en november zijn net zo mooi, met minder drukte. De winter brengt skiën met een uitstekende reputatie op Hokkaido en in Nagano. De zomer (juli–augustus) is heet en vochtig; regionale festivals maken hem ondanks de hitte de moeite waard."
 mustSee:
   - "Fushimi Inari Taisha in Kyoto: duizenden vermiljoenrode toriipoorten die de berg op klimmen"
   - "Shirakawa-go in Gifu: een dorp met rieten boerderijen in een bergdal, op de Werelderfgoedlijst van UNESCO"

@@ -2,12 +2,12 @@
 source: treehouse-hotels
 title: Case sugli alberi
 tagline: "Dormire tra le chiome, sopra ogni cosa"
-description: "Sospese in alto sopra il sottobosco, le case sugli alberi trasformano un sogno d’infanzia in un lusso raffinato per adulti. Dai rifugi minimalisti in vetro e legno della Scandinavia alle piattaforme nella giungla tropicale di Costa Rica e Bali, queste fughe tra le chiome regalano un legame impareggiabile con la natura, avvolto in un comfort autentico."
+description: "Sospese in alto sopra il sottobosco, le case sugli alberi trasformano un sogno d’infanzia in un lusso raffinato per adulti. Dai rifugi minimalisti in vetro e legno della Scandinavia alle piattaforme nella giungla tropicale di Costa Rica e Bali, queste fughe tra le chiome regalano un legame stretto con la natura, avvolto in un comfort autentico."
 stats:
   topDestination: "Svezia"
 seo:
   metaTitle: "Case sugli alberi di lusso nel mondo | StayAtNiche"
-  metaDescription: "Le più belle case sugli alberi del mondo: dormi sospeso tra le foreste di Svezia, Costa Rica, Bali e non solo. Scopri il tuo rifugio tra le chiome e prenota."
+  metaDescription: "Case sugli alberi selezionate: dormi sospeso tra le foreste di Svezia, Costa Rica, Bali e non solo. Scopri il tuo rifugio tra le chiome e prenota."
 ---
 
 Il Treehotel di Harads, in Svezia, ha un cubo a specchio che riflette la foresta boreale circostante così perfettamente da sparire, se lo guardi da terra. È questo il parametro di riferimento: non solo per le case sugli alberi, ma per ciò che l’ospitalità di nicchia può ottenere quando gli architetti prendono sul serio il loro compito.

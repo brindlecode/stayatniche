@@ -96,8 +96,8 @@ Kinloch Lodge, al fondo del Loch na Dal, en la península de Sleat de Skye, llev
 La cultura del whisky escocés añade una dimensión extraordinaria a cualquier itinerario por las Highlands. Speyside, el valle del río Spey, entre Inverness y Aberdeen, concentra la mayor densidad de destilerías de whisky del mundo: Glenfiddich, The Macallan, Glenlivet, Glenfarclas y decenas más están a poca distancia en coche unas de otras.
 
 Las mejores experiencias en destilerías:
-- **The Macallan Estate, Speyside:** el nuevo centro de visitantes de Rog Partnership es uno de los edificios de destilería más extraordinarios del mundo, una estructura con cubierta de hierba que parece brotar de la ladera sobre la destilería. Catas privadas desde 200 £/persona.
-- **Glenfiddich, Dufftown:** de propiedad familiar, es la destilería de single malt más visitada del mundo. La visita Pioneering da acceso a los almacenes y a los programas de barricas experimentales.
+- **The Macallan Estate, Speyside:** el nuevo centro de visitantes de Rog Partnership es un llamativo edificio de destilería, una estructura con cubierta de hierba que parece brotar de la ladera sobre la destilería. Catas privadas desde 200 £/persona.
+- **Glenfiddich, Dufftown:** de propiedad familiar, es una de las destilerías de single malt más visitadas. La visita Pioneering da acceso a los almacenes y a los programas de barricas experimentales.
 - **Springbank, Campbeltown:** la destilería más tradicional de Escocia, en la península de Kintyre, una de las pocas que siguen malteando en suelo y controlando todo el proceso de principio a fin. Visitas reducidas y expertas; reserva con antelación.
 
 Para un viaje centrado en el whisky, el Spirit of Speyside Whisky Festival (principios de mayo) y el Islay Festival of Music and Malt (finales de mayo) dan acceso a destilerías y experiencias que no están disponibles en otras fechas.
@@ -135,7 +135,7 @@ El paisaje de las Highlands escocesas acoge algunas de las mejores experiencias 
 
 
 
-Por autenticidad histórica y dramatismo del paisaje: Inverlochy Castle Hotel, al pie del Ben Nevis, está considerado por muchos el mejor hotel castillo de las Highlands. Por riqueza cultural y arte contemporáneo: The Fife Arms, en Braemar, no tiene rival. Por instalaciones de gran resort: Gleneagles no tiene igual en Escocia.
+Por autenticidad histórica y dramatismo del paisaje: Inverlochy Castle Hotel, al pie del Ben Nevis, está considerado por muchos uno de los hoteles castillo más prestigiosos de las Highlands. Por riqueza cultural y arte contemporáneo: The Fife Arms, en Braemar, destaca. Por instalaciones de gran resort: Gleneagles es el gran resort más conocido de Escocia.
 
 
 El coche es muy recomendable para cualquier itinerario por las Highlands o las islas. El transporte público escocés está mejorando (ScotRail da servicio a las principales ciudades; el Caledonian Sleeper ofrece servicio nocturno desde Londres a Fort William, Inverness y Aberdeen), pero los destinos más extraordinarios, como Torridon, Harris o la península de Ardnamurchan, son inaccesibles sin coche.

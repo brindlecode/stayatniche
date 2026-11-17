@@ -1,7 +1,7 @@
 ---
 source: lighthouse-hotels-coastal-guide
 title: "Dormir dans un phare : le guide complet pour séjourner dans une icône maritime"
-excerpt: "Des côtes sauvages de l'Irlande aux rivages blanchis de soleil de la Méditerranée, découvrez les phares-hôtels et maisons de gardien les plus extraordinaires du monde."
+excerpt: "Des côtes sauvages de l'Irlande aux rivages blanchis de soleil de la Méditerranée, découvrez des phares-hôtels et maisons de gardien extraordinaires."
 seo:
   metaTitle: "Dormir dans un phare : le guide mondial | StayAtNiche"
   metaDescription: "Dormir dans un phare, de l'Irlande à la Nouvelle-Zélande : maisons de gardien restaurées, phares-hôtels et adresses face à la mer, avec nos conseils pratiques."
@@ -11,7 +11,7 @@ Ce n'est pas un hasard si les phares fascinent l'imaginaire humain depuis des si
 
 À mesure que les progrès de la technologie maritime ont rendu les gardiens obsolètes, nombre des phares les plus spectaculairement situés de la planète se sont ouverts aux voyageurs. Séjourner dans un phare reconverti ou dans une maison de gardien ne ressemble à aucune autre forme d'hébergement : la mer est omniprésente, l'isolement généralement total, et la lumière, celle du faisceau comme celle, si particulière, du jour sur la côte, tout bonnement extraordinaire.
 
-Ce guide réunit les plus belles expériences pour dormir dans un phare à travers le monde, des côtes atlantiques sauvages de l'Irlande à la pointe nord reculée de la Nouvelle-Zélande, avec des conseils pratiques pour savoir à quoi vous attendre.
+Ce guide réunit des expériences pour dormir dans un phare à travers le monde, des côtes atlantiques sauvages de l'Irlande à la pointe nord reculée de la Nouvelle-Zélande, avec des conseils pratiques pour savoir à quoi vous attendre.
 
 ---
 

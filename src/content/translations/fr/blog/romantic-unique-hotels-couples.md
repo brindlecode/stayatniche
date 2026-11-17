@@ -1,7 +1,7 @@
 ---
 source: romantic-unique-hotels-couples
-title: "Hôtels insolites et romantiques : les séjours à deux les plus extraordinaires du monde"
-excerpt: "Des villas privées sur pilotis aux Maldives aux bulles transparentes sous les étoiles de l'Arctique, découvrez les hôtels les plus romantiques et les plus extraordinaires du monde, pensés pour créer des souvenirs inoubliables."
+title: "Hôtels insolites et romantiques : des séjours à deux extraordinaires"
+excerpt: "Des villas privées sur pilotis aux Maldives aux bulles transparentes sous les étoiles de l'Arctique, découvrez des hôtels romantiques et extraordinaires, pensés pour créer des souvenirs inoubliables."
 seo:
   metaTitle: "Hôtels insolites et romantiques en couple | StayAtNiche"
   metaDescription: "Les hôtels les plus romantiques et insolites du monde pour un séjour à deux : villas sur pilotis aux Maldives, igloos de verre en Laponie, châteaux et safaris."
@@ -97,7 +97,7 @@ Necker Island, dans les îles Vierges britanniques (l'île privée de Richard Br
 La villa sous-marine The Muraka, au Conrad Maldives, se trouve à 5 mètres sous la surface de l'océan Indien. Une demande en mariage dans une pièce vitrée entourée de récif corallien, avec requins de récif et napoléons qui évoluent dans l'eau de l'autre côté, ne ressemble par définition à aucune autre.
 
 **Fourchette de prix :** à partir de 50 000 $/nuit
-**Idéal pour :** ceux qui veulent le cadre de demande en mariage le plus insolite de la planète
+**Idéal pour :** ceux qui veulent un cadre de demande en mariage insolite
 
 
 Le Wadi Rum, en Jordanie, coûte une fraction des adresses précédentes et offre autre chose. Montagnes rose-rouge, silence du désert, Voie lactée sans pollution lumineuse et, depuis un bon camp, un paysage réellement spectaculaire au lever du soleil. Les [camps dans le désert](/categories/desert-camps) de Jordanie vont du plus simple au franchement luxueux.

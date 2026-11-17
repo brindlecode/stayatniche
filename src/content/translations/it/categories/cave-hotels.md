@@ -2,12 +2,12 @@
 source: cave-hotels
 title: Hotel in grotta
 tagline: "Scavati nella terra, pensati per il lusso"
-description: "Ricavati nel tufo vulcanico, nella morbida arenaria e in antichi calcari, gli hotel in grotta ti portano dentro la terra stessa. La leggendaria Cappadocia, in Turchia, è la capitale mondiale del genere, ma straordinari rifugi scavati nella roccia ti aspettano anche in Grecia, Spagna, Tunisia e nel Sud-Ovest americano."
+description: "Ricavati nel tufo vulcanico, nella morbida arenaria e in antichi calcari, gli hotel in grotta ti portano dentro la terra stessa. La leggendaria Cappadocia, in Turchia, è un punto di riferimento del genere, ma straordinari rifugi scavati nella roccia ti aspettano anche in Grecia, Spagna, Tunisia e nel Sud-Ovest americano."
 stats:
   topDestination: "Cappadocia, Turchia"
 seo:
   metaTitle: "Hotel in grotta: dormire nella roccia | StayAtNiche"
-  metaDescription: "Dormi dentro antiche formazioni rocciose nei migliori hotel in grotta del mondo: Cappadocia, Santorini, Matera e oltre. Suite nella pietra, fresche e magiche."
+  metaDescription: "Dormi dentro antiche formazioni rocciose in hotel in grotta di carattere: Cappadocia, Santorini, Matera e oltre. Suite nella pietra, fresche e magiche."
 ---
 
 La Cappadocia è abitata da oltre 2.000 anni, e le testimonianze archeologiche della presenza umana nelle sue grotte risalgono a molto prima. Il tufo vulcanico della regione, modellato dall’erosione nei celebri camini delle fate e in valli spettacolari, era perfetto per viverci dentro: abbastanza tenero da essere scavato con attrezzi rudimentali, ma capace di indurirsi a contatto con l’aria fino a diventare uno spazio abitativo resistente e termicamente stabile. Gli hotel in grotta di qui non sono trovate bizzarre: sono l’ultimo capitolo di una tradizione lunghissima.
@@ -22,7 +22,7 @@ Le vere camere in grotta sono scavate direttamente nelle formazioni rocciose nat
 
 La luce, nelle camere in grotta, è un capitolo a sé. Entra da porte scolpite e vani di finestra, cadendo con angolazioni dettate dalla parete di roccia originale più che dal progetto di un architetto. In certe ore del giorno il risultato è davvero bellissimo. Prima di arrivare alcuni ospiti temono la claustrofobia, ma una grotta ben ristrutturata è in genere spaziosa, non opprimente. Lo spessore stesso delle pareti di roccia trasmette un profondo senso di riparo, e quasi tutti la trovano rilassante più che soffocante.
 
-La **Cappadocia, in Turchia**, è di gran lunga la capitale mondiale degli hotel in grotta. Nei paesi di Göreme, Uçhisar e Ürgüp si va dalle piccole pensioni di charme ai cinque stelle con piscine a sfioro sul tetto affacciate su un paesaggio lunare. I voli in mongolfiera all’alba sopra i camini delle fate sono tra i grandi spettacoli del viaggio: prenotali separatamente dall’alloggio, perché la domanda è altissima e i posti vanno via in fretta.
+La **Cappadocia, in Turchia**, è il centro più noto degli hotel in grotta. Nei paesi di Göreme, Uçhisar e Ürgüp si va dalle piccole pensioni di charme ai cinque stelle con piscine a sfioro sul tetto affacciate su un paesaggio lunare. I voli in mongolfiera all’alba sopra i camini delle fate sono tra i grandi spettacoli del viaggio: prenotali separatamente dall’alloggio, perché la domanda è altissima e i posti vanno via in fretta.
 
 **Santorini, in Grecia**, offre suite scavate nel bordo della caldera vulcanica, con terrazze sopra uno dei panorami marini più spettacolari del mondo. L’estetica della grotta si fonde con l’architettura cicladica imbiancata a calce, per un risultato che, a dirla tutta, è bello quanto nelle foto.
 

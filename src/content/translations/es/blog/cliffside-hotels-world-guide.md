@@ -1,13 +1,13 @@
 ---
 source: cliffside-hotels-world-guide
-title: "Hoteles en acantilados: los alojamientos con la ubicación más espectacular del mundo"
-excerpt: "Del borde de la caldera de Santorini a las vertiginosas terrazas de la Costa Amalfitana, descubre los hoteles en acantilados con la ubicación más espectacular del mundo, donde cada vista es un espectáculo."
+title: "Hoteles en acantilados: alojamientos con ubicaciones espectaculares en todo el mundo"
+excerpt: "Del borde de la caldera de Santorini a las vertiginosas terrazas de la Costa Amalfitana, descubre hoteles en acantilados con ubicaciones espectaculares, donde cada vista es un espectáculo."
 seo:
-  metaTitle: "Hoteles en acantilados: los más espectaculares | StayAtNiche"
-  metaDescription: "Los mejores hoteles en acantilados del mundo en Santorini, la Costa Amalfitana, el Duero, Petra y Yangshuo, con precios, mejor época y consejos prácticos."
+  metaTitle: "Hoteles en acantilados: ubicaciones espectaculares | StayAtNiche"
+  metaDescription: "Hoteles en acantilados en Santorini, la Costa Amalfitana, el Duero, Petra y Yangshuo, con precios, mejor época y consejos prácticos."
 ---
 
-Un hotel en un acantilado hace algo que ninguna otra categoría de alojamiento puede hacer: te sitúa en el borde mismo de la tierra, con todo desplomándose bajo tus pies. Mar, valle o desierto abajo; cielo arriba; el horizonte intacto. Los mejores alojamientos entendieron hace décadas que la vista no es un servicio más: es el producto. Todo lo demás (la comida, la piscina, el servicio) es secundario.
+Un hotel en un acantilado hace algo que ninguna otra categoría de alojamiento puede hacer: te sitúa en el borde mismo de la tierra, con todo desplomándose bajo tus pies. Mar, valle o desierto abajo; cielo arriba; el horizonte intacto. Los alojamientos de referencia entendieron hace décadas que la vista no es un servicio más: es el producto. Todo lo demás (la comida, la piscina, el servicio) es secundario.
 
 Piscinas infinitas que se funden con el mar, paredes enteras de cristal que borran el límite entre la habitación y el paisaje, terrazas-comedor al borde del acantilado donde cenas frente a una puesta de sol que parece teatral porque realmente lo es: los mejores hoteles en acantilados del mundo se definen por una arquitectura que sirve a la ubicación en lugar de competir con ella.
 
@@ -33,7 +33,7 @@ Grace fue uno de los primeros hoteles de Santorini en atraer la atención de los
 **Ideal para:** parejas, fotógrafos y viajeros que valoran la ubicación y la vista por encima del tamaño de la habitación
 
 
-Uno de los hoteles de lujo más antiguos y célebres de Santorini, Katikies ocupa una ubicación privilegiada en la caldera de Oia y cuenta con tres piscinas en la pared del acantilado visibles desde abajo, un elemento arquitectónico emblemático que ha aparecido en innumerables reportajes de revistas de viajes. Sus 27 habitaciones y suites están decoradas una a una con una sofisticada mezcla de tradición cicládica y diseño contemporáneo; el bar de vinos Chateau Nico tiene la colección de vinos de Santorini más completa del mundo.
+Uno de los hoteles de lujo más antiguos y célebres de Santorini, Katikies ocupa una ubicación privilegiada en la caldera de Oia y cuenta con tres piscinas en la pared del acantilado visibles desde abajo, un elemento arquitectónico emblemático que ha aparecido en innumerables reportajes de revistas de viajes. Sus 27 habitaciones y suites están decoradas una a una con una sofisticada mezcla de tradición cicládica y diseño contemporáneo; el bar de vinos Chateau Nico tiene una amplia colección de vinos de Santorini.
 
 **Precio:** habitaciones desde 500 € por noche
 **Ideal para:** amantes del vino, parejas y quienes quieren la dirección histórica más célebre de Oia
@@ -44,7 +44,7 @@ Uno de los hoteles de lujo más antiguos y célebres de Santorini, Katikies ocup
 La Costa Amalfitana, en Italia, combina el dramatismo de los acantilados con una de las mayores concentraciones del mundo de cultura, gastronomía y belleza natural. Los 50 kilómetros de litoral entre Positano y Salerno, Paisaje Cultural Patrimonio de la Humanidad de la UNESCO, caen desde la cresta de los montes Lattari directamente al mar Tirreno, con los antiguos pueblos pesqueros de Positano, Amalfi y Ravello aferrados a la pared del acantilado a distintas alturas.
 
 
-En una villa del siglo XII sobre los acantilados de Ravello, a 350 metros sobre el mar —el pueblo más alto de la costa—, Palazzo Avino es uno de los mejores hoteles costeros de Italia. Este antiguo palacio privado se convirtió en hotel en 1997; sus 43 habitaciones y suites conservan un ambiente aristocrático de techos con frescos, mobiliario antiguo y obras de arte cuidadosamente escogidas. La terraza de la piscina y el restaurante dominan toda la costa, de Amalfi a Capri, y el restaurante Pink Sapphire, con estrella Michelin, ofrece la mejor cocina de la costa.
+En una villa del siglo XII sobre los acantilados de Ravello, a 350 metros sobre el mar —el pueblo más alto de la costa—, Palazzo Avino es uno de los mejores hoteles costeros de Italia. Este antiguo palacio privado se convirtió en hotel en 1997; sus 43 habitaciones y suites conservan un ambiente aristocrático de techos con frescos, mobiliario antiguo y obras de arte cuidadosamente escogidas. La terraza de la piscina y el restaurante dominan toda la costa, de Amalfi a Capri, y el restaurante Pink Sapphire, con estrella Michelin, ofrece una cocina destacada en la costa.
 
 **Precio:** habitaciones Deluxe desde 600 € por noche; suites en la pared del acantilado desde 1500 € por noche
 **Ideal para:** amantes de la buena mesa, parejas que celebran fechas señaladas y quienes quieren la mejor dirección de la costa de Amalfi
@@ -108,7 +108,7 @@ Dentro de la ciudad amurallada de Cartagena, Casa San Agustín une tres casonas 
 La ubicación espectacular que hace extraordinarios a los hoteles en acantilados puede ser un reto para los huéspedes con mucho miedo a las alturas. La mayoría de los alojamientos ofrecen habitaciones a distintas distancias del borde; pedir una habitación menos expuesta sin renunciar a las vistas y al ambiente es una petición razonable que la mayoría de los hoteles atenderán.
 
 
-Muchos de los mejores hoteles en acantilados del mundo implican subir y bajar muchas escaleras: la posición en la pared del acantilado que hace extraordinarias las vistas suele impedir cualquier acceso a nivel. Los hoteles del borde de la caldera de Santorini pueden tener decenas de escalones, y los de la Costa Amalfitana a menudo exigen subidas empinadas. Tenlo en cuenta si tienes movilidad reducida: muchos alojamientos tienen ascensores limitados, y los que los tienen a menudo no llegan a todas las categorías de habitación.
+Muchos hoteles en acantilados implican subir y bajar muchas escaleras: la posición en la pared del acantilado que hace extraordinarias las vistas suele impedir cualquier acceso a nivel. Los hoteles del borde de la caldera de Santorini pueden tener decenas de escalones, y los de la Costa Amalfitana a menudo exigen subidas empinadas. Tenlo en cuenta si tienes movilidad reducida: muchos alojamientos tienen ascensores limitados, y los que los tienen a menudo no llegan a todas las categorías de habitación.
 
 
 Los hoteles en acantilados ofrecen oportunidades fotográficas excepcionales, pero también plantean retos concretos:

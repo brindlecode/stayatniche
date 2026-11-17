@@ -1,7 +1,7 @@
 ---
 source: bora-bora
 name: Bora Bora
-description: "Un picco vulcanico che si leva da una laguna di un turchese impossibile, cinto da una collana corallina di motu: Bora Bora è uno dei paesaggi più iconici del Pacifico. Il bungalow sull’acqua è nato qui nel 1967, e l’isola resta il punto di riferimento assoluto per un lusso romantico e remoto."
+description: "Un picco vulcanico che si leva da una laguna di un turchese impossibile, cinto da una collana corallina di motu: Bora Bora è uno dei paesaggi più iconici del Pacifico. Il bungalow sull’acqua è nato qui nel 1967, e l’isola resta un punto di riferimento per un lusso romantico e remoto."
 essentials:
   currency: "XPF (franco CFP); carte di credito accettate nei principali resort"
   language: "Francese e tahitiano; nei resort si parla inglese"
@@ -28,7 +28,7 @@ travelTips:
   - "Una crema solare certificata a tutela della barriera corallina è una scelta responsabile e anche un obbligo di legge."
 seo:
   metaTitle: "Bora Bora: guida ai bungalow sull’acqua | StayAtNiche"
-  metaDescription: "Organizza la tua fuga a Bora Bora: i migliori bungalow sull’acqua, i safari in laguna, le escursioni sul monte Otemanu e i giardini di corallo intatti."
+  metaDescription: "Organizza la tua fuga a Bora Bora: bungalow sull’acqua di alto livello, i safari in laguna, le escursioni sul monte Otemanu e i giardini di corallo intatti."
 ---
 
 Da decenni Bora Bora vacilla sull’orlo della parodia: il cliché da luna di miele, l’isola da salvaschermo, il posto che tutti definiscono «troppo turistico» mentre lo aggiungono in silenzio alla propria lista dei desideri. La verità è più interessante: Bora Bora è uno di quei rari luoghi in cui la realtà è all’altezza del mito. Il colore della laguna non è un filtro.

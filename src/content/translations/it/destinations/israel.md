@@ -22,7 +22,7 @@ mustSee:
 travelTips:
   - "I controlli di sicurezza all’aeroporto Ben Gurion sono meticolosi: calcola 3 ore prima della partenza, di più se hai timbri di Giordania o Egitto sul passaporto."
   - "Durante lo Shabbat (dal tramonto del venerdì al sabato sera) quasi tutti i trasporti pubblici si fermano e molti esercizi chiudono: organizzati di conseguenza o usa taxi privati."
-  - "Israele è tra le destinazioni di punta al mondo per l’agricoltura sostenibile e l’innovazione alimentare: la scena dei mercati contadini e dei ristoranti di Tel Aviv è davvero di livello mondiale."
+  - "Israele è tra le destinazioni di punta al mondo per l’agricoltura sostenibile e l’innovazione alimentare: la scena dei mercati contadini e dei ristoranti di Tel Aviv è davvero eccellente."
   - "Il deserto del Negev si esplora al meglio in auto: i trasporti pubblici non raggiungono gran parte dell’interno."
   - "L’acqua del rubinetto è potabile in tutto Israele."
 seo:

@@ -2,12 +2,12 @@
 source: ice-hotels
 title: IJshotels
 tagline: "Gebeeldhouwd uit de winter, gesmolten door de lente"
-description: "Elke winter volledig opnieuw opgebouwd uit duizenden tonnen arctische sneeuw en rivierijs: ijshotels zijn de meest vergankelijke luxe ter wereld. Gebeeldhouwd door internationale kunstenaars, op temperaturen onder nul gehouden en maar een paar maanden open voordat ze poëtisch terugkeren naar de rivier. Deze bevroren paleizen zijn met niets te vergelijken."
+description: "Elke winter volledig opnieuw opgebouwd uit duizenden tonnen arctische sneeuw en rivierijs: ijshotels behoren tot de meest vergankelijke vormen van luxe. Gebeeldhouwd door internationale kunstenaars, op temperaturen onder nul gehouden en maar een paar maanden open voordat ze poëtisch terugkeren naar de rivier. Deze bevroren paleizen zijn een ervaring op zich."
 stats:
   topDestination: "Jukkasjärvi, Zweden"
 seo:
   metaTitle: "IJshotels: slapen in een ijspaleis | StayAtNiche"
-  metaDescription: "Slapen in een ijshotel: ontdek de bijzonderste seizoenshotels van ijs en sneeuw in Zweden, Finland, Noorwegen en Canada en boek je arctische winteravontuur."
+  metaDescription: "Slapen in een ijshotel: ontdek bijzondere seizoenshotels van ijs en sneeuw in Zweden, Finland, Noorwegen en Canada en boek je arctische winteravontuur."
 ---
 
 Elk jaar, als in het Zweedse subarctische gebied de herfst overgaat in winter, begint er op de bevroren Torne bij het dorp Jukkasjärvi een merkwaardig bouwproject. Ploegen ijsoogsters trekken het ijs op en beginnen te zagen: ze halen blokken kristalhelder rivierijs naar boven – soms tot 90 centimeter dik – die het skelet worden van een gebouw dat nog niet bestaat. Internationale kunstenaars arriveren met schetsen en beitels. Architecten vertalen bouwtekeningen naar richtlijnen voor een materiaal als geen ander. Waar in oktober nog bevroren toendra lag, staat in december een paleis: gebeeldhouwd, verlicht en open voor gasten die er slapen bij temperaturen ver onder nul.

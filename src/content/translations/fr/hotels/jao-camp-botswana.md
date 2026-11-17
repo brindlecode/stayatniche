@@ -1,11 +1,11 @@
 ---
 source: jao-camp-botswana
 destination: "Concession de Jao, delta de l'Okavango"
-description: "Jao Camp occupe l'une des plus belles concessions du delta de l'Okavango, un territoire sauvage privé de 24 000 hectares de plaines inondables permanentes et saisonnières, d'îles et de chenaux qui abrite certaines des plus fortes concentrations animales d'Afrique. Son architecture de cabanes perchées et le service de Wilderness Safaris en font l'un des lodges de safari les plus singuliers du continent."
+description: "Jao Camp occupe une concession du delta de l'Okavango, un territoire sauvage privé de 24 000 hectares de plaines inondables permanentes et saisonnières, d'îles et de chenaux qui abrite certaines des plus fortes concentrations animales d'Afrique. Son architecture de cabanes perchées et le service de Wilderness Safaris en font l'un des lodges de safari les plus singuliers du continent."
 highlights:
   - "Une extraordinaire concession privée de 24 000 hectares au cœur du delta de l'Okavango"
   - "Des safaris variés : en véhicule, en mokoro, en bateau à moteur et à pied"
-  - "Certaines des plus belles concentrations de grands mammifères de l'Okavango"
+  - "De remarquables concentrations de grands mammifères dans l'Okavango"
   - "Le cycle des crues du delta crée des paysages saisonniers en perpétuel changement"
   - "De rares troupeaux de cobes lechwe rouges et des sitatungas dans les plaines inondables"
   - "Une ornithologie exceptionnelle, plus de 400 espèces dans la concession"
@@ -57,6 +57,6 @@ Jao Camp se trouve au sein d'une concession privée de 24 000 hectares qui réu
 
 L'architecture répond à ce cadre insulaire et surélevé avec des suites construites sur des plateformes au-dessus du sol, dont les toits de chaume se fondent dans le feuillage des arbres alentour. Certaines suites disposent de bassins privés qui s'avancent au-dessus de la plaine inondable, et les espaces extérieurs sont conçus pour observer la faune qui passe sous et autour des structures. Les éléphants passent souvent à quelques mètres des espaces communs, et les chants d'oiseaux entendus depuis la terrasse d'une suite au petit matin constituent à eux seuls une expérience animalière.
 
-L'ornithologie dans la concession de Jao compte parmi les meilleures d'Afrique. Plus de 400 espèces y ont été recensées, des couleurs éclatantes des guêpiers et des martins-pêcheurs jusqu'à l'imposante chouette-pêcheuse de Pel, qui chasse la nuit dans les chenaux, et au pygargue vocifère, dont le cri est le son emblématique des eaux africaines. Des sorties consacrées aux oiseaux peuvent être organisées, avec des guides aux connaissances exceptionnelles.
+L'ornithologie dans la concession de Jao est excellente. Plus de 400 espèces y ont été recensées, des couleurs éclatantes des guêpiers et des martins-pêcheurs jusqu'à l'imposante chouette-pêcheuse de Pel, qui chasse la nuit dans les chenaux, et au pygargue vocifère, dont le cri est le son emblématique des eaux africaines. Des sorties consacrées aux oiseaux peuvent être organisées, avec des guides aux connaissances exceptionnelles.
 
 Jao n'est accessible qu'en avion : les vols charter depuis Maun, elle-même reliée à Johannesburg et à d'autres grandes villes de la région, durent environ 45 minutes et offrent sur le delta certaines des perspectives les plus saisissantes qui soient. Le tarif tout compris reflète la complexité d'exploiter un camp haut de gamme dans l'un des lieux les plus isolés et les plus exigeants du monde sur le plan logistique ; mais pour ceux dont le voyage a précisément pour but une telle expérience de nature sauvage, le résultat est sans compromis.

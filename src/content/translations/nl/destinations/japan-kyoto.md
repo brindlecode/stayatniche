@@ -1,7 +1,7 @@
 ---
 source: japan-kyoto
 name: "Japan, Kyoto en verder"
-description: "Kyoto is het spirituele en culturele hart van Japan: een stad met 1.600 boeddhistische tempels, 400 shintoschrijnen en 17 plekken op de Werelderfgoedlijst van UNESCO, die op de een of andere manier een levende, werkende stad is gebleven in plaats van een openluchtmuseum. Buiten de keizerlijke hoofdstad bieden ryokans, onsen in de bossen en pensions in bergdorpen de meest verfijnde traditie van intiem overnachten ter wereld."
+description: "Kyoto is het spirituele en culturele hart van Japan: een stad met 1.600 boeddhistische tempels, 400 shintoschrijnen en 17 plekken op de Werelderfgoedlijst van UNESCO, die op de een of andere manier een levende, werkende stad is gebleven in plaats van een openluchtmuseum. Buiten de keizerlijke hoofdstad bieden ryokans, onsen in de bossen en pensions in bergdorpen een zeer verfijnde traditie van intiem overnachten."
 essentials:
   currency: "JPY (Japanse yen); Japan draait nog grotendeels op contant geld, dus heb altijd yen bij je"
   language: "Japans; in de grote toeristische gebieden Engelstalige borden; de kennis van het Engels verschilt sterk"
@@ -10,7 +10,7 @@ essentials:
   plugType: "Stekkertype A (100 V), net als in Noord-Amerika maar op 100 V; de meeste moderne apparaten kunnen die spanning aan"
 bestTimeToVisit:
   summary: "Maart–april (kersenbloesem) en oktober–november (herfstkleuren)"
-  details: "Het kersenbloesemseizoen (sakura), meestal van eind maart tot half april, verandert de tempels en rivieroevers van Kyoto in een van de mooiste schouwspelen ter wereld, maar de drukte is extreem en accommodatie is een jaar vooruit volgeboekt. De herfstkleuren (koyo), meestal van eind oktober tot eind november, zijn net zo spectaculair en iets minder druk. De zomer (juni–augustus) brengt hitte, vochtigheid en in juli het Gion-festival. De winter (december–februari) biedt tempeltuinen met een laagje sneeuw, het beste onsenseizoen en de minste toeristen."
+  details: "Het kersenbloesemseizoen (sakura), meestal van eind maart tot half april, verandert de tempels en rivieroevers van Kyoto in een van de mooiste schouwspelen ter wereld, maar de drukte is extreem en accommodatie is een jaar vooruit volgeboekt. De herfstkleuren (koyo), meestal van eind oktober tot eind november, zijn net zo spectaculair en iets minder druk. De zomer (juni–augustus) brengt hitte, vochtigheid en in juli het Gion-festival. De winter (december–februari) biedt tempeltuinen met een laagje sneeuw, het hoogseizoen voor onsens en de minste toeristen."
 mustSee:
   - "Fushimi Inari-taisha: 10.000 vermiljoenrode toriipoorten die bij dageraad de berg Inari op klimmen"
   - "Het bamboebos van Arashiyama en de tuin van Tenryu-ji"
@@ -29,7 +29,7 @@ seo:
   metaDescription: "Reisgids Kyoto en Japan: het kersenbloesemseizoen, overnachten in een ryokan, tempeltuinen, onsen en de bijzonderste traditionele accommodaties van Japan."
 ---
 
-Kyoto was meer dan duizend jaar de keizerlijke hoofdstad van Japan, van 794 tot 1869, en dat zie je. De stad telt 17 plekken op de Werelderfgoedlijst van UNESCO, 1.600 boeddhistische tempels en 400 shintoschrijnen – en is op de een of andere manier toch een levende stad gebleven in plaats van een monument. De mooiste ervaringen hier laten zich niet makkelijk samenvatten: monniken bij het ochtendgebed op de binnenplaats van de tuin van Nanzen-ji; een kaiseki-diner van 12 gangen in een machiya (houten herenhuis), waarin elk gerecht verwijst naar het precieze moment van het seizoen; een leerling-geiko die je in de schemering ziet op de met steen geplaveide straatjes van Hanamikoji Street in Gion. Kom vóór 8 uur naar Fushimi Inari, als de 10.000 vermiljoenrode toriipoorten tegen de berg Inari nog stil zijn, en je begrijpt meteen waarom deze stad bezoekers zo in zijn greep houdt.
+Kyoto was meer dan duizend jaar de keizerlijke hoofdstad van Japan, van 794 tot 1869, en dat zie je. De stad telt 17 plekken op de Werelderfgoedlijst van UNESCO, 1.600 boeddhistische tempels en 400 shintoschrijnen – en is op de een of andere manier toch een levende stad gebleven in plaats van een monument. De meest memorabele ervaringen hier laten zich niet makkelijk samenvatten: monniken bij het ochtendgebed op de binnenplaats van de tuin van Nanzen-ji; een kaiseki-diner van 12 gangen in een machiya (houten herenhuis), waarin elk gerecht verwijst naar het precieze moment van het seizoen; een leerling-geiko die je in de schemering ziet op de met steen geplaveide straatjes van Hanamikoji Street in Gion. Kom vóór 8 uur naar Fushimi Inari, als de 10.000 vermiljoenrode toriipoorten tegen de berg Inari nog stil zijn, en je begrijpt meteen waarom deze stad bezoekers zo in zijn greep houdt.
 
 De Japanse ryokan – de traditionele herberg, meestal een familiebedrijf dat al generaties op dezelfde plek staat – is een van de grote overnachtingsvormen ter wereld. De beste combineren kamers met tatamivloeren, futons, privé- of gedeelde onsen in de open lucht (geothermische warmwaterbaden) en kaiseki-keuken tot een totale onderdompeling in Japanse esthetische waarden: wabi-sabi (de schoonheid van het onvolmaakte), ichigo ichie (het onherhaalbare van elk moment), omotenashi (gastvrijheid die behoeften voorziet voordat ze worden uitgesproken). Nergens anders vind je iets vergelijkbaars.
 

@@ -87,7 +87,7 @@ Les activités sont celles que permet un accès en hélicoptère : pêche à la
 
 
 
-La Nouvelle-Zélande est l'une des meilleures destinations au monde pour voyager en voiture. Les distances sont raisonnables, les routes goudronnées bien entretenues, et l'île du Sud, en particulier, récompense ceux qui s'arrêtent dès qu'un panorama l'exige. Un road trip combinant un ou deux séjours en lodge et des hébergements plus simples compte parmi les plus beaux voyages sur la route qui soient.
+La Nouvelle-Zélande est une destination très appréciée pour voyager en voiture. Les distances sont raisonnables, les routes goudronnées bien entretenues, et l'île du Sud, en particulier, récompense ceux qui s'arrêtent dès qu'un panorama l'exige. Un road trip combinant un ou deux séjours en lodge et des hébergements plus simples compte parmi les plus beaux voyages sur la route qui soient.
 
 Pour les adresses accessibles en hélicoptère comme Minaret Station, ou pour qui compose un itinéraire de lodge en lodge, mieux vaut passer par une agence spécialisée dans la Nouvelle-Zélande : World Journeys, les membres de Luxury Lodges of New Zealand ou les itinéraires Virgin Limited Edition NZ. Ils disposent d'allocations et d'une connaissance du terrain que les agences en ligne généralistes n'ont pas.
 

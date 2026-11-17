@@ -1,11 +1,11 @@
 ---
 source: jao-camp-botswana
 destination: "Jao-concessie, Okavangodelta"
-description: "Jao Camp ligt in een van de mooiste concessies van de Okavangodelta, een privéwildernis van 60.000 acre met permanente en seizoensgebonden uiterwaarden, eilanden en kanalen, waar enkele van de grootste concentraties wilde dieren van Afrika leven. De architectuur in boomhutstijl en de service van Wilderness Safaris maken het tot een van de meest bijzondere safarilodges van het continent."
+description: "Jao Camp ligt in een concessie in de Okavangodelta, een privéwildernis van 60.000 acre met permanente en seizoensgebonden uiterwaarden, eilanden en kanalen, waar enkele van de grootste concentraties wilde dieren van Afrika leven. De architectuur in boomhutstijl en de service van Wilderness Safaris maken het tot een van de meest bijzondere safarilodges van het continent."
 highlights:
   - "Uitzonderlijke privéconcessie van 60.000 acre in het hart van de Okavangodelta"
   - "Safari's met meerdere activiteiten: gamedrives, mokoro's, motorboot en wandelen"
-  - "Enkele van de mooiste concentraties grote zoogdieren in de Okavango"
+  - "Opvallende concentraties grote zoogdieren in de Okavango"
   - "De overstromingscyclus van de delta zorgt voor steeds wisselende seizoenslandschappen"
   - "Zeldzame kuddes rode lechwe's en sitatunga's in de uiterwaarden"
   - "Uitzonderlijk vogelen, met meer dan 400 soorten in de concessie"
@@ -57,6 +57,6 @@ Jao Camp ligt in een privéconcessie van 60.000 acre die alle leefgebieden van d
 
 De architectuur speelt in op de verhoogde eilandligging met suites op platforms boven de grond, waarvan de rieten daken opgaan in het bladerdak van de bomen eromheen. Bij sommige suites steekt een eigen plonsbad boven de uiterwaard uit, en de buitenruimtes zijn ontworpen om dieren te observeren die onder en rond het gebouw passeren. Olifanten lopen vaak op een paar meter van de gastenruimtes, en het vogelleven dat je 's ochtends vroeg vanaf het terras van je suite hoort, is op zich al een natuurbeleving.
 
-Het vogelen in de concessie van Jao hoort bij het beste van heel Afrika. In het gebied zijn meer dan 400 soorten waargenomen, van de felle kleuren van bijeneters en ijsvogels tot de enorme Pels visuil die 's nachts in de kanalen jaagt en de Afrikaanse zeearend, wiens roep het geluid van het Afrikaanse water bij uitstek is. Speciale vogelactiviteiten zijn te regelen en de kennis van de gespecialiseerde gidsen is uitzonderlijk.
+Het vogelen in de concessie van Jao is uitstekend. In het gebied zijn meer dan 400 soorten waargenomen, van de felle kleuren van bijeneters en ijsvogels tot de enorme Pels visuil die 's nachts in de kanalen jaagt en de Afrikaanse zeearend, wiens roep het geluid van het Afrikaanse water bij uitstek is. Speciale vogelactiviteiten zijn te regelen en de kennis van de gespecialiseerde gidsen is uitzonderlijk.
 
 Jao is alleen per vliegtuig bereikbaar; chartervluchten vanuit Maun, dat zelf verbonden is met Johannesburg en andere regionale knooppunten, duren ongeveer 45 minuten en bieden uitzichten over de delta die tot de indrukwekkendste perspectieven op dit landschap behoren. De all-inclusiveprijs weerspiegelt de operationele complexiteit van een topkamp op een van de meest afgelegen en logistiek veeleisende plekken ter wereld, maar het resultaat is – voor wie dit niveau van wildernisbeleving het doel van reizen vindt – zonder compromissen.

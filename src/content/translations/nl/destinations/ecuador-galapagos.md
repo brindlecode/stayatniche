@@ -1,7 +1,7 @@
 ---
 source: ecuador-galapagos
 name: "Ecuador en de Galápagos"
-description: "De Galápagoseilanden zijn het grootste evolutielaboratorium op aarde: 127 eilanden en eilandjes waar dieren zich ontwikkelden zonder natuurlijke vijanden en nog altijd geen angst kennen voor mensen. Het vasteland van Ecuador voegt daar nevelwoudreservaten, het Amazonebekken en de bijzondere koloniale binnenstad van Quito aan toe, voor een van de meest gevarieerde reisroutes van Zuid-Amerika."
+description: "De Galápagoseilanden behoren tot de beroemdste evolutielaboratoria op aarde: 127 eilanden en eilandjes waar dieren zich ontwikkelden zonder natuurlijke vijanden en nog altijd geen angst kennen voor mensen. Het vasteland van Ecuador voegt daar nevelwoudreservaten, het Amazonebekken en de bijzondere koloniale binnenstad van Quito aan toe, voor een van de meest gevarieerde reisroutes van Zuid-Amerika."
 essentials:
   currency: "USD (Ecuador gebruikt de Amerikaanse dollar)"
   language: "Spaans (officieel); Kichwa (Quechua) in het hoogland en de Amazone"
@@ -39,6 +39,6 @@ De centrale keuze op de Galápagos is die tussen een cruise en een verblijf op e
 
 Het vasteland van Ecuador wordt vaak behandeld als doorgangsgebied naar de Galápagos, en dat is een flinke vergissing. Het Centro Histórico van Quito is de best bewaarde koloniale binnenstad van Amerika: een UNESCO-werelderfgoed met bijzondere kerken, kloosters en pleinen, compact genoeg om te voet te verkennen. De kabelbaan Teleférico klimt naar 4.050 meter op de vulkaan Pichincha boven de stad en geeft een blik die de schaal van de Andes meteen in perspectief zet.
 
-Het nevelwoud van Mindo, twee uur ten westen van Quito, is een van de beste vogelbestemmingen ter wereld, met meer dan 500 soorten in een klein stuk bos en uitstekende lodges. [Junglelodges](/categories/jungle-lodges) in de Ecuadoraanse Amazone, zoals Napo Wildlife Center en Sacha Lodge, bieden serieuze natuurbelevenissen op een continent dat altijd in de schaduw van de Galápagos heeft gestaan. Vooral het Cuyabeno Wildlife Reserve levert vanuit lodges van echte kwaliteit ontmoetingen per rivierboot op met roze rivierdolfijnen, reuzenotters en zwarte kaaimannen.
+Het nevelwoud van Mindo, twee uur ten westen van Quito, is een bekende bestemming voor vogelaars, met meer dan 500 soorten in een klein stuk bos en uitstekende lodges. [Junglelodges](/categories/jungle-lodges) in de Ecuadoraanse Amazone, zoals Napo Wildlife Center en Sacha Lodge, bieden serieuze natuurbelevenissen op een continent dat altijd in de schaduw van de Galápagos heeft gestaan. Vooral het Cuyabeno Wildlife Reserve levert vanuit lodges van echte kwaliteit ontmoetingen per rivierboot op met roze rivierdolfijnen, reuzenotters en zwarte kaaimannen.
 
 Vluchten naar de Galápagos vertrekken uit Quito (UIO) en Guayaquil (GYE) naar Baltra of San Cristóbal. Alleen LATAM en Avianca Ecuador vliegen deze route; boek via je cruise of hotel als onderdeel van een pakket. De toegangsprijs voor het Nationaal Park Galápagos ($ 200 per persoon, stand 2024) betaal je bij aankomst, los van de TCC. De totale kosten zijn fors. Maar het is ook waar dat de Galápagos een van de weinige plekken op aarde is die de verwachtingen van de eigen legendarische reputatie steevast overtreft.

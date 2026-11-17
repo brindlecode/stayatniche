@@ -26,7 +26,7 @@ travelTips:
   - "Los mejores riads deben reservarse con mucha antelación: el alojamiento boutique más buscado de Marruecos se llena con meses de antelación en primavera y otoño."
 seo:
   metaTitle: "Marruecos: guía, Sáhara, Atlas y riads | StayAtNiche"
-  metaDescription: "Guía de Marruecos: la medina de Fez, las dunas del Sáhara, trekking por el Atlas y riads y campamentos en el desierto extraordinarios."
+  metaDescription: "Guía de Marruecos: la medina de Fez, las dunas del Sáhara, trekking por el Atlas y riads y campamentos en el desierto extraordinarios. Todo para tu viaje."
 ---
 
 Marruecos lleva siglos atrayendo a viajeros al otro lado del estrecho de Gibraltar, y cada viaje merece la pena. Costa mediterránea al norte, Atlántico al oeste, Sáhara al sur y el Alto Atlas atravesando el centro en diagonal a casi 4.200 metros. Cada zona se rige por un clima, una cultura y una lógica distintos. Pocos países concentran tanto contraste en un solo itinerario.

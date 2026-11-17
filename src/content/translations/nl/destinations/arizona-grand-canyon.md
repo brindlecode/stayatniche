@@ -1,7 +1,7 @@
 ---
 source: arizona-grand-canyon
 name: "Grand Canyon, Arizona"
-description: "De Grand Canyon is de spectaculairste geologische doorsnede op aarde: een anderhalve kilometer diepe kloof door 1,8 miljard jaar gesteente, in vijf miljoen jaar uitgesleten door de Colorado. Voorbij de drukte langs de rand wachten wandelingen diep de kloof in, raftingtochten op de Colorado en de wildernis van de North Rim, met overnachtingen die een van de drukst bezochte plekken ter wereld verrassend intiem maken."
+description: "De Grand Canyon is een van de spectaculairste geologische doorsneden op aarde: een anderhalve kilometer diepe kloof door 1,8 miljard jaar gesteente, in vijf miljoen jaar uitgesleten door de Colorado. Voorbij de drukte langs de rand wachten wandelingen diep de kloof in, raftingtochten op de Colorado en de wildernis van de North Rim, met overnachtingen die een van de drukst bezochte plekken ter wereld verrassend intiem maken."
 essentials:
   currency: "USD"
   language: "Engels"
