@@ -3,13 +3,13 @@ name: "The Harpy Houseboat"
 category: floating-hotels
 destination: "Tower Bridge, London"
 country: "United Kingdom"
-description: "A houseboat holiday let built in 1904 as a floating customs office, moored just west of Tower Bridge on the Thames."
+description: "A houseboat holiday let built in 1904 as a floating customs office, moored on the Thames on the South Bank, about 400 m east of Tower Bridge."
 priceRange: "Rates vary"
 highlights:
   - "Built in 1904 as HMS Harpy, the first floating Customs and Excise office"
-  - "Moored just west of Tower Bridge with views from its decks"
+  - "Moored on the South Bank, 400 m east of Tower Bridge, with views of the bridge from its decks"
   - "Visited by King George V in 1920 and by the current King Charles III in 1979"
-  - "Four rooms"
+  - "Four-bedroom floating home sleeping up to 12 in 4 cabins, 3 sofa beds and a cot"
 amenities:
   - "Fibre Wi-Fi"
   - "Sky Q TV"
@@ -41,15 +41,15 @@ niche_source_url: "https://theharpy.com/"
 niche_verified_at: 2026-11-17
 ---
 
-The Harpy is a houseboat moored just west of Tower Bridge on the Thames, and it has a story of its own. Built in 1904 as HMS Harpy, it was the world's first floating Customs and Excise office and the City of London's royal landing stage. It is now a holiday let.
+The Harpy is a houseboat on the Thames at China Wharf, Mill Street, on the South Bank, and it has a story of its own. The operator's website gives two locations: its history text says "moored just west of Tower Bridge", while elsewhere it says the boat was relocated to the South Bank, 400 m east of Tower Bridge. Built in 1904 as HMS Harpy, it was the world's first floating Customs and Excise office and the City of London's royal landing stage. It is now a holiday let.
 
 ## The history
 
-Two royal events are tied to the vessel. King George V visited in 1920, with the Prince of Wales who later became Edward VIII, to thank the Customs officers who worked on board during the First World War. In 1979 the current King Charles III visited to present the owner with a Civic Trust Award, of which he is patron, for the restoration and conversion of the adjoining listed Victorian building. The houseboat's website quotes Time Out from January 2025 naming it London's number one Airbnb.
+Two royal events are tied to the vessel. King George V visited in 1920, with the Prince of Wales who later became Edward VIII, to thank the Customs officers who worked on board during the First World War. In 1979 the current King Charles III visited to present the owner with a Civic Trust Award, of which he is patron, for the restoration and conversion of the adjoining listed Victorian building. The houseboat's website quotes Time Out from January 2025 as calling it "London's No. 1 Best Airbnb"; this is the operator's quotation, not an independent ranking we have verified.
 
 ## The stay
 
-The Harpy has four rooms and is let as a whole, which makes it a fit for families and groups. The decks look straight onto Tower Bridge. Fibre Wi-Fi and Sky Q TV are provided.
+The Harpy is a four-bedroom floating home of 1,850 sq ft (172 sq m), with 4 cabins, 3 sofa beds and a cot, sleeping up to 12 guests, and it is let as a whole, which makes it a fit for families and groups. The decks look straight onto Tower Bridge. Fibre Wi-Fi and Sky Q TV are provided.
 
 ## Getting there
 

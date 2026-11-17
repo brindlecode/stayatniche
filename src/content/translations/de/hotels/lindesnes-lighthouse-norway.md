@@ -1,41 +1,41 @@
 ---
 source: lindesnes-lighthouse-norway
 destination: "Lindesnes, Vest-Agder"
-description: "An der Südspitze des norwegischen Festlands bildet der älteste Leuchtturm des Landes – in Betrieb seit 1656 – den Mittelpunkt eines Boutiquehotels, dessen Zimmer direkt in die felsige Landzunge gehauen sind: Steinwände mit warmer Holzverkleidung, Fenster mit Blick auf die Stelle, an der Skagerrak und Nordsee zusammentreffen. Das Restaurant bezieht seinen Fang täglich von Fischerfamilien aus der Gegend, und im Winter verfolgen die Gäste hinter bodentiefem Glas Böen von mehr als 40 Metern pro Sekunde."
+description: "Norwegens ältester Leuchtturm steht an der Südspitze des norwegischen Festlands, dort, wo das Skagerrak auf die Nordsee trifft. Ein Hotel gibt es hier nicht: Die einzige Unterkunft ist eine Ferienwohnung in einer Hälfte des früheren Assistentenhauses, in der anderen Hälfte wohnt der diensthabende Leuchtturmwärter."
 highlights:
-  - "Norwegens ältester Leuchtturm, in Betrieb seit 1656"
+  - "Norwegens ältester Leuchtturm, hier wurde 1656 erstmals Licht entzündet"
   - "Südlichster Punkt des norwegischen Festlands"
-  - "Hotelzimmer, die in den natürlichen Fels der Landzunge gebaut sind"
-  - "Hervorragendes Fischrestaurant mit dem besten Fang aus der Nordsee"
-  - "Spektakuläre Winterstürme, beobachtet aus verglasten Gemeinschaftsräumen"
-  - "Polarlichter in klaren Herbst- und Winternächten"
+  - "Eine Ferienwohnung in einer Hälfte des früheren Assistentenhauses"
+  - "Norwegens erstes Leuchtturmmuseum, 2004 in einem in den Fels gebauten Besucherzentrum eröffnet"
+  - "Leuchtturmwärter rund um die Uhr im Dienst"
+  - "Rund 80.000 Besucher im Jahr"
 amenities:
-  - "In den Fels gebaute Boutique-Zimmer mit Meerblick"
-  - "Fischrestaurant im Haus"
-  - "Spa und Sauna"
-  - "Führungen durch den Leuchtturm und zum maritimen Erbe"
-  - "Private Sturmbeobachtungs-Lounge"
-  - "Hot Tubs im Freien mit Blick auf die Nordsee"
+  - "Ferienwohnung in einer Hälfte des früheren Assistentenhauses"
+  - "Leuchtturmmuseum Lindesnes"
+  - "Besucherzentrum im Fels unterhalb der Station"
+  - "Historisches Diaphon-Nebelhorn, nach Angaben das einzige noch funktionierende in Norwegen"
+  - "Gusseiserner Leuchtturm von 1915, 16,1 Meter hoch"
+  - "Historische Wärtergebäude auf dem Gelände der Station"
 bestFor:
-  - "Architektur- und Designliebhaber"
-  - "Fans von Fisch und Meeresfrüchten"
-  - "Paare, die dramatische nordische Stimmung suchen"
-  - "Sturmjäger und Wetterbeobachter"
+  - "Leuchtturm-Fans"
+  - "Liebhaber der Seefahrtsgeschichte"
+  - "Reisende zur Südspitze Norwegens"
+  - "Besucher des Leuchtturmmuseums"
 prosAndCons:
   pros:
-    - "Außergewöhnlich gelungene Einbindung der Architektur in den natürlichen Fels"
-    - "Eines der spektakulärst gelegenen Hotels Skandinaviens"
-    - "Ausgezeichnete Küche, die aus der lokalen Fischereitradition schöpft"
-    - "Einzigartige Sturmbeobachtung im Winter in völliger Sicherheit"
+    - "Übernachten am ältesten Leuchtturm Norwegens, an der Südspitze des Festlands"
+    - "Leuchtturmmuseum und Besucherzentrum vor Ort"
+    - "Leuchtturmwärter rund um die Uhr im Dienst"
+    - "Historischer gusseiserner Turm von 1915 und die ursprünglichen Wärtergebäude"
   cons:
-    - "Abgelegen, 2,5 Autostunden von Kristiansand entfernt"
-    - "Wenige Zimmer, daher sehr begrenzte Verfügbarkeit"
-    - "Die winterliche Dunkelheit kann manchen Gästen zu schaffen machen"
-    - "Hohe Preise, selbst für die norwegische Küste"
+    - "Nur eine Wohnung, daher sehr begrenzte Verfügbarkeit"
+    - "Kein Hotel: Die Unterkunft ist eine einzelne Ferienwohnung, keine Hotelzimmer"
+    - "Abgelegen: rund 10 Kilometer vom Dorf Høllen entfernt"
+    - "Aktuelle Preise und Verfügbarkeit auf der offiziellen Website von Lindesnes Fyr prüfen"
 seasonalInfo:
-  bestTime: September bis März für Stürme und Polarlichter, Juni bis August für die Mitternachtssonne
-  peakSeason: Sommer (Juni–August) und die winterliche Sturmsaison (November–Februar)
-  notes: Der Leuchtturm ist ganzjährig geöffnet und zu jeder Jahreszeit außergewöhnlich. Im Sommer sorgt die Mitternachtssonne für goldenes, surreales Licht noch um 23 Uhr. Herbst und Winter bringen die dramatischen Nordseestürme, für die das Kap berühmt ist, und in klaren Nächten sind Polarlichter zu sehen. Das Hotel ist bewusst so gestaltet, dass die Sturmbeobachtung zu einem luxuriösen und sicheren Erlebnis wird.
+  bestTime: "Öffnungszeiten und Verfügbarkeit der Wohnung auf der offiziellen Website von Lindesnes Fyr prüfen"
+  peakSeason: "In den für diese Seite genutzten Quellen nicht angegeben"
+  notes: "Die für diese Seite genutzten Quellen nennen keine Saisonzeiten. Bitte vor der Planung die offizielle Website von Lindesnes Fyr (lindesnesfyr.no) prüfen."
 nearbyAttractions:
   - name: Lindesnes-Museum
     distance: 0 km
@@ -46,18 +46,14 @@ nearbyAttractions:
   - name: Leuchtturm Lista
     distance: 45 km
 seo:
-  metaTitle: "Lindesnes: Leuchtturmhotel an Norwegens Südkap | StayAtNiche"
-  metaDescription: "Übernachten am ältesten Leuchtturm Norwegens: in den Fels gebaute Zimmer, nordische Fischküche und tosende Nordseestürme am Kap Lindesnes – ab 350 $ pro Nacht."
+  metaTitle: "Lindesnes Fyr: Ferienwohnung am Leuchtturm | StayAtNiche"
+  metaDescription: "Lindesnes, Norwegens ältester Leuchtturm an der Südspitze des Festlands. Kein Hotel: eine Ferienwohnung im früheren Assistentenhaus und ein Leuchtturmmuseum."
 ---
 
-Seit 1656 markiert Lindesnes den südlichsten Punkt des norwegischen Festlands. Damals wurde auf dieser exponierten Felsnase, dort wo Skagerrak und Nordsee zusammentreffen, der erste Leuchtturm des Landes entzündet. Fast vier Jahrhunderte Seefahrtsgeschichte stecken hier im Stein – in den verwitterten Wärterhäusern und im kraftvollen Charakter einer Landzunge, die alles überstanden hat, von sommerlicher Flaute bis zu den wütenden Winterstürmen, die dieses Kap zu einer der gefürchtetsten Passagen für Segelschiffe an der norwegischen Küste machten.
+Lindesnes markiert den südlichsten Punkt des norwegischen Festlands. Am 27. Februar 1656 wurde hier das erste Leuchtfeuer Norwegens entzündet, am Eingang zum Skagerrak, allerdings noch im selben Herbst nach Klagen über das schlechte Licht wieder gelöscht; die Station gilt dennoch als 1656 gegründet. Der heutige gusseiserne Turm, 16,1 Meter hoch, stammt von 1915, als die Linse aus dem alten Turm dorthin umgesetzt wurde; ihre heutige Gestalt erhielt die Station 1920 mit einem neuen Maschinenhaus und einer Nebelsignalanlage.
 
-Das um den Leuchtturmkomplex gebaute Hotel ist ein sorgfältig durchdachtes Stück skandinavischer Architektur: Die Zimmer sind direkt in die Felswand der Landzunge gehauen, die Natursteinwände mit warmem Holz ausgekleidet, die Fenster so ausgerichtet, dass sie bestimmte Ausschnitte aus Meer und Himmel rahmen. Die Planer arbeiteten mit der Landschaft statt über sie hinweg, und so wirkt das Hotel, als sei es tatsächlich mit seinem Standort verwachsen. Die Gemeinschaftsräume sind zur Meerseite hin vollständig verglast. So erlebt man das Wetter mit voller Wucht, ohne sich ihm aussetzen zu müssen: Die Gäste sehen der Nordsee bei ihrem schlimmsten Treiben zu – aus einem warmen, gut gestalteten Raum, etwas Heißes in der Hand.
+Ein Hotel ist Lindesnes nicht. Die Unterkunft ist eine einzelne Ferienwohnung in der einen Hälfte des früheren Assistentenhauses; in der anderen Hälfte wohnt der diensthabende Leuchtturmwärter. In Lindesnes sind rund um die Uhr Wärter im Dienst, was die norwegische Wikipedia als einzigartig unter den norwegischen Leuchttürmen beschreibt.
 
-Das Restaurant ist einer der überzeugendsten Gründe für die Reise in den Süden. Die Nordsee rund um Lindesnes ist außerordentlich ergiebig, und die Küche bezieht ihren Fang täglich direkt von Fischerfamilien aus der Gegend. Die gebeizten und geräucherten Zubereitungen spiegeln eine jahrhundertealte nordische Konservierungstradition wider; die frischen Gerichte stehen allem, was man in Oslo oder Bergen bekommt, in nichts nach. Die Weinkarte ist kompakt und bewusst auf Weißweine ausgerichtet, die zu Fisch und Meeresfrüchten passen.
+Neben dem Leuchtturm liegt das Leuchtturmmuseum Lindesnes, Norwegens erstes Leuchtturmmuseum, 2004 in einem in den Fels unterhalb der Station gebauten Besucherzentrum eröffnet. Es gehört zum Museumsverbund der norwegischen Küstenverwaltung (Kystverkmusea), den Lindesnes koordiniert. Das alte Nebelhorn, ein Diaphon, gilt als die einzige noch funktionierende Anlage dieser Art in Norwegen. Jedes Jahr kommen etwa 80.000 Besucher zum Leuchtturm.
 
-Im Sommer taucht die Mitternachtssonne den Himmel um 23 Uhr in tiefes Bernstein, und das Meer darunter fängt es in Bruchstücken ein. Im Winter werden die Stürme, um die das Hotel zum Teil herum entworfen wurde, zur Hauptattraktion: Am Kap wurden Böen von mehr als 40 Metern pro Sekunde gemessen, und genau dafür wurden die verglasten Gemeinschaftsräume gebaut – Wärme und freie Sicht zu gleichen Teilen.
-
-In klaren Herbst- und Winternächten sind vom Hotel aus Polarlichter zu sehen. Da es weit entfernt von nennenswerter Lichtverschmutzung liegt, sind die Erscheinungen entsprechend intensiv, wenn die Bedingungen stimmen.
-
-Dies ist ein kleines Haus an einem extremen Ort. Buchen Sie frühzeitig.
+Lindesnes liegt in der Provinz Agder (früher Vest-Agder), rund 10 Kilometer südwestlich des Dorfes Høllen. Angaben zur Wohnung, aktuelle Preise und Öffnungszeiten finden Sie auf der offiziellen Website von Lindesnes Fyr unter lindesnesfyr.no.

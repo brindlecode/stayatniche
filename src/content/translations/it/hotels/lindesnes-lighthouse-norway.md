@@ -1,41 +1,41 @@
 ---
 source: lindesnes-lighthouse-norway
 destination: "Lindesnes, Vest-Agder"
-description: "All'estremità più meridionale della Norvegia continentale, il faro più antico del Paese — in funzione dal 1656 — fa da perno a un boutique hotel le cui camere sono scavate direttamente nel promontorio roccioso: pareti di pietra rivestite di legno caldo e finestre puntate sul punto in cui lo Skagerrak incontra il Mare del Nord. Il ristorante si rifornisce ogni giorno dalle famiglie di pescatori della zona e, in inverno, gli ospiti osservano raffiche oltre i 40 metri al secondo dietro vetrate a tutta altezza."
+description: "Il faro più antico della Norvegia sorge sulla punta più meridionale della Norvegia continentale, dove lo Skagerrak incontra il Mare del Nord. Qui non c'è un hotel: l'unico alloggio è un appartamento vacanze in metà della ex casa dell'assistente del guardiano, mentre nell'altra metà vive il guardiano di turno."
 highlights:
-  - "Il faro più antico della Norvegia, in funzione dal 1656"
-  - "Il punto più meridionale della Norvegia continentale"
-  - "Camere ricavate nella roccia naturale del promontorio"
-  - "Eccellente ristorante di pesce con il meglio del pescato del Mare del Nord"
-  - "Spettacolari tempeste invernali da ammirare dagli spazi comuni vetrati"
-  - "Aurora boreale nelle notti limpide d'autunno e d'inverno"
+  - "Il faro più antico della Norvegia: qui nel 1656 si accese la prima luce"
+  - "Punto più meridionale della Norvegia continentale"
+  - "Un appartamento vacanze in metà della ex casa dell'assistente del guardiano"
+  - "Primo museo dei fari della Norvegia, aperto nel 2004 in un centro visitatori scavato nella roccia"
+  - "Guardiani in servizio al faro giorno e notte"
+  - "Circa 80.000 visitatori all'anno"
 amenities:
-  - "Camere boutique scavate nella roccia con vista sull'oceano"
-  - "Ristorante di pesce interno"
-  - "Spa e sauna"
-  - "Visite guidate al faro e al patrimonio marittimo"
-  - "Lounge privata per osservare le tempeste"
-  - "Vasche idromassaggio all'aperto affacciate sul Mare del Nord"
+  - "Appartamento vacanze in metà della ex casa dell'assistente del guardiano"
+  - "Museo del faro di Lindesnes"
+  - "Centro visitatori scavato nella roccia sotto la stazione"
+  - "Storico segnalatore da nebbia a diaphone, indicato come l'unico ancora funzionante in Norvegia"
+  - "Torre del faro in ghisa del 1915, alta 16,1 metri"
+  - "Edifici storici dei guardiani nella stazione"
 bestFor:
-  - "Appassionati di architettura e design"
-  - "Amanti del pesce"
-  - "Coppie in cerca di atmosfere nordiche intense"
-  - "Cacciatori di tempeste e appassionati di meteo"
+  - "Appassionati di fari"
+  - "Amanti della storia marittima"
+  - "Viaggiatori diretti alla punta meridionale della Norvegia"
+  - "Visitatori del museo del faro"
 prosAndCons:
   pros:
-    - "Straordinaria integrazione dell'architettura nelle formazioni rocciose naturali"
-    - "Uno degli hotel dalla posizione più spettacolare della Scandinavia"
-    - "Ristorante di altissimo livello, radicato nella tradizione peschereccia locale"
-    - "Un'esperienza unica di osservazione delle tempeste invernali in tutta sicurezza"
+    - "Dormire nel faro più antico della Norvegia, sulla punta più meridionale della terraferma"
+    - "Museo del faro e centro visitatori sul posto"
+    - "Guardiani in servizio giorno e notte"
+    - "Storica torre in ghisa del 1915 e gli edifici originali dei guardiani"
   cons:
-    - "Posizione isolata, a 2 ore e mezza di auto da Kristiansand"
-    - "Poche camere, quindi disponibilità molto limitata"
-    - "Il buio invernale può mettere alla prova alcuni ospiti"
-    - "Prezzi elevati per la costa norvegese"
+    - "C'è un solo appartamento, quindi la disponibilità è molto limitata"
+    - "Non è un hotel: l'alloggio è un unico appartamento vacanze, non camere d'albergo"
+    - "Isolato: a circa 10 chilometri dal villaggio di Høllen"
+    - "Controlla il sito ufficiale di Lindesnes Fyr per tariffe e disponibilità aggiornate"
 seasonalInfo:
-  bestTime: Da settembre a marzo per tempeste e aurora; da giugno ad agosto per il sole di mezzanotte
-  peakSeason: L'estate (giugno–agosto) e la stagione delle tempeste invernali (novembre–febbraio)
-  notes: "Il faro è aperto tutto l'anno ed è straordinario in ogni stagione. L'estate porta il fenomeno del sole di mezzanotte: alle 23 la luce è dorata e surreale. Autunno e inverno regalano le spettacolari tempeste del Mare del Nord per cui il capo è famoso, e nelle notti serene si vede l'aurora boreale. L'hotel è stato pensato apposta per rendere l'osservazione delle tempeste un'esperienza lussuosa e sicura."
+  bestTime: "Controlla il sito ufficiale di Lindesnes Fyr per orari di apertura e disponibilità dell'appartamento"
+  peakSeason: "Non indicato nelle fonti usate per questa pagina"
+  notes: "Le fonti usate per questa pagina non indicano le date di stagione. Controlla il sito ufficiale di Lindesnes Fyr (lindesnesfyr.no) prima di pianificare."
 nearbyAttractions:
   - name: Museo di Lindesnes
     distance: 0 km
@@ -46,18 +46,14 @@ nearbyAttractions:
   - name: Faro di Lista
     distance: 45 km
 seo:
-  metaTitle: "Lindesnes Lighthouse Hotel: dormire in un faro | StayAtNiche"
-  metaDescription: "Dormi nel faro più antico della Norvegia, all'estremo sud del Paese: camere scavate nella roccia, pesce del Mare del Nord e tempeste spettacolari. Da 350 $."
+  metaTitle: "Lindesnes Fyr: appartamento al faro | StayAtNiche"
+  metaDescription: "Lindesnes, il faro più antico della Norvegia, sulla punta sud della terraferma. Nessun hotel: un appartamento vacanze nell'ex casa dell'assistente e un museo del faro."
 ---
 
-Lindesnes segna il punto più meridionale della Norvegia continentale dal 1656, quando su questo promontorio roccioso ed esposto, dove lo Skagerrak incontra il Mare del Nord, fu acceso il primo faro del Paese. Quasi quattro secoli di storia marinara sono impressi nella pietra: negli edifici consumati dei guardiani, nel carattere possente di un capo che ha resistito a tutto, dalle bonacce estive alle feroci tempeste invernali che hanno reso questo tratto uno dei passaggi più temuti dai velieri lungo la costa norvegese.
+Lindesnes segna il punto più meridionale della Norvegia continentale. Il 27 febbraio 1656 qui fu accesa la prima luce di faro della Norvegia, all'ingresso dello Skagerrak, ma si spense già nello stesso autunno per le lamentele sulla scarsa luminosità; la stazione è comunque considerata fondata nel 1656. L'attuale torre in ghisa, alta 16,1 metri, risale al 1915, quando vi fu trasferita la lente dalla vecchia torre; la stazione assunse l'aspetto attuale nel 1920, con una nuova sala macchine e un impianto di segnalazione da nebbia.
 
-L'hotel costruito attorno al complesso del faro è un esempio accurato di pensiero architettonico scandinavo: camere scavate direttamente nella parete rocciosa del promontorio, pareti di pietra naturale rivestite di legno caldo, finestre orientate per inquadrare precise composizioni di mare e cielo. I progettisti hanno lavorato con il paesaggio, non sopra di esso, e il risultato è un hotel che sembra davvero incastonato nel suo sito. Gli spazi comuni sono interamente vetrati sul lato dell'oceano e creano un'esperienza del meteo pienamente presente ma mai scomoda: gli ospiti guardano il Mare del Nord scatenarsi dall'interno di una stanza calda e ben progettata, con qualcosa di caldo in mano.
+Non è un hotel. L'alloggio è un unico appartamento vacanze in metà della ex casa dell'assistente del guardiano; nell'altra metà vive il guardiano di turno. A Lindesnes ci sono guardiani in servizio giorno e notte, cosa che Wikipedia in norvegese descrive come unica tra i fari norvegesi.
 
-Il ristorante è uno dei motivi più convincenti per spingersi fin quaggiù. Il Mare del Nord attorno a Lindesnes è straordinariamente pescoso e la cucina si affida a rapporti diretti con le famiglie di pescatori locali per portare in tavola ogni giorno il pescato fresco. Le preparazioni marinate e affumicate riflettono una tradizione nordica di conservazione vecchia di secoli; i piatti a base di pesce fresco sono all'altezza di qualsiasi indirizzo di Oslo o Bergen. La carta dei vini è compatta e volutamente sbilanciata verso i bianchi che si sposano con il pesce.
+Accanto al faro si trova il museo del faro di Lindesnes, il primo museo dei fari della Norvegia, aperto nel 2004 in un centro visitatori scavato nella roccia sotto la stazione. Fa parte della rete museale dell'amministrazione costiera norvegese (Kystverkmusea), che Lindesnes coordina. Il vecchio segnalatore da nebbia, un diaphone, è indicato come l'unico impianto di questo tipo ancora funzionante in Norvegia. Ogni anno visitano il faro circa 80.000 persone.
 
-D'estate il sole di mezzanotte tinge il cielo delle 23 di un ambra profondo e il mare, sotto, lo riflette a frammenti. D'inverno le tempeste, attorno alle quali l'hotel è stato in parte concepito, diventano le vere protagoniste: sul capo sono state registrate raffiche oltre i 40 metri al secondo, e le sale comuni vetrate sono state costruite proprio per questo, con calore e visibilità in egual misura.
-
-Nelle notti serene d'autunno e d'inverno dalla struttura si vede l'aurora boreale. L'hotel è lontano da qualsiasi fonte significativa di inquinamento luminoso e, quando le condizioni sono favorevoli, gli spettacoli sono di conseguenza vividi.
-
-È una struttura piccola in una posizione estrema. Prenota con largo anticipo.
+Lindesnes si trova nella contea di Agder (in precedenza Vest-Agder), a circa 10 chilometri a sud-ovest del villaggio di Høllen. Per i dettagli sull'appartamento, le tariffe aggiornate e gli orari, consulta il sito ufficiale di Lindesnes Fyr, lindesnesfyr.no.

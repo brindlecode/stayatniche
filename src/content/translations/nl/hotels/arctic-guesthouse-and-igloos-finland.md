@@ -1,9 +1,9 @@
 ---
 source: arctic-guesthouse-and-igloos-finland
 destination: "Ranua, Lapland"
-description: "Een gastenverblijf in Ranua, Lapland, met tien verplaatsbare glazen iglo's voor het kijken naar het noorderlicht, naast gastenkamers en lodges aan het meer."
+description: "Een gastenverblijf in Ranua, Lapland, met tien compacte glazen iglo's voor het kijken naar het noorderlicht, die in de zomer op het Ranua-meer drijven en varen, naast gastenkamers en lodges aan het meer."
 highlights:
-  - "Tien verplaatsbare glazen iglo's"
+  - "Tien compacte glazen iglo's die in de zomer op het Ranua-meer drijven en varen"
   - "Iglo's staan naast de gastenkamers en de Aurora Lake Lodges"
   - "Wifi in elke iglo"
   - "Gratis elektrische sauna voor gasten"
@@ -18,11 +18,11 @@ bestFor:
   - "Groepen"
 seo:
   metaTitle: "Glazen iglo's in Ranua, Lapland | StayAtNiche"
-  metaDescription: "Arctic Guesthouse & Igloos in Ranua, Lapland: tien verplaatsbare glazen iglo's voor het noorderlicht, naast gastenkamers en lodges aan het meer."
+  metaDescription: "Arctic Guesthouse & Igloos in Ranua, Lapland: tien compacte glazen iglo's die in de zomer op het meer drijven, naast gastenkamers en lodges aan het meer."
 niche_feature: "Glazen iglo's (AuroraHut, bij voorkeur voor 2 personen) aan de oever van het meer van Ranua, waarvan sommige in de zomer kunnen drijven en met een elektrische motor kunnen varen; de accommodatie heeft ook gewone gastenkamers en Aurora Lake Lodges."
 ---
 
-Arctic Guesthouse & Igloos ligt in Ranua, een dorp in het zuiden van Lapland, ongeveer een uur van Rovaniemi en iets meer dan twee uur van Oulu. Slechts een deel van het complex is de trekpleister. Tien verplaatsbare glazen iglo's staan naast betaalbare gastenkamers en een reeks nieuwere lodges, zodat je zelf kunt kiezen hoeveel arctische ervaring je wilt.
+Arctic Guesthouse & Igloos ligt in Ranua, een dorp in het zuiden van Lapland, ongeveer een uur van Rovaniemi en iets meer dan twee uur van Oulu. Slechts een deel van het complex is de trekpleister. Tien compacte glazen iglo's (AuroraHut), die in de zomer met een eigen elektromotor op het Ranua-meer drijven en varen, staan naast betaalbare gastenkamers en een reeks nieuwere lodges, zodat je zelf kunt kiezen hoeveel arctische ervaring je wilt.
 
 ## Iglo's, kamers en lodges
 

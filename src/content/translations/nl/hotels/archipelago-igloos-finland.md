@@ -1,39 +1,35 @@
 ---
 source: archipelago-igloos-finland
 destination: "Archipel van Helsinki, Uusimaa"
-description: "Een enkele zwevende glazen iglosuite voor twee, in de zomer verankerd bij Vallisaari voor de kust van Helsinki en in de winter verplaatst naar het ijs van de Sipoo-archipel."
+description: "Verblijf in glazen iglo's in de archipel van Helsinki: in de zomer drijvende accommodatie-eenheden, verankerd tussen Vallisaari en Kuninkaansaari, in de winter glazen iglo's in de archipel van Sipoo."
 highlights:
-  - "Zwevende glazen iglosuite voor twee"
-  - "Glas van vloer tot plafond met vrij uitzicht op lucht en water"
-  - "Zomerligplaats bij Vallisaari, winter op het ijs van de Sipoo-archipel"
-  - "Keuken, toilet en terras met gasbarbecue en zwemladder"
+  - "Verblijf in glazen iglo's in de archipel rond Helsinki"
+  - "Zomer: drijvende eenheden verankerd in de baai tussen Vallisaari en Kuninkaansaari"
+  - "Winter: glazen iglo's in de archipel van Sipoo, 30 minuten met de auto van het centrum"
+  - "Door Visit Finland omschreven als milieuvriendelijk en het hele jaar geschikt"
 amenities:
-  - "Keuken en toilet in de iglo"
-  - "Gratis wifi in de iglo"
-  - "Roeiboot, gasbarbecue en zwemladder op het terras"
-  - "SUP-boards en kickbikes in de zomer"
+  - "Accommodatie in een glazen iglo"
+  - "Drijvend in de zomer"
+  - "Winterlocatie in de archipel van Sipoo"
+  - "Exploitant: Burn Out City Events, Helsinki"
 bestFor:
   - "Stellen"
   - "Avontuurlijke reizigers"
 seo:
   metaTitle: "Archipelago Igloos: glazen iglo bij Helsinki | StayAtNiche"
-  metaDescription: "Archipelago Igloos: een zwevende glazen iglosuite voor twee in de archipel van Helsinki, in de zomer bij Vallisaari en in de winter op het ijs."
+  metaDescription: "Archipelago Igloos: verblijf in glazen iglo's in de archipel van Helsinki, in de zomer drijvend tussen Vallisaari en Kuninkaansaari, in de winter bij Sipoo."
 ---
 
-Archipelago Igloos is één glazen iglo, ingericht als zwevende suite voor twee in de wateren rond Helsinki. Het grootste pluspunt is het glas van vloer tot plafond, met uitzicht op de lucht en de zee eromheen. Binnen vind je een dubbel bed, een keuken, een opklapbare eettafel, ruimte om eten te bewaren en een toilet. Buiten heeft het terras een gasbarbecue, een zwemladder en een roeiboot voor de gasten.
+Archipelago Igloos biedt accommodatie in glazen iglo's in de archipel rond Helsinki. Volgens Visit Finland is het een milieuvriendelijke verblijfservaring naast natuurlijke bezienswaardigheden, en het hele jaar geschikt.
 
 ## Zomer op het water
 
-Van 4 mei tot en met 30 oktober ligt de zwevende iglo verankerd in de baai tussen de eilanden Vallisaari en Kuninkaansaari. Vallisaari bereik je met de openbare veerboot vanaf de Lyypekinlaituri. Daarna loop je 400 meter naar Torpedolahti, waar een roeiboot klaarligt om je naar de iglo te brengen. De veerboot terug naar het stadscentrum vertrekt uit dezelfde baai. Geef bij het boeken je voorkeurstijd voor check-in door.
+In het zomerseizoen liggen de drijvende accommodatie-eenheden verankerd in de baai tussen Vallisaari en Kuninkaansaari.
 
-De iglo heeft een klein gasfornuis, geschikt om water mee te koken, en je mag je eigen eten meenemen. In de zomer kun je stand-up paddleboards en kickbikes gebruiken.
+## Winter
 
-## Winter op het ijs
-
-In de winter verhuist de iglo naar de Sipoo-archipel en rust hij op het ijs. Als optie in de winter zijn er sneeuwscootertochten en ice-floatingtochten, die de aanbieder regelt voor gasten die meer willen doen dan op het ijs slapen.
+In de winter staan de glazen iglo's in de archipel van Sipoo, slechts 30 minuten met de auto vanaf het stadscentrum.
 
 ## Praktisch
 
-De iglo heeft gratis wifi. Je komt er met de openbare veerboot of een privéboot vanuit het centrum van Helsinki.
-
-Er is maar één unit, dus de beschikbare data kunnen beperkt zijn. Vraag naar het seizoen dat je wilt, want de locatie en de activiteiten verschillen tussen zomer en winter.
+Visit Finland noemt prijzen vanaf 290 EUR voor één dag. De eigen website van de exploitant was bij de controle van deze pagina geblokkeerd door een botcontrole, dus het aantal eenheden, de seizoensdata, de voorzieningen en de bereikbaarheid konden niet worden bevestigd. Vraag het de exploitant voordat je boekt.

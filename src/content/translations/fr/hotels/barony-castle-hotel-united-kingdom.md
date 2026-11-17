@@ -1,9 +1,9 @@
 ---
 source: barony-castle-hotel-united-kingdom
 destination: "Eddleston, Scottish Borders"
-description: "Un château du XVIe siècle transformé en hôtel quatre étoiles, avec 82 chambres et un espace bien-être, au cœur de 25 acres de parc dans les Scottish Borders, à 35 minutes d'Édimbourg."
+description: "Un hôtel quatre étoiles installé dans une demeure historique de style baronial écossais, érigée en 1536, avec 82 chambres et un espace bien-être, au cœur de 25 acres de parc dans les Scottish Borders, à 35 minutes d'Édimbourg."
 highlights:
-  - "Château du XVIe siècle entouré de 25 acres de parc"
+  - "Demeure historique de 1536, sur le site d'une ancienne tour de guet, au cœur de 25 acres de parc"
   - "82 chambres, dont 6 suites individuelles"
   - "Piscine de 10 mètres avec bain à remous, sauna et transats chauffants"
   - "La Great Polish Map, à découvrir dans le parc"
@@ -20,20 +20,20 @@ bestFor:
   - "Week-ends prolongés"
 seo:
   metaTitle: "Barony Castle Hotel : hôtel château en Écosse | StayAtNiche"
-  metaDescription: "Barony Castle Hotel à Eddleston : château du XVIe siècle avec 82 chambres, espace bien-être et 25 acres de parc, à 35 minutes au sud d'Édimbourg."
+  metaDescription: "Barony Castle Hotel à Eddleston : hôtel dans une demeure de 1536 avec 82 chambres, espace bien-être et 25 acres de parc, à 35 minutes au sud d'Édimbourg."
 ---
 
-Barony Castle est un imposant château du XVIe siècle devenu un hôtel traditionnel dans les Scottish Borders. Il se dresse à Eddleston, à environ 35 minutes et 17 miles au sud d'Édimbourg, à la lisière des Borders ; la ville de Peebles, sur la Tweed, n'est qu'à dix minutes en voiture. C'est un hôtel quatre étoiles AA, dont le restaurant est distingué d'une Rosette.
+Barony Castle est une demeure historique de style baronial écossais, érigée en 1536 sur le site d'une ancienne tour de guet, devenue un hôtel traditionnel dans les Scottish Borders. Une façade jacobéenne y a été ajoutée entre 1700 et 1715 et une aile familiale au XIXe siècle ; le bâtiment a été ravagé par un incendie en 1983, et le reste se compose d'ajouts du XXe siècle. Il se dresse à Eddleston, à environ 35 minutes et 17 miles au sud d'Édimbourg, à la lisière des Borders ; la ville de Peebles, sur la Tweed, n'est qu'à dix minutes en voiture. C'est un hôtel quatre étoiles AA, dont le restaurant est distingué d'une Rosette.
 
 ## Chambres
 
-L'hôtel compte 82 chambres : simples, doubles et twin, chambres familiales et six suites individuelles. Les chambres sont aménagées pour accueillir les enfants, et les chiens sont admis dans un nombre limité de chambres. L'arrivée se fait à partir de 15 h, le départ avant 11 h. C'est un hôtel plus grand que la plupart des séjours en château, avec le confort pratique que cela implique.
+L'hôtel compte 82 chambres : simples, doubles et twin, chambres familiales et six suites individuelles. Les chambres sont aménagées pour accueillir les enfants, et les chiens sont admis dans un nombre limité de chambres. L'arrivée se fait à partir de 15 h, le départ avant 11 h. C'est un hôtel plus grand que la plupart des séjours en château, avec le confort pratique que cela implique. L'hôtel n'indique pas quelles chambres se trouvent dans la demeure ancienne.
 
 ## Équipements et parc
 
 L'espace bien-être comprend une piscine de 10 mètres avec bain à remous, un sauna et des transats chauffants ; la salle de sport est équipée de matériel Technogym. Le bar-salon sert des cocktails et une large sélection de whiskies de malt.
 
-Le château est niché dans un parc de 25 acres. Le détail le plus insolite est la Great Polish Map, que les visiteurs peuvent découvrir dans le parc. Le domaine comprend aussi un cadre boisé avec un autel du XVIe siècle, utilisé pour des cérémonies.
+Le château est niché dans un parc de 25 acres. Le détail le plus insolite est la Great Polish Map, que les visiteurs peuvent découvrir dans le parc.
 
 ## Autour des Borders
 

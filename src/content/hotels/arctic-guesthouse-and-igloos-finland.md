@@ -3,10 +3,10 @@ name: "Arctic Guesthouse & Igloos"
 category: bubble-hotels
 destination: "Ranua, Lapland"
 country: "Finland"
-description: "A guesthouse in Ranua, Lapland, with ten movable glass igloos for aurora watching alongside guesthouse rooms and lakeside lodges."
+description: "A guesthouse in Ranua, Lapland, with ten compact glass igloos for aurora watching, which float and move on Lake Ranua under an electric engine in summer, alongside guesthouse rooms and lakeside lodges."
 priceRange: "Rates vary"
 highlights:
-  - "Ten movable glass igloos"
+  - "Ten compact glass igloos that float and move on Lake Ranua in summer"
   - "Igloos sit beside guesthouse rooms and the Aurora Lake Lodges"
   - "Wi-Fi in every igloo"
   - "Free electric sauna for guests"
@@ -43,7 +43,7 @@ niche_source_url: "https://arcticguesthouseandigloos.com/igloos/"
 niche_verified_at: 2026-11-17
 ---
 
-Arctic Guesthouse & Igloos is in Ranua, a village in southern Lapland about an hour from Rovaniemi and a little over two hours from Oulu. Only part of the property is the draw here: ten movable glass igloos sit alongside affordable guesthouse rooms and a set of newer lodges, so you can choose how much of the Arctic experience you want.
+Arctic Guesthouse & Igloos is in Ranua, a village in southern Lapland about an hour from Rovaniemi and a little over two hours from Oulu. Only part of the property is the draw here: ten compact glass igloos (AuroraHut), which float and move on Lake Ranua under their own electric engine in summer, sit alongside affordable guesthouse rooms and a set of newer lodges, so you can choose how much of the Arctic experience you want.
 
 ## Igloos, rooms and lodges
 

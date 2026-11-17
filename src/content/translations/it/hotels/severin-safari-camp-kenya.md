@@ -26,7 +26,7 @@ Severin Safari Camp è un campo tendato nel cuore del Parco nazionale di Tsavo O
 
 ## Le tende
 
-La Luxury Tent misura 34 metri quadrati e accoglie fino a tre adulti. Ognuna è arredata con mobili in legno fatti a mano in stile africano tradizionale, ha un letto king size con zanzariera, un bagno privato con acqua calda e fredda e una veranda privata affacciata sulla savana. Il campo offre anche suite tra le sue sistemazioni.
+La Luxury Tent misura 34 metri quadrati e accoglie fino a tre adulti. Ognuna è arredata con mobili in legno fatti a mano in stile africano tradizionale, ha un letto king size con zanzariera, un bagno privato con acqua calda e fredda e una veranda privata affacciata sulla savana. Il campo offre anche suite tra le sue sistemazioni, oltre a Kitani Banda con angolo cottura a circa 1,5 km dal campo principale; per raggiungerle serve un veicolo.
 
 ## Al campo
 

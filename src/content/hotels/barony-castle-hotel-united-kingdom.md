@@ -3,10 +3,10 @@ name: "Barony Castle Hotel"
 category: castle-hotels
 destination: "Eddleston, Scottish Borders"
 country: "United Kingdom"
-description: "A 16th-century castle turned four-star hotel with 82 bedrooms and a leisure spa, set in 25 acres of grounds in the Scottish Borders, 35 minutes from Edinburgh."
+description: "A four-star hotel in a historic Scots-baronial house of 1536, with 82 bedrooms and a leisure spa, set in 25 acres of grounds in the Scottish Borders, 35 minutes from Edinburgh."
 priceRange: "Rates vary"
 highlights:
-  - "16th-century castle in 25 acres of grounds"
+  - "Historic house of 1536 on a peel-tower site, in 25 acres of grounds"
   - "82 bedrooms including 6 individual suites"
   - "10-metre pool with whirlpool bath, sauna and heated loungers"
   - "Great Polish Map in the grounds"
@@ -46,17 +46,17 @@ niche_source_url: "https://www.baronycastle.com/about-barony-castle/the-history-
 niche_verified_at: 2026-11-17
 ---
 
-Barony Castle is an imposing 16th-century castle that has evolved into a traditional hotel in the Scottish Borders. It stands at Eddleston, about 35 minutes and 17 miles south of Edinburgh, on the edge of the Borders, and the town of Peebles on the River Tweed is only a ten-minute drive away. It is an AA four-star hotel with a Rosette-awarded restaurant.
+Barony Castle is a historic Scots-baronial house, erected in 1536 on the site of an old peel tower, that has become a traditional hotel in the Scottish Borders. A Jacobean façade was added between 1700 and 1715 and a family wing in the 19th century; the building was gutted by fire in 1983, and the remainder consists of 20th-century additions. It stands at Eddleston, about 35 minutes and 17 miles south of Edinburgh, on the edge of the Borders, and the town of Peebles on the River Tweed is only a ten-minute drive away. It is an AA four-star hotel with a Rosette-awarded restaurant.
 
 ## Rooms
 
-The hotel has 82 bedrooms, with single, double and twin rooms, family rooms and six individual suites. The rooms are set up as child friendly, and dogs are allowed in a limited number of bedrooms. Check-in is from 3pm and check-out is at 11am. This is a larger hotel than most castle stays, with the practical comforts that implies.
+The hotel has 82 bedrooms, with single, double and twin rooms, family rooms and six individual suites. The rooms are set up as child friendly, and dogs are allowed in a limited number of bedrooms. Check-in is from 3pm and check-out is at 11am. This is a larger hotel than most castle stays, with the practical comforts that implies, and the hotel does not say which bedrooms are in the old house.
 
 ## Facilities and grounds
 
 The leisure spa includes a 10-metre pool with a whirlpool bath, a sauna and heated loungers, and the gym has Technogym equipment. A bar lounge serves cocktails and an extensive range of malt whiskies.
 
-The castle is set in 25 acres of grounds. The most unusual feature is the Great Polish Map, which visitors can discover in the grounds. The estate also has a woodland setting that includes a 16th-century altar used for ceremonies.
+The castle is set in 25 acres of grounds. The most unusual feature is the Great Polish Map, which visitors can discover in the grounds.
 
 ## Around the Borders
 

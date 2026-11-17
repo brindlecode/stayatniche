@@ -1,18 +1,17 @@
 ---
 source: andbeyond-ngorongoro-crater-lodge
 destination: "Ngorongoro Conservation Area"
-description: "Op de rand van de grootste intacte vulkanische caldera ter wereld is &Beyond Ngorongoro Crater Lodge een van de meest bijzondere en theatrale hotels van Afrika: een barokke fantasie van Masai-architectuur, Europese weelde en natuurlijke grootsheid, 2200 meter boven een kraterbodem met de grootste dichtheid aan grote zoogdieren op aarde."
+description: "Op de rand van de grootste intacte vulkanische caldera ter wereld is &Beyond Ngorongoro Crater Lodge een van de meest bijzondere en theatrale hotels van Afrika, 2200 meter boven een kraterbodem met de grootste dichtheid aan grote zoogdieren op aarde."
 highlights:
   - "Op de kraterrand, direct boven de grootste vulkanische caldera ter wereld"
   - "De Ngorongorokrater heeft de grootste dichtheid aan grote zoogdieren op aarde"
   - "Alle Big Five zijn het hele jaar in de krater, waaronder een van de laatste populaties zwarte neushoorns van Afrika"
-  - "Theatraal en uitzonderlijk lodgeontwerp, met kralengordijnen, vergulde spiegels en butlerservice"
+  - "Theatraal en uitzonderlijk lodgeontwerp en butlerservice"
   - "Elke dag de krater in voor gamedrives tussen meer dan 25.000 vaste bewoners"
   - "Het uitzicht vanuit de suites op de rand hoort bij het spectaculairste van het continent"
 amenities:
-  - "25 afzonderlijke banda's op de kraterrand"
+  - "Afzonderlijke suites op de kraterrand"
   - "Eigen butler voor elke suite"
-  - "Open haard op de kamer voor koude avonden in de hooglanden"
   - "Gamedrives op maat op de kraterbodem"
   - "Volpension met uitzonderlijke wijnservice"
   - "Boswandelingen op de kraterrand"
@@ -55,7 +54,7 @@ closure:
 
 De Ngorongorokrater is een vulkanische caldera van 20 kilometer breed en 600 meter diep, waarvan de wanden al duizenden jaren 25.000 grote zoogdieren binnenhouden. Op de kraterbodem leven de meeste leeuwen per vierkante kilometer van Afrika en een van de laatste levensvatbare populaties zwarte neushoorns van het continent. Op een koude ochtend in de hooglanden over de randweg de mist in rijden, terwijl de kraterbodem onder je door de wolken verschijnt, is een aanblik die zijn kracht behoudt, hoe vaak je de foto's ook hebt gezien.
 
-De lodge van &Beyond op de zuidelijke rand doet geen moeite om subtiel te zijn. Ngorongoro Crater Lodge is een daad van bewuste overdaad: 25 afzonderlijke banda's op de wand van de caldera, met een ontwerp dat voortbouwt op de bouwtradities van de Masai en tegelijk kralengordijnen, vergulde spiegels, bewerkte houten vloeren en open haarden tegen de kou van de hooglanden bevat. Het verdeelt de meningen. Sommige gasten vinden het overdreven; anderen vinden dat niets minder het drama van het uitzicht door de grote ramen zou evenaren. Bij zonsopkomst bij je suite staan terwijl de ochtendmist van de kraterbodem optrekt en het landschap met zijn dieren 600 meter onder je onthult, is werkelijk met niets te vergelijken wat je vanuit welke andere hotelkamer ook kunt zien.
+De lodge van &Beyond op de zuidelijke rand doet geen moeite om subtiel te zijn. Ngorongoro Crater Lodge is een daad van bewuste overdaad: afzonderlijke suites op de wand van de caldera, met een ontwerp dat voortbouwt op de bouwtradities van de Masai. Het verdeelt de meningen. Sommige gasten vinden het overdreven; anderen vinden dat niets minder het drama van het uitzicht door de grote ramen zou evenaren. Bij zonsopkomst bij je suite staan terwijl de ochtendmist van de kraterbodem optrekt en het landschap met zijn dieren 600 meter onder je onthult, is werkelijk met niets te vergelijken wat je vanuit welke andere hotelkamer ook kunt zien.
 
 De wildobservatie is het belangrijkste argument van de krater, en het is een sterk argument. Alle Big Five zijn er elke dag op de kraterbodem. Het Big Five-lijstje waarvoor je elders in Afrika dagen moet zoeken en flink wat geluk nodig hebt, kun je hier in één ochtend afvinken. Zwarte neushoorns zien – lang en rustig kijken naar een van de meest bedreigde dieren van Afrika – is hier routine. De leeuwenroedels op de open vlakten met kort gras worden al tientallen jaren onafgebroken bestudeerd en zijn goed zichtbaar.
 

@@ -26,7 +26,7 @@ Severin Safari Camp is een tentenkamp midden in het Tsavo West National Park in 
 
 ## De tenten
 
-De Luxury Tent is 34 vierkante meter groot en biedt plaats aan maximaal drie volwassenen. Elke tent heeft handgemaakte houten meubels in traditionele Afrikaanse stijl, een kingsize bed met klamboe, een eigen badkamer met warm en koud stromend water en een privéveranda met uitzicht op de savanne. Het kamp biedt ook suites aan.
+De Luxury Tent is 34 vierkante meter groot en biedt plaats aan maximaal drie volwassenen. Elke tent heeft handgemaakte houten meubels in traditionele Afrikaanse stijl, een kingsize bed met klamboe, een eigen badkamer met warm en koud stromend water en een privéveranda met uitzicht op de savanne. Het kamp biedt ook suites aan, plus Kitani Bandas met eigen kookgelegenheid op ongeveer 1,5 km van het hoofdkamp; om ze te bereiken is een voertuig nodig.
 
 ## In het kamp
 

@@ -1,39 +1,35 @@
 ---
 source: archipelago-igloos-finland
 destination: "Archipiélago de Helsinki, Uusimaa"
-description: "Una única suite flotante en iglú de cristal para dos, anclada cerca de Vallisaari, frente a Helsinki, en verano, y trasladada al hielo del archipiélago de Sipoo en invierno."
+description: "Alojamiento en iglús de cristal en el archipiélago de Helsinki: unidades flotantes ancladas entre Vallisaari y Kuninkaansaari en verano e iglús de cristal en el archipiélago de Sipoo en invierno."
 highlights:
-  - "Suite flotante en iglú de cristal para dos"
-  - "Cristal de suelo a techo con vistas sin obstáculos al cielo y al agua"
-  - "Amarre de verano cerca de Vallisaari, invierno en el hielo del archipiélago de Sipoo"
-  - "Cocina, aseo y terraza con barbacoa de gas y escalera para nadar"
+  - "Alojamiento en iglú de cristal en el archipiélago que rodea Helsinki"
+  - "Verano: unidades flotantes ancladas en la bahía entre Vallisaari y Kuninkaansaari"
+  - "Invierno: iglús de cristal en el archipiélago de Sipoo, a 30 minutos en coche del centro"
+  - "Descrito por Visit Finland como ecológico y apto todo el año"
 amenities:
-  - "Cocina y aseo en el iglú"
-  - "Wi-Fi gratuito en el iglú"
-  - "Bote de remos, barbacoa de gas y escalera para nadar en la terraza"
-  - "Tablas de paddle surf y kick bikes en verano"
+  - "Alojamiento en iglú de cristal"
+  - "Flotante en verano"
+  - "Ubicación de invierno en el archipiélago de Sipoo"
+  - "Operador: Burn Out City Events, Helsinki"
 bestFor:
   - "Parejas"
   - "Viajeros aventureros"
 seo:
   metaTitle: "Iglú de cristal flotante en Helsinki | StayAtNiche"
-  metaDescription: "Archipelago Igloos: suite flotante en iglú de cristal para dos en el archipiélago de Helsinki, en verano cerca de Vallisaari y en invierno sobre el hielo."
+  metaDescription: "Archipelago Igloos: alojamiento en iglús de cristal en el archipiélago de Helsinki, flotante entre Vallisaari y Kuninkaansaari en verano y en Sipoo en invierno."
 ---
 
-Archipelago Igloos es un único iglú de cristal, concebido como suite flotante para dos en las aguas que rodean Helsinki. Su gran atractivo es la vista de suelo a techo al cielo y al mar que lo rodea. En el interior hay una cama doble, una cocina, una mesa plegable, espacio para guardar alimentos y un aseo. Fuera, la terraza cuenta con barbacoa de gas, escalera para nadar y un bote de remos a disposición de los huéspedes.
+Archipelago Igloos ofrece alojamiento en iglús de cristal en el archipiélago que rodea Helsinki. Según Visit Finland, es una experiencia de alojamiento ecológica junto a atractivos naturales, apta para todo el año.
 
 ## Verano sobre el agua
 
-Del 4 de mayo al 30 de octubre, el iglú flotante permanece fondeado en la bahía entre las islas de Vallisaari y Kuninkaansaari. Se llega a Vallisaari en el ferry público desde Lyypekinlaituri, y después se recorren 400 metros hasta Torpedolahti, donde espera un bote de remos que lleva al iglú. El ferry de regreso al centro de la ciudad sale de esa misma bahía. Al reservar, indica tu hora de llegada preferida.
+En la temporada de verano, las unidades de alojamiento flotantes están ancladas en la bahía entre Vallisaari y Kuninkaansaari.
 
-El iglú cuenta con un pequeño hornillo de gas, suficiente para hervir agua, y los huéspedes pueden llevar su propia comida. En verano hay tablas de paddle surf y kick bikes disponibles.
+## Invierno
 
-## Invierno sobre el hielo
-
-En invierno la unidad se traslada al archipiélago de Sipoo y descansa sobre el hielo. Como extras opcionales en esa época, el operador organiza excursiones en motonieve y de flotación sobre el hielo, para quienes quieran hacer algo más que dormir sobre el hielo.
+Durante el invierno, los iglús de cristal se encuentran en el archipiélago de Sipoo, a solo 30 minutos en coche del centro de la ciudad.
 
 ## Información práctica
 
-El iglú dispone de Wi-Fi gratuito. Se llega en ferry público o en barco privado desde el centro de Helsinki.
-
-Solo hay una unidad, así que las fechas pueden ser limitadas. Pregunta por la temporada que te interese, ya que el emplazamiento y las actividades cambian entre verano e invierno.
+Visit Finland indica precios desde 290 EUR por un día. La web del operador estaba bloqueada por una comprobación antibots al revisar esta página, por lo que no se pudo confirmar el número de unidades, las fechas de temporada, las instalaciones ni cómo llegar. Pregunta al operador antes de reservar.
