@@ -2,7 +2,7 @@
 
 # Otel hattı durumu
 
-Güncelleme: 2026-11-17T20:06:52.394Z. Kuyrukta 8591 aday. Sitede yayında 202 otel, 37 taslak (239 dosya).
+Güncelleme: 2026-11-17T20:19:42.182Z. Kuyrukta 8591 aday. Sitede yayında 202 otel, 37 taslak (239 dosya).
 
 ## Dikkat
 
@@ -88,12 +88,13 @@ Onaylamak istediğiniz numaraları tek mesajda yazın, ör. "1 3 5-9". Listede o
 
 ## Aylık yeniden kontrol (yayındaki oteller)
 
-Son kontrol: 2026-11-17. 202 otel: sitesi açılan 118, açılmayan 7, resmi sitesi yazılı olmayan 77; kapanış notu 0, satılık alan adı 0; Expedia bağlantısı geçerli 103, geçersiz 0, eskimiş 0. Hiçbir otel otomatik olarak yayından kaldırılmaz; aşağıdakilere bir kişi bakmalı.
+Son kontrol: 2026-11-17. 202 otel: sitesi açılan 194, açılmayan 8, resmi sitesi yazılı olmayan 0; kapanış notu 0, satılık alan adı 0; Expedia bağlantısı geçerli 103, geçersiz 0, eskimiş 0. Hiçbir otel otomatik olarak yayından kaldırılmaz; aşağıdakilere bir kişi bakmalı.
 
 | Otel | Sorun |
 |---|---|
 | Archipelago Igloos (`archipelago-igloos-finland`) | site http 403 veriyor |
-| Castello di Monterone (`castello-di-monterone-italy`) | site http 403 veriyor |
+| Castello di Guarene (`castello-di-guarene-italy`) | site http 503 veriyor |
+| Cavo Tagoo Mykonos (`cavo-tagoo-mykonos-greece`) | site http 403 veriyor |
 | Otterburn Castle Country House Hotel (`otterburn-castle-country-house-hotel-united-kingdom`) | site http 401 veriyor |
 | Pullman Maldives Maamutaa Resort (`pullman-maldives-maamutaa-resort-maldives`) | site açılmıyor (fetch failed) |
 | Transfagarasan Treehouse Village (`transfagarasan-treehouse-village-romania`) | site http 503 veriyor |
@@ -104,12 +105,12 @@ Son kontrol: 2026-11-17. 202 otel: sitesi açılan 118, açılmayan 7, resmi sit
 
 | Aşama | Zaman (UTC) | Sonuç |
 |---|---|---|
-| shortlist | 2026-11-17 20:06 | week: 2026-W47, items: 40, waiting: 469, approved: 0, withoutTurkish: 0, expediaConfirmed: 25 |
+| shortlist | 2026-11-17 20:10 | week: 2026-W47, items: 40, waiting: 469, approved: 0, withoutTurkish: 0, expediaConfirmed: 25 |
+| prescreen | 2026-11-17 20:10 | reject: 4, research: 8, keep: 486, rules: {"pass":469,"unclear-scope-after-research":4,"treehouse":7,"no-quote-after-research":3,"name-only":1,"no-proof":1,"closure-hint-after-research":2,"no-category":2,"no-own-site-after-research":7,"status-unknown-after-research":1,"closure-hint":1}, ownerTouched: 2, alreadyScreened: 0 |
+| dedupe | 2026-11-17 20:10 | properties: 8528, groupsWithSeveralRecords: 391, newIds: 8830, idsMerged: 0, largeGroupsSkipped: 5, duplicates: 152, inReviewQueue: 0, ofPage: 3, ofCandidate: 149, byReason: {"same name":116,"same source id":26,"same official domain":10}, alreadyHasPage: 0, possibleInReviewQueue: 14 |
+| recheck | 2026-11-17 20:08 | hotels: 202, siteOk: 194, siteDown: 8, noSite: 0, saysClosed: 0, parked: 0, expediaValid: 103, expediaInvalid: 0, expediaStale: 0, problems: 8 |
 | expedia | 2026-11-17 20:05 | confirmed: 26, not_found: 24, unconfirmed: 10, unknownId: 0, records: 60 |
-| recheck | 2026-11-17 20:05 | hotels: 202, siteOk: 118, siteDown: 7, noSite: 77, saysClosed: 0, parked: 0, expediaValid: 103, expediaInvalid: 0, expediaStale: 0, problems: 84 |
 | expedia-todo | 2026-11-17 20:02 | todo: 60 |
-| prescreen | 2026-11-17 20:01 | reject: 4, research: 8, keep: 486, rules: {"pass":469,"unclear-scope-after-research":4,"treehouse":7,"no-quote-after-research":3,"name-only":1,"no-proof":1,"closure-hint-after-research":2,"no-category":2,"no-own-site-after-research":7,"status-unknown-after-research":1,"closure-hint":1}, ownerTouched: 2, alreadyScreened: 0 |
-| dedupe | 2026-11-17 19:59 | properties: 8528, groupsWithSeveralRecords: 391, newIds: 8830, idsMerged: 0, largeGroupsSkipped: 5, duplicates: 152, inReviewQueue: 0, ofPage: 3, ofCandidate: 149, byReason: {"same name":116,"same source id":26,"same official domain":10}, alreadyHasPage: 0, possibleInReviewQueue: 14 |
 | deploy | 2026-11-17 19:52 | state: live, live: 03b26f5, expected: aa577dc, ageMin: 102 |
 | evidence | 2026-11-17 19:52 | asked: 0, packs: 0, nothingReadable: 0, errors: 0, requeuedLostPacks: 0, reasons: {} |
 | apply | 2026-11-17 19:52 | applied: {"needs_review":62,"accepted":8,"rejected":6}, pruned: 3, unreadablePacks: 0 |

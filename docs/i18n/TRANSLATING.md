@@ -12,7 +12,10 @@ src/content/translations/<lang>/<collection>/<slug>.md
 ```
 
 `<collection>` is one of `hotels`, `categories`, `destinations`, `blog`, `experiences`.
-Only published English entries are translated (skip files with `status: draft`).
+Only published English entries are translated, with one exception: a hotel page with `status: draft` is
+translated when you are asked for it by slug (the writer prepares drafts with their translations, so they
+go live together when the owner says "yayınla"; a translation is never shown while its English page is a draft).
+Do not translate drafts nobody asked for.
 
 Frontmatter always starts with `source: <english-slug>`; then only the **translatable** fields
 listed below (never copy prices, URLs, coordinates, ratings, images, tags, dates). The body is the

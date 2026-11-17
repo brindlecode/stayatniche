@@ -1,7 +1,14 @@
 # Daily writer runbook (for the scheduled Claude session)
 
-Goal: publish the stays the owner **approved on the review page**, up to **20** per day, accurately.
-Never publish anything that is not `status: "approved"` in the queue. If nothing is approved, publish nothing.
+Goal: write the stays the owner **approved** (on the review page, or by number from the weekly
+shortlist), up to **20** per day, accurately, **as drafts with their five translations**. A draft goes
+live only when the owner says "yayınla" (see "Making drafts public"). Never write anything that is not
+`status: "approved"` in the queue. If nothing is approved, write nothing.
+
+The path of one stay: approved -> page written here with `status: draft` -> translations -> `gate-publish.mjs`
+(checks the draft against the publication rules, runs tests and the build) -> recorded `drafted` -> the
+owner says "yayınla" -> `publish-drafts.mjs` -> `gate-publish.mjs` again -> merged and live.
+Drafts were never public, so they need no redirect.
 
 **Every approved stay ends the run in one of four states, recorded with `pipeline/writer-result.mjs`**
 (section 4). Nothing stays "approved" because it was skipped silently.
@@ -82,7 +89,7 @@ officialWebsite: "https://…"
 sourceId: "<candidate id, e.g. osm:way/123>"
 verifiedAt: YYYY-MM-DD
 publishedDate: YYYY-MM-DD
-status: published
+status: draft                   # always draft here; publish-drafts.mjs makes it public after "yayınla"
 ---
 ```
 Body: 250–450 words, plain English, editorial but factual. Structure: what the stay is, the rooms,
@@ -109,14 +116,22 @@ node pipeline/gate-publish.mjs <slug> [<slug> ...]      # every page written in 
 ```
 It checks each page against the publication rules (niche fields, `location`, `niche_source_url`,
 no `reviewCount` without source, score under the ceiling of its `niche_scope`), then runs `npm test`,
-`npm run build` and `node scripts/check-build.mjs`. A page that fails a rule, or any page when a step
-fails, is set to `status: draft` by the script (exit code 1). For every slug it lists:
+`npm run build` and `node scripts/check-build.mjs`. Drafts are checked against the same rules: a draft
+that fails is listed as `NOT READY` (exit code 1) so the owner's later "yayınla" cannot fail on it; a
+draft that passes says `ready`. Missing translations are listed as `NOTE`. A published page that fails a
+rule, or any page when a step fails, is set to `status: draft` (exit code 1). For a `NOT READY` draft, fix
+the page if the evidence allows; otherwise record
 `node pipeline/writer-result.mjs blocked "<id>" "<neden, Türkçe, tek cümle>"` and commit the page as draft.
+For a `ready` draft: `node pipeline/writer-result.mjs drafted "<id>" <slug>`.
 Never push a page the gate set to draft as published, and never change a page back to `published` to
 get past the gate. If the gate keeps failing for a reason outside the pages (a broken test on the
 branch), say so in the final message; nothing is published that day.
 
 ## 3a. Expedia hotel page (affiliate link)
+First look in `data/pipeline/expedia-candidates.json` (keyed by candidate id): the weekly shortlist check may
+already have the answer. `node pipeline/writer-result.mjs drafted <id> <slug>` copies a `confirmed` record into
+`src/data/expedia-hotels.json` and `src/data/expedia-verification.json` by itself; a `not_found` record younger
+than 90 days needs no new search. Otherwise search as below.
 Expedia is the approved hotel partner (the full list of approved programs is `APPROVED` in
 `src/lib/tp-programs.mjs`; link only to those). The "Check rates" buttons go to the stay's own
 Expedia page when `src/data/expedia-hotels.json` has it, otherwise to an Expedia search.
@@ -141,14 +156,15 @@ src/content/translations/nl/hotels/<slug>.md
 
 Then run `node scripts/i18n-check.mjs all hotels` and fix every error yourself (read the failing file,
 correct it). Spot-read one translation per run for tone.
-A hotel without its translations only appears on the English site. That is acceptable only if you
-run out of time, and you must say so in the final message.
+Drafts are translated too (docs/i18n/TRANSLATING.md: a draft asked for by slug is translated); a
+translation is never shown while its English page is a draft, and goes live with it. A draft without its
+translations is acceptable only if you run out of time; say so in the final message.
 
 ## 4. Record the result of every approved stay
 Do not edit `candidates.json` by hand. For each stay you took:
 ```
-node pipeline/writer-result.mjs published "<id>" <slug>           # page written, status: published
-node pipeline/writer-result.mjs drafted   "<id>" <slug>           # page written with status: draft (owner publishes later)
+node pipeline/writer-result.mjs drafted   "<id>" <slug>           # page written with status: draft (the normal case)
+node pipeline/writer-result.mjs published "<id>" <slug>           # only after the owner's "yayınla" (publish-drafts does this)
 node pipeline/writer-result.mjs blocked   "<id>" "<neden>" [--final]
 node pipeline/writer-result.mjs duplicate "<id>" <existing slug>
 ```
@@ -158,15 +174,17 @@ If you want it current today: after the PR is merged, ArtifactData `get` each pu
 document and `update` it with `{"status": "published", "slug": "<slug>", "publishedAt": "<ISO date>"}`
 and its `if_version`.
 
-Making drafts public later (owner said "yayınla"): `node pipeline/publish-drafts.mjs <slug> [slug...]`
-(`--list` shows the drafts), then section 3a (Expedia page), 3b (translations: drafts have none) and 5.
+## Making drafts public (owner said "yayınla")
+`node pipeline/publish-drafts.mjs <slug> [slug...]` (`--list` shows the drafts). It lists any draft still
+without translations (older drafts): translate those (3b). Then `node pipeline/gate-publish.mjs <slugs>`
+and section 5. Never publish a draft the owner did not name.
 
 ## 5. Check and ship
 1. `node scripts/check-duplicates.mjs && npm run build && node scripts/check-build.mjs` must pass. If the
    duplicate check names a stay you just wrote, it is already on the site: delete your new file and its
    translations, set that candidate to `duplicate` with `duplicateOf: "<existing slug>"`, and move on.
-2. Commit (message: `pipeline: publish N stays (YYYY-MM-DD)`), push, open a PR to the default branch, and merge it
+2. Commit (message: `pipeline: N stays drafted (YYYY-MM-DD)`), push, open a PR to the default branch, and merge it
    once CI is green. If CI fails, fix or drop the offending file; never merge red.
 3. Trigger the `fetch-photos.yml` workflow on the default branch to look for free-licensed photos.
-4. Final message: what was published, drafted, blocked (with the reason) and marked duplicate.
+4. Final message: what was drafted (ready for "yayınla"), blocked (with the reason) and marked duplicate.
    `node pipeline/approved.mjs` must list nothing you took.

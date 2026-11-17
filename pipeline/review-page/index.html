@@ -98,12 +98,25 @@ textarea { width: 100%; min-height: 38px; resize: vertical; }
 .btn[data-d="research"][aria-pressed="true"] { background: var(--warn-bg); color: var(--warn-fg); border-color: transparent; }
 .catpick { display: inline-flex; gap: 6px; align-items: center; font-size: 12.5px; color: var(--muted); flex: 0 1 300px; }
 .catpick select { flex: 1 1 auto; min-width: 0; }
+.shortlist { margin: 0 0 18px; padding: 16px; border: 1px solid color-mix(in srgb, var(--primary) 35%, var(--line)); border-radius: 12px; background: var(--surface); display: grid; gap: 12px; }
+.shortlist h2 { font: 400 26px/1.15 var(--font-display); margin: 0; }
+.shortlist p { margin: 0; color: var(--muted); font-size: 13.5px; }
+.sl-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 1px; background: var(--line); border: 1px solid var(--line); border-radius: 10px; overflow: hidden; max-height: 460px; overflow-y: auto; }
+.sl-list li { background: var(--surface); padding: 8px 10px; display: grid; grid-template-columns: 2.2em 1fr; gap: 2px 8px; font-size: 13.5px; min-width: 0; }
+.sl-list li.done { background: var(--ok-bg); color: var(--ok-fg); }
+.sl-n { font: 500 13px/1.5 var(--font-mono); color: var(--muted); grid-row: span 3; }
+.sl-name { font-weight: 600; overflow-wrap: anywhere; }
+.sl-meta { color: var(--muted); font-size: 12.5px; overflow-wrap: anywhere; }
+.sl-meta a { color: var(--primary); text-underline-offset: 3px; }
+.sl-form { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.sl-form input { flex: 1 1 200px; min-width: 0; font: 15px/1.4 var(--font-mono); color: var(--fg); background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 9px 10px; }
+.sl-msg { font-size: 13px; color: var(--fg); min-height: 1em; }
 </style>
 
 <div class="wrap">
   <p class="eyebrow">StayAtNiche · onay kuyruğu</p>
   <h1>Hangi oteller <em>yayına girsin?</em></h1>
-  <p class="lede">Haiku her adayın resmi sitesini okudu ve niş bulduklarını buraya getirdi. Gerekçeye, siteden alıntıya ve gerekirse sitenin kendisine bakın. <b>Yayınla</b> dediğiniz oteller ertesi gün sayfasıyla siteye eklenir. <b>Araştırılsın</b> derseniz otelin sitesi yeniden okunur ve notunuzla birlikte tekrar değerlendirilip buraya döner. Yeni adaylar her sabah gelir.</p>
+  <p class="lede">Haiku her adayın resmi sitesini okudu ve niş bulduklarını buraya getirdi. Gerekçeye, siteden alıntıya ve gerekirse sitenin kendisine bakın. <b>Yayınla</b> dediğiniz otellerin sayfası ertesi gün taslak olarak yazılır; Claude’a “yayınla” dediğinizde siteye açılır. <b>Araştırılsın</b> derseniz otelin sitesi yeniden okunur ve notunuzla birlikte tekrar değerlendirilip buraya döner. Yeni adaylar her sabah gelir.</p>
 
   <div class="stats" aria-live="polite">
     <div><span class="eyebrow">Onay bekliyor</span><b id="s-open">–</b><small>karar vermediğiniz</small></div>
@@ -111,6 +124,17 @@ textarea { width: 100%; min-height: 38px; resize: vertical; }
     <div><span class="eyebrow">Yayında</span><b id="s-published">–</b><small>bu kuyruktan siteye eklenen</small></div>
     <div><span class="eyebrow">Reddettiğiniz</span><b id="s-rejected">–</b><small>siteye girmeyecek</small></div>
   </div>
+
+  <section class="shortlist" id="shortlist" hidden aria-labelledby="sl-title">
+    <h2 id="sl-title">Bu haftanın kısa listesi</h2>
+    <p id="sl-intro">Kuyruktaki adaylar otomatik ön elemeden geçti ve sıralandı. Onaylamak istediğiniz numaraları yazın, ör. <b>1 3 5-9</b>. Seçmedikleriniz kuyrukta kalır; aşağıdaki kartlardan tek tek de karar verebilirsiniz.</p>
+    <ol class="sl-list" id="sl-list"></ol>
+    <div class="sl-form">
+      <input id="sl-input" inputmode="numeric" autocomplete="off" placeholder="Numaralar, ör. 1 3 5-9" aria-label="Onaylanacak numaralar">
+      <button class="btn primary" id="sl-go">Onayla</button>
+    </div>
+    <div class="sl-msg" id="sl-msg" aria-live="polite"></div>
+  </section>
 
   <div class="filters">
     <div class="chips" id="tabs" role="group" aria-label="Durum"></div>
@@ -330,8 +354,65 @@ document.getElementById('bulk').addEventListener('click', async e => {
   box.innerHTML = `<span>${targets.length} otel yayın sırasına girdi.</span>`;
 });
 
+// Weekly shortlist (pipeline/shortlist.mjs writes the shortlist/current document).
+let shortlist = null, slArmed = null;
+const parseNumbers = (text, max) => {
+  const out = new Set();
+  for (const [, a, b] of String(text).matchAll(/(\d+)\s*(?:[-–]\s*(\d+))?/g)) {
+    const lo = Math.min(+a, +(b ?? a)), hi = Math.max(+a, +(b ?? a));
+    for (let n = lo; n <= hi && n - lo < 100; n++) if (n >= 1 && n <= max) out.add(n);
+  }
+  return [...out].sort((x, y) => x - y);
+};
+const slDone = (x) => { const d = pending.find(p => p.k === x.doc); return x.state === 'onaylandı' || d?.decision === 'approve'; };
+function renderShortlist() {
+  const box = document.getElementById('shortlist');
+  if (!shortlist?.items?.length) { box.hidden = true; return; }
+  box.hidden = false;
+  document.getElementById('sl-title').textContent = `Bu haftanın kısa listesi · ${shortlist.items.length} otel`;
+  document.getElementById('sl-list').innerHTML = shortlist.items.map(x => {
+    const done = slDone(x);
+    const state = done ? 'onaylandı' : x.state && x.state !== 'bekliyor' ? x.state : '';
+    const src = x.source ? `<a href="${esc(x.source)}" target="_blank" rel="noopener">${esc(x.sourceKind || 'kaynak')} ↗</a>` : '';
+    const com = x.commission === 'evet' ? 'komisyonlu bağlantı: var' : x.commission === 'hayır' ? 'komisyonlu bağlantı: yok' : 'komisyonlu bağlantı: kontrol edilmedi';
+    return `<li class="${done ? 'done' : ''}"><span class="sl-n">${x.n}</span><span class="sl-name">${esc(x.name)}${state ? ` · ${esc(state)}` : ''}</span>
+      <span class="sl-meta">${esc([x.place, x.catTr].filter(Boolean).join(' · '))}</span>
+      <span class="sl-meta">${esc(x.featureTr || x.feature || '')} ${src} · ${esc(com)}</span></li>`;
+  }).join('');
+  document.getElementById('sl-go').disabled = !canWrite;
+  document.getElementById('sl-input').disabled = !canWrite;
+}
+document.getElementById('sl-go').addEventListener('click', async () => {
+  const msg = document.getElementById('sl-msg');
+  const input = document.getElementById('sl-input');
+  if (!shortlist || !col || !canWrite) return;
+  const nums = parseNumbers(input.value, shortlist.items.length);
+  const picked = nums.map(n => shortlist.items.find(x => x.n === n)).filter(x => x && !slDone(x));
+  if (!nums.length) { msg.textContent = `1 ile ${shortlist.items.length} arasında numara yazın, ör. 1 3 5-9.`; return; }
+  if (!picked.length) { msg.textContent = 'Bu numaraların hepsi zaten onaylı.'; return; }
+  // Two steps: first show what will be approved, then save on the second click.
+  const key = picked.map(x => x.n).join(',');
+  if (slArmed !== key) {
+    slArmed = key;
+    msg.textContent = `${picked.length} otel onaylanacak: ${picked.map(x => `${x.n} ${x.name}`).join(', ')}. Doğruysa “Onayla”ya tekrar basın.`;
+    return;
+  }
+  slArmed = null; msg.textContent = `${picked.length} otel kaydediliyor…`;
+  let ok = 0;
+  for (const x of picked) {
+    const note = `Haftalık liste ${shortlist.week} #${x.n}`;
+    try {
+      if (pending.some(p => p.k === x.doc)) await save(x.doc, { decision: 'approve', finalCat: x.cat, note });
+      else await col.doc(x.doc).update({ decision: 'approve', finalCat: x.cat, note, reviewedAt: new Date().toISOString() });
+      ok++;
+    } catch { /* reported below */ }
+  }
+  msg.textContent = ok === picked.length ? `${ok} otel onaylandı; yazar ertesi gün sayfalarını taslak olarak hazırlar. Seçmedikleriniz kuyrukta kalır.` : `${ok}/${picked.length} otel kaydedildi; kalanlar için tekrar deneyin.`;
+  input.value = ''; renderShortlist();
+});
+
 let rendered = false;
-function rerender() { rendered = true; renderTabs(); renderFilters(); renderList(); }
+function rerender() { rendered = true; renderTabs(); renderFilters(); renderList(); renderShortlist(); }
 renderTabs();
 
 (async () => {
@@ -361,8 +442,12 @@ renderTabs();
     if (snap.docs.length >= 1000) { notice.hidden = false; notice.textContent = 'Kuyrukta 1000’den fazla kayıt var; ilk 1000 tanesi gösteriliyor. Karar verdikçe sıradakiler gelir.'; }
     const shown = [...document.querySelectorAll('.card')].map(c => c.dataset.k).join();
     const next = visible().map(x => x.k).join();
-    if (loaded && rendered && shown === next) { pending.forEach(x => paint(x.k)); renderTabs(); } else if (loaded) rerender();
+    if (loaded && rendered && shown === next) { pending.forEach(x => paint(x.k)); renderTabs(); renderShortlist(); } else if (loaded) rerender();
   }, fail);
+  db.collection('shortlist').doc('current').onSnapshot(snap => {
+    shortlist = snap.exists ? snap.data() : null;
+    renderShortlist();
+  }, () => {});
   col.where('status', '==', 'published').limit(1000).onSnapshot(snap => {
     published = snap.docs.map(d => ({ k: d.id, ...d.data() }));
     gotPublished = true; loaded = gotPending && gotPublished;
