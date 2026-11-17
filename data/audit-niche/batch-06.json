@@ -1,0 +1,307 @@
+[
+ {
+  "slug": "tyr-graig-castle-united-kingdom",
+  "name": "Ty’r Graig Castle",
+  "official_url": "https://www.tyrgraig-castle.co.uk",
+  "source_url": "https://www.tyrgraig-castle.co.uk/history",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Whole building is a 1892 Victorian gothic castle-shaped family house (not medieval); 11 en-suite rooms including Premium, Four Poster and Standard Turret rooms plus two hillside rooms.",
+  "evidence_quote": "It resembles both a castle - in fact he oftened referred to it as his 'beloved castle'",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Purpose-built 1892 castellated gothic house with turret rooms, sold as castle hotel; borderline since not medieval, so kept.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Wales",
+   "city": "Barmouth",
+   "locality": null
+  },
+  "page_issues": [
+   "Castle is a Victorian (1892) gothic-style house resembling a castle, not a medieval fortress; official site itself says both 'completed in 1892' and 'late 1890s'",
+   "Official rooms page lists two hillside rooms separately from the turret rooms; page does not mention turret room types",
+   "Booking page widget on official site dated 2025; current trading status not independently confirmed"
+  ]
+ },
+ {
+  "slug": "walworth-castle-hotel-united-kingdom",
+  "name": "Walworth Castle Hotel",
+  "official_url": "https://walworthcastle.co.uk/",
+  "source_url": "https://walworthcastle.co.uk/hotels-in-darlington/accommodation-in-darlington/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Castle rooms, four-poster suites (some in the towers) and the King James I Suite are inside the main castle; annex rooms are in an adjoining modern building, plus a gatehouse Lodge (6 guests) and a holiday cottage.",
+  "evidence_quote": "Castle rooms have either twin or double beds and are located within the main castle.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Real castle with guest rooms in the castle itself, but annex rooms, gatehouse lodge and cottage are separate, ordinary buildings.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "England",
+   "city": "Darlington",
+   "locality": "Walworth"
+  },
+  "page_issues": [
+   "Page does not mention that the annex rooms, Walworth Castle Lodge (gatehouse) and Holiday Cottage are outside the main castle",
+   "Grade I listing, 12th-century origins and c.1600 completion not stated on the official pages checked"
+  ]
+ },
+ {
+  "slug": "yha-st-briavels-castle-united-kingdom",
+  "name": "YHA St Briavels Castle",
+  "official_url": "https://www.yha.org.uk/hostel/yha-st-briavels-castle",
+  "source_url": "https://www.yha.org.uk/sites/default/files/media/document/yha-st-briavels-castle-access-statement.pdf",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Hostel occupies the whole 800-year-old Norman castle (main building plus East Tower); eight dormitory/family bedrooms. Beds are bunk-style in shared rooms; hostel not hotel.",
+  "evidence_quote": "this 800-year-old Norman Castle is packed with history and boasts remarkably well-preserved original features",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Guests sleep inside a genuine Norman castle; official YHA access statement confirms. Hostel format only.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "England",
+   "city": "St Briavels",
+   "locality": "Forest of Dean"
+  },
+  "page_issues": [
+   "YHA access statement (Sept 2025) lists three East Tower bedrooms (6, 8 and 10 beds), not two",
+   "Room capacities in the access statement run from 5 to 14 and total about 64 beds, not 'three to twelve' / 'up to 50'",
+   "Main YHA page returned 403 (bot wall); evidence taken from the official YHA access-statement PDF"
+  ]
+ },
+ {
+  "slug": "adelya-cave-hotel-turkey",
+  "name": "Adelya Cave Hotel",
+  "official_url": "https://www.adelyacave.com/",
+  "source_url": "https://www.adelyacave.com/room/5",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Nine rooms in a restored family house; the Woodshed, Grandpa Mehmet & Grandma Havva's Room, Stable and Hayloft are described as carved into rock, the Wine House as a cave room; Stone Room and Çardak are not described as cave.",
+  "evidence_quote": "Carved into the rock, this room once served as the family's stable.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Several rooms are explicitly rock-carved, but not all nine; mixed house of cave and built rooms.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Nevşehir",
+   "city": "Göreme",
+   "locality": null
+  },
+  "page_issues": [
+   "Page says to 'ask which rooms are rock-cut'; official room pages state Woodshed, Grandpa Mehmet room, Stable and Hayloft are carved into rock, Wine House is a cave room",
+   "Page highlight 'Heart of Göreme' is the hotel's own wording"
+  ]
+ },
+ {
+  "slug": "benesse-house-naoshima-japan",
+  "name": "Benesse House Naoshima",
+  "official_url": "https://benesse-artsite.jp/en/stay/benessehouse/",
+  "source_url": "https://benesse-artsite.jp/en/stay/benessehouse/",
+  "source_type": "official",
+  "niche_scope": "experience_only",
+  "niche_feature": "Museum-hotel (opened 1992) with guest rooms among contemporary art, in four buildings (Museum, Oval, Park, Beach). Nothing states rooms are cave, rock-cut or underground.",
+  "evidence_quote": "Benesse House is both a museum and a hotel, incorporating guest rooms and space for display of contemporary art.",
+  "operating": "open",
+  "verdict": "draft",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Concrete art-museum hotel by Ando; not carved into rock or in a cave, and fits none of the 14 categories.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Kagawa",
+   "city": "Naoshima",
+   "locality": "Naoshima Island"
+  },
+  "page_issues": [
+   "Category cave-hotels is wrong: it is a concrete museum hotel",
+   "Official site lists building names Museum, Oval, Park, Beach; claims of specific artists, 8pm museum access and monorail not checked",
+   "Rating 9.3 and 427 reviews unverified; official site announces maintenance closures (Jan-Mar 2027)"
+  ]
+ },
+ {
+  "slug": "cappadocia-cave-suites-turkey",
+  "name": "Cappadocia Cave Suites",
+  "official_url": "https://cappadociacavesuiteshotel.com/",
+  "source_url": "https://cappadociacavesuiteshotel.com/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Hotel of cave suites in Göreme; official site says its cave rooms are carved into rock formations. Third-party showcaves.com lists 34 rooms in former Hittite/Roman/Byzantine houses and caves.",
+  "evidence_quote": "Carved into ancient rock formations, our luxury cave rooms provide an unforgettable stay where tradition meets modern elegance.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site presents the hotel's rooms as carved cave rooms in Göreme; per-room cave status not itemised.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Nevşehir",
+   "city": "Göreme",
+   "locality": null
+  },
+  "page_issues": [
+   "'Daily hot air balloon flights from the property' unsupported; official site offers a balloon ride booking as an activity",
+   "Stone hammam 'carved from the tufa below the hotel' and 18°C tufa temperature not on the official page checked",
+   "Rating 9.1 / 1,876 reviews and '60 to 80 balloons' unverified",
+   "Official site says only 'cave suites/rooms'; some room types (Standard, Queen with balcony) not confirmed as rock-cut"
+  ]
+ },
+ {
+  "slug": "cappadocia-inans-cave-suites-turkey",
+  "name": "Cappadocia Inans Cave Suites",
+  "official_url": "https://www.cappadociainanscave.com",
+  "source_url": "https://www.cappadociainanscave.com/room-101/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Ten rooms (101-104, 201-203, 302, 401, 402), each labelled a 'Special Cave Room' / cave suite, plus a heated cave pool; the site does not describe carving in detail.",
+  "evidence_quote": "INANS CAVE SUITE Special Cave Rooms",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official room pages label all ten rooms as cave rooms/suites, though carved construction is not spelled out.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Nevşehir",
+   "city": "Nevşehir",
+   "locality": "Nar"
+  },
+  "page_issues": [
+   "Official address is in Nar village (Çavuş Sokak No:8, 50130 Nar), not central Nevşehir",
+   "Official site never states rooms are rock-carved, only 'cave rooms'; cave pool described as heated 'Cave Pool' without detail"
+  ]
+ },
+ {
+  "slug": "charming-cave-cappadocia-hotel-turkey",
+  "name": "Charming Cave Cappadocia Hotel",
+  "official_url": "https://www.thecharmingcavehotel.com/",
+  "source_url": "https://www.thecharmingcavehotel.com/",
+  "source_type": "official",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "Fifteen rooms: five Standard Cave Rooms (301-305) in the courtyard plus a Cave Suite (103) are cave rooms; Standard and Deluxe Stone Rooms, Junior Suites and others are built-stone or other rooms.",
+  "evidence_quote": "Charming Cave Hotel is totaly unique caved from the natural rocks and stones of Cappadocia",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Cave rooms confirmed for some units only; rest are stone-built or standard rooms.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Nevşehir",
+   "city": "Göreme",
+   "locality": null
+  },
+  "page_issues": [
+   "Page does not state that only about six of fifteen rooms (five Standard Cave Rooms plus Cave Suite) are cave rooms",
+   "Official site wording about rock carving is general, not per room"
+  ]
+ },
+ {
+  "slug": "cuevas-la-granja-spain",
+  "name": "Cuevas La Granja",
+  "official_url": "https://www.cuevas.org/",
+  "source_url": "https://www.cuevas.org/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Complex of 18 cave houses (studios, 1-3 bedroom units) in Benalúa, Guadix region, on a 25,000 m2 estate with pool open June-September.",
+  "evidence_quote": "Nuestro complejo de 18 casas cueva, ubicado en Benalúa, te ofrece una experiencia única",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site states the complex consists of 18 cave houses; every bookable unit is a cave house.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Andalusia",
+   "city": "Guadix",
+   "locality": "Benalúa"
+  },
+  "page_issues": []
+ },
+ {
+  "slug": "desert-cave-hotel-australia",
+  "name": "Desert Cave Hotel",
+  "official_url": "https://desertcave.com.au/",
+  "source_url": "https://showcaves.com/english/au/subterranea/DesertCaveHotel.html",
+  "source_type": "other",
+  "niche_scope": "specific_rooms",
+  "niche_feature": "First underground hotel in Coober Pedy (opened 1988); has dugout underground rooms and also ordinary above-ground rooms. Official site only describes Coober Pedy's underground hotels in general, not which rooms here.",
+  "evidence_quote": "There are also rooms above ground for visitor who do not like to be underground.",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Underground dugout rooms confirmed by a third-party cave guide; hotel also has above-ground rooms, so only some rooms qualify.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "South Australia",
+   "city": "Coober Pedy",
+   "locality": null
+  },
+  "page_issues": [
+   "Page implies all rooms are underground; source says there are also above-ground rooms",
+   "'Indoor underground swimming pool', constant 23°C, 70% of world's opals and 'opals visible in room walls' not confirmed by checked sources",
+   "Official site does not itemise underground vs above-ground room counts; room count figures conflict across sources",
+   "Booking.com rating 8.2 / 634 reviews unverified"
+  ]
+ },
+ {
+  "slug": "gamirasu-cave-turkey",
+  "name": "Gamirasu Cave Hotel",
+  "official_url": "https://www.gamirasu.com/",
+  "source_url": "https://www.gamirasu.com/",
+  "source_type": "official",
+  "niche_scope": "entire_property",
+  "niche_feature": "Hotel set within a restored Byzantine monastic retreat in Ayvalı village with 35 individually designed cave rooms and suites; 12th-century Ayvalı Church within the grounds.",
+  "evidence_quote": "Set within a restored Byzantine monastic retreat, the hotel features 35 individually designed cave rooms and suites",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site states 35 cave rooms and suites in a restored Byzantine monastic complex.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Nevşehir",
+   "city": "Ürgüp",
+   "locality": "Ayvalı"
+  },
+  "page_issues": [
+   "'6th-century' and 'functioning monastery for over 1,000 years' not stated on official site (it mentions a 12th-century church in the grounds)",
+   "'Thirty minutes from Göreme' and 'balloon launches from fields immediately below' not on the official pages checked; site says Ayvalı is 10 km from Ürgüp",
+   "Page says 'original Byzantine frescoes visible in some room niches': not stated; frescoes are in the church/valley",
+   "Rating 9.1 / 743 reviews unverified"
+  ]
+ },
+ {
+  "slug": "georgios-cave-cappadocia-turkey",
+  "name": "Georgios Cave Cappadocia",
+  "official_url": "https://georgioscavecappadocia.com/",
+  "source_url": "https://georgioscavecappadocia.com/about/",
+  "source_type": "official",
+  "niche_scope": "unverified",
+  "niche_feature": "Registered Rum (Greek) mansion in traditional stone architecture with nine 'stone/rock rooms'; only Room 105 is named 'Premium Cave Suit'. Official pages do not say rooms are carved into rock.",
+  "evidence_quote": "Konforlu ve otantik dekorasyona sahip taş/kaya odalar",
+  "operating": "open",
+  "verdict": "keep",
+  "new_category": null,
+  "closest_category": null,
+  "reason": "Official site calls rooms stone/rock rooms in a historic mansion; cave or rock-cut rooms not confirmed.",
+  "treehouse_structure": null,
+  "location": {
+   "region": "Nevşehir",
+   "city": "Ürgüp",
+   "locality": null
+  },
+  "page_issues": [
+   "'Cave' appears only in the name and in room 105 'Premium Cave Suit'; no checked source confirms any room is rock-cut"
+  ]
+ }
+]
