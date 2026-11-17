@@ -7,7 +7,7 @@ highlights:
   - "Unterwasserfenster rundum mit Blick auf das nächtliche Riffleben"
   - "Schwimmende Konstruktion mit Dachdeck, Lounge auf Meereshöhe und Unterwasserschlafzimmer"
   - "Vor der abgelegenen Insel Pemba, einem der am wenigsten besuchten Ziele im Indischen Ozean"
-  - "Immer wieder unter die außergewöhnlichsten Hotelerlebnisse der Welt gewählt"
+  - "Ein besonderes Schlaferlebnis unter Wasser, über das in Reisemedien regelmäßig berichtet wird"
 amenities:
   - "Schlafzimmer unter Wasser"
   - "Dachdeck mit Blick aufs offene Meer"
@@ -24,7 +24,7 @@ bestFor:
   - "Taucher, die im Ozean schlafen wollen"
 prosAndCons:
   pros:
-    - "Das außergewöhnlichste Schlaferlebnis, das es auf der Welt gibt"
+    - "Ein außergewöhnliches Schlaferlebnis, bei dem das Riff die ganze Nacht durch die Fenster zu sehen ist"
     - "Das nächtliche Riffleben vor den Schlafzimmerfenstern ist wirklich magisch"
     - "Absolute Privatsphäre – die Plattform liegt ganz allein im offenen Meer"
     - "Das Manta Resort an Land ergänzt das Erlebnis mit exzellentem Tauchen"

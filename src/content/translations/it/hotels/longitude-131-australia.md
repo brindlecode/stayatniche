@@ -27,7 +27,7 @@ bestFor:
   - Coppie che celebrano un'occasione speciale
 prosAndCons:
   pros:
-    - Vicinanza a Uluru senza eguali, la vista dal letto ti cambia davvero
+    - Grande vicinanza a Uluru, la vista dal letto ti cambia davvero
     - La formula all-inclusive elimina ogni pensiero dall'esperienza
     - Guide culturali e interpretazione aborigena di qualità eccezionale
     - Cieli straordinariamente bui per osservare le stelle dell'emisfero australe

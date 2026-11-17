@@ -7,7 +7,7 @@ highlights:
   - "Ventanales submarinos de 360 grados con el arrecife en directo por la noche"
   - "La estructura flotante incluye terraza en la azotea, salón a nivel del mar y dormitorio submarino"
   - "Frente a la remota isla de Pemba, uno de los destinos menos visitados del océano Índico"
-  - "Elegida una y otra vez entre las experiencias hoteleras más extraordinarias del mundo"
+  - "Una experiencia submarina singular que aparece con frecuencia en la prensa de viajes"
 amenities:
   - "Dormitorio submarino"
   - "Terraza en la azotea con vistas a mar abierto"
@@ -24,7 +24,7 @@ bestFor:
   - "Buceadores que quieren dormir dentro del océano"
 prosAndCons:
   pros:
-    - "La experiencia de dormir más extraordinaria que existe en el planeta"
+    - "Una experiencia de dormir extraordinaria, con el arrecife a la vista por las ventanas toda la noche"
     - "La vida nocturna del arrecife a través de los cristales del dormitorio es pura magia"
     - "Privacidad total: la estructura está sola en mar abierto"
     - "El resort principal de The Manta Resort ofrece además un buceo excelente"

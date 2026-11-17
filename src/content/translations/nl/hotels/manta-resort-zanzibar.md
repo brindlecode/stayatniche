@@ -7,7 +7,7 @@ highlights:
   - "Onderwaterramen rondom, met 's nachts live zicht op het rif"
   - "Drijvend bouwwerk met dakterras, lounge op zeeniveau en onderwaterslaapkamer"
   - "Voor de kust van het afgelegen Pemba, een van de minst bezochte bestemmingen in de Indische Oceaan"
-  - "Keer op keer uitgeroepen tot een van de bijzonderste hotelervaringen ter wereld"
+  - "Een bijzondere slaapervaring onder water die regelmatig in reismedia wordt genoemd"
 amenities:
   - "Slaapkamer onder water"
   - "Dakterras met uitzicht over de open oceaan"
@@ -24,7 +24,7 @@ bestFor:
   - "Duikers die midden in de oceaan willen slapen"
 prosAndCons:
   pros:
-    - "De meest bijzondere manier om te slapen die er op aarde te vinden is"
+    - "Een bijzondere slaapervaring, waarbij je 's nachts het rif door de ramen ziet"
     - "Het nachtelijke rifleven voor de slaapkamerramen is werkelijk magisch"
     - "Totale privacy, het platform ligt helemaal alleen in open zee"
     - "Het hoofdresort van Manta biedt als aanvulling uitstekende duikmogelijkheden"

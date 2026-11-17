@@ -33,7 +33,7 @@ bestFor:
   - Couples marking a milestone occasion
 prosAndCons:
   pros:
-    - Unmatched proximity to Uluru, the view from your bed is genuinely life-changing
+    - Very close proximity to Uluru, the view from your bed is genuinely life-changing
     - All-inclusive format removes all friction from the experience
     - Exceptionally high quality of cultural guiding and Indigenous interpretation
     - Extraordinarily dark skies for Southern Hemisphere stargazing

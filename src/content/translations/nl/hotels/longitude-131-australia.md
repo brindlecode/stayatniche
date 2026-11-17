@@ -27,7 +27,7 @@ bestFor:
   - Stellen die een mijlpaal vieren
 prosAndCons:
   pros:
-    - Nergens kom je zo dicht bij Uluru, en het uitzicht vanuit je bed is echt onvergetelijk
+    - Je zit heel dicht bij Uluru, en het uitzicht vanuit je bed is echt onvergetelijk
     - Door de all-inclusive opzet hoef je nergens meer over na te denken
     - Uitzonderlijk goede culturele gidsen en uitleg vanuit Aboriginal perspectief
     - Buitengewoon donkere hemel om naar de sterren van het zuidelijk halfrond te kijken

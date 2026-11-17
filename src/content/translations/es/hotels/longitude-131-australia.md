@@ -27,7 +27,7 @@ bestFor:
   - Parejas que celebran una ocasión especial
 prosAndCons:
   pros:
-    - Una proximidad a Uluru inigualable; la vista desde la cama te cambia de verdad
+    - Una gran proximidad a Uluru; la vista desde la cama te cambia de verdad
     - El formato todo incluido elimina cualquier fricción de la experiencia
     - Guías culturales e interpretación aborigen de altísima calidad
     - Cielos extraordinariamente oscuros para observar las estrellas del hemisferio sur

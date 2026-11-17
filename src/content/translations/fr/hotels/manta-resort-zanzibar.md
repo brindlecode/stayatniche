@@ -7,7 +7,7 @@ highlights:
   - "Des baies sous-marines à 360 degrés, avec le récif en direct la nuit"
   - "Une structure flottante avec toit-terrasse, salon au niveau de la mer et chambre sous-marine"
   - "Au large de la lointaine île de Pemba, l'une des destinations les moins fréquentées de l'océan Indien"
-  - "Régulièrement classée parmi les expériences hôtelières les plus extraordinaires au monde"
+  - "Une expérience de nuit sous-marine singulière, régulièrement évoquée dans la presse de voyage"
 amenities:
   - "Chambre sous-marine immergée"
   - "Toit-terrasse avec vue sur le grand large"
@@ -24,7 +24,7 @@ bestFor:
   - "Plongeurs qui rêvent de dormir dans l'océan"
 prosAndCons:
   pros:
-    - "L'expérience de nuit la plus extraordinaire qui soit sur terre"
+    - "Une expérience de nuit extraordinaire, avec le récif visible par les vitres toute la nuit"
     - "La vie nocturne du récif derrière les vitres de la chambre est proprement magique"
     - "Une intimité totale : la structure est seule en pleine mer"
     - "Le Manta Resort principal offre en complément une excellente plongée"

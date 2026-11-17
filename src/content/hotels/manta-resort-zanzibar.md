@@ -17,7 +17,7 @@ highlights:
   - "360-degree underwater windows with live reef views at night"
   - "Floating structure includes rooftop deck, sea level lounge, and underwater bedroom"
   - "Located off remote Pemba Island, one of the Indian Ocean's least-visited destinations"
-  - "Voted among the world's most extraordinary hotel experiences repeatedly"
+  - "A distinctive underwater sleeping experience that features regularly in travel coverage"
 amenities:
   - "Submerged underwater bedroom"
   - "Rooftop deck with open ocean views"
@@ -43,7 +43,7 @@ tags:
   - "marine"
 prosAndCons:
   pros:
-    - "The most extraordinary sleeping experience available anywhere on earth"
+    - "An extraordinary sleeping experience, with the reef visible through the windows all night"
     - "Nocturnal reef life through the bedroom windows is genuinely magical"
     - "Total privacy, the structure sits alone in the open ocean"
     - "The main Manta Resort offers excellent diving as a complement"
@@ -81,7 +81,7 @@ status: "published"
 publishedDate: 2025-01-10
 seo:
   metaTitle: "The Manta Resort Underwater Room Review, Sleep Under the Indian Ocean, Pemba Island"
-  metaDescription: "The world's most extraordinary sleep: a submerged underwater bedroom 4 meters below the Indian Ocean off remote Pemba Island, Tanzania. Watch reef fish through floor-to-ceiling windows all night."
+  metaDescription: "A rare underwater sleep: a submerged underwater bedroom 4 meters below the Indian Ocean off remote Pemba Island, Tanzania. Watch reef fish through floor-to-ceiling windows all night."
 affiliateLinks:
   - partner: "expedia"
     url: "https://www.expedia.com/Hotel-Search?destination=Pemba%20Island%2C%20Tanzania&adults=2"

@@ -4,7 +4,7 @@ destination: "Réserve de Sabi Sand, Mpumalanga"
 description: "Londolozi est un pionnier du safari de luxe moderne. Le Varty Camp originel, fondé par la famille Varty dans les années 1970 et peaufiné pendant cinq décennies jusqu'à devenir l'un des lodges les plus célèbres d'Afrique, s'étend au bord de la Sand River, dans la réserve de Sabi Sand. Sans clôture avec le parc national Kruger, il offre des observations de léopards réputées."
 highlights:
   - "Un pionnier du safari de luxe africain tel qu'on le conçoit aujourd'hui"
-  - "Des observations de léopards de renommée mondiale : des individus habitués à l'homme, dont on connaît la lignée"
+  - "Des observations de léopards réputées : des individus habitués à l'homme, dont on connaît la lignée"
   - "Frontière sans clôture avec le parc national Kruger, où la faune circule librement"
   - "Cinq générations de familles de léopards documentées et photographiées ici"
   - "La Sand River, pour des observations exceptionnelles au bord de l'eau"

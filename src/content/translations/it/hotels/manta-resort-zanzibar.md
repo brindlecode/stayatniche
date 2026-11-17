@@ -7,7 +7,7 @@ highlights:
   - "Finestre subacquee a 360 gradi con vista sulla barriera corallina anche di notte"
   - "La struttura galleggiante comprende terrazza panoramica, lounge a livello del mare e camera subacquea"
   - "Al largo della remota isola di Pemba, una delle mete meno visitate dell'Oceano Indiano"
-  - "Più volte votata tra le esperienze alberghiere più straordinarie al mondo"
+  - "Un’esperienza di pernottamento sott’acqua singolare, spesso citata dalla stampa di viaggio"
 amenities:
   - "Camera da letto sommersa"
   - "Terrazza panoramica con vista sull'oceano aperto"
@@ -24,7 +24,7 @@ bestFor:
   - "Sub che sognano di dormire dentro l'oceano"
 prosAndCons:
   pros:
-    - "L'esperienza notturna più straordinaria che si possa vivere sulla Terra"
+    - "Un’esperienza notturna straordinaria, con la barriera visibile dalle finestre per tutta la notte"
     - "La vita notturna della barriera corallina vista dalle finestre della camera è pura magia"
     - "Privacy totale: la struttura è sola in mezzo all'oceano"
     - "Il Manta Resort principale offre ottime immersioni come complemento"

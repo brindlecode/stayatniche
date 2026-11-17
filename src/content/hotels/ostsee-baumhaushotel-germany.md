@@ -31,6 +31,18 @@ sourceId: "osm:way/1075267869"
 verifiedAt: 2026-11-15
 publishedDate: 2026-11-17
 status: published
+location:
+  country: "Germany"
+  countryCode: "DE"
+  region: "Schleswig-Holstein"
+  city: "Wangels"
+  coordinates:
+    lat: 54.2730814
+    lng: 10.7622968
+niche_scope: entire_property
+niche_feature: "Seven treehouse lodges and seven lofts: free-standing houses on stilts about five metres above the ground among meadows, trees and alder carr woodland (official site, read 2026-11-15 under the treehouse rule)."
+niche_source_url: "https://www.ostsee-baumhaushotel.de/"
+niche_verified_at: 2026-11-17
 ---
 
 The Ostsee Baumhaushotel stands at Alte Landstraße 16 in Wangels, in the Ostholstein district of Schleswig-Holstein. It describes itself as the northernmost treehouse hotel in Germany. The site lies in the Bungsberg landscape protection area, near the Baltic Sea, Weißenhäuser Strand and the Weissenhaus Resort.

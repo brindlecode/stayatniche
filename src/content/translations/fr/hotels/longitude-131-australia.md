@@ -27,7 +27,7 @@ bestFor:
   - Couples qui célèbrent un grand moment
 prosAndCons:
   pros:
-    - Une proximité inégalée avec Uluru ; la vue depuis le lit a de quoi bouleverser une vie
+    - Une grande proximité avec Uluru ; la vue depuis le lit a de quoi bouleverser une vie
     - La formule tout compris ôte toute contrainte au séjour
     - Une qualité exceptionnelle de guidage culturel et de transmission des savoirs aborigènes
     - Un ciel d'une noirceur extraordinaire pour observer les étoiles de l'hémisphère Sud

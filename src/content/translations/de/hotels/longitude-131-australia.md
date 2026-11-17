@@ -27,7 +27,7 @@ bestFor:
   - Paare, die einen besonderen Anlass feiern
 prosAndCons:
   pros:
-    - Unerreichte Nähe zum Uluru – der Blick vom Bett ist wirklich lebensverändernd
+    - Sehr große Nähe zum Uluru – der Blick vom Bett ist wirklich lebensverändernd
     - Das All-inclusive-Konzept nimmt dem Aufenthalt jede Reibung
     - Kulturelle Führungen und indigene Vermittlung von außergewöhnlich hoher Qualität
     - Außergewöhnlich dunkler Himmel zur Sternbeobachtung auf der Südhalbkugel

@@ -49,7 +49,7 @@ nearbyAttractions:
     distance: 90 km
 seo:
   metaTitle: "Londolozi Varty Camp: luipaardsafari | StayAtNiche"
-  metaDescription: "Op safari bij Londolozi Varty Camp in Sabi Sand, Zuid-Afrika: de bakermat van de luxesafari en de beste plek om luipaarden te zien. Vanaf $ 1.200 per nacht."
+  metaDescription: "Op safari bij Londolozi Varty Camp in Sabi Sand, Zuid-Afrika: een wegbereider van de luxesafari, bekend om zijn luipaardwaarnemingen. Vanaf $ 1.200 per nacht."
 ---
 
 Elke luxesafari in Afrika is vandaag iets verschuldigd aan Londolozi. Toen Dave en John Varty in de jaren zeventig gasten begonnen uit te nodigen op de wildboerderij van hun familie aan de Sand River, legden ze de basis voor een branche die nog niet bestond: een combinatie van echte onderdompeling in de wildernis met een comfort en service die je tot dan toe alleen van stadshotels kende. Wat ze bijna bij toeval ontdekten, was dat die twee elkaar versterkten. Betere omstandigheden trokken gasten aan die zich dieper met het land konden verbinden, en het land, vooral de luipaarden, had meer te bieden dan iemand ooit had gedacht.

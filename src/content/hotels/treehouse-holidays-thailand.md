@@ -24,7 +24,6 @@ bestFor:
   - "Travellers who want something simple"
 bookingUrl: "https://treehouse-holidays.com/"
 rating: 8.4
-reviewCount: 0
 coordinates:
   lat: 8.0857686
   lng: 98.612317
@@ -33,6 +32,18 @@ sourceId: "osm:node/7139345982"
 verifiedAt: 2026-11-17
 publishedDate: 2026-11-17
 status: published
+location:
+  country: "Thailand"
+  countryCode: "TH"
+  region: "Phang Nga"
+  locality: "Koh Yao Noi"
+  coordinates:
+    lat: 8.0857686
+    lng: 98.612317
+niche_scope: entire_property
+niche_feature: "Eight separate houses raised 3.5 to 6 metres off the ground among trees beside a small lake on Koh Yao Noi; the site does not say whether they are attached to trunks (official site, read 2026-11-17)."
+niche_source_url: "https://treehouse-holidays.com/"
+niche_verified_at: 2026-11-17
 ---
 
 Treehouse Holidays is a small, owner-built place on Koh Yao Noi, the island in the Andaman Sea between Phuket and Krabi. It has eight houses, each of a different design and in a different price range, set by a 70-metre lake at the edge of the forest. They are separate houses raised well off the ground: the lowest described sits about 3.5 metres up and the highest about 6 metres.
