@@ -1,6 +1,6 @@
 # Otel hattı durumu
 
-Güncelleme: 2026-11-17T12:05:52.532Z. Kuyrukta 8591 aday. Sitede yayında 222 otel, 17 taslak (239 dosya).
+Güncelleme: 2026-11-17T12:12:58.621Z. Kuyrukta 8591 aday. Sitede yayında 222 otel, 17 taslak (239 dosya).
 
 ## Dikkat
 
