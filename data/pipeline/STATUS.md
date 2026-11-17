@@ -1,6 +1,8 @@
+✅ **Canlı yayın:** son site değişikliği canlıda (aa577dc).
+
 # Otel hattı durumu
 
-Güncelleme: 2026-11-17T12:12:58.621Z. Kuyrukta 8591 aday. Sitede yayında 222 otel, 17 taslak (239 dosya).
+Güncelleme: 2026-11-17T19:52:29.997Z. Kuyrukta 8591 aday. Sitede yayında 202 otel, 37 taslak (239 dosya).
 
 ## Dikkat
 
@@ -14,12 +16,12 @@ Güncelleme: 2026-11-17T12:12:58.621Z. Kuyrukta 8591 aday. Sitede yayında 222 o
 | Sitesi var, kanıt indirilecek (gece işi) | 0 |  |
 | Site okunamadı, 30 günde bir yeniden denenir (3 denemede elenir) | 936 | neden kaydedilmemiş (eski kayıt): 813; website fetch failed: bağlantı yok: 42; no website known: 32; website fetch failed: 403: 23 |
 | Kanıtı hazır, sınıflandırıcıyı bekliyor | 0 |  |
-| **Sizin kararınızı bekliyor (onay kuyruğu)** | 498 | araştırma istenen: 0; son kararınız: 2026-11-17 |
+| **Sizin kararınızı bekliyor (onay kuyruğu)** | 500 | araştırma istenen: 0; son kararınız: 2026-11-17 |
 | Onaylı, yazarı bekliyor | 0 |  |
 | Onaylı ama yazılamadı (kanıt yetersiz) | 5 | yeni kanıt bekleyen: 0 |
 | Taslak sayfası hazır, "yayınla" bekliyor | 6 |  |
 | Yayında (bu hattan) | 129 |  |
-| Elendi / tekrar | 2694 |  |
+| Elendi / tekrar | 2692 |  |
 
 ## Yazılamayanlar
 
@@ -35,10 +37,11 @@ Güncelleme: 2026-11-17T12:12:58.621Z. Kuyrukta 8591 aday. Sitede yayında 222 o
 
 | Aşama | Zaman (UTC) | Sonuç |
 |---|---|---|
+| deploy | 2026-11-17 19:52 | state: live, live: 03b26f5, expected: aa577dc, ageMin: 102 |
+| evidence | 2026-11-17 19:52 | asked: 0, packs: 0, nothingReadable: 0, errors: 0, requeuedLostPacks: 0, reasons: {} |
+| apply | 2026-11-17 19:52 | applied: {"needs_review":62,"accepted":8,"rejected":6}, pruned: 3, unreadablePacks: 0 |
 | writer | 2026-11-17 12:05 | last: published Treehouse Holiday |
 | publish | 2026-11-17 12:05 | published: ["ostsee-baumhaushotel-germany","baumhaushotel-solling-germany"] |
-| evidence | 2026-11-17 11:38 | asked: 11, packs: 11, nothingReadable: 0, errors: 0, requeuedLostPacks: 0, reasons: {} |
-| apply | 2026-11-17 11:37 | applied: {"needs_review":63,"accepted":9,"rejected":7}, pruned: 36, unreadablePacks: 0 |
 | sites | 2026-11-17 10:15 | found: 0, none: 20, refused: 0 |
 | sites-todo | 2026-11-17 10:15 | withoutWebsite: 4303, taken: 20 |
 | review | 2026-11-17 10:14 | newDocs: 0, updates: 7, onPage: 730, exportGiven: true |
@@ -52,7 +55,7 @@ Güncelleme: 2026-11-17T12:12:58.621Z. Kuyrukta 8591 aday. Sitede yayında 222 o
 
 | Kategori | new | verified | weak | classified | approved | blocked | drafted | published | rejected | duplicate |
 |---|---|---|---|---|---|---|---|---|---|---|
-| treehouse-hotels | 0 | 0 | 208 | 25 | 0 | 0 | 2 | 11 | 191 | 12 |
+| treehouse-hotels | 0 | 0 | 208 | 27 | 0 | 0 | 2 | 11 | 189 | 12 |
 | cave-hotels | 0 | 0 | 585 | 22 | 0 | 0 | 0 | 20 | 132 | 14 |
 | underwater-rooms | 0 | 0 | 8 | 0 | 0 | 0 | 0 | 0 | 3 | 2 |
 | castle-hotels | 0 | 3 | 758 | 209 | 0 | 4 | 3 | 49 | 621 | 23 |
