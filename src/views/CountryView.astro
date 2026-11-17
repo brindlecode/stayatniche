@@ -3,7 +3,7 @@ import HotelRoundup from '../components/HotelRoundup.astro';
 import { cheapestKnown } from '../lib/site';
 import { i18n, type Locale } from '../i18n';
 import { localized } from '../i18n/content';
-import { roundupAlternates } from '../i18n/roundups';
+import { roundupAlternates, MIN_INDEXABLE } from '../i18n/roundups';
 
 interface Props { locale: Locale; country: string; slug: string; hs: any[] }
 const { country: enCountry, slug, hs } = Astro.props;
@@ -39,4 +39,5 @@ const path = L.path('countries', slug);
   placeLabel={country}
   related={related}
   alternates={await roundupAlternates('countries', enCountry)}
+  noIndex={hs.length < MIN_INDEXABLE}
 />

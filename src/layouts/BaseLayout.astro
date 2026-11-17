@@ -6,6 +6,7 @@ import Analytics from '../components/Analytics.astro';
 import ConsentBanner from '../components/ConsentBanner.astro';
 import { getEntry } from 'astro:content';
 import { getLocale, i18n, LOCALE_META } from '../i18n';
+import { verificationCode } from '../lib/site';
 
 interface Props {
   title: string;
@@ -21,8 +22,9 @@ interface Props {
   updatedTime?: string;
   /** Extra JSON-LD blocks to inject. */
   jsonLd?: Record<string, unknown> | Record<string, unknown>[];
-  /** Same page in other languages (hreflang). Include this page's own locale. */
-  alternates?: { locale: string; href: string }[];
+  /** Same page in other languages (hreflang). Include this page's own locale. A version marked
+   *  indexable: false (thin page) stays in the language menu but is left out of hreflang. */
+  alternates?: { locale: string; href: string; indexable?: boolean }[];
   /** Hotel page facts for analytics (hotel_view and click dimensions). No personal data. */
   trackPage?: { hotel: string; category?: string; country?: string };
 }
@@ -66,9 +68,10 @@ const fullTitle = title.includes(siteName) ? title : `${title} | ${siteName}`;
 const canonicalUrl = new URL(Astro.url.pathname, Astro.site || canonical);
 
 const twitterHandle = seo.twitterHandle || '@stayatniche';
-const googleVerif   = seo.googleVerification || '';
-const bingVerif     = seo.bingVerification   || '';
-const pinterestVerif = seo.pinterestVerification || '';
+// Search Console / Bing / Pinterest verification (seo.json, empty by default = no tag).
+const googleVerif    = verificationCode(seo.googleVerification);
+const bingVerif      = verificationCode(seo.bingVerification);
+const pinterestVerif = verificationCode(seo.pinterestVerification);
 
 const socialSettings = await getEntry('settings', 'social').catch(() => null);
 const sameAs = Object.values(socialSettings?.data ?? {}).filter((v): v is string => typeof v === 'string' && v.startsWith('http'));
@@ -78,6 +81,9 @@ const plausibleDomain = analytics.plausibleDomain || '';
 const fbPixelId      = analytics.fbPixelId      || '';
 
 const extraLd = Array.isArray(jsonLd) ? jsonLd : jsonLd ? [jsonLd] : [];
+// hreflang only between indexable versions, and none on a noindex page (Google ignores or flags them).
+const hreflangs = noIndex ? [] : alternates.filter(a => a.indexable !== false);
+const xDefault = hreflangs.find(a => a.locale === 'en');
 ---
 
 <!DOCTYPE html>
@@ -106,7 +112,7 @@ const extraLd = Array.isArray(jsonLd) ? jsonLd : jsonLd ? [jsonLd] : [];
     <meta name="description" content={metaDesc} />
     <link rel="canonical" href={canonicalUrl} />
     {noIndex
-      ? <meta name="robots" content="noindex,nofollow" />
+      ? <meta name="robots" content="noindex,follow" />
       : <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1" />}
     {googleVerif    && <meta name="google-site-verification" content={googleVerif} />}
     {bingVerif      && <meta name="msvalidate.01" content={bingVerif} />}
@@ -123,9 +129,9 @@ const extraLd = Array.isArray(jsonLd) ? jsonLd : jsonLd ? [jsonLd] : [];
     <meta property="og:image:alt"    content={title} />
     <meta property="og:site_name"   content={siteName} />
     <meta property="og:locale"      content={meta.og} />
-    {alternates.filter(a => a.locale !== L.locale).map(a => <meta property="og:locale:alternate" content={LOCALE_META[a.locale as keyof typeof LOCALE_META].og} />)}
-    {alternates.length > 1 && alternates.map(a => <link rel="alternate" hreflang={LOCALE_META[a.locale as keyof typeof LOCALE_META].hreflang} href={new URL(a.href, canonical).href} />)}
-    {alternates.length > 1 && alternates.some(a => a.locale === 'en') && <link rel="alternate" hreflang="x-default" href={new URL(alternates.find(a => a.locale === 'en')!.href, canonical).href} />}
+    {hreflangs.filter(a => a.locale !== L.locale).map(a => <meta property="og:locale:alternate" content={LOCALE_META[a.locale as keyof typeof LOCALE_META].og} />)}
+    {hreflangs.length > 1 && hreflangs.map(a => <link rel="alternate" hreflang={LOCALE_META[a.locale as keyof typeof LOCALE_META].hreflang} href={new URL(a.href, canonical).href} />)}
+    {hreflangs.length > 1 && xDefault && <link rel="alternate" hreflang="x-default" href={new URL(xDefault.href, canonical).href} />}
     {publishedTime && <meta property="article:published_time" content={publishedTime} />}
     {updatedTime   && <meta property="article:modified_time"  content={updatedTime} />}
 

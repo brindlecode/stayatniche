@@ -3,6 +3,9 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import { i18n, type Locale } from '../i18n';
 import { localized, allAlternates } from '../i18n/content';
 import { placeLabel } from '../lib/site';
+import { ownPhoto } from '../lib/images';
+// The cover file may not exist yet: show the placeholder the page fell back to anyway (no 404 request).
+const coverOf = (e: { slug: string; data: { coverImage?: string } }) => e.data.coverImage ? ownPhoto(e.data.coverImage, e.slug) ?? '/images/placeholder.svg' : null;
 
 interface Props { locale: Locale }
 const L = i18n(Astro.props.locale);
@@ -31,7 +34,7 @@ const otherTypes = sorted.filter(e => !types.some(t => t.value === e.data.type))
     <div class="dot-pattern absolute inset-0 opacity-70 pointer-events-none" />
     <div class="absolute -top-16 -right-16 w-72 h-72 bg-gold-100/60 rounded-full blur-3xl pointer-events-none" />
     <div class="relative max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-      <nav class="flex items-center justify-center gap-2 text-warm-500 text-sm font-body mb-8" aria-label={t.common.breadcrumb}>
+      <nav class="flex items-center justify-center gap-2 text-warm-500 text-sm font-body mb-8" aria-label={t.common.breadcrumb} data-breadcrumb>
         <a href={L.path('home')} class="hover:text-warm-800 transition-colors">{t.common.home}</a>
         <span class="text-warm-300">/</span>
         <span class="text-warm-800 font-medium">{t.footer.experiences}</span>
@@ -80,8 +83,8 @@ const otherTypes = sorted.filter(e => !types.some(t => t.value === e.data.type))
               {byType[typeGroup.value].map(exp => (
                 <a href={L.path('experiences', exp.slug)} class="group bg-white rounded-2xl overflow-hidden shadow-card hover:shadow-card-hover transition-all duration-300 hover:-translate-y-1 border border-warm-100">
                   <div class="relative h-48 bg-gradient-to-br from-warm-100 to-warm-200 overflow-hidden">
-                    {exp.data.coverImage ? (
-                      <img src={exp.data.coverImage} alt={exp.data.title} class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+                    {coverOf(exp) ? (
+                      <img src={coverOf(exp)!} alt={exp.data.title} class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
                     ) : (
                       <div class="absolute inset-0 bg-gradient-to-br from-forest-100 to-warm-200" />
                     )}
@@ -114,7 +117,7 @@ const otherTypes = sorted.filter(e => !types.some(t => t.value === e.data.type))
               {otherTypes.map(exp => (
                 <a href={L.path('experiences', exp.slug)} class="group bg-white rounded-2xl overflow-hidden shadow-card hover:shadow-card-hover transition-all duration-300 hover:-translate-y-1 border border-warm-100">
                   <div class="relative h-48 bg-gradient-to-br from-forest-100 to-warm-200 overflow-hidden">
-                    {exp.data.coverImage && <img src={exp.data.coverImage} alt={exp.data.title} class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />}
+                    {coverOf(exp) && <img src={coverOf(exp)!} alt={exp.data.title} class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />}
                     <div class="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent" />
                     {exp.data.type && (
                       <div class="absolute bottom-3 left-3 bg-white/90 text-warm-800 font-body text-xs font-semibold px-2.5 py-1 rounded-full capitalize">

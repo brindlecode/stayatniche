@@ -1,6 +1,7 @@
 // Post-build sanity checks: fail CI if revenue/SEO basics regress.
 import { readFileSync, readdirSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
+import { spawnSync } from 'node:child_process';
 
 const adsense = JSON.parse(readFileSync('src/content/settings/analytics.json', 'utf8')).adsenseClient;
 let failed = 0;
@@ -51,4 +52,9 @@ for (const f of pages) {
   }
 }
 console.log(`${pages.length} pages checked`);
+
+// Whole-site checks on dist/ (hreflang reciprocity, sitemap vs build, internal 404s, drafted hotels,
+// thin pages, redirects, structured data): tests/build/dist.test.ts.
+const { status } = spawnSync(process.execPath, ['node_modules/vitest/vitest.mjs', 'run', 'tests/build'], { stdio: 'inherit', env: { ...process.env, SITE_BUILD_TESTS: '1' } });
+if (status !== 0) { console.error('✗ build tests failed (tests/build/dist.test.ts)'); failed++; }
 process.exit(failed ? 1 : 0);

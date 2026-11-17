@@ -79,7 +79,7 @@ Book Hakone tours and Fuji-viewing experiences on [Klook](https://www.klook.com/
 
 ## Tokyo to Naoshima: Art Island via Shinkansen
 
-Naoshima — the art island in the Seto Inland Sea where [Benesse House](/hotels/benesse-house-naoshima-japan) stands — requires the Shinkansen to Okayama, then a local train to Uno Port, then a 20-minute ferry. Total time from Tokyo: approximately 4.5 hours. From Kyoto: 3.5 hours.
+Naoshima — the art island in the Seto Inland Sea where Benesse House stands — requires the Shinkansen to Okayama, then a local train to Uno Port, then a 20-minute ferry. Total time from Tokyo: approximately 4.5 hours. From Kyoto: 3.5 hours.
 
 **Rail route:** Tokyo → Okayama (Shinkansen Hikari, 3h15m, JR Pass covered) → Chayamachi station → Uno Port (30 minutes, JR Pass covered on the Uno Line) → Ferry to Naoshima (20 minutes, not JR Pass)
 
@@ -102,7 +102,7 @@ Book Kyoto experiences — tea ceremony, Noh theatre, sake tasting — on [Klook
 
 ## Tokyo to Niseko, Hokkaido: Winter Ryokan
 
-[Zaborin](/hotels/zaborin-hokkaido-japan) and the broader Niseko resort area in Hokkaido are Japan's premier winter destination — a combination of exceptional ski terrain and a luxury ryokan scene that has developed rapidly over the past decade.
+Zaborin and the broader Niseko resort area in Hokkaido are Japan's premier winter destination — a combination of exceptional ski terrain and a luxury ryokan scene that has developed rapidly over the past decade.
 
 **Rail route:** Tokyo → Shin-Hakodate-Hokuto (Hokkaido Shinkansen, JR Pass covered, 4h15m) → Hakodate → Niseko (2.5 hours by bus or private transfer; the rail connection is indirect and slow — a private transfer is more practical)
 
@@ -116,7 +116,7 @@ Search New Chitose Airport to Niseko transfers through [KiwiTaxi](https://kiwita
 
 ## Hoshinoya Fuji: Mount Fuji from the Lake
 
-[Hoshinoya Fuji](/hotels/hoshinoya-fuji-japan) — the forest glamping property above Lake Kawaguchi with direct Fuji views — requires a specific transport approach.
+Hoshinoya Fuji — the forest glamping property above Lake Kawaguchi with direct Fuji views — requires a specific transport approach.
 
 **Rail route:** Shinjuku → Kawaguchiko Station (Fuji Excursion Limited Express, JR Pass plus reserved seat surcharge; or highway bus from Shinjuku Bus Terminal, 90 minutes). From Kawaguchiko Station: free shuttle bus to Hoshinoya Fuji (15 minutes, confirm timing with the property).
 

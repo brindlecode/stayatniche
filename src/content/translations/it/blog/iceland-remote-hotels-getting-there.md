@@ -71,7 +71,7 @@ La laguna glaciale di Jökulsárlón, dove gli iceberg si staccano dal ghiacciai
 
 ### Deplar Farm, penisola di Tröllaskagi
 
-[Deplar Farm](https://stayatniche.com/hotels/deplar-farm-iceland/) sorge sulla penisola di Tröllaskagi, nel nord dell’Islanda: un lodge per l’eliski d’inverno e la pesca a mosca d’estate che si colloca al vertice assoluto dell’offerta alberghiera islandese. La posizione settentrionale garantisce l’aurora in quasi ogni notte serena d’inverno. D’estate sono disponibili tour in elicottero sui fiordi circostanti.
+Deplar Farm sorge sulla penisola di Tröllaskagi, nel nord dell’Islanda: un lodge per l’eliski d’inverno e la pesca a mosca d’estate che si colloca al vertice assoluto dell’offerta alberghiera islandese. La posizione settentrionale garantisce l’aurora in quasi ogni notte serena d’inverno. D’estate sono disponibili tour in elicottero sui fiordi circostanti.
 
 **Come arrivare:** volo interno da Reykjavík ad Akureyri (50 minuti), poi transfer fino a Deplar in elicottero o via terra a seconda della stagione. Il lodge si occupa di tutta la logistica.
 
