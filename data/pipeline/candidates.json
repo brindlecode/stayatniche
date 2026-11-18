@@ -5078,7 +5078,7 @@
    "stars": "5"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": null,
@@ -5115,7 +5115,7 @@
    "doneAt": "2026-11-16",
    "result": "needs_review"
   },
-  "reviewedAt": "2026-11-17T12:05:52.082Z",
+  "reviewedAt": "2026-11-17T12:00:00.000Z",
   "pid": "sn-5g7rl98w7"
  },
  "osm:node/10689436835": {
@@ -157751,7 +157751,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": "Kilifi County",
@@ -157788,7 +157788,7 @@
    "doneAt": "2026-11-16",
    "result": "needs_review"
   },
-  "reviewedAt": "2026-11-17T12:05:52.082Z",
+  "reviewedAt": "2026-11-17T12:00:00.000Z",
   "pid": "sn-8be7dlauh"
  },
  "osm:node/911163664": {
