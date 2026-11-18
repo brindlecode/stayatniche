@@ -1,8 +1,8 @@
-✅ **Canlı yayın:** son site değişikliği canlıda (deda615).
+✅ **Canlı yayın:** son site değişikliği canlıda (14fb337).
 
 # Otel hattı durumu
 
-Güncelleme: 2026-11-17T20:29:04.765Z. Kuyrukta 8591 aday. Sitede yayında 202 otel, 37 taslak (239 dosya).
+Güncelleme: 2026-11-18T08:41:47.458Z. Kuyrukta 8592 aday. Sitede yayında 202 otel, 37 taslak (239 dosya).
 
 ## Dikkat
 
@@ -61,14 +61,14 @@ Onaylamak istediğiniz numaraları tek mesajda yazın, ör. "1 3 5-9". Listede o
 |---|---|---|
 | Resmi sitesi bilinmiyor (site bulucu sırasında) | 4234 | aranan: 43, bulunan: 3 |
 | Sitesi var, kanıt indirilecek (gece işi) | 0 |  |
-| Site okunamadı, 30 günde bir yeniden denenir (3 denemede elenir) | 873 | neden kaydedilmemiş (eski kayıt): 756; website fetch failed: bağlantı yok: 41; no website known: 27; website fetch failed: 403: 23 |
-| Kanıtı hazır, sınıflandırıcıyı bekliyor | 0 |  |
+| Site okunamadı, 30 günde bir yeniden denenir (3 denemede elenir) | 872 | neden kaydedilmemiş (eski kayıt): 701; website fetch failed: bağlantı yok: 55; no website known: 45; website fetch failed: 403: 36 |
+| Kanıtı hazır, sınıflandırıcıyı bekliyor | 4 |  |
 | **Sizin kararınızı bekliyor (onay kuyruğu)** | 499 | araştırma istenen: 8; son kararınız: 2026-11-17 |
 | Onaylı, yazarı bekliyor | 0 |  |
 | Onaylı ama yazılamadı (kanıt yetersiz) | 5 | yeni kanıt bekleyen: 0 |
 | Taslak sayfası hazır, "yayınla" bekliyor | 6 |  |
 | Yayında (bu hattan) | 129 |  |
-| Elendi / tekrar | 2845 |  |
+| Elendi / tekrar | 2846 |  |
 
 ## Yazılamayanlar
 
@@ -82,9 +82,9 @@ Onaylamak istediğiniz numaraları tek mesajda yazın, ör. "1 3 5-9". Listede o
 
 ## Otomatik ön eleme ve tekrarlar
 
-- Ön eleme (son çalışma 2026-11-17): elenen 0, araştırmaya gönderilen 0, kuyrukta kalan 0. Elenenlerin tek cümlelik nedeni onay sayfasında "Reddettiklerim" sekmesinde; isterseniz oradan yine onaylayabilirsiniz.
+- Ön eleme (son çalışma 2026-11-18): elenen 0, araştırmaya gönderilen 0, kuyrukta kalan 0. Elenenlerin tek cümlelik nedeni onay sayfasında "Reddettiklerim" sekmesinde; isterseniz oradan yine onaylayabilirsiniz.
 - Ön elemeyle toplam elenen: 1; araştırması süren: 8.
-- Tekrar kayıtlar (son çalışma 2026-11-17): bu çalışmada 0 bulundu (onay kuyruğundan 0); onay kuyruğunda olası tekrar 14. Liste: [DUPLICATES.md](DUPLICATES.md).
+- Tekrar kayıtlar (son çalışma 2026-11-18): bu çalışmada 0 bulundu (onay kuyruğundan 0); onay kuyruğunda olası tekrar 14. Liste: [DUPLICATES.md](DUPLICATES.md).
 
 ## Aylık yeniden kontrol (yayındaki oteller)
 
@@ -105,11 +105,13 @@ Son kontrol: 2026-11-17. 202 otel: sitesi açılan 194, açılmayan 8, resmi sit
 
 | Aşama | Zaman (UTC) | Sonuç |
 |---|---|---|
-| deploy | 2026-11-17 20:29 | state: live, live: 58d3401, expected: deda615, ageMin: 7 |
-| evidence | 2026-11-17 20:29 | asked: 8, packs: 8, nothingReadable: 0, errors: 0, requeuedLostPacks: 0, reasons: {} |
-| prescreen | 2026-11-17 20:28 | reject: 0, research: 0, keep: 0, rules: {}, ownerTouched: 10, alreadyScreened: 489 |
-| dedupe | 2026-11-17 20:28 | properties: 8528, groupsWithSeveralRecords: 391, newIds: 0, idsMerged: 0, largeGroupsSkipped: 5, duplicates: 0, inReviewQueue: 0, ofPage: 0, ofCandidate: 0, byReason: {}, alreadyHasPage: 0, possibleInReviewQueue: 14 |
-| apply | 2026-11-17 20:28 | applied: {"needs_review":62,"accepted":8,"rejected":6}, pruned: 1, unreadablePacks: 0 |
+| deploy | 2026-11-18 08:41 | state: live, live: 006fccd, expected: 14fb337, ageMin: 729 |
+| evidence | 2026-11-18 08:41 | asked: 59, packs: 4, nothingReadable: 55, errors: 0, requeuedLostPacks: 0, reasons: {"website fetch failed: no connection":14,"website fetch failed: 403":14,"no website known":18,"robots.txt disallows fetching":4,"website fetch failed: 404":5} |
+| prescreen | 2026-11-18 08:41 | reject: 0, research: 0, keep: 0, rules: {}, ownerTouched: 10, alreadyScreened: 489 |
+| dedupe | 2026-11-18 08:41 | properties: 8529, groupsWithSeveralRecords: 391, newIds: 1, idsMerged: 0, largeGroupsSkipped: 5, duplicates: 0, inReviewQueue: 0, ofPage: 0, ofCandidate: 0, byReason: {}, alreadyHasPage: 0, possibleInReviewQueue: 14 |
+| verify | 2026-11-18 08:41 | checked: 1, stillNew: 0 |
+| discover | 2026-11-18 08:40 | categories: ["lighthouse-hotels","train-hotels"], added: 1, total: 8592 |
+| apply | 2026-11-18 08:36 | applied: {"needs_review":62,"accepted":8,"rejected":6}, pruned: 0, unreadablePacks: 0 |
 | shortlist | 2026-11-17 20:10 | week: 2026-W47, items: 40, waiting: 469, approved: 0, withoutTurkish: 0, expediaConfirmed: 25 |
 | recheck | 2026-11-17 20:08 | hotels: 202, siteOk: 194, siteDown: 8, noSite: 0, saysClosed: 0, parked: 0, expediaValid: 103, expediaInvalid: 0, expediaStale: 0, problems: 8 |
 | expedia | 2026-11-17 20:05 | confirmed: 26, not_found: 24, unconfirmed: 10, unknownId: 0, records: 60 |
@@ -122,8 +124,6 @@ Son kontrol: 2026-11-17. 202 otel: sitesi açılan 194, açılmayan 8, resmi sit
 | check | 2026-11-17 10:14 | decisions: 1, accepted: 0, needs_review: 0, no_evidence: 0, duplicate: 0, rejected: 1, withoutPack: 0 |
 | batches | 2026-11-17 10:14 | needDecision: 1, taken: 1, batches: 1, unreadablePacks: 0 |
 | reviews | 2026-11-17 10:14 | documents: 730, changed: {}, unreadable: 0 |
-| verify | 2026-11-17 09:19 | checked: 1, stillNew: 0 |
-| discover | 2026-11-17 09:19 | categories: ["safari-lodges","overwater-bungalows"], added: 1, total: 8591 |
 
 ## Kategoriye göre
 
@@ -137,9 +137,9 @@ Son kontrol: 2026-11-17. 202 otel: sitesi açılan 194, açılmayan 8, resmi sit
 | bubble-hotels | 0 | 0 | 211 | 4 | 0 | 0 | 0 | 5 | 353 | 5 |
 | cliffside-hotels | 0 | 0 | 374 | 14 | 0 | 0 | 0 | 2 | 136 | 14 |
 | desert-camps | 0 | 0 | 238 | 9 | 0 | 1 | 1 | 7 | 44 | 7 |
-| jungle-lodges | 0 | 0 | 825 | 65 | 0 | 0 | 0 | 4 | 150 | 27 |
+| jungle-lodges | 0 | 0 | 824 | 65 | 0 | 0 | 0 | 4 | 151 | 27 |
 | ice-hotels | 0 | 0 | 92 | 5 | 0 | 0 | 0 | 2 | 69 | 22 |
 | safari-lodges | 0 | 2 | 837 | 107 | 0 | 0 | 0 | 3 | 107 | 78 |
 | overwater-bungalows | 0 | 0 | 39 | 0 | 0 | 0 | 0 | 3 | 2 | 35 |
-| lighthouse-hotels | 0 | 0 | 426 | 13 | 0 | 0 | 0 | 11 | 535 | 9 |
+| lighthouse-hotels | 0 | 0 | 427 | 13 | 0 | 0 | 0 | 11 | 535 | 9 |
 | train-hotels | 0 | 0 | 461 | 9 | 0 | 0 | 0 | 8 | 157 | 41 |
