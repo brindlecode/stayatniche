@@ -1,0 +1,22 @@
+[
+  { "id": "osm:node/5395462004", "url": null, "title": null, "why": "only booking and listing sites in the results" },
+  { "id": "osm:node/5395462006", "url": null, "title": null, "why": "only booking and listing sites in the results" },
+  { "id": "osm:node/5395462008", "url": null, "title": null, "why": "only booking and listing sites in the results" },
+  { "id": "osm:node/5762409957", "url": null, "title": null, "why": "only booking and listing sites in the results" },
+  { "id": "osm:node/5903299384", "url": null, "title": null, "why": "only booking and listing sites in the results" },
+  { "id": "osm:node/5942342772", "url": null, "title": null, "why": "no property-specific results, only unrelated Batman hotels and aggregators" },
+  { "id": "osm:node/6654286886", "url": null, "title": null, "why": "only booking and listing sites in the results" },
+  { "id": "osm:node/6654286886", "url": null, "title": null, "why": "only booking and listing sites in the results" },
+  { "id": "osm:node/7095437785", "url": null, "title": null, "why": "only booking and listing sites in the results" },
+  { "id": "osm:node/7874812485", "url": null, "title": null, "why": "only booking and listing sites in the results" },
+  { "id": "osm:node/9069665317", "url": null, "title": null, "why": "only booking and listing sites in the results" },
+  { "id": "osm:node/9388617333", "url": null, "title": null, "why": "only booking and listing sites in the results" },
+  { "id": "osm:node/975961765", "url": null, "title": null, "why": "only booking and listing sites in the results, name overlaps with a listing under another name" },
+  { "id": "osm:node/9796054211", "url": null, "title": null, "why": "only booking and listing sites in the results" },
+  { "id": "osm:node/9796088578", "url": null, "title": null, "why": "only booking and listing sites in the results" },
+  { "id": "osm:node/9796090824", "url": null, "title": null, "why": "no result for this name, only other Ortahisar cave hotels" },
+  { "id": "osm:node/9796094427", "url": null, "title": null, "why": "official domain only cited by a third-party listing, not seen as a search result" },
+  { "id": "osm:node/9920644686", "url": null, "title": null, "why": "only booking and listing sites in the results" },
+  { "id": "osm:way/1094698072", "url": null, "title": null, "why": "only booking and listing sites in the results" },
+  { "id": "osm:way/1274410788", "url": null, "title": null, "why": "only booking and listing sites in the results" }
+]

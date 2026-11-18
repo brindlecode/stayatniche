@@ -5078,7 +5078,7 @@
    "stars": "5"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "classified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": null,
@@ -20274,28 +20274,32 @@
   ],
   "lastEvidence": "2026-11-17",
   "haiku": {
-   "verdict": "accepted",
+   "verdict": "needs_review",
    "category": "treehouse-hotels",
-   "scope": "whole_property",
-   "confidence": 0.8,
-   "feature": "Treehouse accommodation in a forest park near Bruges",
-   "reason": "The overnight page offers stays only in treehouses (boomhutten), so the treehouse category fits the whole stay.",
-   "file": "data/pipeline/decisions/2026-10-26/checked.json",
-   "decidedAt": "2026-10-26"
+   "scope": "unclear",
+   "confidence": 0.4,
+   "feature": "Treehouse cabins (boomhutten) in the Ryckevelde forest estate; the source does not say whether they are built in a tree or on pillars, or whether they are raised",
+   "reason": "needs_review, niche_scope unclear: reviewer asked how the units are built (attached to a tree or on pillars); the page only calls them treehouses in a forest and never says they are among trees, raised, or free-standing, so the treehouse rule is not met and the candidate is not accepted.",
+   "file": "data/pipeline/decisions/2026-11-18/checked.json",
+   "decidedAt": "2026-11-18",
+   "evidenceAt": "2026-11-17T20:28:44.126Z"
   },
   "pid": "sn-jky724qcy",
   "prescreen": {
-   "action": "research",
-   "rule": "treehouse",
-   "reason": "Ağaç ev kuralı: birimlerin nasıl inşa edildiği (ağaca bağlı ya da direkler üzerinde) kaynakta yazmıyor.",
-   "at": "2026-11-17T20:10:50.244Z",
-   "file": "data/pipeline/decisions/2026-10-26/checked.json"
+   "action": "keep",
+   "rule": "unclear-scope-after-research",
+   "reason": "Araştırıldı, hâlâ belirsiz: Kanıt yetersiz: niş özelliğinin kapsamı kaynakta net değil.",
+   "at": "2026-11-18T10:21:10.877Z",
+   "file": "data/pipeline/decisions/2026-11-18/checked.json",
+   "evidenceAt": "2026-11-17T20:28:44.126Z"
   },
   "research": {
    "askedAt": "2026-11-17T20:10:50.244Z",
    "note": "Ön eleme: Ağaç ev kuralı: birimlerin nasıl inşa edildiği (ağaca bağlı ya da direkler üzerinde) kaynakta yazmıyor.",
    "by": "prescreen",
-   "fetchedAt": "2026-11-17"
+   "fetchedAt": "2026-11-17",
+   "doneAt": "2026-11-18",
+   "result": "needs_review"
   }
  },
  "osm:node/12126392032": {
@@ -39031,7 +39035,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-18",
   "region": "Guanajuato",
@@ -39047,12 +39051,23 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "haiku: Rural retreat resort with suites and casitas; no page mentions a lighthouse, so the name El Faro is not evidence for lighthouse-hotels and no niche category applies. Guests must be 18 or older."
   ],
   "lastEvidence": "2026-11-18",
   "noEvidence": 1,
   "noEvidenceAt": "2026-10-19T06:22:18.709Z",
-  "pid": "sn-73vo9kebf"
+  "pid": "sn-73vo9kebf",
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "unclear",
+   "confidence": 0.5,
+   "feature": null,
+   "reason": "Rural retreat resort with suites and casitas; no page mentions a lighthouse, so the name El Faro is not evidence for lighthouse-hotels and no niche category applies. Guests must be 18 or older.",
+   "file": "data/pipeline/decisions/2026-11-18/checked.json",
+   "decidedAt": "2026-11-18",
+   "evidenceAt": "2026-11-18T08:41:03.232Z"
+  }
  },
  "osm:node/13581934254": {
   "id": "osm:node/13581934254",
@@ -56697,25 +56712,28 @@
    "verdict": "needs_review",
    "category": "treehouse-hotels",
    "scope": "some_units",
-   "confidence": 0.85,
-   "feature": "Treehouse units among pines in Olympos valley, alongside bungalows and a dorm",
-   "reason": "Guesthouse in Olympos whose treehouses sit among the pines, with bungalows and a dorm as other unit types, so only some units are treehouses.",
-   "file": "data/pipeline/decisions/2026-10-25/checked.json",
-   "decidedAt": "2026-10-25"
+   "confidence": 0.65,
+   "feature": "Treehouse units among towering pines in the Olympos valley, raised ('sleeping at the top'); the evidence does not say whether they are built into a tree or on stilts; they sit alongside bungalows and a dorm",
+   "reason": "Accepted as some_units. Reviewer asked how the units are built; the page does not say whether they are built into a tree or on stilts, but it places the treehouses among the pines and says guests sleep at the top of a tree house, and they are separate units from bungalows and the dorm.",
+   "file": "data/pipeline/decisions/2026-11-18/checked.json",
+   "decidedAt": "2026-11-18",
+   "evidenceAt": "2026-11-17T20:28:44.169Z"
   },
   "pid": "sn-tyljo60ql",
   "prescreen": {
-   "action": "research",
-   "rule": "treehouse",
-   "reason": "Ağaç ev kuralı: birimlerin nasıl inşa edildiği (ağaca bağlı ya da direkler üzerinde) kaynakta yazmıyor.",
-   "at": "2026-11-17T20:10:50.244Z",
-   "file": "data/pipeline/decisions/2026-10-25/checked.json"
+   "action": "keep",
+   "rule": "pass",
+   "at": "2026-11-18T10:21:10.877Z",
+   "file": "data/pipeline/decisions/2026-11-18/checked.json",
+   "evidenceAt": "2026-11-17T20:28:44.169Z"
   },
   "research": {
    "askedAt": "2026-11-17T20:10:50.244Z",
    "note": "Ön eleme: Ağaç ev kuralı: birimlerin nasıl inşa edildiği (ağaca bağlı ya da direkler üzerinde) kaynakta yazmıyor.",
    "by": "prescreen",
-   "fetchedAt": "2026-11-17"
+   "fetchedAt": "2026-11-17",
+   "doneAt": "2026-11-18",
+   "result": "needs_review"
   }
  },
  "osm:node/1879765872": {
@@ -66228,7 +66246,7 @@
    "stars": "3"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-10-07",
   "lastSeen": "2026-11-18",
   "category": "train-hotels",
@@ -66243,12 +66261,23 @@
   },
   "checkedAt": "2026-10-07",
   "reasons": [
-   "no category evidence on official website"
+   "haiku: Not train-hotels: the rooms are themed Orient Express compartments inside a Munich hotel building, not sleeping in a railway carriage or a sleeper journey. The train is a decor theme only."
   ],
   "lastEvidence": "2026-11-18",
   "noEvidence": 1,
   "noEvidenceAt": "2026-10-19T06:24:03.934Z",
-  "pid": "sn-b1m3x9d89"
+  "pid": "sn-b1m3x9d89",
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.5,
+   "feature": "Munich city hotel whose rooms are decorated as Orient Express compartments; they are themed rooms in a building, not railway carriages",
+   "reason": "Not train-hotels: the rooms are themed Orient Express compartments inside a Munich hotel building, not sleeping in a railway carriage or a sleeper journey. The train is a decor theme only.",
+   "file": "data/pipeline/decisions/2026-11-18/checked.json",
+   "decidedAt": "2026-11-18",
+   "evidenceAt": "2026-11-18T08:41:04.753Z"
+  }
  },
  "osm:node/2613293549": {
   "id": "osm:node/2613293549",
@@ -88863,28 +88892,31 @@
   "reasons": [],
   "lastEvidence": "2026-11-17",
   "haiku": {
-   "verdict": "accepted",
+   "verdict": "needs_review",
    "category": "treehouse-hotels",
-   "scope": "whole_property",
-   "confidence": 0.95,
-   "feature": "Artistically designed treehouses on the KwaZulu-Natal Midlands, with a few cottages alongside",
-   "reason": "Clearly a treehouse property with several named treehouses and two cottages, so whole_property with 6 treehouses.",
-   "file": "data/pipeline/decisions/2026-10-22/checked.json",
-   "decidedAt": "2026-10-22"
+   "scope": "some_units",
+   "confidence": 0.75,
+   "feature": "Six treehouses; some built onto or into trees (Romantic and Faraway) and some on raised levels or platforms, among the Drakensberg views; the other two units are country cottages",
+   "reason": "Accepted as some_units with 6 treehouse units. Reviewer asked how the units are built; the Romantic treehouse is built onto a tree and the Faraway treehouse is built into an ancient sycamore, and the Pegasus unit rests on a raised platform, so the three-part treehouse rule is met for these units. Two country cottages are not treehouses.",
+   "file": "data/pipeline/decisions/2026-11-18/checked.json",
+   "decidedAt": "2026-11-18",
+   "evidenceAt": "2026-11-17T20:28:44.170Z"
   },
   "pid": "sn-ur6n8aq20",
   "prescreen": {
-   "action": "research",
-   "rule": "treehouse",
-   "reason": "Ağaç ev kuralı: birimlerin nasıl inşa edildiği (ağaca bağlı ya da direkler üzerinde) kaynakta yazmıyor.",
-   "at": "2026-11-17T20:10:50.244Z",
-   "file": "data/pipeline/decisions/2026-10-22/checked.json"
+   "action": "keep",
+   "rule": "pass",
+   "at": "2026-11-18T10:21:10.877Z",
+   "file": "data/pipeline/decisions/2026-11-18/checked.json",
+   "evidenceAt": "2026-11-17T20:28:44.170Z"
   },
   "research": {
    "askedAt": "2026-11-17T20:10:50.244Z",
    "note": "Ön eleme: Ağaç ev kuralı: birimlerin nasıl inşa edildiği (ağaca bağlı ya da direkler üzerinde) kaynakta yazmıyor.",
    "by": "prescreen",
-   "fetchedAt": "2026-11-17"
+   "fetchedAt": "2026-11-17",
+   "doneAt": "2026-11-18",
+   "result": "needs_review"
   }
  },
  "osm:node/3975738172": {
@@ -108991,28 +109023,32 @@
   "reasons": [],
   "lastEvidence": "2026-11-17",
   "haiku": {
-   "verdict": "accepted",
+   "verdict": "needs_review",
    "category": "treehouse-hotels",
-   "scope": "whole_property",
-   "confidence": 0.95,
-   "feature": "Resort of tree houses in Southern Oregon, including a two-story Excalifir treehouse",
-   "reason": "Site is a treehouse rental resort in Southern Oregon with several named tree houses, so treehouse-hotels fits as the whole property; the name Cave Junction is only a town name.",
-   "file": "data/pipeline/decisions/2026-10-14/checked.json",
-   "decidedAt": "2026-10-14"
+   "scope": "unclear",
+   "confidence": 0.4,
+   "feature": "Tree house rentals (Cottage, Calypso, Shiitake, Excalifir) in Southern Oregon; the evidence does not say whether they are built in trees, on stilts, or raised, and does not describe their location among trees",
+   "reason": "needs_review, niche_scope unclear: reviewer asked how the units are built; the site calls them tree houses, and one is two stories, but never says whether they are built in or on trees, on stilts, or raised, so the treehouse rule is not met and the candidate is not accepted.",
+   "file": "data/pipeline/decisions/2026-11-18/checked.json",
+   "decidedAt": "2026-11-18",
+   "evidenceAt": "2026-11-17T20:28:44.171Z"
   },
   "pid": "sn-b42fngcsg",
   "prescreen": {
-   "action": "research",
-   "rule": "treehouse",
-   "reason": "Ağaç ev kuralı: birimlerin nasıl inşa edildiği (ağaca bağlı ya da direkler üzerinde) kaynakta yazmıyor.",
-   "at": "2026-11-17T20:10:50.244Z",
-   "file": "data/pipeline/decisions/2026-10-14/checked.json"
+   "action": "keep",
+   "rule": "unclear-scope-after-research",
+   "reason": "Araştırıldı, hâlâ belirsiz: Kanıt yetersiz: niş özelliğinin kapsamı kaynakta net değil.",
+   "at": "2026-11-18T10:21:10.877Z",
+   "file": "data/pipeline/decisions/2026-11-18/checked.json",
+   "evidenceAt": "2026-11-17T20:28:44.171Z"
   },
   "research": {
    "askedAt": "2026-11-17T20:10:50.244Z",
    "note": "Ön eleme: Ağaç ev kuralı: birimlerin nasıl inşa edildiği (ağaca bağlı ya da direkler üzerinde) kaynakta yazmıyor.",
    "by": "prescreen",
-   "fetchedAt": "2026-11-17"
+   "fetchedAt": "2026-11-17",
+   "doneAt": "2026-11-18",
+   "result": "needs_review"
   }
  },
  "osm:node/4867039921": {
@@ -157751,7 +157787,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "classified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": "Kilifi County",
@@ -174529,25 +174565,28 @@
    "verdict": "needs_review",
    "category": "treehouse-hotels",
    "scope": "whole_property",
-   "confidence": 0.7,
-   "feature": "Forest treehouse cabin with stairs and space underneath, no electricity, candles and lanterns",
-   "reason": "The treehouse cabin has stairs and space underneath, which fits a raised treehouse; the site is open for bookings within a stated main season.",
-   "file": "data/pipeline/decisions/2026-10-24/checked.json",
-   "decidedAt": "2026-10-24"
+   "confidence": 0.65,
+   "feature": "One treehouse-style cabin in the middle of a forest, reached by stairs with a hammock beneath it; the evidence does not say whether it is built in a tree or on stilts",
+   "reason": "Accepted as a single treehouse cabin. Reviewer asked how it is built: the page places it in the middle of a forest, with stairs leading up to it and a hammock under it (raised), but does not say whether it is built into a tree or on stilts; the rule is met on location and elevation.",
+   "file": "data/pipeline/decisions/2026-11-18/checked.json",
+   "decidedAt": "2026-11-18",
+   "evidenceAt": "2026-11-17T20:28:44.772Z"
   },
   "pid": "sn-0ieu679ti",
   "prescreen": {
-   "action": "research",
-   "rule": "treehouse",
-   "reason": "Ağaç ev kuralı: birimlerin nasıl inşa edildiği (ağaca bağlı ya da direkler üzerinde) kaynakta yazmıyor.",
-   "at": "2026-11-17T20:10:50.244Z",
-   "file": "data/pipeline/decisions/2026-10-24/checked.json"
+   "action": "keep",
+   "rule": "pass",
+   "at": "2026-11-18T10:21:10.877Z",
+   "file": "data/pipeline/decisions/2026-11-18/checked.json",
+   "evidenceAt": "2026-11-17T20:28:44.772Z"
   },
   "research": {
    "askedAt": "2026-11-17T20:10:50.244Z",
    "note": "Ön eleme: Ağaç ev kuralı: birimlerin nasıl inşa edildiği (ağaca bağlı ya da direkler üzerinde) kaynakta yazmıyor.",
    "by": "prescreen",
-   "fetchedAt": "2026-11-17"
+   "fetchedAt": "2026-11-17",
+   "doneAt": "2026-11-18",
+   "result": "needs_review"
   }
  },
  "osm:way/1043773843": {
@@ -194308,27 +194347,30 @@
   "lastEvidence": "2026-11-17",
   "haiku": {
    "verdict": "needs_review",
-   "category": "treehouse-hotels",
-   "scope": "some_units",
-   "confidence": 0.55,
-   "feature": "Resort with several treehouse-style rooms (Mandai Sanctuary and Rainforest Treehouse) inside Mandai Wildlife Reserve",
-   "reason": "Treehouse rooms are one unit type in a 338-room resort; the rainforest theme alone does not make it a jungle lodge, and the site does not say how many treehouses exist.",
-   "file": "data/pipeline/decisions/2026-10-26/checked.json",
-   "decidedAt": "2026-10-26"
+   "category": "jungle-lodges",
+   "scope": "whole_property",
+   "confidence": 0.5,
+   "feature": "338-room luxury resort nestled in Singapore's Mandai Wildlife Reserve, rainforest-themed; its 'Treehouse' rooms are room types in the resort with no evidence of being raised, among trees, or free-standing",
+   "reason": "Reviewer asked about the treehouse rule. The Mandai Rainforest Treehouse and Mandai Sanctuary Treehouse are room types in a 338-room resort; the page does not say they are among trees, raised, or free-standing, and a room in a larger building does not qualify, so they are not treehouses. The resort itself is a rainforest-themed lodge inside a wildlife reserve, classified as jungle-lodges with confidence 0.5.",
+   "file": "data/pipeline/decisions/2026-11-18/checked.json",
+   "decidedAt": "2026-11-18",
+   "evidenceAt": "2026-11-17T20:28:45.638Z"
   },
   "pid": "sn-npzw6zjix",
   "prescreen": {
-   "action": "research",
-   "rule": "treehouse",
-   "reason": "Ağaç ev kuralı: birimlerin nasıl inşa edildiği (ağaca bağlı ya da direkler üzerinde) kaynakta yazmıyor.",
-   "at": "2026-11-17T20:10:50.244Z",
-   "file": "data/pipeline/decisions/2026-10-26/checked.json"
+   "action": "keep",
+   "rule": "pass",
+   "at": "2026-11-18T10:21:10.877Z",
+   "file": "data/pipeline/decisions/2026-11-18/checked.json",
+   "evidenceAt": "2026-11-17T20:28:45.638Z"
   },
   "research": {
    "askedAt": "2026-11-17T20:10:50.244Z",
    "note": "Ön eleme: Ağaç ev kuralı: birimlerin nasıl inşa edildiği (ağaca bağlı ya da direkler üzerinde) kaynakta yazmıyor.",
    "by": "prescreen",
-   "fetchedAt": "2026-11-17"
+   "fetchedAt": "2026-11-17",
+   "doneAt": "2026-11-18",
+   "result": "needs_review"
   }
  },
  "osm:way/136882096": {
@@ -197022,7 +197064,7 @@
    "stars": "3"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-10-11",
   "lastSeen": "2026-11-15",
   "region": "Auvergne-Rhône-Alpes",
@@ -197038,12 +197080,23 @@
   },
   "checkedAt": "2026-10-11",
   "reasons": [
-   "no category evidence on official website"
+   "haiku: Campsite with pitches for tents and caravans at the foot of a cliff by the Ardèche river. The cliff is only a setting; no rooms are built on, into or hanging from it, so cliffside-hotels does not apply and no niche category fits."
   ],
   "lastEvidence": "2026-11-18",
   "noEvidence": 1,
   "noEvidenceAt": "2026-10-19T06:24:46.374Z",
-  "pid": "sn-uquh5ufxm"
+  "pid": "sn-uquh5ufxm",
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.5,
+   "feature": "Riverside campsite at the foot of a limestone cliff; the cliff is a setting, not a site where rooms are built on, into or hanging from it",
+   "reason": "Campsite with pitches for tents and caravans at the foot of a cliff by the Ardèche river. The cliff is only a setting; no rooms are built on, into or hanging from it, so cliffside-hotels does not apply and no niche category fits.",
+   "file": "data/pipeline/decisions/2026-11-18/checked.json",
+   "decidedAt": "2026-11-18",
+   "evidenceAt": "2026-11-18T08:41:15.193Z"
+  }
  },
  "osm:way/143836350": {
   "id": "osm:way/143836350",
@@ -205563,7 +205616,7 @@
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-11-18",
   "lastSeen": "2026-11-18",
   "region": "Ionian Islands",
@@ -205579,10 +205632,21 @@
   },
   "checkedAt": "2026-11-18",
   "reasons": [
-   "no category evidence on official website"
+   "haiku: needs_review: the only fetched page is a 'One moment, please' verification screen, so the lighthouse link rests on the name alone; a name-only match with no evidence of a lighthouse stay, to be re-fetched before any decision."
   ],
   "pid": "sn-llu24yzul",
-  "lastEvidence": "2026-11-18"
+  "lastEvidence": "2026-11-18",
+  "haiku": {
+   "verdict": "rejected",
+   "category": "lighthouse-hotels",
+   "scope": "name_only",
+   "confidence": 0.3,
+   "feature": "Name only ('Lighthouse Villas'); the website returned only a verification page, so no description of the units was available",
+   "reason": "needs_review: the only fetched page is a 'One moment, please' verification screen, so the lighthouse link rests on the name alone; a name-only match with no evidence of a lighthouse stay, to be re-fetched before any decision.",
+   "file": "data/pipeline/decisions/2026-11-18/checked.json",
+   "decidedAt": "2026-11-18",
+   "evidenceAt": "2026-11-18T08:41:03.914Z"
+  }
  },
  "osm:way/157962584": {
   "id": "osm:way/157962584",
@@ -227049,25 +227113,28 @@
    "verdict": "accepted",
    "category": "castle-hotels",
    "scope": "whole_property",
-   "confidence": 0.85,
-   "feature": "Four guest rooms inside a historic Schloss manor on the Elbe, with a winter closure",
-   "reason": "A small hotel in a historic Schloss with rooms in the castle, but the site says it goes into winter closure from 1 November 2026.",
-   "file": "data/pipeline/decisions/2026-10-18/checked.json",
-   "decidedAt": "2026-10-18"
+   "confidence": 0.8,
+   "feature": "Hotel in the Schloss Pülswerda manor-palace (Schloss, baroque rebuild of 1767); four guest rooms inside the building",
+   "reason": "Accepted as castle-hotels: guest rooms are inside a Schloss building. Reviewer asked whether it is open: the site says the hotel is in winter break from 01.11.2026 and will welcome guests again from spring 2027, a seasonal closure with no permanent-closure notice, so operating_status is seasonal, not closed.",
+   "file": "data/pipeline/decisions/2026-11-18/checked.json",
+   "decidedAt": "2026-11-18",
+   "evidenceAt": "2026-11-17T20:28:47.017Z"
   },
   "pid": "sn-h1or20yi6",
   "prescreen": {
-   "action": "research",
-   "rule": "closure-hint",
-   "reason": "Kanıt yetersiz: sitede kapanış ya da uzun ara notu var; tesisin şu an açık olduğu net değil.",
-   "at": "2026-11-17T20:10:50.244Z",
-   "file": "data/pipeline/decisions/2026-10-18/checked.json"
+   "action": "keep",
+   "rule": "pass",
+   "at": "2026-11-18T10:21:10.877Z",
+   "file": "data/pipeline/decisions/2026-11-18/checked.json",
+   "evidenceAt": "2026-11-17T20:28:47.017Z"
   },
   "research": {
    "askedAt": "2026-11-17T20:10:50.244Z",
    "note": "Ön eleme: Kanıt yetersiz: sitede kapanış ya da uzun ara notu var; tesisin şu an açık olduğu net değil.",
    "by": "prescreen",
-   "fetchedAt": "2026-11-17"
+   "fetchedAt": "2026-11-17",
+   "doneAt": "2026-11-18",
+   "result": "accepted"
   }
  },
  "osm:way/28466000": {
@@ -264002,25 +264069,28 @@
    "verdict": "needs_review",
    "category": "treehouse-hotels",
    "scope": "some_units",
-   "confidence": 0.7,
-   "feature": "Tree houses (including twin tree houses) alongside glamping tents, a gingerbread house and a boho wagon",
-   "reason": "The site lists handcrafted tree houses among its accommodations, so treehouse-hotels applies to some units, while the queue jungle-lodges guess is wrong for this Hungarian valley site.",
-   "file": "data/pipeline/decisions/2026-10-28/checked.json",
-   "decidedAt": "2026-10-28"
+   "confidence": 0.6,
+   "feature": "Tree House among the treetops (confirmed); the evidence does not say whether it is built into a tree or on pillars. The Twin Tree Houses and the Gingerbread House are not described as among trees; the other units are glamping tents, a wagon and camping pitches",
+   "reason": "Accepted as some_units (one confirmed Tree House). Reviewer asked how units are built: the Tree House is said to nestle in the treetops, so it is among trees and raised, but the source does not say whether it is built into a tree or on pillars, so that point is recorded as not stated. Jungle-lodges does not fit: the site is in Hungary with no rainforest.",
+   "file": "data/pipeline/decisions/2026-11-18/checked.json",
+   "decidedAt": "2026-11-18",
+   "evidenceAt": "2026-11-17T20:28:49.754Z"
   },
   "pid": "sn-jfyyt9nxy",
   "prescreen": {
-   "action": "research",
-   "rule": "treehouse",
-   "reason": "Ağaç ev kuralı: birimlerin nasıl inşa edildiği (ağaca bağlı ya da direkler üzerinde) kaynakta yazmıyor.",
-   "at": "2026-11-17T20:10:50.244Z",
-   "file": "data/pipeline/decisions/2026-10-28/checked.json"
+   "action": "keep",
+   "rule": "pass",
+   "at": "2026-11-18T10:21:10.877Z",
+   "file": "data/pipeline/decisions/2026-11-18/checked.json",
+   "evidenceAt": "2026-11-17T20:28:49.754Z"
   },
   "research": {
    "askedAt": "2026-11-17T20:10:50.244Z",
    "note": "Ön eleme: Ağaç ev kuralı: birimlerin nasıl inşa edildiği (ağaca bağlı ya da direkler üzerinde) kaynakta yazmıyor.",
    "by": "prescreen",
-   "fetchedAt": "2026-11-17"
+   "fetchedAt": "2026-11-17",
+   "doneAt": "2026-11-18",
+   "result": "needs_review"
   }
  },
  "osm:way/623116115": {
