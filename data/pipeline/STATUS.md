@@ -2,7 +2,7 @@
 
 # Otel hattı durumu
 
-Güncelleme: 2026-11-18T08:41:47.458Z. Kuyrukta 8592 aday. Sitede yayında 202 otel, 37 taslak (239 dosya).
+Güncelleme: 2026-11-19T08:55:01.814Z. Kuyrukta 8595 aday. Sitede yayında 202 otel, 37 taslak (239 dosya).
 
 ## Dikkat
 
@@ -59,16 +59,16 @@ Onaylamak istediğiniz numaraları tek mesajda yazın, ör. "1 3 5-9". Listede o
 
 | Aşama | Aday | Not |
 |---|---|---|
-| Resmi sitesi bilinmiyor (site bulucu sırasında) | 4234 | aranan: 43, bulunan: 3 |
+| Resmi sitesi bilinmiyor (site bulucu sırasında) | 4235 | aranan: 63, bulunan: 3 |
 | Sitesi var, kanıt indirilecek (gece işi) | 0 |  |
-| Site okunamadı, 30 günde bir yeniden denenir (3 denemede elenir) | 872 | neden kaydedilmemiş (eski kayıt): 701; website fetch failed: bağlantı yok: 55; no website known: 45; website fetch failed: 403: 36 |
-| Kanıtı hazır, sınıflandırıcıyı bekliyor | 4 |  |
-| **Sizin kararınızı bekliyor (onay kuyruğu)** | 499 | araştırma istenen: 8; son kararınız: 2026-11-17 |
+| Site okunamadı, 30 günde bir yeniden denenir (3 denemede elenir) | 870 | neden kaydedilmemiş (eski kayıt): 655; website fetch failed: bağlantı yok: 60; no website known: 50; website fetch failed: 403: 40 |
+| Kanıtı hazır, sınıflandırıcıyı bekliyor | 3 |  |
+| **Sizin kararınızı bekliyor (onay kuyruğu)** | 499 | araştırma istenen: 0; son kararınız: 2026-11-17 |
 | Onaylı, yazarı bekliyor | 0 |  |
 | Onaylı ama yazılamadı (kanıt yetersiz) | 5 | yeni kanıt bekleyen: 0 |
 | Taslak sayfası hazır, "yayınla" bekliyor | 6 |  |
 | Yayında (bu hattan) | 129 |  |
-| Elendi / tekrar | 2846 |  |
+| Elendi / tekrar | 2850 |  |
 
 ## Yazılamayanlar
 
@@ -82,9 +82,9 @@ Onaylamak istediğiniz numaraları tek mesajda yazın, ör. "1 3 5-9". Listede o
 
 ## Otomatik ön eleme ve tekrarlar
 
-- Ön eleme (son çalışma 2026-11-18): elenen 0, araştırmaya gönderilen 0, kuyrukta kalan 0. Elenenlerin tek cümlelik nedeni onay sayfasında "Reddettiklerim" sekmesinde; isterseniz oradan yine onaylayabilirsiniz.
-- Ön elemeyle toplam elenen: 1; araştırması süren: 8.
-- Tekrar kayıtlar (son çalışma 2026-11-18): bu çalışmada 0 bulundu (onay kuyruğundan 0); onay kuyruğunda olası tekrar 14. Liste: [DUPLICATES.md](DUPLICATES.md).
+- Ön eleme (son çalışma 2026-11-19): elenen 0, araştırmaya gönderilen 0, kuyrukta kalan 0. Elenenlerin tek cümlelik nedeni onay sayfasında "Reddettiklerim" sekmesinde; isterseniz oradan yine onaylayabilirsiniz.
+- Ön elemeyle toplam elenen: 1; araştırması süren: 0.
+- Tekrar kayıtlar (son çalışma 2026-11-19): bu çalışmada 0 bulundu (onay kuyruğundan 0); onay kuyruğunda olası tekrar 14. Liste: [DUPLICATES.md](DUPLICATES.md).
 
 ## Aylık yeniden kontrol (yayındaki oteller)
 
@@ -105,41 +105,41 @@ Son kontrol: 2026-11-17. 202 otel: sitesi açılan 194, açılmayan 8, resmi sit
 
 | Aşama | Zaman (UTC) | Sonuç |
 |---|---|---|
-| deploy | 2026-11-18 08:41 | state: live, live: 006fccd, expected: 14fb337, ageMin: 729 |
-| evidence | 2026-11-18 08:41 | asked: 59, packs: 4, nothingReadable: 55, errors: 0, requeuedLostPacks: 0, reasons: {"website fetch failed: no connection":14,"website fetch failed: 403":14,"no website known":18,"robots.txt disallows fetching":4,"website fetch failed: 404":5} |
-| prescreen | 2026-11-18 08:41 | reject: 0, research: 0, keep: 0, rules: {}, ownerTouched: 10, alreadyScreened: 489 |
-| dedupe | 2026-11-18 08:41 | properties: 8529, groupsWithSeveralRecords: 391, newIds: 1, idsMerged: 0, largeGroupsSkipped: 5, duplicates: 0, inReviewQueue: 0, ofPage: 0, ofCandidate: 0, byReason: {}, alreadyHasPage: 0, possibleInReviewQueue: 14 |
-| verify | 2026-11-18 08:41 | checked: 1, stillNew: 0 |
-| discover | 2026-11-18 08:40 | categories: ["lighthouse-hotels","train-hotels"], added: 1, total: 8592 |
-| apply | 2026-11-18 08:36 | applied: {"needs_review":62,"accepted":8,"rejected":6}, pruned: 0, unreadablePacks: 0 |
-| shortlist | 2026-11-17 20:10 | week: 2026-W47, items: 40, waiting: 469, approved: 0, withoutTurkish: 0, expediaConfirmed: 25 |
+| deploy | 2026-11-19 08:55 | state: live, live: 006fccd, expected: 14fb337, ageMin: 2182 |
+| evidence | 2026-11-19 08:55 | asked: 47, packs: 3, nothingReadable: 44, errors: 0, requeuedLostPacks: 0, reasons: {"no website known":5,"website fetch failed: 403":4,"robots.txt disallows fetching":3,"website fetch failed: no connection":5,"website fetch failed: 404":4,"website fetch failed: 520":1,"website fetch failed: 525":1,"website fetch failed: 202":20,"pages had no readable text":1} |
+| prescreen | 2026-11-19 08:54 | reject: 0, research: 0, keep: 0, rules: {}, ownerTouched: 2, alreadyScreened: 497 |
+| dedupe | 2026-11-19 08:54 | properties: 8531, groupsWithSeveralRecords: 392, newIds: 3, idsMerged: 0, largeGroupsSkipped: 5, duplicates: 0, inReviewQueue: 0, ofPage: 0, ofCandidate: 0, byReason: {}, alreadyHasPage: 0, possibleInReviewQueue: 14 |
+| verify | 2026-11-19 08:54 | checked: 3, stillNew: 0 |
+| discover | 2026-11-19 08:53 | categories: ["treehouse-hotels","cave-hotels"], added: 3, total: 8595, noAnswerFromOverpass: ["treehouse-hotels"] |
+| apply | 2026-11-19 08:51 | applied: {"needs_review":73,"accepted":13,"rejected":6}, pruned: 4, unreadablePacks: 0 |
+| sites | 2026-11-18 10:23 | found: 0, none: 20, refused: 0 |
+| sites-todo | 2026-11-18 10:22 | withoutWebsite: 4195, taken: 20 |
+| shortlist | 2026-11-18 10:22 | week: 2026-W47, items: 40, waiting: 469, approved: 0, withoutTurkish: 0, expediaConfirmed: 25 |
+| review | 2026-11-18 10:21 | newDocs: 0, updates: 50, onPage: 730, exportGiven: true |
+| check | 2026-11-18 10:21 | decisions: 12, accepted: 1, needs_review: 7, no_evidence: 0, duplicate: 0, rejected: 4, withoutPack: 0 |
+| batches | 2026-11-18 10:15 | needDecision: 12, taken: 12, batches: 1, unreadablePacks: 0 |
+| reviews | 2026-11-18 10:15 | documents: 730, changed: {"rejected":2}, unreadable: 0 |
 | recheck | 2026-11-17 20:08 | hotels: 202, siteOk: 194, siteDown: 8, noSite: 0, saysClosed: 0, parked: 0, expediaValid: 103, expediaInvalid: 0, expediaStale: 0, problems: 8 |
 | expedia | 2026-11-17 20:05 | confirmed: 26, not_found: 24, unconfirmed: 10, unknownId: 0, records: 60 |
 | expedia-todo | 2026-11-17 20:02 | todo: 60 |
 | writer | 2026-11-17 12:05 | last: published Treehouse Holiday |
 | publish | 2026-11-17 12:05 | published: ["ostsee-baumhaushotel-germany","baumhaushotel-solling-germany"] |
-| sites | 2026-11-17 10:15 | found: 0, none: 20, refused: 0 |
-| sites-todo | 2026-11-17 10:15 | withoutWebsite: 4303, taken: 20 |
-| review | 2026-11-17 10:14 | newDocs: 0, updates: 7, onPage: 730, exportGiven: true |
-| check | 2026-11-17 10:14 | decisions: 1, accepted: 0, needs_review: 0, no_evidence: 0, duplicate: 0, rejected: 1, withoutPack: 0 |
-| batches | 2026-11-17 10:14 | needDecision: 1, taken: 1, batches: 1, unreadablePacks: 0 |
-| reviews | 2026-11-17 10:14 | documents: 730, changed: {}, unreadable: 0 |
 
 ## Kategoriye göre
 
 | Kategori | new | verified | weak | classified | approved | blocked | drafted | published | rejected | duplicate |
 |---|---|---|---|---|---|---|---|---|---|---|
 | treehouse-hotels | 0 | 0 | 206 | 27 | 0 | 0 | 2 | 11 | 189 | 14 |
-| cave-hotels | 0 | 0 | 566 | 22 | 0 | 0 | 0 | 20 | 132 | 33 |
+| cave-hotels | 0 | 0 | 569 | 22 | 0 | 0 | 0 | 20 | 132 | 33 |
 | underwater-rooms | 0 | 0 | 7 | 0 | 0 | 0 | 0 | 0 | 3 | 3 |
 | castle-hotels | 0 | 3 | 751 | 208 | 0 | 4 | 3 | 49 | 622 | 30 |
 | floating-hotels | 0 | 0 | 69 | 16 | 0 | 0 | 0 | 4 | 16 | 12 |
 | bubble-hotels | 0 | 0 | 211 | 4 | 0 | 0 | 0 | 5 | 353 | 5 |
-| cliffside-hotels | 0 | 0 | 374 | 14 | 0 | 0 | 0 | 2 | 136 | 14 |
+| cliffside-hotels | 0 | 0 | 373 | 14 | 0 | 0 | 0 | 2 | 137 | 14 |
 | desert-camps | 0 | 0 | 238 | 9 | 0 | 1 | 1 | 7 | 44 | 7 |
 | jungle-lodges | 0 | 0 | 824 | 65 | 0 | 0 | 0 | 4 | 151 | 27 |
 | ice-hotels | 0 | 0 | 92 | 5 | 0 | 0 | 0 | 2 | 69 | 22 |
 | safari-lodges | 0 | 2 | 837 | 107 | 0 | 0 | 0 | 3 | 107 | 78 |
 | overwater-bungalows | 0 | 0 | 39 | 0 | 0 | 0 | 0 | 3 | 2 | 35 |
-| lighthouse-hotels | 0 | 0 | 427 | 13 | 0 | 0 | 0 | 11 | 535 | 9 |
-| train-hotels | 0 | 0 | 461 | 9 | 0 | 0 | 0 | 8 | 157 | 41 |
+| lighthouse-hotels | 0 | 0 | 425 | 13 | 0 | 0 | 0 | 11 | 537 | 9 |
+| train-hotels | 0 | 0 | 460 | 9 | 0 | 0 | 0 | 8 | 158 | 41 |
