@@ -5079,7 +5079,7 @@
    "stars": "5"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "classified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": null,
@@ -12292,7 +12292,7 @@
   ],
   "lat": 51.663633,
   "lng": -3.8055293,
-  "website": null,
+  "website": "https://castlehotelneath.co.uk",
   "wikidata": null,
   "country": "United Kingdom",
   "city": "Neath",
@@ -12311,7 +12311,10 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-pilax4w18"
+  "pid": "sn-pilax4w18",
+  "siteSearchAt": "2026-11-19",
+  "websiteSource": "search",
+  "siteSearch": "found"
  },
  "osm:node/11361002957": {
   "id": "osm:node/11361002957",
@@ -19050,7 +19053,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-11-19",
   "region": "Scotland",
@@ -19066,12 +19069,23 @@
   },
   "checkedAt": "2026-10-01",
   "reasons": [
-   "no category evidence on official website"
+   "haiku: The name 'Kings Caves' only points to a nearby cave trail; the pages describe ordinary glamping lodges beside a pond with no cave or rock-carved rooms, and a hotel near a cave is a listed false positive, so it is not cave-hotels."
   ],
   "lastEvidence": "2026-11-19",
   "noEvidence": 1,
   "noEvidenceAt": "2026-10-20T06:12:48.265Z",
-  "pid": "sn-k30086b23"
+  "pid": "sn-k30086b23",
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.75,
+   "feature": null,
+   "reason": "The name 'Kings Caves' only points to a nearby cave trail; the pages describe ordinary glamping lodges beside a pond with no cave or rock-carved rooms, and a hotel near a cave is a listed false positive, so it is not cave-hotels.",
+   "file": "data/pipeline/decisions/2026-11-19/checked.json",
+   "decidedAt": "2026-11-19",
+   "evidenceAt": "2026-11-19T08:54:29.302Z"
+  }
  },
  "osm:node/12067635469": {
   "id": "osm:node/12067635469",
@@ -43040,7 +43054,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-xye8qr5d0"
+  "pid": "sn-xye8qr5d0",
+  "siteSearchAt": "2026-11-19",
+  "siteSearch": "none"
  },
  "osm:node/13959494001": {
   "id": "osm:node/13959494001",
@@ -48050,7 +48066,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-iev8r7kn1"
+  "pid": "sn-iev8r7kn1",
+  "siteSearchAt": "2026-11-19",
+  "siteSearch": "none"
  },
  "osm:node/14243437934": {
   "id": "osm:node/14243437934",
@@ -48699,7 +48717,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-6zc5pohyh"
+  "pid": "sn-6zc5pohyh",
+  "siteSearchAt": "2026-11-19",
+  "siteSearch": "none"
  },
  "osm:node/14277654201": {
   "id": "osm:node/14277654201",
@@ -53867,7 +53887,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-x36vuj8qg"
+  "pid": "sn-x36vuj8qg",
+  "siteSearchAt": "2026-11-19",
+  "siteSearch": "none"
  },
  "osm:node/1744199675": {
   "id": "osm:node/1744199675",
@@ -54602,7 +54624,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-nbe0i37m4"
+  "pid": "sn-nbe0i37m4",
+  "siteSearchAt": "2026-11-19",
+  "siteSearch": "none"
  },
  "osm:node/1789140300": {
   "id": "osm:node/1789140300",
@@ -60646,7 +60670,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-u82wvab8l"
+  "pid": "sn-u82wvab8l",
+  "siteSearchAt": "2026-11-19",
+  "siteSearch": "none"
  },
  "osm:node/2210091557": {
   "id": "osm:node/2210091557",
@@ -60952,7 +60978,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-etzl6ymz8"
+  "pid": "sn-etzl6ymz8",
+  "siteSearchAt": "2026-11-19",
+  "siteSearch": "none"
  },
  "osm:node/2248495501": {
   "id": "osm:node/2248495501",
@@ -63586,7 +63614,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-4jyxriepk"
+  "pid": "sn-4jyxriepk",
+  "siteSearchAt": "2026-11-19",
+  "siteSearch": "none"
  },
  "osm:node/2437058808": {
   "id": "osm:node/2437058808",
@@ -63742,7 +63772,7 @@
   ],
   "lat": 52.5055286,
   "lng": -1.7910838,
-  "website": null,
+  "website": "https://castlebromwichhallhotel.co.uk/about",
   "wikidata": null,
   "country": "United Kingdom",
   "city": "Solihull",
@@ -63761,7 +63791,10 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-5dendcuyc"
+  "pid": "sn-5dendcuyc",
+  "siteSearchAt": "2026-11-19",
+  "websiteSource": "search",
+  "siteSearch": "found"
  },
  "osm:node/2450364158": {
   "id": "osm:node/2450364158",
@@ -64041,7 +64074,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-k69cy1hrt"
+  "pid": "sn-k69cy1hrt",
+  "siteSearchAt": "2026-11-19",
+  "siteSearch": "none"
  },
  "osm:node/2464506603": {
   "id": "osm:node/2464506603",
@@ -69394,7 +69429,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-1bq9y9afh"
+  "pid": "sn-1bq9y9afh",
+  "siteSearchAt": "2026-11-19",
+  "siteSearch": "none"
  },
  "osm:node/2827037697": {
   "id": "osm:node/2827037697",
@@ -71903,7 +71940,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-ivs4kbzgs"
+  "pid": "sn-ivs4kbzgs",
+  "siteSearchAt": "2026-11-19",
+  "siteSearch": "none"
  },
  "osm:node/2968693428": {
   "id": "osm:node/2968693428",
@@ -72205,7 +72244,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-hgdqnr861"
+  "pid": "sn-hgdqnr861",
+  "siteSearchAt": "2026-11-19",
+  "siteSearch": "none"
  },
  "osm:node/2990370504": {
   "id": "osm:node/2990370504",
@@ -87553,7 +87594,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-bmqeq8chn"
+  "pid": "sn-bmqeq8chn",
+  "siteSearchAt": "2026-11-19",
+  "siteSearch": "none"
  },
  "osm:node/3877650156": {
   "id": "osm:node/3877650156",
@@ -91005,7 +91048,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-drmen4prc"
+  "pid": "sn-drmen4prc",
+  "siteSearchAt": "2026-11-19",
+  "siteSearch": "none"
  },
  "osm:node/4031530458": {
   "id": "osm:node/4031530458",
@@ -93758,7 +93803,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-v1cmej776"
+  "pid": "sn-v1cmej776",
+  "siteSearchAt": "2026-11-19",
+  "siteSearch": "none"
  },
  "osm:node/4220583495": {
   "id": "osm:node/4220583495",
@@ -94682,7 +94729,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-od10ogg7n"
+  "pid": "sn-od10ogg7n",
+  "siteSearchAt": "2026-11-19",
+  "siteSearch": "none"
  },
  "osm:node/4248316326": {
   "id": "osm:node/4248316326",
@@ -101873,7 +101922,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-nin3ap2e4"
+  "pid": "sn-nin3ap2e4",
+  "siteSearchAt": "2026-11-19",
+  "siteSearch": "none"
  },
  "osm:node/4537631522": {
   "id": "osm:node/4537631522",
@@ -119537,7 +119588,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-10-11",
   "lastSeen": "2026-11-15",
   "region": "Alberta",
@@ -119553,12 +119604,23 @@
   },
   "checkedAt": "2026-10-11",
   "reasons": [
-   "no category evidence on official website"
+   "haiku: This is a third-party Alberta campground directory page for an ordinary campground with tent sites and log chalet rentals; nothing in it describes a cliff, so the cliffside-hotels queue guess (likely from the 'Shorncliffe' name) does not hold and no niche is shown."
   ],
   "lastEvidence": "2026-11-19",
   "noEvidence": 1,
   "noEvidenceAt": "2026-10-20T06:11:20.104Z",
-  "pid": "sn-c8450gdfm"
+  "pid": "sn-c8450gdfm",
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "unclear",
+   "confidence": 0.8,
+   "feature": null,
+   "reason": "This is a third-party Alberta campground directory page for an ordinary campground with tent sites and log chalet rentals; nothing in it describes a cliff, so the cliffside-hotels queue guess (likely from the 'Shorncliffe' name) does not hold and no niche is shown.",
+   "file": "data/pipeline/decisions/2026-11-19/checked.json",
+   "decidedAt": "2026-11-19",
+   "evidenceAt": "2026-11-19T08:54:14.269Z"
+  }
  },
  "osm:node/5424834221": {
   "id": "osm:node/5424834221",
@@ -157857,7 +157919,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "classified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": "Kilifi County",
@@ -227293,7 +227355,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-11-19",
   "lastSeen": "2026-11-19",
   "region": "Nouvelle-Aquitaine",
@@ -227309,10 +227371,21 @@
   },
   "checkedAt": "2026-11-19",
   "reasons": [
-   "no category evidence on official website"
+   "haiku: The linked website (aubergelacaverne.com) is a general travel blog whose articles never mention this property, Laruns or any lodging, so it is not evidence; the only cave link is the name, so it is kept as name_only at low confidence and not accepted."
   ],
   "pid": "sn-8lr91njef",
-  "lastEvidence": "2026-11-19"
+  "lastEvidence": "2026-11-19",
+  "haiku": {
+   "verdict": "rejected",
+   "category": "cave-hotels",
+   "scope": "name_only",
+   "confidence": 0.2,
+   "feature": "Name suggests a cave ('la Caverne'); the evidence does not describe the units or any cave",
+   "reason": "The linked website (aubergelacaverne.com) is a general travel blog whose articles never mention this property, Laruns or any lodging, so it is not evidence; the only cave link is the name, so it is kept as name_only at low confidence and not accepted.",
+   "file": "data/pipeline/decisions/2026-11-19/checked.json",
+   "decidedAt": "2026-11-19",
+   "evidenceAt": "2026-11-19T08:54:11.522Z"
+  }
  },
  "osm:way/28466000": {
   "id": "osm:way/28466000",
@@ -239089,7 +239162,7 @@
   ],
   "lat": 38.6362259,
   "lng": 34.905875,
-  "website": null,
+  "website": "https://kayakapi.com/",
   "wikidata": null,
   "country": "Turkey",
   "city": "Ürgüp",
@@ -239108,7 +239181,10 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-bxjdkncx0"
+  "pid": "sn-bxjdkncx0",
+  "siteSearchAt": "2026-11-19",
+  "websiteSource": "search",
+  "siteSearch": "found"
  },
  "osm:way/366534571": {
   "id": "osm:way/366534571",

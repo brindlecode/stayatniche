@@ -1,0 +1,22 @@
+[
+  { "id": "osm:way/366440713", "url": "https://kayakapi.com/", "title": "kayakapi.com", "why": "Domain and result text name Kayakapi Premium Caves in Ürgüp, Turkey, as the hotel's own site." },
+  { "id": "osm:node/1133865000", "url": "https://castlehotelneath.co.uk", "title": "01639 641119 The Castle Hotel. The Parade, Neath. South Wales. SA11 1RB", "why": "Domain names the Castle Hotel and the result places it on The Parade in Neath, Wales." },
+  { "id": "osm:node/13941708301", "url": null, "title": null, "why": "Only a caravan park site at the castle was found, and no site for the castle itself." },
+  { "id": "osm:node/14242836301", "url": null, "title": null, "why": "Only listing sites in the results; the official-website link was not shown." },
+  { "id": "osm:node/14277051301", "url": null, "title": null, "why": "Only listing sites in the results." },
+  { "id": "osm:node/1744146366", "url": null, "title": null, "why": "Only timeshare and holiday-rental listing sites in the results." },
+  { "id": "osm:node/1789140299", "url": null, "title": null, "why": "Only government, tourism and listing pages in the results, none a dedicated site for this property." },
+  { "id": "osm:node/2206343308", "url": null, "title": null, "why": "Only heritage databases and travel listings in the results." },
+  { "id": "osm:node/2248001396", "url": null, "title": null, "why": "Only booking and listing sites in the results." },
+  { "id": "osm:node/243676782", "url": null, "title": null, "why": "Only listing and news sites in the results." },
+  { "id": "osm:node/2448225665", "url": "https://castlebromwichhallhotel.co.uk/about", "title": "Castle Bromwich Hall Hotel", "why": "Domain and page title name Castle Bromwich Hall Hotel, which is in Solihull, England." },
+  { "id": "osm:node/2461793350", "url": null, "title": null, "why": "Several unrelated Edinburgh castle-view properties, with no clear official site for this one." },
+  { "id": "osm:node/282342649", "url": null, "title": null, "why": "Only heritage records and unrelated farm listings in the results." },
+  { "id": "osm:node/29629203", "url": null, "title": null, "why": "Domain thefalcon-castleashby.com appears only in directory listings, not as a result page I could check." },
+  { "id": "osm:node/29865324", "url": null, "title": null, "why": "Domain castlelodgeely.co.uk appears only in a third-party listing, not as a result page." },
+  { "id": "osm:node/386150095", "url": null, "title": null, "why": "Domain sturdyscastleinn.co.uk appears only in a CAMRA directory listing, not as a result page." },
+  { "id": "osm:node/4025714230", "url": null, "title": null, "why": "Only booking and listing sites in the results." },
+  { "id": "osm:node/4218977912", "url": null, "title": null, "why": "Only self-catering listings and a village accommodation page in the results." },
+  { "id": "osm:node/4245484490", "url": null, "title": null, "why": "Only booking and listing sites in the results." },
+  { "id": "osm:node/4536088961", "url": null, "title": null, "why": "Only booking and listing sites in the results." }
+]
