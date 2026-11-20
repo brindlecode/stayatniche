@@ -5079,7 +5079,7 @@
    "stars": "5"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "classified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": null,
@@ -12301,7 +12301,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-20",
   "region": "Wales",
@@ -12310,13 +12310,24 @@
   "evidence": null,
   "checkedAt": "2026-10-07",
   "reasons": [
-   "no category evidence on official website"
+   "haiku: Only the name 'Castle Hotel' suggests a castle; the site describes a historic Welsh coaching inn with no castle building, castle-named setting or castle-themed rooms, and it is not a chain, so it does not meet the castle-hotels rule."
   ],
   "pid": "sn-pilax4w18",
   "siteSearchAt": "2026-11-19",
   "websiteSource": "search",
   "siteSearch": "found",
-  "lastEvidence": "2026-11-20"
+  "lastEvidence": "2026-11-20",
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.5,
+   "feature": null,
+   "reason": "Only the name 'Castle Hotel' suggests a castle; the site describes a historic Welsh coaching inn with no castle building, castle-named setting or castle-themed rooms, and it is not a chain, so it does not meet the castle-hotels rule.",
+   "file": "data/pipeline/decisions/2026-11-20/checked.json",
+   "decidedAt": "2026-11-20",
+   "evidenceAt": "2026-11-20T08:44:10.729Z"
+  }
  },
  "osm:node/11361002957": {
   "id": "osm:node/11361002957",
@@ -63819,7 +63830,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-20",
   "region": "England",
@@ -63828,13 +63839,24 @@
   "evidence": null,
   "checkedAt": "2026-10-08",
   "reasons": [
-   "no category evidence on official website"
+   "haiku: Not a castle: the site describes a Grade I listed Jacobean manor house (Castle Bromwich Hall) with bedrooms in house, Brew House, Coach House and Dovecote buildings, and the castle name comes only from the village; no castle niche is shown, so it is not a castle-hotel."
   ],
   "pid": "sn-5dendcuyc",
   "siteSearchAt": "2026-11-19",
   "websiteSource": "search",
   "siteSearch": "found",
-  "lastEvidence": "2026-11-20"
+  "lastEvidence": "2026-11-20",
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.5,
+   "feature": null,
+   "reason": "Not a castle: the site describes a Grade I listed Jacobean manor house (Castle Bromwich Hall) with bedrooms in house, Brew House, Coach House and Dovecote buildings, and the castle name comes only from the village; no castle niche is shown, so it is not a castle-hotel.",
+   "file": "data/pipeline/decisions/2026-11-20/checked.json",
+   "decidedAt": "2026-11-20",
+   "evidenceAt": "2026-11-20T08:44:10.731Z"
+  }
  },
  "osm:node/2450364158": {
   "id": "osm:node/2450364158",
@@ -104198,7 +104220,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-cwd3fm1fm"
+  "pid": "sn-cwd3fm1fm",
+  "siteSearchAt": "2026-11-20",
+  "siteSearch": "none"
  },
  "osm:node/462110961": {
   "id": "osm:node/462110961",
@@ -110920,7 +110944,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-79btzi70t"
+  "pid": "sn-79btzi70t",
+  "siteSearchAt": "2026-11-20",
+  "siteSearch": "none"
  },
  "osm:node/4945827422": {
   "id": "osm:node/4945827422",
@@ -112610,7 +112636,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-8str7owc5"
+  "pid": "sn-8str7owc5",
+  "siteSearchAt": "2026-11-20",
+  "siteSearch": "none"
  },
  "osm:node/5071072522": {
   "id": "osm:node/5071072522",
@@ -114576,7 +114604,7 @@
   ],
   "lat": 55.9355124,
   "lng": -3.1795392,
-  "website": null,
+  "website": "https://www.studentcastle.co.uk/locations/edinburgh-student-accommodation/location",
   "wikidata": null,
   "country": "United Kingdom",
   "city": "Edinburgh",
@@ -114595,7 +114623,10 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-ggb6u3xc6"
+  "pid": "sn-ggb6u3xc6",
+  "siteSearchAt": "2026-11-20",
+  "websiteSource": "search",
+  "siteSearch": "found"
  },
  "osm:node/5198258491": {
   "id": "osm:node/5198258491",
@@ -115089,7 +115120,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-54qw8mobp"
+  "pid": "sn-54qw8mobp",
+  "siteSearchAt": "2026-11-20",
+  "siteSearch": "none"
  },
  "osm:node/5240263318": {
   "id": "osm:node/5240263318",
@@ -121826,7 +121859,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-s4qbb0t7k"
+  "pid": "sn-s4qbb0t7k",
+  "siteSearchAt": "2026-11-20",
+  "siteSearch": "none"
  },
  "osm:node/5577322412": {
   "id": "osm:node/5577322412",
@@ -125248,7 +125283,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-e0erslr1w"
+  "pid": "sn-e0erslr1w",
+  "siteSearchAt": "2026-11-20",
+  "siteSearch": "none"
  },
  "osm:node/5812412354": {
   "id": "osm:node/5812412354",
@@ -127336,7 +127373,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-518hkdt2g"
+  "pid": "sn-518hkdt2g",
+  "siteSearchAt": "2026-11-20",
+  "siteSearch": "none"
  },
  "osm:node/5939057684": {
   "id": "osm:node/5939057684",
@@ -149467,7 +149506,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-2i3ef3tis"
+  "pid": "sn-2i3ef3tis",
+  "siteSearchAt": "2026-11-20",
+  "siteSearch": "refused"
  },
  "osm:node/7983040279": {
   "id": "osm:node/7983040279",
@@ -155825,7 +155866,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-nxekv4u8o"
+  "pid": "sn-nxekv4u8o",
+  "siteSearchAt": "2026-11-20",
+  "siteSearch": "none"
  },
  "osm:node/8917526035": {
   "id": "osm:node/8917526035",
@@ -156282,7 +156325,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-cd6oyzvp8"
+  "pid": "sn-cd6oyzvp8",
+  "siteSearchAt": "2026-11-20",
+  "siteSearch": "none"
  },
  "osm:node/897585484": {
   "id": "osm:node/897585484",
@@ -157966,7 +158011,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "classified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": "Kilifi County",
@@ -162138,7 +162183,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-l0eb8mipd"
+  "pid": "sn-l0eb8mipd",
+  "siteSearchAt": "2026-11-20",
+  "siteSearch": "none"
  },
  "osm:node/9593533495": {
   "id": "osm:node/9593533495",
@@ -163305,7 +163352,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-q003cicbz"
+  "pid": "sn-q003cicbz",
+  "siteSearchAt": "2026-11-20",
+  "siteSearch": "none"
  },
  "osm:node/9677073116": {
   "id": "osm:node/9677073116",
@@ -163983,7 +164032,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-0kf7sgu78"
+  "pid": "sn-0kf7sgu78",
+  "siteSearchAt": "2026-11-20",
+  "siteSearch": "none"
  },
  "osm:node/9751820506": {
   "id": "osm:node/9751820506",
@@ -168111,7 +168162,7 @@
   ],
   "lat": 51.1874619,
   "lng": 0.1131726,
-  "website": null,
+  "website": "https://www.hevercastle.co.uk/stay/bed-breakfast",
   "wikidata": null,
   "country": "United Kingdom",
   "city": "Sevenoaks",
@@ -168130,7 +168181,10 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-j6x1f93hf"
+  "pid": "sn-j6x1f93hf",
+  "siteSearchAt": "2026-11-20",
+  "websiteSource": "search",
+  "siteSearch": "found"
  },
  "osm:relation/12123390": {
   "id": "osm:relation/12123390",
@@ -177119,7 +177173,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-92s99win7"
+  "pid": "sn-92s99win7",
+  "siteSearchAt": "2026-11-20",
+  "siteSearch": "none"
  },
  "osm:way/1079226526": {
   "id": "osm:way/1079226526",
@@ -182747,7 +182803,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-6x3lba6mx"
+  "pid": "sn-6x3lba6mx",
+  "siteSearchAt": "2026-11-20",
+  "siteSearch": "none"
  },
  "osm:way/1176138218": {
   "id": "osm:way/1176138218",
@@ -185801,7 +185859,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-3yvox7la9"
+  "pid": "sn-3yvox7la9",
+  "siteSearchAt": "2026-11-20",
+  "siteSearch": "none"
  },
  "osm:way/1220462425": {
   "id": "osm:way/1220462425",
@@ -186721,7 +186781,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-9824dwznt"
+  "pid": "sn-9824dwznt",
+  "siteSearchAt": "2026-11-20",
+  "siteSearch": "none"
  },
  "osm:way/123613262": {
   "id": "osm:way/123613262",
@@ -187691,7 +187753,7 @@
   ],
   "lat": 55.0840366,
   "lng": -4.9884264,
-  "website": null,
+  "website": "https://glenappcastle.com",
   "wikidata": null,
   "country": "United Kingdom",
   "city": "South Ayrshire",
@@ -187711,7 +187773,10 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-md4pcao0h"
+  "pid": "sn-md4pcao0h",
+  "siteSearchAt": "2026-11-20",
+  "websiteSource": "search",
+  "siteSearch": "found"
  },
  "osm:way/1253372258": {
   "id": "osm:way/1253372258",
@@ -189146,7 +189211,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "classified",
   "firstSeen": "2026-11-20",
   "lastSeen": "2026-11-20",
   "region": "Nouvelle-Aquitaine",
@@ -189165,7 +189230,25 @@
    "low confidence"
   ],
   "pid": "sn-jj18b687j",
-  "lastEvidence": "2026-11-20"
+  "lastEvidence": "2026-11-20",
+  "haiku": {
+   "verdict": "needs_review",
+   "category": "castle-hotels",
+   "scope": "some_units",
+   "confidence": 0.85,
+   "feature": "Suites and rooms located inside a 19th-century château building; the other 37 rooms are in the Orangerie annex",
+   "reason": "Rooms and suites are located inside a historic château building, which matches castle-hotels; niche_scope is some_units because the château holds 13 rooms and suites while the 37 Orangerie rooms are in an annex.",
+   "file": "data/pipeline/decisions/2026-11-20/checked.json",
+   "decidedAt": "2026-11-20",
+   "evidenceAt": "2026-11-20T08:44:10.732Z"
+  },
+  "prescreen": {
+   "action": "keep",
+   "rule": "pass",
+   "at": "2026-11-20T10:15:52.982Z",
+   "file": "data/pipeline/decisions/2026-11-20/checked.json",
+   "evidenceAt": "2026-11-20T08:44:10.732Z"
+  }
  },
  "osm:way/128396540": {
   "id": "osm:way/128396540",
@@ -239267,7 +239350,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "classified",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-11-19",
   "region": null,
@@ -239282,7 +239365,25 @@
   "siteSearchAt": "2026-11-19",
   "websiteSource": "search",
   "siteSearch": "found",
-  "lastEvidence": "2026-11-20"
+  "lastEvidence": "2026-11-20",
+  "haiku": {
+   "verdict": "accepted",
+   "category": "cave-hotels",
+   "scope": "whole_property",
+   "confidence": 0.85,
+   "feature": "Luxury hotel whose rooms and suites are restored cave houses within a historic hillside neighborhood in Ürgüp, Cappadocia",
+   "reason": "The site describes a luxury hotel made of restored cave houses in Ürgüp, Cappadocia, so it matches cave-hotels for the whole property; the room page lists 33 named cave-house units but gives no total, so room_count is null.",
+   "file": "data/pipeline/decisions/2026-11-20/checked.json",
+   "decidedAt": "2026-11-20",
+   "evidenceAt": "2026-11-20T08:44:10.681Z"
+  },
+  "prescreen": {
+   "action": "keep",
+   "rule": "pass",
+   "at": "2026-11-20T10:15:52.982Z",
+   "file": "data/pipeline/decisions/2026-11-20/checked.json",
+   "evidenceAt": "2026-11-20T08:44:10.681Z"
+  }
  },
  "osm:way/366534571": {
   "id": "osm:way/366534571",

@@ -1,0 +1,233 @@
+[
+ {
+  "id": "osm:way/366440713",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Luxury hotel whose rooms and suites are restored cave houses within a historic hillside neighborhood in Ürgüp, Cappadocia",
+  "category_quote": "the hotel features hundreds of restored cave houses and historical structures",
+  "confidence": 0.85,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Kayakapi Premium Caves - Cappadocia",
+  "property_type": "hotel",
+  "address": "Kayakapi Mahallesi, Kuscular Sokak No:43, 50400 Ürgüp, Nevşehir, Turkey",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Spa with hamam, sauna and massage",
+    "quote": "Kayakapi Spa - hamam, sauna ve masaj"
+   },
+   {
+    "text": "Michelin-starred tasting menu restaurant (Revithia)",
+    "quote": "Revithia offers a seasonally changing menu crafted from fresh local ingredients and heritage recipes."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Set in a restored private historical hillside neighborhood",
+    "quote": "Set within a restored private historical hillside neighborhood"
+   },
+   {
+    "text": "Honeymoon packages",
+    "quote": "Planning your honeymoon? Kayakapi hotel is the right place for you."
+   },
+   {
+    "text": "Officially licensed boutique hotel by the Turkish Ministry of Culture and Tourism",
+    "quote": "As the first officially licensed boutique hotel by the Turkish Ministry of Culture and Tourism"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The site describes a luxury hotel made of restored cave houses in Ürgüp, Cappadocia, so it matches cave-hotels for the whole property; the room page lists 33 named cave-house units but gives no total, so room_count is null.",
+  "evidenceAt": "2026-11-20T08:44:10.681Z",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/1283199810",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "some_units",
+  "niche_unit_count": 13,
+  "niche_feature": "Suites and rooms located inside a 19th-century château building; the other 37 rooms are in the Orangerie annex",
+  "category_quote": "Our Suites, spacious and unusual, are located within the Château itself.",
+  "confidence": 0.85,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Château des Reynats",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 13,
+   "quote": "In each of the 13 Rooms & Suites at Château des Reynats"
+  },
+  "amenities": [
+   {
+    "text": "Spa",
+    "quote": "A true haven of peace nestled in the trees at the heart of the Château des Reynats estate, our Spa offers you a unique sensory experience."
+   },
+   {
+    "text": "Restaurant and bistro with terrace",
+    "quote": "From the Grand Dining Room of the Castle to the Chic Bistro La Verrière, enjoying the Terrace protected by its large umbrellas when the weather allows."
+   },
+   {
+    "text": "Meeting and event venue",
+    "quote": "For your professional or private events, our exceptional venue welcomes you"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Some suites have a round bedroom in the château tower",
+    "quote": "Some suites feature a round bedroom located within the Château's tower"
+   },
+   {
+    "text": "Château built in the mid-19th century, 13 rooms and suites over two floors",
+    "quote": "The two floors are occupied by the thirteen rooms and suites"
+   },
+   {
+    "text": "37 more modern rooms in the Orangerie annex",
+    "quote": "In the Orangerie, an annex to the Château, the 37 more modern and streamlined rooms will ensure optimal comfort"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Rooms and suites are located inside a historic château building, which matches castle-hotels; niche_scope is some_units because the château holds 13 rooms and suites while the 37 Orangerie rooms are in an annex.",
+  "evidenceAt": "2026-11-20T08:44:10.732Z",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/1133865000",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.5,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "The Castle Hotel and Brasserie",
+  "property_type": "hotel",
+  "address": "The Parade, Neath, SA11 1RB, Wales",
+  "room_count": {
+   "value": 30,
+   "quote": "30 bedroom family-owned Hotel located in the Neath area of the Swansea City Region"
+  },
+  "amenities": [
+   {
+    "text": "Private bathroom with bath and free toiletries",
+    "quote": "All rooms at the Castle Hotel have a Private Bathroom with Bath and Free Toiletries."
+   },
+   {
+    "text": "Continental breakfast",
+    "quote": "A continental breakfast is served every morning."
+   },
+   {
+    "text": "24-hour staff on hand",
+    "quote": "Staff are on hand 24-hours to ensure your stay is as comfortable and enjoyable as possible."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Historic Welsh coaching inn in Neath town centre",
+    "quote": "Refurbished friendly hotel in Neath town centre."
+   },
+   {
+    "text": "Birthplace of the Welsh Rugby Union",
+    "quote": "Birthplace of the Welsh Rugby Union"
+   },
+   {
+    "text": "Reputed past guests Lord Nelson and Lady Hamilton",
+    "quote": "It is reputed that Lord Nelson and Lady Hamilton frequented the hotel on a number of occasions."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "In the heart of Neath town centre",
+   "quote": "The hotel is situated in the heart of Neath town centre"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name 'Castle Hotel' suggests a castle; the site describes a historic Welsh coaching inn with no castle building, castle-named setting or castle-themed rooms, and it is not a chain, so it does not meet the castle-hotels rule.",
+  "evidenceAt": "2026-11-20T08:44:10.729Z",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/2448225665",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.5,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Castle Bromwich Hall Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 76,
+   "quote": "Our 76 bedrooms and suites are set across four characterful buildings within the grounds"
+  },
+  "amenities": [
+   {
+    "text": "En-suite bathrooms",
+    "quote": "76 attractive bedrooms with luxurious en-suite facilities"
+   },
+   {
+    "text": "Restaurant with seasonal British dining, afternoon tea and Sunday lunch",
+    "quote": "Seasonal British dining, afternoon tea and Sunday lunch served in The Great Hall and historic drawing rooms."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Grade I listed Jacobean manor",
+    "quote": "A Grade I listed Jacobean manor with centuries of history"
+   },
+   {
+    "text": "Beside restored 18th-century formal gardens",
+    "quote": "Beside the hotel lie the historic Castle Bromwich Hall Gardens — a rare surviving example of an 18th-century English formal garden."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Minutes from central Birmingham, the NEC and Birmingham Airport",
+   "quote": "just minutes from the heart of Birmingham, the NEC and Birmingham Airport"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Not a castle: the site describes a Grade I listed Jacobean manor house (Castle Bromwich Hall) with bedrooms in house, Brew House, Coach House and Dovecote buildings, and the castle name comes only from the village; no castle niche is shown, so it is not a castle-hotel.",
+  "evidenceAt": "2026-11-20T08:44:10.731Z",
+  "verdict": "rejected",
+  "dropped": []
+ }
+]

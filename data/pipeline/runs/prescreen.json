@@ -1,10 +1,12 @@
 {
- "at": "2026-11-20T08:44:10.533Z",
+ "at": "2026-11-20T10:15:53.099Z",
  "ok": true,
  "reject": 0,
  "research": 0,
- "keep": 0,
- "rules": {},
+ "keep": 2,
+ "rules": {
+  "pass": 2
+ },
  "ownerTouched": 2,
  "alreadyScreened": 497
 }

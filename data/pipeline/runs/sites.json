@@ -1,7 +1,10 @@
 {
- "at": "2026-11-19T10:16:26.936Z",
+ "at": "2026-11-20T10:17:16.353Z",
  "ok": true,
  "found": 3,
- "none": 17,
- "refused": 0
+ "none": 16,
+ "refused": 1,
+ "refusedUrls": [
+  "The Castle Hotel & Restaurant: https://www.chefandbrewer.com/pubs/leicestershire/castle-hotel/hotel"
+ ]
 }

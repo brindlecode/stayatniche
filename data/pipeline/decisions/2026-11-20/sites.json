@@ -1,0 +1,22 @@
+[
+  { "id": "osm:node/4620915469", "url": null, "title": null, "why": "Only a directory listing and booking sites name the domain elenscastlehotel.co.uk; it did not appear as a result." },
+  { "id": "osm:node/4944896728", "url": null, "title": null, "why": "Only third-party campsite listings in the results, no operator site." },
+  { "id": "osm:node/5070964386", "url": null, "title": null, "why": "Only booking and aggregator pages, and the one London-area match was unconfirmed." },
+  { "id": "osm:node/5196256031", "url": "https://www.studentcastle.co.uk/locations/edinburgh-student-accommodation/location", "title": "www.studentcastle.co.uk", "why": "Operator's own Edinburgh location page on its own domain, which names the Student Castle brand (only this page was seen, not the homepage)." },
+  { "id": "osm:node/5238555361", "url": null, "title": null, "why": "Only booking aggregators; no official site found and the place was ambiguous (Isle of Wight)." },
+  { "id": "osm:node/5572212922", "url": null, "title": null, "why": "Only CAMRA, listing and historic-building pages, which state no website." },
+  { "id": "osm:node/5811021535", "url": null, "title": null, "why": "The domain kinnettlescastle.com appears only in venue-listing text, not as a fetched result, and the status is conflicting." },
+  { "id": "osm:node/5938970479", "url": null, "title": null, "why": "No guest-room operator site found; the only hotel match is a booking-style listing and the castle is a ruin." },
+  { "id": "osm:node/7967387789", "url": "https://www.chefandbrewer.com/pubs/leicestershire/castle-hotel/hotel", "title": "Castle Hotel, Kirby Muxloe", "why": "Operator's own page for this specific hotel in Kirby Muxloe, Leicestershire, on the Chef & Brewer site that runs it." },
+  { "id": "osm:node/8901603702", "url": null, "title": null, "why": "knockcastle.com appears only in text and an archive reference, not as a fetched result, so it is not confirmed." },
+  { "id": "osm:node/8972416390", "url": null, "title": null, "why": "No Castle Lodge site in Lincoln found; results were only for a different hotel and listing sites." },
+  { "id": "osm:node/957901417", "url": null, "title": null, "why": "culcreuch.com appears only in listing text, not as a fetched result, and the operating status is unclear." },
+  { "id": "osm:node/9671202616", "url": null, "title": null, "why": "Only third-party campsite listings in the results, and the place name is spelled differently." },
+  { "id": "osm:node/9746358017", "url": null, "title": null, "why": "Only tourism and booking listings; the B&B's own site was not in the results." },
+  { "id": "osm:relation/12076031", "url": "https://www.hevercastle.co.uk/stay/bed-breakfast", "title": "Bed & Breakfast", "why": "Official Hever Castle page for its bed and breakfast rooms, on the castle's own domain in Hever, Kent." },
+  { "id": "osm:way/1077641250", "url": null, "title": null, "why": "No official campsite site found; only Cadw's castle page and listings." },
+  { "id": "osm:way/1175915608", "url": null, "title": null, "why": "The only domain seen (se-digital-demos.pages.dev) is a demo-style host, not the owner's site." },
+  { "id": "osm:way/1219860114", "url": null, "title": null, "why": "No URL for the B&B's own site appeared in the results, only an unlinked 'official website' label." },
+  { "id": "osm:way/123522884", "url": null, "title": null, "why": "breconcastle.co.uk appears only in text, not as a fetched result, and it is not confirmed for this input name." },
+  { "id": "osm:way/125155979", "url": "https://glenappcastle.com", "title": "Glenapp Castle", "why": "The hotel's own homepage on its domain, in Ballantrae, South Ayrshire, matching the name and place." }
+]
