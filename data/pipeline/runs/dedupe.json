@@ -1,9 +1,9 @@
 {
- "at": "2026-11-20T10:15:52.866Z",
+ "at": "2026-11-21T08:25:02.260Z",
  "ok": true,
- "properties": 8533,
+ "properties": 8535,
  "groupsWithSeveralRecords": 392,
- "newIds": 0,
+ "newIds": 2,
  "idsMerged": 0,
  "largeGroupsSkipped": 5,
  "duplicates": 0,
