@@ -1,0 +1,277 @@
+[
+ {
+  "id": "osm:way/125155979",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": 22,
+  "niche_feature": "Luxury hotel in a Scottish baronial castle built in 1870, with 22 bedrooms inside the castle",
+  "category_quote": "Built in 1870, Glenapp Castle is a magnificent Scottish baronial Castle nestled in the heart of Ayrshire.",
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Glenapp Castle",
+  "property_type": "hotel",
+  "address": "Glenapp Castle Hotel, Ballantrae, Ayrshire, Scotland KA26 0NZ",
+  "room_count": {
+   "value": 22,
+   "quote": "In total, Glenapp Castle has 22 luxurious bedrooms."
+  },
+  "amenities": [
+   {
+    "text": "Award-winning restaurant",
+    "quote": "Our award winning restaurant is a one of the finest dining experiences available in this part of Scotland"
+   },
+   {
+    "text": "Complimentary still and sparkling water in rooms",
+    "quote": "Complimentary still and sparkling water"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Penthouse Suite of 4,500 sq ft, four bedrooms",
+    "quote": "Glenapp's 4,500 sq ft, elegant four-bedroom Castle Penthouse Suite"
+   },
+   {
+    "text": "Hebridean Sea Safari boat trips",
+    "quote": "Come on board the Glenapp boat and explore the Hebridean islands."
+   },
+   {
+    "text": "Private jetty for guests arriving by boat",
+    "quote": "We have a private jetty for those wishing to arrive by boat"
+   }
+  ],
+  "season": {
+   "text": "Open year-round",
+   "quote": "Our doors are open year-round"
+  },
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About 90-minute drive from Glasgow; nearest station Girvan",
+   "quote": "The Castle is approximately a 90-minute drive from Glasgow"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Glenapp Castle is a five-star hotel in a Scottish baronial castle with 17 castle bedroom suites plus a penthouse inside the building, so it fits castle-hotels; the site matches the Ballantrae, Ayrshire location. No reviewer question was attached.",
+  "evidenceAt": "2026-11-21T08:25:02.745Z",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q125844616",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "floating-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Whole hotel is a floating hotel on the Royal Victoria dock, London, converted from a former accommodation platform that was towed across the North Sea",
+  "category_quote": "We are a floating hotel, located on the Royal Victoria dock",
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Good Hotel London",
+  "property_type": "hotel",
+  "address": "Western Gateway, Canning Town, London Borough of Newham, London E16 1FA",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Private workspace, safe, kettle, tea and coffee in rooms",
+    "quote": "All rooms include a private workspace, cubby storage, hanging area, blowdryer, safe, hot water kettle, and in-room tea and coffee"
+   },
+   {
+    "text": "On-site restaurant",
+    "quote": "Our Living Room Restaurant is open for breakfast, lunch and dinner"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Rooftop bar with views over London",
+    "quote": "to the Roof for signature cocktails and the most amazing views over London"
+   }
+  ],
+  "season": null,
+  "check_in": "after 3:00 pm",
+  "check_out": "before 11:00 am",
+  "access": {
+   "text": "Near Royal Victoria (DLR) and Custom House (Elizabeth Line) stations",
+   "quote": "The closest stations are Royal Victoria (DLR) and Custom House (Elizabeth Line)"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The hotel itself is a floating hotel moored on the Royal Victoria dock, so it fits floating-hotels as a whole property; the site is the operator's own and matches the London location. No reviewer question was attached.",
+  "evidenceAt": "2026-11-21T08:25:15.303Z",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:relation/12076031",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": 25,
+  "niche_feature": "25 bedrooms in Edwardian wings (Astor Wing and Anne Boleyn Wing) attached to Hever Castle and connected inside it",
+  "category_quote": "an Edwardian Wing attached to the castle and connected inside",
+  "confidence": 0.7,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Hever Castle Luxury Accommodation",
+  "property_type": "B&B",
+  "address": "Hever, Edenbridge, Kent, TN8 7NG",
+  "room_count": {
+   "value": 25,
+   "quote": "in 25 ‘five star gold’ luxury bedrooms in the Astor Wing and the Anne Boleyn Wing"
+  },
+  "amenities": [
+   {
+    "text": "Breakfast included with every bedroom stay",
+    "quote": "A leisurely breakfast is included with every bedroom stay"
+   },
+   {
+    "text": "Tea and coffee making facilities in all rooms",
+    "quote": "Tea and coffee making facilities are available in all rooms"
+   },
+   {
+    "text": "Entry to Castle and Gardens included with stay",
+    "quote": "Tickets to the Castle & Gardens are included with every stay"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "All bedrooms en-suite and individually styled",
+    "quote": "All bedrooms are en-suite and individually styled"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "The stay is 25 bedrooms in Edwardian wings attached to and connected inside Hever Castle, so the rooms sit inside a historic castle complex and it fits castle-hotels; the site is the operator's own and matches the Hever, Kent location. No reviewer question was attached.",
+  "evidenceAt": "2026-11-21T08:25:02.744Z",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/14383539234",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.1,
+  "red_flags": [
+   "closed_hint"
+  ],
+  "other_niche_type": null,
+  "official_name": "Hôtel Atmosphère & Spa",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the OSM tag tourism=hotel and the name are known; the website text says only that its domain expired, so there is no evidence of any bubble or dome stay and category stays null even though the queue guessed bubble-hotels.",
+  "evidenceAt": "2026-11-21T08:25:15.362Z",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/34329293",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Hotel am Leuchtturm",
+  "property_type": "hotel",
+  "address": "Am Leuchtturm 16 | 18119 Rostock-Warnemünde",
+  "room_count": {
+   "value": 30,
+   "quote": "30 gro z gige, helle und freundliche Zimmer im klassisch-modernen Design"
+  },
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The name means hotel at the lighthouse and the rooms overlook the lighthouse, but this is an ordinary 30-room boutique hotel on the Warnemünde promenade, not a stay inside a lighthouse, so it does not fit lighthouse-hotels.",
+  "evidenceAt": "2026-11-21T08:25:06.403Z",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/674379446",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Lighthouse Hotel & Spa",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 111,
+   "quote": "111 hochwertige Zimmer, Suiten und Apartments"
+  },
+  "amenities": [
+   {
+    "text": "Ocean Spa",
+    "quote": "sowie unser hauseigener Ocean Spa"
+   },
+   {
+    "text": "3 restaurants and 2 bars",
+    "quote": "3 Restaurants, und 2 Bars"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Wellness area with 3 saunas, 2 rest rooms and a whirlpool lounge pool",
+    "quote": "In unserem modernen Wellnessbereich erwarten Sie 3 Saunen, 2 Ruheräume sowie 1 Liegepool mit Whirlfunktion"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The brand is named Lighthouse for its nautical theme, but the stay is a 111-room modern hotel with a spa in Büsum, not a stay inside a lighthouse, so it does not fit lighthouse-hotels; the Lighthouse Suite is just a room name.",
+  "evidenceAt": "2026-11-21T08:25:06.278Z",
+  "verdict": "rejected",
+  "dropped": []
+ }
+]

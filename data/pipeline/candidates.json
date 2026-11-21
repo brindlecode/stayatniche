@@ -5079,7 +5079,7 @@
    "stars": "5"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "classified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": null,
@@ -50133,7 +50133,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-11-21",
   "lastSeen": "2026-11-21",
   "region": "Analamanga",
@@ -50146,10 +50146,21 @@
   },
   "checkedAt": "2026-11-21",
   "reasons": [
-   "no category evidence on official website"
+   "haiku: Only the OSM tag tourism=hotel and the name are known; the website text says only that its domain expired, so there is no evidence of any bubble or dome stay and category stays null even though the queue guessed bubble-hotels."
   ],
   "pid": "sn-zi1pik1g6",
-  "lastEvidence": "2026-11-21"
+  "lastEvidence": "2026-11-21",
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "unclear",
+   "confidence": 0.1,
+   "feature": null,
+   "reason": "Only the OSM tag tourism=hotel and the name are known; the website text says only that its domain expired, so there is no evidence of any bubble or dome stay and category stays null even though the queue guessed bubble-hotels.",
+   "file": "data/pipeline/decisions/2026-11-21/checked.json",
+   "decidedAt": "2026-11-21",
+   "evidenceAt": "2026-11-21T08:25:15.362Z"
+  }
  },
  "osm:node/14392023206": {
   "id": "osm:node/14392023206",
@@ -158074,7 +158085,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "classified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": "Kilifi County",
@@ -168234,7 +168245,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "classified",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-20",
   "region": "England",
@@ -168249,7 +168260,25 @@
   "siteSearchAt": "2026-11-20",
   "websiteSource": "search",
   "siteSearch": "found",
-  "lastEvidence": "2026-11-21"
+  "lastEvidence": "2026-11-21",
+  "haiku": {
+   "verdict": "needs_review",
+   "category": "castle-hotels",
+   "scope": "whole_property",
+   "confidence": 0.7,
+   "feature": "25 bedrooms in Edwardian wings (Astor Wing and Anne Boleyn Wing) attached to Hever Castle and connected inside it",
+   "reason": "The stay is 25 bedrooms in Edwardian wings attached to and connected inside Hever Castle, so the rooms sit inside a historic castle complex and it fits castle-hotels; the site is the operator's own and matches the Hever, Kent location. No reviewer question was attached.",
+   "file": "data/pipeline/decisions/2026-11-21/checked.json",
+   "decidedAt": "2026-11-21",
+   "evidenceAt": "2026-11-21T08:25:02.744Z"
+  },
+  "prescreen": {
+   "action": "keep",
+   "rule": "pass",
+   "at": "2026-11-21T10:15:51.647Z",
+   "file": "data/pipeline/decisions/2026-11-21/checked.json",
+   "evidenceAt": "2026-11-21T08:25:02.744Z"
+  }
  },
  "osm:relation/12123390": {
   "id": "osm:relation/12123390",
@@ -187830,7 +187859,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "classified",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-20",
   "region": "Scotland",
@@ -187845,7 +187874,25 @@
   "siteSearchAt": "2026-11-20",
   "websiteSource": "search",
   "siteSearch": "found",
-  "lastEvidence": "2026-11-21"
+  "lastEvidence": "2026-11-21",
+  "haiku": {
+   "verdict": "accepted",
+   "category": "castle-hotels",
+   "scope": "whole_property",
+   "confidence": 0.9,
+   "feature": "Luxury hotel in a Scottish baronial castle built in 1870, with 22 bedrooms inside the castle",
+   "reason": "Glenapp Castle is a five-star hotel in a Scottish baronial castle with 17 castle bedroom suites plus a penthouse inside the building, so it fits castle-hotels; the site matches the Ballantrae, Ayrshire location. No reviewer question was attached.",
+   "file": "data/pipeline/decisions/2026-11-21/checked.json",
+   "decidedAt": "2026-11-21",
+   "evidenceAt": "2026-11-21T08:25:02.745Z"
+  },
+  "prescreen": {
+   "action": "keep",
+   "rule": "pass",
+   "at": "2026-11-21T10:15:51.647Z",
+   "file": "data/pipeline/decisions/2026-11-21/checked.json",
+   "evidenceAt": "2026-11-21T08:25:02.745Z"
+  }
  },
  "osm:way/1253372258": {
   "id": "osm:way/1253372258",
@@ -236572,7 +236619,7 @@
    "stars": "3"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-18",
   "category": "lighthouse-hotels",
@@ -236587,12 +236634,23 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "haiku: The name means hotel at the lighthouse and the rooms overlook the lighthouse, but this is an ordinary 30-room boutique hotel on the Warnemünde promenade, not a stay inside a lighthouse, so it does not fit lighthouse-hotels."
   ],
   "lastEvidence": "2026-11-21",
   "noEvidence": 1,
   "noEvidenceAt": "2026-10-22T06:15:12.546Z",
-  "pid": "sn-2dgzq43xt"
+  "pid": "sn-2dgzq43xt",
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.4,
+   "feature": null,
+   "reason": "The name means hotel at the lighthouse and the rooms overlook the lighthouse, but this is an ordinary 30-room boutique hotel on the Warnemünde promenade, not a stay inside a lighthouse, so it does not fit lighthouse-hotels.",
+   "file": "data/pipeline/decisions/2026-11-21/checked.json",
+   "decidedAt": "2026-11-21",
+   "evidenceAt": "2026-11-21T08:25:06.403Z"
+  }
  },
  "osm:way/343531029": {
   "id": "osm:way/343531029",
@@ -267498,7 +267556,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-18",
   "description": "hotel in Büsum, Germany",
@@ -267515,12 +267573,23 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "haiku: The brand is named Lighthouse for its nautical theme, but the stay is a 111-room modern hotel with a spa in Büsum, not a stay inside a lighthouse, so it does not fit lighthouse-hotels; the Lighthouse Suite is just a room name."
   ],
   "lastEvidence": "2026-11-21",
   "noEvidence": 1,
   "noEvidenceAt": "2026-10-22T06:14:30.041Z",
-  "pid": "sn-8he3jr2qf"
+  "pid": "sn-8he3jr2qf",
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.4,
+   "feature": null,
+   "reason": "The brand is named Lighthouse for its nautical theme, but the stay is a 111-room modern hotel with a spa in Büsum, not a stay inside a lighthouse, so it does not fit lighthouse-hotels; the Lighthouse Suite is just a room name.",
+   "file": "data/pipeline/decisions/2026-11-21/checked.json",
+   "decidedAt": "2026-11-21",
+   "evidenceAt": "2026-11-21T08:25:06.278Z"
+  }
  },
  "osm:way/675435238": {
   "id": "osm:way/675435238",
@@ -298378,7 +298447,7 @@
   "city": "Greater London",
   "description": "floating hotel and hospitality training center in London, England, UK",
   "source": "wikidata",
-  "status": "weak",
+  "status": "classified",
   "firstSeen": "2026-11-21",
   "lastSeen": "2026-11-21",
   "hasWikiImage": true,
@@ -298398,7 +298467,25 @@
    "low confidence"
   ],
   "pid": "sn-hz7q9lwvm",
-  "lastEvidence": "2026-11-21"
+  "lastEvidence": "2026-11-21",
+  "haiku": {
+   "verdict": "accepted",
+   "category": "floating-hotels",
+   "scope": "whole_property",
+   "confidence": 0.9,
+   "feature": "Whole hotel is a floating hotel on the Royal Victoria dock, London, converted from a former accommodation platform that was towed across the North Sea",
+   "reason": "The hotel itself is a floating hotel moored on the Royal Victoria dock, so it fits floating-hotels as a whole property; the site is the operator's own and matches the London location. No reviewer question was attached.",
+   "file": "data/pipeline/decisions/2026-11-21/checked.json",
+   "decidedAt": "2026-11-21",
+   "evidenceAt": "2026-11-21T08:25:15.303Z"
+  },
+  "prescreen": {
+   "action": "keep",
+   "rule": "pass",
+   "at": "2026-11-21T10:15:51.647Z",
+   "file": "data/pipeline/decisions/2026-11-21/checked.json",
+   "evidenceAt": "2026-11-21T08:25:15.303Z"
+  }
  },
  "wd:Q131389851": {
   "id": "wd:Q131389851",
