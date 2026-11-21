@@ -1,0 +1,38 @@
+{
+ "id": "osm:way/254613618",
+ "name": "Erchless Castle",
+ "queueStatus": "blocked",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 57.4295816,
+ "lng": -4.649157,
+ "country": "United Kingdom",
+ "city": "Highland",
+ "region": "Scotland",
+ "osm": {
+  "tourism": "guest_house",
+  "historic": "castle"
+ },
+ "wikidata": "Q5385208",
+ "wikidataDescription": "castle in Highland, Scotland, UK",
+ "website": "http://erchless-castle.co.uk/",
+ "websiteSource": "map",
+ "fetchedAt": "2026-11-14T21:32:37.398Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "en",
+  "title": "Erchless Castle",
+  "url": "https://en.wikipedia.org/wiki/Erchless_Castle",
+  "extract": "Erchless Castle is an L-plan castle in northern Scotland, near Struy, Highland. The current building was built in about 1600. The castle is located at the northeast end of Strathglass at the point where the Erchless Burn enters the River Beauly, itself newly formed from the confluence of the rivers Glass and Farrar immediately to the south of the castle.",
+  "text": "Erchless Castle is an L-plan castle in northern Scotland, near Struy, Highland. The current building was built in about 1600. The castle is located at the northeast end of Strathglass at the point where the Erchless Burn enters the River Beauly, itself newly formed from the confluence of the rivers Glass and Farrar immediately to the south of the castle.\nHistory\nA building was built in the 13th century by the Bissetts, it came into the hands of the Chisholms in the 15th century, by the marriage of Alexander de Chisholme to Margaret, Lady of Erchless, and became their ancestral home. The existing building is dated to about 1600 as an L-plan tower house and underwent it alterations in the 19th century with the addition of a Baronial-style wing in 1895. It is protected as a Category B listed building.\nHistory in the 20th century\nAfter the death of the last surviving member of the direct line of Chisholms the estate was owned by the trustees of the late Lady Chisholm, Annie Cecilia Chisholm of Chisholm. In 1932–33 the Estate Manager was recorded as William Macintyre, and he lived at the Sawmill Cottage.\nThe Highland News, 17 April 1937, states that the Chisholm Estates had been sold on 10 April 1937 to an unknown buyer. The lands were said to have included Erchless Castle and Forest, with deer in the forests of Affric, Fasnakyle, Cozac, Benula together with the outlying estates of Buntait, Kerrow and Rheindown. The buyer was Highland Estates Ltd.\nIn 1946 the Erchless Estate and castle were bought on behalf of Baron Siegfried Nikolai von Stackelberg, an anti-communist refugee member of the Baltic German nobility and his wife Baroness Phyllis von Stackelberg. The funds came from the estate of her father George Roscoe, a member of the firm James Roscoe & Sons. The Estate continued in the ownership of the Trustees of George Roscoe until 1963–64, but the Valuation Roll for the following year names the new Lairdship of Erchless (estate)  as being held by the family of Sir Lawrence Robson, founder of accountancy firm Robson Rhodes.\nHowever, the Trustees did not sell the whole of the former Erchless Estate: the Valuation Roll for Kilmorack for 1964–65 records them as still owning Teanassie House, and most of Breakachy. Baron and Baroness von Stackelberg had moved into Teanassie House to live in retirement. Their gravestone reads: \"In memory of Baron Nicholas Stackelberg of Teanassie House, much loved husband of Phyllis, died 30 September 1966. Phyllis Mary Roscoe died 21 March 1982.\"\nOn the death of Sir Lawrence Robson in 1982, the castle was inherited by his son, Erik Maurice William Robson.\nCitations\nExternal links\nErchless Castle, Royal Commission on the Ancient and Historical Monuments of Scotland\nErchless Castle Site"
+ },
+ "notes": [
+  "website fetch failed: 0 fetch failed"
+ ],
+ "reviewerQuestion": null,
+ "finalUrl": "http://erchless-castle.co.uk/",
+ "httpStatus": 0
+}

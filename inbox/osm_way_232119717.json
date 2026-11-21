@@ -1,0 +1,38 @@
+{
+ "id": "osm:way/232119717",
+ "name": "Saddell Castle",
+ "queueStatus": "drafted",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 55.5274398,
+ "lng": -5.5045251,
+ "country": "United Kingdom",
+ "city": "Campbeltown",
+ "region": "Scotland",
+ "osm": {
+  "tourism": "guest_house",
+  "historic": "castle"
+ },
+ "wikidata": "Q168089",
+ "wikidataDescription": "castle in Argyll and Bute, Scotland, UK",
+ "website": "https://www.landmarktrust.org.uk/search-and-book/properties/saddell-castle-11597/#Overview",
+ "websiteSource": "map",
+ "fetchedAt": "2026-11-17T11:37:51.018Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "en",
+  "title": "Saddell Castle",
+  "url": "https://en.wikipedia.org/wiki/Saddell_Castle",
+  "extract": "Saddell Castle is a historic 16th-century castle on the shore of the Kilbrannan Sound near Saddell, Kintyre, Argyll and Bute, Scotland. The original castle existed in Somerled's time in the 12th century. The castle served as a bastion of the MacDonald family for several centuries and continues to be visited by MacDonald diaspora from around the world who return to Western Scotland and the Isles. Several MacDonald Lords have resided at Saddell over the centuries, including Alasdair Mor MacDonald, younger brother of Angus Mor MacDonald, Lord of the Isles in the 13th century. Angus Og MacDonald once provided refuge to Robert the Bruce during the First War of Scottish Independence in the early 14th century before taking him on to Dunaverty Castle on the Mull of Kintyre.",
+  "text": "Saddell Castle is a historic 16th-century castle on the shore of the Kilbrannan Sound near Saddell, Kintyre, Argyll and Bute, Scotland. The original castle existed in Somerled's time in the 12th century. The castle served as a bastion of the MacDonald family for several centuries and continues to be visited by MacDonald diaspora from around the world who return to Western Scotland and the Isles. Several MacDonald Lords have resided at Saddell over the centuries, including Alasdair Mor MacDonald, younger brother of Angus Mor MacDonald, Lord of the Isles in the 13th century. Angus Og MacDonald once provided refuge to Robert the Bruce during the First War of Scottish Independence in the early 14th century before taking him on to Dunaverty Castle on the Mull of Kintyre.\nHistory\nThe current castle, built by David Hamilton, Bishop of Argyll, between 1508 and 1512, was constructed from the stones of the ruined castle and Saddell Abbey.  In 1556, Bishop James Hamilton gave the castle to James Hamilton, 2nd Earl of Arran as payment for debts and taxes.\nLater, The Earl of Arran was forced to exchange it with the Chief of Clan MacDonald of Dunnyveg, James MacDonald for James' lands on the Isle of Arran. The castle then became one of several ancestral homes of the MacDonald family in Scotland. Saddell was captured and burnt in October 1558 by an English force led by Thomas Radclyffe, 3rd Earl of Sussex, Lord Deputy of Ireland, under orders of Queen Mary I of England in retaliation for James MacDonald's involvement in Ireland against the English Crown. \nSaddell castle was rebuilt and enlarged by successive MacDonald lairds. A trap door in the main entrance passage sent unwanted visitors into a dungeon with no exits. In 1607, the Clan Donald lands in Kintyre, including Saddell, were conveyed by King James VI to Archibald Campbell, 7th Earl of Argyll. The castle fell into disrepair when Saddell House was built c. 1774. The castle was bought and restored by the Landmark Trust, which now rents it out as a self-catering property. Members of the Clan Donald (the MacDonald family) continue to make pilgrimages to Saddell Castle every year, in memory of its place in Scottish history.\nIn popular culture\nA collection of Celtic Fairy tales compiled by Joseph Jacobs in 1892 contains a story (The Sprightly Tailor) that is set around Saddell Castle. According to the tale, a giant monster that struck the castle wall above the gate left the mark of his five great fingers there.\nIt can also be seen in the music video for Wings' hit \"Mull of Kintyre\", filmed in Saddell Bay and featuring the Campbeltown Pipe Band marching along the beach.\nReferences\nBibliography\n\"Saddell Castle\". The Landmark Trust. Retrieved 1 June 2020.\nRev. James Webb. \"Saddell Castle\". Ralston Genealogy. Retrieved 22 September 2009.\nJacobs, Joseph (1968). Celtic Fairy Tales. Dover Publications."
+ },
+ "notes": [
+  "website fetch failed: 403"
+ ],
+ "reviewerQuestion": null,
+ "finalUrl": "https://www.landmarktrust.org.uk/search-and-book/properties/saddell-castle-11597/",
+ "httpStatus": 403
+}

@@ -1,0 +1,46 @@
+{
+ "id": "osm:way/275128629",
+ "name": "Castillo de Valdés-Salas",
+ "queueStatus": "classified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 43.4090274,
+ "lng": -6.2616514,
+ "country": "Spain",
+ "city": "Salas",
+ "region": "Asturias",
+ "osm": {
+  "tourism": "hotel",
+  "historic": "manor",
+  "stars": "2"
+ },
+ "wikidata": "Q6058219",
+ "wikidataDescription": "cultural property in Salas, Spain",
+ "website": "http://www.castillovaldesalas.com/hotel-overview.html",
+ "websiteSource": "map",
+ "fetchedAt": "2026-11-15T07:58:35.103Z",
+ "pages": [
+  {
+   "url": "http://www.castillovaldesalas.com/hotel-overview.html",
+   "kind": "home",
+   "title": "",
+   "description": "",
+   "text": ""
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "es",
+  "title": "Palacio de Valdés Salas",
+  "url": "https://es.wikipedia.org/wiki/Palacio_de_Vald%C3%A9s_Salas",
+  "extract": "El Palacio de Valdés Salas está situado en la localidad de Salas, en el concejo asturiano del mismo nombre.",
+  "text": "El Palacio de Valdés Salas está situado en la localidad de Salas, en el concejo asturiano del mismo nombre.\nSe trata de un edificio del siglo XVI, de carácter sobrio, que está unido a la Torre de los Valdés, del siglo XV y con la que forma conjunto, mediante un puente de arco de medio punto rebajado donde se exhiben los escudos de la familia Valdés-Salas. La construcción es de mampostería y cantería, una muestra de la arquitectura civil de su época. Fue la casa de la noble familia de los Valdés Salas, cuyo miembro más conocido es Fernando Valdés Salas, religioso, inquisidor, político y fundador de la Universidad de Oviedo, enterrado en la colegiata de Santa María La Mayor y que nació en este palacio.\nLa disposición es de una casa de dos plantas que gira alrededor de un patio interior con forma de trapecio rectángulo. El patio es porticado, y está recorrido por un corredor con barandilla de balaustres torneados, apoyados en columnas de madera. El cuerpo central del palacio aloja un zaguán que sirve como distribuidor. La crujía​ Norte está dispuesta en diagonal, y en ella se sitúa la fachada principal, flanqueada por dos torres que sobresalen y la capilla anexa. La puerta principal tiene un arco de medio punto y ventanas pequeñas.\nLa capilla, llamada de «Nuestra Señora de la Calle», se utiliza actualmente como sala de exposiciones. Es de planta rectangular, con la cabecera semicircular cubierta con una bóveda de cañón, y el espacio de la nave está dividido también en dos pisos. En el piso superior se abren dos vanos, que seguramente utilizaban los Valdés Salas en la época para asistir a las celebraciones sin ser vistos. Su única fachada independiente está orientada al Este.\nEl palacio está declarado como bien de interés cultural, con categoría de monumento. En la actualidad alberga la oficina de información y turismo de la villa, la casa de cultura y un pequeño hotel. \nNotas y referencias\nEnlaces externos\n Wikimedia Commons alberga una categoría multimedia sobre Palacio de Valdés Salas.\nWeb del Concejo de Salas\nloscastillos.iespana.es"
+ },
+ "notes": [],
+ "reviewerQuestion": "Ön eleme: Kanıt yetersiz: otelin kendi sitesi okunamadı, elde yalnızca Wikipedia/harita bilgisi var.",
+ "finalUrl": "http://www.castillovaldesalas.com/hotel-overview.html",
+ "httpStatus": 200,
+ "htmlLang": null
+}

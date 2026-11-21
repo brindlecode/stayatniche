@@ -1,0 +1,39 @@
+{
+ "id": "osm:node/14383539234",
+ "name": "Hôtel Atmosphère & Spa",
+ "queueStatus": "weak",
+ "queueCategory": "bubble-hotels",
+ "categories": [
+  "bubble-hotels"
+ ],
+ "lat": -18.886083,
+ "lng": 47.5221201,
+ "country": "Madagascar",
+ "city": "Antananarivo",
+ "region": "Analamanga",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.atmohotel-spa.com/",
+ "websiteSource": "map",
+ "fetchedAt": "2026-11-21T08:25:15.362Z",
+ "pages": [
+  {
+   "url": "http://www.atmohotel-spa.com/",
+   "kind": "home",
+   "title": "",
+   "description": "",
+   "text": "This domain (atmohotel-spa.com) expired on 10/11/2026. You can retrieve your domain by clicking here.",
+   "captions": []
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "reviewerQuestion": null,
+ "finalUrl": "http://www.atmohotel-spa.com/",
+ "httpStatus": 200,
+ "htmlLang": null
+}

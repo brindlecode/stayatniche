@@ -1,0 +1,129 @@
+{
+ "id": "osm:way/284399335",
+ "name": "Schloß Pülswerda",
+ "queueStatus": "classified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 51.5261512,
+ "lng": 13.0714304,
+ "country": "Germany",
+ "city": "Arzberg",
+ "region": "Saxony",
+ "osm": {
+  "tourism": "hotel",
+  "historic": "castle"
+ },
+ "wikidata": "Q36202968",
+ "wikidataDescription": "Castle of the Pülswerda manor, Arzberg (Saxony)",
+ "website": "https://www.schloss-puelswerda.de/",
+ "websiteSource": "map",
+ "fetchedAt": "2026-11-17T20:28:47.017Z",
+ "pages": [
+  {
+   "url": "https://www.schloss-puelswerda.de/",
+   "kind": "home",
+   "title": "Im Hotel an der Elbe Sächsischen Wein genießen - Hotel Schloss Pülswerda",
+   "description": "Im Schlosshotel Pülswerda an der Elbe können Sie sächsische Weine genießen. Die Zimmer im Schloss sind nicht nur für Comtessen zur Übernachtung hergerichtet.",
+   "text": "Im Hotel an der Elbe Sächsischen Wein genießen - Hotel Schloss Pülswerda\nZum Hauptinhalt springen\nDas Hotel befindet sich ab dem 01.11.2026 in Winterruhe.\nWir freuen uns darauf, unsere Gäste ab dem Frühjahr 2027 wieder zu begrüssen.\nWerden Sie Geschichte!\nDort, wo die jungen Comtessen erste Liebesbriefe schrieben, schlafen nun Sie, die alte Türklinke zu Ihrem Zimmer tausende Male gedrückt, Ihre Hand reiht sich ein, die Geschichte geht weiter.\nDen Weg zur Elbe durch Schlosspark und Auen gehen, sächsische Weine und Biere geniessen, den Geist einer anderen Welt erfahren — unser Schlosshotel erwartet Sie!",
+   "captions": [
+    "Schloss Pülswerda logo"
+   ]
+  },
+  {
+   "url": "https://www.schloss-puelswerda.de/schlosshotel/unsere-zimmer",
+   "kind": "sub",
+   "label": "Unsere Zimmer",
+   "title": "Zimmer im Schlosshotel - Hotel Schloss Pülswerda",
+   "text": "Zimmer im Schlosshotel - Hotel Schloss Pülswerda\nZum Hauptinhalt springen\nDie Zimmer im Schlosshotel\nWir freuen uns, wenn wir Ihnen den Zimmerschlüssel überreichen können! Unser Ziel ist es, Ihren Aufenthalt im Schlosshotel erholsam, erlebnisreich und mit der Aura des Besonderen - dem \"Geist einer anderen Welt\" - zu gestalten.\nEinzelzimmer Nr.1\nBad Zimmer Nr.1\nDoppelzimmer Nr.3\nDoppelzimmer Nr.3\nDoppelzimmer Nr.4\nDoppelzimmer Nr.4\nDoppelzimmer Nr.6\nDoppelzimmer Nr.6",
+   "captions": [
+    "Schloss Pülswerda logo",
+    "Unsere Zimmer",
+    "Einzelzimmer Nr.1",
+    "Bad Zimmer Nr.1",
+    "Doppelzimmer Nr.3",
+    "Doppelzimmer Nr.4",
+    "Doppelzimmer Nr.6"
+   ]
+  },
+  {
+   "url": "https://www.schloss-puelswerda.de/schlosshotel/unser-hotel",
+   "kind": "sub",
+   "label": "Schlosshotel",
+   "title": "Schlosshotel an der Elbe mit Gästezimmer - Hotel Schloss Pülswerda",
+   "text": "Schlosshotel an der Elbe mit Gästezimmer - Hotel Schloss Pülswerda\nZum Hauptinhalt springen\nUnser Schlosshotel\nWir bieten 4 Gästezimmer an, davon 3 als Doppelzimmer und 1 Einzelzimmer. Die eleganten Badezimmer sind mit Dusche und WC ausgestattet.\nGeist einer anderen Welt\nUnsere Zimmer sind mit abgeschirmten Elektrokabeln und Netzfreischalter ausgestattet sowie Fernseher-frei. Bei der Renovierung wurden nur Bio-Baumaterialien verwendet: Bio-Lacke, Bio-Fussbodenhartöl, Kalkwandputz. Die Wände und Decken sind mit Leimfarbe (wie früher!) oder mit Kalk-Kaseinfarbe gestrichen.\nWie bei der gesamten Wiederherstellung des früheren Glanzes des Schlosses haben wir selbst in den kleinen Details auf historische Authentizität geachtet: der vorgefundene Bestand an historischer Dielung, Fenster und Türen, sowie Beschlägen wurde aufgearbeitet oder mit alten Baumaterial ergänzt - und so eine unverwechselbare Atmosphäre des Wohlbehagens geschaffen.\nNichtraucherhotel und Haustiere\nBitte beachten Sie, dass wir ein Nichtraucherhotel sind - im Interesse des Gebäudes und Ihrer Gesundheit! Haustiere dürfen leider nicht bei uns übernachten, da wir in unserem Haus auch Gästen mit Allergie einen unbeschwerten Aufenthalt anbieten wollen.\nAnreise und Abreise\nIhr Zimmer kann am Tag der Anreise ab 15:00 Uhr bezogen werden. Am Tag der Abreise steht Ihnen das Zimmer bis 10:00 Uhr zur Verfügung. Die Entspannung, die wir dadurch gewinnen, kommt Ihnen als Gast zugute.",
+   "captions": [
+    "Schloss Pülswerda logo"
+   ]
+  },
+  {
+   "url": "https://www.schloss-puelswerda.de/schlossgeschichte/geschichte-1",
+   "kind": "sub",
+   "label": "Schlossgeschichte",
+   "title": "Geschichte von Pülswerda und Torgau - Hotel Schloss Pülswerda",
+   "text": "Geschichte von Pülswerda und Torgau - Hotel Schloss Pülswerda\nZum Hauptinhalt springen\nDer Ort Pülswerda liegt etwa 12 km südöstlich von Torgau an der Elbe und gehört heute zur Gemeinde Arzberg. Der Ortsname wurde gebildet aus den beiden Wörten \"pul\" (vgl. Pfuhl und das engl. \"pool\") für sumpfige Stelle, Loch mit schlammigen Wasser, und \"werder\" für erhöhtes, wasserfreies Land inmitten von stehendem oder fließendem Gewässer. Der Ort befand sich ursprünglich auf der westlichen Seite des Flusses Elbe, ebenso wie die heute auf der östlichen Seite der Elbe liegenden Orte Zwethau, Axien und Klöden. Wohl im Zusammenhang mit dem katastrophalen Magdalenenhochwasser vom 21. Juli 1342 riss sich die Elbe ein Bett westlich des Ortes Pülswerda, wobei der alte Flusslauf östlich von Pülswerda lange Zeit als Altarm erhalten blieb und deshalb auch Pülswerda als eine Insel zwischen zwei Elbarmen auf alten Landkarten zu sehen ist. Im 'Jahrbuch des Vereins für Niederdeutsche Sprachforschung', Jahrgang 1978, heisst es allerdings 'Die Elbe hatte sich im 15. Jahrhundert ein neues Bett westlich von Pülswerda gerissen'. Vielleicht war der Ort aufgrund seiner besonderen Lage auch Burgward in einer Kette von Burgwarden, deren nächste im Norden Triestewitz (noch nicht gesichert) und Zwethau waren, im Süden Belgern und Dröschkau. Auf der westlichen Elbseite gab es nordwestlich Belgern einen Ort Paulswerda, der bereits früh wüst (nicht mehr besiedelt) war. Bei der Suche nach historischen Daten wird der Ort Paulswerda von manchen Heimatforschern oft für den Ort Pülswerda gehalten.\nAuf der durch die beiden Elbarme gebildeten Insel liegt auch nördlich der Ortslage Pülswerda auf Höhe der Ortslage Prausitz ein einzelner Hof, der 1749 (Georg Schreiber, Das Amt Torgau) Hegerreutherhaus genannt wird. Auf den Landkarten ab ca. 1800 ist an dieser Stelle allerdings keine entsprechende Einzeichnung mehr vorhanden und also wohl von einer Brache oder einer Überackerung auszugehen. Wohl in den 1930er Jahren werden aus dem Rittergutsbesitz im Rahmen der Osthilfe ca. 50 Hektar gegen Schuldenerlass ausgegliedert und mit einem 3-Seiten-Hof neu bebaut, der einem Bauern gegeben wird, der wegen des Baus des Flughafens in Dessau seinen Hof aufgeben musste.\nAuch in der Feldflur um Pülswerda wurde früher Wein angebaut! Einen Hinweis dazu findet man im \"Gnädigst privilegirtes Leipziger Intelligenz-Blatt, in Frag- und Anzeigen, für Stadt- und Land-Wirthe, zum Besten des Nahrungsstandes, No. 19, Mittwochs, den 4. May, 1803\" in der Anzeige mit der Nummer 9). Dort heisst es: \"In Triestewitz bey Torgau ist eine ansehnliche Quantität hieselbst erbauter Wein von verschiedenem Jahrwuchs, in grössern und kleinern Parthien, jedoch ohne Gefässe, um billige Preise zu verkaufen. Kauflustige können deswegen je eher je lieber auf dem Ritterguthe allda nähere Erkundigungen einziehen, wo sie, auf mündliche sowohl als auf schriftliche portofreye Anfragen, jederzeit genaue Auskunft, auch nach Befinden Proben erhalten können. Den 19. April 1803.\"",
+   "captions": [
+    "Schloss Pülswerda logo"
+   ]
+  },
+  {
+   "url": "https://www.schloss-puelswerda.de/schlossgeschichte/geschichte-2",
+   "kind": "sub",
+   "label": "Geschichte II",
+   "title": "Geschichte von Kloster und Nonnen in Nordsachsen - Hotel Schloss Pülswerda",
+   "text": "Geschichte von Kloster und Nonnen in Nordsachsen - Hotel Schloss Pülswerda\nZum Hauptinhalt springen\n1242 erwarb das älteste Zisterzienserkloster zwischen Elbe und Oder, das Kloster Dobrilugk (heute eingedeutscht zu \"Doberlug\"), das Gut Kranewitz (vgl. Urkundenbuch des Kloster Dobrilugk). Aufgrund des slawischen Ortsnamens \"Kranewitz\" ist von einem schon vor dem deutschen Landesausbau bestehenden Dorf auszugehen. Das Dorf wurde 1250 laut Manfred Wilde, Die Ritter- und Freigüter in Nordsachsen, Limburg, 1997, Seite 506 in ein Vorwerk umgewandelt.\n1251 bestätigt Heinrich der Erlauchte dem Zisterzienser-Nonnenkloster bei Grimma seinen Besitz (Cod. Dipl. Sax. Reg. II, 15, 251, Dresden). In dem Dokument werden der bei Pülswerda liegenden Ort Piestel (dieser wurde bereits 1220 urkundlich erwähnt) und der Ort Crenewitz (d.i. Kranewitz) genannt. In den Erläuterungen zur Abschrift (Quelle leider unbekannt, deshalb unter Vorbehalt) wird erwähnt, daß der Ort Crenewitz 1260 durch das Kloster Dobrilug in ein Vorwerk umgewandelt wurde und identisch sei mit Pülswerda. Laut Manfred Wilde, Die Ritter- und Freigüter in Nordsachsen, Limburg, 1997, Seite 506, kann diese Identität nicht bestätigt werden.\n1267 Ersterwähnung laut Manfred Wilde, Die Ritter- und Freigüter in Nordsachsen, Limburg, 1997, Seite 646 (ohne Quellenangabe, wahrscheinlich aus dem Urkundenbuch Dobrilugk, Urkunde vom 24. April 1267).\nIm Zeitraum 1300 bis 1350 vielleicht wohl durch ein Hochwasser der Elbe zerstört und dann wüst geblieben. Vgl. dazu die Ausführungen zu dem Ort Kranewitz bei Manfred Wilde, Die Ritter- und Freigüter in Nordsachsen, Limburg, 1997, Seite 506, und zur Nennung des Ortes Paulswerda südwestlich von Pülswerda als wüsten Ort.\nAm 21. Juli 1342 und in den darauffolgenden Tagen verwüstete das sogenannte Magdalenenhochwasser grosse Teile Mitteleuropas. Die Elbe hat in diesem Zusammenhang an vielen Stellen sich ein neues Bett gerissen, wodurch ganze Ortschaften weggespült wurden oder Ortschaften sich nun auf der rechten Elbeseite anstelle der linken Elbeseite befanden. Die Ernten wurden durch das Hochwasser vernichtet und es brachen Hungersnöte aus.\n1348 Erwähnung als Besitz des Zisterzienserklosters Marienstern in Mühlberg/Elbe (Mülverstedt, George Albert v., Diplomatarium Ileburgense, Magdeburg 1877).\n1368 Ersterwähnung als Pulczwerd laut Inge Bily, Ortsnamenbuch des Mittelelbegebietes. Der Ort war zu dieser Zeit, aber wohl bereits früher, im Besitz des Benediktinerinnenklosters \"Zum Heiligen Kreuz\" bei Meißen. Die Nonnen des Klosters \"Zum Heiligen Kreuz\" bei Meißen verlieren 1541 durch die Säkularisation das Vorwerk Pülswerda. Das nun kurfürstliche Vorwerk wird vom Landesherrn zuerst an Balthasar von Radestock zu Pauditz (Poditz) und dann an Sebastian Pflugk verpachtet.",
+   "captions": [
+    "Schloss Pülswerda logo"
+   ]
+  },
+  {
+   "url": "https://www.schloss-puelswerda.de/schlossgeschichte/geschichte-3",
+   "kind": "sub",
+   "label": "Geschichte III",
+   "title": "Geschichte Rittergut Pülswerda - Hotel Schloss Pülswerda",
+   "text": "Geschichte Rittergut Pülswerda - Hotel Schloss Pülswerda\nZum Hauptinhalt springen\n1570 vertauscht Friedrich von Seydewitz (Meißnischer Uradel, vgl. den Ort Seydewitz an der Elbe in der Nähe von Strehla), Herr auf Schwetitz, Borschütz und Packisch seine drei Güter mit dem Landesherrn und wird Besitzer des Rittergutes Pülswerda. Danach ist Pülswerda für über 300 Jahre im Besitz der Familie. In der Folge wird wohl ein Renaissanceschloss erbaut, von dem sich nur noch Bauteile im jetzigen Keller des Schlosses erhalten haben.\n1767 erbaute Curt Gottlob Graf von Seydewitz (geboren am 13.Mai 1735, vermählt am 30. November 1765 mit Dorothea Charlotte Henriette von Nischwitz, gestorben am 11. Dezember 1809 zu Großenhain) das Schloß zu Pülswerda in barocken Formen, wovon im aktuellen Baukörper nur noch das barocke Eingangsportal erhalten ist. Curt Gottlob Graf von Seydewitz besaß neben Pülswerda noch Kreinitz, Lorenzkirchen, Lobenthal und Fichtenberg (alle Orte in der Nähe von Mühlberg / Elbe).\nAm 30.10.1785 wurde Hermann Ludwig Heinrich Graf von Pückler-Muskau auf Schloss Muskau geboren. In den Erinnerungen der Therese Charlotte von Seydewitz heisst es zu dem Umgang der jungen Mutter mit ihrem Sohn: \"Sie war überglücklich und voller Übermut warf sie ihren Erstgeborenen in die Luft und fing ihn wieder auf. Später sagte ihr Sohn dann: es ist ein Wunder, dass meine Mutter mir nicht sämtliche Knochen zerbrochen hat, weil sie in meinen ersten Lebenstagen mit mir Fangeball gespielt hat.\"\n1799 heiratet Reichsgraf Curt Friedrich August von Seydewitz die Gräfin Clementine Cunigunde Charlotte Louise Olga, geschiedene Gräfin von Pückler-Muskau, geborene von Callenberg, deren Mutter Marie Henriette Olympie comtesse von Callenberg aus einem in Allex an der Drôme ansässigen Zweig des französischen Geschlechts der de la Tour-du-Pin stammt. Damit beginnt die Beziehung des Schlosses Pülswerda zu Hermann von Pückler-Muskau, dem Sohn Clementines aus erster Ehe.\n1813 wird das Rittergut Pülswerda vom Korps des General Lauriston 3 Tage lang geplündert. Diese Plünderung muss wohl nach dem 14.10.1813 gewesen sein, da an diesem Tag das bisher mit Frankreich verbündete Bayern diesem den Krieg erklärte. General Curt Friedrich August Graf von Seydewitz war im Dienst des bayerischen Königs. Bayern wiederum war in dem ab 1812 ausgebrochenen Krieg zwischen Frankreich (Kaiser Napoleon) und Rußland auf der Seite Frankreichs, wie auch Sachsen auf der Seite Napoleons kämpfte. Vom 16. bis 19.10.1813 fand die Völkerschlacht bei Leipzig statt, bei der die Truppen Österreichs, Rußlands, Preußens und der Schweden Napoleon schlagen. General Lauriston fiel bei der Völkerschlacht den Preußen in die Hände und wurde nach Berlin gebracht.",
+   "captions": [
+    "Schloss Pülswerda logo"
+   ]
+  },
+  {
+   "url": "https://www.schloss-puelswerda.de/schlossgeschichte/geschichte-4",
+   "kind": "sub",
+   "label": "Geschichte IV",
+   "title": "Geschichte Schloss Pülswerda an der Elbe - Hotel Schloss Pülswerda",
+   "text": "Geschichte Schloss Pülswerda an der Elbe - Hotel Schloss Pülswerda\nZum Hauptinhalt springen\nAm 18.10.1821 heiratet in Pülswerda Curt Maximilian Clemens von Seydewitz (geboren 28.01.1800 in München und Stiefbruder von Fürst Hermann Pückler-Muskau) die Reichsgräfin Josephine von Zedtwitz aus dem bei Eger in Böhmen ansässigen Hause Liebenstein. Beide hatten sich in München kennengelernt. Zu dieser Zeit muss schon das sogenannte \"alte Schloss\" in der Form eines spätklassizistischen Gebäudes mit neogotischen Ecktürmchen bestanden haben, denn sonst hätte wohl die Hochzeit in München stattgefunden.\nIn der Zeit um 1830 muss an das sogenannte \"alte Schloss\" der sogenannte \"Comtessenflügel\" oder das sogenannte \"neue Schloss\" angebaut worden sein, wobei ältere Keller aus der Zeit der Renaissance und das Barockportal mit der Jahreszahl 1767 eines Vorgängerbaus übernommen werden. Der Anbau war notwendig, weil die Kinderanzahl immer grösser wurde (Quelle: Erinnerungen der Therese Charlotte von Seydewitz, geboren 01.10.1829, verheiratet mit Leopold von Borch, Herr auf Gröben, deren Tochter Anna, geboren 1850, Ernst Arthur Lutze, geboren 1850, heiratete, welcher wiederum zur goldenen Hochzeit der von Seydewitz am 18.10.1871 ein Gedicht verfasste, von dem eine Strophe über der Kapellentüre eingemeisselt ist).\n1841 und 1842 ist Fürst Hermann von Pückler-Muskau \"gärtnerisch\" im Park von Schloß Pülswerda tätig. Die für ihn typische Baumauswahl ist auch jetzt noch zu erkennen. An den Park erinnert sich Therese Charlotte von Seydewitz: \"Schloss Pülswerda war ein grosses einfaches Gebäude mit einer Rampe davor und mit einem schönen, grossen Park. Flieder und Linden dufteten dort im Frühling und die Nachtigallen schlugen.\" Die Parkgestaltung wird getreu der Fürst-Pücklerschen Forderung, dass ein Park ins freie Feld hinein \"auszuklingen\" habe, wohl auch ausserhalb des eigentlichen Schlossparks ausgeführt: ein Teil des Weges nach Graditz erhält eine wunderschöne Allee, zur Elbe in Richtung Kathewitz ist ein Weg als ein Hainbuchenlaubengang gewachsen, markante Solitärbäume wie Stieleiche, eine Platane und Sumpfeichen sind Teil der Elbauenlandschaft und Landmarken an Feldwegen, teilweise nicht mehr vorhandene Obstbaumalleen und im Ort Pülswerda die nicht mehr vorhandene Gestaltung von Wegen mit Hecken. Es kann auch eine Verknüpfung mit den in nächster Nähe befindlichen Parkanlagen von Graditz und Triestewitz vorhanden gewesen sein.\n1849 wurde in der Kirche in Arzberg (vor dem Neubau im Jahre 1905 war diese Kirche eine im Kern romanische Kirche mit typischer Apsis) der Altar und die Kanzel erneuert und umgebaut. Bei diesen Tätigkeiten wurden die um den Altar herumliegenden Grabplatten aufgehoben und später als Trittstufen zu den Emporen an der Aussenwand der Kirche eingebaut (Quelle: Chronik der Kirchengemeinde Arzberg, Herr Pfarrer Hugo Kersten, verfasst ab dem Jahre 1899). Diese Grabplatten waren Grabplatten der von Seydewitz aus Pülswerda. Der Sachverhalt ist in mehreren Aspekten merkwürdig: zu dieser Zeit (1849) war Curt Maximilian Clemens Graf von Seydewitz Herr auf Pülswerda und es erstaunt, dass dieser Umgang mit den Vorfahren zugelassen wurde, und gleichzeitig ist es unerklärlich, dass Gräber der von Seydewitz sich in der Kirche Arzberg befinden, obwohl Pülswerda immer auf die andere Seite der Elbe, nämlich nach Weßnig eingepfarrt war.\nAm 08.03.1850 stirbt auf Pülswerda die Gräfin Clementine Cunigunde Charlotte Olympia Louise von Seydewitz (seit 1816 Witwe), Mutter von Fürst Pückler-Muskau. Sie wird in Pülswerda begraben.\nAm 04.02.1871 stirbt Fürst Hermann Pückler-Muskau. Alleinerbin des Vermögens ist Maria Hermine von Pachelbl-Gehag, Tochter des Graf Maximilian Curt Clemens von Seydewitz. Diese Tochter heiratete am 01.10.1851 Karl von Pachelbl-Gehag. Ein Brustbild von Maria Hermine war noch im Jahr 2013 im Besitz von Margaret von Jorck, wohl ein Erinnerungsstück von Maria Hermine an die Zeit in Pülswerda, so wie es im Besitz der Familie Rüdiger von Pachelbl im Jahr 2003 noch einen roten Glashumpen mit einem eingravierten Bild des Schloss Pülswerda gab.",
+   "captions": [
+    "Schloss Pülswerda logo"
+   ]
+  },
+  {
+   "url": "https://www.schloss-puelswerda.de/schlossgeschichte/geschichte-5",
+   "kind": "sub",
+   "label": "Geschichte V",
+   "title": "Kulturlandschaft Fürst-Pückler-Park - Hotel Schloss Pülswerda",
+   "text": "Kulturlandschaft Fürst-Pückler-Park - Hotel Schloss Pülswerda\nZum Hauptinhalt springen\nAm 21.08.1871 stirbt Frau Maria Hermine von Pachelbl-Gehag, geboren am 22.07.1831, im Alter von 40 Jahren. Sie wird im Erbbegräbnis in Pülswerda begraben. Die Verstorbene hinterlässt ihren Gatten und zwei Söhne und eine Tochter. Der Wohnort war zuletzt Potsdam. Es ist möglich, daß die Nachfahren noch Unterlagen zu dem Park in Pülswerda haben. Allerdings ist auch Frau Ludmilla Assing als Erbin des Pücklerschen Nachlasses bekannt. Aus diesem Nachlass stellte sie die neun Auswahlbände „Briefwechsel und Tagebücher\" (1873-76) zusammen und verwendete ihn für ihre 1873/74 erschienene, zweibändige Fürst-Pückler-Biographie.\nAm 18.10.1872 wird die Kapelle ‚im Garten belegen’ durch den Generalsuperintendenten Schulze aus Magdeburg und Herrn Superintendenten Felgenträger aus Belgern geweiht. Der Tag wird deshalb gewählt, weil sich am 18.10.1821 Graf Maximilian Curt Clemens von Seydewitz, Stiefbruder des Fürst Hermann von Pückler-Muskau, Landrat des Kreises Torgau, Königlich Bayerischer Kammerherr, Königlich Preußischer Geheimer Regierungsrat, geboren 1800 in München, mit der Reichsgräfin Josephine von Zedtwitz aus dem Hause Liebenstein vermählt hatte. Zur goldenen Hochzeit im Jahre 1871 wurde ein Gedicht verfasst, von dem ein Teil in das Bogenfeld über dem Eingangsportal gemeißelt wurde. Ob vor dem Bau der Kapelle bereits ein anderes Gebäude vorhanden war (vgl. dazu vor allem das Begräbnis der Mutter von Fürst Pückler-Muskau in Pülswerda im Jahre 1850), ist bisher ungeklärt. In dem Zeitungsartikel des ‚Torgauer Kreisblatt’ vom 22.10.1872 heißt es, daß das Gotteshaus von Herrn Graf von Seydewitz ‚in treuer Pietät gegen die dahingeschiedenen Lieben über dem Erbbegräbnis seines Hauses’ aufgeführt wurde. Wahrscheinlich ist die Kapelle ursprünglich in einer gestalteten Gartenlandschaft gelegen und nicht eingefriedet.\nAm 13.12.1872 stirbt Graf Maximilian Curt Clemens von Seydewitz und wird in Pülswerda begraben.\n1879 ist – vielleicht auch schon seit dem Tode des Maximilian Curt Clemens von Seydewitz im Jahre 1872 Herr Odo Heinrich Ulrich von Platen Rittergutsverwalter auf Pülswerda.\n1884 geht Pülswerda in den Besitz der Familie Bake über, die unter anderem Pächter des Rittergutes Thallwitz auf der westlichen Seite der Elbe sind. Ab diesem Jahr bis etwa 1905 wird das Schloß innen komplett umgebaut und erhält auf der Parkseite einen Balkon und den weithin sichtbaren, ebenfalls mit Zinnen gekrönten, Mittelturm.\nAb dem 01.04.1892 sind die evangelischen Bewohner des Ritterguts Pülswerda nach Triestewitz eingepfarrt.\n1907 scheint der Friedhof um die Kapelle durch eine Mauer eingefriedet worden zu sein.\n1945 wird in der sowjetischen Besatzungszone das Verbrechen der sogenannten Bodenreform durchgeführt. Schon ein paar Jahre später werden von den Kommunisten auch die Bauern verfolgt, denen ursprünglich das von den Gutsbesitzern gestohlene Land zugeteilt worden war. Zusätzlich wird Kulturgut, seien es Schlösser, Bibliotheken und Kunst, vernichtet oder gezielt der Verwahrlosung überlassen. Die materiellen und mentalen Schäden, die diese bis zum Jahr 1990 dauernde Zeit angerichtet hat, werden noch einige Menschengenerationen nachwirken.\nSeit 2000 wird ein Archiv zu Schloss und Ort Pülswerda und dem Fürst-Pückler-Park, sowie der angrenzenden Landschaftsgestaltung aufgebaut. Bitte unterstützen Sie uns dabei und in unserem Kampf um die Erhaltung einer einmaligen Kulturlandschaft!",
+   "captions": [
+    "Schloss Pülswerda logo"
+   ]
+  },
+  {
+   "url": "https://www.schloss-puelswerda.de/schlosshotel/unsere-preise",
+   "kind": "sub",
+   "label": "Unsere Preise",
+   "title": "Zimmerpreise mit Frühstück für Übernachtung - Hotel Schloss Pülswerda",
+   "text": "Zimmerpreise mit Frühstück für Übernachtung - Hotel Schloss Pülswerda\nZum Hauptinhalt springen\nZimmer mit Frühstück\nPreis pro Nacht\nDoppelzimmer\n140,00 EUR\nEinzelzimmer\n110,00 EUR\nAb 6 Übernachtungen bieten wir Ihnen ab der ersten Übernachtung Sonderpreise an:\nZimmer mit Frühstück\nPreis pro Nacht\nDoppelzimmer\n130,00 EUR\nEinzelzimmer\n100,00 EUR\nSie können jederzeit vor Reisebeginn von der Buchung zurücktreten. Bei Stornierung im Zeitraum weniger als 4 Tage vor der vereinbarten Ankunft berechnen wir 80% des Gesamtpreises und bei Stornierung am Tag der vereinbarten Ankunft oder Nichtantritt 100% des Gesamtpreises.\nBitte beachten Sie, dass wir ein Nichtraucherhotel sind - im Interesse des Gebäudes und Ihrer Gesundheit! Haustiere dürfen leider nicht bei uns übernachten, da wir in unserem Haus auch Gästen mit Allergie einen unbeschwerten Aufenthalt anbieten wollen.\nIhr Zimmer kann am Tag der Anreise ab 15:00 Uhr bezogen werden. Am Tag der Abreise steht Ihnen das Zimmer bis 10:00 Uhr zur Verfügung. Die Entspannung, die wir dadurch gewinnen, kommt Ihnen als Gast zugute.",
+   "captions": [
+    "Schloss Pülswerda logo",
+    "Unsere Preise"
+   ]
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "reviewerQuestion": "Ön eleme: Kanıt yetersiz: sitede kapanış ya da uzun ara notu var; tesisin şu an açık olduğu net değil.",
+ "finalUrl": "https://www.schloss-puelswerda.de/",
+ "httpStatus": 200,
+ "htmlLang": "de"
+}

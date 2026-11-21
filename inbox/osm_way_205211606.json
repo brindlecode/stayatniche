@@ -1,0 +1,36 @@
+{
+ "id": "osm:way/205211606",
+ "name": "Castillo de Alarcón",
+ "queueStatus": "classified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 39.5465449,
+ "lng": -2.0831165,
+ "country": "Spain",
+ "city": "Alarcón",
+ "region": "Castile-La Mancha",
+ "osm": {
+  "tourism": "hotel",
+  "historic": "castle"
+ },
+ "wikidata": "Q1049114",
+ "wikidataDescription": "castle and current hotel in Alarcón, Castile-La Mancha, Spain",
+ "website": null,
+ "websiteSource": "map",
+ "fetchedAt": "2026-11-15T07:58:32.208Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "en",
+  "title": "Castle of Alarcón",
+  "url": "https://en.wikipedia.org/wiki/Castle_of_Alarc%C3%B3n",
+  "extract": "The Castle of Alarcón forms part of the fortifications built around the town of Alarcón in Cuenca, Spain. The fortress is composed of a walled enclosure, which houses the heart of the population and the castle proper, and of five exterior towers, separate and strategically placed.",
+  "text": "The Castle of Alarcón forms part of the fortifications built around the town of Alarcón in Cuenca, Spain. The fortress is composed of a walled enclosure, which houses the heart of the population and the castle proper, and of five exterior towers, separate and strategically placed.\nHistory\nOf Arab origin, the fortress was first under the jurisdiction of the Emirate of Córdoba. Following the collapse of the emirate's successor state, the Caliphate of Córdoba, and the formation of the taifa kingdoms, the town submitted to the Taifa of Toledo. During its time under Muslim power, the castle served as a defensive stronghold in the midst of internal conflicts. In 1184, Fernán Martínez de Ceballos, military captain under Alfonso VIII of Castile, besieged the fortress for nine months before finally capturing it in the name of his king. He was rewarded with the privilege of taking the name of the town as his surname, which he did, calling himself Martínez de Alarcón and thus establishing a new lineage.\nFrom then on, the Castle of Alarcón received much attention from the successive kings of Castile, who expanded and reinforced it while providing it with its own charter (fuero) and granting it lordship over extensive neighboring territories. Spanish historian Andrés Marcos Burriel writes that its domain comprised 63 villages, including Albacete, La Roda, Villarrobledo, Castillo de Garcimuñoz, Belmonte and many others. All of this was placed under the protection of the Military Order of Santiago by Alfonso VIII. In 1212, the town council of Alarcón sent troops to support the king's army in the decisive Battle of Las Navas de Tolosa.\nAt the start of the 14th century, Ferdinand IV of Castile gave lordship of Alarcón and its castle to Juan Manuel, Prince of Villena. Only a provisional measure in 1297, the appointment was confirmed on 23 March 1305. It was at Alarcón that the prince wrote some of his literary works. After his death, the lordship passed to his son Fernando Manuel de Villena and then to his granddaughter Blanca. It was later recovered by King Peter of Castile and returned to the royal heritage. Henry II of Castile then gave it to Alfonso I of Aragon, whom he named Marquis of Villena in 1372, but Henry III took it back for the Crown in 1395. Finally, in the 15th century, Alarcón was given to Juan Pacheco, Marquis of Villena, on 23 May 1446. Juan and his son Diego López Pacheco sided with Joanna of Castile, a claimant to the throne, against Queen Isabella and her husband King Ferdinand. During this dispute, the marquises managed to hold the castles of Belmonte, Garcimuñoz, and Alarcón as well as the marquisate of Villena.\nFollowing the Middle Ages, the Castle of Alarcón was abandoned and suffered deterioration. In 1712 it belonged to the Marquis of Aguilar, who received a report from master builders insisting on urgent repairs to prevent collapse.\nIn 1720, the castle was governed by Alejandro de Alarcón and Duchess Julia de Alarcón, who harbored many refugees during times of conflict in the country, turning them into heroes of the region.\nJosé María Fernández de Velasco, 15th Duke of Frías, sold the castle and “four or five little towers more” to Rafael Lázaro Álvarez de Torrijos for 20,000 reales on 5 June 1863.\nIn 1963, the Minister for Information and Tourism, Manuel Fraga Iribarne, expropriated it from the family of Álvarez Torrijos Torres, native of La Almarcha but with paternal ancestors from Gascas. The castle was then revitalized as a parador hotel and opened to the public on 25 March 1966.\nLegends\nThe legend of the Castle of Alarcón tells the story of how the stone blocks in the encircling wall were stained with blood, represented today by curious black and reddish spots on the mortar.\nLong ago, there lived in the castle the lord of all the region. He had a very beautiful sister of marriageable age and desired by many suitors. Among these was the son of a lord from neighboring lands. This young man was notorious for his evil ways, and thus, when he came to ask for the maiden's hand in marriage, he was thrown out straightaway.\nSome time later, the lord of the castle learned that the rejected suitor, deeply resentful, had made plans to murder him and kidnap his sister. And so, when one day a stranger arrived asking to meet with the lord in private, he suspected that the man had been sent as an assassin and took great care in preparing the meeting.\nIn the end, his suspicions were confirmed, and at the very moment when the stranger was about to leap upon him, his servants restrained and killed the assassin. Then, as some construction was being done in the castle, they mixed the corpse in with the mortar that had been prepared for the work.\nSee also\nList of Bienes de Interés Cultural in the Province of Cuenca\nNotes\nReferences\nSalas Parrilla, Miguel. Alarcón, Belmonte y Garcimuñoz. Tres castillos del señorío de Villena en la provincia de Cuenca. Madrid: author, 1997.\nAtienza, Juan G. Leyendas históricas de España y América. EDAF, 1999."
+ },
+ "notes": [
+  "no website known"
+ ],
+ "reviewerQuestion": "Ön eleme: Kanıt yetersiz: otelin kendi sitesi okunamadı, elde yalnızca Wikipedia/harita bilgisi var."
+}

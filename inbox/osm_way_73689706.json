@@ -1,0 +1,38 @@
+{
+ "id": "osm:way/73689706",
+ "name": "Astley Castle",
+ "queueStatus": "drafted",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 52.502349,
+ "lng": -1.542348,
+ "country": "United Kingdom",
+ "city": "Nuneaton",
+ "region": "England",
+ "osm": {
+  "tourism": "apartment",
+  "historic": "castle"
+ },
+ "wikidata": "Q4810907",
+ "wikidataDescription": "ruinous moated fortified 16th century manor house in North Warwickshire, England, UK",
+ "website": "https://landmarktrust.org.uk/Properties-list/astley-castle/holiday",
+ "websiteSource": "search",
+ "fetchedAt": "2026-11-17T11:37:52.106Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "en",
+  "title": "Astley Castle",
+  "url": "https://en.wikipedia.org/wiki/Astley_Castle",
+  "extract": "Astley Castle  is a ruinous moated fortified 16th century manor house in North Warwickshire, England. It has been a Grade II* listed building since 1952 and a Scheduled Ancient Monument since 1994. It was derelict and neglected since it was severely damaged by fire in 1978 whilst in use as a hotel and was officially a Building at Risk. The building reopened as a holiday let in 2012 after extensive and novel renovations that combine modern elements within the (mostly) renaissance remains. In 2013, Astley Castle won the Royal Institute of British Architects Stirling Prize for architecture, as an \"exceptional example\" of the blending of an ancient monument with modern architecture.",
+  "text": "Astley Castle  is a ruinous moated fortified 16th century manor house in North Warwickshire, England. It has been a Grade II* listed building since 1952 and a Scheduled Ancient Monument since 1994. It was derelict and neglected since it was severely damaged by fire in 1978 whilst in use as a hotel and was officially a Building at Risk. The building reopened as a holiday let in 2012 after extensive and novel renovations that combine modern elements within the (mostly) renaissance remains. In 2013, Astley Castle won the Royal Institute of British Architects Stirling Prize for architecture, as an \"exceptional example\" of the blending of an ancient monument with modern architecture.\nEarly history\nThe Astley family held the manor from the 12th century. It is not thought likely that there was ever a true 'castle' at Astley. Although a licence to crenellate the manor house there was granted in 1266, the property was only ever a fortified house.\nSir William Astley died in 1420 leaving his estate to his daughter who had married, in 1415, Reginald Grey, 3rd Baron Grey de Ruthyn from a dynasty of marcher lords who controlled the borderlands between England and Wales.\nThe Greys rebuilt the manor house in 1555 and most of the remains date from this time or later. The rectangular building rose to two storeys with attics above hidden by embattled parapets.\nThree Queens\nDuring the period of Grey ownership in the 15th and 16th centuries the manor was at the centre of national events. Sir John Grey married Elizabeth Woodville who after his death in 1461 went on to become Queen of Edward IV.\nHer daughter Elizabeth of York became Queen in 1486 upon her marriage to Henry VII. Frances Brandon, granddaughter of Elizabeth of York married Henry Grey, Duke of Suffolk and their daughter Lady Jane Grey was proclaimed Queen in 1553. She, her husband and father were executed in 1554. The family were disgraced. Astley Castle was slighted and forfeited and sold by the Crown to Edward Chamberlain who restored and carried out many alterations to the fabric.\nEnglish Civil War\nAstley Castle was a Parliamentary stronghold during the English Civil War, one of a network of small, troublesome garrisons (to the Royalists) that infested this part of the English Midlands, drawing upon surrounding villages for their support. According to one of the garrison muster lists submitted to the committee of accounts at Warwick, Captain Hunt and Lieutenant Goodere Hunt commanded about thirty-five soldiers here in July 1644. Ann Hughes, links Astley to the \"rebel towns\" described by royalist propaganda broadsheets as governed by low-born tinkers, cobblers and pedlars, pointing out that Hunt was \"an illiterate shoemaker\" before the war, prosecuted in 1647 for 'requisitioning' a gentleman's horse. The small but active Astley garrison compares with Tinker Fox's celebrated band of 7 officers and 42 troopers at Edgbaston Hall, George Kendall's 6 officers and 21 soldiers at Maxstoke Castle and Waldyve Willington's garrison of around 130 soldiers at Tamworth Castle (including 'the town company') in accounts from July 1645 (SP 28/123/part 2).\nThe size of the Warwickshire garrisons varied, troops being often shifted at short notice and sent out when they were needed for scouting parties, to collect levies and to carry out raids and sieges on royalist garrisons. The muster at Astley on 9 July 1645 which lists 79 officers and 462 \"horse troops\" under the command of Major Hawkswell, was an unusually large gathering, with the town's population swollen by the sudden arrival of troops from surrounding garrisons, including Edgbaston and Tamworth. Most of these horse troops were probably quartered in the village, with some of the officers and Goodere Hunt's foot soldiers occupying the castle (SP 28/122/part 2).\nNewdigate\nIn 1674 the castle was sold to the Newdigate family of Arbury Hall and became their secondary home. It was the home of Lieut-Gen. Edward Newdigate Newdegate until his death in 1902.\nDecline and restoration\nThe property was leased out during the 20th century and in the early 1960s became a hotel. It was largely destroyed by fire in 1978, and thereafter the ruins stood neglected and deteriorating. Much effort to find a use for the shell that would justify the substantial cost of renovation came to nothing. In the early 2000s the owners together with English Heritage, the local authority and the Landmark Trust planned for restorations that were finished in 2012. They sought to create a \"Landmark for the 21st Century\" that introduced modern accommodations while maintaining the ruins. The renovations were carried out by Witherford Watson Mann Architects and consulting engineers Mann Williams and Price & Myers. The restoration won the 2013 RIBA Stirling Prize. \nNotes\nCitations\nReferences\nExternal links\nLandmark Trust site\nHistoric England. \"ASTLEY CASTLE (Grade II*) (1365144)\". National Heritage List for England.\nHistoric England. \"STABLE BLOCK AT ASTLEY CASTLE (Grade II*) (1034777)\". National Heritage List for England.\nHistoric England. \"BRIDGE AND REMAINS OF GATEHOUSE AND CURTAIN WALLS AT ASTLEY CASTLE (Grade II) (1184837)\". National Heritage List for England.\nCase study: Astley Castle, Astley, Warwickshire, West Midlands\nThe Nuneaton Local History Group"
+ },
+ "notes": [
+  "website fetch failed: 403"
+ ],
+ "reviewerQuestion": null,
+ "finalUrl": "https://landmarktrust.org.uk/Properties-list/astley-castle/holiday",
+ "httpStatus": 403
+}

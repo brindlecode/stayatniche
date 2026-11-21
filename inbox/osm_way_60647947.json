@@ -1,0 +1,44 @@
+{
+ "id": "osm:way/60647947",
+ "name": "Myres Castle",
+ "queueStatus": "blocked",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 56.2852448,
+ "lng": -3.2264628,
+ "country": "GB",
+ "city": null,
+ "region": null,
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": "Q3643160",
+ "wikidataDescription": "castle in Fife, Scotland, UK",
+ "website": "https://www.myrescastle.co.uk/",
+ "websiteSource": "search",
+ "fetchedAt": "2026-11-14T21:32:38.509Z",
+ "pages": [
+  {
+   "url": "https://www.myrescastle.co.uk/cgi-sys/suspendedpage.cgi",
+   "kind": "home",
+   "title": "",
+   "description": "",
+   "text": "This account has been suspended!\nIf you are the owner of this website, please contact mtc. on 0344 804 2021 ,\nor through our client portal ."
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "en",
+  "title": "Myres Castle",
+  "url": "https://en.wikipedia.org/wiki/Myres_Castle",
+  "extract": "Myres Castle is a Scottish castle situated in Fife near the village of Auchtermuchty. Its history is interleaved with that of nearby Falkland Palace with present-day castle construction dating to 1530. The castle and magnificent Scottish garden are now operated as a private conference centre with lodging.",
+  "text": "Myres Castle is a Scottish castle situated in Fife near the village of Auchtermuchty. Its history is interleaved with that of nearby Falkland Palace with present-day castle construction dating to 1530. The castle and magnificent Scottish garden are now operated as a private conference centre with lodging.\nName derivation and early history\nIts history is intertwined with the nearby Falkland Palace, since Myres was the hereditary home of the Macers, or Sergeants of Arms, of Falkland. The word \"myres\" is associated with a boggy place; in fact, Myres Castle is located within fields and policies with marginal drainage. Further drainage improvements to the fields were made as late as the 1970s. There exists an attractive pond in front of the Castle, which also serves to collect runoff. The lands of the present Myres estate originally were part of the extensive properties of the Earl of Fife, the Myres portion being conveyed by marriage to Robert, Duke of Albany. In the year 1425, Murdoch, the son of Robert, forfeited the holding to the crown. From that time until the 16th century, the tenant farmers' rents were recorded in the rolls of the Royal Exchequer, indicating continued ownership by the king. The first recorded tenant of the south quarter of Auchtermuchty, known as \"the myres\", was Robert Coxwell who resided at the Scottish Royal Court.\nArchitectural history from 1530\nThe castle itself originated circa 1530 as a Z-plan fortress, perhaps designed by its owner John Scrimgeour, and has an ochre harled exterior with some exposed grey ashlar stonework on its square tower added in 1616. The tower is adorned with garland stonework, heraldic relief with carved initials and a parapet. The basement course appears to be an older, possibly 14th-century piece, due to its Romanesque barrel-vaulted construction, and clear architecture of a medieval kitchen. Further modifications took place in the 17th and 18th centuries. For example, the north wing was added c. 1700, and the west wing c. 1822.\nIn 1872 the building was repaired and slightly remodelled. Scots Baronial touches were added by James Campbell Walker.\nAt the property entrance there is a detached Victorian stone gatehouse, described in 2022 as containing a \"bedroom, bathroom, kitchen, sitting room\". Another building was a Courtyard Cottage with \"3 bedrooms, sitting room, kitchen, shower room, WC\". The grounds included a Vatican walled garden, a vegetable garden, greenhouse, maze, pond, tennis court and helicopter pad.\n20th century events\nMyres is set amongst 44 acres (18 ha) of gardens, farmlands and policies. The Fairlie family has been associated with Myres for some time. There are Fairlie memorabilia at Myres including shooting diaries as far back as 1903. A recording is noted in the year 1915 that James Ogilvy Reginald Fairlie, Chamberlain to His Majesty, resident of Myres was killed in action in World War I. His brother was the distinguished Scot architect Reginald Fairlie. \nDavid Fairlie owned the castle in the 1960s and completed some alterations. It was sold in 1999 and the new owner completed \"a major refurbishment project ... adding 10 bathrooms, complete rewiring, plumbing and heating system\".\nIn August 2022, the property was listed for sale. At the time, it was being used as a private home and as a venue that could be rented.   \nBibliography\nNigel Tranter, History of the Fortified House in Scotland, Five Volumes (1962-1971)\nThe Catholic Who's Who and Yearbook 1916, and Burns and Oates\nReferences"
+ },
+ "notes": [],
+ "reviewerQuestion": null,
+ "finalUrl": "https://www.myrescastle.co.uk/cgi-sys/suspendedpage.cgi",
+ "httpStatus": 200,
+ "htmlLang": null
+}
