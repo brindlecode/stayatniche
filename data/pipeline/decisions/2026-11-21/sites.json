@@ -1,0 +1,22 @@
+[
+  { "id": "osm:way/1316034037", "url": null, "title": null, "why": "Only booking and listing sites in the results." },
+  { "id": "osm:way/188282994", "url": null, "title": null, "why": "Only booking and listing sites in the results." },
+  { "id": "osm:way/234317267", "url": null, "title": null, "why": "Only booking, pub and listing sites in the results." },
+  { "id": "osm:way/367397308", "url": null, "title": null, "why": "Estate site drumtochtycastle.com found, but no page for The Turret itself." },
+  { "id": "osm:way/373812918", "url": null, "title": null, "why": "Only a Caravan Club listing and a different campsite in the results." },
+  { "id": "osm:way/383042882", "url": "https://www.campingandcaravanningclub.co.uk/campsites/uk/ayrshire/maybole/culzean-castle-camping-and-caravanning-club-site", "title": "Culzean Castle - Camping and Caravanning Club Site", "why": "Page on the Camping and Caravanning Club site, which runs this campsite." },
+  { "id": "osm:way/391470305", "url": "https://ruthincastle.co.uk/", "title": "Ruthin Castle Hotel", "why": "Hotel's own domain, named after the property, in Ruthin." },
+  { "id": "osm:way/397231937", "url": null, "title": null, "why": "Site domain only appeared inside a tourism URL path, not as a result page." },
+  { "id": "osm:way/420403254", "url": "https://rowtoncastle.com/castle/", "title": "rowtoncastle.com", "why": "Venue's own domain named after Rowton Castle, in Shropshire." },
+  { "id": "osm:way/455097142", "url": "https://hotels.jdwetherspoon.com/hotels/the-mile-castle-newcastle-upon-tyne", "title": "the mile castle newcastle upon tyne", "why": "Hotel page on the operator's (JD Wetherspoon) hotel site for this Newcastle property." },
+  { "id": "osm:way/492124984", "url": null, "title": null, "why": "Only tourism and booking listings in the results." },
+  { "id": "osm:way/510707138", "url": null, "title": null, "why": "Only booking and directory listings in the results." },
+  { "id": "osm:way/591397267", "url": null, "title": null, "why": "Only booking and listing sites in the results." },
+  { "id": "osm:way/707081136", "url": null, "title": null, "why": "Only Visit Lincolnshire tourism and booking listings in the results." },
+  { "id": "osm:way/78167390", "url": null, "title": null, "why": "Hotel appears closed; the only domain found belongs to a different-named successor not confirmed as the same business." },
+  { "id": "osm:way/949490862", "url": null, "title": null, "why": "Only VisitScotland and booking listings in the results." },
+  { "id": "osm:way/963240677", "url": null, "title": null, "why": "Only holiday cottage booking listings in the results." },
+  { "id": "osm:way/967247960", "url": null, "title": null, "why": "Domain castlecottageinnharlech.com only appeared in a directory listing, not as a result page." },
+  { "id": "osm:way/973458154", "url": null, "title": null, "why": "Domain castlelodgewales.co.uk only appeared in a directory listing, not as a result page." },
+  { "id": "osm:way/99000671", "url": null, "title": null, "why": "Domain castlehotel.uk.com only appeared in directory listings, not as a result page." }
+]

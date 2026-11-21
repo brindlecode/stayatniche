@@ -191334,7 +191334,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-5lqcc3qbj"
+  "pid": "sn-5lqcc3qbj",
+  "siteSearchAt": "2026-11-21",
+  "siteSearch": "none"
  },
  "osm:way/131724335": {
   "id": "osm:way/131724335",
@@ -210854,7 +210856,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-pn7mht8e9"
+  "pid": "sn-pn7mht8e9",
+  "siteSearchAt": "2026-11-21",
+  "siteSearch": "none"
  },
  "osm:way/188298094": {
   "id": "osm:way/188298094",
@@ -218883,7 +218887,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-e8dbfaujp"
+  "pid": "sn-e8dbfaujp",
+  "siteSearchAt": "2026-11-21",
+  "siteSearch": "none"
  },
  "osm:way/234719441": {
   "id": "osm:way/234719441",
@@ -239745,7 +239751,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-2byeuhc5d"
+  "pid": "sn-2byeuhc5d",
+  "siteSearchAt": "2026-11-21",
+  "siteSearch": "none"
  },
  "osm:way/367397619": {
   "id": "osm:way/367397619",
@@ -240665,7 +240673,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-j0xnvpyoo"
+  "pid": "sn-j0xnvpyoo",
+  "siteSearchAt": "2026-11-21",
+  "siteSearch": "none"
  },
  "osm:way/373953877": {
   "id": "osm:way/373953877",
@@ -242387,7 +242397,7 @@
   ],
   "lat": 55.3548491,
   "lng": -4.7693267,
-  "website": null,
+  "website": "https://www.campingandcaravanningclub.co.uk/campsites/uk/ayrshire/maybole/culzean-castle-camping-and-caravanning-club-site",
   "wikidata": null,
   "country": "United Kingdom",
   "city": "South Ayrshire",
@@ -242406,7 +242416,10 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-x3tgpmhzf"
+  "pid": "sn-x3tgpmhzf",
+  "siteSearchAt": "2026-11-21",
+  "websiteSource": "search",
+  "siteSearch": "found"
  },
  "osm:way/383246736": {
   "id": "osm:way/383246736",
@@ -243285,7 +243298,7 @@
   ],
   "lat": 53.1118079,
   "lng": -3.3118485,
-  "website": null,
+  "website": "https://ruthincastle.co.uk/",
   "wikidata": null,
   "country": "GB",
   "city": "Ruthin",
@@ -243303,7 +243316,10 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-2y9jw5alt"
+  "pid": "sn-2y9jw5alt",
+  "siteSearchAt": "2026-11-21",
+  "websiteSource": "search",
+  "siteSearch": "found"
  },
  "osm:way/39170788": {
   "id": "osm:way/39170788",
@@ -244103,7 +244119,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-t14i653fe"
+  "pid": "sn-t14i653fe",
+  "siteSearchAt": "2026-11-21",
+  "siteSearch": "none"
  },
  "osm:way/397464651": {
   "id": "osm:way/397464651",
@@ -247076,7 +247094,7 @@
   ],
   "lat": 52.7087423,
   "lng": -2.9208058,
-  "website": null,
+  "website": "https://rowtoncastle.com/castle/",
   "wikidata": null,
   "country": "United Kingdom",
   "city": "Shropshire",
@@ -247095,7 +247113,10 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-3faevcg29"
+  "pid": "sn-3faevcg29",
+  "siteSearchAt": "2026-11-21",
+  "websiteSource": "search",
+  "siteSearch": "found"
  },
  "osm:way/42112146": {
   "id": "osm:way/42112146",
@@ -250749,7 +250770,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-1i3xp0ce7"
+  "pid": "sn-1i3xp0ce7",
+  "siteSearchAt": "2026-11-21",
+  "siteSearch": "refused"
  },
  "osm:way/455325367": {
   "id": "osm:way/455325367",
@@ -254269,7 +254292,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-kl6y7dp02"
+  "pid": "sn-kl6y7dp02",
+  "siteSearchAt": "2026-11-21",
+  "siteSearch": "none"
  },
  "osm:way/492203576": {
   "id": "osm:way/492203576",
@@ -256287,7 +256312,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-x1qt9gen5"
+  "pid": "sn-x1qt9gen5",
+  "siteSearchAt": "2026-11-21",
+  "siteSearch": "none"
  },
  "osm:way/51075505": {
   "id": "osm:way/51075505",
@@ -262703,7 +262730,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-mjdwtvo6j"
+  "pid": "sn-mjdwtvo6j",
+  "siteSearchAt": "2026-11-21",
+  "siteSearch": "none"
  },
  "osm:way/592190189": {
   "id": "osm:way/592190189",
@@ -269677,7 +269706,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-sluzpnaii"
+  "pid": "sn-sluzpnaii",
+  "siteSearchAt": "2026-11-21",
+  "siteSearch": "none"
  },
  "osm:way/70714032": {
   "id": "osm:way/70714032",
@@ -274383,7 +274414,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-6c92osqoz"
+  "pid": "sn-6c92osqoz",
+  "siteSearchAt": "2026-11-21",
+  "siteSearch": "none"
  },
  "osm:way/781830116": {
   "id": "osm:way/781830116",
@@ -283650,7 +283683,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-cv1ckcoto"
+  "pid": "sn-cv1ckcoto",
+  "siteSearchAt": "2026-11-21",
+  "siteSearch": "none"
  },
  "osm:way/95046274": {
   "id": "osm:way/95046274",
@@ -285286,7 +285321,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-wttxx9y71"
+  "pid": "sn-wttxx9y71",
+  "siteSearchAt": "2026-11-21",
+  "siteSearch": "none"
  },
  "osm:way/963518561": {
   "id": "osm:way/963518561",
@@ -285530,7 +285567,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-g005snsen"
+  "pid": "sn-g005snsen",
+  "siteSearchAt": "2026-11-21",
+  "siteSearch": "none"
  },
  "osm:way/96757618": {
   "id": "osm:way/96757618",
@@ -285966,7 +286005,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-l50yd1v06"
+  "pid": "sn-l50yd1v06",
+  "siteSearchAt": "2026-11-21",
+  "siteSearch": "none"
  },
  "osm:way/97574467": {
   "id": "osm:way/97574467",
@@ -286494,7 +286535,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-1np3e8zh3"
+  "pid": "sn-1np3e8zh3",
+  "siteSearchAt": "2026-11-21",
+  "siteSearch": "none"
  },
  "osm:way/992032833": {
   "id": "osm:way/992032833",
