@@ -1,10 +1,9 @@
 # Tekrar kayıtlar
 
-Son çalışma: 2026-11-22. Bu çalışmada bulunan: 1 (onay kuyruğundan: 0). Kurallar: `pipeline/identity.mjs`.
+Son çalışma: 2026-11-22. Bu çalışmada bulunan: 0 (onay kuyruğundan: 0). Kurallar: `pipeline/identity.mjs`.
 
 | Kayıt | Durumu | Aynısı | Neden |
 |---|---|---|---|
-| Whitecliff Bay Holiday Park (`osm:relation/22198391`) | weak | Whitecliff Bay Holiday Park (`osm:way/5032174`, weak) | same name |
 
 ## Olası tekrarlar (onay kuyruğunda, değiştirilmedi)
 
@@ -24,5 +23,6 @@ Yalnızca 150 m yakınlık ve ortak bir isim kelimesi var; onay sayfasında uyar
 | Lighthouse Keeper's Cottage 2 (`osm:node/9659474033`) | Lighthouse Keeper's Cottage 1 (`osm:node/9659474034`, classified) | similar name nearby |
 | Lighthouse Keeper's Cottage 1 (`osm:node/9659474034`) | Lighthouse Keeper's Cottage 2 (`osm:node/9659474033`, classified) | similar name nearby |
 | Botel (`osm:way/171606064`) | Botel (`wd:Q111410345`, weak) | same generic name nearby |
+| Ruthin Castle Hotel (`osm:way/391470305`) | Ruthin Castle Hotel (`wd:Q17742385`, weak) | same generic name nearby |
 | Treetops Lodge (`osm:way/399219094`) | Treetops Lodge (`osm:node/9048281875`, weak) | same generic name nearby |
 | Arctic SnowHotel & Glass Igloos Reception (`osm:way/773578903`) | Arctic SnowHotel & Glass Igloos Rovaniemi (`osm:way/995440409`, weak) | within 150 m |

@@ -5079,7 +5079,7 @@
    "stars": "5"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "classified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": null,
@@ -14978,7 +14978,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-11-19",
   "region": "Saxony-Anhalt",
@@ -14994,12 +14994,23 @@
   },
   "checkedAt": "2026-10-01",
   "reasons": [
-   "no category evidence on official website"
+   "haiku: Apartments spread over three floors of a timber-framed building in Rübeland; the cave-hotel tag only reflects the nearby Hermannshöhle show cave, and the evidence does not describe any rooms in a cave or rock, so it is not a cave hotel."
   ],
   "lastEvidence": "2026-11-22",
   "noEvidence": 1,
   "noEvidenceAt": "2026-10-23T06:11:03.897Z",
-  "pid": "sn-hpq0egkoy"
+  "pid": "sn-hpq0egkoy",
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.9,
+   "feature": null,
+   "reason": "Apartments spread over three floors of a timber-framed building in Rübeland; the cave-hotel tag only reflects the nearby Hermannshöhle show cave, and the evidence does not describe any rooms in a cave or rock, so it is not a cave hotel.",
+   "file": "data/pipeline/decisions/2026-11-22/checked.json",
+   "decidedAt": "2026-11-22",
+   "evidenceAt": "2026-11-22T08:08:19.685Z"
+  }
  },
  "osm:node/11697691105": {
   "id": "osm:node/11697691105",
@@ -50138,7 +50149,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "rejected",
   "firstSeen": "2026-11-22",
   "lastSeen": "2026-11-22",
   "region": "Vakinankaratra",
@@ -50153,9 +50164,22 @@
    "snippet": "VALAHARA Eco-Luxury Camp   VALAHARA Eco-Luxury Camp Accueil Chambres Réservation Evènement Valahara Café Valahara Export Your browser does not support the video tag. ▶ Play Arrivée Départ Adultes 1 2 3 4 5 6 7 8 9 10 Enfants 0 1 2 3 4 5 6 7 8 9 10 Vérifier la disponibilité Bienvenue! Au cœur des hautes terres volcaniques de Madagascar, Valahara vous invite à dé"
   },
   "checkedAt": "2026-11-22",
-  "reasons": [],
+  "reasons": [
+   "haiku: queueCategory desert-camps is not supported: the site describes an eco-luxury camp in the volcanic highlands near Antsirabe with lake views, not a desert; the evidence shows no unusual sleeping unit, so no category applies."
+  ],
   "pid": "sn-ug5hr76nf",
-  "lastEvidence": "2026-11-22"
+  "lastEvidence": "2026-11-22",
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "unclear",
+   "confidence": 0.8,
+   "feature": null,
+   "reason": "queueCategory desert-camps is not supported: the site describes an eco-luxury camp in the volcanic highlands near Antsirabe with lake views, not a desert; the evidence shows no unusual sleeping unit, so no category applies.",
+   "file": "data/pipeline/decisions/2026-11-22/checked.json",
+   "decidedAt": "2026-11-22",
+   "evidenceAt": "2026-11-22T08:08:26.312Z"
+  }
  },
  "osm:node/14383539234": {
   "id": "osm:node/14383539234",
@@ -104208,7 +104232,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-10-05",
   "lastSeen": "2026-11-16",
   "region": "Ratanakiri",
@@ -104224,12 +104248,23 @@
   },
   "checkedAt": "2026-10-05",
   "reasons": [
-   "no category evidence on official website"
+   "haiku: The only fetched page is a 404 Page Not Found, so there is no description of the property; the only evidence is the OSM guest_house tag and the name, which do not support jungle-lodges, and the site needs a re-fetch before any decision."
   ],
   "lastEvidence": "2026-11-22",
   "noEvidence": 1,
   "noEvidenceAt": "2026-10-23T06:10:27.857Z",
-  "pid": "sn-d7uywluoh"
+  "pid": "sn-d7uywluoh",
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "unclear",
+   "confidence": 0.1,
+   "feature": null,
+   "reason": "The only fetched page is a 404 Page Not Found, so there is no description of the property; the only evidence is the OSM guest_house tag and the name, which do not support jungle-lodges, and the site needs a re-fetch before any decision.",
+   "file": "data/pipeline/decisions/2026-11-22/checked.json",
+   "decidedAt": "2026-11-22",
+   "evidenceAt": "2026-11-22T08:08:20.973Z"
+  }
  },
  "osm:node/4617915635": {
   "id": "osm:node/4617915635",
@@ -158145,7 +158180,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "classified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": "Kilifi County",
@@ -219717,7 +219752,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-21",
   "region": null,
@@ -219733,12 +219768,23 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "haiku: A Chiang Mai city hotel with standard, deluxe and suite rooms; the name Dome is not evidence of transparent bubbles or domes, and no sleeping unit is described as a dome, so bubble-hotels is a false positive."
   ],
   "lastEvidence": "2026-11-22",
   "noEvidence": 1,
   "noEvidenceAt": "2026-10-23T06:10:31.221Z",
-  "pid": "sn-lj7czyilm"
+  "pid": "sn-lj7czyilm",
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.5,
+   "feature": null,
+   "reason": "A Chiang Mai city hotel with standard, deluxe and suite rooms; the name Dome is not evidence of transparent bubbles or domes, and no sleeping unit is described as a dome, so bubble-hotels is a false positive.",
+   "file": "data/pipeline/decisions/2026-11-22/checked.json",
+   "decidedAt": "2026-11-22",
+   "evidenceAt": "2026-11-22T08:08:21.029Z"
+  }
  },
  "osm:way/238164056": {
   "id": "osm:way/238164056",
@@ -242509,7 +242555,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-20",
   "region": "Scotland",
@@ -242518,13 +242564,24 @@
   "evidence": null,
   "checkedAt": "2026-10-10",
   "reasons": [
-   "no category evidence on official website"
+   "haiku: A Camping and Caravanning Club campsite with tent and caravan pitches in the grounds of Culzean Castle; the sleeping units are not inside the castle, so castle-hotels does not fit, and the castle link is location only; the Lodges page on this site refers to a different Lake District site and was not used. Owner may want to confirm the campsite policy."
   ],
   "pid": "sn-x3tgpmhzf",
   "siteSearchAt": "2026-11-21",
   "websiteSource": "search",
   "siteSearch": "found",
-  "lastEvidence": "2026-11-22"
+  "lastEvidence": "2026-11-22",
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "unclear",
+   "confidence": 0.4,
+   "feature": null,
+   "reason": "A Camping and Caravanning Club campsite with tent and caravan pitches in the grounds of Culzean Castle; the sleeping units are not inside the castle, so castle-hotels does not fit, and the castle link is location only; the Lodges page on this site refers to a different Lake District site and was not used. Owner may want to confirm the campsite policy.",
+   "file": "data/pipeline/decisions/2026-11-22/checked.json",
+   "decidedAt": "2026-11-22",
+   "evidenceAt": "2026-11-22T08:08:14.131Z"
+  }
  },
  "osm:way/383246736": {
   "id": "osm:way/383246736",
@@ -243411,7 +243468,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "classified",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-20",
   "category": "castle-hotels",
@@ -243425,7 +243482,25 @@
   "siteSearchAt": "2026-11-21",
   "websiteSource": "search",
   "siteSearch": "found",
-  "lastEvidence": "2026-11-22"
+  "lastEvidence": "2026-11-22",
+  "haiku": {
+   "verdict": "accepted",
+   "category": "castle-hotels",
+   "scope": "whole_property",
+   "confidence": 0.95,
+   "feature": "Hotel whose guest rooms are inside the historic Ruthin Castle building",
+   "reason": "Four-star hotel whose 60 guest rooms are in the historic Ruthin Castle building, which the site describes as steeped in history; this is a castle hotel and the stay itself is the niche.",
+   "file": "data/pipeline/decisions/2026-11-22/checked.json",
+   "decidedAt": "2026-11-22",
+   "evidenceAt": "2026-11-22T08:08:14.194Z"
+  },
+  "prescreen": {
+   "action": "keep",
+   "rule": "pass",
+   "at": "2026-11-22T10:15:55.460Z",
+   "file": "data/pipeline/decisions/2026-11-22/checked.json",
+   "evidenceAt": "2026-11-22T08:08:14.194Z"
+  }
  },
  "osm:way/39170788": {
   "id": "osm:way/39170788",

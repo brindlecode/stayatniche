@@ -1,11 +1,11 @@
 {
- "at": "2026-11-21T10:15:49.294Z",
+ "at": "2026-11-22T10:15:53.111Z",
  "ok": true,
  "decisions": 6,
- "accepted": 2,
- "needs_review": 1,
+ "accepted": 1,
+ "needs_review": 0,
  "no_evidence": 0,
  "duplicate": 0,
- "rejected": 3,
+ "rejected": 5,
  "withoutPack": 0
 }
