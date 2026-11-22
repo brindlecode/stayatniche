@@ -1,9 +1,10 @@
 # Tekrar kayıtlar
 
-Son çalışma: 2026-11-21. Bu çalışmada bulunan: 0 (onay kuyruğundan: 0). Kurallar: `pipeline/identity.mjs`.
+Son çalışma: 2026-11-22. Bu çalışmada bulunan: 1 (onay kuyruğundan: 0). Kurallar: `pipeline/identity.mjs`.
 
 | Kayıt | Durumu | Aynısı | Neden |
 |---|---|---|---|
+| Whitecliff Bay Holiday Park (`osm:relation/22198391`) | weak | Whitecliff Bay Holiday Park (`osm:way/5032174`, weak) | same name |
 
 ## Olası tekrarlar (onay kuyruğunda, değiştirilmedi)
 

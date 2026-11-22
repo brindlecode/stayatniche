@@ -2,7 +2,7 @@
 
 # Otel hattı durumu
 
-Güncelleme: 2026-11-21T08:25:35.438Z. Kuyrukta 8599 aday. Sitede yayında 202 otel, 37 taslak (239 dosya).
+Güncelleme: 2026-11-22T08:08:28.985Z. Kuyrukta 8601 aday. Sitede yayında 202 otel, 37 taslak (239 dosya).
 
 ## Dikkat
 
@@ -59,16 +59,16 @@ Onaylamak istediğiniz numaraları tek mesajda yazın, ör. "1 3 5-9". Listede o
 
 | Aşama | Aday | Not |
 |---|---|---|
-| Resmi sitesi bilinmiyor (site bulucu sırasında) | 4230 | aranan: 103, bulunan: 9 |
+| Resmi sitesi bilinmiyor (site bulucu sırasında) | 4227 | aranan: 123, bulunan: 12 |
 | Sitesi var, kanıt indirilecek (gece işi) | 0 |  |
-| Site okunamadı, 30 günde bir yeniden denenir (3 denemede elenir) | 868 | neden kaydedilmemiş (eski kayıt): 556; website fetch failed: bağlantı yok: 93; no website known: 89; website fetch failed: 403: 52 |
+| Site okunamadı, 30 günde bir yeniden denenir (3 denemede elenir) | 867 | neden kaydedilmemiş (eski kayıt): 514; website fetch failed: bağlantı yok: 107; no website known: 102; website fetch failed: 403: 53 |
 | Kanıtı hazır, sınıflandırıcıyı bekliyor | 6 |  |
-| **Sizin kararınızı bekliyor (onay kuyruğu)** | 501 | araştırma istenen: 0; son kararınız: 2026-11-17 |
+| **Sizin kararınızı bekliyor (onay kuyruğu)** | 504 | araştırma istenen: 0; son kararınız: 2026-11-17 |
 | Onaylı, yazarı bekliyor | 0 |  |
 | Onaylı ama yazılamadı (kanıt yetersiz) | 5 | yeni kanıt bekleyen: 0 |
 | Taslak sayfası hazır, "yayınla" bekliyor | 6 |  |
 | Yayında (bu hattan) | 129 |  |
-| Elendi / tekrar | 2856 |  |
+| Elendi / tekrar | 2860 |  |
 
 ## Yazılamayanlar
 
@@ -82,9 +82,9 @@ Onaylamak istediğiniz numaraları tek mesajda yazın, ör. "1 3 5-9". Listede o
 
 ## Otomatik ön eleme ve tekrarlar
 
-- Ön eleme (son çalışma 2026-11-21): elenen 0, araştırmaya gönderilen 0, kuyrukta kalan 0. Elenenlerin tek cümlelik nedeni onay sayfasında "Reddettiklerim" sekmesinde; isterseniz oradan yine onaylayabilirsiniz.
+- Ön eleme (son çalışma 2026-11-22): elenen 0, araştırmaya gönderilen 0, kuyrukta kalan 0. Elenenlerin tek cümlelik nedeni onay sayfasında "Reddettiklerim" sekmesinde; isterseniz oradan yine onaylayabilirsiniz.
 - Ön elemeyle toplam elenen: 1; araştırması süren: 0.
-- Tekrar kayıtlar (son çalışma 2026-11-21): bu çalışmada 0 bulundu (onay kuyruğundan 0); onay kuyruğunda olası tekrar 14. Liste: [DUPLICATES.md](DUPLICATES.md).
+- Tekrar kayıtlar (son çalışma 2026-11-22): bu çalışmada 1 bulundu (onay kuyruğundan 0); onay kuyruğunda olası tekrar 14. Liste: [DUPLICATES.md](DUPLICATES.md).
 
 ## Aylık yeniden kontrol (yayındaki oteller)
 
@@ -105,20 +105,20 @@ Son kontrol: 2026-11-17. 202 otel: sitesi açılan 194, açılmayan 8, resmi sit
 
 | Aşama | Zaman (UTC) | Sonuç |
 |---|---|---|
-| deploy | 2026-11-21 08:25 | state: live, live: 006fccd, expected: 14fb337, ageMin: 5033 |
-| evidence | 2026-11-21 08:25 | asked: 68, packs: 6, nothingReadable: 62, errors: 0, requeuedLostPacks: 0, reasons: {"website fetch failed: 429":1,"no website known":32,"website fetch failed: no connection":17,"robots.txt disallows fetching":4,"website fetch failed: 403":3,"website fetch failed: 405":1,"website fetch failed: 410":1,"website fetch failed: 404":3} |
-| prescreen | 2026-11-21 08:25 | reject: 0, research: 0, keep: 0, rules: {}, ownerTouched: 2, alreadyScreened: 499 |
-| dedupe | 2026-11-21 08:25 | properties: 8535, groupsWithSeveralRecords: 392, newIds: 2, idsMerged: 0, largeGroupsSkipped: 5, duplicates: 0, inReviewQueue: 0, ofPage: 0, ofCandidate: 0, byReason: {}, alreadyHasPage: 0, possibleInReviewQueue: 14 |
-| verify | 2026-11-21 08:24 | checked: 2, stillNew: 0 |
-| discover | 2026-11-21 08:24 | categories: ["floating-hotels","bubble-hotels"], added: 2, total: 8599 |
-| apply | 2026-11-21 08:19 | applied: {"needs_review":73,"accepted":13,"rejected":6}, pruned: 2, unreadablePacks: 0 |
-| shortlist | 2026-11-20 10:17 | week: 2026-W47, items: 40, waiting: 469, approved: 0, withoutTurkish: 0, expediaConfirmed: 25 |
-| sites | 2026-11-20 10:17 | found: 3, none: 16, refused: 1, refusedUrls: ["The Castle Hotel & Restaurant: https://www.chefandbrewer.com/pubs/leicestershire/castle-hotel/hotel"] |
-| sites-todo | 2026-11-20 10:16 | withoutWebsite: 4157, taken: 20 |
-| review | 2026-11-20 10:15 | newDocs: 2, updates: 6, onPage: 730, exportGiven: true |
-| check | 2026-11-20 10:15 | decisions: 4, accepted: 1, needs_review: 1, no_evidence: 0, duplicate: 0, rejected: 2, withoutPack: 0 |
-| batches | 2026-11-20 10:14 | needDecision: 4, taken: 4, batches: 1, unreadablePacks: 0 |
-| reviews | 2026-11-20 10:14 | documents: 730, changed: {"rejected":2}, unreadable: 0 |
+| deploy | 2026-11-22 08:08 | state: live, live: 006fccd, expected: 14fb337, ageMin: 6456 |
+| evidence | 2026-11-22 08:08 | asked: 47, packs: 6, nothingReadable: 41, errors: 0, requeuedLostPacks: 0, reasons: {"website fetch failed: 403":1,"no website known":13,"website fetch failed: 409":1,"website fetch failed: 404":5,"robots.txt disallows fetching":3,"website fetch failed: no connection":14,"website fetch failed: 410":1,"website fetch failed: 202":1,"website fetch failed: 520":1,"website fetch failed: 400":1} |
+| prescreen | 2026-11-22 08:08 | reject: 0, research: 0, keep: 0, rules: {}, ownerTouched: 2, alreadyScreened: 502 |
+| dedupe | 2026-11-22 08:08 | properties: 8536, groupsWithSeveralRecords: 392, newIds: 2, idsMerged: 0, largeGroupsSkipped: 5, duplicates: 1, inReviewQueue: 0, ofPage: 0, ofCandidate: 1, byReason: {"same name":1}, alreadyHasPage: 0, possibleInReviewQueue: 14 |
+| verify | 2026-11-22 08:08 | checked: 2, stillNew: 0 |
+| discover | 2026-11-22 08:08 | categories: ["cliffside-hotels","desert-camps"], added: 2, total: 8601 |
+| apply | 2026-11-22 08:03 | applied: {"needs_review":73,"accepted":13,"rejected":6}, pruned: 3, unreadablePacks: 0 |
+| sites | 2026-11-21 10:17 | found: 3, none: 16, refused: 1, refusedUrls: ["The Mile Castle Hotel: https://hotels.jdwetherspoon.com/hotels/the-mile-castle-newcastle-upon-tyne"] |
+| shortlist | 2026-11-21 10:16 | week: 2026-W47, items: 40, waiting: 469, approved: 0, withoutTurkish: 0, expediaConfirmed: 25 |
+| sites-todo | 2026-11-21 10:16 | withoutWebsite: 4137, taken: 20 |
+| review | 2026-11-21 10:15 | newDocs: 3, updates: 6, onPage: 732, exportGiven: true |
+| check | 2026-11-21 10:15 | decisions: 6, accepted: 2, needs_review: 1, no_evidence: 0, duplicate: 0, rejected: 3, withoutPack: 0 |
+| batches | 2026-11-21 10:14 | needDecision: 6, taken: 6, batches: 1, unreadablePacks: 0 |
+| reviews | 2026-11-21 10:13 | documents: 732, changed: {"rejected":2}, unreadable: 0 |
 | recheck | 2026-11-17 20:08 | hotels: 202, siteOk: 194, siteDown: 8, noSite: 0, saysClosed: 0, parked: 0, expediaValid: 103, expediaInvalid: 0, expediaStale: 0, problems: 8 |
 | expedia | 2026-11-17 20:05 | confirmed: 26, not_found: 24, unconfirmed: 10, unknownId: 0, records: 60 |
 | expedia-todo | 2026-11-17 20:02 | todo: 60 |
@@ -132,14 +132,14 @@ Son kontrol: 2026-11-17. 202 otel: sitesi açılan 194, açılmayan 8, resmi sit
 | treehouse-hotels | 0 | 0 | 206 | 27 | 0 | 0 | 2 | 11 | 189 | 14 |
 | cave-hotels | 0 | 0 | 565 | 23 | 0 | 0 | 0 | 20 | 135 | 33 |
 | underwater-rooms | 0 | 0 | 7 | 0 | 0 | 0 | 0 | 0 | 3 | 3 |
-| castle-hotels | 0 | 3 | 750 | 209 | 0 | 4 | 3 | 49 | 624 | 30 |
-| floating-hotels | 0 | 0 | 70 | 16 | 0 | 0 | 0 | 4 | 16 | 12 |
-| bubble-hotels | 0 | 0 | 212 | 4 | 0 | 0 | 0 | 5 | 353 | 5 |
-| cliffside-hotels | 0 | 0 | 372 | 14 | 0 | 0 | 0 | 2 | 138 | 14 |
-| desert-camps | 0 | 0 | 238 | 9 | 0 | 1 | 1 | 7 | 44 | 7 |
+| castle-hotels | 0 | 3 | 748 | 211 | 0 | 4 | 3 | 49 | 624 | 30 |
+| floating-hotels | 0 | 0 | 69 | 17 | 0 | 0 | 0 | 4 | 16 | 12 |
+| bubble-hotels | 0 | 0 | 211 | 4 | 0 | 0 | 0 | 5 | 354 | 5 |
+| cliffside-hotels | 0 | 0 | 372 | 14 | 0 | 0 | 0 | 2 | 138 | 15 |
+| desert-camps | 0 | 1 | 238 | 9 | 0 | 1 | 1 | 7 | 44 | 7 |
 | jungle-lodges | 0 | 0 | 824 | 65 | 0 | 0 | 0 | 4 | 151 | 27 |
 | ice-hotels | 0 | 0 | 92 | 5 | 0 | 0 | 0 | 2 | 69 | 22 |
 | safari-lodges | 0 | 2 | 837 | 107 | 0 | 0 | 0 | 3 | 107 | 78 |
 | overwater-bungalows | 0 | 0 | 39 | 0 | 0 | 0 | 0 | 3 | 2 | 35 |
-| lighthouse-hotels | 0 | 0 | 425 | 13 | 0 | 0 | 0 | 11 | 537 | 9 |
+| lighthouse-hotels | 0 | 0 | 423 | 13 | 0 | 0 | 0 | 11 | 539 | 9 |
 | train-hotels | 0 | 0 | 460 | 9 | 0 | 0 | 0 | 8 | 158 | 41 |
