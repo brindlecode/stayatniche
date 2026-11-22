@@ -1,0 +1,22 @@
+[
+  { "id": "osm:node/10061946473", "url": null, "title": null, "why": "only listing sites in the results" },
+  { "id": "osm:node/10101780943", "url": null, "title": null, "why": "only a restaurant listing and unrelated pages in the results" },
+  { "id": "osm:node/11044051810", "url": null, "title": null, "why": "only booking and listing sites in the results" },
+  { "id": "osm:node/11232537535", "url": null, "title": null, "why": "only a booking-platform B&B page (beb.it) in the results, not the owner's own site" },
+  { "id": "osm:node/11626459550", "url": null, "title": null, "why": "only a tourism-board listing for a different B&B and a rental listing in the results" },
+  { "id": "osm:node/11879719491", "url": null, "title": null, "why": "a possible domain (alcastello.it) appeared only in a third-party listing and could not be confirmed" },
+  { "id": "osm:node/12176945267", "url": null, "title": null, "why": "only booking listings and regional tourism entries for other Sassari rooms in the results" },
+  { "id": "osm:node/12177788643", "url": "https://tabianocastello.com", "title": "Suggestions and emotions", "why": "the property's own domain (tabianocastello.com) for the Tabiano Castello relais in Salsomaggiore Terme area, matching the name and place" },
+  { "id": "osm:node/12178862667", "url": null, "title": null, "why": "a commercial site (anticoborgogaltelli.it) is given at the same address, but it does not name Castello Malicas and contact details conflict" },
+  { "id": "osm:node/12439004658", "url": null, "title": null, "why": "only unrelated Taormina hotels and listings in the results" },
+  { "id": "osm:node/12560953505", "url": null, "title": null, "why": "only tourism and booking listings in the results" },
+  { "id": "osm:node/12694913238", "url": null, "title": null, "why": "only a rental listing and castle pages in the results" },
+  { "id": "osm:node/1305275247", "url": null, "title": null, "why": "only booking listings and an Italia.it entry in the results" },
+  { "id": "osm:node/13057999804", "url": null, "title": null, "why": "only a directory listing and castle pages in the results" },
+  { "id": "osm:node/13069457092", "url": null, "title": null, "why": "only rental and aggregator listings in the results" },
+  { "id": "osm:node/13136116901", "url": null, "title": null, "why": "only booking listings in the results" },
+  { "id": "osm:node/13304578779", "url": null, "title": null, "why": "only booking and rental listings in the results" },
+  { "id": "osm:node/1330862375", "url": null, "title": null, "why": "only booking listings for the Il Castello dei Principi Sanseverino in the results" },
+  { "id": "osm:node/13381513068", "url": null, "title": null, "why": "only booking listings in the results" },
+  { "id": "osm:node/13811367242", "url": null, "title": null, "why": "only unrelated castles and restaurants in the results" }
+]

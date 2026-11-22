@@ -923,7 +923,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-ju3agq092"
+  "pid": "sn-ju3agq092",
+  "siteSearchAt": "2026-11-22",
+  "siteSearch": "none"
  },
  "osm:node/10068341801": {
   "id": "osm:node/10068341801",
@@ -1332,7 +1334,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-8hi4c5i43"
+  "pid": "sn-8hi4c5i43",
+  "siteSearchAt": "2026-11-22",
+  "siteSearch": "none"
  },
  "osm:node/10102580723": {
   "id": "osm:node/10102580723",
@@ -9099,7 +9103,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-v7dhjd1m3"
+  "pid": "sn-v7dhjd1m3",
+  "siteSearchAt": "2026-11-22",
+  "siteSearch": "none"
  },
  "osm:node/11046253505": {
   "id": "osm:node/11046253505",
@@ -11200,7 +11206,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-ocmlw77go"
+  "pid": "sn-ocmlw77go",
+  "siteSearchAt": "2026-11-22",
+  "siteSearch": "none"
  },
  "osm:node/11232620337": {
   "id": "osm:node/11232620337",
@@ -14242,7 +14250,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-9zrx5h205"
+  "pid": "sn-9zrx5h205",
+  "siteSearchAt": "2026-11-22",
+  "siteSearch": "none"
  },
  "osm:node/11627999369": {
   "id": "osm:node/11627999369",
@@ -16713,7 +16723,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-8gcn1yf3q"
+  "pid": "sn-8gcn1yf3q",
+  "siteSearchAt": "2026-11-22",
+  "siteSearch": "none"
  },
  "osm:node/11880901421": {
   "id": "osm:node/11880901421",
@@ -21172,7 +21184,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-z87olldnc"
+  "pid": "sn-z87olldnc",
+  "siteSearchAt": "2026-11-22",
+  "siteSearch": "none"
  },
  "osm:node/12177788643": {
   "id": "osm:node/12177788643",
@@ -21182,7 +21196,7 @@
   ],
   "lat": 44.7924609,
   "lng": 10.0247128,
-  "website": null,
+  "website": "https://tabianocastello.com",
   "wikidata": null,
   "country": "Italy",
   "city": "Salsomaggiore Terme",
@@ -21201,7 +21215,10 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-47hdbysep"
+  "pid": "sn-47hdbysep",
+  "siteSearchAt": "2026-11-22",
+  "websiteSource": "search",
+  "siteSearch": "found"
  },
  "osm:node/12178862667": {
   "id": "osm:node/12178862667",
@@ -21230,7 +21247,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-gqriinkk5"
+  "pid": "sn-gqriinkk5",
+  "siteSearchAt": "2026-11-22",
+  "siteSearch": "none"
  },
  "osm:node/12180318521": {
   "id": "osm:node/12180318521",
@@ -24354,7 +24373,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-b8gg5k1n6"
+  "pid": "sn-b8gg5k1n6",
+  "siteSearchAt": "2026-11-22",
+  "siteSearch": "none"
  },
  "osm:node/1244167268": {
   "id": "osm:node/1244167268",
@@ -25734,7 +25755,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-kjl4wx094"
+  "pid": "sn-kjl4wx094",
+  "siteSearchAt": "2026-11-22",
+  "siteSearch": "none"
  },
  "osm:node/12563653531": {
   "id": "osm:node/12563653531",
@@ -27015,7 +27038,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-e8akqhfu4"
+  "pid": "sn-e8akqhfu4",
+  "siteSearchAt": "2026-11-22",
+  "siteSearch": "none"
  },
  "osm:node/12697771901": {
   "id": "osm:node/12697771901",
@@ -31254,7 +31279,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-93mkq6dbz"
+  "pid": "sn-93mkq6dbz",
+  "siteSearchAt": "2026-11-22",
+  "siteSearch": "none"
  },
  "osm:node/13057426746": {
   "id": "osm:node/13057426746",
@@ -31312,7 +31339,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-lhkhslyha"
+  "pid": "sn-lhkhslyha",
+  "siteSearchAt": "2026-11-22",
+  "siteSearch": "none"
  },
  "osm:node/13061308568": {
   "id": "osm:node/13061308568",
@@ -31592,7 +31621,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-hqb0wypdj"
+  "pid": "sn-hqb0wypdj",
+  "siteSearchAt": "2026-11-22",
+  "siteSearch": "none"
  },
  "osm:node/13072908511": {
   "id": "osm:node/13072908511",
@@ -32912,7 +32943,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-ptu0lzw2r"
+  "pid": "sn-ptu0lzw2r",
+  "siteSearchAt": "2026-11-22",
+  "siteSearch": "none"
  },
  "osm:node/13136122401": {
   "id": "osm:node/13136122401",
@@ -34612,7 +34645,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-89m4u4ufa"
+  "pid": "sn-89m4u4ufa",
+  "siteSearchAt": "2026-11-22",
+  "siteSearch": "none"
  },
  "osm:node/1330862375": {
   "id": "osm:node/1330862375",
@@ -34641,7 +34676,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-e2qojp4av"
+  "pid": "sn-e2qojp4av",
+  "siteSearchAt": "2026-11-22",
+  "siteSearch": "none"
  },
  "osm:node/13316086041": {
   "id": "osm:node/13316086041",
@@ -35811,7 +35848,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-xjtvzf4w7"
+  "pid": "sn-xjtvzf4w7",
+  "siteSearchAt": "2026-11-22",
+  "siteSearch": "none"
  },
  "osm:node/13382780600": {
   "id": "osm:node/13382780600",
@@ -42086,7 +42125,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-qfrpg773y"
+  "pid": "sn-qfrpg773y",
+  "siteSearchAt": "2026-11-22",
+  "siteSearch": "none"
  },
  "osm:node/13814866116": {
   "id": "osm:node/13814866116",
