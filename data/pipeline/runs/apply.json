@@ -1,9 +1,9 @@
 {
- "at": "2026-11-23T10:15:49.303Z",
+ "at": "2026-11-23T12:49:32.812Z",
  "ok": true,
  "applied": {
-  "needs_review": 74,
-  "accepted": 15,
+  "needs_review": 73,
+  "accepted": 13,
   "rejected": 6
  },
  "pruned": 0,
