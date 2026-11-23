@@ -1,0 +1,22 @@
+[
+  { "id": "osm:node/14027307001", "url": null, "title": null, "why": "Only booking and listing sites in the results." },
+  { "id": "osm:node/14207040301", "url": null, "title": null, "why": "Only a tourism-board listing naming birkinhotel.com, which never appeared as a search result and was not opened." },
+  { "id": "osm:node/1819126073", "url": null, "title": null, "why": "Only directory listings naming castellovalfurva.com, which was not opened or seen as a result." },
+  { "id": "osm:node/1828422694", "url": null, "title": null, "why": "Only third-party listings; the official-website link is not given in the results." },
+  { "id": "osm:node/2246028919", "url": null, "title": null, "why": "No hotel of this name in Caneva; results were restaurants and castle pages elsewhere." },
+  { "id": "osm:node/2485573485", "url": null, "title": null, "why": "Only the italia.it tourism listing and a third-party booking domain, not the property's own site." },
+  { "id": "osm:node/2704080568", "url": null, "title": null, "why": "Only Turismo Torino and booking listings; the domain given is a third-party directory." },
+  { "id": "osm:node/2755660426", "url": null, "title": null, "why": "Only dolomiti.it directory pages and booking sites; no hotel-operated domain." },
+  { "id": "osm:node/2763785709", "url": null, "title": null, "why": "Only third-party listings; the official-website link is not shown in the results." },
+  { "id": "osm:node/2898949678", "url": null, "title": null, "why": "Only tourism-portal and booking listings; the website URL did not come through." },
+  { "id": "osm:node/335085442", "url": null, "title": null, "why": "Only agriturismi.it and other booking listings, not the property's own site." },
+  { "id": "osm:node/3600034102", "url": null, "title": null, "why": "Only a Facebook page, municipal and heritage pages; no property-owned site." },
+  { "id": "osm:node/3600092989", "url": null, "title": null, "why": "Only a campsite listing and a user comment; no official site confirmed." },
+  { "id": "osm:node/3856989655", "url": null, "title": null, "why": "Only Aosta Valley tourism database and booking listings, with no website given." },
+  { "id": "osm:node/388202576", "url": null, "title": null, "why": "Only Dimore Storiche and Visit Tuscany listings and booking pages." },
+  { "id": "osm:node/4237459651", "url": "https://www.petroia.it", "title": "Frequently asked questions", "why": "The domain petroia.it matches the property name and its own FAQ page (petroia.it/?p=24181) appeared in the results, in Gubbio, Umbria." },
+  { "id": "osm:node/4432465906", "url": null, "title": null, "why": "Only third-party listings for a generic name; no property-owned site identified." },
+  { "id": "osm:node/4546171074", "url": null, "title": null, "why": "No Retignano result matched; results were about other Italian castles." },
+  { "id": "osm:node/4554051043", "url": null, "title": null, "why": "Only a valley tourism site and booking listings; the hotel's own site is not confirmed." },
+  { "id": "osm:node/4582253319", "url": null, "title": null, "why": "Only booking listings for the hotel and a municipal page for the castle, which is a different place." }
+]

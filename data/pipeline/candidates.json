@@ -5083,7 +5083,7 @@
    "stars": "5"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "classified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": null,
@@ -21205,7 +21205,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "classified",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-20",
   "region": "Emilia-Romagna",
@@ -21220,7 +21220,25 @@
   "siteSearchAt": "2026-11-22",
   "websiteSource": "search",
   "siteSearch": "found",
-  "lastEvidence": "2026-11-23"
+  "lastEvidence": "2026-11-23",
+  "haiku": {
+   "verdict": "needs_review",
+   "category": "castle-hotels",
+   "scope": "some_units",
+   "confidence": 0.7,
+   "feature": "Rooms in the fortified part of a village built around a castle, plus old rural houses; the former fortress was converted into a relais",
+   "reason": "Rooms are in the fortified part of a castle village and in rural houses, so only some units fit the castle-hotel rule; the castle-hotel fit rests on the fortress conversion and is moderately confident.",
+   "file": "data/pipeline/decisions/2026-11-23/checked.json",
+   "decidedAt": "2026-11-23",
+   "evidenceAt": "2026-11-23T09:15:19.898Z"
+  },
+  "prescreen": {
+   "action": "keep",
+   "rule": "pass",
+   "at": "2026-11-23T10:15:50.692Z",
+   "file": "data/pipeline/decisions/2026-11-23/checked.json",
+   "evidenceAt": "2026-11-23T09:15:19.898Z"
+  }
  },
  "osm:node/12178862667": {
   "id": "osm:node/12178862667",
@@ -44575,7 +44593,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-2x3bunim7"
+  "pid": "sn-2x3bunim7",
+  "siteSearchAt": "2026-11-23",
+  "siteSearch": "none"
  },
  "osm:node/14028301401": {
   "id": "osm:node/14028301401",
@@ -47667,7 +47687,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-k84kp2h5o"
+  "pid": "sn-k84kp2h5o",
+  "siteSearchAt": "2026-11-23",
+  "siteSearch": "none"
  },
  "osm:node/14211593405": {
   "id": "osm:node/14211593405",
@@ -56343,7 +56365,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-j2yy5u764"
+  "pid": "sn-j2yy5u764",
+  "siteSearchAt": "2026-11-23",
+  "siteSearch": "none"
  },
  "osm:node/1821080990": {
   "id": "osm:node/1821080990",
@@ -56401,7 +56425,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-h54tq2auw"
+  "pid": "sn-h54tq2auw",
+  "siteSearchAt": "2026-11-23",
+  "siteSearch": "none"
  },
  "osm:node/1829771131": {
   "id": "osm:node/1829771131",
@@ -61306,7 +61332,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-3jncgt3q5"
+  "pid": "sn-3jncgt3q5",
+  "siteSearchAt": "2026-11-23",
+  "siteSearch": "none"
  },
  "osm:node/2248001396": {
   "id": "osm:node/2248001396",
@@ -64732,7 +64760,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-960u8lt6k"
+  "pid": "sn-960u8lt6k",
+  "siteSearchAt": "2026-11-23",
+  "siteSearch": "none"
  },
  "osm:node/2489054712": {
   "id": "osm:node/2489054712",
@@ -68230,7 +68260,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-tyswdgt2x"
+  "pid": "sn-tyswdgt2x",
+  "siteSearchAt": "2026-11-23",
+  "siteSearch": "none"
  },
  "osm:node/2716317599": {
   "id": "osm:node/2716317599",
@@ -68656,7 +68688,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-3kkvsoe9u"
+  "pid": "sn-3kkvsoe9u",
+  "siteSearchAt": "2026-11-23",
+  "siteSearch": "none"
  },
  "osm:node/275675529": {
   "id": "osm:node/275675529",
@@ -68853,7 +68887,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-g2cklyacb"
+  "pid": "sn-g2cklyacb",
+  "siteSearchAt": "2026-11-23",
+  "siteSearch": "none"
  },
  "osm:node/2765636016": {
   "id": "osm:node/2765636016",
@@ -71375,7 +71411,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-fcx0pbtuu"
+  "pid": "sn-fcx0pbtuu",
+  "siteSearchAt": "2026-11-23",
+  "siteSearch": "none"
  },
  "osm:node/2901381171": {
   "id": "osm:node/2901381171",
@@ -80824,7 +80862,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-m4mguz0j3"
+  "pid": "sn-m4mguz0j3",
+  "siteSearchAt": "2026-11-23",
+  "siteSearch": "none"
  },
  "osm:node/3351190720": {
   "id": "osm:node/3351190720",
@@ -84142,7 +84182,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-a8gpy0my8"
+  "pid": "sn-a8gpy0my8",
+  "siteSearchAt": "2026-11-23",
+  "siteSearch": "none"
  },
  "osm:node/3600092989": {
   "id": "osm:node/3600092989",
@@ -84172,7 +84214,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-m5ofu9qdy"
+  "pid": "sn-m5ofu9qdy",
+  "siteSearchAt": "2026-11-23",
+  "siteSearch": "none"
  },
  "osm:node/3604951386": {
   "id": "osm:node/3604951386",
@@ -87863,7 +87907,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-ejdripeei"
+  "pid": "sn-ejdripeei",
+  "siteSearchAt": "2026-11-23",
+  "siteSearch": "none"
  },
  "osm:node/3856994676": {
   "id": "osm:node/3856994676",
@@ -88128,7 +88174,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-6itf2hyo7"
+  "pid": "sn-6itf2hyo7",
+  "siteSearchAt": "2026-11-23",
+  "siteSearch": "none"
  },
  "osm:node/388372093": {
   "id": "osm:node/388372093",
@@ -90845,7 +90893,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "classified",
   "firstSeen": "2026-10-03",
   "lastSeen": "2026-11-21",
   "description": "hotel in Bratislava, Slovakia",
@@ -90868,7 +90916,25 @@
   "lastEvidence": "2026-11-23",
   "noEvidence": 1,
   "noEvidenceAt": "2026-10-24T06:02:54.840Z",
-  "pid": "sn-8hfe0ifl0"
+  "pid": "sn-8hfe0ifl0",
+  "haiku": {
+   "verdict": "accepted",
+   "category": "floating-hotels",
+   "scope": "whole_property",
+   "confidence": 0.85,
+   "feature": "Boat hotel (botel) on the Danube in Bratislava with 19 cabins over three decks; the evidence says 'on board the botel' but does not state the vessel is moored by name",
+   "reason": "The official page describes a botel on the Danube with 19 cabins on three floors, so it fits floating-hotels; the page is in Slovak and the owner-stated moorage is implied rather than explicit.",
+   "file": "data/pipeline/decisions/2026-11-23/checked.json",
+   "decidedAt": "2026-11-23",
+   "evidenceAt": "2026-11-23T09:15:20.213Z"
+  },
+  "prescreen": {
+   "action": "keep",
+   "rule": "pass",
+   "at": "2026-11-23T10:15:50.692Z",
+   "file": "data/pipeline/decisions/2026-11-23/checked.json",
+   "evidenceAt": "2026-11-23T09:15:20.213Z"
+  }
  },
  "osm:node/4005605087": {
   "id": "osm:node/4005605087",
@@ -94702,7 +94768,7 @@
   ],
   "lat": 43.233039,
   "lng": 12.5663846,
-  "website": null,
+  "website": "https://www.petroia.it",
   "wikidata": null,
   "country": "Italy",
   "city": "Gubbio",
@@ -94721,7 +94787,10 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-4lx2r0wfj"
+  "pid": "sn-4lx2r0wfj",
+  "siteSearchAt": "2026-11-23",
+  "websiteSource": "search",
+  "siteSearch": "found"
  },
  "osm:node/423805889": {
   "id": "osm:node/423805889",
@@ -99756,7 +99825,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-czg018ini"
+  "pid": "sn-czg018ini",
+  "siteSearchAt": "2026-11-23",
+  "siteSearch": "none"
  },
  "osm:node/4436480058": {
   "id": "osm:node/4436480058",
@@ -102659,7 +102730,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-cu8u9ovhz"
+  "pid": "sn-cu8u9ovhz",
+  "siteSearchAt": "2026-11-23",
+  "siteSearch": "none"
  },
  "osm:node/4547844389": {
   "id": "osm:node/4547844389",
@@ -102864,7 +102937,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-70ywpe8xn"
+  "pid": "sn-70ywpe8xn",
+  "siteSearchAt": "2026-11-23",
+  "siteSearch": "none"
  },
  "osm:node/4554386759": {
   "id": "osm:node/4554386759",
@@ -103690,7 +103765,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-iagjeiygk"
+  "pid": "sn-iagjeiygk",
+  "siteSearchAt": "2026-11-23",
+  "siteSearch": "none"
  },
  "osm:node/4584783797": {
   "id": "osm:node/4584783797",
@@ -158385,7 +158462,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "classified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": "Kilifi County",
@@ -158807,7 +158884,7 @@
    "man_made": "railway_car"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "classified",
   "firstSeen": "2026-10-07",
   "lastSeen": "2026-11-18",
   "region": "North Holland",
@@ -158828,7 +158905,25 @@
   "lastEvidence": "2026-11-23",
   "noEvidence": 1,
   "noEvidenceAt": "2026-10-24T06:04:08.106Z",
-  "pid": "sn-ch4c11yw6"
+  "pid": "sn-ch4c11yw6",
+  "haiku": {
+   "verdict": "accepted",
+   "category": "train-hotels",
+   "scope": "whole_property",
+   "confidence": 0.95,
+   "feature": "Hostel in original railway carriages (former Zürich–Rome night train) next to Amsterdam Sloterdijk station; guests sleep in the compartments",
+   "reason": "The whole hostel is made of original train carriages with guests sleeping in the compartments, a clear train-hotel fit.",
+   "file": "data/pipeline/decisions/2026-11-23/checked.json",
+   "decidedAt": "2026-11-23",
+   "evidenceAt": "2026-11-23T09:15:23.845Z"
+  },
+  "prescreen": {
+   "action": "keep",
+   "rule": "pass",
+   "at": "2026-11-23T10:15:50.692Z",
+   "file": "data/pipeline/decisions/2026-11-23/checked.json",
+   "evidenceAt": "2026-11-23T09:15:23.845Z"
+  }
  },
  "osm:node/9149449117": {
   "id": "osm:node/9149449117",
