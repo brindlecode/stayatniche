@@ -1,10 +1,10 @@
 {
- "at": "2026-11-22T10:15:53.504Z",
+ "at": "2026-11-23T09:10:39.975Z",
  "ok": true,
  "applied": {
   "needs_review": 73,
-  "accepted": 14,
-  "rejected": 11
+  "accepted": 13,
+  "rejected": 6
  },
  "pruned": 5,
  "unreadablePacks": 0

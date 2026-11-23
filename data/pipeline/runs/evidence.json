@@ -1,21 +1,19 @@
 {
- "at": "2026-11-22T08:08:28.117Z",
+ "at": "2026-11-23T09:16:03.538Z",
  "ok": true,
- "asked": 47,
- "packs": 6,
- "nothingReadable": 41,
+ "asked": 51,
+ "packs": 3,
+ "nothingReadable": 48,
  "errors": 0,
  "requeuedLostPacks": 0,
  "reasons": {
-  "website fetch failed: 403": 1,
-  "no website known": 13,
-  "website fetch failed: 409": 1,
+  "no website known": 16,
+  "website fetch failed: no connection": 19,
   "website fetch failed: 404": 5,
-  "robots.txt disallows fetching": 3,
-  "website fetch failed: no connection": 14,
   "website fetch failed: 410": 1,
-  "website fetch failed: 202": 1,
-  "website fetch failed: 520": 1,
-  "website fetch failed: 400": 1
+  "robots.txt disallows fetching": 3,
+  "website fetch failed: 406": 1,
+  "website fetch failed: 403": 2,
+  "website fetch failed: 500": 1
  }
 }
