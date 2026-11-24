@@ -5083,7 +5083,7 @@
    "stars": "5"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "classified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": null,
@@ -114163,7 +114163,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-i4n7bxrox"
+  "pid": "sn-i4n7bxrox",
+  "siteSearchAt": "2026-11-24",
+  "siteSearch": "none"
  },
  "osm:node/5127528921": {
   "id": "osm:node/5127528921",
@@ -115713,7 +115715,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-hgp53btct"
+  "pid": "sn-hgp53btct",
+  "siteSearchAt": "2026-11-24",
+  "siteSearch": "none"
  },
  "osm:node/5244801906": {
   "id": "osm:node/5244801906",
@@ -118877,7 +118881,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-5ssfe4eaz"
+  "pid": "sn-5ssfe4eaz",
+  "siteSearchAt": "2026-11-24",
+  "siteSearch": "none"
  },
  "osm:node/538237961": {
   "id": "osm:node/538237961",
@@ -123784,7 +123790,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-7xhht6i4f"
+  "pid": "sn-7xhht6i4f",
+  "siteSearchAt": "2026-11-24",
+  "siteSearch": "none"
  },
  "osm:node/5676786674": {
   "id": "osm:node/5676786674",
@@ -127362,7 +127370,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-k1tjnebnq"
+  "pid": "sn-k1tjnebnq",
+  "siteSearchAt": "2026-11-24",
+  "siteSearch": "none"
  },
  "osm:node/5912700345": {
   "id": "osm:node/5912700345",
@@ -127391,7 +127401,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-mt2zntqqi"
+  "pid": "sn-mt2zntqqi",
+  "siteSearchAt": "2026-11-24",
+  "siteSearch": "none"
  },
  "osm:node/5912708670": {
   "id": "osm:node/5912708670",
@@ -127420,7 +127432,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-1tf4vhoen"
+  "pid": "sn-1tf4vhoen",
+  "siteSearchAt": "2026-11-24",
+  "siteSearch": "none"
  },
  "osm:node/5914586898": {
   "id": "osm:node/5914586898",
@@ -128508,7 +128522,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-a6yfuhsyb"
+  "pid": "sn-a6yfuhsyb",
+  "siteSearchAt": "2026-11-24",
+  "siteSearch": "none"
  },
  "osm:node/5982150337": {
   "id": "osm:node/5982150337",
@@ -128984,7 +129000,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-6o01ihhdg"
+  "pid": "sn-6o01ihhdg",
+  "siteSearchAt": "2026-11-24",
+  "siteSearch": "none"
  },
  "osm:node/6026844997": {
   "id": "osm:node/6026844997",
@@ -135579,7 +135597,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-nsthek3l4"
+  "pid": "sn-nsthek3l4",
+  "siteSearchAt": "2026-11-24",
+  "siteSearch": "none"
  },
  "osm:node/6487395354": {
   "id": "osm:node/6487395354",
@@ -138470,7 +138490,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-kk3ylglnx"
+  "pid": "sn-kk3ylglnx",
+  "siteSearchAt": "2026-11-24",
+  "siteSearch": "none"
  },
  "osm:node/6725219267": {
   "id": "osm:node/6725219267",
@@ -140847,7 +140869,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-m2zgl63ma"
+  "pid": "sn-m2zgl63ma",
+  "siteSearchAt": "2026-11-24",
+  "siteSearch": "none"
  },
  "osm:node/6913715320": {
   "id": "osm:node/6913715320",
@@ -141140,7 +141164,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-eio1swwaq"
+  "pid": "sn-eio1swwaq",
+  "siteSearchAt": "2026-11-24",
+  "siteSearch": "none"
  },
  "osm:node/6959439767": {
   "id": "osm:node/6959439767",
@@ -142132,7 +142158,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-nxpuxcgvh"
+  "pid": "sn-nxpuxcgvh",
+  "siteSearchAt": "2026-11-24",
+  "siteSearch": "none"
  },
  "osm:node/7040862386": {
   "id": "osm:node/7040862386",
@@ -142319,7 +142347,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-lks3cxpef"
+  "pid": "sn-lks3cxpef",
+  "siteSearchAt": "2026-11-24",
+  "siteSearch": "none"
  },
  "osm:node/7048954085": {
   "id": "osm:node/7048954085",
@@ -143813,7 +143843,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-2h8ez0xjw"
+  "pid": "sn-2h8ez0xjw",
+  "siteSearchAt": "2026-11-24",
+  "siteSearch": "none"
  },
  "osm:node/7131347179": {
   "id": "osm:node/7131347179",
@@ -144081,7 +144113,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-wfvreon4o"
+  "pid": "sn-wfvreon4o",
+  "siteSearchAt": "2026-11-24",
+  "siteSearch": "none"
  },
  "osm:node/7145645476": {
   "id": "osm:node/7145645476",
@@ -149899,7 +149933,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-14pqxx4vu"
+  "pid": "sn-14pqxx4vu",
+  "siteSearchAt": "2026-11-24",
+  "siteSearch": "none"
  },
  "osm:node/7959797785": {
   "id": "osm:node/7959797785",
@@ -151808,7 +151844,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-r1008k25p"
+  "pid": "sn-r1008k25p",
+  "siteSearchAt": "2026-11-24",
+  "siteSearch": "none"
  },
  "osm:node/8250165572": {
   "id": "osm:node/8250165572",
@@ -154225,7 +154263,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-ysi7ue807"
+  "pid": "sn-ysi7ue807",
+  "siteSearchAt": "2026-11-24",
+  "siteSearch": "none"
  },
  "osm:node/8583912005": {
   "id": "osm:node/8583912005",
@@ -158462,7 +158502,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "classified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": "Kilifi County",

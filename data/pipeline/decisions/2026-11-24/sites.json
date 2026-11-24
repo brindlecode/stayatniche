@@ -1,0 +1,22 @@
+[
+  { "id": "osm:node/5126093622", "url": null, "title": null, "why": "only booking and listing sites in the results (icastelli.net is a castle listing network, not the property)" },
+  { "id": "osm:node/524347869", "url": null, "title": null, "why": "only directory listings; the hotelghiffa.com hit is a different property" },
+  { "id": "osm:node/538077207", "url": null, "title": null, "why": "only booking and listing sites in the results" },
+  { "id": "osm:node/5675283121", "url": null, "title": null, "why": "only booking and listing sites in the results" },
+  { "id": "osm:node/5912541779", "url": null, "title": null, "why": "castellodalcontres.com appears only as text in a directory, not as a result page, so it is unverified" },
+  { "id": "osm:node/5912700345", "url": null, "title": null, "why": "only booking and listing sites in the results" },
+  { "id": "osm:node/5912708670", "url": null, "title": null, "why": "only booking and listing sites in the results" },
+  { "id": "osm:node/5981860427", "url": null, "title": null, "why": "only booking and listing sites in the results" },
+  { "id": "osm:node/6025457784", "url": null, "title": null, "why": "results are unrelated listings and the Arco Castle tourism pages" },
+  { "id": "osm:node/6486029698", "url": null, "title": null, "why": "only booking and listing sites in the results" },
+  { "id": "osm:node/6723127704", "url": null, "title": null, "why": "only unrelated municipal and tourism pages in the results" },
+  { "id": "osm:node/6911655316", "url": null, "title": null, "why": "castellocanalis.com appears only as text in a heritage listing, not as a result page, so it is unverified" },
+  { "id": "osm:node/6946360014", "url": null, "title": null, "why": "only booking and listing sites in the results" },
+  { "id": "osm:node/703365154", "url": null, "title": null, "why": "no business by this name in the results" },
+  { "id": "osm:node/7046408997", "url": null, "title": null, "why": "only booking listings and municipal pages for a different suite in Castello Macchiaroli" },
+  { "id": "osm:node/7129246773", "url": null, "title": null, "why": "only booking and listing sites in the results" },
+  { "id": "osm:node/7141778392", "url": null, "title": null, "why": "no results mention this property" },
+  { "id": "osm:node/7959504659", "url": null, "title": null, "why": "only booking, directory and tourism listings in the results" },
+  { "id": "osm:node/8245190783", "url": null, "title": null, "why": "only Visit Trentino and tourism pages for Castel Drena, not the property's own site" },
+  { "id": "osm:node/8569919291", "url": null, "title": null, "why": "only a vacation rental listing in the results" }
+]
