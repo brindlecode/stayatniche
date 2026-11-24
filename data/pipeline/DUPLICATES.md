@@ -1,9 +1,11 @@
 # Tekrar kayıtlar
 
-Son çalışma: 2026-11-24. Bu çalışmada bulunan: 0 (onay kuyruğundan: 0). Kurallar: `pipeline/identity.mjs`.
+Son çalışma: 2026-11-24. Bu çalışmada bulunan: 2 (onay kuyruğundan: 0). Kurallar: `pipeline/identity.mjs`.
 
 | Kayıt | Durumu | Aynısı | Neden |
 |---|---|---|---|
+| Tuningi Safari Lodge (`wd:Q111859518`) | weak | Tuningi Safari Lodge (`osm:node/2657634333`, classified) | same source id |
+| Rhulani Safari Lodge (`wd:Q111401234`) | weak | Rhulani Safari Lodge (`osm:node/2657635193`, classified) | same source id |
 
 ## Olası tekrarlar (onay kuyruğunda, değiştirilmedi)
 
