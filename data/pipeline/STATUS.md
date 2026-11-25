@@ -2,7 +2,7 @@
 
 # Otel hattı durumu
 
-Güncelleme: 2026-11-24T11:09:08.170Z. Kuyrukta 8610 aday. Sitede yayında 202 otel, 37 taslak (239 dosya).
+Güncelleme: 2026-11-25T09:59:26.560Z. Kuyrukta 8611 aday. Sitede yayında 202 otel, 37 taslak (239 dosya).
 
 ## Dikkat
 
@@ -59,16 +59,16 @@ Onaylamak istediğiniz numaraları tek mesajda yazın, ör. "1 3 5-9". Listede o
 
 | Aşama | Aday | Not |
 |---|---|---|
-| Resmi sitesi bilinmiyor (site bulucu sırasında) | 4232 | aranan: 183, bulunan: 14 |
+| Resmi sitesi bilinmiyor (site bulucu sırasında) | 4233 | aranan: 183, bulunan: 14 |
 | Sitesi var, kanıt indirilecek (gece işi) | 0 |  |
-| Site okunamadı, 30 günde bir yeniden denenir (3 denemede elenir) | 860 | neden kaydedilmemiş (eski kayıt): 409; no website known: 144; website fetch failed: bağlantı yok: 131; website fetch failed: 403: 60 |
-| Kanıtı hazır, sınıflandırıcıyı bekliyor | 3 |  |
+| Site okunamadı, 30 günde bir yeniden denenir (3 denemede elenir) | 859 | neden kaydedilmemiş (eski kayıt): 353; no website known: 159; website fetch failed: bağlantı yok: 150; website fetch failed: 403: 66 |
+| Kanıtı hazır, sınıflandırıcıyı bekliyor | 5 |  |
 | **Sizin kararınızı bekliyor (onay kuyruğu)** | 508 | araştırma istenen: 0; son kararınız: 2026-11-17 |
 | Onaylı, yazarı bekliyor | 0 |  |
 | Onaylı ama yazılamadı (kanıt yetersiz) | 5 | yeni kanıt bekleyen: 0 |
 | Taslak sayfası hazır, "yayınla" bekliyor | 6 |  |
 | Yayında (bu hattan) | 129 |  |
-| Elendi / tekrar | 2869 |  |
+| Elendi / tekrar | 2870 |  |
 
 ## Yazılamayanlar
 
@@ -82,9 +82,9 @@ Onaylamak istediğiniz numaraları tek mesajda yazın, ör. "1 3 5-9". Listede o
 
 ## Otomatik ön eleme ve tekrarlar
 
-- Ön eleme (son çalışma 2026-11-24): elenen 0, araştırmaya gönderilen 0, kuyrukta kalan 0. Elenenlerin tek cümlelik nedeni onay sayfasında "Reddettiklerim" sekmesinde; isterseniz oradan yine onaylayabilirsiniz.
+- Ön eleme (son çalışma 2026-11-25): elenen 0, araştırmaya gönderilen 0, kuyrukta kalan 0. Elenenlerin tek cümlelik nedeni onay sayfasında "Reddettiklerim" sekmesinde; isterseniz oradan yine onaylayabilirsiniz.
 - Ön elemeyle toplam elenen: 1; araştırması süren: 0.
-- Tekrar kayıtlar (son çalışma 2026-11-24): bu çalışmada 2 bulundu (onay kuyruğundan 0); onay kuyruğunda olası tekrar 15. Liste: [DUPLICATES.md](DUPLICATES.md).
+- Tekrar kayıtlar (son çalışma 2026-11-25): bu çalışmada 0 bulundu (onay kuyruğundan 0); onay kuyruğunda olası tekrar 15. Liste: [DUPLICATES.md](DUPLICATES.md).
 
 ## Aylık yeniden kontrol (yayındaki oteller)
 
@@ -105,13 +105,13 @@ Son kontrol: 2026-11-17. 202 otel: sitesi açılan 194, açılmayan 8, resmi sit
 
 | Aşama | Zaman (UTC) | Sonuç |
 |---|---|---|
-| deploy | 2026-11-24 11:09 | state: live, live: 006fccd, expected: 14fb337, ageMin: 9516 |
-| evidence | 2026-11-24 11:09 | asked: 55, packs: 3, nothingReadable: 52, errors: 0, requeuedLostPacks: 0, reasons: {"robots.txt disallows fetching":9,"no website known":26,"website fetch failed: 403":5,"website fetch failed: 400":1,"website fetch failed: no connection":7,"website fetch failed: 404":4} |
-| prescreen | 2026-11-24 11:08 | reject: 0, research: 0, keep: 0, rules: {}, ownerTouched: 2, alreadyScreened: 506 |
-| dedupe | 2026-11-24 11:08 | properties: 8543, groupsWithSeveralRecords: 394, newIds: 4, idsMerged: 0, largeGroupsSkipped: 5, duplicates: 2, inReviewQueue: 0, ofPage: 0, ofCandidate: 2, byReason: {"same source id":2}, alreadyHasPage: 0, possibleInReviewQueue: 15 |
-| verify | 2026-11-24 11:08 | checked: 4, stillNew: 0 |
-| discover | 2026-11-24 11:08 | categories: ["safari-lodges","overwater-bungalows"], added: 4, total: 8610 |
-| apply | 2026-11-24 11:03 | applied: {"needs_review":73,"accepted":13,"rejected":6}, pruned: 0, unreadablePacks: 0 |
+| deploy | 2026-11-25 09:59 | state: live, live: 006fccd, expected: 14fb337, ageMin: 10887 |
+| evidence | 2026-11-25 09:59 | asked: 58, packs: 2, nothingReadable: 56, errors: 0, requeuedLostPacks: 0, reasons: {"website fetch failed: no connection":19,"website fetch failed: 403":6,"no website known":15,"website fetch failed: 404":8,"website fetch failed: 410":3,"robots.txt disallows fetching":5} |
+| prescreen | 2026-11-25 09:59 | reject: 0, research: 0, keep: 0, rules: {}, ownerTouched: 2, alreadyScreened: 506 |
+| dedupe | 2026-11-25 09:59 | properties: 8544, groupsWithSeveralRecords: 394, newIds: 1, idsMerged: 0, largeGroupsSkipped: 5, duplicates: 0, inReviewQueue: 0, ofPage: 0, ofCandidate: 0, byReason: {}, alreadyHasPage: 0, possibleInReviewQueue: 15 |
+| verify | 2026-11-25 09:58 | checked: 1, stillNew: 0 |
+| discover | 2026-11-25 09:58 | categories: ["lighthouse-hotels","train-hotels"], added: 1, total: 8611 |
+| apply | 2026-11-25 09:54 | applied: {"needs_review":73,"accepted":13,"rejected":6}, pruned: 0, unreadablePacks: 0 |
 | sites | 2026-11-24 10:15 | found: 0, none: 20, refused: 0 |
 | sites-todo | 2026-11-24 10:14 | withoutWebsite: 4082, taken: 20 |
 | review | 2026-11-24 10:14 | newDocs: 0, updates: 6, onPage: 739, exportGiven: true |
@@ -131,7 +131,7 @@ Son kontrol: 2026-11-17. 202 otel: sitesi açılan 194, açılmayan 8, resmi sit
 |---|---|---|---|---|---|---|---|---|---|---|
 | treehouse-hotels | 0 | 0 | 206 | 27 | 0 | 0 | 2 | 11 | 189 | 14 |
 | cave-hotels | 0 | 0 | 564 | 23 | 0 | 0 | 0 | 20 | 136 | 33 |
-| underwater-rooms | 0 | 0 | 7 | 0 | 0 | 0 | 0 | 0 | 3 | 3 |
+| underwater-rooms | 0 | 0 | 6 | 0 | 0 | 0 | 0 | 0 | 4 | 3 |
 | castle-hotels | 0 | 3 | 745 | 213 | 0 | 4 | 3 | 49 | 625 | 30 |
 | floating-hotels | 0 | 0 | 68 | 18 | 0 | 0 | 0 | 4 | 16 | 12 |
 | bubble-hotels | 0 | 0 | 210 | 4 | 0 | 0 | 0 | 5 | 355 | 5 |
@@ -141,5 +141,5 @@ Son kontrol: 2026-11-17. 202 otel: sitesi açılan 194, açılmayan 8, resmi sit
 | ice-hotels | 0 | 0 | 92 | 5 | 0 | 0 | 0 | 2 | 69 | 22 |
 | safari-lodges | 0 | 2 | 839 | 107 | 0 | 0 | 0 | 3 | 107 | 80 |
 | overwater-bungalows | 0 | 0 | 39 | 0 | 0 | 0 | 0 | 3 | 2 | 35 |
-| lighthouse-hotels | 0 | 0 | 423 | 13 | 0 | 0 | 0 | 11 | 539 | 9 |
+| lighthouse-hotels | 0 | 0 | 424 | 13 | 0 | 0 | 0 | 11 | 539 | 9 |
 | train-hotels | 0 | 0 | 459 | 10 | 0 | 0 | 0 | 8 | 158 | 41 |
