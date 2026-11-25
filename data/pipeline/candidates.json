@@ -5084,7 +5084,7 @@
    "stars": "5"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "classified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": null,
@@ -94891,7 +94891,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "classified",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-20",
   "region": "Umbria",
@@ -94906,7 +94906,25 @@
   "siteSearchAt": "2026-11-23",
   "websiteSource": "search",
   "siteSearch": "found",
-  "lastEvidence": "2026-11-24"
+  "lastEvidence": "2026-11-24",
+  "haiku": {
+   "verdict": "accepted",
+   "category": "castle-hotels",
+   "scope": "whole_property",
+   "confidence": 0.95,
+   "feature": "Guest rooms and suites inside a medieval castle (11th-century fortress) in Umbria",
+   "reason": "Rooms and suites are inside the medieval castle building itself, so it qualifies as a castle hotel for the whole property; the site was found by search but its text matches Castello di Petroia near Gubbio.",
+   "file": "data/pipeline/decisions/2026-11-25/checked.json",
+   "decidedAt": "2026-11-25",
+   "evidenceAt": "2026-11-24T11:08:42.291Z"
+  },
+  "prescreen": {
+   "action": "keep",
+   "rule": "pass",
+   "at": "2026-11-25T10:15:35.026Z",
+   "file": "data/pipeline/decisions/2026-11-25/checked.json",
+   "evidenceAt": "2026-11-24T11:08:42.291Z"
+  }
  },
  "osm:node/423805889": {
   "id": "osm:node/423805889",
@@ -151206,7 +151224,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-10-11",
   "lastSeen": "2026-11-22",
   "region": "West Pomeranian Voivodeship",
@@ -151222,12 +151240,23 @@
   },
   "checkedAt": "2026-10-11",
   "reasons": [
-   "no category evidence on official website"
+   "haiku: An ordinary guesthouse in Międzyzdroje: the name Cliff House is the only cliff hint, and the listing describes normal rooms with balconies, not rooms on or into a cliff, so it does not fit cliffside-hotels; the pages are a third-party booking listing (nocowanie.pl), not the owner's site."
   ],
   "lastEvidence": "2026-11-25",
   "noEvidence": 1,
   "noEvidenceAt": "2026-10-26T06:24:15.437Z",
-  "pid": "sn-hcd7k5wpo"
+  "pid": "sn-hcd7k5wpo",
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.3,
+   "feature": null,
+   "reason": "An ordinary guesthouse in Międzyzdroje: the name Cliff House is the only cliff hint, and the listing describes normal rooms with balconies, not rooms on or into a cliff, so it does not fit cliffside-hotels; the pages are a third-party booking listing (nocowanie.pl), not the owner's site.",
+   "file": "data/pipeline/decisions/2026-11-25/checked.json",
+   "decidedAt": "2026-11-25",
+   "evidenceAt": "2026-11-25T09:59:05.705Z"
+  }
  },
  "osm:node/8158489869": {
   "id": "osm:node/8158489869",
@@ -155947,7 +155976,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-dencjnlz8"
+  "pid": "sn-dencjnlz8",
+  "siteSearchAt": "2026-11-25",
+  "siteSearch": "none"
  },
  "osm:node/8821153262": {
   "id": "osm:node/8821153262",
@@ -156623,7 +156654,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-2xa6i3hfl"
+  "pid": "sn-2xa6i3hfl",
+  "siteSearchAt": "2026-11-25",
+  "siteSearch": "none"
  },
  "osm:node/8927733761": {
   "id": "osm:node/8927733761",
@@ -158652,7 +158685,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "classified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": "Kilifi County",
@@ -163897,7 +163930,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-z1t484hsc"
+  "pid": "sn-z1t484hsc",
+  "siteSearchAt": "2026-11-25",
+  "siteSearch": "none"
  },
  "osm:node/9664629061": {
   "id": "osm:node/9664629061",
@@ -165326,7 +165361,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-oebgachnr"
+  "pid": "sn-oebgachnr",
+  "siteSearchAt": "2026-11-25",
+  "siteSearch": "none"
  },
  "osm:node/9796051989": {
   "id": "osm:node/9796051989",
@@ -170138,7 +170175,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-o3q08ln1q"
+  "pid": "sn-o3q08ln1q",
+  "siteSearchAt": "2026-11-25",
+  "siteSearch": "none"
  },
  "osm:relation/17611452": {
   "id": "osm:relation/17611452",
@@ -170744,7 +170783,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-udou3h108"
+  "pid": "sn-udou3h108",
+  "siteSearchAt": "2026-11-25",
+  "siteSearch": "none"
  },
  "osm:relation/21149091": {
   "id": "osm:relation/21149091",
@@ -172428,7 +172469,7 @@
   ],
   "lat": 45.7520289,
   "lng": 8.5310257,
-  "website": null,
+  "website": "https://www.castellodalpozzo.com/en/node/4",
   "wikidata": null,
   "country": "Italy",
   "city": "Oleggio Castello",
@@ -172447,7 +172488,10 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-s535v9nzn"
+  "pid": "sn-s535v9nzn",
+  "siteSearchAt": "2026-11-25",
+  "websiteSource": "search",
+  "siteSearch": "found"
  },
  "osm:relation/6949295": {
   "id": "osm:relation/6949295",
@@ -172619,7 +172663,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-8jy1rrmat"
+  "pid": "sn-8jy1rrmat",
+  "siteSearchAt": "2026-11-25",
+  "siteSearch": "none"
  },
  "osm:relation/7771492": {
   "id": "osm:relation/7771492",
@@ -184082,7 +184128,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-get47kfbz"
+  "pid": "sn-get47kfbz",
+  "siteSearchAt": "2026-11-25",
+  "siteSearch": "none"
  },
  "osm:way/1188643005": {
   "id": "osm:way/1188643005",
@@ -191158,7 +191206,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-548tdv80w"
+  "pid": "sn-548tdv80w",
+  "siteSearchAt": "2026-11-25",
+  "siteSearch": "none"
  },
  "osm:way/1302552407": {
   "id": "osm:way/1302552407",
@@ -198128,7 +198178,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-lhlsvi2hs"
+  "pid": "sn-lhlsvi2hs",
+  "siteSearchAt": "2026-11-25",
+  "siteSearch": "none"
  },
  "osm:way/143832363": {
   "id": "osm:way/143832363",
@@ -203766,7 +203818,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-5ej5lgmgv"
+  "pid": "sn-5ej5lgmgv",
+  "siteSearchAt": "2026-11-25",
+  "siteSearch": "none"
  },
  "osm:way/1518983516": {
   "id": "osm:way/1518983516",
@@ -207884,7 +207938,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-i0xlaway5"
+  "pid": "sn-i0xlaway5",
+  "siteSearchAt": "2026-11-25",
+  "siteSearch": "none"
  },
  "osm:way/164683516": {
   "id": "osm:way/164683516",
@@ -210906,7 +210962,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-d7l64vnwq"
+  "pid": "sn-d7l64vnwq",
+  "siteSearchAt": "2026-11-25",
+  "siteSearch": "none"
  },
  "osm:way/183140217": {
   "id": "osm:way/183140217",
@@ -212280,7 +212338,7 @@
    "stars": "4"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-10-05",
   "lastSeen": "2026-11-23",
   "category": "jungle-lodges",
@@ -212292,12 +212350,23 @@
   },
   "checkedAt": "2026-10-05",
   "reasons": [
-   "no category evidence on official website"
+   "haiku: The website is a parked domain page saying the domain is for sale, so it is not evidence about the property; the only lodging signal is the OSM hotel tag and the name La Selva, with no jungle or rainforest description, so jungle-lodges is not supported."
   ],
   "lastEvidence": "2026-11-24",
   "noEvidence": 1,
   "noEvidenceAt": "2026-10-25T06:18:57.803Z",
-  "pid": "sn-htqdltlfx"
+  "pid": "sn-htqdltlfx",
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.2,
+   "feature": null,
+   "reason": "The website is a parked domain page saying the domain is for sale, so it is not evidence about the property; the only lodging signal is the OSM hotel tag and the name La Selva, with no jungle or rainforest description, so jungle-lodges is not supported.",
+   "file": "data/pipeline/decisions/2026-11-25/checked.json",
+   "decidedAt": "2026-11-25",
+   "evidenceAt": "2026-11-24T11:08:48.433Z"
+  }
  },
  "osm:way/193430133": {
   "id": "osm:way/193430133",
@@ -213764,7 +213833,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-3mlc8ae48"
+  "pid": "sn-3mlc8ae48",
+  "siteSearchAt": "2026-11-25",
+  "siteSearch": "none"
  },
  "osm:way/202355143": {
   "id": "osm:way/202355143",
@@ -215821,7 +215892,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-u3mu0bptz"
+  "pid": "sn-u3mu0bptz",
+  "siteSearchAt": "2026-11-25",
+  "siteSearch": "none"
  },
  "osm:way/217546935": {
   "id": "osm:way/217546935",
@@ -220778,7 +220851,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-ql2b66cym"
+  "pid": "sn-ql2b66cym",
+  "siteSearchAt": "2026-11-25",
+  "siteSearch": "none"
  },
  "osm:way/241934527": {
   "id": "osm:way/241934527",
@@ -224695,7 +224770,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-gwabh5qzx"
+  "pid": "sn-gwabh5qzx",
+  "siteSearchAt": "2026-11-25",
+  "siteSearch": "none"
  },
  "osm:way/263538533": {
   "id": "osm:way/263538533",
@@ -226103,7 +226180,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-wwkz43o5i"
+  "pid": "sn-wwkz43o5i",
+  "siteSearchAt": "2026-11-25",
+  "siteSearch": "none"
  },
  "osm:way/271461379": {
   "id": "osm:way/271461379",
@@ -228751,7 +228830,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-9qlhgo3bz"
+  "pid": "sn-9qlhgo3bz",
+  "siteSearchAt": "2026-11-25",
+  "siteSearch": "none"
  },
  "osm:way/287488702": {
   "id": "osm:way/287488702",
@@ -271646,7 +271727,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-10-05",
   "lastSeen": "2026-11-23",
   "region": "England",
@@ -271662,12 +271743,23 @@
   },
   "checkedAt": "2026-10-05",
   "reasons": [
-   "no category evidence on official website"
+   "haiku: Woodland eco lodges on the Greensand Ridge in England, not a rainforest or cloud forest, so the queueCategory jungle-lodges is wrong; no other category fits, so it is a general lodge with no unusual niche in the evidence."
   ],
   "lastEvidence": "2026-11-25",
   "noEvidence": 1,
   "noEvidenceAt": "2026-10-26T06:24:15.071Z",
-  "pid": "sn-m3oov0kke"
+  "pid": "sn-m3oov0kke",
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.5,
+   "feature": null,
+   "reason": "Woodland eco lodges on the Greensand Ridge in England, not a rainforest or cloud forest, so the queueCategory jungle-lodges is wrong; no other category fits, so it is a general lodge with no unusual niche in the evidence.",
+   "file": "data/pipeline/decisions/2026-11-25/checked.json",
+   "decidedAt": "2026-11-25",
+   "evidenceAt": "2026-11-25T09:59:06.256Z"
+  }
  },
  "osm:way/72499436": {
   "id": "osm:way/72499436",
@@ -287675,7 +287767,7 @@
    "tourism": "wilderness_hut"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "classified",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-11-24",
   "region": "Puntarenas Province",
@@ -287694,7 +287786,25 @@
   "lastEvidence": "2026-11-24",
   "noEvidence": 1,
   "noEvidenceAt": "2026-10-25T06:17:49.268Z",
-  "pid": "sn-r322wdlyl"
+  "pid": "sn-r322wdlyl",
+  "haiku": {
+   "verdict": "needs_review",
+   "category": "jungle-lodges",
+   "scope": "whole_property",
+   "confidence": 0.7,
+   "feature": "Seven tents pitched in the jungle, not a game-drive safari reserve",
+   "reason": "Seven tents set in the jungle, so jungle-lodges fits better than safari-lodges: the evidence shows no reserve, no game drives and no safari activity, and the name Safari is only a name hint.",
+   "file": "data/pipeline/decisions/2026-11-25/checked.json",
+   "decidedAt": "2026-11-25",
+   "evidenceAt": "2026-11-24T11:08:42.324Z"
+  },
+  "prescreen": {
+   "action": "keep",
+   "rule": "pass",
+   "at": "2026-11-25T10:15:35.026Z",
+   "file": "data/pipeline/decisions/2026-11-25/checked.json",
+   "evidenceAt": "2026-11-24T11:08:42.324Z"
+  }
  },
  "osm:way/99670119": {
   "id": "osm:way/99670119",

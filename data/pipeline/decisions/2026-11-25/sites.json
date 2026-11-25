@@ -1,0 +1,22 @@
+[
+  { "id": "osm:node/8819251056", "url": null, "title": null, "why": "Only booking and listing pages were found, no property site." },
+  { "id": "osm:node/8927600908", "url": null, "title": null, "why": "Only booking and listing pages were found, no property site." },
+  { "id": "osm:node/966214314", "url": null, "title": null, "why": "Results were for other Il Castello properties in other regions, none in Marsico Nuovo." },
+  { "id": "osm:node/9794472842", "url": null, "title": null, "why": "Only booking and listing pages were found, no property site." },
+  { "id": "osm:relation/17260933", "url": null, "title": null, "why": "Only booking and listing pages were found, no property site." },
+  { "id": "osm:relation/2106877", "url": null, "title": null, "why": "The domain castellodivalenzano.it appeared only inside a listing, not as a result from the site itself." },
+  { "id": "osm:relation/6923604", "url": "https://www.castellodalpozzo.com/en/node/4", "title": "www.castellodalpozzo.com", "why": "The property's own domain appears as a search result and matches the Oleggio Castello location." },
+  { "id": "osm:relation/7611323", "url": null, "title": null, "why": "The domain ilpiccolocastello.com appeared only in directory listings, not as a result from the site itself." },
+  { "id": "osm:way/1188488339", "url": null, "title": null, "why": "The domain castellodisanfabiano.com appeared only as a link in a Wikipedia article, not as a site result." },
+  { "id": "osm:way/1302321679", "url": null, "title": null, "why": "Only booking and listing pages were found, no property site." },
+  { "id": "osm:way/143733637", "url": null, "title": null, "why": "Only event listings and tourism pages were found, no property site." },
+  { "id": "osm:way/151731462", "url": null, "title": null, "why": "The domain relaissanvigilio.it appeared only inside a listing, not as a result from the site itself." },
+  { "id": "osm:way/164673173", "url": null, "title": null, "why": "No result for the name in Carpineti, only aggregator pages." },
+  { "id": "osm:way/183137469", "url": null, "title": null, "why": "The domain castelloleonina.com appeared only in directory listings, not as a result from the site itself." },
+  { "id": "osm:way/201961144", "url": null, "title": null, "why": "No result for the name, only general pages about Balestrino." },
+  { "id": "osm:way/217529416", "url": null, "title": null, "why": "No property site found, only a press page mentioning the family estate." },
+  { "id": "osm:way/241887676", "url": null, "title": null, "why": "No result mentioned this hotel or Pradleves." },
+  { "id": "osm:way/263508938", "url": null, "title": null, "why": "Only booking and listing pages were found, no property site." },
+  { "id": "osm:way/271455566", "url": null, "title": null, "why": "Only booking and a regional directory listing were found, no property site." },
+  { "id": "osm:way/287331434", "url": null, "title": null, "why": "Only directory and farm-stay listings were found, no property site." }
+]

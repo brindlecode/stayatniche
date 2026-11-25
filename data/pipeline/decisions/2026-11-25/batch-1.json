@@ -1,0 +1,225 @@
+[
+ {
+  "id": "osm:node/4237459651",
+  "is_lodging": true,
+  "operating_status": "seasonal",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Guest rooms and suites inside a medieval castle (11th-century fortress) in Umbria",
+  "category_quote": "È possibile pernottare in camere e suite situate all interno degli edifici medievali del castello.",
+  "confidence": 0.95,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castello di Petroia",
+  "property_type": "hotel",
+  "address": "Località Petroia, 06024 Gubbio (PG), Italia",
+  "room_count": {
+    "value": 16,
+    "quote": "un castello dell’XI secolo ospita 16 camere e suite"
+  },
+  "amenities": [
+    {
+      "text": "Breakfast included",
+      "quote": "La prima colazione è sempre inclusa nel soggiorno."
+    },
+    {
+      "text": "Restaurant serving seasonal Umbrian cuisine",
+      "quote": "La cucina segue le stagioni e valorizza ingredienti umbri e prodotti della tenuta."
+    },
+    {
+      "text": "Outdoor swimming pool; some suites have whirlpool tubs",
+      "quote": "Sì, piscina panoramica e in alcune suite sono disponibili vasche idromassaggio/jacuzzi."
+    }
+  ],
+  "highlights": [
+    {
+      "text": "Birthplace of Federico da Montefeltro, Duke of Urbino",
+      "quote": "nel 1422 vi nacque Federico da Montefeltro, futuro duca di Urbino"
+    },
+    {
+      "text": "Rooms in the medieval keep tower",
+      "quote": "Dormire in mille anni di storia."
+    },
+    {
+      "text": "Over 10 km of marked trails across the estate",
+      "quote": "Nella tenuta, oltre 10 km di sentieri segnalati seguono antichi percorsi rurali tra querce secolari"
+    }
+  ],
+  "season": {
+    "text": "Open 1 April 2026 to 6 January 2027 (2026-2027 season)",
+    "quote": "Dal 1° aprile 2026 al 6 gennaio 2027."
+  },
+  "check_in": "15:00 to 22:00",
+  "check_out": "09:00 to 10:30",
+  "access": {
+    "text": "Set in the countryside about 15-16 km from Gubbio; a car is useful",
+    "quote": "Essendo il castello immerso nella campagna, un’auto potrebbe essere utile per spostarsi."
+  },
+  "audience": "unknown",
+  "best_for": ["couples", "weddings"],
+  "reason": "Rooms and suites are inside the medieval castle building itself, so it qualifies as a castle hotel for the whole property; the site was found by search but its text matches Castello di Petroia near Gubbio."
+ },
+ {
+  "id": "osm:node/8148553753",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": ["listing_site", "theme_only"],
+  "other_niche_type": null,
+  "official_name": "Pokoje CLIFF House Międzyzdroje",
+  "property_type": "guesthouse",
+  "address": "ulica Nowomyśliwska 46, 72-500 Międzyzdroje, Poland",
+  "room_count": {
+    "value": 18,
+    "quote": "oferuje 18 dobrze wyposażonych pokoi dla osób poszukujących noclegu w Międzyzdroje"
+  },
+  "amenities": [
+    {
+      "text": "Private car parking (paid)",
+      "quote": "Przy dom gościnny dostępny jest parking, gdzie możesz zostawić samochód za dodatkową opłatą."
+    },
+    {
+      "text": "WiFi",
+      "quote": "W domu gościnnym możesz być online dzięki bezprzewodowemu połączeniu z Internetem (WiFi)."
+    }
+  ],
+  "highlights": [],
+  "season": null,
+  "check_in": "from 15:00 (earliest)",
+  "check_out": "until 10:00 (latest)",
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "An ordinary guesthouse in Międzyzdroje: the name Cliff House is the only cliff hint, and the listing describes normal rooms with balconies, not rooms on or into a cliff, so it does not fit cliffside-hotels; the pages are a third-party booking listing (nocowanie.pl), not the owner's site."
+ },
+ {
+  "id": "osm:way/192705065",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.2,
+  "red_flags": ["for_sale", "theme_only"],
+  "other_niche_type": null,
+  "official_name": "Hotel/Motel La Selva",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The website is a parked domain page saying the domain is for sale, so it is not evidence about the property; the only lodging signal is the OSM hotel tag and the name La Selva, with no jungle or rainforest description, so jungle-lodges is not supported."
+ },
+ {
+  "id": "osm:way/724733485",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.5,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Clophill Eco Lodges",
+  "property_type": "lodge",
+  "address": "Old Church Path, Clophill, MK45, England",
+  "room_count": {
+    "value": 6,
+    "quote": "There are six lodges sleeping 24 and two shared buildings, The Nest and The Hive"
+  },
+  "amenities": [
+    {
+      "text": "Fire pit, BBQ area and footpaths from the lodges",
+      "quote": "a fire pit, a BBQ area and footpaths from the door"
+    }
+  ],
+  "highlights": [
+    {
+      "text": "Marquee weddings for up to 120 guests",
+      "quote": "a larger day with a marquee (maximum 120 guests)"
+    },
+    {
+      "text": "Next to St Mary's Old Church, an ancient scheduled monument",
+      "quote": "Next door, St Mary's Old Church, an ancient scheduled monument, adds a setting of its own"
+    }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+    "text": "A short drive from Bedford and about an hour from London",
+    "quote": "a short drive from Bedford and about an hour from London"
+  },
+  "audience": "unknown",
+  "best_for": ["group getaways", "weddings", "corporate retreats"],
+  "reason": "Woodland eco lodges on the Greensand Ridge in England, not a rainforest or cloud forest, so the queueCategory jungle-lodges is wrong; no other category fits, so it is a general lodge with no unusual niche in the evidence."
+ },
+ {
+  "id": "osm:way/996508141",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "jungle-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Seven tents pitched in the jungle, not a game-drive safari reserve",
+  "category_quote": "Les 7 tentes sont ancrées dans la jungle",
+  "confidence": 0.7,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "El Pulpo - Safari Lodge",
+  "property_type": "camp",
+  "address": "Puerto Cortés, Puntarenas Province, Costa Rica",
+  "room_count": {
+    "value": 7,
+    "quote": "El Pulpo Safari Lodge propose 7 tentes de differentes tailles"
+  },
+  "amenities": [
+    {
+      "text": "Private bathroom and kitchen in the larger tents",
+      "quote": "Salle de bain, cuisine / bathroom, kitchen"
+    },
+    {
+      "text": "Shared shower with hot water in the smallest tent",
+      "quote": "Douche et toilettes communes avec eau chaude / shared shower (hot water) and toilet"
+    }
+  ],
+  "highlights": [
+    {
+      "text": "Tents in the jungle with birdsong and diverse wildlife",
+      "quote": "vous vous réveillerez au chant des oiseaux et vous pourrez observer une faune très diversifiée"
+    },
+    {
+      "text": "Central location for South Pacific activities; coast is very unspoiled",
+      "quote": "Localisé au centre des activités majeures du Pacific sud, où la côte est très préservée"
+    }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": ["nature travelers", "couples"],
+  "reason": "Seven tents set in the jungle, so jungle-lodges fits better than safari-lodges: the evidence shows no reserve, no game drives and no safari activity, and the name Safari is only a name hint."
+ }
+]

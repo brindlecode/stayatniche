@@ -1,8 +1,8 @@
 {
- "at": "2026-11-24T10:14:23.639Z",
+ "at": "2026-11-25T10:14:16.856Z",
  "ok": true,
- "needDecision": 0,
- "taken": 0,
- "batches": 0,
+ "needDecision": 5,
+ "taken": 5,
+ "batches": 1,
  "unreadablePacks": 0
 }
