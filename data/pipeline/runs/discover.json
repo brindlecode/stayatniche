@@ -1,10 +1,14 @@
 {
- "at": "2026-11-25T09:58:57.977Z",
- "ok": true,
+ "at": "2026-11-26T09:39:06.442Z",
+ "ok": false,
  "categories": [
-  "lighthouse-hotels",
-  "train-hotels"
+  "treehouse-hotels",
+  "cave-hotels"
  ],
  "added": 1,
- "total": 8611
+ "total": 8612,
+ "noAnswerFromOverpass": [
+  "treehouse-hotels",
+  "cave-hotels"
+ ]
 }
