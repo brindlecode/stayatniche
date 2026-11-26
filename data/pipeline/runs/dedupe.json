@@ -1,18 +1,16 @@
 {
- "at": "2026-11-26T09:39:09.580Z",
+ "at": "2026-11-26T10:14:49.229Z",
  "ok": true,
  "properties": 8544,
  "groupsWithSeveralRecords": 395,
- "newIds": 1,
+ "newIds": 0,
  "idsMerged": 0,
  "largeGroupsSkipped": 5,
- "duplicates": 1,
+ "duplicates": 0,
  "inReviewQueue": 0,
  "ofPage": 0,
- "ofCandidate": 1,
- "byReason": {
-  "same source id": 1
- },
+ "ofCandidate": 0,
+ "byReason": {},
  "alreadyHasPage": 0,
  "possibleInReviewQueue": 15
 }

@@ -1,0 +1,22 @@
+[
+  { "id": "osm:way/317626591", "url": null, "title": null, "why": "Only third-party listings in the results; no property-run site found." },
+  { "id": "osm:way/319181137", "url": null, "title": null, "why": "Results show only a similarly named estate (Tenuta di Vignale) and listing sites, not this property." },
+  { "id": "osm:way/342482969", "url": null, "title": null, "why": "Only Turismo Roma and booking listings name lacastelluccia.com; that domain was never returned as a page, so not accepted." },
+  { "id": "osm:way/48494454", "url": null, "title": null, "why": "Only a third-party listing names hotelcastellomiramare.it; the site itself never appeared in results." },
+  { "id": "osm:way/654958903", "url": "https://www.belmond.com/hotels/europe/italy/tuscany/belmond-castello-di-casole/location", "title": "www.belmond.com", "why": "Operator's own Belmond page for this hotel, with the Casole d'Elsa location." },
+  { "id": "osm:way/71865955", "url": null, "title": null, "why": "Only Visit Trentino booking listings for a B&B in Besenello; no own site found." },
+  { "id": "osm:way/722709398", "url": null, "title": null, "why": "Only booking and directory listings; no own site found for a Sovicille hotel." },
+  { "id": "osm:way/722714250", "url": null, "title": null, "why": "Only booking and directory listings; the official site URL was not shown in results." },
+  { "id": "osm:way/749284153", "url": null, "title": null, "why": "Only travel aggregator listings; no official site found." },
+  { "id": "osm:way/888681860", "url": null, "title": null, "why": "Directory listings cite trattoriadelcastello.it, but the site itself never appeared in results, so not accepted." },
+  { "id": "osm:way/91369360", "url": null, "title": null, "why": "A listing labels an official website but the URL is not shown; no own site found." },
+  { "id": "osm:way/978756846", "url": null, "title": null, "why": "Only a third-party booking page for the castle B&B; no own site found." },
+  { "id": "osm:node/10175664267", "url": null, "title": null, "why": "Only third-party listings and sa-venues directory pages; no own site found." },
+  { "id": "osm:node/11073660722", "url": null, "title": null, "why": "Only travel and directory listings; no own site found." },
+  { "id": "osm:node/11259633065", "url": null, "title": null, "why": "Only LekkeSlaap and similar listing pages; no own site found." },
+  { "id": "osm:node/11726897735", "url": null, "title": null, "why": "Only booking platform listings; no own site found." },
+  { "id": "osm:node/11780176823", "url": null, "title": null, "why": "Results show a different Zebra Nature Reserve operator and listings, not a Zebra Bush Camp site." },
+  { "id": "osm:node/1189780224", "url": null, "title": null, "why": "No result for this name in Rooi Ivoor; only unrelated camps and directories." },
+  { "id": "osm:node/1206182116", "url": null, "title": null, "why": "No result for this name in Kiaat; only unrelated campsites and directories." },
+  { "id": "osm:node/1206182898", "url": null, "title": null, "why": "No result for this name in Soetdoring; only unrelated campsites and directories." }
+]

@@ -1,0 +1,35 @@
+[
+ {
+  "id": "osm:way/303936539",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a castle hotel in Petra; the evidence does not describe the building or its rooms",
+  "category_quote": null,
+  "confidence": 0.2,
+  "red_flags": [
+   "chain_generic",
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Mövenpick Nabatean Castle Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The website is the generic Mövenpick chain site, whose fetched pages cover Tangier, Tunis and other hotels but never mention this Petra property or any castle, so the castle fit rests only on the name and the evidence is not about this property.",
+  "evidenceAt": "2026-11-26T09:39:10.125Z",
+  "verdict": "rejected",
+  "dropped": []
+ }
+]

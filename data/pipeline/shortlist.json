@@ -1,8 +1,8 @@
 {
- "week": "2026-W47",
- "builtAt": "2026-11-17T20:10:51.720Z",
+ "week": "2026-W48",
+ "builtAt": "2026-11-26T10:16:00.738Z",
  "size": 40,
- "waiting": 469,
+ "waiting": 486,
  "howToApprove": "Onaylamak istediğiniz numaraları tek mesajda yazın, ör. \"1 3 5-9\". Listede olup seçmedikleriniz kuyrukta kalır.",
  "items": [
   {
@@ -736,6 +736,60 @@
   },
   {
    "n": 28,
+   "id": "osm:node/9142767672",
+   "doc": "osm_node_9142767672",
+   "pid": "sn-ch4c11yw6",
+   "name": "Train Lodge Hostel Amsterdam",
+   "place": "Amsterdam, Netherlands",
+   "cat": "train-hotels",
+   "catTr": "Tren / vagon",
+   "feature": "Hostel in original railway carriages (former Zürich–Rome night train) next to Amsterdam Sloterdijk station; guests sleep in the compartments",
+   "featureTr": "Amsterdam Sloterdijk istasyonunun yanında, özgün tren vagonlarında (eski Zürih–Roma gece treni) kurulmuş bir hostel; konuklar kompartımanlarda uyuyor.",
+   "scope": "whole_property",
+   "confidence": 0.95,
+   "source": "https://trainlodge.com/en/home-page/",
+   "sourceKind": "resmi site",
+   "commission": "kontrol edilmedi",
+   "expediaUrl": null,
+   "score": 88,
+   "parts": {
+    "scope": 30,
+    "confidence": 29,
+    "ownSite": 15,
+    "category": 11,
+    "expedia": 3
+   },
+   "state": "bekliyor"
+  },
+  {
+   "n": 29,
+   "id": "wd:Q125844616",
+   "doc": "wd_Q125844616",
+   "pid": "sn-hz7q9lwvm",
+   "name": "Good Hotel London",
+   "place": "Greater London, United Kingdom",
+   "cat": "floating-hotels",
+   "catTr": "Yüzen",
+   "feature": "Whole hotel is a floating hotel on the Royal Victoria dock, London, converted from a former accommodation platform that was towed across the North Sea",
+   "featureTr": "Otelin tamamı, Londra’daki Royal Victoria rıhtımında yüzen bir otel; Kuzey Denizi’nden çekilerek getirilen eski bir konaklama platformundan dönüştürülmüş.",
+   "scope": "whole_property",
+   "confidence": 0.9,
+   "source": "https://goodhotel.co/london/faq",
+   "sourceKind": "resmi site",
+   "commission": "kontrol edilmedi",
+   "expediaUrl": null,
+   "score": 87,
+   "parts": {
+    "scope": 30,
+    "confidence": 27,
+    "ownSite": 15,
+    "category": 12,
+    "expedia": 3
+   },
+   "state": "bekliyor"
+  },
+  {
+   "n": 30,
    "id": "osm:node/12973449132",
    "doc": "osm_node_12973449132",
    "pid": "sn-8fubd32vi",
@@ -762,7 +816,7 @@
    "state": "bekliyor"
   },
   {
-   "n": 29,
+   "n": 31,
    "id": "osm:node/13495640701",
    "doc": "osm_node_13495640701",
    "pid": "sn-4owzyqh9c",
@@ -789,7 +843,7 @@
    "state": "bekliyor"
   },
   {
-   "n": 30,
+   "n": 32,
    "id": "osm:node/13815401412",
    "doc": "osm_node_13815401412",
    "pid": "sn-6j2z61gzw",
@@ -816,7 +870,7 @@
    "state": "bekliyor"
   },
   {
-   "n": 31,
+   "n": 33,
    "id": "osm:node/4240757290",
    "doc": "osm_node_4240757290",
    "pid": "sn-zfh6gxuki",
@@ -843,7 +897,7 @@
    "state": "bekliyor"
   },
   {
-   "n": 32,
+   "n": 34,
    "id": "osm:node/9861152694",
    "doc": "osm_node_9861152694",
    "pid": "sn-yupjtu2r4",
@@ -870,34 +924,7 @@
    "state": "bekliyor"
   },
   {
-   "n": 33,
-   "id": "osm:way/392681213",
-   "doc": "osm_way_392681213",
-   "pid": "sn-54x1hprzr",
-   "name": "The Boatel",
-   "place": "Gent, Belgium",
-   "cat": "floating-hotels",
-   "catTr": "Yüzen",
-   "feature": "Converted inland cargo barge hotel moored in central Ghent with 5 rooms",
-   "featureTr": "Gent merkezinde demirli, dönüştürülmüş bir iç su yük mavnasında 5 odalı otel.",
-   "scope": "whole_property",
-   "confidence": 0.95,
-   "source": "https://www.theboatel.com/nl",
-   "sourceKind": "resmi site",
-   "commission": "hayır",
-   "expediaUrl": null,
-   "score": 86,
-   "parts": {
-    "scope": 30,
-    "confidence": 29,
-    "ownSite": 15,
-    "category": 12,
-    "expedia": 0
-   },
-   "state": "bekliyor"
-  },
-  {
-   "n": 34,
+   "n": 35,
    "id": "osm:node/10047221902",
    "doc": "osm_node_10047221902",
    "pid": "sn-61ldpabt4",
@@ -924,7 +951,7 @@
    "state": "bekliyor"
   },
   {
-   "n": 35,
+   "n": 36,
    "id": "osm:node/11013400528",
    "doc": "osm_node_11013400528",
    "pid": "sn-mfbawq8mb",
@@ -951,7 +978,7 @@
    "state": "bekliyor"
   },
   {
-   "n": 36,
+   "n": 37,
    "id": "osm:node/12292090306",
    "doc": "osm_node_12292090306",
    "pid": "sn-advyrq4yx",
@@ -978,7 +1005,7 @@
    "state": "bekliyor"
   },
   {
-   "n": 37,
+   "n": 38,
    "id": "osm:node/9659474034",
    "doc": "osm_node_9659474034",
    "pid": "sn-wih4tzsv0",
@@ -1005,7 +1032,7 @@
    "state": "bekliyor"
   },
   {
-   "n": 38,
+   "n": 39,
    "id": "osm:way/27750854",
    "doc": "osm_way_27750854",
    "pid": "sn-d9eblnd5c",
@@ -1032,7 +1059,7 @@
    "state": "bekliyor"
   },
   {
-   "n": 39,
+   "n": 40,
    "id": "osm:way/531963626",
    "doc": "osm_way_531963626",
    "pid": "sn-ozknwoua4",
@@ -1054,33 +1081,6 @@
     "confidence": 26,
     "ownSite": 15,
     "category": 11,
-    "expedia": 3
-   },
-   "state": "bekliyor"
-  },
-  {
-   "n": 40,
-   "id": "osm:node/11241209878",
-   "doc": "osm_node_11241209878",
-   "pid": "sn-16b15fg96",
-   "name": "Rhiw Wood Treehouses",
-   "place": "Powys, United Kingdom",
-   "cat": "treehouse-hotels",
-   "catTr": "Ağaç ev",
-   "feature": "Two luxury treehouses on elevated, balconied structures in Welsh woodland, each with a private hot tub",
-   "featureTr": "Galler ormanında, yükseltilmiş balkonlu yapılar üzerinde, her birinde özel sıcak küvet olan iki lüks ağaç ev.",
-   "scope": "whole_property",
-   "confidence": 0.9,
-   "source": "https://www.rhiwwoodtreehouses.co.uk/treehouses",
-   "sourceKind": "resmi site",
-   "commission": "kontrol edilmedi",
-   "expediaUrl": null,
-   "score": 84,
-   "parts": {
-    "scope": 30,
-    "confidence": 27,
-    "ownSite": 15,
-    "category": 9,
     "expedia": 3
    },
    "state": "bekliyor"

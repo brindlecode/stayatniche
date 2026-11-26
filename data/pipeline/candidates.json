@@ -2282,7 +2282,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-2r2vhibka"
+  "pid": "sn-2r2vhibka",
+  "siteSearchAt": "2026-11-26",
+  "siteSearch": "none"
  },
  "osm:node/10175853617": {
   "id": "osm:node/10175853617",
@@ -5084,7 +5086,7 @@
    "stars": "5"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "classified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": null,
@@ -9374,7 +9376,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-3u5whes5p"
+  "pid": "sn-3u5whes5p",
+  "siteSearchAt": "2026-11-26",
+  "siteSearch": "none"
  },
  "osm:node/11076869205": {
   "id": "osm:node/11076869205",
@@ -11552,7 +11556,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-nv67msg1l"
+  "pid": "sn-nv67msg1l",
+  "siteSearchAt": "2026-11-26",
+  "siteSearch": "none"
  },
  "osm:node/11263279737": {
   "id": "osm:node/11263279737",
@@ -15452,7 +15458,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-2bppelyxv"
+  "pid": "sn-2bppelyxv",
+  "siteSearchAt": "2026-11-26",
+  "siteSearch": "none"
  },
  "osm:node/11737353522": {
   "id": "osm:node/11737353522",
@@ -15857,7 +15865,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-tpc3dx78p"
+  "pid": "sn-tpc3dx78p",
+  "siteSearchAt": "2026-11-26",
+  "siteSearch": "none"
  },
  "osm:node/11782293512": {
   "id": "osm:node/11782293512",
@@ -16924,7 +16934,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-mb20v377o"
+  "pid": "sn-mb20v377o",
+  "siteSearchAt": "2026-11-26",
+  "siteSearch": "none"
  },
  "osm:node/11899312059": {
   "id": "osm:node/11899312059",
@@ -18979,7 +18991,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-bkwkgiqup"
+  "pid": "sn-bkwkgiqup",
+  "siteSearchAt": "2026-11-26",
+  "siteSearch": "none"
  },
  "osm:node/1206182898": {
   "id": "osm:node/1206182898",
@@ -19008,7 +19022,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-ly8n5rzbc"
+  "pid": "sn-ly8n5rzbc",
+  "siteSearchAt": "2026-11-26",
+  "siteSearch": "none"
  },
  "osm:node/12063652526": {
   "id": "osm:node/12063652526",
@@ -158685,7 +158701,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "classified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": "Kilifi County",
@@ -231662,7 +231678,7 @@
    "stars": "5"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-20",
   "region": "Maan",
@@ -231678,12 +231694,23 @@
   },
   "checkedAt": "2026-10-04",
   "reasons": [
-   "no category evidence on official website"
+   "haiku: The website is the generic Mövenpick chain site, whose fetched pages cover Tangier, Tunis and other hotels but never mention this Petra property or any castle, so the castle fit rests only on the name and the evidence is not about this property."
   ],
   "lastEvidence": "2026-11-26",
   "noEvidence": 1,
   "noEvidenceAt": "2026-10-27T06:27:05.109Z",
-  "pid": "sn-mw90wwh90"
+  "pid": "sn-mw90wwh90",
+  "haiku": {
+   "verdict": "rejected",
+   "category": "castle-hotels",
+   "scope": "name_only",
+   "confidence": 0.2,
+   "feature": "Name suggests a castle hotel in Petra; the evidence does not describe the building or its rooms",
+   "reason": "The website is the generic Mövenpick chain site, whose fetched pages cover Tangier, Tunis and other hotels but never mention this Petra property or any castle, so the castle fit rests only on the name and the evidence is not about this property.",
+   "file": "data/pipeline/decisions/2026-11-26/checked.json",
+   "decidedAt": "2026-11-26",
+   "evidenceAt": "2026-11-26T09:39:10.125Z"
+  }
  },
  "osm:way/304095051": {
   "id": "osm:way/304095051",
@@ -233593,7 +233620,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-i5a5e5biq"
+  "pid": "sn-i5a5e5biq",
+  "siteSearchAt": "2026-11-26",
+  "siteSearch": "none"
  },
  "osm:way/317735944": {
   "id": "osm:way/317735944",
@@ -233968,7 +233997,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-birzqn6ys"
+  "pid": "sn-birzqn6ys",
+  "siteSearchAt": "2026-11-26",
+  "siteSearch": "none"
  },
  "osm:way/319337535": {
   "id": "osm:way/319337535",
@@ -237208,7 +237239,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-xaa49tcyd"
+  "pid": "sn-xaa49tcyd",
+  "siteSearchAt": "2026-11-26",
+  "siteSearch": "none"
  },
  "osm:way/342715641": {
   "id": "osm:way/342715641",
@@ -254396,7 +254429,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-sybxghlsd"
+  "pid": "sn-sybxghlsd",
+  "siteSearchAt": "2026-11-26",
+  "siteSearch": "none"
  },
  "osm:way/48494455": {
   "id": "osm:way/48494455",
@@ -267310,7 +267345,7 @@
   ],
   "lat": 43.3246958,
   "lng": 11.0841934,
-  "website": null,
+  "website": "https://www.belmond.com/hotels/europe/italy/tuscany/belmond-castello-di-casole/location",
   "wikidata": null,
   "country": "Italy",
   "city": "Casole d'Elsa",
@@ -267329,7 +267364,10 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-a6isxubhi"
+  "pid": "sn-a6isxubhi",
+  "siteSearchAt": "2026-11-26",
+  "websiteSource": "search",
+  "siteSearch": "found"
  },
  "osm:way/655741876": {
   "id": "osm:way/655741876",
@@ -271258,7 +271296,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-skd1nnwk8"
+  "pid": "sn-skd1nnwk8",
+  "siteSearchAt": "2026-11-26",
+  "siteSearch": "none"
  },
  "osm:way/71902242": {
   "id": "osm:way/71902242",
@@ -271417,7 +271457,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-4z5gh9x1x"
+  "pid": "sn-4z5gh9x1x",
+  "siteSearchAt": "2026-11-26",
+  "siteSearch": "none"
  },
  "osm:way/722709539": {
   "id": "osm:way/722709539",
@@ -271494,7 +271536,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-2kwgq7dz9"
+  "pid": "sn-2kwgq7dz9",
+  "siteSearchAt": "2026-11-26",
+  "siteSearch": "none"
  },
  "osm:way/723396453": {
   "id": "osm:way/723396453",
@@ -273002,7 +273046,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-ywz83v8pm"
+  "pid": "sn-ywz83v8pm",
+  "siteSearchAt": "2026-11-26",
+  "siteSearch": "none"
  },
  "osm:way/74948245": {
   "id": "osm:way/74948245",
@@ -281223,7 +281269,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-029jja0pk"
+  "pid": "sn-029jja0pk",
+  "siteSearchAt": "2026-11-26",
+  "siteSearch": "none"
  },
  "osm:way/889030931": {
   "id": "osm:way/889030931",
@@ -282228,7 +282276,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-0tptb457e"
+  "pid": "sn-0tptb457e",
+  "siteSearchAt": "2026-11-26",
+  "siteSearch": "none"
  },
  "osm:way/914532132": {
   "id": "osm:way/914532132",
@@ -286985,7 +287035,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-rnzepsu9z"
+  "pid": "sn-rnzepsu9z",
+  "siteSearchAt": "2026-11-26",
+  "siteSearch": "none"
  },
  "osm:way/98117632": {
   "id": "osm:way/98117632",

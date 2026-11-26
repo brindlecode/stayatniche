@@ -1,10 +1,9 @@
 # Tekrar kayıtlar
 
-Son çalışma: 2026-11-26. Bu çalışmada bulunan: 1 (onay kuyruğundan: 0). Kurallar: `pipeline/identity.mjs`.
+Son çalışma: 2026-11-26. Bu çalışmada bulunan: 0 (onay kuyruğundan: 0). Kurallar: `pipeline/identity.mjs`.
 
 | Kayıt | Durumu | Aynısı | Neden |
 |---|---|---|---|
-| Stone House Cave Hotel (`wd:Q111400154`) | weak | Stone House Cave (`osm:node/474441601`, weak) | same source id |
 
 ## Olası tekrarlar (onay kuyruğunda, değiştirilmedi)
 
