@@ -1,0 +1,40 @@
+[
+ {
+  "id": "osm:way/654958903",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Hotel named Castello di Casole in a historic Tuscan building with a Michelangelo-designed facade; the evidence does not say the rooms are inside a castle",
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castello di Casole, A Belmond Hotel",
+  "property_type": "hotel",
+  "address": "Località Querceto, 53031 Casole d’Elsa, Siena, Italy",
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Elevated hilltop retreat in the Tuscan countryside",
+    "quote": "Castello di Casole sits high in the hills – an elevated retreat where Tuscany unfolds like a Renaissance masterpiece."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About 1 hour drive from Florence Airport",
+   "quote": "1 hour drive from Florence Airport (FLR)"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The name Castello di Casole and the mention of a Michelangelo-designed facade suggest a historic building, but no page says the rooms are inside a castle, so the castle fit rests on the name alone and confidence is capped; the train-carriage captions are shared carousel images repeated on every Belmond page, not evidence about this property.",
+  "evidenceAt": "2026-11-27T09:45:48.958Z",
+  "verdict": "rejected",
+  "dropped": []
+ }
+]

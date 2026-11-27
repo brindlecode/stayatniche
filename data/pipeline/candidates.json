@@ -5086,7 +5086,7 @@
    "stars": "5"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "classified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": null,
@@ -158701,7 +158701,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "classified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": "Kilifi County",
@@ -267353,7 +267353,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-11-20",
   "region": "Tuscany",
@@ -267362,13 +267362,24 @@
   "evidence": null,
   "checkedAt": "2026-10-10",
   "reasons": [
-   "no category evidence on official website"
+   "haiku: The name Castello di Casole and the mention of a Michelangelo-designed facade suggest a historic building, but no page says the rooms are inside a castle, so the castle fit rests on the name alone and confidence is capped; the train-carriage captions are shared carousel images repeated on every Belmond page, not evidence about this property."
   ],
   "pid": "sn-a6isxubhi",
   "siteSearchAt": "2026-11-26",
   "websiteSource": "search",
   "siteSearch": "found",
-  "lastEvidence": "2026-11-27"
+  "lastEvidence": "2026-11-27",
+  "haiku": {
+   "verdict": "rejected",
+   "category": "castle-hotels",
+   "scope": "name_only",
+   "confidence": 0.4,
+   "feature": "Hotel named Castello di Casole in a historic Tuscan building with a Michelangelo-designed facade; the evidence does not say the rooms are inside a castle",
+   "reason": "The name Castello di Casole and the mention of a Michelangelo-designed facade suggest a historic building, but no page says the rooms are inside a castle, so the castle fit rests on the name alone and confidence is capped; the train-carriage captions are shared carousel images repeated on every Belmond page, not evidence about this property.",
+   "file": "data/pipeline/decisions/2026-11-27/checked.json",
+   "decidedAt": "2026-11-27",
+   "evidenceAt": "2026-11-27T09:45:48.958Z"
+  }
  },
  "osm:way/655741876": {
   "id": "osm:way/655741876",
