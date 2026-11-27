@@ -1,0 +1,22 @@
+[
+  { "id": "osm:node/12301033046", "url": null, "title": null, "why": "Only a press article and listings name shakama.com; the site itself did not appear in results, so not accepted." },
+  { "id": "osm:node/12464992309", "url": null, "title": null, "why": "Results only show Kudu Kaya (a different name) in the Baviaans and an unrelated Kudu Bush Camp in Gauteng." },
+  { "id": "osm:node/12476503150", "url": null, "title": null, "why": "Only a Karoo Bush Camp in Van Wyksdorp (not George) appeared, with no official site." },
+  { "id": "osm:node/12477844422", "url": "https://www.sanparks.org/parks/addo/camps/spekboom/", "title": "www.sanparks.org", "why": "SANParks, the operator that runs the camp, has its own page for Spekboom camp in Addo, Eastern Cape." },
+  { "id": "osm:node/12612909067", "url": null, "title": null, "why": "Only booking-site listings for Charihandra appeared, no operator site." },
+  { "id": "osm:node/1286772481", "url": null, "title": null, "why": "No results for Uitvlucht Safaris at all." },
+  { "id": "osm:node/13041195870", "url": null, "title": null, "why": "No Old Bush Camp in Madibeng found; results were Madikwe lodges in a different area." },
+  { "id": "osm:node/13051681039", "url": null, "title": null, "why": "Only third-party listings for Eclectic Safari Lodge, no operator site." },
+  { "id": "osm:node/13230457417", "url": null, "title": null, "why": "Only third-party listings for Kandirri Game Lodge, no operator site." },
+  { "id": "osm:node/13290518102", "url": null, "title": null, "why": "Lionroars.com appears only in a third-party fact sheet and was not opened, so the domain does not clearly name the lodge." },
+  { "id": "osm:node/13403977201", "url": null, "title": null, "why": "Only third-party listings for Letsatsi Game Lodge, no operator site." },
+  { "id": "osm:node/13526538254", "url": null, "title": null, "why": "No Bella Vista Bush Camp in Bergrivier found; only unrelated farms and lodges." },
+  { "id": "osm:node/13593459625", "url": null, "title": null, "why": "Only third-party listings for Hooikraal Tented Camp, no operator site." },
+  { "id": "osm:node/13936401401", "url": null, "title": null, "why": "Only booking listings; thewildbunchsafarihouse.com is mentioned only on a review page and was not confirmed." },
+  { "id": "osm:node/1402833563", "url": null, "title": null, "why": "Only a Drakensberg Hikes directory listing for Keith Bush Camp, no operator site." },
+  { "id": "osm:node/1415981188", "url": null, "title": null, "why": "No Sombuyana Game Lodge in Tshwane found in results." },
+  { "id": "osm:node/1531253638", "url": null, "title": null, "why": "Only booking sites and Kruger concession location pages for Jock Safari Lodge, no clear operator site." },
+  { "id": "osm:node/1615728160", "url": null, "title": null, "why": "Only booking listings for Nkambeni, and the domain (nkambeni.com) was inferred from email addresses, not seen on a site." },
+  { "id": "osm:node/1615733296", "url": null, "title": null, "why": "Only safari.com and other booking agencies for Garonga Safari Camp, no operator site." },
+  { "id": "osm:node/1615733304", "url": null, "title": null, "why": "makalaligamereserve.org is a reserve-level address from a directory, not confirmed and not named for this lodge." }
+]

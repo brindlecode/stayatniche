@@ -1,7 +1,10 @@
 {
- "at": "2026-11-26T10:15:59.754Z",
+ "at": "2026-11-27T10:16:47.591Z",
  "ok": true,
- "found": 1,
+ "found": 0,
  "none": 19,
- "refused": 0
+ "refused": 1,
+ "refusedUrls": [
+  "Spekboom Tented Camp: https://www.sanparks.org/parks/addo/camps/spekboom/"
+ ]
 }
