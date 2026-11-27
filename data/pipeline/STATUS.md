@@ -2,17 +2,15 @@
 
 # Otel hattı durumu
 
-Güncelleme: 2026-11-26T09:39:56.965Z. Kuyrukta 8612 aday. Sitede yayında 202 otel, 37 taslak (239 dosya).
+Güncelleme: 2026-11-27T09:45:54.136Z. Kuyrukta 8612 aday. Sitede yayında 202 otel, 37 taslak (239 dosya).
 
 ## Dikkat
 
-- ⚠️ "discover" aşaması son çalışmasında hata verdi: {"at":"2026-11-26T09:39:06.442Z","ok":false,"categories":["treehouse-hotels","cave-hotels"],"added":1,"total":8612,"noAnswerFromOverpass":["treehouse-hotels","cave-hotels"]}
 - ⚠️ Onay kuyruğunda 510 otel bekliyor ve son karar 2026-11-17 tarihli. Hattın geri kalanı bu kararları bekliyor.
-- ⚠️ Kısa liste eski (2026-W47); classifier rutini bu hafta yenisini yapmadı.
 
-## Bu haftanın kısa listesi (2026-W47): 40 otel
+## Bu haftanın kısa listesi (2026-W48): 40 otel
 
-Onaylamak istediğiniz numaraları tek mesajda yazın, ör. "1 3 5-9". Listede olup seçmedikleriniz kuyrukta kalır. Onay sayfasının en üstündeki kutuya da yazabilirsiniz. Liste 2026-11-17 tarihinde onay bekleyen 469 aday arasından sıralandı; onaylanan: 0.
+Onaylamak istediğiniz numaraları tek mesajda yazın, ör. "1 3 5-9". Listede olup seçmedikleriniz kuyrukta kalır. Onay sayfasının en üstündeki kutuya da yazabilirsiniz. Liste 2026-11-26 tarihinde onay bekleyen 486 aday arasından sıralandı; onaylanan: 0.
 
 | # | Otel | Yer | Kategori | Niş özelliği | Kaynak | Komisyonlu bağlantı | Durum |
 |---|---|---|---|---|---|---|---|
@@ -43,34 +41,34 @@ Onaylamak istediğiniz numaraları tek mesajda yazın, ör. "1 3 5-9". Listede o
 | 25 | Floating Village Brombachsee | Pleinfeld, Germany | Yüzen | Brombachsee'de bir marinada dubalar üzerinde yüzen tatil villaları. | [resmi site](https://eco-lodges.de/) | evet ([Expedia](https://www.expedia.com/Pleinfeld-Hotels-Floating-Village-Brombachsee.h37253764.Hotel-Information)) | bekliyor |
 | 26 | Reserva Natural Margay | Misiones, Argentina | Orman lodge | Misiones'te bir doğa rezervinde, yağmur ormanının içinde dört lüks kulübe. | [resmi site](https://www.reservamargay.com.ar/el-lodge) | kontrol edilmedi | bekliyor |
 | 27 | Iglu-Dorf Zugspitze | Garmisch-Partenkirchen, Germany | Buz / iglo | Zugspitze'de 2.600 m yükseklikte bir iglo köyünde kardan igloolarda geceleme. | [resmi site](https://www.iglu-dorf.com/de/hotel) | hayır | bekliyor |
-| 28 | HT Houseboats | Mielno, Poland | Yüzen | Mielno yakınında Jamno Gölü'nde saunalı, sıcak küvetli lüks yüzen ev kabinleri ve su etkinlikleri paketi. | [resmi site](https://hthouseboats.com/domki) | kontrol edilmedi | bekliyor |
-| 29 | Paolyn Houseboats | Coron, Philippines | Yüzen | Coron Adası'nda özel lagünlerde demirli eko-lüks yüzen evler. | [resmi site](https://www.paolynhouseboatscoronisland.com/) | kontrol edilmedi | bekliyor |
-| 30 | The Ritz-Carlton, Masai Mara Safari Camp | Siana ward, Kenya | Safari | Masai Mara Milli Rezervi'nde ağaç tepeleri arasında lüks çadırlı safari kampı; süitlerde özel dalma havuzu. | [resmi site](https://www.ritzcarlton.com/en/hotels/nbomr-the-ritz-carlton-masai-mara-safari-camp/rooms/) | kontrol edilmedi | bekliyor |
-| 31 | Anabezi Luxury Tented Camp | Lusaka Province, Zambia | Safari | Lower Zambezi Milli Parkı'nda özel dalma havuzlu ve safari turlu lüks çadır kampı. | [resmi site](https://www.anabezi.com/) | kontrol edilmedi | bekliyor |
-| 32 | Nid'en'Ô | Lamothe-Fénelon, France | Ağaç ev | Her birinin özel spa'sı olan beş ağaç ev tarzı kulübe (cabanes dans les arbres). | [resmi site](https://nideno46.com/) | kontrol edilmedi | bekliyor |
-| 33 | The Boatel | Gent, Belgium | Yüzen | Gent merkezinde demirli, dönüştürülmüş bir iç su yük mavnasında 5 odalı otel. | [resmi site](https://www.theboatel.com/nl) | hayır | bekliyor |
-| 34 | Tilenga Safari Lodge | Nwoya, Uganda | Safari | Murchison Falls Milli Parkı içinde lüks çadır odalar ve kulübeler; safari turları ve Nil tekne gezileri. | [resmi site](https://tilengasafarilodge.com/) | kontrol edilmedi | bekliyor |
-| 35 | Clifftop Cabins | Kaikōura District, New Zealand | Uçurum | Kaikoura Yarımadası'nda okyanusa bakan uçurum kenarında üç kendi mutfaklı kulübe. | [resmi site](https://www.clifftopcabins.co.nz/) | hayır | bekliyor |
-| 36 | Buffalo Rock Safari Camp | Mbombela, South Africa | Safari | Kruger'de çitsiz bir arazide ahşap teraslar üzerinde çadır süitler; her gün safari turu. | [resmi site](https://www.buffalorock.co.za/) | kontrol edilmedi | bekliyor |
-| 37 | Lighthouse Keeper's Cottage 1 | South Tyneside, United Kingdom | Deniz feneri | Souter Deniz Feneri'nin kara tarafında, fener bekçisinin ailesi için yapılmış tatil evi. | [resmi site](https://www.nationaltrust.org.uk/holidays/northumberland-north-east/lighthouse-keepers-cottage-1) | kontrol edilmedi | bekliyor |
-| 38 | Ferien im Leuchtturm | Glowe, DE | Deniz feneri | Rügen'de dönüştürülmüş bir deniz fenerinin içinde, 4 kata yayılan tatil evi. | [resmi site](https://www.ferien-im-leuchtturm.de/) | kontrol edilmedi | bekliyor |
-| 39 | Red Caboose Motel & Restaurant | Ronks, United States | Tren / vagon | Motel odaları dönüştürülmüş demiryolu kabuz vagonları. | [resmi site](https://www.paradisestation.us/) | kontrol edilmedi | bekliyor |
-| 40 | Rhiw Wood Treehouses | Powys, United Kingdom | Ağaç ev | Galler ormanında, yükseltilmiş balkonlu yapılar üzerinde, her birinde özel sıcak küvet olan iki lüks ağaç ev. | [resmi site](https://www.rhiwwoodtreehouses.co.uk/treehouses) | kontrol edilmedi | bekliyor |
+| 28 | Train Lodge Hostel Amsterdam | Amsterdam, Netherlands | Tren / vagon | Amsterdam Sloterdijk istasyonunun yanında, özgün tren vagonlarında (eski Zürih–Roma gece treni) kurulmuş bir hostel; konuklar kompartımanlarda uyuyor. | [resmi site](https://trainlodge.com/en/home-page/) | kontrol edilmedi | bekliyor |
+| 29 | Good Hotel London | Greater London, United Kingdom | Yüzen | Otelin tamamı, Londra’daki Royal Victoria rıhtımında yüzen bir otel; Kuzey Denizi’nden çekilerek getirilen eski bir konaklama platformundan dönüştürülmüş. | [resmi site](https://goodhotel.co/london/faq) | kontrol edilmedi | bekliyor |
+| 30 | HT Houseboats | Mielno, Poland | Yüzen | Mielno yakınında Jamno Gölü'nde saunalı, sıcak küvetli lüks yüzen ev kabinleri ve su etkinlikleri paketi. | [resmi site](https://hthouseboats.com/domki) | kontrol edilmedi | bekliyor |
+| 31 | Paolyn Houseboats | Coron, Philippines | Yüzen | Coron Adası'nda özel lagünlerde demirli eko-lüks yüzen evler. | [resmi site](https://www.paolynhouseboatscoronisland.com/) | kontrol edilmedi | bekliyor |
+| 32 | The Ritz-Carlton, Masai Mara Safari Camp | Siana ward, Kenya | Safari | Masai Mara Milli Rezervi'nde ağaç tepeleri arasında lüks çadırlı safari kampı; süitlerde özel dalma havuzu. | [resmi site](https://www.ritzcarlton.com/en/hotels/nbomr-the-ritz-carlton-masai-mara-safari-camp/rooms/) | kontrol edilmedi | bekliyor |
+| 33 | Anabezi Luxury Tented Camp | Lusaka Province, Zambia | Safari | Lower Zambezi Milli Parkı'nda özel dalma havuzlu ve safari turlu lüks çadır kampı. | [resmi site](https://www.anabezi.com/) | kontrol edilmedi | bekliyor |
+| 34 | Nid'en'Ô | Lamothe-Fénelon, France | Ağaç ev | Her birinin özel spa'sı olan beş ağaç ev tarzı kulübe (cabanes dans les arbres). | [resmi site](https://nideno46.com/) | kontrol edilmedi | bekliyor |
+| 35 | Tilenga Safari Lodge | Nwoya, Uganda | Safari | Murchison Falls Milli Parkı içinde lüks çadır odalar ve kulübeler; safari turları ve Nil tekne gezileri. | [resmi site](https://tilengasafarilodge.com/) | kontrol edilmedi | bekliyor |
+| 36 | Clifftop Cabins | Kaikōura District, New Zealand | Uçurum | Kaikoura Yarımadası'nda okyanusa bakan uçurum kenarında üç kendi mutfaklı kulübe. | [resmi site](https://www.clifftopcabins.co.nz/) | hayır | bekliyor |
+| 37 | Buffalo Rock Safari Camp | Mbombela, South Africa | Safari | Kruger'de çitsiz bir arazide ahşap teraslar üzerinde çadır süitler; her gün safari turu. | [resmi site](https://www.buffalorock.co.za/) | kontrol edilmedi | bekliyor |
+| 38 | Lighthouse Keeper's Cottage 1 | South Tyneside, United Kingdom | Deniz feneri | Souter Deniz Feneri'nin kara tarafında, fener bekçisinin ailesi için yapılmış tatil evi. | [resmi site](https://www.nationaltrust.org.uk/holidays/northumberland-north-east/lighthouse-keepers-cottage-1) | kontrol edilmedi | bekliyor |
+| 39 | Ferien im Leuchtturm | Glowe, DE | Deniz feneri | Rügen'de dönüştürülmüş bir deniz fenerinin içinde, 4 kata yayılan tatil evi. | [resmi site](https://www.ferien-im-leuchtturm.de/) | kontrol edilmedi | bekliyor |
+| 40 | Red Caboose Motel & Restaurant | Ronks, United States | Tren / vagon | Motel odaları dönüştürülmüş demiryolu kabuz vagonları. | [resmi site](https://www.paradisestation.us/) | kontrol edilmedi | bekliyor |
 
 ## Adaylar nerede bekliyor
 
 | Aşama | Aday | Not |
 |---|---|---|
-| Resmi sitesi bilinmiyor (site bulucu sırasında) | 4232 | aranan: 203, bulunan: 15 |
+| Resmi sitesi bilinmiyor (site bulucu sırasında) | 4231 | aranan: 223, bulunan: 16 |
 | Sitesi var, kanıt indirilecek (gece işi) | 0 |  |
-| Site okunamadı, 30 günde bir yeniden denenir (3 denemede elenir) | 856 | neden kaydedilmemiş (eski kayıt): 334; no website known: 164; website fetch failed: bağlantı yok: 154; website fetch failed: 403: 72 |
+| Site okunamadı, 30 günde bir yeniden denenir (3 denemede elenir) | 855 | neden kaydedilmemiş (eski kayıt): 333; no website known: 164; website fetch failed: bağlantı yok: 154; website fetch failed: 403: 72 |
 | Kanıtı hazır, sınıflandırıcıyı bekliyor | 1 |  |
 | **Sizin kararınızı bekliyor (onay kuyruğu)** | 510 | araştırma istenen: 0; son kararınız: 2026-11-17 |
 | Onaylı, yazarı bekliyor | 0 |  |
 | Onaylı ama yazılamadı (kanıt yetersiz) | 5 | yeni kanıt bekleyen: 0 |
 | Taslak sayfası hazır, "yayınla" bekliyor | 6 |  |
 | Yayında (bu hattan) | 129 |  |
-| Elendi / tekrar | 2874 |  |
+| Elendi / tekrar | 2875 |  |
 
 ## Yazılamayanlar
 
@@ -84,9 +82,9 @@ Onaylamak istediğiniz numaraları tek mesajda yazın, ör. "1 3 5-9". Listede o
 
 ## Otomatik ön eleme ve tekrarlar
 
-- Ön eleme (son çalışma 2026-11-26): elenen 0, araştırmaya gönderilen 0, kuyrukta kalan 0. Elenenlerin tek cümlelik nedeni onay sayfasında "Reddettiklerim" sekmesinde; isterseniz oradan yine onaylayabilirsiniz.
+- Ön eleme (son çalışma 2026-11-27): elenen 0, araştırmaya gönderilen 0, kuyrukta kalan 0. Elenenlerin tek cümlelik nedeni onay sayfasında "Reddettiklerim" sekmesinde; isterseniz oradan yine onaylayabilirsiniz.
 - Ön elemeyle toplam elenen: 1; araştırması süren: 0.
-- Tekrar kayıtlar (son çalışma 2026-11-26): bu çalışmada 1 bulundu (onay kuyruğundan 0); onay kuyruğunda olası tekrar 15. Liste: [DUPLICATES.md](DUPLICATES.md).
+- Tekrar kayıtlar (son çalışma 2026-11-27): bu çalışmada 0 bulundu (onay kuyruğundan 0); onay kuyruğunda olası tekrar 15. Liste: [DUPLICATES.md](DUPLICATES.md).
 
 ## Aylık yeniden kontrol (yayındaki oteller)
 
@@ -107,20 +105,20 @@ Son kontrol: 2026-11-17. 202 otel: sitesi açılan 194, açılmayan 8, resmi sit
 
 | Aşama | Zaman (UTC) | Sonuç |
 |---|---|---|
-| deploy | 2026-11-26 09:39 | state: live, live: 006fccd, expected: 14fb337, ageMin: 12307 |
-| evidence | 2026-11-26 09:39 | asked: 17, packs: 1, nothingReadable: 16, errors: 0, requeuedLostPacks: 0, reasons: {"no website known":5,"website fetch failed: no connection":4,"website fetch failed: 403":6,"website fetch failed: 404":1} |
-| prescreen | 2026-11-26 09:39 | reject: 0, research: 0, keep: 0, rules: {}, ownerTouched: 2, alreadyScreened: 508 |
-| dedupe | 2026-11-26 09:39 | properties: 8544, groupsWithSeveralRecords: 395, newIds: 1, idsMerged: 0, largeGroupsSkipped: 5, duplicates: 1, inReviewQueue: 0, ofPage: 0, ofCandidate: 1, byReason: {"same source id":1}, alreadyHasPage: 0, possibleInReviewQueue: 15 |
-| verify | 2026-11-26 09:39 | checked: 1, stillNew: 0 |
-| discover | 2026-11-26 09:39 | ❌ categories: ["treehouse-hotels","cave-hotels"], added: 1, total: 8612, noAnswerFromOverpass: ["treehouse-hotels","cave-hotels"] |
-| apply | 2026-11-26 09:38 | applied: {"needs_review":73,"accepted":13,"rejected":6}, pruned: 3, unreadablePacks: 0 |
-| sites | 2026-11-25 10:16 | found: 1, none: 19, refused: 0 |
-| sites-todo | 2026-11-25 10:15 | withoutWebsite: 4065, taken: 20 |
-| review | 2026-11-25 10:15 | newDocs: 2, updates: 6, onPage: 739, exportGiven: true |
-| check | 2026-11-25 10:15 | decisions: 5, accepted: 1, needs_review: 1, no_evidence: 0, duplicate: 0, rejected: 3, withoutPack: 0 |
-| batches | 2026-11-25 10:14 | needDecision: 5, taken: 5, batches: 1, unreadablePacks: 0 |
-| reviews | 2026-11-25 10:14 | documents: 739, changed: {"rejected":2}, unreadable: 0 |
-| shortlist | 2026-11-22 10:16 | week: 2026-W47, items: 40, waiting: 469, approved: 0, withoutTurkish: 0, expediaConfirmed: 25 |
+| deploy | 2026-11-27 09:45 | state: live, live: 006fccd, expected: 14fb337, ageMin: 13753 |
+| evidence | 2026-11-27 09:45 | asked: 1, packs: 1, nothingReadable: 0, errors: 0, requeuedLostPacks: 0, reasons: {} |
+| prescreen | 2026-11-27 09:45 | reject: 0, research: 0, keep: 0, rules: {}, ownerTouched: 2, alreadyScreened: 508 |
+| dedupe | 2026-11-27 09:45 | properties: 8544, groupsWithSeveralRecords: 395, newIds: 0, idsMerged: 0, largeGroupsSkipped: 5, duplicates: 0, inReviewQueue: 0, ofPage: 0, ofCandidate: 0, byReason: {}, alreadyHasPage: 0, possibleInReviewQueue: 15 |
+| verify | 2026-11-27 09:45 | checked: 0, stillNew: 0 |
+| discover | 2026-11-27 09:45 | categories: ["underwater-rooms","castle-hotels"], added: 0, total: 8612, noAnswerFromOverpass: ["castle-hotels"] |
+| apply | 2026-11-27 09:43 | applied: {"needs_review":73,"accepted":13,"rejected":6}, pruned: 1, unreadablePacks: 0 |
+| shortlist | 2026-11-26 10:16 | week: 2026-W48, items: 40, waiting: 486, approved: 0, withoutTurkish: 0, expediaConfirmed: 25 |
+| sites | 2026-11-26 10:15 | found: 1, none: 19, refused: 0 |
+| sites-todo | 2026-11-26 10:15 | withoutWebsite: 4045, taken: 20 |
+| review | 2026-11-26 10:14 | newDocs: 0, updates: 6, onPage: 741, exportGiven: true |
+| check | 2026-11-26 10:14 | decisions: 1, accepted: 0, needs_review: 0, no_evidence: 0, duplicate: 0, rejected: 1, withoutPack: 0 |
+| batches | 2026-11-26 10:14 | needDecision: 1, taken: 1, batches: 1, unreadablePacks: 0 |
+| reviews | 2026-11-26 10:14 | documents: 741, changed: {"rejected":2}, unreadable: 0 |
 | recheck | 2026-11-17 20:08 | hotels: 202, siteOk: 194, siteDown: 8, noSite: 0, saysClosed: 0, parked: 0, expediaValid: 103, expediaInvalid: 0, expediaStale: 0, problems: 8 |
 | expedia | 2026-11-17 20:05 | confirmed: 26, not_found: 24, unconfirmed: 10, unknownId: 0, records: 60 |
 | expedia-todo | 2026-11-17 20:02 | todo: 60 |
@@ -134,7 +132,7 @@ Son kontrol: 2026-11-17. 202 otel: sitesi açılan 194, açılmayan 8, resmi sit
 | treehouse-hotels | 0 | 0 | 206 | 27 | 0 | 0 | 2 | 11 | 189 | 14 |
 | cave-hotels | 0 | 0 | 564 | 23 | 0 | 0 | 0 | 20 | 136 | 34 |
 | underwater-rooms | 0 | 0 | 6 | 0 | 0 | 0 | 0 | 0 | 4 | 3 |
-| castle-hotels | 0 | 3 | 744 | 214 | 0 | 4 | 3 | 49 | 625 | 30 |
+| castle-hotels | 0 | 3 | 743 | 214 | 0 | 4 | 3 | 49 | 626 | 30 |
 | floating-hotels | 0 | 0 | 68 | 18 | 0 | 0 | 0 | 4 | 16 | 12 |
 | bubble-hotels | 0 | 0 | 210 | 4 | 0 | 0 | 0 | 5 | 355 | 5 |
 | cliffside-hotels | 0 | 0 | 371 | 14 | 0 | 0 | 0 | 2 | 139 | 15 |

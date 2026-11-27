@@ -1,14 +1,13 @@
 {
- "at": "2026-11-26T09:39:06.442Z",
- "ok": false,
+ "at": "2026-11-27T09:45:47.086Z",
+ "ok": true,
  "categories": [
-  "treehouse-hotels",
-  "cave-hotels"
+  "underwater-rooms",
+  "castle-hotels"
  ],
- "added": 1,
+ "added": 0,
  "total": 8612,
  "noAnswerFromOverpass": [
-  "treehouse-hotels",
-  "cave-hotels"
+  "castle-hotels"
  ]
 }
