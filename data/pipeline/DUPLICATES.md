@@ -1,6 +1,6 @@
 # Tekrar kayıtlar
 
-Son çalışma: 2026-11-27. Bu çalışmada bulunan: 0 (onay kuyruğundan: 0). Kurallar: `pipeline/identity.mjs`.
+Son çalışma: 2026-11-28. Bu çalışmada bulunan: 0 (onay kuyruğundan: 0). Kurallar: `pipeline/identity.mjs`.
 
 | Kayıt | Durumu | Aynısı | Neden |
 |---|---|---|---|

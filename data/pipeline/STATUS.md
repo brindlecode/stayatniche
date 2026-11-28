@@ -2,7 +2,7 @@
 
 # Otel hattı durumu
 
-Güncelleme: 2026-11-27T09:45:54.136Z. Kuyrukta 8612 aday. Sitede yayında 202 otel, 37 taslak (239 dosya).
+Güncelleme: 2026-11-28T08:59:01.773Z. Kuyrukta 8612 aday. Sitede yayında 202 otel, 37 taslak (239 dosya).
 
 ## Dikkat
 
@@ -59,16 +59,16 @@ Onaylamak istediğiniz numaraları tek mesajda yazın, ör. "1 3 5-9". Listede o
 
 | Aşama | Aday | Not |
 |---|---|---|
-| Resmi sitesi bilinmiyor (site bulucu sırasında) | 4231 | aranan: 223, bulunan: 16 |
+| Resmi sitesi bilinmiyor (site bulucu sırasında) | 4231 | aranan: 243, bulunan: 16 |
 | Sitesi var, kanıt indirilecek (gece işi) | 0 |  |
 | Site okunamadı, 30 günde bir yeniden denenir (3 denemede elenir) | 855 | neden kaydedilmemiş (eski kayıt): 333; no website known: 164; website fetch failed: bağlantı yok: 154; website fetch failed: 403: 72 |
-| Kanıtı hazır, sınıflandırıcıyı bekliyor | 1 |  |
+| Kanıtı hazır, sınıflandırıcıyı bekliyor | 0 |  |
 | **Sizin kararınızı bekliyor (onay kuyruğu)** | 510 | araştırma istenen: 0; son kararınız: 2026-11-17 |
 | Onaylı, yazarı bekliyor | 0 |  |
 | Onaylı ama yazılamadı (kanıt yetersiz) | 5 | yeni kanıt bekleyen: 0 |
 | Taslak sayfası hazır, "yayınla" bekliyor | 6 |  |
 | Yayında (bu hattan) | 129 |  |
-| Elendi / tekrar | 2875 |  |
+| Elendi / tekrar | 2876 |  |
 
 ## Yazılamayanlar
 
@@ -82,9 +82,9 @@ Onaylamak istediğiniz numaraları tek mesajda yazın, ör. "1 3 5-9". Listede o
 
 ## Otomatik ön eleme ve tekrarlar
 
-- Ön eleme (son çalışma 2026-11-27): elenen 0, araştırmaya gönderilen 0, kuyrukta kalan 0. Elenenlerin tek cümlelik nedeni onay sayfasında "Reddettiklerim" sekmesinde; isterseniz oradan yine onaylayabilirsiniz.
+- Ön eleme (son çalışma 2026-11-28): elenen 0, araştırmaya gönderilen 0, kuyrukta kalan 0. Elenenlerin tek cümlelik nedeni onay sayfasında "Reddettiklerim" sekmesinde; isterseniz oradan yine onaylayabilirsiniz.
 - Ön elemeyle toplam elenen: 1; araştırması süren: 0.
-- Tekrar kayıtlar (son çalışma 2026-11-27): bu çalışmada 0 bulundu (onay kuyruğundan 0); onay kuyruğunda olası tekrar 15. Liste: [DUPLICATES.md](DUPLICATES.md).
+- Tekrar kayıtlar (son çalışma 2026-11-28): bu çalışmada 0 bulundu (onay kuyruğundan 0); onay kuyruğunda olası tekrar 15. Liste: [DUPLICATES.md](DUPLICATES.md).
 
 ## Aylık yeniden kontrol (yayındaki oteller)
 
@@ -105,20 +105,20 @@ Son kontrol: 2026-11-17. 202 otel: sitesi açılan 194, açılmayan 8, resmi sit
 
 | Aşama | Zaman (UTC) | Sonuç |
 |---|---|---|
-| deploy | 2026-11-27 09:45 | state: live, live: 006fccd, expected: 14fb337, ageMin: 13753 |
-| evidence | 2026-11-27 09:45 | asked: 1, packs: 1, nothingReadable: 0, errors: 0, requeuedLostPacks: 0, reasons: {} |
-| prescreen | 2026-11-27 09:45 | reject: 0, research: 0, keep: 0, rules: {}, ownerTouched: 2, alreadyScreened: 508 |
-| dedupe | 2026-11-27 09:45 | properties: 8544, groupsWithSeveralRecords: 395, newIds: 0, idsMerged: 0, largeGroupsSkipped: 5, duplicates: 0, inReviewQueue: 0, ofPage: 0, ofCandidate: 0, byReason: {}, alreadyHasPage: 0, possibleInReviewQueue: 15 |
-| verify | 2026-11-27 09:45 | checked: 0, stillNew: 0 |
-| discover | 2026-11-27 09:45 | categories: ["underwater-rooms","castle-hotels"], added: 0, total: 8612, noAnswerFromOverpass: ["castle-hotels"] |
-| apply | 2026-11-27 09:43 | applied: {"needs_review":73,"accepted":13,"rejected":6}, pruned: 1, unreadablePacks: 0 |
-| shortlist | 2026-11-26 10:16 | week: 2026-W48, items: 40, waiting: 486, approved: 0, withoutTurkish: 0, expediaConfirmed: 25 |
-| sites | 2026-11-26 10:15 | found: 1, none: 19, refused: 0 |
-| sites-todo | 2026-11-26 10:15 | withoutWebsite: 4045, taken: 20 |
-| review | 2026-11-26 10:14 | newDocs: 0, updates: 6, onPage: 741, exportGiven: true |
-| check | 2026-11-26 10:14 | decisions: 1, accepted: 0, needs_review: 0, no_evidence: 0, duplicate: 0, rejected: 1, withoutPack: 0 |
-| batches | 2026-11-26 10:14 | needDecision: 1, taken: 1, batches: 1, unreadablePacks: 0 |
-| reviews | 2026-11-26 10:14 | documents: 741, changed: {"rejected":2}, unreadable: 0 |
+| deploy | 2026-11-28 08:59 | state: live, live: 006fccd, expected: 14fb337, ageMin: 15146 |
+| evidence | 2026-11-28 08:59 | asked: 0, packs: 0, nothingReadable: 0, errors: 0, requeuedLostPacks: 0, reasons: {} |
+| prescreen | 2026-11-28 08:59 | reject: 0, research: 0, keep: 0, rules: {}, ownerTouched: 2, alreadyScreened: 508 |
+| dedupe | 2026-11-28 08:59 | properties: 8544, groupsWithSeveralRecords: 395, newIds: 0, idsMerged: 0, largeGroupsSkipped: 5, duplicates: 0, inReviewQueue: 0, ofPage: 0, ofCandidate: 0, byReason: {}, alreadyHasPage: 0, possibleInReviewQueue: 15 |
+| verify | 2026-11-28 08:58 | checked: 0, stillNew: 0 |
+| discover | 2026-11-28 08:58 | categories: ["floating-hotels","bubble-hotels"], added: 0, total: 8612, noAnswerFromOverpass: ["bubble-hotels"] |
+| apply | 2026-11-28 08:56 | applied: {"needs_review":73,"accepted":13,"rejected":6}, pruned: 1, unreadablePacks: 0 |
+| sites | 2026-11-27 10:16 | found: 0, none: 19, refused: 1, refusedUrls: ["Spekboom Tented Camp: https://www.sanparks.org/parks/addo/camps/spekboom/"] |
+| shortlist | 2026-11-27 10:15 | week: 2026-W48, items: 40, waiting: 486, approved: 0, withoutTurkish: 0, expediaConfirmed: 25 |
+| sites-todo | 2026-11-27 10:15 | withoutWebsite: 4025, taken: 20 |
+| review | 2026-11-27 10:15 | newDocs: 0, updates: 6, onPage: 741, exportGiven: true |
+| check | 2026-11-27 10:15 | decisions: 1, accepted: 0, needs_review: 0, no_evidence: 0, duplicate: 0, rejected: 1, withoutPack: 0 |
+| batches | 2026-11-27 10:14 | needDecision: 1, taken: 1, batches: 1, unreadablePacks: 0 |
+| reviews | 2026-11-27 10:14 | documents: 741, changed: {"rejected":2}, unreadable: 0 |
 | recheck | 2026-11-17 20:08 | hotels: 202, siteOk: 194, siteDown: 8, noSite: 0, saysClosed: 0, parked: 0, expediaValid: 103, expediaInvalid: 0, expediaStale: 0, problems: 8 |
 | expedia | 2026-11-17 20:05 | confirmed: 26, not_found: 24, unconfirmed: 10, unknownId: 0, records: 60 |
 | expedia-todo | 2026-11-17 20:02 | todo: 60 |
@@ -132,7 +132,7 @@ Son kontrol: 2026-11-17. 202 otel: sitesi açılan 194, açılmayan 8, resmi sit
 | treehouse-hotels | 0 | 0 | 206 | 27 | 0 | 0 | 2 | 11 | 189 | 14 |
 | cave-hotels | 0 | 0 | 564 | 23 | 0 | 0 | 0 | 20 | 136 | 34 |
 | underwater-rooms | 0 | 0 | 6 | 0 | 0 | 0 | 0 | 0 | 4 | 3 |
-| castle-hotels | 0 | 3 | 743 | 214 | 0 | 4 | 3 | 49 | 626 | 30 |
+| castle-hotels | 0 | 3 | 742 | 214 | 0 | 4 | 3 | 49 | 627 | 30 |
 | floating-hotels | 0 | 0 | 68 | 18 | 0 | 0 | 0 | 4 | 16 | 12 |
 | bubble-hotels | 0 | 0 | 210 | 4 | 0 | 0 | 0 | 5 | 355 | 5 |
 | cliffside-hotels | 0 | 0 | 371 | 14 | 0 | 0 | 0 | 2 | 139 | 15 |
