@@ -1,0 +1,49 @@
+{
+ "id": "osm:node/9142767672",
+ "name": "Train Lodge Hostel",
+ "queueStatus": "weak",
+ "queueCategory": "train-hotels",
+ "categories": [
+  "train-hotels"
+ ],
+ "lat": 52.388734,
+ "lng": 4.8414595,
+ "country": "Netherlands",
+ "city": "Amsterdam",
+ "region": "North Holland",
+ "osm": {
+  "tourism": "hostel",
+  "historic": "railway_car",
+  "man_made": "railway_car"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://trainlodge.com/",
+ "websiteSource": "map",
+ "fetchedAt": "2026-11-23T09:15:23.845Z",
+ "pages": [
+  {
+   "url": "https://trainlodge.com/en/home-page/",
+   "kind": "home",
+   "title": "Welcome to Train Lodge, the coolest hostel in Amsterdam",
+   "description": "Trainlodge hostel Amsterdam. Een bijzondere, relaxte en betaalbare verblijfplek voor het verkennen van Amsterdam",
+   "text": "-->\nWelcome to Train Lodge, the coolest hostel in Amsterdam\nfree wifi\nbed linen included\nreception 24/7\ncharging sockets\nshower available\nairconditioned\nSpend the night in a unique hostel in Amsterdam! Welcome to the Train Lodge\nJust a few years ago our train carriages were part of the Zürich – Rome night train. Because these sleepers are even more comfy when they are not on the move, we decided to create a hostel Amsterdam had never seen before. In creating this unique hostel on wheels we tried to keep all the original features and fittings to give you an authentic train experience.\nLooking for a hostel in Amsterdam? Our Train Lodge is an affordable, unique and strategic base to explore all Amsterdam has to offer. Anyone who has ever visited this city will agree: Amsterdam is the\nplace to be! Cosmopolitan and lively, yet friendly and laid-back, this city will steal your heart. You will find the same vibe in the Train Lodge, perfect for solo travelers and groups alike! Instead of hotelrooms you sleep in the original compartments, a real train experience!\nYou’ll find us right next to train station Amsterdam Sloterdijk, close to train, tram, bus and subway connections. Schiphol Airport is 15 minutes away. The city centre takes a couple of minutes by train. Alternatively, do as the Dutch do and rent a bicycle. Thanks to our strategic location, other cities and sights in Holland are just a train ride away: Utrecht, Den Haag, Rotterdam, Haarlem, Zaandam and Zandvoort are all easily accessible (in under 40 minutes).\nCompartment Types\nA perfect and affordable place to stay for solo travelers, couples, families and groups\nPrivate room 3/6 people\nBerth in a mixed compartment\nBerth in a \"ladies only\" compartment\nCarriage for 33 people\nPrivate compartment 3/6 people\nThe Train Lodge has a total of 132 beds, in 44 compartments. Each compartment has 3 stacked beds. You can easily climb to your bed using the specially designed ladder. If you prefer more privacy for you and your fellow traveler(s), you can also reserve the entire compartment. By combining 2 compartments we can create a bigger compartment with 6 beds perfect for families.\nMore information\nBook now!\nBerth in a mixed compartment\nThe Train Lodge offers a total of 132 berths, divided over 44 compartments. We started with half the capacity, 66 berths, divided over 22 compartments. A comfy bed with fresh linens awaits you in a shared or private compartment. You can reserve a berth in 2 combined compartments, each with 3 stacked beds. There is room for 6 people.\nMore information\nBook now!\nBerth in a ''Ladies only\" compartment\nNo need for snoring men? Why not book a berth in one of our 'ladies only compartments'? We have combined 2 compartments into one, with 3 stacked beds on each side. You'll share your compartment with a maximum of 5 other girls.\nMore information\nBook now!\nCarriage for 33 people\nWhere to stay if you want to explore Amsterdam with a whole bunch of friends, family, fellow students or colleagues? Why not just book your own carriage at the Train Lodge? A carriage has 11 compartments, each with 3 stacked beds. Climb the top bed with our specially designed ladder. Alternatively, we can combine 10 compartments into 5 with beds for 6 people each. Let's get this party started!\nMore information\nBook now!",
+   "captions": []
+  },
+  {
+   "url": "https://trainlodge.com/werken-bij-trainlodge/",
+   "kind": "sub",
+   "label": "Vacancies",
+   "title": "Werken bij Train Lodge - Train Lodge Hostel Amsterdam",
+   "text": "-->\nWerken bij Train Lodge - Train Lodge Hostel Amsterdam\nWerken bij Trainlodge\nHeb je zin in een nieuwe uitdaging? Wij zijn op zoek naar ervaren en enthousiaste medewerkers (m/v).\nAllround medewerkers receptie/bar\nNachtportier\nFulltime, parttime en oproepkrachten.\nIets voor jou? Neem contact op via info@trainlodge.com.",
+   "captions": []
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "reviewerQuestion": null,
+ "finalUrl": "https://trainlodge.com/en/home-page/",
+ "httpStatus": 200,
+ "htmlLang": "en-US"
+}

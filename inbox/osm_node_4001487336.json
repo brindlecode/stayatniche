@@ -1,0 +1,42 @@
+{
+ "id": "osm:node/4001487336",
+ "name": "Botel Dunajský pivovar",
+ "queueStatus": "weak",
+ "queueCategory": "floating-hotels",
+ "categories": [
+  "floating-hotels"
+ ],
+ "lat": 48.1371752,
+ "lng": 17.1128931,
+ "country": "Slovakia",
+ "city": "Bratislava",
+ "region": "Region of Bratislava",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": "Q111877947",
+ "wikidataDescription": "hotel in Bratislava, Slovakia",
+ "website": "http://www.dunajskypivovar.sk/botel",
+ "websiteSource": "map",
+ "fetchedAt": "2026-11-23T09:15:20.213Z",
+ "pages": [
+  {
+   "url": "http://www.dunajskypivovar.sk/botel",
+   "kind": "home",
+   "title": "Dunajský Pivovar",
+   "description": "",
+   "text": "Dunajský Pivovar\nBOTEL\nMiesto pre váš romantický pobyt\na jedinečné chvíle na vlnách Dunaja.\nVýnimočné útočisko vašich snov\nSpojiť príjemné s užitočným či zažiť romantické chvíle na palube botela bolo jednoznačnou a pragmatickou voľbou, ktorú si pýtalo samotné prostredie pivovaru na lodi. Týmto spôsobom za vás prevezmeme otázku týkajúcu sa nielen reštauračného charakteru, ale aj pohodlného a štýlového...\nExcellent view, high quality meals, good beer\n[Gergana E. 15.10.2018]\nUspávanka na vlnách\nMinimalistická koncepcia botela založená na ilustrovanej dunajskej ceste, ktorá kľučkuje popri históriou opradených lokalitách, si vás podmaní. Každá z 19 kajút rozmiestnených na troch podlažiach nesie meno po významnom mieste spätom s Dunajom.\nMôžete sa tak ocitnúť v medzinárodnych vodách s dvojposteľovými príbytkami, vlastnou kúpeľnou aj klimatizáciou. Či už sa ubytujete z reštauračnej časti, zboku lode, alebo zaparkujete pri kajute s člnom, vždy vás očarí romantická atmosféra a dizajnovo útulný interiér s puncom dreva.\nGaléria exteriér\nGaléria interiér\n+421 948 329 432\nreservation@dunajskypivovar.sk\nRezervácia ubytovania\nDunajský botel\nPre rezerváciu izby využite prosím nasledujúci rezervačný formulár.\nDenná ponuka\nMomentálne nie je zverejnená denná ponuka na aktuálny týždeň.\nChceme vám prinášať obsah, ktorý vás naozaj zaujíma, preto tento web využíva súbory cookie. Kliknite na tlačidlo ROZUMIEM, ak súhlasíte s používaním cookies a odovzdaním údajov o správaní na webe pre zobrazenie cielenej reklamy.\nRozumiem\nĎalšie informácie\nNesúhlasím",
+   "captions": [
+    "Dunajský Pivovar",
+    "Booking.com Award"
+   ]
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "reviewerQuestion": null,
+ "finalUrl": "http://www.dunajskypivovar.sk/botel",
+ "httpStatus": 200,
+ "htmlLang": "sk"
+}

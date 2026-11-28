@@ -1,0 +1,36 @@
+{
+ "id": "osm:way/93767394",
+ "name": "Hotel Schloss Lebenberg",
+ "queueStatus": "classified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 47.4531644,
+ "lng": 12.3814259,
+ "country": "AT",
+ "city": "Kitzbühel",
+ "region": null,
+ "osm": {
+  "tourism": "hotel",
+  "stars": "5"
+ },
+ "wikidata": "Q1715767",
+ "wikidataDescription": "building in Kitzbühel, Austria",
+ "website": null,
+ "websiteSource": "map",
+ "fetchedAt": "2026-11-15T07:58:41.789Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "de",
+  "title": "Schloss Lebenberg (Tirol)",
+  "url": "https://de.wikipedia.org/wiki/Schloss_Lebenberg_(Tirol)",
+  "extract": "Das Schloss Lebenberg liegt etwa einen Kilometer entfernt von Kitzbühel auf dem 80 Meter hohen Hügel Lebenberg.",
+  "text": "Das Schloss Lebenberg liegt etwa einen Kilometer entfernt von Kitzbühel auf dem 80 Meter hohen Hügel Lebenberg.\nGeschichte\nNachdem 1446 die Reichertsheimer von Wagrain die Burg erwarben, ließen sie auf halber Höhe des Hügels einen neuen Wohnturm errichten, der ab 1500 als Lebenberg bezeichnet wurde. Spätere Besitzer waren die Familie Vinsterwalder (1531–1545), Jänisch (bis 1551), Lang von Wellenburg (bis 1559) und Ungnad (bis 1601). 1693 erwarb Johann Philipp von Lamberg die benachbarten Herrschaften Lebenberg, Münichau und Kapsbrunn.\n1885/88 hatte Hugo Anton Emil Graf von Lamberg im Schlösschen eine der ersten Fremdenpensionen Kitzbühels eröffnet. Er verpachtete einige Appartements an die ersten englischen Wintersportgäste. 1930 bis 1961 waren die Grafen Schlick die neuen Eigentümer, die es zuerst als Erholungsheim führten und ab 1950 als Hotelbetrieb. Heute ist das Viersternehotel Teil der Harisch Hotels. Die Laufzeit des Pachtvertrags beträgt zunächst zehn Jahre. 2006 wurde das Schlosshotel Lebenberg Namensgeber für die katholische nichtschlagende Mittelschulverbindung Lebenberg Kitzbühel.\nWeblinks\nHomepage Hotel Schloss Lebenberg\nEinzelnachweise"
+ },
+ "notes": [
+  "no website known"
+ ],
+ "reviewerQuestion": "Ön eleme: Kanıt yetersiz: otelin kendi sitesi okunamadı, elde yalnızca Wikipedia/harita bilgisi var."
+}

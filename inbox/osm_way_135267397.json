@@ -1,0 +1,36 @@
+{
+ "id": "osm:way/135267397",
+ "name": "Kasteel Solhof",
+ "queueStatus": "classified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 51.1374842,
+ "lng": 4.3937653,
+ "country": "Belgium",
+ "city": "Aartselaar",
+ "region": "Antwerp",
+ "osm": {
+  "tourism": "hotel",
+  "historic": "castle"
+ },
+ "wikidata": "Q108729880",
+ "wikidataDescription": "château and hotel in Aartselaar, Belgium",
+ "website": null,
+ "websiteSource": "map",
+ "fetchedAt": "2026-11-15T07:58:31.192Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "nl",
+  "title": "Kasteel Solhof",
+  "url": "https://nl.wikipedia.org/wiki/Kasteel_Solhof",
+  "extract": "Kasteel Solhof is een kasteel in de Antwerpse plaats Aartselaar, gelegen aan de Baron van Ertbornstraat 118-122.",
+  "text": "Kasteel Solhof is een kasteel in de Antwerpse plaats Aartselaar, gelegen aan de Baron van Ertbornstraat 118-122.\nGebouw en park\nHet betreft een omgracht hoofdgebouw op rechthoekige plattegrond en gedekt door een schilddak. Links daarvan is een L-vormige conciërgewoning met stallingen. Rechts van het hoofdgebouw is een koetshuis.\nHet kasteel wordt omgeven door een muur die twee ronde hoektorens heeft welke van omstreeks 1550 stammen.\nHet omringende park is aangelegd in de Engelse landschapsstijl en omvat meerdere monumentale bomen. Het bomenbestand bestaat voor een groot deel uit: gewone en rode beuk en tamme kastanje. De dikste bomen zijn enkele rode beuken met stamomtrekken boven de 5 m (2021). Dendrologisch bijzondere bomen zijn een varenbeuk (Fagus sylvatica Aspleniifolia), een kroesbeuk (Fagus sylvatica Cristata) en een zwarte tupeloboom (Thuja plicata). Volgens de inventaris van BELTREES is de varenbeuk met zijn 449 cm (2021) hier de dikste boom van zijn soort. Het rechthoekige park is omringd door beukendreven die als geheel beschermd zijn als stads- of dorpsgezicht.\nGeschiedenis\nIn 1414 werd het Solhof vermeld als de zetel van de heerlijkheid Heysselaer of Yckele. Omstreeks 1550 was het in bezit van Josse Van de Wouwere en deze liet een huis van plaisantie oprichten, dat bekend stond als  't hoff van Ysselaer. Het goed kreeg vele achtereenvolgende eigenaars. In 1614 trad de familie Campomenoso aan die in 1748 een nieuw kasteel liet bouwen. Familie De Borrekens, die aantrad in 1896, liet eind 19e eeuw het huidige kasteel bouwen in neoclassicistische stijl. Dit kasteel werd in 1992 afgebroken, herbouwd en ingericht als hotel. Het bijbehorend domein werd openbaar park."
+ },
+ "notes": [
+  "no website known"
+ ],
+ "reviewerQuestion": "Ön eleme: Kanıt yetersiz: otelin kendi sitesi okunamadı, elde yalnızca Wikipedia/harita bilgisi var."
+}

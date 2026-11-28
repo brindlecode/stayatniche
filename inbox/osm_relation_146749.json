@@ -1,0 +1,38 @@
+{
+ "id": "osm:relation/146749",
+ "name": "Lumley Castle",
+ "queueStatus": "drafted",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 54.8535545,
+ "lng": -1.553183,
+ "country": "United Kingdom",
+ "city": "Chester-le-Street",
+ "region": "England",
+ "osm": {
+  "tourism": "hotel",
+  "historic": "castle"
+ },
+ "wikidata": "Q6703353",
+ "wikidataDescription": "Grade I listed quadrangular castle in County Durham, England, UK",
+ "website": "https://www.lumleycastle.com/",
+ "websiteSource": "map",
+ "fetchedAt": "2026-11-17T11:37:50.035Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "en",
+  "title": "Lumley Castle",
+  "url": "https://en.wikipedia.org/wiki/Lumley_Castle",
+  "extract": "Lumley Castle is a 14th-century quadrangular castle at Chester-le-Street in the North of England, near the city Durham, and a property of the Earl of Scarbrough. It is a Grade I listed building. It is currently a hotel and sits on the banks of the Lumley Park Burn, tributary of the River Wear. The sundial located at Lumley Castle is Grade II listed.",
+  "text": "Lumley Castle is a 14th-century quadrangular castle at Chester-le-Street in the North of England, near the city Durham, and a property of the Earl of Scarbrough. It is a Grade I listed building. It is currently a hotel and sits on the banks of the Lumley Park Burn, tributary of the River Wear. The sundial located at Lumley Castle is Grade II listed.\nHistory\nIt is named after its original creator, Sir Ralph Lumley, who converted his family manor house into a castle in 1389 after returning from wars in Scotland. However, after being implicated in a plot to overthrow Henry IV, he was imprisoned and ultimately executed, forfeiting his lands to the Earl of Somerset. In 1421 the ownership of the castle reverted to Sir Ralph Lumley's grandson, Thomas.\nDuring the time of John Lumley, 1st Baron Lumley, he altered the windows of the castle to let more light in, installed a new fireplace in the great hall along with a lavabo of black and white marble, adorned by a pelican, which is the crest of the Lumley coat of the arms.  On the accession of James VI and I as King of England in 1603, he journeyed from Edinburgh to London to take his new throne. On 13 April, en route from Newcastle upon Tyne to Durham, he stopped briefly at the castle as a guest of Lord Lumley. The King James Suite hotel room commemorates this connection with the king. However, the suite was previously the chapel; the king did not stay at Lumley overnight, instead travelling later that day and staying at Durham Castle.\nAlthough there are no documents to prove it, the Georgian alterations to the castle are attributed to Sir John Vanbrugh, particularly the library, which is now the Black Knight Restaurant.\nBy the nineteenth century, the castle had become the residence of the Bishop of Durham, after Bishop Van Mildert gave his residence of Durham Castle to the newly founded University of Durham. The castle thus became a hall of residence for University College, Durham. Castlemen, as the students of University College are known, spent their first year at Lumley Castle and subsequent years in the Castle at Durham. Lumley Castle was sold in the 1960s by University College to fund the building of the 'Moatside' residential halls in central Durham, in order to keep all students on the same site. The role of Lumley Castle in University College's history is still commemorated by students in the biannual 'Lumley Run'.\nToday\nIn 1976, management of the castle was handed over to No Ordinary Hotels, which had the castle turned into the 73-bedroomed hotel it is today, but it is still in the possession of the present Lord Scarbrough. It is also a picturesque backdrop for Durham County Cricket Club's Riverside Ground, which was first used in 1995, and often houses visiting cricket teams. In 2019 the castle teamed up with Escape Rooms Durham to offer a live Escape Game housed inside the castle's old beer cellar. It tells the story of Lily of Lumley and opened on St Valentine's Day 2019.\nHauntings\nThe castle is believed to be one of the most haunted places in County Durham, which includes a story about a woman named Lily Lumley who married Ralph Lumley. In reality, the said Ralph Lumley, 1st Baron Lumley (c. 1360 – January 1400) was married to Eleanor Neville. But in a tale called The Lily of Lumley he has a previous wife. She was supposedly thrown down a well in the castle grounds by two priests for rejecting the Catholic faith, who then told Baron Lumley she had left him to become a nun. Her ghost is said to float up from the well and haunt the castle. A contemporary romance of medieval times, the tale was based on a legend of a lady of Lumley who was murdered. This woman is not identified in family pedigrees. In 2000 and 2005, visiting cricketers staying at the castle claimed to have witnessed paranormal activity including Indian Captain Sourav Ganguly. Several members of the 2005 Australian tour party recounted the strong effect its reputation and setting had had on them.\nSee also\nBaron Lumley\nCastles in Great Britain and Ireland\nList of castles in England\nNotes\nReferences\nMargot Johnson. \"Lumley Castle\" in Durham: Historic and University City and surrounding area. Sixth Edition. Turnstone Ventures. 1992. ISBN 094610509X. Page 40.\n\"Fortress Britain\". The Guardian. 9 December 2000.\nPevsner: The Complete Broadcast Talks: Architecture and Art on Radio and Television, 1945-1977 (2014).\nExternal links\nOfficial website"
+ },
+ "notes": [
+  "website fetch failed: 403"
+ ],
+ "reviewerQuestion": null,
+ "finalUrl": "https://www.lumleycastle.com/",
+ "httpStatus": 403
+}

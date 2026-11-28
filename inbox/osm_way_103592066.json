@@ -1,0 +1,38 @@
+{
+ "id": "osm:way/103592066",
+ "name": "Kasteel van Ordingen",
+ "queueStatus": "classified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 50.8141169,
+ "lng": 5.2336149,
+ "country": "Belgium",
+ "city": "Sint-Truiden",
+ "region": "Limburg",
+ "osm": {
+  "tourism": "hotel",
+  "historic": "castle"
+ },
+ "wikidata": "Q2430575",
+ "wikidataDescription": null,
+ "website": "https://nl.kasteelvanordingen.be/",
+ "websiteSource": "map",
+ "fetchedAt": "2026-11-15T07:58:30.501Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "it",
+  "title": "Castello di Ordingen",
+  "url": "https://it.wikipedia.org/wiki/Castello_di_Ordingen",
+  "extract": "Il castello di Ordingen è uno storico edificio in stile neorinascimentale fiammingo della frazione belga di Ordingen, nella provincia Limburgo, realizzato nella forma attuale agli inizi del XIX secolo, ma le cui origini risalgono all'XI secolo.",
+  "text": "Il castello di Ordingen (Kasteel van Ordingen in lingua neerlandese) è uno storico edificio in stile neorinascimentale fiammingo della frazione belga di Ordingen (comune di Sint-Truiden), nella provincia Limburgo (regione delle Fiandre), realizzato nella forma attuale agli inizi del XIX secolo, ma le cui origini risalgono all'XI secolo.        \nStoria\nDella fortezza originaria, di proprietà della famiglia Ordingen, si hanno notizie sin dal 1040. Questa fortezza sull'acqua, che doveva servire a protezione del confine dell'antica contea di Loon, andò però completamente distrutta nel 1467 nel corso della battaglia di Brusthem.\nNel secolo successivo, il castello venne fatto ricostruire in stile rinascimentale da Willem III Van Horion. In seguito, nel 1611, il castello divenne di proprietà della Grande Commenda di Alden Biesen dell'Ordine Teutonico, che 21 anni sotto Hendrick van Hoensbroeck dopo fece ricostruire l'edificio.\nL'edificio venne quindi confiscato nel corso della rivoluzione francese e ceduto a Pierre de Libotton.\nIn seguito, nel 1790, la proprietà del castello venne acquisita dal mercante  Charles Lambert Balthazar de Pitteurs Higaerts, passando poi, alla morte di quest'ultimo (avvenuta nel 1863), nelle mani del figlio Léon, barone e sindaco di Ordingen. Quest'ultimo, nel 1873, fece rimodellare l'edificio in stile rinascimentale fiammingo e arricchì gli interni con un'ampia collezione d'arte; in seguito, nel 1902, il castello venne ereditato dal figlio di quest'ultimo, Antoine.\nNel 1940, nel corso della seconda guerra mondiale, dopo un raid aereo tedesco che danneggiò gravemente l'edificio, il castello venne occupato dalle truppe tedesche, subendo ulteriori danni al suo interno.\nNel 1964, due anni dopo la morte di Antoine de Pitteurs Higaerts, che non aveva eredi, il castello venne acquistato da Henri Beckers, un medico di Tongeren. Beckers fece apportare delle opere di ristrutturazione all'ingresso principale e alla torre occidentale.\nNel 1997, il castello venne ceduto da Henri Beckers alla ditta di Bermas, di proprietà di Richard Sleurs, che iniziò un'opera di restauro dell'edificio, trasformando il castello in un albergo di lusso.\nNote\nAltri progetti\n Wikimedia Commons contiene immagini o altri file su Castello di Ordingen"
+ },
+ "notes": [
+  "website fetch failed: 0 fetch failed"
+ ],
+ "reviewerQuestion": "Ön eleme: Kanıt yetersiz: otelin kendi sitesi okunamadı, elde yalnızca Wikipedia/harita bilgisi var.",
+ "finalUrl": "https://www.nl.kasteelvanordingen.be/",
+ "httpStatus": 0
+}
