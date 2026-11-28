@@ -5086,7 +5086,7 @@
    "stars": "5"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "classified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": null,
@@ -53171,7 +53171,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-i4v9u6ps6"
+  "pid": "sn-i4v9u6ps6",
+  "siteSearchAt": "2026-11-28",
+  "siteSearch": "none"
  },
  "osm:node/1647978358": {
   "id": "osm:node/1647978358",
@@ -57889,7 +57891,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-lxouhh49z"
+  "pid": "sn-lxouhh49z",
+  "siteSearchAt": "2026-11-28",
+  "siteSearch": "none"
  },
  "osm:node/1928638249": {
   "id": "osm:node/1928638249",
@@ -58426,7 +58430,7 @@
   ],
   "lat": -24.5957265,
   "lng": 31.6278286,
-  "website": null,
+  "website": "https://extraordinary.co.za/imbali-safari-lodge/",
   "wikidata": null,
   "country": "South Africa",
   "city": "Bushbuckridge",
@@ -58445,7 +58449,10 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-zds5m219h"
+  "pid": "sn-zds5m219h",
+  "siteSearchAt": "2026-11-28",
+  "websiteSource": "search",
+  "siteSearch": "found"
  },
  "osm:node/1993246207": {
   "id": "osm:node/1993246207",
@@ -58978,7 +58985,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-6vfnvjw4j"
+  "pid": "sn-6vfnvjw4j",
+  "siteSearchAt": "2026-11-28",
+  "siteSearch": "refused"
  },
  "osm:node/2041736517": {
   "id": "osm:node/2041736517",
@@ -59097,7 +59106,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-l70eypvwl"
+  "pid": "sn-l70eypvwl",
+  "siteSearchAt": "2026-11-28",
+  "siteSearch": "none"
  },
  "osm:node/2060097371": {
   "id": "osm:node/2060097371",
@@ -59289,7 +59300,7 @@
   ],
   "lat": -28.1160638,
   "lng": 32.5347276,
-  "website": null,
+  "website": "https://www.isimangaliso.com/rooms/details/bhangazi-bush-lodge-isimangaliso-wetland-park-kwazulu-natal",
   "wikidata": null,
   "country": "South Africa",
   "city": "The Big Five False Bay Local Municipality",
@@ -59308,7 +59319,10 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-q2ys4s0ar"
+  "pid": "sn-q2ys4s0ar",
+  "siteSearchAt": "2026-11-28",
+  "websiteSource": "search",
+  "siteSearch": "found"
  },
  "osm:node/2073753501": {
   "id": "osm:node/2073753501",
@@ -59442,7 +59456,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-jpr7xajw4"
+  "pid": "sn-jpr7xajw4",
+  "siteSearchAt": "2026-11-28",
+  "siteSearch": "none"
  },
  "osm:node/2084237509": {
   "id": "osm:node/2084237509",
@@ -59471,7 +59487,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-ei192ecii"
+  "pid": "sn-ei192ecii",
+  "siteSearchAt": "2026-11-28",
+  "siteSearch": "none"
  },
  "osm:node/2084267243": {
   "id": "osm:node/2084267243",
@@ -59500,7 +59518,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-f5pqsh7fh"
+  "pid": "sn-f5pqsh7fh",
+  "siteSearchAt": "2026-11-28",
+  "siteSearch": "none"
  },
  "osm:node/2085229192": {
   "id": "osm:node/2085229192",
@@ -59799,7 +59819,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-psono209w"
+  "pid": "sn-psono209w",
+  "siteSearchAt": "2026-11-28",
+  "siteSearch": "none"
  },
  "osm:node/2117471841": {
   "id": "osm:node/2117471841",
@@ -59828,7 +59850,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-28kfe13j2"
+  "pid": "sn-28kfe13j2",
+  "siteSearchAt": "2026-11-28",
+  "siteSearch": "none"
  },
  "osm:node/2117990334": {
   "id": "osm:node/2117990334",
@@ -60578,7 +60602,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-zy7wos6gl"
+  "pid": "sn-zy7wos6gl",
+  "siteSearchAt": "2026-11-28",
+  "siteSearch": "none"
  },
  "osm:node/2152043253": {
   "id": "osm:node/2152043253",
@@ -60665,7 +60691,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-5pouosu4a"
+  "pid": "sn-5pouosu4a",
+  "siteSearchAt": "2026-11-28",
+  "siteSearch": "none"
  },
  "osm:node/2165776382": {
   "id": "osm:node/2165776382",
@@ -60763,7 +60791,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-nnwoy2thi"
+  "pid": "sn-nnwoy2thi",
+  "siteSearchAt": "2026-11-28",
+  "siteSearch": "none"
  },
  "osm:node/2173165965": {
   "id": "osm:node/2173165965",
@@ -61007,7 +61037,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-b197n7hnz"
+  "pid": "sn-b197n7hnz",
+  "siteSearchAt": "2026-11-28",
+  "siteSearch": "none"
  },
  "osm:node/2195780662": {
   "id": "osm:node/2195780662",
@@ -62847,7 +62879,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-gbrykpw68"
+  "pid": "sn-gbrykpw68",
+  "siteSearchAt": "2026-11-28",
+  "siteSearch": "none"
  },
  "osm:node/2359926737": {
   "id": "osm:node/2359926737",
@@ -63614,7 +63648,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-fl6no5ave"
+  "pid": "sn-fl6no5ave",
+  "siteSearchAt": "2026-11-28",
+  "siteSearch": "none"
  },
  "osm:node/2406984634": {
   "id": "osm:node/2406984634",
@@ -66308,7 +66344,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-sezxr6dzo"
+  "pid": "sn-sezxr6dzo",
+  "siteSearchAt": "2026-11-28",
+  "siteSearch": "none"
  },
  "osm:node/2551919967": {
   "id": "osm:node/2551919967",
@@ -67611,7 +67649,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-8a0gzjmdu"
+  "pid": "sn-8a0gzjmdu",
+  "siteSearchAt": "2026-11-28",
+  "siteSearch": "none"
  },
  "osm:node/2659188054": {
   "id": "osm:node/2659188054",
@@ -68822,7 +68862,9 @@
   "reasons": [
    "no category evidence on official website"
   ],
-  "pid": "sn-q8ji6gsyz"
+  "pid": "sn-q8ji6gsyz",
+  "siteSearchAt": "2026-11-28",
+  "siteSearch": "none"
  },
  "osm:node/2755660426": {
   "id": "osm:node/2755660426",
@@ -158741,7 +158783,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "classified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-11-12",
   "region": "Kilifi County",

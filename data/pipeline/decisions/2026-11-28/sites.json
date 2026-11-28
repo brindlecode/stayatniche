@@ -1,0 +1,22 @@
+[
+  { "id": "osm:node/1632018240", "url": null, "title": null, "why": "No official site for Modikela Bush Camp appeared; only listing sites and unrelated Lephalale lodges." },
+  { "id": "osm:node/1928109428", "url": null, "title": null, "why": "Only a Portfolio Collection listing for a differently spelled 'Thangami' property, and it is not the operator's own site." },
+  { "id": "osm:node/1985571349", "url": "https://extraordinary.co.za/imbali-safari-lodge/", "title": "Imbali Safari Lodge", "why": "Operator group site with the property name in the path, given as the lodge's website on a SANParks listing; the page itself was not opened and the place is Kruger/Mpumalanga." },
+  { "id": "osm:node/2032443729", "url": "https://www.sanparks.org/parks/kruger/camps/satellite-camps/tamboti", "title": "www.sanparks.org", "why": "SANParks, the operator of the camp, has a Tamboti satellite camp page in Kruger National Park; the result title is only the domain name." },
+  { "id": "osm:node/2058615578", "url": null, "title": null, "why": "Results describe Umkumbe Bush Lodge in Sabi Sand, not a Jozini camp, and no own site was found." },
+  { "id": "osm:node/2073030359", "url": "https://www.isimangaliso.com/rooms/details/bhangazi-bush-lodge-isimangaliso-wetland-park-kwazulu-natal", "title": "bhangazi bush lodge isimangaliso wetland park kwazulu natal", "why": "iSimangaliso Wetland Park's own page for Bhangazi Bush Lodge on Lake Bhangazi; the name differs slightly from the input, so this is a moderate-confidence match." },
+  { "id": "osm:node/2083160487", "url": null, "title": null, "why": "Only a Portfolio Collection listing and booking sites for Nselweni; no own site found." },
+  { "id": "osm:node/2084237509", "url": null, "title": null, "why": "No 'Mbizo Bush Camp' found; the nearest White Elephant Bush Camp has a different name." },
+  { "id": "osm:node/2084267243", "url": null, "title": null, "why": "No 'Thalu Bush Camp' found in uPhongolo results." },
+  { "id": "osm:node/2117471820", "url": null, "title": null, "why": "Only Machaba Camp in Botswana came up, which is a different place." },
+  { "id": "osm:node/2117471841", "url": null, "title": null, "why": "Only LekkeSlaap and other third-party listings for Limpopo Forest Tented Camp; no official page in results." },
+  { "id": "osm:node/2150610606", "url": null, "title": null, "why": "Only a SANParks accommodation page for Camdeboo, whose title does not name Lakeview, plus third-party listings." },
+  { "id": "osm:node/2164947901", "url": null, "title": null, "why": "Only third-party listings for Zingela Safari & River Company; no own domain appeared." },
+  { "id": "osm:node/2172422218", "url": null, "title": null, "why": "Only Drakensberg hiking directory listings for ChiChi Bush Camp; no own site." },
+  { "id": "osm:node/2194479044", "url": null, "title": null, "why": "Only the SANParks Punda Maria Rest Camp page, which is not the named safari tents property; no separate site." },
+  { "id": "osm:node/2357506913", "url": null, "title": null, "why": "No Groenvlei Bush Camp found in George; results were unrelated properties." },
+  { "id": "osm:node/240498145", "url": null, "title": null, "why": "Only hotel booking and tour listings for Jock Safari Lodge; no own site in results." },
+  { "id": "osm:node/2550870034", "url": null, "title": null, "why": "A venue directory suggests goeverest.co.za but it was not confirmed from the site, so no accepted URL." },
+  { "id": "osm:node/2657856258", "url": null, "title": null, "why": "Only safari booking and travel listings for Jamala Madikwe Royal Safari Lodge; no own site found." },
+  { "id": "osm:node/275325027", "url": null, "title": null, "why": "A legacyhotels.co.za domain was suggested by a listing but no result page from it was seen, so not accepted." }
+]
